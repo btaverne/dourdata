@@ -1,0 +1,18 @@
+# Environnement virtuel Python
+.venv/
+venv/
+env/
+
+# Fichiers Python compilés
+__pycache__/
+*.pyc
+*.pyo
+
+# Données générées par les scripts (téléchargées depuis Hub'Eau)
+*.csv
+
+# Fichiers d'environnement / secrets éventuels
+.env
+
+# Fichiers macOS
+.DS_Store
