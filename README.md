@@ -64,14 +64,24 @@ de tout retélécharger.
 
 ```bash
 source .venv/bin/activate
-python carte_35.py
+
+# Un seul département
+python carte.py --departement 35      # -> carte_rendements_35.html
+
+# La France entière
+python carte.py --all                 # -> carte_rendements_national.html
 ```
 
-Ce script combine le CSV ci-dessus avec les contours géographiques des communes du 35 (fournis par
+Ce script combine le CSV correspondant avec les contours géographiques des communes (fournis par
 le projet open source [france-geojson](https://github.com/gregoiredavid/france-geojson), dérivé de
-données IGN/Etalab) pour produire une carte interactive autonome : `carte_rendements_35.html`,
-ouvrable directement dans un navigateur. Chaque commune est colorée du rouge (mauvais rendement) au
-vert (bon rendement), avec le détail au survol.
+données IGN/Etalab) pour produire une carte interactive autonome, ouvrable directement dans un
+navigateur. Chaque commune est colorée du rouge (mauvais rendement) au vert (bon rendement), avec
+le détail au survol.
+
+La carte nationale utilise la version simplifiée des contours (~19 Mo) pour rester fluide : elle
+couvre la métropole (Corse comprise) mais pas les DOM, dont les communes restent présentes dans le
+CSV sans apparaître sur la carte. Le fichier de contours est mis en cache dans `.cache/` après le
+premier téléchargement.
 
 Les fichiers CSV et HTML générés ne sont pas versionnés (voir `.gitignore`) : ce sont des données
 téléchargées ou dérivées, pas du code source.
