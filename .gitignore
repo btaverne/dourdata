@@ -8,16 +8,19 @@ __pycache__/
 *.pyc
 *.pyo
 
-# Données générées par les scripts (téléchargées depuis Hub'Eau)
+# Données générées par les scripts (CSV résultat)
 *.csv
 
-# Cartes générées (régénérables via carte_35.py)
+# Fichiers bruts SISPEA téléchargés/décompressés (volumineux, re-téléchargeables)
+data/
+
+# Cartes générées (régénérables via carte.py)
 *.html
 
 # Dossier temporaire de travail
 .tmp/
 
-# Cache brut des réponses API par département (régénérable via rendements.py --all)
+# Cache local (contours géographiques, anciennes réponses API)
 .cache/
 
 # Logs d'exécution
