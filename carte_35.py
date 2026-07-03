@@ -1,5 +1,5 @@
 """
-Projet fuites-eau — carte interactive du rendement des réseaux d'eau potable
+Projet DourData — carte interactive du rendement des réseaux d'eau potable
 en Ille-et-Vilaine (dept 35).
 
 Combine :

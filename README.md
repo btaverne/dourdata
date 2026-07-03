@@ -1,7 +1,9 @@
-# fuites-eau
+# DourData
 
 Projet militant open source qui rend visible, pour chaque commune française, l'eau perdue par les
 fuites de son réseau d'eau potable.
+
+> « Dour » signifie « eau » en breton — DourData, ce sont les données de l'eau, rendues lisibles.
 
 ## Objectif
 

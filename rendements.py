@@ -1,5 +1,5 @@
 """
-Projet fuites-eau — rendement du réseau et pertes en eau potable,
+Projet DourData — rendement du réseau et pertes en eau potable,
 pour un département français ou pour la France entière, via l'API Hub'Eau.
 
 Indicateurs récupérés (SISPEA) :
