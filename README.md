@@ -42,12 +42,21 @@ pip install requests pandas folium
 
 ```bash
 source .venv/bin/activate
-python rendements_35.py
+
+# Un seul département (rapide, pour tester)
+python rendements.py --departement 35      # -> rendements_35.csv
+
+# La France entière (tous les départements, y compris DOM et Corse)
+python rendements.py --all                 # -> rendements_national.csv
 ```
 
-Le script interroge l'API Hub'Eau pour le département choisi, puis génère un fichier CSV listant
-chaque commune avec son rendement de réseau et son indice linéaire de pertes, classé du pire au
-meilleur rendement.
+Le script interroge l'API Hub'Eau, département par département (l'API ne permet pas de filtrer
+sur plusieurs départements en un seul appel), et génère un CSV listant chaque commune avec son
+rendement de réseau et son indice linéaire de pertes, classé du pire au meilleur rendement.
+
+Le mode `--all` met en cache la réponse brute de chaque département dans `.cache/` : si le run est
+interrompu (coupure réseau, arrêt du script...), le relancer reprend là où il s'était arrêté au lieu
+de tout retélécharger.
 
 ### 2. Générer la carte
 

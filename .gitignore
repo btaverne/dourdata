@@ -17,6 +17,12 @@ __pycache__/
 # Dossier temporaire de travail
 .tmp/
 
+# Cache brut des réponses API par département (régénérable via rendements.py --all)
+.cache/
+
+# Logs d'exécution
+*.log
+
 # Fichiers d'environnement / secrets éventuels
 .env
 
