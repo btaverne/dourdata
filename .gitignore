@@ -11,6 +11,12 @@ __pycache__/
 # Données générées par les scripts (téléchargées depuis Hub'Eau)
 *.csv
 
+# Cartes générées (régénérables via carte_35.py)
+*.html
+
+# Dossier temporaire de travail
+.tmp/
+
 # Fichiers d'environnement / secrets éventuels
 .env
 

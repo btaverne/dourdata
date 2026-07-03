@@ -33,10 +33,12 @@ commune et par année.
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate
-pip install requests pandas
+pip install requests pandas folium
 ```
 
 ## Utilisation
+
+### 1. Récupérer les données
 
 ```bash
 source .venv/bin/activate
@@ -47,5 +49,18 @@ Le script interroge l'API Hub'Eau pour le département choisi, puis génère un 
 chaque commune avec son rendement de réseau et son indice linéaire de pertes, classé du pire au
 meilleur rendement.
 
-Les fichiers CSV générés ne sont pas versionnés (voir `.gitignore`) : ce sont des données
-téléchargées, pas du code source.
+### 2. Générer la carte
+
+```bash
+source .venv/bin/activate
+python carte_35.py
+```
+
+Ce script combine le CSV ci-dessus avec les contours géographiques des communes du 35 (fournis par
+le projet open source [france-geojson](https://github.com/gregoiredavid/france-geojson), dérivé de
+données IGN/Etalab) pour produire une carte interactive autonome : `carte_rendements_35.html`,
+ouvrable directement dans un navigateur. Chaque commune est colorée du rouge (mauvais rendement) au
+vert (bon rendement), avec le détail au survol.
+
+Les fichiers CSV et HTML générés ne sont pas versionnés (voir `.gitignore`) : ce sont des données
+téléchargées ou dérivées, pas du code source.
