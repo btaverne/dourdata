@@ -285,6 +285,10 @@ def parse_indicateurs(path: Path) -> dict:
     i_lin = _find_col(header, label="VP.077 (linéaire)", candidates=["VP.077", "vp_077"])
     i_ilc = _find_col(header, label="VP.224 (ILC)", candidates=["VP.224", "vp_224"])
     i_distrib = _find_col(header, label="Distribution", candidates=["Distribution", "distribution"])
+    # Avis qualité SISPEA du rendement (« Sans anomalie apparente », « Non
+    # vérifié », « Présomption d'anomalie », « Anomalie »).
+    i_avis = _find_col(header, label="Verif_P104.3",
+                       candidates=["Verif_P104.3", "verif_p104_3"])
     # Composantes du volume consommé autorisé.
     i_c1 = _find_col(header, label="VP.063", candidates=["VP.063", "vp_063"])
     i_c2 = _find_col(header, label="VP.201", candidates=["VP.201", "vp_201"])
@@ -316,6 +320,9 @@ def parse_indicateurs(path: Path) -> dict:
         else:
             vol_conso = c1 + sum(_to_float(row[i]) or 0.0 for i in (i_c2, i_c3, i_c4))
 
+        avis = row[i_avis]
+        avis = str(avis).strip() if avis is not None and str(avis).strip() else None
+
         result[sid] = {
             "rendement": _to_float(row[i_rend]),
             "pertes": pertes,
@@ -324,6 +331,7 @@ def parse_indicateurs(path: Path) -> dict:
             "vol_conso": vol_conso,
             "vol_pertes": vol_pertes,
             "distribution": _to_float(row[i_distrib]) == 1,
+            "avis_qualite": avis,
         }
     return result
 
@@ -476,12 +484,14 @@ def build_year_rows(annee: int, pop_insee: dict) -> list:
             "rendement_reseau_pct": rendement,
             "indice_lineaire_pertes_m3_km_j": ind["pertes"],
             "indice_lineaire_conso_m3_km_j": ilc,
+            "volume_pertes_service_m3_an": vol_pertes_svc,
             "volume_pertes_commune_m3_an": vol_pertes_commune,
             "piscines_olympiques_an": piscines,
             "jours_conso_commune": jours_conso,
             "litres_perdus_hab_jour": litres_hab_jour,
             "rendement_seuil_decret_pct": seuil_decret,
             "conformite_decret_fuites": conformite,
+            "avis_qualite_sispea": ind["avis_qualite"],
             "population_insee": pop_comm,
             "codes_service": sid,
             "noms_service": nom_service,

@@ -14,6 +14,9 @@ __pycache__/
 # Fichiers bruts SISPEA téléchargés/décompressés (volumineux, re-téléchargeables)
 data/
 
+# Exports CSV générés (régénérables via export.py, ~8 Mo)
+exports/
+
 # Cartes générées (régénérables via carte.py)
 *.html
 

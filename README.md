@@ -158,3 +158,23 @@ premier téléchargement.
 
 Les fichiers CSV et HTML générés ne sont pas versionnés (voir `.gitignore`) : ce sont des données
 téléchargées ou dérivées, pas du code source.
+
+### 3. Exporter des CSV réutilisables
+
+```bash
+source .venv/bin/activate
+
+python export.py --all              # national + un CSV par département -> exports/
+python export.py --departement 35   # un seul département
+python export.py --commune 35238    # une commune + les autres communes de son service
+```
+
+Ces exports sont pensés pour un usage associatif/militant : colonnes lisibles, arrondis, et
+surtout **traçabilité** (source SISPEA, Licence Ouverte 2.0, millésime, date de génération et lien
+méthodologie en tête de chaque fichier), pour qu'un fichier transmis à un tiers prouve son origine.
+
+- **Format** : séparateur `;`, décimale `,`, encodage UTF-8 avec BOM → ouverture directe dans
+  Excel FR par double-clic. Les lignes de métadonnées en tête sont préfixées par `#`.
+- Un `LISEZMOI.txt` récapitulant source, licence, format et colonnes accompagne les exports.
+- Les exports (~8 Mo) sont régénérables et non versionnés. Pour un site statique (GitHub Pages),
+  ils seraient publiés comme fichiers pré-générés téléchargeables (pas de backend nécessaire).
