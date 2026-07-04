@@ -146,8 +146,10 @@ python carte.py --all                 # -> carte_rendements_national.html
 Ce script combine le CSV correspondant avec les contours géographiques des communes (fournis par
 le projet open source [france-geojson](https://github.com/gregoiredavid/france-geojson), dérivé de
 données IGN/Etalab) pour produire une carte interactive autonome, ouvrable directement dans un
-navigateur. Chaque commune est colorée du rouge (mauvais rendement) au vert (bon rendement), avec
-le détail au survol.
+navigateur. Chaque commune est colorée selon son **statut de conformité au décret « fuites »**
+(vert = conforme, rouge = non conforme, gris = non calculable), avec le rendement, les équivalents
+et le détail au survol. Colorer par conformité plutôt que par rendement brut évite de pointer à
+tort les réseaux ruraux étendus (rendement modeste mais conforme au vu de leur faible ILC).
 
 La carte nationale utilise la version simplifiée des contours (~19 Mo) pour rester fluide : elle
 couvre la métropole (Corse comprise) mais pas les DOM, dont les communes restent présentes dans le

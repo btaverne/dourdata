@@ -27,7 +27,6 @@ import json
 import math
 from pathlib import Path
 
-import branca.colormap as cm
 import folium
 import pandas as pd
 import requests
@@ -72,7 +71,7 @@ def load_geojson() -> dict:
 
 def build_map(df: pd.DataFrame, geo: dict, caption_suffix: str) -> folium.Map:
     """Construit la carte : ne garde que les communes présentes dans le
-    CSV, colorées selon leur rendement de réseau."""
+    CSV, colorées selon leur statut de conformité au décret « fuites »."""
     data_by_code = df.set_index("code_commune_insee").to_dict(orient="index")
 
     features = []
@@ -109,18 +108,17 @@ def build_map(df: pd.DataFrame, geo: dict, caption_suffix: str) -> folium.Map:
 
     filtered_geo = {"type": "FeatureCollection", "features": features}
 
-    # Échelle de couleur : rouge (mauvais rendement) -> vert (bon rendement)
-    colormap = cm.LinearColormap(
-        colors=["#d73027", "#fee08b", "#1a9850"],
-        vmin=df["rendement_reseau_pct"].min(),
-        vmax=df["rendement_reseau_pct"].max(),
-        caption=f"Rendement du réseau d'eau potable (%) — {caption_suffix}",
-    )
+    # Coloration catégorielle par statut de conformité au décret « fuites ».
+    STATUT_COULEURS = {
+        "conforme": "#1a9850",       # vert
+        "non conforme": "#d73027",   # rouge
+        "non calculable": "#cccccc", # gris
+    }
 
     def style_function(feature):
-        valeur = feature["properties"]["rendement_reseau_pct"]
+        statut = feature["properties"].get("conformite", "non calculable")
         return {
-            "fillColor": colormap(valeur) if valeur is not None else "#cccccc",
+            "fillColor": STATUT_COULEURS.get(statut, "#cccccc"),
             "color": "black",
             "weight": 0.2,
             "fillOpacity": 0.75,
@@ -150,10 +148,42 @@ def build_map(df: pd.DataFrame, geo: dict, caption_suffix: str) -> folium.Map:
         ),
     ).add_to(carte)
 
-    colormap.add_to(carte)
+    _add_legende(carte, df, caption_suffix)
     _add_disclaimer(carte, df)
     carte.fit_bounds(geojson_layer.get_bounds())
     return carte
+
+
+def _add_legende(carte: folium.Map, df: pd.DataFrame, caption_suffix: str):
+    """Légende catégorielle (statut de conformité) avec le décompte des
+    communes, en haut à droite."""
+    counts = df["conformite_decret_fuites"].value_counts()
+    lignes = [
+        ("#1a9850", "Conforme", int(counts.get("conforme", 0))),
+        ("#d73027", "Non conforme", int(counts.get("non conforme", 0))),
+        ("#cccccc", "Non calculable", int(counts.get("non calculable", 0))),
+    ]
+    items = "".join(
+        f'<div style="margin:2px 0;"><span style="display:inline-block;width:14px;'
+        f'height:14px;background:{couleur};border:1px solid #666;vertical-align:middle;'
+        f'margin-right:6px;"></span>{libelle} '
+        f'<span style="color:#666;">({nb:,})</span></div>'.replace(",", " ")
+        for couleur, libelle, nb in lignes
+    )
+    html = f"""
+    <div style="position: fixed; top: 14px; right: 14px; z-index: 9999;
+                background: rgba(255,255,255,0.96); border: 1px solid #888;
+                border-radius: 6px; padding: 8px 12px; font-size: 12px;
+                font-family: system-ui, sans-serif; color: #333;
+                box-shadow: 0 1px 4px rgba(0,0,0,0.2);">
+      <div style="font-weight: 600; margin-bottom: 4px;">
+        Conformité au décret « fuites »<br>
+        <span style="font-weight: 400; color: #666;">{caption_suffix}</span>
+      </div>
+      {items}
+    </div>
+    """
+    carte.get_root().html.add_child(folium.Element(html))
 
 
 def _add_disclaimer(carte: folium.Map, df: pd.DataFrame):
