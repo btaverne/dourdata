@@ -252,11 +252,13 @@ def _iter_indicateurs_rows(path: Path):
 def parse_indicateurs(path: Path) -> dict:
     """Lit le tableur d'indicateurs (.xls ou .xlsx) et retourne, par service :
         {id_service: {
-            'rendement'  : P104.3 (%)                     ou None,
-            'pertes'     : P106.3 (indice, m3/km/j)       ou None,
-            'lineaire'   : longueur de réseau (km, VP.077) ou None,
-            'vol_conso'  : volume consommé autorisé (m3/an) ou None,
-            'vol_pertes' : volume de pertes annuel (m3/an) ou None,
+            'rendement'   : P104.3 (%)                      ou None,
+            'pertes'      : P106.3 (indice, m3/km/j)        ou None,
+            'lineaire'    : longueur de réseau (km, VP.077)  ou None,
+            'ilc'         : indice linéaire de conso (VP.224) ou None,
+            'vol_conso'   : volume consommé autorisé (m3/an)  ou None,
+            'vol_pertes'  : volume de pertes annuel (m3/an)   ou None,
+            'distribution': True si le service assure la distribution,
         }}
 
     Le volume de pertes est calculé par la « voie B » (la plus couvrante et
@@ -267,6 +269,12 @@ def parse_indicateurs(path: Path) -> dict:
     (comptabilisé domestique + non domestique + volume de service + consommé
     sans comptage). Ces deux reconstitutions ont été validées en recalculant
     P104.3 et P106.3 : elles coïncident à 99 % avec les valeurs publiées.
+
+    Le drapeau `distribution` sert à ne rattacher une commune qu'à son réseau
+    de DISTRIBUTION (celui du robinet), et non à un éventuel service de pure
+    production (transport d'eau en gros). Sans ce filtre, une grande ville
+    dotée d'un syndicat de production affiche le rendement quasi parfait de la
+    production au lieu des fuites réelles de son réseau de distribution.
     """
     it = _iter_indicateurs_rows(path)
     header = next(it)
@@ -275,6 +283,8 @@ def parse_indicateurs(path: Path) -> dict:
     i_rend = _find_col(header, label="P104.3", candidates=["P104.3", "p104_3"])
     i_pertes = _find_col(header, label="P106.3", candidates=["P106.3", "p106_3"])
     i_lin = _find_col(header, label="VP.077 (linéaire)", candidates=["VP.077", "vp_077"])
+    i_ilc = _find_col(header, label="VP.224 (ILC)", candidates=["VP.224", "vp_224"])
+    i_distrib = _find_col(header, label="Distribution", candidates=["Distribution", "distribution"])
     # Composantes du volume consommé autorisé.
     i_c1 = _find_col(header, label="VP.063", candidates=["VP.063", "vp_063"])
     i_c2 = _find_col(header, label="VP.201", candidates=["VP.201", "vp_201"])
@@ -310,8 +320,10 @@ def parse_indicateurs(path: Path) -> dict:
             "rendement": _to_float(row[i_rend]),
             "pertes": pertes,
             "lineaire": lineaire,
+            "ilc": _to_float(row[i_ilc]),
             "vol_conso": vol_conso,
             "vol_pertes": vol_pertes,
+            "distribution": _to_float(row[i_distrib]) == 1,
         }
     return result
 
@@ -329,7 +341,10 @@ def norm_insee(v) -> str:
 
 def parse_compo(xlsx_path: Path) -> list:
     """Lit le .xlsx de composition communale -> liste de tuples
-    (code_insee, nom_commune, id_service, nom_service)."""
+    (code_insee, nom_commune, id_service, nom_service, population_sispea).
+
+    La population SISPEA sert uniquement de repli quand la population INSEE est
+    absente pour une commune (code INSEE obsolète après fusion, par ex.)."""
     wb = openpyxl.load_workbook(xlsx_path, read_only=True)
     sh = wb[wb.sheetnames[0]]
     rows = sh.iter_rows(values_only=True)
@@ -347,6 +362,8 @@ def parse_compo(xlsx_path: Path) -> list:
                          candidates=[
                              "Nom de l'entité de gestion à laquelle la commune adhère",
                          ])
+    i_pop = _find_col(header, label="Population commune",
+                      candidates=["Population de la commune"])
 
     out = []
     for r in rows:
@@ -361,6 +378,7 @@ def parse_compo(xlsx_path: Path) -> list:
             (str(r[i_nom]).strip() if r[i_nom] is not None else ""),
             sid,
             (str(r[i_svcnom]).strip() if r[i_svcnom] is not None else ""),
+            _to_float(r[i_pop]),
         ))
     return out
 
@@ -370,35 +388,51 @@ def parse_compo(xlsx_path: Path) -> list:
 # --------------------------------------------------------------------------
 
 def build_year_rows(annee: int, pop_insee: dict) -> list:
-    """Pour un millésime : jointure commune -> service -> indicateurs, puis
-    calcul des équivalents parlants par commune.
+    """Pour un millésime : jointure commune -> service de DISTRIBUTION ->
+    indicateurs, puis calcul des équivalents parlants par commune.
 
-    Les volumes (pertes, consommation) sont mesurés au niveau du SERVICE. Pour
-    parler « par commune », on ventile le volume de pertes du service au
-    prorata de la population municipale INSEE de chaque commune desservie :
+    Deux correctifs de fiabilité :
+      1. On ne rattache une commune qu'à son ou ses services de DISTRIBUTION
+         (le réseau du robinet), pas à un service de pure production.
+      2. Population : INSEE municipale en priorité, population SISPEA en repli
+         si l'INSEE manque (code commune obsolète). Ce repli s'applique aussi
+         au calcul de la population du service, ce qui évite des ratios aberrants
+         quand une commune du service n'a pas de population INSEE.
+
+    Les volumes sont mesurés au niveau du SERVICE. Le volume de pertes est
+    ventilé vers la commune au prorata de sa population :
         volume de pertes commune = volume de pertes service x (pop_commune / pop_service).
-    Les ratios (jours de consommation, litres/habitant/jour) sont des
-    propriétés du réseau : ils sont identiques pour toutes les communes d'un
-    même service.
+    Les ratios (jours de consommation, litres/habitant/jour) sont des propriétés
+    du réseau : identiques pour toutes les communes d'un même service.
     """
     print(f"  millésime {annee} :")
     indic = parse_indicateurs(indicateurs_file(annee))
     compo = parse_compo(compo_xlsx(annee))
     print(f"    {len(indic)} services, {len(compo)} liens commune-service")
 
-    # Première passe : population totale desservie par chaque service (somme
-    # des populations INSEE de ses communes).
+    def pop_of(insee, pop_sispea):
+        """Population de la commune : INSEE en priorité, SISPEA en repli."""
+        p = pop_insee.get(insee)
+        if p is not None:
+            return p
+        return pop_sispea if pop_sispea and pop_sispea > 0 else None
+
+    # On ne garde que les liens vers un service de distribution effectivement
+    # présent dans le fichier d'indicateurs.
+    liens = [
+        (insee, nom, sid, svc, pop_of(insee, pop_sispea))
+        for insee, nom, sid, svc, pop_sispea in compo
+        if sid in indic and indic[sid]["distribution"]
+    ]
+
+    # Population totale desservie par chaque service de distribution.
     pop_service = {}
-    for insee, _nom, sid, _svc in compo:
-        pop_service[sid] = pop_service.get(sid, 0) + pop_insee.get(insee, 0)
+    for insee, _nom, sid, _svc, pop_comm in liens:
+        pop_service[sid] = pop_service.get(sid, 0) + (pop_comm or 0)
 
     rows = []
-    for insee, nom_commune, sid, nom_service in compo:
-        ind = indic.get(sid)
-        if ind is None:
-            continue
-
-        pop_comm = pop_insee.get(insee)
+    for insee, nom_commune, sid, nom_service, pop_comm in liens:
+        ind = indic[sid]
         pop_svc = pop_service.get(sid, 0)
         vol_pertes_svc = ind["vol_pertes"]
         vol_conso_svc = ind["vol_conso"]
@@ -421,16 +455,33 @@ def build_year_rows(annee: int, pop_insee: dict) -> list:
         if vol_pertes_svc is not None and pop_svc > 0:
             litres_hab_jour = vol_pertes_svc * 1000 / pop_svc / 365
 
+        # Conformité au décret « fuites » (2012-97). Rendement seuil :
+        #   seuil = min(85, 65 + 0,2 x ILC)
+        # Conforme si le rendement du réseau atteint ce seuil. On applique le
+        # terme fixe 65 pour tous (cas des zones de répartition des eaux non
+        # traité, faute de données : le seuil est donc prudent). L'ILC (VP.224)
+        # est bien l'ILC au sens du décret — ventes d'eau incluses au numérateur
+        # (vérifié sur les services exportateurs).
+        rendement, ilc = ind["rendement"], ind["ilc"]
+        seuil_decret = None
+        conformite = "non calculable"
+        if rendement is not None and ilc is not None:
+            seuil_decret = min(85.0, 65.0 + 0.2 * ilc)
+            conformite = "conforme" if rendement >= seuil_decret else "non conforme"
+
         rows.append({
             "code_commune_insee": insee,
             "nom_commune": nom_commune,
             "annee": annee,
-            "rendement_reseau_pct": ind["rendement"],
+            "rendement_reseau_pct": rendement,
             "indice_lineaire_pertes_m3_km_j": ind["pertes"],
+            "indice_lineaire_conso_m3_km_j": ilc,
             "volume_pertes_commune_m3_an": vol_pertes_commune,
             "piscines_olympiques_an": piscines,
             "jours_conso_commune": jours_conso,
             "litres_perdus_hab_jour": litres_hab_jour,
+            "rendement_seuil_decret_pct": seuil_decret,
+            "conformite_decret_fuites": conformite,
             "population_insee": pop_comm,
             "codes_service": sid,
             "noms_service": nom_service,

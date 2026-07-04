@@ -33,16 +33,17 @@ import pandas as pd
 import requests
 
 
-def _fmt(value, decimals=0, suffix=""):
+def _fmt(value, decimals=0, suffix="", prefix=""):
     """Formate une valeur numérique pour l'infobulle (espace comme séparateur
-    de milliers), ou « n.d. » si la donnée est absente."""
+    de milliers), ou « n.d. » si la donnée est absente. Le préfixe sert à
+    marquer les estimations (« ~ »)."""
     if value is None or (isinstance(value, float) and math.isnan(value)):
         return "n.d."
     if decimals == 0:
         s = f"{round(value):,}".replace(",", " ")
     else:
         s = f"{value:,.{decimals}f}".replace(",", " ").replace(".", ",")
-    return f"{s}{suffix}"
+    return f"{prefix}{s}{suffix}"
 
 GEOJSON_URL = (
     "https://raw.githubusercontent.com/gregoiredavid/france-geojson/master/"
@@ -86,11 +87,17 @@ def build_map(df: pd.DataFrame, geo: dict, caption_suffix: str) -> folium.Map:
             "rendement_reseau_pct": row["rendement_reseau_pct"],
             "indice_lineaire_pertes_m3_km_j": row["indice_lineaire_pertes_m3_km_j"],
             "annee": row["annee"],
-            # Équivalents parlants, pré-formatés pour l'affichage.
-            "volume_pertes": _fmt(row.get("volume_pertes_commune_m3_an"), suffix=" m³/an"),
-            "piscines": _fmt(row.get("piscines_olympiques_an"), decimals=1, suffix=" piscines/an"),
-            "jours_conso": _fmt(row.get("jours_conso_commune"), suffix=" jours"),
+            # Chiffres SOLIDES (ratios propres au réseau) :
             "litres_hab_jour": _fmt(row.get("litres_perdus_hab_jour"), suffix=" L/hab/j"),
+            "jours_conso": _fmt(row.get("jours_conso_commune"),
+                                suffix=" jours de la conso des habitants"),
+            # Chiffres ESTIMÉS (volume ventilé au prorata population), préfixe « ~ » :
+            "volume_pertes": _fmt(row.get("volume_pertes_commune_m3_an"),
+                                  prefix="~ ", suffix=" m³/an"),
+            "piscines": _fmt(row.get("piscines_olympiques_an"),
+                             decimals=1, prefix="~ ", suffix=" piscines olympiques/an"),
+            # Verdict de conformité au décret fuites (indicatif).
+            "conformite": str(row.get("conformite_decret_fuites", "non calculable")),
         }
         features.append(feature)
 
@@ -127,17 +134,63 @@ def build_map(df: pd.DataFrame, geo: dict, caption_suffix: str) -> folium.Map:
         filtered_geo,
         style_function=style_function,
         tooltip=folium.GeoJsonTooltip(
-            fields=["nom", "annee", "rendement_reseau_pct",
-                    "volume_pertes", "piscines", "jours_conso", "litres_hab_jour"],
-            aliases=["Commune :", "Année :", "Rendement réseau (%) :",
-                     "Eau perdue :", "Soit :", "Conso de la commune :", "Par habitant :"],
+            fields=["nom", "annee", "rendement_reseau_pct", "conformite",
+                    "litres_hab_jour", "jours_conso", "volume_pertes", "piscines"],
+            aliases=[
+                "Commune :",
+                "Année des données :",
+                "Rendement du réseau (%) :",
+                "Conformité décret fuites :",
+                "Fuites par habitant :",
+                "Eau perdue sur l'année, soit :",
+                "Volume perdu estimé :",
+                "Équivaut à environ :",
+            ],
             localize=True,
         ),
     ).add_to(carte)
 
     colormap.add_to(carte)
+    _add_disclaimer(carte, df)
     carte.fit_bounds(geojson_layer.get_bounds())
     return carte
+
+
+def _add_disclaimer(carte: folium.Map, df: pd.DataFrame):
+    """Ajoute un encadré permanent et repliable rappelant les limites de
+    lecture (coin bas-gauche de la carte)."""
+    an_min, an_max = int(df["annee"].min()), int(df["annee"].max())
+    millesime = f"{an_max}" if an_min == an_max else f"{an_min}–{an_max}"
+    html = f"""
+    <div style="position: fixed; bottom: 14px; left: 14px; z-index: 9999;
+                max-width: 340px; font-family: system-ui, sans-serif;">
+      <details style="background: rgba(255,255,255,0.96); border: 1px solid #888;
+                      border-radius: 6px; padding: 7px 11px; font-size: 11px;
+                      color: #333; box-shadow: 0 1px 4px rgba(0,0,0,0.2);">
+        <summary style="cursor: pointer; font-weight: 600;">
+          ⚠️ Comment lire ces chiffres — limites (cliquer)
+        </summary>
+        <ul style="margin: 7px 0 0 0; padding-left: 16px; line-height: 1.4;">
+          <li>Source : données SISPEA (millésime {millesime}, l'année la plus
+              récente disponible étant retenue pour chaque commune).</li>
+          <li><b>Granularité service, pas commune</b> : les indicateurs sont
+              mesurés à l'échelle du service d'eau. Toutes les communes d'un
+              même service partagent les mêmes ratios (fuites/habitant, jours
+              de conso, conformité).</li>
+          <li><b>Volume perdu et piscines : estimations</b> (préfixe « ~ »). Les
+              pertes du service sont réparties entre ses communes au prorata de
+              la population, ce qui sous-estime les communes rurales étendues et
+              surestime les villes-centres denses.</li>
+          <li>Les « fuites par habitant » et « jours de conso » sont des ratios
+              propres au réseau : ce sont les chiffres les plus solides.</li>
+          <li><b>Conformité au décret fuites : verdict indicatif.</b> Le seuil
+              est recalculé sans le cas des zones de répartition des eaux (ZRE),
+              non reconstituable ici — le verdict est donc prudent.</li>
+        </ul>
+      </details>
+    </div>
+    """
+    carte.get_root().html.add_child(folium.Element(html))
 
 
 def run(csv_path: str, out_path: str, caption_suffix: str):

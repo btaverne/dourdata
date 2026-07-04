@@ -63,8 +63,43 @@ obtenu (~1 milliard de m³/an) correspond aux estimations officielles.
 proportionnelles au nombre d'habitants (approximation : une commune étendue et peu peuplée a
 proportionnellement plus de réseau). Les deux ratios sont des propriétés du réseau mutualisé :
 toutes les communes d'un même service affichent la même valeur. La population vient des
-**populations de référence INSEE** (millésime le plus récent), couvrant la métropole et la Corse
-(pas les DOM, absents de la carte).
+**populations de référence INSEE** (millésime le plus récent), avec repli sur la population SISPEA
+si l'INSEE manque ; couverture métropole + Corse (pas les DOM, absents de la carte).
+
+> **À lire avec le rendement.** Le « litres perdus/habitant/jour » peut être élevé sans que le
+> réseau soit mal entretenu : un réseau rural très étendu (des centaines de mètres de canalisation
+> par habitant) affiche mécaniquement beaucoup de pertes par tête, même avec un bon rendement. La
+> conformité au décret (ci-dessous), qui intègre la densité du réseau via l'ILC, est le meilleur
+> juge d'un gaspillage réellement anormal.
+
+## Rattachement au réseau de distribution
+
+Une commune peut relever de plusieurs services (par ex. un service de **production** régional +
+son service de **distribution** local). Les fuites du robinet se jouent sur la **distribution** —
+et c'est aussi ce que vise le décret. Le pipeline ne retient donc que les services de distribution
+(`Distribution = 1`), sans quoi une grande ville dotée d'un syndicat de production afficherait le
+rendement quasi parfait de la production au lieu des pertes réelles de son réseau.
+
+## Conformité au décret « fuites » (2012-97)
+
+Le [décret n°2012-97](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000025208197) impose un plan
+d'action quand le rendement passe sous un **rendement-seuil** :
+
+```
+rendement_seuil = min( 85 ,  65 + 0,2 × ILC )
+→ conforme si rendement du réseau (P104.3) ≥ rendement_seuil
+```
+
+L'**ILC** (indice linéaire de consommation) est la variable SISPEA `VP.224`, dont on a vérifié
+qu'elle correspond bien à la définition du décret — ventes d'eau à d'autres services **incluses**
+au numérateur (contrôlé sur les services exportateurs). Le seuil est plafonné à 85 % et abaissé
+pour les réseaux ruraux à faible ILC, conformément à l'intention du texte.
+
+**Limite assumée :** le terme fixe 65 est appliqué à tous. Le décret prévoit 70 pour les services
+prélevant plus de 2 M m³/an en zone de répartition des eaux (ZRE), critère non reconstituable ici.
+Le seuil est donc **légèrement sous-estimé** pour ces rares cas, ce qui rend le verdict **prudent**
+(jamais « non conforme » à tort pour cause de ZRE). Le statut par commune est
+`conforme` / `non conforme` / `non calculable`, et affiché comme **indicatif**.
 
 ## Installation
 
