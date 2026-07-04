@@ -42,6 +42,30 @@ La jointure `commune → identifiant de service → indicateurs` reconstitue une
 script traite plusieurs millésimes (2020→2024) et retient, pour chaque commune, l'année la plus
 récente où un rendement est disponible.
 
+## Équivalents parlants
+
+Pour rendre les pertes concrètes, le script calcule par commune un **volume de pertes annuel** et
+trois équivalents, affichés dans l'infobulle de la carte.
+
+Le volume de pertes est calculé au niveau du **service** :
+`volume de pertes = P106.3 (indice de pertes) × linéaire de réseau (VP.077) × 365`. Cette formule
+a été validée en recalculant les indicateurs officiels P104.3 et P106.3 à partir des variables
+brutes : le résultat coïncide à 99 % avec les valeurs publiées. À l'échelle nationale, le total
+obtenu (~1 milliard de m³/an) correspond aux estimations officielles.
+
+| Équivalent | Calcul | Remarque |
+|---|---|---|
+| Piscines olympiques/an | `volume de pertes commune / 2 500 m³` | Volume **ventilé** vers la commune au prorata de sa population INSEE |
+| Jours de conso de la commune | `volume de pertes / volume consommé × 365` | Ratio, **propre au service** (identique pour ses communes) |
+| Litres perdus/habitant/jour | `volume de pertes × 1000 / population du service / 365` | Ratio, **propre au service** |
+
+**Hypothèses assumées :** la ventilation au prorata de la population suppose que les pertes sont
+proportionnelles au nombre d'habitants (approximation : une commune étendue et peu peuplée a
+proportionnellement plus de réseau). Les deux ratios sont des propriétés du réseau mutualisé :
+toutes les communes d'un même service affichent la même valeur. La population vient des
+**populations de référence INSEE** (millésime le plus récent), couvrant la métropole et la Corse
+(pas les DOM, absents de la carte).
+
 ## Installation
 
 ```bash

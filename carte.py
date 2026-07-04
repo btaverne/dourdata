@@ -24,12 +24,25 @@ Usage :
 
 import argparse
 import json
+import math
 from pathlib import Path
 
 import branca.colormap as cm
 import folium
 import pandas as pd
 import requests
+
+
+def _fmt(value, decimals=0, suffix=""):
+    """Formate une valeur numérique pour l'infobulle (espace comme séparateur
+    de milliers), ou « n.d. » si la donnée est absente."""
+    if value is None or (isinstance(value, float) and math.isnan(value)):
+        return "n.d."
+    if decimals == 0:
+        s = f"{round(value):,}".replace(",", " ")
+    else:
+        s = f"{value:,.{decimals}f}".replace(",", " ").replace(".", ",")
+    return f"{s}{suffix}"
 
 GEOJSON_URL = (
     "https://raw.githubusercontent.com/gregoiredavid/france-geojson/master/"
@@ -73,6 +86,11 @@ def build_map(df: pd.DataFrame, geo: dict, caption_suffix: str) -> folium.Map:
             "rendement_reseau_pct": row["rendement_reseau_pct"],
             "indice_lineaire_pertes_m3_km_j": row["indice_lineaire_pertes_m3_km_j"],
             "annee": row["annee"],
+            # Équivalents parlants, pré-formatés pour l'affichage.
+            "volume_pertes": _fmt(row.get("volume_pertes_commune_m3_an"), suffix=" m³/an"),
+            "piscines": _fmt(row.get("piscines_olympiques_an"), decimals=1, suffix=" piscines/an"),
+            "jours_conso": _fmt(row.get("jours_conso_commune"), suffix=" jours"),
+            "litres_hab_jour": _fmt(row.get("litres_perdus_hab_jour"), suffix=" L/hab/j"),
         }
         features.append(feature)
 
@@ -109,8 +127,10 @@ def build_map(df: pd.DataFrame, geo: dict, caption_suffix: str) -> folium.Map:
         filtered_geo,
         style_function=style_function,
         tooltip=folium.GeoJsonTooltip(
-            fields=["nom", "rendement_reseau_pct", "indice_lineaire_pertes_m3_km_j", "annee"],
-            aliases=["Commune :", "Rendement réseau (%) :", "Pertes (m³/km/j) :", "Année :"],
+            fields=["nom", "annee", "rendement_reseau_pct",
+                    "volume_pertes", "piscines", "jours_conso", "litres_hab_jour"],
+            aliases=["Commune :", "Année :", "Rendement réseau (%) :",
+                     "Eau perdue :", "Soit :", "Conso de la commune :", "Par habitant :"],
             localize=True,
         ),
     ).add_to(carte)

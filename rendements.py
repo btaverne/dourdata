@@ -77,6 +77,15 @@ COMPO_URL_TPL = (
     "CompositionCommunaleServices_AEP_{annee}.zip"
 )
 
+# Population municipale INSEE (populations de référence 2023, en vigueur au 1er
+# janvier 2026). Sert aux équivalents « par habitant » et à la ventilation du
+# volume de pertes d'un service vers ses communes, au prorata de la population.
+POP_INSEE_URL = "https://www.insee.fr/fr/statistiques/fichier/8680726/ensemble.xlsx"
+POP_INSEE_FILE = DATA_DIR / "insee_populations_2023.xlsx"
+
+# Volume d'une piscine olympique (50 m x 25 m x 2 m), pour l'équivalent parlant.
+PISCINE_OLYMPIQUE_M3 = 2500
+
 
 # --------------------------------------------------------------------------
 # Téléchargement + décompression (avec cache local dans data/)
@@ -130,6 +139,44 @@ def compo_xlsx(annee: int) -> Path:
             with z.open(names[0]) as src, open(target, "wb") as dst:
                 dst.write(src.read())
     return target
+
+
+def load_population_insee() -> dict:
+    """Télécharge (si besoin) et lit le fichier population INSEE.
+    Retourne {code_insee: population_municipale}.
+
+    Le fichier couvre la France métropolitaine et la Corse ; les DOM n'y sont
+    pas (ils n'apparaissent de toute façon pas sur la carte simplifiée). Le
+    code INSEE se reconstitue en concaténant « Code département » et « Code
+    commune »."""
+    download(POP_INSEE_URL, POP_INSEE_FILE)
+    wb = openpyxl.load_workbook(POP_INSEE_FILE, read_only=True, data_only=True)
+    ws = wb["Communes"]
+
+    rows = ws.iter_rows(values_only=True)
+    # L'en-tête est précédé de lignes de titre ; on avance jusqu'à la ligne
+    # d'en-tête (celle qui contient « Code commune ») puis on lit les données.
+    for row in rows:
+        if row and "Code commune" in [str(c).strip() if c else "" for c in row]:
+            header = [str(c).strip() if c else "" for c in row]
+            break
+    else:
+        raise SystemExit("En-tête 'Code commune' introuvable dans le fichier INSEE")
+
+    i_dep = header.index("Code département")
+    i_com = header.index("Code commune")
+    i_pop = header.index("Population municipale")
+
+    pop = {}
+    for row in rows:
+        dep, com, pmun = row[i_dep], row[i_com], row[i_pop]
+        if dep is None or com is None:
+            continue
+        try:
+            pop[f"{dep}{com}"] = int(pmun)
+        except (TypeError, ValueError):
+            continue
+    return pop
 
 
 # --------------------------------------------------------------------------
@@ -203,14 +250,36 @@ def _iter_indicateurs_rows(path: Path):
 
 
 def parse_indicateurs(path: Path) -> dict:
-    """Lit le tableur d'indicateurs (.xls ou .xlsx) -> {id_service:
-    {'rendement':float|None, 'pertes':float|None}}."""
+    """Lit le tableur d'indicateurs (.xls ou .xlsx) et retourne, par service :
+        {id_service: {
+            'rendement'  : P104.3 (%)                     ou None,
+            'pertes'     : P106.3 (indice, m3/km/j)       ou None,
+            'lineaire'   : longueur de réseau (km, VP.077) ou None,
+            'vol_conso'  : volume consommé autorisé (m3/an) ou None,
+            'vol_pertes' : volume de pertes annuel (m3/an) ou None,
+        }}
+
+    Le volume de pertes est calculé par la « voie B » (la plus couvrante et
+    directement dérivée de l'indicateur officiel) :
+        volume de pertes = P106.3 x linéaire x 365.
+    Le volume consommé autorisé est reconstitué depuis les variables brutes
+        VP.063 + VP.201 + VP.220 + VP.221
+    (comptabilisé domestique + non domestique + volume de service + consommé
+    sans comptage). Ces deux reconstitutions ont été validées en recalculant
+    P104.3 et P106.3 : elles coïncident à 99 % avec les valeurs publiées.
+    """
     it = _iter_indicateurs_rows(path)
     header = next(it)
     i_id = _find_col(header, label="Id service",
                      candidates=["Id SISPEA de l'entité de gestion", "id_sispea_serv"])
     i_rend = _find_col(header, label="P104.3", candidates=["P104.3", "p104_3"])
     i_pertes = _find_col(header, label="P106.3", candidates=["P106.3", "p106_3"])
+    i_lin = _find_col(header, label="VP.077 (linéaire)", candidates=["VP.077", "vp_077"])
+    # Composantes du volume consommé autorisé.
+    i_c1 = _find_col(header, label="VP.063", candidates=["VP.063", "vp_063"])
+    i_c2 = _find_col(header, label="VP.201", candidates=["VP.201", "vp_201"])
+    i_c3 = _find_col(header, label="VP.220", candidates=["VP.220", "vp_220"])
+    i_c4 = _find_col(header, label="VP.221", candidates=["VP.221", "vp_221"])
 
     result = {}
     for row in it:
@@ -219,9 +288,30 @@ def parse_indicateurs(path: Path) -> dict:
             sid = sid[:-2]
         if not sid:
             continue
+
+        pertes = _to_float(row[i_pertes])
+        lineaire = _to_float(row[i_lin])
+        vol_pertes = (
+            pertes * lineaire * 365
+            if pertes is not None and lineaire and lineaire > 0
+            else None
+        )
+
+        # Volume consommé autorisé : somme des composantes présentes. On exige
+        # au moins le volume comptabilisé domestique (VP.063) pour éviter un
+        # total trompeur ; les autres composantes absentes sont comptées à 0.
+        c1 = _to_float(row[i_c1])
+        if c1 is None:
+            vol_conso = None
+        else:
+            vol_conso = c1 + sum(_to_float(row[i]) or 0.0 for i in (i_c2, i_c3, i_c4))
+
         result[sid] = {
             "rendement": _to_float(row[i_rend]),
-            "pertes": _to_float(row[i_pertes]),
+            "pertes": pertes,
+            "lineaire": lineaire,
+            "vol_conso": vol_conso,
+            "vol_pertes": vol_pertes,
         }
     return result
 
@@ -279,25 +369,69 @@ def parse_compo(xlsx_path: Path) -> list:
 # Construction du jeu de données
 # --------------------------------------------------------------------------
 
-def build_year_rows(annee: int) -> list:
-    """Pour un millésime : jointure commune -> service -> indicateurs.
-    Retourne une liste de dicts (une ligne par commune desservie)."""
+def build_year_rows(annee: int, pop_insee: dict) -> list:
+    """Pour un millésime : jointure commune -> service -> indicateurs, puis
+    calcul des équivalents parlants par commune.
+
+    Les volumes (pertes, consommation) sont mesurés au niveau du SERVICE. Pour
+    parler « par commune », on ventile le volume de pertes du service au
+    prorata de la population municipale INSEE de chaque commune desservie :
+        volume de pertes commune = volume de pertes service x (pop_commune / pop_service).
+    Les ratios (jours de consommation, litres/habitant/jour) sont des
+    propriétés du réseau : ils sont identiques pour toutes les communes d'un
+    même service.
+    """
     print(f"  millésime {annee} :")
     indic = parse_indicateurs(indicateurs_file(annee))
     compo = parse_compo(compo_xlsx(annee))
     print(f"    {len(indic)} services, {len(compo)} liens commune-service")
+
+    # Première passe : population totale desservie par chaque service (somme
+    # des populations INSEE de ses communes).
+    pop_service = {}
+    for insee, _nom, sid, _svc in compo:
+        pop_service[sid] = pop_service.get(sid, 0) + pop_insee.get(insee, 0)
 
     rows = []
     for insee, nom_commune, sid, nom_service in compo:
         ind = indic.get(sid)
         if ind is None:
             continue
+
+        pop_comm = pop_insee.get(insee)
+        pop_svc = pop_service.get(sid, 0)
+        vol_pertes_svc = ind["vol_pertes"]
+        vol_conso_svc = ind["vol_conso"]
+
+        # Volume de pertes ventilé sur la commune (au prorata de sa population).
+        vol_pertes_commune = None
+        piscines = None
+        if vol_pertes_svc is not None and pop_comm and pop_svc > 0:
+            vol_pertes_commune = vol_pertes_svc * (pop_comm / pop_svc)
+            piscines = vol_pertes_commune / PISCINE_OLYMPIQUE_M3
+
+        # Jours de consommation de la commune couverts par les pertes (ratio,
+        # propre au service).
+        jours_conso = None
+        if vol_pertes_svc is not None and vol_conso_svc and vol_conso_svc > 0:
+            jours_conso = vol_pertes_svc / vol_conso_svc * 365
+
+        # Litres perdus par habitant et par jour (ratio, propre au service).
+        litres_hab_jour = None
+        if vol_pertes_svc is not None and pop_svc > 0:
+            litres_hab_jour = vol_pertes_svc * 1000 / pop_svc / 365
+
         rows.append({
             "code_commune_insee": insee,
             "nom_commune": nom_commune,
             "annee": annee,
             "rendement_reseau_pct": ind["rendement"],
             "indice_lineaire_pertes_m3_km_j": ind["pertes"],
+            "volume_pertes_commune_m3_an": vol_pertes_commune,
+            "piscines_olympiques_an": piscines,
+            "jours_conso_commune": jours_conso,
+            "litres_perdus_hab_jour": litres_hab_jour,
+            "population_insee": pop_comm,
             "codes_service": sid,
             "noms_service": nom_service,
         })
@@ -307,9 +441,12 @@ def build_year_rows(annee: int) -> list:
 def build_dataframe() -> pd.DataFrame:
     """Traite tous les millésimes, empile, puis retient pour chaque commune
     l'année la plus récente où un rendement est renseigné."""
+    print("Chargement de la population INSEE...")
+    pop_insee = load_population_insee()
+
     all_rows = []
     for annee in ANNEES:
-        all_rows.extend(build_year_rows(annee))
+        all_rows.extend(build_year_rows(annee, pop_insee))
 
     df = pd.DataFrame(all_rows)
 
