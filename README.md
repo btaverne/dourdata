@@ -47,7 +47,7 @@ récente où un rendement est disponible.
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate
-pip install requests pandas folium openpyxl xlrd py7zr
+pip install -r requirements.txt
 ```
 
 ## Utilisation
