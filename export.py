@@ -72,7 +72,10 @@ DEPT_NOMS = {
 LICENCE = "Licence Ouverte 2.0 (Etalab)"
 SOURCE = ("SISPEA — Système d'Information des Services Publics d'Eau et "
           "d'Assainissement, via data.gouv.fr / services.eaufrance.fr")
-METHODO_URL = "https://github.com/btaverne/dourdata"
+# URL du site publié (GitHub Pages) : sert de lien absolu dans les CSV/LISEZMOI,
+# pour qu'un fichier transmis à un tiers renvoie vers la méthodologie en ligne.
+SITE_URL = "https://btaverne.github.io/dourdata"
+METHODO_URL = f"{SITE_URL}/methodologie.html"
 
 # Colonnes de l'export : (colonne interne, libellé exporté, arrondi).
 # arrondi = None -> texte ; 0 -> entier ; n -> n décimales.
@@ -239,14 +242,27 @@ def write_lisezmoi(path: Path, df: pd.DataFrame):
     path.write_text("\n".join(lignes), encoding="utf-8")
 
 
-def write_index_html(outdir: Path, df: pd.DataFrame):
-    """Page d'accueil statique listant les fichiers téléchargeables."""
+def _nav(active: str) -> str:
+    """Barre de navigation commune. `active` in {carte, telecharger, methodologie}."""
+    def cls(page):
+        return ' class="active"' if page == active else ""
+    return f"""<nav class="nav">
+  <a href="index.html" class="brand">DourData 💧</a>
+  <div class="links">
+    <a href="index.html"{cls('carte')}>Carte</a>
+    <a href="telecharger.html"{cls('telecharger')}>Télécharger</a>
+    <a href="methodologie.html"{cls('methodologie')}>Méthodologie</a>
+  </div>
+</nav>"""
+
+
+def write_telecharger_html(outdir: Path, df: pd.DataFrame):
+    """Page Telecharger : national + un fichier par departement."""
     mil = millesime_str(df)
     counts = df["conformite_decret_fuites"].value_counts()
-    n_total = f"{len(df):,}".replace(",", " ")       # espace insécable
-    n_nc = f"{int(counts.get('non conforme', 0)):,}".replace(",", " ")
+    n_total = f"{len(df):,}".replace(",", "\u00a0")
+    n_nc = f"{int(counts.get('non conforme', 0)):,}".replace(",", "\u00a0")
 
-    # Une carte de téléchargement par département présent.
     deps = sorted(df["departement"].unique(), key=lambda d: (len(d), d))
     cartes = []
     for dep in deps:
@@ -258,67 +274,49 @@ def write_index_html(outdir: Path, df: pd.DataFrame):
         )
     grille = "\n".join(cartes)
 
+    nav = _nav('telecharger')
     html = f"""<!DOCTYPE html>
 <html lang="fr">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>DourData — l'eau perdue par les réseaux d'eau potable</title>
-<style>
-  body {{ font-family: system-ui, sans-serif; max-width: 900px; margin: 0 auto;
-         padding: 24px; color: #222; line-height: 1.5; }}
-  h1 {{ margin-bottom: 4px; }}
-  .sub {{ color: #666; margin-top: 0; }}
-  .stat {{ background: #f0f7f4; border: 1px solid #cbe3d8; border-radius: 8px;
-           padding: 12px 16px; margin: 18px 0; }}
-  .dl {{ display: inline-block; background: #1a7f52; color: #fff; padding: 10px 18px;
-         border-radius: 6px; text-decoration: none; font-weight: 600; }}
-  .grille {{ display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
-             gap: 6px; margin-top: 12px; }}
-  .dep {{ display: block; padding: 7px 10px; border: 1px solid #ddd; border-radius: 5px;
-          text-decoration: none; color: #222; font-size: 14px; }}
-  .dep:hover {{ background: #f0f7f4; border-color: #1a7f52; }}
-  .dep span {{ color: #888; }}
-  footer {{ margin-top: 32px; padding-top: 16px; border-top: 1px solid #eee;
-            color: #666; font-size: 13px; }}
-  a {{ color: #1a7f52; }}
-</style>
+<title>DourData — télécharger les données</title>
+<link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <h1>DourData 💧</h1>
-  <p class="sub">L'eau perdue par les fuites des réseaux d'eau potable, commune par commune.
-     Données SISPEA, millésime {mil}.</p>
+{nav}
+<div class="contenu">
+  <h1>Télécharger les données</h1>
+  <p class="sub">Données SISPEA, millésime {mil}. Fichiers CSV prêts à l'emploi (Excel, LibreOffice).</p>
 
   <div class="stat">
     <b>{n_total}</b> communes couvertes — dont <b>{n_nc}</b> non conformes au décret
-    « fuites ». Chaque fichier CSV contient le rendement du réseau, le volume d'eau perdu
-    estimé, les équivalents parlants et le statut de conformité.
+    « fuites ». Chaque fichier contient le rendement du réseau, le volume d'eau perdu estimé,
+    les équivalents parlants et le statut de conformité.
   </div>
 
-  <h2>Explorer</h2>
-  <p><a class="dl" href="carte/">🗺 Carte interactive de France</a></p>
+  <h2>France entière</h2>
+  <p><a class="dl" href="dourdata_national.csv" download>⬇ Télécharger le CSV national</a>
+     &nbsp; <a href="LISEZMOI.txt">Notice</a>
+     &nbsp; <a href="methodologie.html">Méthodologie</a></p>
 
-  <h2>Télécharger les données</h2>
-  <p><a class="dl" href="dourdata_national.csv" download>⬇ France entière (CSV)</a>
-     &nbsp; <a href="LISEZMOI.txt">Notice &amp; méthodologie</a></p>
-
-  <h3>Par département</h3>
+  <h2>Par département</h2>
   <p>Utile pour un collectif local. Le nombre de communes est indiqué entre parenthèses.</p>
   <div class="grille">
     {grille}
   </div>
 
   <footer>
-    Source : SISPEA, via data.gouv.fr / services.eaufrance.fr —
-    {LICENCE}.<br>
+    Source : SISPEA, via data.gouv.fr / services.eaufrance.fr — {LICENCE}.<br>
     Fichiers : séparateur « ; », décimale « , », UTF-8 (ouverture directe dans Excel FR).
-    Conformité au décret fuites <b>indicative</b> (voir la notice).<br>
-    Code &amp; méthodologie : <a href="{METHODO_URL}">{METHODO_URL}</a>
+    Conformité au décret fuites <b>indicative</b> — voir la
+    <a href="methodologie.html">méthodologie</a>.
   </footer>
+</div>
 </body>
 </html>
 """
-    (outdir / "index.html").write_text(html, encoding="utf-8")
+    (outdir / "telecharger.html").write_text(html, encoding="utf-8")
 
 
 def run_all(df: pd.DataFrame, outdir: Path, site: bool = False):
@@ -334,8 +332,8 @@ def run_all(df: pd.DataFrame, outdir: Path, site: bool = False):
                   f"Département {dep}")
     write_lisezmoi(outdir / "LISEZMOI.txt", df)
     if site:
-        write_index_html(outdir, df)
-    extra = " + page index.html" if site else ""
+        write_telecharger_html(outdir, df)
+    extra = " + telecharger.html" if site else ""
     print(f"Export national + {df['departement'].nunique()} départements{extra} -> {outdir}/")
 
 

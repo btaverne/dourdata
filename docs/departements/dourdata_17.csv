@@ -4,7 +4,7 @@
 # Licence : Licence Ouverte 2.0 (Etalab)
 # Millésime des données : 2022–2024 (année la plus récente disponible par commune)
 # Date de génération de l'export : 2026-07-05
-# Méthodologie et code : https://github.com/btaverne/dourdata
+# Méthodologie et code : https://btaverne.github.io/dourdata/methodologie.html
 # Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
 # Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
 Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement);Donnée suspecte (voir LISEZMOI)

@@ -21,9 +21,9 @@ Prérequis : Node.js + Mapshaper (`npm install -g mapshaper`).
 
 Usage :
     source .venv/bin/activate
-    python carte_web.py          # régénère docs/carte/communes.topojson + data.json
+    python carte_web.py          # régénère docs/communes.topojson + docs/data.json
 
-Le fichier docs/carte/index.html n'est pas régénéré (template statique versionné).
+La carte elle-même (docs/index.html) est un template statique versionné, non régénéré.
 """
 
 import json
@@ -37,7 +37,7 @@ import pandas as pd
 from carte import load_geojson  # réutilise le téléchargement/cache des contours
 
 SOURCE_CSV = "rendements_national.csv"
-OUT_DIR = Path("docs/carte")
+OUT_DIR = Path("docs")  # la carte (index.html) est en page d'accueil ; ses données à la racine
 GEOJSON_CACHE = Path(".cache/communes_france_simplifiee.geojson")
 
 SIMPLIFY = "5%"        # % de points conservés (Visvalingam)
@@ -132,7 +132,7 @@ def main():
     print(f"\nGénéré dans {OUT_DIR}/ :")
     print(f"  communes.topojson : {mo(topo):.1f} Mo")
     print(f"  data.json         : {mo(data):.1f} Mo")
-    print(f"  (index.html : template statique déjà versionné)")
+    print(f"  (docs/index.html : la carte, template statique déjà versionné)")
 
 
 if __name__ == "__main__":

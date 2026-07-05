@@ -5,7 +5,7 @@ Source          : SISPEA — Système d'Information des Services Publics d'Eau e
 Licence         : Licence Ouverte 2.0 (Etalab)
 Millésime       : 2020–2024 (année la plus récente disponible par commune)
 Généré le       : 2026-07-05
-Méthodologie    : https://github.com/btaverne/dourdata
+Méthodologie    : https://btaverne.github.io/dourdata/methodologie.html
 
 Format des fichiers
 --------------------------------------------------------------------------

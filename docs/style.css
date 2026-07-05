@@ -1,0 +1,113 @@
+/* DourData — styles communs aux trois pages (carte, télécharger, méthodologie).
+   Repris de l'esthétique de la page de téléchargement : sobre, lisible, vert
+   d'accent #1a7f52, typographie système. */
+
+:root {
+  --accent: #1a7f52;
+  --accent-d: #14663f;
+  --texte: #222;
+  --gris: #666;
+  --bord: #ddd;
+  --fond-doux: #f0f7f4;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, sans-serif;
+  color: var(--texte);
+  line-height: 1.5;
+}
+
+a { color: var(--accent); }
+
+/* --- Barre de navigation commune --- */
+.nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 8px;
+  padding: 10px 18px;
+  background: #fff;
+  border-bottom: 1px solid var(--bord);
+}
+.nav .brand {
+  font-weight: 700;
+  font-size: 18px;
+  color: var(--texte);
+  text-decoration: none;
+}
+.nav .links { display: flex; gap: 4px; }
+.nav .links a {
+  padding: 6px 12px;
+  border-radius: 6px;
+  text-decoration: none;
+  color: var(--texte);
+  font-size: 15px;
+}
+.nav .links a:hover { background: var(--fond-doux); }
+.nav .links a.active {
+  background: var(--accent);
+  color: #fff;
+  font-weight: 600;
+}
+
+/* --- Boutons et blocs partagés --- */
+.dl {
+  display: inline-block;
+  background: var(--accent);
+  color: #fff;
+  padding: 10px 18px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 600;
+}
+.dl:hover { background: var(--accent-d); }
+
+.stat {
+  background: var(--fond-doux);
+  border: 1px solid #cbe3d8;
+  border-radius: 8px;
+  padding: 12px 16px;
+}
+
+/* --- Contenu texte (télécharger, méthodologie) --- */
+.contenu { max-width: 900px; margin: 0 auto; padding: 24px; }
+.contenu h1 { margin-bottom: 4px; }
+.contenu h2 { margin-top: 32px; }
+.sub { color: var(--gris); margin-top: 0; }
+footer {
+  margin-top: 32px; padding-top: 16px;
+  border-top: 1px solid #eee; color: var(--gris); font-size: 13px;
+}
+
+/* Grille des départements (page télécharger) */
+.grille {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
+  gap: 6px; margin-top: 12px;
+}
+.dep {
+  display: block; padding: 7px 10px;
+  border: 1px solid var(--bord); border-radius: 5px;
+  text-decoration: none; color: var(--texte); font-size: 14px;
+}
+.dep:hover { background: var(--fond-doux); border-color: var(--accent); }
+.dep span { color: #888; }
+
+/* Tableaux de la page méthodologie */
+.contenu table { border-collapse: collapse; margin: 12px 0; width: 100%; }
+.contenu th, .contenu td {
+  border: 1px solid var(--bord); padding: 6px 10px; text-align: left; font-size: 14px;
+}
+.contenu th { background: var(--fond-doux); }
+.contenu code {
+  background: #f4f4f4; padding: 1px 5px; border-radius: 4px;
+  font-size: 90%;
+}
+.contenu blockquote {
+  border-left: 3px solid var(--accent); margin: 12px 0; padding: 4px 14px;
+  color: #444; background: #fafafa;
+}

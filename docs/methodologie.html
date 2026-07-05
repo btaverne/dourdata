@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>DourData — méthodologie</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav class="nav">
+  <a href="index.html" class="brand">DourData 💧</a>
+  <div class="links">
+    <a href="index.html">Carte</a>
+    <a href="telecharger.html">Télécharger</a>
+    <a href="methodologie.html" class="active">Méthodologie</a>
+  </div>
+</nav>
+
+<div class="contenu">
+  <h1>Méthodologie</h1>
+  <p class="sub">Comment DourData calcule ce qu'il affiche — sources, formules, hypothèses
+     et limites assumées. La rigueur prime : chaque chiffre doit pouvoir être vérifié.</p>
+
+  <h2>1. Objectif et source des données</h2>
+  <p>DourData rend visible, commune par commune, l'eau perdue par les fuites des réseaux d'eau
+     potable. Les données proviennent des <b>exports SISPEA « rapports nationaux »</b> (Système
+     d'Information des Services Publics d'Eau et d'Assainissement), publiés sur
+     <a href="https://www.data.gouv.fr/datasets/services-publics-deau-potable-jeux-de-donnees-exploites-pour-les-rapports-nationaux-sispea-1">data.gouv.fr</a>
+     et <a href="https://www.services.eaufrance.fr">services.eaufrance.fr</a>, sous
+     <b>Licence Ouverte 2.0 (Etalab)</b>.</p>
+  <blockquote>
+    <b>Pourquoi pas l'API Hub'Eau ?</b> Le projet utilisait au départ l'API Hub'Eau, plus simple,
+    mais celle-ci est gelée à 2018-2019 (en maintenance côté fournisseur). Les exports SISPEA,
+    eux, sont publiés jusqu'à 2024. Nous traitons les millésimes <b>2020 à 2024</b> et retenons,
+    pour chaque commune, l'année la plus récente où une donnée est disponible.
+  </blockquote>
+
+  <h2>2. Reconstituer la donnée commune par commune</h2>
+  <p>L'information SISPEA est éclatée en deux fichiers par millésime, qu'il faut recomposer (là où
+     l'API Hub'Eau livrait directement une ligne par commune) :</p>
+  <ul>
+    <li><b>Indicateurs</b> : une ligne par service d'eau, avec le rendement et l'indice de pertes,
+        identifiés par un « Id SISPEA de l'entité de gestion ».</li>
+    <li><b>Composition communale</b> : une ligne par couple commune–service, qui rattache chaque
+        commune à l'identifiant de son service.</li>
+  </ul>
+  <p>La jointure <code>commune → identifiant de service → indicateurs</code> reconstitue une ligne
+     par commune. Couverture : environ 34 000 communes.</p>
+
+  <h2>3. Le réseau de distribution, pas la production</h2>
+  <p>Une commune peut relever de plusieurs services : un service de <b>production</b> régional
+     (transport d'eau en gros) et son service de <b>distribution</b> local (le réseau du robinet).
+     Les fuites qui concernent l'habitant se jouent sur la <b>distribution</b> — et c'est aussi ce
+     que vise le décret « fuites ». DourData ne retient donc que les services de distribution.</p>
+  <p>Sans ce filtre, une grande ville dotée d'un syndicat de production afficherait le rendement
+     quasi parfait de la production (~99 %) au lieu des pertes réelles de son réseau. Exemple :
+     Rennes passe ainsi d'un « 1 litre/habitant/jour » absurde à ~9 L/hab/j réalistes.</p>
+
+  <h2>4. Volume d'eau perdu</h2>
+  <p>Le volume de pertes est calculé au niveau du service à partir de l'indicateur officiel P106.3
+     (indice linéaire de pertes) et de la longueur du réseau (variable SISPEA VP.077) :</p>
+  <p><code>volume de pertes = P106.3 × longueur du réseau × 365</code></p>
+  <p>Cette formule a été <b>validée</b> en recalculant les indicateurs officiels P104.3 (rendement)
+     et P106.3 à partir des variables brutes de volume : le résultat coïncide à <b>99 %</b> avec les
+     valeurs publiées par SISPEA. À l'échelle nationale, le total obtenu (~1 milliard de m³/an)
+     correspond aux estimations officielles des fuites d'eau en France.</p>
+
+  <h2>5. Équivalents parlants</h2>
+  <p>Pour rendre les pertes concrètes, trois équivalents sont dérivés. Ils n'ont pas tous le même
+     degré de fiabilité :</p>
+  <table>
+    <tr><th>Équivalent</th><th>Calcul</th><th>Fiabilité</th></tr>
+    <tr><td>Litres perdus / habitant / jour</td>
+        <td>volume de pertes × 1000 / population du service / 365</td>
+        <td><b>Solide</b> — ratio propre au réseau</td></tr>
+    <tr><td>Jours de consommation équivalents</td>
+        <td>volume de pertes / volume consommé × 365</td>
+        <td><b>Solide</b> — ratio propre au réseau</td></tr>
+    <tr><td>Volume perdu et piscines olympiques/an (1 piscine = 2 500 m³)</td>
+        <td>volume du service réparti au prorata de la population de la commune</td>
+        <td><b>Estimation</b> (préfixe « ~ »)</td></tr>
+  </table>
+  <p><b>Hypothèse de ventilation assumée :</b> le volume de pertes est mesuré à l'échelle du service.
+     Pour l'attribuer à une commune, on le répartit au prorata de sa population. Cette clé sous-estime
+     les communes rurales très étendues (beaucoup de réseau par habitant) et surestime les
+     villes-centres denses. C'est pourquoi le volume et les piscines sont présentés comme des
+     <b>estimations</b>.</p>
+  <blockquote>
+    <b>À lire avec le rendement.</b> Un « litres perdus par habitant » élevé ne signifie pas
+    forcément un réseau mal entretenu : un réseau rural très étendu (des centaines de mètres de
+    canalisation par habitant) affiche mécaniquement beaucoup de pertes par tête, même avec un bon
+    rendement. La conformité au décret (ci-dessous), qui intègre la densité du réseau, est le
+    meilleur juge d'un gaspillage réellement anormal.
+  </blockquote>
+
+  <h2>6. Conformité au décret « fuites » (n°2012-97)</h2>
+  <p>Le <a href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000025208197">décret n°2012-97 du
+     27 janvier 2012</a> impose un plan d'action quand le rendement du réseau passe sous un
+     <b>rendement-seuil</b> :</p>
+  <p><code>rendement seuil = min( 85 ; 65 + 0,2 × ILC )</code><br>
+     → une commune est <b>conforme</b> si son rendement (P104.3) est supérieur ou égal à ce seuil.</p>
+  <p>L'<b>ILC</b> (indice linéaire de consommation) est la variable SISPEA VP.224. Nous avons vérifié
+     qu'elle correspond bien à la définition du décret — ventes d'eau à d'autres services <b>incluses</b>
+     au numérateur — en la contrôlant sur les services exportateurs. Le seuil est plafonné à 85 % et
+     s'abaisse pour les réseaux ruraux à faible ILC, conformément à l'intention du texte (plus
+     tolérant pour le rural, plus exigeant pour l'urbain dense).</p>
+  <p><b>Limite assumée :</b> le décret prévoit un terme fixe de 70 (au lieu de 65) pour les services
+     prélevant plus de 2 millions de m³/an en zone de répartition des eaux (ZRE). Ce critère n'étant
+     pas reconstituable à partir des données disponibles, nous appliquons 65 à tous. Le seuil est donc
+     <b>légèrement sous-estimé</b> pour ces rares cas : le verdict est <b>prudent</b> (jamais « non
+     conforme » à tort à cause d'une ZRE). Le statut est <b>indicatif</b>.</p>
+  <p>Répartition nationale : environ 89 % de communes conformes, 11 % non conformes, moins de 1 %
+     non calculables (données manquantes).</p>
+
+  <h2>7. Population</h2>
+  <p>Les ratios par habitant et la ventilation utilisent la <b>population municipale INSEE</b>
+     (populations de référence les plus récentes), avec repli sur la population SISPEA si l'INSEE
+     manque pour une commune (code communal obsolète après fusion). Couverture : métropole et Corse ;
+     les DOM sont présents dans les fichiers de données mais n'apparaissent pas sur la carte.</p>
+
+  <h2>8. Données suspectes</h2>
+  <p>Dans les exports CSV, une colonne « Donnée suspecte » signale les lignes probablement
+     aberrantes, à ne pas citer telles quelles. Une commune est marquée « oui » si au moins un
+     critère objectif est réuni :</p>
+  <ul>
+    <li>rendement inférieur ou égal à 0 % ou supérieur à 100 % (physiquement impossible : erreur
+        de saisie) ;</li>
+    <li>avis qualité SISPEA « Anomalie » ou « Présomption d'anomalie » ;</li>
+    <li>absence d'un volume de base nécessaire au calcul.</li>
+  </ul>
+  <p>Ces lignes ne sont <b>jamais supprimées</b> (transparence) : elles restent dans les fichiers,
+     simplement signalées. L'avis « Non vérifié » (donnée récente pas encore validée par les
+     services de l'État) n'est <b>pas</b> considéré comme suspect : c'est le cycle normal de
+     publication, non une anomalie.</p>
+
+  <h2>9. Limites générales</h2>
+  <ul>
+    <li><b>Granularité service, pas commune :</b> les indicateurs sont mesurés à l'échelle du service
+        d'eau. Toutes les communes d'un même service partagent les mêmes ratios et le même verdict de
+        conformité.</li>
+    <li><b>Millésime :</b> l'année la plus récente disponible varie selon les communes (2020 à 2024).</li>
+    <li><b>Estimations :</b> le volume perdu par commune et les piscines sont des estimations
+        (ventilation au prorata de la population).</li>
+    <li><b>Conformité indicative :</b> le cas des zones de répartition des eaux n'est pas traité.</li>
+  </ul>
+
+  <footer>
+    Source : SISPEA, via data.gouv.fr / services.eaufrance.fr — Licence Ouverte 2.0 (Etalab).<br>
+    Code et détails techniques : <a href="https://github.com/btaverne/dourdata">github.com/btaverne/dourdata</a>
+  </footer>
+</div>
+</body>
+</html>

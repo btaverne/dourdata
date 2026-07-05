@@ -164,20 +164,41 @@ HTML) — trop pour une mise en ligne.
 ```bash
 npm install -g mapshaper   # prérequis (Node.js)
 source .venv/bin/activate
-python carte_web.py        # -> docs/carte/communes.topojson + data.json
+python carte_web.py        # -> docs/communes.topojson + docs/data.json
 ```
 
 Pour la publication, `carte_web.py` produit une carte optimisée : géométrie **simplifiée**
 (Mapshaper, Visvalingam, topologie préservée) et encodée en **TopoJSON** (frontières partagées
-stockées une fois), plus un `data.json` compact séparé (meilleur cache, moins de poids). La page
-`docs/carte/index.html` (Leaflet + topojson-client) charge les deux.
+stockées une fois), plus un `data.json` compact séparé (meilleur cache, moins de poids). La carte
+elle-même est la page d'accueil du site (`docs/index.html`, Leaflet + topojson-client).
 
 Poids : ~7 Mo bruts mais **~2 Mo réellement transférés** (GitHub Pages sert en gzip), contre 30 Mo
 pour la version folium. La géométrie a un plancher incompressible (~5 Mo bruts / 1,3 Mo gzip) car
 les 34 000 communes sont toutes préservées (aucune supprimée par la simplification).
 
-Les fichiers CSV et HTML générés localement ne sont pas versionnés (voir `.gitignore`), à
-l'exception du site `docs/` publié pour GitHub Pages.
+## Le site (docs/)
+
+Le dossier `docs/` est un site statique publiable sur GitHub Pages, en trois pages partageant une
+barre de navigation et un style commun (`style.css`) :
+
+```
+docs/
+├── index.html          ← la CARTE interactive (page d'accueil)
+├── telecharger.html    ← téléchargements (national + 101 départements)
+├── methodologie.html   ← méthodologie détaillée
+├── style.css           ← styles communs (nav, boutons, typo)
+├── communes.topojson   ← géométrie de la carte
+├── data.json           ← données de la carte
+├── dourdata_national.csv
+├── departements/       ← 101 CSV
+└── LISEZMOI.txt
+```
+
+`index.html` (carte) et `methodologie.html` sont des pages statiques versionnées ;
+`telecharger.html`, les CSV et le `LISEZMOI.txt` sont générés par `export.py` ; la géométrie et les
+données de la carte par `carte_web.py`.
+
+Les fichiers générés localement (hors `docs/`) ne sont pas versionnés (voir `.gitignore`).
 
 ### 3. Exporter des CSV réutilisables
 
