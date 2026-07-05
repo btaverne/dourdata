@@ -295,6 +295,9 @@ def write_index_html(outdir: Path, df: pd.DataFrame):
     estimé, les équivalents parlants et le statut de conformité.
   </div>
 
+  <h2>Explorer</h2>
+  <p><a class="dl" href="carte/">🗺 Carte interactive de France</a></p>
+
   <h2>Télécharger les données</h2>
   <p><a class="dl" href="dourdata_national.csv" download>⬇ France entière (CSV)</a>
      &nbsp; <a href="LISEZMOI.txt">Notice &amp; méthodologie</a></p>
