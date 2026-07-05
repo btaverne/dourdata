@@ -7,28 +7,28 @@
 # Méthodologie et code : https://github.com/btaverne/dourdata
 # Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
 # Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
-Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
-97401;Les Avirons;974;eau potable : Les Avirons;149914;2022;78,4;7,1;25,8;70,2;conforme;264333;264333;62;104;11650;Sans anomalie apparente
-97402;Bras-Panon;974;eau potable : Bras-Panon;149917;2024;82,8;9,3;44,8;74,0;conforme;267045;267045;54;76;13559;Non vérifié
-97403;Entre-Deux;974;eau potable : Service unique;211677;2024;57,9;22,4;30,8;71,2;non conforme;9263980;494151;189;266;7177;Non vérifié
-97404;L' Étang-Salé;974;eau potable : Etang-Salé;149925;2022;76,3;13,1;42,4;73,5;conforme;558431;558431;107;113;14258;Sans anomalie apparente
-97405;Petite-Île;974;eau potable : Petite-Île;149928;2022;53,8;16,0;18,6;68,7;non conforme;911040;911040;199;343;12518;Sans anomalie apparente
-97406;La Plaine-des-Palmistes;974;eau potable : Plaine-des-Palmistes;149929;2024;52,6;12,6;14,0;67,8;non conforme;457095;457095;181;329;6920;Non vérifié
-97407;Le Port;974;eau potable : Le Port;149932;2024;66,3;72,1;141,8;85,0;non conforme;4289590;4289590;350;266;33595;Non vérifié
-97408;La Possession;974;eau potable : La Possession;149936;2024;48,8;48,4;46,1;74,2;non conforme;3250544;3250544;250;384;35680;Non vérifié
-97409;Saint-André;974;eau potable : Saint-André;149938;2024;55,1;37,5;46,1;74,2;non conforme;3915446;3915446;186;297;57626;Non vérifié
-97410;Saint-Benoît;974;eau potable : Saint-Benoît;149940;2024;62,5;23,8;39,5;72,9;non conforme;2405691;2405691;177;220;37301;Non vérifié
-97411;Saint-Denis;974;eau potable : Saint-Denis;149942;2024;70,4;30,3;72,1;79,4;non conforme;6745078;6745078;118;153;156282;Non vérifié
-97412;Saint-Joseph;974;eau potable : Service unique;211677;2024;57,9;22,4;30,8;71,2;non conforme;9263980;2710363;189;266;39365;Non vérifié
-97413;Saint-Leu;974;eau potable : Saint-Leu;149947;2024;44,2;31,1;24,7;69,9;non conforme;3992209;3992209;309;465;35366;Non vérifié
-97414;Saint-Louis;974;eau potable : Saint-Louis;149950;2022;70,8;20,8;50,5;75,1;non conforme;2373867;2373867;121;150;53693;Sans anomalie apparente
-97415;Saint-Paul;974;eau potable : Saint-Paul;149953;2024;53,2;33,6;38,1;72,6;non conforme;10154592;10154592;261;322;106554;Non vérifié
-97416;Saint-Pierre;974;eau potable : Saint-Pierre;149956;2022;63,9;33,7;59,6;76,9;non conforme;6059226;6059226;193;206;85878;Sans anomalie apparente
-97417;Saint-Philippe;974;eau potable : Service unique;211677;2024;57,9;22,4;30,8;71,2;non conforme;9263980;353831;189;266;5139;Non vérifié
-97418;Sainte-Marie;974;eau potable : Sainte-Marie;149963;2024;64,6;23,6;43,1;73,6;non conforme;2387542;2387542;188;200;34768;Non vérifié
-97419;Sainte-Rose;974;eau potable : Sainte-Rose;149966;2024;19,2;63,5;15,1;68,0;non conforme;1665999;1665999;711;1535;6422;Non vérifié
-97420;Sainte-Suzanne;974;eau potable : Sainte-Suzanne;182806;2024;85,9;7,8;47,7;74,5;conforme;444132;444132;50;60;24538;Non vérifié
-97421;Salazie;974;eau potable : Salazie;149967;2024;52,2;13,3;14,5;67,9;non conforme;592540;592540;222;335;7319;Non vérifié
-97422;Le Tampon;974;eau potable : Service unique;211677;2024;57,9;22,4;30,8;71,2;non conforme;9263980;5705635;189;266;82868;Non vérifié
-97423;Les Trois-Bassins;974;eau potable : Trois-Bassins;149972;2024;53,6;16,4;18,9;68,8;non conforme;604586;604586;237;316;6989;Non vérifié
-97424;Cilaos;974;eau potable : Cilaos;149976;2024;50,4;16,6;16,9;68,4;non conforme;896429;896429;452;359;5437;Non vérifié
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement);Donnée suspecte (voir LISEZMOI)
+97401;Les Avirons;974;eau potable : Les Avirons;149914;2022;78,4;7,1;25,8;70,2;conforme;264333;264333;62;104;11650;Sans anomalie apparente;non
+97402;Bras-Panon;974;eau potable : Bras-Panon;149917;2024;82,8;9,3;44,8;74,0;conforme;267045;267045;54;76;13559;Non vérifié;non
+97403;Entre-Deux;974;eau potable : Service unique;211677;2024;57,9;22,4;30,8;71,2;non conforme;9263980;494151;189;266;7177;Non vérifié;non
+97404;L' Étang-Salé;974;eau potable : Etang-Salé;149925;2022;76,3;13,1;42,4;73,5;conforme;558431;558431;107;113;14258;Sans anomalie apparente;non
+97405;Petite-Île;974;eau potable : Petite-Île;149928;2022;53,8;16,0;18,6;68,7;non conforme;911040;911040;199;343;12518;Sans anomalie apparente;non
+97406;La Plaine-des-Palmistes;974;eau potable : Plaine-des-Palmistes;149929;2024;52,6;12,6;14,0;67,8;non conforme;457095;457095;181;329;6920;Non vérifié;non
+97407;Le Port;974;eau potable : Le Port;149932;2024;66,3;72,1;141,8;85,0;non conforme;4289590;4289590;350;266;33595;Non vérifié;non
+97408;La Possession;974;eau potable : La Possession;149936;2024;48,8;48,4;46,1;74,2;non conforme;3250544;3250544;250;384;35680;Non vérifié;non
+97409;Saint-André;974;eau potable : Saint-André;149938;2024;55,1;37,5;46,1;74,2;non conforme;3915446;3915446;186;297;57626;Non vérifié;non
+97410;Saint-Benoît;974;eau potable : Saint-Benoît;149940;2024;62,5;23,8;39,5;72,9;non conforme;2405691;2405691;177;220;37301;Non vérifié;non
+97411;Saint-Denis;974;eau potable : Saint-Denis;149942;2024;70,4;30,3;72,1;79,4;non conforme;6745078;6745078;118;153;156282;Non vérifié;non
+97412;Saint-Joseph;974;eau potable : Service unique;211677;2024;57,9;22,4;30,8;71,2;non conforme;9263980;2710363;189;266;39365;Non vérifié;non
+97413;Saint-Leu;974;eau potable : Saint-Leu;149947;2024;44,2;31,1;24,7;69,9;non conforme;3992209;3992209;309;465;35366;Non vérifié;non
+97414;Saint-Louis;974;eau potable : Saint-Louis;149950;2022;70,8;20,8;50,5;75,1;non conforme;2373867;2373867;121;150;53693;Sans anomalie apparente;non
+97415;Saint-Paul;974;eau potable : Saint-Paul;149953;2024;53,2;33,6;38,1;72,6;non conforme;10154592;10154592;261;322;106554;Non vérifié;non
+97416;Saint-Pierre;974;eau potable : Saint-Pierre;149956;2022;63,9;33,7;59,6;76,9;non conforme;6059226;6059226;193;206;85878;Sans anomalie apparente;non
+97417;Saint-Philippe;974;eau potable : Service unique;211677;2024;57,9;22,4;30,8;71,2;non conforme;9263980;353831;189;266;5139;Non vérifié;non
+97418;Sainte-Marie;974;eau potable : Sainte-Marie;149963;2024;64,6;23,6;43,1;73,6;non conforme;2387542;2387542;188;200;34768;Non vérifié;non
+97419;Sainte-Rose;974;eau potable : Sainte-Rose;149966;2024;19,2;63,5;15,1;68,0;non conforme;1665999;1665999;711;1535;6422;Non vérifié;non
+97420;Sainte-Suzanne;974;eau potable : Sainte-Suzanne;182806;2024;85,9;7,8;47,7;74,5;conforme;444132;444132;50;60;24538;Non vérifié;non
+97421;Salazie;974;eau potable : Salazie;149967;2024;52,2;13,3;14,5;67,9;non conforme;592540;592540;222;335;7319;Non vérifié;non
+97422;Le Tampon;974;eau potable : Service unique;211677;2024;57,9;22,4;30,8;71,2;non conforme;9263980;5705635;189;266;82868;Non vérifié;non
+97423;Les Trois-Bassins;974;eau potable : Trois-Bassins;149972;2024;53,6;16,4;18,9;68,8;non conforme;604586;604586;237;316;6989;Non vérifié;non
+97424;Cilaos;974;eau potable : Cilaos;149976;2024;50,4;16,6;16,9;68,4;non conforme;896429;896429;452;359;5437;Non vérifié;non

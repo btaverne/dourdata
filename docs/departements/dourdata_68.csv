@@ -7,365 +7,365 @@
 # Méthodologie et code : https://github.com/btaverne/dourdata
 # Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
 # Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
-Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
-68001;Algolsheim;68;eau potable : eau potable;214816;2024;68,5;7,2;15,7;68,1;conforme;499320;26386;65;168;1112;Non vérifié
-68002;Altenach;68;eau potable;101749;2024;79,0;2,6;9,8;67,0;conforme;9300;3777;28;97;372;Non vérifié
-68004;Altkirch;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;7590;4;7;5687;Non vérifié
-68005;Ammerschwihr;68;eau potable;101766;2024;87,0;4,0;26,6;70,3;conforme;5052;1276;2;55;1580;Non vérifié
-68006;Bernwiller;68;eau potable;101741;2024;85,1;1,7;9,8;67,0;conforme;39092;8673;20;64;1205;Non vérifié
-68007;Andolsheim;68;eau potable;101769;2024;87,0;5,3;35,3;72,1;conforme;1040761;20180;25;58;2199;Non vérifié
-68008;Appenwihr;68;eau potable : principal;101689;2024;93,6;1,2;17,2;68,4;conforme;59962;2121;10;31;586;Non vérifié
-68009;Artzenheim;68;eau potable : eau potable;214816;2024;68,5;7,2;15,7;68,1;conforme;499320;20335;65;168;857;Non vérifié
-68010;Aspach;68;eau potable;101667;2024;65,8;6,9;13,3;67,7;non conforme;361455;30867;74;225;1138;Non vérifié
-68011;Aspach-le-Bas;68;eau potable;101674;2024;86,8;2,9;18,8;68,8;conforme;127020;13283;29;63;1262;Non vérifié
-68012;Aspach-Michelbach;68;eau potable;101674;2024;86,8;2,9;18,8;68,8;conforme;127020;18388;29;63;1747;Non vérifié
-68013;Attenschwiller;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;16535;47;111;959;Non vérifié
-68014;Aubure;68;eau potable;101425;2024;37,3;5,7;3,4;65,7;non conforme;27192;27192;211;610;353;Non vérifié
-68015;Baldersheim;68;eau potable : SIAEP BABARU;101666;2024;62,0;8,8;14,3;67,9;non conforme;167602;65183;69;225;2596;Non vérifié
-68016;Balgau;68;eau potable;101686;2024;89,3;1,6;13,6;67,7;conforme;20095;4920;14;43;947;Non vérifié
-68017;Ballersdorf;68;eau potable;101741;2024;85,1;1,7;9,8;67,0;conforme;39092;5888;20;64;818;Non vérifié
-68018;Balschwiller;68;eau potable;101741;2024;85,1;1,7;9,8;67,0;conforme;39092;5247;20;64;729;Non vérifié
-68019;Baltzenheim;68;eau potable : eau potable;214816;2024;68,5;7,2;15,7;68,1;conforme;499320;13786;65;168;581;Non vérifié
-68020;Bantzenheim;68;eau potable : Bantzenheim;288794;2024;78,6;3,1;11,5;67,3;conforme;20480;20480;34;98;1630;Non vérifié
-68021;Bartenheim;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;72607;47;111;4211;Non vérifié
-68022;Battenheim;68;eau potable : SIAEP BABARU;101666;2024;62,0;8,8;14,3;67,9;non conforme;167602;39170;69;225;1560;Non vérifié
-68023;Beblenheim;68;eau potable;101431;2024;88,7;2,4;18,6;68,7;conforme;7306;7306;22;47;928;Non vérifié
-68024;Bellemagny;68;eau potable;101739;2024;84,5;1,3;7,2;66,4;conforme;16892;1627;30;79;147;Non vérifié
-68025;Bendorf;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;327;4;7;245;Non vérifié
-68026;Bennwihr;68;eau potable : Bennwihr Gare;308654;2024;81,5;1,7;7,7;66,5;conforme;5038;5038;10;81;1326;Non vérifié
-68027;Berentzwiller;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;452;4;7;339;Non vérifié
-68028;Bergheim;68;eau potable : Bergheim;101436;2024;78,0;4,3;14,9;68,0;conforme;38720;38720;51;105;2069;Non vérifié
-68029;Bergholtz;68;eau potable : Affermage-Caléo;101775;2024;86,8;3,4;22,3;69,5;conforme;219421;9808;26;62;1039;Non vérifié
-68030;Bergholtzzell;68;eau potable : Affermage-Caléo;101775;2024;86,8;3,4;22,3;69,5;conforme;219421;3634;26;62;385;Non vérifié
-68032;Berrwiller;68;eau potable : Berrwiller;288954;2024;74,9;4,4;13,3;67,7;conforme;20878;20878;44;137;1294;Non vérifié
-68033;Bettendorf;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;626;4;7;469;Non vérifié
-68034;Bettlach;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;400;4;7;300;Non vérifié
-68035;Biederthal;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;442;4;7;331;Non vérifié
-68036;Biesheim;68;eau potable : eau potable;214816;2024;68,5;7,2;15,7;68,1;conforme;499320;59298;65;168;2499;Non vérifié
-68037;Biltzheim;68;eau potable : principal;101689;2024;93,6;1,2;17,2;68,4;conforme;59962;1846;10;31;510;Non vérifié
-68038;Bischwihr;68;eau potable;101769;2024;87,0;5,3;35,3;72,1;conforme;1040761;11030;25;58;1202;Non vérifié
-68039;Bisel;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;717;4;7;537;Non vérifié
-68040;Bitschwiller-lès-Thann;68;eau potable :  THANN;101684;2024;81,3;6,3;27,2;70,4;conforme;347431;39655;55;85;1986;Non vérifié
-68041;Blodelsheim;68;eau potable;101441;2024;89,8;1,4;12,4;67,5;conforme;9198;9198;13;41;1971;Non vérifié
-68042;Blotzheim;68;eau potable : délégation;285174;2024;83,5;7,8;39,2;72,8;conforme;776235;85934;45;81;5282;Non vérifié
-68043;Bollwiller;68;eau potable : Bollwiller;288974;2024;93,2;1,6;21,8;69,4;conforme;12918;12918;8;27;4184;Non vérifié
-68044;Le Bonhomme;68;eau potable : LE BONHOMME;101443;2024;49,0;13,4;13,1;67,6;non conforme;31351;31351;115;382;744;Non vérifié
-68045;Bourbach-le-Bas;68;eau potable :  THANN;101684;2024;81,3;6,3;27,2;70,4;conforme;347431;11102;55;85;556;Non vérifié
-68046;Bourbach-le-Haut;68;eau potable :  THANN;101684;2024;81,3;6,3;27,2;70,4;conforme;347431;8147;55;85;408;Non vérifié
-68049;Bouxwiller;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;566;4;7;424;Non vérifié
-68050;Bréchaumont;68;eau potable;101739;2024;84,5;1,3;7,2;66,4;conforme;16892;4505;30;79;407;Non vérifié
-68052;Bretten;68;eau potable;101739;2024;84,5;1,3;7,2;66,4;conforme;16892;2037;30;79;184;Non vérifié
-68054;Brinckheim;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;6931;47;111;402;Non vérifié
-68055;Bruebach;68;eau potable : Bruebach;288994;2024;80,0;2,5;9,9;67,0;conforme;11041;11041;29;92;1042;Non vérifié
-68056;Brunstatt-Didenheim;68;eau potable : Mulhouse et périphérie;289014;2024;88,3;4,7;35,7;72,1;conforme;1421120;61500;20;53;8259;Non vérifié
-68057;Buethwiller;68;eau potable;101741;2024;85,1;1,7;9,8;67,0;conforme;39092;1727;20;64;240;Non vérifié
-68058;Buhl;68;eau potable : Affermage-Caléo;101775;2024;86,8;3,4;22,3;69,5;conforme;219421;29262;26;62;3100;Non vérifié
-68059;Burnhaupt-le-Bas;68;eau potable;101674;2024;86,8;2,9;18,8;68,8;conforme;127020;20724;29;63;1969;Non vérifié
-68060;Burnhaupt-le-Haut;68;eau potable;101674;2024;86,8;2,9;18,8;68,8;conforme;127020;18872;29;63;1793;Non vérifié
-68061;Buschwiller;68;eau potable : délégation;285174;2024;83,5;7,8;39,2;72,8;conforme;776235;17034;45;81;1047;Non vérifié
-68062;Carspach;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;2791;4;7;2091;Non vérifié
-68063;Cernay;68;eau potable : Régie : CERNAY;101676;2024;83,9;3,5;18,5;68,7;conforme;169665;122597;28;76;12057;Non vérifié
-68064;Chalampé;68;eau potable : Chalampé;289074;2024;76,9;14,5;48,3;74,7;conforme;55042;55042;151;110;996;Non vérifié
-68065;Chavannes-sur-l'Étang;68;eau potable;101768;2024;88,1;1,0;7,4;66,5;conforme;5512;3868;16;49;652;Non vérifié
-68066;Colmar;68;eau potable;101769;2024;87,0;5,3;35,3;72,1;conforme;1040761;614566;25;58;66970;Non vérifié
-68067;Courtavon;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;458;4;7;343;Non vérifié
-68068;Dannemarie;68;eau potable;151542;2024;71,5;4,6;11,6;67,3;conforme;45299;45299;55;147;2248;Non vérifié
-68069;Dessenheim;68;eau potable : eau potable;214816;2024;68,5;7,2;15,7;68,1;conforme;499320;34217;65;168;1442;Non vérifié
-68071;Diefmatten;68;eau potable;101741;2024;85,1;1,7;9,8;67,0;conforme;39092;2210;20;64;307;Non vérifié
-68072;Dietwiller;68;eau potable : Dietwiller;304394;2024;69,8;6,3;14,6;67,9;conforme;26674;26674;53;157;1385;Non vérifié
-68073;Dolleren;68;eau potable;101461;2024;85,5;1,8;10,7;67,1;conforme;2562;2562;16;61;449;Non vérifié
-68074;Durlinsdorf;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;665;4;7;498;Non vérifié
-68075;Durmenach;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;1116;4;7;836;Non vérifié
-68076;Durrenentzen;68;eau potable : eau potable;214816;2024;68,5;7,2;15,7;68,1;conforme;499320;25200;65;168;1062;Non vérifié
-68077;Eglingen;68;eau potable;101741;2024;85,1;1,7;9,8;67,0;conforme;39092;2577;20;64;358;Non vérifié
-68078;Eguisheim;68;eau potable : principal;101689;2024;93,6;1,2;17,2;68,4;conforme;59962;6257;10;31;1729;Non vérifié
-68079;Elbach;68;eau potable;101768;2024;88,1;1,0;7,4;66,5;conforme;5512;1643;16;49;277;Non vérifié
-68080;Emlingen;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;410;4;7;307;Non vérifié
-68081;Saint-Bernard;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;810;4;7;607;Non vérifié
-68082;Ensisheim;68;eau potable;101465;2024;90,8;1,8;17,6;68,5;conforme;33822;33822;13;37;7306;Non vérifié
-68083;Eschbach-au-Val;68;eau potable;101468;2024;86,5;0,9;5,6;66,1;conforme;2102;2102;15;59;378;Non vérifié
-68084;Eschentzwiller;68;eau potable : Mulhouse et périphérie;289014;2024;88,3;4,7;35,7;72,1;conforme;1421120;11371;20;53;1527;Non vérifié
-68085;Eteimbes;68;eau potable;101739;2024;84,5;1,3;7,2;66,4;conforme;16892;4483;30;79;405;Non vérifié
-68086;Falkwiller;68;eau potable;101741;2024;85,1;1,7;9,8;67,0;conforme;39092;1540;20;64;214;Non vérifié
-68087;Feldbach;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;630;4;7;472;Non vérifié
-68088;Feldkirch;68;eau potable : Feldkirch;289094;2024;76,0;6,1;19,2;68,8;conforme;17367;17367;45;116;1047;Non vérifié
-68089;Fellering;68;eau potable;101682;2024;89,6;0,6;4,9;66,0;conforme;861;89;0;45;1569;Non vérifié
-68090;Ferrette;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;1153;4;7;864;Non vérifié
-68091;Fessenheim;68;eau potable;101686;2024;89,3;1,6;13,6;67,7;conforme;20095;12183;14;43;2345;Non vérifié
-68092;Fislis;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;528;4;7;396;Non vérifié
-68093;Flaxlanden;68;eau potable;101667;2024;65,8;6,9;13,3;67,7;non conforme;361455;37160;74;225;1370;Non vérifié
-68094;Folgensbourg;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;15621;47;111;906;Non vérifié
-68095;Fortschwihr;68;eau potable;101769;2024;87,0;5,3;35,3;72,1;conforme;1040761;10994;25;58;1198;Non vérifié
-68096;Franken;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;472;4;7;354;Non vérifié
-68097;Fréland;68;eau potable : FRELAND;101472;2024;55,0;6,9;8,4;66,7;non conforme;34176;34176;73;299;1288;Non vérifié
-68098;Friesen;68;eau potable;151547;2024;76,4;3,8;12,2;67,4;conforme;7864;7864;33;113;651;Non vérifié
-68099;Froeningen;68;eau potable;101667;2024;65,8;6,9;13,3;67,7;non conforme;361455;23896;74;225;881;Non vérifié
-68100;Fulleren;68;eau potable;101757;2024;89,4;0,9;7,6;66,5;conforme;5584;1553;13;43;331;Non vérifié
-68101;Galfingue;68;eau potable;101667;2024;65,8;6,9;13,3;67,7;non conforme;361455;21781;74;225;803;Non vérifié
-68102;Geishouse;68;eau potable;101682;2024;89,6;0,6;4,9;66,0;conforme;861;24;0;45;424;Non vérifié
-68103;Geispitzen;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;8897;47;111;516;Non vérifié
-68104;Geiswasser;68;eau potable : eau potable;214816;2024;68,5;7,2;15,7;68,1;conforme;499320;8091;65;168;341;Non vérifié
-68105;Gildwiller;68;eau potable;101741;2024;85,1;1,7;9,8;67,0;conforme;39092;1879;20;64;261;Non vérifié
-68106;Goldbach-Altenbach;68;eau potable;101682;2024;89,6;0,6;4,9;66,0;conforme;861;15;0;45;261;Non vérifié
-68107;Gommersdorf;68;eau potable;101738;2024;95,2;0,6;11,1;67,2;conforme;5782;1241;8;20;406;Non vérifié
-68109;Griesbach-au-Val;68;eau potable;101477;2024;94,8;0,9;16,5;68,3;conforme;2004;2004;8;20;678;Non vérifié
-68110;Grussenheim;68;eau potable : PERIMETRE RIED DE MARCKOLSHEIM;222343;2024;85,0;2,4;13,3;67,7;conforme;165617;5808;20;66;805;Non vérifié
-68111;Gueberschwihr;68;eau potable;101479;2024;69,0;5,3;11,7;67,3;conforme;19964;19964;68;165;807;Non vérifié
-68112;Guebwiller;68;eau potable : Affermage-Caléo;101775;2024;86,8;3,4;22,3;69,5;conforme;219421;106128;26;62;11243;Non vérifié
-68113;Guémar;68;eau potable : distribution;211318;2024;90,8;1,4;13,9;67,8;conforme;10833;7314;13;37;1490;Non vérifié
-68114;Guevenatten;68;eau potable;101739;2024;84,5;1,3;7,2;66,4;conforme;16892;1838;30;79;166;Non vérifié
-68115;Guewenheim;68;eau potable;101674;2024;86,8;2,9;18,8;68,8;conforme;127020;14399;29;63;1368;Non vérifié
-68116;Gundolsheim;68;eau potable;101712;2024;93,1;0,8;11,2;67,2;conforme;2044;2044;8;26;735;Non vérifié
-68117;Gunsbach;68;eau potable;101482;2024;93,7;1,1;15,8;68,2;conforme;2770;2770;9;26;856;Non vérifié
-68118;Habsheim;68;eau potable : Mulhouse et périphérie;289014;2024;88,3;4,7;35,7;72,1;conforme;1421120;37798;20;53;5076;Non vérifié
-68119;Hagenbach;68;eau potable;101741;2024;85,1;1,7;9,8;67,0;conforme;39092;5557;20;64;772;Non vérifié
-68120;Hagenthal-le-Bas;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;24449;47;111;1418;Non vérifié
-68121;Hagenthal-le-Haut;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;13207;47;111;766;Non vérifié
-68122;Hartmannswiller;68;eau potable : Affermage-Caléo;101775;2024;86,8;3,4;22,3;69,5;conforme;219421;6173;26;62;654;Non vérifié
-68123;Hattstatt;68;eau potable : principal;101689;2024;93,6;1,2;17,2;68,4;conforme;59962;3120;10;31;862;Non vérifié
-68124;Hausgauen;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;492;4;7;369;Non vérifié
-68125;Hecken;68;eau potable;101741;2024;85,1;1,7;9,8;67,0;conforme;39092;3793;20;64;527;Non vérifié
-68126;Hégenheim;68;eau potable : délégation;285174;2024;83,5;7,8;39,2;72,8;conforme;776235;55478;45;81;3410;Non vérifié
-68127;Heidwiller;68;eau potable;101667;2024;65,8;6,9;13,3;67,7;non conforme;361455;17387;74;225;641;Non vérifié
-68128;Heimersdorf;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;861;4;7;645;Non vérifié
-68129;Heimsbrunn;68;eau potable;101667;2024;65,8;6,9;13,3;67,7;non conforme;361455;35641;74;225;1314;Non vérifié
-68130;Heiteren;68;eau potable : eau potable;214816;2024;68,5;7,2;15,7;68,1;conforme;499320;25366;65;168;1069;Non vérifié
-68131;Heiwiller;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;254;4;7;190;Non vérifié
-68132;Helfrantzkirch;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;12707;47;111;737;Non vérifié
-68134;Herrlisheim-près-Colmar;68;eau potable;101769;2024;87,0;5,3;35,3;72,1;conforme;1040761;17537;25;58;1911;Non vérifié
-68135;Hésingue;68;eau potable : délégation;285174;2024;83,5;7,8;39,2;72,8;conforme;776235;48352;45;81;2972;Non vérifié
-68136;Hettenschlag;68;eau potable : principal;101689;2024;93,6;1,2;17,2;68,4;conforme;59962;1292;10;31;357;Non vérifié
-68137;Hindlingen;68;eau potable;151550;2024;85,6;3,6;21,4;69,3;conforme;5768;5768;24;61;646;Non vérifié
-68138;Hirsingue;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;2832;4;7;2122;Non vérifié
-68139;Hirtzbach;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;1892;4;7;1418;Non vérifié
-68140;Hirtzfelden;68;eau potable;101710;2024;87,5;1,3;9,3;66,9;conforme;24200;7192;16;51;1259;Non vérifié
-68141;Hochstatt;68;eau potable;101667;2024;65,8;6,9;13,3;67,7;non conforme;361455;58941;74;225;2173;Non vérifié
-68142;Hohrod;68;eau potable;101495;2024;95,5;0,3;6,9;66,4;conforme;1003;1003;8;16;349;Non vérifié
-68143;Porte du Ried;68;eau potable;101769;2024;87,0;5,3;35,3;72,1;conforme;1040761;18087;25;58;1971;Non vérifié
-68144;Hombourg;68;eau potable : SIE Ottmarsheim Hombourg Niffer;289114;2024;78,6;5,5;20,4;69,1;conforme;98107;30300;61;99;1358;Non vérifié
-68145;Horbourg-Wihr;68;eau potable;101769;2024;87,0;5,3;35,3;72,1;conforme;1040761;56887;25;58;6199;Non vérifié
-68146;Houssen;68;eau potable;101769;2024;87,0;5,3;35,3;72,1;conforme;1040761;21318;25;58;2323;Non vérifié
-68147;Hunawihr;68;eau potable;101497;2024;79,2;3,9;15,0;68,0;conforme;8185;8185;40;95;555;Non vérifié
-68148;Hundsbach;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;476;4;7;357;Non vérifié
-68149;Huningue;68;eau potable : délégation;285174;2024;83,5;7,8;39,2;72,8;conforme;776235;121807;45;81;7487;Non vérifié
-68150;Husseren-les-Châteaux;68;eau potable : principal;101689;2024;93,6;1,2;17,2;68,4;conforme;59962;1817;10;31;502;Non vérifié
-68151;Husseren-Wesserling;68;eau potable;101677;2024;73,8;3,0;8,4;66,7;conforme;179799;15533;42;131;1022;Non vérifié
-68152;Illfurth;68;eau potable;101667;2024;65,8;6,9;13,3;67,7;non conforme;361455;66318;74;225;2445;Non vérifié
-68153;Illhaeusern;68;eau potable : distribution;211318;2024;90,8;1,4;13,9;67,8;conforme;10833;3519;13;37;717;Non vérifié
-68154;Illzach;68;eau potable : Mulhouse et périphérie;289014;2024;88,3;4,7;35,7;72,1;conforme;1421120;111124;20;53;14923;Non vérifié
-68155;Ingersheim;68;eau potable;101769;2024;87,0;5,3;35,3;72,1;conforme;1040761;43810;25;58;4774;Non vérifié
-68156;Issenheim;68;eau potable : Affermage-Caléo;101775;2024;86,8;3,4;22,3;69,5;conforme;219421;33057;26;62;3502;Non vérifié
-68157;Jebsheim;68;eau potable;101769;2024;87,0;5,3;35,3;72,1;conforme;1040761;12480;25;58;1360;Non vérifié
-68158;Jettingen;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;697;4;7;522;Non vérifié
-68159;Jungholtz;68;eau potable : Régie;231734;2024;83,2;3,5;17,2;68,4;conforme;132860;11912;36;88;897;Non vérifié
-68160;Kappelen;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;9880;47;111;573;Non vérifié
-68161;Katzenthal;68;eau potable;101506;2024;88,7;1,9;15,0;68,0;conforme;3329;3329;18;47;506;Non vérifié
-68162;Kaysersberg Vignoble;68;eau potable : PERIMETRE KAYSERSBERG-VIGNOBLE (commune nouvelle);218178;2024;75,0;6,3;20,6;69,1;conforme;106536;106536;67;121;4383;Non vérifié
-68163;Kembs;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;100591;47;111;5834;Non vérifié
-68165;Kiffis;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;318;4;7;238;Non vérifié
-68166;Kingersheim;68;eau potable : Kingersheim;289154;2024;77,2;7,6;25,7;70,1;conforme;168687;168687;35;108;13354;Non vérifié
-68167;Kirchberg;68;eau potable;151553;2024;71,3;2,9;7,1;66,4;conforme;11220;11220;43;149;717;Non vérifié
-68168;Knoeringue;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;6569;47;111;381;Non vérifié
-68169;Koestlach;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;674;4;7;505;Non vérifié
-68170;Koetzingue;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;10087;47;111;585;Non vérifié
-68171;Kruth;68;eau potable;101677;2024;73,8;3,0;8,4;66,7;conforme;179799;13010;42;131;856;Non vérifié
-68172;Kunheim;68;eau potable : eau potable;214816;2024;68,5;7,2;15,7;68,1;conforme;499320;43233;65;168;1822;Non vérifié
-68173;Labaroche;68;eau potable;101517;2024;65,5;4,3;8,1;66,6;non conforme;54932;54932;67;193;2231;Non vérifié
-68174;Landser;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;28156;47;111;1633;Non vérifié
-68175;Lapoutroie;68;eau potable : Lapoutroie;101521;2024;79,0;3,4;12,9;67,6;conforme;22748;22748;33;96;1881;Non vérifié
-68176;Largitzen;68;eau potable;151554;2024;78,1;2,5;9,0;66,8;conforme;5931;5931;46;101;352;Non vérifié
-68177;Lautenbach;68;eau potable : Affermage-Caléo;101775;2024;86,8;3,4;22,3;69,5;conforme;219421;14575;26;62;1544;Non vérifié
-68178;Lautenbachzell;68;eau potable : Régie;231734;2024;83,2;3,5;17,2;68,4;conforme;132860;12509;36;88;942;Non vérifié
-68179;Lauw;68;eau potable;101523;2024;76,0;3,9;12,3;67,5;conforme;11587;11587;36;123;887;Non vérifié
-68180;Leimbach;68;eau potable :  THANN;101684;2024;81,3;6,3;27,2;70,4;conforme;347431;18530;55;85;928;Non vérifié
-68181;Levoncourt;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;334;4;7;250;Non vérifié
-68182;Leymen;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;21915;47;111;1271;Non vérifié
-68183;Liebenswiller;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;3293;47;111;191;Non vérifié
-68184;Liebsdorf;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;382;4;7;286;Non vérifié
-68185;Lièpvre;68;eau potable : PERIMETRE LIEPVRE;101530;2024;71,0;4,8;10,2;67,0;conforme;48338;48338;81;172;1632;Non vérifié
-68186;Ligsdorf;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;423;4;7;317;Non vérifié
-68187;Linsdorf;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;446;4;7;334;Non vérifié
-68188;Linthal;68;eau potable : Régie;231734;2024;83,2;3,5;17,2;68,4;conforme;132860;7782;36;88;586;Non vérifié
-68189;Logelheim;68;eau potable : principal;101689;2024;93,6;1,2;17,2;68,4;conforme;59962;3438;10;31;950;Non vérifié
-68190;Lucelle;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;39;4;7;29;Non vérifié
-68191;Luemschwiller;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;996;4;7;746;Non vérifié
-68192;Valdieu-Lutran;68;eau potable;101737;2024;66,6;3,9;7,7;66,5;conforme;28185;8803;57;187;421;Non vérifié
-68193;Luttenbach-près-Munster;68;eau potable;101534;2024;75,9;2,4;7,5;66,5;conforme;15032;15032;54;117;756;Non vérifié
-68194;Lutter;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;388;4;7;291;Non vérifié
-68195;Lutterbach;68;eau potable : Mulhouse et périphérie;289014;2024;88,3;4,7;35,7;72,1;conforme;1421120;51016;20;53;6851;Non vérifié
-68196;Magny;68;eau potable;101737;2024;66,6;3,9;7,7;66,5;conforme;28185;5980;57;187;286;Non vérifié
-68197;Magstatt-le-Bas;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;8914;47;111;517;Non vérifié
-68198;Magstatt-le-Haut;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;5431;47;111;315;Non vérifié
-68199;Malmerspach;68;eau potable;101677;2024;73,8;3,0;8,4;66,7;conforme;179799;7219;42;131;475;Non vérifié
-68200;Manspach;68;eau potable;101749;2024;79,0;2,6;9,8;67,0;conforme;9300;5523;28;97;544;Non vérifié
-68201;Masevaux-Niederbruck;68;eau potable : Masevaux : Commune nouvelle (MASEVAUX);218329;2024;91,9;1,4;16,3;68,3;conforme;21375;21375;16;41;3594;Non vérifié
-68202;Mertzen;68;eau potable;101757;2024;89,4;0,9;7,6;66,5;conforme;5584;939;13;43;200;Non vérifié
-68203;Merxheim;68;eau potable : Merxheim;232094;2024;83,9;2,4;12,4;67,5;conforme;9286;9286;18;71;1396;Non vérifié
-68204;Metzeral;68;eau potable;101547;2024;70,3;4,7;11,2;67,2;conforme;22130;22130;57;153;1058;Non vérifié
-68207;Michelbach-le-Bas;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;12449;47;111;722;Non vérifié
-68208;Michelbach-le-Haut;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;10966;47;111;636;Non vérifié
-68209;Mittelwihr;68;eau potable;101553;2024;82,3;2,6;12,2;67,4;conforme;9129;9129;29;78;853;Non vérifié
-68210;Mittlach;68;eau potable;101554;2020;88,0;;;;non calculable;;;;;339;Sans anomalie apparente
-68211;Mitzach;68;eau potable;101677;2024;73,8;3,0;8,4;66,7;conforme;179799;5684;42;131;374;Non vérifié
-68212;Moernach;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;691;4;7;518;Non vérifié
-68213;Mollau;68;eau potable;101677;2024;73,8;3,0;8,4;66,7;conforme;179799;5031;42;131;331;Non vérifié
-68214;Montreux-Jeune;68;eau potable;101737;2024;66,6;3,9;7,7;66,5;conforme;28185;7695;57;187;368;Non vérifié
-68215;Montreux-Vieux;68;eau potable;101560;2024;56,5;9,3;12,0;67,4;non conforme;28853;28853;85;282;928;Non vérifié
-68216;Mooslargue;68;eau potable;151558;2024;87,8;1,4;9,9;67,0;conforme;3153;3153;22;51;401;Non vérifié
-68217;Moosch;68;eau potable;101677;2024;73,8;3,0;8,4;66,7;conforme;179799;24242;42;131;1595;Non vérifié
-68218;Morschwiller-le-Bas;68;eau potable : Mulhouse et périphérie;289014;2024;88,3;4,7;35,7;72,1;conforme;1421120;27507;20;53;3694;Non vérifié
-68219;Le Haut Soultzbach;68;eau potable;101674;2024;86,8;2,9;18,8;68,8;conforme;127020;9252;29;63;879;Non vérifié
-68221;Muespach;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;1257;4;7;942;Non vérifié
-68222;Muespach-le-Haut;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;1572;4;7;1178;Non vérifié
-68223;Muhlbach-sur-Munster;68;eau potable;101563;2023;43,8;7,8;6,1;66,2;non conforme;45125;45125;151;470;818;Sans anomalie apparente
-68224;Mulhouse;68;eau potable : Mulhouse et périphérie;289014;2024;88,3;4,7;35,7;72,1;conforme;1421120;781715;20;53;104978;Non vérifié
-68225;Munchhouse;68;eau potable;101710;2024;87,5;1,3;9,3;66,9;conforme;24200;8672;16;51;1518;Non vérifié
-68226;Munster;68;eau potable;101566;2024;63,0;14,5;24,7;69,9;non conforme;182591;182591;106;216;4738;Non vérifié
-68227;Muntzenheim;68;eau potable;101769;2024;87,0;5,3;35,3;72,1;conforme;1040761;11820;25;58;1288;Non vérifié
-68229;Murbach;68;eau potable : Régie;231734;2024;83,2;3,5;17,2;68,4;conforme;132860;2178;36;88;164;Non vérifié
-68230;Nambsheim;68;eau potable;101686;2024;89,3;1,6;13,6;67,7;conforme;20095;2992;14;43;576;Non vérifié
-68231;Neuf-Brisach;68;eau potable : eau potable;214816;2024;68,5;7,2;15,7;68,1;conforme;499320;44966;65;168;1895;Non vérifié
-68232;Neuwiller;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;9052;47;111;525;Non vérifié
-68234;Niederentzen;68;eau potable : principal;101689;2024;93,6;1,2;17,2;68,4;conforme;59962;3101;10;31;857;Non vérifié
-68235;Niederhergheim;68;eau potable : principal;101689;2024;93,6;1,2;17,2;68,4;conforme;59962;4256;10;31;1176;Non vérifié
-68237;Niedermorschwihr;68;eau potable;101769;2024;87,0;5,3;35,3;72,1;conforme;1040761;4928;25;58;537;Non vérifié
-68238;Niffer;68;eau potable : SIE Ottmarsheim Hombourg Niffer;289114;2024;78,6;5,5;20,4;69,1;conforme;98107;21977;61;99;985;Non vérifié
-68239;Oberbruck;68;eau potable;101673;2024;53,2;7,7;8,8;66,8;non conforme;28948;13581;98;326;380;Non vérifié
-68240;Illtal;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;1605;4;7;1203;Non vérifié
-68241;Oberentzen;68;eau potable : principal;101689;2024;93,6;1,2;17,2;68,4;conforme;59962;2616;10;31;723;Non vérifié
-68242;Oberhergheim;68;eau potable : principal;101689;2024;93,6;1,2;17,2;68,4;conforme;59962;4759;10;31;1315;Non vérifié
-68243;Oberlarg;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;191;4;7;143;Non vérifié
-68244;Obermorschwihr;68;eau potable : principal;101689;2024;93,6;1,2;17,2;68,4;conforme;59962;1520;10;31;420;Non vérifié
-68245;Obermorschwiller;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;546;4;7;409;Non vérifié
-68246;Obersaasheim;68;eau potable : eau potable;214816;2024;68,5;7,2;15,7;68,1;conforme;499320;25152;65;168;1060;Non vérifié
-68247;Oderen;68;eau potable;101682;2024;89,6;0,6;4,9;66,0;conforme;861;69;0;45;1215;Non vérifié
-68248;Oltingue;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;928;4;7;695;Non vérifié
-68249;Orbey;68;eau potable : Orbey;101579;2024;96,0;0,4;9,8;67,0;conforme;5330;5330;4;15;3429;Non vérifié
-68250;Orschwihr;68;eau potable : Affermage-Caléo;101775;2024;86,8;3,4;22,3;69,5;conforme;219421;9534;26;62;1010;Non vérifié
-68251;Osenbach;68;eau potable : SIVOM DE L'OHMBACH;101711;2024;88,2;3,9;29,5;70,9;conforme;33267;14749;50;126;810;Non vérifié
-68252;Ostheim;68;eau potable;101581;2024;74,1;6,3;18,1;68,6;conforme;25294;25294;42;127;1651;Non vérifié
-68253;Ottmarsheim;68;eau potable : SIE Ottmarsheim Hombourg Niffer;289114;2024;78,6;5,5;20,4;69,1;conforme;98107;45829;61;99;2054;Non vérifié
-68254;Petit-Landau;68;eau potable : Petit Landau;289194;2024;91,2;0,8;8,6;66,7;conforme;3086;3086;10;35;822;Non vérifié
-68255;Pfaffenheim;68;eau potable;101586;2024;70,1;4,6;10,7;67,1;conforme;29164;29164;58;157;1373;Non vérifié
-68256;Pfastatt;68;eau potable : Mulhouse et périphérie;289014;2024;88,3;4,7;35,7;72,1;conforme;1421120;76803;20;53;10314;Non vérifié
-68257;Pfetterhouse;68;eau potable;151562;2024;73,8;3,1;8,9;66,8;conforme;19054;19054;53;128;987;Non vérifié
-68258;Pulversheim;68;eau potable : Pulversheim;289214;2024;88,3;1,9;14,5;67,9;conforme;16575;16575;15;48;3069;Non vérifié
-68259;Raedersdorf;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;642;4;7;481;Non vérifié
-68260;Raedersheim;68;eau potable : Raedersheim;101593;2024;90,5;1,3;12,1;67,4;conforme;5632;5632;13;39;1173;Non vérifié
-68261;Rammersmatt;68;eau potable :  THANN;101684;2024;81,3;6,3;27,2;70,4;conforme;347431;4373;55;85;219;Non vérifié
-68262;Ranspach;68;eau potable;101682;2024;89,6;0,6;4,9;66,0;conforme;861;44;0;45;769;Non vérifié
-68263;Ranspach-le-Bas;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;11035;47;111;640;Non vérifié
-68264;Ranspach-le-Haut;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;10811;47;111;627;Non vérifié
-68265;Rantzwiller;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;13828;47;111;802;Non vérifié
-68266;Réguisheim;68;eau potable;101599;2024;93,3;1,0;13,8;67,8;conforme;5409;5409;7;26;2011;Non vérifié
-68267;Reiningue;68;eau potable : Mulhouse et périphérie;289014;2024;88,3;4,7;35,7;72,1;conforme;1421120;14104;20;53;1894;Non vérifié
-68268;Retzwiller;68;eau potable;151563;2024;94,1;0,8;12,7;67,5;conforme;1790;1790;7;23;689;Non vérifié
-68269;Ribeauvillé;68;eau potable : PERIMETRE RIBEAUVILLE;101603;2024;89,0;3,8;30,2;71,0;conforme;51069;51069;30;46;4685;Non vérifié
-68270;Richwiller;68;eau potable : Richwiller;289234;2024;63,9;17,1;30,3;71,1;non conforme;100800;100800;71;206;3905;Non vérifié
-68271;Riedisheim;68;eau potable : Mulhouse et périphérie;289014;2024;88,3;4,7;35,7;72,1;conforme;1421120;90847;20;53;12200;Non vérifié
-68273;Riespach;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;871;4;7;653;Non vérifié
-68274;Rimbach-près-Guebwiller;68;eau potable : Régie;231734;2024;83,2;3,5;17,2;68,4;conforme;132860;2868;36;88;216;Non vérifié
-68275;Rimbach-près-Masevaux;68;eau potable;101673;2024;53,2;7,7;8,8;66,8;non conforme;28948;15368;98;326;430;Non vérifié
-68276;Rimbachzell;68;eau potable : Régie;231734;2024;83,2;3,5;17,2;68,4;conforme;132860;2497;36;88;188;Non vérifié
-68277;Riquewihr;68;eau potable;101609;2024;83,4;4,4;22,0;69,4;conforme;18469;18469;51;73;999;Non vérifié
-68278;Rixheim;68;eau potable : Mulhouse et périphérie;289014;2024;88,3;4,7;35,7;72,1;conforme;1421120;107080;20;53;14380;Non vérifié
-68279;Roderen;68;eau potable :  THANN;101684;2024;81,3;6,3;27,2;70,4;conforme;347431;18011;55;85;902;Non vérifié
-68280;Rodern;68;eau potable : RODERN;101612;2024;94,0;1,0;17,1;68,4;conforme;1274;1274;9;21;401;Non vérifié
-68281;Roggenhouse;68;eau potable;101710;2024;87,5;1,3;9,3;66,9;conforme;24200;2616;16;51;458;Non vérifié
-68282;Romagny;68;eau potable;101737;2024;66,6;3,9;7,7;66,5;conforme;28185;5708;57;187;273;Non vérifié
-68283;Rombach-le-Franc;68;eau potable : PERIMETRE ROMBACH-LE-FRANC;101614;2024;58,0;4,2;5,8;66,2;non conforme;18043;18043;64;265;775;Non vérifié
-68284;Roppentzwiller;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;889;4;7;666;Non vérifié
-68285;Rorschwihr;68;eau potable : PERIMETRE RORSCHWIHR;222394;2024;87,0;1,9;13,0;67,6;conforme;2559;2559;19;53;370;Non vérifié
-68286;Rosenau;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;41312;47;111;2396;Non vérifié
-68287;Rouffach;68;eau potable;101619;2024;82,3;4,5;20,8;69,2;conforme;51772;51772;33;97;4238;Non vérifié
-68288;Ruederbach;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;514;4;7;385;Non vérifié
-68289;Ruelisheim;68;eau potable : SIAEP BABARU;101666;2024;62,0;8,8;14,3;67,9;non conforme;167602;63249;69;225;2519;Non vérifié
-68290;Rustenhart;68;eau potable;101710;2024;87,5;1,3;9,3;66,9;conforme;24200;5719;16;51;1001;Non vérifié
-68291;Rumersheim-le-Haut;68;eau potable;101621;2024;80,7;2,9;12,0;67,4;conforme;10437;10437;27;88;1068;Non vérifié
-68292;Saint-Amarin;68;eau potable;101682;2024;89,6;0,6;4,9;66,0;conforme;861;124;0;45;2173;Non vérifié
-68293;Saint-Cosme;68;eau potable;101739;2024;84,5;1,3;7,2;66,4;conforme;16892;830;30;79;75;Non vérifié
-68294;Sainte-Croix-aux-Mines;68;eau potable : SAINTE-CROIX-AUX-MINES;101624;2024;88,0;1,8;12,8;67,6;conforme;11826;11826;19;51;1742;Non vérifié
-68295;Sainte-Croix-en-Plaine;68;eau potable;101769;2024;87,0;5,3;35,3;72,1;conforme;1040761;27567;25;58;3004;Non vérifié
-68296;Saint-Hippolyte;68;eau potable : PERIMETRE SAINT-HIPPOLYTE;222396;2024;72,0;6,3;15,7;68,1;conforme;22627;22627;67;146;927;Non vérifié
-68297;Saint-Louis;68;eau potable : délégation;285174;2024;83,5;7,8;39,2;72,8;conforme;776235;371018;45;81;22805;Non vérifié
-68298;Sainte-Marie-aux-Mines;68;eau potable : SAINTE-MARIE-AUX-MINES;101628;2024;78,0;5,7;20,5;69,1;conforme;68074;68074;38;105;4851;Non vérifié
-68299;Saint-Ulrich;68;eau potable;101757;2024;89,4;0,9;7,6;66,5;conforme;5584;1403;13;43;299;Non vérifié
-68300;Sausheim;68;eau potable : Mulhouse et périphérie;289014;2024;88,3;4,7;35,7;72,1;conforme;1421120;42192;20;53;5666;Non vérifié
-68301;Schlierbach;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;22398;47;111;1299;Non vérifié
-68302;Schweighouse-Thann;68;eau potable;101674;2024;86,8;2,9;18,8;68,8;conforme;127020;7873;29;63;748;Non vérifié
-68303;Schwoben;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;306;4;7;229;Non vérifié
-68304;Sentheim;68;eau potable;101674;2024;86,8;2,9;18,8;68,8;conforme;127020;16083;29;63;1528;Non vérifié
-68305;Seppois-le-Bas;68;eau potable;101759;2024;61,8;9,0;14,5;67,9;non conforme;58802;43558;83;226;1443;Non vérifié
-68306;Seppois-le-Haut;68;eau potable;101759;2024;61,8;9,0;14,5;67,9;non conforme;58802;15244;83;226;505;Non vérifié
-68307;Sewen;68;eau potable;151565;2023;56,6;3,6;4,8;66,0;non conforme;11826;11826;68;276;480;Sans anomalie apparente
-68308;Sickert;68;eau potable;151566;2024;94,5;0,5;8,8;66,8;conforme;657;657;5;21;333;Non vérifié
-68309;Sierentz;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;76021;47;111;4409;Non vérifié
-68311;Sondernach;68;eau potable;101635;2024;84,5;1,5;8,0;66,6;conforme;4216;4216;20;68;590;Non vérifié
-68312;Sondersdorf;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;426;4;7;319;Non vérifié
-68313;Soppe-le-Bas;68;eau potable;101674;2024;86,8;2,9;18,8;68,8;conforme;127020;8147;29;63;774;Non vérifié
-68315;Soultz-Haut-Rhin;68;eau potable : Régie;231734;2024;83,2;3,5;17,2;68,4;conforme;132860;93115;36;88;7012;Non vérifié
-68316;Soultzbach-les-Bains;68;eau potable;101637;2024;77,1;4,3;14,4;67,9;conforme;9417;9417;35;109;731;Non vérifié
-68317;Soultzeren;68;eau potable;101640;2024;64,8;4,9;8,9;66,8;non conforme;29421;29421;68;200;1183;Non vérifié
-68318;Soultzmatt;68;eau potable : Soultzmatt;232074;2024;89,4;2,9;24,1;69,8;conforme;28410;28410;31;87;2487;Non vérifié
-68320;Spechbach;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;1892;4;7;1418;Non vérifié
-68321;Staffelfelden;68;eau potable : Staffelfelden;289254;2024;45,5;22,4;18,7;68,7;non conforme;102527;102527;69;437;4072;Non vérifié
-68322;Steinbach;68;eau potable : Régie : CERNAY;101676;2024;83,9;3,5;18,5;68,7;conforme;169665;14022;28;76;1379;Non vérifié
-68323;Steinbrunn-le-Bas;68;eau potable : Steinbrunn-le-Bas;289255;2024;67,6;5,9;12,2;67,4;conforme;19812;19812;64;176;848;Non vérifié
-68324;Steinbrunn-le-Haut;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;11949;47;111;693;Non vérifié
-68325;Steinsoultz;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;992;4;7;743;Non vérifié
-68326;Sternenberg;68;eau potable;101739;2024;84,5;1,3;7,2;66,4;conforme;16892;1572;30;79;142;Non vérifié
-68327;Stetten;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;5759;47;111;334;Non vérifié
-68328;Storckensohn;68;eau potable;101677;2024;73,8;3,0;8,4;66,7;conforme;179799;2797;42;131;184;Non vérifié
-68330;Strueth;68;eau potable;101757;2024;89,4;0,9;7,6;66,5;conforme;5584;1689;13;43;360;Non vérifié
-68331;Sundhoffen;68;eau potable;101769;2024;87,0;5,3;35,3;72,1;conforme;1040761;18289;25;58;1993;Non vérifié
-68332;Tagolsheim;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;1323;4;7;991;Non vérifié
-68333;Tagsdorf;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;434;4;7;325;Non vérifié
-68334;Thann;68;eau potable :  THANN;101684;2024;81,3;6,3;27,2;70,4;conforme;347431;154986;55;85;7762;Non vérifié
-68336;Traubach-le-Bas;68;eau potable;101738;2024;95,2;0,6;11,1;67,2;conforme;5782;1480;8;20;484;Non vérifié
-68337;Traubach-le-Haut;68;eau potable;101738;2024;95,2;0,6;11,1;67,2;conforme;5782;1978;8;20;647;Non vérifié
-68338;Turckheim;68;eau potable;101769;2024;87,0;5,3;35,3;72,1;conforme;1040761;37983;25;58;4139;Non vérifié
-68340;Ueberstrass;68;eau potable;101650;2024;83,0;2,6;12,8;67,6;conforme;3322;3322;27;74;333;Non vérifié
-68341;Uffheim;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;19691;47;111;1142;Non vérifié
-68342;Uffholtz;68;eau potable : Régie : CERNAY;101676;2024;83,9;3,5;18,5;68,7;conforme;169665;16411;28;76;1614;Non vérifié
-68343;Ungersheim;68;eau potable : Ungersheim;289274;2024;79,4;5,3;20,3;69,1;conforme;31416;31416;35;95;2449;Non vérifié
-68344;Urbès;68;eau potable;101677;2024;73,8;3,0;8,4;66,7;conforme;179799;6490;42;131;427;Non vérifié
-68345;Urschenheim;68;eau potable : eau potable;214816;2024;68,5;7,2;15,7;68,1;conforme;499320;19173;65;168;808;Non vérifié
-68347;Vieux-Ferrette;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;854;4;7;640;Non vérifié
-68348;Vieux-Thann;68;eau potable :  THANN;101684;2024;81,3;6,3;27,2;70,4;conforme;347431;57226;55;85;2866;Non vérifié
-68349;Village-Neuf;68;eau potable : délégation;285174;2024;83,5;7,8;39,2;72,8;conforme;776235;76612;45;81;4709;Non vérifié
-68350;Voegtlinshoffen;68;eau potable : principal;101689;2024;93,6;1,2;17,2;68,4;conforme;59962;1733;10;31;479;Non vérifié
-68351;Vogelgrun;68;eau potable : eau potable;214816;2024;68,5;7,2;15,7;68,1;conforme;499320;14902;65;168;628;Non vérifié
-68352;Volgelsheim;68;eau potable : eau potable;214816;2024;68,5;7,2;15,7;68,1;conforme;499320;64542;65;168;2720;Non vérifié
-68353;Wahlbach;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;8759;47;111;508;Non vérifié
-68354;Walbach;68;eau potable;101769;2024;87,0;5,3;35,3;72,1;conforme;1040761;8589;25;58;936;Non vérifié
-68355;Waldighoffen;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;2079;4;7;1558;Non vérifié
-68356;Walheim;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;1186;4;7;889;Non vérifié
-68357;Waltenheim;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;8725;47;111;506;Non vérifié
-68358;Wasserbourg;68;eau potable;101656;2024;73,4;3,3;9,2;66,8;conforme;5480;5480;32;131;465;Non vérifié
-68359;Wattwiller;68;eau potable : Régie : CERNAY;101676;2024;83,9;3,5;18,5;68,7;conforme;169665;16635;28;76;1636;Non vérifié
-68360;Weckolsheim;68;eau potable : eau potable;214816;2024;68,5;7,2;15,7;68,1;conforme;499320;17607;65;168;742;Non vérifié
-68361;Wegscheid;68;eau potable;151574;2024;79,3;1,5;5,8;66,2;conforme;2891;2891;25;94;315;Non vérifié
-68362;Wentzwiller;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;13449;47;111;780;Non vérifié
-68363;Werentzhouse;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;845;4;7;633;Non vérifié
-68364;Westhalten;68;eau potable : SIVOM DE L'OHMBACH;101711;2024;88,2;3,9;29,5;70,9;conforme;33267;18518;50;126;1017;Non vérifié
-68365;Wettolsheim;68;eau potable;101769;2024;87,0;5,3;35,3;72,1;conforme;1040761;16371;25;58;1784;Non vérifié
-68366;Wickerschwihr;68;eau potable;101769;2024;87,0;5,3;35,3;72,1;conforme;1040761;6809;25;58;742;Non vérifié
-68367;Widensolen;68;eau potable : eau potable;214816;2024;68,5;7,2;15,7;68,1;conforme;499320;28830;65;168;1215;Non vérifié
-68368;Wihr-au-Val;68;eau potable;101657;2024;88,8;1,5;11,6;67,3;conforme;6942;6942;16;47;1195;Non vérifié
-68370;Wildenstein;68;eau potable;101677;2024;73,8;3,0;8,4;66,7;conforme;179799;2356;42;131;155;Non vérifié
-68371;Willer;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;394;4;7;295;Non vérifié
-68372;Willer-sur-Thur;68;eau potable :  THANN;101684;2024;81,3;6,3;27,2;70,4;conforme;347431;35402;55;85;1773;Non vérifié
-68373;Winkel;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;402;4;7;301;Non vérifié
-68374;Wintzenheim;68;eau potable;101769;2024;87,0;5,3;35,3;72,1;conforme;1040761;73955;25;58;8059;Non vérifié
-68375;Wittelsheim;68;eau potable : Wittelsheim;289294;2024;79,3;4,3;16,6;68,3;conforme;123159;123159;32;95;10645;Non vérifié
-68376;Wittenheim;68;eau potable : Wittenheim;289314;2024;66,3;18,1;35,7;72,1;non conforme;329664;329664;58;185;15553;Non vérifié
-68377;Wittersdorf;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;1026;4;7;769;Non vérifié
-68378;Wolfersdorf;68;eau potable;101738;2024;95,2;0,6;11,1;67,2;conforme;5782;1082;8;20;354;Non vérifié
-68379;Wolfgantzen;68;eau potable : eau potable;214816;2024;68,5;7,2;15,7;68,1;conforme;499320;28237;65;168;1190;Non vérifié
-68380;Wolschwiller;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;575;4;7;431;Non vérifié
-68381;Wuenheim;68;eau potable : Affermage-Caléo;101775;2024;86,8;3,4;22,3;69,5;conforme;219421;7250;26;62;768;Non vérifié
-68382;Zaessingue;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;6466;47;111;375;Non vérifié
-68383;Zellenberg;68;eau potable;101663;2024;100,0;0,0;6,7;66,3;conforme;0;0;0;0;321;Non vérifié
-68384;Zillisheim;68;eau potable;101667;2024;65,8;6,9;13,3;67,7;non conforme;361455;69465;74;225;2561;Non vérifié
-68385;Zimmerbach;68;eau potable;101769;2024;87,0;5,3;35,3;72,1;conforme;1040761;7562;25;58;824;Non vérifié
-68386;Zimmersheim;68;eau potable : Mulhouse et périphérie;289014;2024;88,3;4,7;35,7;72,1;conforme;1421120;8065;20;53;1083;Non vérifié
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement);Donnée suspecte (voir LISEZMOI)
+68001;Algolsheim;68;eau potable : eau potable;214816;2024;68,5;7,2;15,7;68,1;conforme;499320;26386;65;168;1112;Non vérifié;non
+68002;Altenach;68;eau potable;101749;2024;79,0;2,6;9,8;67,0;conforme;9300;3777;28;97;372;Non vérifié;non
+68004;Altkirch;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;7590;4;7;5687;Non vérifié;non
+68005;Ammerschwihr;68;eau potable;101766;2024;87,0;4,0;26,6;70,3;conforme;5052;1276;2;55;1580;Non vérifié;non
+68006;Bernwiller;68;eau potable;101741;2024;85,1;1,7;9,8;67,0;conforme;39092;8673;20;64;1205;Non vérifié;non
+68007;Andolsheim;68;eau potable;101769;2024;87,0;5,3;35,3;72,1;conforme;1040761;20180;25;58;2199;Non vérifié;non
+68008;Appenwihr;68;eau potable : principal;101689;2024;93,6;1,2;17,2;68,4;conforme;59962;2121;10;31;586;Non vérifié;non
+68009;Artzenheim;68;eau potable : eau potable;214816;2024;68,5;7,2;15,7;68,1;conforme;499320;20335;65;168;857;Non vérifié;non
+68010;Aspach;68;eau potable;101667;2024;65,8;6,9;13,3;67,7;non conforme;361455;30867;74;225;1138;Non vérifié;non
+68011;Aspach-le-Bas;68;eau potable;101674;2024;86,8;2,9;18,8;68,8;conforme;127020;13283;29;63;1262;Non vérifié;non
+68012;Aspach-Michelbach;68;eau potable;101674;2024;86,8;2,9;18,8;68,8;conforme;127020;18388;29;63;1747;Non vérifié;non
+68013;Attenschwiller;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;16535;47;111;959;Non vérifié;non
+68014;Aubure;68;eau potable;101425;2024;37,3;5,7;3,4;65,7;non conforme;27192;27192;211;610;353;Non vérifié;non
+68015;Baldersheim;68;eau potable : SIAEP BABARU;101666;2024;62,0;8,8;14,3;67,9;non conforme;167602;65183;69;225;2596;Non vérifié;non
+68016;Balgau;68;eau potable;101686;2024;89,3;1,6;13,6;67,7;conforme;20095;4920;14;43;947;Non vérifié;non
+68017;Ballersdorf;68;eau potable;101741;2024;85,1;1,7;9,8;67,0;conforme;39092;5888;20;64;818;Non vérifié;non
+68018;Balschwiller;68;eau potable;101741;2024;85,1;1,7;9,8;67,0;conforme;39092;5247;20;64;729;Non vérifié;non
+68019;Baltzenheim;68;eau potable : eau potable;214816;2024;68,5;7,2;15,7;68,1;conforme;499320;13786;65;168;581;Non vérifié;non
+68020;Bantzenheim;68;eau potable : Bantzenheim;288794;2024;78,6;3,1;11,5;67,3;conforme;20480;20480;34;98;1630;Non vérifié;non
+68021;Bartenheim;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;72607;47;111;4211;Non vérifié;non
+68022;Battenheim;68;eau potable : SIAEP BABARU;101666;2024;62,0;8,8;14,3;67,9;non conforme;167602;39170;69;225;1560;Non vérifié;non
+68023;Beblenheim;68;eau potable;101431;2024;88,7;2,4;18,6;68,7;conforme;7306;7306;22;47;928;Non vérifié;non
+68024;Bellemagny;68;eau potable;101739;2024;84,5;1,3;7,2;66,4;conforme;16892;1627;30;79;147;Non vérifié;non
+68025;Bendorf;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;327;4;7;245;Non vérifié;non
+68026;Bennwihr;68;eau potable : Bennwihr Gare;308654;2024;81,5;1,7;7,7;66,5;conforme;5038;5038;10;81;1326;Non vérifié;non
+68027;Berentzwiller;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;452;4;7;339;Non vérifié;non
+68028;Bergheim;68;eau potable : Bergheim;101436;2024;78,0;4,3;14,9;68,0;conforme;38720;38720;51;105;2069;Non vérifié;non
+68029;Bergholtz;68;eau potable : Affermage-Caléo;101775;2024;86,8;3,4;22,3;69,5;conforme;219421;9808;26;62;1039;Non vérifié;non
+68030;Bergholtzzell;68;eau potable : Affermage-Caléo;101775;2024;86,8;3,4;22,3;69,5;conforme;219421;3634;26;62;385;Non vérifié;non
+68032;Berrwiller;68;eau potable : Berrwiller;288954;2024;74,9;4,4;13,3;67,7;conforme;20878;20878;44;137;1294;Non vérifié;non
+68033;Bettendorf;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;626;4;7;469;Non vérifié;non
+68034;Bettlach;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;400;4;7;300;Non vérifié;non
+68035;Biederthal;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;442;4;7;331;Non vérifié;non
+68036;Biesheim;68;eau potable : eau potable;214816;2024;68,5;7,2;15,7;68,1;conforme;499320;59298;65;168;2499;Non vérifié;non
+68037;Biltzheim;68;eau potable : principal;101689;2024;93,6;1,2;17,2;68,4;conforme;59962;1846;10;31;510;Non vérifié;non
+68038;Bischwihr;68;eau potable;101769;2024;87,0;5,3;35,3;72,1;conforme;1040761;11030;25;58;1202;Non vérifié;non
+68039;Bisel;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;717;4;7;537;Non vérifié;non
+68040;Bitschwiller-lès-Thann;68;eau potable :  THANN;101684;2024;81,3;6,3;27,2;70,4;conforme;347431;39655;55;85;1986;Non vérifié;non
+68041;Blodelsheim;68;eau potable;101441;2024;89,8;1,4;12,4;67,5;conforme;9198;9198;13;41;1971;Non vérifié;non
+68042;Blotzheim;68;eau potable : délégation;285174;2024;83,5;7,8;39,2;72,8;conforme;776235;85934;45;81;5282;Non vérifié;non
+68043;Bollwiller;68;eau potable : Bollwiller;288974;2024;93,2;1,6;21,8;69,4;conforme;12918;12918;8;27;4184;Non vérifié;non
+68044;Le Bonhomme;68;eau potable : LE BONHOMME;101443;2024;49,0;13,4;13,1;67,6;non conforme;31351;31351;115;382;744;Non vérifié;non
+68045;Bourbach-le-Bas;68;eau potable :  THANN;101684;2024;81,3;6,3;27,2;70,4;conforme;347431;11102;55;85;556;Non vérifié;non
+68046;Bourbach-le-Haut;68;eau potable :  THANN;101684;2024;81,3;6,3;27,2;70,4;conforme;347431;8147;55;85;408;Non vérifié;non
+68049;Bouxwiller;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;566;4;7;424;Non vérifié;non
+68050;Bréchaumont;68;eau potable;101739;2024;84,5;1,3;7,2;66,4;conforme;16892;4505;30;79;407;Non vérifié;non
+68052;Bretten;68;eau potable;101739;2024;84,5;1,3;7,2;66,4;conforme;16892;2037;30;79;184;Non vérifié;non
+68054;Brinckheim;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;6931;47;111;402;Non vérifié;non
+68055;Bruebach;68;eau potable : Bruebach;288994;2024;80,0;2,5;9,9;67,0;conforme;11041;11041;29;92;1042;Non vérifié;non
+68056;Brunstatt-Didenheim;68;eau potable : Mulhouse et périphérie;289014;2024;88,3;4,7;35,7;72,1;conforme;1421120;61500;20;53;8259;Non vérifié;non
+68057;Buethwiller;68;eau potable;101741;2024;85,1;1,7;9,8;67,0;conforme;39092;1727;20;64;240;Non vérifié;non
+68058;Buhl;68;eau potable : Affermage-Caléo;101775;2024;86,8;3,4;22,3;69,5;conforme;219421;29262;26;62;3100;Non vérifié;non
+68059;Burnhaupt-le-Bas;68;eau potable;101674;2024;86,8;2,9;18,8;68,8;conforme;127020;20724;29;63;1969;Non vérifié;non
+68060;Burnhaupt-le-Haut;68;eau potable;101674;2024;86,8;2,9;18,8;68,8;conforme;127020;18872;29;63;1793;Non vérifié;non
+68061;Buschwiller;68;eau potable : délégation;285174;2024;83,5;7,8;39,2;72,8;conforme;776235;17034;45;81;1047;Non vérifié;non
+68062;Carspach;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;2791;4;7;2091;Non vérifié;non
+68063;Cernay;68;eau potable : Régie : CERNAY;101676;2024;83,9;3,5;18,5;68,7;conforme;169665;122597;28;76;12057;Non vérifié;non
+68064;Chalampé;68;eau potable : Chalampé;289074;2024;76,9;14,5;48,3;74,7;conforme;55042;55042;151;110;996;Non vérifié;non
+68065;Chavannes-sur-l'Étang;68;eau potable;101768;2024;88,1;1,0;7,4;66,5;conforme;5512;3868;16;49;652;Non vérifié;non
+68066;Colmar;68;eau potable;101769;2024;87,0;5,3;35,3;72,1;conforme;1040761;614566;25;58;66970;Non vérifié;non
+68067;Courtavon;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;458;4;7;343;Non vérifié;non
+68068;Dannemarie;68;eau potable;151542;2024;71,5;4,6;11,6;67,3;conforme;45299;45299;55;147;2248;Non vérifié;non
+68069;Dessenheim;68;eau potable : eau potable;214816;2024;68,5;7,2;15,7;68,1;conforme;499320;34217;65;168;1442;Non vérifié;non
+68071;Diefmatten;68;eau potable;101741;2024;85,1;1,7;9,8;67,0;conforme;39092;2210;20;64;307;Non vérifié;non
+68072;Dietwiller;68;eau potable : Dietwiller;304394;2024;69,8;6,3;14,6;67,9;conforme;26674;26674;53;157;1385;Non vérifié;non
+68073;Dolleren;68;eau potable;101461;2024;85,5;1,8;10,7;67,1;conforme;2562;2562;16;61;449;Non vérifié;non
+68074;Durlinsdorf;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;665;4;7;498;Non vérifié;non
+68075;Durmenach;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;1116;4;7;836;Non vérifié;non
+68076;Durrenentzen;68;eau potable : eau potable;214816;2024;68,5;7,2;15,7;68,1;conforme;499320;25200;65;168;1062;Non vérifié;non
+68077;Eglingen;68;eau potable;101741;2024;85,1;1,7;9,8;67,0;conforme;39092;2577;20;64;358;Non vérifié;non
+68078;Eguisheim;68;eau potable : principal;101689;2024;93,6;1,2;17,2;68,4;conforme;59962;6257;10;31;1729;Non vérifié;non
+68079;Elbach;68;eau potable;101768;2024;88,1;1,0;7,4;66,5;conforme;5512;1643;16;49;277;Non vérifié;non
+68080;Emlingen;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;410;4;7;307;Non vérifié;non
+68081;Saint-Bernard;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;810;4;7;607;Non vérifié;non
+68082;Ensisheim;68;eau potable;101465;2024;90,8;1,8;17,6;68,5;conforme;33822;33822;13;37;7306;Non vérifié;non
+68083;Eschbach-au-Val;68;eau potable;101468;2024;86,5;0,9;5,6;66,1;conforme;2102;2102;15;59;378;Non vérifié;non
+68084;Eschentzwiller;68;eau potable : Mulhouse et périphérie;289014;2024;88,3;4,7;35,7;72,1;conforme;1421120;11371;20;53;1527;Non vérifié;non
+68085;Eteimbes;68;eau potable;101739;2024;84,5;1,3;7,2;66,4;conforme;16892;4483;30;79;405;Non vérifié;non
+68086;Falkwiller;68;eau potable;101741;2024;85,1;1,7;9,8;67,0;conforme;39092;1540;20;64;214;Non vérifié;non
+68087;Feldbach;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;630;4;7;472;Non vérifié;non
+68088;Feldkirch;68;eau potable : Feldkirch;289094;2024;76,0;6,1;19,2;68,8;conforme;17367;17367;45;116;1047;Non vérifié;non
+68089;Fellering;68;eau potable;101682;2024;89,6;0,6;4,9;66,0;conforme;861;89;0;45;1569;Non vérifié;non
+68090;Ferrette;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;1153;4;7;864;Non vérifié;non
+68091;Fessenheim;68;eau potable;101686;2024;89,3;1,6;13,6;67,7;conforme;20095;12183;14;43;2345;Non vérifié;non
+68092;Fislis;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;528;4;7;396;Non vérifié;non
+68093;Flaxlanden;68;eau potable;101667;2024;65,8;6,9;13,3;67,7;non conforme;361455;37160;74;225;1370;Non vérifié;non
+68094;Folgensbourg;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;15621;47;111;906;Non vérifié;non
+68095;Fortschwihr;68;eau potable;101769;2024;87,0;5,3;35,3;72,1;conforme;1040761;10994;25;58;1198;Non vérifié;non
+68096;Franken;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;472;4;7;354;Non vérifié;non
+68097;Fréland;68;eau potable : FRELAND;101472;2024;55,0;6,9;8,4;66,7;non conforme;34176;34176;73;299;1288;Non vérifié;non
+68098;Friesen;68;eau potable;151547;2024;76,4;3,8;12,2;67,4;conforme;7864;7864;33;113;651;Non vérifié;non
+68099;Froeningen;68;eau potable;101667;2024;65,8;6,9;13,3;67,7;non conforme;361455;23896;74;225;881;Non vérifié;non
+68100;Fulleren;68;eau potable;101757;2024;89,4;0,9;7,6;66,5;conforme;5584;1553;13;43;331;Non vérifié;non
+68101;Galfingue;68;eau potable;101667;2024;65,8;6,9;13,3;67,7;non conforme;361455;21781;74;225;803;Non vérifié;non
+68102;Geishouse;68;eau potable;101682;2024;89,6;0,6;4,9;66,0;conforme;861;24;0;45;424;Non vérifié;non
+68103;Geispitzen;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;8897;47;111;516;Non vérifié;non
+68104;Geiswasser;68;eau potable : eau potable;214816;2024;68,5;7,2;15,7;68,1;conforme;499320;8091;65;168;341;Non vérifié;non
+68105;Gildwiller;68;eau potable;101741;2024;85,1;1,7;9,8;67,0;conforme;39092;1879;20;64;261;Non vérifié;non
+68106;Goldbach-Altenbach;68;eau potable;101682;2024;89,6;0,6;4,9;66,0;conforme;861;15;0;45;261;Non vérifié;non
+68107;Gommersdorf;68;eau potable;101738;2024;95,2;0,6;11,1;67,2;conforme;5782;1241;8;20;406;Non vérifié;non
+68109;Griesbach-au-Val;68;eau potable;101477;2024;94,8;0,9;16,5;68,3;conforme;2004;2004;8;20;678;Non vérifié;non
+68110;Grussenheim;68;eau potable : PERIMETRE RIED DE MARCKOLSHEIM;222343;2024;85,0;2,4;13,3;67,7;conforme;165617;5808;20;66;805;Non vérifié;non
+68111;Gueberschwihr;68;eau potable;101479;2024;69,0;5,3;11,7;67,3;conforme;19964;19964;68;165;807;Non vérifié;non
+68112;Guebwiller;68;eau potable : Affermage-Caléo;101775;2024;86,8;3,4;22,3;69,5;conforme;219421;106128;26;62;11243;Non vérifié;non
+68113;Guémar;68;eau potable : distribution;211318;2024;90,8;1,4;13,9;67,8;conforme;10833;7314;13;37;1490;Non vérifié;non
+68114;Guevenatten;68;eau potable;101739;2024;84,5;1,3;7,2;66,4;conforme;16892;1838;30;79;166;Non vérifié;non
+68115;Guewenheim;68;eau potable;101674;2024;86,8;2,9;18,8;68,8;conforme;127020;14399;29;63;1368;Non vérifié;non
+68116;Gundolsheim;68;eau potable;101712;2024;93,1;0,8;11,2;67,2;conforme;2044;2044;8;26;735;Non vérifié;non
+68117;Gunsbach;68;eau potable;101482;2024;93,7;1,1;15,8;68,2;conforme;2770;2770;9;26;856;Non vérifié;non
+68118;Habsheim;68;eau potable : Mulhouse et périphérie;289014;2024;88,3;4,7;35,7;72,1;conforme;1421120;37798;20;53;5076;Non vérifié;non
+68119;Hagenbach;68;eau potable;101741;2024;85,1;1,7;9,8;67,0;conforme;39092;5557;20;64;772;Non vérifié;non
+68120;Hagenthal-le-Bas;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;24449;47;111;1418;Non vérifié;non
+68121;Hagenthal-le-Haut;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;13207;47;111;766;Non vérifié;non
+68122;Hartmannswiller;68;eau potable : Affermage-Caléo;101775;2024;86,8;3,4;22,3;69,5;conforme;219421;6173;26;62;654;Non vérifié;non
+68123;Hattstatt;68;eau potable : principal;101689;2024;93,6;1,2;17,2;68,4;conforme;59962;3120;10;31;862;Non vérifié;non
+68124;Hausgauen;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;492;4;7;369;Non vérifié;non
+68125;Hecken;68;eau potable;101741;2024;85,1;1,7;9,8;67,0;conforme;39092;3793;20;64;527;Non vérifié;non
+68126;Hégenheim;68;eau potable : délégation;285174;2024;83,5;7,8;39,2;72,8;conforme;776235;55478;45;81;3410;Non vérifié;non
+68127;Heidwiller;68;eau potable;101667;2024;65,8;6,9;13,3;67,7;non conforme;361455;17387;74;225;641;Non vérifié;non
+68128;Heimersdorf;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;861;4;7;645;Non vérifié;non
+68129;Heimsbrunn;68;eau potable;101667;2024;65,8;6,9;13,3;67,7;non conforme;361455;35641;74;225;1314;Non vérifié;non
+68130;Heiteren;68;eau potable : eau potable;214816;2024;68,5;7,2;15,7;68,1;conforme;499320;25366;65;168;1069;Non vérifié;non
+68131;Heiwiller;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;254;4;7;190;Non vérifié;non
+68132;Helfrantzkirch;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;12707;47;111;737;Non vérifié;non
+68134;Herrlisheim-près-Colmar;68;eau potable;101769;2024;87,0;5,3;35,3;72,1;conforme;1040761;17537;25;58;1911;Non vérifié;non
+68135;Hésingue;68;eau potable : délégation;285174;2024;83,5;7,8;39,2;72,8;conforme;776235;48352;45;81;2972;Non vérifié;non
+68136;Hettenschlag;68;eau potable : principal;101689;2024;93,6;1,2;17,2;68,4;conforme;59962;1292;10;31;357;Non vérifié;non
+68137;Hindlingen;68;eau potable;151550;2024;85,6;3,6;21,4;69,3;conforme;5768;5768;24;61;646;Non vérifié;non
+68138;Hirsingue;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;2832;4;7;2122;Non vérifié;non
+68139;Hirtzbach;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;1892;4;7;1418;Non vérifié;non
+68140;Hirtzfelden;68;eau potable;101710;2024;87,5;1,3;9,3;66,9;conforme;24200;7192;16;51;1259;Non vérifié;non
+68141;Hochstatt;68;eau potable;101667;2024;65,8;6,9;13,3;67,7;non conforme;361455;58941;74;225;2173;Non vérifié;non
+68142;Hohrod;68;eau potable;101495;2024;95,5;0,3;6,9;66,4;conforme;1003;1003;8;16;349;Non vérifié;non
+68143;Porte du Ried;68;eau potable;101769;2024;87,0;5,3;35,3;72,1;conforme;1040761;18087;25;58;1971;Non vérifié;non
+68144;Hombourg;68;eau potable : SIE Ottmarsheim Hombourg Niffer;289114;2024;78,6;5,5;20,4;69,1;conforme;98107;30300;61;99;1358;Non vérifié;non
+68145;Horbourg-Wihr;68;eau potable;101769;2024;87,0;5,3;35,3;72,1;conforme;1040761;56887;25;58;6199;Non vérifié;non
+68146;Houssen;68;eau potable;101769;2024;87,0;5,3;35,3;72,1;conforme;1040761;21318;25;58;2323;Non vérifié;non
+68147;Hunawihr;68;eau potable;101497;2024;79,2;3,9;15,0;68,0;conforme;8185;8185;40;95;555;Non vérifié;non
+68148;Hundsbach;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;476;4;7;357;Non vérifié;non
+68149;Huningue;68;eau potable : délégation;285174;2024;83,5;7,8;39,2;72,8;conforme;776235;121807;45;81;7487;Non vérifié;non
+68150;Husseren-les-Châteaux;68;eau potable : principal;101689;2024;93,6;1,2;17,2;68,4;conforme;59962;1817;10;31;502;Non vérifié;non
+68151;Husseren-Wesserling;68;eau potable;101677;2024;73,8;3,0;8,4;66,7;conforme;179799;15533;42;131;1022;Non vérifié;non
+68152;Illfurth;68;eau potable;101667;2024;65,8;6,9;13,3;67,7;non conforme;361455;66318;74;225;2445;Non vérifié;non
+68153;Illhaeusern;68;eau potable : distribution;211318;2024;90,8;1,4;13,9;67,8;conforme;10833;3519;13;37;717;Non vérifié;non
+68154;Illzach;68;eau potable : Mulhouse et périphérie;289014;2024;88,3;4,7;35,7;72,1;conforme;1421120;111124;20;53;14923;Non vérifié;non
+68155;Ingersheim;68;eau potable;101769;2024;87,0;5,3;35,3;72,1;conforme;1040761;43810;25;58;4774;Non vérifié;non
+68156;Issenheim;68;eau potable : Affermage-Caléo;101775;2024;86,8;3,4;22,3;69,5;conforme;219421;33057;26;62;3502;Non vérifié;non
+68157;Jebsheim;68;eau potable;101769;2024;87,0;5,3;35,3;72,1;conforme;1040761;12480;25;58;1360;Non vérifié;non
+68158;Jettingen;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;697;4;7;522;Non vérifié;non
+68159;Jungholtz;68;eau potable : Régie;231734;2024;83,2;3,5;17,2;68,4;conforme;132860;11912;36;88;897;Non vérifié;non
+68160;Kappelen;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;9880;47;111;573;Non vérifié;non
+68161;Katzenthal;68;eau potable;101506;2024;88,7;1,9;15,0;68,0;conforme;3329;3329;18;47;506;Non vérifié;non
+68162;Kaysersberg Vignoble;68;eau potable : PERIMETRE KAYSERSBERG-VIGNOBLE (commune nouvelle);218178;2024;75,0;6,3;20,6;69,1;conforme;106536;106536;67;121;4383;Non vérifié;non
+68163;Kembs;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;100591;47;111;5834;Non vérifié;non
+68165;Kiffis;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;318;4;7;238;Non vérifié;non
+68166;Kingersheim;68;eau potable : Kingersheim;289154;2024;77,2;7,6;25,7;70,1;conforme;168687;168687;35;108;13354;Non vérifié;non
+68167;Kirchberg;68;eau potable;151553;2024;71,3;2,9;7,1;66,4;conforme;11220;11220;43;149;717;Non vérifié;non
+68168;Knoeringue;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;6569;47;111;381;Non vérifié;non
+68169;Koestlach;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;674;4;7;505;Non vérifié;non
+68170;Koetzingue;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;10087;47;111;585;Non vérifié;non
+68171;Kruth;68;eau potable;101677;2024;73,8;3,0;8,4;66,7;conforme;179799;13010;42;131;856;Non vérifié;non
+68172;Kunheim;68;eau potable : eau potable;214816;2024;68,5;7,2;15,7;68,1;conforme;499320;43233;65;168;1822;Non vérifié;non
+68173;Labaroche;68;eau potable;101517;2024;65,5;4,3;8,1;66,6;non conforme;54932;54932;67;193;2231;Non vérifié;non
+68174;Landser;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;28156;47;111;1633;Non vérifié;non
+68175;Lapoutroie;68;eau potable : Lapoutroie;101521;2024;79,0;3,4;12,9;67,6;conforme;22748;22748;33;96;1881;Non vérifié;non
+68176;Largitzen;68;eau potable;151554;2024;78,1;2,5;9,0;66,8;conforme;5931;5931;46;101;352;Non vérifié;non
+68177;Lautenbach;68;eau potable : Affermage-Caléo;101775;2024;86,8;3,4;22,3;69,5;conforme;219421;14575;26;62;1544;Non vérifié;non
+68178;Lautenbachzell;68;eau potable : Régie;231734;2024;83,2;3,5;17,2;68,4;conforme;132860;12509;36;88;942;Non vérifié;non
+68179;Lauw;68;eau potable;101523;2024;76,0;3,9;12,3;67,5;conforme;11587;11587;36;123;887;Non vérifié;non
+68180;Leimbach;68;eau potable :  THANN;101684;2024;81,3;6,3;27,2;70,4;conforme;347431;18530;55;85;928;Non vérifié;non
+68181;Levoncourt;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;334;4;7;250;Non vérifié;non
+68182;Leymen;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;21915;47;111;1271;Non vérifié;non
+68183;Liebenswiller;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;3293;47;111;191;Non vérifié;non
+68184;Liebsdorf;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;382;4;7;286;Non vérifié;non
+68185;Lièpvre;68;eau potable : PERIMETRE LIEPVRE;101530;2024;71,0;4,8;10,2;67,0;conforme;48338;48338;81;172;1632;Non vérifié;non
+68186;Ligsdorf;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;423;4;7;317;Non vérifié;non
+68187;Linsdorf;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;446;4;7;334;Non vérifié;non
+68188;Linthal;68;eau potable : Régie;231734;2024;83,2;3,5;17,2;68,4;conforme;132860;7782;36;88;586;Non vérifié;non
+68189;Logelheim;68;eau potable : principal;101689;2024;93,6;1,2;17,2;68,4;conforme;59962;3438;10;31;950;Non vérifié;non
+68190;Lucelle;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;39;4;7;29;Non vérifié;non
+68191;Luemschwiller;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;996;4;7;746;Non vérifié;non
+68192;Valdieu-Lutran;68;eau potable;101737;2024;66,6;3,9;7,7;66,5;conforme;28185;8803;57;187;421;Non vérifié;non
+68193;Luttenbach-près-Munster;68;eau potable;101534;2024;75,9;2,4;7,5;66,5;conforme;15032;15032;54;117;756;Non vérifié;non
+68194;Lutter;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;388;4;7;291;Non vérifié;non
+68195;Lutterbach;68;eau potable : Mulhouse et périphérie;289014;2024;88,3;4,7;35,7;72,1;conforme;1421120;51016;20;53;6851;Non vérifié;non
+68196;Magny;68;eau potable;101737;2024;66,6;3,9;7,7;66,5;conforme;28185;5980;57;187;286;Non vérifié;non
+68197;Magstatt-le-Bas;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;8914;47;111;517;Non vérifié;non
+68198;Magstatt-le-Haut;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;5431;47;111;315;Non vérifié;non
+68199;Malmerspach;68;eau potable;101677;2024;73,8;3,0;8,4;66,7;conforme;179799;7219;42;131;475;Non vérifié;non
+68200;Manspach;68;eau potable;101749;2024;79,0;2,6;9,8;67,0;conforme;9300;5523;28;97;544;Non vérifié;non
+68201;Masevaux-Niederbruck;68;eau potable : Masevaux : Commune nouvelle (MASEVAUX);218329;2024;91,9;1,4;16,3;68,3;conforme;21375;21375;16;41;3594;Non vérifié;non
+68202;Mertzen;68;eau potable;101757;2024;89,4;0,9;7,6;66,5;conforme;5584;939;13;43;200;Non vérifié;non
+68203;Merxheim;68;eau potable : Merxheim;232094;2024;83,9;2,4;12,4;67,5;conforme;9286;9286;18;71;1396;Non vérifié;non
+68204;Metzeral;68;eau potable;101547;2024;70,3;4,7;11,2;67,2;conforme;22130;22130;57;153;1058;Non vérifié;non
+68207;Michelbach-le-Bas;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;12449;47;111;722;Non vérifié;non
+68208;Michelbach-le-Haut;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;10966;47;111;636;Non vérifié;non
+68209;Mittelwihr;68;eau potable;101553;2024;82,3;2,6;12,2;67,4;conforme;9129;9129;29;78;853;Non vérifié;non
+68210;Mittlach;68;eau potable;101554;2020;88,0;;;;non calculable;;;;;339;Sans anomalie apparente;oui
+68211;Mitzach;68;eau potable;101677;2024;73,8;3,0;8,4;66,7;conforme;179799;5684;42;131;374;Non vérifié;non
+68212;Moernach;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;691;4;7;518;Non vérifié;non
+68213;Mollau;68;eau potable;101677;2024;73,8;3,0;8,4;66,7;conforme;179799;5031;42;131;331;Non vérifié;non
+68214;Montreux-Jeune;68;eau potable;101737;2024;66,6;3,9;7,7;66,5;conforme;28185;7695;57;187;368;Non vérifié;non
+68215;Montreux-Vieux;68;eau potable;101560;2024;56,5;9,3;12,0;67,4;non conforme;28853;28853;85;282;928;Non vérifié;non
+68216;Mooslargue;68;eau potable;151558;2024;87,8;1,4;9,9;67,0;conforme;3153;3153;22;51;401;Non vérifié;non
+68217;Moosch;68;eau potable;101677;2024;73,8;3,0;8,4;66,7;conforme;179799;24242;42;131;1595;Non vérifié;non
+68218;Morschwiller-le-Bas;68;eau potable : Mulhouse et périphérie;289014;2024;88,3;4,7;35,7;72,1;conforme;1421120;27507;20;53;3694;Non vérifié;non
+68219;Le Haut Soultzbach;68;eau potable;101674;2024;86,8;2,9;18,8;68,8;conforme;127020;9252;29;63;879;Non vérifié;non
+68221;Muespach;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;1257;4;7;942;Non vérifié;non
+68222;Muespach-le-Haut;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;1572;4;7;1178;Non vérifié;non
+68223;Muhlbach-sur-Munster;68;eau potable;101563;2023;43,8;7,8;6,1;66,2;non conforme;45125;45125;151;470;818;Sans anomalie apparente;non
+68224;Mulhouse;68;eau potable : Mulhouse et périphérie;289014;2024;88,3;4,7;35,7;72,1;conforme;1421120;781715;20;53;104978;Non vérifié;non
+68225;Munchhouse;68;eau potable;101710;2024;87,5;1,3;9,3;66,9;conforme;24200;8672;16;51;1518;Non vérifié;non
+68226;Munster;68;eau potable;101566;2024;63,0;14,5;24,7;69,9;non conforme;182591;182591;106;216;4738;Non vérifié;non
+68227;Muntzenheim;68;eau potable;101769;2024;87,0;5,3;35,3;72,1;conforme;1040761;11820;25;58;1288;Non vérifié;non
+68229;Murbach;68;eau potable : Régie;231734;2024;83,2;3,5;17,2;68,4;conforme;132860;2178;36;88;164;Non vérifié;non
+68230;Nambsheim;68;eau potable;101686;2024;89,3;1,6;13,6;67,7;conforme;20095;2992;14;43;576;Non vérifié;non
+68231;Neuf-Brisach;68;eau potable : eau potable;214816;2024;68,5;7,2;15,7;68,1;conforme;499320;44966;65;168;1895;Non vérifié;non
+68232;Neuwiller;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;9052;47;111;525;Non vérifié;non
+68234;Niederentzen;68;eau potable : principal;101689;2024;93,6;1,2;17,2;68,4;conforme;59962;3101;10;31;857;Non vérifié;non
+68235;Niederhergheim;68;eau potable : principal;101689;2024;93,6;1,2;17,2;68,4;conforme;59962;4256;10;31;1176;Non vérifié;non
+68237;Niedermorschwihr;68;eau potable;101769;2024;87,0;5,3;35,3;72,1;conforme;1040761;4928;25;58;537;Non vérifié;non
+68238;Niffer;68;eau potable : SIE Ottmarsheim Hombourg Niffer;289114;2024;78,6;5,5;20,4;69,1;conforme;98107;21977;61;99;985;Non vérifié;non
+68239;Oberbruck;68;eau potable;101673;2024;53,2;7,7;8,8;66,8;non conforme;28948;13581;98;326;380;Non vérifié;non
+68240;Illtal;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;1605;4;7;1203;Non vérifié;non
+68241;Oberentzen;68;eau potable : principal;101689;2024;93,6;1,2;17,2;68,4;conforme;59962;2616;10;31;723;Non vérifié;non
+68242;Oberhergheim;68;eau potable : principal;101689;2024;93,6;1,2;17,2;68,4;conforme;59962;4759;10;31;1315;Non vérifié;non
+68243;Oberlarg;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;191;4;7;143;Non vérifié;non
+68244;Obermorschwihr;68;eau potable : principal;101689;2024;93,6;1,2;17,2;68,4;conforme;59962;1520;10;31;420;Non vérifié;non
+68245;Obermorschwiller;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;546;4;7;409;Non vérifié;non
+68246;Obersaasheim;68;eau potable : eau potable;214816;2024;68,5;7,2;15,7;68,1;conforme;499320;25152;65;168;1060;Non vérifié;non
+68247;Oderen;68;eau potable;101682;2024;89,6;0,6;4,9;66,0;conforme;861;69;0;45;1215;Non vérifié;non
+68248;Oltingue;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;928;4;7;695;Non vérifié;non
+68249;Orbey;68;eau potable : Orbey;101579;2024;96,0;0,4;9,8;67,0;conforme;5330;5330;4;15;3429;Non vérifié;non
+68250;Orschwihr;68;eau potable : Affermage-Caléo;101775;2024;86,8;3,4;22,3;69,5;conforme;219421;9534;26;62;1010;Non vérifié;non
+68251;Osenbach;68;eau potable : SIVOM DE L'OHMBACH;101711;2024;88,2;3,9;29,5;70,9;conforme;33267;14749;50;126;810;Non vérifié;non
+68252;Ostheim;68;eau potable;101581;2024;74,1;6,3;18,1;68,6;conforme;25294;25294;42;127;1651;Non vérifié;non
+68253;Ottmarsheim;68;eau potable : SIE Ottmarsheim Hombourg Niffer;289114;2024;78,6;5,5;20,4;69,1;conforme;98107;45829;61;99;2054;Non vérifié;non
+68254;Petit-Landau;68;eau potable : Petit Landau;289194;2024;91,2;0,8;8,6;66,7;conforme;3086;3086;10;35;822;Non vérifié;non
+68255;Pfaffenheim;68;eau potable;101586;2024;70,1;4,6;10,7;67,1;conforme;29164;29164;58;157;1373;Non vérifié;non
+68256;Pfastatt;68;eau potable : Mulhouse et périphérie;289014;2024;88,3;4,7;35,7;72,1;conforme;1421120;76803;20;53;10314;Non vérifié;non
+68257;Pfetterhouse;68;eau potable;151562;2024;73,8;3,1;8,9;66,8;conforme;19054;19054;53;128;987;Non vérifié;non
+68258;Pulversheim;68;eau potable : Pulversheim;289214;2024;88,3;1,9;14,5;67,9;conforme;16575;16575;15;48;3069;Non vérifié;non
+68259;Raedersdorf;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;642;4;7;481;Non vérifié;non
+68260;Raedersheim;68;eau potable : Raedersheim;101593;2024;90,5;1,3;12,1;67,4;conforme;5632;5632;13;39;1173;Non vérifié;non
+68261;Rammersmatt;68;eau potable :  THANN;101684;2024;81,3;6,3;27,2;70,4;conforme;347431;4373;55;85;219;Non vérifié;non
+68262;Ranspach;68;eau potable;101682;2024;89,6;0,6;4,9;66,0;conforme;861;44;0;45;769;Non vérifié;non
+68263;Ranspach-le-Bas;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;11035;47;111;640;Non vérifié;non
+68264;Ranspach-le-Haut;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;10811;47;111;627;Non vérifié;non
+68265;Rantzwiller;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;13828;47;111;802;Non vérifié;non
+68266;Réguisheim;68;eau potable;101599;2024;93,3;1,0;13,8;67,8;conforme;5409;5409;7;26;2011;Non vérifié;non
+68267;Reiningue;68;eau potable : Mulhouse et périphérie;289014;2024;88,3;4,7;35,7;72,1;conforme;1421120;14104;20;53;1894;Non vérifié;non
+68268;Retzwiller;68;eau potable;151563;2024;94,1;0,8;12,7;67,5;conforme;1790;1790;7;23;689;Non vérifié;non
+68269;Ribeauvillé;68;eau potable : PERIMETRE RIBEAUVILLE;101603;2024;89,0;3,8;30,2;71,0;conforme;51069;51069;30;46;4685;Non vérifié;non
+68270;Richwiller;68;eau potable : Richwiller;289234;2024;63,9;17,1;30,3;71,1;non conforme;100800;100800;71;206;3905;Non vérifié;non
+68271;Riedisheim;68;eau potable : Mulhouse et périphérie;289014;2024;88,3;4,7;35,7;72,1;conforme;1421120;90847;20;53;12200;Non vérifié;non
+68273;Riespach;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;871;4;7;653;Non vérifié;non
+68274;Rimbach-près-Guebwiller;68;eau potable : Régie;231734;2024;83,2;3,5;17,2;68,4;conforme;132860;2868;36;88;216;Non vérifié;non
+68275;Rimbach-près-Masevaux;68;eau potable;101673;2024;53,2;7,7;8,8;66,8;non conforme;28948;15368;98;326;430;Non vérifié;non
+68276;Rimbachzell;68;eau potable : Régie;231734;2024;83,2;3,5;17,2;68,4;conforme;132860;2497;36;88;188;Non vérifié;non
+68277;Riquewihr;68;eau potable;101609;2024;83,4;4,4;22,0;69,4;conforme;18469;18469;51;73;999;Non vérifié;non
+68278;Rixheim;68;eau potable : Mulhouse et périphérie;289014;2024;88,3;4,7;35,7;72,1;conforme;1421120;107080;20;53;14380;Non vérifié;non
+68279;Roderen;68;eau potable :  THANN;101684;2024;81,3;6,3;27,2;70,4;conforme;347431;18011;55;85;902;Non vérifié;non
+68280;Rodern;68;eau potable : RODERN;101612;2024;94,0;1,0;17,1;68,4;conforme;1274;1274;9;21;401;Non vérifié;non
+68281;Roggenhouse;68;eau potable;101710;2024;87,5;1,3;9,3;66,9;conforme;24200;2616;16;51;458;Non vérifié;non
+68282;Romagny;68;eau potable;101737;2024;66,6;3,9;7,7;66,5;conforme;28185;5708;57;187;273;Non vérifié;non
+68283;Rombach-le-Franc;68;eau potable : PERIMETRE ROMBACH-LE-FRANC;101614;2024;58,0;4,2;5,8;66,2;non conforme;18043;18043;64;265;775;Non vérifié;non
+68284;Roppentzwiller;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;889;4;7;666;Non vérifié;non
+68285;Rorschwihr;68;eau potable : PERIMETRE RORSCHWIHR;222394;2024;87,0;1,9;13,0;67,6;conforme;2559;2559;19;53;370;Non vérifié;non
+68286;Rosenau;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;41312;47;111;2396;Non vérifié;non
+68287;Rouffach;68;eau potable;101619;2024;82,3;4,5;20,8;69,2;conforme;51772;51772;33;97;4238;Non vérifié;non
+68288;Ruederbach;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;514;4;7;385;Non vérifié;non
+68289;Ruelisheim;68;eau potable : SIAEP BABARU;101666;2024;62,0;8,8;14,3;67,9;non conforme;167602;63249;69;225;2519;Non vérifié;non
+68290;Rustenhart;68;eau potable;101710;2024;87,5;1,3;9,3;66,9;conforme;24200;5719;16;51;1001;Non vérifié;non
+68291;Rumersheim-le-Haut;68;eau potable;101621;2024;80,7;2,9;12,0;67,4;conforme;10437;10437;27;88;1068;Non vérifié;non
+68292;Saint-Amarin;68;eau potable;101682;2024;89,6;0,6;4,9;66,0;conforme;861;124;0;45;2173;Non vérifié;non
+68293;Saint-Cosme;68;eau potable;101739;2024;84,5;1,3;7,2;66,4;conforme;16892;830;30;79;75;Non vérifié;non
+68294;Sainte-Croix-aux-Mines;68;eau potable : SAINTE-CROIX-AUX-MINES;101624;2024;88,0;1,8;12,8;67,6;conforme;11826;11826;19;51;1742;Non vérifié;non
+68295;Sainte-Croix-en-Plaine;68;eau potable;101769;2024;87,0;5,3;35,3;72,1;conforme;1040761;27567;25;58;3004;Non vérifié;non
+68296;Saint-Hippolyte;68;eau potable : PERIMETRE SAINT-HIPPOLYTE;222396;2024;72,0;6,3;15,7;68,1;conforme;22627;22627;67;146;927;Non vérifié;non
+68297;Saint-Louis;68;eau potable : délégation;285174;2024;83,5;7,8;39,2;72,8;conforme;776235;371018;45;81;22805;Non vérifié;non
+68298;Sainte-Marie-aux-Mines;68;eau potable : SAINTE-MARIE-AUX-MINES;101628;2024;78,0;5,7;20,5;69,1;conforme;68074;68074;38;105;4851;Non vérifié;non
+68299;Saint-Ulrich;68;eau potable;101757;2024;89,4;0,9;7,6;66,5;conforme;5584;1403;13;43;299;Non vérifié;non
+68300;Sausheim;68;eau potable : Mulhouse et périphérie;289014;2024;88,3;4,7;35,7;72,1;conforme;1421120;42192;20;53;5666;Non vérifié;non
+68301;Schlierbach;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;22398;47;111;1299;Non vérifié;non
+68302;Schweighouse-Thann;68;eau potable;101674;2024;86,8;2,9;18,8;68,8;conforme;127020;7873;29;63;748;Non vérifié;non
+68303;Schwoben;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;306;4;7;229;Non vérifié;non
+68304;Sentheim;68;eau potable;101674;2024;86,8;2,9;18,8;68,8;conforme;127020;16083;29;63;1528;Non vérifié;non
+68305;Seppois-le-Bas;68;eau potable;101759;2024;61,8;9,0;14,5;67,9;non conforme;58802;43558;83;226;1443;Non vérifié;non
+68306;Seppois-le-Haut;68;eau potable;101759;2024;61,8;9,0;14,5;67,9;non conforme;58802;15244;83;226;505;Non vérifié;non
+68307;Sewen;68;eau potable;151565;2023;56,6;3,6;4,8;66,0;non conforme;11826;11826;68;276;480;Sans anomalie apparente;non
+68308;Sickert;68;eau potable;151566;2024;94,5;0,5;8,8;66,8;conforme;657;657;5;21;333;Non vérifié;non
+68309;Sierentz;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;76021;47;111;4409;Non vérifié;non
+68311;Sondernach;68;eau potable;101635;2024;84,5;1,5;8,0;66,6;conforme;4216;4216;20;68;590;Non vérifié;non
+68312;Sondersdorf;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;426;4;7;319;Non vérifié;non
+68313;Soppe-le-Bas;68;eau potable;101674;2024;86,8;2,9;18,8;68,8;conforme;127020;8147;29;63;774;Non vérifié;non
+68315;Soultz-Haut-Rhin;68;eau potable : Régie;231734;2024;83,2;3,5;17,2;68,4;conforme;132860;93115;36;88;7012;Non vérifié;non
+68316;Soultzbach-les-Bains;68;eau potable;101637;2024;77,1;4,3;14,4;67,9;conforme;9417;9417;35;109;731;Non vérifié;non
+68317;Soultzeren;68;eau potable;101640;2024;64,8;4,9;8,9;66,8;non conforme;29421;29421;68;200;1183;Non vérifié;non
+68318;Soultzmatt;68;eau potable : Soultzmatt;232074;2024;89,4;2,9;24,1;69,8;conforme;28410;28410;31;87;2487;Non vérifié;non
+68320;Spechbach;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;1892;4;7;1418;Non vérifié;non
+68321;Staffelfelden;68;eau potable : Staffelfelden;289254;2024;45,5;22,4;18,7;68,7;non conforme;102527;102527;69;437;4072;Non vérifié;non
+68322;Steinbach;68;eau potable : Régie : CERNAY;101676;2024;83,9;3,5;18,5;68,7;conforme;169665;14022;28;76;1379;Non vérifié;non
+68323;Steinbrunn-le-Bas;68;eau potable : Steinbrunn-le-Bas;289255;2024;67,6;5,9;12,2;67,4;conforme;19812;19812;64;176;848;Non vérifié;non
+68324;Steinbrunn-le-Haut;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;11949;47;111;693;Non vérifié;non
+68325;Steinsoultz;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;992;4;7;743;Non vérifié;non
+68326;Sternenberg;68;eau potable;101739;2024;84,5;1,3;7,2;66,4;conforme;16892;1572;30;79;142;Non vérifié;non
+68327;Stetten;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;5759;47;111;334;Non vérifié;non
+68328;Storckensohn;68;eau potable;101677;2024;73,8;3,0;8,4;66,7;conforme;179799;2797;42;131;184;Non vérifié;non
+68330;Strueth;68;eau potable;101757;2024;89,4;0,9;7,6;66,5;conforme;5584;1689;13;43;360;Non vérifié;non
+68331;Sundhoffen;68;eau potable;101769;2024;87,0;5,3;35,3;72,1;conforme;1040761;18289;25;58;1993;Non vérifié;non
+68332;Tagolsheim;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;1323;4;7;991;Non vérifié;non
+68333;Tagsdorf;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;434;4;7;325;Non vérifié;non
+68334;Thann;68;eau potable :  THANN;101684;2024;81,3;6,3;27,2;70,4;conforme;347431;154986;55;85;7762;Non vérifié;non
+68336;Traubach-le-Bas;68;eau potable;101738;2024;95,2;0,6;11,1;67,2;conforme;5782;1480;8;20;484;Non vérifié;non
+68337;Traubach-le-Haut;68;eau potable;101738;2024;95,2;0,6;11,1;67,2;conforme;5782;1978;8;20;647;Non vérifié;non
+68338;Turckheim;68;eau potable;101769;2024;87,0;5,3;35,3;72,1;conforme;1040761;37983;25;58;4139;Non vérifié;non
+68340;Ueberstrass;68;eau potable;101650;2024;83,0;2,6;12,8;67,6;conforme;3322;3322;27;74;333;Non vérifié;non
+68341;Uffheim;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;19691;47;111;1142;Non vérifié;non
+68342;Uffholtz;68;eau potable : Régie : CERNAY;101676;2024;83,9;3,5;18,5;68,7;conforme;169665;16411;28;76;1614;Non vérifié;non
+68343;Ungersheim;68;eau potable : Ungersheim;289274;2024;79,4;5,3;20,3;69,1;conforme;31416;31416;35;95;2449;Non vérifié;non
+68344;Urbès;68;eau potable;101677;2024;73,8;3,0;8,4;66,7;conforme;179799;6490;42;131;427;Non vérifié;non
+68345;Urschenheim;68;eau potable : eau potable;214816;2024;68,5;7,2;15,7;68,1;conforme;499320;19173;65;168;808;Non vérifié;non
+68347;Vieux-Ferrette;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;854;4;7;640;Non vérifié;non
+68348;Vieux-Thann;68;eau potable :  THANN;101684;2024;81,3;6,3;27,2;70,4;conforme;347431;57226;55;85;2866;Non vérifié;non
+68349;Village-Neuf;68;eau potable : délégation;285174;2024;83,5;7,8;39,2;72,8;conforme;776235;76612;45;81;4709;Non vérifié;non
+68350;Voegtlinshoffen;68;eau potable : principal;101689;2024;93,6;1,2;17,2;68,4;conforme;59962;1733;10;31;479;Non vérifié;non
+68351;Vogelgrun;68;eau potable : eau potable;214816;2024;68,5;7,2;15,7;68,1;conforme;499320;14902;65;168;628;Non vérifié;non
+68352;Volgelsheim;68;eau potable : eau potable;214816;2024;68,5;7,2;15,7;68,1;conforme;499320;64542;65;168;2720;Non vérifié;non
+68353;Wahlbach;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;8759;47;111;508;Non vérifié;non
+68354;Walbach;68;eau potable;101769;2024;87,0;5,3;35,3;72,1;conforme;1040761;8589;25;58;936;Non vérifié;non
+68355;Waldighoffen;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;2079;4;7;1558;Non vérifié;non
+68356;Walheim;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;1186;4;7;889;Non vérifié;non
+68357;Waltenheim;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;8725;47;111;506;Non vérifié;non
+68358;Wasserbourg;68;eau potable;101656;2024;73,4;3,3;9,2;66,8;conforme;5480;5480;32;131;465;Non vérifié;non
+68359;Wattwiller;68;eau potable : Régie : CERNAY;101676;2024;83,9;3,5;18,5;68,7;conforme;169665;16635;28;76;1636;Non vérifié;non
+68360;Weckolsheim;68;eau potable : eau potable;214816;2024;68,5;7,2;15,7;68,1;conforme;499320;17607;65;168;742;Non vérifié;non
+68361;Wegscheid;68;eau potable;151574;2024;79,3;1,5;5,8;66,2;conforme;2891;2891;25;94;315;Non vérifié;non
+68362;Wentzwiller;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;13449;47;111;780;Non vérifié;non
+68363;Werentzhouse;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;845;4;7;633;Non vérifié;non
+68364;Westhalten;68;eau potable : SIVOM DE L'OHMBACH;101711;2024;88,2;3,9;29,5;70,9;conforme;33267;18518;50;126;1017;Non vérifié;non
+68365;Wettolsheim;68;eau potable;101769;2024;87,0;5,3;35,3;72,1;conforme;1040761;16371;25;58;1784;Non vérifié;non
+68366;Wickerschwihr;68;eau potable;101769;2024;87,0;5,3;35,3;72,1;conforme;1040761;6809;25;58;742;Non vérifié;non
+68367;Widensolen;68;eau potable : eau potable;214816;2024;68,5;7,2;15,7;68,1;conforme;499320;28830;65;168;1215;Non vérifié;non
+68368;Wihr-au-Val;68;eau potable;101657;2024;88,8;1,5;11,6;67,3;conforme;6942;6942;16;47;1195;Non vérifié;non
+68370;Wildenstein;68;eau potable;101677;2024;73,8;3,0;8,4;66,7;conforme;179799;2356;42;131;155;Non vérifié;non
+68371;Willer;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;394;4;7;295;Non vérifié;non
+68372;Willer-sur-Thur;68;eau potable :  THANN;101684;2024;81,3;6,3;27,2;70,4;conforme;347431;35402;55;85;1773;Non vérifié;non
+68373;Winkel;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;402;4;7;301;Non vérifié;non
+68374;Wintzenheim;68;eau potable;101769;2024;87,0;5,3;35,3;72,1;conforme;1040761;73955;25;58;8059;Non vérifié;non
+68375;Wittelsheim;68;eau potable : Wittelsheim;289294;2024;79,3;4,3;16,6;68,3;conforme;123159;123159;32;95;10645;Non vérifié;non
+68376;Wittenheim;68;eau potable : Wittenheim;289314;2024;66,3;18,1;35,7;72,1;non conforme;329664;329664;58;185;15553;Non vérifié;non
+68377;Wittersdorf;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;1026;4;7;769;Non vérifié;non
+68378;Wolfersdorf;68;eau potable;101738;2024;95,2;0,6;11,1;67,2;conforme;5782;1082;8;20;354;Non vérifié;non
+68379;Wolfgantzen;68;eau potable : eau potable;214816;2024;68,5;7,2;15,7;68,1;conforme;499320;28237;65;168;1190;Non vérifié;non
+68380;Wolschwiller;68;eau potable : régie;293774;2024;83,2;0,3;16,3;68,3;conforme;54093;575;4;7;431;Non vérifié;non
+68381;Wuenheim;68;eau potable : Affermage-Caléo;101775;2024;86,8;3,4;22,3;69,5;conforme;219421;7250;26;62;768;Non vérifié;non
+68382;Zaessingue;68;eau potable : régie;101756;2024;79,3;4,2;16,0;68,2;conforme;648459;6466;47;111;375;Non vérifié;non
+68383;Zellenberg;68;eau potable;101663;2024;100,0;0,0;6,7;66,3;conforme;0;0;0;0;321;Non vérifié;non
+68384;Zillisheim;68;eau potable;101667;2024;65,8;6,9;13,3;67,7;non conforme;361455;69465;74;225;2561;Non vérifié;non
+68385;Zimmerbach;68;eau potable;101769;2024;87,0;5,3;35,3;72,1;conforme;1040761;7562;25;58;824;Non vérifié;non
+68386;Zimmersheim;68;eau potable : Mulhouse et périphérie;289014;2024;88,3;4,7;35,7;72,1;conforme;1421120;8065;20;53;1083;Non vérifié;non

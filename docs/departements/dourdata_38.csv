@@ -7,498 +7,498 @@
 # Méthodologie et code : https://github.com/btaverne/dourdata
 # Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
 # Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
-Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
-38001;Les Abrets en Dauphiné;38;eau potable;38896;2024;84,4;2,1;11,5;67,3;conforme;373033;64646;26;67;6850;Non vérifié
-38002;Les Adrets;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;27732;70;180;1079;Non vérifié
-38003;Agnin;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;26209;58;133;1245;Non vérifié
-38004;L' Albenc;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;31505;69;159;1255;Non vérifié
-38005;Allemond;38;eau potable;38815;2024;83,8;3,4;17,5;68,5;conforme;34748;34748;98;71;971;Non vérifié
-38006;Allevard;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;102060;70;180;3971;Non vérifié
-38008;Ambel;38;eau potable;38814;2024;98,6;0,1;5,8;66,2;conforme;146;146;11;6;35;Non vérifié
-38009;Anjou;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;21704;58;133;1031;Non vérifié
-38010;Annoisin-Chatelans;38;eau potable : Régie;257594;2024;69,8;4,6;10,7;67,1;conforme;945277;17707;67;157;719;Non vérifié
-38011;Anthon;38;eau potable : ANTHON_EAU;338754;2024;77,3;4,6;15,7;68,1;conforme;15867;15867;38;107;1154;Non vérifié
-38012;Aoste;38;eau potable;38896;2024;84,4;2,1;11,5;67,3;conforme;373033;27142;26;67;2876;Non vérifié
-38013;Apprieu;38;eau potable : Régie directe;225514;2024;73,1;4,2;11,5;67,3;conforme;426986;67914;51;155;3615;Non vérifié
-38015;Artas;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;48474;74;168;1799;Non vérifié
-38017;Assieu;38;eau potable : DSP Suez;333394;2024;95,4;0,5;10,8;67,2;conforme;30629;7540;12;17;1726;Non vérifié
-38018;Auberives-en-Royans;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;9213;69;159;367;Non vérifié
-38019;Auberives-sur-Varèze;38;eau potable : DSP Suez;333394;2024;95,4;0,5;10,8;67,2;conforme;30629;6557;12;17;1501;Non vérifié
-38022;Les Avenières Veyrins-Thuellin;38;eau potable : Production Transfert Distribution;273495;2024;68,6;3,9;8,6;66,7;conforme;743067;110157;39;178;7698;Non vérifié
-38023;Avignonet;38;eau potable;38919;2024;80,3;1,1;4,4;65,9;conforme;50188;2512;34;92;203;Non vérifié
-38026;La Balme-les-Grottes;38;eau potable : Régie;257594;2024;69,8;4,6;10,7;67,1;conforme;945277;28222;67;157;1146;Non vérifié
-38027;Barraux;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;51814;70;180;2016;Non vérifié
-38029;La Bâtie-Montgascon;38;eau potable;38896;2024;84,4;2,1;11,5;67,3;conforme;373033;19205;26;67;2035;Non vérifié
-38030;Beaucroissant;38;eau potable : Régie directe;225514;2024;73,1;4,2;11,5;67,3;conforme;426986;33628;51;155;1790;Non vérifié
-38031;Beaufin;38;eau potable;38806;2024;59,9;22,1;33,1;71,6;non conforme;4921;4921;710;244;19;Non vérifié
-38032;Beaufort;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;15439;74;168;573;Non vérifié
-38033;Beaulieu;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;15941;69;159;635;Non vérifié
-38034;Beaurepaire;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;105468;58;133;5010;Non vérifié
-38035;Beauvoir-de-Marc;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;29585;74;168;1098;Non vérifié
-38036;Beauvoir-en-Royans;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;2410;69;159;96;Non vérifié
-38037;Bellegarde-Poussieu;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;21199;58;133;1007;Non vérifié
-38038;Belmont;38;eau potable;38898;2024;70,2;2,2;5,2;66,0;conforme;91542;11826;51;154;636;Non vérifié
-38039;Bernin;38;eau potable : DSP SPLEGA - Production Transfert Distribution;261634;2024;97,1;3,8;125,6;85,0;conforme;212211;40360;33;11;3334;Non vérifié
-38040;Besse;38;eau potable;38809;2023;87,0;2,4;15,9;68,2;conforme;1840;1840;33;55;154;Non vérifié
-38041;Bessins;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;3088;69;159;123;Non vérifié
-38042;Bévenais;38;eau potable : Régie directe;225514;2024;73,1;4,2;11,5;67,3;conforme;426986;19707;51;155;1049;Non vérifié
-38043;Bilieu;38;eau potable;38910;2024;72,5;2,4;6,4;66,3;conforme;432175;34709;60;144;1578;Non vérifié
-38044;Biol;38;eau potable;38898;2024;70,2;2,2;5,2;66,0;conforme;91542;29640;51;154;1594;Non vérifié
-38045;Biviers;38;eau potable : DSP VEOLIA - Production Transfert Distribution;257634;2024;90,7;2,0;19,1;68,8;conforme;74460;16529;19;38;2377;Non vérifié
-38046;Bizonnes;38;eau potable : Régie directe;225514;2024;73,1;4,2;11,5;67,3;conforme;426986;19313;51;155;1028;Non vérifié
-38047;Blandin;38;eau potable : eau potable;232874;2024;83,8;1,8;9,4;66,9;conforme;280539;1360;24;71;158;Non vérifié
-38048;Bonnefamille;38;eau potable;38929;2024;78,2;2,0;7,3;66,5;conforme;147460;13896;34;100;1114;Non vérifié
-38049;Bossieu;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;8784;74;168;326;Non vérifié
-38050;Le Bouchage;38;eau potable;38896;2024;84,4;2,1;11,5;67,3;conforme;373033;6182;26;67;655;Non vérifié
-38051;Bougé-Chambalud;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;30882;58;133;1467;Non vérifié
-38052;Le Bourg-d'Oisans;38;eau potable;38825;2024;40,7;11,5;7,9;66,6;non conforme;369380;369380;387;530;2617;Non vérifié
-38053;Bourgoin-Jallieu;38;eau potable;38956;2024;77,9;6,6;23,5;69,7;conforme;2012406;544756;50;110;30151;Non vérifié
-38054;Bouvesse-Quirieu;38;eau potable : Régie;257594;2024;69,8;4,6;10,7;67,1;conforme;945277;37531;67;157;1524;Non vérifié
-38055;Brangues;38;eau potable;38896;2024;84,4;2,1;11,5;67,3;conforme;373033;5795;26;67;614;Non vérifié
-38056;Bressieux;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;2506;74;168;93;Non vérifié
-38057;Bresson;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;8680;36;88;663;Non vérifié
-38058;Brézins;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;62296;74;168;2312;Non vérifié
-38059;Brié-et-Angonnes;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;32690;36;88;2497;Non vérifié
-38060;Brion;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;3799;74;168;141;Non vérifié
-38061;La Buisse;38;eau potable;38934;2024;78,0;4,4;15,6;68,1;conforme;1357070;54200;42;105;3500;Non vérifié
-38062;La Buissière;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;21255;70;180;827;Non vérifié
-38063;Burcin;38;eau potable;341594;2024;88,7;2,9;22,6;69,5;conforme;4763;799;5;47;430;Non vérifié
-38064;Cessieu;38;eau potable : Production Transfert Distribution;273495;2024;68,6;3,9;8,6;66,7;conforme;743067;46636;39;178;3259;Non vérifié
-38065;Châbons;38;eau potable;341594;2024;88,7;2,9;22,6;69,5;conforme;4763;3964;5;47;2133;Non vérifié
-38066;Chalon;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;3705;58;133;176;Non vérifié
-38067;Chamagnieu;38;eau potable : Régie;257594;2024;69,8;4,6;10,7;67,1;conforme;945277;44870;67;157;1822;Non vérifié
-38068;Champagnier;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;20384;36;88;1557;Non vérifié
-38069;Champier;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;42627;74;168;1582;Non vérifié
-38070;Le Champ-près-Froges;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;33129;70;180;1289;Non vérifié
-38071;Champ-sur-Drac;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;43661;36;88;3335;Non vérifié
-38072;Chanas;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;56965;58;133;2706;Non vérifié
-38073;Chantepérier;38;eau potable (Chantelouve);38787;2024;79,9;1,7;6,6;66,3;conforme;6205;6205;80;93;213;Non vérifié
-38074;Chantesse;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;9966;69;159;397;Non vérifié
-38075;Chapareillan;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;78775;70;180;3065;Non vérifié
-38076;La Chapelle-de-la-Tour;38;eau potable : Production Transfert Distribution;273495;2024;68,6;3,9;8,6;66,7;conforme;743067;28505;39;178;1992;Non vérifié
-38077;La Chapelle-de-Surieu;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;15936;58;133;757;Non vérifié
-38078;La Chapelle-du-Bard;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;13904;70;180;541;Non vérifié
-38080;Charancieu;38;eau potable;38910;2024;72,5;2,4;6,4;66,3;conforme;432175;16233;60;144;738;Non vérifié
-38081;Charantonnay;38;eau potable;38929;2024;78,2;2,0;7,3;66,5;conforme;147460;25186;34;100;2019;Non vérifié
-38082;Charavines;38;eau potable;38934;2024;78,0;4,4;15,6;68,1;conforme;1357070;31018;42;105;2003;Non vérifié
-38083;Charette;38;eau potable : Régie;257594;2024;69,8;4,6;10,7;67,1;conforme;945277;10959;67;157;445;Non vérifié
-38084;Charnècles;38;eau potable;38934;2024;78,0;4,4;15,6;68,1;conforme;1357070;23492;42;105;1517;Non vérifié
-38085;Charvieu-Chavagneux;38;eau potable;38786;2023;54,0;15,5;18,2;68,6;non conforme;347767;347767;90;310;10547;Sans anomalie apparente
-38086;Chasselay;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;11146;69;159;444;Non vérifié
-38087;Chasse-sur-Rhône;38;eau potable : Secteur Chasse sur Rhône;299454;2024;77,3;7,0;24,0;69,8;conforme;114208;114208;47;106;6588;Non vérifié
-38089;Chassignieu;38;eau potable : eau potable;232874;2024;83,8;1,8;9,4;66,9;conforme;280539;1937;24;71;225;Non vérifié
-38090;Château-Bernard;38;eau potable;196751;2024;96,8;0,1;2,7;65,5;conforme;694;694;6;14;295;Non vérifié
-38091;Châteauvilain;38;eau potable;38898;2024;70,2;2,2;5,2;66,0;conforme;91542;13704;51;154;737;Non vérifié
-38092;Châtelus;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;2435;69;159;97;Non vérifié
-38093;Châtenay;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;11667;74;168;433;Non vérifié
-38094;Châtonnay;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;54132;74;168;2009;Non vérifié
-38095;Chatte;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;63210;69;159;2518;Non vérifié
-38098;Chélieu;38;eau potable : eau potable;232874;2024;83,8;1,8;9,4;66,9;conforme;280539;6309;24;71;733;Non vérifié
-38099;Chevrières;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;18627;69;159;742;Non vérifié
-38100;Le Cheylas;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;61401;70;180;2389;Non vérifié
-38101;Cheyssieu;38;eau potable : DSP Suez;333394;2024;95,4;0,5;10,8;67,2;conforme;30629;4692;12;17;1074;Non vérifié
-38102;Chèzeneuve;38;eau potable;38956;2024;77,9;6,6;23,5;69,7;conforme;2012406;11816;50;110;654;Non vérifié
-38103;Chichilianne;38;eau potable;38777;2024;90,0;20,8;12,0;67,4;conforme;88826;88826;724;631;336;Non vérifié
-38104;Chimilin;38;eau potable;38896;2024;84,4;2,1;11,5;67,3;conforme;373033;13373;26;67;1417;Non vérifié
-38105;Chirens;38;eau potable;38934;2024;78,0;4,4;15,6;68,1;conforme;1357070;39427;42;105;2546;Non vérifié
-38106;Cholonge;38;eau potable;38776;2024;46,9;6,7;5,9;66,2;non conforme;17118;17118;138;415;339;Non vérifié
-38107;Chonas-l'Amballan;38;eau potable : Secteur Chonas L'Amballan - Village;325814;2024;58,9;7,7;11,1;67,2;non conforme;26531;26531;42;254;1729;Non vérifié
-38108;Choranche;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;3615;69;159;144;Non vérifié
-38109;Chozeau;38;eau potable : Régie;257594;2024;69,8;4,6;10,7;67,1;conforme;945277;24307;67;157;987;Non vérifié
-38110;Chuzelles;38;eau potable : Secteur Nord de Vienne;299534;2024;57,6;7,4;10,1;67,0;non conforme;410903;24000;28;292;2366;Non vérifié
-38111;Claix;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;102587;36;88;7836;Non vérifié
-38113;Clelles;38;eau potable;38800;2024;71,1;4,0;9,8;67,0;conforme;24820;24820;114;148;596;Non vérifié
-38114;Clonas-sur-Varèze;38;eau potable : DSP Suez;333394;2024;95,4;0,5;10,8;67,2;conforme;30629;6706;12;17;1535;Non vérifié
-38115;Saint-Martin-de-la-Cluze;38;eau potable;38919;2024;80,3;1,1;4,4;65,9;conforme;50188;9330;34;92;754;Non vérifié
-38117;Cognin-les-Gorges;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;15438;69;159;615;Non vérifié
-38118;Colombe;38;eau potable : Régie directe;225514;2024;73,1;4,2;11,5;67,3;conforme;426986;35507;51;155;1890;Non vérifié
-38120;La Combe-de-Lancey;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;19148;70;180;745;Non vérifié
-38124;Corbelin;38;eau potable;38896;2024;84,4;2,1;11,5;67,3;conforme;373033;22414;26;67;2375;Non vérifié
-38126;Corenc;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;55182;36;88;4215;Non vérifié
-38127;Cornillon-en-Trièves;38;eau potable;38795;2024;92,1;0,4;4,2;65,8;conforme;1504;1504;24;35;173;Non vérifié
-38128;Corps;38;eau potable;38801;2022;43,4;18,1;13,9;67,8;non conforme;70029;70029;456;475;421;Sans anomalie apparente
-38129;Corrençon-en-Vercors;38;eau potable : Régie;325834;2024;75,1;4,2;15,1;68,0;conforme;334194;13553;99;102;374;Non vérifié
-38130;La Côte-Saint-André;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;131302;74;168;4873;Non vérifié
-38131;Les Côtes-d'Arey;38;eau potable : Secteur Côtes d'Arey;299514;2024;70,5;3,3;7,8;66,6;conforme;46217;46217;63;155;2023;Non vérifié
-38132;Les Côtes-de-Corps;38;eau potable;38932;2024;82,7;1,0;4,9;66,0;conforme;4380;2794;103;75;74;Non vérifié
-38133;Coublevie;38;eau potable;38934;2024;78,0;4,4;15,6;68,1;conforme;1357070;85482;42;105;5520;Non vérifié
-38134;Cour-et-Buis;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;19367;58;133;920;Non vérifié
-38135;Courtenay;38;eau potable : Régie;257594;2024;69,8;4,6;10,7;67,1;conforme;945277;31448;67;157;1277;Non vérifié
-38136;Crachier;38;eau potable;38956;2024;77,9;6,6;23,5;69,7;conforme;2012406;10841;50;110;600;Non vérifié
-38137;Cras;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;10217;69;159;407;Non vérifié
-38138;Crémieu;38;eau potable : DSP Suez;312334;2024;78,5;5,7;20,8;69,2;conforme;53927;53927;42;100;3536;Non vérifié
-38139;Creys-Mépieu;38;eau potable : Régie;257594;2024;69,8;4,6;10,7;67,1;conforme;945277;39723;67;157;1613;Non vérifié
-38140;Crolles;38;eau potable : DSP SPLEGA - Production Transfert Distribution;261634;2024;97,1;3,8;125,6;85,0;conforme;212211;104217;33;11;8609;Non vérifié
-38141;Culin;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;21286;74;168;790;Non vérifié
-38144;Diémoz;38;eau potable;38929;2024;78,2;2,0;7,3;66,5;conforme;147460;36762;34;100;2947;Non vérifié
-38146;Dizimieu;38;eau potable : Régie;257594;2024;69,8;4,6;10,7;67,1;conforme;945277;20563;67;157;835;Non vérifié
-38147;Doissin;38;eau potable : eau potable;232874;2024;83,8;1,8;9,4;66,9;conforme;280539;7540;24;71;876;Non vérifié
-38148;Dolomieu;38;eau potable : Production Transfert Distribution;273495;2024;68,6;3,9;8,6;66,7;conforme;743067;45405;39;178;3173;Non vérifié
-38149;Domarin;38;eau potable;38956;2024;77,9;6,6;23,5;69,7;conforme;2012406;29974;50;110;1659;Non vérifié
-38150;Domène;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;89483;36;88;6835;Non vérifié
-38151;Échirolles;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;490825;36;88;37491;Non vérifié
-38152;Eclose-Badinières;38;eau potable;38956;2024;77,9;6,6;23,5;69,7;conforme;2012406;27372;50;110;1515;Non vérifié
-38153;Engins;38;eau potable : Régie;325834;2024;75,1;4,2;15,1;68,0;conforme;334194;15293;99;102;422;Non vérifié
-38154;Entraigues;38;eau potable;38865;2024;64,9;8,1;15,0;68,0;non conforme;32522;32522;396;197;225;Non vérifié
-38155;Entre-deux-Guiers;38;eau potable;38864;2024;55,2;9,9;12,2;67,4;non conforme;68656;68656;98;297;1915;Non vérifié
-38156;Les Éparres;38;eau potable;38956;2024;77,9;6,6;23,5;69,7;conforme;2012406;18574;50;110;1028;Non vérifié
-38157;Estrablin;38;eau potable : Secteur Amballon;299414;2024;60,6;5,2;8,0;66,6;non conforme;386091;148267;110;302;3677;Non vérifié
-38158;Eybens;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;137372;36;88;10493;Non vérifié
-38159;Eydoche;38;eau potable : Régie directe;225514;2024;73,1;4,2;11,5;67,3;conforme;426986;10201;51;155;543;Non vérifié
-38160;Eyzin-Pinet;38;eau potable : Secteur Amballon;299414;2024;60,6;5,2;8,0;66,6;non conforme;386091;92138;110;302;2285;Non vérifié
-38161;Faramans;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;30798;74;168;1143;Non vérifié
-38162;Faverges-de-la-Tour;38;eau potable : Production Transfert Distribution;273495;2024;68,6;3,9;8,6;66,7;conforme;743067;21279;39;178;1487;Non vérifié
-38163;Le Haut-Bréda;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;11720;70;180;456;Non vérifié
-38166;La Flachère;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;11540;70;180;449;Non vérifié
-38167;Flachères;38;eau potable : Régie directe;225514;2024;73,1;4,2;11,5;67,3;conforme;426986;10878;51;155;579;Non vérifié
-38169;Fontaine;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;288282;36;88;22020;Non vérifié
-38170;Fontanil-Cornillon;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;44565;36;88;3404;Non vérifié
-38171;La Forteresse;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;9107;74;168;338;Non vérifié
-38172;Four;38;eau potable;38956;2024;77,9;6,6;23,5;69,7;conforme;2012406;30227;50;110;1673;Non vérifié
-38174;La Frette;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;29181;74;168;1083;Non vérifié
-38175;Froges;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;84429;70;180;3285;Non vérifié
-38176;Frontonas;38;eau potable : Régie;257594;2024;69,8;4,6;10,7;67,1;conforme;945277;52283;67;157;2123;Non vérifié
-38177;La Garde;38;eau potable;38863;2024;78,3;2,8;10,3;67,1;conforme;7195;7195;197;100;100;Non vérifié
-38179;Gières;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;96565;36;88;7376;Non vérifié
-38180;Gillonnay;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;27187;74;168;1009;Non vérifié
-38181;Goncelin;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;61683;70;180;2400;Non vérifié
-38182;Le Grand-Lemps;38;eau potable : Régie directe;225514;2024;73,1;4,2;11,5;67,3;conforme;426986;57920;51;155;3083;Non vérifié
-38183;Granieu;38;eau potable;38896;2024;84,4;2,1;11,5;67,3;conforme;373033;4898;26;67;519;Non vérifié
-38184;Grenay;38;eau potable : Territoire n°1;38880;2024;84,5;2,7;14,7;67,9;conforme;19286;19286;32;67;1628;Non vérifié
-38185;Grenoble;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;2044156;36;88;156140;Non vérifié
-38186;Gresse-en-Vercors;38;eau potable;195073;2023;78,2;2,4;9,2;66,8;conforme;19272;19272;150;95;351;Sans anomalie apparente
-38187;Le Gua;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;25241;36;88;1928;Non vérifié
-38188;Herbeys;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;18643;36;88;1424;Non vérifié
-38189;Heyrieux;38;eau potable;38877;2024;67,1;7,8;15,9;68,2;non conforme;122421;122421;68;179;4956;Non vérifié
-38190;Hières-sur-Amby;38;eau potable : Régie;257594;2024;69,8;4,6;10,7;67,1;conforme;945277;30660;67;157;1245;Non vérifié
-38191;Huez;38;eau potable;38884;2024;82,0;9,7;43,9;73,8;conforme;122855;122855;271;95;1244;Non vérifié
-38192;Hurtières;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;5988;70;180;233;Non vérifié
-38193;L' Isle-d'Abeau;38;eau potable;38956;2024;77,9;6,6;23,5;69,7;conforme;2012406;316454;50;110;17515;Non vérifié
-38194;Izeaux;38;eau potable : Régie directe;225514;2024;73,1;4,2;11,5;67,3;conforme;426986;40091;51;155;2134;Non vérifié
-38195;Izeron;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;20309;69;159;809;Non vérifié
-38197;Janneyrias;38;eau potable;38873;2022;81,8;3,3;15,1;68,0;conforme;19922;19922;29;80;1896;Sans anomalie apparente
-38198;Jarcieu;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;23893;58;133;1135;Non vérifié
-38199;Jardin;38;eau potable : Secteur Jardin;299494;2024;75,0;2,7;8,1;66,6;conforme;30472;30472;38;131;2178;Non vérifié
-38200;Jarrie;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;51739;36;88;3952;Non vérifié
-38203;Laffrey;38;eau potable;38878;2022;53,3;5,5;6,3;66,3;non conforme;15960;15960;94;320;466;Sans anomalie apparente
-38204;Lalley;38;eau potable;38856;2024;79,6;2,4;9,3;66,9;conforme;7358;7358;113;94;178;Non vérifié
-38205;Lans-en-Vercors;38;eau potable : DSP;325854;2024;77,1;3,4;11,4;67,3;conforme;60300;60300;60;108;2751;Non vérifié
-38206;Laval;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;26447;70;180;1029;Non vérifié
-38207;Lavaldens;38;eau potable;38838;2024;63,1;27,3;46,8;74,4;non conforme;57595;57595;956;213;165;Non vérifié
-38208;Lavars;38;eau potable;38837;2024;40,9;3,9;2,7;65,5;non conforme;21352;21352;340;528;172;Non vérifié
-38209;Lentiol;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;6521;74;168;242;Non vérifié
-38210;Leyrieu;38;eau potable : Régie;257594;2024;69,8;4,6;10,7;67,1;conforme;945277;22632;67;157;919;Non vérifié
-38211;Lieudieu;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;9296;74;168;345;Non vérifié
-38213;Longechenal;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;15978;74;168;593;Non vérifié
-38214;Lumbin;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;55618;70;180;2164;Non vérifié
-38215;Luzinay;38;eau potable;201782;2024;73,4;2,5;7,0;66,4;conforme;158310;28148;32;131;2416;Non vérifié
-38216;Malleval-en-Vercors;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;1431;69;159;57;Non vérifié
-38217;Marcieu;38;eau potable;38834;2024;91,2;0,4;4,5;65,9;conforme;511;511;21;32;66;Non vérifié
-38218;Marcilloles;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;32361;74;168;1201;Non vérifié
-38219;Marcollin;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;16140;74;168;599;Non vérifié
-38221;Marnans;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;3557;74;168;132;Non vérifié
-38222;Massieu;38;eau potable;38910;2024;72,5;2,4;6,4;66,3;conforme;432175;17003;60;144;773;Non vérifié
-38223;Maubec;38;eau potable;38956;2024;77,9;6,6;23,5;69,7;conforme;2012406;34870;50;110;1930;Non vérifié
-38224;Mayres-Savel;38;eau potable;38831;2024;61,5;0,9;1,5;65,3;non conforme;3942;3942;115;226;94;Non vérifié
-38225;Autrans-Méaudre en Vercors;38;eau potable : Régie;325834;2024;75,1;4,2;15,1;68,0;conforme;334194;106397;99;102;2936;Non vérifié
-38226;Mens;38;eau potable;38830;2023;59,1;3,5;5,0;66,0;non conforme;54677;54677;106;256;1415;Sans anomalie apparente
-38228;Merlas;38;eau potable;38910;2024;72,5;2,4;6,4;66,3;conforme;432175;10228;60;144;465;Non vérifié
-38229;Meylan;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;245733;36;88;18770;Non vérifié
-38230;Meyrié;38;eau potable;38956;2024;77,9;6,6;23,5;69,7;conforme;2012406;19802;50;110;1096;Non vérifié
-38231;Meyrieu-les-Étangs;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;27591;74;168;1024;Non vérifié
-38232;Meyssiez;38;eau potable : Secteur Amballon;299414;2024;60,6;5,2;8,0;66,6;non conforme;386091;27057;110;302;671;Non vérifié
-38235;Miribel-Lanchâtre;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;5826;36;88;445;Non vérifié
-38236;Miribel-les-Échelles;38;eau potable;38910;2024;72,5;2,4;6,4;66,3;conforme;432175;37679;60;144;1713;Non vérifié
-38237;Mizoën;38;eau potable;38846;2024;93,0;6,7;89,2;82,8;conforme;4524;4524;66;27;187;Non vérifié
-38238;Moidieu-Détourbe;38;eau potable : Secteur Amballon;299414;2024;60,6;5,2;8,0;66,6;non conforme;386091;79759;110;302;1978;Non vérifié
-38239;Moirans;38;eau potable;38934;2024;78,0;4,4;15,6;68,1;conforme;1357070;121068;42;105;7818;Non vérifié
-38240;Moissieu-sur-Dolon;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;15725;58;133;747;Non vérifié
-38241;Monestier-d'Ambel;38;eau potable;38852;2024;100,0;0,0;15,1;68,0;conforme;0;0;0;0;14;Non vérifié
-38242;Monestier-de-Clermont;38;eau potable;38919;2024;80,3;1,1;4,4;65,9;conforme;50188;18288;34;92;1478;Non vérifié
-38243;Monestier-du-Percy;38;eau potable;38851;2024;65,8;2,0;3,8;65,8;conforme;8687;8687;94;190;254;Non vérifié
-38244;Monsteroux-Milieu;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;16167;58;133;768;Non vérifié
-38245;Montagne;38;eau potable : SI DES EAUX DE L'HERBASSE;71857;2024;82,8;1,1;5,2;66,0;conforme;240579;3464;35;78;273;Non vérifié
-38246;Montagnieu;38;eau potable : eau potable;232874;2024;83,8;1,8;9,4;66,9;conforme;280539;10148;24;71;1179;Non vérifié
-38247;Montalieu-Vercieu;38;eau potable : DSP Saur;312314;2024;51,5;11,2;11,9;67,4;non conforme;241683;160148;125;344;3510;Non vérifié
-38248;Montaud;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;13305;69;159;530;Non vérifié
-38249;Montbonnot-Saint-Martin;38;eau potable : DSP VEOLIA - Production Transfert Distribution;257634;2024;90,7;2,0;19,1;68,8;conforme;74460;39622;19;38;5698;Non vérifié
-38250;Montcarra;38;eau potable : Production Transfert Distribution;273495;2024;68,6;3,9;8,6;66,7;conforme;743067;8758;39;178;612;Non vérifié
-38252;Montchaboud;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;4608;36;88;352;Non vérifié
-38253;Les Deux Alpes;38;eau potable;38911;2024;82,6;4,9;23,4;69,7;conforme;116413;116413;167;76;1910;Non vérifié
-38254;Monteynard;38;eau potable;38840;2024;96,8;0,3;9,3;66,9;conforme;1194;1194;7;12;502;Non vérifié
-38255;Montfalcon;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;3422;74;168;127;Non vérifié
-38256;Montferrat;38;eau potable;38910;2024;72,5;2,4;6,4;66,3;conforme;432175;40604;60;144;1846;Non vérifié
-38257;Montrevel;38;eau potable : eau potable;232874;2024;83,8;1,8;9,4;66,9;conforme;280539;3891;24;71;452;Non vérifié
-38258;Mont-Saint-Martin;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;1218;36;88;93;Non vérifié
-38259;Montseveroux;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;21030;58;133;999;Non vérifié
-38260;Moras;38;eau potable : Production Transfert Distribution;273495;2024;68,6;3,9;8,6;66,7;conforme;743067;7441;39;178;520;Non vérifié
-38261;Morestel;38;eau potable;38896;2024;84,4;2,1;11,5;67,3;conforme;373033;40958;26;67;4340;Non vérifié
-38263;Morette;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;8987;69;159;358;Non vérifié
-38264;La Morte;38;eau potable;38842;2024;87,4;1,8;12,2;67,4;conforme;6669;6669;128;54;143;Non vérifié
-38265;La Motte-d'Aveillans;38;eau potable;196767;2024;52,9;6,7;7,5;66,5;non conforme;76544;76544;123;396;1711;Non vérifié
-38266;La Motte-Saint-Martin;38;eau potable;38841;2024;39,9;10,4;6,9;66,4;non conforme;41756;41756;255;547;448;Non vérifié
-38267;Mottier;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;22229;74;168;825;Non vérifié
-38268;Le Moutaret;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;6425;70;180;250;Non vérifié
-38269;La Mure;38;eau potable;38871;2024;68,8;7,9;17,3;68,5;conforme;141292;141292;78;170;4963;Non vérifié
-38270;La Murette;38;eau potable;38934;2024;78,0;4,4;15,6;68,1;conforme;1357070;28432;42;105;1836;Non vérifié
-38271;Murianette;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;11914;36;88;910;Non vérifié
-38272;Murinais;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;10343;69;159;412;Non vérifié
-38275;Serre-Nerpol;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;7707;69;159;307;Non vérifié
-38276;Nivolas-Vermelle;38;eau potable;38956;2024;77,9;6,6;23,5;69,7;conforme;2012406;48891;50;110;2706;Non vérifié
-38277;Notre-Dame-de-Commiers;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;6795;36;88;519;Non vérifié
-38278;Notre-Dame-de-l'Osier;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;13430;69;159;535;Non vérifié
-38279;Notre-Dame-de-Mésage;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;14781;36;88;1129;Non vérifié
-38280;Notre-Dame-de-Vaulx;38;eau potable;38695;2024;50,0;70,0;36,1;72,2;non conforme;185238;185238;991;1303;512;Non vérifié
-38281;Noyarey;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;30962;36;88;2365;Non vérifié
-38282;Optevoz;38;eau potable : Régie;257594;2024;69,8;4,6;10,7;67,1;conforme;945277;21548;67;157;875;Non vérifié
-38283;Oris-en-Rattier;38;eau potable;38707;2024;87,8;0,7;4,9;66,0;conforme;1699;1699;43;53;108;Non vérifié
-38284;Ornacieux-Balbins;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;23604;74;168;876;Non vérifié
-38285;Ornon;38;eau potable;38700;2024;83,0;3,7;17,8;68,6;conforme;28360;28360;543;76;143;Non vérifié
-38287;Oyeu;38;eau potable : Régie directe;225514;2024;73,1;4,2;11,5;67,3;conforme;426986;20778;51;155;1106;Non vérifié
-38288;Oytier-Saint-Oblas;38;eau potable;201782;2024;73,4;2,5;7,0;66,4;conforme;158310;20307;32;131;1743;Non vérifié
-38289;Oz;38;eau potable;38698;2020;55,2;22,2;27,3;70,5;non conforme;97236;97236;1228;302;217;Sans anomalie apparente
-38290;Pact;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;18167;58;133;863;Non vérifié
-38291;Pajay;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;27915;74;168;1036;Non vérifié
-38292;Villages du Lac de Paladru;38;eau potable;38934;2024;78,0;4,4;15,6;68,1;conforme;1357070;40232;42;105;2598;Non vérifié
-38294;Panossas;38;eau potable : Régie;257594;2024;69,8;4,6;10,7;67,1;conforme;945277;17140;67;157;696;Non vérifié
-38295;Parmilieu;38;eau potable : Régie;257594;2024;69,8;4,6;10,7;67,1;conforme;945277;17805;67;157;723;Non vérifié
-38296;Le Passage;38;eau potable : eau potable;232874;2024;83,8;1,8;9,4;66,9;conforme;280539;8461;24;71;983;Non vérifié
-38297;Arandon-Passins;38;eau potable : Régie;257594;2024;69,8;4,6;10,7;67,1;conforme;945277;45904;67;157;1864;Non vérifié
-38298;Le Péage-de-Roussillon;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;141423;58;133;6718;Non vérifié
-38299;Pellafol;38;eau potable;38696;2024;42,0;5,0;3,6;65,7;non conforme;60225;60225;1213;505;136;Non vérifié
-38300;Penol;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;10266;74;168;381;Non vérifié
-38301;Le Percy;38;eau potable;38715;2024;10,4;28,3;3,3;65,7;non conforme;85425;85425;1401;3141;167;Non vérifié
-38303;La Pierre;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;17066;70;180;664;Non vérifié
-38304;Pierre-Châtel;38;eau potable;196770;2020;38,8;16,9;10,8;67,2;non conforme;129538;129538;241;574;1475;Sans anomalie apparente
-38307;Pisieu;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;11031;58;133;524;Non vérifié
-38308;Plan;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;8083;74;168;300;Non vérifié
-38309;Poisat;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;28449;36;88;2173;Non vérifié
-38310;Poliénas;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;27890;69;159;1111;Non vérifié
-38311;Pommier-de-Beaurepaire;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;15389;58;133;731;Non vérifié
-38313;Ponsonnas;38;eau potable;38718;2024;77,9;2,2;7,8;66,6;conforme;3292;3292;31;103;288;Non vérifié
-38314;Pontcharra;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;188906;70;180;7350;Non vérifié
-38315;Le Pont-de-Beauvoisin;38;eau potable;38910;2024;72,5;2,4;6,4;66,3;conforme;432175;79229;60;144;3602;Non vérifié
-38316;Pont-de-Chéruy;38;eau potable;38716;2023;51,2;31,8;47,2;74,4;non calculable;86870;86870;38;87;6302;Sans anomalie apparente
-38317;Le Pont-de-Claix;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;143434;36;88;10956;Non vérifié
-38318;Pont-Évêque;38;eau potable : Secteur Pont-Evêque;299554;2024;76,6;6,5;21,3;69,3;conforme;92765;92765;41;111;6213;Non vérifié
-38319;Pont-en-Royans;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;20208;69;159;805;Non vérifié
-38320;Porcieu-Amblagnieu;38;eau potable : DSP Saur;312314;2024;51,5;11,2;11,9;67,4;non conforme;241683;81534;125;344;1787;Non vérifié
-38322;Presles;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;2561;69;159;102;Non vérifié
-38323;Pressins;38;eau potable;38910;2024;72,5;2,4;6,4;66,3;conforme;432175;26263;60;144;1194;Non vérifié
-38324;Primarette;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;14441;58;133;686;Non vérifié
-38325;Proveysieux;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;6834;36;88;522;Non vérifié
-38326;Prunières;38;eau potable;38710;2024;83,0;1,3;6,6;66,3;conforme;3103;3103;22;72;381;Non vérifié
-38328;Quaix-en-Chartreuse;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;12346;36;88;943;Non vérifié
-38329;Quet-en-Beaumont;38;eau potable;38693;2024;100,0;0,0;1,0;65,2;conforme;0;0;0;0;79;Non vérifié
-38330;Quincieu;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;2661;69;159;106;Non vérifié
-38331;Réaumont;38;eau potable;38934;2024;78,0;4,4;15,6;68,1;conforme;1357070;15780;42;105;1019;Non vérifié
-38332;Renage;38;eau potable : Régie directe;225514;2024;73,1;4,2;11,5;67,3;conforme;426986;62898;51;155;3348;Non vérifié
-38333;Rencurel;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;8987;69;159;358;Non vérifié
-38334;Revel;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;33720;70;180;1312;Non vérifié
-38335;Revel-Tourdan;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;22104;58;133;1050;Non vérifié
-38336;Reventin-Vaugris;38;eau potable : Secteur Gerbey;325794;2024;91,5;1,0;10,4;67,1;conforme;61258;33119;45;35;2035;Non vérifié
-38337;Rives;38;eau potable;38934;2024;78,0;4,4;15,6;68,1;conforme;1357070;101417;42;105;6549;Non vérifié
-38338;La Rivière;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;18074;69;159;720;Non vérifié
-38339;Roche;38;eau potable;38929;2024;78,2;2,0;7,3;66,5;conforme;147460;27394;34;100;2196;Non vérifié
-38340;Les Roches-de-Condrieu;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;43261;58;133;2055;Non vérifié
-38341;Rochetoirin;38;eau potable : Production Transfert Distribution;273495;2024;68,6;3,9;8,6;66,7;conforme;743067;15598;39;178;1090;Non vérifié
-38342;Roissard;38;eau potable;38919;2024;80,3;1,1;4,4;65,9;conforme;50188;4009;34;92;324;Non vérifié
-38343;Romagnieu;38;eau potable;38910;2024;72,5;2,4;6,4;66,3;conforme;432175;38559;60;144;1753;Non vérifié
-38344;Roussillon;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;180937;58;133;8595;Non vérifié
-38345;Rovon;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;15187;69;159;605;Non vérifié
-38346;Royas;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;11505;74;168;427;Non vérifié
-38347;Roybon;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;29397;74;168;1091;Non vérifié
-38348;Ruy-Montceau;38;eau potable : Production Transfert Distribution;273495;2024;68,6;3,9;8,6;66,7;conforme;743067;68759;39;178;4805;Non vérifié
-38349;Sablons;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;49387;58;133;2346;Non vérifié
-38350;Sainte-Agnès;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;14084;70;180;548;Non vérifié
-38351;Saint-Agnin-sur-Bion;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;31983;74;168;1187;Non vérifié
-38352;Saint-Alban-de-Roche;38;eau potable;38956;2024;77,9;6,6;23,5;69,7;conforme;2012406;39171;50;110;2168;Non vérifié
-38353;Saint-Alban-du-Rhône;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;20315;58;133;965;Non vérifié
-38354;Saint-Albin-de-Vaulserre;38;eau potable;38910;2024;72,5;2,4;6,4;66,3;conforme;432175;9238;60;144;420;Non vérifié
-38355;Saint-Andéol;38;eau potable;196776;2024;85,4;0,5;2,7;65,5;conforme;1139;1139;27;69;117;Non vérifié
-38356;Saint-André-en-Royans;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;8585;69;159;342;Non vérifié
-38357;Saint-André-le-Gaz;38;eau potable;38896;2024;84,4;2,1;11,5;67,3;conforme;373033;25991;26;67;2754;Non vérifié
-38358;Sainte-Anne-sur-Gervonde;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;20451;74;168;759;Non vérifié
-38359;Saint Antoine l'Abbaye;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;31705;69;159;1263;Non vérifié
-38360;Saint-Appolinard;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;9916;69;159;395;Non vérifié
-38361;Saint-Arey;38;eau potable : principal;38686;2024;98,8;0,1;4,2;65,8;conforme;105;105;4;9;71;Non vérifié
-38362;Saint-Aupre;38;eau potable;38934;2024;78,0;4,4;15,6;68,1;conforme;1357070;18304;42;105;1182;Non vérifié
-38363;Saint-Barthélemy;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;19430;58;133;923;Non vérifié
-38364;Saint-Barthélemy-de-Séchilienne;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;5538;36;88;423;Non vérifié
-38365;Saint-Baudille-de-la-Tour;38;eau potable : Régie;257594;2024;69,8;4,6;10,7;67,1;conforme;945277;20908;67;157;849;Non vérifié
-38366;Saint-Baudille-et-Pipet;38;eau potable;38675;2024;66,5;2,4;4,8;66,0;conforme;21024;21024;225;182;256;Non vérifié
-38368;Saint-Blaise-du-Buis;38;eau potable;38934;2024;78,0;4,4;15,6;68,1;conforme;1357070;16446;42;105;1062;Non vérifié
-38369;Sainte-Blandine;38;eau potable : eau potable;232874;2024;83,8;1,8;9,4;66,9;conforme;280539;8943;24;71;1039;Non vérifié
-38370;Saint-Bonnet-de-Chavagne;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;16443;69;159;655;Non vérifié
-38372;Saint-Bueil;38;eau potable;38910;2024;72,5;2,4;6,4;66,3;conforme;432175;15749;60;144;716;Non vérifié
-38373;Saint-Cassien;38;eau potable;38934;2024;78,0;4,4;15,6;68,1;conforme;1357070;17871;42;105;1154;Non vérifié
-38374;Saint-Chef;38;eau potable : Production Transfert Distribution;273495;2024;68,6;3,9;8,6;66,7;conforme;743067;56109;39;178;3921;Non vérifié
-38376;Saint-Christophe-sur-Guiers;38;eau potable;38690;2024;59,5;0,3;0,4;65,1;non calculable;5694;5694;18;246;847;Non vérifié
-38377;Saint-Clair-de-la-Tour;38;eau potable : eau potable;232874;2024;83,8;1,8;9,4;66,9;conforme;280539;31228;24;71;3628;Non vérifié
-38378;Saint-Clair-du-Rhône;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;79532;58;133;3778;Non vérifié
-38379;Saint-Clair-sur-Galaure;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;7140;74;168;265;Non vérifié
-38380;Saint-Didier-de-Bizonnes;38;eau potable;38898;2024;70,2;2,2;5,2;66,0;conforme;91542;6341;51;154;341;Non vérifié
-38381;Saint-Didier-de-la-Tour;38;eau potable : eau potable;232874;2024;83,8;1,8;9,4;66,9;conforme;280539;18446;24;71;2143;Non vérifié
-38382;Saint-Égrève;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;235469;36;88;17986;Non vérifié
-38383;Saint-Étienne-de-Crossey;38;eau potable;38934;2024;78,0;4,4;15,6;68,1;conforme;1357070;40557;42;105;2619;Non vérifié
-38384;Saint-Étienne-de-Saint-Geoirs;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;92286;74;168;3425;Non vérifié
-38386;Saint-Geoire-en-Valdaine;38;eau potable;38910;2024;72,5;2,4;6,4;66,3;conforme;432175;52614;60;144;2392;Non vérifié
-38387;Saint-Geoirs;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;13419;74;168;498;Non vérifié
-38388;Saint-Georges-de-Commiers;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;35335;36;88;2699;Non vérifié
-38389;Saint-Georges-d'Espéranche;38;eau potable;38929;2024;78,2;2,0;7,3;66,5;conforme;147460;44222;34;100;3545;Non vérifié
-38390;Saint-Gervais;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;13506;69;159;538;Non vérifié
-38391;Saint-Guillaume;38;eau potable;196780;2020;81,6;0,6;2,9;65,6;conforme;2262;2262;26;76;238;Sans anomalie apparente
-38392;Saint-Hilaire-de-Brens;38;eau potable : Production Transfert Distribution;273495;2024;68,6;3,9;8,6;66,7;conforme;743067;8629;39;178;603;Non vérifié
-38393;Saint-Hilaire-de-la-Côte;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;43112;74;168;1600;Non vérifié
-38394;Saint-Hilaire-du-Rosier;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;50307;69;159;2004;Non vérifié
-38395;Plateau-des-Petites-Roches;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;62532;70;180;2433;Non vérifié
-38396;Saint-Honoré;38;eau potable;38683;2024;80,5;4,1;17,0;68,4;conforme;32923;32923;109;88;830;Non vérifié
-38397;Saint-Ismier;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;184151;70;180;7165;Non vérifié
-38398;Saint-Jean-d'Avelanne;38;eau potable;38910;2024;72,5;2,4;6,4;66,3;conforme;432175;21314;60;144;969;Non vérifié
-38399;Saint-Jean-de-Bournay;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;130494;74;168;4843;Non vérifié
-38400;Saint-Jean-de-Moirans;38;eau potable;38934;2024;78,0;4,4;15,6;68,1;conforme;1357070;56059;42;105;3620;Non vérifié
-38401;Saint-Jean-de-Soudain;38;eau potable : Production Transfert Distribution;273495;2024;68,6;3,9;8,6;66,7;conforme;743067;24527;39;178;1714;Non vérifié
-38402;Saint-Jean-de-Vaulx;38;eau potable;38765;2024;54,8;3,7;4,5;65,9;non conforme;24944;24944;127;298;536;Non vérifié
-38403;Saint-Jean-d'Hérans;38;eau potable;38721;2024;83,0;0,7;3,5;65,7;conforme;5391;5391;46;73;318;Non vérifié
-38404;Saint-Jean-le-Vieux;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;7196;70;180;280;Non vérifié
-38405;Saint-Joseph-de-Rivière;38;eau potable;38762;2024;59,6;7,5;11,0;67,2;non conforme;44074;44074;96;248;1254;Non vérifié
-38406;Saint-Julien-de-l'Herms;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;3473;58;133;165;Non vérifié
-38407;La Sure en Chartreuse;38;eau potable;38934;2024;78,0;4,4;15,6;68,1;conforme;1357070;16601;42;105;1072;Non vérifié
-38408;Saint-Just-Chaleyssin;38;eau potable;201782;2024;73,4;2,5;7,0;66,4;conforme;158310;31399;32;131;2695;Non vérifié
-38409;Saint-Just-de-Claix;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;35170;69;159;1401;Non vérifié
-38410;Saint-Lattier;38;eau potable : SI DES EAUX DE L'HERBASSE;71857;2024;82,8;1,1;5,2;66,0;conforme;240579;18855;35;78;1486;Non vérifié
-38412;Saint-Laurent-du-Pont;38;eau potable;38760;2024;61,9;5,1;8,3;66,7;non conforme;158227;158227;97;236;4490;Non vérifié
-38413;Saint-Laurent-en-Beaumont;38;eau potable;38759;2020;65,8;2,3;4,4;65,9;non conforme;17630;17630;114;192;422;Sans anomalie apparente
-38414;Sainte-Luce;38;eau potable;38932;2024;82,7;1,0;4,9;66,0;conforme;4380;1586;103;75;42;Non vérifié
-38415;Saint-Marcel-Bel-Accueil;38;eau potable : Production Transfert Distribution;273495;2024;68,6;3,9;8,6;66,7;conforme;743067;21536;39;178;1505;Non vérifié
-38416;Saint-Marcellin;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;193295;69;159;7700;Non vérifié
-38417;Sainte-Marie-d'Alloix;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;12491;70;180;486;Non vérifié
-38418;Sainte-Marie-du-Mont;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;6245;70;180;243;Non vérifié
-38419;Saint-Martin-de-Clelles;38;eau potable;38755;2024;68,1;2,2;4,7;65,9;conforme;10118;10118;151;172;184;Non vérifié
-38420;Saint-Martin-de-Vaulserre;38;eau potable;38910;2024;72,5;2,4;6,4;66,3;conforme;432175;5411;60;144;246;Non vérifié
-38421;Saint-Martin-d'Hères;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;493496;36;88;37695;Non vérifié
-38422;Saint-Martin-d'Uriage;38;eau potable : DSP SPLEGA - Production Transfert Distribution;261634;2024;97,1;3,8;125,6;85,0;conforme;212211;67634;33;11;5587;Non vérifié
-38423;Saint-Martin-le-Vinoux;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;79572;36;88;6078;Non vérifié
-38424;Saint-Maurice-en-Trièves;38;eau potable;38751;2024;82,6;0,9;4,1;65,8;conforme;4566;4566;70;81;180;Non vérifié
-38425;Saint-Maurice-l'Exil;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;145023;58;133;6889;Non vérifié
-38426;Saint-Maximin;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;17708;70;180;689;Non vérifié
-38427;Saint-Michel-de-Saint-Geoirs;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;7571;74;168;281;Non vérifié
-38429;Saint-Michel-les-Portes;38;eau potable;38919;2024;80,3;1,1;4,4;65,9;conforme;50188;3526;34;92;285;Non vérifié
-38430;Saint-Mury-Monteymond;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;8790;70;180;342;Non vérifié
-38431;Saint-Nazaire-les-Eymes;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;77516;70;180;3016;Non vérifié
-38432;Saint-Nicolas-de-Macherin;38;eau potable;38934;2024;78,0;4,4;15,6;68,1;conforme;1357070;14510;42;105;937;Non vérifié
-38433;Saint-Nizier-du-Moucherotte;38;eau potable : Régie;325834;2024;75,1;4,2;15,1;68,0;conforme;334194;42109;99;102;1162;Non vérifié
-38434;Saint-Ondras;38;eau potable : eau potable;232874;2024;83,8;1,8;9,4;66,9;conforme;280539;5750;24;71;668;Non vérifié
-38436;Saint-Paul-de-Varces;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;29038;36;88;2218;Non vérifié
-38437;Saint-Paul-d'Izeaux;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;8272;74;168;307;Non vérifié
-38438;Saint-Paul-lès-Monestier;38;eau potable;38919;2024;80,3;1,1;4,4;65,9;conforme;50188;3564;34;92;288;Non vérifié
-38439;Crêts en Belledonne;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;89184;70;180;3470;Non vérifié
-38440;Saint-Pierre-de-Bressieux;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;21179;74;168;786;Non vérifié
-38442;Saint-Pierre-de-Chartreuse;38;eau potable;38771;2024;48,4;5,9;5,5;66,1;non conforme;100245;100245;274;391;1003;Non vérifié
-38443;Saint-Pierre-de-Chérennes;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;11573;69;159;461;Non vérifié
-38445;Saint-Pierre-de-Mésage;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;10264;36;88;784;Non vérifié
-38446;Saint-Pierre-d'Entremont;38;eau potable;38768;2024;80,5;3,8;15,6;68,1;conforme;38836;38836;183;89;581;Non vérifié
-38448;Saint-Prim;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;31114;58;133;1478;Non vérifié
-38449;Saint-Quentin-Fallavier;38;eau potable;38956;2024;77,9;6,6;23,5;69,7;conforme;2012406;111820;50;110;6189;Non vérifié
-38450;Saint-Quentin-sur-Isère;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;36801;69;159;1466;Non vérifié
-38451;Saint-Romain-de-Jalionas;38;eau potable : Régie;257594;2024;69,8;4,6;10,7;67,1;conforme;945277;84150;67;157;3417;Non vérifié
-38452;Saint-Romain-de-Surieu;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;9852;58;133;468;Non vérifié
-38453;Saint-Romans;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;47621;69;159;1897;Non vérifié
-38454;Saint-Sauveur;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;53395;69;159;2127;Non vérifié
-38455;Saint-Savin;38;eau potable;38956;2024;77,9;6,6;23,5;69,7;conforme;2012406;78106;50;110;4323;Non vérifié
-38456;Châtel-en-Trièves;38;eau potable (CORDEAC);38797;2024;79,6;0,9;3,6;65,7;conforme;5913;5913;33;131;491;Non vérifié
-38457;Saint-Siméon-de-Bressieux;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;85846;74;168;3186;Non vérifié
-38458;Saint-Sorlin-de-Morestel;38;eau potable : Production Transfert Distribution;273495;2024;68,6;3,9;8,6;66,7;conforme;743067;8729;39;178;610;Non vérifié
-38459;Saint-Sorlin-de-Vienne;38;eau potable : Secteur Amballon;299414;2024;60,6;5,2;8,0;66,6;non conforme;386091;38871;110;302;964;Non vérifié
-38460;Saint-Sulpice-des-Rivoires;38;eau potable;38910;2024;72,5;2,4;6,4;66,3;conforme;432175;9348;60;144;425;Non vérifié
-38463;Saint-Vérand;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;42952;69;159;1711;Non vérifié
-38464;Saint-Victor-de-Cessieu;38;eau potable : eau potable;232874;2024;83,8;1,8;9,4;66,9;conforme;280539;18489;24;71;2148;Non vérifié
-38465;Saint-Victor-de-Morestel;38;eau potable;38896;2024;84,4;2,1;11,5;67,3;conforme;373033;11023;26;67;1168;Non vérifié
-38466;Saint-Vincent-de-Mercuze;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;39375;70;180;1532;Non vérifié
-38467;Salagnon;38;eau potable : Production Transfert Distribution;273495;2024;68,6;3,9;8,6;66,7;conforme;743067;21579;39;178;1508;Non vérifié
-38468;Salaise-sur-Sanne;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;96963;58;133;4606;Non vérifié
-38469;La Salette-Fallavaux;38;eau potable;38732;2024;95,9;0,1;2,1;65,4;conforme;256;256;9;17;81;Non vérifié
-38471;Le Sappey-en-Chartreuse;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;15592;36;88;1191;Non vérifié
-38472;Sarcenas;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;3417;36;88;261;Non vérifié
-38473;Sardieu;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;32145;74;168;1193;Non vérifié
-38474;Sassenage;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;152467;36;88;11646;Non vérifié
-38475;Satolas-et-Bonce;38;eau potable;38956;2024;77,9;6,6;23,5;69,7;conforme;2012406;45747;50;110;2532;Non vérifié
-38476;Savas-Mépin;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;23792;74;168;883;Non vérifié
-38478;Séchilienne;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;13000;36;88;993;Non vérifié
-38479;Porte-des-Bonnevaux;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;56557;74;168;2099;Non vérifié
-38480;Septème;38;eau potable;201782;2024;73,4;2,5;7,0;66,4;conforme;158310;25468;32;131;2186;Non vérifié
-38481;Sérézin-de-la-Tour;38;eau potable;38956;2024;77,9;6,6;23,5;69,7;conforme;2012406;20507;50;110;1135;Non vérifié
-38483;Sermérieu;38;eau potable : Production Transfert Distribution;273495;2024;68,6;3,9;8,6;66,7;conforme;743067;23440;39;178;1638;Non vérifié
-38484;Serpaize;38;eau potable : Secteur Nord de Vienne;299534;2024;57,6;7,4;10,1;67,0;non conforme;410903;21211;28;292;2091;Non vérifié
-38485;Seyssinet-Pariset;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;153685;36;88;11739;Non vérifié
-38486;Seyssins;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;105939;36;88;8092;Non vérifié
-38487;Seyssuel;38;eau potable : Secteur Nord de Vienne;299534;2024;57,6;7,4;10,1;67,0;non conforme;410903;22803;28;292;2248;Non vérifié
-38488;Siccieu-Saint-Julien-et-Carisieu;38;eau potable : Régie;257594;2024;69,8;4,6;10,7;67,1;conforme;945277;14998;67;157;609;Non vérifié
-38489;Siévoz;38;eau potable;38723;2024;75,2;8,7;26,2;70,2;conforme;8955;8955;186;121;132;Non vérifié
-38490;Sillans;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;51707;74;168;1919;Non vérifié
-38492;Sinard;38;eau potable;38919;2024;80,3;1,1;4,4;65,9;conforme;50188;8959;34;92;724;Non vérifié
-38494;Soleymieu;38;eau potable : Production Transfert Distribution;273495;2024;68,6;3,9;8,6;66,7;conforme;743067;12807;39;178;895;Non vérifié
-38495;La Sône;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;15915;69;159;634;Non vérifié
-38496;Sonnay;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;25977;58;133;1234;Non vérifié
-38498;Succieu;38;eau potable;38898;2024;70,2;2,2;5,2;66,0;conforme;91542;14448;51;154;777;Non vérifié
-38500;Têche;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;14962;69;159;596;Non vérifié
-38501;Tencin;38;eau potable : DSP VEOLIA - Production Transfert Distribution;257634;2024;90,7;2,0;19,1;68,8;conforme;74460;15159;19;38;2180;Non vérifié
-38503;La Terrasse;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;63483;70;180;2470;Non vérifié
-38504;Theys;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;51686;70;180;2011;Non vérifié
-38505;Thodure;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;21421;74;168;795;Non vérifié
-38507;Tignieu-Jameyzieu;38;eau potable : Régie;257594;2024;69,8;4,6;10,7;67,1;conforme;945277;197778;67;157;8031;Non vérifié
-38508;Torchefelon;38;eau potable;38898;2024;70,2;2,2;5,2;66,0;conforme;91542;15582;51;154;838;Non vérifié
-38509;La Tour-du-Pin;38;eau potable : Production Transfert Distribution;273495;2024;68,6;3,9;8,6;66,7;conforme;743067;116067;39;178;8111;Non vérifié
-38511;Le Touvet;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;80086;70;180;3116;Non vérifié
-38512;Tramolé;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;21825;74;168;810;Non vérifié
-38513;Treffort;38;eau potable;196796;2024;83,7;1,3;6,6;66,3;conforme;3801;3801;42;72;249;Non vérifié
-38514;Tréminis;38;eau potable;38741;2024;49,2;7,8;7,6;66,5;non conforme;48513;48513;671;377;198;Non vérifié
-38515;Trept;38;eau potable : Production Transfert Distribution;273495;2024;68,6;3,9;8,6;66,7;conforme;743067;29979;39;178;2095;Non vérifié
-38516;La Tronche;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;84102;36;88;6424;Non vérifié
-38517;Tullins;38;eau potable;38934;2024;78,0;4,4;15,6;68,1;conforme;1357070;118064;42;105;7624;Non vérifié
-38518;Valbonnais;38;eau potable;38739;2024;86,0;1,6;10,1;67,0;conforme;10804;10804;57;58;520;Non vérifié
-38519;Valencin;38;eau potable : DSP Suez;261834;2024;89,7;1,4;11,8;67,4;conforme;14589;14589;14;44;2878;Non vérifié
-38520;Valencogne;38;eau potable : eau potable;232874;2024;83,8;1,8;9,4;66,9;conforme;280539;5733;24;71;666;Non vérifié
-38521;La Valette;38;eau potable;38737;2024;100,0;0,0;10,6;67,1;conforme;0;0;0;0;66;Non vérifié
-38522;Valjouffrey;38;eau potable;38736;2024;80,4;6,8;28,1;70,6;conforme;31869;31869;523;88;167;Non vérifié
-38523;Varacieux;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;22116;69;159;881;Non vérifié
-38524;Varces-Allières-et-Risset;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;111830;36;88;8542;Non vérifié
-38525;Vasselin;38;eau potable : Production Transfert Distribution;273495;2024;68,6;3,9;8,6;66,7;conforme;743067;6554;39;178;458;Non vérifié
-38526;Vatilieu;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;9364;69;159;373;Non vérifié
-38527;Vaujany;38;eau potable;38948;2024;0,0;0,0;0,0;65,0;non conforme;0;0;0;;357;Non vérifié
-38528;Vaulnaveys-le-Bas;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;18302;36;88;1398;Non vérifié
-38529;Vaulnaveys-le-Haut;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;52446;36;88;4006;Non vérifié
-38530;Vaulx-Milieu;38;eau potable;38956;2024;77,9;6,6;23,5;69,7;conforme;2012406;44663;50;110;2472;Non vérifié
-38531;Velanne;38;eau potable;38910;2024;72,5;2,4;6,4;66,3;conforme;432175;12582;60;144;572;Non vérifié
-38532;Vénérieu;38;eau potable : Production Transfert Distribution;273495;2024;68,6;3,9;8,6;66,7;conforme;743067;13852;39;178;968;Non vérifié
-38533;Venon;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;11010;36;88;841;Non vérifié
-38535;Vernas;38;eau potable : Régie;257594;2024;69,8;4,6;10,7;67,1;conforme;945277;6600;67;157;268;Non vérifié
-38536;Vernioz;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;32019;58;133;1521;Non vérifié
-38537;La Verpillière;38;eau potable;38956;2024;77,9;6,6;23,5;69,7;conforme;2012406;140674;50;110;7786;Non vérifié
-38538;Le Versoud;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;125937;70;180;4900;Non vérifié
-38539;Vertrieu;38;eau potable : Régie;257594;2024;69,8;4,6;10,7;67,1;conforme;945277;14973;67;157;608;Non vérifié
-38540;Veurey-Voroize;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;18682;36;88;1427;Non vérifié
-38542;Veyssilieu;38;eau potable : Régie;257594;2024;69,8;4,6;10,7;67,1;conforme;945277;8078;67;157;328;Non vérifié
-38543;Vézeronce-Curtin;38;eau potable : Production Transfert Distribution;273495;2024;68,6;3,9;8,6;66,7;conforme;743067;32068;39;178;2241;Non vérifié
-38544;Vienne;38;eau potable : Secteur Nord de Vienne;299534;2024;57,6;7,4;10,1;67,0;non conforme;410903;322348;28;292;31778;Non vérifié
-38545;Vif;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;111673;36;88;8530;Non vérifié
-38546;Vignieu;38;eau potable : Production Transfert Distribution;273495;2024;68,6;3,9;8,6;66,7;conforme;743067;14653;39;178;1024;Non vérifié
-38547;Villard-Bonnot;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;192992;70;180;7509;Non vérifié
-38548;Villard-de-Lans;38;eau potable : Régie;325834;2024;75,1;4,2;15,1;68,0;conforme;334194;156841;99;102;4328;Non vérifié
-38549;Villard-Notre-Dame;38;eau potable;38941;2023;94,0;0,3;4,2;65,8;conforme;214;214;23;26;25;Sans anomalie apparente
-38552;Villard-Saint-Christophe;38;eau potable;196801;2024;94,4;0,8;14,0;67,8;conforme;1524;1524;11;21;397;Non vérifié
-38553;Villefontaine;38;eau potable;38956;2024;77,9;6,6;23,5;69,7;conforme;2012406;351325;50;110;19445;Non vérifié
-38554;Villemoirieu;38;eau potable : Régie;257594;2024;69,8;4,6;10,7;67,1;conforme;945277;47407;67;157;1925;Non vérifié
-38555;Villeneuve-de-Marc;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;31094;74;168;1154;Non vérifié
-38556;Ville-sous-Anjou;38;eau potable : DSP Suez;333394;2024;95,4;0,5;10,8;67,2;conforme;30629;5133;12;17;1175;Non vérifié
-38557;Villette-d'Anthon;38;eau potable;38953;2022;86,2;3,0;19,0;68,8;conforme;49341;49341;26;58;5268;Sans anomalie apparente
-38558;Villette-de-Vienne;38;eau potable : Secteur Nord de Vienne;299534;2024;57,6;7,4;10,1;67,0;non conforme;410903;20541;28;292;2025;Non vérifié
-38559;Vinay;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;111408;69;159;4438;Non vérifié
-38560;Val-de-Virieu;38;eau potable : eau potable;232874;2024;83,8;1,8;9,4;66,9;conforme;280539;13152;24;71;1528;Non vérifié
-38561;Viriville;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;46156;74;168;1713;Non vérifié
-38562;Vizille;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;95466;36;88;7292;Non vérifié
-38563;Voiron;38;eau potable;38934;2024;78,0;4,4;15,6;68,1;conforme;1357070;338319;42;105;21847;Non vérifié
-38564;Voissant;38;eau potable;38910;2024;72,5;2,4;6,4;66,3;conforme;432175;5411;60;144;246;Non vérifié
-38565;Voreppe;38;eau potable;38934;2024;78,0;4,4;15,6;68,1;conforme;1357070;153650;42;105;9922;Non vérifié
-38566;Vourey;38;eau potable;38934;2024;78,0;4,4;15,6;68,1;conforme;1357070;26140;42;105;1688;Non vérifié
-38567;Chamrousse;38;eau potable : DSP VEOLIA - Production Transfert Distribution;257634;2024;90,7;2,0;19,1;68,8;conforme;74460;3150;19;38;453;Non vérifié
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement);Donnée suspecte (voir LISEZMOI)
+38001;Les Abrets en Dauphiné;38;eau potable;38896;2024;84,4;2,1;11,5;67,3;conforme;373033;64646;26;67;6850;Non vérifié;non
+38002;Les Adrets;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;27732;70;180;1079;Non vérifié;non
+38003;Agnin;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;26209;58;133;1245;Non vérifié;non
+38004;L' Albenc;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;31505;69;159;1255;Non vérifié;non
+38005;Allemond;38;eau potable;38815;2024;83,8;3,4;17,5;68,5;conforme;34748;34748;98;71;971;Non vérifié;non
+38006;Allevard;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;102060;70;180;3971;Non vérifié;non
+38008;Ambel;38;eau potable;38814;2024;98,6;0,1;5,8;66,2;conforme;146;146;11;6;35;Non vérifié;non
+38009;Anjou;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;21704;58;133;1031;Non vérifié;non
+38010;Annoisin-Chatelans;38;eau potable : Régie;257594;2024;69,8;4,6;10,7;67,1;conforme;945277;17707;67;157;719;Non vérifié;non
+38011;Anthon;38;eau potable : ANTHON_EAU;338754;2024;77,3;4,6;15,7;68,1;conforme;15867;15867;38;107;1154;Non vérifié;non
+38012;Aoste;38;eau potable;38896;2024;84,4;2,1;11,5;67,3;conforme;373033;27142;26;67;2876;Non vérifié;non
+38013;Apprieu;38;eau potable : Régie directe;225514;2024;73,1;4,2;11,5;67,3;conforme;426986;67914;51;155;3615;Non vérifié;non
+38015;Artas;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;48474;74;168;1799;Non vérifié;non
+38017;Assieu;38;eau potable : DSP Suez;333394;2024;95,4;0,5;10,8;67,2;conforme;30629;7540;12;17;1726;Non vérifié;non
+38018;Auberives-en-Royans;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;9213;69;159;367;Non vérifié;non
+38019;Auberives-sur-Varèze;38;eau potable : DSP Suez;333394;2024;95,4;0,5;10,8;67,2;conforme;30629;6557;12;17;1501;Non vérifié;non
+38022;Les Avenières Veyrins-Thuellin;38;eau potable : Production Transfert Distribution;273495;2024;68,6;3,9;8,6;66,7;conforme;743067;110157;39;178;7698;Non vérifié;non
+38023;Avignonet;38;eau potable;38919;2024;80,3;1,1;4,4;65,9;conforme;50188;2512;34;92;203;Non vérifié;non
+38026;La Balme-les-Grottes;38;eau potable : Régie;257594;2024;69,8;4,6;10,7;67,1;conforme;945277;28222;67;157;1146;Non vérifié;non
+38027;Barraux;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;51814;70;180;2016;Non vérifié;non
+38029;La Bâtie-Montgascon;38;eau potable;38896;2024;84,4;2,1;11,5;67,3;conforme;373033;19205;26;67;2035;Non vérifié;non
+38030;Beaucroissant;38;eau potable : Régie directe;225514;2024;73,1;4,2;11,5;67,3;conforme;426986;33628;51;155;1790;Non vérifié;non
+38031;Beaufin;38;eau potable;38806;2024;59,9;22,1;33,1;71,6;non conforme;4921;4921;710;244;19;Non vérifié;non
+38032;Beaufort;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;15439;74;168;573;Non vérifié;non
+38033;Beaulieu;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;15941;69;159;635;Non vérifié;non
+38034;Beaurepaire;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;105468;58;133;5010;Non vérifié;non
+38035;Beauvoir-de-Marc;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;29585;74;168;1098;Non vérifié;non
+38036;Beauvoir-en-Royans;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;2410;69;159;96;Non vérifié;non
+38037;Bellegarde-Poussieu;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;21199;58;133;1007;Non vérifié;non
+38038;Belmont;38;eau potable;38898;2024;70,2;2,2;5,2;66,0;conforme;91542;11826;51;154;636;Non vérifié;non
+38039;Bernin;38;eau potable : DSP SPLEGA - Production Transfert Distribution;261634;2024;97,1;3,8;125,6;85,0;conforme;212211;40360;33;11;3334;Non vérifié;non
+38040;Besse;38;eau potable;38809;2023;87,0;2,4;15,9;68,2;conforme;1840;1840;33;55;154;Non vérifié;non
+38041;Bessins;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;3088;69;159;123;Non vérifié;non
+38042;Bévenais;38;eau potable : Régie directe;225514;2024;73,1;4,2;11,5;67,3;conforme;426986;19707;51;155;1049;Non vérifié;non
+38043;Bilieu;38;eau potable;38910;2024;72,5;2,4;6,4;66,3;conforme;432175;34709;60;144;1578;Non vérifié;non
+38044;Biol;38;eau potable;38898;2024;70,2;2,2;5,2;66,0;conforme;91542;29640;51;154;1594;Non vérifié;non
+38045;Biviers;38;eau potable : DSP VEOLIA - Production Transfert Distribution;257634;2024;90,7;2,0;19,1;68,8;conforme;74460;16529;19;38;2377;Non vérifié;non
+38046;Bizonnes;38;eau potable : Régie directe;225514;2024;73,1;4,2;11,5;67,3;conforme;426986;19313;51;155;1028;Non vérifié;non
+38047;Blandin;38;eau potable : eau potable;232874;2024;83,8;1,8;9,4;66,9;conforme;280539;1360;24;71;158;Non vérifié;non
+38048;Bonnefamille;38;eau potable;38929;2024;78,2;2,0;7,3;66,5;conforme;147460;13896;34;100;1114;Non vérifié;non
+38049;Bossieu;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;8784;74;168;326;Non vérifié;non
+38050;Le Bouchage;38;eau potable;38896;2024;84,4;2,1;11,5;67,3;conforme;373033;6182;26;67;655;Non vérifié;non
+38051;Bougé-Chambalud;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;30882;58;133;1467;Non vérifié;non
+38052;Le Bourg-d'Oisans;38;eau potable;38825;2024;40,7;11,5;7,9;66,6;non conforme;369380;369380;387;530;2617;Non vérifié;non
+38053;Bourgoin-Jallieu;38;eau potable;38956;2024;77,9;6,6;23,5;69,7;conforme;2012406;544756;50;110;30151;Non vérifié;non
+38054;Bouvesse-Quirieu;38;eau potable : Régie;257594;2024;69,8;4,6;10,7;67,1;conforme;945277;37531;67;157;1524;Non vérifié;non
+38055;Brangues;38;eau potable;38896;2024;84,4;2,1;11,5;67,3;conforme;373033;5795;26;67;614;Non vérifié;non
+38056;Bressieux;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;2506;74;168;93;Non vérifié;non
+38057;Bresson;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;8680;36;88;663;Non vérifié;non
+38058;Brézins;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;62296;74;168;2312;Non vérifié;non
+38059;Brié-et-Angonnes;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;32690;36;88;2497;Non vérifié;non
+38060;Brion;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;3799;74;168;141;Non vérifié;non
+38061;La Buisse;38;eau potable;38934;2024;78,0;4,4;15,6;68,1;conforme;1357070;54200;42;105;3500;Non vérifié;non
+38062;La Buissière;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;21255;70;180;827;Non vérifié;non
+38063;Burcin;38;eau potable;341594;2024;88,7;2,9;22,6;69,5;conforme;4763;799;5;47;430;Non vérifié;non
+38064;Cessieu;38;eau potable : Production Transfert Distribution;273495;2024;68,6;3,9;8,6;66,7;conforme;743067;46636;39;178;3259;Non vérifié;non
+38065;Châbons;38;eau potable;341594;2024;88,7;2,9;22,6;69,5;conforme;4763;3964;5;47;2133;Non vérifié;non
+38066;Chalon;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;3705;58;133;176;Non vérifié;non
+38067;Chamagnieu;38;eau potable : Régie;257594;2024;69,8;4,6;10,7;67,1;conforme;945277;44870;67;157;1822;Non vérifié;non
+38068;Champagnier;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;20384;36;88;1557;Non vérifié;non
+38069;Champier;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;42627;74;168;1582;Non vérifié;non
+38070;Le Champ-près-Froges;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;33129;70;180;1289;Non vérifié;non
+38071;Champ-sur-Drac;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;43661;36;88;3335;Non vérifié;non
+38072;Chanas;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;56965;58;133;2706;Non vérifié;non
+38073;Chantepérier;38;eau potable (Chantelouve);38787;2024;79,9;1,7;6,6;66,3;conforme;6205;6205;80;93;213;Non vérifié;non
+38074;Chantesse;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;9966;69;159;397;Non vérifié;non
+38075;Chapareillan;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;78775;70;180;3065;Non vérifié;non
+38076;La Chapelle-de-la-Tour;38;eau potable : Production Transfert Distribution;273495;2024;68,6;3,9;8,6;66,7;conforme;743067;28505;39;178;1992;Non vérifié;non
+38077;La Chapelle-de-Surieu;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;15936;58;133;757;Non vérifié;non
+38078;La Chapelle-du-Bard;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;13904;70;180;541;Non vérifié;non
+38080;Charancieu;38;eau potable;38910;2024;72,5;2,4;6,4;66,3;conforme;432175;16233;60;144;738;Non vérifié;non
+38081;Charantonnay;38;eau potable;38929;2024;78,2;2,0;7,3;66,5;conforme;147460;25186;34;100;2019;Non vérifié;non
+38082;Charavines;38;eau potable;38934;2024;78,0;4,4;15,6;68,1;conforme;1357070;31018;42;105;2003;Non vérifié;non
+38083;Charette;38;eau potable : Régie;257594;2024;69,8;4,6;10,7;67,1;conforme;945277;10959;67;157;445;Non vérifié;non
+38084;Charnècles;38;eau potable;38934;2024;78,0;4,4;15,6;68,1;conforme;1357070;23492;42;105;1517;Non vérifié;non
+38085;Charvieu-Chavagneux;38;eau potable;38786;2023;54,0;15,5;18,2;68,6;non conforme;347767;347767;90;310;10547;Sans anomalie apparente;non
+38086;Chasselay;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;11146;69;159;444;Non vérifié;non
+38087;Chasse-sur-Rhône;38;eau potable : Secteur Chasse sur Rhône;299454;2024;77,3;7,0;24,0;69,8;conforme;114208;114208;47;106;6588;Non vérifié;non
+38089;Chassignieu;38;eau potable : eau potable;232874;2024;83,8;1,8;9,4;66,9;conforme;280539;1937;24;71;225;Non vérifié;non
+38090;Château-Bernard;38;eau potable;196751;2024;96,8;0,1;2,7;65,5;conforme;694;694;6;14;295;Non vérifié;non
+38091;Châteauvilain;38;eau potable;38898;2024;70,2;2,2;5,2;66,0;conforme;91542;13704;51;154;737;Non vérifié;non
+38092;Châtelus;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;2435;69;159;97;Non vérifié;non
+38093;Châtenay;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;11667;74;168;433;Non vérifié;non
+38094;Châtonnay;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;54132;74;168;2009;Non vérifié;non
+38095;Chatte;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;63210;69;159;2518;Non vérifié;non
+38098;Chélieu;38;eau potable : eau potable;232874;2024;83,8;1,8;9,4;66,9;conforme;280539;6309;24;71;733;Non vérifié;non
+38099;Chevrières;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;18627;69;159;742;Non vérifié;non
+38100;Le Cheylas;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;61401;70;180;2389;Non vérifié;non
+38101;Cheyssieu;38;eau potable : DSP Suez;333394;2024;95,4;0,5;10,8;67,2;conforme;30629;4692;12;17;1074;Non vérifié;non
+38102;Chèzeneuve;38;eau potable;38956;2024;77,9;6,6;23,5;69,7;conforme;2012406;11816;50;110;654;Non vérifié;non
+38103;Chichilianne;38;eau potable;38777;2024;90,0;20,8;12,0;67,4;conforme;88826;88826;724;631;336;Non vérifié;non
+38104;Chimilin;38;eau potable;38896;2024;84,4;2,1;11,5;67,3;conforme;373033;13373;26;67;1417;Non vérifié;non
+38105;Chirens;38;eau potable;38934;2024;78,0;4,4;15,6;68,1;conforme;1357070;39427;42;105;2546;Non vérifié;non
+38106;Cholonge;38;eau potable;38776;2024;46,9;6,7;5,9;66,2;non conforme;17118;17118;138;415;339;Non vérifié;non
+38107;Chonas-l'Amballan;38;eau potable : Secteur Chonas L'Amballan - Village;325814;2024;58,9;7,7;11,1;67,2;non conforme;26531;26531;42;254;1729;Non vérifié;non
+38108;Choranche;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;3615;69;159;144;Non vérifié;non
+38109;Chozeau;38;eau potable : Régie;257594;2024;69,8;4,6;10,7;67,1;conforme;945277;24307;67;157;987;Non vérifié;non
+38110;Chuzelles;38;eau potable : Secteur Nord de Vienne;299534;2024;57,6;7,4;10,1;67,0;non conforme;410903;24000;28;292;2366;Non vérifié;non
+38111;Claix;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;102587;36;88;7836;Non vérifié;non
+38113;Clelles;38;eau potable;38800;2024;71,1;4,0;9,8;67,0;conforme;24820;24820;114;148;596;Non vérifié;non
+38114;Clonas-sur-Varèze;38;eau potable : DSP Suez;333394;2024;95,4;0,5;10,8;67,2;conforme;30629;6706;12;17;1535;Non vérifié;non
+38115;Saint-Martin-de-la-Cluze;38;eau potable;38919;2024;80,3;1,1;4,4;65,9;conforme;50188;9330;34;92;754;Non vérifié;non
+38117;Cognin-les-Gorges;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;15438;69;159;615;Non vérifié;non
+38118;Colombe;38;eau potable : Régie directe;225514;2024;73,1;4,2;11,5;67,3;conforme;426986;35507;51;155;1890;Non vérifié;non
+38120;La Combe-de-Lancey;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;19148;70;180;745;Non vérifié;non
+38124;Corbelin;38;eau potable;38896;2024;84,4;2,1;11,5;67,3;conforme;373033;22414;26;67;2375;Non vérifié;non
+38126;Corenc;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;55182;36;88;4215;Non vérifié;non
+38127;Cornillon-en-Trièves;38;eau potable;38795;2024;92,1;0,4;4,2;65,8;conforme;1504;1504;24;35;173;Non vérifié;non
+38128;Corps;38;eau potable;38801;2022;43,4;18,1;13,9;67,8;non conforme;70029;70029;456;475;421;Sans anomalie apparente;non
+38129;Corrençon-en-Vercors;38;eau potable : Régie;325834;2024;75,1;4,2;15,1;68,0;conforme;334194;13553;99;102;374;Non vérifié;non
+38130;La Côte-Saint-André;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;131302;74;168;4873;Non vérifié;non
+38131;Les Côtes-d'Arey;38;eau potable : Secteur Côtes d'Arey;299514;2024;70,5;3,3;7,8;66,6;conforme;46217;46217;63;155;2023;Non vérifié;non
+38132;Les Côtes-de-Corps;38;eau potable;38932;2024;82,7;1,0;4,9;66,0;conforme;4380;2794;103;75;74;Non vérifié;non
+38133;Coublevie;38;eau potable;38934;2024;78,0;4,4;15,6;68,1;conforme;1357070;85482;42;105;5520;Non vérifié;non
+38134;Cour-et-Buis;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;19367;58;133;920;Non vérifié;non
+38135;Courtenay;38;eau potable : Régie;257594;2024;69,8;4,6;10,7;67,1;conforme;945277;31448;67;157;1277;Non vérifié;non
+38136;Crachier;38;eau potable;38956;2024;77,9;6,6;23,5;69,7;conforme;2012406;10841;50;110;600;Non vérifié;non
+38137;Cras;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;10217;69;159;407;Non vérifié;non
+38138;Crémieu;38;eau potable : DSP Suez;312334;2024;78,5;5,7;20,8;69,2;conforme;53927;53927;42;100;3536;Non vérifié;non
+38139;Creys-Mépieu;38;eau potable : Régie;257594;2024;69,8;4,6;10,7;67,1;conforme;945277;39723;67;157;1613;Non vérifié;non
+38140;Crolles;38;eau potable : DSP SPLEGA - Production Transfert Distribution;261634;2024;97,1;3,8;125,6;85,0;conforme;212211;104217;33;11;8609;Non vérifié;non
+38141;Culin;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;21286;74;168;790;Non vérifié;non
+38144;Diémoz;38;eau potable;38929;2024;78,2;2,0;7,3;66,5;conforme;147460;36762;34;100;2947;Non vérifié;non
+38146;Dizimieu;38;eau potable : Régie;257594;2024;69,8;4,6;10,7;67,1;conforme;945277;20563;67;157;835;Non vérifié;non
+38147;Doissin;38;eau potable : eau potable;232874;2024;83,8;1,8;9,4;66,9;conforme;280539;7540;24;71;876;Non vérifié;non
+38148;Dolomieu;38;eau potable : Production Transfert Distribution;273495;2024;68,6;3,9;8,6;66,7;conforme;743067;45405;39;178;3173;Non vérifié;non
+38149;Domarin;38;eau potable;38956;2024;77,9;6,6;23,5;69,7;conforme;2012406;29974;50;110;1659;Non vérifié;non
+38150;Domène;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;89483;36;88;6835;Non vérifié;non
+38151;Échirolles;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;490825;36;88;37491;Non vérifié;non
+38152;Eclose-Badinières;38;eau potable;38956;2024;77,9;6,6;23,5;69,7;conforme;2012406;27372;50;110;1515;Non vérifié;non
+38153;Engins;38;eau potable : Régie;325834;2024;75,1;4,2;15,1;68,0;conforme;334194;15293;99;102;422;Non vérifié;non
+38154;Entraigues;38;eau potable;38865;2024;64,9;8,1;15,0;68,0;non conforme;32522;32522;396;197;225;Non vérifié;non
+38155;Entre-deux-Guiers;38;eau potable;38864;2024;55,2;9,9;12,2;67,4;non conforme;68656;68656;98;297;1915;Non vérifié;non
+38156;Les Éparres;38;eau potable;38956;2024;77,9;6,6;23,5;69,7;conforme;2012406;18574;50;110;1028;Non vérifié;non
+38157;Estrablin;38;eau potable : Secteur Amballon;299414;2024;60,6;5,2;8,0;66,6;non conforme;386091;148267;110;302;3677;Non vérifié;non
+38158;Eybens;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;137372;36;88;10493;Non vérifié;non
+38159;Eydoche;38;eau potable : Régie directe;225514;2024;73,1;4,2;11,5;67,3;conforme;426986;10201;51;155;543;Non vérifié;non
+38160;Eyzin-Pinet;38;eau potable : Secteur Amballon;299414;2024;60,6;5,2;8,0;66,6;non conforme;386091;92138;110;302;2285;Non vérifié;non
+38161;Faramans;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;30798;74;168;1143;Non vérifié;non
+38162;Faverges-de-la-Tour;38;eau potable : Production Transfert Distribution;273495;2024;68,6;3,9;8,6;66,7;conforme;743067;21279;39;178;1487;Non vérifié;non
+38163;Le Haut-Bréda;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;11720;70;180;456;Non vérifié;non
+38166;La Flachère;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;11540;70;180;449;Non vérifié;non
+38167;Flachères;38;eau potable : Régie directe;225514;2024;73,1;4,2;11,5;67,3;conforme;426986;10878;51;155;579;Non vérifié;non
+38169;Fontaine;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;288282;36;88;22020;Non vérifié;non
+38170;Fontanil-Cornillon;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;44565;36;88;3404;Non vérifié;non
+38171;La Forteresse;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;9107;74;168;338;Non vérifié;non
+38172;Four;38;eau potable;38956;2024;77,9;6,6;23,5;69,7;conforme;2012406;30227;50;110;1673;Non vérifié;non
+38174;La Frette;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;29181;74;168;1083;Non vérifié;non
+38175;Froges;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;84429;70;180;3285;Non vérifié;non
+38176;Frontonas;38;eau potable : Régie;257594;2024;69,8;4,6;10,7;67,1;conforme;945277;52283;67;157;2123;Non vérifié;non
+38177;La Garde;38;eau potable;38863;2024;78,3;2,8;10,3;67,1;conforme;7195;7195;197;100;100;Non vérifié;non
+38179;Gières;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;96565;36;88;7376;Non vérifié;non
+38180;Gillonnay;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;27187;74;168;1009;Non vérifié;non
+38181;Goncelin;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;61683;70;180;2400;Non vérifié;non
+38182;Le Grand-Lemps;38;eau potable : Régie directe;225514;2024;73,1;4,2;11,5;67,3;conforme;426986;57920;51;155;3083;Non vérifié;non
+38183;Granieu;38;eau potable;38896;2024;84,4;2,1;11,5;67,3;conforme;373033;4898;26;67;519;Non vérifié;non
+38184;Grenay;38;eau potable : Territoire n°1;38880;2024;84,5;2,7;14,7;67,9;conforme;19286;19286;32;67;1628;Non vérifié;non
+38185;Grenoble;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;2044156;36;88;156140;Non vérifié;non
+38186;Gresse-en-Vercors;38;eau potable;195073;2023;78,2;2,4;9,2;66,8;conforme;19272;19272;150;95;351;Sans anomalie apparente;non
+38187;Le Gua;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;25241;36;88;1928;Non vérifié;non
+38188;Herbeys;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;18643;36;88;1424;Non vérifié;non
+38189;Heyrieux;38;eau potable;38877;2024;67,1;7,8;15,9;68,2;non conforme;122421;122421;68;179;4956;Non vérifié;non
+38190;Hières-sur-Amby;38;eau potable : Régie;257594;2024;69,8;4,6;10,7;67,1;conforme;945277;30660;67;157;1245;Non vérifié;non
+38191;Huez;38;eau potable;38884;2024;82,0;9,7;43,9;73,8;conforme;122855;122855;271;95;1244;Non vérifié;non
+38192;Hurtières;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;5988;70;180;233;Non vérifié;non
+38193;L' Isle-d'Abeau;38;eau potable;38956;2024;77,9;6,6;23,5;69,7;conforme;2012406;316454;50;110;17515;Non vérifié;non
+38194;Izeaux;38;eau potable : Régie directe;225514;2024;73,1;4,2;11,5;67,3;conforme;426986;40091;51;155;2134;Non vérifié;non
+38195;Izeron;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;20309;69;159;809;Non vérifié;non
+38197;Janneyrias;38;eau potable;38873;2022;81,8;3,3;15,1;68,0;conforme;19922;19922;29;80;1896;Sans anomalie apparente;non
+38198;Jarcieu;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;23893;58;133;1135;Non vérifié;non
+38199;Jardin;38;eau potable : Secteur Jardin;299494;2024;75,0;2,7;8,1;66,6;conforme;30472;30472;38;131;2178;Non vérifié;non
+38200;Jarrie;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;51739;36;88;3952;Non vérifié;non
+38203;Laffrey;38;eau potable;38878;2022;53,3;5,5;6,3;66,3;non conforme;15960;15960;94;320;466;Sans anomalie apparente;non
+38204;Lalley;38;eau potable;38856;2024;79,6;2,4;9,3;66,9;conforme;7358;7358;113;94;178;Non vérifié;non
+38205;Lans-en-Vercors;38;eau potable : DSP;325854;2024;77,1;3,4;11,4;67,3;conforme;60300;60300;60;108;2751;Non vérifié;non
+38206;Laval;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;26447;70;180;1029;Non vérifié;non
+38207;Lavaldens;38;eau potable;38838;2024;63,1;27,3;46,8;74,4;non conforme;57595;57595;956;213;165;Non vérifié;non
+38208;Lavars;38;eau potable;38837;2024;40,9;3,9;2,7;65,5;non conforme;21352;21352;340;528;172;Non vérifié;non
+38209;Lentiol;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;6521;74;168;242;Non vérifié;non
+38210;Leyrieu;38;eau potable : Régie;257594;2024;69,8;4,6;10,7;67,1;conforme;945277;22632;67;157;919;Non vérifié;non
+38211;Lieudieu;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;9296;74;168;345;Non vérifié;non
+38213;Longechenal;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;15978;74;168;593;Non vérifié;non
+38214;Lumbin;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;55618;70;180;2164;Non vérifié;non
+38215;Luzinay;38;eau potable;201782;2024;73,4;2,5;7,0;66,4;conforme;158310;28148;32;131;2416;Non vérifié;non
+38216;Malleval-en-Vercors;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;1431;69;159;57;Non vérifié;non
+38217;Marcieu;38;eau potable;38834;2024;91,2;0,4;4,5;65,9;conforme;511;511;21;32;66;Non vérifié;non
+38218;Marcilloles;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;32361;74;168;1201;Non vérifié;non
+38219;Marcollin;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;16140;74;168;599;Non vérifié;non
+38221;Marnans;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;3557;74;168;132;Non vérifié;non
+38222;Massieu;38;eau potable;38910;2024;72,5;2,4;6,4;66,3;conforme;432175;17003;60;144;773;Non vérifié;non
+38223;Maubec;38;eau potable;38956;2024;77,9;6,6;23,5;69,7;conforme;2012406;34870;50;110;1930;Non vérifié;non
+38224;Mayres-Savel;38;eau potable;38831;2024;61,5;0,9;1,5;65,3;non conforme;3942;3942;115;226;94;Non vérifié;non
+38225;Autrans-Méaudre en Vercors;38;eau potable : Régie;325834;2024;75,1;4,2;15,1;68,0;conforme;334194;106397;99;102;2936;Non vérifié;non
+38226;Mens;38;eau potable;38830;2023;59,1;3,5;5,0;66,0;non conforme;54677;54677;106;256;1415;Sans anomalie apparente;non
+38228;Merlas;38;eau potable;38910;2024;72,5;2,4;6,4;66,3;conforme;432175;10228;60;144;465;Non vérifié;non
+38229;Meylan;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;245733;36;88;18770;Non vérifié;non
+38230;Meyrié;38;eau potable;38956;2024;77,9;6,6;23,5;69,7;conforme;2012406;19802;50;110;1096;Non vérifié;non
+38231;Meyrieu-les-Étangs;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;27591;74;168;1024;Non vérifié;non
+38232;Meyssiez;38;eau potable : Secteur Amballon;299414;2024;60,6;5,2;8,0;66,6;non conforme;386091;27057;110;302;671;Non vérifié;non
+38235;Miribel-Lanchâtre;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;5826;36;88;445;Non vérifié;non
+38236;Miribel-les-Échelles;38;eau potable;38910;2024;72,5;2,4;6,4;66,3;conforme;432175;37679;60;144;1713;Non vérifié;non
+38237;Mizoën;38;eau potable;38846;2024;93,0;6,7;89,2;82,8;conforme;4524;4524;66;27;187;Non vérifié;non
+38238;Moidieu-Détourbe;38;eau potable : Secteur Amballon;299414;2024;60,6;5,2;8,0;66,6;non conforme;386091;79759;110;302;1978;Non vérifié;non
+38239;Moirans;38;eau potable;38934;2024;78,0;4,4;15,6;68,1;conforme;1357070;121068;42;105;7818;Non vérifié;non
+38240;Moissieu-sur-Dolon;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;15725;58;133;747;Non vérifié;non
+38241;Monestier-d'Ambel;38;eau potable;38852;2024;100,0;0,0;15,1;68,0;conforme;0;0;0;0;14;Non vérifié;non
+38242;Monestier-de-Clermont;38;eau potable;38919;2024;80,3;1,1;4,4;65,9;conforme;50188;18288;34;92;1478;Non vérifié;non
+38243;Monestier-du-Percy;38;eau potable;38851;2024;65,8;2,0;3,8;65,8;conforme;8687;8687;94;190;254;Non vérifié;non
+38244;Monsteroux-Milieu;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;16167;58;133;768;Non vérifié;non
+38245;Montagne;38;eau potable : SI DES EAUX DE L'HERBASSE;71857;2024;82,8;1,1;5,2;66,0;conforme;240579;3464;35;78;273;Non vérifié;non
+38246;Montagnieu;38;eau potable : eau potable;232874;2024;83,8;1,8;9,4;66,9;conforme;280539;10148;24;71;1179;Non vérifié;non
+38247;Montalieu-Vercieu;38;eau potable : DSP Saur;312314;2024;51,5;11,2;11,9;67,4;non conforme;241683;160148;125;344;3510;Non vérifié;non
+38248;Montaud;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;13305;69;159;530;Non vérifié;non
+38249;Montbonnot-Saint-Martin;38;eau potable : DSP VEOLIA - Production Transfert Distribution;257634;2024;90,7;2,0;19,1;68,8;conforme;74460;39622;19;38;5698;Non vérifié;non
+38250;Montcarra;38;eau potable : Production Transfert Distribution;273495;2024;68,6;3,9;8,6;66,7;conforme;743067;8758;39;178;612;Non vérifié;non
+38252;Montchaboud;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;4608;36;88;352;Non vérifié;non
+38253;Les Deux Alpes;38;eau potable;38911;2024;82,6;4,9;23,4;69,7;conforme;116413;116413;167;76;1910;Non vérifié;non
+38254;Monteynard;38;eau potable;38840;2024;96,8;0,3;9,3;66,9;conforme;1194;1194;7;12;502;Non vérifié;non
+38255;Montfalcon;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;3422;74;168;127;Non vérifié;non
+38256;Montferrat;38;eau potable;38910;2024;72,5;2,4;6,4;66,3;conforme;432175;40604;60;144;1846;Non vérifié;non
+38257;Montrevel;38;eau potable : eau potable;232874;2024;83,8;1,8;9,4;66,9;conforme;280539;3891;24;71;452;Non vérifié;non
+38258;Mont-Saint-Martin;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;1218;36;88;93;Non vérifié;non
+38259;Montseveroux;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;21030;58;133;999;Non vérifié;non
+38260;Moras;38;eau potable : Production Transfert Distribution;273495;2024;68,6;3,9;8,6;66,7;conforme;743067;7441;39;178;520;Non vérifié;non
+38261;Morestel;38;eau potable;38896;2024;84,4;2,1;11,5;67,3;conforme;373033;40958;26;67;4340;Non vérifié;non
+38263;Morette;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;8987;69;159;358;Non vérifié;non
+38264;La Morte;38;eau potable;38842;2024;87,4;1,8;12,2;67,4;conforme;6669;6669;128;54;143;Non vérifié;non
+38265;La Motte-d'Aveillans;38;eau potable;196767;2024;52,9;6,7;7,5;66,5;non conforme;76544;76544;123;396;1711;Non vérifié;non
+38266;La Motte-Saint-Martin;38;eau potable;38841;2024;39,9;10,4;6,9;66,4;non conforme;41756;41756;255;547;448;Non vérifié;non
+38267;Mottier;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;22229;74;168;825;Non vérifié;non
+38268;Le Moutaret;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;6425;70;180;250;Non vérifié;non
+38269;La Mure;38;eau potable;38871;2024;68,8;7,9;17,3;68,5;conforme;141292;141292;78;170;4963;Non vérifié;non
+38270;La Murette;38;eau potable;38934;2024;78,0;4,4;15,6;68,1;conforme;1357070;28432;42;105;1836;Non vérifié;non
+38271;Murianette;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;11914;36;88;910;Non vérifié;non
+38272;Murinais;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;10343;69;159;412;Non vérifié;non
+38275;Serre-Nerpol;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;7707;69;159;307;Non vérifié;non
+38276;Nivolas-Vermelle;38;eau potable;38956;2024;77,9;6,6;23,5;69,7;conforme;2012406;48891;50;110;2706;Non vérifié;non
+38277;Notre-Dame-de-Commiers;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;6795;36;88;519;Non vérifié;non
+38278;Notre-Dame-de-l'Osier;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;13430;69;159;535;Non vérifié;non
+38279;Notre-Dame-de-Mésage;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;14781;36;88;1129;Non vérifié;non
+38280;Notre-Dame-de-Vaulx;38;eau potable;38695;2024;50,0;70,0;36,1;72,2;non conforme;185238;185238;991;1303;512;Non vérifié;non
+38281;Noyarey;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;30962;36;88;2365;Non vérifié;non
+38282;Optevoz;38;eau potable : Régie;257594;2024;69,8;4,6;10,7;67,1;conforme;945277;21548;67;157;875;Non vérifié;non
+38283;Oris-en-Rattier;38;eau potable;38707;2024;87,8;0,7;4,9;66,0;conforme;1699;1699;43;53;108;Non vérifié;non
+38284;Ornacieux-Balbins;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;23604;74;168;876;Non vérifié;non
+38285;Ornon;38;eau potable;38700;2024;83,0;3,7;17,8;68,6;conforme;28360;28360;543;76;143;Non vérifié;non
+38287;Oyeu;38;eau potable : Régie directe;225514;2024;73,1;4,2;11,5;67,3;conforme;426986;20778;51;155;1106;Non vérifié;non
+38288;Oytier-Saint-Oblas;38;eau potable;201782;2024;73,4;2,5;7,0;66,4;conforme;158310;20307;32;131;1743;Non vérifié;non
+38289;Oz;38;eau potable;38698;2020;55,2;22,2;27,3;70,5;non conforme;97236;97236;1228;302;217;Sans anomalie apparente;non
+38290;Pact;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;18167;58;133;863;Non vérifié;non
+38291;Pajay;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;27915;74;168;1036;Non vérifié;non
+38292;Villages du Lac de Paladru;38;eau potable;38934;2024;78,0;4,4;15,6;68,1;conforme;1357070;40232;42;105;2598;Non vérifié;non
+38294;Panossas;38;eau potable : Régie;257594;2024;69,8;4,6;10,7;67,1;conforme;945277;17140;67;157;696;Non vérifié;non
+38295;Parmilieu;38;eau potable : Régie;257594;2024;69,8;4,6;10,7;67,1;conforme;945277;17805;67;157;723;Non vérifié;non
+38296;Le Passage;38;eau potable : eau potable;232874;2024;83,8;1,8;9,4;66,9;conforme;280539;8461;24;71;983;Non vérifié;non
+38297;Arandon-Passins;38;eau potable : Régie;257594;2024;69,8;4,6;10,7;67,1;conforme;945277;45904;67;157;1864;Non vérifié;non
+38298;Le Péage-de-Roussillon;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;141423;58;133;6718;Non vérifié;non
+38299;Pellafol;38;eau potable;38696;2024;42,0;5,0;3,6;65,7;non conforme;60225;60225;1213;505;136;Non vérifié;non
+38300;Penol;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;10266;74;168;381;Non vérifié;non
+38301;Le Percy;38;eau potable;38715;2024;10,4;28,3;3,3;65,7;non conforme;85425;85425;1401;3141;167;Non vérifié;non
+38303;La Pierre;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;17066;70;180;664;Non vérifié;non
+38304;Pierre-Châtel;38;eau potable;196770;2020;38,8;16,9;10,8;67,2;non conforme;129538;129538;241;574;1475;Sans anomalie apparente;non
+38307;Pisieu;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;11031;58;133;524;Non vérifié;non
+38308;Plan;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;8083;74;168;300;Non vérifié;non
+38309;Poisat;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;28449;36;88;2173;Non vérifié;non
+38310;Poliénas;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;27890;69;159;1111;Non vérifié;non
+38311;Pommier-de-Beaurepaire;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;15389;58;133;731;Non vérifié;non
+38313;Ponsonnas;38;eau potable;38718;2024;77,9;2,2;7,8;66,6;conforme;3292;3292;31;103;288;Non vérifié;non
+38314;Pontcharra;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;188906;70;180;7350;Non vérifié;non
+38315;Le Pont-de-Beauvoisin;38;eau potable;38910;2024;72,5;2,4;6,4;66,3;conforme;432175;79229;60;144;3602;Non vérifié;non
+38316;Pont-de-Chéruy;38;eau potable;38716;2023;51,2;31,8;47,2;74,4;non calculable;86870;86870;38;87;6302;Sans anomalie apparente;non
+38317;Le Pont-de-Claix;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;143434;36;88;10956;Non vérifié;non
+38318;Pont-Évêque;38;eau potable : Secteur Pont-Evêque;299554;2024;76,6;6,5;21,3;69,3;conforme;92765;92765;41;111;6213;Non vérifié;non
+38319;Pont-en-Royans;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;20208;69;159;805;Non vérifié;non
+38320;Porcieu-Amblagnieu;38;eau potable : DSP Saur;312314;2024;51,5;11,2;11,9;67,4;non conforme;241683;81534;125;344;1787;Non vérifié;non
+38322;Presles;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;2561;69;159;102;Non vérifié;non
+38323;Pressins;38;eau potable;38910;2024;72,5;2,4;6,4;66,3;conforme;432175;26263;60;144;1194;Non vérifié;non
+38324;Primarette;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;14441;58;133;686;Non vérifié;non
+38325;Proveysieux;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;6834;36;88;522;Non vérifié;non
+38326;Prunières;38;eau potable;38710;2024;83,0;1,3;6,6;66,3;conforme;3103;3103;22;72;381;Non vérifié;non
+38328;Quaix-en-Chartreuse;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;12346;36;88;943;Non vérifié;non
+38329;Quet-en-Beaumont;38;eau potable;38693;2024;100,0;0,0;1,0;65,2;conforme;0;0;0;0;79;Non vérifié;non
+38330;Quincieu;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;2661;69;159;106;Non vérifié;non
+38331;Réaumont;38;eau potable;38934;2024;78,0;4,4;15,6;68,1;conforme;1357070;15780;42;105;1019;Non vérifié;non
+38332;Renage;38;eau potable : Régie directe;225514;2024;73,1;4,2;11,5;67,3;conforme;426986;62898;51;155;3348;Non vérifié;non
+38333;Rencurel;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;8987;69;159;358;Non vérifié;non
+38334;Revel;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;33720;70;180;1312;Non vérifié;non
+38335;Revel-Tourdan;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;22104;58;133;1050;Non vérifié;non
+38336;Reventin-Vaugris;38;eau potable : Secteur Gerbey;325794;2024;91,5;1,0;10,4;67,1;conforme;61258;33119;45;35;2035;Non vérifié;non
+38337;Rives;38;eau potable;38934;2024;78,0;4,4;15,6;68,1;conforme;1357070;101417;42;105;6549;Non vérifié;non
+38338;La Rivière;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;18074;69;159;720;Non vérifié;non
+38339;Roche;38;eau potable;38929;2024;78,2;2,0;7,3;66,5;conforme;147460;27394;34;100;2196;Non vérifié;non
+38340;Les Roches-de-Condrieu;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;43261;58;133;2055;Non vérifié;non
+38341;Rochetoirin;38;eau potable : Production Transfert Distribution;273495;2024;68,6;3,9;8,6;66,7;conforme;743067;15598;39;178;1090;Non vérifié;non
+38342;Roissard;38;eau potable;38919;2024;80,3;1,1;4,4;65,9;conforme;50188;4009;34;92;324;Non vérifié;non
+38343;Romagnieu;38;eau potable;38910;2024;72,5;2,4;6,4;66,3;conforme;432175;38559;60;144;1753;Non vérifié;non
+38344;Roussillon;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;180937;58;133;8595;Non vérifié;non
+38345;Rovon;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;15187;69;159;605;Non vérifié;non
+38346;Royas;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;11505;74;168;427;Non vérifié;non
+38347;Roybon;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;29397;74;168;1091;Non vérifié;non
+38348;Ruy-Montceau;38;eau potable : Production Transfert Distribution;273495;2024;68,6;3,9;8,6;66,7;conforme;743067;68759;39;178;4805;Non vérifié;non
+38349;Sablons;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;49387;58;133;2346;Non vérifié;non
+38350;Sainte-Agnès;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;14084;70;180;548;Non vérifié;non
+38351;Saint-Agnin-sur-Bion;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;31983;74;168;1187;Non vérifié;non
+38352;Saint-Alban-de-Roche;38;eau potable;38956;2024;77,9;6,6;23,5;69,7;conforme;2012406;39171;50;110;2168;Non vérifié;non
+38353;Saint-Alban-du-Rhône;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;20315;58;133;965;Non vérifié;non
+38354;Saint-Albin-de-Vaulserre;38;eau potable;38910;2024;72,5;2,4;6,4;66,3;conforme;432175;9238;60;144;420;Non vérifié;non
+38355;Saint-Andéol;38;eau potable;196776;2024;85,4;0,5;2,7;65,5;conforme;1139;1139;27;69;117;Non vérifié;non
+38356;Saint-André-en-Royans;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;8585;69;159;342;Non vérifié;non
+38357;Saint-André-le-Gaz;38;eau potable;38896;2024;84,4;2,1;11,5;67,3;conforme;373033;25991;26;67;2754;Non vérifié;non
+38358;Sainte-Anne-sur-Gervonde;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;20451;74;168;759;Non vérifié;non
+38359;Saint Antoine l'Abbaye;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;31705;69;159;1263;Non vérifié;non
+38360;Saint-Appolinard;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;9916;69;159;395;Non vérifié;non
+38361;Saint-Arey;38;eau potable : principal;38686;2024;98,8;0,1;4,2;65,8;conforme;105;105;4;9;71;Non vérifié;non
+38362;Saint-Aupre;38;eau potable;38934;2024;78,0;4,4;15,6;68,1;conforme;1357070;18304;42;105;1182;Non vérifié;non
+38363;Saint-Barthélemy;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;19430;58;133;923;Non vérifié;non
+38364;Saint-Barthélemy-de-Séchilienne;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;5538;36;88;423;Non vérifié;non
+38365;Saint-Baudille-de-la-Tour;38;eau potable : Régie;257594;2024;69,8;4,6;10,7;67,1;conforme;945277;20908;67;157;849;Non vérifié;non
+38366;Saint-Baudille-et-Pipet;38;eau potable;38675;2024;66,5;2,4;4,8;66,0;conforme;21024;21024;225;182;256;Non vérifié;non
+38368;Saint-Blaise-du-Buis;38;eau potable;38934;2024;78,0;4,4;15,6;68,1;conforme;1357070;16446;42;105;1062;Non vérifié;non
+38369;Sainte-Blandine;38;eau potable : eau potable;232874;2024;83,8;1,8;9,4;66,9;conforme;280539;8943;24;71;1039;Non vérifié;non
+38370;Saint-Bonnet-de-Chavagne;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;16443;69;159;655;Non vérifié;non
+38372;Saint-Bueil;38;eau potable;38910;2024;72,5;2,4;6,4;66,3;conforme;432175;15749;60;144;716;Non vérifié;non
+38373;Saint-Cassien;38;eau potable;38934;2024;78,0;4,4;15,6;68,1;conforme;1357070;17871;42;105;1154;Non vérifié;non
+38374;Saint-Chef;38;eau potable : Production Transfert Distribution;273495;2024;68,6;3,9;8,6;66,7;conforme;743067;56109;39;178;3921;Non vérifié;non
+38376;Saint-Christophe-sur-Guiers;38;eau potable;38690;2024;59,5;0,3;0,4;65,1;non calculable;5694;5694;18;246;847;Non vérifié;non
+38377;Saint-Clair-de-la-Tour;38;eau potable : eau potable;232874;2024;83,8;1,8;9,4;66,9;conforme;280539;31228;24;71;3628;Non vérifié;non
+38378;Saint-Clair-du-Rhône;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;79532;58;133;3778;Non vérifié;non
+38379;Saint-Clair-sur-Galaure;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;7140;74;168;265;Non vérifié;non
+38380;Saint-Didier-de-Bizonnes;38;eau potable;38898;2024;70,2;2,2;5,2;66,0;conforme;91542;6341;51;154;341;Non vérifié;non
+38381;Saint-Didier-de-la-Tour;38;eau potable : eau potable;232874;2024;83,8;1,8;9,4;66,9;conforme;280539;18446;24;71;2143;Non vérifié;non
+38382;Saint-Égrève;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;235469;36;88;17986;Non vérifié;non
+38383;Saint-Étienne-de-Crossey;38;eau potable;38934;2024;78,0;4,4;15,6;68,1;conforme;1357070;40557;42;105;2619;Non vérifié;non
+38384;Saint-Étienne-de-Saint-Geoirs;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;92286;74;168;3425;Non vérifié;non
+38386;Saint-Geoire-en-Valdaine;38;eau potable;38910;2024;72,5;2,4;6,4;66,3;conforme;432175;52614;60;144;2392;Non vérifié;non
+38387;Saint-Geoirs;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;13419;74;168;498;Non vérifié;non
+38388;Saint-Georges-de-Commiers;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;35335;36;88;2699;Non vérifié;non
+38389;Saint-Georges-d'Espéranche;38;eau potable;38929;2024;78,2;2,0;7,3;66,5;conforme;147460;44222;34;100;3545;Non vérifié;non
+38390;Saint-Gervais;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;13506;69;159;538;Non vérifié;non
+38391;Saint-Guillaume;38;eau potable;196780;2020;81,6;0,6;2,9;65,6;conforme;2262;2262;26;76;238;Sans anomalie apparente;non
+38392;Saint-Hilaire-de-Brens;38;eau potable : Production Transfert Distribution;273495;2024;68,6;3,9;8,6;66,7;conforme;743067;8629;39;178;603;Non vérifié;non
+38393;Saint-Hilaire-de-la-Côte;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;43112;74;168;1600;Non vérifié;non
+38394;Saint-Hilaire-du-Rosier;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;50307;69;159;2004;Non vérifié;non
+38395;Plateau-des-Petites-Roches;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;62532;70;180;2433;Non vérifié;non
+38396;Saint-Honoré;38;eau potable;38683;2024;80,5;4,1;17,0;68,4;conforme;32923;32923;109;88;830;Non vérifié;non
+38397;Saint-Ismier;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;184151;70;180;7165;Non vérifié;non
+38398;Saint-Jean-d'Avelanne;38;eau potable;38910;2024;72,5;2,4;6,4;66,3;conforme;432175;21314;60;144;969;Non vérifié;non
+38399;Saint-Jean-de-Bournay;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;130494;74;168;4843;Non vérifié;non
+38400;Saint-Jean-de-Moirans;38;eau potable;38934;2024;78,0;4,4;15,6;68,1;conforme;1357070;56059;42;105;3620;Non vérifié;non
+38401;Saint-Jean-de-Soudain;38;eau potable : Production Transfert Distribution;273495;2024;68,6;3,9;8,6;66,7;conforme;743067;24527;39;178;1714;Non vérifié;non
+38402;Saint-Jean-de-Vaulx;38;eau potable;38765;2024;54,8;3,7;4,5;65,9;non conforme;24944;24944;127;298;536;Non vérifié;non
+38403;Saint-Jean-d'Hérans;38;eau potable;38721;2024;83,0;0,7;3,5;65,7;conforme;5391;5391;46;73;318;Non vérifié;non
+38404;Saint-Jean-le-Vieux;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;7196;70;180;280;Non vérifié;non
+38405;Saint-Joseph-de-Rivière;38;eau potable;38762;2024;59,6;7,5;11,0;67,2;non conforme;44074;44074;96;248;1254;Non vérifié;non
+38406;Saint-Julien-de-l'Herms;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;3473;58;133;165;Non vérifié;non
+38407;La Sure en Chartreuse;38;eau potable;38934;2024;78,0;4,4;15,6;68,1;conforme;1357070;16601;42;105;1072;Non vérifié;non
+38408;Saint-Just-Chaleyssin;38;eau potable;201782;2024;73,4;2,5;7,0;66,4;conforme;158310;31399;32;131;2695;Non vérifié;non
+38409;Saint-Just-de-Claix;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;35170;69;159;1401;Non vérifié;non
+38410;Saint-Lattier;38;eau potable : SI DES EAUX DE L'HERBASSE;71857;2024;82,8;1,1;5,2;66,0;conforme;240579;18855;35;78;1486;Non vérifié;non
+38412;Saint-Laurent-du-Pont;38;eau potable;38760;2024;61,9;5,1;8,3;66,7;non conforme;158227;158227;97;236;4490;Non vérifié;non
+38413;Saint-Laurent-en-Beaumont;38;eau potable;38759;2020;65,8;2,3;4,4;65,9;non conforme;17630;17630;114;192;422;Sans anomalie apparente;non
+38414;Sainte-Luce;38;eau potable;38932;2024;82,7;1,0;4,9;66,0;conforme;4380;1586;103;75;42;Non vérifié;non
+38415;Saint-Marcel-Bel-Accueil;38;eau potable : Production Transfert Distribution;273495;2024;68,6;3,9;8,6;66,7;conforme;743067;21536;39;178;1505;Non vérifié;non
+38416;Saint-Marcellin;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;193295;69;159;7700;Non vérifié;non
+38417;Sainte-Marie-d'Alloix;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;12491;70;180;486;Non vérifié;non
+38418;Sainte-Marie-du-Mont;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;6245;70;180;243;Non vérifié;non
+38419;Saint-Martin-de-Clelles;38;eau potable;38755;2024;68,1;2,2;4,7;65,9;conforme;10118;10118;151;172;184;Non vérifié;non
+38420;Saint-Martin-de-Vaulserre;38;eau potable;38910;2024;72,5;2,4;6,4;66,3;conforme;432175;5411;60;144;246;Non vérifié;non
+38421;Saint-Martin-d'Hères;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;493496;36;88;37695;Non vérifié;non
+38422;Saint-Martin-d'Uriage;38;eau potable : DSP SPLEGA - Production Transfert Distribution;261634;2024;97,1;3,8;125,6;85,0;conforme;212211;67634;33;11;5587;Non vérifié;non
+38423;Saint-Martin-le-Vinoux;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;79572;36;88;6078;Non vérifié;non
+38424;Saint-Maurice-en-Trièves;38;eau potable;38751;2024;82,6;0,9;4,1;65,8;conforme;4566;4566;70;81;180;Non vérifié;non
+38425;Saint-Maurice-l'Exil;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;145023;58;133;6889;Non vérifié;non
+38426;Saint-Maximin;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;17708;70;180;689;Non vérifié;non
+38427;Saint-Michel-de-Saint-Geoirs;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;7571;74;168;281;Non vérifié;non
+38429;Saint-Michel-les-Portes;38;eau potable;38919;2024;80,3;1,1;4,4;65,9;conforme;50188;3526;34;92;285;Non vérifié;non
+38430;Saint-Mury-Monteymond;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;8790;70;180;342;Non vérifié;non
+38431;Saint-Nazaire-les-Eymes;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;77516;70;180;3016;Non vérifié;non
+38432;Saint-Nicolas-de-Macherin;38;eau potable;38934;2024;78,0;4,4;15,6;68,1;conforme;1357070;14510;42;105;937;Non vérifié;non
+38433;Saint-Nizier-du-Moucherotte;38;eau potable : Régie;325834;2024;75,1;4,2;15,1;68,0;conforme;334194;42109;99;102;1162;Non vérifié;non
+38434;Saint-Ondras;38;eau potable : eau potable;232874;2024;83,8;1,8;9,4;66,9;conforme;280539;5750;24;71;668;Non vérifié;non
+38436;Saint-Paul-de-Varces;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;29038;36;88;2218;Non vérifié;non
+38437;Saint-Paul-d'Izeaux;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;8272;74;168;307;Non vérifié;non
+38438;Saint-Paul-lès-Monestier;38;eau potable;38919;2024;80,3;1,1;4,4;65,9;conforme;50188;3564;34;92;288;Non vérifié;non
+38439;Crêts en Belledonne;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;89184;70;180;3470;Non vérifié;non
+38440;Saint-Pierre-de-Bressieux;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;21179;74;168;786;Non vérifié;non
+38442;Saint-Pierre-de-Chartreuse;38;eau potable;38771;2024;48,4;5,9;5,5;66,1;non conforme;100245;100245;274;391;1003;Non vérifié;non
+38443;Saint-Pierre-de-Chérennes;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;11573;69;159;461;Non vérifié;non
+38445;Saint-Pierre-de-Mésage;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;10264;36;88;784;Non vérifié;non
+38446;Saint-Pierre-d'Entremont;38;eau potable;38768;2024;80,5;3,8;15,6;68,1;conforme;38836;38836;183;89;581;Non vérifié;non
+38448;Saint-Prim;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;31114;58;133;1478;Non vérifié;non
+38449;Saint-Quentin-Fallavier;38;eau potable;38956;2024;77,9;6,6;23,5;69,7;conforme;2012406;111820;50;110;6189;Non vérifié;non
+38450;Saint-Quentin-sur-Isère;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;36801;69;159;1466;Non vérifié;non
+38451;Saint-Romain-de-Jalionas;38;eau potable : Régie;257594;2024;69,8;4,6;10,7;67,1;conforme;945277;84150;67;157;3417;Non vérifié;non
+38452;Saint-Romain-de-Surieu;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;9852;58;133;468;Non vérifié;non
+38453;Saint-Romans;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;47621;69;159;1897;Non vérifié;non
+38454;Saint-Sauveur;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;53395;69;159;2127;Non vérifié;non
+38455;Saint-Savin;38;eau potable;38956;2024;77,9;6,6;23,5;69,7;conforme;2012406;78106;50;110;4323;Non vérifié;non
+38456;Châtel-en-Trièves;38;eau potable (CORDEAC);38797;2024;79,6;0,9;3,6;65,7;conforme;5913;5913;33;131;491;Non vérifié;non
+38457;Saint-Siméon-de-Bressieux;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;85846;74;168;3186;Non vérifié;non
+38458;Saint-Sorlin-de-Morestel;38;eau potable : Production Transfert Distribution;273495;2024;68,6;3,9;8,6;66,7;conforme;743067;8729;39;178;610;Non vérifié;non
+38459;Saint-Sorlin-de-Vienne;38;eau potable : Secteur Amballon;299414;2024;60,6;5,2;8,0;66,6;non conforme;386091;38871;110;302;964;Non vérifié;non
+38460;Saint-Sulpice-des-Rivoires;38;eau potable;38910;2024;72,5;2,4;6,4;66,3;conforme;432175;9348;60;144;425;Non vérifié;non
+38463;Saint-Vérand;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;42952;69;159;1711;Non vérifié;non
+38464;Saint-Victor-de-Cessieu;38;eau potable : eau potable;232874;2024;83,8;1,8;9,4;66,9;conforme;280539;18489;24;71;2148;Non vérifié;non
+38465;Saint-Victor-de-Morestel;38;eau potable;38896;2024;84,4;2,1;11,5;67,3;conforme;373033;11023;26;67;1168;Non vérifié;non
+38466;Saint-Vincent-de-Mercuze;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;39375;70;180;1532;Non vérifié;non
+38467;Salagnon;38;eau potable : Production Transfert Distribution;273495;2024;68,6;3,9;8,6;66,7;conforme;743067;21579;39;178;1508;Non vérifié;non
+38468;Salaise-sur-Sanne;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;96963;58;133;4606;Non vérifié;non
+38469;La Salette-Fallavaux;38;eau potable;38732;2024;95,9;0,1;2,1;65,4;conforme;256;256;9;17;81;Non vérifié;non
+38471;Le Sappey-en-Chartreuse;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;15592;36;88;1191;Non vérifié;non
+38472;Sarcenas;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;3417;36;88;261;Non vérifié;non
+38473;Sardieu;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;32145;74;168;1193;Non vérifié;non
+38474;Sassenage;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;152467;36;88;11646;Non vérifié;non
+38475;Satolas-et-Bonce;38;eau potable;38956;2024;77,9;6,6;23,5;69,7;conforme;2012406;45747;50;110;2532;Non vérifié;non
+38476;Savas-Mépin;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;23792;74;168;883;Non vérifié;non
+38478;Séchilienne;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;13000;36;88;993;Non vérifié;non
+38479;Porte-des-Bonnevaux;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;56557;74;168;2099;Non vérifié;non
+38480;Septème;38;eau potable;201782;2024;73,4;2,5;7,0;66,4;conforme;158310;25468;32;131;2186;Non vérifié;non
+38481;Sérézin-de-la-Tour;38;eau potable;38956;2024;77,9;6,6;23,5;69,7;conforme;2012406;20507;50;110;1135;Non vérifié;non
+38483;Sermérieu;38;eau potable : Production Transfert Distribution;273495;2024;68,6;3,9;8,6;66,7;conforme;743067;23440;39;178;1638;Non vérifié;non
+38484;Serpaize;38;eau potable : Secteur Nord de Vienne;299534;2024;57,6;7,4;10,1;67,0;non conforme;410903;21211;28;292;2091;Non vérifié;non
+38485;Seyssinet-Pariset;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;153685;36;88;11739;Non vérifié;non
+38486;Seyssins;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;105939;36;88;8092;Non vérifié;non
+38487;Seyssuel;38;eau potable : Secteur Nord de Vienne;299534;2024;57,6;7,4;10,1;67,0;non conforme;410903;22803;28;292;2248;Non vérifié;non
+38488;Siccieu-Saint-Julien-et-Carisieu;38;eau potable : Régie;257594;2024;69,8;4,6;10,7;67,1;conforme;945277;14998;67;157;609;Non vérifié;non
+38489;Siévoz;38;eau potable;38723;2024;75,2;8,7;26,2;70,2;conforme;8955;8955;186;121;132;Non vérifié;non
+38490;Sillans;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;51707;74;168;1919;Non vérifié;non
+38492;Sinard;38;eau potable;38919;2024;80,3;1,1;4,4;65,9;conforme;50188;8959;34;92;724;Non vérifié;non
+38494;Soleymieu;38;eau potable : Production Transfert Distribution;273495;2024;68,6;3,9;8,6;66,7;conforme;743067;12807;39;178;895;Non vérifié;non
+38495;La Sône;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;15915;69;159;634;Non vérifié;non
+38496;Sonnay;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;25977;58;133;1234;Non vérifié;non
+38498;Succieu;38;eau potable;38898;2024;70,2;2,2;5,2;66,0;conforme;91542;14448;51;154;777;Non vérifié;non
+38500;Têche;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;14962;69;159;596;Non vérifié;non
+38501;Tencin;38;eau potable : DSP VEOLIA - Production Transfert Distribution;257634;2024;90,7;2,0;19,1;68,8;conforme;74460;15159;19;38;2180;Non vérifié;non
+38503;La Terrasse;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;63483;70;180;2470;Non vérifié;non
+38504;Theys;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;51686;70;180;2011;Non vérifié;non
+38505;Thodure;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;21421;74;168;795;Non vérifié;non
+38507;Tignieu-Jameyzieu;38;eau potable : Régie;257594;2024;69,8;4,6;10,7;67,1;conforme;945277;197778;67;157;8031;Non vérifié;non
+38508;Torchefelon;38;eau potable;38898;2024;70,2;2,2;5,2;66,0;conforme;91542;15582;51;154;838;Non vérifié;non
+38509;La Tour-du-Pin;38;eau potable : Production Transfert Distribution;273495;2024;68,6;3,9;8,6;66,7;conforme;743067;116067;39;178;8111;Non vérifié;non
+38511;Le Touvet;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;80086;70;180;3116;Non vérifié;non
+38512;Tramolé;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;21825;74;168;810;Non vérifié;non
+38513;Treffort;38;eau potable;196796;2024;83,7;1,3;6,6;66,3;conforme;3801;3801;42;72;249;Non vérifié;non
+38514;Tréminis;38;eau potable;38741;2024;49,2;7,8;7,6;66,5;non conforme;48513;48513;671;377;198;Non vérifié;non
+38515;Trept;38;eau potable : Production Transfert Distribution;273495;2024;68,6;3,9;8,6;66,7;conforme;743067;29979;39;178;2095;Non vérifié;non
+38516;La Tronche;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;84102;36;88;6424;Non vérifié;non
+38517;Tullins;38;eau potable;38934;2024;78,0;4,4;15,6;68,1;conforme;1357070;118064;42;105;7624;Non vérifié;non
+38518;Valbonnais;38;eau potable;38739;2024;86,0;1,6;10,1;67,0;conforme;10804;10804;57;58;520;Non vérifié;non
+38519;Valencin;38;eau potable : DSP Suez;261834;2024;89,7;1,4;11,8;67,4;conforme;14589;14589;14;44;2878;Non vérifié;non
+38520;Valencogne;38;eau potable : eau potable;232874;2024;83,8;1,8;9,4;66,9;conforme;280539;5733;24;71;666;Non vérifié;non
+38521;La Valette;38;eau potable;38737;2024;100,0;0,0;10,6;67,1;conforme;0;0;0;0;66;Non vérifié;non
+38522;Valjouffrey;38;eau potable;38736;2024;80,4;6,8;28,1;70,6;conforme;31869;31869;523;88;167;Non vérifié;non
+38523;Varacieux;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;22116;69;159;881;Non vérifié;non
+38524;Varces-Allières-et-Risset;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;111830;36;88;8542;Non vérifié;non
+38525;Vasselin;38;eau potable : Production Transfert Distribution;273495;2024;68,6;3,9;8,6;66,7;conforme;743067;6554;39;178;458;Non vérifié;non
+38526;Vatilieu;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;9364;69;159;373;Non vérifié;non
+38527;Vaujany;38;eau potable;38948;2024;0,0;0,0;0,0;65,0;non conforme;0;0;0;;357;Non vérifié;oui
+38528;Vaulnaveys-le-Bas;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;18302;36;88;1398;Non vérifié;non
+38529;Vaulnaveys-le-Haut;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;52446;36;88;4006;Non vérifié;non
+38530;Vaulx-Milieu;38;eau potable;38956;2024;77,9;6,6;23,5;69,7;conforme;2012406;44663;50;110;2472;Non vérifié;non
+38531;Velanne;38;eau potable;38910;2024;72,5;2,4;6,4;66,3;conforme;432175;12582;60;144;572;Non vérifié;non
+38532;Vénérieu;38;eau potable : Production Transfert Distribution;273495;2024;68,6;3,9;8,6;66,7;conforme;743067;13852;39;178;968;Non vérifié;non
+38533;Venon;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;11010;36;88;841;Non vérifié;non
+38535;Vernas;38;eau potable : Régie;257594;2024;69,8;4,6;10,7;67,1;conforme;945277;6600;67;157;268;Non vérifié;non
+38536;Vernioz;38;eau potable : Régie;271194;2024;73,4;3,9;10,9;67,2;conforme;1338090;32019;58;133;1521;Non vérifié;non
+38537;La Verpillière;38;eau potable;38956;2024;77,9;6,6;23,5;69,7;conforme;2012406;140674;50;110;7786;Non vérifié;non
+38538;Le Versoud;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;125937;70;180;4900;Non vérifié;non
+38539;Vertrieu;38;eau potable : Régie;257594;2024;69,8;4,6;10,7;67,1;conforme;945277;14973;67;157;608;Non vérifié;non
+38540;Veurey-Voroize;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;18682;36;88;1427;Non vérifié;non
+38542;Veyssilieu;38;eau potable : Régie;257594;2024;69,8;4,6;10,7;67,1;conforme;945277;8078;67;157;328;Non vérifié;non
+38543;Vézeronce-Curtin;38;eau potable : Production Transfert Distribution;273495;2024;68,6;3,9;8,6;66,7;conforme;743067;32068;39;178;2241;Non vérifié;non
+38544;Vienne;38;eau potable : Secteur Nord de Vienne;299534;2024;57,6;7,4;10,1;67,0;non conforme;410903;322348;28;292;31778;Non vérifié;non
+38545;Vif;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;111673;36;88;8530;Non vérifié;non
+38546;Vignieu;38;eau potable : Production Transfert Distribution;273495;2024;68,6;3,9;8,6;66,7;conforme;743067;14653;39;178;1024;Non vérifié;non
+38547;Villard-Bonnot;38;eau potable : Régie - Production Transfert Distribution;262174;2024;71,9;7,1;18,3;68,7;conforme;1946216;192992;70;180;7509;Non vérifié;non
+38548;Villard-de-Lans;38;eau potable : Régie;325834;2024;75,1;4,2;15,1;68,0;conforme;334194;156841;99;102;4328;Non vérifié;non
+38549;Villard-Notre-Dame;38;eau potable;38941;2023;94,0;0,3;4,2;65,8;conforme;214;214;23;26;25;Sans anomalie apparente;non
+38552;Villard-Saint-Christophe;38;eau potable;196801;2024;94,4;0,8;14,0;67,8;conforme;1524;1524;11;21;397;Non vérifié;non
+38553;Villefontaine;38;eau potable;38956;2024;77,9;6,6;23,5;69,7;conforme;2012406;351325;50;110;19445;Non vérifié;non
+38554;Villemoirieu;38;eau potable : Régie;257594;2024;69,8;4,6;10,7;67,1;conforme;945277;47407;67;157;1925;Non vérifié;non
+38555;Villeneuve-de-Marc;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;31094;74;168;1154;Non vérifié;non
+38556;Ville-sous-Anjou;38;eau potable : DSP Suez;333394;2024;95,4;0,5;10,8;67,2;conforme;30629;5133;12;17;1175;Non vérifié;non
+38557;Villette-d'Anthon;38;eau potable;38953;2022;86,2;3,0;19,0;68,8;conforme;49341;49341;26;58;5268;Sans anomalie apparente;non
+38558;Villette-de-Vienne;38;eau potable : Secteur Nord de Vienne;299534;2024;57,6;7,4;10,1;67,0;non conforme;410903;20541;28;292;2025;Non vérifié;non
+38559;Vinay;38;eau potable : Régie des eaux et assainissement;232574;2024;69,9;2,7;6,2;66,2;conforme;1092920;111408;69;159;4438;Non vérifié;non
+38560;Val-de-Virieu;38;eau potable : eau potable;232874;2024;83,8;1,8;9,4;66,9;conforme;280539;13152;24;71;1528;Non vérifié;non
+38561;Viriville;38;eau potable;210859;2024;70,5;3,3;7,8;66,6;conforme;1522488;46156;74;168;1713;Non vérifié;non
+38562;Vizille;38;eau potable;215437;2024;84,3;8,9;47,6;74,5;conforme;5899276;95466;36;88;7292;Non vérifié;non
+38563;Voiron;38;eau potable;38934;2024;78,0;4,4;15,6;68,1;conforme;1357070;338319;42;105;21847;Non vérifié;non
+38564;Voissant;38;eau potable;38910;2024;72,5;2,4;6,4;66,3;conforme;432175;5411;60;144;246;Non vérifié;non
+38565;Voreppe;38;eau potable;38934;2024;78,0;4,4;15,6;68,1;conforme;1357070;153650;42;105;9922;Non vérifié;non
+38566;Vourey;38;eau potable;38934;2024;78,0;4,4;15,6;68,1;conforme;1357070;26140;42;105;1688;Non vérifié;non
+38567;Chamrousse;38;eau potable : DSP VEOLIA - Production Transfert Distribution;257634;2024;90,7;2,0;19,1;68,8;conforme;74460;3150;19;38;453;Non vérifié;non

@@ -7,541 +7,541 @@
 # Méthodologie et code : https://github.com/btaverne/dourdata
 # Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
 # Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
-Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
-70001;Abelcourt;70;eau potable;107050;2024;78,4;2,1;7,7;66,5;conforme;76650;6720;55;100;333;Non vérifié
-70002;Aboncourt-Gesincourt;70;eau potable;107072;2024;84,8;1,0;5,4;66,1;conforme;9749;2581;33;68;216;Non vérifié
-70003;Achey;70;eau potable;188032;2024;93,7;0,9;13,5;67,7;conforme;1038;1038;40;47;71;Non vérifié
-70004;Adelans-et-le-Val-de-Bithaine;70;eau potable;107046;2024;88,7;0,8;6,3;66,3;conforme;21082;2209;19;46;311;Non vérifié
-70005;Aillevans;70;eau potable;107073;2024;76,4;1,9;5,4;66,1;conforme;85994;8941;187;129;131;Non vérifié
-70006;Aillevillers-et-Lyaumont;70;eau potable;106564;2024;66,8;1,7;3,4;65,7;conforme;40332;40332;77;199;1426;Non vérifié
-70007;Ailloncourt;70;eau potable;107046;2024;88,7;0,8;6,3;66,3;conforme;21082;2166;19;46;305;Non vérifié
-70008;Ainvelle;70;eau potable;107048;2023;78,6;1,8;6,7;66,3;conforme;4395;1617;30;98;149;Sans anomalie apparente
-70009;Aisey-et-Richecourt;70;eau potable;107093;2024;91,8;0,8;9,2;66,8;conforme;11265;1041;29;55;100;Non vérifié
-70010;Alaincourt;70;eau potable;107088;2024;90,8;0,5;4,6;65,9;conforme;35952;888;25;40;97;Non vérifié
-70011;Amage;70;eau potable;106567;2024;71,5;1,5;3,7;65,7;conforme;5530;5530;50;146;304;Non vérifié
-70012;Amance;70;eau potable;107045;2024;89,2;1,7;13,8;67,8;conforme;22214;5578;23;45;669;Non vérifié
-70013;Ambiévillers;70;eau potable;107088;2024;90,8;0,5;4,6;65,9;conforme;35952;733;25;40;80;Non vérifié
-70014;Amblans-et-Velotte;70;eau potable : DSP Véolia AEP;322134;2024;70,0;2,6;6,2;66,2;conforme;187086;6440;46;176;386;Non vérifié
-70015;Amoncourt;70;eau potable;106572;2024;79,9;1,6;6,4;66,3;conforme;2698;2698;27;91;270;Non vérifié
-70016;Amont-et-Effreney;70;eau potable;188034;2024;88,7;0,3;2,5;65,5;conforme;404;404;7;43;168;Non vérifié
-70017;Anchenoncourt-et-Chazel;70;eau potable;107088;2024;90,8;0,5;4,6;65,9;conforme;35952;2051;25;40;224;Non vérifié
-70018;Ancier;70;eau potable : Territoire de Gray, La Goutte d'Or;107062;2024;77,0;2,8;9,3;66,9;conforme;217686;8402;44;111;523;Non vérifié
-70019;Andelarre;70;eau potable : communes alimentées au syndicat du Breuchin;286214;2024;77,3;2,7;9,0;66,8;conforme;55020;396;7;109;153;Non vérifié
-70020;Andelarrot;70;eau potable : communes alimentées au syndicat du Breuchin;286214;2024;77,3;2,7;9,0;66,8;conforme;55020;637;7;109;246;Non vérifié
-70021;Andornay;70;eau potable : DSP Véolia AEP;322134;2024;70,0;2,6;6,2;66,2;conforme;187086;2920;46;176;175;Non vérifié
-70022;Angirey;70;eau potable : DSP Gaz et Eau;290934;2024;81,5;2,2;9,7;66,9;conforme;124465;3314;60;95;152;Non vérifié
-70023;Anjeux;70;eau potable;107088;2024;90,8;0,5;4,6;65,9;conforme;35952;1355;25;40;148;Non vérifié
-70024;Apremont;70;eau potable : Territoire de Gray, La Goutte d'Or;107062;2024;77,0;2,8;9,3;66,9;conforme;217686;7020;44;111;437;Non vérifié
-70025;Arbecey;70;eau potable;107095;2024;73,0;1,8;4,8;66,0;conforme;24099;4692;56;136;228;Non vérifié
-70026;Arc-lès-Gray;70;eau potable : Territoire de Gray, La Goutte d'Or;107062;2024;77,0;2,8;9,3;66,9;conforme;217686;38442;44;111;2393;Non vérifié
-70027;Argillières;70;eau potable;107100;2024;52,7;2,9;3,3;65,7;non conforme;35248;5902;225;325;72;Non vérifié
-70028;Aroz;70;eau potable;107071;2024;71,4;2,2;5,4;66,1;conforme;18332;2814;54;148;144;Non vérifié
-70029;Arpenans;70;eau potable : DSP Véolia AEP;322134;2024;70,0;2,6;6,2;66,2;conforme;187086;4088;46;176;245;Non vérifié
-70030;Arsans;70;eau potable : Territoire de PESMES;234294;2024;94,4;0,4;7,4;66,5;conforme;8792;117;8;23;42;Non vérifié
-70031;Athesans-Étroitefontaine;70;eau potable;107073;2024;76,4;1,9;5,4;66,1;conforme;85994;43065;187;129;631;Non vérifié
-70032;Attricourt;70;eau potable : ex syndicat basse vingeanne;139581;2024;94,4;0,3;4,9;66,0;conforme;2508;216;13;22;47;Non vérifié
-70035;Augicourt;70;eau potable;188037;2024;98,8;0,1;11,0;67,2;conforme;100;100;2;3;175;Non vérifié
-70036;Aulx-lès-Cromary;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;2159;37;96;160;Non vérifié
-70037;Autet;70;eau potable;106585;2024;67,7;3,4;7,2;66,4;conforme;6441;6441;66;174;269;Non vérifié
-70038;Authoison;70;eau potable;107043;2024;94,9;0,3;4,7;65,9;conforme;1642;1433;12;23;314;Non vérifié
-70039;Autoreille;70;eau potable : DSP Gaz et Eau;290934;2024;81,5;2,2;9,7;66,9;conforme;124465;8590;60;95;394;Non vérifié
-70040;Autrey-lès-Cerre;70;eau potable;107089;2024;84,5;1,0;5,3;66,1;conforme;18075;2929;33;68;240;Non vérifié
-70041;Autrey-lès-Gray;70;eau potable : Territoire de Maison Rouge;107082;2024;72,6;2,0;5,4;66,1;conforme;62955;10966;75;173;398;Non vérifié
-70042;Autrey-le-Vay;70;eau potable : principal;107107;2024;72,1;3,5;9,1;66,8;conforme;121759;3159;93;168;93;Non vérifié
-70043;Auvet-et-la-Chapelotte;70;eau potable : Territoire de Maison Rouge;107082;2024;72,6;2,0;5,4;66,1;conforme;62955;6530;75;173;237;Non vérifié
-70044;Auxon;70;eau potable;106590;2024;78,7;2,5;9,3;66,9;conforme;7665;7665;53;98;398;Non vérifié
-70045;Avrigney-Virey;70;eau potable;113141;2024;85,5;2,0;11,2;67,2;conforme;391718;3770;24;75;428;Non vérifié
-70046;Les Aynans;70;eau potable : DSP Véolia AEP;322134;2024;70,0;2,6;6,2;66,2;conforme;187086;5940;46;176;356;Non vérifié
-70047;Baignes;70;eau potable;107044;2024;91,0;0,8;7,9;66,6;conforme;8351;686;19;37;99;Non vérifié
-70048;Bard-lès-Pesmes;70;eau potable;113141;2024;85,5;2,0;11,2;67,2;conforme;391718;1198;24;75;136;Non vérifié
-70049;Barges;70;eau potable;107057;2024;79,9;0,9;3,6;65,7;conforme;4041;799;32;90;68;Non vérifié
-70050;La Barre;70;eau potable;107068;2024;72,1;14,0;36,1;72,2;non conforme;20440;2843;82;173;95;Non vérifié
-70051;La Basse-Vaivre;70;eau potable;107088;2024;90,8;0,5;4,6;65,9;conforme;35952;449;25;40;49;Non vérifié
-70052;Bassigney;70;eau potable;188039;2024;66,6;2,7;5,3;66,1;conforme;3942;3942;88;186;123;Non vérifié
-70053;Les Bâties;70;eau potable : DSP Gaz et Eau;290934;2024;81,5;2,2;9,7;66,9;conforme;124465;1635;60;95;75;Non vérifié
-70054;Battrans;70;eau potable : Territoire de Gray, La Goutte d'Or;107062;2024;77,0;2,8;9,3;66,9;conforme;217686;3149;44;111;196;Non vérifié
-70055;Baudoncourt;70;eau potable;107050;2024;78,4;2,1;7,7;66,5;conforme;76650;9728;55;100;482;Non vérifié
-70056;Baulay;70;eau potable;107045;2024;89,2;1,7;13,8;67,8;conforme;22214;2685;23;45;322;Non vérifié
-70057;Bay;70;eau potable;113141;2024;85,5;2,0;11,2;67,2;conforme;391718;1418;24;75;161;Non vérifié
-70058;Beaujeu-Saint-Vallier-Pierrejux-et-Quitteur;70;eau potable;106598;2024;88,4;1,3;10,0;67,0;conforme;6548;6548;19;47;921;Non vérifié
-70059;Beaumotte-Aubertans;70;eau potable;107068;2024;72,1;14,0;36,1;72,2;non conforme;20440;14215;82;173;475;Non vérifié
-70060;Beaumotte-lès-Pin;70;eau potable;113141;2024;85,5;2,0;11,2;67,2;conforme;391718;2475;24;75;281;Non vérifié
-70061;Belfahy;70;eau potable;106603;2023;22,6;8,4;2,5;65,5;non conforme;14104;14104;466;1246;83;Sans anomalie apparente
-70062;Belmont;70;eau potable;107047;2024;92,9;0,2;3,0;65,6;conforme;1898;496;10;24;140;Non vérifié
-70063;Belonchamp;70;eau potable;106987;2024;85,7;1,1;6,8;66,4;conforme;10038;723;10;126;207;Non vérifié
-70064;Belverne;70;eau potable;188040;2024;75,3;2,2;6,6;66,3;conforme;4593;4593;94;123;134;Non vérifié
-70065;Besnans;70;eau potable;107087;2024;90,6;1,3;13,0;67,6;conforme;7881;799;29;53;75;Non vérifié
-70066;Betaucourt;70;eau potable;107093;2024;91,8;0,8;9,2;66,8;conforme;11265;1885;29;55;181;Non vérifié
-70067;Betoncourt-lès-Brotte;70;eau potable;107050;2024;78,4;2,1;7,7;66,5;conforme;76650;2281;55;100;113;Non vérifié
-70069;Betoncourt-Saint-Pancras;70;eau potable;107088;2024;90,8;0,5;4,6;65,9;conforme;35952;366;25;40;40;Non vérifié
-70070;Betoncourt-sur-Mance;70;eau potable;188041;2024;97,9;0,1;4,0;65,8;conforme;50;50;5;9;25;Non vérifié
-70072;Beveuge;70;eau potable : principal;107107;2024;72,1;3,5;9,1;66,8;conforme;121759;2956;93;168;87;Non vérifié
-70074;Blondefontaine;70;eau potable;106608;2024;67,7;5,4;11,3;67,3;conforme;8870;8870;102;174;238;Non vérifié
-70075;Bonboillon;70;eau potable;113141;2024;85,5;2,0;11,2;67,2;conforme;391718;1718;24;75;195;Non vérifié
-70076;Bonnevent-Velloreille;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;5736;37;96;425;Non vérifié
-70077;Borey;70;eau potable;107089;2024;84,5;1,0;5,3;66,1;conforme;18075;2722;33;68;223;Non vérifié
-70078;Bougey;70;eau potable;106614;2024;83,6;2,2;11,5;67,3;conforme;1935;1935;51;70;103;Non vérifié
-70079;Bougnon;70;eau potable;106616;2024;90,3;0,6;5,5;66,1;conforme;2564;2564;14;40;495;Non vérifié
-70080;Bouhans-et-Feurg;70;eau potable : Territoire de Maison Rouge;107082;2024;72,6;2,0;5,4;66,1;conforme;62955;6667;75;173;242;Non vérifié
-70081;Bouhans-lès-Lure;70;eau potable : eau potable;265114;2024;68,3;3,6;7,8;66,6;conforme;9198;9198;94;168;267;Non vérifié
-70082;Bouhans-lès-Montbozon;70;eau potable;107077;2024;81,7;1,5;6,6;66,3;conforme;9543;2951;65;90;124;Non vérifié
-70083;Bouligney;70;eau potable;107094;2024;52,8;5,1;5,6;66,1;non conforme;25596;19402;133;391;401;Non vérifié
-70084;Boulot;70;eau potable : DSP Ex-Syndicat source du Breuil;266994;2024;72,3;3,8;9,8;67,0;conforme;34301;13280;56;184;645;Non vérifié
-70085;Boult;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;9488;37;96;703;Non vérifié
-70086;Bourbévelle;70;eau potable;107093;2024;91,8;0,8;9,2;66,8;conforme;11265;781;29;55;75;Non vérifié
-70087;Bourguignon-lès-Conflans;70;eau potable;107099;2024;91,0;0,6;5,7;66,1;conforme;3044;646;14;39;129;Non vérifié
-70088;Bourguignon-lès-la-Charité;70;eau potable : DSP Gaz et Eau;290934;2024;81,5;2,2;9,7;66,9;conforme;124465;2158;60;95;99;Non vérifié
-70089;Bourguignon-lès-Morey;70;eau potable;106622;2024;91,9;0,8;8,8;66,8;conforme;1022;1022;65;33;43;Non vérifié
-70090;Boursières;70;eau potable;107044;2024;91,0;0,8;7,9;66,6;conforme;8351;402;19;37;58;Non vérifié
-70091;Bousseraucourt;70;eau potable;107084;2024;27,1;19,3;7,2;66,4;non conforme;39167;19584;1166;979;46;Non vérifié
-70092;Bresilley;70;eau potable;113141;2024;85,5;2,0;11,2;67,2;conforme;391718;1665;24;75;189;Non vérifié
-70093;Breuches;70;eau potable;107050;2024;78,4;2,1;7,7;66,5;conforme;76650;13259;55;100;657;Non vérifié
-70094;Breuchotte;70;eau potable;106625;2024;97,7;0,1;4,4;65,9;conforme;248;248;2;8;299;Non vérifié
-70095;Breurey-lès-Faverney;70;eau potable;106627;2024;87,7;1,1;7,9;66,6;conforme;3373;3373;16;51;588;Non vérifié
-70096;Brevilliers;70;eau potable;107052;2024;78,4;2,3;8,4;66,7;conforme;264442;5940;26;132;626;Non vérifié
-70097;Briaucourt;70;eau potable;107048;2023;78,6;1,8;6,7;66,3;conforme;4395;2778;30;98;256;Sans anomalie apparente
-70098;Brotte-lès-Luxeuil;70;eau potable;107050;2024;78,4;2,1;7,7;66,5;conforme;76650;3915;55;100;194;Non vérifié
-70099;Brotte-lès-Ray;70;eau potable;107086;2024;81,7;1,9;8,4;66,7;conforme;17941;1552;70;157;61;Non vérifié
-70100;Broye-les-Loups-et-Verfontaine;70;eau potable : Territoire de Maison Rouge;107082;2024;72,6;2,0;5,4;66,1;conforme;62955;3086;75;173;112;Non vérifié
-70101;Broye-Aubigney-Montseugny;70;eau potable : Territoire de PESMES;234294;2024;94,4;0,4;7,4;66,5;conforme;8792;1430;8;23;512;Non vérifié
-70102;Brussey;70;eau potable;113141;2024;85,5;2,0;11,2;67,2;conforme;391718;2607;24;75;296;Non vérifié
-70103;La Bruyère;70;eau potable;106636;2024;70,4;1,3;3,2;65,6;conforme;5310;5310;89;149;163;Non vérifié
-70104;Bucey-lès-Gy;70;eau potable : DSP Gaz et Eau;290934;2024;81,5;2,2;9,7;66,9;conforme;124465;12536;60;95;575;Non vérifié
-70105;Bucey-lès-Traves;70;eau potable;107071;2024;71,4;2,2;5,4;66,1;conforme;18332;2814;54;148;144;Non vérifié
-70106;Buffignécourt;70;eau potable;107045;2024;89,2;1,7;13,8;67,8;conforme;22214;1126;23;45;135;Non vérifié
-70107;Bussières;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;5763;37;96;427;Non vérifié
-70109;Buthiers;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;4535;37;96;336;Non vérifié
-70111;Calmoutier;70;eau potable;106643;2024;90,9;1,3;13,4;67,7;conforme;4252;4252;44;35;263;Non vérifié
-70112;Cemboing;70;eau potable;107057;2024;79,9;0,9;3,6;65,7;conforme;4041;1950;32;90;166;Non vérifié
-70113;Cenans;70;eau potable;188045;2024;95,2;0,6;12,7;67,5;conforme;913;913;19;17;133;Non vérifié
-70114;Cendrecourt;70;eau potable;107093;2024;91,8;0,8;9,2;66,8;conforme;11265;2082;29;55;200;Non vérifié
-70115;Cerre-lès-Noroy;70;eau potable;107089;2024;84,5;1,0;5,3;66,1;conforme;18075;2905;33;68;238;Non vérifié
-70116;Chagey;70;eau potable;107052;2024;78,4;2,3;8,4;66,7;conforme;264442;5655;26;132;596;Non vérifié
-70117;Châlonvillars;70;eau potable;107052;2024;78,4;2,3;8,4;66,7;conforme;264442;11993;26;132;1264;Non vérifié
-70118;Chambornay-lès-Bellevaux;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;2429;37;96;180;Non vérifié
-70119;Chambornay-lès-Pin;70;eau potable;113141;2024;85,5;2,0;11,2;67,2;conforme;391718;3462;24;75;393;Non vérifié
-70120;Champagney;70;eau potable;107052;2024;78,4;2,3;8,4;66,7;conforme;264442;34603;26;132;3647;Non vérifié
-70121;Champey;70;eau potable;106654;2024;87,3;5,6;38,3;72,7;conforme;18192;1259;4;157;790;Non vérifié
-70122;Champlitte;70;eau potable;106656;2024;59,2;3,4;4,9;66,0;non conforme;79635;79635;138;252;1585;Non vérifié
-70124;Champtonnay;70;eau potable : Territoire de Gray, La Goutte d'Or;107062;2024;77,0;2,8;9,3;66,9;conforme;217686;1269;44;111;79;Non vérifié
-70125;Champvans;70;eau potable : Territoire de Gray, La Goutte d'Or;107062;2024;77,0;2,8;9,3;66,9;conforme;217686;2747;44;111;171;Non vérifié
-70126;Chancey;70;eau potable;113141;2024;85,5;2,0;11,2;67,2;conforme;391718;1815;24;75;206;Non vérifié
-70127;Chantes;70;eau potable;188046;2024;78,3;0,7;2,4;65,5;conforme;1990;1990;50;107;108;Non vérifié
-70128;La Chapelle-lès-Luxeuil;70;eau potable;107050;2024;78,4;2,1;7,7;66,5;conforme;76650;7669;55;100;380;Non vérifié
-70129;La Chapelle-Saint-Quillain;70;eau potable : DSP Gaz et Eau;290934;2024;81,5;2,2;9,7;66,9;conforme;124465;3096;60;95;142;Non vérifié
-70130;Charcenne;70;eau potable : DSP Gaz et Eau;290934;2024;81,5;2,2;9,7;66,9;conforme;124465;6431;60;95;295;Non vérifié
-70132;Chargey-lès-Gray;70;eau potable : Territoire CHARGEY LES GRAY;106664;2024;72,0;3,3;8,4;66,7;conforme;11069;11069;45;143;667;Non vérifié
-70133;Chargey-lès-Port;70;eau potable;106666;2024;87,5;1,8;12,4;67,5;conforme;3942;3942;45;53;238;Non vérifié
-70134;Chariez;70;eau potable : Champdamoy et Chariez;286954;2024;82,3;5,0;23,1;69,6;conforme;302439;2843;34;84;227;Non vérifié
-70135;Charmes-Saint-Valbert;70;eau potable;106670;2024;48,2;2,4;2,2;65,4;non conforme;1927;1927;165;389;32;Non vérifié
-70136;Charmoille;70;eau potable : ex syndicat des eaux de Pusey;277594;2024;70,8;4,0;9,8;67,0;conforme;70226;10792;63;149;473;Non vérifié
-70137;Chassey-lès-Montbozon;70;eau potable;106673;2024;81,7;1,4;6,3;66,3;conforme;2816;2816;34;81;230;Non vérifié
-70138;Chassey-lès-Scey;70;eau potable;107071;2024;71,4;2,2;5,4;66,1;conforme;18332;2365;54;148;121;Non vérifié
-70140;Châteney;70;eau potable;106674;2024;99,2;0,1;14,6;67,9;conforme;47;47;2;3;60;Non vérifié
-70141;Châtenois;70;eau potable;188047;2024;93,9;0,4;6,7;66,3;conforme;261;261;6;22;116;Non vérifié
-70142;Chaumercenne;70;eau potable;113141;2024;85,5;2,0;11,2;67,2;conforme;391718;1709;24;75;194;Non vérifié
-70143;Chauvirey-le-Châtel;70;eau potable;106675;2024;100,0;0,0;8,2;66,6;conforme;0;0;0;0;109;Non vérifié
-70144;Chauvirey-le-Vieil;70;eau potable;188048;2024;100,0;0,0;0,7;65,1;non calculable;0;0;0;0;24;Non vérifié
-70145;Chaux-la-Lotière;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;7234;37;96;536;Non vérifié
-70146;Chaux-lès-Port;70;eau potable;188049;2024;83,8;2,0;10,2;67,0;conforme;1526;1526;26;71;158;Non vérifié
-70147;Chavanne;70;eau potable;107104;2024;88,0;0,8;5,7;66,1;conforme;8941;163;2;51;213;Non vérifié
-70148;Chemilly;70;eau potable;107071;2024;71,4;2,2;5,4;66,1;conforme;18332;2169;54;148;111;Non vérifié
-70149;Chenebier;70;eau potable;107052;2024;78,4;2,3;8,4;66,7;conforme;264442;6651;26;132;701;Non vérifié
-70150;Chenevrey-et-Morogne;70;eau potable;113141;2024;85,5;2,0;11,2;67,2;conforme;391718;2687;24;75;305;Non vérifié
-70151;Chevigney;70;eau potable : Territoire de PESMES;234294;2024;94,4;0,4;7,4;66,5;conforme;8792;106;8;23;38;Non vérifié
-70152;Choye;70;eau potable : DSP Gaz et Eau;290934;2024;81,5;2,2;9,7;66,9;conforme;124465;13190;60;95;605;Non vérifié
-70153;Cintrey;70;eau potable;188052;2024;97,8;0,1;5,9;66,2;conforme;165;165;5;6;96;Non vérifié
-70154;Cirey;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;5021;37;96;372;Non vérifié
-70155;Citers;70;eau potable;107046;2024;88,7;0,8;6,3;66,3;conforme;21082;5434;19;46;765;Non vérifié
-70156;Citey;70;eau potable : DSP Gaz et Eau;290934;2024;81,5;2,2;9,7;66,9;conforme;124465;2180;60;95;100;Non vérifié
-70157;Clairegoutte;70;eau potable;106687;2024;98,4;0,1;4,7;65,9;conforme;281;281;2;8;347;Non vérifié
-70158;Clans;70;eau potable;107044;2024;91,0;0,8;7,9;66,6;conforme;8351;755;19;37;109;Non vérifié
-70159;Cognières;70;eau potable;107077;2024;81,7;1,5;6,6;66,3;conforme;9543;2546;65;90;107;Non vérifié
-70160;Coisevaux;70;eau potable;106690;2024;92,5;0,5;5,8;66,2;conforme;1086;1086;10;32;298;Non vérifié
-70162;Colombe-lès-Vesoul;70;eau potable;107105;2024;79,7;2,3;9,1;66,8;conforme;34000;14817;83;190;492;Non vérifié
-70163;Colombier;70;eau potable : communes alimentées au syndicat du Breuchin;286214;2024;77,3;2,7;9,0;66,8;conforme;55020;1124;7;109;434;Non vérifié
-70164;Colombotte;70;eau potable;106695;2024;87,3;2,0;13,5;67,7;conforme;3212;3212;133;54;66;Non vérifié
-70165;Combeaufontaine;70;eau potable;107095;2024;73,0;1,8;4,8;66,0;conforme;24099;11751;56;136;571;Non vérifié
-70166;Comberjon;70;eau potable : communes alimentées au syndicat du Breuchin;286214;2024;77,3;2,7;9,0;66,8;conforme;55020;365;7;109;141;Non vérifié
-70167;Conflandey;70;eau potable;106699;2024;86,2;1,3;8,0;66,6;conforme;3094;3094;24;59;360;Non vérifié
-70168;Conflans-sur-Lanterne;70;eau potable;106702;2024;70,5;2,6;6,2;66,2;conforme;11198;11198;54;153;564;Non vérifié
-70169;Confracourt;70;eau potable;107095;2024;73,0;1,8;4,8;66,0;conforme;24099;4137;56;136;201;Non vérifié
-70170;Contréglise;70;eau potable;107045;2024;89,2;1,7;13,8;67,8;conforme;22214;926;23;45;111;Non vérifié
-70171;Corbenay;70;eau potable;106704;2024;52,0;8,1;8,8;66,8;non conforme;45353;45353;100;338;1248;Non vérifié
-70172;La Corbière;70;eau potable;107047;2024;92,9;0,2;3,0;65,6;conforme;1898;397;10;24;112;Non vérifié
-70174;Cordonnet;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;2024;37;96;150;Non vérifié
-70175;Cornot;70;eau potable;106707;2024;79,6;2,5;9,6;66,9;conforme;4106;4106;85;95;132;Non vérifié
-70176;Corravillers;70;eau potable;106709;2024;52,2;3,1;3,4;65,7;non conforme;5092;5092;87;336;161;Non vérifié
-70177;Corre;70;eau potable;107078;2024;50,0;7,1;7,1;66,4;non conforme;59604;34290;158;366;596;Non vérifié
-70178;La Côte;70;eau potable : DSP Véolia AEP;322134;2024;70,0;2,6;6,2;66,2;conforme;187086;9160;46;176;549;Non vérifié
-70179;Coulevon;70;eau potable : Champdamoy et Chariez;286954;2024;82,3;5,0;23,1;69,6;conforme;302439;2204;34;84;176;Non vérifié
-70180;Courchaton;70;eau potable (Courchaton);106713;2024;90,4;1,1;10,4;67,1;conforme;2289;2289;10;39;600;Non vérifié
-70181;Courcuire;70;eau potable;113141;2024;85,5;2,0;11,2;67,2;conforme;391718;1216;24;75;138;Non vérifié
-70182;Courmont;70;eau potable;188055;2023;33,9;7,4;3,8;65,8;non conforme;18907;18907;435;1486;119;Sans anomalie apparente
-70183;Courtesoult-et-Gatey;70;eau potable;107100;2024;52,7;2,9;3,3;65,7;non conforme;35248;4754;225;325;58;Non vérifié
-70184;Couthenans;70;eau potable;107052;2024;78,4;2,3;8,4;66,7;conforme;264442;6793;26;132;716;Non vérifié
-70185;Cresancey;70;eau potable : Territoire de Gray, La Goutte d'Or;107062;2024;77,0;2,8;9,3;66,9;conforme;217686;2908;44;111;181;Non vérifié
-70186;La Creuse;70;eau potable;188056;2024;99,9;0,0;2,8;65,6;conforme;0;0;0;0;73;Non vérifié
-70187;Crevans-et-la-Chapelle-lès-Granges;70;eau potable;107096;2024;59,9;2,4;3,6;65,7;non conforme;15093;4472;49;247;248;Non vérifié
-70188;Creveney;70;eau potable;106717;2024;70,3;1,5;3,4;65,7;conforme;986;986;61;159;44;Non vérifié
-70189;Cromary;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;3320;37;96;246;Non vérifié
-70190;Cubry-lès-Faverney;70;eau potable;107099;2024;91,0;0,6;5,7;66,1;conforme;3044;931;14;39;186;Non vérifié
-70192;Cugney;70;eau potable;113141;2024;85,5;2,0;11,2;67,2;conforme;391718;1832;24;75;208;Non vérifié
-70193;Cult;70;eau potable;113141;2024;85,5;2,0;11,2;67,2;conforme;391718;2017;24;75;229;Non vérifié
-70194;Cuve;70;eau potable;107094;2024;52,8;5,1;5,6;66,1;non conforme;25596;6193;133;391;128;Non vérifié
-70195;Dambenoît-lès-Colombe;70;eau potable;107046;2024;88,7;0,8;6,3;66,3;conforme;21082;1932;19;46;272;Non vérifié
-70196;Dampierre-lès-Conflans;70;eau potable;107088;2024;90,8;0,5;4,6;65,9;conforme;35952;2418;25;40;264;Non vérifié
-70197;Dampierre-sur-Linotte;70;eau potable;106724;2024;85,6;1,1;6,6;66,3;conforme;9046;9046;33;62;753;Non vérifié
-70198;Dampierre-sur-Salon;70;eau potable;106727;2024;72,1;4,4;11,4;67,3;conforme;38994;38994;87;171;1234;Non vérifié
-70199;Dampvalley-lès-Colombe;70;eau potable;107105;2024;79,7;2,3;9,1;66,8;conforme;34000;3554;83;190;118;Non vérifié
-70200;Dampvalley-Saint-Pancras;70;eau potable;106729;2024;88,3;0,5;3,8;65,8;conforme;511;511;32;48;44;Non vérifié
-70201;Delain;70;eau potable;107058;2024;80,8;1,0;4,1;65,8;conforme;3442;1934;28;88;186;Non vérifié
-70202;Demangevelle;70;eau potable;107078;2024;50,0;7,1;7,1;66,4;non conforme;59604;14729;158;366;256;Non vérifié
-70203;La Demie;70;eau potable;106732;2023;82,0;1,7;7,9;66,6;conforme;2271;2271;39;78;161;Sans anomalie apparente
-70204;Denèvre;70;eau potable;107058;2024;80,8;1,0;4,1;65,8;conforme;3442;1508;28;88;145;Non vérifié
-70205;Échavanne;70;eau potable;107052;2024;78,4;2,3;8,4;66,7;conforme;264442;1888;26;132;199;Non vérifié
-70206;Échenans-sous-Mont-Vaudois;70;eau potable;107052;2024;78,4;2,3;8,4;66,7;conforme;264442;5380;26;132;567;Non vérifié
-70207;Échenoz-la-Méline;70;eau potable : communes alimentées au syndicat du Breuchin;286214;2024;77,3;2,7;9,0;66,8;conforme;55020;8178;7;109;3158;Non vérifié
-70208;Échenoz-le-Sec;70;eau potable;107064;2024;82,8;1,4;6,7;66,3;conforme;4650;3529;35;76;277;Non vérifié
-70210;Écromagny;70;eau potable;106987;2024;85,7;1,1;6,8;66,4;conforme;10038;521;10;126;149;Non vérifié
-70211;Écuelle;70;eau potable : Territoire de Maison Rouge;107082;2024;72,6;2,0;5,4;66,1;conforme;62955;1984;75;173;72;Non vérifié
-70213;Éhuns;70;eau potable;107050;2024;78,4;2,1;7,7;66,5;conforme;76650;4501;55;100;223;Non vérifié
-70214;Équevilley;70;eau potable;107050;2024;78,4;2,1;7,7;66,5;conforme;76650;2442;55;100;121;Non vérifié
-70215;Errevet;70;eau potable;107052;2024;78,4;2,3;8,4;66,7;conforme;264442;2571;26;132;271;Non vérifié
-70216;Esboz-Brest;70;eau potable;106743;2024;83,4;1,0;5,1;66,0;conforme;5621;5621;34;72;447;Non vérifié
-70217;Esmoulières;70;eau potable;188059;2024;65,0;1,3;2,5;65,5;non conforme;403;403;12;191;95;Non vérifié
-70218;Esmoulins;70;eau potable : Territoire de Gray, La Goutte d'Or;107062;2024;77,0;2,8;9,3;66,9;conforme;217686;2040;44;111;127;Non vérifié
-70219;Esprels;70;eau potable : principal;107107;2024;72,1;3,5;9,1;66,8;conforme;121759;23747;93;168;699;Non vérifié
-70220;Essertenne-et-Cecey;70;eau potable : Territoire de Gray, La Goutte d'Or;107062;2024;77,0;2,8;9,3;66,9;conforme;217686;6859;44;111;427;Non vérifié
-70221;Étobon;70;eau potable;106745;2024;93,5;0,4;6,0;66,2;conforme;994;994;10;24;273;Non vérifié
-70222;Étrelles-et-la-Montbleuse;70;eau potable : DSP Gaz et Eau;290934;2024;81,5;2,2;9,7;66,9;conforme;124465;2289;60;95;105;Non vérifié
-70224;Étuz;70;eau potable : DSP Ex-Syndicat source du Breuil;266994;2024;72,3;3,8;9,8;67,0;conforme;34301;14680;56;184;713;Non vérifié
-70225;Fahy-lès-Autrey;70;eau potable : Territoire de Maison Rouge;107082;2024;72,6;2,0;5,4;66,1;conforme;62955;2672;75;173;97;Non vérifié
-70226;Fallon;70;eau potable;214759;2024;74,3;2,2;6,3;66,3;conforme;24492;8421;75;128;306;Non vérifié
-70227;Faucogney-et-la-Mer;70;eau potable;106987;2024;85,7;1,1;6,8;66,4;conforme;10038;1586;10;126;454;Non vérifié
-70228;Faverney;70;eau potable;107045;2024;89,2;1,7;13,8;67,8;conforme;22214;8172;23;45;980;Non vérifié
-70229;Faymont;70;eau potable : DSP Véolia AEP;322134;2024;70,0;2,6;6,2;66,2;conforme;187086;4221;46;176;253;Non vérifié
-70230;Fédry;70;eau potable;106756;2024;96,0;0,4;8,6;66,7;conforme;496;496;15;17;92;Non vérifié
-70231;Ferrières-lès-Ray;70;eau potable;106935;2024;99,5;0,1;13,2;67,6;conforme;164;27;2;5;41;Non vérifié
-70232;Ferrières-lès-Scey;70;eau potable;188061;2024;100,0;0,0;34,8;72,0;conforme;0;0;0;0;132;Non vérifié
-70233;Les Fessey;70;eau potable;107070;2024;84,0;0,5;2,7;65,5;conforme;5475;2584;56;67;126;Non vérifié
-70234;Filain;70;eau potable;107067;2024;71,8;2,1;5,4;66,1;conforme;8661;5221;66;141;217;Non vérifié
-70235;Flagy;70;eau potable;188062;2024;69,9;2,6;6,1;66,2;conforme;3834;3834;77;156;136;Non vérifié
-70236;Fleurey-lès-Faverney;70;eau potable;106760;2024;68,7;5,0;10,9;67,2;conforme;11862;11862;72;167;452;Non vérifié
-70237;Fleurey-lès-Lavoncourt;70;eau potable;107074;2024;79,3;0,9;3,3;65,7;conforme;4431;1048;26;100;110;Non vérifié
-70238;Fleurey-lès-Saint-Loup;70;eau potable;188063;2024;68,1;2,4;5,1;66,0;conforme;2365;2365;51;171;127;Non vérifié
-70239;Fondremand;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;2767;37;96;205;Non vérifié
-70240;Fontaine-lès-Luxeuil;70;eau potable;106764;2024;66,2;3,8;7,6;66,5;non conforme;25202;25202;52;184;1327;Non vérifié
-70242;Fontenois-la-Ville;70;eau potable;107088;2024;90,8;0,5;4,6;65,9;conforme;35952;1300;25;40;142;Non vérifié
-70243;Fontenois-lès-Montbozon;70;eau potable;106767;2024;74,8;2,2;6,6;66,3;conforme;6239;6239;56;122;305;Non vérifié
-70244;Fouchécourt;70;eau potable;107045;2024;89,2;1,7;13,8;67,8;conforme;22214;1001;23;45;120;Non vérifié
-70245;Fougerolles-Saint-Valbert;70;eau potable : Fougerolles-Saint-Valbert;106768;2024;77,7;1,2;4,1;65,8;conforme;56677;56677;41;118;3764;Non vérifié
-70247;Fouvent-Saint-Andoche;70;eau potable;107100;2024;52,7;2,9;3,3;65,7;non conforme;35248;16149;225;325;197;Non vérifié
-70248;Frahier-et-Chatebier;70;eau potable;107052;2024;78,4;2,3;8,4;66,7;conforme;264442;13075;26;132;1378;Non vérifié
-70249;Francalmont;70;eau potable;107080;2024;66,3;2,8;5,5;66,1;conforme;10731;3472;79;184;121;Non vérifié
-70250;Franchevelle;70;eau potable;107046;2024;88,7;0,8;6,3;66,3;conforme;21082;3488;19;46;491;Non vérifié
-70251;Francourt;70;eau potable;188065;2024;83,5;1,0;4,8;66,0;conforme;2066;2066;57;76;100;Non vérifié
-70252;Framont;70;eau potable;217858;2024;89,8;0,4;3,3;65,7;conforme;1650;1650;26;44;176;Non vérifié
-70253;Frasne-le-Château;70;eau potable : DSP Gaz et Eau;290934;2024;81,5;2,2;9,7;66,9;conforme;124465;6410;60;95;294;Non vérifié
-70254;Frédéric-Fontaine;70;eau potable;107052;2024;78,4;2,3;8,4;66,7;conforme;264442;2638;26;132;278;Non vérifié
-70255;Fresne-Saint-Mamès;70;eau potable;107065;2024;95,5;0,5;10,8;67,2;conforme;3102;1507;8;17;491;Non vérifié
-70256;Fresse;70;eau potable;106774;2024;81,8;1,0;4,4;65,9;conforme;8286;6367;25;83;687;Non vérifié
-70257;Fretigney-et-Velloreille;70;eau potable : DSP Gaz et Eau;290934;2024;81,5;2,2;9,7;66,9;conforme;124465;16656;60;95;764;Non vérifié
-70258;Froideconche;70;eau potable;106777;2024;50,0;13,5;13,5;67,7;non conforme;78347;78347;110;364;1960;Non vérifié
-70259;Froideterre;70;eau potable : DSP Véolia AEP;322134;2024;70,0;2,6;6,2;66,2;conforme;187086;5990;46;176;359;Non vérifié
-70260;Frotey-lès-Lure;70;eau potable : DSP Véolia AEP;322134;2024;70,0;2,6;6,2;66,2;conforme;187086;11496;46;176;689;Non vérifié
-70261;Frotey-lès-Vesoul;70;eau potable : Champdamoy et Chariez;286954;2024;82,3;5,0;23,1;69,6;conforme;302439;16959;34;84;1354;Non vérifié
-70262;Genevreuille;70;eau potable : DSP Véolia AEP;322134;2024;70,0;2,6;6,2;66,2;conforme;187086;2469;46;176;148;Non vérifié
-70263;Genevrey;70;eau potable;106782;2024;66,2;4,8;9,3;66,9;non conforme;10512;10512;117;188;247;Non vérifié
-70264;Georfans;70;eau potable : principal;107107;2024;72,1;3,5;9,1;66,8;conforme;121759;1461;93;168;43;Non vérifié
-70265;Germigney;70;eau potable : Territoire de Gray, La Goutte d'Or;107062;2024;77,0;2,8;9,3;66,9;conforme;217686;2329;44;111;145;Non vérifié
-70267;Gevigney-et-Mercey;70;eau potable;107072;2024;84,8;1,0;5,4;66,1;conforme;9749;6356;33;68;532;Non vérifié
-70268;Gézier-et-Fontenelay;70;eau potable;113141;2024;85,5;2,0;11,2;67,2;conforme;391718;1929;24;75;219;Non vérifié
-70269;Girefontaine;70;eau potable;107088;2024;90,8;0,5;4,6;65,9;conforme;35952;275;25;40;30;Non vérifié
-70271;Gouhenans;70;eau potable;107073;2024;76,4;1,9;5,4;66,1;conforme;85994;24365;187;129;357;Non vérifié
-70272;Gourgeon;70;eau potable;106785;2024;98,7;0,4;29,7;70,9;conforme;447;447;7;12;188;Non vérifié
-70273;Grammont;70;eau potable;112549;2024;75,9;2,2;6,8;66,4;conforme;26587;1429;58;117;67;Non vérifié
-70274;Grandecourt;70;eau potable;106787;2024;19,6;29,1;7,1;66,4;non conforme;16463;16463;960;1497;47;Non vérifié
-70275;Grandvelle-et-le-Perrenot;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;5169;37;96;383;Non vérifié
-70276;Granges-la-Ville;70;eau potable;106792;2023;71,1;1,9;4,6;65,9;conforme;2510;2510;38;152;181;Sans anomalie apparente
-70277;Granges-le-Bourg;70;eau potable;106793;2024;92,0;0,3;3,2;65,6;conforme;1369;1369;10;35;379;Non vérifié
-70278;Grattery;70;eau potable;188067;2024;85,9;0,7;4,1;65,8;conforme;1354;1354;17;62;217;Non vérifié
-70279;Gray;70;eau potable : Territoire de Gray, La Goutte d'Or;107062;2024;77,0;2,8;9,3;66,9;conforme;217686;86184;44;111;5365;Non vérifié
-70280;Gray-la-Ville;70;eau potable : Territoire de Gray, La Goutte d'Or;107062;2024;77,0;2,8;9,3;66,9;conforme;217686;14908;44;111;928;Non vérifié
-70282;Gy;70;eau potable : DSP Gaz et Eau;290934;2024;81,5;2,2;9,7;66,9;conforme;124465;22870;60;95;1049;Non vérifié
-70283;Haut-du-Them-Château-Lambert;70;eau potable;107079;2024;74,1;1,3;3,6;65,7;conforme;20527;7630;47;133;449;Non vérifié
-70284;Hautevelle;70;eau potable;107080;2024;66,3;2,8;5,5;66,1;conforme;10731;7259;79;184;253;Non vérifié
-70285;Héricourt;70;eau potable;107104;2024;88,0;0,8;5,7;66,1;conforme;8941;8125;2;51;10621;Non vérifié
-70286;Hugier;70;eau potable;113141;2024;85,5;2,0;11,2;67,2;conforme;391718;1013;24;75;115;Non vérifié
-70287;Hurecourt;70;eau potable;107088;2024;90,8;0,5;4,6;65,9;conforme;35952;440;25;40;48;Non vérifié
-70288;Hyet;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;1593;37;96;118;Non vérifié
-70289;Igny;70;eau potable;107090;2024;76,0;2,2;15,7;68,1;conforme;7227;5051;69;51;202;Non vérifié
-70290;Jasney;70;eau potable;107088;2024;90,8;0,5;4,6;65,9;conforme;35952;1740;25;40;190;Non vérifié
-70291;Jonvelle;70;eau potable;188068;2024;34,5;12,9;6,8;66,4;non conforme;14126;14126;387;693;100;Non vérifié
-70292;Jussey;70;eau potable;106803;2024;92,5;0,7;9,1;66,8;conforme;7576;7576;13;31;1558;Non vérifié
-70293;Lambrey;70;eau potable;107072;2024;84,8;1,0;5,4;66,1;conforme;9749;812;33;68;68;Non vérifié
-70294;Lantenot;70;eau potable;107046;2024;88,7;0,8;6,3;66,3;conforme;21082;2621;19;46;369;Non vérifié
-70295;La Lanterne-et-les-Armonts;70;eau potable;106805;2024;97,5;0,1;2,3;65,5;conforme;730;730;11;16;185;Non vérifié
-70296;Larians-et-Munans;70;eau potable;227075;2024;74,2;3,1;9,0;66,8;conforme;136561;6996;66;130;291;Non vérifié
-70297;Larret;70;eau potable;188069;2024;99,7;0,0;5,1;66,0;conforme;0;0;0;0;63;Non vérifié
-70298;Lavigney;70;eau potable;188070;2024;96,1;0,5;12,0;67,4;conforme;422;422;9;15;129;Non vérifié
-70299;Lavoncourt;70;eau potable;107098;2024;66,7;2,2;4,3;65,9;conforme;18469;8586;71;185;331;Non vérifié
-70301;Lieffrans;70;eau potable : DSP Gaz et Eau;290934;2024;81,5;2,2;9,7;66,9;conforme;124465;1090;60;95;50;Non vérifié
-70302;Lieucourt;70;eau potable : Territoire de PESMES;234294;2024;94,4;0,4;7,4;66,5;conforme;8792;198;8;23;71;Non vérifié
-70303;Liévans;70;eau potable;107089;2024;84,5;1,0;5,3;66,1;conforme;18075;1855;33;68;152;Non vérifié
-70304;Linexert;70;eau potable;107046;2024;88,7;0,8;6,3;66,3;conforme;21082;817;19;46;115;Non vérifié
-70305;Loeuilley;70;eau potable : ex syndicat basse vingeanne;139581;2024;94,4;0,3;4,9;66,0;conforme;2508;428;13;22;93;Non vérifié
-70306;Lomont;70;eau potable : DSP Véolia AEP;322134;2024;70,0;2,6;6,2;66,2;conforme;187086;8042;46;176;482;Non vérifié
-70307;Longevelle;70;eau potable : principal;107107;2024;72,1;3,5;9,1;66,8;conforme;121759;3941;93;168;116;Non vérifié
-70308;La Longine;70;eau potable;106813;2024;100,0;0,0;32,2;71,4;conforme;0;0;0;0;192;Non vérifié
-70309;Loulans-Verchamp;70;eau potable;106815;2023;73,8;3,7;10,3;67,1;conforme;18502;18502;110;132;460;Anomalie
-70310;Lure;70;eau potable : DSP Véolia Lure;266954;2024;73,0;10,3;27,7;70,5;conforme;239706;239706;83;163;7877;Non vérifié
-70311;Luxeuil-les-Bains;70;eau potable;106819;2024;84,7;2,8;15,3;68,1;conforme;70845;70845;29;67;6663;Non vérifié
-70312;Luze;70;eau potable;107052;2024;78,4;2,3;8,4;66,7;conforme;264442;7932;26;132;836;Non vérifié
-70313;Lyoffans;70;eau potable : DSP Véolia AEP;322134;2024;70,0;2,6;6,2;66,2;conforme;187086;7541;46;176;452;Non vérifié
-70314;Magnivray;70;eau potable;107047;2024;92,9;0,2;3,0;65,6;conforme;1898;574;10;24;162;Non vérifié
-70315;Magnoncourt;70;eau potable;106824;2024;93,4;1,7;24,7;69,9;conforme;4852;4852;34;102;390;Non vérifié
-70316;Le Magnoray;70;eau potable;107064;2024;82,8;1,4;6,7;66,3;conforme;4650;1121;35;76;88;Non vérifié
-70317;Les Magny;70;eau potable;214759;2024;74,3;2,2;6,3;66,3;conforme;24492;3908;75;128;142;Non vérifié
-70318;Magny-Danigon;70;eau potable : DSP Véolia AEP;322134;2024;70,0;2,6;6,2;66,2;conforme;187086;7508;46;176;450;Non vérifié
-70319;Magny-Jobert;70;eau potable : DSP Véolia AEP;322134;2024;70,0;2,6;6,2;66,2;conforme;187086;2286;46;176;137;Non vérifié
-70320;Magny-lès-Jussey;70;eau potable;107093;2024;91,8;0,8;9,2;66,8;conforme;11265;979;29;55;94;Non vérifié
-70321;Magny-Vernois;70;eau potable : DSP Véolia AEP;322134;2024;70,0;2,6;6,2;66,2;conforme;187086;22891;46;176;1372;Non vérifié
-70322;Mailleroncourt-Charette;70;eau potable;106830;2024;77,7;1,9;6,5;66,3;conforme;5035;5035;50;107;277;Non vérifié
-70323;Mailleroncourt-Saint-Pancras;70;eau potable;107088;2024;90,8;0,5;4,6;65,9;conforme;35952;1593;25;40;174;Non vérifié
-70324;Mailley-et-Chazelot;70;eau potable;106833;2024;68,7;3,9;8,5;66,7;conforme;16513;16513;74;168;610;Non vérifié
-70325;Maizières;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;4278;37;96;317;Non vérifié
-70326;La Malachère;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;4008;37;96;297;Non vérifié
-70327;Malans;70;eau potable;113141;2024;85,5;2,0;11,2;67,2;conforme;391718;1189;24;75;135;Non vérifié
-70328;Malbouhans;70;eau potable : Régie;106839;2024;81,2;1,6;6,8;66,4;conforme;3165;3165;26;85;337;Non vérifié
-70329;Malvillers;70;eau potable;188072;2024;97,8;0,1;5,1;66,0;conforme;101;101;4;7;68;Non vérifié
-70330;Mandrevillars;70;eau potable;107052;2024;78,4;2,3;8,4;66,7;conforme;264442;3264;26;132;344;Non vérifié
-70331;Mantoche;70;eau potable : Territoire de Gray, La Goutte d'Or;107062;2024;77,0;2,8;9,3;66,9;conforme;217686;7357;44;111;458;Non vérifié
-70332;Marast;70;eau potable : principal;107107;2024;72,1;3,5;9,1;66,8;conforme;121759;1495;93;168;44;Non vérifié
-70334;Marnay;70;eau potable;113141;2024;85,5;2,0;11,2;67,2;conforme;391718;13460;24;75;1528;Non vérifié
-70335;Maussans;70;eau potable;188074;2024;92,2;2,0;23,3;69,7;conforme;883;883;43;31;56;Non vérifié
-70336;Mélecey;70;eau potable;214759;2024;74,3;2,2;6,3;66,3;conforme;24492;3770;75;128;137;Non vérifié
-70337;Melin;70;eau potable;106844;2024;94,1;0,3;4,8;66,0;conforme;449;449;24;23;52;Non vérifié
-70338;Melincourt;70;eau potable;107088;2024;90,8;0,5;4,6;65,9;conforme;35952;2051;25;40;224;Non vérifié
-70339;Mélisey;70;eau potable;106987;2024;85,7;1,1;6,8;66,4;conforme;10038;5677;10;126;1625;Non vérifié
-70340;Membrey;70;eau potable;107086;2024;81,7;1,9;8,4;66,7;conforme;17941;5293;70;157;208;Non vérifié
-70341;Menoux;70;eau potable;107099;2024;91,0;0,6;5,7;66,1;conforme;3044;1467;14;39;293;Non vérifié
-70342;Mercey-sur-Saône;70;eau potable;188075;2024;100,0;0,0;8,2;66,6;conforme;0;0;0;0;127;Non vérifié
-70343;Mersuay;70;eau potable;106852;2024;93,5;0,9;12,6;67,5;conforme;1560;1560;15;26;287;Non vérifié
-70344;Meurcourt;70;eau potable;107050;2024;78,4;2,1;7,7;66,5;conforme;76650;6963;55;100;345;Non vérifié
-70347;Mignavillers;70;eau potable;106855;2024;60,0;3,3;5,0;66,0;non conforme;7998;7998;60;244;365;Non vérifié
-70348;Moffans-et-Vacheresse;70;eau potable : DSP Véolia AEP;322134;2024;70,0;2,6;6,2;66,2;conforme;187086;10161;46;176;609;Non vérifié
-70349;Moimay;70;eau potable : principal;107107;2024;72,1;3,5;9,1;66,8;conforme;121759;8153;93;168;240;Non vérifié
-70350;Molay;70;eau potable;188076;2024;84,9;1,3;7,4;66,5;conforme;1803;1803;75;64;66;Non vérifié
-70351;Mollans;70;eau potable;106860;2024;97,1;0,2;8,0;66,6;conforme;491;491;6;9;244;Non vérifié
-70352;La Montagne;70;eau potable;223054;2023;100,0;0,0;2,3;65,5;conforme;0;0;0;0;37;Sans anomalie apparente
-70353;Montagney;70;eau potable;113141;2024;85,5;2,0;11,2;67,2;conforme;391718;4299;24;75;488;Non vérifié
-70355;Montarlot-lès-Rioz;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;4224;37;96;313;Non vérifié
-70356;Montboillon;70;eau potable : DSP Ex-Syndicat source du Breuil;266994;2024;72,3;3,8;9,8;67,0;conforme;34301;6341;56;184;308;Non vérifié
-70357;Montbozon;70;eau potable;107087;2024;90,6;1,3;13,0;67,6;conforme;7881;5890;29;53;553;Non vérifié
-70358;Montcey;70;eau potable : communes alimentées au syndicat du Breuchin;286214;2024;77,3;2,7;9,0;66,8;conforme;55020;684;7;109;264;Non vérifié
-70359;Montcourt;70;eau potable;107093;2024;91,8;0,8;9,2;66,8;conforme;11265;541;29;55;52;Non vérifié
-70360;Montdoré;70;eau potable;107088;2024;90,8;0,5;4,6;65,9;conforme;35952;632;25;40;69;Non vérifié
-70361;Montessaux;70;eau potable;188077;2024;85,7;0,9;5,3;66,1;conforme;1636;1636;25;62;178;Non vérifié
-70362;Montigny-lès-Cherlieu;70;eau potable;106869;2024;63,3;3,6;6,1;66,2;non conforme;4336;4336;101;214;118;Non vérifié
-70363;Montigny-lès-Vesoul;70;eau potable : ex syndicat des eaux de Pusey;277594;2024;70,8;4,0;9,8;67,0;conforme;70226;14442;63;149;633;Non vérifié
-70364;Montjustin-et-Velotte;70;eau potable;107089;2024;84,5;1,0;5,3;66,1;conforme;18075;1489;33;68;122;Non vérifié
-70366;Villers-Chemin-et-Mont-lès-Étrelles;70;eau potable : DSP Gaz et Eau;290934;2024;81,5;2,2;9,7;66,9;conforme;124465;2703;60;95;124;Non vérifié
-70367;Mont-le-Vernois;70;eau potable;107044;2024;91,0;0,8;7,9;66,6;conforme;8351;1281;19;37;185;Non vérifié
-70368;Montot;70;eau potable;106876;2024;70,8;2,7;6,6;66,3;conforme;2454;2454;48;149;139;Non vérifié
-70369;Mont-Saint-Léger;70;eau potable;107098;2024;66,7;2,2;4,3;65,9;conforme;18469;1271;71;185;49;Non vérifié
-70371;Montureux-et-Prantigny;70;eau potable;106878;2024;52,7;4,4;4,9;66,0;non conforme;10278;10278;149;330;189;Non vérifié
-70372;Montureux-lès-Baulay;70;eau potable;106880;2024;100,0;0,0;19,5;68,9;conforme;0;0;0;0;164;Non vérifié
-70373;La Roche-Morey;70;eau potable;107074;2024;79,3;0,9;3,3;65,7;conforme;4431;2830;26;100;297;Non vérifié
-70374;Motey-Besuche;70;eau potable;113141;2024;85,5;2,0;11,2;67,2;conforme;391718;837;24;75;95;Non vérifié
-70376;Nantilly;70;eau potable : Territoire de Maison Rouge;107082;2024;72,6;2,0;5,4;66,1;conforme;62955;12205;75;173;443;Non vérifié
-70378;Navenne;70;eau potable : Champdamoy et Chariez;286954;2024;82,3;5,0;23,1;69,6;conforme;302439;19777;34;84;1579;Non vérifié
-70380;Neurey-en-Vaux;70;eau potable;188078;2024;99,0;0,1;5,2;66,0;conforme;91;91;2;7;138;Non vérifié
-70381;Neurey-lès-la-Demie;70;eau potable;106887;2024;84,1;1,5;7,7;66,5;conforme;4528;4528;35;72;355;Non vérifié
-70383;Neuvelle-lès-Cromary;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;5979;37;96;443;Non vérifié
-70384;Neuvelle-lès-la-Charité;70;eau potable;106891;2024;35,3;14,4;7,9;66,6;non conforme;15242;15242;189;667;221;Non vérifié
-70385;La Neuvelle-lès-Lure;70;eau potable : DSP Véolia AEP;322134;2024;70,0;2,6;6,2;66,2;conforme;187086;5039;46;176;302;Non vérifié
-70386;La Neuvelle-lès-Scey;70;eau potable;107095;2024;73,0;1,8;4,8;66,0;conforme;24099;3519;56;136;171;Non vérifié
-70387;Noidans-le-Ferroux;70;eau potable;106894;2024;79,5;5,1;19,8;69,0;conforme;10480;10480;44;94;646;Non vérifié
-70388;Noidans-lès-Vesoul;70;eau potable : Champdamoy et Chariez;286954;2024;82,3;5,0;23,1;69,6;conforme;302439;24712;34;84;1973;Non vérifié
-70389;Noiron;70;eau potable : Territoire de Gray, La Goutte d'Or;107062;2024;77,0;2,8;9,3;66,9;conforme;217686;932;44;111;58;Non vérifié
-70390;Noroy-le-Bourg;70;eau potable;107089;2024;84,5;1,0;5,3;66,1;conforme;18075;6175;33;68;506;Non vérifié
-70392;Oigney;70;eau potable;188079;2024;72,3;1,7;4,4;65,9;conforme;875;875;50;141;48;Non vérifié
-70393;Oiselay-et-Grachaux;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;5898;37;96;437;Non vérifié
-70394;Onay;70;eau potable : Territoire de Gray, La Goutte d'Or;107062;2024;77,0;2,8;9,3;66,9;conforme;217686;980;44;111;61;Non vérifié
-70395;Oppenans;70;eau potable;106900;2024;94,6;0,4;7,5;66,5;conforme;291;291;12;20;65;Non vérifié
-70396;Oricourt;70;eau potable;107073;2024;76,4;1,9;5,4;66,1;conforme;85994;2116;187;129;31;Non vérifié
-70397;Ormenans;70;eau potable;188080;2024;100,0;0,0;1,4;65,3;conforme;0;0;0;0;84;Non vérifié
-70398;Ormoiche;70;eau potable;107050;2024;78,4;2,1;7,7;66,5;conforme;76650;1393;55;100;69;Non vérifié
-70399;Ormoy;70;eau potable;107093;2024;91,8;0,8;9,2;66,8;conforme;11265;2134;29;55;205;Non vérifié
-70400;Ouge;70;eau potable;106903;2024;94,0;0,5;7,2;66,4;conforme;595;595;15;25;106;Non vérifié
-70401;Ovanches;70;eau potable;188081;2024;60,1;4,4;6,7;66,3;non conforme;12511;12511;221;241;155;Non vérifié
-70402;Oyrières;70;eau potable : Territoire de Maison Rouge;107082;2024;72,6;2,0;5,4;66,1;conforme;62955;10056;75;173;365;Non vérifié
-70403;Palante;70;eau potable : DSP Véolia AEP;322134;2024;70,0;2,6;6,2;66,2;conforme;187086;4038;46;176;242;Non vérifié
-70404;Passavant-la-Rochère;70;eau potable;106907;2023;39,7;8,1;5,3;66,1;non conforme;57504;57504;301;554;524;Sans anomalie apparente
-70405;Pennesières;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;2591;37;96;192;Non vérifié
-70406;Percey-le-Grand;70;eau potable;188083;2024;99,9;0,0;5,4;66,1;conforme;0;0;0;0;84;Non vérifié
-70407;Perrouse;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;3738;37;96;277;Non vérifié
-70408;Pesmes;70;eau potable : Territoire de PESMES;234294;2024;94,4;0,4;7,4;66,5;conforme;8792;3025;8;23;1083;Non vérifié
-70409;Pierrecourt;70;eau potable;107100;2024;52,7;2,9;3,3;65,7;non conforme;35248;8443;225;325;103;Non vérifié
-70410;Pin;70;eau potable;113141;2024;85,5;2,0;11,2;67,2;conforme;391718;6448;24;75;732;Non vérifié
-70411;La Pisseure;70;eau potable;107088;2024;90,8;0,5;4,6;65,9;conforme;35952;339;25;40;37;Non vérifié
-70412;Plainemont;70;eau potable;107088;2024;90,8;0,5;4,6;65,9;conforme;35952;577;25;40;63;Non vérifié
-70413;Plancher-Bas;70;eau potable;107052;2024;78,4;2,3;8,4;66,7;conforme;264442;17515;26;132;1846;Non vérifié
-70414;Plancher-les-Mines;70;eau potable;107052;2024;78,4;2,3;8,4;66,7;conforme;264442;7961;26;132;839;Non vérifié
-70415;Polaincourt-et-Clairefontaine;70;eau potable;107088;2024;90,8;0,5;4,6;65,9;conforme;35952;5421;25;40;592;Non vérifié
-70416;Pomoy;70;eau potable;188084;2024;93,4;1,1;15,0;68,0;conforme;1325;1325;18;27;197;Non vérifié
-70417;Pontcey;70;eau potable;107071;2024;71,4;2,2;5,4;66,1;conforme;18332;5687;54;148;291;Non vérifié
-70418;La Romaine;70;eau potable;107065;2024;95,5;0,5;10,8;67,2;conforme;3102;1596;8;17;520;Non vérifié
-70419;Pont-du-Bois;70;eau potable;107088;2024;90,8;0,5;4,6;65,9;conforme;35952;1053;25;40;115;Non vérifié
-70420;Pont-sur-l'Ognon;70;eau potable : principal;107107;2024;72,1;3,5;9,1;66,8;conforme;121759;2106;93;168;62;Non vérifié
-70421;Port-sur-Saône;70;eau potable;106921;2024;76,6;4,0;13,2;67,6;conforme;49596;49596;46;110;2949;Non vérifié
-70422;Poyans;70;eau potable : Territoire de Maison Rouge;107082;2024;72,6;2,0;5,4;66,1;conforme;62955;3940;75;173;143;Non vérifié
-70423;Preigney;70;eau potable;106922;2024;72,4;3,2;8,3;66,7;conforme;2266;2266;55;141;113;Non vérifié
-70425;La Proiselière-et-Langle;70;eau potable;107070;2024;84,0;0,5;2,7;65,5;conforme;5475;2891;56;67;141;Non vérifié
-70426;Provenchère;70;eau potable;106924;2024;100,0;0,0;6,2;66,2;conforme;0;0;0;0;235;Non vérifié
-70427;Purgerot;70;eau potable;107045;2024;89,2;1,7;13,8;67,8;conforme;22214;2727;23;45;327;Non vérifié
-70428;Pusey;70;eau potable : ex syndicat des eaux de Pusey;277594;2024;70,8;4,0;9,8;67,0;conforme;70226;32672;63;149;1432;Non vérifié
-70429;Pusy-et-Épenoux;70;eau potable : ex syndicat des eaux de Pusey;277594;2024;70,8;4,0;9,8;67,0;conforme;70226;12320;63;149;540;Non vérifié
-70430;La Quarte;70;eau potable;188085;2024;95,4;0,4;9,0;66,8;conforme;759;759;34;17;61;Non vérifié
-70431;Quenoche;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;3118;37;96;231;Non vérifié
-70432;Quers;70;eau potable;107046;2024;88,7;0,8;6,3;66,3;conforme;21082;2415;19;46;340;Non vérifié
-70433;Quincey;70;eau potable : Champdamoy et Chariez;286954;2024;82,3;5,0;23,1;69,6;conforme;302439;16758;34;84;1338;Non vérifié
-70435;Raddon-et-Chapendu;70;eau potable;106933;2024;95,8;0,2;5,6;66,1;conforme;1637;1637;5;13;849;Non vérifié
-70436;Raincourt;70;eau potable;107057;2024;79,9;0,9;3,6;65,7;conforme;4041;1292;32;90;110;Non vérifié
-70437;Ranzevelle;70;eau potable;107078;2024;50,0;7,1;7,1;66,4;non conforme;59604;921;158;366;16;Non vérifié
-70438;Ray-sur-Saône;70;eau potable;106935;2024;99,5;0,1;13,2;67,6;conforme;164;137;2;5;209;Non vérifié
-70439;Raze;70;eau potable;107044;2024;91,0;0,8;7,9;66,6;conforme;8351;2638;19;37;381;Non vérifié
-70440;Recologne;70;eau potable;107098;2024;66,7;2,2;4,3;65,9;conforme;18469;778;71;185;30;Non vérifié
-70441;Recologne-lès-Rioz;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;3887;37;96;288;Non vérifié
-70442;Renaucourt;70;eau potable;107098;2024;66,7;2,2;4,3;65,9;conforme;18469;3009;71;185;116;Non vérifié
-70443;La Grande-Résie;70;eau potable : Territoire de PESMES;234294;2024;94,4;0,4;7,4;66,5;conforme;8792;243;8;23;87;Non vérifié
-70444;La Résie-Saint-Martin;70;eau potable : Territoire de PESMES;234294;2024;94,4;0,4;7,4;66,5;conforme;8792;461;8;23;165;Non vérifié
-70445;Rignovelle;70;eau potable;107047;2024;92,9;0,2;3,0;65,6;conforme;1898;432;10;24;122;Non vérifié
-70446;Rigny;70;eau potable : Territoire de Gray, La Goutte d'Or;107062;2024;77,0;2,8;9,3;66,9;conforme;217686;10217;44;111;636;Non vérifié
-70447;Rioz;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;32364;37;96;2398;Non vérifié
-70448;Roche-et-Raucourt;70;eau potable;107086;2024;81,7;1,9;8,4;66,7;conforme;17941;3894;70;157;153;Non vérifié
-70449;Roche-sur-Linotte-et-Sorans-les-Cordiers;70;eau potable;188088;2024;100,0;0,0;5,0;66,0;conforme;0;0;0;0;71;Non vérifié
-70450;La Rochelle;70;eau potable;188089;2024;99,8;0,0;3,4;65,7;conforme;0;0;0;0;40;Non vérifié
-70451;Ronchamp;70;eau potable;107052;2024;78,4;2,3;8,4;66,7;conforme;264442;25969;26;132;2737;Non vérifié
-70452;Rosey;70;eau potable;107044;2024;91,0;0,8;7,9;66,6;conforme;8351;1724;19;37;249;Non vérifié
-70454;Rosières-sur-Mance;70;eau potable;106944;2024;48,1;3,1;2,8;65,6;non conforme;3010;3010;156;399;53;Non vérifié
-70455;Roye;70;eau potable : DSP Véolia AEP;322134;2024;70,0;2,6;6,2;66,2;conforme;187086;24760;46;176;1484;Non vérifié
-70456;Ruhans;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;2011;37;96;149;Non vérifié
-70457;Rupt-sur-Saône;70;eau potable;188091;2024;77,8;2,4;8,6;66,7;conforme;1533;1533;40;102;106;Non vérifié
-70459;Saint-Barthélemy;70;eau potable;106945;2024;70,0;3,7;8,7;66,7;conforme;17556;17556;44;156;1085;Non vérifié
-70460;Saint-Bresson;70;eau potable;106948;2024;83,6;0,6;2,8;65,6;conforme;10293;10293;68;80;417;Non vérifié
-70461;Saint-Broing;70;eau potable : Territoire de Gray, La Goutte d'Or;107062;2024;77,0;2,8;9,3;66,9;conforme;217686;1687;44;111;105;Non vérifié
-70462;Saint-Ferjeux;70;eau potable : principal;107107;2024;72,1;3,5;9,1;66,8;conforme;121759;2650;93;168;78;Non vérifié
-70463;Saint-Gand;70;eau potable : DSP Gaz et Eau;290934;2024;81,5;2,2;9,7;66,9;conforme;124465;3009;60;95;138;Non vérifié
-70464;Saint-Germain;70;eau potable : DSP Véolia AEP;322134;2024;70,0;2,6;6,2;66,2;conforme;187086;22975;46;176;1377;Non vérifié
-70466;Saint-Loup-Nantouard;70;eau potable : Territoire de Gray, La Goutte d'Or;107062;2024;77,0;2,8;9,3;66,9;conforme;217686;1912;44;111;119;Non vérifié
-70467;Saint-Loup-sur-Semouse;70;eau potable;106951;2024;70,4;4,1;9,6;66,9;conforme;53829;53829;52;155;2814;Non vérifié
-70468;Saint-Marcel;70;eau potable;188092;2024;78,1;6,2;22,0;69,4;conforme;3621;3621;110;103;90;Non vérifié
-70469;Sainte-Marie-en-Chanois;70;eau potable;106953;2024;73,7;2,2;6,2;66,2;conforme;5613;5613;74;129;208;Non vérifié
-70470;Sainte-Marie-en-Chaux;70;eau potable;107050;2024;78,4;2,1;7,7;66,5;conforme;76650;3269;55;100;162;Non vérifié
-70471;Sainte-Reine;70;eau potable : Territoire de Gray, La Goutte d'Or;107062;2024;77,0;2,8;9,3;66,9;conforme;217686;369;44;111;23;Non vérifié
-70472;Saint-Rémy-en-Comté;70;eau potable;107088;2024;90,8;0,5;4,6;65,9;conforme;35952;3993;25;40;436;Non vérifié
-70473;Saint-Sauveur;70;eau potable;106958;2024;73,7;3,9;10,8;67,2;conforme;24014;24014;34;131;1920;Non vérifié
-70474;Saint-Sulpice;70;eau potable : principal;107107;2024;72,1;3,5;9,1;66,8;conforme;121759;4043;93;168;119;Non vérifié
-70476;Saponcourt;70;eau potable;107088;2024;90,8;0,5;4,6;65,9;conforme;35952;714;25;40;78;Non vérifié
-70477;Saulnot;70;eau potable;106964;2024;83,9;2,4;12,4;67,5;conforme;13648;13648;49;151;758;Non vérifié
-70478;Saulx;70;eau potable;107075;2024;57,9;4,1;5,6;66,1;non conforme;30005;25362;80;265;874;Non vérifié
-70479;Sauvigney-lès-Gray;70;eau potable : Territoire de Gray, La Goutte d'Or;107062;2024;77,0;2,8;9,3;66,9;conforme;217686;1606;44;111;100;Non vérifié
-70480;Sauvigney-lès-Pesmes;70;eau potable : Territoire de PESMES;234294;2024;94,4;0,4;7,4;66,5;conforme;8792;444;8;23;159;Non vérifié
-70481;Savoyeux;70;eau potable;106966;2024;76,5;1,8;5,9;66,2;conforme;3140;3140;43;111;200;Non vérifié
-70482;Scey-sur-Saône-et-Saint-Albin;70;eau potable;106968;2024;75,4;3,4;10,5;67,1;conforme;26917;26917;48;118;1525;Non vérifié
-70483;Scye;70;eau potable;188094;2024;75,7;0,8;2,6;65,5;conforme;2257;2257;47;110;131;Non vérifié
-70484;Secenans;70;eau potable;107096;2024;59,9;2,4;3,6;65,7;non conforme;15093;3300;49;247;183;Non vérifié
-70485;Selles;70;eau potable;107088;2024;90,8;0,5;4,6;65,9;conforme;35952;2051;25;40;224;Non vérifié
-70486;Semmadon;70;eau potable;188095;2024;97,8;0,1;4,1;65,8;conforme;138;138;4;9;107;Non vérifié
-70487;Senargent-Mignafans;70;eau potable;107096;2024;59,9;2,4;3,6;65,7;non conforme;15093;5175;49;247;287;Non vérifié
-70488;Senoncourt;70;eau potable;106974;2024;100,0;0,0;34,6;71,9;conforme;0;0;0;0;181;Non vérifié
-70489;Servance-Miellin;70;eau potable;107079;2024;74,1;1,3;3,6;65,7;conforme;20527;12897;47;133;759;Non vérifié
-70490;Servigney;70;eau potable;106977;2024;89,5;0,6;5,0;66,0;conforme;745;745;17;43;122;Non vérifié
-70491;Seveux-Motey;70;eau potable (Seveux);106979;2024;75,9;2,3;7,3;66,5;conforme;9973;9973;58;115;471;Non vérifié
-70492;Soing-Cubry-Charentenay;70;eau potable;106980;2024;93,2;0,7;9,4;66,9;conforme;5230;5230;26;27;555;Non vérifié
-70493;Sorans-lès-Breurey;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;5655;37;96;419;Non vérifié
-70494;Sornay;70;eau potable;113141;2024;85,5;2,0;11,2;67,2;conforme;391718;3145;24;75;357;Non vérifié
-70496;Tartécourt;70;eau potable;188102;2024;73,7;2,9;8,2;66,6;conforme;5822;1087;96;130;31;Non vérifié
-70498;Ternuay-Melay-et-Saint-Hilaire;70;eau potable;106987;2024;85,7;1,1;6,8;66,4;conforme;10038;1530;10;126;438;Non vérifié
-70499;Theuley;70;eau potable;107098;2024;66,7;2,2;4,3;65,9;conforme;18469;2724;71;185;105;Non vérifié
-70500;Thieffrans;70;eau potable;107077;2024;81,7;1,5;6,6;66,3;conforme;9543;4046;65;90;170;Non vérifié
-70501;Thiénans;70;eau potable;107087;2024;90,6;1,3;13,0;67,6;conforme;7881;1193;29;53;112;Non vérifié
-70502;Tincey-et-Pontrebeau;70;eau potable;107098;2024;66,7;2,2;4,3;65,9;conforme;18469;2101;71;185;81;Non vérifié
-70503;Traitiéfontaine;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;2159;37;96;160;Non vérifié
-70504;Traves;70;eau potable;106990;2024;80,2;1,6;6,6;66,3;conforme;4421;4421;35;89;345;Non vérifié
-70505;Le Tremblois;70;eau potable : Territoire de Gray, La Goutte d'Or;107062;2024;77,0;2,8;9,3;66,9;conforme;217686;2554;44;111;159;Non vérifié
-70506;Trémoins;70;eau potable;107104;2024;88,0;0,8;5,7;66,1;conforme;8941;295;2;51;385;Non vérifié
-70507;Trésilley;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;3873;37;96;287;Non vérifié
-70509;Tromarey;70;eau potable;113141;2024;85,5;2,0;11,2;67,2;conforme;391718;1039;24;75;118;Non vérifié
-70510;Vadans;70;eau potable : Territoire de PESMES;234294;2024;94,4;0,4;7,4;66,5;conforme;8792;385;8;23;138;Non vérifié
-70511;Vaite;70;eau potable;107086;2024;81,7;1,9;8,4;66,7;conforme;17941;5700;70;157;224;Non vérifié
-70512;La Vaivre;70;eau potable;106994;2024;78,8;1,2;4,6;65,9;conforme;2514;2514;32;96;216;Non vérifié
-70513;Vaivre-et-Montoille;70;eau potable : Champdamoy et Chariez;286954;2024;82,3;5,0;23,1;69,6;conforme;302439;30335;34;84;2422;Non vérifié
-70514;Valay;70;eau potable : Territoire de PESMES;234294;2024;94,4;0,4;7,4;66,5;conforme;8792;1782;8;23;638;Non vérifié
-70515;Le Val-de-Gouhenans;70;eau potable : DSP Véolia AEP;322134;2024;70,0;2,6;6,2;66,2;conforme;187086;1051;46;176;63;Non vérifié
-70516;Vallerois-le-Bois;70;eau potable : principal;107107;2024;72,1;3,5;9,1;66,8;conforme;121759;7678;93;168;226;Non vérifié
-70517;Vallerois-Lorioz;70;eau potable;107103;2024;89,9;1,3;11,3;67,3;conforme;6477;2954;18;42;452;Non vérifié
-70518;Le Val-Saint-Éloi;70;eau potable;107001;2024;85,3;1,6;9,2;66,8;conforme;631;631;18;63;94;Non vérifié
-70519;Vandelans;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;1525;37;96;113;Non vérifié
-70520;Vanne;70;eau potable;107003;2024;78,9;4,3;16,0;68,2;conforme;3108;3108;69;98;123;Non vérifié
-70521;Vantoux-et-Longevelle;70;eau potable : DSP Gaz et Eau;290934;2024;81,5;2,2;9,7;66,9;conforme;124465;3837;60;95;176;Non vérifié
-70522;Varogne;70;eau potable;188100;2024;97,7;0,2;9,6;66,9;conforme;152;152;3;8;155;Non vérifié
-70523;Vars;70;eau potable : Territoire de Maison Rouge;107082;2024;72,6;2,0;5,4;66,1;conforme;62955;4849;75;173;176;Non vérifié
-70524;Vauchoux;70;eau potable;107071;2024;71,4;2,2;5,4;66,1;conforme;18332;2482;54;148;127;Non vérifié
-70525;Vauconcourt-Nervezain;70;eau potable;107007;2024;86,3;2,1;13,0;67,6;conforme;5595;5595;71;143;217;Non vérifié
-70526;Vauvillers;70;eau potable;107088;2024;90,8;0,5;4,6;65,9;conforme;35952;5513;25;40;602;Non vérifié
-70527;Vaux-le-Moncelot;70;eau potable : DSP Gaz et Eau;290934;2024;81,5;2,2;9,7;66,9;conforme;124465;1701;60;95;78;Non vérifié
-70528;Velesmes-Échevanne;70;eau potable : Territoire de Gray, La Goutte d'Or;107062;2024;77,0;2,8;9,3;66,9;conforme;217686;7888;44;111;491;Non vérifié
-70529;Velet;70;eau potable : Territoire de Gray, La Goutte d'Or;107062;2024;77,0;2,8;9,3;66,9;conforme;217686;5928;44;111;369;Non vérifié
-70530;Vellechevreux-et-Courbenans;70;eau potable;107096;2024;59,9;2,4;3,6;65,7;non conforme;15093;2146;49;247;119;Non vérifié
-70531;Velleclaire;70;eau potable : DSP Gaz et Eau;290934;2024;81,5;2,2;9,7;66,9;conforme;124465;2180;60;95;100;Non vérifié
-70532;Vellefaux;70;eau potable;107103;2024;89,9;1,3;11,3;67,3;conforme;6477;3523;18;42;539;Non vérifié
-70533;Vellefrey-et-Vellefrange;70;eau potable : DSP Gaz et Eau;290934;2024;81,5;2,2;9,7;66,9;conforme;124465;2355;60;95;108;Non vérifié
-70534;Vellefrie;70;eau potable;107011;2024;96,1;0,4;10,8;67,2;conforme;438;438;10;14;122;Non vérifié
-70535;Velleguindry-et-Levrecey;70;eau potable;107013;2024;91,0;0,9;8,9;66,8;conforme;1156;1156;20;37;161;Non vérifié
-70536;Velle-le-Châtel;70;eau potable;107044;2024;91,0;0,8;7,9;66,6;conforme;8351;866;19;37;125;Non vérifié
-70537;Velleminfroy;70;eau potable;107015;2024;88,7;1,1;8,4;66,7;conforme;1486;1486;14;48;294;Non vérifié
-70538;Vellemoz;70;eau potable;107090;2024;76,0;2,2;15,7;68,1;conforme;7227;2176;69;51;87;Non vérifié
-70539;Vellexon-Queutrey-et-Vaudey;70;eau potable;107018;2024;78,2;2,1;7,5;66,5;conforme;7665;7665;43;102;487;Non vérifié
-70540;Velloreille-lès-Choye;70;eau potable : DSP Gaz et Eau;290934;2024;81,5;2,2;9,7;66,9;conforme;124465;1701;60;95;78;Non vérifié
-70541;Velorcey;70;eau potable;107050;2024;78,4;2,1;7,7;66,5;conforme;76650;4157;55;100;206;Non vérifié
-70542;Venère;70;eau potable : Territoire de PESMES;234294;2024;94,4;0,4;7,4;66,5;conforme;8792;600;8;23;215;Non vérifié
-70544;La Vergenne;70;eau potable;107073;2024;76,4;1,9;5,4;66,1;conforme;85994;7507;187;129;110;Non vérifié
-70545;Venisey;70;eau potable;188102;2024;73,7;2,9;8,2;66,6;conforme;5822;4735;96;130;135;Non vérifié
-70546;Vereux;70;eau potable;107020;2024;67,3;4,3;8,8;66,8;conforme;6231;6231;82;179;208;Non vérifié
-70547;Verlans;70;eau potable;107104;2024;88,0;0,8;5,7;66,1;conforme;8941;127;2;51;166;Non vérifié
-70548;Vernois-sur-Mance;70;eau potable;188103;2024;94,9;0,3;5,2;66,0;conforme;616;616;13;21;134;Non vérifié
-70549;La Vernotte;70;eau potable : DSP Gaz et Eau;290934;2024;81,5;2,2;9,7;66,9;conforme;124465;1701;60;95;78;Non vérifié
-70550;Vesoul;70;eau potable : Champdamoy et Chariez;286954;2024;82,3;5,0;23,1;69,6;conforme;302439;188851;34;84;15078;Non vérifié
-70552;Villafans;70;eau potable : principal;107107;2024;72,1;3,5;9,1;66,8;conforme;121759;6625;93;168;195;Non vérifié
-70553;Villargent;70;eau potable;214759;2024;74,3;2,2;6,3;66,3;conforme;24492;3220;75;128;117;Non vérifié
-70554;Villars-le-Pautel;70;eau potable;107093;2024;91,8;0,8;9,2;66,8;conforme;11265;1822;29;55;175;Non vérifié
-70555;La Villedieu-en-Fontenette;70;eau potable;107050;2024;78,4;2,1;7,7;66,5;conforme;76650;3370;55;100;167;Non vérifié
-70557;Villefrancon;70;eau potable : DSP Gaz et Eau;290934;2024;81,5;2,2;9,7;66,9;conforme;124465;2834;60;95;130;Non vérifié
-70558;La Villeneuve-Bellenoye-et-la-Maize;70;eau potable;107075;2024;57,9;4,1;5,6;66,1;non conforme;30005;4643;80;265;160;Non vérifié
-70559;Villeparois;70;eau potable : communes alimentées au syndicat du Breuchin;286214;2024;77,3;2,7;9,0;66,8;conforme;55020;502;7;109;194;Non vérifié
-70560;Villers-Bouton;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;2402;37;96;178;Non vérifié
-70561;Villersexel;70;eau potable : principal;107107;2024;72,1;3,5;9,1;66,8;conforme;121759;48615;93;168;1431;Non vérifié
-70562;Villers-la-Ville;70;eau potable : principal;107107;2024;72,1;3,5;9,1;66,8;conforme;121759;5130;93;168;151;Non vérifié
-70563;Villers-le-Sec;70;eau potable;107105;2024;79,7;2,3;9,1;66,8;conforme;34000;15630;83;190;519;Non vérifié
-70564;Villers-lès-Luxeuil;70;eau potable;107050;2024;78,4;2,1;7,7;66,5;conforme;76650;6256;55;100;310;Non vérifié
-70565;Villers-Pater;70;eau potable;107043;2024;94,9;0,3;4,7;65,9;conforme;1642;210;12;23;46;Non vérifié
-70566;Villers-sur-Port;70;eau potable;107030;2024;94,6;0,3;4,7;65,9;conforme;635;635;9;23;203;Non vérifié
-70567;Villers-sur-Saulnot;70;eau potable;107104;2024;88,0;0,8;5,7;66,1;conforme;8941;95;2;51;124;Non vérifié
-70568;Villers-Vaudey;70;eau potable;107074;2024;79,3;0,9;3,3;65,7;conforme;4431;553;26;100;58;Non vérifié
-70569;Vilory;70;eau potable;188107;2024;77,1;1,9;6,5;66,3;conforme;1408;1408;57;107;68;Non vérifié
-70571;Visoncourt;70;eau potable;107050;2024;78,4;2,1;7,7;66,5;conforme;76650;727;55;100;36;Non vérifié
-70572;Vitrey-sur-Mance;70;eau potable;107032;2024;68,6;3,1;6,7;66,3;conforme;6223;6223;59;168;287;Non vérifié
-70573;La Voivre;70;eau potable;188108;2024;55,2;3,4;4,2;65,8;non conforme;9543;9543;247;299;106;Non vérifié
-70574;Volon;70;eau potable;107086;2024;81,7;1,9;8,4;66,7;conforme;17941;1501;70;157;59;Non vérifié
-70575;Voray-sur-l'Ognon;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;11526;37;96;854;Non vérifié
-70576;Vougécourt;70;eau potable;107078;2024;50,0;7,1;7,1;66,4;non conforme;59604;9666;158;366;168;Non vérifié
-70577;Vouhenans;70;eau potable : DSP Véolia AEP;322134;2024;70,0;2,6;6,2;66,2;conforme;187086;6324;46;176;379;Non vérifié
-70578;Vregille;70;eau potable;113141;2024;85,5;2,0;11,2;67,2;conforme;391718;1568;24;75;178;Non vérifié
-70579;Vyans-le-Val;70;eau potable;107040;2024;83,8;2,3;12,0;67,4;conforme;3157;3157;21;70;420;Non vérifié
-70580;Vy-le-Ferroux;70;eau potable;188109;2024;85,6;1,5;8,8;66,8;conforme;2321;2321;39;62;163;Non vérifié
-70581;Vy-lès-Lure;70;eau potable : DSP Véolia AEP;322134;2024;70,0;2,6;6,2;66,2;conforme;187086;11746;46;176;704;Non vérifié
-70582;Vy-lès-Rupt;70;eau potable;107042;2024;71,8;2,7;6,9;66,4;conforme;4041;4041;132;143;84;Non vérifié
-70583;Vy-lès-Filain;70;eau potable;107067;2024;71,8;2,1;5,4;66,1;conforme;8661;3441;66;141;143;Non vérifié
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement);Donnée suspecte (voir LISEZMOI)
+70001;Abelcourt;70;eau potable;107050;2024;78,4;2,1;7,7;66,5;conforme;76650;6720;55;100;333;Non vérifié;non
+70002;Aboncourt-Gesincourt;70;eau potable;107072;2024;84,8;1,0;5,4;66,1;conforme;9749;2581;33;68;216;Non vérifié;non
+70003;Achey;70;eau potable;188032;2024;93,7;0,9;13,5;67,7;conforme;1038;1038;40;47;71;Non vérifié;non
+70004;Adelans-et-le-Val-de-Bithaine;70;eau potable;107046;2024;88,7;0,8;6,3;66,3;conforme;21082;2209;19;46;311;Non vérifié;non
+70005;Aillevans;70;eau potable;107073;2024;76,4;1,9;5,4;66,1;conforme;85994;8941;187;129;131;Non vérifié;non
+70006;Aillevillers-et-Lyaumont;70;eau potable;106564;2024;66,8;1,7;3,4;65,7;conforme;40332;40332;77;199;1426;Non vérifié;non
+70007;Ailloncourt;70;eau potable;107046;2024;88,7;0,8;6,3;66,3;conforme;21082;2166;19;46;305;Non vérifié;non
+70008;Ainvelle;70;eau potable;107048;2023;78,6;1,8;6,7;66,3;conforme;4395;1617;30;98;149;Sans anomalie apparente;non
+70009;Aisey-et-Richecourt;70;eau potable;107093;2024;91,8;0,8;9,2;66,8;conforme;11265;1041;29;55;100;Non vérifié;non
+70010;Alaincourt;70;eau potable;107088;2024;90,8;0,5;4,6;65,9;conforme;35952;888;25;40;97;Non vérifié;non
+70011;Amage;70;eau potable;106567;2024;71,5;1,5;3,7;65,7;conforme;5530;5530;50;146;304;Non vérifié;non
+70012;Amance;70;eau potable;107045;2024;89,2;1,7;13,8;67,8;conforme;22214;5578;23;45;669;Non vérifié;non
+70013;Ambiévillers;70;eau potable;107088;2024;90,8;0,5;4,6;65,9;conforme;35952;733;25;40;80;Non vérifié;non
+70014;Amblans-et-Velotte;70;eau potable : DSP Véolia AEP;322134;2024;70,0;2,6;6,2;66,2;conforme;187086;6440;46;176;386;Non vérifié;non
+70015;Amoncourt;70;eau potable;106572;2024;79,9;1,6;6,4;66,3;conforme;2698;2698;27;91;270;Non vérifié;non
+70016;Amont-et-Effreney;70;eau potable;188034;2024;88,7;0,3;2,5;65,5;conforme;404;404;7;43;168;Non vérifié;non
+70017;Anchenoncourt-et-Chazel;70;eau potable;107088;2024;90,8;0,5;4,6;65,9;conforme;35952;2051;25;40;224;Non vérifié;non
+70018;Ancier;70;eau potable : Territoire de Gray, La Goutte d'Or;107062;2024;77,0;2,8;9,3;66,9;conforme;217686;8402;44;111;523;Non vérifié;non
+70019;Andelarre;70;eau potable : communes alimentées au syndicat du Breuchin;286214;2024;77,3;2,7;9,0;66,8;conforme;55020;396;7;109;153;Non vérifié;non
+70020;Andelarrot;70;eau potable : communes alimentées au syndicat du Breuchin;286214;2024;77,3;2,7;9,0;66,8;conforme;55020;637;7;109;246;Non vérifié;non
+70021;Andornay;70;eau potable : DSP Véolia AEP;322134;2024;70,0;2,6;6,2;66,2;conforme;187086;2920;46;176;175;Non vérifié;non
+70022;Angirey;70;eau potable : DSP Gaz et Eau;290934;2024;81,5;2,2;9,7;66,9;conforme;124465;3314;60;95;152;Non vérifié;non
+70023;Anjeux;70;eau potable;107088;2024;90,8;0,5;4,6;65,9;conforme;35952;1355;25;40;148;Non vérifié;non
+70024;Apremont;70;eau potable : Territoire de Gray, La Goutte d'Or;107062;2024;77,0;2,8;9,3;66,9;conforme;217686;7020;44;111;437;Non vérifié;non
+70025;Arbecey;70;eau potable;107095;2024;73,0;1,8;4,8;66,0;conforme;24099;4692;56;136;228;Non vérifié;non
+70026;Arc-lès-Gray;70;eau potable : Territoire de Gray, La Goutte d'Or;107062;2024;77,0;2,8;9,3;66,9;conforme;217686;38442;44;111;2393;Non vérifié;non
+70027;Argillières;70;eau potable;107100;2024;52,7;2,9;3,3;65,7;non conforme;35248;5902;225;325;72;Non vérifié;non
+70028;Aroz;70;eau potable;107071;2024;71,4;2,2;5,4;66,1;conforme;18332;2814;54;148;144;Non vérifié;non
+70029;Arpenans;70;eau potable : DSP Véolia AEP;322134;2024;70,0;2,6;6,2;66,2;conforme;187086;4088;46;176;245;Non vérifié;non
+70030;Arsans;70;eau potable : Territoire de PESMES;234294;2024;94,4;0,4;7,4;66,5;conforme;8792;117;8;23;42;Non vérifié;non
+70031;Athesans-Étroitefontaine;70;eau potable;107073;2024;76,4;1,9;5,4;66,1;conforme;85994;43065;187;129;631;Non vérifié;non
+70032;Attricourt;70;eau potable : ex syndicat basse vingeanne;139581;2024;94,4;0,3;4,9;66,0;conforme;2508;216;13;22;47;Non vérifié;non
+70035;Augicourt;70;eau potable;188037;2024;98,8;0,1;11,0;67,2;conforme;100;100;2;3;175;Non vérifié;non
+70036;Aulx-lès-Cromary;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;2159;37;96;160;Non vérifié;non
+70037;Autet;70;eau potable;106585;2024;67,7;3,4;7,2;66,4;conforme;6441;6441;66;174;269;Non vérifié;non
+70038;Authoison;70;eau potable;107043;2024;94,9;0,3;4,7;65,9;conforme;1642;1433;12;23;314;Non vérifié;non
+70039;Autoreille;70;eau potable : DSP Gaz et Eau;290934;2024;81,5;2,2;9,7;66,9;conforme;124465;8590;60;95;394;Non vérifié;non
+70040;Autrey-lès-Cerre;70;eau potable;107089;2024;84,5;1,0;5,3;66,1;conforme;18075;2929;33;68;240;Non vérifié;non
+70041;Autrey-lès-Gray;70;eau potable : Territoire de Maison Rouge;107082;2024;72,6;2,0;5,4;66,1;conforme;62955;10966;75;173;398;Non vérifié;non
+70042;Autrey-le-Vay;70;eau potable : principal;107107;2024;72,1;3,5;9,1;66,8;conforme;121759;3159;93;168;93;Non vérifié;non
+70043;Auvet-et-la-Chapelotte;70;eau potable : Territoire de Maison Rouge;107082;2024;72,6;2,0;5,4;66,1;conforme;62955;6530;75;173;237;Non vérifié;non
+70044;Auxon;70;eau potable;106590;2024;78,7;2,5;9,3;66,9;conforme;7665;7665;53;98;398;Non vérifié;non
+70045;Avrigney-Virey;70;eau potable;113141;2024;85,5;2,0;11,2;67,2;conforme;391718;3770;24;75;428;Non vérifié;non
+70046;Les Aynans;70;eau potable : DSP Véolia AEP;322134;2024;70,0;2,6;6,2;66,2;conforme;187086;5940;46;176;356;Non vérifié;non
+70047;Baignes;70;eau potable;107044;2024;91,0;0,8;7,9;66,6;conforme;8351;686;19;37;99;Non vérifié;non
+70048;Bard-lès-Pesmes;70;eau potable;113141;2024;85,5;2,0;11,2;67,2;conforme;391718;1198;24;75;136;Non vérifié;non
+70049;Barges;70;eau potable;107057;2024;79,9;0,9;3,6;65,7;conforme;4041;799;32;90;68;Non vérifié;non
+70050;La Barre;70;eau potable;107068;2024;72,1;14,0;36,1;72,2;non conforme;20440;2843;82;173;95;Non vérifié;non
+70051;La Basse-Vaivre;70;eau potable;107088;2024;90,8;0,5;4,6;65,9;conforme;35952;449;25;40;49;Non vérifié;non
+70052;Bassigney;70;eau potable;188039;2024;66,6;2,7;5,3;66,1;conforme;3942;3942;88;186;123;Non vérifié;non
+70053;Les Bâties;70;eau potable : DSP Gaz et Eau;290934;2024;81,5;2,2;9,7;66,9;conforme;124465;1635;60;95;75;Non vérifié;non
+70054;Battrans;70;eau potable : Territoire de Gray, La Goutte d'Or;107062;2024;77,0;2,8;9,3;66,9;conforme;217686;3149;44;111;196;Non vérifié;non
+70055;Baudoncourt;70;eau potable;107050;2024;78,4;2,1;7,7;66,5;conforme;76650;9728;55;100;482;Non vérifié;non
+70056;Baulay;70;eau potable;107045;2024;89,2;1,7;13,8;67,8;conforme;22214;2685;23;45;322;Non vérifié;non
+70057;Bay;70;eau potable;113141;2024;85,5;2,0;11,2;67,2;conforme;391718;1418;24;75;161;Non vérifié;non
+70058;Beaujeu-Saint-Vallier-Pierrejux-et-Quitteur;70;eau potable;106598;2024;88,4;1,3;10,0;67,0;conforme;6548;6548;19;47;921;Non vérifié;non
+70059;Beaumotte-Aubertans;70;eau potable;107068;2024;72,1;14,0;36,1;72,2;non conforme;20440;14215;82;173;475;Non vérifié;non
+70060;Beaumotte-lès-Pin;70;eau potable;113141;2024;85,5;2,0;11,2;67,2;conforme;391718;2475;24;75;281;Non vérifié;non
+70061;Belfahy;70;eau potable;106603;2023;22,6;8,4;2,5;65,5;non conforme;14104;14104;466;1246;83;Sans anomalie apparente;non
+70062;Belmont;70;eau potable;107047;2024;92,9;0,2;3,0;65,6;conforme;1898;496;10;24;140;Non vérifié;non
+70063;Belonchamp;70;eau potable;106987;2024;85,7;1,1;6,8;66,4;conforme;10038;723;10;126;207;Non vérifié;non
+70064;Belverne;70;eau potable;188040;2024;75,3;2,2;6,6;66,3;conforme;4593;4593;94;123;134;Non vérifié;non
+70065;Besnans;70;eau potable;107087;2024;90,6;1,3;13,0;67,6;conforme;7881;799;29;53;75;Non vérifié;non
+70066;Betaucourt;70;eau potable;107093;2024;91,8;0,8;9,2;66,8;conforme;11265;1885;29;55;181;Non vérifié;non
+70067;Betoncourt-lès-Brotte;70;eau potable;107050;2024;78,4;2,1;7,7;66,5;conforme;76650;2281;55;100;113;Non vérifié;non
+70069;Betoncourt-Saint-Pancras;70;eau potable;107088;2024;90,8;0,5;4,6;65,9;conforme;35952;366;25;40;40;Non vérifié;non
+70070;Betoncourt-sur-Mance;70;eau potable;188041;2024;97,9;0,1;4,0;65,8;conforme;50;50;5;9;25;Non vérifié;non
+70072;Beveuge;70;eau potable : principal;107107;2024;72,1;3,5;9,1;66,8;conforme;121759;2956;93;168;87;Non vérifié;non
+70074;Blondefontaine;70;eau potable;106608;2024;67,7;5,4;11,3;67,3;conforme;8870;8870;102;174;238;Non vérifié;non
+70075;Bonboillon;70;eau potable;113141;2024;85,5;2,0;11,2;67,2;conforme;391718;1718;24;75;195;Non vérifié;non
+70076;Bonnevent-Velloreille;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;5736;37;96;425;Non vérifié;non
+70077;Borey;70;eau potable;107089;2024;84,5;1,0;5,3;66,1;conforme;18075;2722;33;68;223;Non vérifié;non
+70078;Bougey;70;eau potable;106614;2024;83,6;2,2;11,5;67,3;conforme;1935;1935;51;70;103;Non vérifié;non
+70079;Bougnon;70;eau potable;106616;2024;90,3;0,6;5,5;66,1;conforme;2564;2564;14;40;495;Non vérifié;non
+70080;Bouhans-et-Feurg;70;eau potable : Territoire de Maison Rouge;107082;2024;72,6;2,0;5,4;66,1;conforme;62955;6667;75;173;242;Non vérifié;non
+70081;Bouhans-lès-Lure;70;eau potable : eau potable;265114;2024;68,3;3,6;7,8;66,6;conforme;9198;9198;94;168;267;Non vérifié;non
+70082;Bouhans-lès-Montbozon;70;eau potable;107077;2024;81,7;1,5;6,6;66,3;conforme;9543;2951;65;90;124;Non vérifié;non
+70083;Bouligney;70;eau potable;107094;2024;52,8;5,1;5,6;66,1;non conforme;25596;19402;133;391;401;Non vérifié;non
+70084;Boulot;70;eau potable : DSP Ex-Syndicat source du Breuil;266994;2024;72,3;3,8;9,8;67,0;conforme;34301;13280;56;184;645;Non vérifié;non
+70085;Boult;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;9488;37;96;703;Non vérifié;non
+70086;Bourbévelle;70;eau potable;107093;2024;91,8;0,8;9,2;66,8;conforme;11265;781;29;55;75;Non vérifié;non
+70087;Bourguignon-lès-Conflans;70;eau potable;107099;2024;91,0;0,6;5,7;66,1;conforme;3044;646;14;39;129;Non vérifié;non
+70088;Bourguignon-lès-la-Charité;70;eau potable : DSP Gaz et Eau;290934;2024;81,5;2,2;9,7;66,9;conforme;124465;2158;60;95;99;Non vérifié;non
+70089;Bourguignon-lès-Morey;70;eau potable;106622;2024;91,9;0,8;8,8;66,8;conforme;1022;1022;65;33;43;Non vérifié;non
+70090;Boursières;70;eau potable;107044;2024;91,0;0,8;7,9;66,6;conforme;8351;402;19;37;58;Non vérifié;non
+70091;Bousseraucourt;70;eau potable;107084;2024;27,1;19,3;7,2;66,4;non conforme;39167;19584;1166;979;46;Non vérifié;non
+70092;Bresilley;70;eau potable;113141;2024;85,5;2,0;11,2;67,2;conforme;391718;1665;24;75;189;Non vérifié;non
+70093;Breuches;70;eau potable;107050;2024;78,4;2,1;7,7;66,5;conforme;76650;13259;55;100;657;Non vérifié;non
+70094;Breuchotte;70;eau potable;106625;2024;97,7;0,1;4,4;65,9;conforme;248;248;2;8;299;Non vérifié;non
+70095;Breurey-lès-Faverney;70;eau potable;106627;2024;87,7;1,1;7,9;66,6;conforme;3373;3373;16;51;588;Non vérifié;non
+70096;Brevilliers;70;eau potable;107052;2024;78,4;2,3;8,4;66,7;conforme;264442;5940;26;132;626;Non vérifié;non
+70097;Briaucourt;70;eau potable;107048;2023;78,6;1,8;6,7;66,3;conforme;4395;2778;30;98;256;Sans anomalie apparente;non
+70098;Brotte-lès-Luxeuil;70;eau potable;107050;2024;78,4;2,1;7,7;66,5;conforme;76650;3915;55;100;194;Non vérifié;non
+70099;Brotte-lès-Ray;70;eau potable;107086;2024;81,7;1,9;8,4;66,7;conforme;17941;1552;70;157;61;Non vérifié;non
+70100;Broye-les-Loups-et-Verfontaine;70;eau potable : Territoire de Maison Rouge;107082;2024;72,6;2,0;5,4;66,1;conforme;62955;3086;75;173;112;Non vérifié;non
+70101;Broye-Aubigney-Montseugny;70;eau potable : Territoire de PESMES;234294;2024;94,4;0,4;7,4;66,5;conforme;8792;1430;8;23;512;Non vérifié;non
+70102;Brussey;70;eau potable;113141;2024;85,5;2,0;11,2;67,2;conforme;391718;2607;24;75;296;Non vérifié;non
+70103;La Bruyère;70;eau potable;106636;2024;70,4;1,3;3,2;65,6;conforme;5310;5310;89;149;163;Non vérifié;non
+70104;Bucey-lès-Gy;70;eau potable : DSP Gaz et Eau;290934;2024;81,5;2,2;9,7;66,9;conforme;124465;12536;60;95;575;Non vérifié;non
+70105;Bucey-lès-Traves;70;eau potable;107071;2024;71,4;2,2;5,4;66,1;conforme;18332;2814;54;148;144;Non vérifié;non
+70106;Buffignécourt;70;eau potable;107045;2024;89,2;1,7;13,8;67,8;conforme;22214;1126;23;45;135;Non vérifié;non
+70107;Bussières;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;5763;37;96;427;Non vérifié;non
+70109;Buthiers;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;4535;37;96;336;Non vérifié;non
+70111;Calmoutier;70;eau potable;106643;2024;90,9;1,3;13,4;67,7;conforme;4252;4252;44;35;263;Non vérifié;non
+70112;Cemboing;70;eau potable;107057;2024;79,9;0,9;3,6;65,7;conforme;4041;1950;32;90;166;Non vérifié;non
+70113;Cenans;70;eau potable;188045;2024;95,2;0,6;12,7;67,5;conforme;913;913;19;17;133;Non vérifié;non
+70114;Cendrecourt;70;eau potable;107093;2024;91,8;0,8;9,2;66,8;conforme;11265;2082;29;55;200;Non vérifié;non
+70115;Cerre-lès-Noroy;70;eau potable;107089;2024;84,5;1,0;5,3;66,1;conforme;18075;2905;33;68;238;Non vérifié;non
+70116;Chagey;70;eau potable;107052;2024;78,4;2,3;8,4;66,7;conforme;264442;5655;26;132;596;Non vérifié;non
+70117;Châlonvillars;70;eau potable;107052;2024;78,4;2,3;8,4;66,7;conforme;264442;11993;26;132;1264;Non vérifié;non
+70118;Chambornay-lès-Bellevaux;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;2429;37;96;180;Non vérifié;non
+70119;Chambornay-lès-Pin;70;eau potable;113141;2024;85,5;2,0;11,2;67,2;conforme;391718;3462;24;75;393;Non vérifié;non
+70120;Champagney;70;eau potable;107052;2024;78,4;2,3;8,4;66,7;conforme;264442;34603;26;132;3647;Non vérifié;non
+70121;Champey;70;eau potable;106654;2024;87,3;5,6;38,3;72,7;conforme;18192;1259;4;157;790;Non vérifié;non
+70122;Champlitte;70;eau potable;106656;2024;59,2;3,4;4,9;66,0;non conforme;79635;79635;138;252;1585;Non vérifié;non
+70124;Champtonnay;70;eau potable : Territoire de Gray, La Goutte d'Or;107062;2024;77,0;2,8;9,3;66,9;conforme;217686;1269;44;111;79;Non vérifié;non
+70125;Champvans;70;eau potable : Territoire de Gray, La Goutte d'Or;107062;2024;77,0;2,8;9,3;66,9;conforme;217686;2747;44;111;171;Non vérifié;non
+70126;Chancey;70;eau potable;113141;2024;85,5;2,0;11,2;67,2;conforme;391718;1815;24;75;206;Non vérifié;non
+70127;Chantes;70;eau potable;188046;2024;78,3;0,7;2,4;65,5;conforme;1990;1990;50;107;108;Non vérifié;non
+70128;La Chapelle-lès-Luxeuil;70;eau potable;107050;2024;78,4;2,1;7,7;66,5;conforme;76650;7669;55;100;380;Non vérifié;non
+70129;La Chapelle-Saint-Quillain;70;eau potable : DSP Gaz et Eau;290934;2024;81,5;2,2;9,7;66,9;conforme;124465;3096;60;95;142;Non vérifié;non
+70130;Charcenne;70;eau potable : DSP Gaz et Eau;290934;2024;81,5;2,2;9,7;66,9;conforme;124465;6431;60;95;295;Non vérifié;non
+70132;Chargey-lès-Gray;70;eau potable : Territoire CHARGEY LES GRAY;106664;2024;72,0;3,3;8,4;66,7;conforme;11069;11069;45;143;667;Non vérifié;non
+70133;Chargey-lès-Port;70;eau potable;106666;2024;87,5;1,8;12,4;67,5;conforme;3942;3942;45;53;238;Non vérifié;non
+70134;Chariez;70;eau potable : Champdamoy et Chariez;286954;2024;82,3;5,0;23,1;69,6;conforme;302439;2843;34;84;227;Non vérifié;non
+70135;Charmes-Saint-Valbert;70;eau potable;106670;2024;48,2;2,4;2,2;65,4;non conforme;1927;1927;165;389;32;Non vérifié;non
+70136;Charmoille;70;eau potable : ex syndicat des eaux de Pusey;277594;2024;70,8;4,0;9,8;67,0;conforme;70226;10792;63;149;473;Non vérifié;non
+70137;Chassey-lès-Montbozon;70;eau potable;106673;2024;81,7;1,4;6,3;66,3;conforme;2816;2816;34;81;230;Non vérifié;non
+70138;Chassey-lès-Scey;70;eau potable;107071;2024;71,4;2,2;5,4;66,1;conforme;18332;2365;54;148;121;Non vérifié;non
+70140;Châteney;70;eau potable;106674;2024;99,2;0,1;14,6;67,9;conforme;47;47;2;3;60;Non vérifié;non
+70141;Châtenois;70;eau potable;188047;2024;93,9;0,4;6,7;66,3;conforme;261;261;6;22;116;Non vérifié;non
+70142;Chaumercenne;70;eau potable;113141;2024;85,5;2,0;11,2;67,2;conforme;391718;1709;24;75;194;Non vérifié;non
+70143;Chauvirey-le-Châtel;70;eau potable;106675;2024;100,0;0,0;8,2;66,6;conforme;0;0;0;0;109;Non vérifié;non
+70144;Chauvirey-le-Vieil;70;eau potable;188048;2024;100,0;0,0;0,7;65,1;non calculable;0;0;0;0;24;Non vérifié;non
+70145;Chaux-la-Lotière;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;7234;37;96;536;Non vérifié;non
+70146;Chaux-lès-Port;70;eau potable;188049;2024;83,8;2,0;10,2;67,0;conforme;1526;1526;26;71;158;Non vérifié;non
+70147;Chavanne;70;eau potable;107104;2024;88,0;0,8;5,7;66,1;conforme;8941;163;2;51;213;Non vérifié;non
+70148;Chemilly;70;eau potable;107071;2024;71,4;2,2;5,4;66,1;conforme;18332;2169;54;148;111;Non vérifié;non
+70149;Chenebier;70;eau potable;107052;2024;78,4;2,3;8,4;66,7;conforme;264442;6651;26;132;701;Non vérifié;non
+70150;Chenevrey-et-Morogne;70;eau potable;113141;2024;85,5;2,0;11,2;67,2;conforme;391718;2687;24;75;305;Non vérifié;non
+70151;Chevigney;70;eau potable : Territoire de PESMES;234294;2024;94,4;0,4;7,4;66,5;conforme;8792;106;8;23;38;Non vérifié;non
+70152;Choye;70;eau potable : DSP Gaz et Eau;290934;2024;81,5;2,2;9,7;66,9;conforme;124465;13190;60;95;605;Non vérifié;non
+70153;Cintrey;70;eau potable;188052;2024;97,8;0,1;5,9;66,2;conforme;165;165;5;6;96;Non vérifié;non
+70154;Cirey;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;5021;37;96;372;Non vérifié;non
+70155;Citers;70;eau potable;107046;2024;88,7;0,8;6,3;66,3;conforme;21082;5434;19;46;765;Non vérifié;non
+70156;Citey;70;eau potable : DSP Gaz et Eau;290934;2024;81,5;2,2;9,7;66,9;conforme;124465;2180;60;95;100;Non vérifié;non
+70157;Clairegoutte;70;eau potable;106687;2024;98,4;0,1;4,7;65,9;conforme;281;281;2;8;347;Non vérifié;non
+70158;Clans;70;eau potable;107044;2024;91,0;0,8;7,9;66,6;conforme;8351;755;19;37;109;Non vérifié;non
+70159;Cognières;70;eau potable;107077;2024;81,7;1,5;6,6;66,3;conforme;9543;2546;65;90;107;Non vérifié;non
+70160;Coisevaux;70;eau potable;106690;2024;92,5;0,5;5,8;66,2;conforme;1086;1086;10;32;298;Non vérifié;non
+70162;Colombe-lès-Vesoul;70;eau potable;107105;2024;79,7;2,3;9,1;66,8;conforme;34000;14817;83;190;492;Non vérifié;non
+70163;Colombier;70;eau potable : communes alimentées au syndicat du Breuchin;286214;2024;77,3;2,7;9,0;66,8;conforme;55020;1124;7;109;434;Non vérifié;non
+70164;Colombotte;70;eau potable;106695;2024;87,3;2,0;13,5;67,7;conforme;3212;3212;133;54;66;Non vérifié;non
+70165;Combeaufontaine;70;eau potable;107095;2024;73,0;1,8;4,8;66,0;conforme;24099;11751;56;136;571;Non vérifié;non
+70166;Comberjon;70;eau potable : communes alimentées au syndicat du Breuchin;286214;2024;77,3;2,7;9,0;66,8;conforme;55020;365;7;109;141;Non vérifié;non
+70167;Conflandey;70;eau potable;106699;2024;86,2;1,3;8,0;66,6;conforme;3094;3094;24;59;360;Non vérifié;non
+70168;Conflans-sur-Lanterne;70;eau potable;106702;2024;70,5;2,6;6,2;66,2;conforme;11198;11198;54;153;564;Non vérifié;non
+70169;Confracourt;70;eau potable;107095;2024;73,0;1,8;4,8;66,0;conforme;24099;4137;56;136;201;Non vérifié;non
+70170;Contréglise;70;eau potable;107045;2024;89,2;1,7;13,8;67,8;conforme;22214;926;23;45;111;Non vérifié;non
+70171;Corbenay;70;eau potable;106704;2024;52,0;8,1;8,8;66,8;non conforme;45353;45353;100;338;1248;Non vérifié;non
+70172;La Corbière;70;eau potable;107047;2024;92,9;0,2;3,0;65,6;conforme;1898;397;10;24;112;Non vérifié;non
+70174;Cordonnet;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;2024;37;96;150;Non vérifié;non
+70175;Cornot;70;eau potable;106707;2024;79,6;2,5;9,6;66,9;conforme;4106;4106;85;95;132;Non vérifié;non
+70176;Corravillers;70;eau potable;106709;2024;52,2;3,1;3,4;65,7;non conforme;5092;5092;87;336;161;Non vérifié;non
+70177;Corre;70;eau potable;107078;2024;50,0;7,1;7,1;66,4;non conforme;59604;34290;158;366;596;Non vérifié;non
+70178;La Côte;70;eau potable : DSP Véolia AEP;322134;2024;70,0;2,6;6,2;66,2;conforme;187086;9160;46;176;549;Non vérifié;non
+70179;Coulevon;70;eau potable : Champdamoy et Chariez;286954;2024;82,3;5,0;23,1;69,6;conforme;302439;2204;34;84;176;Non vérifié;non
+70180;Courchaton;70;eau potable (Courchaton);106713;2024;90,4;1,1;10,4;67,1;conforme;2289;2289;10;39;600;Non vérifié;non
+70181;Courcuire;70;eau potable;113141;2024;85,5;2,0;11,2;67,2;conforme;391718;1216;24;75;138;Non vérifié;non
+70182;Courmont;70;eau potable;188055;2023;33,9;7,4;3,8;65,8;non conforme;18907;18907;435;1486;119;Sans anomalie apparente;non
+70183;Courtesoult-et-Gatey;70;eau potable;107100;2024;52,7;2,9;3,3;65,7;non conforme;35248;4754;225;325;58;Non vérifié;non
+70184;Couthenans;70;eau potable;107052;2024;78,4;2,3;8,4;66,7;conforme;264442;6793;26;132;716;Non vérifié;non
+70185;Cresancey;70;eau potable : Territoire de Gray, La Goutte d'Or;107062;2024;77,0;2,8;9,3;66,9;conforme;217686;2908;44;111;181;Non vérifié;non
+70186;La Creuse;70;eau potable;188056;2024;99,9;0,0;2,8;65,6;conforme;0;0;0;0;73;Non vérifié;non
+70187;Crevans-et-la-Chapelle-lès-Granges;70;eau potable;107096;2024;59,9;2,4;3,6;65,7;non conforme;15093;4472;49;247;248;Non vérifié;non
+70188;Creveney;70;eau potable;106717;2024;70,3;1,5;3,4;65,7;conforme;986;986;61;159;44;Non vérifié;non
+70189;Cromary;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;3320;37;96;246;Non vérifié;non
+70190;Cubry-lès-Faverney;70;eau potable;107099;2024;91,0;0,6;5,7;66,1;conforme;3044;931;14;39;186;Non vérifié;non
+70192;Cugney;70;eau potable;113141;2024;85,5;2,0;11,2;67,2;conforme;391718;1832;24;75;208;Non vérifié;non
+70193;Cult;70;eau potable;113141;2024;85,5;2,0;11,2;67,2;conforme;391718;2017;24;75;229;Non vérifié;non
+70194;Cuve;70;eau potable;107094;2024;52,8;5,1;5,6;66,1;non conforme;25596;6193;133;391;128;Non vérifié;non
+70195;Dambenoît-lès-Colombe;70;eau potable;107046;2024;88,7;0,8;6,3;66,3;conforme;21082;1932;19;46;272;Non vérifié;non
+70196;Dampierre-lès-Conflans;70;eau potable;107088;2024;90,8;0,5;4,6;65,9;conforme;35952;2418;25;40;264;Non vérifié;non
+70197;Dampierre-sur-Linotte;70;eau potable;106724;2024;85,6;1,1;6,6;66,3;conforme;9046;9046;33;62;753;Non vérifié;non
+70198;Dampierre-sur-Salon;70;eau potable;106727;2024;72,1;4,4;11,4;67,3;conforme;38994;38994;87;171;1234;Non vérifié;non
+70199;Dampvalley-lès-Colombe;70;eau potable;107105;2024;79,7;2,3;9,1;66,8;conforme;34000;3554;83;190;118;Non vérifié;non
+70200;Dampvalley-Saint-Pancras;70;eau potable;106729;2024;88,3;0,5;3,8;65,8;conforme;511;511;32;48;44;Non vérifié;non
+70201;Delain;70;eau potable;107058;2024;80,8;1,0;4,1;65,8;conforme;3442;1934;28;88;186;Non vérifié;non
+70202;Demangevelle;70;eau potable;107078;2024;50,0;7,1;7,1;66,4;non conforme;59604;14729;158;366;256;Non vérifié;non
+70203;La Demie;70;eau potable;106732;2023;82,0;1,7;7,9;66,6;conforme;2271;2271;39;78;161;Sans anomalie apparente;non
+70204;Denèvre;70;eau potable;107058;2024;80,8;1,0;4,1;65,8;conforme;3442;1508;28;88;145;Non vérifié;non
+70205;Échavanne;70;eau potable;107052;2024;78,4;2,3;8,4;66,7;conforme;264442;1888;26;132;199;Non vérifié;non
+70206;Échenans-sous-Mont-Vaudois;70;eau potable;107052;2024;78,4;2,3;8,4;66,7;conforme;264442;5380;26;132;567;Non vérifié;non
+70207;Échenoz-la-Méline;70;eau potable : communes alimentées au syndicat du Breuchin;286214;2024;77,3;2,7;9,0;66,8;conforme;55020;8178;7;109;3158;Non vérifié;non
+70208;Échenoz-le-Sec;70;eau potable;107064;2024;82,8;1,4;6,7;66,3;conforme;4650;3529;35;76;277;Non vérifié;non
+70210;Écromagny;70;eau potable;106987;2024;85,7;1,1;6,8;66,4;conforme;10038;521;10;126;149;Non vérifié;non
+70211;Écuelle;70;eau potable : Territoire de Maison Rouge;107082;2024;72,6;2,0;5,4;66,1;conforme;62955;1984;75;173;72;Non vérifié;non
+70213;Éhuns;70;eau potable;107050;2024;78,4;2,1;7,7;66,5;conforme;76650;4501;55;100;223;Non vérifié;non
+70214;Équevilley;70;eau potable;107050;2024;78,4;2,1;7,7;66,5;conforme;76650;2442;55;100;121;Non vérifié;non
+70215;Errevet;70;eau potable;107052;2024;78,4;2,3;8,4;66,7;conforme;264442;2571;26;132;271;Non vérifié;non
+70216;Esboz-Brest;70;eau potable;106743;2024;83,4;1,0;5,1;66,0;conforme;5621;5621;34;72;447;Non vérifié;non
+70217;Esmoulières;70;eau potable;188059;2024;65,0;1,3;2,5;65,5;non conforme;403;403;12;191;95;Non vérifié;non
+70218;Esmoulins;70;eau potable : Territoire de Gray, La Goutte d'Or;107062;2024;77,0;2,8;9,3;66,9;conforme;217686;2040;44;111;127;Non vérifié;non
+70219;Esprels;70;eau potable : principal;107107;2024;72,1;3,5;9,1;66,8;conforme;121759;23747;93;168;699;Non vérifié;non
+70220;Essertenne-et-Cecey;70;eau potable : Territoire de Gray, La Goutte d'Or;107062;2024;77,0;2,8;9,3;66,9;conforme;217686;6859;44;111;427;Non vérifié;non
+70221;Étobon;70;eau potable;106745;2024;93,5;0,4;6,0;66,2;conforme;994;994;10;24;273;Non vérifié;non
+70222;Étrelles-et-la-Montbleuse;70;eau potable : DSP Gaz et Eau;290934;2024;81,5;2,2;9,7;66,9;conforme;124465;2289;60;95;105;Non vérifié;non
+70224;Étuz;70;eau potable : DSP Ex-Syndicat source du Breuil;266994;2024;72,3;3,8;9,8;67,0;conforme;34301;14680;56;184;713;Non vérifié;non
+70225;Fahy-lès-Autrey;70;eau potable : Territoire de Maison Rouge;107082;2024;72,6;2,0;5,4;66,1;conforme;62955;2672;75;173;97;Non vérifié;non
+70226;Fallon;70;eau potable;214759;2024;74,3;2,2;6,3;66,3;conforme;24492;8421;75;128;306;Non vérifié;non
+70227;Faucogney-et-la-Mer;70;eau potable;106987;2024;85,7;1,1;6,8;66,4;conforme;10038;1586;10;126;454;Non vérifié;non
+70228;Faverney;70;eau potable;107045;2024;89,2;1,7;13,8;67,8;conforme;22214;8172;23;45;980;Non vérifié;non
+70229;Faymont;70;eau potable : DSP Véolia AEP;322134;2024;70,0;2,6;6,2;66,2;conforme;187086;4221;46;176;253;Non vérifié;non
+70230;Fédry;70;eau potable;106756;2024;96,0;0,4;8,6;66,7;conforme;496;496;15;17;92;Non vérifié;non
+70231;Ferrières-lès-Ray;70;eau potable;106935;2024;99,5;0,1;13,2;67,6;conforme;164;27;2;5;41;Non vérifié;non
+70232;Ferrières-lès-Scey;70;eau potable;188061;2024;100,0;0,0;34,8;72,0;conforme;0;0;0;0;132;Non vérifié;non
+70233;Les Fessey;70;eau potable;107070;2024;84,0;0,5;2,7;65,5;conforme;5475;2584;56;67;126;Non vérifié;non
+70234;Filain;70;eau potable;107067;2024;71,8;2,1;5,4;66,1;conforme;8661;5221;66;141;217;Non vérifié;non
+70235;Flagy;70;eau potable;188062;2024;69,9;2,6;6,1;66,2;conforme;3834;3834;77;156;136;Non vérifié;non
+70236;Fleurey-lès-Faverney;70;eau potable;106760;2024;68,7;5,0;10,9;67,2;conforme;11862;11862;72;167;452;Non vérifié;non
+70237;Fleurey-lès-Lavoncourt;70;eau potable;107074;2024;79,3;0,9;3,3;65,7;conforme;4431;1048;26;100;110;Non vérifié;non
+70238;Fleurey-lès-Saint-Loup;70;eau potable;188063;2024;68,1;2,4;5,1;66,0;conforme;2365;2365;51;171;127;Non vérifié;non
+70239;Fondremand;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;2767;37;96;205;Non vérifié;non
+70240;Fontaine-lès-Luxeuil;70;eau potable;106764;2024;66,2;3,8;7,6;66,5;non conforme;25202;25202;52;184;1327;Non vérifié;non
+70242;Fontenois-la-Ville;70;eau potable;107088;2024;90,8;0,5;4,6;65,9;conforme;35952;1300;25;40;142;Non vérifié;non
+70243;Fontenois-lès-Montbozon;70;eau potable;106767;2024;74,8;2,2;6,6;66,3;conforme;6239;6239;56;122;305;Non vérifié;non
+70244;Fouchécourt;70;eau potable;107045;2024;89,2;1,7;13,8;67,8;conforme;22214;1001;23;45;120;Non vérifié;non
+70245;Fougerolles-Saint-Valbert;70;eau potable : Fougerolles-Saint-Valbert;106768;2024;77,7;1,2;4,1;65,8;conforme;56677;56677;41;118;3764;Non vérifié;non
+70247;Fouvent-Saint-Andoche;70;eau potable;107100;2024;52,7;2,9;3,3;65,7;non conforme;35248;16149;225;325;197;Non vérifié;non
+70248;Frahier-et-Chatebier;70;eau potable;107052;2024;78,4;2,3;8,4;66,7;conforme;264442;13075;26;132;1378;Non vérifié;non
+70249;Francalmont;70;eau potable;107080;2024;66,3;2,8;5,5;66,1;conforme;10731;3472;79;184;121;Non vérifié;non
+70250;Franchevelle;70;eau potable;107046;2024;88,7;0,8;6,3;66,3;conforme;21082;3488;19;46;491;Non vérifié;non
+70251;Francourt;70;eau potable;188065;2024;83,5;1,0;4,8;66,0;conforme;2066;2066;57;76;100;Non vérifié;non
+70252;Framont;70;eau potable;217858;2024;89,8;0,4;3,3;65,7;conforme;1650;1650;26;44;176;Non vérifié;non
+70253;Frasne-le-Château;70;eau potable : DSP Gaz et Eau;290934;2024;81,5;2,2;9,7;66,9;conforme;124465;6410;60;95;294;Non vérifié;non
+70254;Frédéric-Fontaine;70;eau potable;107052;2024;78,4;2,3;8,4;66,7;conforme;264442;2638;26;132;278;Non vérifié;non
+70255;Fresne-Saint-Mamès;70;eau potable;107065;2024;95,5;0,5;10,8;67,2;conforme;3102;1507;8;17;491;Non vérifié;non
+70256;Fresse;70;eau potable;106774;2024;81,8;1,0;4,4;65,9;conforme;8286;6367;25;83;687;Non vérifié;non
+70257;Fretigney-et-Velloreille;70;eau potable : DSP Gaz et Eau;290934;2024;81,5;2,2;9,7;66,9;conforme;124465;16656;60;95;764;Non vérifié;non
+70258;Froideconche;70;eau potable;106777;2024;50,0;13,5;13,5;67,7;non conforme;78347;78347;110;364;1960;Non vérifié;non
+70259;Froideterre;70;eau potable : DSP Véolia AEP;322134;2024;70,0;2,6;6,2;66,2;conforme;187086;5990;46;176;359;Non vérifié;non
+70260;Frotey-lès-Lure;70;eau potable : DSP Véolia AEP;322134;2024;70,0;2,6;6,2;66,2;conforme;187086;11496;46;176;689;Non vérifié;non
+70261;Frotey-lès-Vesoul;70;eau potable : Champdamoy et Chariez;286954;2024;82,3;5,0;23,1;69,6;conforme;302439;16959;34;84;1354;Non vérifié;non
+70262;Genevreuille;70;eau potable : DSP Véolia AEP;322134;2024;70,0;2,6;6,2;66,2;conforme;187086;2469;46;176;148;Non vérifié;non
+70263;Genevrey;70;eau potable;106782;2024;66,2;4,8;9,3;66,9;non conforme;10512;10512;117;188;247;Non vérifié;non
+70264;Georfans;70;eau potable : principal;107107;2024;72,1;3,5;9,1;66,8;conforme;121759;1461;93;168;43;Non vérifié;non
+70265;Germigney;70;eau potable : Territoire de Gray, La Goutte d'Or;107062;2024;77,0;2,8;9,3;66,9;conforme;217686;2329;44;111;145;Non vérifié;non
+70267;Gevigney-et-Mercey;70;eau potable;107072;2024;84,8;1,0;5,4;66,1;conforme;9749;6356;33;68;532;Non vérifié;non
+70268;Gézier-et-Fontenelay;70;eau potable;113141;2024;85,5;2,0;11,2;67,2;conforme;391718;1929;24;75;219;Non vérifié;non
+70269;Girefontaine;70;eau potable;107088;2024;90,8;0,5;4,6;65,9;conforme;35952;275;25;40;30;Non vérifié;non
+70271;Gouhenans;70;eau potable;107073;2024;76,4;1,9;5,4;66,1;conforme;85994;24365;187;129;357;Non vérifié;non
+70272;Gourgeon;70;eau potable;106785;2024;98,7;0,4;29,7;70,9;conforme;447;447;7;12;188;Non vérifié;non
+70273;Grammont;70;eau potable;112549;2024;75,9;2,2;6,8;66,4;conforme;26587;1429;58;117;67;Non vérifié;non
+70274;Grandecourt;70;eau potable;106787;2024;19,6;29,1;7,1;66,4;non conforme;16463;16463;960;1497;47;Non vérifié;non
+70275;Grandvelle-et-le-Perrenot;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;5169;37;96;383;Non vérifié;non
+70276;Granges-la-Ville;70;eau potable;106792;2023;71,1;1,9;4,6;65,9;conforme;2510;2510;38;152;181;Sans anomalie apparente;non
+70277;Granges-le-Bourg;70;eau potable;106793;2024;92,0;0,3;3,2;65,6;conforme;1369;1369;10;35;379;Non vérifié;non
+70278;Grattery;70;eau potable;188067;2024;85,9;0,7;4,1;65,8;conforme;1354;1354;17;62;217;Non vérifié;non
+70279;Gray;70;eau potable : Territoire de Gray, La Goutte d'Or;107062;2024;77,0;2,8;9,3;66,9;conforme;217686;86184;44;111;5365;Non vérifié;non
+70280;Gray-la-Ville;70;eau potable : Territoire de Gray, La Goutte d'Or;107062;2024;77,0;2,8;9,3;66,9;conforme;217686;14908;44;111;928;Non vérifié;non
+70282;Gy;70;eau potable : DSP Gaz et Eau;290934;2024;81,5;2,2;9,7;66,9;conforme;124465;22870;60;95;1049;Non vérifié;non
+70283;Haut-du-Them-Château-Lambert;70;eau potable;107079;2024;74,1;1,3;3,6;65,7;conforme;20527;7630;47;133;449;Non vérifié;non
+70284;Hautevelle;70;eau potable;107080;2024;66,3;2,8;5,5;66,1;conforme;10731;7259;79;184;253;Non vérifié;non
+70285;Héricourt;70;eau potable;107104;2024;88,0;0,8;5,7;66,1;conforme;8941;8125;2;51;10621;Non vérifié;non
+70286;Hugier;70;eau potable;113141;2024;85,5;2,0;11,2;67,2;conforme;391718;1013;24;75;115;Non vérifié;non
+70287;Hurecourt;70;eau potable;107088;2024;90,8;0,5;4,6;65,9;conforme;35952;440;25;40;48;Non vérifié;non
+70288;Hyet;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;1593;37;96;118;Non vérifié;non
+70289;Igny;70;eau potable;107090;2024;76,0;2,2;15,7;68,1;conforme;7227;5051;69;51;202;Non vérifié;non
+70290;Jasney;70;eau potable;107088;2024;90,8;0,5;4,6;65,9;conforme;35952;1740;25;40;190;Non vérifié;non
+70291;Jonvelle;70;eau potable;188068;2024;34,5;12,9;6,8;66,4;non conforme;14126;14126;387;693;100;Non vérifié;non
+70292;Jussey;70;eau potable;106803;2024;92,5;0,7;9,1;66,8;conforme;7576;7576;13;31;1558;Non vérifié;non
+70293;Lambrey;70;eau potable;107072;2024;84,8;1,0;5,4;66,1;conforme;9749;812;33;68;68;Non vérifié;non
+70294;Lantenot;70;eau potable;107046;2024;88,7;0,8;6,3;66,3;conforme;21082;2621;19;46;369;Non vérifié;non
+70295;La Lanterne-et-les-Armonts;70;eau potable;106805;2024;97,5;0,1;2,3;65,5;conforme;730;730;11;16;185;Non vérifié;non
+70296;Larians-et-Munans;70;eau potable;227075;2024;74,2;3,1;9,0;66,8;conforme;136561;6996;66;130;291;Non vérifié;non
+70297;Larret;70;eau potable;188069;2024;99,7;0,0;5,1;66,0;conforme;0;0;0;0;63;Non vérifié;non
+70298;Lavigney;70;eau potable;188070;2024;96,1;0,5;12,0;67,4;conforme;422;422;9;15;129;Non vérifié;non
+70299;Lavoncourt;70;eau potable;107098;2024;66,7;2,2;4,3;65,9;conforme;18469;8586;71;185;331;Non vérifié;non
+70301;Lieffrans;70;eau potable : DSP Gaz et Eau;290934;2024;81,5;2,2;9,7;66,9;conforme;124465;1090;60;95;50;Non vérifié;non
+70302;Lieucourt;70;eau potable : Territoire de PESMES;234294;2024;94,4;0,4;7,4;66,5;conforme;8792;198;8;23;71;Non vérifié;non
+70303;Liévans;70;eau potable;107089;2024;84,5;1,0;5,3;66,1;conforme;18075;1855;33;68;152;Non vérifié;non
+70304;Linexert;70;eau potable;107046;2024;88,7;0,8;6,3;66,3;conforme;21082;817;19;46;115;Non vérifié;non
+70305;Loeuilley;70;eau potable : ex syndicat basse vingeanne;139581;2024;94,4;0,3;4,9;66,0;conforme;2508;428;13;22;93;Non vérifié;non
+70306;Lomont;70;eau potable : DSP Véolia AEP;322134;2024;70,0;2,6;6,2;66,2;conforme;187086;8042;46;176;482;Non vérifié;non
+70307;Longevelle;70;eau potable : principal;107107;2024;72,1;3,5;9,1;66,8;conforme;121759;3941;93;168;116;Non vérifié;non
+70308;La Longine;70;eau potable;106813;2024;100,0;0,0;32,2;71,4;conforme;0;0;0;0;192;Non vérifié;non
+70309;Loulans-Verchamp;70;eau potable;106815;2023;73,8;3,7;10,3;67,1;conforme;18502;18502;110;132;460;Anomalie;oui
+70310;Lure;70;eau potable : DSP Véolia Lure;266954;2024;73,0;10,3;27,7;70,5;conforme;239706;239706;83;163;7877;Non vérifié;non
+70311;Luxeuil-les-Bains;70;eau potable;106819;2024;84,7;2,8;15,3;68,1;conforme;70845;70845;29;67;6663;Non vérifié;non
+70312;Luze;70;eau potable;107052;2024;78,4;2,3;8,4;66,7;conforme;264442;7932;26;132;836;Non vérifié;non
+70313;Lyoffans;70;eau potable : DSP Véolia AEP;322134;2024;70,0;2,6;6,2;66,2;conforme;187086;7541;46;176;452;Non vérifié;non
+70314;Magnivray;70;eau potable;107047;2024;92,9;0,2;3,0;65,6;conforme;1898;574;10;24;162;Non vérifié;non
+70315;Magnoncourt;70;eau potable;106824;2024;93,4;1,7;24,7;69,9;conforme;4852;4852;34;102;390;Non vérifié;non
+70316;Le Magnoray;70;eau potable;107064;2024;82,8;1,4;6,7;66,3;conforme;4650;1121;35;76;88;Non vérifié;non
+70317;Les Magny;70;eau potable;214759;2024;74,3;2,2;6,3;66,3;conforme;24492;3908;75;128;142;Non vérifié;non
+70318;Magny-Danigon;70;eau potable : DSP Véolia AEP;322134;2024;70,0;2,6;6,2;66,2;conforme;187086;7508;46;176;450;Non vérifié;non
+70319;Magny-Jobert;70;eau potable : DSP Véolia AEP;322134;2024;70,0;2,6;6,2;66,2;conforme;187086;2286;46;176;137;Non vérifié;non
+70320;Magny-lès-Jussey;70;eau potable;107093;2024;91,8;0,8;9,2;66,8;conforme;11265;979;29;55;94;Non vérifié;non
+70321;Magny-Vernois;70;eau potable : DSP Véolia AEP;322134;2024;70,0;2,6;6,2;66,2;conforme;187086;22891;46;176;1372;Non vérifié;non
+70322;Mailleroncourt-Charette;70;eau potable;106830;2024;77,7;1,9;6,5;66,3;conforme;5035;5035;50;107;277;Non vérifié;non
+70323;Mailleroncourt-Saint-Pancras;70;eau potable;107088;2024;90,8;0,5;4,6;65,9;conforme;35952;1593;25;40;174;Non vérifié;non
+70324;Mailley-et-Chazelot;70;eau potable;106833;2024;68,7;3,9;8,5;66,7;conforme;16513;16513;74;168;610;Non vérifié;non
+70325;Maizières;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;4278;37;96;317;Non vérifié;non
+70326;La Malachère;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;4008;37;96;297;Non vérifié;non
+70327;Malans;70;eau potable;113141;2024;85,5;2,0;11,2;67,2;conforme;391718;1189;24;75;135;Non vérifié;non
+70328;Malbouhans;70;eau potable : Régie;106839;2024;81,2;1,6;6,8;66,4;conforme;3165;3165;26;85;337;Non vérifié;non
+70329;Malvillers;70;eau potable;188072;2024;97,8;0,1;5,1;66,0;conforme;101;101;4;7;68;Non vérifié;non
+70330;Mandrevillars;70;eau potable;107052;2024;78,4;2,3;8,4;66,7;conforme;264442;3264;26;132;344;Non vérifié;non
+70331;Mantoche;70;eau potable : Territoire de Gray, La Goutte d'Or;107062;2024;77,0;2,8;9,3;66,9;conforme;217686;7357;44;111;458;Non vérifié;non
+70332;Marast;70;eau potable : principal;107107;2024;72,1;3,5;9,1;66,8;conforme;121759;1495;93;168;44;Non vérifié;non
+70334;Marnay;70;eau potable;113141;2024;85,5;2,0;11,2;67,2;conforme;391718;13460;24;75;1528;Non vérifié;non
+70335;Maussans;70;eau potable;188074;2024;92,2;2,0;23,3;69,7;conforme;883;883;43;31;56;Non vérifié;non
+70336;Mélecey;70;eau potable;214759;2024;74,3;2,2;6,3;66,3;conforme;24492;3770;75;128;137;Non vérifié;non
+70337;Melin;70;eau potable;106844;2024;94,1;0,3;4,8;66,0;conforme;449;449;24;23;52;Non vérifié;non
+70338;Melincourt;70;eau potable;107088;2024;90,8;0,5;4,6;65,9;conforme;35952;2051;25;40;224;Non vérifié;non
+70339;Mélisey;70;eau potable;106987;2024;85,7;1,1;6,8;66,4;conforme;10038;5677;10;126;1625;Non vérifié;non
+70340;Membrey;70;eau potable;107086;2024;81,7;1,9;8,4;66,7;conforme;17941;5293;70;157;208;Non vérifié;non
+70341;Menoux;70;eau potable;107099;2024;91,0;0,6;5,7;66,1;conforme;3044;1467;14;39;293;Non vérifié;non
+70342;Mercey-sur-Saône;70;eau potable;188075;2024;100,0;0,0;8,2;66,6;conforme;0;0;0;0;127;Non vérifié;non
+70343;Mersuay;70;eau potable;106852;2024;93,5;0,9;12,6;67,5;conforme;1560;1560;15;26;287;Non vérifié;non
+70344;Meurcourt;70;eau potable;107050;2024;78,4;2,1;7,7;66,5;conforme;76650;6963;55;100;345;Non vérifié;non
+70347;Mignavillers;70;eau potable;106855;2024;60,0;3,3;5,0;66,0;non conforme;7998;7998;60;244;365;Non vérifié;non
+70348;Moffans-et-Vacheresse;70;eau potable : DSP Véolia AEP;322134;2024;70,0;2,6;6,2;66,2;conforme;187086;10161;46;176;609;Non vérifié;non
+70349;Moimay;70;eau potable : principal;107107;2024;72,1;3,5;9,1;66,8;conforme;121759;8153;93;168;240;Non vérifié;non
+70350;Molay;70;eau potable;188076;2024;84,9;1,3;7,4;66,5;conforme;1803;1803;75;64;66;Non vérifié;non
+70351;Mollans;70;eau potable;106860;2024;97,1;0,2;8,0;66,6;conforme;491;491;6;9;244;Non vérifié;non
+70352;La Montagne;70;eau potable;223054;2023;100,0;0,0;2,3;65,5;conforme;0;0;0;0;37;Sans anomalie apparente;non
+70353;Montagney;70;eau potable;113141;2024;85,5;2,0;11,2;67,2;conforme;391718;4299;24;75;488;Non vérifié;non
+70355;Montarlot-lès-Rioz;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;4224;37;96;313;Non vérifié;non
+70356;Montboillon;70;eau potable : DSP Ex-Syndicat source du Breuil;266994;2024;72,3;3,8;9,8;67,0;conforme;34301;6341;56;184;308;Non vérifié;non
+70357;Montbozon;70;eau potable;107087;2024;90,6;1,3;13,0;67,6;conforme;7881;5890;29;53;553;Non vérifié;non
+70358;Montcey;70;eau potable : communes alimentées au syndicat du Breuchin;286214;2024;77,3;2,7;9,0;66,8;conforme;55020;684;7;109;264;Non vérifié;non
+70359;Montcourt;70;eau potable;107093;2024;91,8;0,8;9,2;66,8;conforme;11265;541;29;55;52;Non vérifié;non
+70360;Montdoré;70;eau potable;107088;2024;90,8;0,5;4,6;65,9;conforme;35952;632;25;40;69;Non vérifié;non
+70361;Montessaux;70;eau potable;188077;2024;85,7;0,9;5,3;66,1;conforme;1636;1636;25;62;178;Non vérifié;non
+70362;Montigny-lès-Cherlieu;70;eau potable;106869;2024;63,3;3,6;6,1;66,2;non conforme;4336;4336;101;214;118;Non vérifié;non
+70363;Montigny-lès-Vesoul;70;eau potable : ex syndicat des eaux de Pusey;277594;2024;70,8;4,0;9,8;67,0;conforme;70226;14442;63;149;633;Non vérifié;non
+70364;Montjustin-et-Velotte;70;eau potable;107089;2024;84,5;1,0;5,3;66,1;conforme;18075;1489;33;68;122;Non vérifié;non
+70366;Villers-Chemin-et-Mont-lès-Étrelles;70;eau potable : DSP Gaz et Eau;290934;2024;81,5;2,2;9,7;66,9;conforme;124465;2703;60;95;124;Non vérifié;non
+70367;Mont-le-Vernois;70;eau potable;107044;2024;91,0;0,8;7,9;66,6;conforme;8351;1281;19;37;185;Non vérifié;non
+70368;Montot;70;eau potable;106876;2024;70,8;2,7;6,6;66,3;conforme;2454;2454;48;149;139;Non vérifié;non
+70369;Mont-Saint-Léger;70;eau potable;107098;2024;66,7;2,2;4,3;65,9;conforme;18469;1271;71;185;49;Non vérifié;non
+70371;Montureux-et-Prantigny;70;eau potable;106878;2024;52,7;4,4;4,9;66,0;non conforme;10278;10278;149;330;189;Non vérifié;non
+70372;Montureux-lès-Baulay;70;eau potable;106880;2024;100,0;0,0;19,5;68,9;conforme;0;0;0;0;164;Non vérifié;non
+70373;La Roche-Morey;70;eau potable;107074;2024;79,3;0,9;3,3;65,7;conforme;4431;2830;26;100;297;Non vérifié;non
+70374;Motey-Besuche;70;eau potable;113141;2024;85,5;2,0;11,2;67,2;conforme;391718;837;24;75;95;Non vérifié;non
+70376;Nantilly;70;eau potable : Territoire de Maison Rouge;107082;2024;72,6;2,0;5,4;66,1;conforme;62955;12205;75;173;443;Non vérifié;non
+70378;Navenne;70;eau potable : Champdamoy et Chariez;286954;2024;82,3;5,0;23,1;69,6;conforme;302439;19777;34;84;1579;Non vérifié;non
+70380;Neurey-en-Vaux;70;eau potable;188078;2024;99,0;0,1;5,2;66,0;conforme;91;91;2;7;138;Non vérifié;non
+70381;Neurey-lès-la-Demie;70;eau potable;106887;2024;84,1;1,5;7,7;66,5;conforme;4528;4528;35;72;355;Non vérifié;non
+70383;Neuvelle-lès-Cromary;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;5979;37;96;443;Non vérifié;non
+70384;Neuvelle-lès-la-Charité;70;eau potable;106891;2024;35,3;14,4;7,9;66,6;non conforme;15242;15242;189;667;221;Non vérifié;non
+70385;La Neuvelle-lès-Lure;70;eau potable : DSP Véolia AEP;322134;2024;70,0;2,6;6,2;66,2;conforme;187086;5039;46;176;302;Non vérifié;non
+70386;La Neuvelle-lès-Scey;70;eau potable;107095;2024;73,0;1,8;4,8;66,0;conforme;24099;3519;56;136;171;Non vérifié;non
+70387;Noidans-le-Ferroux;70;eau potable;106894;2024;79,5;5,1;19,8;69,0;conforme;10480;10480;44;94;646;Non vérifié;non
+70388;Noidans-lès-Vesoul;70;eau potable : Champdamoy et Chariez;286954;2024;82,3;5,0;23,1;69,6;conforme;302439;24712;34;84;1973;Non vérifié;non
+70389;Noiron;70;eau potable : Territoire de Gray, La Goutte d'Or;107062;2024;77,0;2,8;9,3;66,9;conforme;217686;932;44;111;58;Non vérifié;non
+70390;Noroy-le-Bourg;70;eau potable;107089;2024;84,5;1,0;5,3;66,1;conforme;18075;6175;33;68;506;Non vérifié;non
+70392;Oigney;70;eau potable;188079;2024;72,3;1,7;4,4;65,9;conforme;875;875;50;141;48;Non vérifié;non
+70393;Oiselay-et-Grachaux;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;5898;37;96;437;Non vérifié;non
+70394;Onay;70;eau potable : Territoire de Gray, La Goutte d'Or;107062;2024;77,0;2,8;9,3;66,9;conforme;217686;980;44;111;61;Non vérifié;non
+70395;Oppenans;70;eau potable;106900;2024;94,6;0,4;7,5;66,5;conforme;291;291;12;20;65;Non vérifié;non
+70396;Oricourt;70;eau potable;107073;2024;76,4;1,9;5,4;66,1;conforme;85994;2116;187;129;31;Non vérifié;non
+70397;Ormenans;70;eau potable;188080;2024;100,0;0,0;1,4;65,3;conforme;0;0;0;0;84;Non vérifié;non
+70398;Ormoiche;70;eau potable;107050;2024;78,4;2,1;7,7;66,5;conforme;76650;1393;55;100;69;Non vérifié;non
+70399;Ormoy;70;eau potable;107093;2024;91,8;0,8;9,2;66,8;conforme;11265;2134;29;55;205;Non vérifié;non
+70400;Ouge;70;eau potable;106903;2024;94,0;0,5;7,2;66,4;conforme;595;595;15;25;106;Non vérifié;non
+70401;Ovanches;70;eau potable;188081;2024;60,1;4,4;6,7;66,3;non conforme;12511;12511;221;241;155;Non vérifié;non
+70402;Oyrières;70;eau potable : Territoire de Maison Rouge;107082;2024;72,6;2,0;5,4;66,1;conforme;62955;10056;75;173;365;Non vérifié;non
+70403;Palante;70;eau potable : DSP Véolia AEP;322134;2024;70,0;2,6;6,2;66,2;conforme;187086;4038;46;176;242;Non vérifié;non
+70404;Passavant-la-Rochère;70;eau potable;106907;2023;39,7;8,1;5,3;66,1;non conforme;57504;57504;301;554;524;Sans anomalie apparente;non
+70405;Pennesières;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;2591;37;96;192;Non vérifié;non
+70406;Percey-le-Grand;70;eau potable;188083;2024;99,9;0,0;5,4;66,1;conforme;0;0;0;0;84;Non vérifié;non
+70407;Perrouse;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;3738;37;96;277;Non vérifié;non
+70408;Pesmes;70;eau potable : Territoire de PESMES;234294;2024;94,4;0,4;7,4;66,5;conforme;8792;3025;8;23;1083;Non vérifié;non
+70409;Pierrecourt;70;eau potable;107100;2024;52,7;2,9;3,3;65,7;non conforme;35248;8443;225;325;103;Non vérifié;non
+70410;Pin;70;eau potable;113141;2024;85,5;2,0;11,2;67,2;conforme;391718;6448;24;75;732;Non vérifié;non
+70411;La Pisseure;70;eau potable;107088;2024;90,8;0,5;4,6;65,9;conforme;35952;339;25;40;37;Non vérifié;non
+70412;Plainemont;70;eau potable;107088;2024;90,8;0,5;4,6;65,9;conforme;35952;577;25;40;63;Non vérifié;non
+70413;Plancher-Bas;70;eau potable;107052;2024;78,4;2,3;8,4;66,7;conforme;264442;17515;26;132;1846;Non vérifié;non
+70414;Plancher-les-Mines;70;eau potable;107052;2024;78,4;2,3;8,4;66,7;conforme;264442;7961;26;132;839;Non vérifié;non
+70415;Polaincourt-et-Clairefontaine;70;eau potable;107088;2024;90,8;0,5;4,6;65,9;conforme;35952;5421;25;40;592;Non vérifié;non
+70416;Pomoy;70;eau potable;188084;2024;93,4;1,1;15,0;68,0;conforme;1325;1325;18;27;197;Non vérifié;non
+70417;Pontcey;70;eau potable;107071;2024;71,4;2,2;5,4;66,1;conforme;18332;5687;54;148;291;Non vérifié;non
+70418;La Romaine;70;eau potable;107065;2024;95,5;0,5;10,8;67,2;conforme;3102;1596;8;17;520;Non vérifié;non
+70419;Pont-du-Bois;70;eau potable;107088;2024;90,8;0,5;4,6;65,9;conforme;35952;1053;25;40;115;Non vérifié;non
+70420;Pont-sur-l'Ognon;70;eau potable : principal;107107;2024;72,1;3,5;9,1;66,8;conforme;121759;2106;93;168;62;Non vérifié;non
+70421;Port-sur-Saône;70;eau potable;106921;2024;76,6;4,0;13,2;67,6;conforme;49596;49596;46;110;2949;Non vérifié;non
+70422;Poyans;70;eau potable : Territoire de Maison Rouge;107082;2024;72,6;2,0;5,4;66,1;conforme;62955;3940;75;173;143;Non vérifié;non
+70423;Preigney;70;eau potable;106922;2024;72,4;3,2;8,3;66,7;conforme;2266;2266;55;141;113;Non vérifié;non
+70425;La Proiselière-et-Langle;70;eau potable;107070;2024;84,0;0,5;2,7;65,5;conforme;5475;2891;56;67;141;Non vérifié;non
+70426;Provenchère;70;eau potable;106924;2024;100,0;0,0;6,2;66,2;conforme;0;0;0;0;235;Non vérifié;non
+70427;Purgerot;70;eau potable;107045;2024;89,2;1,7;13,8;67,8;conforme;22214;2727;23;45;327;Non vérifié;non
+70428;Pusey;70;eau potable : ex syndicat des eaux de Pusey;277594;2024;70,8;4,0;9,8;67,0;conforme;70226;32672;63;149;1432;Non vérifié;non
+70429;Pusy-et-Épenoux;70;eau potable : ex syndicat des eaux de Pusey;277594;2024;70,8;4,0;9,8;67,0;conforme;70226;12320;63;149;540;Non vérifié;non
+70430;La Quarte;70;eau potable;188085;2024;95,4;0,4;9,0;66,8;conforme;759;759;34;17;61;Non vérifié;non
+70431;Quenoche;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;3118;37;96;231;Non vérifié;non
+70432;Quers;70;eau potable;107046;2024;88,7;0,8;6,3;66,3;conforme;21082;2415;19;46;340;Non vérifié;non
+70433;Quincey;70;eau potable : Champdamoy et Chariez;286954;2024;82,3;5,0;23,1;69,6;conforme;302439;16758;34;84;1338;Non vérifié;non
+70435;Raddon-et-Chapendu;70;eau potable;106933;2024;95,8;0,2;5,6;66,1;conforme;1637;1637;5;13;849;Non vérifié;non
+70436;Raincourt;70;eau potable;107057;2024;79,9;0,9;3,6;65,7;conforme;4041;1292;32;90;110;Non vérifié;non
+70437;Ranzevelle;70;eau potable;107078;2024;50,0;7,1;7,1;66,4;non conforme;59604;921;158;366;16;Non vérifié;non
+70438;Ray-sur-Saône;70;eau potable;106935;2024;99,5;0,1;13,2;67,6;conforme;164;137;2;5;209;Non vérifié;non
+70439;Raze;70;eau potable;107044;2024;91,0;0,8;7,9;66,6;conforme;8351;2638;19;37;381;Non vérifié;non
+70440;Recologne;70;eau potable;107098;2024;66,7;2,2;4,3;65,9;conforme;18469;778;71;185;30;Non vérifié;non
+70441;Recologne-lès-Rioz;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;3887;37;96;288;Non vérifié;non
+70442;Renaucourt;70;eau potable;107098;2024;66,7;2,2;4,3;65,9;conforme;18469;3009;71;185;116;Non vérifié;non
+70443;La Grande-Résie;70;eau potable : Territoire de PESMES;234294;2024;94,4;0,4;7,4;66,5;conforme;8792;243;8;23;87;Non vérifié;non
+70444;La Résie-Saint-Martin;70;eau potable : Territoire de PESMES;234294;2024;94,4;0,4;7,4;66,5;conforme;8792;461;8;23;165;Non vérifié;non
+70445;Rignovelle;70;eau potable;107047;2024;92,9;0,2;3,0;65,6;conforme;1898;432;10;24;122;Non vérifié;non
+70446;Rigny;70;eau potable : Territoire de Gray, La Goutte d'Or;107062;2024;77,0;2,8;9,3;66,9;conforme;217686;10217;44;111;636;Non vérifié;non
+70447;Rioz;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;32364;37;96;2398;Non vérifié;non
+70448;Roche-et-Raucourt;70;eau potable;107086;2024;81,7;1,9;8,4;66,7;conforme;17941;3894;70;157;153;Non vérifié;non
+70449;Roche-sur-Linotte-et-Sorans-les-Cordiers;70;eau potable;188088;2024;100,0;0,0;5,0;66,0;conforme;0;0;0;0;71;Non vérifié;non
+70450;La Rochelle;70;eau potable;188089;2024;99,8;0,0;3,4;65,7;conforme;0;0;0;0;40;Non vérifié;non
+70451;Ronchamp;70;eau potable;107052;2024;78,4;2,3;8,4;66,7;conforme;264442;25969;26;132;2737;Non vérifié;non
+70452;Rosey;70;eau potable;107044;2024;91,0;0,8;7,9;66,6;conforme;8351;1724;19;37;249;Non vérifié;non
+70454;Rosières-sur-Mance;70;eau potable;106944;2024;48,1;3,1;2,8;65,6;non conforme;3010;3010;156;399;53;Non vérifié;non
+70455;Roye;70;eau potable : DSP Véolia AEP;322134;2024;70,0;2,6;6,2;66,2;conforme;187086;24760;46;176;1484;Non vérifié;non
+70456;Ruhans;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;2011;37;96;149;Non vérifié;non
+70457;Rupt-sur-Saône;70;eau potable;188091;2024;77,8;2,4;8,6;66,7;conforme;1533;1533;40;102;106;Non vérifié;non
+70459;Saint-Barthélemy;70;eau potable;106945;2024;70,0;3,7;8,7;66,7;conforme;17556;17556;44;156;1085;Non vérifié;non
+70460;Saint-Bresson;70;eau potable;106948;2024;83,6;0,6;2,8;65,6;conforme;10293;10293;68;80;417;Non vérifié;non
+70461;Saint-Broing;70;eau potable : Territoire de Gray, La Goutte d'Or;107062;2024;77,0;2,8;9,3;66,9;conforme;217686;1687;44;111;105;Non vérifié;non
+70462;Saint-Ferjeux;70;eau potable : principal;107107;2024;72,1;3,5;9,1;66,8;conforme;121759;2650;93;168;78;Non vérifié;non
+70463;Saint-Gand;70;eau potable : DSP Gaz et Eau;290934;2024;81,5;2,2;9,7;66,9;conforme;124465;3009;60;95;138;Non vérifié;non
+70464;Saint-Germain;70;eau potable : DSP Véolia AEP;322134;2024;70,0;2,6;6,2;66,2;conforme;187086;22975;46;176;1377;Non vérifié;non
+70466;Saint-Loup-Nantouard;70;eau potable : Territoire de Gray, La Goutte d'Or;107062;2024;77,0;2,8;9,3;66,9;conforme;217686;1912;44;111;119;Non vérifié;non
+70467;Saint-Loup-sur-Semouse;70;eau potable;106951;2024;70,4;4,1;9,6;66,9;conforme;53829;53829;52;155;2814;Non vérifié;non
+70468;Saint-Marcel;70;eau potable;188092;2024;78,1;6,2;22,0;69,4;conforme;3621;3621;110;103;90;Non vérifié;non
+70469;Sainte-Marie-en-Chanois;70;eau potable;106953;2024;73,7;2,2;6,2;66,2;conforme;5613;5613;74;129;208;Non vérifié;non
+70470;Sainte-Marie-en-Chaux;70;eau potable;107050;2024;78,4;2,1;7,7;66,5;conforme;76650;3269;55;100;162;Non vérifié;non
+70471;Sainte-Reine;70;eau potable : Territoire de Gray, La Goutte d'Or;107062;2024;77,0;2,8;9,3;66,9;conforme;217686;369;44;111;23;Non vérifié;non
+70472;Saint-Rémy-en-Comté;70;eau potable;107088;2024;90,8;0,5;4,6;65,9;conforme;35952;3993;25;40;436;Non vérifié;non
+70473;Saint-Sauveur;70;eau potable;106958;2024;73,7;3,9;10,8;67,2;conforme;24014;24014;34;131;1920;Non vérifié;non
+70474;Saint-Sulpice;70;eau potable : principal;107107;2024;72,1;3,5;9,1;66,8;conforme;121759;4043;93;168;119;Non vérifié;non
+70476;Saponcourt;70;eau potable;107088;2024;90,8;0,5;4,6;65,9;conforme;35952;714;25;40;78;Non vérifié;non
+70477;Saulnot;70;eau potable;106964;2024;83,9;2,4;12,4;67,5;conforme;13648;13648;49;151;758;Non vérifié;non
+70478;Saulx;70;eau potable;107075;2024;57,9;4,1;5,6;66,1;non conforme;30005;25362;80;265;874;Non vérifié;non
+70479;Sauvigney-lès-Gray;70;eau potable : Territoire de Gray, La Goutte d'Or;107062;2024;77,0;2,8;9,3;66,9;conforme;217686;1606;44;111;100;Non vérifié;non
+70480;Sauvigney-lès-Pesmes;70;eau potable : Territoire de PESMES;234294;2024;94,4;0,4;7,4;66,5;conforme;8792;444;8;23;159;Non vérifié;non
+70481;Savoyeux;70;eau potable;106966;2024;76,5;1,8;5,9;66,2;conforme;3140;3140;43;111;200;Non vérifié;non
+70482;Scey-sur-Saône-et-Saint-Albin;70;eau potable;106968;2024;75,4;3,4;10,5;67,1;conforme;26917;26917;48;118;1525;Non vérifié;non
+70483;Scye;70;eau potable;188094;2024;75,7;0,8;2,6;65,5;conforme;2257;2257;47;110;131;Non vérifié;non
+70484;Secenans;70;eau potable;107096;2024;59,9;2,4;3,6;65,7;non conforme;15093;3300;49;247;183;Non vérifié;non
+70485;Selles;70;eau potable;107088;2024;90,8;0,5;4,6;65,9;conforme;35952;2051;25;40;224;Non vérifié;non
+70486;Semmadon;70;eau potable;188095;2024;97,8;0,1;4,1;65,8;conforme;138;138;4;9;107;Non vérifié;non
+70487;Senargent-Mignafans;70;eau potable;107096;2024;59,9;2,4;3,6;65,7;non conforme;15093;5175;49;247;287;Non vérifié;non
+70488;Senoncourt;70;eau potable;106974;2024;100,0;0,0;34,6;71,9;conforme;0;0;0;0;181;Non vérifié;non
+70489;Servance-Miellin;70;eau potable;107079;2024;74,1;1,3;3,6;65,7;conforme;20527;12897;47;133;759;Non vérifié;non
+70490;Servigney;70;eau potable;106977;2024;89,5;0,6;5,0;66,0;conforme;745;745;17;43;122;Non vérifié;non
+70491;Seveux-Motey;70;eau potable (Seveux);106979;2024;75,9;2,3;7,3;66,5;conforme;9973;9973;58;115;471;Non vérifié;non
+70492;Soing-Cubry-Charentenay;70;eau potable;106980;2024;93,2;0,7;9,4;66,9;conforme;5230;5230;26;27;555;Non vérifié;non
+70493;Sorans-lès-Breurey;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;5655;37;96;419;Non vérifié;non
+70494;Sornay;70;eau potable;113141;2024;85,5;2,0;11,2;67,2;conforme;391718;3145;24;75;357;Non vérifié;non
+70496;Tartécourt;70;eau potable;188102;2024;73,7;2,9;8,2;66,6;conforme;5822;1087;96;130;31;Non vérifié;non
+70498;Ternuay-Melay-et-Saint-Hilaire;70;eau potable;106987;2024;85,7;1,1;6,8;66,4;conforme;10038;1530;10;126;438;Non vérifié;non
+70499;Theuley;70;eau potable;107098;2024;66,7;2,2;4,3;65,9;conforme;18469;2724;71;185;105;Non vérifié;non
+70500;Thieffrans;70;eau potable;107077;2024;81,7;1,5;6,6;66,3;conforme;9543;4046;65;90;170;Non vérifié;non
+70501;Thiénans;70;eau potable;107087;2024;90,6;1,3;13,0;67,6;conforme;7881;1193;29;53;112;Non vérifié;non
+70502;Tincey-et-Pontrebeau;70;eau potable;107098;2024;66,7;2,2;4,3;65,9;conforme;18469;2101;71;185;81;Non vérifié;non
+70503;Traitiéfontaine;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;2159;37;96;160;Non vérifié;non
+70504;Traves;70;eau potable;106990;2024;80,2;1,6;6,6;66,3;conforme;4421;4421;35;89;345;Non vérifié;non
+70505;Le Tremblois;70;eau potable : Territoire de Gray, La Goutte d'Or;107062;2024;77,0;2,8;9,3;66,9;conforme;217686;2554;44;111;159;Non vérifié;non
+70506;Trémoins;70;eau potable;107104;2024;88,0;0,8;5,7;66,1;conforme;8941;295;2;51;385;Non vérifié;non
+70507;Trésilley;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;3873;37;96;287;Non vérifié;non
+70509;Tromarey;70;eau potable;113141;2024;85,5;2,0;11,2;67,2;conforme;391718;1039;24;75;118;Non vérifié;non
+70510;Vadans;70;eau potable : Territoire de PESMES;234294;2024;94,4;0,4;7,4;66,5;conforme;8792;385;8;23;138;Non vérifié;non
+70511;Vaite;70;eau potable;107086;2024;81,7;1,9;8,4;66,7;conforme;17941;5700;70;157;224;Non vérifié;non
+70512;La Vaivre;70;eau potable;106994;2024;78,8;1,2;4,6;65,9;conforme;2514;2514;32;96;216;Non vérifié;non
+70513;Vaivre-et-Montoille;70;eau potable : Champdamoy et Chariez;286954;2024;82,3;5,0;23,1;69,6;conforme;302439;30335;34;84;2422;Non vérifié;non
+70514;Valay;70;eau potable : Territoire de PESMES;234294;2024;94,4;0,4;7,4;66,5;conforme;8792;1782;8;23;638;Non vérifié;non
+70515;Le Val-de-Gouhenans;70;eau potable : DSP Véolia AEP;322134;2024;70,0;2,6;6,2;66,2;conforme;187086;1051;46;176;63;Non vérifié;non
+70516;Vallerois-le-Bois;70;eau potable : principal;107107;2024;72,1;3,5;9,1;66,8;conforme;121759;7678;93;168;226;Non vérifié;non
+70517;Vallerois-Lorioz;70;eau potable;107103;2024;89,9;1,3;11,3;67,3;conforme;6477;2954;18;42;452;Non vérifié;non
+70518;Le Val-Saint-Éloi;70;eau potable;107001;2024;85,3;1,6;9,2;66,8;conforme;631;631;18;63;94;Non vérifié;non
+70519;Vandelans;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;1525;37;96;113;Non vérifié;non
+70520;Vanne;70;eau potable;107003;2024;78,9;4,3;16,0;68,2;conforme;3108;3108;69;98;123;Non vérifié;non
+70521;Vantoux-et-Longevelle;70;eau potable : DSP Gaz et Eau;290934;2024;81,5;2,2;9,7;66,9;conforme;124465;3837;60;95;176;Non vérifié;non
+70522;Varogne;70;eau potable;188100;2024;97,7;0,2;9,6;66,9;conforme;152;152;3;8;155;Non vérifié;non
+70523;Vars;70;eau potable : Territoire de Maison Rouge;107082;2024;72,6;2,0;5,4;66,1;conforme;62955;4849;75;173;176;Non vérifié;non
+70524;Vauchoux;70;eau potable;107071;2024;71,4;2,2;5,4;66,1;conforme;18332;2482;54;148;127;Non vérifié;non
+70525;Vauconcourt-Nervezain;70;eau potable;107007;2024;86,3;2,1;13,0;67,6;conforme;5595;5595;71;143;217;Non vérifié;non
+70526;Vauvillers;70;eau potable;107088;2024;90,8;0,5;4,6;65,9;conforme;35952;5513;25;40;602;Non vérifié;non
+70527;Vaux-le-Moncelot;70;eau potable : DSP Gaz et Eau;290934;2024;81,5;2,2;9,7;66,9;conforme;124465;1701;60;95;78;Non vérifié;non
+70528;Velesmes-Échevanne;70;eau potable : Territoire de Gray, La Goutte d'Or;107062;2024;77,0;2,8;9,3;66,9;conforme;217686;7888;44;111;491;Non vérifié;non
+70529;Velet;70;eau potable : Territoire de Gray, La Goutte d'Or;107062;2024;77,0;2,8;9,3;66,9;conforme;217686;5928;44;111;369;Non vérifié;non
+70530;Vellechevreux-et-Courbenans;70;eau potable;107096;2024;59,9;2,4;3,6;65,7;non conforme;15093;2146;49;247;119;Non vérifié;non
+70531;Velleclaire;70;eau potable : DSP Gaz et Eau;290934;2024;81,5;2,2;9,7;66,9;conforme;124465;2180;60;95;100;Non vérifié;non
+70532;Vellefaux;70;eau potable;107103;2024;89,9;1,3;11,3;67,3;conforme;6477;3523;18;42;539;Non vérifié;non
+70533;Vellefrey-et-Vellefrange;70;eau potable : DSP Gaz et Eau;290934;2024;81,5;2,2;9,7;66,9;conforme;124465;2355;60;95;108;Non vérifié;non
+70534;Vellefrie;70;eau potable;107011;2024;96,1;0,4;10,8;67,2;conforme;438;438;10;14;122;Non vérifié;non
+70535;Velleguindry-et-Levrecey;70;eau potable;107013;2024;91,0;0,9;8,9;66,8;conforme;1156;1156;20;37;161;Non vérifié;non
+70536;Velle-le-Châtel;70;eau potable;107044;2024;91,0;0,8;7,9;66,6;conforme;8351;866;19;37;125;Non vérifié;non
+70537;Velleminfroy;70;eau potable;107015;2024;88,7;1,1;8,4;66,7;conforme;1486;1486;14;48;294;Non vérifié;non
+70538;Vellemoz;70;eau potable;107090;2024;76,0;2,2;15,7;68,1;conforme;7227;2176;69;51;87;Non vérifié;non
+70539;Vellexon-Queutrey-et-Vaudey;70;eau potable;107018;2024;78,2;2,1;7,5;66,5;conforme;7665;7665;43;102;487;Non vérifié;non
+70540;Velloreille-lès-Choye;70;eau potable : DSP Gaz et Eau;290934;2024;81,5;2,2;9,7;66,9;conforme;124465;1701;60;95;78;Non vérifié;non
+70541;Velorcey;70;eau potable;107050;2024;78,4;2,1;7,7;66,5;conforme;76650;4157;55;100;206;Non vérifié;non
+70542;Venère;70;eau potable : Territoire de PESMES;234294;2024;94,4;0,4;7,4;66,5;conforme;8792;600;8;23;215;Non vérifié;non
+70544;La Vergenne;70;eau potable;107073;2024;76,4;1,9;5,4;66,1;conforme;85994;7507;187;129;110;Non vérifié;non
+70545;Venisey;70;eau potable;188102;2024;73,7;2,9;8,2;66,6;conforme;5822;4735;96;130;135;Non vérifié;non
+70546;Vereux;70;eau potable;107020;2024;67,3;4,3;8,8;66,8;conforme;6231;6231;82;179;208;Non vérifié;non
+70547;Verlans;70;eau potable;107104;2024;88,0;0,8;5,7;66,1;conforme;8941;127;2;51;166;Non vérifié;non
+70548;Vernois-sur-Mance;70;eau potable;188103;2024;94,9;0,3;5,2;66,0;conforme;616;616;13;21;134;Non vérifié;non
+70549;La Vernotte;70;eau potable : DSP Gaz et Eau;290934;2024;81,5;2,2;9,7;66,9;conforme;124465;1701;60;95;78;Non vérifié;non
+70550;Vesoul;70;eau potable : Champdamoy et Chariez;286954;2024;82,3;5,0;23,1;69,6;conforme;302439;188851;34;84;15078;Non vérifié;non
+70552;Villafans;70;eau potable : principal;107107;2024;72,1;3,5;9,1;66,8;conforme;121759;6625;93;168;195;Non vérifié;non
+70553;Villargent;70;eau potable;214759;2024;74,3;2,2;6,3;66,3;conforme;24492;3220;75;128;117;Non vérifié;non
+70554;Villars-le-Pautel;70;eau potable;107093;2024;91,8;0,8;9,2;66,8;conforme;11265;1822;29;55;175;Non vérifié;non
+70555;La Villedieu-en-Fontenette;70;eau potable;107050;2024;78,4;2,1;7,7;66,5;conforme;76650;3370;55;100;167;Non vérifié;non
+70557;Villefrancon;70;eau potable : DSP Gaz et Eau;290934;2024;81,5;2,2;9,7;66,9;conforme;124465;2834;60;95;130;Non vérifié;non
+70558;La Villeneuve-Bellenoye-et-la-Maize;70;eau potable;107075;2024;57,9;4,1;5,6;66,1;non conforme;30005;4643;80;265;160;Non vérifié;non
+70559;Villeparois;70;eau potable : communes alimentées au syndicat du Breuchin;286214;2024;77,3;2,7;9,0;66,8;conforme;55020;502;7;109;194;Non vérifié;non
+70560;Villers-Bouton;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;2402;37;96;178;Non vérifié;non
+70561;Villersexel;70;eau potable : principal;107107;2024;72,1;3,5;9,1;66,8;conforme;121759;48615;93;168;1431;Non vérifié;non
+70562;Villers-la-Ville;70;eau potable : principal;107107;2024;72,1;3,5;9,1;66,8;conforme;121759;5130;93;168;151;Non vérifié;non
+70563;Villers-le-Sec;70;eau potable;107105;2024;79,7;2,3;9,1;66,8;conforme;34000;15630;83;190;519;Non vérifié;non
+70564;Villers-lès-Luxeuil;70;eau potable;107050;2024;78,4;2,1;7,7;66,5;conforme;76650;6256;55;100;310;Non vérifié;non
+70565;Villers-Pater;70;eau potable;107043;2024;94,9;0,3;4,7;65,9;conforme;1642;210;12;23;46;Non vérifié;non
+70566;Villers-sur-Port;70;eau potable;107030;2024;94,6;0,3;4,7;65,9;conforme;635;635;9;23;203;Non vérifié;non
+70567;Villers-sur-Saulnot;70;eau potable;107104;2024;88,0;0,8;5,7;66,1;conforme;8941;95;2;51;124;Non vérifié;non
+70568;Villers-Vaudey;70;eau potable;107074;2024;79,3;0,9;3,3;65,7;conforme;4431;553;26;100;58;Non vérifié;non
+70569;Vilory;70;eau potable;188107;2024;77,1;1,9;6,5;66,3;conforme;1408;1408;57;107;68;Non vérifié;non
+70571;Visoncourt;70;eau potable;107050;2024;78,4;2,1;7,7;66,5;conforme;76650;727;55;100;36;Non vérifié;non
+70572;Vitrey-sur-Mance;70;eau potable;107032;2024;68,6;3,1;6,7;66,3;conforme;6223;6223;59;168;287;Non vérifié;non
+70573;La Voivre;70;eau potable;188108;2024;55,2;3,4;4,2;65,8;non conforme;9543;9543;247;299;106;Non vérifié;non
+70574;Volon;70;eau potable;107086;2024;81,7;1,9;8,4;66,7;conforme;17941;1501;70;157;59;Non vérifié;non
+70575;Voray-sur-l'Ognon;70;eau potable : Régie;266974;2024;79,1;1,6;6,1;66,2;conforme;156477;11526;37;96;854;Non vérifié;non
+70576;Vougécourt;70;eau potable;107078;2024;50,0;7,1;7,1;66,4;non conforme;59604;9666;158;366;168;Non vérifié;non
+70577;Vouhenans;70;eau potable : DSP Véolia AEP;322134;2024;70,0;2,6;6,2;66,2;conforme;187086;6324;46;176;379;Non vérifié;non
+70578;Vregille;70;eau potable;113141;2024;85,5;2,0;11,2;67,2;conforme;391718;1568;24;75;178;Non vérifié;non
+70579;Vyans-le-Val;70;eau potable;107040;2024;83,8;2,3;12,0;67,4;conforme;3157;3157;21;70;420;Non vérifié;non
+70580;Vy-le-Ferroux;70;eau potable;188109;2024;85,6;1,5;8,8;66,8;conforme;2321;2321;39;62;163;Non vérifié;non
+70581;Vy-lès-Lure;70;eau potable : DSP Véolia AEP;322134;2024;70,0;2,6;6,2;66,2;conforme;187086;11746;46;176;704;Non vérifié;non
+70582;Vy-lès-Rupt;70;eau potable;107042;2024;71,8;2,7;6,9;66,4;conforme;4041;4041;132;143;84;Non vérifié;non
+70583;Vy-lès-Filain;70;eau potable;107067;2024;71,8;2,1;5,4;66,1;conforme;8661;3441;66;141;143;Non vérifié;non

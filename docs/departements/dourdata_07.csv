@@ -7,331 +7,331 @@
 # Méthodologie et code : https://github.com/btaverne/dourdata
 # Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
 # Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
-Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
-07001;Accons;07;eau potable;297214;2024;79,5;0,6;2,3;65,5;conforme;135515;4002;30;94;361;Non vérifié
-07002;Ailhon;07;eau potable;179196;2024;76,0;1,8;5,6;66,1;conforme;26280;7738;38;119;553;Non vérifié
-07003;Aizac;07;eau potable;251974;2024;50,8;6,5;6,7;66,3;non conforme;9490;9490;154;419;169;Non vérifié
-07004;Ajoux;07;eau potable : Réseau Ajoux;334294;2024;82,2;0,1;0,5;65,1;conforme;664;664;22;69;81;Non vérifié
-07005;Alba-la-Romaine;07;eau potable : SIE_FAY;179205;2024;69,1;1,8;4,0;65,8;conforme;74202;46372;83;166;1533;Non vérifié
-07006;Albon-d'Ardèche;07;eau potable;297214;2024;79,5;0,6;2,3;65,5;conforme;135515;1763;30;94;159;Non vérifié
-07007;Alboussière;07;eau potable : DSP1_svm st peray;179206;2024;74,5;3,1;9,0;66,8;conforme;468407;26754;70;163;1048;Non vérifié
-07008;Alissas;07;eau potable : Réseau SIE Ouvèze Payre;334214;2024;76,0;3,7;11,7;67,3;conforme;503737;37371;67;148;1519;Non vérifié
-07009;Andance;07;eau potable : Annonay-Serrières;179199;2024;81,4;1,9;8,5;66,7;conforme;367493;16031;37;82;1192;Non vérifié
-07010;Annonay;07;eau potable : Annonay_territoire n°1;178814;2024;94,4;1,5;25,0;70,0;conforme;79388;79388;13;23;17274;Non vérifié
-07011;Vallées-d'Antraigues-Asperjoc;07;eau potable (Asperjoc);178823;2024;58,7;3,2;4,6;65,9;non conforme;23757;23757;77;255;845;Non vérifié
-07012;Arcens;07;eau potable;297214;2024;79,5;0,6;2,3;65,5;conforme;135515;3836;30;94;346;Non vérifié
-07013;Ardoix;07;eau potable : Cance-Doux;179207;2024;75,1;1,5;4,6;65,9;conforme;477436;23355;49;137;1308;Non vérifié
-07014;Arlebosc;07;eau potable : Cance-Doux;179207;2024;75,1;1,5;4,6;65,9;conforme;477436;6785;49;137;380;Non vérifié
-07015;Arras-sur-Rhône;07;eau potable : Cance-Doux;179207;2024;75,1;1,5;4,6;65,9;conforme;477436;9446;49;137;529;Non vérifié
-07017;Les Assions;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;14764;53;109;767;Non vérifié
-07018;Astet;07;eau potable;178826;2024;92,0;0,1;1,3;65,3;conforme;219;219;10;29;59;Non vérifié
-07019;Aubenas;07;eau potable;178829;2024;82,2;6,2;28,5;70,7;conforme;220642;220642;49;92;12416;Non vérifié
-07020;Aubignas;07;eau potable;178830;2024;62,5;2,9;4,8;66,0;non conforme;17645;17645;102;223;476;Non vérifié
-07022;Baix;07;eau potable : Réseau SIE Ouvèze Payre;334214;2024;76,0;3,7;11,7;67,3;conforme;503737;31885;67;148;1296;Non vérifié
-07023;Balazuc;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;7488;53;109;389;Non vérifié
-07024;Banne;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;12473;53;109;648;Non vérifié
-07025;Barnas;07;eau potable;178833;2021;87,8;0,7;4,7;65,9;conforme;2785;2785;37;54;209;Sans anomalie apparente
-07026;Le Béage;07;eau potable : Territoire n°1;178836;2024;79,0;1,0;3,7;65,7;conforme;4511;4511;49;99;254;Non vérifié
-07027;Beauchastel;07;eau potable : SUD AYGUO;339354;2024;89,9;3,0;26,6;70,3;conforme;65831;34668;53;153;1800;Non vérifié
-07028;Beaulieu;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;10471;53;109;544;Non vérifié
-07029;Beaumont;07;eau potable;194000;2024;72,0;0,5;1,2;65,2;conforme;7785;7785;81;150;262;Non vérifié
-07030;Beauvène;07;eau potable : Réseau  Beauvène;334134;2024;12,4;10,4;1,5;65,3;non conforme;60736;60736;816;2585;204;Non vérifié
-07031;Berrias-et-Casteljau;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;15264;53;109;793;Non vérifié
-07032;Berzème;07;eau potable;179209;2024;75,6;1,8;5,7;66,1;conforme;243747;3249;56;115;159;Non vérifié
-07033;Bessas;07;eau potable;173312;2024;71,0;2,0;4,9;66,0;conforme;223263;9135;107;150;234;Non vérifié
-07034;Bidon;07;eau potable : Territoire DRAGA;179222;2024;78,0;2,8;9,9;67,0;conforme;386367;6263;68;119;254;Non vérifié
-07035;Boffres;07;eau potable : canton de vernoux;179197;2024;69,7;2,2;5,0;66,0;conforme;322003;18009;78;190;633;Non vérifié
-07036;Bogy;07;eau potable : Annonay-Serrières;179199;2024;81,4;1,9;8,5;66,7;conforme;367493;6563;37;82;488;Non vérifié
-07037;Borée;07;eau potable;178846;2024;55,1;2,1;2,5;65,5;non conforme;10884;10884;221;320;135;Non vérifié
-07038;Borne;07;eau potable;178849;2024;84,5;0,3;1,8;65,4;conforme;670;670;44;60;42;Non vérifié
-07039;Bozas;07;eau potable : Cance-Doux;179207;2024;75,1;1,5;4,6;65,9;conforme;477436;4553;49;137;255;Non vérifié
-07040;Boucieu-le-Roi;07;eau potable : Cance-Doux;179207;2024;75,1;1,5;4,6;65,9;conforme;477436;4339;49;137;243;Non vérifié
-07041;Boulieu-lès-Annonay;07;eau potable : Annonay-Serrières;179199;2024;81,4;1,9;8,5;66,7;conforme;367493;30233;37;82;2248;Non vérifié
-07042;Bourg-Saint-Andéol;07;eau potable : Territoire DRAGA;179222;2024;78,0;2,8;9,9;67,0;conforme;386367;188905;68;119;7661;Non vérifié
-07044;Brossainc;07;eau potable : Annonay-Serrières;179199;2024;81,4;1,9;8,5;66,7;conforme;367493;3524;37;82;262;Non vérifié
-07045;Burzet;07;eau potable;178856;2024;68,0;1,7;3,6;65,7;conforme;11039;11039;56;170;536;Non vérifié
-07047;Cellier-du-Luc;07;eau potable;178858;2024;22,0;4,8;1,3;65,3;non conforme;15768;15768;475;1309;91;Non vérifié
-07048;Chalencon;07;eau potable : Réseau Chalencon;334274;2024;66,4;1,3;2,6;65,5;conforme;6169;6169;52;183;328;Non vérifié
-07049;Le Chambon;07;eau potable;297214;2024;79,5;0,6;2,3;65,5;conforme;135515;643;30;94;58;Non vérifié
-07050;Chambonas;07;eau potable;179208;2024;83,7;1,0;4,9;66,0;conforme;98550;14910;41;78;992;Non vérifié
-07051;Champagne;07;eau potable : Annonay-Serrières;179199;2024;81,4;1,9;8,5;66,7;conforme;367493;8769;37;82;652;Non vérifié
-07052;Champis;07;eau potable : DSP1_svm st peray;179206;2024;74,5;3,1;9,0;66,8;conforme;468407;17360;70;163;680;Non vérifié
-07053;Chandolas;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;10529;53;109;547;Non vérifié
-07054;Chanéac;07;eau potable;297214;2024;79,5;0,6;2,3;65,5;conforme;135515;2816;30;94;254;Non vérifié
-07055;Charmes-sur-Rhône;07;eau potable : canton de vernoux;179197;2024;69,7;2,2;5,0;66,0;conforme;322003;89420;78;190;3143;Non vérifié
-07056;Charnas;07;eau potable : Annonay-Serrières;179199;2024;81,4;1,9;8,5;66,7;conforme;367493;12440;37;82;925;Non vérifié
-07058;Chassiers;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;19037;53;109;989;Non vérifié
-07059;Châteaubourg;07;eau potable : DSP1_svm st peray;179206;2024;74,5;3,1;9,0;66,8;conforme;468407;5795;70;163;227;Non vérifié
-07060;Châteauneuf-de-Vernoux;07;eau potable : canton de vernoux;179197;2024;69,7;2,2;5,0;66,0;conforme;322003;8194;78;190;288;Non vérifié
-07061;Chauzon;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;8123;53;109;422;Non vérifié
-07062;Chazeaux;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;2579;53;109;134;Non vérifié
-07063;Cheminas;07;eau potable : Cance-Doux;179207;2024;75,1;1,5;4,6;65,9;conforme;477436;7553;49;137;423;Non vérifié
-07064;Le Cheylard;07;eau potable;297214;2024;79,5;0,6;2,3;65,5;conforme;135515;31074;30;94;2803;Non vérifié
-07065;Chirols;07;eau potable;178869;2024;95,0;0,1;1,5;65,3;conforme;708;708;7;24;289;Non vérifié
-07066;Chomérac;07;eau potable : Réseau SIE Ouvèze Payre;334214;2024;76,0;3,7;11,7;67,3;conforme;503737;78310;67;148;3183;Non vérifié
-07067;Colombier-le-Cardinal;07;eau potable : Annonay-Serrières;179199;2024;81,4;1,9;8,5;66,7;conforme;367493;4398;37;82;327;Non vérifié
-07068;Colombier-le-Jeune;07;eau potable : Cance-Doux;179207;2024;75,1;1,5;4,6;65,9;conforme;477436;10053;49;137;563;Non vérifié
-07069;Colombier-le-Vieux;07;eau potable : Cance-Doux;179207;2024;75,1;1,5;4,6;65,9;conforme;477436;12320;49;137;690;Non vérifié
-07070;Cornas;07;eau potable : DSP1_svm st peray;179206;2024;74,5;3,1;9,0;66,8;conforme;468407;61525;70;163;2410;Non vérifié
-07071;Coucouron;07;eau potable;178874;2024;88,1;1,4;10,5;67,1;conforme;15841;15841;56;49;777;Non vérifié
-07072;Coux;07;eau potable : Réseau SEBP;334014;2024;76,3;2,9;9,4;66,9;conforme;243455;28901;48;115;1635;Non vérifié
-07073;Le Crestet;07;eau potable;178877;2024;65,6;2,6;5,0;66,0;non conforme;13571;13571;72;192;518;Non vérifié
-07074;Creysseilles;07;eau potable : Réseau SEBP;334014;2024;76,3;2,9;9,4;66,9;conforme;243455;2793;48;115;158;Non vérifié
-07075;Cros-de-Géorand;07;eau potable;178882;2024;73,0;0,9;2,5;65,5;conforme;1741;1741;31;131;156;Non vérifié
-07076;Cruas;07;eau potable : Réseau SIE Ouvèze Payre;334214;2024;76,0;3,7;11,7;67,3;conforme;503737;71298;67;148;2898;Non vérifié
-07077;Darbres;07;eau potable;179209;2024;75,6;1,8;5,7;66,1;conforme;243747;5558;56;115;272;Non vérifié
-07078;Davézieux;07;eau potable : Annonay-Serrières;179199;2024;81,4;1,9;8,5;66,7;conforme;367493;43104;37;82;3205;Non vérifié
-07079;Désaignes;07;eau potable;178886;2024;72,8;1,1;3,0;65,6;conforme;32517;32517;77;132;1151;Non vérifié
-07080;Devesset;07;eau potable;297214;2024;79,5;0,6;2,3;65,5;conforme;135515;3437;30;94;310;Non vérifié
-07081;Dompnac;07;eau potable;178890;2024;50,5;0,8;0,8;65,2;non conforme;2920;2920;103;343;78;Non vérifié
-07082;Dornas;07;eau potable;297214;2024;79,5;0,6;2,3;65,5;conforme;135515;2162;30;94;195;Non vérifié
-07083;Dunière-sur-Eyrieux;07;eau potable : Dunières-sur-Eyrieux;178892;2024;85,4;1,3;7,6;66,5;conforme;2752;2752;17;63;437;Non vérifié
-07084;Eclassan;07;eau potable : Cance-Doux;179207;2024;75,1;1,5;4,6;65,9;conforme;477436;18820;49;137;1054;Non vérifié
-07085;Empurany;07;eau potable : Territoire n°1;178896;2024;75,7;0,6;1,9;65,4;conforme;7433;7433;36;114;571;Non vérifié
-07086;Étables;07;eau potable : Cance-Doux;179207;2024;75,1;1,5;4,6;65,9;conforme;477436;17855;49;137;1000;Non vérifié
-07087;Fabras;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;8989;53;109;467;Non vérifié
-07088;Faugères;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;2368;53;109;123;Non vérifié
-07089;Félines;07;eau potable : Annonay-Serrières;179199;2024;81,4;1,9;8,5;66,7;conforme;367493;26010;37;82;1934;Non vérifié
-07090;Flaviac;07;eau potable : Réseau SIE Ouvèze Payre;334214;2024;76,0;3,7;11,7;67,3;conforme;503737;30384;67;148;1235;Non vérifié
-07091;Fons;07;eau potable;178901;2024;71,4;2,9;7,3;66,5;conforme;5822;5822;50;145;316;Non vérifié
-07092;Freyssenet;07;eau potable;179209;2024;75,6;1,8;5,7;66,1;conforme;243747;981;56;115;48;Non vérifié
-07093;Genestelle;07;eau potable;285434;2024;94,8;0,2;3,9;65,8;conforme;272;272;3;19;266;Non vérifié
-07094;Gilhac-et-Bruzac;07;eau potable : canton de vernoux;179197;2024;69,7;2,2;5,0;66,0;conforme;322003;4893;78;190;172;Non vérifié
-07096;Gluiras;07;eau potable : Réseau Gluiras;334154;2024;71,6;0,5;1,4;65,3;conforme;4928;4928;37;134;366;Non vérifié
-07097;Glun;07;eau potable : PONT D'ISERE LA ROCHE DE GLUN;199598;2024;69,8;4,6;10,6;67,1;conforme;161704;13810;56;161;677;Non vérifié
-07098;Gourdon;07;eau potable : Réseau Gourdon;334234;2024;72,5;0,4;1,1;65,2;conforme;1168;1168;38;128;85;Non vérifié
-07099;Gras;07;eau potable : Territoire DRAGA;179222;2024;78,0;2,8;9,9;67,0;conforme;386367;14573;68;119;591;Non vérifié
-07100;Gravières;07;eau potable;179208;2024;83,7;1,0;4,9;66,0;conforme;98550;7635;41;78;508;Non vérifié
-07101;Grospierres;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;18113;53;109;941;Non vérifié
-07102;Guilherand-Granges;07;eau potable : Guilherand Granges;178918;2024;96,3;1,1;27,8;70,6;conforme;23962;23962;6;15;11235;Non vérifié
-07103;Saint-Julien-d'Intres;07;eau potable;297214;2024;79,5;0,6;2,3;65,5;conforme;135515;3359;30;94;303;Non vérifié
-07104;Issamoulenc;07;eau potable;297214;2024;79,5;0,6;2,3;65,5;conforme;135515;1186;30;94;107;Non vérifié
-07105;Issanlas;07;eau potable;178921;2024;90,6;0,2;2,2;65,4;conforme;759;759;20;33;104;Non vérifié
-07106;Issarlès;07;eau potable;178923;2024;92,1;0,1;1,5;65,3;conforme;474;474;10;25;125;Non vérifié
-07107;Jaujac;07;eau potable;178926;2024;81,0;1,2;5,1;66,0;conforme;12006;12006;27;86;1199;Non vérifié
-07108;Jaunac;07;eau potable;297214;2024;79,5;0,6;2,3;65,5;conforme;135515;1386;30;94;125;Non vérifié
-07109;Joannas;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;6314;53;109;328;Non vérifié
-07110;Joyeuse;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;34859;53;109;1811;Non vérifié
-07111;Juvinas;07;eau potable;178929;2024;100,0;0,0;5,9;66,2;conforme;0;0;0;0;187;Non vérifié
-07112;Labastide-sur-Bésorgues;07;eau potable;178931;2024;82,4;0,8;3,8;65,8;conforme;2380;2380;23;77;285;Non vérifié
-07113;Labastide-de-Virac;07;eau potable;173312;2024;71,0;2,0;4,9;66,0;conforme;223263;12805;107;150;328;Non vérifié
-07114;Labatie-d'Andaure;07;eau potable;178935;2024;79,9;0,4;1,4;65,3;conforme;1533;1533;18;102;228;Non vérifié
-07115;Labeaume;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;13435;53;109;698;Non vérifié
-07116;Labégude;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;26890;53;109;1397;Non vérifié
-07117;Lablachère;07;eau potable;178936;2024;78,5;1,7;6,2;66,2;conforme;39588;39588;49;101;2193;Non vérifié
-07118;Laboule;07;eau potable;178939;2024;98,0;0,1;2,7;65,5;conforme;290;290;5;13;146;Non vérifié
-07119;Le Lac-d'Issarlès;07;eau potable;178941;2024;50,6;11,1;11,4;67,3;non conforme;72927;72927;809;357;247;Non vérifié
-07120;Lachamp-Raphaël;07;eau potable;178943;2024;93,8;0,1;1,7;65,3;conforme;137;137;5;22;70;Non vérifié
-07121;Lachapelle-Graillouse;07;eau potable;178945;2024;58,5;1,4;2,0;65,4;non conforme;9709;9709;146;260;182;Non vérifié
-07122;Lachapelle-sous-Aubenas;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;36784;53;109;1911;Non vérifié
-07123;Lachapelle-sous-Chanéac;07;eau potable;297214;2024;79,5;0,6;2,3;65,5;conforme;135515;1752;30;94;158;Non vérifié
-07124;Lafarre;07;eau potable;178948;2024;74,0;0,3;0,8;65,2;conforme;110;110;7;136;45;Non vérifié
-07126;Lagorce;07;eau potable : Territoire n°1;178951;2024;68,3;2,0;4,3;65,9;conforme;48326;48326;105;170;1257;Non vérifié
-07127;Lalevade-d'Ardèche;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;21558;53;109;1120;Non vérifié
-07128;Lalouvesc;07;eau potable;178952;2024;41,9;9,2;6,7;66,3;non conforme;47012;47012;332;504;388;Non vérifié
-07129;Lamastre;07;eau potable;178954;2024;73,9;2,5;7,2;66,4;conforme;46802;46802;55;127;2327;Non vérifié
-07131;Lanas;07;eau potable;179209;2024;75,6;1,8;5,7;66,1;conforme;243747;8767;56;115;429;Non vérifié
-07132;Largentière;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;27910;53;109;1450;Non vérifié
-07133;Larnas;07;eau potable : Territoire DRAGA;179222;2024;78,0;2,8;9,9;67,0;conforme;386367;6978;68;119;283;Non vérifié
-07134;Laurac-en-Vivarais;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;20115;53;109;1045;Non vérifié
-07136;Laveyrune;07;eau potable;143368;2024;50,3;2,4;2,4;65,5;non conforme;26280;10493;259;368;111;Non vérifié
-07137;Lavillatte;07;eau potable;194002;2024;86,9;0,4;2,6;65,5;conforme;438;438;27;56;44;Non vérifié
-07138;Lavilledieu;07;eau potable;179209;2024;75,6;1,8;5,7;66,1;conforme;243747;46265;56;115;2264;Non vérifié
-07139;Laviolle;07;eau potable;194003;2024;54,2;2,3;2,7;65,5;non conforme;4894;4894;137;307;98;Non vérifié
-07140;Lemps;07;eau potable : Cance-Doux;179207;2024;75,1;1,5;4,6;65,9;conforme;477436;14249;49;137;798;Non vérifié
-07141;Lentillères;07;eau potable;178965;2024;86,2;0,2;1,4;65,3;conforme;1389;1389;16;50;236;Non vérifié
-07142;Lespéron;07;eau potable;178968;2024;83,0;0,5;2,4;65,5;conforme;4471;4471;37;78;330;Non vérifié
-07143;Limony;07;eau potable : Annonay-Serrières;179199;2024;81,4;1,9;8,5;66,7;conforme;367493;11203;37;82;833;Non vérifié
-07144;Loubaresse;07;eau potable;194004;2024;93,1;0,2;2,4;65,5;conforme;204;204;13;31;43;Non vérifié
-07145;Lussas;07;eau potable;179209;2024;75,6;1,8;5,7;66,1;conforme;243747;23398;56;115;1145;Non vérifié
-07146;Lyas;07;eau potable : Réseau SEBP;334014;2024;76,3;2,9;9,4;66,9;conforme;243455;10464;48;115;592;Non vérifié
-07147;Malarce-sur-la-Thines;07;eau potable;178974;2024;75,8;0,6;1,8;65,4;conforme;4240;4240;43;123;268;Non vérifié
-07148;Malbosc;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;2810;53;109;146;Non vérifié
-07149;Marcols-les-Eaux;07;eau potable : Réseau Marcols-les-Eaux;334194;2024;80,7;1,0;4,1;65,8;conforme;2920;2920;27;89;291;Non vérifié
-07150;Mariac;07;eau potable;297214;2024;79,5;0,6;2,3;65,5;conforme;135515;5998;30;94;541;Non vérifié
-07151;Mars;07;eau potable;297214;2024;79,5;0,6;2,3;65,5;conforme;135515;2694;30;94;243;Non vérifié
-07152;Mauves;07;eau potable : Mauves;178982;2024;83,9;2,5;13,0;67,6;conforme;9983;9983;23;70;1210;Non vérifié
-07153;Mayres;07;eau potable;178983;2024;53,4;2,7;3,1;65,6;non conforme;14999;14999;157;322;262;Non vérifié
-07154;Mazan-l'Abbaye;07;eau potable;178985;2024;90,0;0,2;1,6;65,3;conforme;604;604;14;44;120;Non vérifié
-07155;Mercuer;07;eau potable;179196;2024;76,0;1,8;5,6;66,1;conforme;26280;18542;38;119;1325;Non vérifié
-07156;Meyras;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;17112;53;109;889;Non vérifié
-07157;Meysse;07;eau potable : Réseau SIE Ouvèze Payre;334214;2024;76,0;3,7;11,7;67,3;conforme;503737;33607;67;148;1366;Non vérifié
-07158;Mézilhac;07;eau potable;178989;2024;70,0;0,9;2,1;65,4;conforme;2398;2398;61;159;107;Non vérifié
-07159;Mirabel;07;eau potable;179209;2024;75,6;1,8;5,7;66,1;conforme;243747;15714;56;115;769;Non vérifié
-07160;Monestier;07;eau potable : Le Monestier;178992;2024;95,7;0,0;0,4;65,1;conforme;0;0;0;0;58;Non vérifié
-07161;Montpezat-sous-Bauzon;07;eau potable;178994;2024;84,0;2,1;11,2;67,2;conforme;19776;19776;70;69;770;Non vérifié
-07162;Montréal;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;11029;53;109;573;Non vérifié
-07163;Montselgues;07;eau potable;179208;2024;83,7;1,0;4,9;66,0;conforme;98550;1293;41;78;86;Non vérifié
-07165;Belsentes;07;eau potable;297214;2024;79,5;0,6;2,3;65,5;conforme;135515;5964;30;94;538;Non vérifié
-07166;Nozières;07;eau potable;179000;2024;83,0;0,3;1,4;65,3;conforme;1084;1084;13;81;237;Non vérifié
-07167;Les Ollières-sur-Eyrieux;07;eau potable : les-ollieres-sur-eyrieux;179001;2024;77,5;2,5;8,5;66,7;conforme;22639;22639;60;127;1031;Non vérifié
-07168;Orgnac-l'Aven;07;eau potable;173312;2024;71,0;2,0;4,9;66,0;conforme;223263;22447;107;150;575;Non vérifié
-07169;Ozon;07;eau potable : Cance-Doux;179207;2024;75,1;1,5;4,6;65,9;conforme;477436;6821;49;137;382;Non vérifié
-07170;Pailharès;07;eau potable : Pailhares;179005;2024;91,0;0,1;1,1;65,2;conforme;890;890;8;35;310;Non vérifié
-07171;Payzac;07;eau potable;179208;2024;83,7;1,0;4,9;66,0;conforme;98550;8101;41;78;539;Non vérifié
-07172;Peaugres;07;eau potable : Annonay-Serrières;179199;2024;81,4;1,9;8,5;66,7;conforme;367493;32076;37;82;2385;Non vérifié
-07174;Peyraud;07;eau potable : Annonay-Serrières;179199;2024;81,4;1,9;8,5;66,7;conforme;367493;6940;37;82;516;Non vérifié
-07176;Planzolles;07;eau potable;194005;2024;81,8;1,1;4,9;66,0;conforme;1883;1883;31;82;164;Non vérifié
-07177;Plats;07;eau potable : DSP1_svm st peray;179206;2024;74,5;3,1;9,0;66,8;conforme;468407;21138;70;163;828;Non vérifié
-07178;Pont-de-Labeaume;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;10914;53;109;567;Non vérifié
-07179;Pourchères;07;eau potable : Réseau Pourchères;334254;2024;93,8;0,3;4,1;65,8;conforme;438;438;9;27;136;Non vérifié
-07181;Le Pouzin;07;eau potable : Réseau SIE Ouvèze Payre;334214;2024;76,0;3,7;11,7;67,3;conforme;503737;71003;67;148;2886;Non vérifié
-07182;Prades;07;eau potable;179016;2024;73,0;2,0;5,4;66,1;conforme;23360;23360;54;135;1195;Non vérifié
-07183;Pradons;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;10490;53;109;545;Non vérifié
-07184;Pranles;07;eau potable : Réseau Pranles;334255;2024;72,0;0,5;1,3;65,3;conforme;7665;7665;42;137;499;Non vérifié
-07185;Préaux;07;eau potable : Cance-Doux;179207;2024;75,1;1,5;4,6;65,9;conforme;477436;12642;49;137;708;Non vérifié
-07186;Privas;07;eau potable : Réseau SEBP;334014;2024;76,3;2,9;9,4;66,9;conforme;243455;150920;48;115;8538;Non vérifié
-07187;Prunet;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;2579;53;109;134;Non vérifié
-07188;Quintenas;07;eau potable : Cance-Doux;179207;2024;75,1;1,5;4,6;65,9;conforme;477436;31604;49;137;1770;Non vérifié
-07189;Ribes;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;6371;53;109;331;Non vérifié
-07190;Rochecolombe;07;eau potable;179209;2024;75,6;1,8;5,7;66,1;conforme;243747;4639;56;115;227;Non vérifié
-07191;Rochemaure;07;eau potable : Réseau Lavezon;334114;2024;58,6;5,6;8,0;66,6;non conforme;73584;73584;90;256;2239;Non vérifié
-07192;Rochepaule;07;eau potable;297214;2024;79,5;0,6;2,3;65,5;conforme;135515;2627;30;94;237;Non vérifié
-07193;Rocher;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;5890;53;109;306;Non vérifié
-07194;Rochessauve;07;eau potable : Réseau SIE Ouvèze Payre;334214;2024;76,0;3,7;11,7;67,3;conforme;503737;12178;67;148;495;Non vérifié
-07196;Rocles;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;5024;53;109;261;Non vérifié
-07197;Roiffieux;07;eau potable : Cance-Doux;179207;2024;75,1;1,5;4,6;65,9;conforme;477436;48977;49;137;2743;Non vérifié
-07198;Rompon;07;eau potable : Réseau SIE Ouvèze Payre;334214;2024;76,0;3,7;11,7;67,3;conforme;503737;28022;67;148;1139;Non vérifié
-07199;Rosières;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;25389;53;109;1319;Non vérifié
-07200;Le Roux;07;eau potable;179033;2024;66,6;1,1;2,2;65,4;conforme;1164;1164;48;180;67;Non vérifié
-07201;Ruoms;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;44483;53;109;2311;Non vérifié
-07202;Sablières;07;eau potable;179034;2024;56,9;0,6;0,7;65,1;non conforme;5913;5913;98;298;166;Non vérifié
-07203;Sagnes-et-Goudoulet;07;eau potable;179036;2024;77,5;1,4;4,7;65,9;conforme;1175;1175;27;108;121;Non vérifié
-07204;Saint-Agrève;07;eau potable;297214;2024;79,5;0,6;2,3;65,5;conforme;135515;25243;30;94;2277;Non vérifié
-07205;Saint-Alban-d'Ay;07;eau potable : Cance-Doux;179207;2024;75,1;1,5;4,6;65,9;conforme;477436;24712;49;137;1384;Non vérifié
-07206;Saint-Alban-en-Montagne;07;eau potable;194007;2024;67,7;0,4;0,9;65,2;conforme;1469;1469;64;159;63;Non vérifié
-07207;Saint-Alban-Auriolles;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;21905;53;109;1138;Non vérifié
-07208;Saint-Andéol-de-Berg;07;eau potable;179209;2024;75,6;1,8;5,7;66,1;conforme;243747;2738;56;115;134;Non vérifié
-07209;Saint-Andéol-de-Fourchades;07;eau potable;297214;2024;79,5;0,6;2,3;65,5;conforme;135515;576;30;94;52;Non vérifié
-07210;Saint-Andéol-de-Vals;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;10298;53;109;535;Non vérifié
-07211;Saint-André-de-Cruzières;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;8989;53;109;467;Non vérifié
-07212;Saint-André-en-Vivarais;07;eau potable;297214;2024;79,5;0,6;2,3;65,5;conforme;135515;2350;30;94;212;Non vérifié
-07213;Saint-André-Lachamp;07;eau potable;179045;2024;73,3;0,3;0,8;65,2;conforme;2803;2803;46;137;167;Non vérifié
-07214;Saint-Apollinaire-de-Rias;07;eau potable : canton de vernoux;179197;2024;69,7;2,2;5,0;66,0;conforme;322003;5548;78;190;195;Non vérifié
-07215;Saint-Barthélemy-le-Meil;07;eau potable;297214;2024;79,5;0,6;2,3;65,5;conforme;135515;2228;30;94;201;Non vérifié
-07216;Saint-Barthélemy-Grozon;07;eau potable;179048;2024;65,8;2,4;4,7;65,9;non conforme;33288;33288;185;568;494;Non vérifié
-07217;Saint-Barthélemy-le-Plain;07;eau potable : Cance-Doux;179207;2024;75,1;1,5;4,6;65,9;conforme;477436;15320;49;137;858;Non vérifié
-07218;Saint-Basile;07;eau potable;179052;2024;86,1;0,1;0,9;65,2;conforme;1233;1233;9;40;356;Non vérifié
-07219;Saint-Bauzile;07;eau potable : Réseau SIE Ouvèze Payre;334214;2024;76,0;3,7;11,7;67,3;conforme;503737;7651;67;148;311;Non vérifié
-07220;Saint-Christol;07;eau potable;297214;2024;79,5;0,6;2,3;65,5;conforme;135515;1131;30;94;102;Non vérifié
-07221;Saint-Cierge-la-Serre;07;eau potable : Réseau Saint-Cierge-la-Serre;334174;2024;82,0;0,3;1,5;65,3;conforme;2409;2409;27;72;243;Non vérifié
-07222;Saint-Cierge-sous-le-Cheylard;07;eau potable;297214;2024;79,5;0,6;2,3;65,5;conforme;135515;2372;30;94;214;Non vérifié
-07223;Saint-Cirgues-de-Prades;07;eau potable;179056;2024;90,8;0,3;2,5;65,5;conforme;793;793;15;43;142;Non vérifié
-07224;Saint-Cirgues-en-Montagne;07;eau potable;179058;2024;67,4;3,5;7,2;66,4;conforme;31938;31938;415;457;211;Non vérifié
-07225;Saint-Clair;07;eau potable : Annonay-Serrières;179199;2024;81,4;1,9;8,5;66,7;conforme;367493;18129;37;82;1348;Non vérifié
-07226;Saint-Clément;07;eau potable;297214;2024;79,5;0,6;2,3;65,5;conforme;135515;998;30;94;90;Non vérifié
-07227;Saint-Cyr;07;eau potable : Annonay-Serrières;179199;2024;81,4;1,9;8,5;66,7;conforme;367493;19851;37;82;1476;Non vérifié
-07228;Saint-Désirat;07;eau potable : Annonay-Serrières;179199;2024;81,4;1,9;8,5;66,7;conforme;367493;11983;37;82;891;Non vérifié
-07229;Saint-Didier-sous-Aubenas;07;eau potable;179064;2024;70,2;5,7;13,5;67,7;conforme;20805;20805;62;155;919;Non vérifié
-07231;Saint-Étienne-de-Fontbellon;07;eau potable;179200;2024;75,8;3,6;11,1;67,2;conforme;76212;46440;44;118;2920;Non vérifié
-07232;Saint-Étienne-de-Lugdarès;07;eau potable;179066;2024;87,9;0,3;2,0;65,4;conforme;3723;3723;25;54;406;Non vérifié
-07233;Saint-Étienne-de-Serre;07;eau potable : Réseau Saint-Etienne-de-Serre;334054;2024;98,7;0,0;1,6;65,3;conforme;0;0;0;0;230;Non vérifié
-07234;Saint-Étienne-de-Valoux;07;eau potable : Annonay-Serrières;179199;2024;81,4;1,9;8,5;66,7;conforme;367493;3537;37;82;263;Non vérifié
-07235;Sainte-Eulalie;07;eau potable;179070;2024;100,0;0,0;1,3;65,3;conforme;0;0;0;0;209;Non vérifié
-07236;Saint-Félicien;07;eau potable : Cance-Doux;179207;2024;75,1;1,5;4,6;65,9;conforme;477436;19980;49;137;1119;Non vérifié
-07237;Saint-Fortunat-sur-Eyrieux;07;eau potable : canton de vernoux;179197;2024;69,7;2,2;5,0;66,0;conforme;322003;23244;78;190;817;Non vérifié
-07238;Saint-Genest-de-Beauzon;07;eau potable;179208;2024;83,7;1,0;4,9;66,0;conforme;98550;4990;41;78;332;Non vérifié
-07239;Saint-Genest-Lachamp;07;eau potable;297214;2024;79,5;0,6;2,3;65,5;conforme;135515;1242;30;94;112;Non vérifié
-07240;Saint-Georges-les-Bains;07;eau potable : canton de vernoux;179197;2024;69,7;2,2;5,0;66,0;conforme;322003;68736;78;190;2416;Non vérifié
-07241;Saint-Germain;07;eau potable;179209;2024;75,6;1,8;5,7;66,1;conforme;243747;14407;56;115;705;Non vérifié
-07242;Saint-Gineis-en-Coiron;07;eau potable;179209;2024;75,6;1,8;5,7;66,1;conforme;243747;2554;56;115;125;Non vérifié
-07243;Saint-Jacques-d'Atticieux;07;eau potable : Annonay-Serrières;179199;2024;81,4;1,9;8,5;66,7;conforme;367493;4048;37;82;301;Non vérifié
-07244;Saint-Jean-Chambre;07;eau potable : canton de vernoux;179197;2024;69,7;2,2;5,0;66,0;conforme;322003;7255;78;190;255;Non vérifié
-07245;Saint-Jean-de-Muzols;07;eau potable : Cance-Doux;179207;2024;75,1;1,5;4,6;65,9;conforme;477436;44442;49;137;2489;Non vérifié
-07247;Saint-Jean-le-Centenier;07;eau potable;179209;2024;75,6;1,8;5,7;66,1;conforme;243747;17799;56;115;871;Non vérifié
-07248;Saint-Jean-Roure;07;eau potable;297214;2024;79,5;0,6;2,3;65,5;conforme;135515;3049;30;94;275;Non vérifié
-07249;Saint-Jeure-d'Andaure;07;eau potable;297214;2024;79,5;0,6;2,3;65,5;conforme;135515;1153;30;94;104;Non vérifié
-07250;Saint-Jeure-d'Ay;07;eau potable : Cance-Doux;179207;2024;75,1;1,5;4,6;65,9;conforme;477436;8838;49;137;495;Non vérifié
-07251;Saint-Joseph-des-Bancs;07;eau potable;179089;2024;16,9;5,9;1,2;65,2;non conforme;36610;36610;502;1790;200;Non vérifié
-07253;Saint-Julien-du-Gua;07;eau potable : Réseau Saint-Julien-du-Gua;334256;2024;72,3;0,5;1,4;65,3;conforme;3102;3102;50;134;169;Non vérifié
-07254;Saint-Julien-du-Serre;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;16919;53;109;879;Non vérifié
-07255;Saint-Julien-en-Saint-Alban;07;eau potable : Réseau SIE Ouvèze Payre;334214;2024;76,0;3,7;11,7;67,3;conforme;503737;36043;67;148;1465;Non vérifié
-07257;Saint-Julien-le-Roux;07;eau potable : canton de vernoux;179197;2024;69,7;2,2;5,0;66,0;conforme;322003;3613;78;190;127;Non vérifié
-07258;Saint-Julien-Vocance;07;eau potable : St-julien-vocance;194009;2024;88,5;0,4;2,8;65,6;conforme;1229;1229;15;67;221;Non vérifié
-07259;Saint-Just-d'Ardèche;07;eau potable : Territoire DRAGA;179222;2024;78,0;2,8;9,9;67,0;conforme;386367;38886;68;119;1577;Non vérifié
-07260;Saint-Lager-Bressac;07;eau potable : Réseau SIE Ouvèze Payre;334214;2024;76,0;3,7;11,7;67,3;conforme;503737;23889;67;148;971;Non vérifié
-07261;Saint-Laurent-du-Pape;07;eau potable : SUD AYGUO;339354;2024;89,9;3,0;26,6;70,3;conforme;65831;31163;53;153;1618;Non vérifié
-07262;Saint-Laurent-les-Bains-Laval-d'Aurelle;07;eau potable : saint-laurent-les-bains-laval-d'aurelle;336954;2024;98,7;0,1;5,7;66,1;conforme;269;269;4;6;183;Non vérifié
-07263;Saint-Laurent-sous-Coiron;07;eau potable;179209;2024;75,6;1,8;5,7;66,1;conforme;243747;2493;56;115;122;Non vérifié
-07264;Saint-Marcel-d'Ardèche;07;eau potable : Territoire DRAGA;179222;2024;78,0;2,8;9,9;67,0;conforme;386367;57848;68;119;2346;Non vérifié
-07265;Saint-Marcel-lès-Annonay;07;eau potable : Annonay-Serrières;179199;2024;81,4;1,9;8,5;66,7;conforme;367493;18250;37;82;1357;Non vérifié
-07266;Sainte-Marguerite-Lafigère;07;eau potable;179208;2024;83,7;1,0;4,9;66,0;conforme;98550;1668;41;78;111;Non vérifié
-07267;Saint-Martial;07;eau potable;179108;2024;97,5;0,1;3,4;65,7;conforme;336;336;3;11;269;Non vérifié
-07268;Saint-Martin-d'Ardèche;07;eau potable : Territoire DRAGA;179222;2024;78,0;2,8;9,9;67,0;conforme;386367;24140;68;119;979;Non vérifié
-07269;Saint-Martin-de-Valamas;07;eau potable;297214;2024;79,5;0,6;2,3;65,5;conforme;135515;11917;30;94;1075;Non vérifié
-07270;Saint-Martin-sur-Lavezon;07;eau potable : Réseau Lavezon, Saint-Martin-sur-Lavezon, Saint-Pierre;334094;2024;61,5;1,6;2,6;65,5;non conforme;12264;10584;69;225;422;Non vérifié
-07272;Saint-Maurice-d'Ardèche;07;eau potable;179209;2024;75,6;1,8;5,7;66,1;conforme;243747;7663;56;115;375;Non vérifié
-07273;Saint-Maurice-d'Ibie;07;eau potable;179209;2024;75,6;1,8;5,7;66,1;conforme;243747;4332;56;115;212;Non vérifié
-07274;Saint-Maurice-en-Chalencon;07;eau potable : canton de vernoux;179197;2024;69,7;2,2;5,0;66,0;conforme;322003;5775;78;190;203;Non vérifié
-07275;Saint-Mélany;07;eau potable;179117;2024;56,2;1,0;1,3;65,3;non conforme;3949;3949;92;291;118;Non vérifié
-07276;Saint-Michel-d'Aurance;07;eau potable;297214;2024;79,5;0,6;2,3;65,5;conforme;135515;2905;30;94;262;Non vérifié
-07278;Saint-Michel-de-Chabrillanoux;07;eau potable : canton de vernoux;179197;2024;69,7;2,2;5,0;66,0;conforme;322003;11551;78;190;406;Non vérifié
-07279;Saint-Montan;07;eau potable : Territoire DRAGA;179222;2024;78,0;2,8;9,9;67,0;conforme;386367;48774;68;119;1978;Non vérifié
-07280;Saint-Paul-le-Jeune;07;eau potable;179120;2024;76,9;1,9;6,4;66,3;conforme;16297;16297;46;108;968;Non vérifié
-07281;Saint-Péray;07;eau potable : DSP1_svm st peray;179206;2024;74,5;3,1;9,0;66,8;conforme;468407;193510;70;163;7580;Non vérifié
-07282;Saint-Pierre-de-Colombier;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;8546;53;109;444;Non vérifié
-07283;Saint-Pierre-la-Roche;07;eau potable : Réseau Lavezon, Saint-Martin-sur-Lavezon, Saint-Pierre;334094;2024;61,5;1,6;2,6;65,5;non conforme;12264;1680;69;225;67;Non vérifié
-07285;Saint-Pierre-sur-Doux;07;eau potable;194011;2024;94,1;0,1;1,1;65,2;conforme;371;371;9;33;108;Non vérifié
-07286;Saint-Pierreville;07;eau potable;297214;2024;79,5;0,6;2,3;65,5;conforme;135515;5654;30;94;510;Non vérifié
-07287;Saint-Pons;07;eau potable;327894;2024;76,0;4,5;14,1;67,8;conforme;5092;5092;45;117;308;Non vérifié
-07288;Saint-Priest;07;eau potable : Réseau SEBP;334014;2024;76,3;2,9;9,4;66,9;conforme;243455;23775;48;115;1345;Non vérifié
-07289;Saint-Privat;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;32010;53;109;1663;Non vérifié
-07290;Saint-Prix;07;eau potable;179133;2024;61,5;1,0;1,6;65,3;non conforme;4380;4380;45;230;269;Non vérifié
-07291;Saint-Remèze;07;eau potable : eau potable;234354;2024;65,8;2,8;5,5;66,1;non conforme;32193;32193;104;188;847;Non vérifié
-07292;Saint-Romain-d'Ay;07;eau potable : Cance-Doux;179207;2024;75,1;1,5;4,6;65,9;conforme;477436;20784;49;137;1164;Non vérifié
-07293;Saint-Romain-de-Lerps;07;eau potable : DSP1_svm st peray;179206;2024;74,5;3,1;9,0;66,8;conforme;468407;26397;70;163;1034;Non vérifié
-07294;Saint-Sauveur-de-Cruzières;07;eau potable;173312;2024;71,0;2,0;4,9;66,0;conforme;223263;22330;107;150;572;Non vérifié
-07295;Saint-Sauveur-de-Montagut;07;eau potable : st-sauveur-de-montagut;179139;2024;94,6;0,3;5,8;66,2;conforme;3158;3158;8;20;1115;Non vérifié
-07296;Saint-Sernin;07;eau potable;179200;2024;75,8;3,6;11,1;67,2;conforme;76212;29772;44;118;1872;Non vérifié
-07297;Saint-Sylvestre;07;eau potable : DSP1_svm st peray;179206;2024;74,5;3,1;9,0;66,8;conforme;468407;13096;70;163;513;Non vérifié
-07298;Saint-Symphorien-sous-Chomérac;07;eau potable : Réseau SIE Ouvèze Payre;334214;2024;76,0;3,7;11,7;67,3;conforme;503737;21822;67;148;887;Non vérifié
-07299;Saint-Symphorien-de-Mahun;07;eau potable;179144;2024;94,7;0,1;2,6;65,5;conforme;55;55;1;14;116;Non vérifié
-07300;Saint-Thomé;07;eau potable : SIE_FAY;179205;2024;69,1;1,8;4,0;65,8;conforme;74202;14520;83;166;480;Non vérifié
-07301;Saint-Victor;07;eau potable : Cance-Doux;179207;2024;75,1;1,5;4,6;65,9;conforme;477436;17284;49;137;968;Non vérifié
-07302;Saint-Vincent-de-Barrès;07;eau potable : Réseau SIE Ouvèze Payre;334214;2024;76,0;3,7;11,7;67,3;conforme;503737;20272;67;148;824;Non vérifié
-07303;Saint-Vincent-de-Durfort;07;eau potable : canton de vernoux;179197;2024;69,7;2,2;5,0;66,0;conforme;322003;7795;78;190;274;Non vérifié
-07304;Salavas;07;eau potable;173312;2024;71,0;2,0;4,9;66,0;conforme;223263;28889;107;150;740;Non vérifié
-07305;Les Salelles;07;eau potable;179208;2024;83,7;1,0;4,9;66,0;conforme;98550;6222;41;78;414;Non vérifié
-07306;Sampzon;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;4639;53;109;241;Non vérifié
-07307;Sanilhac;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;8412;53;109;437;Non vérifié
-07308;Sarras;07;eau potable : Cance-Doux;179207;2024;75,1;1,5;4,6;65,9;conforme;477436;39639;49;137;2220;Non vérifié
-07309;Satillieu;07;eau potable : Cance-Doux;179207;2024;75,1;1,5;4,6;65,9;conforme;477436;27390;49;137;1534;Non vérifié
-07310;Savas;07;eau potable : Annonay-Serrières;179199;2024;81,4;1,9;8,5;66,7;conforme;367493;12050;37;82;896;Non vérifié
-07311;Sceautres;07;eau potable;194012;2024;63,5;2,0;3,5;65,7;non conforme;1606;1606;31;207;143;Non vérifié
-07312;Sécheras;07;eau potable : Cance-Doux;179207;2024;75,1;1,5;4,6;65,9;conforme;477436;9213;49;137;516;Non vérifié
-07313;Serrières;07;eau potable : Annonay-Serrières;179199;2024;81,4;1,9;8,5;66,7;conforme;367493;14727;37;82;1095;Non vérifié
-07314;Silhac;07;eau potable : canton de vernoux;179197;2024;69,7;2,2;5,0;66,0;conforme;322003;11579;78;190;407;Non vérifié
-07315;La Souche;07;eau potable;179158;2024;74,2;1,0;2,9;65,6;conforme;5475;5475;39;125;385;Non vérifié
-07316;Soyons;07;eau potable : DSP1_svm st peray;179206;2024;74,5;3,1;9,0;66,8;conforme;468407;59764;70;163;2341;Non vérifié
-07317;Talencieux;07;eau potable : Annonay-Serrières;179199;2024;81,4;1,9;8,5;66,7;conforme;367493;14955;37;82;1112;Non vérifié
-07318;Tauriers;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;3907;53;109;203;Non vérifié
-07319;Le Teil;07;eau potable : Réseau Le Teil;334074;2024;75,4;4,3;13,2;67,6;conforme;125560;125560;39;119;8726;Non vérifié
-07321;Thorrenc;07;eau potable : Annonay-Serrières;179199;2024;81,4;1,9;8,5;66,7;conforme;367493;4788;37;82;356;Non vérifié
-07322;Thueyts;07;eau potable;179164;2024;77,6;1,4;4,8;66,0;conforme;18243;18243;41;107;1205;Non vérifié
-07323;Toulaud;07;eau potable : DSP1_svm st peray;179206;2024;74,5;3,1;9,0;66,8;conforme;468407;43068;70;163;1687;Non vérifié
-07324;Tournon-sur-Rhône;07;eau potable : Tournon-sur-Rhone;179166;2024;79,9;4,9;19,3;68,9;conforme;150896;150896;37;93;11279;Non vérifié
-07325;Ucel;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;38863;53;109;2019;Non vérifié
-07326;Usclades-et-Rieutord;07;eau potable;179169;2024;66,5;0,5;0,9;65,2;conforme;2008;2008;52;199;106;Non vérifié
-07327;Uzer;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;8104;53;109;421;Non vérifié
-07328;Vagnas;07;eau potable;173312;2024;71,0;2,0;4,9;66,0;conforme;223263;24829;107;150;636;Non vérifié
-07329;Valgorge;07;eau potable;179173;2024;90,1;0,5;4,2;65,8;conforme;3175;3175;21;44;412;Non vérifié
-07330;Vallon-Pont-d'Arc;07;eau potable;179175;2024;82,6;2,5;12,1;67,4;conforme;52934;52934;60;75;2403;Non vérifié
-07331;Vals-les-Bains;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;66869;53;109;3474;Non vérifié
-07332;Valvignères;07;eau potable : SIE_FAY;179205;2024;69,1;1,8;4,0;65,8;conforme;74202;13310;83;166;440;Non vérifié
-07333;Vanosc;07;eau potable : vanosc;179177;2024;83,8;0,6;3,2;65,6;conforme;4016;4016;12;69;907;Non vérifié
-07334;Les Vans;07;eau potable;179208;2024;83,7;1,0;4,9;66,0;conforme;98550;40009;41;78;2662;Non vérifié
-07335;Vaudevant;07;eau potable : Cance-Doux;179207;2024;75,1;1,5;4,6;65,9;conforme;477436;3982;49;137;223;Non vérifié
-07336;Vernon;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;4523;53;109;235;Non vérifié
-07337;Vernosc-lès-Annonay;07;eau potable : Annonay-Serrières;179199;2024;81,4;1,9;8,5;66,7;conforme;367493;36648;37;82;2725;Non vérifié
-07338;Vernoux-en-Vivarais;07;eau potable : canton de vernoux;179197;2024;69,7;2,2;5,0;66,0;conforme;322003;56389;78;190;1982;Non vérifié
-07339;Vesseaux;07;eau potable;179182;2024;78,9;2,2;8,2;66,6;conforme;25495;25495;34;98;2069;Non vérifié
-07340;Veyras;07;eau potable : Réseau SEBP;334014;2024;76,3;2,9;9,4;66,9;conforme;243455;26603;48;115;1505;Non vérifié
-07341;Villeneuve-de-Berg;07;eau potable;179209;2024;75,6;1,8;5,7;66,1;conforme;243747;61938;56;115;3031;Non vérifié
-07342;Villevocance;07;eau potable : Villevocance;179187;2023;86,8;1,2;7,8;66,6;conforme;6807;6807;16;56;1165;Sans anomalie apparente
-07343;Vinezac;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;26524;53;109;1378;Non vérifié
-07344;Vinzieux;07;eau potable : Annonay-Serrières;179199;2024;81,4;1,9;8,5;66,7;conforme;367493;7236;37;82;538;Non vérifié
-07345;Vion;07;eau potable : Cance-Doux;179207;2024;75,1;1,5;4,6;65,9;conforme;477436;16481;49;137;923;Non vérifié
-07346;Viviers;07;eau potable : Viviers;179223;2021;87,0;1,8;12,2;67,4;conforme;40734;40734;31;68;3633;Sans anomalie apparente
-07347;Vocance;07;eau potable : Vocance;179192;2024;59,2;2,1;3,1;65,6;non conforme;12563;12563;56;251;613;Non vérifié
-07348;Vogüé;07;eau potable;179209;2024;75,6;1,8;5,7;66,1;conforme;243747;21252;56;115;1040;Non vérifié
-07349;La Voulte-sur-Rhône;07;eau potable : la-voulte-sur-rhone;179220;2024;73,1;6,9;18,7;68,7;conforme;93613;93613;53;135;4854;Non vérifié
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement);Donnée suspecte (voir LISEZMOI)
+07001;Accons;07;eau potable;297214;2024;79,5;0,6;2,3;65,5;conforme;135515;4002;30;94;361;Non vérifié;non
+07002;Ailhon;07;eau potable;179196;2024;76,0;1,8;5,6;66,1;conforme;26280;7738;38;119;553;Non vérifié;non
+07003;Aizac;07;eau potable;251974;2024;50,8;6,5;6,7;66,3;non conforme;9490;9490;154;419;169;Non vérifié;non
+07004;Ajoux;07;eau potable : Réseau Ajoux;334294;2024;82,2;0,1;0,5;65,1;conforme;664;664;22;69;81;Non vérifié;non
+07005;Alba-la-Romaine;07;eau potable : SIE_FAY;179205;2024;69,1;1,8;4,0;65,8;conforme;74202;46372;83;166;1533;Non vérifié;non
+07006;Albon-d'Ardèche;07;eau potable;297214;2024;79,5;0,6;2,3;65,5;conforme;135515;1763;30;94;159;Non vérifié;non
+07007;Alboussière;07;eau potable : DSP1_svm st peray;179206;2024;74,5;3,1;9,0;66,8;conforme;468407;26754;70;163;1048;Non vérifié;non
+07008;Alissas;07;eau potable : Réseau SIE Ouvèze Payre;334214;2024;76,0;3,7;11,7;67,3;conforme;503737;37371;67;148;1519;Non vérifié;non
+07009;Andance;07;eau potable : Annonay-Serrières;179199;2024;81,4;1,9;8,5;66,7;conforme;367493;16031;37;82;1192;Non vérifié;non
+07010;Annonay;07;eau potable : Annonay_territoire n°1;178814;2024;94,4;1,5;25,0;70,0;conforme;79388;79388;13;23;17274;Non vérifié;non
+07011;Vallées-d'Antraigues-Asperjoc;07;eau potable (Asperjoc);178823;2024;58,7;3,2;4,6;65,9;non conforme;23757;23757;77;255;845;Non vérifié;non
+07012;Arcens;07;eau potable;297214;2024;79,5;0,6;2,3;65,5;conforme;135515;3836;30;94;346;Non vérifié;non
+07013;Ardoix;07;eau potable : Cance-Doux;179207;2024;75,1;1,5;4,6;65,9;conforme;477436;23355;49;137;1308;Non vérifié;non
+07014;Arlebosc;07;eau potable : Cance-Doux;179207;2024;75,1;1,5;4,6;65,9;conforme;477436;6785;49;137;380;Non vérifié;non
+07015;Arras-sur-Rhône;07;eau potable : Cance-Doux;179207;2024;75,1;1,5;4,6;65,9;conforme;477436;9446;49;137;529;Non vérifié;non
+07017;Les Assions;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;14764;53;109;767;Non vérifié;non
+07018;Astet;07;eau potable;178826;2024;92,0;0,1;1,3;65,3;conforme;219;219;10;29;59;Non vérifié;non
+07019;Aubenas;07;eau potable;178829;2024;82,2;6,2;28,5;70,7;conforme;220642;220642;49;92;12416;Non vérifié;non
+07020;Aubignas;07;eau potable;178830;2024;62,5;2,9;4,8;66,0;non conforme;17645;17645;102;223;476;Non vérifié;non
+07022;Baix;07;eau potable : Réseau SIE Ouvèze Payre;334214;2024;76,0;3,7;11,7;67,3;conforme;503737;31885;67;148;1296;Non vérifié;non
+07023;Balazuc;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;7488;53;109;389;Non vérifié;non
+07024;Banne;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;12473;53;109;648;Non vérifié;non
+07025;Barnas;07;eau potable;178833;2021;87,8;0,7;4,7;65,9;conforme;2785;2785;37;54;209;Sans anomalie apparente;non
+07026;Le Béage;07;eau potable : Territoire n°1;178836;2024;79,0;1,0;3,7;65,7;conforme;4511;4511;49;99;254;Non vérifié;non
+07027;Beauchastel;07;eau potable : SUD AYGUO;339354;2024;89,9;3,0;26,6;70,3;conforme;65831;34668;53;153;1800;Non vérifié;non
+07028;Beaulieu;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;10471;53;109;544;Non vérifié;non
+07029;Beaumont;07;eau potable;194000;2024;72,0;0,5;1,2;65,2;conforme;7785;7785;81;150;262;Non vérifié;non
+07030;Beauvène;07;eau potable : Réseau  Beauvène;334134;2024;12,4;10,4;1,5;65,3;non conforme;60736;60736;816;2585;204;Non vérifié;non
+07031;Berrias-et-Casteljau;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;15264;53;109;793;Non vérifié;non
+07032;Berzème;07;eau potable;179209;2024;75,6;1,8;5,7;66,1;conforme;243747;3249;56;115;159;Non vérifié;non
+07033;Bessas;07;eau potable;173312;2024;71,0;2,0;4,9;66,0;conforme;223263;9135;107;150;234;Non vérifié;non
+07034;Bidon;07;eau potable : Territoire DRAGA;179222;2024;78,0;2,8;9,9;67,0;conforme;386367;6263;68;119;254;Non vérifié;non
+07035;Boffres;07;eau potable : canton de vernoux;179197;2024;69,7;2,2;5,0;66,0;conforme;322003;18009;78;190;633;Non vérifié;non
+07036;Bogy;07;eau potable : Annonay-Serrières;179199;2024;81,4;1,9;8,5;66,7;conforme;367493;6563;37;82;488;Non vérifié;non
+07037;Borée;07;eau potable;178846;2024;55,1;2,1;2,5;65,5;non conforme;10884;10884;221;320;135;Non vérifié;non
+07038;Borne;07;eau potable;178849;2024;84,5;0,3;1,8;65,4;conforme;670;670;44;60;42;Non vérifié;non
+07039;Bozas;07;eau potable : Cance-Doux;179207;2024;75,1;1,5;4,6;65,9;conforme;477436;4553;49;137;255;Non vérifié;non
+07040;Boucieu-le-Roi;07;eau potable : Cance-Doux;179207;2024;75,1;1,5;4,6;65,9;conforme;477436;4339;49;137;243;Non vérifié;non
+07041;Boulieu-lès-Annonay;07;eau potable : Annonay-Serrières;179199;2024;81,4;1,9;8,5;66,7;conforme;367493;30233;37;82;2248;Non vérifié;non
+07042;Bourg-Saint-Andéol;07;eau potable : Territoire DRAGA;179222;2024;78,0;2,8;9,9;67,0;conforme;386367;188905;68;119;7661;Non vérifié;non
+07044;Brossainc;07;eau potable : Annonay-Serrières;179199;2024;81,4;1,9;8,5;66,7;conforme;367493;3524;37;82;262;Non vérifié;non
+07045;Burzet;07;eau potable;178856;2024;68,0;1,7;3,6;65,7;conforme;11039;11039;56;170;536;Non vérifié;non
+07047;Cellier-du-Luc;07;eau potable;178858;2024;22,0;4,8;1,3;65,3;non conforme;15768;15768;475;1309;91;Non vérifié;non
+07048;Chalencon;07;eau potable : Réseau Chalencon;334274;2024;66,4;1,3;2,6;65,5;conforme;6169;6169;52;183;328;Non vérifié;non
+07049;Le Chambon;07;eau potable;297214;2024;79,5;0,6;2,3;65,5;conforme;135515;643;30;94;58;Non vérifié;non
+07050;Chambonas;07;eau potable;179208;2024;83,7;1,0;4,9;66,0;conforme;98550;14910;41;78;992;Non vérifié;non
+07051;Champagne;07;eau potable : Annonay-Serrières;179199;2024;81,4;1,9;8,5;66,7;conforme;367493;8769;37;82;652;Non vérifié;non
+07052;Champis;07;eau potable : DSP1_svm st peray;179206;2024;74,5;3,1;9,0;66,8;conforme;468407;17360;70;163;680;Non vérifié;non
+07053;Chandolas;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;10529;53;109;547;Non vérifié;non
+07054;Chanéac;07;eau potable;297214;2024;79,5;0,6;2,3;65,5;conforme;135515;2816;30;94;254;Non vérifié;non
+07055;Charmes-sur-Rhône;07;eau potable : canton de vernoux;179197;2024;69,7;2,2;5,0;66,0;conforme;322003;89420;78;190;3143;Non vérifié;non
+07056;Charnas;07;eau potable : Annonay-Serrières;179199;2024;81,4;1,9;8,5;66,7;conforme;367493;12440;37;82;925;Non vérifié;non
+07058;Chassiers;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;19037;53;109;989;Non vérifié;non
+07059;Châteaubourg;07;eau potable : DSP1_svm st peray;179206;2024;74,5;3,1;9,0;66,8;conforme;468407;5795;70;163;227;Non vérifié;non
+07060;Châteauneuf-de-Vernoux;07;eau potable : canton de vernoux;179197;2024;69,7;2,2;5,0;66,0;conforme;322003;8194;78;190;288;Non vérifié;non
+07061;Chauzon;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;8123;53;109;422;Non vérifié;non
+07062;Chazeaux;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;2579;53;109;134;Non vérifié;non
+07063;Cheminas;07;eau potable : Cance-Doux;179207;2024;75,1;1,5;4,6;65,9;conforme;477436;7553;49;137;423;Non vérifié;non
+07064;Le Cheylard;07;eau potable;297214;2024;79,5;0,6;2,3;65,5;conforme;135515;31074;30;94;2803;Non vérifié;non
+07065;Chirols;07;eau potable;178869;2024;95,0;0,1;1,5;65,3;conforme;708;708;7;24;289;Non vérifié;non
+07066;Chomérac;07;eau potable : Réseau SIE Ouvèze Payre;334214;2024;76,0;3,7;11,7;67,3;conforme;503737;78310;67;148;3183;Non vérifié;non
+07067;Colombier-le-Cardinal;07;eau potable : Annonay-Serrières;179199;2024;81,4;1,9;8,5;66,7;conforme;367493;4398;37;82;327;Non vérifié;non
+07068;Colombier-le-Jeune;07;eau potable : Cance-Doux;179207;2024;75,1;1,5;4,6;65,9;conforme;477436;10053;49;137;563;Non vérifié;non
+07069;Colombier-le-Vieux;07;eau potable : Cance-Doux;179207;2024;75,1;1,5;4,6;65,9;conforme;477436;12320;49;137;690;Non vérifié;non
+07070;Cornas;07;eau potable : DSP1_svm st peray;179206;2024;74,5;3,1;9,0;66,8;conforme;468407;61525;70;163;2410;Non vérifié;non
+07071;Coucouron;07;eau potable;178874;2024;88,1;1,4;10,5;67,1;conforme;15841;15841;56;49;777;Non vérifié;non
+07072;Coux;07;eau potable : Réseau SEBP;334014;2024;76,3;2,9;9,4;66,9;conforme;243455;28901;48;115;1635;Non vérifié;non
+07073;Le Crestet;07;eau potable;178877;2024;65,6;2,6;5,0;66,0;non conforme;13571;13571;72;192;518;Non vérifié;non
+07074;Creysseilles;07;eau potable : Réseau SEBP;334014;2024;76,3;2,9;9,4;66,9;conforme;243455;2793;48;115;158;Non vérifié;non
+07075;Cros-de-Géorand;07;eau potable;178882;2024;73,0;0,9;2,5;65,5;conforme;1741;1741;31;131;156;Non vérifié;non
+07076;Cruas;07;eau potable : Réseau SIE Ouvèze Payre;334214;2024;76,0;3,7;11,7;67,3;conforme;503737;71298;67;148;2898;Non vérifié;non
+07077;Darbres;07;eau potable;179209;2024;75,6;1,8;5,7;66,1;conforme;243747;5558;56;115;272;Non vérifié;non
+07078;Davézieux;07;eau potable : Annonay-Serrières;179199;2024;81,4;1,9;8,5;66,7;conforme;367493;43104;37;82;3205;Non vérifié;non
+07079;Désaignes;07;eau potable;178886;2024;72,8;1,1;3,0;65,6;conforme;32517;32517;77;132;1151;Non vérifié;non
+07080;Devesset;07;eau potable;297214;2024;79,5;0,6;2,3;65,5;conforme;135515;3437;30;94;310;Non vérifié;non
+07081;Dompnac;07;eau potable;178890;2024;50,5;0,8;0,8;65,2;non conforme;2920;2920;103;343;78;Non vérifié;non
+07082;Dornas;07;eau potable;297214;2024;79,5;0,6;2,3;65,5;conforme;135515;2162;30;94;195;Non vérifié;non
+07083;Dunière-sur-Eyrieux;07;eau potable : Dunières-sur-Eyrieux;178892;2024;85,4;1,3;7,6;66,5;conforme;2752;2752;17;63;437;Non vérifié;non
+07084;Eclassan;07;eau potable : Cance-Doux;179207;2024;75,1;1,5;4,6;65,9;conforme;477436;18820;49;137;1054;Non vérifié;non
+07085;Empurany;07;eau potable : Territoire n°1;178896;2024;75,7;0,6;1,9;65,4;conforme;7433;7433;36;114;571;Non vérifié;non
+07086;Étables;07;eau potable : Cance-Doux;179207;2024;75,1;1,5;4,6;65,9;conforme;477436;17855;49;137;1000;Non vérifié;non
+07087;Fabras;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;8989;53;109;467;Non vérifié;non
+07088;Faugères;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;2368;53;109;123;Non vérifié;non
+07089;Félines;07;eau potable : Annonay-Serrières;179199;2024;81,4;1,9;8,5;66,7;conforme;367493;26010;37;82;1934;Non vérifié;non
+07090;Flaviac;07;eau potable : Réseau SIE Ouvèze Payre;334214;2024;76,0;3,7;11,7;67,3;conforme;503737;30384;67;148;1235;Non vérifié;non
+07091;Fons;07;eau potable;178901;2024;71,4;2,9;7,3;66,5;conforme;5822;5822;50;145;316;Non vérifié;non
+07092;Freyssenet;07;eau potable;179209;2024;75,6;1,8;5,7;66,1;conforme;243747;981;56;115;48;Non vérifié;non
+07093;Genestelle;07;eau potable;285434;2024;94,8;0,2;3,9;65,8;conforme;272;272;3;19;266;Non vérifié;non
+07094;Gilhac-et-Bruzac;07;eau potable : canton de vernoux;179197;2024;69,7;2,2;5,0;66,0;conforme;322003;4893;78;190;172;Non vérifié;non
+07096;Gluiras;07;eau potable : Réseau Gluiras;334154;2024;71,6;0,5;1,4;65,3;conforme;4928;4928;37;134;366;Non vérifié;non
+07097;Glun;07;eau potable : PONT D'ISERE LA ROCHE DE GLUN;199598;2024;69,8;4,6;10,6;67,1;conforme;161704;13810;56;161;677;Non vérifié;non
+07098;Gourdon;07;eau potable : Réseau Gourdon;334234;2024;72,5;0,4;1,1;65,2;conforme;1168;1168;38;128;85;Non vérifié;non
+07099;Gras;07;eau potable : Territoire DRAGA;179222;2024;78,0;2,8;9,9;67,0;conforme;386367;14573;68;119;591;Non vérifié;non
+07100;Gravières;07;eau potable;179208;2024;83,7;1,0;4,9;66,0;conforme;98550;7635;41;78;508;Non vérifié;non
+07101;Grospierres;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;18113;53;109;941;Non vérifié;non
+07102;Guilherand-Granges;07;eau potable : Guilherand Granges;178918;2024;96,3;1,1;27,8;70,6;conforme;23962;23962;6;15;11235;Non vérifié;non
+07103;Saint-Julien-d'Intres;07;eau potable;297214;2024;79,5;0,6;2,3;65,5;conforme;135515;3359;30;94;303;Non vérifié;non
+07104;Issamoulenc;07;eau potable;297214;2024;79,5;0,6;2,3;65,5;conforme;135515;1186;30;94;107;Non vérifié;non
+07105;Issanlas;07;eau potable;178921;2024;90,6;0,2;2,2;65,4;conforme;759;759;20;33;104;Non vérifié;non
+07106;Issarlès;07;eau potable;178923;2024;92,1;0,1;1,5;65,3;conforme;474;474;10;25;125;Non vérifié;non
+07107;Jaujac;07;eau potable;178926;2024;81,0;1,2;5,1;66,0;conforme;12006;12006;27;86;1199;Non vérifié;non
+07108;Jaunac;07;eau potable;297214;2024;79,5;0,6;2,3;65,5;conforme;135515;1386;30;94;125;Non vérifié;non
+07109;Joannas;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;6314;53;109;328;Non vérifié;non
+07110;Joyeuse;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;34859;53;109;1811;Non vérifié;non
+07111;Juvinas;07;eau potable;178929;2024;100,0;0,0;5,9;66,2;conforme;0;0;0;0;187;Non vérifié;non
+07112;Labastide-sur-Bésorgues;07;eau potable;178931;2024;82,4;0,8;3,8;65,8;conforme;2380;2380;23;77;285;Non vérifié;non
+07113;Labastide-de-Virac;07;eau potable;173312;2024;71,0;2,0;4,9;66,0;conforme;223263;12805;107;150;328;Non vérifié;non
+07114;Labatie-d'Andaure;07;eau potable;178935;2024;79,9;0,4;1,4;65,3;conforme;1533;1533;18;102;228;Non vérifié;non
+07115;Labeaume;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;13435;53;109;698;Non vérifié;non
+07116;Labégude;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;26890;53;109;1397;Non vérifié;non
+07117;Lablachère;07;eau potable;178936;2024;78,5;1,7;6,2;66,2;conforme;39588;39588;49;101;2193;Non vérifié;non
+07118;Laboule;07;eau potable;178939;2024;98,0;0,1;2,7;65,5;conforme;290;290;5;13;146;Non vérifié;non
+07119;Le Lac-d'Issarlès;07;eau potable;178941;2024;50,6;11,1;11,4;67,3;non conforme;72927;72927;809;357;247;Non vérifié;non
+07120;Lachamp-Raphaël;07;eau potable;178943;2024;93,8;0,1;1,7;65,3;conforme;137;137;5;22;70;Non vérifié;non
+07121;Lachapelle-Graillouse;07;eau potable;178945;2024;58,5;1,4;2,0;65,4;non conforme;9709;9709;146;260;182;Non vérifié;non
+07122;Lachapelle-sous-Aubenas;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;36784;53;109;1911;Non vérifié;non
+07123;Lachapelle-sous-Chanéac;07;eau potable;297214;2024;79,5;0,6;2,3;65,5;conforme;135515;1752;30;94;158;Non vérifié;non
+07124;Lafarre;07;eau potable;178948;2024;74,0;0,3;0,8;65,2;conforme;110;110;7;136;45;Non vérifié;non
+07126;Lagorce;07;eau potable : Territoire n°1;178951;2024;68,3;2,0;4,3;65,9;conforme;48326;48326;105;170;1257;Non vérifié;non
+07127;Lalevade-d'Ardèche;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;21558;53;109;1120;Non vérifié;non
+07128;Lalouvesc;07;eau potable;178952;2024;41,9;9,2;6,7;66,3;non conforme;47012;47012;332;504;388;Non vérifié;non
+07129;Lamastre;07;eau potable;178954;2024;73,9;2,5;7,2;66,4;conforme;46802;46802;55;127;2327;Non vérifié;non
+07131;Lanas;07;eau potable;179209;2024;75,6;1,8;5,7;66,1;conforme;243747;8767;56;115;429;Non vérifié;non
+07132;Largentière;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;27910;53;109;1450;Non vérifié;non
+07133;Larnas;07;eau potable : Territoire DRAGA;179222;2024;78,0;2,8;9,9;67,0;conforme;386367;6978;68;119;283;Non vérifié;non
+07134;Laurac-en-Vivarais;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;20115;53;109;1045;Non vérifié;non
+07136;Laveyrune;07;eau potable;143368;2024;50,3;2,4;2,4;65,5;non conforme;26280;10493;259;368;111;Non vérifié;non
+07137;Lavillatte;07;eau potable;194002;2024;86,9;0,4;2,6;65,5;conforme;438;438;27;56;44;Non vérifié;non
+07138;Lavilledieu;07;eau potable;179209;2024;75,6;1,8;5,7;66,1;conforme;243747;46265;56;115;2264;Non vérifié;non
+07139;Laviolle;07;eau potable;194003;2024;54,2;2,3;2,7;65,5;non conforme;4894;4894;137;307;98;Non vérifié;non
+07140;Lemps;07;eau potable : Cance-Doux;179207;2024;75,1;1,5;4,6;65,9;conforme;477436;14249;49;137;798;Non vérifié;non
+07141;Lentillères;07;eau potable;178965;2024;86,2;0,2;1,4;65,3;conforme;1389;1389;16;50;236;Non vérifié;non
+07142;Lespéron;07;eau potable;178968;2024;83,0;0,5;2,4;65,5;conforme;4471;4471;37;78;330;Non vérifié;non
+07143;Limony;07;eau potable : Annonay-Serrières;179199;2024;81,4;1,9;8,5;66,7;conforme;367493;11203;37;82;833;Non vérifié;non
+07144;Loubaresse;07;eau potable;194004;2024;93,1;0,2;2,4;65,5;conforme;204;204;13;31;43;Non vérifié;non
+07145;Lussas;07;eau potable;179209;2024;75,6;1,8;5,7;66,1;conforme;243747;23398;56;115;1145;Non vérifié;non
+07146;Lyas;07;eau potable : Réseau SEBP;334014;2024;76,3;2,9;9,4;66,9;conforme;243455;10464;48;115;592;Non vérifié;non
+07147;Malarce-sur-la-Thines;07;eau potable;178974;2024;75,8;0,6;1,8;65,4;conforme;4240;4240;43;123;268;Non vérifié;non
+07148;Malbosc;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;2810;53;109;146;Non vérifié;non
+07149;Marcols-les-Eaux;07;eau potable : Réseau Marcols-les-Eaux;334194;2024;80,7;1,0;4,1;65,8;conforme;2920;2920;27;89;291;Non vérifié;non
+07150;Mariac;07;eau potable;297214;2024;79,5;0,6;2,3;65,5;conforme;135515;5998;30;94;541;Non vérifié;non
+07151;Mars;07;eau potable;297214;2024;79,5;0,6;2,3;65,5;conforme;135515;2694;30;94;243;Non vérifié;non
+07152;Mauves;07;eau potable : Mauves;178982;2024;83,9;2,5;13,0;67,6;conforme;9983;9983;23;70;1210;Non vérifié;non
+07153;Mayres;07;eau potable;178983;2024;53,4;2,7;3,1;65,6;non conforme;14999;14999;157;322;262;Non vérifié;non
+07154;Mazan-l'Abbaye;07;eau potable;178985;2024;90,0;0,2;1,6;65,3;conforme;604;604;14;44;120;Non vérifié;non
+07155;Mercuer;07;eau potable;179196;2024;76,0;1,8;5,6;66,1;conforme;26280;18542;38;119;1325;Non vérifié;non
+07156;Meyras;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;17112;53;109;889;Non vérifié;non
+07157;Meysse;07;eau potable : Réseau SIE Ouvèze Payre;334214;2024;76,0;3,7;11,7;67,3;conforme;503737;33607;67;148;1366;Non vérifié;non
+07158;Mézilhac;07;eau potable;178989;2024;70,0;0,9;2,1;65,4;conforme;2398;2398;61;159;107;Non vérifié;non
+07159;Mirabel;07;eau potable;179209;2024;75,6;1,8;5,7;66,1;conforme;243747;15714;56;115;769;Non vérifié;non
+07160;Monestier;07;eau potable : Le Monestier;178992;2024;95,7;0,0;0,4;65,1;conforme;0;0;0;0;58;Non vérifié;non
+07161;Montpezat-sous-Bauzon;07;eau potable;178994;2024;84,0;2,1;11,2;67,2;conforme;19776;19776;70;69;770;Non vérifié;non
+07162;Montréal;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;11029;53;109;573;Non vérifié;non
+07163;Montselgues;07;eau potable;179208;2024;83,7;1,0;4,9;66,0;conforme;98550;1293;41;78;86;Non vérifié;non
+07165;Belsentes;07;eau potable;297214;2024;79,5;0,6;2,3;65,5;conforme;135515;5964;30;94;538;Non vérifié;non
+07166;Nozières;07;eau potable;179000;2024;83,0;0,3;1,4;65,3;conforme;1084;1084;13;81;237;Non vérifié;non
+07167;Les Ollières-sur-Eyrieux;07;eau potable : les-ollieres-sur-eyrieux;179001;2024;77,5;2,5;8,5;66,7;conforme;22639;22639;60;127;1031;Non vérifié;non
+07168;Orgnac-l'Aven;07;eau potable;173312;2024;71,0;2,0;4,9;66,0;conforme;223263;22447;107;150;575;Non vérifié;non
+07169;Ozon;07;eau potable : Cance-Doux;179207;2024;75,1;1,5;4,6;65,9;conforme;477436;6821;49;137;382;Non vérifié;non
+07170;Pailharès;07;eau potable : Pailhares;179005;2024;91,0;0,1;1,1;65,2;conforme;890;890;8;35;310;Non vérifié;non
+07171;Payzac;07;eau potable;179208;2024;83,7;1,0;4,9;66,0;conforme;98550;8101;41;78;539;Non vérifié;non
+07172;Peaugres;07;eau potable : Annonay-Serrières;179199;2024;81,4;1,9;8,5;66,7;conforme;367493;32076;37;82;2385;Non vérifié;non
+07174;Peyraud;07;eau potable : Annonay-Serrières;179199;2024;81,4;1,9;8,5;66,7;conforme;367493;6940;37;82;516;Non vérifié;non
+07176;Planzolles;07;eau potable;194005;2024;81,8;1,1;4,9;66,0;conforme;1883;1883;31;82;164;Non vérifié;non
+07177;Plats;07;eau potable : DSP1_svm st peray;179206;2024;74,5;3,1;9,0;66,8;conforme;468407;21138;70;163;828;Non vérifié;non
+07178;Pont-de-Labeaume;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;10914;53;109;567;Non vérifié;non
+07179;Pourchères;07;eau potable : Réseau Pourchères;334254;2024;93,8;0,3;4,1;65,8;conforme;438;438;9;27;136;Non vérifié;non
+07181;Le Pouzin;07;eau potable : Réseau SIE Ouvèze Payre;334214;2024;76,0;3,7;11,7;67,3;conforme;503737;71003;67;148;2886;Non vérifié;non
+07182;Prades;07;eau potable;179016;2024;73,0;2,0;5,4;66,1;conforme;23360;23360;54;135;1195;Non vérifié;non
+07183;Pradons;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;10490;53;109;545;Non vérifié;non
+07184;Pranles;07;eau potable : Réseau Pranles;334255;2024;72,0;0,5;1,3;65,3;conforme;7665;7665;42;137;499;Non vérifié;non
+07185;Préaux;07;eau potable : Cance-Doux;179207;2024;75,1;1,5;4,6;65,9;conforme;477436;12642;49;137;708;Non vérifié;non
+07186;Privas;07;eau potable : Réseau SEBP;334014;2024;76,3;2,9;9,4;66,9;conforme;243455;150920;48;115;8538;Non vérifié;non
+07187;Prunet;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;2579;53;109;134;Non vérifié;non
+07188;Quintenas;07;eau potable : Cance-Doux;179207;2024;75,1;1,5;4,6;65,9;conforme;477436;31604;49;137;1770;Non vérifié;non
+07189;Ribes;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;6371;53;109;331;Non vérifié;non
+07190;Rochecolombe;07;eau potable;179209;2024;75,6;1,8;5,7;66,1;conforme;243747;4639;56;115;227;Non vérifié;non
+07191;Rochemaure;07;eau potable : Réseau Lavezon;334114;2024;58,6;5,6;8,0;66,6;non conforme;73584;73584;90;256;2239;Non vérifié;non
+07192;Rochepaule;07;eau potable;297214;2024;79,5;0,6;2,3;65,5;conforme;135515;2627;30;94;237;Non vérifié;non
+07193;Rocher;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;5890;53;109;306;Non vérifié;non
+07194;Rochessauve;07;eau potable : Réseau SIE Ouvèze Payre;334214;2024;76,0;3,7;11,7;67,3;conforme;503737;12178;67;148;495;Non vérifié;non
+07196;Rocles;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;5024;53;109;261;Non vérifié;non
+07197;Roiffieux;07;eau potable : Cance-Doux;179207;2024;75,1;1,5;4,6;65,9;conforme;477436;48977;49;137;2743;Non vérifié;non
+07198;Rompon;07;eau potable : Réseau SIE Ouvèze Payre;334214;2024;76,0;3,7;11,7;67,3;conforme;503737;28022;67;148;1139;Non vérifié;non
+07199;Rosières;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;25389;53;109;1319;Non vérifié;non
+07200;Le Roux;07;eau potable;179033;2024;66,6;1,1;2,2;65,4;conforme;1164;1164;48;180;67;Non vérifié;non
+07201;Ruoms;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;44483;53;109;2311;Non vérifié;non
+07202;Sablières;07;eau potable;179034;2024;56,9;0,6;0,7;65,1;non conforme;5913;5913;98;298;166;Non vérifié;non
+07203;Sagnes-et-Goudoulet;07;eau potable;179036;2024;77,5;1,4;4,7;65,9;conforme;1175;1175;27;108;121;Non vérifié;non
+07204;Saint-Agrève;07;eau potable;297214;2024;79,5;0,6;2,3;65,5;conforme;135515;25243;30;94;2277;Non vérifié;non
+07205;Saint-Alban-d'Ay;07;eau potable : Cance-Doux;179207;2024;75,1;1,5;4,6;65,9;conforme;477436;24712;49;137;1384;Non vérifié;non
+07206;Saint-Alban-en-Montagne;07;eau potable;194007;2024;67,7;0,4;0,9;65,2;conforme;1469;1469;64;159;63;Non vérifié;non
+07207;Saint-Alban-Auriolles;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;21905;53;109;1138;Non vérifié;non
+07208;Saint-Andéol-de-Berg;07;eau potable;179209;2024;75,6;1,8;5,7;66,1;conforme;243747;2738;56;115;134;Non vérifié;non
+07209;Saint-Andéol-de-Fourchades;07;eau potable;297214;2024;79,5;0,6;2,3;65,5;conforme;135515;576;30;94;52;Non vérifié;non
+07210;Saint-Andéol-de-Vals;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;10298;53;109;535;Non vérifié;non
+07211;Saint-André-de-Cruzières;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;8989;53;109;467;Non vérifié;non
+07212;Saint-André-en-Vivarais;07;eau potable;297214;2024;79,5;0,6;2,3;65,5;conforme;135515;2350;30;94;212;Non vérifié;non
+07213;Saint-André-Lachamp;07;eau potable;179045;2024;73,3;0,3;0,8;65,2;conforme;2803;2803;46;137;167;Non vérifié;non
+07214;Saint-Apollinaire-de-Rias;07;eau potable : canton de vernoux;179197;2024;69,7;2,2;5,0;66,0;conforme;322003;5548;78;190;195;Non vérifié;non
+07215;Saint-Barthélemy-le-Meil;07;eau potable;297214;2024;79,5;0,6;2,3;65,5;conforme;135515;2228;30;94;201;Non vérifié;non
+07216;Saint-Barthélemy-Grozon;07;eau potable;179048;2024;65,8;2,4;4,7;65,9;non conforme;33288;33288;185;568;494;Non vérifié;non
+07217;Saint-Barthélemy-le-Plain;07;eau potable : Cance-Doux;179207;2024;75,1;1,5;4,6;65,9;conforme;477436;15320;49;137;858;Non vérifié;non
+07218;Saint-Basile;07;eau potable;179052;2024;86,1;0,1;0,9;65,2;conforme;1233;1233;9;40;356;Non vérifié;non
+07219;Saint-Bauzile;07;eau potable : Réseau SIE Ouvèze Payre;334214;2024;76,0;3,7;11,7;67,3;conforme;503737;7651;67;148;311;Non vérifié;non
+07220;Saint-Christol;07;eau potable;297214;2024;79,5;0,6;2,3;65,5;conforme;135515;1131;30;94;102;Non vérifié;non
+07221;Saint-Cierge-la-Serre;07;eau potable : Réseau Saint-Cierge-la-Serre;334174;2024;82,0;0,3;1,5;65,3;conforme;2409;2409;27;72;243;Non vérifié;non
+07222;Saint-Cierge-sous-le-Cheylard;07;eau potable;297214;2024;79,5;0,6;2,3;65,5;conforme;135515;2372;30;94;214;Non vérifié;non
+07223;Saint-Cirgues-de-Prades;07;eau potable;179056;2024;90,8;0,3;2,5;65,5;conforme;793;793;15;43;142;Non vérifié;non
+07224;Saint-Cirgues-en-Montagne;07;eau potable;179058;2024;67,4;3,5;7,2;66,4;conforme;31938;31938;415;457;211;Non vérifié;non
+07225;Saint-Clair;07;eau potable : Annonay-Serrières;179199;2024;81,4;1,9;8,5;66,7;conforme;367493;18129;37;82;1348;Non vérifié;non
+07226;Saint-Clément;07;eau potable;297214;2024;79,5;0,6;2,3;65,5;conforme;135515;998;30;94;90;Non vérifié;non
+07227;Saint-Cyr;07;eau potable : Annonay-Serrières;179199;2024;81,4;1,9;8,5;66,7;conforme;367493;19851;37;82;1476;Non vérifié;non
+07228;Saint-Désirat;07;eau potable : Annonay-Serrières;179199;2024;81,4;1,9;8,5;66,7;conforme;367493;11983;37;82;891;Non vérifié;non
+07229;Saint-Didier-sous-Aubenas;07;eau potable;179064;2024;70,2;5,7;13,5;67,7;conforme;20805;20805;62;155;919;Non vérifié;non
+07231;Saint-Étienne-de-Fontbellon;07;eau potable;179200;2024;75,8;3,6;11,1;67,2;conforme;76212;46440;44;118;2920;Non vérifié;non
+07232;Saint-Étienne-de-Lugdarès;07;eau potable;179066;2024;87,9;0,3;2,0;65,4;conforme;3723;3723;25;54;406;Non vérifié;non
+07233;Saint-Étienne-de-Serre;07;eau potable : Réseau Saint-Etienne-de-Serre;334054;2024;98,7;0,0;1,6;65,3;conforme;0;0;0;0;230;Non vérifié;non
+07234;Saint-Étienne-de-Valoux;07;eau potable : Annonay-Serrières;179199;2024;81,4;1,9;8,5;66,7;conforme;367493;3537;37;82;263;Non vérifié;non
+07235;Sainte-Eulalie;07;eau potable;179070;2024;100,0;0,0;1,3;65,3;conforme;0;0;0;0;209;Non vérifié;non
+07236;Saint-Félicien;07;eau potable : Cance-Doux;179207;2024;75,1;1,5;4,6;65,9;conforme;477436;19980;49;137;1119;Non vérifié;non
+07237;Saint-Fortunat-sur-Eyrieux;07;eau potable : canton de vernoux;179197;2024;69,7;2,2;5,0;66,0;conforme;322003;23244;78;190;817;Non vérifié;non
+07238;Saint-Genest-de-Beauzon;07;eau potable;179208;2024;83,7;1,0;4,9;66,0;conforme;98550;4990;41;78;332;Non vérifié;non
+07239;Saint-Genest-Lachamp;07;eau potable;297214;2024;79,5;0,6;2,3;65,5;conforme;135515;1242;30;94;112;Non vérifié;non
+07240;Saint-Georges-les-Bains;07;eau potable : canton de vernoux;179197;2024;69,7;2,2;5,0;66,0;conforme;322003;68736;78;190;2416;Non vérifié;non
+07241;Saint-Germain;07;eau potable;179209;2024;75,6;1,8;5,7;66,1;conforme;243747;14407;56;115;705;Non vérifié;non
+07242;Saint-Gineis-en-Coiron;07;eau potable;179209;2024;75,6;1,8;5,7;66,1;conforme;243747;2554;56;115;125;Non vérifié;non
+07243;Saint-Jacques-d'Atticieux;07;eau potable : Annonay-Serrières;179199;2024;81,4;1,9;8,5;66,7;conforme;367493;4048;37;82;301;Non vérifié;non
+07244;Saint-Jean-Chambre;07;eau potable : canton de vernoux;179197;2024;69,7;2,2;5,0;66,0;conforme;322003;7255;78;190;255;Non vérifié;non
+07245;Saint-Jean-de-Muzols;07;eau potable : Cance-Doux;179207;2024;75,1;1,5;4,6;65,9;conforme;477436;44442;49;137;2489;Non vérifié;non
+07247;Saint-Jean-le-Centenier;07;eau potable;179209;2024;75,6;1,8;5,7;66,1;conforme;243747;17799;56;115;871;Non vérifié;non
+07248;Saint-Jean-Roure;07;eau potable;297214;2024;79,5;0,6;2,3;65,5;conforme;135515;3049;30;94;275;Non vérifié;non
+07249;Saint-Jeure-d'Andaure;07;eau potable;297214;2024;79,5;0,6;2,3;65,5;conforme;135515;1153;30;94;104;Non vérifié;non
+07250;Saint-Jeure-d'Ay;07;eau potable : Cance-Doux;179207;2024;75,1;1,5;4,6;65,9;conforme;477436;8838;49;137;495;Non vérifié;non
+07251;Saint-Joseph-des-Bancs;07;eau potable;179089;2024;16,9;5,9;1,2;65,2;non conforme;36610;36610;502;1790;200;Non vérifié;non
+07253;Saint-Julien-du-Gua;07;eau potable : Réseau Saint-Julien-du-Gua;334256;2024;72,3;0,5;1,4;65,3;conforme;3102;3102;50;134;169;Non vérifié;non
+07254;Saint-Julien-du-Serre;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;16919;53;109;879;Non vérifié;non
+07255;Saint-Julien-en-Saint-Alban;07;eau potable : Réseau SIE Ouvèze Payre;334214;2024;76,0;3,7;11,7;67,3;conforme;503737;36043;67;148;1465;Non vérifié;non
+07257;Saint-Julien-le-Roux;07;eau potable : canton de vernoux;179197;2024;69,7;2,2;5,0;66,0;conforme;322003;3613;78;190;127;Non vérifié;non
+07258;Saint-Julien-Vocance;07;eau potable : St-julien-vocance;194009;2024;88,5;0,4;2,8;65,6;conforme;1229;1229;15;67;221;Non vérifié;non
+07259;Saint-Just-d'Ardèche;07;eau potable : Territoire DRAGA;179222;2024;78,0;2,8;9,9;67,0;conforme;386367;38886;68;119;1577;Non vérifié;non
+07260;Saint-Lager-Bressac;07;eau potable : Réseau SIE Ouvèze Payre;334214;2024;76,0;3,7;11,7;67,3;conforme;503737;23889;67;148;971;Non vérifié;non
+07261;Saint-Laurent-du-Pape;07;eau potable : SUD AYGUO;339354;2024;89,9;3,0;26,6;70,3;conforme;65831;31163;53;153;1618;Non vérifié;non
+07262;Saint-Laurent-les-Bains-Laval-d'Aurelle;07;eau potable : saint-laurent-les-bains-laval-d'aurelle;336954;2024;98,7;0,1;5,7;66,1;conforme;269;269;4;6;183;Non vérifié;non
+07263;Saint-Laurent-sous-Coiron;07;eau potable;179209;2024;75,6;1,8;5,7;66,1;conforme;243747;2493;56;115;122;Non vérifié;non
+07264;Saint-Marcel-d'Ardèche;07;eau potable : Territoire DRAGA;179222;2024;78,0;2,8;9,9;67,0;conforme;386367;57848;68;119;2346;Non vérifié;non
+07265;Saint-Marcel-lès-Annonay;07;eau potable : Annonay-Serrières;179199;2024;81,4;1,9;8,5;66,7;conforme;367493;18250;37;82;1357;Non vérifié;non
+07266;Sainte-Marguerite-Lafigère;07;eau potable;179208;2024;83,7;1,0;4,9;66,0;conforme;98550;1668;41;78;111;Non vérifié;non
+07267;Saint-Martial;07;eau potable;179108;2024;97,5;0,1;3,4;65,7;conforme;336;336;3;11;269;Non vérifié;non
+07268;Saint-Martin-d'Ardèche;07;eau potable : Territoire DRAGA;179222;2024;78,0;2,8;9,9;67,0;conforme;386367;24140;68;119;979;Non vérifié;non
+07269;Saint-Martin-de-Valamas;07;eau potable;297214;2024;79,5;0,6;2,3;65,5;conforme;135515;11917;30;94;1075;Non vérifié;non
+07270;Saint-Martin-sur-Lavezon;07;eau potable : Réseau Lavezon, Saint-Martin-sur-Lavezon, Saint-Pierre;334094;2024;61,5;1,6;2,6;65,5;non conforme;12264;10584;69;225;422;Non vérifié;non
+07272;Saint-Maurice-d'Ardèche;07;eau potable;179209;2024;75,6;1,8;5,7;66,1;conforme;243747;7663;56;115;375;Non vérifié;non
+07273;Saint-Maurice-d'Ibie;07;eau potable;179209;2024;75,6;1,8;5,7;66,1;conforme;243747;4332;56;115;212;Non vérifié;non
+07274;Saint-Maurice-en-Chalencon;07;eau potable : canton de vernoux;179197;2024;69,7;2,2;5,0;66,0;conforme;322003;5775;78;190;203;Non vérifié;non
+07275;Saint-Mélany;07;eau potable;179117;2024;56,2;1,0;1,3;65,3;non conforme;3949;3949;92;291;118;Non vérifié;non
+07276;Saint-Michel-d'Aurance;07;eau potable;297214;2024;79,5;0,6;2,3;65,5;conforme;135515;2905;30;94;262;Non vérifié;non
+07278;Saint-Michel-de-Chabrillanoux;07;eau potable : canton de vernoux;179197;2024;69,7;2,2;5,0;66,0;conforme;322003;11551;78;190;406;Non vérifié;non
+07279;Saint-Montan;07;eau potable : Territoire DRAGA;179222;2024;78,0;2,8;9,9;67,0;conforme;386367;48774;68;119;1978;Non vérifié;non
+07280;Saint-Paul-le-Jeune;07;eau potable;179120;2024;76,9;1,9;6,4;66,3;conforme;16297;16297;46;108;968;Non vérifié;non
+07281;Saint-Péray;07;eau potable : DSP1_svm st peray;179206;2024;74,5;3,1;9,0;66,8;conforme;468407;193510;70;163;7580;Non vérifié;non
+07282;Saint-Pierre-de-Colombier;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;8546;53;109;444;Non vérifié;non
+07283;Saint-Pierre-la-Roche;07;eau potable : Réseau Lavezon, Saint-Martin-sur-Lavezon, Saint-Pierre;334094;2024;61,5;1,6;2,6;65,5;non conforme;12264;1680;69;225;67;Non vérifié;non
+07285;Saint-Pierre-sur-Doux;07;eau potable;194011;2024;94,1;0,1;1,1;65,2;conforme;371;371;9;33;108;Non vérifié;non
+07286;Saint-Pierreville;07;eau potable;297214;2024;79,5;0,6;2,3;65,5;conforme;135515;5654;30;94;510;Non vérifié;non
+07287;Saint-Pons;07;eau potable;327894;2024;76,0;4,5;14,1;67,8;conforme;5092;5092;45;117;308;Non vérifié;non
+07288;Saint-Priest;07;eau potable : Réseau SEBP;334014;2024;76,3;2,9;9,4;66,9;conforme;243455;23775;48;115;1345;Non vérifié;non
+07289;Saint-Privat;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;32010;53;109;1663;Non vérifié;non
+07290;Saint-Prix;07;eau potable;179133;2024;61,5;1,0;1,6;65,3;non conforme;4380;4380;45;230;269;Non vérifié;non
+07291;Saint-Remèze;07;eau potable : eau potable;234354;2024;65,8;2,8;5,5;66,1;non conforme;32193;32193;104;188;847;Non vérifié;non
+07292;Saint-Romain-d'Ay;07;eau potable : Cance-Doux;179207;2024;75,1;1,5;4,6;65,9;conforme;477436;20784;49;137;1164;Non vérifié;non
+07293;Saint-Romain-de-Lerps;07;eau potable : DSP1_svm st peray;179206;2024;74,5;3,1;9,0;66,8;conforme;468407;26397;70;163;1034;Non vérifié;non
+07294;Saint-Sauveur-de-Cruzières;07;eau potable;173312;2024;71,0;2,0;4,9;66,0;conforme;223263;22330;107;150;572;Non vérifié;non
+07295;Saint-Sauveur-de-Montagut;07;eau potable : st-sauveur-de-montagut;179139;2024;94,6;0,3;5,8;66,2;conforme;3158;3158;8;20;1115;Non vérifié;non
+07296;Saint-Sernin;07;eau potable;179200;2024;75,8;3,6;11,1;67,2;conforme;76212;29772;44;118;1872;Non vérifié;non
+07297;Saint-Sylvestre;07;eau potable : DSP1_svm st peray;179206;2024;74,5;3,1;9,0;66,8;conforme;468407;13096;70;163;513;Non vérifié;non
+07298;Saint-Symphorien-sous-Chomérac;07;eau potable : Réseau SIE Ouvèze Payre;334214;2024;76,0;3,7;11,7;67,3;conforme;503737;21822;67;148;887;Non vérifié;non
+07299;Saint-Symphorien-de-Mahun;07;eau potable;179144;2024;94,7;0,1;2,6;65,5;conforme;55;55;1;14;116;Non vérifié;non
+07300;Saint-Thomé;07;eau potable : SIE_FAY;179205;2024;69,1;1,8;4,0;65,8;conforme;74202;14520;83;166;480;Non vérifié;non
+07301;Saint-Victor;07;eau potable : Cance-Doux;179207;2024;75,1;1,5;4,6;65,9;conforme;477436;17284;49;137;968;Non vérifié;non
+07302;Saint-Vincent-de-Barrès;07;eau potable : Réseau SIE Ouvèze Payre;334214;2024;76,0;3,7;11,7;67,3;conforme;503737;20272;67;148;824;Non vérifié;non
+07303;Saint-Vincent-de-Durfort;07;eau potable : canton de vernoux;179197;2024;69,7;2,2;5,0;66,0;conforme;322003;7795;78;190;274;Non vérifié;non
+07304;Salavas;07;eau potable;173312;2024;71,0;2,0;4,9;66,0;conforme;223263;28889;107;150;740;Non vérifié;non
+07305;Les Salelles;07;eau potable;179208;2024;83,7;1,0;4,9;66,0;conforme;98550;6222;41;78;414;Non vérifié;non
+07306;Sampzon;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;4639;53;109;241;Non vérifié;non
+07307;Sanilhac;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;8412;53;109;437;Non vérifié;non
+07308;Sarras;07;eau potable : Cance-Doux;179207;2024;75,1;1,5;4,6;65,9;conforme;477436;39639;49;137;2220;Non vérifié;non
+07309;Satillieu;07;eau potable : Cance-Doux;179207;2024;75,1;1,5;4,6;65,9;conforme;477436;27390;49;137;1534;Non vérifié;non
+07310;Savas;07;eau potable : Annonay-Serrières;179199;2024;81,4;1,9;8,5;66,7;conforme;367493;12050;37;82;896;Non vérifié;non
+07311;Sceautres;07;eau potable;194012;2024;63,5;2,0;3,5;65,7;non conforme;1606;1606;31;207;143;Non vérifié;non
+07312;Sécheras;07;eau potable : Cance-Doux;179207;2024;75,1;1,5;4,6;65,9;conforme;477436;9213;49;137;516;Non vérifié;non
+07313;Serrières;07;eau potable : Annonay-Serrières;179199;2024;81,4;1,9;8,5;66,7;conforme;367493;14727;37;82;1095;Non vérifié;non
+07314;Silhac;07;eau potable : canton de vernoux;179197;2024;69,7;2,2;5,0;66,0;conforme;322003;11579;78;190;407;Non vérifié;non
+07315;La Souche;07;eau potable;179158;2024;74,2;1,0;2,9;65,6;conforme;5475;5475;39;125;385;Non vérifié;non
+07316;Soyons;07;eau potable : DSP1_svm st peray;179206;2024;74,5;3,1;9,0;66,8;conforme;468407;59764;70;163;2341;Non vérifié;non
+07317;Talencieux;07;eau potable : Annonay-Serrières;179199;2024;81,4;1,9;8,5;66,7;conforme;367493;14955;37;82;1112;Non vérifié;non
+07318;Tauriers;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;3907;53;109;203;Non vérifié;non
+07319;Le Teil;07;eau potable : Réseau Le Teil;334074;2024;75,4;4,3;13,2;67,6;conforme;125560;125560;39;119;8726;Non vérifié;non
+07321;Thorrenc;07;eau potable : Annonay-Serrières;179199;2024;81,4;1,9;8,5;66,7;conforme;367493;4788;37;82;356;Non vérifié;non
+07322;Thueyts;07;eau potable;179164;2024;77,6;1,4;4,8;66,0;conforme;18243;18243;41;107;1205;Non vérifié;non
+07323;Toulaud;07;eau potable : DSP1_svm st peray;179206;2024;74,5;3,1;9,0;66,8;conforme;468407;43068;70;163;1687;Non vérifié;non
+07324;Tournon-sur-Rhône;07;eau potable : Tournon-sur-Rhone;179166;2024;79,9;4,9;19,3;68,9;conforme;150896;150896;37;93;11279;Non vérifié;non
+07325;Ucel;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;38863;53;109;2019;Non vérifié;non
+07326;Usclades-et-Rieutord;07;eau potable;179169;2024;66,5;0,5;0,9;65,2;conforme;2008;2008;52;199;106;Non vérifié;non
+07327;Uzer;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;8104;53;109;421;Non vérifié;non
+07328;Vagnas;07;eau potable;173312;2024;71,0;2,0;4,9;66,0;conforme;223263;24829;107;150;636;Non vérifié;non
+07329;Valgorge;07;eau potable;179173;2024;90,1;0,5;4,2;65,8;conforme;3175;3175;21;44;412;Non vérifié;non
+07330;Vallon-Pont-d'Arc;07;eau potable;179175;2024;82,6;2,5;12,1;67,4;conforme;52934;52934;60;75;2403;Non vérifié;non
+07331;Vals-les-Bains;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;66869;53;109;3474;Non vérifié;non
+07332;Valvignères;07;eau potable : SIE_FAY;179205;2024;69,1;1,8;4,0;65,8;conforme;74202;13310;83;166;440;Non vérifié;non
+07333;Vanosc;07;eau potable : vanosc;179177;2024;83,8;0,6;3,2;65,6;conforme;4016;4016;12;69;907;Non vérifié;non
+07334;Les Vans;07;eau potable;179208;2024;83,7;1,0;4,9;66,0;conforme;98550;40009;41;78;2662;Non vérifié;non
+07335;Vaudevant;07;eau potable : Cance-Doux;179207;2024;75,1;1,5;4,6;65,9;conforme;477436;3982;49;137;223;Non vérifié;non
+07336;Vernon;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;4523;53;109;235;Non vérifié;non
+07337;Vernosc-lès-Annonay;07;eau potable : Annonay-Serrières;179199;2024;81,4;1,9;8,5;66,7;conforme;367493;36648;37;82;2725;Non vérifié;non
+07338;Vernoux-en-Vivarais;07;eau potable : canton de vernoux;179197;2024;69,7;2,2;5,0;66,0;conforme;322003;56389;78;190;1982;Non vérifié;non
+07339;Vesseaux;07;eau potable;179182;2024;78,9;2,2;8,2;66,6;conforme;25495;25495;34;98;2069;Non vérifié;non
+07340;Veyras;07;eau potable : Réseau SEBP;334014;2024;76,3;2,9;9,4;66,9;conforme;243455;26603;48;115;1505;Non vérifié;non
+07341;Villeneuve-de-Berg;07;eau potable;179209;2024;75,6;1,8;5,7;66,1;conforme;243747;61938;56;115;3031;Non vérifié;non
+07342;Villevocance;07;eau potable : Villevocance;179187;2023;86,8;1,2;7,8;66,6;conforme;6807;6807;16;56;1165;Sans anomalie apparente;non
+07343;Vinezac;07;eau potable : principal;179211;2024;77,2;1,8;6,0;66,2;conforme;720663;26524;53;109;1378;Non vérifié;non
+07344;Vinzieux;07;eau potable : Annonay-Serrières;179199;2024;81,4;1,9;8,5;66,7;conforme;367493;7236;37;82;538;Non vérifié;non
+07345;Vion;07;eau potable : Cance-Doux;179207;2024;75,1;1,5;4,6;65,9;conforme;477436;16481;49;137;923;Non vérifié;non
+07346;Viviers;07;eau potable : Viviers;179223;2021;87,0;1,8;12,2;67,4;conforme;40734;40734;31;68;3633;Sans anomalie apparente;non
+07347;Vocance;07;eau potable : Vocance;179192;2024;59,2;2,1;3,1;65,6;non conforme;12563;12563;56;251;613;Non vérifié;non
+07348;Vogüé;07;eau potable;179209;2024;75,6;1,8;5,7;66,1;conforme;243747;21252;56;115;1040;Non vérifié;non
+07349;La Voulte-sur-Rhône;07;eau potable : la-voulte-sur-rhone;179220;2024;73,1;6,9;18,7;68,7;conforme;93613;93613;53;135;4854;Non vérifié;non

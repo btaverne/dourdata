@@ -7,396 +7,396 @@
 # Méthodologie et code : https://github.com/btaverne/dourdata
 # Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
 # Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
-Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
-11001;Aigues-Vives;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;15862;82;201;532;Non vérifié
-11002;Airoux;11;eau potable : Airoux;184966;2024;60,9;4,1;6,4;66,3;non conforme;4564;4564;62;236;201;Non vérifié
-11003;Ajac;11;eau potable : SECTEUR 4 AEP;334414;2024;92,3;0,3;3,7;65,7;conforme;781;781;11;30;196;Non vérifié
-11004;Alaigne;11;eau potable : SECTEUR 1 AEP;334354;2024;75,0;3,3;9,9;67,0;conforme;362518;7946;67;128;327;Non vérifié
-11005;Alairac;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;15158;30;72;1395;Non vérifié
-11006;Albas;11;eau potable;184974;2024;76,8;1,1;3,7;65,7;conforme;1389;1389;44;109;87;Non vérifié
-11007;Albières;11;eau potable;184976;2023;71,3;0,6;1,6;65,3;conforme;1813;1813;42;139;117;Sans anomalie apparente
-11008;Alet-les-Bains;11;eau potable : SECTEUR 1 AEP;334354;2024;75,0;3,3;9,9;67,0;conforme;362518;9210;67;128;379;Non vérifié
-11009;Alzonne;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;17234;30;72;1586;Non vérifié
-11010;Antugnac;11;eau potable;185057;2024;65,0;5,1;9,5;66,9;non conforme;11169;11169;105;231;291;Non vérifié
-11011;Aragon;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;5292;30;72;487;Non vérifié
-11012;Argeliers;11;eau potable : ARGELIERS;184982;2024;60,1;11,1;16,8;68,4;non conforme;92415;92415;119;241;2124;Non vérifié
-11013;Argens-Minervois;11;eau potable;184984;2024;80,0;2,7;10,9;67,2;conforme;6899;6899;48;90;395;Non vérifié
-11014;Armissan;11;eau potable : ARMISSAN;193724;2024;81,4;5,4;23,6;69,7;conforme;18843;18843;35;84;1461;Non vérifié
-11016;Arquettes-en-Val;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;2475;82;201;83;Non vérifié
-11017;Artigues;11;eau potable;184990;2024;0,0;17,4;0,0;65,0;non conforme;6732;6732;256;;72;Non vérifié
-11018;Arzens;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;12757;30;72;1174;Non vérifié
-11019;Aunat;11;eau potable;184994;2024;75,3;5,9;18,1;68,6;conforme;2326;2326;104;119;61;Non vérifié
-11020;Auriac;11;eau potable;184996;2024;51,6;0,6;0,6;65,1;non conforme;1599;1599;133;358;33;Non vérifié
-11021;Axat;11;eau potable;184997;2024;54,7;5,1;6,2;66,2;non conforme;23585;23585;135;300;479;Non vérifié
-11022;Azille;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;33245;82;201;1115;Non vérifié
-11023;Badens;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;22332;82;201;749;Non vérifié
-11024;Bages;11;eau potable : BAGES;193725;2024;87,1;1,3;8,8;66,8;conforme;7801;7801;30;54;720;Non vérifié
-11025;Bagnoles;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;8945;82;201;300;Non vérifié
-11026;Baraigne;11;eau potable : Baraigne;185007;2024;99,2;0,0;2,4;65,5;conforme;0;0;0;0;163;Non vérifié
-11027;Barbaira;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;8747;30;72;805;Non vérifié
-11028;Belcaire;11;eau potable;185003;2024;51,5;9,2;9,8;67,0;non conforme;29718;29718;223;343;365;Non vérifié
-11029;Belcastel-et-Buc;11;eau potable : SECTEUR 1 AEP;334354;2024;75,0;3,3;9,9;67,0;conforme;362518;1458;67;128;60;Non vérifié
-11030;Belflou;11;eau potable : SIEAP de Salles-sur-l'Hers;184947;2024;74,3;1,1;3,1;65,6;conforme;12515;1279;32;130;111;Non vérifié
-11031;Belfort-sur-Rebenty;11;eau potable;185013;2024;0,0;8,3;0,0;65,0;non conforme;2545;2545;279;;25;Non vérifié
-11032;Bellegarde-du-Razès;11;eau potable : SECTEUR 1 AEP;334354;2024;75,0;3,3;9,9;67,0;conforme;362518;6099;67;128;251;Non vérifié
-11033;Belpech;11;eau potable : Belpech-Molandier;250554;2024;79,2;0,6;2,5;65,5;conforme;29412;24189;49;89;1343;Non vérifié
-11034;Belvèze-du-Razès;11;eau potable : SECTEUR 3 AEP;334374;2024;74,9;2,6;7,8;66,6;conforme;13409;13409;42;122;884;Non vérifié
-11035;Belvianes-et-Cavirac;11;eau potable;185019;2024;79,7;1,2;4,7;65,9;conforme;3942;3942;40;93;270;Non vérifié
-11036;Belvis;11;eau potable;185021;2024;82,4;0,7;3,3;65,7;conforme;3138;2422;40;96;166;Non vérifié
-11037;Berriac;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;29190;82;201;979;Non vérifié
-11038;Bessède-de-Sault;11;eau potable;185023;2024;0,0;6,2;0,0;65,0;non conforme;5658;5658;246;;63;Non vérifié
-11040;Bizanet;11;eau potable : BIZANET;213571;2024;64,0;9,7;17,3;68,5;non conforme;71022;71022;112;232;1730;Non vérifié
-11041;Bize-Minervois;11;eau potable : BIZE;184957;2024;80,9;9,9;41,9;73,4;conforme;72487;72487;147;357;1355;Non vérifié
-11042;Blomac;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;7871;82;201;264;Non vérifié
-11043;Bouilhonnac;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;6738;82;201;226;Non vérifié
-11044;Bouisse;11;eau potable;185029;2024;37,5;5,2;3,1;65,6;non conforme;7402;7402;195;610;104;Non vérifié
-11045;Bouriège;11;eau potable : SECTEUR 1 AEP;334354;2024;75,0;3,3;9,9;67,0;conforme;362518;3669;67;128;151;Non vérifié
-11046;Bourigeole;11;eau potable : SECTEUR 1 AEP;334354;2024;75,0;3,3;9,9;67,0;conforme;362518;1361;67;128;56;Non vérifié
-11047;Le Bousquet;11;eau potable;185284;2024;0,0;5,7;0,0;65,0;non conforme;3953;3953;278;;39;Non vérifié
-11048;Boutenac;11;eau potable;185032;2024;53,3;10,8;12,4;67,5;non conforme;45648;45648;167;319;747;Non vérifié
-11049;Bram;11;eau potable : Bram;185034;2024;81,0;1,9;8,0;66,6;conforme;36041;36041;31;87;3233;Non vérifié
-11051;Brézilhac;11;eau potable : Brézilhac;185038;2024;97,3;0,1;2,6;65,5;conforme;293;293;5;14;172;Non vérifié
-11052;Brousses-et-Villaret;11;eau potable : Brousses-et-Villaret;185040;2024;92,2;0,2;2,4;65,5;conforme;1412;1412;11;30;365;Non vérifié
-11054;Les Brunels;11;eau potable;185288;2023;88,1;0,4;2,7;65,5;conforme;2920;2920;30;55;268;Sans anomalie apparente
-11055;Bugarach;11;eau potable;185044;2024;94,0;0,2;2,8;65,6;conforme;1059;1059;12;26;250;Non vérifié
-11056;Cabrespine;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;5516;82;201;185;Non vérifié
-11057;Cahuzac;11;eau potable : Vixiège;250074;2024;71,6;1,1;2,7;65,5;conforme;37259;1180;98;147;33;Non vérifié
-11058;Cailhau;11;eau potable;185048;2024;50,6;2,5;2,6;65,5;non conforme;14874;14874;165;363;247;Non vérifié
-11059;Cailhavel;11;eau potable;185050;2024;95,2;0,1;2,6;65,5;conforme;261;261;5;14;154;Non vérifié
-11060;Cailla;11;eau potable;185051;2024;0,0;0,0;0,0;65,0;non conforme;0;0;0;;49;Non vérifié
-11061;Cambieure;11;eau potable;185053;2024;94,4;0,3;4,5;65,9;conforme;1046;1046;9;24;327;Non vérifié
-11062;Campagna-de-Sault;11;eau potable;185055;2024;100,0;0,0;0,0;65,0;conforme;0;0;0;;20;Non vérifié
-11063;Campagne-sur-Aude;11;eau potable;185061;2024;89,9;0,7;6,1;66,2;conforme;3454;3454;15;42;618;Non vérifié
-11064;Camplong-d'Aude;11;eau potable;185063;2024;71,8;5,4;13,7;67,7;conforme;8870;8870;62;144;389;Non vérifié
-11065;Camps-sur-l'Agly;11;eau potable;185065;2024;99,0;0,0;1,3;65,3;conforme;0;0;0;0;66;Non vérifié
-11066;Camurac;11;eau potable;185066;2024;72,3;9,2;24,0;69,8;conforme;24513;24513;611;140;110;Non vérifié
-11067;Canet;11;eau potable;185068;2024;85,4;2,8;16,2;68,2;conforme;18795;18795;27;63;1873;Non vérifié
-11068;Capendu;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;15789;30;72;1453;Non vérifié
-11069;Carcassonne;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;500713;30;72;46080;Non vérifié
-11070;Carlipa;11;eau potable : Carlipa;185074;2024;96,2;0,1;2,0;65,4;conforme;731;731;6;18;332;Non vérifié
-11071;Cascastel-des-Corbières;11;eau potable;185076;2024;83,2;1,8;9,1;66,8;conforme;2759;2759;36;74;212;Non vérifié
-11072;La Cassaigne;11;eau potable : La Cassaigne;185229;2024;97,6;0,1;1,5;65,3;conforme;783;783;11;25;200;Non vérifié
-11074;Les Cassés;11;eau potable : Les Cassès;185290;2024;79,2;0,7;2,8;65,6;conforme;3066;3066;26;91;319;Non vérifié
-11075;Castans;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;3697;82;201;124;Non vérifié
-11076;Castelnaudary;11;eau potable : Castelnaudary;185084;2024;81,1;4,0;17,0;68,4;conforme;204488;204488;46;86;12151;Non vérifié
-11077;Castelnau-d'Aude;11;eau potable;185082;2024;71,5;3,7;9,2;66,8;conforme;9859;9859;54;147;497;Non vérifié
-11078;Castelreng;11;eau potable : SECTEUR 15 AEP;341514;2024;54,9;2,9;3,5;65,7;non conforme;9410;9410;125;301;207;Non vérifié
-11081;Caunes-Minervois;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;46334;82;201;1554;Non vérifié
-11083;Caunettes-en-Val;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;1670;82;201;56;Non vérifié
-11084;Caux-et-Sauzens;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;11138;30;72;1025;Non vérifié
-11085;Cavanac;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;11094;30;72;1021;Non vérifié
-11086;Caves;11;eau potable : CAVES;185094;2024;88,7;2,0;15,4;68,1;conforme;6059;6059;19;48;875;Non vérifié
-11087;Cazalrenoux;11;eau potable : Vixiège;250074;2024;71,6;1,1;2,7;65,5;conforme;37259;3755;98;147;105;Non vérifié
-11088;Cazilhac;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;18081;30;72;1664;Non vérifié
-11089;Cenne-Monestiés;11;eau potable : Cenne-Monestiès;185096;2024;83,8;0,8;4,3;65,9;conforme;3764;3764;25;68;413;Non vérifié
-11090;Cépie;11;eau potable : SECTEUR 8 AEP;334415;2024;50,1;7,7;7,8;66,6;non conforme;31225;31225;143;367;598;Non vérifié
-11091;Chalabre;11;eau potable;343054;2024;70,4;3,1;7,4;66,5;conforme;30550;30550;77;181;1084;Non vérifié
-11092;Citou;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;3011;82;201;101;Non vérifié
-11093;Le Clat;11;eau potable;185286;2024;100,0;0,0;0,4;65,1;conforme;0;0;0;0;28;Non vérifié
-11095;Comigne;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;9780;82;201;328;Non vérifié
-11096;Comus;11;eau potable;185107;2024;81,5;1,6;7,2;66,4;conforme;1460;1460;121;82;33;Non vérifié
-11099;Conques-sur-Orbiel;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;27415;30;72;2523;Non vérifié
-11100;Corbières;11;eau potable;185114;2024;42,3;1,6;1,2;65,2;non conforme;3037;3037;219;498;38;Non vérifié
-11101;Coudons;11;eau potable;185115;2024;64,0;1,7;3,0;65,6;non conforme;1303;1303;66;208;54;Non vérifié
-11102;Couffoulens;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;5792;30;72;533;Non vérifié
-11104;Counozouls;11;eau potable;185121;2024;0,0;0,0;0,0;65,0;non conforme;0;0;0;;57;Non vérifié
-11105;Cournanel;11;eau potable : SECTEUR 6 AEP;334434;2024;58,0;4,5;6,3;66,3;non conforme;24638;24638;102;263;659;Non vérifié
-11106;Coursan;11;eau potable : COURSAN;213562;2024;78,9;6,5;24,2;69,8;conforme;73998;73998;35;98;5737;Non vérifié
-11107;Courtauly;11;eau potable;185125;2024;53,5;1,7;2,0;65,4;non conforme;4486;4486;168;309;73;Non vérifié
-11110;Coustouge;11;eau potable;185128;2022;72,7;1,4;3,6;65,7;conforme;1962;1962;46;141;117;Sans anomalie apparente
-11111;Cruscades;11;eau potable;185130;2024;77,1;3,2;10,8;67,2;conforme;9870;9870;29;108;936;Non vérifié
-11112;Cubières-sur-Cinoble;11;eau potable;185132;2024;80,2;0,9;3,7;65,7;conforme;887;887;29;88;83;Non vérifié
-11113;Cucugnan;11;eau potable;185134;2024;50,0;3,3;3,3;65,7;non conforme;7227;7227;158;365;125;Non vérifié
-11114;Cumiès;11;eau potable : Cumiès;185136;2024;62,1;1,4;2,3;65,5;non conforme;2300;2300;143;219;44;Non vérifié
-11115;Cuxac-Cabardès;11;eau potable : Cuxac-Cabardès;185137;2024;61,7;2,4;3,9;65,8;non conforme;28531;28531;83;223;947;Non vérifié
-11116;Cuxac-d'Aude;11;eau potable : CUXAC D'AUDE;193769;2024;55,4;11,6;14,4;67,9;non conforme;190996;190996;128;295;4079;Non vérifié
-11117;Davejean;11;eau potable;185139;2022;87,8;1,5;10,6;67,1;conforme;947;947;16;52;163;Sans anomalie apparente
-11118;Dernacueillette;11;eau potable;185141;2024;85,2;1,1;6,3;66,3;conforme;522;522;33;64;43;Non vérifié
-11119;La Digne-d'Amont;11;eau potable : SECTEUR 1 AEP;334354;2024;75,0;3,3;9,9;67,0;conforme;362518;6950;67;128;286;Non vérifié
-11120;La Digne-d'Aval;11;eau potable : SECTEUR 1 AEP;334354;2024;75,0;3,3;9,9;67,0;conforme;362518;12685;67;128;522;Non vérifié
-11121;Donazac;11;eau potable : SECTEUR 16 AEP;341534;2024;50,2;3,5;3,5;65,7;non conforme;4586;4586;114;364;110;Non vérifié
-11122;Douzens;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;23376;82;201;784;Non vérifié
-11123;Duilhac-sous-Peyrepertuse;11;eau potable;185147;2024;70,7;;8,3;66,7;conforme;;;;;140;Non vérifié
-11124;Durban-Corbières;11;eau potable;185149;2024;56,8;7,8;10,2;67,0;non conforme;30463;30463;129;279;649;Non vérifié
-11126;Escales;11;eau potable;185153;2024;83,5;2,8;14,2;67,8;conforme;5509;5509;29;72;512;Non vérifié
-11127;Escouloubre;11;eau potable : 06_UT Pays Cathare;206664;2024;66,2;3,9;7,6;66,5;non conforme;939652;3736;144;328;71;Non vérifié
-11128;Escueillens-et-Saint-Just-de-Bélengard;11;eau potable;185157;2023;69,5;1,7;3,9;65,8;conforme;5150;5150;88;161;160;Sans anomalie apparente
-11129;Espéraza;11;eau potable;185159;2024;57,2;7,3;9,8;67,0;non conforme;76231;76231;118;276;1774;Non vérifié
-11130;Espezel;11;eau potable;185161;2024;48,5;5,7;5,3;66,1;non conforme;26006;26006;299;390;238;Non vérifié
-11131;Val-du-Faby;11;eau potable (Rouvenac);185474;2024;77,3;1,8;6,0;66,2;conforme;2168;2168;10;109;580;Non vérifié
-11132;Fabrezan;11;eau potable;185165;2024;58,9;8,0;11,5;67,3;non conforme;55772;55772;117;255;1306;Non vérifié
-11133;Fajac-en-Val;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;1610;82;201;54;Non vérifié
-11134;Fajac-la-Relenque;11;eau potable : SIEAP Belpech Molandier;185655;2024;79,0;0,7;2,6;65,5;conforme;32709;4078;233;99;48;Non vérifié
-11136;Fanjeaux;11;eau potable : Fanjeaux;185168;2024;88,8;0,4;3,1;65,6;conforme;7125;7125;22;47;885;Non vérifié
-11137;Félines-Termenès;11;eau potable;185170;2024;72,3;2,1;5,4;66,1;conforme;1840;1840;39;142;130;Non vérifié
-11138;Fendeille;11;eau potable : Fendeille;185172;2024;83,9;1,1;5,9;66,2;conforme;5143;5143;21;68;658;Non vérifié
-11139;Fenouillet-du-Razès;11;eau potable : Fenouillet-du-Razès;185174;2024;59,6;0,9;1,4;65,3;non conforme;3140;3140;110;235;78;Non vérifié
-11140;Ferrals-les-Corbières;11;eau potable;185175;2024;75,2;4,1;12,5;67,5;conforme;21086;21086;45;120;1275;Non vérifié
-11141;Ferran;11;eau potable : Ferran;185177;2024;96,9;0,1;3,6;65,7;conforme;226;226;5;10;125;Non vérifié
-11142;Festes-et-Saint-André;11;eau potable;185178;2024;60,8;1,9;3,0;65,6;non conforme;5687;5687;84;231;185;Non vérifié
-11143;Feuilla;11;eau potable : Feuilla - Eau potable;319934;2024;85,0;1,3;7,1;66,4;conforme;826;826;21;67;107;Non vérifié
-11144;Fitou;11;eau potable :;185182;2024;68,3;7,6;16,5;68,3;conforme;41610;41610;98;168;1158;Non vérifié
-11145;Fleury;11;eau potable : FLEURY D'AUDE;193770;2024;90,7;2,7;26,2;70,2;conforme;68827;68827;44;50;4246;Non vérifié
-11146;Floure;11;eau potable : FLOURE;185184;2024;81,1;2,6;11,1;67,2;conforme;4252;4252;29;85;405;Non vérifié
-11147;Fontanès-de-Sault;11;eau potable;185186;2024;25,6;15,3;5,2;66,0;non conforme;11169;11169;5100;1066;6;Non vérifié
-11148;Fontcouverte;11;eau potable;185188;2024;79,7;2,5;9,8;67,0;conforme;6962;6962;33;93;575;Non vérifié
-11149;Fonters-du-Razès;11;eau potable : Vixiège;250074;2024;71,6;1,1;2,7;65,5;conforme;37259;2539;98;147;71;Non vérifié
-11150;Fontiers-Cabardès;11;eau potable : Fontiers-Cabardès;185190;2024;73,3;1,3;3,5;65,7;conforme;9072;9072;52;135;476;Non vérifié
-11151;Fontiès-d'Aude;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;16697;82;201;560;Non vérifié
-11152;Fontjoncouse;11;eau potable;184951;2024;67,6;3,0;6,2;66,2;conforme;7358;7358;145;178;139;Non vérifié
-11153;La Force;11;eau potable : La Force;185238;2024;89,5;0,6;5,4;66,1;conforme;1730;1730;18;41;264;Non vérifié
-11154;Fournes-Cabardès;11;eau potable : Fournes-Cabardès;185192;2024;98,6;;;;non calculable;;;;;53;Non vérifié
-11156;Fraisse-Cabardès;11;eau potable : Fraisse-Cabardès;185196;2024;82,0;1,8;8,2;66,6;conforme;1334;1334;35;80;104;Non vérifié
-11157;Fraissé-des-Corbières;11;eau potable : FRAISSE-DES-CORBIERES;185198;2024;75,0;3,4;10,3;67,1;conforme;3760;3760;44;121;232;Non vérifié
-11158;Gaja-et-Villedieu;11;eau potable : SECTEUR 9 AEP;334474;2024;70,0;1,8;4,2;65,8;conforme;7148;7148;64;158;306;Non vérifié
-11159;Gaja-la-Selve;11;eau potable : Vixiège;250074;2024;71,6;1,1;2,7;65,5;conforme;37259;4791;98;147;134;Non vérifié
-11162;Generville;11;eau potable : Vixiège;250074;2024;71,6;1,1;2,7;65,5;conforme;37259;1716;98;147;48;Non vérifié
-11163;Gincla;11;eau potable;185205;2024;93,4;0,8;12,0;67,4;conforme;289;289;17;24;46;Non vérifié
-11164;Ginestas;11;eau potable : GINESTAS;185207;2024;44,9;23,6;19,2;68,8;non conforme;106469;106469;181;448;1611;Non vérifié
-11165;Ginoles;11;eau potable;185209;2024;56,2;6,8;8,7;66,7;non conforme;10474;10474;97;285;296;Non vérifié
-11166;Gourvieille;11;eau potable : Gourvieille;185211;2024;82,3;0,3;1,5;65,3;conforme;699;699;28;75;68;Non vérifié
-11167;Gramazie;11;eau potable;185212;2024;87,0;0,6;4,3;65,9;conforme;749;749;16;51;130;Non vérifié
-11168;Granès;11;eau potable;185214;2024;49,1;3,9;3,8;65,8;non conforme;6961;6961;162;376;118;Non vérifié
-11170;Gruissan;11;eau potable : GRUISSAN;193771;2024;83,3;6,8;33,9;71,8;conforme;162968;162968;89;73;5032;Non vérifié
-11172;Homps;11;eau potable;185220;2024;71,6;5,3;13,5;67,7;conforme;17797;17797;80;192;609;Non vérifié
-11173;Hounoux;11;eau potable : Hounoux;185222;2024;77,1;1,0;3,4;65,7;conforme;2154;2154;44;106;135;Non vérifié
-11174;Les Ilhes;11;eau potable : LES ILHES CABARDES;185292;2024;50,0;0,0;;;non calculable;;;;;64;Non vérifié
-11175;Issel;11;eau potable : Issel;185223;2024;82,2;2,3;10,8;67,2;conforme;4198;4198;24;78;483;Non vérifié
-11176;Jonquières;11;eau potable;185225;2024;97,1;0,1;4,8;66,0;conforme;42;42;3;8;45;Non vérifié
-11178;Labastide-d'Anjou;11;eau potable : Labastide-d'Anjou;185249;2024;89,0;0,8;6,4;66,3;conforme;6138;6138;13;46;1255;Non vérifié
-11179;Labastide-en-Val;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;2624;82;201;88;Non vérifié
-11180;Labastide-Esparbairenque;11;eau potable;185253;2024;90,5;0,5;4,9;66,0;conforme;252;252;10;37;66;Non vérifié
-11181;Labécède-Lauragais;11;eau potable : Labécède-Lauragais;185255;2024;72,8;1,4;3,8;65,8;conforme;6219;6219;41;133;420;Non vérifié
-11182;Lacombe;11;eau potable;185256;2024;92,4;0,2;2,3;65,5;conforme;1059;1059;15;32;188;Non vérifié
-11183;Ladern-sur-Lauquet;11;eau potable;185258;2020;90,7;1,2;11,9;67,4;conforme;1358;1358;15;37;248;Sans anomalie apparente
-11184;Lafage;11;eau potable : Vixiège;250074;2024;71,6;1,1;2,7;65,5;conforme;37259;3218;98;147;90;Non vérifié
-11185;Lagrasse;11;eau potable;185261;2024;82,8;3,8;18,1;68,6;conforme;11512;11512;57;76;554;Non vérifié
-11186;Lairière;11;eau potable;184953;2024;55,6;2,4;3,0;65,6;non conforme;1796;1796;95;295;52;Non vérifié
-11187;Lanet;11;eau potable;185263;2024;67,0;2,2;4,4;65,9;conforme;1606;1606;77;183;57;Non vérifié
-11188;La Palme;11;eau potable : LA PALME;185240;2024;82,2;2,9;13,3;67,7;conforme;27489;27489;38;79;1995;Non vérifié
-11189;Laprade;11;eau potable;185265;2024;74,1;2,9;8,4;66,7;conforme;2583;2583;58;127;122;Non vérifié
-11190;La Redorte;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;36912;82;201;1238;Non vérifié
-11191;Laroque-de-Fa;11;eau potable;185267;2024;70,8;1,5;3,7;65,7;conforme;3088;3088;61;149;138;Non vérifié
-11192;Lasbordes;11;eau potable : Lasbordes;185269;2024;76,3;1,5;4,8;66,0;conforme;12592;12592;41;114;846;Non vérifié
-11193;Lasserre-de-Prouille;11;eau potable : Lasserre-de-Prouilhe;185271;2024;79,3;1,6;6,0;66,2;conforme;2780;2780;26;97;292;Non vérifié
-11195;Laurabuc;11;eau potable : Laurabuc;185275;2024;91,2;0,3;3,3;65,7;conforme;1770;1770;11;33;431;Non vérifié
-11196;Laurac;11;eau potable : Laurac;185277;2024;70,7;0,6;1,4;65,3;conforme;3627;3627;55;161;182;Non vérifié
-11197;Lauraguel;11;eau potable;185279;2024;74,7;2,3;6,8;66,4;conforme;9234;9234;41;124;622;Non vérifié
-11198;Laure-Minervois;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;31635;82;201;1061;Non vérifié
-11199;Lavalette;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;17516;30;72;1612;Non vérifié
-11200;Lespinassière;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;4144;82;201;139;Non vérifié
-11201;Leuc;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;8899;30;72;819;Non vérifié
-11202;Leucate;11;eau potable : Leucate village;217179;2024;82,6;7,1;33,8;71,8;conforme;213721;213721;128;77;4562;Non vérifié
-11203;Lézignan-Corbières;11;eau potable;185297;2024;73,9;7,1;20,3;69,1;conforme;258761;258761;69;128;10343;Non vérifié
-11204;Lignairolles;11;eau potable;185299;2024;63,6;0,8;1,5;65,3;non conforme;1069;1069;89;197;33;Non vérifié
-11205;Limousis;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;3608;82;201;121;Non vérifié
-11206;Limoux;11;eau potable : SECTEUR 1 AEP;334354;2024;75,0;3,3;9,9;67,0;conforme;362518;255935;67;128;10532;Non vérifié
-11207;Loupia;11;eau potable : SECTEUR 1 AEP;334354;2024;75,0;3,3;9,9;67,0;conforme;362518;6294;67;128;259;Non vérifié
-11208;La Louvière-Lauragais;11;eau potable : SIEAP Belpech Molandier;185655;2024;79,0;0,7;2,6;65,5;conforme;32709;6797;233;99;80;Non vérifié
-11209;Luc-sur-Aude;11;eau potable;185306;2024;74,3;1,3;3,9;65,8;conforme;4128;4128;44;122;257;Non vérifié
-11210;Luc-sur-Orbieu;11;eau potable;185308;2024;52,2;14,0;15,3;68,1;non conforme;43895;43895;103;334;1173;Non vérifié
-11212;Mailhac;11;eau potable : MAILHAC;185312;2024;69,0;15,5;34,6;71,9;non conforme;30437;30437;140;262;595;Non vérifié
-11213;Maisons;11;eau potable;185314;2024;65,8;0,6;1,1;65,2;conforme;1051;1051;49;200;59;Non vérifié
-11214;Malras;11;eau potable : SECTEUR 5 AEP;334395;2024;72,5;3,5;9,2;66,8;conforme;9901;9901;61;139;444;Non vérifié
-11215;Malves-en-Minervois;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;26477;82;201;888;Non vérifié
-11217;Marcorignan;11;eau potable : MARCORIGNAN;213565;2024;73,2;16,8;46,0;74,2;non conforme;75792;75792;156;419;1333;Non vérifié
-11218;Marquein;11;eau potable : SIEAP de Salles-sur-l'Hers;184947;2024;74,3;1,1;3,1;65,6;conforme;12515;899;32;130;78;Non vérifié
-11219;Marsa;11;eau potable;185323;2024;0,0;1,5;0,0;65,0;non conforme;1971;1971;225;;24;Non vérifié
-11220;Marseillette;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;20782;82;201;697;Non vérifié
-11221;Les Martys;11;eau potable;185293;2024;88,8;0,4;3,3;65,7;conforme;1694;1694;15;44;309;Non vérifié
-11223;Mas-des-Cours;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;656;82;201;22;Non vérifié
-11224;Massac;11;eau potable;185330;2024;60,7;1,5;2,2;65,4;non conforme;1889;1889;173;243;30;Non vérifié
-11225;Mas-Saintes-Puelles;11;eau potable : Mas-Saintes-Puelles;185328;2024;65,9;1,1;2,2;65,4;conforme;21681;21681;64;182;923;Non vérifié
-11226;Mayreville;11;eau potable : SIEAP Belpech Molandier;185655;2024;79,0;0,7;2,6;65,5;conforme;32709;7306;233;99;86;Non vérifié
-11227;Mayronnes;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;1252;82;201;42;Non vérifié
-11228;Mazerolles-du-Razès;11;eau potable : SECTEUR 1 AEP;334354;2024;75,0;3,3;9,9;67,0;conforme;362518;3815;67;128;157;Non vérifié
-11229;Mazuby;11;eau potable;185334;2024;89,6;1,1;9,7;66,9;conforme;442;442;58;41;21;Non vérifié
-11231;Mézerville;11;eau potable : SIEAP Belpech Molandier;185655;2024;79,0;0,7;2,6;65,5;conforme;32709;8156;233;99;96;Non vérifié
-11232;Miraval-Cabardes;11;eau potable : Miraval-Cabardes;185337;2024;0,0;8,5;0,0;65,0;non conforme;9308;9308;432;;59;Non vérifié
-11233;Mirepeisset;11;eau potable : MIREPEISSET;185339;2024;49,6;19,1;18,8;68,8;non conforme;50822;50822;186;371;750;Non vérifié
-11234;Mireval-Lauragais;11;eau potable : Mireval-Lauragais;185341;2024;69,1;1,6;3,6;65,7;conforme;6132;6132;87;162;193;Non vérifié
-11236;Molandier;11;eau potable : Belpech-Molandier;250554;2024;79,2;0,6;2,5;65,5;conforme;29412;4539;49;89;252;Non vérifié
-11238;Molleville;11;eau potable : Molleville;185345;2024;72,8;1,0;2,6;65,5;conforme;1964;1964;42;141;128;Non vérifié
-11239;Montauriol;11;eau potable : Montauriol;185347;2024;69,2;0,4;1,0;65,2;conforme;1606;1606;52;153;85;Non vérifié
-11240;Montazels;11;eau potable : SECTEUR 2 AEP;334394;2024;87,4;1,4;9,6;66,9;conforme;5672;5672;29;53;528;Non vérifié
-11241;Montbrun-des-Corbières;11;eau potable;185350;2024;73,8;4,0;11,3;67,3;conforme;7738;7738;62;129;343;Non vérifié
-11242;Montclar;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;1934;30;72;178;Non vérifié
-11243;Montferrand;11;eau potable : Montferrand;184959;2024;85,8;0,5;3,3;65,7;conforme;4057;4057;18;56;622;Non vérifié
-11244;Montfort-sur-Boulzane;11;eau potable;185352;2024;74,3;3,0;8,8;66,8;conforme;2628;2628;83;125;87;Non vérifié
-11245;Montgaillard;11;eau potable;185354;2024;92,2;0,7;8,2;66,6;conforme;174;174;13;31;38;Non vérifié
-11246;Montgradail;11;eau potable : SECTEUR 1 AEP;334354;2024;75,0;3,3;9,9;67,0;conforme;362518;1215;67;128;50;Non vérifié
-11248;Montirat;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;2087;82;201;70;Non vérifié
-11249;Montjardin;11;eau potable;345714;2024;87,1;0,4;2,7;65,5;conforme;718;718;21;53;93;Non vérifié
-11250;Montjoi;11;eau potable;185361;2024;0,0;0,0;0,0;65,0;non conforme;0;0;0;;43;Non vérifié
-11251;Val-de-Dagne;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;21795;82;201;731;Non vérifié
-11252;Montmaur;11;eau potable : Montmaur;185365;2024;81,4;0,6;2,8;65,6;conforme;3066;3066;24;80;356;Non vérifié
-11253;Montolieu;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;9008;30;72;829;Non vérifié
-11254;Montréal;11;eau potable : Montréal;185369;2024;82,4;0,8;3,8;65,8;conforme;24172;24172;31;78;2136;Non vérifié
-11255;Montredon-des-Corbières;11;eau potable : MONTREDON DES CORBIERES;213566;2024;55,1;27,6;33,9;71,8;non conforme;168135;168135;310;324;1485;Non vérifié
-11256;Montséret;11;eau potable;185371;2024;80,3;2,1;8,6;66,7;conforme;9880;9880;44;89;616;Non vérifié
-11257;Monze;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;7245;82;201;243;Non vérifié
-11258;Moussan;11;eau potable : MOUSSAN;213567;2024;78,6;12,6;46,4;74,3;conforme;109042;109042;143;338;2093;Non vérifié
-11259;Moussoulens;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;10388;30;72;956;Non vérifié
-11260;Mouthoumet;11;eau potable;185377;2024;71,7;1,0;2,5;65,5;conforme;2592;2592;61;147;116;Non vérifié
-11261;Moux;11;eau potable;185379;2021;67,7;4,5;9,4;66,9;conforme;16425;16425;63;176;719;Sans anomalie apparente
-11262;Narbonne;11;eau potable : NARBONNE;193772;2024;80,7;7,4;30,8;71,2;conforme;1185199;1185199;56;113;57587;Non vérifié
-11263;Nébias;11;eau potable;185381;2024;65,9;1,3;2,6;65,5;conforme;6885;6885;72;183;262;Non vérifié
-11264;Névian;11;eau potable : NEVIAN;193766;2024;82,9;5,7;27,5;70,5;conforme;26610;26610;57;132;1286;Non vérifié
-11265;Niort-de-Sault;11;eau potable;185383;2024;100,0;0,0;3,9;65,8;conforme;0;0;0;0;34;Non vérifié
-11266;Port-la-Nouvelle;11;eau potable : PORT-LA-NOUVELLE;185418;2024;86,0;5,5;33,5;71,7;conforme;114146;114146;53;60;5852;Non vérifié
-11267;Ornaisons;11;eau potable;185385;2024;71,9;4,3;10,9;67,2;conforme;24013;24013;57;144;1161;Non vérifié
-11268;Orsans;11;eau potable : Orsans;185387;2024;47,7;1,2;1,1;65,2;non conforme;5987;5987;189;403;87;Non vérifié
-11269;Ouveillan;11;eau potable : OUVEILLAN;213568;2024;72,6;9,9;26,4;70,3;conforme;71403;71403;72;137;2713;Non vérifié
-11270;Padern;11;eau potable;185390;2024;45,4;10,6;8,8;66,8;non conforme;9092;9092;179;441;139;Non vérifié
-11271;Palairac;11;eau potable;185392;2024;86,5;0,3;1,8;65,4;conforme;493;493;41;62;33;Non vérifié
-11272;Palaja;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;29578;30;72;2722;Non vérifié
-11273;Paraza;11;eau potable;185394;2024;64,6;5,3;9,6;66,9;non conforme;22440;22440;88;202;700;Non vérifié
-11274;Pauligne;11;eau potable : SECTEUR 1 AEP;334354;2024;75,0;3,3;9,9;67,0;conforme;362518;8675;67;128;357;Non vérifié
-11275;Payra-sur-l'Hers;11;eau potable : Payra-sur-l'Hers;185398;2024;80,7;0,3;1,2;65,2;conforme;2409;2409;31;92;210;Non vérifié
-11276;Paziols;11;eau potable;185399;2024;70,2;3,7;8,6;66,7;conforme;9818;9818;51;156;526;Non vérifié
-11277;Pécharic-et-le-Py;11;eau potable : Vixiège;250074;2024;71,6;1,1;2,7;65,5;conforme;37259;1073;98;147;30;Non vérifié
-11278;Pech-Luna;11;eau potable : Vixiège;250074;2024;71,6;1,1;2,7;65,5;conforme;37259;2718;98;147;76;Non vérifié
-11279;Pennautier;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;31458;30;72;2895;Non vérifié
-11280;Pépieux;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;33334;82;201;1118;Non vérifié
-11281;Pexiora;11;eau potable : Pexiora;185405;2024;88,1;0,7;4,9;66,0;conforme;7473;7473;16;52;1266;Non vérifié
-11282;Peyrefitte-du-Razès;11;eau potable;185407;2024;38,8;3,7;2,4;65,5;non conforme;5037;5037;256;569;54;Non vérifié
-11283;Peyrefitte-sur-l'Hers;11;eau potable : SIEAP Belpech Molandier;185655;2024;79,0;0,7;2,6;65,5;conforme;32709;6372;233;99;75;Non vérifié
-11284;Peyrens;11;eau potable : Peyrens;185410;2024;92,5;0,5;6,3;66,3;conforme;1518;1518;9;29;454;Non vérifié
-11285;Peyriac-de-Mer;11;eau potable : PEYRIAC;193773;2024;89,8;0,7;6,5;66,3;conforme;8066;8066;19;39;1187;Non vérifié
-11286;Peyriac-Minervois;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;33483;82;201;1123;Non vérifié
-11288;Pezens;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;17505;30;72;1611;Non vérifié
-11289;Pieusse;11;eau potable : SECTEUR 1 AEP;334354;2024;75,0;3,3;9,9;67,0;conforme;362518;23572;67;128;970;Non vérifié
-11290;Plaigne;11;eau potable : Vixiège;250074;2024;71,6;1,1;2,7;65,5;conforme;37259;4255;98;147;119;Non vérifié
-11291;Plavilla;11;eau potable : Plavilla;185416;2024;79,4;0,8;3,0;65,6;conforme;1819;1819;34;96;146;Non vérifié
-11292;La Pomarède;11;eau potable : La Pomarède;185242;2024;91,3;0,5;4,9;66,0;conforme;2738;2738;40;37;188;Non vérifié
-11293;Pomas;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;11051;30;72;1017;Non vérifié
-11295;Portel-des-Corbières;11;eau potable : PORTEL-DES-CORBIERES;185420;2024;79,9;3,1;12,2;67,4;conforme;14981;14981;32;93;1279;Non vérifié
-11296;Pouzols-Minervois;11;eau potable : POUZOLS MINERVOIS;185422;2024;92,1;5,9;69,6;78,9;conforme;8097;8097;37;89;599;Non vérifié
-11297;Pradelles-Cabardès;11;eau potable;185424;2024;76,3;1,6;5,2;66,0;conforme;3154;3154;54;113;160;Non vérifié
-11299;Preixan;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;6922;30;72;637;Non vérifié
-11300;Puginier;11;eau potable : Puginier;185428;2024;89,8;0,7;6,4;66,3;conforme;958;958;17;40;153;Non vérifié
-11301;Puichéric;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;35720;82;201;1198;Non vérifié
-11302;Puilaurens;11;eau potable;185431;2024;87,3;0,7;4,8;66,0;conforme;2420;2420;24;53;277;Non vérifié
-11303;Puivert;11;eau potable;185433;2024;48,9;2,4;2,3;65,5;non conforme;31536;31536;176;387;491;Non vérifié
-11304;Quillan;11;eau potable : QUILLAN DSP (QUILLAN (avant 2016));185435;2024;89,0;1,2;9,4;66,9;conforme;23245;23245;21;46;2978;Non vérifié
-11305;Quintillan;11;eau potable;185437;2024;89,4;0,3;2,4;65,5;conforme;307;307;14;46;62;Non vérifié
-11306;Quirbajou;11;eau potable;185438;2024;84,8;0,1;0,7;65,1;conforme;319;319;18;56;49;Non vérifié
-11307;Raissac-d'Aude;11;eau potable : RAISSAC D AUDE;213569;2024;80,5;3,2;13,1;67,6;conforme;3632;3632;45;89;222;Non vérifié
-11308;Raissac-sur-Lampy;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;4933;30;72;454;Non vérifié
-11309;Rennes-le-Château;11;eau potable;185441;2024;95,9;0,9;22,0;69,4;conforme;749;749;23;15;89;Non vérifié
-11310;Rennes-les-Bains;11;eau potable : commune;185443;2024;84,4;1,5;8,4;66,7;conforme;5689;5689;65;65;238;Non vérifié
-11311;Ribaute;11;eau potable;185445;2024;48,3;8,0;7,5;66,5;non conforme;20002;20002;209;389;262;Non vérifié
-11312;Ribouisse;11;eau potable : Vixiège;250074;2024;71,6;1,1;2,7;65,5;conforme;37259;3468;98;147;97;Non vérifié
-11313;Ricaud;11;eau potable : Ricaud;185447;2024;90,5;0,5;5,2;66,0;conforme;1482;1482;12;35;331;Non vérifié
-11314;Rieux-en-Val;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;2505;82;201;84;Non vérifié
-11315;Rieux-Minervois;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;58350;82;201;1957;Non vérifié
-11316;Rivel;11;eau potable;185453;2024;72,0;10,0;2,3;65,5;conforme;63364;63364;793;1741;219;Non vérifié
-11317;Rodome;11;eau potable;185455;2024;23,5;13,8;4,3;65,9;non conforme;37223;37223;1062;1244;96;Non vérifié
-11318;Roquecourbe-Minervois;11;eau potable;185457;2024;76,3;3,2;10,3;67,1;conforme;4018;4018;73;113;150;Non vérifié
-11319;Roquefère;11;eau potable;185459;2024;72,3;1,1;2,8;65,6;conforme;883;883;35;141;69;Non vérifié
-11320;Roquefeuil;11;eau potable;185460;2024;77,8;1,8;6,2;66,2;conforme;11452;11452;111;105;283;Non vérifié
-11321;Roquefort-de-Sault;11;eau potable;185462;2024;0,0;12,7;0,0;65,0;non conforme;16224;16224;523;;85;Non vérifié
-11322;Roquefort-des-Corbières;11;eau potable : ROQUEFORT-DES-CORBIERES;185464;2024;75,0;2,9;8,7;66,7;conforme;21022;21022;55;122;1051;Non vérifié
-11323;Roquetaillade-et-Conilhac;11;eau potable : Roquetaillade et Conilhac;185466;2024;79,9;1,4;5,5;66,1;conforme;4129;4129;43;92;265;Non vérifié
-11324;Roubia;11;eau potable;185468;2024;79,7;3,3;13,0;67,6;conforme;8275;8275;44;93;520;Non vérifié
-11325;Rouffiac-d'Aude;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;5585;30;72;514;Non vérifié
-11326;Rouffiac-des-Corbières;11;eau potable;185470;2024;83,2;0,5;2,5;65,5;conforme;748;748;27;73;75;Non vérifié
-11327;Roullens;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;6389;30;72;588;Non vérifié
-11328;Routier;11;eau potable : SECTEUR 14 AEP;341494;2024;82,2;1,1;5,3;66,1;conforme;5228;5228;62;76;231;Non vérifié
-11330;Rustiques;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;16041;82;201;538;Non vérifié
-11331;Saint-Amans;11;eau potable : Vixiège;250074;2024;71,6;1,1;2,7;65,5;conforme;37259;2253;98;147;63;Non vérifié
-11332;Saint-André-de-Roquelongue;11;eau potable;185479;2024;80,7;3,5;14,7;67,9;conforme;25422;25422;47;87;1488;Non vérifié
-11333;Saint-Benoît;11;eau potable;185481;2024;81,1;0,6;2,5;65,5;conforme;1842;1842;46;134;109;Non vérifié
-11334;Sainte-Camelle;11;eau potable : SIEAP de Salles-sur-l'Hers;184947;2024;74,3;1,1;3,1;65,6;conforme;12515;1464;32;130;127;Non vérifié
-11335;Sainte-Colombe-sur-Guette;11;eau potable;185531;2024;0,0;13,4;0,0;65,0;non conforme;7239;7239;522;;38;Non vérifié
-11336;Sainte-Colombe-sur-l'Hers;11;eau potable;185533;2024;37,8;8,4;5,1;66,0;non conforme;30660;30660;190;600;441;Non vérifié
-11337;Saint-Couat-d'Aude;11;eau potable;185483;2024;68,3;3,1;6,8;66,4;conforme;11315;11315;80;168;387;Non vérifié
-11338;Saint-Couat-du-Razès;11;eau potable;185485;2024;46,6;1,7;1,4;65,3;non conforme;2259;2259;135;428;46;Non vérifié
-11339;Saint-Denis;11;eau potable : Saint-Denis;185486;2023;90,8;0,5;5,0;66,0;conforme;2920;2920;15;39;523;Sans anomalie apparente
-11340;Sainte-Eulalie;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;6465;30;72;595;Non vérifié
-11341;Saint-Ferriol;11;eau potable;185488;2024;68,0;6,6;14,0;67,8;conforme;7227;7227;168;576;118;Non vérifié
-11342;Saint-Frichoux;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;6679;82;201;224;Non vérifié
-11343;Saint-Gaudéric;11;eau potable : Vixiège;250074;2024;71,6;1,1;2,7;65,5;conforme;37259;3862;98;147;108;Non vérifié
-11344;Saint-Hilaire;11;eau potable : SECTEUR 7 AEP;334454;2024;92,8;0,5;5,8;66,2;conforme;3124;3124;12;31;712;Non vérifié
-11345;Saint-Jean-de-Barrou;11;eau potable;185495;2024;64,9;4,1;7,6;66,5;non conforme;7572;7572;76;196;272;Non vérifié
-11346;Saint-Jean-de-Paracol;11;eau potable;185497;2024;86,5;0,5;3,3;65,7;conforme;1402;1402;28;75;139;Non vérifié
-11347;Saint-Julia-de-Bec;11;eau potable;185499;2023;100,0;0,0;8,1;66,6;conforme;0;0;0;0;98;Sans anomalie apparente
-11348;Saint-Julien-de-Briola;11;eau potable : Saint-Julien-de-Briola;185501;2024;96,2;0,1;2,2;65,4;conforme;243;243;8;16;79;Non vérifié
-11350;Saint-Just-et-le-Bézu;11;eau potable;185502;2024;100,0;0,0;1,0;65,2;conforme;0;0;0;0;50;Non vérifié
-11351;Saint-Laurent-de-la-Cabrerisse;11;eau potable;185504;2024;73,1;3,3;8,9;66,8;conforme;22886;22886;83;135;753;Non vérifié
-11352;Saint-Louis-et-Parahou;11;eau potable;185506;2024;100,0;0,0;1,7;65,3;conforme;0;0;0;0;55;Non vérifié
-11353;Saint-Marcel-sur-Aude;11;eau potable : SAINT-MARCEL-SUR-AUDE;185508;2024;84,0;4,0;21,0;69,2;conforme;26032;26032;35;69;2014;Non vérifié
-11355;Saint-Martin-de-Villereglan;11;eau potable : SECTEUR 1 AEP;334354;2024;75,0;3,3;9,9;67,0;conforme;362518;9793;67;128;403;Non vérifié
-11356;Saint-Martin-Lalande;11;eau potable : Saint-Martin-Lalande;185513;2024;96,7;0,2;5,7;66,1;conforme;2005;2005;5;13;1107;Non vérifié
-11357;Saint-Martin-le-Vieil;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;2293;30;72;211;Non vérifié
-11358;Saint-Martin-Lys;11;eau potable;185517;2024;42,2;4,5;3,3;65,7;non conforme;1035;1035;123;502;23;Non vérifié
-11359;Saint-Michel-de-Lanès;11;eau potable : Saint-Michel-de-Lanès;185519;2024;90,8;0,4;4,4;65,9;conforme;1294;1294;7;33;484;Non vérifié
-11360;Saint-Nazaire-d'Aude;11;eau potable : SAINT-NAZAIRE-D'AUDE -LE SOMAIL;185521;2024;56,7;17,7;23,2;69,6;non conforme;97683;97683;126;278;2118;Non vérifié
-11361;Saint-Papoul;11;eau potable : Saint-Papoul;185523;2024;72,3;1,5;3,9;65,8;conforme;17881;17881;59;139;835;Non vérifié
-11362;Saint-Paulet;11;eau potable : Saint-Paulet;185525;2024;66,0;1,3;2,6;65,5;conforme;5220;5220;70;186;205;Non vérifié
-11365;Saint-Sernin;11;eau potable : Belpech-Molandier;250554;2024;79,2;0,6;2,5;65,5;conforme;29412;684;49;89;38;Non vérifié
-11366;Sainte-Valière;11;eau potable : SAINTE-VALIERE;185537;2024;56,4;5,4;7,0;66,4;non conforme;27535;27535;141;354;534;Non vérifié
-11367;Saissac;11;eau potable : Saissac;185539;2024;84,8;1,3;7,4;66,5;conforme;9917;9917;30;66;904;Non vérifié
-11368;Sallèles-Cabardès;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;3280;82;201;110;Non vérifié
-11369;Sallèles-d'Aude;11;eau potable : SALLELES-D'AUDE;185543;2024;79,3;4,6;17,5;68,5;conforme;46811;46811;40;96;3179;Non vérifié
-11370;Salles-d'Aude;11;eau potable : SALLES D'AUDE;193774;2024;80,5;4,1;17,1;68,4;conforme;43937;43937;36;87;3369;Non vérifié
-11371;Salles-sur-l'Hers;11;eau potable : Salles-sur-l'Hers-Territoire n°2: le bourg de Salles/hers;185676;2024;80,2;0,8;3,3;65,7;conforme;5840;5840;21;88;770;Non vérifié
-11372;Salsigne;11;eau potable : Salsigne;185548;2024;56,5;5,1;6,6;66,3;non conforme;13403;13403;92;280;400;Non vérifié
-11373;Salvezines;11;eau potable;185550;2024;100,0;0,0;3,4;65,7;conforme;0;0;0;0;70;Non vérifié
-11375;Seignalens;11;eau potable : SECTEUR 1 AEP;334354;2024;75,0;3,3;9,9;67,0;conforme;362518;729;67;128;30;Non vérifié
-11376;La Serpent;11;eau potable : La Serpent AEP;311734;2021;61,4;1,8;2,9;65,6;non conforme;3232;3232;96;223;92;Sans anomalie apparente
-11378;Serviès-en-Val;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;6589;82;201;221;Non vérifié
-11379;Sigean;11;eau potable : SIGEAN;185558;2024;83,0;3,5;17,1;68,4;conforme;75411;75411;37;75;5657;Non vérifié
-11380;Sonnac-sur-l'Hers;11;eau potable;185560;2024;68,4;1,7;3,6;65,7;conforme;5454;5454;109;170;137;Non vérifié
-11381;Sougraigne;11;eau potable;185562;2024;88,9;0,4;3,1;65,6;conforme;555;555;12;48;125;Non vérifié
-11382;Souilhanels;11;eau potable : Souilhanels;185564;2024;86,6;0,7;4,6;65,9;conforme;2044;2044;16;55;356;Non vérifié
-11383;Souilhe;11;eau potable : Souilhe;185566;2024;87,2;0,4;2,6;65,5;conforme;2190;2190;17;55;354;Non vérifié
-11384;Soulatgé;11;eau potable;185568;2024;78,4;0,5;1,8;65,4;conforme;1095;1095;24;100;126;Non vérifié
-11385;Soupex;11;eau potable : Soupex;185570;2024;50,1;9,3;9,3;66,9;non conforme;10184;10184;115;364;243;Non vérifié
-11386;Talairan;11;eau potable;185571;2024;69,5;1,7;3,8;65,8;conforme;12286;12286;77;163;440;Non vérifié
-11387;Taurize;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;3220;82;201;108;Non vérifié
-11388;Termes;11;eau potable;185575;2024;93,1;0,3;4,4;65,9;conforme;471;471;27;25;48;Non vérifié
-11390;Thézan-des-Corbières;11;eau potable;185577;2024;78,0;3,0;10,5;67,1;conforme;8278;8278;40;104;573;Non vérifié
-11391;La Tourette-Cabardès;11;eau potable : La Tourette-Cabardès;185247;2024;96,3;0,2;4,0;65,8;conforme;58;58;8;18;20;Non vérifié
-11392;Tournissan;11;eau potable;184948;2024;94,5;0,5;8,4;66,7;conforme;951;951;9;22;292;Non vérifié
-11393;Tourouzelle;11;eau potable;185579;2024;78,6;2,1;7,7;66,5;conforme;7052;7052;39;100;494;Non vérifié
-11394;Tourreilles;11;eau potable : SECTEUR 1 AEP;334354;2024;75,0;3,3;9,9;67,0;conforme;362518;3110;67;128;128;Non vérifié
-11395;Trassanel;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;745;82;201;25;Non vérifié
-11396;Trausse;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;18307;82;201;614;Non vérifié
-11397;Trèbes;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;58254;30;72;5361;Non vérifié
-11398;Treilles;11;eau potable : TREILLES;185587;2024;87,6;1,1;7,8;66,6;conforme;2766;2766;28;54;271;Non vérifié
-11399;Tréville;11;eau potable : Tréville;185589;2024;55,7;2,8;3,5;65,7;non conforme;4139;4139;103;289;110;Non vérifié
-11400;Tréziers;11;eau potable;185590;2024;80,2;1,4;5,6;66,1;conforme;1620;1620;45;90;98;Non vérifié
-11401;Tuchan;11;eau potable;185592;2024;68,4;5,7;12,3;67,5;conforme;22053;22053;76;169;791;Non vérifié
-11404;Ventenac-Cabardès;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;10453;30;72;962;Non vérifié
-11405;Ventenac-en-Minervois;11;eau potable : VENTENAC-EN-MINERVOIS;185598;2024;72,5;7,9;20,9;69,2;conforme;17128;17128;73;138;644;Non vérifié
-11407;Verdun-en-Lauragais;11;eau potable : Verdun-en-Lauragais;185601;2024;67,5;1,4;2,8;65,6;conforme;12315;12315;116;179;290;Non vérifié
-11408;Verzeille;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;4955;30;72;456;Non vérifié
-11409;Vignevieille;11;eau potable;185605;2024;80,9;1,4;6,0;66,2;conforme;930;930;24;85;107;Non vérifié
-11410;Villalier;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;10562;30;72;972;Non vérifié
-11412;Villardebelle;11;eau potable;185614;2024;30,7;8,8;3,9;65,8;non conforme;4818;4818;200;823;66;Non vérifié
-11413;Villardonnel;11;eau potable : Villardonnel;185616;2024;72,9;1,3;3,6;65,7;conforme;8351;8351;44;132;515;Non vérifié
-11414;Villar-en-Val;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;686;82;201;23;Non vérifié
-11415;Villar-Saint-Anselme;11;eau potable;185612;2020;54,1;;;;non calculable;;;;;113;Sans anomalie apparente
-11416;Villarzel-Cabardès;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;8229;82;201;276;Non vérifié
-11418;Villasavary;11;eau potable : Villasavary;185622;2024;83,5;0,8;3,8;65,8;conforme;14495;14495;33;81;1220;Non vérifié
-11419;Villautou;11;eau potable : Vixiège;250074;2024;71,6;1,1;2,7;65,5;conforme;37259;2432;98;147;68;Non vérifié
-11421;Villedaigne;11;eau potable : VILLEDAIGNE;213564;2024;74,0;4,9;13,8;67,8;conforme;10624;10624;49;129;599;Non vérifié
-11422;Villedubert;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;3792;30;72;349;Non vérifié
-11423;Villefloure;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;4651;82;201;156;Non vérifié
-11425;Villegailhenc;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;18668;30;72;1718;Non vérifié
-11426;Villegly;11;eau potable : VILLEGLY;185631;2024;75,3;3,7;11,2;67,2;conforme;18394;18394;40;120;1247;Non vérifié
-11427;Villelongue-d'Aude;11;eau potable : SECTEUR 17 AEP;341554;2024;87,8;0,6;4,0;65,8;conforme;2746;2746;23;54;321;Non vérifié
-11428;Villemagne;11;eau potable : Villemagne;184955;2024;43,6;4,5;3,5;65,7;non conforme;22420;22420;260;470;236;Non vérifié
-11429;Villemoustaussou;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;131220;82;201;4401;Non vérifié
-11430;Villeneuve-la-Comptal;11;eau potable : Villeneuve-la-Comptal;185635;2024;90,2;0,5;4,7;65,9;conforme;6063;6063;11;39;1448;Non vérifié
-11432;Villeneuve-lès-Montréal;11;eau potable : Villeneuve-les-Montréal;185639;2024;70,5;4,0;9,6;66,9;conforme;6336;6336;53;152;330;Non vérifié
-11433;Villeneuve-Minervois;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;29190;82;201;979;Non vérifié
-11434;Villepinte;11;eau potable : Villepinte;185643;2024;96,1;0,2;6,0;66,2;conforme;2378;2378;5;12;1243;Non vérifié
-11435;Villerouge-Termenès;11;eau potable;185645;2024;94,1;0,3;5,1;66,0;conforme;766;766;13;21;165;Non vérifié
-11436;Villesèque-des-Corbières;11;eau potable;185647;2024;60,9;4,7;7,4;66,5;non conforme;13552;13552;96;232;386;Non vérifié
-11437;Villesèquelande;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;9584;30;72;882;Non vérifié
-11438;Villesiscle;11;eau potable : Villesiscle;185651;2024;86,3;0,6;3,9;65,8;conforme;2087;2087;16;57;362;Non vérifié
-11439;Villespy;11;eau potable : Villespy;185653;2024;49,6;3,2;3,2;65,6;non conforme;17684;17684;116;368;419;Non vérifié
-11440;Villetritouls;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;1014;82;201;34;Non vérifié
-11441;Vinassan;11;eau potable : VINASSAN;213570;2024;93,5;1,9;27,9;70,6;conforme;13537;13537;14;25;2662;Non vérifié
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement);Donnée suspecte (voir LISEZMOI)
+11001;Aigues-Vives;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;15862;82;201;532;Non vérifié;non
+11002;Airoux;11;eau potable : Airoux;184966;2024;60,9;4,1;6,4;66,3;non conforme;4564;4564;62;236;201;Non vérifié;non
+11003;Ajac;11;eau potable : SECTEUR 4 AEP;334414;2024;92,3;0,3;3,7;65,7;conforme;781;781;11;30;196;Non vérifié;non
+11004;Alaigne;11;eau potable : SECTEUR 1 AEP;334354;2024;75,0;3,3;9,9;67,0;conforme;362518;7946;67;128;327;Non vérifié;non
+11005;Alairac;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;15158;30;72;1395;Non vérifié;non
+11006;Albas;11;eau potable;184974;2024;76,8;1,1;3,7;65,7;conforme;1389;1389;44;109;87;Non vérifié;non
+11007;Albières;11;eau potable;184976;2023;71,3;0,6;1,6;65,3;conforme;1813;1813;42;139;117;Sans anomalie apparente;non
+11008;Alet-les-Bains;11;eau potable : SECTEUR 1 AEP;334354;2024;75,0;3,3;9,9;67,0;conforme;362518;9210;67;128;379;Non vérifié;non
+11009;Alzonne;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;17234;30;72;1586;Non vérifié;non
+11010;Antugnac;11;eau potable;185057;2024;65,0;5,1;9,5;66,9;non conforme;11169;11169;105;231;291;Non vérifié;non
+11011;Aragon;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;5292;30;72;487;Non vérifié;non
+11012;Argeliers;11;eau potable : ARGELIERS;184982;2024;60,1;11,1;16,8;68,4;non conforme;92415;92415;119;241;2124;Non vérifié;non
+11013;Argens-Minervois;11;eau potable;184984;2024;80,0;2,7;10,9;67,2;conforme;6899;6899;48;90;395;Non vérifié;non
+11014;Armissan;11;eau potable : ARMISSAN;193724;2024;81,4;5,4;23,6;69,7;conforme;18843;18843;35;84;1461;Non vérifié;non
+11016;Arquettes-en-Val;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;2475;82;201;83;Non vérifié;non
+11017;Artigues;11;eau potable;184990;2024;0,0;17,4;0,0;65,0;non conforme;6732;6732;256;;72;Non vérifié;oui
+11018;Arzens;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;12757;30;72;1174;Non vérifié;non
+11019;Aunat;11;eau potable;184994;2024;75,3;5,9;18,1;68,6;conforme;2326;2326;104;119;61;Non vérifié;non
+11020;Auriac;11;eau potable;184996;2024;51,6;0,6;0,6;65,1;non conforme;1599;1599;133;358;33;Non vérifié;non
+11021;Axat;11;eau potable;184997;2024;54,7;5,1;6,2;66,2;non conforme;23585;23585;135;300;479;Non vérifié;non
+11022;Azille;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;33245;82;201;1115;Non vérifié;non
+11023;Badens;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;22332;82;201;749;Non vérifié;non
+11024;Bages;11;eau potable : BAGES;193725;2024;87,1;1,3;8,8;66,8;conforme;7801;7801;30;54;720;Non vérifié;non
+11025;Bagnoles;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;8945;82;201;300;Non vérifié;non
+11026;Baraigne;11;eau potable : Baraigne;185007;2024;99,2;0,0;2,4;65,5;conforme;0;0;0;0;163;Non vérifié;non
+11027;Barbaira;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;8747;30;72;805;Non vérifié;non
+11028;Belcaire;11;eau potable;185003;2024;51,5;9,2;9,8;67,0;non conforme;29718;29718;223;343;365;Non vérifié;non
+11029;Belcastel-et-Buc;11;eau potable : SECTEUR 1 AEP;334354;2024;75,0;3,3;9,9;67,0;conforme;362518;1458;67;128;60;Non vérifié;non
+11030;Belflou;11;eau potable : SIEAP de Salles-sur-l'Hers;184947;2024;74,3;1,1;3,1;65,6;conforme;12515;1279;32;130;111;Non vérifié;non
+11031;Belfort-sur-Rebenty;11;eau potable;185013;2024;0,0;8,3;0,0;65,0;non conforme;2545;2545;279;;25;Non vérifié;oui
+11032;Bellegarde-du-Razès;11;eau potable : SECTEUR 1 AEP;334354;2024;75,0;3,3;9,9;67,0;conforme;362518;6099;67;128;251;Non vérifié;non
+11033;Belpech;11;eau potable : Belpech-Molandier;250554;2024;79,2;0,6;2,5;65,5;conforme;29412;24189;49;89;1343;Non vérifié;non
+11034;Belvèze-du-Razès;11;eau potable : SECTEUR 3 AEP;334374;2024;74,9;2,6;7,8;66,6;conforme;13409;13409;42;122;884;Non vérifié;non
+11035;Belvianes-et-Cavirac;11;eau potable;185019;2024;79,7;1,2;4,7;65,9;conforme;3942;3942;40;93;270;Non vérifié;non
+11036;Belvis;11;eau potable;185021;2024;82,4;0,7;3,3;65,7;conforme;3138;2422;40;96;166;Non vérifié;non
+11037;Berriac;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;29190;82;201;979;Non vérifié;non
+11038;Bessède-de-Sault;11;eau potable;185023;2024;0,0;6,2;0,0;65,0;non conforme;5658;5658;246;;63;Non vérifié;oui
+11040;Bizanet;11;eau potable : BIZANET;213571;2024;64,0;9,7;17,3;68,5;non conforme;71022;71022;112;232;1730;Non vérifié;non
+11041;Bize-Minervois;11;eau potable : BIZE;184957;2024;80,9;9,9;41,9;73,4;conforme;72487;72487;147;357;1355;Non vérifié;non
+11042;Blomac;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;7871;82;201;264;Non vérifié;non
+11043;Bouilhonnac;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;6738;82;201;226;Non vérifié;non
+11044;Bouisse;11;eau potable;185029;2024;37,5;5,2;3,1;65,6;non conforme;7402;7402;195;610;104;Non vérifié;non
+11045;Bouriège;11;eau potable : SECTEUR 1 AEP;334354;2024;75,0;3,3;9,9;67,0;conforme;362518;3669;67;128;151;Non vérifié;non
+11046;Bourigeole;11;eau potable : SECTEUR 1 AEP;334354;2024;75,0;3,3;9,9;67,0;conforme;362518;1361;67;128;56;Non vérifié;non
+11047;Le Bousquet;11;eau potable;185284;2024;0,0;5,7;0,0;65,0;non conforme;3953;3953;278;;39;Non vérifié;oui
+11048;Boutenac;11;eau potable;185032;2024;53,3;10,8;12,4;67,5;non conforme;45648;45648;167;319;747;Non vérifié;non
+11049;Bram;11;eau potable : Bram;185034;2024;81,0;1,9;8,0;66,6;conforme;36041;36041;31;87;3233;Non vérifié;non
+11051;Brézilhac;11;eau potable : Brézilhac;185038;2024;97,3;0,1;2,6;65,5;conforme;293;293;5;14;172;Non vérifié;non
+11052;Brousses-et-Villaret;11;eau potable : Brousses-et-Villaret;185040;2024;92,2;0,2;2,4;65,5;conforme;1412;1412;11;30;365;Non vérifié;non
+11054;Les Brunels;11;eau potable;185288;2023;88,1;0,4;2,7;65,5;conforme;2920;2920;30;55;268;Sans anomalie apparente;non
+11055;Bugarach;11;eau potable;185044;2024;94,0;0,2;2,8;65,6;conforme;1059;1059;12;26;250;Non vérifié;non
+11056;Cabrespine;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;5516;82;201;185;Non vérifié;non
+11057;Cahuzac;11;eau potable : Vixiège;250074;2024;71,6;1,1;2,7;65,5;conforme;37259;1180;98;147;33;Non vérifié;non
+11058;Cailhau;11;eau potable;185048;2024;50,6;2,5;2,6;65,5;non conforme;14874;14874;165;363;247;Non vérifié;non
+11059;Cailhavel;11;eau potable;185050;2024;95,2;0,1;2,6;65,5;conforme;261;261;5;14;154;Non vérifié;non
+11060;Cailla;11;eau potable;185051;2024;0,0;0,0;0,0;65,0;non conforme;0;0;0;;49;Non vérifié;oui
+11061;Cambieure;11;eau potable;185053;2024;94,4;0,3;4,5;65,9;conforme;1046;1046;9;24;327;Non vérifié;non
+11062;Campagna-de-Sault;11;eau potable;185055;2024;100,0;0,0;0,0;65,0;conforme;0;0;0;;20;Non vérifié;non
+11063;Campagne-sur-Aude;11;eau potable;185061;2024;89,9;0,7;6,1;66,2;conforme;3454;3454;15;42;618;Non vérifié;non
+11064;Camplong-d'Aude;11;eau potable;185063;2024;71,8;5,4;13,7;67,7;conforme;8870;8870;62;144;389;Non vérifié;non
+11065;Camps-sur-l'Agly;11;eau potable;185065;2024;99,0;0,0;1,3;65,3;conforme;0;0;0;0;66;Non vérifié;non
+11066;Camurac;11;eau potable;185066;2024;72,3;9,2;24,0;69,8;conforme;24513;24513;611;140;110;Non vérifié;non
+11067;Canet;11;eau potable;185068;2024;85,4;2,8;16,2;68,2;conforme;18795;18795;27;63;1873;Non vérifié;non
+11068;Capendu;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;15789;30;72;1453;Non vérifié;non
+11069;Carcassonne;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;500713;30;72;46080;Non vérifié;non
+11070;Carlipa;11;eau potable : Carlipa;185074;2024;96,2;0,1;2,0;65,4;conforme;731;731;6;18;332;Non vérifié;non
+11071;Cascastel-des-Corbières;11;eau potable;185076;2024;83,2;1,8;9,1;66,8;conforme;2759;2759;36;74;212;Non vérifié;non
+11072;La Cassaigne;11;eau potable : La Cassaigne;185229;2024;97,6;0,1;1,5;65,3;conforme;783;783;11;25;200;Non vérifié;non
+11074;Les Cassés;11;eau potable : Les Cassès;185290;2024;79,2;0,7;2,8;65,6;conforme;3066;3066;26;91;319;Non vérifié;non
+11075;Castans;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;3697;82;201;124;Non vérifié;non
+11076;Castelnaudary;11;eau potable : Castelnaudary;185084;2024;81,1;4,0;17,0;68,4;conforme;204488;204488;46;86;12151;Non vérifié;non
+11077;Castelnau-d'Aude;11;eau potable;185082;2024;71,5;3,7;9,2;66,8;conforme;9859;9859;54;147;497;Non vérifié;non
+11078;Castelreng;11;eau potable : SECTEUR 15 AEP;341514;2024;54,9;2,9;3,5;65,7;non conforme;9410;9410;125;301;207;Non vérifié;non
+11081;Caunes-Minervois;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;46334;82;201;1554;Non vérifié;non
+11083;Caunettes-en-Val;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;1670;82;201;56;Non vérifié;non
+11084;Caux-et-Sauzens;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;11138;30;72;1025;Non vérifié;non
+11085;Cavanac;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;11094;30;72;1021;Non vérifié;non
+11086;Caves;11;eau potable : CAVES;185094;2024;88,7;2,0;15,4;68,1;conforme;6059;6059;19;48;875;Non vérifié;non
+11087;Cazalrenoux;11;eau potable : Vixiège;250074;2024;71,6;1,1;2,7;65,5;conforme;37259;3755;98;147;105;Non vérifié;non
+11088;Cazilhac;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;18081;30;72;1664;Non vérifié;non
+11089;Cenne-Monestiés;11;eau potable : Cenne-Monestiès;185096;2024;83,8;0,8;4,3;65,9;conforme;3764;3764;25;68;413;Non vérifié;non
+11090;Cépie;11;eau potable : SECTEUR 8 AEP;334415;2024;50,1;7,7;7,8;66,6;non conforme;31225;31225;143;367;598;Non vérifié;non
+11091;Chalabre;11;eau potable;343054;2024;70,4;3,1;7,4;66,5;conforme;30550;30550;77;181;1084;Non vérifié;non
+11092;Citou;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;3011;82;201;101;Non vérifié;non
+11093;Le Clat;11;eau potable;185286;2024;100,0;0,0;0,4;65,1;conforme;0;0;0;0;28;Non vérifié;non
+11095;Comigne;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;9780;82;201;328;Non vérifié;non
+11096;Comus;11;eau potable;185107;2024;81,5;1,6;7,2;66,4;conforme;1460;1460;121;82;33;Non vérifié;non
+11099;Conques-sur-Orbiel;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;27415;30;72;2523;Non vérifié;non
+11100;Corbières;11;eau potable;185114;2024;42,3;1,6;1,2;65,2;non conforme;3037;3037;219;498;38;Non vérifié;non
+11101;Coudons;11;eau potable;185115;2024;64,0;1,7;3,0;65,6;non conforme;1303;1303;66;208;54;Non vérifié;non
+11102;Couffoulens;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;5792;30;72;533;Non vérifié;non
+11104;Counozouls;11;eau potable;185121;2024;0,0;0,0;0,0;65,0;non conforme;0;0;0;;57;Non vérifié;oui
+11105;Cournanel;11;eau potable : SECTEUR 6 AEP;334434;2024;58,0;4,5;6,3;66,3;non conforme;24638;24638;102;263;659;Non vérifié;non
+11106;Coursan;11;eau potable : COURSAN;213562;2024;78,9;6,5;24,2;69,8;conforme;73998;73998;35;98;5737;Non vérifié;non
+11107;Courtauly;11;eau potable;185125;2024;53,5;1,7;2,0;65,4;non conforme;4486;4486;168;309;73;Non vérifié;non
+11110;Coustouge;11;eau potable;185128;2022;72,7;1,4;3,6;65,7;conforme;1962;1962;46;141;117;Sans anomalie apparente;non
+11111;Cruscades;11;eau potable;185130;2024;77,1;3,2;10,8;67,2;conforme;9870;9870;29;108;936;Non vérifié;non
+11112;Cubières-sur-Cinoble;11;eau potable;185132;2024;80,2;0,9;3,7;65,7;conforme;887;887;29;88;83;Non vérifié;non
+11113;Cucugnan;11;eau potable;185134;2024;50,0;3,3;3,3;65,7;non conforme;7227;7227;158;365;125;Non vérifié;non
+11114;Cumiès;11;eau potable : Cumiès;185136;2024;62,1;1,4;2,3;65,5;non conforme;2300;2300;143;219;44;Non vérifié;non
+11115;Cuxac-Cabardès;11;eau potable : Cuxac-Cabardès;185137;2024;61,7;2,4;3,9;65,8;non conforme;28531;28531;83;223;947;Non vérifié;non
+11116;Cuxac-d'Aude;11;eau potable : CUXAC D'AUDE;193769;2024;55,4;11,6;14,4;67,9;non conforme;190996;190996;128;295;4079;Non vérifié;non
+11117;Davejean;11;eau potable;185139;2022;87,8;1,5;10,6;67,1;conforme;947;947;16;52;163;Sans anomalie apparente;non
+11118;Dernacueillette;11;eau potable;185141;2024;85,2;1,1;6,3;66,3;conforme;522;522;33;64;43;Non vérifié;non
+11119;La Digne-d'Amont;11;eau potable : SECTEUR 1 AEP;334354;2024;75,0;3,3;9,9;67,0;conforme;362518;6950;67;128;286;Non vérifié;non
+11120;La Digne-d'Aval;11;eau potable : SECTEUR 1 AEP;334354;2024;75,0;3,3;9,9;67,0;conforme;362518;12685;67;128;522;Non vérifié;non
+11121;Donazac;11;eau potable : SECTEUR 16 AEP;341534;2024;50,2;3,5;3,5;65,7;non conforme;4586;4586;114;364;110;Non vérifié;non
+11122;Douzens;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;23376;82;201;784;Non vérifié;non
+11123;Duilhac-sous-Peyrepertuse;11;eau potable;185147;2024;70,7;;8,3;66,7;conforme;;;;;140;Non vérifié;oui
+11124;Durban-Corbières;11;eau potable;185149;2024;56,8;7,8;10,2;67,0;non conforme;30463;30463;129;279;649;Non vérifié;non
+11126;Escales;11;eau potable;185153;2024;83,5;2,8;14,2;67,8;conforme;5509;5509;29;72;512;Non vérifié;non
+11127;Escouloubre;11;eau potable : 06_UT Pays Cathare;206664;2024;66,2;3,9;7,6;66,5;non conforme;939652;3736;144;328;71;Non vérifié;non
+11128;Escueillens-et-Saint-Just-de-Bélengard;11;eau potable;185157;2023;69,5;1,7;3,9;65,8;conforme;5150;5150;88;161;160;Sans anomalie apparente;non
+11129;Espéraza;11;eau potable;185159;2024;57,2;7,3;9,8;67,0;non conforme;76231;76231;118;276;1774;Non vérifié;non
+11130;Espezel;11;eau potable;185161;2024;48,5;5,7;5,3;66,1;non conforme;26006;26006;299;390;238;Non vérifié;non
+11131;Val-du-Faby;11;eau potable (Rouvenac);185474;2024;77,3;1,8;6,0;66,2;conforme;2168;2168;10;109;580;Non vérifié;non
+11132;Fabrezan;11;eau potable;185165;2024;58,9;8,0;11,5;67,3;non conforme;55772;55772;117;255;1306;Non vérifié;non
+11133;Fajac-en-Val;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;1610;82;201;54;Non vérifié;non
+11134;Fajac-la-Relenque;11;eau potable : SIEAP Belpech Molandier;185655;2024;79,0;0,7;2,6;65,5;conforme;32709;4078;233;99;48;Non vérifié;non
+11136;Fanjeaux;11;eau potable : Fanjeaux;185168;2024;88,8;0,4;3,1;65,6;conforme;7125;7125;22;47;885;Non vérifié;non
+11137;Félines-Termenès;11;eau potable;185170;2024;72,3;2,1;5,4;66,1;conforme;1840;1840;39;142;130;Non vérifié;non
+11138;Fendeille;11;eau potable : Fendeille;185172;2024;83,9;1,1;5,9;66,2;conforme;5143;5143;21;68;658;Non vérifié;non
+11139;Fenouillet-du-Razès;11;eau potable : Fenouillet-du-Razès;185174;2024;59,6;0,9;1,4;65,3;non conforme;3140;3140;110;235;78;Non vérifié;non
+11140;Ferrals-les-Corbières;11;eau potable;185175;2024;75,2;4,1;12,5;67,5;conforme;21086;21086;45;120;1275;Non vérifié;non
+11141;Ferran;11;eau potable : Ferran;185177;2024;96,9;0,1;3,6;65,7;conforme;226;226;5;10;125;Non vérifié;non
+11142;Festes-et-Saint-André;11;eau potable;185178;2024;60,8;1,9;3,0;65,6;non conforme;5687;5687;84;231;185;Non vérifié;non
+11143;Feuilla;11;eau potable : Feuilla - Eau potable;319934;2024;85,0;1,3;7,1;66,4;conforme;826;826;21;67;107;Non vérifié;non
+11144;Fitou;11;eau potable :;185182;2024;68,3;7,6;16,5;68,3;conforme;41610;41610;98;168;1158;Non vérifié;non
+11145;Fleury;11;eau potable : FLEURY D'AUDE;193770;2024;90,7;2,7;26,2;70,2;conforme;68827;68827;44;50;4246;Non vérifié;non
+11146;Floure;11;eau potable : FLOURE;185184;2024;81,1;2,6;11,1;67,2;conforme;4252;4252;29;85;405;Non vérifié;non
+11147;Fontanès-de-Sault;11;eau potable;185186;2024;25,6;15,3;5,2;66,0;non conforme;11169;11169;5100;1066;6;Non vérifié;non
+11148;Fontcouverte;11;eau potable;185188;2024;79,7;2,5;9,8;67,0;conforme;6962;6962;33;93;575;Non vérifié;non
+11149;Fonters-du-Razès;11;eau potable : Vixiège;250074;2024;71,6;1,1;2,7;65,5;conforme;37259;2539;98;147;71;Non vérifié;non
+11150;Fontiers-Cabardès;11;eau potable : Fontiers-Cabardès;185190;2024;73,3;1,3;3,5;65,7;conforme;9072;9072;52;135;476;Non vérifié;non
+11151;Fontiès-d'Aude;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;16697;82;201;560;Non vérifié;non
+11152;Fontjoncouse;11;eau potable;184951;2024;67,6;3,0;6,2;66,2;conforme;7358;7358;145;178;139;Non vérifié;non
+11153;La Force;11;eau potable : La Force;185238;2024;89,5;0,6;5,4;66,1;conforme;1730;1730;18;41;264;Non vérifié;non
+11154;Fournes-Cabardès;11;eau potable : Fournes-Cabardès;185192;2024;98,6;;;;non calculable;;;;;53;Non vérifié;oui
+11156;Fraisse-Cabardès;11;eau potable : Fraisse-Cabardès;185196;2024;82,0;1,8;8,2;66,6;conforme;1334;1334;35;80;104;Non vérifié;non
+11157;Fraissé-des-Corbières;11;eau potable : FRAISSE-DES-CORBIERES;185198;2024;75,0;3,4;10,3;67,1;conforme;3760;3760;44;121;232;Non vérifié;non
+11158;Gaja-et-Villedieu;11;eau potable : SECTEUR 9 AEP;334474;2024;70,0;1,8;4,2;65,8;conforme;7148;7148;64;158;306;Non vérifié;non
+11159;Gaja-la-Selve;11;eau potable : Vixiège;250074;2024;71,6;1,1;2,7;65,5;conforme;37259;4791;98;147;134;Non vérifié;non
+11162;Generville;11;eau potable : Vixiège;250074;2024;71,6;1,1;2,7;65,5;conforme;37259;1716;98;147;48;Non vérifié;non
+11163;Gincla;11;eau potable;185205;2024;93,4;0,8;12,0;67,4;conforme;289;289;17;24;46;Non vérifié;non
+11164;Ginestas;11;eau potable : GINESTAS;185207;2024;44,9;23,6;19,2;68,8;non conforme;106469;106469;181;448;1611;Non vérifié;non
+11165;Ginoles;11;eau potable;185209;2024;56,2;6,8;8,7;66,7;non conforme;10474;10474;97;285;296;Non vérifié;non
+11166;Gourvieille;11;eau potable : Gourvieille;185211;2024;82,3;0,3;1,5;65,3;conforme;699;699;28;75;68;Non vérifié;non
+11167;Gramazie;11;eau potable;185212;2024;87,0;0,6;4,3;65,9;conforme;749;749;16;51;130;Non vérifié;non
+11168;Granès;11;eau potable;185214;2024;49,1;3,9;3,8;65,8;non conforme;6961;6961;162;376;118;Non vérifié;non
+11170;Gruissan;11;eau potable : GRUISSAN;193771;2024;83,3;6,8;33,9;71,8;conforme;162968;162968;89;73;5032;Non vérifié;non
+11172;Homps;11;eau potable;185220;2024;71,6;5,3;13,5;67,7;conforme;17797;17797;80;192;609;Non vérifié;non
+11173;Hounoux;11;eau potable : Hounoux;185222;2024;77,1;1,0;3,4;65,7;conforme;2154;2154;44;106;135;Non vérifié;non
+11174;Les Ilhes;11;eau potable : LES ILHES CABARDES;185292;2024;50,0;0,0;;;non calculable;;;;;64;Non vérifié;oui
+11175;Issel;11;eau potable : Issel;185223;2024;82,2;2,3;10,8;67,2;conforme;4198;4198;24;78;483;Non vérifié;non
+11176;Jonquières;11;eau potable;185225;2024;97,1;0,1;4,8;66,0;conforme;42;42;3;8;45;Non vérifié;non
+11178;Labastide-d'Anjou;11;eau potable : Labastide-d'Anjou;185249;2024;89,0;0,8;6,4;66,3;conforme;6138;6138;13;46;1255;Non vérifié;non
+11179;Labastide-en-Val;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;2624;82;201;88;Non vérifié;non
+11180;Labastide-Esparbairenque;11;eau potable;185253;2024;90,5;0,5;4,9;66,0;conforme;252;252;10;37;66;Non vérifié;non
+11181;Labécède-Lauragais;11;eau potable : Labécède-Lauragais;185255;2024;72,8;1,4;3,8;65,8;conforme;6219;6219;41;133;420;Non vérifié;non
+11182;Lacombe;11;eau potable;185256;2024;92,4;0,2;2,3;65,5;conforme;1059;1059;15;32;188;Non vérifié;non
+11183;Ladern-sur-Lauquet;11;eau potable;185258;2020;90,7;1,2;11,9;67,4;conforme;1358;1358;15;37;248;Sans anomalie apparente;non
+11184;Lafage;11;eau potable : Vixiège;250074;2024;71,6;1,1;2,7;65,5;conforme;37259;3218;98;147;90;Non vérifié;non
+11185;Lagrasse;11;eau potable;185261;2024;82,8;3,8;18,1;68,6;conforme;11512;11512;57;76;554;Non vérifié;non
+11186;Lairière;11;eau potable;184953;2024;55,6;2,4;3,0;65,6;non conforme;1796;1796;95;295;52;Non vérifié;non
+11187;Lanet;11;eau potable;185263;2024;67,0;2,2;4,4;65,9;conforme;1606;1606;77;183;57;Non vérifié;non
+11188;La Palme;11;eau potable : LA PALME;185240;2024;82,2;2,9;13,3;67,7;conforme;27489;27489;38;79;1995;Non vérifié;non
+11189;Laprade;11;eau potable;185265;2024;74,1;2,9;8,4;66,7;conforme;2583;2583;58;127;122;Non vérifié;non
+11190;La Redorte;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;36912;82;201;1238;Non vérifié;non
+11191;Laroque-de-Fa;11;eau potable;185267;2024;70,8;1,5;3,7;65,7;conforme;3088;3088;61;149;138;Non vérifié;non
+11192;Lasbordes;11;eau potable : Lasbordes;185269;2024;76,3;1,5;4,8;66,0;conforme;12592;12592;41;114;846;Non vérifié;non
+11193;Lasserre-de-Prouille;11;eau potable : Lasserre-de-Prouilhe;185271;2024;79,3;1,6;6,0;66,2;conforme;2780;2780;26;97;292;Non vérifié;non
+11195;Laurabuc;11;eau potable : Laurabuc;185275;2024;91,2;0,3;3,3;65,7;conforme;1770;1770;11;33;431;Non vérifié;non
+11196;Laurac;11;eau potable : Laurac;185277;2024;70,7;0,6;1,4;65,3;conforme;3627;3627;55;161;182;Non vérifié;non
+11197;Lauraguel;11;eau potable;185279;2024;74,7;2,3;6,8;66,4;conforme;9234;9234;41;124;622;Non vérifié;non
+11198;Laure-Minervois;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;31635;82;201;1061;Non vérifié;non
+11199;Lavalette;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;17516;30;72;1612;Non vérifié;non
+11200;Lespinassière;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;4144;82;201;139;Non vérifié;non
+11201;Leuc;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;8899;30;72;819;Non vérifié;non
+11202;Leucate;11;eau potable : Leucate village;217179;2024;82,6;7,1;33,8;71,8;conforme;213721;213721;128;77;4562;Non vérifié;non
+11203;Lézignan-Corbières;11;eau potable;185297;2024;73,9;7,1;20,3;69,1;conforme;258761;258761;69;128;10343;Non vérifié;non
+11204;Lignairolles;11;eau potable;185299;2024;63,6;0,8;1,5;65,3;non conforme;1069;1069;89;197;33;Non vérifié;non
+11205;Limousis;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;3608;82;201;121;Non vérifié;non
+11206;Limoux;11;eau potable : SECTEUR 1 AEP;334354;2024;75,0;3,3;9,9;67,0;conforme;362518;255935;67;128;10532;Non vérifié;non
+11207;Loupia;11;eau potable : SECTEUR 1 AEP;334354;2024;75,0;3,3;9,9;67,0;conforme;362518;6294;67;128;259;Non vérifié;non
+11208;La Louvière-Lauragais;11;eau potable : SIEAP Belpech Molandier;185655;2024;79,0;0,7;2,6;65,5;conforme;32709;6797;233;99;80;Non vérifié;non
+11209;Luc-sur-Aude;11;eau potable;185306;2024;74,3;1,3;3,9;65,8;conforme;4128;4128;44;122;257;Non vérifié;non
+11210;Luc-sur-Orbieu;11;eau potable;185308;2024;52,2;14,0;15,3;68,1;non conforme;43895;43895;103;334;1173;Non vérifié;non
+11212;Mailhac;11;eau potable : MAILHAC;185312;2024;69,0;15,5;34,6;71,9;non conforme;30437;30437;140;262;595;Non vérifié;non
+11213;Maisons;11;eau potable;185314;2024;65,8;0,6;1,1;65,2;conforme;1051;1051;49;200;59;Non vérifié;non
+11214;Malras;11;eau potable : SECTEUR 5 AEP;334395;2024;72,5;3,5;9,2;66,8;conforme;9901;9901;61;139;444;Non vérifié;non
+11215;Malves-en-Minervois;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;26477;82;201;888;Non vérifié;non
+11217;Marcorignan;11;eau potable : MARCORIGNAN;213565;2024;73,2;16,8;46,0;74,2;non conforme;75792;75792;156;419;1333;Non vérifié;non
+11218;Marquein;11;eau potable : SIEAP de Salles-sur-l'Hers;184947;2024;74,3;1,1;3,1;65,6;conforme;12515;899;32;130;78;Non vérifié;non
+11219;Marsa;11;eau potable;185323;2024;0,0;1,5;0,0;65,0;non conforme;1971;1971;225;;24;Non vérifié;oui
+11220;Marseillette;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;20782;82;201;697;Non vérifié;non
+11221;Les Martys;11;eau potable;185293;2024;88,8;0,4;3,3;65,7;conforme;1694;1694;15;44;309;Non vérifié;non
+11223;Mas-des-Cours;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;656;82;201;22;Non vérifié;non
+11224;Massac;11;eau potable;185330;2024;60,7;1,5;2,2;65,4;non conforme;1889;1889;173;243;30;Non vérifié;non
+11225;Mas-Saintes-Puelles;11;eau potable : Mas-Saintes-Puelles;185328;2024;65,9;1,1;2,2;65,4;conforme;21681;21681;64;182;923;Non vérifié;non
+11226;Mayreville;11;eau potable : SIEAP Belpech Molandier;185655;2024;79,0;0,7;2,6;65,5;conforme;32709;7306;233;99;86;Non vérifié;non
+11227;Mayronnes;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;1252;82;201;42;Non vérifié;non
+11228;Mazerolles-du-Razès;11;eau potable : SECTEUR 1 AEP;334354;2024;75,0;3,3;9,9;67,0;conforme;362518;3815;67;128;157;Non vérifié;non
+11229;Mazuby;11;eau potable;185334;2024;89,6;1,1;9,7;66,9;conforme;442;442;58;41;21;Non vérifié;non
+11231;Mézerville;11;eau potable : SIEAP Belpech Molandier;185655;2024;79,0;0,7;2,6;65,5;conforme;32709;8156;233;99;96;Non vérifié;non
+11232;Miraval-Cabardes;11;eau potable : Miraval-Cabardes;185337;2024;0,0;8,5;0,0;65,0;non conforme;9308;9308;432;;59;Non vérifié;oui
+11233;Mirepeisset;11;eau potable : MIREPEISSET;185339;2024;49,6;19,1;18,8;68,8;non conforme;50822;50822;186;371;750;Non vérifié;non
+11234;Mireval-Lauragais;11;eau potable : Mireval-Lauragais;185341;2024;69,1;1,6;3,6;65,7;conforme;6132;6132;87;162;193;Non vérifié;non
+11236;Molandier;11;eau potable : Belpech-Molandier;250554;2024;79,2;0,6;2,5;65,5;conforme;29412;4539;49;89;252;Non vérifié;non
+11238;Molleville;11;eau potable : Molleville;185345;2024;72,8;1,0;2,6;65,5;conforme;1964;1964;42;141;128;Non vérifié;non
+11239;Montauriol;11;eau potable : Montauriol;185347;2024;69,2;0,4;1,0;65,2;conforme;1606;1606;52;153;85;Non vérifié;non
+11240;Montazels;11;eau potable : SECTEUR 2 AEP;334394;2024;87,4;1,4;9,6;66,9;conforme;5672;5672;29;53;528;Non vérifié;non
+11241;Montbrun-des-Corbières;11;eau potable;185350;2024;73,8;4,0;11,3;67,3;conforme;7738;7738;62;129;343;Non vérifié;non
+11242;Montclar;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;1934;30;72;178;Non vérifié;non
+11243;Montferrand;11;eau potable : Montferrand;184959;2024;85,8;0,5;3,3;65,7;conforme;4057;4057;18;56;622;Non vérifié;non
+11244;Montfort-sur-Boulzane;11;eau potable;185352;2024;74,3;3,0;8,8;66,8;conforme;2628;2628;83;125;87;Non vérifié;non
+11245;Montgaillard;11;eau potable;185354;2024;92,2;0,7;8,2;66,6;conforme;174;174;13;31;38;Non vérifié;non
+11246;Montgradail;11;eau potable : SECTEUR 1 AEP;334354;2024;75,0;3,3;9,9;67,0;conforme;362518;1215;67;128;50;Non vérifié;non
+11248;Montirat;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;2087;82;201;70;Non vérifié;non
+11249;Montjardin;11;eau potable;345714;2024;87,1;0,4;2,7;65,5;conforme;718;718;21;53;93;Non vérifié;non
+11250;Montjoi;11;eau potable;185361;2024;0,0;0,0;0,0;65,0;non conforme;0;0;0;;43;Non vérifié;oui
+11251;Val-de-Dagne;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;21795;82;201;731;Non vérifié;non
+11252;Montmaur;11;eau potable : Montmaur;185365;2024;81,4;0,6;2,8;65,6;conforme;3066;3066;24;80;356;Non vérifié;non
+11253;Montolieu;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;9008;30;72;829;Non vérifié;non
+11254;Montréal;11;eau potable : Montréal;185369;2024;82,4;0,8;3,8;65,8;conforme;24172;24172;31;78;2136;Non vérifié;non
+11255;Montredon-des-Corbières;11;eau potable : MONTREDON DES CORBIERES;213566;2024;55,1;27,6;33,9;71,8;non conforme;168135;168135;310;324;1485;Non vérifié;non
+11256;Montséret;11;eau potable;185371;2024;80,3;2,1;8,6;66,7;conforme;9880;9880;44;89;616;Non vérifié;non
+11257;Monze;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;7245;82;201;243;Non vérifié;non
+11258;Moussan;11;eau potable : MOUSSAN;213567;2024;78,6;12,6;46,4;74,3;conforme;109042;109042;143;338;2093;Non vérifié;non
+11259;Moussoulens;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;10388;30;72;956;Non vérifié;non
+11260;Mouthoumet;11;eau potable;185377;2024;71,7;1,0;2,5;65,5;conforme;2592;2592;61;147;116;Non vérifié;non
+11261;Moux;11;eau potable;185379;2021;67,7;4,5;9,4;66,9;conforme;16425;16425;63;176;719;Sans anomalie apparente;non
+11262;Narbonne;11;eau potable : NARBONNE;193772;2024;80,7;7,4;30,8;71,2;conforme;1185199;1185199;56;113;57587;Non vérifié;non
+11263;Nébias;11;eau potable;185381;2024;65,9;1,3;2,6;65,5;conforme;6885;6885;72;183;262;Non vérifié;non
+11264;Névian;11;eau potable : NEVIAN;193766;2024;82,9;5,7;27,5;70,5;conforme;26610;26610;57;132;1286;Non vérifié;non
+11265;Niort-de-Sault;11;eau potable;185383;2024;100,0;0,0;3,9;65,8;conforme;0;0;0;0;34;Non vérifié;non
+11266;Port-la-Nouvelle;11;eau potable : PORT-LA-NOUVELLE;185418;2024;86,0;5,5;33,5;71,7;conforme;114146;114146;53;60;5852;Non vérifié;non
+11267;Ornaisons;11;eau potable;185385;2024;71,9;4,3;10,9;67,2;conforme;24013;24013;57;144;1161;Non vérifié;non
+11268;Orsans;11;eau potable : Orsans;185387;2024;47,7;1,2;1,1;65,2;non conforme;5987;5987;189;403;87;Non vérifié;non
+11269;Ouveillan;11;eau potable : OUVEILLAN;213568;2024;72,6;9,9;26,4;70,3;conforme;71403;71403;72;137;2713;Non vérifié;non
+11270;Padern;11;eau potable;185390;2024;45,4;10,6;8,8;66,8;non conforme;9092;9092;179;441;139;Non vérifié;non
+11271;Palairac;11;eau potable;185392;2024;86,5;0,3;1,8;65,4;conforme;493;493;41;62;33;Non vérifié;non
+11272;Palaja;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;29578;30;72;2722;Non vérifié;non
+11273;Paraza;11;eau potable;185394;2024;64,6;5,3;9,6;66,9;non conforme;22440;22440;88;202;700;Non vérifié;non
+11274;Pauligne;11;eau potable : SECTEUR 1 AEP;334354;2024;75,0;3,3;9,9;67,0;conforme;362518;8675;67;128;357;Non vérifié;non
+11275;Payra-sur-l'Hers;11;eau potable : Payra-sur-l'Hers;185398;2024;80,7;0,3;1,2;65,2;conforme;2409;2409;31;92;210;Non vérifié;non
+11276;Paziols;11;eau potable;185399;2024;70,2;3,7;8,6;66,7;conforme;9818;9818;51;156;526;Non vérifié;non
+11277;Pécharic-et-le-Py;11;eau potable : Vixiège;250074;2024;71,6;1,1;2,7;65,5;conforme;37259;1073;98;147;30;Non vérifié;non
+11278;Pech-Luna;11;eau potable : Vixiège;250074;2024;71,6;1,1;2,7;65,5;conforme;37259;2718;98;147;76;Non vérifié;non
+11279;Pennautier;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;31458;30;72;2895;Non vérifié;non
+11280;Pépieux;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;33334;82;201;1118;Non vérifié;non
+11281;Pexiora;11;eau potable : Pexiora;185405;2024;88,1;0,7;4,9;66,0;conforme;7473;7473;16;52;1266;Non vérifié;non
+11282;Peyrefitte-du-Razès;11;eau potable;185407;2024;38,8;3,7;2,4;65,5;non conforme;5037;5037;256;569;54;Non vérifié;non
+11283;Peyrefitte-sur-l'Hers;11;eau potable : SIEAP Belpech Molandier;185655;2024;79,0;0,7;2,6;65,5;conforme;32709;6372;233;99;75;Non vérifié;non
+11284;Peyrens;11;eau potable : Peyrens;185410;2024;92,5;0,5;6,3;66,3;conforme;1518;1518;9;29;454;Non vérifié;non
+11285;Peyriac-de-Mer;11;eau potable : PEYRIAC;193773;2024;89,8;0,7;6,5;66,3;conforme;8066;8066;19;39;1187;Non vérifié;non
+11286;Peyriac-Minervois;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;33483;82;201;1123;Non vérifié;non
+11288;Pezens;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;17505;30;72;1611;Non vérifié;non
+11289;Pieusse;11;eau potable : SECTEUR 1 AEP;334354;2024;75,0;3,3;9,9;67,0;conforme;362518;23572;67;128;970;Non vérifié;non
+11290;Plaigne;11;eau potable : Vixiège;250074;2024;71,6;1,1;2,7;65,5;conforme;37259;4255;98;147;119;Non vérifié;non
+11291;Plavilla;11;eau potable : Plavilla;185416;2024;79,4;0,8;3,0;65,6;conforme;1819;1819;34;96;146;Non vérifié;non
+11292;La Pomarède;11;eau potable : La Pomarède;185242;2024;91,3;0,5;4,9;66,0;conforme;2738;2738;40;37;188;Non vérifié;non
+11293;Pomas;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;11051;30;72;1017;Non vérifié;non
+11295;Portel-des-Corbières;11;eau potable : PORTEL-DES-CORBIERES;185420;2024;79,9;3,1;12,2;67,4;conforme;14981;14981;32;93;1279;Non vérifié;non
+11296;Pouzols-Minervois;11;eau potable : POUZOLS MINERVOIS;185422;2024;92,1;5,9;69,6;78,9;conforme;8097;8097;37;89;599;Non vérifié;non
+11297;Pradelles-Cabardès;11;eau potable;185424;2024;76,3;1,6;5,2;66,0;conforme;3154;3154;54;113;160;Non vérifié;non
+11299;Preixan;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;6922;30;72;637;Non vérifié;non
+11300;Puginier;11;eau potable : Puginier;185428;2024;89,8;0,7;6,4;66,3;conforme;958;958;17;40;153;Non vérifié;non
+11301;Puichéric;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;35720;82;201;1198;Non vérifié;non
+11302;Puilaurens;11;eau potable;185431;2024;87,3;0,7;4,8;66,0;conforme;2420;2420;24;53;277;Non vérifié;non
+11303;Puivert;11;eau potable;185433;2024;48,9;2,4;2,3;65,5;non conforme;31536;31536;176;387;491;Non vérifié;non
+11304;Quillan;11;eau potable : QUILLAN DSP (QUILLAN (avant 2016));185435;2024;89,0;1,2;9,4;66,9;conforme;23245;23245;21;46;2978;Non vérifié;non
+11305;Quintillan;11;eau potable;185437;2024;89,4;0,3;2,4;65,5;conforme;307;307;14;46;62;Non vérifié;non
+11306;Quirbajou;11;eau potable;185438;2024;84,8;0,1;0,7;65,1;conforme;319;319;18;56;49;Non vérifié;non
+11307;Raissac-d'Aude;11;eau potable : RAISSAC D AUDE;213569;2024;80,5;3,2;13,1;67,6;conforme;3632;3632;45;89;222;Non vérifié;non
+11308;Raissac-sur-Lampy;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;4933;30;72;454;Non vérifié;non
+11309;Rennes-le-Château;11;eau potable;185441;2024;95,9;0,9;22,0;69,4;conforme;749;749;23;15;89;Non vérifié;non
+11310;Rennes-les-Bains;11;eau potable : commune;185443;2024;84,4;1,5;8,4;66,7;conforme;5689;5689;65;65;238;Non vérifié;non
+11311;Ribaute;11;eau potable;185445;2024;48,3;8,0;7,5;66,5;non conforme;20002;20002;209;389;262;Non vérifié;non
+11312;Ribouisse;11;eau potable : Vixiège;250074;2024;71,6;1,1;2,7;65,5;conforme;37259;3468;98;147;97;Non vérifié;non
+11313;Ricaud;11;eau potable : Ricaud;185447;2024;90,5;0,5;5,2;66,0;conforme;1482;1482;12;35;331;Non vérifié;non
+11314;Rieux-en-Val;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;2505;82;201;84;Non vérifié;non
+11315;Rieux-Minervois;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;58350;82;201;1957;Non vérifié;non
+11316;Rivel;11;eau potable;185453;2024;72,0;10,0;2,3;65,5;conforme;63364;63364;793;1741;219;Non vérifié;non
+11317;Rodome;11;eau potable;185455;2024;23,5;13,8;4,3;65,9;non conforme;37223;37223;1062;1244;96;Non vérifié;non
+11318;Roquecourbe-Minervois;11;eau potable;185457;2024;76,3;3,2;10,3;67,1;conforme;4018;4018;73;113;150;Non vérifié;non
+11319;Roquefère;11;eau potable;185459;2024;72,3;1,1;2,8;65,6;conforme;883;883;35;141;69;Non vérifié;non
+11320;Roquefeuil;11;eau potable;185460;2024;77,8;1,8;6,2;66,2;conforme;11452;11452;111;105;283;Non vérifié;non
+11321;Roquefort-de-Sault;11;eau potable;185462;2024;0,0;12,7;0,0;65,0;non conforme;16224;16224;523;;85;Non vérifié;oui
+11322;Roquefort-des-Corbières;11;eau potable : ROQUEFORT-DES-CORBIERES;185464;2024;75,0;2,9;8,7;66,7;conforme;21022;21022;55;122;1051;Non vérifié;non
+11323;Roquetaillade-et-Conilhac;11;eau potable : Roquetaillade et Conilhac;185466;2024;79,9;1,4;5,5;66,1;conforme;4129;4129;43;92;265;Non vérifié;non
+11324;Roubia;11;eau potable;185468;2024;79,7;3,3;13,0;67,6;conforme;8275;8275;44;93;520;Non vérifié;non
+11325;Rouffiac-d'Aude;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;5585;30;72;514;Non vérifié;non
+11326;Rouffiac-des-Corbières;11;eau potable;185470;2024;83,2;0,5;2,5;65,5;conforme;748;748;27;73;75;Non vérifié;non
+11327;Roullens;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;6389;30;72;588;Non vérifié;non
+11328;Routier;11;eau potable : SECTEUR 14 AEP;341494;2024;82,2;1,1;5,3;66,1;conforme;5228;5228;62;76;231;Non vérifié;non
+11330;Rustiques;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;16041;82;201;538;Non vérifié;non
+11331;Saint-Amans;11;eau potable : Vixiège;250074;2024;71,6;1,1;2,7;65,5;conforme;37259;2253;98;147;63;Non vérifié;non
+11332;Saint-André-de-Roquelongue;11;eau potable;185479;2024;80,7;3,5;14,7;67,9;conforme;25422;25422;47;87;1488;Non vérifié;non
+11333;Saint-Benoît;11;eau potable;185481;2024;81,1;0,6;2,5;65,5;conforme;1842;1842;46;134;109;Non vérifié;non
+11334;Sainte-Camelle;11;eau potable : SIEAP de Salles-sur-l'Hers;184947;2024;74,3;1,1;3,1;65,6;conforme;12515;1464;32;130;127;Non vérifié;non
+11335;Sainte-Colombe-sur-Guette;11;eau potable;185531;2024;0,0;13,4;0,0;65,0;non conforme;7239;7239;522;;38;Non vérifié;oui
+11336;Sainte-Colombe-sur-l'Hers;11;eau potable;185533;2024;37,8;8,4;5,1;66,0;non conforme;30660;30660;190;600;441;Non vérifié;non
+11337;Saint-Couat-d'Aude;11;eau potable;185483;2024;68,3;3,1;6,8;66,4;conforme;11315;11315;80;168;387;Non vérifié;non
+11338;Saint-Couat-du-Razès;11;eau potable;185485;2024;46,6;1,7;1,4;65,3;non conforme;2259;2259;135;428;46;Non vérifié;non
+11339;Saint-Denis;11;eau potable : Saint-Denis;185486;2023;90,8;0,5;5,0;66,0;conforme;2920;2920;15;39;523;Sans anomalie apparente;non
+11340;Sainte-Eulalie;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;6465;30;72;595;Non vérifié;non
+11341;Saint-Ferriol;11;eau potable;185488;2024;68,0;6,6;14,0;67,8;conforme;7227;7227;168;576;118;Non vérifié;non
+11342;Saint-Frichoux;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;6679;82;201;224;Non vérifié;non
+11343;Saint-Gaudéric;11;eau potable : Vixiège;250074;2024;71,6;1,1;2,7;65,5;conforme;37259;3862;98;147;108;Non vérifié;non
+11344;Saint-Hilaire;11;eau potable : SECTEUR 7 AEP;334454;2024;92,8;0,5;5,8;66,2;conforme;3124;3124;12;31;712;Non vérifié;non
+11345;Saint-Jean-de-Barrou;11;eau potable;185495;2024;64,9;4,1;7,6;66,5;non conforme;7572;7572;76;196;272;Non vérifié;non
+11346;Saint-Jean-de-Paracol;11;eau potable;185497;2024;86,5;0,5;3,3;65,7;conforme;1402;1402;28;75;139;Non vérifié;non
+11347;Saint-Julia-de-Bec;11;eau potable;185499;2023;100,0;0,0;8,1;66,6;conforme;0;0;0;0;98;Sans anomalie apparente;non
+11348;Saint-Julien-de-Briola;11;eau potable : Saint-Julien-de-Briola;185501;2024;96,2;0,1;2,2;65,4;conforme;243;243;8;16;79;Non vérifié;non
+11350;Saint-Just-et-le-Bézu;11;eau potable;185502;2024;100,0;0,0;1,0;65,2;conforme;0;0;0;0;50;Non vérifié;non
+11351;Saint-Laurent-de-la-Cabrerisse;11;eau potable;185504;2024;73,1;3,3;8,9;66,8;conforme;22886;22886;83;135;753;Non vérifié;non
+11352;Saint-Louis-et-Parahou;11;eau potable;185506;2024;100,0;0,0;1,7;65,3;conforme;0;0;0;0;55;Non vérifié;non
+11353;Saint-Marcel-sur-Aude;11;eau potable : SAINT-MARCEL-SUR-AUDE;185508;2024;84,0;4,0;21,0;69,2;conforme;26032;26032;35;69;2014;Non vérifié;non
+11355;Saint-Martin-de-Villereglan;11;eau potable : SECTEUR 1 AEP;334354;2024;75,0;3,3;9,9;67,0;conforme;362518;9793;67;128;403;Non vérifié;non
+11356;Saint-Martin-Lalande;11;eau potable : Saint-Martin-Lalande;185513;2024;96,7;0,2;5,7;66,1;conforme;2005;2005;5;13;1107;Non vérifié;non
+11357;Saint-Martin-le-Vieil;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;2293;30;72;211;Non vérifié;non
+11358;Saint-Martin-Lys;11;eau potable;185517;2024;42,2;4,5;3,3;65,7;non conforme;1035;1035;123;502;23;Non vérifié;non
+11359;Saint-Michel-de-Lanès;11;eau potable : Saint-Michel-de-Lanès;185519;2024;90,8;0,4;4,4;65,9;conforme;1294;1294;7;33;484;Non vérifié;non
+11360;Saint-Nazaire-d'Aude;11;eau potable : SAINT-NAZAIRE-D'AUDE -LE SOMAIL;185521;2024;56,7;17,7;23,2;69,6;non conforme;97683;97683;126;278;2118;Non vérifié;non
+11361;Saint-Papoul;11;eau potable : Saint-Papoul;185523;2024;72,3;1,5;3,9;65,8;conforme;17881;17881;59;139;835;Non vérifié;non
+11362;Saint-Paulet;11;eau potable : Saint-Paulet;185525;2024;66,0;1,3;2,6;65,5;conforme;5220;5220;70;186;205;Non vérifié;non
+11365;Saint-Sernin;11;eau potable : Belpech-Molandier;250554;2024;79,2;0,6;2,5;65,5;conforme;29412;684;49;89;38;Non vérifié;non
+11366;Sainte-Valière;11;eau potable : SAINTE-VALIERE;185537;2024;56,4;5,4;7,0;66,4;non conforme;27535;27535;141;354;534;Non vérifié;non
+11367;Saissac;11;eau potable : Saissac;185539;2024;84,8;1,3;7,4;66,5;conforme;9917;9917;30;66;904;Non vérifié;non
+11368;Sallèles-Cabardès;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;3280;82;201;110;Non vérifié;non
+11369;Sallèles-d'Aude;11;eau potable : SALLELES-D'AUDE;185543;2024;79,3;4,6;17,5;68,5;conforme;46811;46811;40;96;3179;Non vérifié;non
+11370;Salles-d'Aude;11;eau potable : SALLES D'AUDE;193774;2024;80,5;4,1;17,1;68,4;conforme;43937;43937;36;87;3369;Non vérifié;non
+11371;Salles-sur-l'Hers;11;eau potable : Salles-sur-l'Hers-Territoire n°2: le bourg de Salles/hers;185676;2024;80,2;0,8;3,3;65,7;conforme;5840;5840;21;88;770;Non vérifié;non
+11372;Salsigne;11;eau potable : Salsigne;185548;2024;56,5;5,1;6,6;66,3;non conforme;13403;13403;92;280;400;Non vérifié;non
+11373;Salvezines;11;eau potable;185550;2024;100,0;0,0;3,4;65,7;conforme;0;0;0;0;70;Non vérifié;non
+11375;Seignalens;11;eau potable : SECTEUR 1 AEP;334354;2024;75,0;3,3;9,9;67,0;conforme;362518;729;67;128;30;Non vérifié;non
+11376;La Serpent;11;eau potable : La Serpent AEP;311734;2021;61,4;1,8;2,9;65,6;non conforme;3232;3232;96;223;92;Sans anomalie apparente;non
+11378;Serviès-en-Val;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;6589;82;201;221;Non vérifié;non
+11379;Sigean;11;eau potable : SIGEAN;185558;2024;83,0;3,5;17,1;68,4;conforme;75411;75411;37;75;5657;Non vérifié;non
+11380;Sonnac-sur-l'Hers;11;eau potable;185560;2024;68,4;1,7;3,6;65,7;conforme;5454;5454;109;170;137;Non vérifié;non
+11381;Sougraigne;11;eau potable;185562;2024;88,9;0,4;3,1;65,6;conforme;555;555;12;48;125;Non vérifié;non
+11382;Souilhanels;11;eau potable : Souilhanels;185564;2024;86,6;0,7;4,6;65,9;conforme;2044;2044;16;55;356;Non vérifié;non
+11383;Souilhe;11;eau potable : Souilhe;185566;2024;87,2;0,4;2,6;65,5;conforme;2190;2190;17;55;354;Non vérifié;non
+11384;Soulatgé;11;eau potable;185568;2024;78,4;0,5;1,8;65,4;conforme;1095;1095;24;100;126;Non vérifié;non
+11385;Soupex;11;eau potable : Soupex;185570;2024;50,1;9,3;9,3;66,9;non conforme;10184;10184;115;364;243;Non vérifié;non
+11386;Talairan;11;eau potable;185571;2024;69,5;1,7;3,8;65,8;conforme;12286;12286;77;163;440;Non vérifié;non
+11387;Taurize;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;3220;82;201;108;Non vérifié;non
+11388;Termes;11;eau potable;185575;2024;93,1;0,3;4,4;65,9;conforme;471;471;27;25;48;Non vérifié;non
+11390;Thézan-des-Corbières;11;eau potable;185577;2024;78,0;3,0;10,5;67,1;conforme;8278;8278;40;104;573;Non vérifié;non
+11391;La Tourette-Cabardès;11;eau potable : La Tourette-Cabardès;185247;2024;96,3;0,2;4,0;65,8;conforme;58;58;8;18;20;Non vérifié;non
+11392;Tournissan;11;eau potable;184948;2024;94,5;0,5;8,4;66,7;conforme;951;951;9;22;292;Non vérifié;non
+11393;Tourouzelle;11;eau potable;185579;2024;78,6;2,1;7,7;66,5;conforme;7052;7052;39;100;494;Non vérifié;non
+11394;Tourreilles;11;eau potable : SECTEUR 1 AEP;334354;2024;75,0;3,3;9,9;67,0;conforme;362518;3110;67;128;128;Non vérifié;non
+11395;Trassanel;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;745;82;201;25;Non vérifié;non
+11396;Trausse;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;18307;82;201;614;Non vérifié;non
+11397;Trèbes;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;58254;30;72;5361;Non vérifié;non
+11398;Treilles;11;eau potable : TREILLES;185587;2024;87,6;1,1;7,8;66,6;conforme;2766;2766;28;54;271;Non vérifié;non
+11399;Tréville;11;eau potable : Tréville;185589;2024;55,7;2,8;3,5;65,7;non conforme;4139;4139;103;289;110;Non vérifié;non
+11400;Tréziers;11;eau potable;185590;2024;80,2;1,4;5,6;66,1;conforme;1620;1620;45;90;98;Non vérifié;non
+11401;Tuchan;11;eau potable;185592;2024;68,4;5,7;12,3;67,5;conforme;22053;22053;76;169;791;Non vérifié;non
+11404;Ventenac-Cabardès;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;10453;30;72;962;Non vérifié;non
+11405;Ventenac-en-Minervois;11;eau potable : VENTENAC-EN-MINERVOIS;185598;2024;72,5;7,9;20,9;69,2;conforme;17128;17128;73;138;644;Non vérifié;non
+11407;Verdun-en-Lauragais;11;eau potable : Verdun-en-Lauragais;185601;2024;67,5;1,4;2,8;65,6;conforme;12315;12315;116;179;290;Non vérifié;non
+11408;Verzeille;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;4955;30;72;456;Non vérifié;non
+11409;Vignevieille;11;eau potable;185605;2024;80,9;1,4;6,0;66,2;conforme;930;930;24;85;107;Non vérifié;non
+11410;Villalier;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;10562;30;72;972;Non vérifié;non
+11412;Villardebelle;11;eau potable;185614;2024;30,7;8,8;3,9;65,8;non conforme;4818;4818;200;823;66;Non vérifié;non
+11413;Villardonnel;11;eau potable : Villardonnel;185616;2024;72,9;1,3;3,6;65,7;conforme;8351;8351;44;132;515;Non vérifié;non
+11414;Villar-en-Val;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;686;82;201;23;Non vérifié;non
+11415;Villar-Saint-Anselme;11;eau potable;185612;2020;54,1;;;;non calculable;;;;;113;Sans anomalie apparente;oui
+11416;Villarzel-Cabardès;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;8229;82;201;276;Non vérifié;non
+11418;Villasavary;11;eau potable : Villasavary;185622;2024;83,5;0,8;3,8;65,8;conforme;14495;14495;33;81;1220;Non vérifié;non
+11419;Villautou;11;eau potable : Vixiège;250074;2024;71,6;1,1;2,7;65,5;conforme;37259;2432;98;147;68;Non vérifié;non
+11421;Villedaigne;11;eau potable : VILLEDAIGNE;213564;2024;74,0;4,9;13,8;67,8;conforme;10624;10624;49;129;599;Non vérifié;non
+11422;Villedubert;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;3792;30;72;349;Non vérifié;non
+11423;Villefloure;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;4651;82;201;156;Non vérifié;non
+11425;Villegailhenc;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;18668;30;72;1718;Non vérifié;non
+11426;Villegly;11;eau potable : VILLEGLY;185631;2024;75,3;3,7;11,2;67,2;conforme;18394;18394;40;120;1247;Non vérifié;non
+11427;Villelongue-d'Aude;11;eau potable : SECTEUR 17 AEP;341554;2024;87,8;0,6;4,0;65,8;conforme;2746;2746;23;54;321;Non vérifié;non
+11428;Villemagne;11;eau potable : Villemagne;184955;2024;43,6;4,5;3,5;65,7;non conforme;22420;22420;260;470;236;Non vérifié;non
+11429;Villemoustaussou;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;131220;82;201;4401;Non vérifié;non
+11430;Villeneuve-la-Comptal;11;eau potable : Villeneuve-la-Comptal;185635;2024;90,2;0,5;4,7;65,9;conforme;6063;6063;11;39;1448;Non vérifié;non
+11432;Villeneuve-lès-Montréal;11;eau potable : Villeneuve-les-Montréal;185639;2024;70,5;4,0;9,6;66,9;conforme;6336;6336;53;152;330;Non vérifié;non
+11433;Villeneuve-Minervois;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;29190;82;201;979;Non vérifié;non
+11434;Villepinte;11;eau potable : Villepinte;185643;2024;96,1;0,2;6,0;66,2;conforme;2378;2378;5;12;1243;Non vérifié;non
+11435;Villerouge-Termenès;11;eau potable;185645;2024;94,1;0,3;5,1;66,0;conforme;766;766;13;21;165;Non vérifié;non
+11436;Villesèque-des-Corbières;11;eau potable;185647;2024;60,9;4,7;7,4;66,5;non conforme;13552;13552;96;232;386;Non vérifié;non
+11437;Villesèquelande;11;eau potable : SUEZ eau potable;278134;2024;86,1;2,5;15,4;68,1;conforme;935404;9584;30;72;882;Non vérifié;non
+11438;Villesiscle;11;eau potable : Villesiscle;185651;2024;86,3;0,6;3,9;65,8;conforme;2087;2087;16;57;362;Non vérifié;non
+11439;Villespy;11;eau potable : Villespy;185653;2024;49,6;3,2;3,2;65,6;non conforme;17684;17684;116;368;419;Non vérifié;non
+11440;Villetritouls;11;eau potable : EAURECA eau potable;278114;2024;64,7;5,0;9,1;66,8;non conforme;819790;1014;82;201;34;Non vérifié;non
+11441;Vinassan;11;eau potable : VINASSAN;213570;2024;93,5;1,9;27,9;70,6;conforme;13537;13537;14;25;2662;Non vérifié;non

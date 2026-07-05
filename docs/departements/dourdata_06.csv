@@ -7,166 +7,166 @@
 # Méthodologie et code : https://github.com/btaverne/dourdata
 # Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
 # Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
-Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
-06001;Aiglun;06;eau potable : DSP SIEVI;299834;2024;89,2;11,4;93,8;83,8;conforme;890454;11763;310;271;104;Non vérifié
-06002;Amirat;06;eau potable : Amirat;85167;2024;42,1;3,8;2,8;65,6;non conforme;8613;8613;524;504;45;Non vérifié
-06003;Andon;06;eau potable : principal SI3vallées;85307;2024;71,7;1,6;4,1;65,8;conforme;72124;15934;66;142;665;Non vérifié
-06004;Antibes;06;eau potable : EP CASA;85302;2024;79,4;19,3;74,5;79,9;non conforme;3268648;2093968;74;116;77637;Non vérifié
-06005;Ascros;06;eau potable : Rourebel;85316;2024;70,7;2,1;5,0;66,0;conforme;19162;6500;102;184;174;Non vérifié
-06006;Aspremont;06;eau potable : RIVE GAUCHE;316494;2024;80,8;16,0;67,3;78,5;conforme;8591224;47635;56;96;2346;Non vérifié
-06007;Auribeau-sur-Siagne;06;eau potable : principal SICASIL;85303;2024;84,0;11,3;59,3;76,9;conforme;4277106;79007;64;76;3401;Non vérifié
-06008;Auvare;06;eau potable : Auvare;85174;2024;67,8;3,8;8,1;66,6;conforme;3468;3468;183;172;52;Non vérifié
-06009;Bairols;06;eau potable : HAUT PAYS : TINEE;316534;2024;50,1;14,4;14,5;67,9;non conforme;898250;17883;467;363;105;Non vérifié
-06010;Le Bar-sur-Loup;06;eau potable : EP Bar sur Loup;85179;2024;95,7;1,7;37,3;72,5;conforme;22958;22958;21;20;2974;Non vérifié
-06011;Beaulieu-sur-Mer;06;eau potable : RIVE GAUCHE;316494;2024;80,8;16,0;67,3;78,5;conforme;8591224;78661;56;96;3874;Non vérifié
-06012;Beausoleil;06;eau potable : groupement littoral;85299;2024;92,8;8,5;81,1;81,2;conforme;1064716;204869;47;108;11936;Non vérifié
-06013;Belvédère;06;eau potable : HAUT PAYS : VESUBIE;316554;2024;48,7;10,3;9,8;67,0;non conforme;749268;66545;303;382;601;Non vérifié
-06014;Bendejun;06;eau potable;85186;2024;82,6;7,8;37,0;72,4;conforme;28470;28470;80;77;971;Non vérifié
-06015;Berre-les-Alpes;06;eau potable;85296;2024;58,3;8,9;12,5;67,5;non conforme;443258;36137;75;275;1316;Non vérifié
-06016;Beuil;06;eau potable : Beuil;85189;2024;51,1;9,7;10,1;67,0;non conforme;78599;78599;446;351;483;Non vérifié
-06017;Bézaudun-les-Alpes;06;eau potable : DSP SIEVI;299834;2024;89,2;11,4;93,8;83,8;conforme;890454;28954;310;271;256;Non vérifié
-06018;Biot;06;eau potable : EP CASA;85302;2024;79,4;19,3;74,5;79,9;non conforme;3268648;283495;74;116;10511;Non vérifié
-06019;Blausasc;06;eau potable;85296;2024;58,3;8,9;12,5;67,5;non conforme;443258;45803;75;275;1668;Non vérifié
-06020;La Bollène-Vésubie;06;eau potable : HAUT PAYS : VESUBIE;316554;2024;48,7;10,3;9,8;67,0;non conforme;749268;73299;303;382;662;Non vérifié
-06021;Bonson;06;eau potable : RIVE DROITE;316514;2024;69,1;22,2;49,6;74,9;non conforme;6421628;34154;126;192;740;Non vérifié
-06022;Bouyon;06;eau potable : DSP SIEVI;299834;2024;89,2;11,4;93,8;83,8;conforme;890454;62998;310;271;557;Non vérifié
-06023;Breil-sur-Roya;06;eau potable : groupement forfait régie;318874;2024;37,6;29,7;17,9;68,6;non conforme;1116572;469584;541;606;2377;Non vérifié
-06024;Briançonnet;06;eau potable : Briançonnet;85202;2024;66,6;4,8;9,5;66,9;non conforme;28908;28908;480;185;165;Non vérifié
-06025;Le Broc;06;eau potable : RIVE DROITE;316514;2024;69,1;22,2;49,6;74,9;non conforme;6421628;66739;126;192;1446;Non vérifié
-06026;Cabris;06;eau potable : RECB;217113;2024;82,5;4,6;21,6;69,3;conforme;381183;29920;57;78;1450;Non vérifié
-06027;Cagnes-sur-Mer;06;eau potable : RIVE DROITE;316514;2024;69,1;22,2;49,6;74,9;non conforme;6421628;2462497;126;192;53354;Non vérifié
-06028;Caille;06;eau potable : principal SI3vallées;85307;2024;71,7;1,6;4,1;65,8;conforme;72124;10567;66;142;441;Non vérifié
-06029;Cannes;06;eau potable : principal SICASIL;85303;2024;84,0;11,3;59,3;76,9;conforme;4277106;1727188;64;76;74350;Non vérifié
-06030;Le Cannet;06;eau potable : principal SICASIL;85303;2024;84,0;11,3;59,3;76,9;conforme;4277106;974241;64;76;41938;Non vérifié
-06031;Cantaron;06;eau potable;85296;2024;58,3;8,9;12,5;67,5;non conforme;443258;34819;75;275;1268;Non vérifié
-06032;Cap-d'Ail;06;eau potable : RIVE GAUCHE;316494;2024;80,8;16,0;67,3;78,5;conforme;8591224;91007;56;96;4482;Non vérifié
-06033;Carros;06;eau potable : RIVE DROITE;316514;2024;69,1;22,2;49,6;74,9;non conforme;6421628;637063;126;192;13803;Non vérifié
-06034;Castagniers;06;eau potable : RIVE GAUCHE;316494;2024;80,8;16,0;67,3;78,5;conforme;8591224;33828;56;96;1666;Non vérifié
-06035;Castellar;06;eau potable : groupement littoral;85299;2024;92,8;8,5;81,1;81,2;conforme;1064716;17095;47;108;996;Non vérifié
-06036;Castillon;06;eau potable : groupement littoral;85299;2024;92,8;8,5;81,1;81,2;conforme;1064716;7295;47;108;425;Non vérifié
-06037;Caussols;06;eau potable : EP Caussols;85211;2024;62,0;3,3;5,4;66,1;non conforme;14815;14815;122;221;332;Non vérifié
-06038;Châteauneuf-Grasse;06;eau potable : EP Chateauneuf;85213;2024;89,3;27,5;230,6;85,0;conforme;498864;498864;358;328;3815;Non vérifié
-06039;Châteauneuf-Villevieille;06;eau potable : RIVE GAUCHE;316494;2024;80,8;16,0;67,3;78,5;conforme;8591224;20244;56;96;997;Non vérifié
-06040;Châteauneuf-d'Entraunes;06;eau potable : Chateauneuf d'Entraunes;85215;2024;67,8;1,2;2,5;65,5;conforme;4555;4555;201;175;62;Non vérifié
-06041;Cipières;06;eau potable : EP Cipières;85218;2024;53,1;5,6;6,3;66,3;non conforme;28003;28003;195;327;393;Non vérifié
-06042;Clans;06;eau potable : HAUT PAYS : TINEE;316534;2024;50,1;14,4;14,5;67,9;non conforme;898250;119733;467;363;703;Non vérifié
-06043;Coaraze;06;eau potable;213621;2024;81,5;3,2;14,2;67,8;conforme;17520;17520;58;113;827;Non vérifié
-06044;La Colle-sur-Loup;06;eau potable : EP La Colle sur Loup;198803;2024;73,8;16,2;45,8;74,2;non conforme;355490;355490;119;140;8202;Non vérifié
-06045;Collongues;06;eau potable : Communes du Barlet;85315;2024;27,6;4,1;1,6;65,3;non conforme;23540;16342;533;951;84;Non vérifié
-06046;Colomars;06;eau potable : RIVE GAUCHE;316494;2024;80,8;16,0;67,3;78,5;conforme;8591224;69219;56;96;3409;Non vérifié
-06047;Conségudes;06;eau potable : DSP SIEVI;299834;2024;89,2;11,4;93,8;83,8;conforme;890454;11650;310;271;103;Non vérifié
-06048;Contes;06;eau potable;85296;2024;58,3;8,9;12,5;67,5;non conforme;443258;216851;75;275;7897;Non vérifié
-06049;Courmes;06;eau potable : Ep Courmes;85228;2024;72,7;1,0;2,6;65,5;conforme;1934;1934;49;138;109;Non vérifié
-06050;Coursegoules;06;eau potable : DSP SIEVI;299834;2024;89,2;11,4;93,8;83,8;conforme;890454;63790;310;271;564;Non vérifié
-06051;La Croix-sur-Roudoule;06;eau potable : La Croix sur Roudoule;85231;2024;69,6;3,4;7,9;66,6;conforme;7942;7942;227;158;96;Non vérifié
-06052;Cuébris;06;eau potable : DSP SIEVI;299834;2024;89,2;11,4;93,8;83,8;conforme;890454;14703;310;271;130;Non vérifié
-06053;Daluis;06;eau potable : Daluis;85234;2024;34,8;37,0;19,7;68,9;non conforme;147204;147204;2744;685;147;Non vérifié
-06054;Drap;06;eau potable : RIVE GAUCHE;316494;2024;80,8;16,0;67,3;78,5;conforme;8591224;111352;56;96;5484;Non vérifié
-06055;Duranus;06;eau potable : HAUT PAYS : VESUBIE;316554;2024;48,7;10,3;9,8;67,0;non conforme;749268;16719;303;382;151;Non vérifié
-06056;Entraunes;06;eau potable : Entraunes;85237;2024;60,4;7,5;11,4;67,3;non conforme;22995;22995;508;239;124;Non vérifié
-06057;L' Escarène;06;eau potable;85296;2024;58,3;8,9;12,5;67,5;non conforme;443258;70984;75;275;2585;Non vérifié
-06058;Escragnolles;06;eau potable : Escragnolles;85241;2024;70,8;3,4;8,2;66,6;conforme;14892;14892;66;151;622;Non vérifié
-06059;Èze;06;eau potable : RIVE GAUCHE;316494;2024;80,8;16,0;67,3;78,5;conforme;8591224;43534;56;96;2144;Non vérifié
-06060;Falicon;06;eau potable : RIVE GAUCHE;316494;2024;80,8;16,0;67,3;78,5;conforme;8591224;44366;56;96;2185;Non vérifié
-06061;Les Ferres;06;eau potable : DSP SIEVI;299834;2024;89,2;11,4;93,8;83,8;conforme;890454;10519;310;271;93;Non vérifié
-06062;Fontan;06;eau potable : groupement forfait régie;318874;2024;37,6;29,7;17,9;68,6;non conforme;1116572;60649;541;606;307;Non vérifié
-06063;Gars;06;eau potable : Gars;85247;2024;84,0;0,7;3,4;65,7;conforme;1088;1088;46;75;65;Non vérifié
-06064;Gattières;06;eau potable : RIVE DROITE;316514;2024;69,1;22,2;49,6;74,9;non conforme;6421628;201139;126;192;4358;Non vérifié
-06065;La Gaude;06;eau potable : RIVE DROITE;316514;2024;69,1;22,2;49,6;74,9;non conforme;6421628;335308;126;192;7265;Non vérifié
-06066;Gilette;06;eau potable : RIVE DROITE;316514;2024;69,1;22,2;49,6;74,9;non conforme;6421628;75092;126;192;1627;Non vérifié
-06067;Gorbio;06;eau potable : groupement littoral;85299;2024;92,8;8,5;81,1;81,2;conforme;1064716;27617;47;108;1609;Non vérifié
-06068;Gourdon;06;eau potable : Ep Gourdon;214379;2024;39,1;25,1;16,1;68,2;non conforme;72376;72376;540;569;367;Non vérifié
-06069;Grasse;06;eau potable : GRASSE;85058;2024;80,8;10,8;45,7;74,1;conforme;1114325;1114325;60;93;50970;Non vérifié
-06070;Gréolières;06;eau potable : principal SI3vallées;85307;2024;71,7;1,6;4,1;65,8;conforme;72124;15120;66;142;631;Non vérifié
-06071;Guillaumes;06;eau potable : Guillaumes;85064;2024;54,6;13,5;16,2;68,2;non conforme;167535;167535;782;304;587;Non vérifié
-06072;Ilonse;06;eau potable : HAUT PAYS : TINEE;316534;2024;50,1;14,4;14,5;67,9;non conforme;898250;22482;467;363;132;Non vérifié
-06073;Isola;06;eau potable : HAUT PAYS : TINEE;316534;2024;50,1;14,4;14,5;67,9;non conforme;898250;109343;467;363;642;Non vérifié
-06074;Lantosque;06;eau potable : HAUT PAYS : VESUBIE;316554;2024;48,7;10,3;9,8;67,0;non conforme;749268;132647;303;382;1198;Non vérifié
-06075;Levens;06;eau potable : RIVE GAUCHE;316494;2024;80,8;16,0;67,3;78,5;conforme;8591224;109179;56;96;5377;Non vérifié
-06076;Lieuche;06;eau potable : Lieuche;85074;2024;66,5;2,5;4,9;66,0;conforme;5201;5201;285;187;50;Non vérifié
-06077;Lucéram;06;eau potable : Peira Cava;85077;2024;27,9;6,4;2,5;65,5;non conforme;20323;20323;45;938;1234;Non vérifié
-06078;Malaussène;06;eau potable : Malaussène;85079;2024;66,8;3,4;6,9;66,4;conforme;25689;25689;216;179;326;Non vérifié
-06079;Mandelieu-la-Napoule;06;eau potable : Mandelieu;85082;2024;82,5;11,6;54,9;76,0;conforme;564477;564477;71;77;21640;Non vérifié
-06080;Marie;06;eau potable : HAUT PAYS : TINEE;316534;2024;50,1;14,4;14,5;67,9;non conforme;898250;18565;467;363;109;Non vérifié
-06081;Le Mas;06;eau potable : Le Mas;85086;2024;38,8;6,7;4,3;65,9;non conforme;31107;31107;879;573;97;Non vérifié
-06082;Massoins;06;eau potable : Massoins;85088;2024;60,2;4,8;7,3;66,5;non conforme;6132;6132;122;240;138;Non vérifié
-06083;Menton;06;eau potable : groupement littoral;85299;2024;92,8;8,5;81,1;81,2;conforme;1064716;525286;47;108;30604;Non vérifié
-06084;Mouans-Sartoux;06;eau potable : Mouans Sartoux;85091;2024;92,6;2,8;35,5;72,1;conforme;94402;94402;23;29;11015;Non vérifié
-06085;Mougins;06;eau potable : principal SICASIL;85303;2024;84,0;11,3;59,3;76,9;conforme;4277106;459546;64;76;19782;Non vérifié
-06086;Moulinet;06;eau potable : eau potable Moulinet;85096;2024;44,8;3,9;3,2;65,6;non conforme;15658;15658;160;445;268;Non vérifié
-06087;Les Mujouls;06;eau potable : Communes du Barlet;85315;2024;27,6;4,1;1,6;65,3;non conforme;23540;7198;533;951;37;Non vérifié
-06088;Nice;06;eau potable : RIVE GAUCHE;316494;2024;80,8;16,0;67,3;78,5;conforme;8591224;7263812;56;96;357737;Non vérifié
-06089;Opio;06;eau potable : Ep Opio;85100;2024;95,4;5,6;115,7;85,0;conforme;75628;75628;82;53;2527;Non vérifié
-06090;Pégomas;06;eau potable : principal SICASIL;85303;2024;84,0;11,3;59,3;76,9;conforme;4277106;191419;64;76;8240;Non vérifié
-06092;Peillon;06;eau potable;85296;2024;58,3;8,9;12,5;67,5;non conforme;443258;38664;75;275;1408;Non vérifié
-06093;La Penne;06;eau potable : Rourebel;85316;2024;70,7;2,1;5,0;66,0;conforme;19162;9488;102;184;254;Non vérifié
-06094;Péone;06;eau potable : Péone, Valberg;291334;2024;47,0;10,4;9,2;66,8;non conforme;169681;169681;425;412;1094;Non vérifié
-06095;Peymeinade;06;eau potable : RECB;217113;2024;82,5;4,6;21,6;69,3;conforme;381183;175683;57;78;8514;Non vérifié
-06096;Pierlas;06;eau potable : Pierlas;85106;2024;63,7;24,4;42,9;73,6;non conforme;13359;13359;373;208;98;Non vérifié
-06097;Pierrefeu;06;eau potable : DSP SIEVI;299834;2024;89,2;11,4;93,8;83,8;conforme;890454;38115;310;271;337;Non vérifié
-06098;Puget-Rostang;06;eau potable : Puget Rostang;85109;2024;63,4;3,8;6,5;66,3;non conforme;7212;7212;170;212;116;Non vérifié
-06099;Puget-Théniers;06;eau potable : Puget Théniers;85112;2024;50,7;13,4;13,8;67,8;non conforme;117384;117384;179;354;1798;Non vérifié
-06100;Revest-les-Roches;06;eau potable : DSP SIEVI;299834;2024;89,2;11,4;93,8;83,8;conforme;890454;27031;310;271;239;Non vérifié
-06101;Rigaud;06;eau potable : Rigaud;85115;2024;68,0;10,2;21,7;69,3;non conforme;42628;42628;708;172;165;Non vérifié
-06102;Rimplas;06;eau potable : HAUT PAYS : TINEE;316534;2024;50,1;14,4;14,5;67,9;non conforme;898250;26569;467;363;156;Non vérifié
-06103;Roquebillière;06;eau potable : HAUT PAYS : VESUBIE;316554;2024;48,7;10,3;9,8;67,0;non conforme;749268;201296;303;382;1818;Non vérifié
-06104;Roquebrune-Cap-Martin;06;eau potable : groupement littoral;85299;2024;92,8;8,5;81,1;81,2;conforme;1064716;206603;47;108;12037;Non vérifié
-06105;Roquefort-les-Pins;06;eau potable : EP CASA;85302;2024;79,4;19,3;74,5;79,9;non conforme;3268648;196674;74;116;7292;Non vérifié
-06106;Roquesteron;06;eau potable : DSP SIEVI;299834;2024;89,2;11,4;93,8;83,8;conforme;890454;62432;310;271;552;Non vérifié
-06107;Roque-en-Provence;06;eau potable : DSP SIEVI;299834;2024;89,2;11,4;93,8;83,8;conforme;890454;7578;310;271;67;Non vérifié
-06108;La Roquette-sur-Siagne;06;eau potable : principal SICASIL;85303;2024;84,0;11,3;59,3;76,9;conforme;4277106;131694;64;76;5669;Non vérifié
-06109;La Roquette-sur-Var;06;eau potable : RIVE GAUCHE;316494;2024;80,8;16,0;67,3;78,5;conforme;8591224;18701;56;96;921;Non vérifié
-06110;Roubion;06;eau potable : HAUT PAYS : TINEE;316534;2024;50,1;14,4;14,5;67,9;non conforme;898250;19075;467;363;112;Non vérifié
-06111;Roure;06;eau potable : HAUT PAYS : TINEE;316534;2024;50,1;14,4;14,5;67,9;non conforme;898250;19757;467;363;116;Non vérifié
-06112;Le Rouret;06;eau potable : EP Le Rouret;85131;2024;76,7;11,4;37,6;72,5;conforme;175802;175802;114;162;4209;Non vérifié
-06113;Sainte-Agnès;06;eau potable : groupement littoral;85299;2024;92,8;8,5;81,1;81,2;conforme;1064716;23686;47;108;1380;Non vérifié
-06114;Saint-André-de-la-Roche;06;eau potable : RIVE GAUCHE;316494;2024;80,8;16,0;67,3;78,5;conforme;8591224;119718;56;96;5896;Non vérifié
-06115;Saint-Antonin;06;eau potable : Rourebel;85316;2024;70,7;2,1;5,0;66,0;conforme;19162;3175;102;184;85;Non vérifié
-06116;Saint-Auban;06;eau potable : principal SI3vallées;85307;2024;71,7;1,6;4,1;65,8;conforme;72124;4649;66;142;194;Non vérifié
-06117;Saint-Blaise;06;eau potable : RIVE GAUCHE;316494;2024;80,8;16,0;67,3;78,5;conforme;8591224;28366;56;96;1397;Non vérifié
-06118;Saint-Cézaire-sur-Siagne;06;eau potable : RECB;217113;2024;82,5;4,6;21,6;69,3;conforme;381183;83694;57;78;4056;Non vérifié
-06119;Saint-Dalmas-le-Selvage;06;eau potable : HAUT PAYS : TINEE;316534;2024;50,1;14,4;14,5;67,9;non conforme;898250;16691;467;363;98;Non vérifié
-06120;Saint-Étienne-de-Tinée;06;eau potable : HAUT PAYS : TINEE;316534;2024;50,1;14,4;14,5;67,9;non conforme;898250;219538;467;363;1289;Non vérifié
-06121;Saint-Jean-Cap-Ferrat;06;eau potable : RIVE GAUCHE;316494;2024;80,8;16,0;67,3;78,5;conforme;8591224;31087;56;96;1531;Non vérifié
-06122;Saint-Jeannet;06;eau potable : RIVE DROITE;316514;2024;69,1;22,2;49,6;74,9;non conforme;6421628;205523;126;192;4453;Non vérifié
-06123;Saint-Laurent-du-Var;06;eau potable : RIVE DROITE;316514;2024;69,1;22,2;49,6;74,9;non conforme;6421628;1484864;126;192;32172;Non vérifié
-06124;Saint-Léger;06;eau potable : Saint Léger;85144;2024;66,9;5,9;11,8;67,4;non conforme;8614;8614;387;182;61;Non vérifié
-06125;Saint-Martin-d'Entraunes;06;eau potable : Saint Martin d'Entraunes;85146;2024;64,8;3,0;5,5;66,1;non conforme;19546;19546;388;198;138;Non vérifié
-06126;Saint-Martin-du-Var;06;eau potable : RIVE GAUCHE;316494;2024;80,8;16,0;67,3;78,5;conforme;8591224;69666;56;96;3431;Non vérifié
-06127;Saint-Martin-Vésubie;06;eau potable : HAUT PAYS : VESUBIE;316554;2024;48,7;10,3;9,8;67,0;non conforme;749268;148038;303;382;1337;Non vérifié
-06128;Saint-Paul-de-Vence;06;eau potable : DSP Saint Paul de Vence + SIEVI;299854;2024;83,4;8,0;40,3;73,1;conforme;75920;75920;65;73;3203;Non vérifié
-06129;Saint-Sauveur-sur-Tinée;06;eau potable : HAUT PAYS : TINEE;316534;2024;50,1;14,4;14,5;67,9;non conforme;898250;49392;467;363;290;Non vérifié
-06130;Saint-Vallier-de-Thiey;06;eau potable : St-Vallier de THIEY;85156;2024;72,4;6,4;16,7;68,3;conforme;96710;96710;72;140;3658;Non vérifié
-06131;Sallagriffon;06;eau potable : Communes du Barlet;85315;2020;81,5;1,3;5,9;66,2;conforme;11388;3186;186;81;47;Sans anomalie apparente
-06132;Saorge;06;eau potable : groupement forfait régie;318874;2024;37,6;29,7;17,9;68,6;non conforme;1116572;84948;541;606;430;Non vérifié
-06133;Sauze;06;eau potable : Sauze;85161;2024;62,5;7,7;12,8;67,6;non conforme;35469;35469;1450;219;67;Non vérifié
-06134;Séranon;06;eau potable : principal SI3vallées;85307;2024;71,7;1,6;4,1;65,8;conforme;72124;12939;66;142;540;Non vérifié
-06135;Sigale;06;eau potable : DSP SIEVI;299834;2024;89,2;11,4;93,8;83,8;conforme;890454;23073;310;271;204;Non vérifié
-06136;Sospel;06;eau potable : eau potable Sospel;85256;2024;78,5;4,0;14,6;67,9;conforme;65700;65700;47;100;3791;Non vérifié
-06137;Spéracèdes;06;eau potable : RECB;217113;2024;82,5;4,6;21,6;69,3;conforme;381183;25608;57;78;1241;Non vérifié
-06138;Théoule-sur-Mer;06;eau potable : principal SICASIL;85303;2024;84,0;11,3;59,3;76,9;conforme;4277106;34311;64;76;1477;Non vérifié
-06139;Thiéry;06;eau potable : Thiery;85259;2024;68,7;2,5;5,4;66,1;conforme;5046;5046;152;170;91;Non vérifié
-06140;Le Tignet;06;eau potable : RECB;217113;2024;82,5;4,6;21,6;69,3;conforme;381183;66278;57;78;3212;Non vérifié
-06141;Toudon;06;eau potable : DSP SIEVI;299834;2024;89,2;11,4;93,8;83,8;conforme;890454;40151;310;271;355;Non vérifié
-06142;Touët-de-l'Escarène;06;eau potable;85262;2024;91,6;1,5;16,7;68,3;conforme;766;766;7;33;300;Non vérifié
-06143;Touët-sur-Var;06;eau potable : Touet sur Var;85265;2024;59,8;11,3;16,7;68,3;non conforme;45370;45370;166;247;748;Non vérifié
-06144;La Tour;06;eau potable : HAUT PAYS : TINEE;316534;2024;50,1;14,4;14,5;67,9;non conforme;898250;91971;467;363;540;Non vérifié
-06145;Tourette-du-Château;06;eau potable : DSP SIEVI;299834;2024;89,2;11,4;93,8;83,8;conforme;890454;16626;310;271;147;Non vérifié
-06146;Tournefort;06;eau potable : HAUT PAYS : TINEE;316534;2024;50,1;14,4;14,5;67,9;non conforme;898250;25037;467;363;147;Non vérifié
-06147;Tourrette-Levens;06;eau potable : RIVE GAUCHE;316494;2024;80,8;16,0;67,3;78,5;conforme;8591224;93890;56;96;4624;Non vérifié
-06148;Tourrettes-sur-Loup;06;eau potable : DSP SIEVI;299834;2024;89,2;11,4;93,8;83,8;conforme;890454;471071;310;271;4165;Non vérifié
-06149;La Trinité;06;eau potable : RIVE GAUCHE;316494;2024;80,8;16,0;67,3;78,5;conforme;8591224;215272;56;96;10602;Non vérifié
-06150;La Turbie;06;eau potable : groupement littoral;85299;2024;92,8;8,5;81,1;81,2;conforme;1064716;52264;47;108;3045;Non vérifié
-06151;Utelle;06;eau potable : HAUT PAYS : VESUBIE;316554;2024;48,7;10,3;9,8;67,0;non conforme;749268;89133;303;382;805;Non vérifié
-06152;Valbonne;06;eau potable : EP Valbonne;85277;2024;82,8;7,1;34,5;71,9;conforme;295431;295431;68;88;11939;Non vérifié
-06153;Valdeblore;06;eau potable : HAUT PAYS : TINEE;316534;2024;50,1;14,4;14,5;67,9;non conforme;898250;142214;467;363;835;Non vérifié
-06154;Valderoure;06;eau potable : principal SI3vallées;85307;2024;71,7;1,6;4,1;65,8;conforme;72124;12915;66;142;539;Non vérifié
-06155;Vallauris;06;eau potable : principal SICASIL;85303;2024;84,0;11,3;59,3;76,9;conforme;4277106;679701;64;76;29259;Non vérifié
-06156;Venanson;06;eau potable : HAUT PAYS : VESUBIE;316554;2024;48,7;10,3;9,8;67,0;non conforme;749268;21591;303;382;195;Non vérifié
-06157;Vence;06;eau potable : RIVE DROITE;316514;2024;69,1;22,2;49,6;74,9;non conforme;6421628;919248;126;192;19917;Non vérifié
-06158;Villars-sur-Var;06;eau potable : Villars sur Var;85285;2024;70,6;2,0;4,8;66,0;conforme;15023;15023;53;151;780;Non vérifié
-06159;Villefranche-sur-Mer;06;eau potable : RIVE GAUCHE;316494;2024;80,8;16,0;67,3;78,5;conforme;8591224;101687;56;96;5008;Non vérifié
-06160;Villeneuve-d'Entraunes;06;eau potable : Villeneuve d'Entraunes;85287;2024;68,2;2,3;4,9;66,0;conforme;8932;8932;298;170;82;Non vérifié
-06161;Villeneuve-Loubet;06;eau potable : EP Villeneuve Loubet;211776;2024;79,0;14,0;52,8;75,6;conforme;538594;538594;84;97;17548;Non vérifié
-06162;La Brigue;06;eau potable : groupement forfait régie;318874;2024;37,6;29,7;17,9;68,6;non conforme;1116572;150733;541;606;763;Non vérifié
-06163;Tende;06;eau potable : groupement forfait régie;318874;2024;37,6;29,7;17,9;68,6;non conforme;1116572;350657;541;606;1775;Non vérifié
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement);Donnée suspecte (voir LISEZMOI)
+06001;Aiglun;06;eau potable : DSP SIEVI;299834;2024;89,2;11,4;93,8;83,8;conforme;890454;11763;310;271;104;Non vérifié;non
+06002;Amirat;06;eau potable : Amirat;85167;2024;42,1;3,8;2,8;65,6;non conforme;8613;8613;524;504;45;Non vérifié;non
+06003;Andon;06;eau potable : principal SI3vallées;85307;2024;71,7;1,6;4,1;65,8;conforme;72124;15934;66;142;665;Non vérifié;non
+06004;Antibes;06;eau potable : EP CASA;85302;2024;79,4;19,3;74,5;79,9;non conforme;3268648;2093968;74;116;77637;Non vérifié;non
+06005;Ascros;06;eau potable : Rourebel;85316;2024;70,7;2,1;5,0;66,0;conforme;19162;6500;102;184;174;Non vérifié;non
+06006;Aspremont;06;eau potable : RIVE GAUCHE;316494;2024;80,8;16,0;67,3;78,5;conforme;8591224;47635;56;96;2346;Non vérifié;non
+06007;Auribeau-sur-Siagne;06;eau potable : principal SICASIL;85303;2024;84,0;11,3;59,3;76,9;conforme;4277106;79007;64;76;3401;Non vérifié;non
+06008;Auvare;06;eau potable : Auvare;85174;2024;67,8;3,8;8,1;66,6;conforme;3468;3468;183;172;52;Non vérifié;non
+06009;Bairols;06;eau potable : HAUT PAYS : TINEE;316534;2024;50,1;14,4;14,5;67,9;non conforme;898250;17883;467;363;105;Non vérifié;non
+06010;Le Bar-sur-Loup;06;eau potable : EP Bar sur Loup;85179;2024;95,7;1,7;37,3;72,5;conforme;22958;22958;21;20;2974;Non vérifié;non
+06011;Beaulieu-sur-Mer;06;eau potable : RIVE GAUCHE;316494;2024;80,8;16,0;67,3;78,5;conforme;8591224;78661;56;96;3874;Non vérifié;non
+06012;Beausoleil;06;eau potable : groupement littoral;85299;2024;92,8;8,5;81,1;81,2;conforme;1064716;204869;47;108;11936;Non vérifié;non
+06013;Belvédère;06;eau potable : HAUT PAYS : VESUBIE;316554;2024;48,7;10,3;9,8;67,0;non conforme;749268;66545;303;382;601;Non vérifié;non
+06014;Bendejun;06;eau potable;85186;2024;82,6;7,8;37,0;72,4;conforme;28470;28470;80;77;971;Non vérifié;non
+06015;Berre-les-Alpes;06;eau potable;85296;2024;58,3;8,9;12,5;67,5;non conforme;443258;36137;75;275;1316;Non vérifié;non
+06016;Beuil;06;eau potable : Beuil;85189;2024;51,1;9,7;10,1;67,0;non conforme;78599;78599;446;351;483;Non vérifié;non
+06017;Bézaudun-les-Alpes;06;eau potable : DSP SIEVI;299834;2024;89,2;11,4;93,8;83,8;conforme;890454;28954;310;271;256;Non vérifié;non
+06018;Biot;06;eau potable : EP CASA;85302;2024;79,4;19,3;74,5;79,9;non conforme;3268648;283495;74;116;10511;Non vérifié;non
+06019;Blausasc;06;eau potable;85296;2024;58,3;8,9;12,5;67,5;non conforme;443258;45803;75;275;1668;Non vérifié;non
+06020;La Bollène-Vésubie;06;eau potable : HAUT PAYS : VESUBIE;316554;2024;48,7;10,3;9,8;67,0;non conforme;749268;73299;303;382;662;Non vérifié;non
+06021;Bonson;06;eau potable : RIVE DROITE;316514;2024;69,1;22,2;49,6;74,9;non conforme;6421628;34154;126;192;740;Non vérifié;non
+06022;Bouyon;06;eau potable : DSP SIEVI;299834;2024;89,2;11,4;93,8;83,8;conforme;890454;62998;310;271;557;Non vérifié;non
+06023;Breil-sur-Roya;06;eau potable : groupement forfait régie;318874;2024;37,6;29,7;17,9;68,6;non conforme;1116572;469584;541;606;2377;Non vérifié;non
+06024;Briançonnet;06;eau potable : Briançonnet;85202;2024;66,6;4,8;9,5;66,9;non conforme;28908;28908;480;185;165;Non vérifié;non
+06025;Le Broc;06;eau potable : RIVE DROITE;316514;2024;69,1;22,2;49,6;74,9;non conforme;6421628;66739;126;192;1446;Non vérifié;non
+06026;Cabris;06;eau potable : RECB;217113;2024;82,5;4,6;21,6;69,3;conforme;381183;29920;57;78;1450;Non vérifié;non
+06027;Cagnes-sur-Mer;06;eau potable : RIVE DROITE;316514;2024;69,1;22,2;49,6;74,9;non conforme;6421628;2462497;126;192;53354;Non vérifié;non
+06028;Caille;06;eau potable : principal SI3vallées;85307;2024;71,7;1,6;4,1;65,8;conforme;72124;10567;66;142;441;Non vérifié;non
+06029;Cannes;06;eau potable : principal SICASIL;85303;2024;84,0;11,3;59,3;76,9;conforme;4277106;1727188;64;76;74350;Non vérifié;non
+06030;Le Cannet;06;eau potable : principal SICASIL;85303;2024;84,0;11,3;59,3;76,9;conforme;4277106;974241;64;76;41938;Non vérifié;non
+06031;Cantaron;06;eau potable;85296;2024;58,3;8,9;12,5;67,5;non conforme;443258;34819;75;275;1268;Non vérifié;non
+06032;Cap-d'Ail;06;eau potable : RIVE GAUCHE;316494;2024;80,8;16,0;67,3;78,5;conforme;8591224;91007;56;96;4482;Non vérifié;non
+06033;Carros;06;eau potable : RIVE DROITE;316514;2024;69,1;22,2;49,6;74,9;non conforme;6421628;637063;126;192;13803;Non vérifié;non
+06034;Castagniers;06;eau potable : RIVE GAUCHE;316494;2024;80,8;16,0;67,3;78,5;conforme;8591224;33828;56;96;1666;Non vérifié;non
+06035;Castellar;06;eau potable : groupement littoral;85299;2024;92,8;8,5;81,1;81,2;conforme;1064716;17095;47;108;996;Non vérifié;non
+06036;Castillon;06;eau potable : groupement littoral;85299;2024;92,8;8,5;81,1;81,2;conforme;1064716;7295;47;108;425;Non vérifié;non
+06037;Caussols;06;eau potable : EP Caussols;85211;2024;62,0;3,3;5,4;66,1;non conforme;14815;14815;122;221;332;Non vérifié;non
+06038;Châteauneuf-Grasse;06;eau potable : EP Chateauneuf;85213;2024;89,3;27,5;230,6;85,0;conforme;498864;498864;358;328;3815;Non vérifié;non
+06039;Châteauneuf-Villevieille;06;eau potable : RIVE GAUCHE;316494;2024;80,8;16,0;67,3;78,5;conforme;8591224;20244;56;96;997;Non vérifié;non
+06040;Châteauneuf-d'Entraunes;06;eau potable : Chateauneuf d'Entraunes;85215;2024;67,8;1,2;2,5;65,5;conforme;4555;4555;201;175;62;Non vérifié;non
+06041;Cipières;06;eau potable : EP Cipières;85218;2024;53,1;5,6;6,3;66,3;non conforme;28003;28003;195;327;393;Non vérifié;non
+06042;Clans;06;eau potable : HAUT PAYS : TINEE;316534;2024;50,1;14,4;14,5;67,9;non conforme;898250;119733;467;363;703;Non vérifié;non
+06043;Coaraze;06;eau potable;213621;2024;81,5;3,2;14,2;67,8;conforme;17520;17520;58;113;827;Non vérifié;non
+06044;La Colle-sur-Loup;06;eau potable : EP La Colle sur Loup;198803;2024;73,8;16,2;45,8;74,2;non conforme;355490;355490;119;140;8202;Non vérifié;non
+06045;Collongues;06;eau potable : Communes du Barlet;85315;2024;27,6;4,1;1,6;65,3;non conforme;23540;16342;533;951;84;Non vérifié;non
+06046;Colomars;06;eau potable : RIVE GAUCHE;316494;2024;80,8;16,0;67,3;78,5;conforme;8591224;69219;56;96;3409;Non vérifié;non
+06047;Conségudes;06;eau potable : DSP SIEVI;299834;2024;89,2;11,4;93,8;83,8;conforme;890454;11650;310;271;103;Non vérifié;non
+06048;Contes;06;eau potable;85296;2024;58,3;8,9;12,5;67,5;non conforme;443258;216851;75;275;7897;Non vérifié;non
+06049;Courmes;06;eau potable : Ep Courmes;85228;2024;72,7;1,0;2,6;65,5;conforme;1934;1934;49;138;109;Non vérifié;non
+06050;Coursegoules;06;eau potable : DSP SIEVI;299834;2024;89,2;11,4;93,8;83,8;conforme;890454;63790;310;271;564;Non vérifié;non
+06051;La Croix-sur-Roudoule;06;eau potable : La Croix sur Roudoule;85231;2024;69,6;3,4;7,9;66,6;conforme;7942;7942;227;158;96;Non vérifié;non
+06052;Cuébris;06;eau potable : DSP SIEVI;299834;2024;89,2;11,4;93,8;83,8;conforme;890454;14703;310;271;130;Non vérifié;non
+06053;Daluis;06;eau potable : Daluis;85234;2024;34,8;37,0;19,7;68,9;non conforme;147204;147204;2744;685;147;Non vérifié;non
+06054;Drap;06;eau potable : RIVE GAUCHE;316494;2024;80,8;16,0;67,3;78,5;conforme;8591224;111352;56;96;5484;Non vérifié;non
+06055;Duranus;06;eau potable : HAUT PAYS : VESUBIE;316554;2024;48,7;10,3;9,8;67,0;non conforme;749268;16719;303;382;151;Non vérifié;non
+06056;Entraunes;06;eau potable : Entraunes;85237;2024;60,4;7,5;11,4;67,3;non conforme;22995;22995;508;239;124;Non vérifié;non
+06057;L' Escarène;06;eau potable;85296;2024;58,3;8,9;12,5;67,5;non conforme;443258;70984;75;275;2585;Non vérifié;non
+06058;Escragnolles;06;eau potable : Escragnolles;85241;2024;70,8;3,4;8,2;66,6;conforme;14892;14892;66;151;622;Non vérifié;non
+06059;Èze;06;eau potable : RIVE GAUCHE;316494;2024;80,8;16,0;67,3;78,5;conforme;8591224;43534;56;96;2144;Non vérifié;non
+06060;Falicon;06;eau potable : RIVE GAUCHE;316494;2024;80,8;16,0;67,3;78,5;conforme;8591224;44366;56;96;2185;Non vérifié;non
+06061;Les Ferres;06;eau potable : DSP SIEVI;299834;2024;89,2;11,4;93,8;83,8;conforme;890454;10519;310;271;93;Non vérifié;non
+06062;Fontan;06;eau potable : groupement forfait régie;318874;2024;37,6;29,7;17,9;68,6;non conforme;1116572;60649;541;606;307;Non vérifié;non
+06063;Gars;06;eau potable : Gars;85247;2024;84,0;0,7;3,4;65,7;conforme;1088;1088;46;75;65;Non vérifié;non
+06064;Gattières;06;eau potable : RIVE DROITE;316514;2024;69,1;22,2;49,6;74,9;non conforme;6421628;201139;126;192;4358;Non vérifié;non
+06065;La Gaude;06;eau potable : RIVE DROITE;316514;2024;69,1;22,2;49,6;74,9;non conforme;6421628;335308;126;192;7265;Non vérifié;non
+06066;Gilette;06;eau potable : RIVE DROITE;316514;2024;69,1;22,2;49,6;74,9;non conforme;6421628;75092;126;192;1627;Non vérifié;non
+06067;Gorbio;06;eau potable : groupement littoral;85299;2024;92,8;8,5;81,1;81,2;conforme;1064716;27617;47;108;1609;Non vérifié;non
+06068;Gourdon;06;eau potable : Ep Gourdon;214379;2024;39,1;25,1;16,1;68,2;non conforme;72376;72376;540;569;367;Non vérifié;non
+06069;Grasse;06;eau potable : GRASSE;85058;2024;80,8;10,8;45,7;74,1;conforme;1114325;1114325;60;93;50970;Non vérifié;non
+06070;Gréolières;06;eau potable : principal SI3vallées;85307;2024;71,7;1,6;4,1;65,8;conforme;72124;15120;66;142;631;Non vérifié;non
+06071;Guillaumes;06;eau potable : Guillaumes;85064;2024;54,6;13,5;16,2;68,2;non conforme;167535;167535;782;304;587;Non vérifié;non
+06072;Ilonse;06;eau potable : HAUT PAYS : TINEE;316534;2024;50,1;14,4;14,5;67,9;non conforme;898250;22482;467;363;132;Non vérifié;non
+06073;Isola;06;eau potable : HAUT PAYS : TINEE;316534;2024;50,1;14,4;14,5;67,9;non conforme;898250;109343;467;363;642;Non vérifié;non
+06074;Lantosque;06;eau potable : HAUT PAYS : VESUBIE;316554;2024;48,7;10,3;9,8;67,0;non conforme;749268;132647;303;382;1198;Non vérifié;non
+06075;Levens;06;eau potable : RIVE GAUCHE;316494;2024;80,8;16,0;67,3;78,5;conforme;8591224;109179;56;96;5377;Non vérifié;non
+06076;Lieuche;06;eau potable : Lieuche;85074;2024;66,5;2,5;4,9;66,0;conforme;5201;5201;285;187;50;Non vérifié;non
+06077;Lucéram;06;eau potable : Peira Cava;85077;2024;27,9;6,4;2,5;65,5;non conforme;20323;20323;45;938;1234;Non vérifié;non
+06078;Malaussène;06;eau potable : Malaussène;85079;2024;66,8;3,4;6,9;66,4;conforme;25689;25689;216;179;326;Non vérifié;non
+06079;Mandelieu-la-Napoule;06;eau potable : Mandelieu;85082;2024;82,5;11,6;54,9;76,0;conforme;564477;564477;71;77;21640;Non vérifié;non
+06080;Marie;06;eau potable : HAUT PAYS : TINEE;316534;2024;50,1;14,4;14,5;67,9;non conforme;898250;18565;467;363;109;Non vérifié;non
+06081;Le Mas;06;eau potable : Le Mas;85086;2024;38,8;6,7;4,3;65,9;non conforme;31107;31107;879;573;97;Non vérifié;non
+06082;Massoins;06;eau potable : Massoins;85088;2024;60,2;4,8;7,3;66,5;non conforme;6132;6132;122;240;138;Non vérifié;non
+06083;Menton;06;eau potable : groupement littoral;85299;2024;92,8;8,5;81,1;81,2;conforme;1064716;525286;47;108;30604;Non vérifié;non
+06084;Mouans-Sartoux;06;eau potable : Mouans Sartoux;85091;2024;92,6;2,8;35,5;72,1;conforme;94402;94402;23;29;11015;Non vérifié;non
+06085;Mougins;06;eau potable : principal SICASIL;85303;2024;84,0;11,3;59,3;76,9;conforme;4277106;459546;64;76;19782;Non vérifié;non
+06086;Moulinet;06;eau potable : eau potable Moulinet;85096;2024;44,8;3,9;3,2;65,6;non conforme;15658;15658;160;445;268;Non vérifié;non
+06087;Les Mujouls;06;eau potable : Communes du Barlet;85315;2024;27,6;4,1;1,6;65,3;non conforme;23540;7198;533;951;37;Non vérifié;non
+06088;Nice;06;eau potable : RIVE GAUCHE;316494;2024;80,8;16,0;67,3;78,5;conforme;8591224;7263812;56;96;357737;Non vérifié;non
+06089;Opio;06;eau potable : Ep Opio;85100;2024;95,4;5,6;115,7;85,0;conforme;75628;75628;82;53;2527;Non vérifié;non
+06090;Pégomas;06;eau potable : principal SICASIL;85303;2024;84,0;11,3;59,3;76,9;conforme;4277106;191419;64;76;8240;Non vérifié;non
+06092;Peillon;06;eau potable;85296;2024;58,3;8,9;12,5;67,5;non conforme;443258;38664;75;275;1408;Non vérifié;non
+06093;La Penne;06;eau potable : Rourebel;85316;2024;70,7;2,1;5,0;66,0;conforme;19162;9488;102;184;254;Non vérifié;non
+06094;Péone;06;eau potable : Péone, Valberg;291334;2024;47,0;10,4;9,2;66,8;non conforme;169681;169681;425;412;1094;Non vérifié;non
+06095;Peymeinade;06;eau potable : RECB;217113;2024;82,5;4,6;21,6;69,3;conforme;381183;175683;57;78;8514;Non vérifié;non
+06096;Pierlas;06;eau potable : Pierlas;85106;2024;63,7;24,4;42,9;73,6;non conforme;13359;13359;373;208;98;Non vérifié;non
+06097;Pierrefeu;06;eau potable : DSP SIEVI;299834;2024;89,2;11,4;93,8;83,8;conforme;890454;38115;310;271;337;Non vérifié;non
+06098;Puget-Rostang;06;eau potable : Puget Rostang;85109;2024;63,4;3,8;6,5;66,3;non conforme;7212;7212;170;212;116;Non vérifié;non
+06099;Puget-Théniers;06;eau potable : Puget Théniers;85112;2024;50,7;13,4;13,8;67,8;non conforme;117384;117384;179;354;1798;Non vérifié;non
+06100;Revest-les-Roches;06;eau potable : DSP SIEVI;299834;2024;89,2;11,4;93,8;83,8;conforme;890454;27031;310;271;239;Non vérifié;non
+06101;Rigaud;06;eau potable : Rigaud;85115;2024;68,0;10,2;21,7;69,3;non conforme;42628;42628;708;172;165;Non vérifié;non
+06102;Rimplas;06;eau potable : HAUT PAYS : TINEE;316534;2024;50,1;14,4;14,5;67,9;non conforme;898250;26569;467;363;156;Non vérifié;non
+06103;Roquebillière;06;eau potable : HAUT PAYS : VESUBIE;316554;2024;48,7;10,3;9,8;67,0;non conforme;749268;201296;303;382;1818;Non vérifié;non
+06104;Roquebrune-Cap-Martin;06;eau potable : groupement littoral;85299;2024;92,8;8,5;81,1;81,2;conforme;1064716;206603;47;108;12037;Non vérifié;non
+06105;Roquefort-les-Pins;06;eau potable : EP CASA;85302;2024;79,4;19,3;74,5;79,9;non conforme;3268648;196674;74;116;7292;Non vérifié;non
+06106;Roquesteron;06;eau potable : DSP SIEVI;299834;2024;89,2;11,4;93,8;83,8;conforme;890454;62432;310;271;552;Non vérifié;non
+06107;Roque-en-Provence;06;eau potable : DSP SIEVI;299834;2024;89,2;11,4;93,8;83,8;conforme;890454;7578;310;271;67;Non vérifié;non
+06108;La Roquette-sur-Siagne;06;eau potable : principal SICASIL;85303;2024;84,0;11,3;59,3;76,9;conforme;4277106;131694;64;76;5669;Non vérifié;non
+06109;La Roquette-sur-Var;06;eau potable : RIVE GAUCHE;316494;2024;80,8;16,0;67,3;78,5;conforme;8591224;18701;56;96;921;Non vérifié;non
+06110;Roubion;06;eau potable : HAUT PAYS : TINEE;316534;2024;50,1;14,4;14,5;67,9;non conforme;898250;19075;467;363;112;Non vérifié;non
+06111;Roure;06;eau potable : HAUT PAYS : TINEE;316534;2024;50,1;14,4;14,5;67,9;non conforme;898250;19757;467;363;116;Non vérifié;non
+06112;Le Rouret;06;eau potable : EP Le Rouret;85131;2024;76,7;11,4;37,6;72,5;conforme;175802;175802;114;162;4209;Non vérifié;non
+06113;Sainte-Agnès;06;eau potable : groupement littoral;85299;2024;92,8;8,5;81,1;81,2;conforme;1064716;23686;47;108;1380;Non vérifié;non
+06114;Saint-André-de-la-Roche;06;eau potable : RIVE GAUCHE;316494;2024;80,8;16,0;67,3;78,5;conforme;8591224;119718;56;96;5896;Non vérifié;non
+06115;Saint-Antonin;06;eau potable : Rourebel;85316;2024;70,7;2,1;5,0;66,0;conforme;19162;3175;102;184;85;Non vérifié;non
+06116;Saint-Auban;06;eau potable : principal SI3vallées;85307;2024;71,7;1,6;4,1;65,8;conforme;72124;4649;66;142;194;Non vérifié;non
+06117;Saint-Blaise;06;eau potable : RIVE GAUCHE;316494;2024;80,8;16,0;67,3;78,5;conforme;8591224;28366;56;96;1397;Non vérifié;non
+06118;Saint-Cézaire-sur-Siagne;06;eau potable : RECB;217113;2024;82,5;4,6;21,6;69,3;conforme;381183;83694;57;78;4056;Non vérifié;non
+06119;Saint-Dalmas-le-Selvage;06;eau potable : HAUT PAYS : TINEE;316534;2024;50,1;14,4;14,5;67,9;non conforme;898250;16691;467;363;98;Non vérifié;non
+06120;Saint-Étienne-de-Tinée;06;eau potable : HAUT PAYS : TINEE;316534;2024;50,1;14,4;14,5;67,9;non conforme;898250;219538;467;363;1289;Non vérifié;non
+06121;Saint-Jean-Cap-Ferrat;06;eau potable : RIVE GAUCHE;316494;2024;80,8;16,0;67,3;78,5;conforme;8591224;31087;56;96;1531;Non vérifié;non
+06122;Saint-Jeannet;06;eau potable : RIVE DROITE;316514;2024;69,1;22,2;49,6;74,9;non conforme;6421628;205523;126;192;4453;Non vérifié;non
+06123;Saint-Laurent-du-Var;06;eau potable : RIVE DROITE;316514;2024;69,1;22,2;49,6;74,9;non conforme;6421628;1484864;126;192;32172;Non vérifié;non
+06124;Saint-Léger;06;eau potable : Saint Léger;85144;2024;66,9;5,9;11,8;67,4;non conforme;8614;8614;387;182;61;Non vérifié;non
+06125;Saint-Martin-d'Entraunes;06;eau potable : Saint Martin d'Entraunes;85146;2024;64,8;3,0;5,5;66,1;non conforme;19546;19546;388;198;138;Non vérifié;non
+06126;Saint-Martin-du-Var;06;eau potable : RIVE GAUCHE;316494;2024;80,8;16,0;67,3;78,5;conforme;8591224;69666;56;96;3431;Non vérifié;non
+06127;Saint-Martin-Vésubie;06;eau potable : HAUT PAYS : VESUBIE;316554;2024;48,7;10,3;9,8;67,0;non conforme;749268;148038;303;382;1337;Non vérifié;non
+06128;Saint-Paul-de-Vence;06;eau potable : DSP Saint Paul de Vence + SIEVI;299854;2024;83,4;8,0;40,3;73,1;conforme;75920;75920;65;73;3203;Non vérifié;non
+06129;Saint-Sauveur-sur-Tinée;06;eau potable : HAUT PAYS : TINEE;316534;2024;50,1;14,4;14,5;67,9;non conforme;898250;49392;467;363;290;Non vérifié;non
+06130;Saint-Vallier-de-Thiey;06;eau potable : St-Vallier de THIEY;85156;2024;72,4;6,4;16,7;68,3;conforme;96710;96710;72;140;3658;Non vérifié;non
+06131;Sallagriffon;06;eau potable : Communes du Barlet;85315;2020;81,5;1,3;5,9;66,2;conforme;11388;3186;186;81;47;Sans anomalie apparente;non
+06132;Saorge;06;eau potable : groupement forfait régie;318874;2024;37,6;29,7;17,9;68,6;non conforme;1116572;84948;541;606;430;Non vérifié;non
+06133;Sauze;06;eau potable : Sauze;85161;2024;62,5;7,7;12,8;67,6;non conforme;35469;35469;1450;219;67;Non vérifié;non
+06134;Séranon;06;eau potable : principal SI3vallées;85307;2024;71,7;1,6;4,1;65,8;conforme;72124;12939;66;142;540;Non vérifié;non
+06135;Sigale;06;eau potable : DSP SIEVI;299834;2024;89,2;11,4;93,8;83,8;conforme;890454;23073;310;271;204;Non vérifié;non
+06136;Sospel;06;eau potable : eau potable Sospel;85256;2024;78,5;4,0;14,6;67,9;conforme;65700;65700;47;100;3791;Non vérifié;non
+06137;Spéracèdes;06;eau potable : RECB;217113;2024;82,5;4,6;21,6;69,3;conforme;381183;25608;57;78;1241;Non vérifié;non
+06138;Théoule-sur-Mer;06;eau potable : principal SICASIL;85303;2024;84,0;11,3;59,3;76,9;conforme;4277106;34311;64;76;1477;Non vérifié;non
+06139;Thiéry;06;eau potable : Thiery;85259;2024;68,7;2,5;5,4;66,1;conforme;5046;5046;152;170;91;Non vérifié;non
+06140;Le Tignet;06;eau potable : RECB;217113;2024;82,5;4,6;21,6;69,3;conforme;381183;66278;57;78;3212;Non vérifié;non
+06141;Toudon;06;eau potable : DSP SIEVI;299834;2024;89,2;11,4;93,8;83,8;conforme;890454;40151;310;271;355;Non vérifié;non
+06142;Touët-de-l'Escarène;06;eau potable;85262;2024;91,6;1,5;16,7;68,3;conforme;766;766;7;33;300;Non vérifié;non
+06143;Touët-sur-Var;06;eau potable : Touet sur Var;85265;2024;59,8;11,3;16,7;68,3;non conforme;45370;45370;166;247;748;Non vérifié;non
+06144;La Tour;06;eau potable : HAUT PAYS : TINEE;316534;2024;50,1;14,4;14,5;67,9;non conforme;898250;91971;467;363;540;Non vérifié;non
+06145;Tourette-du-Château;06;eau potable : DSP SIEVI;299834;2024;89,2;11,4;93,8;83,8;conforme;890454;16626;310;271;147;Non vérifié;non
+06146;Tournefort;06;eau potable : HAUT PAYS : TINEE;316534;2024;50,1;14,4;14,5;67,9;non conforme;898250;25037;467;363;147;Non vérifié;non
+06147;Tourrette-Levens;06;eau potable : RIVE GAUCHE;316494;2024;80,8;16,0;67,3;78,5;conforme;8591224;93890;56;96;4624;Non vérifié;non
+06148;Tourrettes-sur-Loup;06;eau potable : DSP SIEVI;299834;2024;89,2;11,4;93,8;83,8;conforme;890454;471071;310;271;4165;Non vérifié;non
+06149;La Trinité;06;eau potable : RIVE GAUCHE;316494;2024;80,8;16,0;67,3;78,5;conforme;8591224;215272;56;96;10602;Non vérifié;non
+06150;La Turbie;06;eau potable : groupement littoral;85299;2024;92,8;8,5;81,1;81,2;conforme;1064716;52264;47;108;3045;Non vérifié;non
+06151;Utelle;06;eau potable : HAUT PAYS : VESUBIE;316554;2024;48,7;10,3;9,8;67,0;non conforme;749268;89133;303;382;805;Non vérifié;non
+06152;Valbonne;06;eau potable : EP Valbonne;85277;2024;82,8;7,1;34,5;71,9;conforme;295431;295431;68;88;11939;Non vérifié;non
+06153;Valdeblore;06;eau potable : HAUT PAYS : TINEE;316534;2024;50,1;14,4;14,5;67,9;non conforme;898250;142214;467;363;835;Non vérifié;non
+06154;Valderoure;06;eau potable : principal SI3vallées;85307;2024;71,7;1,6;4,1;65,8;conforme;72124;12915;66;142;539;Non vérifié;non
+06155;Vallauris;06;eau potable : principal SICASIL;85303;2024;84,0;11,3;59,3;76,9;conforme;4277106;679701;64;76;29259;Non vérifié;non
+06156;Venanson;06;eau potable : HAUT PAYS : VESUBIE;316554;2024;48,7;10,3;9,8;67,0;non conforme;749268;21591;303;382;195;Non vérifié;non
+06157;Vence;06;eau potable : RIVE DROITE;316514;2024;69,1;22,2;49,6;74,9;non conforme;6421628;919248;126;192;19917;Non vérifié;non
+06158;Villars-sur-Var;06;eau potable : Villars sur Var;85285;2024;70,6;2,0;4,8;66,0;conforme;15023;15023;53;151;780;Non vérifié;non
+06159;Villefranche-sur-Mer;06;eau potable : RIVE GAUCHE;316494;2024;80,8;16,0;67,3;78,5;conforme;8591224;101687;56;96;5008;Non vérifié;non
+06160;Villeneuve-d'Entraunes;06;eau potable : Villeneuve d'Entraunes;85287;2024;68,2;2,3;4,9;66,0;conforme;8932;8932;298;170;82;Non vérifié;non
+06161;Villeneuve-Loubet;06;eau potable : EP Villeneuve Loubet;211776;2024;79,0;14,0;52,8;75,6;conforme;538594;538594;84;97;17548;Non vérifié;non
+06162;La Brigue;06;eau potable : groupement forfait régie;318874;2024;37,6;29,7;17,9;68,6;non conforme;1116572;150733;541;606;763;Non vérifié;non
+06163;Tende;06;eau potable : groupement forfait régie;318874;2024;37,6;29,7;17,9;68,6;non conforme;1116572;350657;541;606;1775;Non vérifié;non

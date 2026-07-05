@@ -7,545 +7,545 @@
 # Méthodologie et code : https://github.com/btaverne/dourdata
 # Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
 # Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
-Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
-64001;Aast;64;eau potable : SEcteur Nord : ex Territoire Montaner;213712;2024;71,8;1,3;3,4;65,7;conforme;63094;6175;84;158;202;Non vérifié
-64002;Abère;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;3732;66;137;156;Non vérifié
-64003;Abidos;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;4954;61;216;222;Non vérifié
-64004;Abitain;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;4562;104;172;120;Non vérifié
-64005;Abos;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;11737;61;216;526;Non vérifié
-64007;Agnos;64;eau potable;52471;2024;73,2;3,7;10,1;67,0;conforme;62663;18538;49;133;1044;Non vérifié
-64008;Ahaxe-Alciette-Bascassan;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;4151;44;83;261;Non vérifié
-64009;Ahetze;64;eau potable : Nivelle;280594;2024;91,3;1,4;15,0;68,0;conforme;272261;15331;20;36;2104;Non vérifié
-64010;Aïcirits-Camou-Suhast;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;11116;44;83;699;Non vérifié
-64011;Aincille;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;1861;44;83;117;Non vérifié
-64012;Ainharp;64;eau potable : Pays de Soule;280614;2024;73,6;1,2;3,3;65,7;conforme;262787;5023;105;171;131;Non vérifié
-64013;Ainhice-Mongelos;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;2672;44;83;168;Non vérifié
-64014;Ainhoa;64;eau potable : Nivelle;280594;2024;91,3;1,4;15,0;68,0;conforme;272261;4897;20;36;672;Non vérifié
-64015;Alçay-Alçabéhéty-Sunharette;64;eau potable : Pays de Soule;280614;2024;73,6;1,2;3,3;65,7;conforme;262787;7898;105;171;206;Non vérifié
-64016;Aldudes;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;5280;44;83;332;Non vérifié
-64017;Alos-Sibas-Abense;64;eau potable : Pays de Soule;280614;2024;73,6;1,2;3,3;65,7;conforme;262787;11157;105;171;291;Non vérifié
-64018;Amendeuix-Oneix;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;7506;44;83;472;Non vérifié
-64019;Amorots-Succos;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;3483;44;83;219;Non vérifié
-64021;Andoins;64;eau potable : territoire ex SMEAVO;52474;2024;76,0;2,2;6,8;66,4;conforme;391406;12535;47;118;727;Non vérifié
-64022;Andrein;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;5170;104;172;136;Non vérifié
-64023;Angaïs;64;eau potable;213709;2024;77,2;2,0;6,7;66,3;conforme;426320;13385;41;109;885;Non vérifié
-64024;Anglet;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;688123;44;83;43271;Non vérifié
-64025;Angous;64;eau potable;52526;2024;75,7;1,2;3,8;65,8;conforme;116070;2071;59;118;96;Non vérifié
-64026;Anhaux;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;6186;44;83;389;Non vérifié
-64027;Anos;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;4163;66;137;174;Non vérifié
-64028;Anoye;64;eau potable : Secteur Nord : Ex Territoire Lembeye et enclaves;280194;2024;73,4;1,3;3,7;65,7;conforme;168908;3931;77;143;140;Non vérifié
-64029;Aramits;64;eau potable;52310;2024;57,8;2,7;3,7;65,7;non conforme;40997;40997;170;269;659;Non vérifié
-64031;Arancou;64;eau potable : Pays de Bidache;212612;2024;56,0;4,1;5,3;66,1;non conforme;541254;15912;233;296;187;Non vérifié
-64032;Araujuzon;64;eau potable;52526;2024;75,7;1,2;3,8;65,8;conforme;116070;4078;59;118;189;Non vérifié
-64033;Araux;64;eau potable;52526;2024;75,7;1,2;3,8;65,8;conforme;116070;2934;59;118;136;Non vérifié
-64034;Arbérats-Sillègue;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;5232;44;83;329;Non vérifié
-64035;Arbonne;64;eau potable : Nivelle;280594;2024;91,3;1,4;15,0;68,0;conforme;272261;17831;20;36;2447;Non vérifié
-64036;Arbouet-Sussaute;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;4978;44;83;313;Non vérifié
-64037;Arbus;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;27357;61;216;1226;Non vérifié
-64038;Arcangues;64;eau potable : Nive-Adour/Errobi;52531;2024;84,1;2,3;12,4;67,5;conforme;663365;42473;32;75;3657;Non vérifié
-64039;Aren;64;eau potable;52469;2024;76,8;1,7;5,5;66,1;conforme;15450;5257;59;115;246;Non vérifié
-64040;Arette;64;eau potable : Territoire n°2;52523;2024;61,6;2,3;3,6;65,7;non conforme;45509;45509;121;231;1032;Non vérifié
-64041;Aressy;64;eau potable : Territoire n°1;197904;2024;81,0;3,2;13,6;67,7;conforme;955424;11511;36;86;881;Non vérifié
-64042;Argagnon;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;15396;61;216;690;Non vérifié
-64043;Argelos;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;6292;66;137;263;Non vérifié
-64044;Arget;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;1818;66;137;76;Non vérifié
-64045;Arhansus;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;1050;44;83;66;Non vérifié
-64046;Armendarits;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;6329;44;83;398;Non vérifié
-64047;Arnéguy;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;3769;44;83;237;Non vérifié
-64048;Arnos;64;eau potable;52511;2024;68,2;1,9;4,1;65,8;conforme;351466;3195;67;175;131;Non vérifié
-64049;Aroue-Ithorots-Olhaïby;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;3817;44;83;240;Non vérifié
-64050;Arrast-Larrebieu;64;eau potable : Pays de Soule;280614;2024;73,6;1,2;3,3;65,7;conforme;262787;3681;105;171;96;Non vérifié
-64051;Arraute-Charritte;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;6997;44;83;440;Non vérifié
-64052;Arricau-Bordes;64;eau potable : Secteur Nord : Ex Territoire Lembeye et enclaves;280194;2024;73,4;1,3;3,7;65,7;conforme;168908;2949;77;143;105;Non vérifié
-64053;Arrien;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;4713;66;137;197;Non vérifié
-64054;Arros-de-Nay;64;eau potable;213709;2024;77,2;2,0;6,7;66,3;conforme;426320;12402;41;109;820;Non vérifié
-64056;Arrosès;64;eau potable : Secteur Nord : ex Crouseilles;280214;2024;82,5;0,6;2,7;65,5;conforme;17851;3169;64;81;136;Non vérifié
-64057;Arthez-de-Béarn;64;eau potable;52511;2024;68,2;1,9;4,1;65,8;conforme;351466;44799;67;175;1837;Non vérifié
-64058;Arthez-d'Asson;64;eau potable;213709;2024;77,2;2,0;6,7;66,3;conforme;426320;6912;41;109;457;Non vérifié
-64059;Artigueloutan;64;eau potable : territoire ex SMEAVO;52474;2024;76,0;2,2;6,8;66,4;conforme;391406;19053;47;118;1105;Non vérifié
-64060;Artiguelouve;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;45631;61;216;2045;Non vérifié
-64061;Artix;64;eau potable;52511;2024;68,2;1,9;4,1;65,8;conforme;351466;84794;67;175;3477;Non vérifié
-64062;Arudy;64;eau potable;52529;2024;77,8;1,2;4,4;65,9;conforme;105545;34174;42;101;2228;Non vérifié
-64063;Arzacq-Arraziguet;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;25765;66;137;1077;Non vérifié
-64064;Asasp-Arros;64;eau potable;52471;2024;73,2;3,7;10,1;67,0;conforme;62663;9162;49;133;516;Non vérifié
-64065;Ascain;64;eau potable : Bidassoa;52548;2024;90,7;2,3;22,6;69,5;conforme;262142;35171;21;41;4658;Non vérifié
-64066;Ascarat;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;5534;44;83;348;Non vérifié
-64067;Assat;64;eau potable;213709;2024;77,2;2,0;6,7;66,3;conforme;426320;31278;41;109;2068;Non vérifié
-64068;Asson;64;eau potable;213709;2024;77,2;2,0;6,7;66,3;conforme;426320;29977;41;109;1982;Non vérifié
-64069;Aste-Béon;64;eau potable;52368;2024;0,0;18,1;0,0;65,0;non conforme;43603;43603;517;;231;Non vérifié
-64070;Astis;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;8445;66;137;353;Non vérifié
-64071;Athos-Aspis;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;8098;104;172;213;Non vérifié
-64072;Aubertin;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;14972;61;216;671;Non vérifié
-64073;Aubin;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;6340;66;137;265;Non vérifié
-64074;Aubous;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;1077;66;137;45;Non vérifié
-64075;Audaux;64;eau potable;52526;2024;75,7;1,2;3,8;65,8;conforme;116070;3689;59;118;171;Non vérifié
-64077;Auga;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;4521;66;137;189;Non vérifié
-64078;Auriac;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;5909;66;137;247;Non vérifié
-64079;Aurions-Idernes;64;eau potable : Secteur Nord : ex Crouseilles;280214;2024;82,5;0,6;2,7;65,5;conforme;17851;2610;64;81;112;Non vérifié
-64080;Aussevielle;64;eau potable;52480;2024;81,8;2,8;12,8;67,6;conforme;204400;11474;36;80;864;Non vérifié
-64081;Aussurucq;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;3658;44;83;230;Non vérifié
-64082;Auterrive;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;5436;104;172;143;Non vérifié
-64083;Autevielle-Saint-Martin-Bideren;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;8326;104;172;219;Non vérifié
-64084;Aydie;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;3110;66;137;130;Non vérifié
-64086;Ayherre;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;17938;44;83;1128;Non vérifié
-64087;Baigts-de-Béarn;64;eau potable;52511;2024;68,2;1,9;4,1;65,8;conforme;351466;20851;67;175;855;Non vérifié
-64088;Balansun;64;eau potable;52511;2024;68,2;1,9;4,1;65,8;conforme;351466;7706;67;175;316;Non vérifié
-64089;Baleix;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;3014;66;137;126;Non vérifié
-64090;Baliracq-Maumusson;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;2871;66;137;120;Non vérifié
-64091;Baliros;64;eau potable;213709;2024;77,2;2,0;6,7;66,3;conforme;426320;7789;41;109;515;Non vérifié
-64092;Banca;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;5693;44;83;358;Non vérifié
-64093;Barcus;64;eau potable : Pays de Soule;280614;2024;73,6;1,2;3,3;65,7;conforme;262787;25075;105;171;654;Non vérifié
-64094;Bardos;64;eau potable : Pays de Bidache;212612;2024;56,0;4,1;5,3;66,1;non conforme;541254;162095;233;296;1905;Non vérifié
-64095;Barinque;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;13875;66;137;580;Non vérifié
-64096;Barraute-Camu;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;7109;104;172;187;Non vérifié
-64097;Barzun;64;eau potable : territoire ex SMEAVO;52474;2024;76,0;2,2;6,8;66,4;conforme;391406;10794;47;118;626;Non vérifié
-64098;Bassillon-Vauzé;64;eau potable : Secteur Nord : Ex Territoire Lembeye et enclaves;280194;2024;73,4;1,3;3,7;65,7;conforme;168908;1797;77;143;64;Non vérifié
-64099;Bastanès;64;eau potable;52526;2024;75,7;1,2;3,8;65,8;conforme;116070;2071;59;118;96;Non vérifié
-64100;Bassussarry;64;eau potable : Nive-Adour/Errobi;52531;2024;84,1;2,3;12,4;67,5;conforme;663365;39651;32;75;3414;Non vérifié
-64101;Baudreix;64;eau potable;213709;2024;77,2;2,0;6,7;66,3;conforme;426320;8939;41;109;591;Non vérifié
-64102;Bayonne;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;863609;44;83;54306;Non vérifié
-64103;Bédeille;64;eau potable : Secteur Nord : Ex Territoire Lembeye et enclaves;280194;2024;73,4;1,3;3,7;65,7;conforme;168908;5672;77;143;202;Non vérifié
-64104;Bedous;64;eau potable;52291;2024;84,1;1,2;6,1;66,2;conforme;7258;7258;35;71;568;Non vérifié
-64105;Béguios;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;4119;44;83;259;Non vérifié
-64106;Béhasque-Lapiste;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;8031;44;83;505;Non vérifié
-64107;Béhorléguy;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;1050;44;83;66;Non vérifié
-64108;Bellocq;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;35470;104;172;933;Non vérifié
-64109;Bénéjacq;64;eau potable;213709;2024;77,2;2,0;6,7;66,3;conforme;426320;30446;41;109;2013;Non vérifié
-64111;Bentayou-Sérée;64;eau potable : SEcteur Nord : ex Territoire Montaner;213712;2024;71,8;1,3;3,4;65,7;conforme;63094;3271;84;158;107;Non vérifié
-64112;Bérenx;64;eau potable;52375;2024;92,3;0,3;3,3;65,7;conforme;2738;2738;18;33;428;Non vérifié
-64113;Bergouey-Viellenave;64;eau potable : Pays de Bidache;212612;2024;56,0;4,1;5,3;66,1;non conforme;541254;10466;233;296;123;Non vérifié
-64114;Bernadets;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;14043;66;137;587;Non vérifié
-64115;Berrogain-Laruns;64;eau potable : Pays de Soule;280614;2024;73,6;1,2;3,3;65,7;conforme;262787;6135;105;171;160;Non vérifié
-64116;Bescat;64;eau potable;52529;2024;77,8;1,2;4,4;65,9;conforme;105545;3911;42;101;255;Non vérifié
-64117;Bésingrand;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;3258;61;216;146;Non vérifié
-64118;Bétracq;64;eau potable : Secteur Nord : ex Crouseilles;280214;2024;82,5;0,6;2,7;65,5;conforme;17851;1142;64;81;49;Non vérifié
-64119;Beuste;64;eau potable;213709;2024;77,2;2,0;6,7;66,3;conforme;426320;10557;41;109;698;Non vérifié
-64120;Beyrie-sur-Joyeuse;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;8921;44;83;561;Non vérifié
-64121;Beyrie-en-Béarn;64;eau potable;52511;2024;68,2;1,9;4,1;65,8;conforme;351466;4804;67;175;197;Non vérifié
-64122;Biarritz;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;416744;44;83;26206;Non vérifié
-64123;Bidache;64;eau potable : Pays de Bidache;212612;2024;56,0;4,1;5,3;66,1;non conforme;541254;113850;233;296;1338;Non vérifié
-64124;Bidarray;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;11021;44;83;693;Non vérifié
-64125;Bidart;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;122275;44;83;7689;Non vérifié
-64126;Bidos;64;eau potable;52471;2024;73,2;3,7;10,1;67,0;conforme;62663;19568;49;133;1102;Non vérifié
-64127;Bielle;64;eau potable;52382;2024;53,6;12,2;14,1;67,8;non conforme;52991;52991;391;315;371;Non vérifié
-64128;Bilhères;64;eau potable;52384;2024;0,0;0,0;0,0;65,0;non conforme;0;0;0;;154;Non vérifié
-64129;Billère;64;eau potable : Territoire n°1;197904;2024;81,0;3,2;13,6;67,7;conforme;955424;187931;36;86;14384;Non vérifié
-64130;Biriatou;64;eau potable : Bidassoa;52548;2024;90,7;2,3;22,6;69,5;conforme;262142;9793;21;41;1297;Non vérifié
-64131;Biron;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;13277;61;216;595;Non vérifié
-64132;Bizanos;64;eau potable : Territoire n°1;197904;2024;81,0;3,2;13,6;67,7;conforme;955424;59996;36;86;4592;Non vérifié
-64133;Boeil-Bezing;64;eau potable;213709;2024;77,2;2,0;6,7;66,3;conforme;426320;20282;41;109;1341;Non vérifié
-64134;Bonloc;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;5979;44;83;376;Non vérifié
-64135;Bonnut;64;eau potable;52511;2024;68,2;1,9;4,1;65,8;conforme;351466;18949;67;175;777;Non vérifié
-64136;Borce;64;eau potable : borce;52386;2024;75,6;1,2;3,7;65,7;conforme;7621;7621;186;118;112;Non vérifié
-64137;Bordères;64;eau potable;213709;2024;77,2;2,0;6,7;66,3;conforme;426320;10497;41;109;694;Non vérifié
-64138;Bordes;64;eau potable;213709;2024;77,2;2,0;6,7;66,3;conforme;426320;43438;41;109;2872;Non vérifié
-64139;Bosdarros;64;eau potable : Territoire n°1;197904;2024;81,0;3,2;13,6;67,7;conforme;955424;12569;36;86;962;Non vérifié
-64140;Boucau;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;142615;44;83;8968;Non vérifié
-64141;Boueilh-Boueilho-Lasque;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;9138;66;137;382;Non vérifié
-64142;Bougarber;64;eau potable;52511;2024;68,2;1,9;4,1;65,8;conforme;351466;21680;67;175;889;Non vérifié
-64143;Bouillon;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;3804;66;137;159;Non vérifié
-64144;Boumourt;64;eau potable;52511;2024;68,2;1,9;4,1;65,8;conforme;351466;3682;67;175;151;Non vérifié
-64145;Bourdettes;64;eau potable;213709;2024;77,2;2,0;6,7;66,3;conforme;426320;7608;41;109;503;Non vérifié
-64146;Bournos;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;8086;66;137;338;Non vérifié
-64147;Briscous;64;eau potable : Nive-Adour/Errobi;52531;2024;84,1;2,3;12,4;67,5;conforme;663365;34436;32;75;2965;Non vérifié
-64148;Bruges-Capbis-Mifaget;64;eau potable;213709;2024;77,2;2,0;6,7;66,3;conforme;426320;12811;41;109;847;Non vérifié
-64149;Bugnein;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;4864;61;216;218;Non vérifié
-64150;Bunus;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;2115;44;83;133;Non vérifié
-64151;Burgaronne;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;3726;104;172;98;Non vérifié
-64152;Buros;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;48013;66;137;2007;Non vérifié
-64153;Burosse-Mendousse;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;1938;66;137;81;Non vérifié
-64154;Bussunarits-Sarrasquette;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;3340;44;83;210;Non vérifié
-64155;Bustince-Iriberry;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;1622;44;83;102;Non vérifié
-64156;Buziet;64;eau potable;52467;2024;71,5;1,7;4,2;65,8;conforme;151799;3178;18;161;479;Non vérifié
-64157;Buzy;64;eau potable : Territoire n°1;197904;2024;81,0;3,2;13,6;67,7;conforme;955424;13144;36;86;1006;Non vérifié
-64158;Cabidos;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;4091;66;137;171;Non vérifié
-64159;Cadillon;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;2273;66;137;95;Non vérifié
-64160;Cambo-les-Bains;64;eau potable : Nive-Adour/Errobi;52531;2024;84,1;2,3;12,4;67,5;conforme;663365;78512;32;75;6760;Non vérifié
-64161;Came;64;eau potable : Pays de Bidache;212612;2024;56,0;4,1;5,3;66,1;non conforme;541254;87132;233;296;1024;Non vérifié
-64162;Camou-Cihigue;64;eau potable : Pays de Soule;280614;2024;73,6;1,2;3,3;65,7;conforme;262787;4102;105;171;107;Non vérifié
-64165;Cardesse;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;6538;61;216;293;Non vérifié
-64166;Caro;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;2703;44;83;170;Non vérifié
-64167;Carrère;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;5287;66;137;221;Non vérifié
-64168;Carresse-Cassaber;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;25243;104;172;664;Non vérifié
-64170;Castagnède;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;7869;104;172;207;Non vérifié
-64171;Casteide-Cami;64;eau potable;52511;2024;68,2;1,9;4,1;65,8;conforme;351466;6682;67;175;274;Non vérifié
-64172;Casteide-Candau;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;6770;66;137;283;Non vérifié
-64173;Casteide-Doat;64;eau potable : SEcteur Nord : ex Territoire Montaner;213712;2024;71,8;1,3;3,4;65,7;conforme;63094;4860;84;158;159;Non vérifié
-64174;Castéra-Loubix;64;eau potable : SEcteur Nord : ex Territoire Montaner;213712;2024;71,8;1,3;3,4;65,7;conforme;63094;1559;84;158;51;Non vérifié
-64175;Castet;64;eau potable;52323;2024;59,2;2,9;4,2;65,8;non conforme;5451;5451;110;254;136;Non vérifié
-64176;Castetbon;64;eau potable;52526;2024;75,7;1,2;3,8;65,8;conforme;116070;3258;59;118;151;Non vérifié
-64177;Castétis;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;14392;61;216;645;Non vérifié
-64178;Castetnau-Camblong;64;eau potable;52526;2024;75,7;1,2;3,8;65,8;conforme;116070;9924;59;118;460;Non vérifié
-64179;Castetner;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;3124;61;216;140;Non vérifié
-64180;Castetpugon;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;5119;66;137;214;Non vérifié
-64181;Castillon (Canton d'Arthez-de-Béarn);64;eau potable;52511;2024;68,2;1,9;4,1;65,8;conforme;351466;8096;67;175;332;Non vérifié
-64182;Castillon (Canton de Lembeye);64;eau potable : Secteur Nord : Ex Territoire Lembeye et enclaves;280194;2024;73,4;1,3;3,7;65,7;conforme;168908;2331;77;143;83;Non vérifié
-64183;Caubios-Loos;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;16339;66;137;683;Non vérifié
-64184;Cescau;64;eau potable;52511;2024;68,2;1,9;4,1;65,8;conforme;351466;15364;67;175;630;Non vérifié
-64186;Charre;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;8440;104;172;222;Non vérifié
-64187;Charritte-de-Bas;64;eau potable : Pays de Soule;280614;2024;73,6;1,2;3,3;65,7;conforme;262787;9278;105;171;242;Non vérifié
-64188;Chéraute;64;eau potable : Pays de Soule;280614;2024;73,6;1,2;3,3;65,7;conforme;262787;39989;105;171;1043;Non vérifié
-64189;Ciboure;64;eau potable : Nivelle;280594;2024;91,3;1,4;15,0;68,0;conforme;272261;43363;20;36;5951;Non vérifié
-64190;Claracq;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;5670;66;137;237;Non vérifié
-64191;Coarraze;64;eau potable;213709;2024;77,2;2,0;6,7;66,3;conforme;426320;32926;41;109;2177;Non vérifié
-64192;Conchez-de-Béarn;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;2775;66;137;116;Non vérifié
-64193;Corbère-Abères;64;eau potable : Secteur Nord : Ex Territoire Lembeye et enclaves;280194;2024;73,4;1,3;3,7;65,7;conforme;168908;2696;77;143;96;Non vérifié
-64194;Coslédaà-Lube-Boast;64;eau potable : Secteur Nord : Ex Territoire Lembeye et enclaves;280194;2024;73,4;1,3;3,7;65,7;conforme;168908;10502;77;143;374;Non vérifié
-64195;Coublucq;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;2201;66;137;92;Non vérifié
-64196;Crouseilles;64;eau potable : Secteur Nord : ex Crouseilles;280214;2024;82,5;0,6;2,7;65,5;conforme;17851;2750;64;81;118;Non vérifié
-64197;Cuqueron;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;4217;61;216;189;Non vérifié
-64198;Denguin;64;eau potable;52480;2024;81,8;2,8;12,8;67,6;conforme;204400;23439;36;80;1765;Non vérifié
-64199;Diusse;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;3493;66;137;146;Non vérifié
-64200;Doazon;64;eau potable;52511;2024;68,2;1,9;4,1;65,8;conforme;351466;4560;67;175;187;Non vérifié
-64201;Dognen;64;eau potable;52526;2024;75,7;1,2;3,8;65,8;conforme;116070;4854;59;118;225;Non vérifié
-64202;Domezain-Berraute;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;7522;44;83;473;Non vérifié
-64203;Doumy;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;7775;66;137;325;Non vérifié
-64204;Eaux-Bonnes;64;eau potable;52394;2024;40,0;26,5;17,7;68,5;non conforme;261158;261158;3328;547;215;Non vérifié
-64205;Escos;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;9010;104;172;237;Non vérifié
-64206;Escot;64;eau potable;52295;2024;95,0;0,0;;;non calculable;;;;;118;Non vérifié
-64207;Escou;64;eau potable;52467;2024;71,5;1,7;4,2;65,8;conforme;151799;2846;18;161;429;Non vérifié
-64208;Escoubès;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;9952;66;137;416;Non vérifié
-64209;Escout;64;eau potable;52467;2024;71,5;1,7;4,2;65,8;conforme;151799;2806;18;161;423;Non vérifié
-64210;Escurès;64;eau potable : Secteur Nord : Ex Territoire Lembeye et enclaves;280194;2024;73,4;1,3;3,7;65,7;conforme;168908;4016;77;143;143;Non vérifié
-64211;Eslourenties-Daban;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;9091;66;137;380;Non vérifié
-64212;Espéchède;64;eau potable : territoire ex SMEAVO;52474;2024;76,0;2,2;6,8;66,4;conforme;391406;2845;47;118;165;Non vérifié
-64213;Espelette;64;eau potable : Nive-Adour/Errobi;52531;2024;84,1;2,3;12,4;67,5;conforme;663365;25028;32;75;2155;Non vérifié
-64214;Espès-Undurein;64;eau potable : Pays de Soule;280614;2024;73,6;1,2;3,3;65,7;conforme;262787;19400;105;171;506;Non vérifié
-64215;Espiute;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;4296;104;172;113;Non vérifié
-64216;Espoey;64;eau potable : territoire ex SMEAVO;52474;2024;76,0;2,2;6,8;66,4;conforme;391406;21088;47;118;1223;Non vérifié
-64217;Esquiule;64;eau potable;332154;2024;74,8;0,5;1,5;65,3;conforme;11206;11206;59;145;522;Non vérifié
-64218;Estérençuby;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;4818;44;83;303;Non vérifié
-64219;Estialescq;64;eau potable;52467;2024;71,5;1,7;4,2;65,8;conforme;151799;1705;18;161;257;Non vérifié
-64220;Estos;64;eau potable;52473;2024;51,9;5,2;5,6;66,1;non conforme;130962;20838;119;338;481;Non vérifié
-64221;Etcharry;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;2290;44;83;144;Non vérifié
-64222;Etchebar;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;1193;44;83;75;Non vérifié
-64223;Etsaut;64;eau potable;52297;2024;75,5;;4,7;65,9;conforme;;;;;74;Non vérifié
-64224;Eysus;64;eau potable;52398;2024;61,5;2,5;4,0;65,8;non conforme;15430;15430;68;231;625;Non vérifié
-64225;Ance Féas;64;eau potable : Ance-Féas;213691;2024;72,1;1,5;3,8;65,8;conforme;19162;19162;84;146;624;Non vérifié
-64226;Fichous-Riumayou;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;4952;66;137;207;Non vérifié
-64227;Gabaston;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;16100;66;137;673;Non vérifié
-64228;Gabat;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;4357;44;83;274;Non vérifié
-64229;Gamarthe;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;1988;44;83;125;Non vérifié
-64230;Gan;64;eau potable : Territoire n°1;197904;2024;81,0;3,2;13,6;67,7;conforme;955424;74158;36;86;5676;Non vérifié
-64231;Garindein;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;7268;44;83;457;Non vérifié
-64232;Garlède-Mondebat;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;5263;66;137;220;Non vérifié
-64233;Garlin;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;32535;66;137;1360;Non vérifié
-64234;Garos;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;6268;66;137;262;Non vérifié
-64235;Garris;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;5089;44;83;320;Non vérifié
-64236;Gayon;64;eau potable : Secteur Nord : Ex Territoire Lembeye et enclaves;280194;2024;73,4;1,3;3,7;65,7;conforme;168908;1601;77;143;57;Non vérifié
-64237;Gelos;64;eau potable : Territoire n°1;197904;2024;81,0;3,2;13,6;67,7;conforme;955424;47518;36;86;3637;Non vérifié
-64238;Ger;64;eau potable : territoire ex SMEAVO;52474;2024;76,0;2,2;6,8;66,4;conforme;391406;36847;47;118;2137;Non vérifié
-64239;Gerderest;64;eau potable : Secteur Nord : Ex Territoire Lembeye et enclaves;280194;2024;73,4;1,3;3,7;65,7;conforme;168908;3959;77;143;141;Non vérifié
-64240;Gère-Bélesten;64;eau potable;52402;2024;90,0;0,9;26,7;70,3;conforme;2562;2562;37;12;189;Non vérifié
-64241;Géronce;64;eau potable;52472;2024;81,3;1,5;6,4;66,3;conforme;25185;6030;34;86;492;Non vérifié
-64242;Gestas;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;2813;104;172;74;Non vérifié
-64243;Géus-d'Arzacq;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;5598;66;137;234;Non vérifié
-64244;Geüs-d'Oloron;64;eau potable;52472;2024;81,3;1,5;6,4;66,3;conforme;25185;3199;34;86;261;Non vérifié
-64245;Goès;64;eau potable;52534;2024;87,8;1,1;8,2;66,6;conforme;4593;4593;24;49;520;Non vérifié
-64246;Gomer;64;eau potable : territoire ex SMEAVO;52474;2024;76,0;2,2;6,8;66,4;conforme;391406;5138;47;118;298;Non vérifié
-64247;Gotein-Libarrenx;64;eau potable : Pays de Soule;280614;2024;73,6;1,2;3,3;65,7;conforme;262787;18365;105;171;479;Non vérifié
-64249;Guéthary;64;eau potable : Nivelle;280594;2024;91,3;1,4;15,0;68,0;conforme;272261;9516;20;36;1306;Non vérifié
-64250;Guiche;64;eau potable : Pays de Bidache;212612;2024;56,0;4,1;5,3;66,1;non conforme;541254;91471;233;296;1075;Non vérifié
-64251;Guinarthe-Parenties;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;8630;104;172;227;Non vérifié
-64252;Gurmençon;64;eau potable;52471;2024;73,2;3,7;10,1;67,0;conforme;62663;15395;49;133;867;Non vérifié
-64253;Gurs;64;eau potable;52526;2024;75,7;1,2;3,8;65,8;conforme;116070;9018;59;118;418;Non vérifié
-64254;Hagetaubin;64;eau potable;52511;2024;68,2;1,9;4,1;65,8;conforme;351466;13852;67;175;568;Non vérifié
-64255;Halsou;64;eau potable : Nive-Adour/Errobi;52531;2024;84,1;2,3;12,4;67,5;conforme;663365;6841;32;75;589;Non vérifié
-64256;Hasparren;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;121273;44;83;7626;Non vérifié
-64257;Haut-de-Bosdarros;64;eau potable;213709;2024;77,2;2,0;6,7;66,3;conforme;426320;4870;41;109;322;Non vérifié
-64258;Haux;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;1336;44;83;84;Non vérifié
-64259;Hélette;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;12054;44;83;758;Non vérifié
-64260;Hendaye;64;eau potable : Bidassoa;52548;2024;90,7;2,3;22,6;69,5;conforme;262142;136681;21;41;18102;Non vérifié
-64261;Herrère;64;eau potable;52467;2024;71,5;1,7;4,2;65,8;conforme;151799;2634;18;161;397;Non vérifié
-64262;Higuères-Souye;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;6794;66;137;284;Non vérifié
-64263;L' Hôpital-d'Orion;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;5170;104;172;136;Non vérifié
-64264;L' Hôpital-Saint-Blaise;64;eau potable : L'Hôpital-St-Blaise (Ex SIAEP Navarrenx);261814;2024;70,3;0,9;2,0;65,4;conforme;1442;1442;72;161;55;Non vérifié
-64265;Hosta;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;1590;44;83;100;Non vérifié
-64266;Hours;64;eau potable : territoire ex SMEAVO;52474;2024;76,0;2,2;6,8;66,4;conforme;391406;3983;47;118;231;Non vérifié
-64267;Ibarrolle;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;1161;44;83;73;Non vérifié
-64268;Idaux-Mendy;64;eau potable : Pays de Soule;280614;2024;73,6;1,2;3,3;65,7;conforme;262787;10237;105;171;267;Non vérifié
-64269;Idron;64;eau potable : Territoire n°1;197904;2024;81,0;3,2;13,6;67,7;conforme;955424;69769;36;86;5340;Non vérifié
-64270;Igon;64;eau potable;213709;2024;77,2;2,0;6,7;66,3;conforme;426320;15548;41;109;1028;Non vérifié
-64271;Iholdy;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;8746;44;83;550;Non vérifié
-64272;Ilharre;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;2338;44;83;147;Non vérifié
-64273;Irissarry;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;13835;44;83;870;Non vérifié
-64274;Irouléguy;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;5789;44;83;364;Non vérifié
-64275;Ispoure;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;10607;44;83;667;Non vérifié
-64277;Isturits;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;8540;44;83;537;Non vérifié
-64279;Itxassou;64;eau potable : Nive-Adour/Errobi;52531;2024;84,1;2,3;12,4;67,5;conforme;663365;26109;32;75;2248;Non vérifié
-64280;Izeste;64;eau potable;52529;2024;77,8;1,2;4,4;65,9;conforme;105545;6780;42;101;442;Non vérifié
-64281;Jasses;64;eau potable;52526;2024;75,7;1,2;3,8;65,8;conforme;116070;3064;59;118;142;Non vérifié
-64282;Jatxou;64;eau potable : Nive-Adour/Errobi;52531;2024;84,1;2,3;12,4;67,5;conforme;663365;14715;32;75;1267;Non vérifié
-64283;Jaxu;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;3276;44;83;206;Non vérifié
-64284;Jurançon;64;eau potable : Territoire n°1;197904;2024;81,0;3,2;13,6;67,7;conforme;955424;91980;36;86;7040;Non vérifié
-64285;Juxue;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;3181;44;83;200;Non vérifié
-64286;Laà-Mondrans;64;eau potable;52470;2024;76,2;1,2;3,8;65,8;conforme;46428;1575;10;119;423;Non vérifié
-64287;Laàs;64;eau potable;52526;2024;75,7;1,2;3,8;65,8;conforme;116070;3020;59;118;140;Non vérifié
-64288;Labastide-Cézéracq;64;eau potable;52480;2024;81,8;2,8;12,8;67,6;conforme;204400;7755;36;80;584;Non vérifié
-64289;La Bastide-Clairence;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;15903;44;83;1000;Non vérifié
-64290;Labastide-Monréjeau;64;eau potable;52511;2024;68,2;1,9;4,1;65,8;conforme;351466;14413;67;175;591;Non vérifié
-64291;Labastide-Villefranche;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;13040;104;172;343;Non vérifié
-64292;Labatmale;64;eau potable;213709;2024;77,2;2,0;6,7;66,3;conforme;426320;3887;41;109;257;Non vérifié
-64293;Labatut-Figuières;64;eau potable : SEcteur Nord : ex Territoire Montaner;213712;2024;71,8;1,3;3,4;65,7;conforme;63094;5258;84;158;172;Non vérifié
-64294;Labets-Biscay;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;2290;44;83;144;Non vérifié
-64295;Labeyrie;64;eau potable;52511;2024;68,2;1,9;4,1;65,8;conforme;351466;2512;67;175;103;Non vérifié
-64296;Lacadée;64;eau potable;52511;2024;68,2;1,9;4,1;65,8;conforme;351466;3536;67;175;145;Non vérifié
-64297;Lacarre;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;2719;44;83;171;Non vérifié
-64298;Lacarry-Arhan-Charritte-de-Haut;64;eau potable : Pays de Soule;280614;2024;73,6;1,2;3,3;65,7;conforme;262787;4179;105;171;109;Non vérifié
-64299;Lacommande;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;3838;61;216;172;Non vérifié
-64300;Lacq;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;23117;61;216;1036;Non vérifié
-64301;Lagor;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;25014;61;216;1121;Non vérifié
-64302;Lagos;64;eau potable;213709;2024;77,2;2,0;6,7;66,3;conforme;426320;7154;41;109;473;Non vérifié
-64303;Laguinge-Restoue;64;eau potable : Pays de Soule;280614;2024;73,6;1,2;3,3;65,7;conforme;262787;5943;105;171;155;Non vérifié
-64304;Lahonce;64;eau potable : Nive-Adour/Errobi;52531;2024;84,1;2,3;12,4;67,5;conforme;663365;31823;32;75;2740;Non vérifié
-64305;Lahontan;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;20377;104;172;536;Non vérifié
-64306;Lahourcade;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;15820;61;216;709;Non vérifié
-64307;Lalongue;64;eau potable : Secteur Nord : Ex Territoire Lembeye et enclaves;280194;2024;73,4;1,3;3,7;65,7;conforme;168908;5644;77;143;201;Non vérifié
-64308;Lalonquette;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;6244;66;137;261;Non vérifié
-64309;Lamayou;64;eau potable : SEcteur Nord : ex Territoire Montaner;213712;2024;71,8;1,3;3,4;65,7;conforme;63094;6542;84;158;214;Non vérifié
-64310;Lanne-en-Barétous;64;eau potable;52319;2024;32,9;4,9;2,4;65,5;non conforme;86027;86027;490;742;481;Non vérifié
-64311;Lannecaube;64;eau potable : Secteur Nord : Ex Territoire Lembeye et enclaves;280194;2024;73,4;1,3;3,7;65,7;conforme;168908;4072;77;143;145;Non vérifié
-64312;Lanneplaà;64;eau potable;52470;2024;76,2;1,2;3,8;65,8;conforme;46428;1121;10;119;301;Non vérifié
-64313;Lantabat;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;4723;44;83;297;Non vérifié
-64314;Larceveau-Arros-Cibits;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;7140;44;83;449;Non vérifié
-64315;Laroin;64;eau potable : Territoire n°1;197904;2024;81,0;3,2;13,6;67,7;conforme;955424;13457;36;86;1030;Non vérifié
-64316;Larrau;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;2847;44;83;179;Non vérifié
-64317;Larressore;64;eau potable : Nive-Adour/Errobi;52531;2024;84,1;2,3;12,4;67,5;conforme;663365;25121;32;75;2163;Non vérifié
-64318;Larreule;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;4641;66;137;194;Non vérifié
-64319;Larribar-Sorhapuru;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;2974;44;83;187;Non vérifié
-64320;Laruns;64;eau potable;52525;2024;53,8;8,0;9,4;66,9;non conforme;109354;109354;255;312;1177;Non vérifié
-64321;Lasclaveries;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;5885;66;137;246;Non vérifié
-64322;Lasse;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;5311;44;83;334;Non vérifié
-64323;Lasserre;64;eau potable : Secteur Nord : ex Crouseilles;280214;2024;82,5;0,6;2,7;65,5;conforme;17851;2680;64;81;115;Non vérifié
-64324;Lasseube;64;eau potable : Territoire n°1;197904;2024;81,0;3,2;13,6;67,7;conforme;955424;22668;36;86;1735;Non vérifié
-64325;Lasseubetat;64;eau potable : Territoire n°1;197904;2024;81,0;3,2;13,6;67,7;conforme;955424;2456;36;86;188;Non vérifié
-64326;Lay-Lamidou;64;eau potable;52526;2024;75,7;1,2;3,8;65,8;conforme;116070;2805;59;118;130;Non vérifié
-64327;Lecumberry;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;3117;44;83;196;Non vérifié
-64328;Ledeuix;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;22961;61;216;1029;Non vérifié
-64329;Lée;64;eau potable : territoire ex SMEAVO;52474;2024;76,0;2,2;6,8;66,4;conforme;391406;21915;47;118;1271;Non vérifié
-64330;Lées-Athas;64;eau potable;52299;2024;68,0;4,5;9,6;66,9;conforme;14782;14782;177;170;229;Non vérifié
-64331;Lembeye;64;eau potable : Secteur Nord : Ex Territoire Lembeye et enclaves;280194;2024;73,4;1,3;3,7;65,7;conforme;168908;23532;77;143;838;Non vérifié
-64332;Lème;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;4019;66;137;168;Non vérifié
-64334;Léren;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;7984;104;172;210;Non vérifié
-64335;Lescar;64;eau potable;52480;2024;81,8;2,8;12,8;67,6;conforme;204400;125559;36;80;9455;Non vérifié
-64336;Lescun;64;eau potable;52301;2024;29,8;10,6;4,5;65,9;non conforme;123808;123808;2081;860;163;Non vérifié
-64337;Lespielle;64;eau potable : Secteur Nord : Ex Territoire Lembeye et enclaves;280194;2024;73,4;1,3;3,7;65,7;conforme;168908;4268;77;143;152;Non vérifié
-64338;Lespourcy;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;4258;66;137;178;Non vérifié
-64339;Lestelle-Bétharram;64;eau potable;213709;2024;77,2;2,0;6,7;66,3;conforme;426320;11918;41;109;788;Non vérifié
-64340;Lichans-Sunhar;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;1336;44;83;84;Non vérifié
-64341;Lichos;64;eau potable : Pays de Soule;280614;2024;73,6;1,2;3,3;65,7;conforme;262787;4869;105;171;127;Non vérifié
-64342;Licq-Athérey;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;3085;44;83;194;Non vérifié
-64343;Limendous;64;eau potable : territoire ex SMEAVO;52474;2024;76,0;2,2;6,8;66,4;conforme;391406;11897;47;118;690;Non vérifié
-64344;Livron;64;eau potable : territoire ex SMEAVO;52474;2024;76,0;2,2;6,8;66,4;conforme;391406;6552;47;118;380;Non vérifié
-64345;Lohitzun-Oyhercq;64;eau potable : Pays de Soule;280614;2024;73,6;1,2;3,3;65,7;conforme;262787;7361;105;171;192;Non vérifié
-64346;Lombia;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;4928;66;137;206;Non vérifié
-64347;Lonçon;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;5287;66;137;221;Non vérifié
-64348;Lons;64;eau potable : Territoire n°1;197904;2024;81,0;3,2;13,6;67,7;conforme;955424;177766;36;86;13606;Non vérifié
-64349;Loubieng;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;10956;61;216;491;Non vérifié
-64350;Louhossoa;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;14090;44;83;886;Non vérifié
-64351;Lourdios-Ichère;64;eau potable;52303;2024;59,6;2,2;3,2;65,6;non conforme;19079;19079;360;253;145;Non vérifié
-64352;Lourenties;64;eau potable : territoire ex SMEAVO;52474;2024;76,0;2,2;6,8;66,4;conforme;391406;7363;47;118;427;Non vérifié
-64353;Louvie-Juzon;64;eau potable;52529;2024;77,8;1,2;4,4;65,9;conforme;105545;16228;42;101;1058;Non vérifié
-64354;Louvie-Soubiron;64;eau potable;52423;2024;82,2;1,0;4,7;65,9;conforme;2347;2347;48;78;133;Non vérifié
-64355;Louvigny;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;3325;66;137;139;Non vérifié
-64356;Luc-Armau;64;eau potable : Secteur Nord : Ex Territoire Lembeye et enclaves;280194;2024;73,4;1,3;3,7;65,7;conforme;168908;2920;77;143;104;Non vérifié
-64357;Lucarré;64;eau potable : Secteur Nord : Ex Territoire Lembeye et enclaves;280194;2024;73,4;1,3;3,7;65,7;conforme;168908;1797;77;143;64;Non vérifié
-64358;Lucgarier;64;eau potable : territoire ex SMEAVO;52474;2024;76,0;2,2;6,8;66,4;conforme;391406;4707;47;118;273;Non vérifié
-64359;Lucq-de-Béarn;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;20640;61;216;925;Non vérifié
-64360;Lurbe-Saint-Christau;64;eau potable;52425;2024;64,3;3,2;5,8;66,2;non conforme;11096;11096;147;201;207;Non vérifié
-64361;Lussagnet-Lusson;64;eau potable : Secteur Nord : Ex Territoire Lembeye et enclaves;280194;2024;73,4;1,3;3,7;65,7;conforme;168908;5139;77;143;183;Non vérifié
-64362;Luxe-Sumberraute;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;6123;44;83;385;Non vérifié
-64363;Lys;64;eau potable;52529;2024;77,8;1,2;4,4;65,9;conforme;105545;4939;42;101;322;Non vérifié
-64364;Macaye;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;9430;44;83;593;Non vérifié
-64365;Malaussanne;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;10765;66;137;450;Non vérifié
-64366;Mascaraàs-Haron;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;2608;66;137;109;Non vérifié
-64367;Maslacq;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;19881;61;216;891;Non vérifié
-64368;Masparraute;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;4198;44;83;264;Non vérifié
-64369;Maspie-Lalonquère-Juillacq;64;eau potable : Secteur Nord : Ex Territoire Lembeye et enclaves;280194;2024;73,4;1,3;3,7;65,7;conforme;168908;6543;77;143;233;Non vérifié
-64370;Maucor;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;13492;66;137;564;Non vérifié
-64371;Mauléon-Licharre;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;47263;44;83;2972;Non vérifié
-64372;Maure;64;eau potable : SEcteur Nord : ex Territoire Montaner;213712;2024;71,8;1,3;3,4;65,7;conforme;63094;2751;84;158;90;Non vérifié
-64373;Mazères-Lezons;64;eau potable : Territoire n°1;197904;2024;81,0;3,2;13,6;67,7;conforme;955424;24105;36;86;1845;Non vérifié
-64374;Mazerolles;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;28564;66;137;1194;Non vérifié
-64375;Méharin;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;4357;44;83;274;Non vérifié
-64376;Meillon;64;eau potable : Territoire n°1;197904;2024;81,0;3,2;13,6;67,7;conforme;955424;12503;36;86;957;Non vérifié
-64377;Mendionde;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;13581;44;83;854;Non vérifié
-64378;Menditte;64;eau potable : Pays de Soule;280614;2024;73,6;1,2;3,3;65,7;conforme;262787;7975;105;171;208;Non vérifié
-64379;Mendive;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;2735;44;83;172;Non vérifié
-64380;Méracq;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;5598;66;137;234;Non vérifié
-64381;Méritein;64;eau potable;52526;2024;75,7;1,2;3,8;65,8;conforme;116070;6019;59;118;279;Non vérifié
-64382;Mesplède;64;eau potable;52511;2024;68,2;1,9;4,1;65,8;conforme;351466;7926;67;175;325;Non vérifié
-64383;Mialos;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;3397;66;137;142;Non vérifié
-64385;Miossens-Lanusse;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;6890;66;137;288;Non vérifié
-64386;Mirepeix;64;eau potable;213709;2024;77,2;2,0;6,7;66,3;conforme;426320;18982;41;109;1255;Non vérifié
-64387;Momas;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;14449;66;137;604;Non vérifié
-64388;Momy;64;eau potable : Secteur Nord : Ex Territoire Lembeye et enclaves;280194;2024;73,4;1,3;3,7;65,7;conforme;168908;3201;77;143;114;Non vérifié
-64389;Monassut-Audiracq;64;eau potable : Secteur Nord : Ex Territoire Lembeye et enclaves;280194;2024;73,4;1,3;3,7;65,7;conforme;168908;10362;77;143;369;Non vérifié
-64390;Moncaup;64;eau potable : Secteur Nord : ex Crouseilles;280214;2024;82,5;0,6;2,7;65,5;conforme;17851;3635;64;81;156;Non vérifié
-64391;Moncayolle-Larrory-Mendibieu;64;eau potable : Pays de Soule;280614;2024;73,6;1,2;3,3;65,7;conforme;262787;10889;105;171;284;Non vérifié
-64392;Moncla;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;2153;66;137;90;Non vérifié
-64393;Monein;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;99207;61;216;4446;Non vérifié
-64394;Monpezat;64;eau potable : Secteur Nord : ex Crouseilles;280214;2024;82,5;0,6;2,7;65,5;conforme;17851;1864;64;81;80;Non vérifié
-64395;Monségur;64;eau potable : SEcteur Nord : ex Territoire Montaner;213712;2024;71,8;1,3;3,4;65,7;conforme;63094;4157;84;158;136;Non vérifié
-64396;Mont;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;25571;61;216;1146;Non vérifié
-64397;Montagut;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;2775;66;137;116;Non vérifié
-64398;Montaner;64;eau potable : SEcteur Nord : ex Territoire Montaner;213712;2024;71,8;1,3;3,4;65,7;conforme;63094;12472;84;158;408;Non vérifié
-64399;Montardon;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;57869;66;137;2419;Non vérifié
-64400;Montaut;64;eau potable;213709;2024;77,2;2,0;6,7;66,3;conforme;426320;16940;41;109;1120;Non vérifié
-64401;Mont-Disse;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;1938;66;137;81;Non vérifié
-64403;Montfort;64;eau potable;52526;2024;75,7;1,2;3,8;65,8;conforme;116070;4229;59;118;196;Non vérifié
-64404;Montory;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;5057;44;83;318;Non vérifié
-64405;Morlaàs;64;eau potable : Territoire n°1;197904;2024;81,0;3,2;13,6;67,7;conforme;955424;57147;36;86;4374;Non vérifié
-64406;Morlanne;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;14617;66;137;611;Non vérifié
-64407;Mouguerre;64;eau potable : Nive-Adour/Errobi;52531;2024;84,1;2,3;12,4;67,5;conforme;663365;63042;32;75;5428;Non vérifié
-64408;Mouhous;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;1794;66;137;75;Non vérifié
-64409;Moumour;64;eau potable;52472;2024;81,3;1,5;6,4;66,3;conforme;25185;9976;34;86;814;Non vérifié
-64410;Mourenx;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;127076;61;216;5695;Non vérifié
-64411;Musculdy;64;eau potable : Pays de Soule;280614;2024;73,6;1,2;3,3;65,7;conforme;262787;8435;105;171;220;Non vérifié
-64412;Nabas;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;3079;104;172;81;Non vérifié
-64413;Narcastet;64;eau potable : Territoire n°1;197904;2024;81,0;3,2;13,6;67,7;conforme;955424;9838;36;86;753;Non vérifié
-64414;Narp;64;eau potable;52526;2024;75,7;1,2;3,8;65,8;conforme;116070;2632;59;118;122;Non vérifié
-64415;Navailles-Angos;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;36961;66;137;1545;Non vérifié
-64416;Navarrenx;64;eau potable;52526;2024;75,7;1,2;3,8;65,8;conforme;116070;22480;59;118;1042;Non vérifié
-64417;Nay;64;eau potable;213709;2024;77,2;2,0;6,7;66,3;conforme;426320;48157;41;109;3184;Non vérifié
-64418;Noguères;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;2700;61;216;121;Non vérifié
-64419;Nousty;64;eau potable : territoire ex SMEAVO;52474;2024;76,0;2,2;6,8;66,4;conforme;391406;27105;47;118;1572;Non vérifié
-64420;Ogenne-Camptort;64;eau potable;52526;2024;75,7;1,2;3,8;65,8;conforme;116070;5199;59;118;241;Non vérifié
-64421;Ogeu-les-Bains;64;eau potable;52467;2024;71,5;1,7;4,2;65,8;conforme;151799;8557;18;161;1290;Non vérifié
-64422;Oloron-Sainte-Marie;64;eau potable;52467;2024;71,5;1,7;4,2;65,8;conforme;151799;70875;18;161;10684;Non vérifié
-64423;Oraàs;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;6995;104;172;184;Non vérifié
-64424;Ordiarp;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;8699;44;83;547;Non vérifié
-64425;Orègue;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;8444;44;83;531;Non vérifié
-64426;Orin;64;eau potable;52472;2024;81,3;1,5;6,4;66,3;conforme;25185;3297;34;86;269;Non vérifié
-64427;Orion;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;5627;104;172;148;Non vérifié
-64428;Orriule;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;5322;104;172;140;Non vérifié
-64429;Orsanco;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;1622;44;83;102;Non vérifié
-64430;Orthez;64;eau potable;52470;2024;76,2;1,2;3,8;65,8;conforme;46428;40518;10;119;10881;Non vérifié
-64431;Os-Marsillon;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;12206;61;216;547;Non vérifié
-64432;Ossas-Suhare;64;eau potable : Pays de Soule;280614;2024;73,6;1,2;3,3;65,7;conforme;262787;3489;105;171;91;Non vérifié
-64433;Osse-en-Aspe;64;eau potable;52304;2024;63,5;3,6;6,2;66,2;non conforme;12483;12483;104;210;330;Non vérifié
-64434;Ossenx;64;eau potable;52526;2024;75,7;1,2;3,8;65,8;conforme;116070;1100;59;118;51;Non vérifié
-64435;Osserain-Rivareyte;64;eau potable : Osserain-Rivareyte (Ex SIAEP Saleys);280634;2024;66,2;5,0;9,8;67,0;non conforme;17976;17976;210;320;235;Non vérifié
-64436;Ossès;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;13963;44;83;878;Non vérifié
-64437;Ostabat-Asme;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;3594;44;83;226;Non vérifié
-64438;Ouillon;64;eau potable : territoire ex SMEAVO;52474;2024;76,0;2,2;6,8;66,4;conforme;391406;9535;47;118;553;Non vérifié
-64439;Ousse;64;eau potable : territoire ex SMEAVO;52474;2024;76,0;2,2;6,8;66,4;conforme;391406;28830;47;118;1672;Non vérifié
-64440;Ozenx-Montestrucq;64;eau potable;52470;2024;76,2;1,2;3,8;65,8;conforme;46428;1385;10;119;372;Non vérifié
-64441;Pagolle;64;eau potable : Pays de Soule;280614;2024;73,6;1,2;3,3;65,7;conforme;262787;9432;105;171;246;Non vérifié
-64442;Parbayse;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;7051;61;216;316;Non vérifié
-64443;Pardies;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;20752;61;216;930;Non vérifié
-64444;Pardies-Piétat;64;eau potable;213709;2024;77,2;2,0;6,7;66,3;conforme;426320;6564;41;109;434;Non vérifié
-64445;Pau;64;eau potable;52446;2024;77,8;14,1;49,5;74,9;conforme;1595415;1595415;54;132;80441;Non vérifié
-64446;Peyrelongue-Abos;64;eau potable : Secteur Nord : Ex Territoire Lembeye et enclaves;280194;2024;73,4;1,3;3,7;65,7;conforme;168908;3903;77;143;139;Non vérifié
-64447;Piets-Plasence-Moustrou;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;3182;66;137;133;Non vérifié
-64448;Poey-de-Lescar;64;eau potable;52480;2024;81,8;2,8;12,8;67,6;conforme;204400;24913;36;80;1876;Non vérifié
-64449;Poey-d'Oloron;64;eau potable;52473;2024;51,9;5,2;5,6;66,1;non conforme;130962;7061;119;338;163;Non vérifié
-64450;Pomps;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;7057;66;137;295;Non vérifié
-64451;Ponson-Debat-Pouts;64;eau potable : SEcteur Nord : ex Territoire Montaner;213712;2024;71,8;1,3;3,4;65,7;conforme;63094;2873;84;158;94;Non vérifié
-64452;Ponson-Dessus;64;eau potable : SEcteur Nord : ex Territoire Montaner;213712;2024;71,8;1,3;3,4;65,7;conforme;63094;7978;84;158;261;Non vérifié
-64453;Pontacq;64;eau potable : territoire ex SMEAVO;52474;2024;76,0;2,2;6,8;66,4;conforme;391406;50435;47;118;2925;Non vérifié
-64454;Pontiacq-Viellepinte;64;eau potable : SEcteur Nord : ex Territoire Montaner;213712;2024;71,8;1,3;3,4;65,7;conforme;63094;5197;84;158;170;Non vérifié
-64455;Portet;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;3852;66;137;161;Non vérifié
-64456;Pouliacq;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;1172;66;137;49;Non vérifié
-64457;Poursiugues-Boucoue;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;4378;66;137;183;Non vérifié
-64458;Préchacq-Josbaig;64;eau potable;52469;2024;76,8;1,7;5,5;66,1;conforme;15450;6390;59;115;299;Non vérifié
-64459;Préchacq-Navarrenx;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;3972;61;216;178;Non vérifié
-64460;Précilhon;64;eau potable;52448;2024;96,5;0,3;7,7;66,5;conforme;819;819;5;14;409;Non vérifié
-64461;Puyoô;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;40944;104;172;1077;Non vérifié
-64462;Ramous;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;17868;104;172;470;Non vérifié
-64463;Rébénacq;64;eau potable;52529;2024;77,8;1,2;4,4;65,9;conforme;105545;9801;42;101;639;Non vérifié
-64464;Ribarrouy;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;1890;66;137;79;Non vérifié
-64465;Riupeyrous;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;5741;66;137;240;Non vérifié
-64466;Rivehaute;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;10303;104;172;271;Non vérifié
-64467;Rontignon;64;eau potable : Territoire n°1;197904;2024;81,0;3,2;13,6;67,7;conforme;955424;11432;36;86;875;Non vérifié
-64468;Roquiague;64;eau potable : Pays de Soule;280614;2024;73,6;1,2;3,3;65,7;conforme;262787;4639;105;171;121;Non vérifié
-64469;Saint-Abit;64;eau potable;213709;2024;77,2;2,0;6,7;66,3;conforme;426320;4447;41;109;294;Non vérifié
-64470;Saint-Armou;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;14569;66;137;609;Non vérifié
-64471;Saint-Boès;64;eau potable;52449;2024;91,8;0,3;3,6;65,7;conforme;1862;1862;14;31;376;Non vérifié
-64472;Saint-Castin;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;20621;66;137;862;Non vérifié
-64473;Sainte-Colome;64;eau potable;52529;2024;77,8;1,2;4,4;65,9;conforme;105545;5430;42;101;354;Non vérifié
-64474;Saint-Dos;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;6083;104;172;160;Non vérifié
-64475;Sainte-Engrâce;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;2688;44;83;169;Non vérifié
-64476;Saint-Esteben;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;7029;44;83;442;Non vérifié
-64477;Saint-Étienne-de-Baïgorry;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;24283;44;83;1527;Non vérifié
-64478;Saint-Faust;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;16467;61;216;738;Non vérifié
-64479;Saint-Girons-en-Béarn;64;eau potable;52511;2024;68,2;1,9;4,1;65,8;conforme;351466;4536;67;175;186;Non vérifié
-64480;Saint-Gladie-Arrive-Munein;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;7337;104;172;193;Non vérifié
-64481;Saint-Goin;64;eau potable;52472;2024;81,3;1,5;6,4;66,3;conforme;25185;2684;34;86;219;Non vérifié
-64482;Saint-Jammes;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;15358;66;137;642;Non vérifié
-64483;Saint-Jean-de-Luz;64;eau potable : Nivelle;280594;2024;91,3;1,4;15,0;68,0;conforme;272261;108259;20;36;14857;Non vérifié
-64484;Saint-Jean-le-Vieux;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;14312;44;83;900;Non vérifié
-64485;Saint-Jean-Pied-de-Port;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;23520;44;83;1479;Non vérifié
-64486;Saint-Jean-Poudge;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;1890;66;137;79;Non vérifié
-64487;Saint-Just-Ibarre;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;3133;44;83;197;Non vérifié
-64488;Saint-Laurent-Bretagne;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;10741;66;137;449;Non vérifié
-64489;Saint-Martin-d'Arberoue;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;5566;44;83;350;Non vérifié
-64490;Saint-Martin-d'Arrossa;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;8635;44;83;543;Non vérifié
-64491;Saint-Médard;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;4928;66;137;206;Non vérifié
-64492;Saint-Michel;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;4612;44;83;290;Non vérifié
-64493;Saint-Palais;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;35049;44;83;2204;Non vérifié
-64494;Saint-Pé-de-Léren;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;10303;104;172;271;Non vérifié
-64495;Saint-Pée-sur-Nivelle;64;eau potable : Nivelle;280594;2024;91,3;1,4;15,0;68,0;conforme;272261;52931;20;36;7264;Non vérifié
-64496;Saint-Pierre-d'Irube;64;eau potable : Nive-Adour/Errobi;52531;2024;84,1;2,3;12,4;67,5;conforme;663365;68523;32;75;5900;Non vérifié
-64498;Saint-Vincent;64;eau potable;213709;2024;77,2;2,0;6,7;66,3;conforme;426320;6080;41;109;402;Non vérifié
-64499;Salies-de-Béarn;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;180276;104;172;4742;Non vérifié
-64500;Salles-Mongiscard;64;eau potable;52458;2024;80,3;0,9;3,8;65,8;conforme;4928;4928;43;86;315;Non vérifié
-64501;Sallespisse;64;eau potable;52511;2024;68,2;1,9;4,1;65,8;conforme;351466;14413;67;175;591;Non vérifié
-64502;Sames;64;eau potable : Pays de Bidache;212612;2024;56,0;4,1;5,3;66,1;non conforme;541254;60328;233;296;709;Non vérifié
-64503;Samsons-Lion;64;eau potable : Secteur Nord : Ex Territoire Lembeye et enclaves;280194;2024;73,4;1,3;3,7;65,7;conforme;168908;2780;77;143;99;Non vérifié
-64504;Sare;64;eau potable : Nivelle;280594;2024;91,3;1,4;15,0;68,0;conforme;272261;20133;20;36;2763;Non vérifié
-64505;Sarpourenx;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;6359;61;216;285;Non vérifié
-64506;Sarrance;64;eau potable;52305;2024;45,9;3,1;2,6;65,5;non conforme;26024;26024;469;435;152;Non vérifié
-64507;Saubole;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;3732;66;137;156;Non vérifié
-64508;Saucède;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;2789;61;216;125;Non vérifié
-64509;Sauguis-Saint-Étienne;64;eau potable : Pays de Soule;280614;2024;73,6;1,2;3,3;65,7;conforme;262787;6595;105;171;172;Non vérifié
-64510;Sault-de-Navailles;64;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;27464;77;115;976;Non vérifié
-64511;Sauvagnon;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;85619;66;137;3579;Non vérifié
-64512;Sauvelade;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;6092;61;216;273;Non vérifié
-64513;Sauveterre-de-Béarn;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;52273;104;172;1375;Non vérifié
-64514;Séby;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;5024;66;137;210;Non vérifié
-64515;Sedze-Maubecq;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;5383;66;137;225;Non vérifié
-64516;Sedzère;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;9713;66;137;406;Non vérifié
-64517;Séméacq-Blachon;64;eau potable : Secteur Nord : Ex Territoire Lembeye et enclaves;280194;2024;73,4;1,3;3,7;65,7;conforme;168908;4465;77;143;159;Non vérifié
-64518;Sendets;64;eau potable : territoire ex SMEAVO;52474;2024;76,0;2,2;6,8;66,4;conforme;391406;20122;47;118;1167;Non vérifié
-64519;Serres-Castet;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;105690;66;137;4418;Non vérifié
-64520;Serres-Morlaàs;64;eau potable : Territoire n°1;197904;2024;81,0;3,2;13,6;67,7;conforme;955424;11367;36;86;870;Non vérifié
-64521;Serres-Sainte-Marie;64;eau potable;52511;2024;68,2;1,9;4,1;65,8;conforme;351466;14169;67;175;581;Non vérifié
-64522;Sévignacq-Meyracq;64;eau potable;52529;2024;77,8;1,2;4,4;65,9;conforme;105545;8850;42;101;577;Non vérifié
-64523;Sévignacq;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;19258;66;137;805;Non vérifié
-64524;Simacourbe;64;eau potable : Secteur Nord : Ex Territoire Lembeye et enclaves;280194;2024;73,4;1,3;3,7;65,7;conforme;168908;11906;77;143;424;Non vérifié
-64525;Siros;64;eau potable;52480;2024;81,8;2,8;12,8;67,6;conforme;204400;11261;36;80;848;Non vérifié
-64526;Soumoulou;64;eau potable : territoire ex SMEAVO;52474;2024;76,0;2,2;6,8;66,4;conforme;391406;27295;47;118;1583;Non vérifié
-64527;Souraïde;64;eau potable : Nive-Adour/Errobi;52531;2024;84,1;2,3;12,4;67,5;conforme;663365;17096;32;75;1472;Non vérifié
-64528;Suhescun;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;2624;44;83;165;Non vérifié
-64529;Sus;64;eau potable;52526;2024;75,7;1,2;3,8;65,8;conforme;116070;8004;59;118;371;Non vérifié
-64530;Susmiou;64;eau potable;52526;2024;75,7;1,2;3,8;65,8;conforme;116070;7508;59;118;348;Non vérifié
-64531;Tabaille-Usquain;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;1787;104;172;47;Non vérifié
-64532;Tadousse-Ussau;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;1746;66;137;73;Non vérifié
-64533;Tardets-Sorholus;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;9367;44;83;589;Non vérifié
-64534;Taron-Sadirac-Viellenave;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;4019;66;137;168;Non vérifié
-64535;Tarsacq;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;12228;61;216;548;Non vérifié
-64536;Thèze;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;21483;66;137;898;Non vérifié
-64537;Trois-Villes;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;2354;44;83;148;Non vérifié
-64538;Uhart-Cize;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;12977;44;83;816;Non vérifié
-64539;Uhart-Mixe;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;3387;44;83;213;Non vérifié
-64540;Urcuit;64;eau potable : Nive-Adour/Errobi;52531;2024;84,1;2,3;12,4;67,5;conforme;663365;35388;32;75;3047;Non vérifié
-64541;Urdès;64;eau potable;52511;2023;73,4;1,5;4,2;65,8;conforme;276871;5830;52;137;310;Sans anomalie apparente
-64542;Urdos;64;eau potable;52307;2024;61,7;4,3;7,0;66,4;non conforme;10986;10986;424;224;71;Non vérifié
-64543;Urepel;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;4310;44;83;271;Non vérifié
-64544;Urost;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;1842;66;137;77;Non vérifié
-64545;Urrugne;64;eau potable : Bidassoa;52548;2024;90,7;2,3;22,6;69,5;conforme;262142;80497;21;41;10661;Non vérifié
-64546;Urt;64;eau potable : Nive-Adour/Errobi;52531;2024;84,1;2,3;12,4;67,5;conforme;663365;27247;32;75;2346;Non vérifié
-64547;Ustaritz;64;eau potable : Nive-Adour/Errobi;52531;2024;84,1;2,3;12,4;67,5;conforme;663365;91717;32;75;7897;Non vérifié
-64548;Uzan;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;3947;66;137;165;Non vérifié
-64549;Uzein;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;31722;66;137;1326;Non vérifié
-64550;Uzos;64;eau potable : Territoire n°1;197904;2024;81,0;3,2;13,6;67,7;conforme;955424;11419;36;86;874;Non vérifié
-64551;Verdets;64;eau potable;52473;2024;51,9;5,2;5,6;66,1;non conforme;130962;12997;119;338;300;Non vérifié
-64552;Vialer;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;3445;66;137;144;Non vérifié
-64554;Viellenave-d'Arthez;64;eau potable;52511;2024;68,2;1,9;4,1;65,8;conforme;351466;5682;67;175;233;Non vérifié
-64555;Viellenave-de-Navarrenx;64;eau potable;52526;2024;75,7;1,2;3,8;65,8;conforme;116070;3409;59;118;158;Non vérifié
-64556;Vielleségure;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;8390;61;216;376;Non vérifié
-64557;Vignes;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;11076;66;137;463;Non vérifié
-64558;Villefranque;64;eau potable : Nive-Adour/Errobi;52531;2024;84,1;2,3;12,4;67,5;conforme;663365;35644;32;75;3069;Non vérifié
-64559;Viodos-Abense-de-Bas;64;eau potable : Pays de Soule;280614;2024;73,6;1,2;3,3;65,7;conforme;262787;28640;105;171;747;Non vérifié
-64560;Viven;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;4043;66;137;169;Non vérifié
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement);Donnée suspecte (voir LISEZMOI)
+64001;Aast;64;eau potable : SEcteur Nord : ex Territoire Montaner;213712;2024;71,8;1,3;3,4;65,7;conforme;63094;6175;84;158;202;Non vérifié;non
+64002;Abère;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;3732;66;137;156;Non vérifié;non
+64003;Abidos;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;4954;61;216;222;Non vérifié;non
+64004;Abitain;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;4562;104;172;120;Non vérifié;non
+64005;Abos;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;11737;61;216;526;Non vérifié;non
+64007;Agnos;64;eau potable;52471;2024;73,2;3,7;10,1;67,0;conforme;62663;18538;49;133;1044;Non vérifié;non
+64008;Ahaxe-Alciette-Bascassan;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;4151;44;83;261;Non vérifié;non
+64009;Ahetze;64;eau potable : Nivelle;280594;2024;91,3;1,4;15,0;68,0;conforme;272261;15331;20;36;2104;Non vérifié;non
+64010;Aïcirits-Camou-Suhast;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;11116;44;83;699;Non vérifié;non
+64011;Aincille;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;1861;44;83;117;Non vérifié;non
+64012;Ainharp;64;eau potable : Pays de Soule;280614;2024;73,6;1,2;3,3;65,7;conforme;262787;5023;105;171;131;Non vérifié;non
+64013;Ainhice-Mongelos;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;2672;44;83;168;Non vérifié;non
+64014;Ainhoa;64;eau potable : Nivelle;280594;2024;91,3;1,4;15,0;68,0;conforme;272261;4897;20;36;672;Non vérifié;non
+64015;Alçay-Alçabéhéty-Sunharette;64;eau potable : Pays de Soule;280614;2024;73,6;1,2;3,3;65,7;conforme;262787;7898;105;171;206;Non vérifié;non
+64016;Aldudes;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;5280;44;83;332;Non vérifié;non
+64017;Alos-Sibas-Abense;64;eau potable : Pays de Soule;280614;2024;73,6;1,2;3,3;65,7;conforme;262787;11157;105;171;291;Non vérifié;non
+64018;Amendeuix-Oneix;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;7506;44;83;472;Non vérifié;non
+64019;Amorots-Succos;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;3483;44;83;219;Non vérifié;non
+64021;Andoins;64;eau potable : territoire ex SMEAVO;52474;2024;76,0;2,2;6,8;66,4;conforme;391406;12535;47;118;727;Non vérifié;non
+64022;Andrein;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;5170;104;172;136;Non vérifié;non
+64023;Angaïs;64;eau potable;213709;2024;77,2;2,0;6,7;66,3;conforme;426320;13385;41;109;885;Non vérifié;non
+64024;Anglet;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;688123;44;83;43271;Non vérifié;non
+64025;Angous;64;eau potable;52526;2024;75,7;1,2;3,8;65,8;conforme;116070;2071;59;118;96;Non vérifié;non
+64026;Anhaux;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;6186;44;83;389;Non vérifié;non
+64027;Anos;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;4163;66;137;174;Non vérifié;non
+64028;Anoye;64;eau potable : Secteur Nord : Ex Territoire Lembeye et enclaves;280194;2024;73,4;1,3;3,7;65,7;conforme;168908;3931;77;143;140;Non vérifié;non
+64029;Aramits;64;eau potable;52310;2024;57,8;2,7;3,7;65,7;non conforme;40997;40997;170;269;659;Non vérifié;non
+64031;Arancou;64;eau potable : Pays de Bidache;212612;2024;56,0;4,1;5,3;66,1;non conforme;541254;15912;233;296;187;Non vérifié;non
+64032;Araujuzon;64;eau potable;52526;2024;75,7;1,2;3,8;65,8;conforme;116070;4078;59;118;189;Non vérifié;non
+64033;Araux;64;eau potable;52526;2024;75,7;1,2;3,8;65,8;conforme;116070;2934;59;118;136;Non vérifié;non
+64034;Arbérats-Sillègue;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;5232;44;83;329;Non vérifié;non
+64035;Arbonne;64;eau potable : Nivelle;280594;2024;91,3;1,4;15,0;68,0;conforme;272261;17831;20;36;2447;Non vérifié;non
+64036;Arbouet-Sussaute;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;4978;44;83;313;Non vérifié;non
+64037;Arbus;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;27357;61;216;1226;Non vérifié;non
+64038;Arcangues;64;eau potable : Nive-Adour/Errobi;52531;2024;84,1;2,3;12,4;67,5;conforme;663365;42473;32;75;3657;Non vérifié;non
+64039;Aren;64;eau potable;52469;2024;76,8;1,7;5,5;66,1;conforme;15450;5257;59;115;246;Non vérifié;non
+64040;Arette;64;eau potable : Territoire n°2;52523;2024;61,6;2,3;3,6;65,7;non conforme;45509;45509;121;231;1032;Non vérifié;non
+64041;Aressy;64;eau potable : Territoire n°1;197904;2024;81,0;3,2;13,6;67,7;conforme;955424;11511;36;86;881;Non vérifié;non
+64042;Argagnon;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;15396;61;216;690;Non vérifié;non
+64043;Argelos;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;6292;66;137;263;Non vérifié;non
+64044;Arget;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;1818;66;137;76;Non vérifié;non
+64045;Arhansus;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;1050;44;83;66;Non vérifié;non
+64046;Armendarits;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;6329;44;83;398;Non vérifié;non
+64047;Arnéguy;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;3769;44;83;237;Non vérifié;non
+64048;Arnos;64;eau potable;52511;2024;68,2;1,9;4,1;65,8;conforme;351466;3195;67;175;131;Non vérifié;non
+64049;Aroue-Ithorots-Olhaïby;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;3817;44;83;240;Non vérifié;non
+64050;Arrast-Larrebieu;64;eau potable : Pays de Soule;280614;2024;73,6;1,2;3,3;65,7;conforme;262787;3681;105;171;96;Non vérifié;non
+64051;Arraute-Charritte;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;6997;44;83;440;Non vérifié;non
+64052;Arricau-Bordes;64;eau potable : Secteur Nord : Ex Territoire Lembeye et enclaves;280194;2024;73,4;1,3;3,7;65,7;conforme;168908;2949;77;143;105;Non vérifié;non
+64053;Arrien;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;4713;66;137;197;Non vérifié;non
+64054;Arros-de-Nay;64;eau potable;213709;2024;77,2;2,0;6,7;66,3;conforme;426320;12402;41;109;820;Non vérifié;non
+64056;Arrosès;64;eau potable : Secteur Nord : ex Crouseilles;280214;2024;82,5;0,6;2,7;65,5;conforme;17851;3169;64;81;136;Non vérifié;non
+64057;Arthez-de-Béarn;64;eau potable;52511;2024;68,2;1,9;4,1;65,8;conforme;351466;44799;67;175;1837;Non vérifié;non
+64058;Arthez-d'Asson;64;eau potable;213709;2024;77,2;2,0;6,7;66,3;conforme;426320;6912;41;109;457;Non vérifié;non
+64059;Artigueloutan;64;eau potable : territoire ex SMEAVO;52474;2024;76,0;2,2;6,8;66,4;conforme;391406;19053;47;118;1105;Non vérifié;non
+64060;Artiguelouve;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;45631;61;216;2045;Non vérifié;non
+64061;Artix;64;eau potable;52511;2024;68,2;1,9;4,1;65,8;conforme;351466;84794;67;175;3477;Non vérifié;non
+64062;Arudy;64;eau potable;52529;2024;77,8;1,2;4,4;65,9;conforme;105545;34174;42;101;2228;Non vérifié;non
+64063;Arzacq-Arraziguet;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;25765;66;137;1077;Non vérifié;non
+64064;Asasp-Arros;64;eau potable;52471;2024;73,2;3,7;10,1;67,0;conforme;62663;9162;49;133;516;Non vérifié;non
+64065;Ascain;64;eau potable : Bidassoa;52548;2024;90,7;2,3;22,6;69,5;conforme;262142;35171;21;41;4658;Non vérifié;non
+64066;Ascarat;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;5534;44;83;348;Non vérifié;non
+64067;Assat;64;eau potable;213709;2024;77,2;2,0;6,7;66,3;conforme;426320;31278;41;109;2068;Non vérifié;non
+64068;Asson;64;eau potable;213709;2024;77,2;2,0;6,7;66,3;conforme;426320;29977;41;109;1982;Non vérifié;non
+64069;Aste-Béon;64;eau potable;52368;2024;0,0;18,1;0,0;65,0;non conforme;43603;43603;517;;231;Non vérifié;oui
+64070;Astis;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;8445;66;137;353;Non vérifié;non
+64071;Athos-Aspis;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;8098;104;172;213;Non vérifié;non
+64072;Aubertin;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;14972;61;216;671;Non vérifié;non
+64073;Aubin;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;6340;66;137;265;Non vérifié;non
+64074;Aubous;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;1077;66;137;45;Non vérifié;non
+64075;Audaux;64;eau potable;52526;2024;75,7;1,2;3,8;65,8;conforme;116070;3689;59;118;171;Non vérifié;non
+64077;Auga;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;4521;66;137;189;Non vérifié;non
+64078;Auriac;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;5909;66;137;247;Non vérifié;non
+64079;Aurions-Idernes;64;eau potable : Secteur Nord : ex Crouseilles;280214;2024;82,5;0,6;2,7;65,5;conforme;17851;2610;64;81;112;Non vérifié;non
+64080;Aussevielle;64;eau potable;52480;2024;81,8;2,8;12,8;67,6;conforme;204400;11474;36;80;864;Non vérifié;non
+64081;Aussurucq;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;3658;44;83;230;Non vérifié;non
+64082;Auterrive;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;5436;104;172;143;Non vérifié;non
+64083;Autevielle-Saint-Martin-Bideren;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;8326;104;172;219;Non vérifié;non
+64084;Aydie;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;3110;66;137;130;Non vérifié;non
+64086;Ayherre;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;17938;44;83;1128;Non vérifié;non
+64087;Baigts-de-Béarn;64;eau potable;52511;2024;68,2;1,9;4,1;65,8;conforme;351466;20851;67;175;855;Non vérifié;non
+64088;Balansun;64;eau potable;52511;2024;68,2;1,9;4,1;65,8;conforme;351466;7706;67;175;316;Non vérifié;non
+64089;Baleix;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;3014;66;137;126;Non vérifié;non
+64090;Baliracq-Maumusson;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;2871;66;137;120;Non vérifié;non
+64091;Baliros;64;eau potable;213709;2024;77,2;2,0;6,7;66,3;conforme;426320;7789;41;109;515;Non vérifié;non
+64092;Banca;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;5693;44;83;358;Non vérifié;non
+64093;Barcus;64;eau potable : Pays de Soule;280614;2024;73,6;1,2;3,3;65,7;conforme;262787;25075;105;171;654;Non vérifié;non
+64094;Bardos;64;eau potable : Pays de Bidache;212612;2024;56,0;4,1;5,3;66,1;non conforme;541254;162095;233;296;1905;Non vérifié;non
+64095;Barinque;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;13875;66;137;580;Non vérifié;non
+64096;Barraute-Camu;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;7109;104;172;187;Non vérifié;non
+64097;Barzun;64;eau potable : territoire ex SMEAVO;52474;2024;76,0;2,2;6,8;66,4;conforme;391406;10794;47;118;626;Non vérifié;non
+64098;Bassillon-Vauzé;64;eau potable : Secteur Nord : Ex Territoire Lembeye et enclaves;280194;2024;73,4;1,3;3,7;65,7;conforme;168908;1797;77;143;64;Non vérifié;non
+64099;Bastanès;64;eau potable;52526;2024;75,7;1,2;3,8;65,8;conforme;116070;2071;59;118;96;Non vérifié;non
+64100;Bassussarry;64;eau potable : Nive-Adour/Errobi;52531;2024;84,1;2,3;12,4;67,5;conforme;663365;39651;32;75;3414;Non vérifié;non
+64101;Baudreix;64;eau potable;213709;2024;77,2;2,0;6,7;66,3;conforme;426320;8939;41;109;591;Non vérifié;non
+64102;Bayonne;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;863609;44;83;54306;Non vérifié;non
+64103;Bédeille;64;eau potable : Secteur Nord : Ex Territoire Lembeye et enclaves;280194;2024;73,4;1,3;3,7;65,7;conforme;168908;5672;77;143;202;Non vérifié;non
+64104;Bedous;64;eau potable;52291;2024;84,1;1,2;6,1;66,2;conforme;7258;7258;35;71;568;Non vérifié;non
+64105;Béguios;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;4119;44;83;259;Non vérifié;non
+64106;Béhasque-Lapiste;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;8031;44;83;505;Non vérifié;non
+64107;Béhorléguy;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;1050;44;83;66;Non vérifié;non
+64108;Bellocq;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;35470;104;172;933;Non vérifié;non
+64109;Bénéjacq;64;eau potable;213709;2024;77,2;2,0;6,7;66,3;conforme;426320;30446;41;109;2013;Non vérifié;non
+64111;Bentayou-Sérée;64;eau potable : SEcteur Nord : ex Territoire Montaner;213712;2024;71,8;1,3;3,4;65,7;conforme;63094;3271;84;158;107;Non vérifié;non
+64112;Bérenx;64;eau potable;52375;2024;92,3;0,3;3,3;65,7;conforme;2738;2738;18;33;428;Non vérifié;non
+64113;Bergouey-Viellenave;64;eau potable : Pays de Bidache;212612;2024;56,0;4,1;5,3;66,1;non conforme;541254;10466;233;296;123;Non vérifié;non
+64114;Bernadets;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;14043;66;137;587;Non vérifié;non
+64115;Berrogain-Laruns;64;eau potable : Pays de Soule;280614;2024;73,6;1,2;3,3;65,7;conforme;262787;6135;105;171;160;Non vérifié;non
+64116;Bescat;64;eau potable;52529;2024;77,8;1,2;4,4;65,9;conforme;105545;3911;42;101;255;Non vérifié;non
+64117;Bésingrand;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;3258;61;216;146;Non vérifié;non
+64118;Bétracq;64;eau potable : Secteur Nord : ex Crouseilles;280214;2024;82,5;0,6;2,7;65,5;conforme;17851;1142;64;81;49;Non vérifié;non
+64119;Beuste;64;eau potable;213709;2024;77,2;2,0;6,7;66,3;conforme;426320;10557;41;109;698;Non vérifié;non
+64120;Beyrie-sur-Joyeuse;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;8921;44;83;561;Non vérifié;non
+64121;Beyrie-en-Béarn;64;eau potable;52511;2024;68,2;1,9;4,1;65,8;conforme;351466;4804;67;175;197;Non vérifié;non
+64122;Biarritz;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;416744;44;83;26206;Non vérifié;non
+64123;Bidache;64;eau potable : Pays de Bidache;212612;2024;56,0;4,1;5,3;66,1;non conforme;541254;113850;233;296;1338;Non vérifié;non
+64124;Bidarray;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;11021;44;83;693;Non vérifié;non
+64125;Bidart;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;122275;44;83;7689;Non vérifié;non
+64126;Bidos;64;eau potable;52471;2024;73,2;3,7;10,1;67,0;conforme;62663;19568;49;133;1102;Non vérifié;non
+64127;Bielle;64;eau potable;52382;2024;53,6;12,2;14,1;67,8;non conforme;52991;52991;391;315;371;Non vérifié;non
+64128;Bilhères;64;eau potable;52384;2024;0,0;0,0;0,0;65,0;non conforme;0;0;0;;154;Non vérifié;oui
+64129;Billère;64;eau potable : Territoire n°1;197904;2024;81,0;3,2;13,6;67,7;conforme;955424;187931;36;86;14384;Non vérifié;non
+64130;Biriatou;64;eau potable : Bidassoa;52548;2024;90,7;2,3;22,6;69,5;conforme;262142;9793;21;41;1297;Non vérifié;non
+64131;Biron;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;13277;61;216;595;Non vérifié;non
+64132;Bizanos;64;eau potable : Territoire n°1;197904;2024;81,0;3,2;13,6;67,7;conforme;955424;59996;36;86;4592;Non vérifié;non
+64133;Boeil-Bezing;64;eau potable;213709;2024;77,2;2,0;6,7;66,3;conforme;426320;20282;41;109;1341;Non vérifié;non
+64134;Bonloc;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;5979;44;83;376;Non vérifié;non
+64135;Bonnut;64;eau potable;52511;2024;68,2;1,9;4,1;65,8;conforme;351466;18949;67;175;777;Non vérifié;non
+64136;Borce;64;eau potable : borce;52386;2024;75,6;1,2;3,7;65,7;conforme;7621;7621;186;118;112;Non vérifié;non
+64137;Bordères;64;eau potable;213709;2024;77,2;2,0;6,7;66,3;conforme;426320;10497;41;109;694;Non vérifié;non
+64138;Bordes;64;eau potable;213709;2024;77,2;2,0;6,7;66,3;conforme;426320;43438;41;109;2872;Non vérifié;non
+64139;Bosdarros;64;eau potable : Territoire n°1;197904;2024;81,0;3,2;13,6;67,7;conforme;955424;12569;36;86;962;Non vérifié;non
+64140;Boucau;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;142615;44;83;8968;Non vérifié;non
+64141;Boueilh-Boueilho-Lasque;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;9138;66;137;382;Non vérifié;non
+64142;Bougarber;64;eau potable;52511;2024;68,2;1,9;4,1;65,8;conforme;351466;21680;67;175;889;Non vérifié;non
+64143;Bouillon;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;3804;66;137;159;Non vérifié;non
+64144;Boumourt;64;eau potable;52511;2024;68,2;1,9;4,1;65,8;conforme;351466;3682;67;175;151;Non vérifié;non
+64145;Bourdettes;64;eau potable;213709;2024;77,2;2,0;6,7;66,3;conforme;426320;7608;41;109;503;Non vérifié;non
+64146;Bournos;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;8086;66;137;338;Non vérifié;non
+64147;Briscous;64;eau potable : Nive-Adour/Errobi;52531;2024;84,1;2,3;12,4;67,5;conforme;663365;34436;32;75;2965;Non vérifié;non
+64148;Bruges-Capbis-Mifaget;64;eau potable;213709;2024;77,2;2,0;6,7;66,3;conforme;426320;12811;41;109;847;Non vérifié;non
+64149;Bugnein;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;4864;61;216;218;Non vérifié;non
+64150;Bunus;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;2115;44;83;133;Non vérifié;non
+64151;Burgaronne;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;3726;104;172;98;Non vérifié;non
+64152;Buros;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;48013;66;137;2007;Non vérifié;non
+64153;Burosse-Mendousse;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;1938;66;137;81;Non vérifié;non
+64154;Bussunarits-Sarrasquette;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;3340;44;83;210;Non vérifié;non
+64155;Bustince-Iriberry;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;1622;44;83;102;Non vérifié;non
+64156;Buziet;64;eau potable;52467;2024;71,5;1,7;4,2;65,8;conforme;151799;3178;18;161;479;Non vérifié;non
+64157;Buzy;64;eau potable : Territoire n°1;197904;2024;81,0;3,2;13,6;67,7;conforme;955424;13144;36;86;1006;Non vérifié;non
+64158;Cabidos;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;4091;66;137;171;Non vérifié;non
+64159;Cadillon;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;2273;66;137;95;Non vérifié;non
+64160;Cambo-les-Bains;64;eau potable : Nive-Adour/Errobi;52531;2024;84,1;2,3;12,4;67,5;conforme;663365;78512;32;75;6760;Non vérifié;non
+64161;Came;64;eau potable : Pays de Bidache;212612;2024;56,0;4,1;5,3;66,1;non conforme;541254;87132;233;296;1024;Non vérifié;non
+64162;Camou-Cihigue;64;eau potable : Pays de Soule;280614;2024;73,6;1,2;3,3;65,7;conforme;262787;4102;105;171;107;Non vérifié;non
+64165;Cardesse;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;6538;61;216;293;Non vérifié;non
+64166;Caro;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;2703;44;83;170;Non vérifié;non
+64167;Carrère;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;5287;66;137;221;Non vérifié;non
+64168;Carresse-Cassaber;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;25243;104;172;664;Non vérifié;non
+64170;Castagnède;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;7869;104;172;207;Non vérifié;non
+64171;Casteide-Cami;64;eau potable;52511;2024;68,2;1,9;4,1;65,8;conforme;351466;6682;67;175;274;Non vérifié;non
+64172;Casteide-Candau;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;6770;66;137;283;Non vérifié;non
+64173;Casteide-Doat;64;eau potable : SEcteur Nord : ex Territoire Montaner;213712;2024;71,8;1,3;3,4;65,7;conforme;63094;4860;84;158;159;Non vérifié;non
+64174;Castéra-Loubix;64;eau potable : SEcteur Nord : ex Territoire Montaner;213712;2024;71,8;1,3;3,4;65,7;conforme;63094;1559;84;158;51;Non vérifié;non
+64175;Castet;64;eau potable;52323;2024;59,2;2,9;4,2;65,8;non conforme;5451;5451;110;254;136;Non vérifié;non
+64176;Castetbon;64;eau potable;52526;2024;75,7;1,2;3,8;65,8;conforme;116070;3258;59;118;151;Non vérifié;non
+64177;Castétis;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;14392;61;216;645;Non vérifié;non
+64178;Castetnau-Camblong;64;eau potable;52526;2024;75,7;1,2;3,8;65,8;conforme;116070;9924;59;118;460;Non vérifié;non
+64179;Castetner;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;3124;61;216;140;Non vérifié;non
+64180;Castetpugon;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;5119;66;137;214;Non vérifié;non
+64181;Castillon (Canton d'Arthez-de-Béarn);64;eau potable;52511;2024;68,2;1,9;4,1;65,8;conforme;351466;8096;67;175;332;Non vérifié;non
+64182;Castillon (Canton de Lembeye);64;eau potable : Secteur Nord : Ex Territoire Lembeye et enclaves;280194;2024;73,4;1,3;3,7;65,7;conforme;168908;2331;77;143;83;Non vérifié;non
+64183;Caubios-Loos;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;16339;66;137;683;Non vérifié;non
+64184;Cescau;64;eau potable;52511;2024;68,2;1,9;4,1;65,8;conforme;351466;15364;67;175;630;Non vérifié;non
+64186;Charre;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;8440;104;172;222;Non vérifié;non
+64187;Charritte-de-Bas;64;eau potable : Pays de Soule;280614;2024;73,6;1,2;3,3;65,7;conforme;262787;9278;105;171;242;Non vérifié;non
+64188;Chéraute;64;eau potable : Pays de Soule;280614;2024;73,6;1,2;3,3;65,7;conforme;262787;39989;105;171;1043;Non vérifié;non
+64189;Ciboure;64;eau potable : Nivelle;280594;2024;91,3;1,4;15,0;68,0;conforme;272261;43363;20;36;5951;Non vérifié;non
+64190;Claracq;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;5670;66;137;237;Non vérifié;non
+64191;Coarraze;64;eau potable;213709;2024;77,2;2,0;6,7;66,3;conforme;426320;32926;41;109;2177;Non vérifié;non
+64192;Conchez-de-Béarn;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;2775;66;137;116;Non vérifié;non
+64193;Corbère-Abères;64;eau potable : Secteur Nord : Ex Territoire Lembeye et enclaves;280194;2024;73,4;1,3;3,7;65,7;conforme;168908;2696;77;143;96;Non vérifié;non
+64194;Coslédaà-Lube-Boast;64;eau potable : Secteur Nord : Ex Territoire Lembeye et enclaves;280194;2024;73,4;1,3;3,7;65,7;conforme;168908;10502;77;143;374;Non vérifié;non
+64195;Coublucq;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;2201;66;137;92;Non vérifié;non
+64196;Crouseilles;64;eau potable : Secteur Nord : ex Crouseilles;280214;2024;82,5;0,6;2,7;65,5;conforme;17851;2750;64;81;118;Non vérifié;non
+64197;Cuqueron;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;4217;61;216;189;Non vérifié;non
+64198;Denguin;64;eau potable;52480;2024;81,8;2,8;12,8;67,6;conforme;204400;23439;36;80;1765;Non vérifié;non
+64199;Diusse;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;3493;66;137;146;Non vérifié;non
+64200;Doazon;64;eau potable;52511;2024;68,2;1,9;4,1;65,8;conforme;351466;4560;67;175;187;Non vérifié;non
+64201;Dognen;64;eau potable;52526;2024;75,7;1,2;3,8;65,8;conforme;116070;4854;59;118;225;Non vérifié;non
+64202;Domezain-Berraute;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;7522;44;83;473;Non vérifié;non
+64203;Doumy;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;7775;66;137;325;Non vérifié;non
+64204;Eaux-Bonnes;64;eau potable;52394;2024;40,0;26,5;17,7;68,5;non conforme;261158;261158;3328;547;215;Non vérifié;non
+64205;Escos;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;9010;104;172;237;Non vérifié;non
+64206;Escot;64;eau potable;52295;2024;95,0;0,0;;;non calculable;;;;;118;Non vérifié;oui
+64207;Escou;64;eau potable;52467;2024;71,5;1,7;4,2;65,8;conforme;151799;2846;18;161;429;Non vérifié;non
+64208;Escoubès;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;9952;66;137;416;Non vérifié;non
+64209;Escout;64;eau potable;52467;2024;71,5;1,7;4,2;65,8;conforme;151799;2806;18;161;423;Non vérifié;non
+64210;Escurès;64;eau potable : Secteur Nord : Ex Territoire Lembeye et enclaves;280194;2024;73,4;1,3;3,7;65,7;conforme;168908;4016;77;143;143;Non vérifié;non
+64211;Eslourenties-Daban;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;9091;66;137;380;Non vérifié;non
+64212;Espéchède;64;eau potable : territoire ex SMEAVO;52474;2024;76,0;2,2;6,8;66,4;conforme;391406;2845;47;118;165;Non vérifié;non
+64213;Espelette;64;eau potable : Nive-Adour/Errobi;52531;2024;84,1;2,3;12,4;67,5;conforme;663365;25028;32;75;2155;Non vérifié;non
+64214;Espès-Undurein;64;eau potable : Pays de Soule;280614;2024;73,6;1,2;3,3;65,7;conforme;262787;19400;105;171;506;Non vérifié;non
+64215;Espiute;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;4296;104;172;113;Non vérifié;non
+64216;Espoey;64;eau potable : territoire ex SMEAVO;52474;2024;76,0;2,2;6,8;66,4;conforme;391406;21088;47;118;1223;Non vérifié;non
+64217;Esquiule;64;eau potable;332154;2024;74,8;0,5;1,5;65,3;conforme;11206;11206;59;145;522;Non vérifié;non
+64218;Estérençuby;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;4818;44;83;303;Non vérifié;non
+64219;Estialescq;64;eau potable;52467;2024;71,5;1,7;4,2;65,8;conforme;151799;1705;18;161;257;Non vérifié;non
+64220;Estos;64;eau potable;52473;2024;51,9;5,2;5,6;66,1;non conforme;130962;20838;119;338;481;Non vérifié;non
+64221;Etcharry;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;2290;44;83;144;Non vérifié;non
+64222;Etchebar;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;1193;44;83;75;Non vérifié;non
+64223;Etsaut;64;eau potable;52297;2024;75,5;;4,7;65,9;conforme;;;;;74;Non vérifié;oui
+64224;Eysus;64;eau potable;52398;2024;61,5;2,5;4,0;65,8;non conforme;15430;15430;68;231;625;Non vérifié;non
+64225;Ance Féas;64;eau potable : Ance-Féas;213691;2024;72,1;1,5;3,8;65,8;conforme;19162;19162;84;146;624;Non vérifié;non
+64226;Fichous-Riumayou;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;4952;66;137;207;Non vérifié;non
+64227;Gabaston;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;16100;66;137;673;Non vérifié;non
+64228;Gabat;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;4357;44;83;274;Non vérifié;non
+64229;Gamarthe;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;1988;44;83;125;Non vérifié;non
+64230;Gan;64;eau potable : Territoire n°1;197904;2024;81,0;3,2;13,6;67,7;conforme;955424;74158;36;86;5676;Non vérifié;non
+64231;Garindein;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;7268;44;83;457;Non vérifié;non
+64232;Garlède-Mondebat;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;5263;66;137;220;Non vérifié;non
+64233;Garlin;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;32535;66;137;1360;Non vérifié;non
+64234;Garos;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;6268;66;137;262;Non vérifié;non
+64235;Garris;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;5089;44;83;320;Non vérifié;non
+64236;Gayon;64;eau potable : Secteur Nord : Ex Territoire Lembeye et enclaves;280194;2024;73,4;1,3;3,7;65,7;conforme;168908;1601;77;143;57;Non vérifié;non
+64237;Gelos;64;eau potable : Territoire n°1;197904;2024;81,0;3,2;13,6;67,7;conforme;955424;47518;36;86;3637;Non vérifié;non
+64238;Ger;64;eau potable : territoire ex SMEAVO;52474;2024;76,0;2,2;6,8;66,4;conforme;391406;36847;47;118;2137;Non vérifié;non
+64239;Gerderest;64;eau potable : Secteur Nord : Ex Territoire Lembeye et enclaves;280194;2024;73,4;1,3;3,7;65,7;conforme;168908;3959;77;143;141;Non vérifié;non
+64240;Gère-Bélesten;64;eau potable;52402;2024;90,0;0,9;26,7;70,3;conforme;2562;2562;37;12;189;Non vérifié;non
+64241;Géronce;64;eau potable;52472;2024;81,3;1,5;6,4;66,3;conforme;25185;6030;34;86;492;Non vérifié;non
+64242;Gestas;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;2813;104;172;74;Non vérifié;non
+64243;Géus-d'Arzacq;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;5598;66;137;234;Non vérifié;non
+64244;Geüs-d'Oloron;64;eau potable;52472;2024;81,3;1,5;6,4;66,3;conforme;25185;3199;34;86;261;Non vérifié;non
+64245;Goès;64;eau potable;52534;2024;87,8;1,1;8,2;66,6;conforme;4593;4593;24;49;520;Non vérifié;non
+64246;Gomer;64;eau potable : territoire ex SMEAVO;52474;2024;76,0;2,2;6,8;66,4;conforme;391406;5138;47;118;298;Non vérifié;non
+64247;Gotein-Libarrenx;64;eau potable : Pays de Soule;280614;2024;73,6;1,2;3,3;65,7;conforme;262787;18365;105;171;479;Non vérifié;non
+64249;Guéthary;64;eau potable : Nivelle;280594;2024;91,3;1,4;15,0;68,0;conforme;272261;9516;20;36;1306;Non vérifié;non
+64250;Guiche;64;eau potable : Pays de Bidache;212612;2024;56,0;4,1;5,3;66,1;non conforme;541254;91471;233;296;1075;Non vérifié;non
+64251;Guinarthe-Parenties;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;8630;104;172;227;Non vérifié;non
+64252;Gurmençon;64;eau potable;52471;2024;73,2;3,7;10,1;67,0;conforme;62663;15395;49;133;867;Non vérifié;non
+64253;Gurs;64;eau potable;52526;2024;75,7;1,2;3,8;65,8;conforme;116070;9018;59;118;418;Non vérifié;non
+64254;Hagetaubin;64;eau potable;52511;2024;68,2;1,9;4,1;65,8;conforme;351466;13852;67;175;568;Non vérifié;non
+64255;Halsou;64;eau potable : Nive-Adour/Errobi;52531;2024;84,1;2,3;12,4;67,5;conforme;663365;6841;32;75;589;Non vérifié;non
+64256;Hasparren;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;121273;44;83;7626;Non vérifié;non
+64257;Haut-de-Bosdarros;64;eau potable;213709;2024;77,2;2,0;6,7;66,3;conforme;426320;4870;41;109;322;Non vérifié;non
+64258;Haux;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;1336;44;83;84;Non vérifié;non
+64259;Hélette;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;12054;44;83;758;Non vérifié;non
+64260;Hendaye;64;eau potable : Bidassoa;52548;2024;90,7;2,3;22,6;69,5;conforme;262142;136681;21;41;18102;Non vérifié;non
+64261;Herrère;64;eau potable;52467;2024;71,5;1,7;4,2;65,8;conforme;151799;2634;18;161;397;Non vérifié;non
+64262;Higuères-Souye;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;6794;66;137;284;Non vérifié;non
+64263;L' Hôpital-d'Orion;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;5170;104;172;136;Non vérifié;non
+64264;L' Hôpital-Saint-Blaise;64;eau potable : L'Hôpital-St-Blaise (Ex SIAEP Navarrenx);261814;2024;70,3;0,9;2,0;65,4;conforme;1442;1442;72;161;55;Non vérifié;non
+64265;Hosta;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;1590;44;83;100;Non vérifié;non
+64266;Hours;64;eau potable : territoire ex SMEAVO;52474;2024;76,0;2,2;6,8;66,4;conforme;391406;3983;47;118;231;Non vérifié;non
+64267;Ibarrolle;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;1161;44;83;73;Non vérifié;non
+64268;Idaux-Mendy;64;eau potable : Pays de Soule;280614;2024;73,6;1,2;3,3;65,7;conforme;262787;10237;105;171;267;Non vérifié;non
+64269;Idron;64;eau potable : Territoire n°1;197904;2024;81,0;3,2;13,6;67,7;conforme;955424;69769;36;86;5340;Non vérifié;non
+64270;Igon;64;eau potable;213709;2024;77,2;2,0;6,7;66,3;conforme;426320;15548;41;109;1028;Non vérifié;non
+64271;Iholdy;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;8746;44;83;550;Non vérifié;non
+64272;Ilharre;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;2338;44;83;147;Non vérifié;non
+64273;Irissarry;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;13835;44;83;870;Non vérifié;non
+64274;Irouléguy;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;5789;44;83;364;Non vérifié;non
+64275;Ispoure;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;10607;44;83;667;Non vérifié;non
+64277;Isturits;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;8540;44;83;537;Non vérifié;non
+64279;Itxassou;64;eau potable : Nive-Adour/Errobi;52531;2024;84,1;2,3;12,4;67,5;conforme;663365;26109;32;75;2248;Non vérifié;non
+64280;Izeste;64;eau potable;52529;2024;77,8;1,2;4,4;65,9;conforme;105545;6780;42;101;442;Non vérifié;non
+64281;Jasses;64;eau potable;52526;2024;75,7;1,2;3,8;65,8;conforme;116070;3064;59;118;142;Non vérifié;non
+64282;Jatxou;64;eau potable : Nive-Adour/Errobi;52531;2024;84,1;2,3;12,4;67,5;conforme;663365;14715;32;75;1267;Non vérifié;non
+64283;Jaxu;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;3276;44;83;206;Non vérifié;non
+64284;Jurançon;64;eau potable : Territoire n°1;197904;2024;81,0;3,2;13,6;67,7;conforme;955424;91980;36;86;7040;Non vérifié;non
+64285;Juxue;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;3181;44;83;200;Non vérifié;non
+64286;Laà-Mondrans;64;eau potable;52470;2024;76,2;1,2;3,8;65,8;conforme;46428;1575;10;119;423;Non vérifié;non
+64287;Laàs;64;eau potable;52526;2024;75,7;1,2;3,8;65,8;conforme;116070;3020;59;118;140;Non vérifié;non
+64288;Labastide-Cézéracq;64;eau potable;52480;2024;81,8;2,8;12,8;67,6;conforme;204400;7755;36;80;584;Non vérifié;non
+64289;La Bastide-Clairence;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;15903;44;83;1000;Non vérifié;non
+64290;Labastide-Monréjeau;64;eau potable;52511;2024;68,2;1,9;4,1;65,8;conforme;351466;14413;67;175;591;Non vérifié;non
+64291;Labastide-Villefranche;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;13040;104;172;343;Non vérifié;non
+64292;Labatmale;64;eau potable;213709;2024;77,2;2,0;6,7;66,3;conforme;426320;3887;41;109;257;Non vérifié;non
+64293;Labatut-Figuières;64;eau potable : SEcteur Nord : ex Territoire Montaner;213712;2024;71,8;1,3;3,4;65,7;conforme;63094;5258;84;158;172;Non vérifié;non
+64294;Labets-Biscay;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;2290;44;83;144;Non vérifié;non
+64295;Labeyrie;64;eau potable;52511;2024;68,2;1,9;4,1;65,8;conforme;351466;2512;67;175;103;Non vérifié;non
+64296;Lacadée;64;eau potable;52511;2024;68,2;1,9;4,1;65,8;conforme;351466;3536;67;175;145;Non vérifié;non
+64297;Lacarre;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;2719;44;83;171;Non vérifié;non
+64298;Lacarry-Arhan-Charritte-de-Haut;64;eau potable : Pays de Soule;280614;2024;73,6;1,2;3,3;65,7;conforme;262787;4179;105;171;109;Non vérifié;non
+64299;Lacommande;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;3838;61;216;172;Non vérifié;non
+64300;Lacq;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;23117;61;216;1036;Non vérifié;non
+64301;Lagor;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;25014;61;216;1121;Non vérifié;non
+64302;Lagos;64;eau potable;213709;2024;77,2;2,0;6,7;66,3;conforme;426320;7154;41;109;473;Non vérifié;non
+64303;Laguinge-Restoue;64;eau potable : Pays de Soule;280614;2024;73,6;1,2;3,3;65,7;conforme;262787;5943;105;171;155;Non vérifié;non
+64304;Lahonce;64;eau potable : Nive-Adour/Errobi;52531;2024;84,1;2,3;12,4;67,5;conforme;663365;31823;32;75;2740;Non vérifié;non
+64305;Lahontan;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;20377;104;172;536;Non vérifié;non
+64306;Lahourcade;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;15820;61;216;709;Non vérifié;non
+64307;Lalongue;64;eau potable : Secteur Nord : Ex Territoire Lembeye et enclaves;280194;2024;73,4;1,3;3,7;65,7;conforme;168908;5644;77;143;201;Non vérifié;non
+64308;Lalonquette;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;6244;66;137;261;Non vérifié;non
+64309;Lamayou;64;eau potable : SEcteur Nord : ex Territoire Montaner;213712;2024;71,8;1,3;3,4;65,7;conforme;63094;6542;84;158;214;Non vérifié;non
+64310;Lanne-en-Barétous;64;eau potable;52319;2024;32,9;4,9;2,4;65,5;non conforme;86027;86027;490;742;481;Non vérifié;non
+64311;Lannecaube;64;eau potable : Secteur Nord : Ex Territoire Lembeye et enclaves;280194;2024;73,4;1,3;3,7;65,7;conforme;168908;4072;77;143;145;Non vérifié;non
+64312;Lanneplaà;64;eau potable;52470;2024;76,2;1,2;3,8;65,8;conforme;46428;1121;10;119;301;Non vérifié;non
+64313;Lantabat;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;4723;44;83;297;Non vérifié;non
+64314;Larceveau-Arros-Cibits;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;7140;44;83;449;Non vérifié;non
+64315;Laroin;64;eau potable : Territoire n°1;197904;2024;81,0;3,2;13,6;67,7;conforme;955424;13457;36;86;1030;Non vérifié;non
+64316;Larrau;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;2847;44;83;179;Non vérifié;non
+64317;Larressore;64;eau potable : Nive-Adour/Errobi;52531;2024;84,1;2,3;12,4;67,5;conforme;663365;25121;32;75;2163;Non vérifié;non
+64318;Larreule;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;4641;66;137;194;Non vérifié;non
+64319;Larribar-Sorhapuru;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;2974;44;83;187;Non vérifié;non
+64320;Laruns;64;eau potable;52525;2024;53,8;8,0;9,4;66,9;non conforme;109354;109354;255;312;1177;Non vérifié;non
+64321;Lasclaveries;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;5885;66;137;246;Non vérifié;non
+64322;Lasse;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;5311;44;83;334;Non vérifié;non
+64323;Lasserre;64;eau potable : Secteur Nord : ex Crouseilles;280214;2024;82,5;0,6;2,7;65,5;conforme;17851;2680;64;81;115;Non vérifié;non
+64324;Lasseube;64;eau potable : Territoire n°1;197904;2024;81,0;3,2;13,6;67,7;conforme;955424;22668;36;86;1735;Non vérifié;non
+64325;Lasseubetat;64;eau potable : Territoire n°1;197904;2024;81,0;3,2;13,6;67,7;conforme;955424;2456;36;86;188;Non vérifié;non
+64326;Lay-Lamidou;64;eau potable;52526;2024;75,7;1,2;3,8;65,8;conforme;116070;2805;59;118;130;Non vérifié;non
+64327;Lecumberry;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;3117;44;83;196;Non vérifié;non
+64328;Ledeuix;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;22961;61;216;1029;Non vérifié;non
+64329;Lée;64;eau potable : territoire ex SMEAVO;52474;2024;76,0;2,2;6,8;66,4;conforme;391406;21915;47;118;1271;Non vérifié;non
+64330;Lées-Athas;64;eau potable;52299;2024;68,0;4,5;9,6;66,9;conforme;14782;14782;177;170;229;Non vérifié;non
+64331;Lembeye;64;eau potable : Secteur Nord : Ex Territoire Lembeye et enclaves;280194;2024;73,4;1,3;3,7;65,7;conforme;168908;23532;77;143;838;Non vérifié;non
+64332;Lème;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;4019;66;137;168;Non vérifié;non
+64334;Léren;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;7984;104;172;210;Non vérifié;non
+64335;Lescar;64;eau potable;52480;2024;81,8;2,8;12,8;67,6;conforme;204400;125559;36;80;9455;Non vérifié;non
+64336;Lescun;64;eau potable;52301;2024;29,8;10,6;4,5;65,9;non conforme;123808;123808;2081;860;163;Non vérifié;non
+64337;Lespielle;64;eau potable : Secteur Nord : Ex Territoire Lembeye et enclaves;280194;2024;73,4;1,3;3,7;65,7;conforme;168908;4268;77;143;152;Non vérifié;non
+64338;Lespourcy;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;4258;66;137;178;Non vérifié;non
+64339;Lestelle-Bétharram;64;eau potable;213709;2024;77,2;2,0;6,7;66,3;conforme;426320;11918;41;109;788;Non vérifié;non
+64340;Lichans-Sunhar;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;1336;44;83;84;Non vérifié;non
+64341;Lichos;64;eau potable : Pays de Soule;280614;2024;73,6;1,2;3,3;65,7;conforme;262787;4869;105;171;127;Non vérifié;non
+64342;Licq-Athérey;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;3085;44;83;194;Non vérifié;non
+64343;Limendous;64;eau potable : territoire ex SMEAVO;52474;2024;76,0;2,2;6,8;66,4;conforme;391406;11897;47;118;690;Non vérifié;non
+64344;Livron;64;eau potable : territoire ex SMEAVO;52474;2024;76,0;2,2;6,8;66,4;conforme;391406;6552;47;118;380;Non vérifié;non
+64345;Lohitzun-Oyhercq;64;eau potable : Pays de Soule;280614;2024;73,6;1,2;3,3;65,7;conforme;262787;7361;105;171;192;Non vérifié;non
+64346;Lombia;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;4928;66;137;206;Non vérifié;non
+64347;Lonçon;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;5287;66;137;221;Non vérifié;non
+64348;Lons;64;eau potable : Territoire n°1;197904;2024;81,0;3,2;13,6;67,7;conforme;955424;177766;36;86;13606;Non vérifié;non
+64349;Loubieng;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;10956;61;216;491;Non vérifié;non
+64350;Louhossoa;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;14090;44;83;886;Non vérifié;non
+64351;Lourdios-Ichère;64;eau potable;52303;2024;59,6;2,2;3,2;65,6;non conforme;19079;19079;360;253;145;Non vérifié;non
+64352;Lourenties;64;eau potable : territoire ex SMEAVO;52474;2024;76,0;2,2;6,8;66,4;conforme;391406;7363;47;118;427;Non vérifié;non
+64353;Louvie-Juzon;64;eau potable;52529;2024;77,8;1,2;4,4;65,9;conforme;105545;16228;42;101;1058;Non vérifié;non
+64354;Louvie-Soubiron;64;eau potable;52423;2024;82,2;1,0;4,7;65,9;conforme;2347;2347;48;78;133;Non vérifié;non
+64355;Louvigny;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;3325;66;137;139;Non vérifié;non
+64356;Luc-Armau;64;eau potable : Secteur Nord : Ex Territoire Lembeye et enclaves;280194;2024;73,4;1,3;3,7;65,7;conforme;168908;2920;77;143;104;Non vérifié;non
+64357;Lucarré;64;eau potable : Secteur Nord : Ex Territoire Lembeye et enclaves;280194;2024;73,4;1,3;3,7;65,7;conforme;168908;1797;77;143;64;Non vérifié;non
+64358;Lucgarier;64;eau potable : territoire ex SMEAVO;52474;2024;76,0;2,2;6,8;66,4;conforme;391406;4707;47;118;273;Non vérifié;non
+64359;Lucq-de-Béarn;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;20640;61;216;925;Non vérifié;non
+64360;Lurbe-Saint-Christau;64;eau potable;52425;2024;64,3;3,2;5,8;66,2;non conforme;11096;11096;147;201;207;Non vérifié;non
+64361;Lussagnet-Lusson;64;eau potable : Secteur Nord : Ex Territoire Lembeye et enclaves;280194;2024;73,4;1,3;3,7;65,7;conforme;168908;5139;77;143;183;Non vérifié;non
+64362;Luxe-Sumberraute;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;6123;44;83;385;Non vérifié;non
+64363;Lys;64;eau potable;52529;2024;77,8;1,2;4,4;65,9;conforme;105545;4939;42;101;322;Non vérifié;non
+64364;Macaye;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;9430;44;83;593;Non vérifié;non
+64365;Malaussanne;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;10765;66;137;450;Non vérifié;non
+64366;Mascaraàs-Haron;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;2608;66;137;109;Non vérifié;non
+64367;Maslacq;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;19881;61;216;891;Non vérifié;non
+64368;Masparraute;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;4198;44;83;264;Non vérifié;non
+64369;Maspie-Lalonquère-Juillacq;64;eau potable : Secteur Nord : Ex Territoire Lembeye et enclaves;280194;2024;73,4;1,3;3,7;65,7;conforme;168908;6543;77;143;233;Non vérifié;non
+64370;Maucor;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;13492;66;137;564;Non vérifié;non
+64371;Mauléon-Licharre;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;47263;44;83;2972;Non vérifié;non
+64372;Maure;64;eau potable : SEcteur Nord : ex Territoire Montaner;213712;2024;71,8;1,3;3,4;65,7;conforme;63094;2751;84;158;90;Non vérifié;non
+64373;Mazères-Lezons;64;eau potable : Territoire n°1;197904;2024;81,0;3,2;13,6;67,7;conforme;955424;24105;36;86;1845;Non vérifié;non
+64374;Mazerolles;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;28564;66;137;1194;Non vérifié;non
+64375;Méharin;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;4357;44;83;274;Non vérifié;non
+64376;Meillon;64;eau potable : Territoire n°1;197904;2024;81,0;3,2;13,6;67,7;conforme;955424;12503;36;86;957;Non vérifié;non
+64377;Mendionde;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;13581;44;83;854;Non vérifié;non
+64378;Menditte;64;eau potable : Pays de Soule;280614;2024;73,6;1,2;3,3;65,7;conforme;262787;7975;105;171;208;Non vérifié;non
+64379;Mendive;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;2735;44;83;172;Non vérifié;non
+64380;Méracq;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;5598;66;137;234;Non vérifié;non
+64381;Méritein;64;eau potable;52526;2024;75,7;1,2;3,8;65,8;conforme;116070;6019;59;118;279;Non vérifié;non
+64382;Mesplède;64;eau potable;52511;2024;68,2;1,9;4,1;65,8;conforme;351466;7926;67;175;325;Non vérifié;non
+64383;Mialos;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;3397;66;137;142;Non vérifié;non
+64385;Miossens-Lanusse;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;6890;66;137;288;Non vérifié;non
+64386;Mirepeix;64;eau potable;213709;2024;77,2;2,0;6,7;66,3;conforme;426320;18982;41;109;1255;Non vérifié;non
+64387;Momas;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;14449;66;137;604;Non vérifié;non
+64388;Momy;64;eau potable : Secteur Nord : Ex Territoire Lembeye et enclaves;280194;2024;73,4;1,3;3,7;65,7;conforme;168908;3201;77;143;114;Non vérifié;non
+64389;Monassut-Audiracq;64;eau potable : Secteur Nord : Ex Territoire Lembeye et enclaves;280194;2024;73,4;1,3;3,7;65,7;conforme;168908;10362;77;143;369;Non vérifié;non
+64390;Moncaup;64;eau potable : Secteur Nord : ex Crouseilles;280214;2024;82,5;0,6;2,7;65,5;conforme;17851;3635;64;81;156;Non vérifié;non
+64391;Moncayolle-Larrory-Mendibieu;64;eau potable : Pays de Soule;280614;2024;73,6;1,2;3,3;65,7;conforme;262787;10889;105;171;284;Non vérifié;non
+64392;Moncla;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;2153;66;137;90;Non vérifié;non
+64393;Monein;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;99207;61;216;4446;Non vérifié;non
+64394;Monpezat;64;eau potable : Secteur Nord : ex Crouseilles;280214;2024;82,5;0,6;2,7;65,5;conforme;17851;1864;64;81;80;Non vérifié;non
+64395;Monségur;64;eau potable : SEcteur Nord : ex Territoire Montaner;213712;2024;71,8;1,3;3,4;65,7;conforme;63094;4157;84;158;136;Non vérifié;non
+64396;Mont;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;25571;61;216;1146;Non vérifié;non
+64397;Montagut;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;2775;66;137;116;Non vérifié;non
+64398;Montaner;64;eau potable : SEcteur Nord : ex Territoire Montaner;213712;2024;71,8;1,3;3,4;65,7;conforme;63094;12472;84;158;408;Non vérifié;non
+64399;Montardon;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;57869;66;137;2419;Non vérifié;non
+64400;Montaut;64;eau potable;213709;2024;77,2;2,0;6,7;66,3;conforme;426320;16940;41;109;1120;Non vérifié;non
+64401;Mont-Disse;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;1938;66;137;81;Non vérifié;non
+64403;Montfort;64;eau potable;52526;2024;75,7;1,2;3,8;65,8;conforme;116070;4229;59;118;196;Non vérifié;non
+64404;Montory;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;5057;44;83;318;Non vérifié;non
+64405;Morlaàs;64;eau potable : Territoire n°1;197904;2024;81,0;3,2;13,6;67,7;conforme;955424;57147;36;86;4374;Non vérifié;non
+64406;Morlanne;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;14617;66;137;611;Non vérifié;non
+64407;Mouguerre;64;eau potable : Nive-Adour/Errobi;52531;2024;84,1;2,3;12,4;67,5;conforme;663365;63042;32;75;5428;Non vérifié;non
+64408;Mouhous;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;1794;66;137;75;Non vérifié;non
+64409;Moumour;64;eau potable;52472;2024;81,3;1,5;6,4;66,3;conforme;25185;9976;34;86;814;Non vérifié;non
+64410;Mourenx;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;127076;61;216;5695;Non vérifié;non
+64411;Musculdy;64;eau potable : Pays de Soule;280614;2024;73,6;1,2;3,3;65,7;conforme;262787;8435;105;171;220;Non vérifié;non
+64412;Nabas;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;3079;104;172;81;Non vérifié;non
+64413;Narcastet;64;eau potable : Territoire n°1;197904;2024;81,0;3,2;13,6;67,7;conforme;955424;9838;36;86;753;Non vérifié;non
+64414;Narp;64;eau potable;52526;2024;75,7;1,2;3,8;65,8;conforme;116070;2632;59;118;122;Non vérifié;non
+64415;Navailles-Angos;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;36961;66;137;1545;Non vérifié;non
+64416;Navarrenx;64;eau potable;52526;2024;75,7;1,2;3,8;65,8;conforme;116070;22480;59;118;1042;Non vérifié;non
+64417;Nay;64;eau potable;213709;2024;77,2;2,0;6,7;66,3;conforme;426320;48157;41;109;3184;Non vérifié;non
+64418;Noguères;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;2700;61;216;121;Non vérifié;non
+64419;Nousty;64;eau potable : territoire ex SMEAVO;52474;2024;76,0;2,2;6,8;66,4;conforme;391406;27105;47;118;1572;Non vérifié;non
+64420;Ogenne-Camptort;64;eau potable;52526;2024;75,7;1,2;3,8;65,8;conforme;116070;5199;59;118;241;Non vérifié;non
+64421;Ogeu-les-Bains;64;eau potable;52467;2024;71,5;1,7;4,2;65,8;conforme;151799;8557;18;161;1290;Non vérifié;non
+64422;Oloron-Sainte-Marie;64;eau potable;52467;2024;71,5;1,7;4,2;65,8;conforme;151799;70875;18;161;10684;Non vérifié;non
+64423;Oraàs;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;6995;104;172;184;Non vérifié;non
+64424;Ordiarp;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;8699;44;83;547;Non vérifié;non
+64425;Orègue;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;8444;44;83;531;Non vérifié;non
+64426;Orin;64;eau potable;52472;2024;81,3;1,5;6,4;66,3;conforme;25185;3297;34;86;269;Non vérifié;non
+64427;Orion;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;5627;104;172;148;Non vérifié;non
+64428;Orriule;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;5322;104;172;140;Non vérifié;non
+64429;Orsanco;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;1622;44;83;102;Non vérifié;non
+64430;Orthez;64;eau potable;52470;2024;76,2;1,2;3,8;65,8;conforme;46428;40518;10;119;10881;Non vérifié;non
+64431;Os-Marsillon;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;12206;61;216;547;Non vérifié;non
+64432;Ossas-Suhare;64;eau potable : Pays de Soule;280614;2024;73,6;1,2;3,3;65,7;conforme;262787;3489;105;171;91;Non vérifié;non
+64433;Osse-en-Aspe;64;eau potable;52304;2024;63,5;3,6;6,2;66,2;non conforme;12483;12483;104;210;330;Non vérifié;non
+64434;Ossenx;64;eau potable;52526;2024;75,7;1,2;3,8;65,8;conforme;116070;1100;59;118;51;Non vérifié;non
+64435;Osserain-Rivareyte;64;eau potable : Osserain-Rivareyte (Ex SIAEP Saleys);280634;2024;66,2;5,0;9,8;67,0;non conforme;17976;17976;210;320;235;Non vérifié;non
+64436;Ossès;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;13963;44;83;878;Non vérifié;non
+64437;Ostabat-Asme;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;3594;44;83;226;Non vérifié;non
+64438;Ouillon;64;eau potable : territoire ex SMEAVO;52474;2024;76,0;2,2;6,8;66,4;conforme;391406;9535;47;118;553;Non vérifié;non
+64439;Ousse;64;eau potable : territoire ex SMEAVO;52474;2024;76,0;2,2;6,8;66,4;conforme;391406;28830;47;118;1672;Non vérifié;non
+64440;Ozenx-Montestrucq;64;eau potable;52470;2024;76,2;1,2;3,8;65,8;conforme;46428;1385;10;119;372;Non vérifié;non
+64441;Pagolle;64;eau potable : Pays de Soule;280614;2024;73,6;1,2;3,3;65,7;conforme;262787;9432;105;171;246;Non vérifié;non
+64442;Parbayse;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;7051;61;216;316;Non vérifié;non
+64443;Pardies;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;20752;61;216;930;Non vérifié;non
+64444;Pardies-Piétat;64;eau potable;213709;2024;77,2;2,0;6,7;66,3;conforme;426320;6564;41;109;434;Non vérifié;non
+64445;Pau;64;eau potable;52446;2024;77,8;14,1;49,5;74,9;conforme;1595415;1595415;54;132;80441;Non vérifié;non
+64446;Peyrelongue-Abos;64;eau potable : Secteur Nord : Ex Territoire Lembeye et enclaves;280194;2024;73,4;1,3;3,7;65,7;conforme;168908;3903;77;143;139;Non vérifié;non
+64447;Piets-Plasence-Moustrou;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;3182;66;137;133;Non vérifié;non
+64448;Poey-de-Lescar;64;eau potable;52480;2024;81,8;2,8;12,8;67,6;conforme;204400;24913;36;80;1876;Non vérifié;non
+64449;Poey-d'Oloron;64;eau potable;52473;2024;51,9;5,2;5,6;66,1;non conforme;130962;7061;119;338;163;Non vérifié;non
+64450;Pomps;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;7057;66;137;295;Non vérifié;non
+64451;Ponson-Debat-Pouts;64;eau potable : SEcteur Nord : ex Territoire Montaner;213712;2024;71,8;1,3;3,4;65,7;conforme;63094;2873;84;158;94;Non vérifié;non
+64452;Ponson-Dessus;64;eau potable : SEcteur Nord : ex Territoire Montaner;213712;2024;71,8;1,3;3,4;65,7;conforme;63094;7978;84;158;261;Non vérifié;non
+64453;Pontacq;64;eau potable : territoire ex SMEAVO;52474;2024;76,0;2,2;6,8;66,4;conforme;391406;50435;47;118;2925;Non vérifié;non
+64454;Pontiacq-Viellepinte;64;eau potable : SEcteur Nord : ex Territoire Montaner;213712;2024;71,8;1,3;3,4;65,7;conforme;63094;5197;84;158;170;Non vérifié;non
+64455;Portet;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;3852;66;137;161;Non vérifié;non
+64456;Pouliacq;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;1172;66;137;49;Non vérifié;non
+64457;Poursiugues-Boucoue;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;4378;66;137;183;Non vérifié;non
+64458;Préchacq-Josbaig;64;eau potable;52469;2024;76,8;1,7;5,5;66,1;conforme;15450;6390;59;115;299;Non vérifié;non
+64459;Préchacq-Navarrenx;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;3972;61;216;178;Non vérifié;non
+64460;Précilhon;64;eau potable;52448;2024;96,5;0,3;7,7;66,5;conforme;819;819;5;14;409;Non vérifié;non
+64461;Puyoô;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;40944;104;172;1077;Non vérifié;non
+64462;Ramous;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;17868;104;172;470;Non vérifié;non
+64463;Rébénacq;64;eau potable;52529;2024;77,8;1,2;4,4;65,9;conforme;105545;9801;42;101;639;Non vérifié;non
+64464;Ribarrouy;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;1890;66;137;79;Non vérifié;non
+64465;Riupeyrous;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;5741;66;137;240;Non vérifié;non
+64466;Rivehaute;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;10303;104;172;271;Non vérifié;non
+64467;Rontignon;64;eau potable : Territoire n°1;197904;2024;81,0;3,2;13,6;67,7;conforme;955424;11432;36;86;875;Non vérifié;non
+64468;Roquiague;64;eau potable : Pays de Soule;280614;2024;73,6;1,2;3,3;65,7;conforme;262787;4639;105;171;121;Non vérifié;non
+64469;Saint-Abit;64;eau potable;213709;2024;77,2;2,0;6,7;66,3;conforme;426320;4447;41;109;294;Non vérifié;non
+64470;Saint-Armou;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;14569;66;137;609;Non vérifié;non
+64471;Saint-Boès;64;eau potable;52449;2024;91,8;0,3;3,6;65,7;conforme;1862;1862;14;31;376;Non vérifié;non
+64472;Saint-Castin;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;20621;66;137;862;Non vérifié;non
+64473;Sainte-Colome;64;eau potable;52529;2024;77,8;1,2;4,4;65,9;conforme;105545;5430;42;101;354;Non vérifié;non
+64474;Saint-Dos;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;6083;104;172;160;Non vérifié;non
+64475;Sainte-Engrâce;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;2688;44;83;169;Non vérifié;non
+64476;Saint-Esteben;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;7029;44;83;442;Non vérifié;non
+64477;Saint-Étienne-de-Baïgorry;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;24283;44;83;1527;Non vérifié;non
+64478;Saint-Faust;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;16467;61;216;738;Non vérifié;non
+64479;Saint-Girons-en-Béarn;64;eau potable;52511;2024;68,2;1,9;4,1;65,8;conforme;351466;4536;67;175;186;Non vérifié;non
+64480;Saint-Gladie-Arrive-Munein;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;7337;104;172;193;Non vérifié;non
+64481;Saint-Goin;64;eau potable;52472;2024;81,3;1,5;6,4;66,3;conforme;25185;2684;34;86;219;Non vérifié;non
+64482;Saint-Jammes;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;15358;66;137;642;Non vérifié;non
+64483;Saint-Jean-de-Luz;64;eau potable : Nivelle;280594;2024;91,3;1,4;15,0;68,0;conforme;272261;108259;20;36;14857;Non vérifié;non
+64484;Saint-Jean-le-Vieux;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;14312;44;83;900;Non vérifié;non
+64485;Saint-Jean-Pied-de-Port;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;23520;44;83;1479;Non vérifié;non
+64486;Saint-Jean-Poudge;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;1890;66;137;79;Non vérifié;non
+64487;Saint-Just-Ibarre;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;3133;44;83;197;Non vérifié;non
+64488;Saint-Laurent-Bretagne;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;10741;66;137;449;Non vérifié;non
+64489;Saint-Martin-d'Arberoue;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;5566;44;83;350;Non vérifié;non
+64490;Saint-Martin-d'Arrossa;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;8635;44;83;543;Non vérifié;non
+64491;Saint-Médard;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;4928;66;137;206;Non vérifié;non
+64492;Saint-Michel;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;4612;44;83;290;Non vérifié;non
+64493;Saint-Palais;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;35049;44;83;2204;Non vérifié;non
+64494;Saint-Pé-de-Léren;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;10303;104;172;271;Non vérifié;non
+64495;Saint-Pée-sur-Nivelle;64;eau potable : Nivelle;280594;2024;91,3;1,4;15,0;68,0;conforme;272261;52931;20;36;7264;Non vérifié;non
+64496;Saint-Pierre-d'Irube;64;eau potable : Nive-Adour/Errobi;52531;2024;84,1;2,3;12,4;67,5;conforme;663365;68523;32;75;5900;Non vérifié;non
+64498;Saint-Vincent;64;eau potable;213709;2024;77,2;2,0;6,7;66,3;conforme;426320;6080;41;109;402;Non vérifié;non
+64499;Salies-de-Béarn;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;180276;104;172;4742;Non vérifié;non
+64500;Salles-Mongiscard;64;eau potable;52458;2024;80,3;0,9;3,8;65,8;conforme;4928;4928;43;86;315;Non vérifié;non
+64501;Sallespisse;64;eau potable;52511;2024;68,2;1,9;4,1;65,8;conforme;351466;14413;67;175;591;Non vérifié;non
+64502;Sames;64;eau potable : Pays de Bidache;212612;2024;56,0;4,1;5,3;66,1;non conforme;541254;60328;233;296;709;Non vérifié;non
+64503;Samsons-Lion;64;eau potable : Secteur Nord : Ex Territoire Lembeye et enclaves;280194;2024;73,4;1,3;3,7;65,7;conforme;168908;2780;77;143;99;Non vérifié;non
+64504;Sare;64;eau potable : Nivelle;280594;2024;91,3;1,4;15,0;68,0;conforme;272261;20133;20;36;2763;Non vérifié;non
+64505;Sarpourenx;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;6359;61;216;285;Non vérifié;non
+64506;Sarrance;64;eau potable;52305;2024;45,9;3,1;2,6;65,5;non conforme;26024;26024;469;435;152;Non vérifié;non
+64507;Saubole;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;3732;66;137;156;Non vérifié;non
+64508;Saucède;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;2789;61;216;125;Non vérifié;non
+64509;Sauguis-Saint-Étienne;64;eau potable : Pays de Soule;280614;2024;73,6;1,2;3,3;65,7;conforme;262787;6595;105;171;172;Non vérifié;non
+64510;Sault-de-Navailles;64;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;27464;77;115;976;Non vérifié;non
+64511;Sauvagnon;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;85619;66;137;3579;Non vérifié;non
+64512;Sauvelade;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;6092;61;216;273;Non vérifié;non
+64513;Sauveterre-de-Béarn;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;52273;104;172;1375;Non vérifié;non
+64514;Séby;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;5024;66;137;210;Non vérifié;non
+64515;Sedze-Maubecq;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;5383;66;137;225;Non vérifié;non
+64516;Sedzère;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;9713;66;137;406;Non vérifié;non
+64517;Séméacq-Blachon;64;eau potable : Secteur Nord : Ex Territoire Lembeye et enclaves;280194;2024;73,4;1,3;3,7;65,7;conforme;168908;4465;77;143;159;Non vérifié;non
+64518;Sendets;64;eau potable : territoire ex SMEAVO;52474;2024;76,0;2,2;6,8;66,4;conforme;391406;20122;47;118;1167;Non vérifié;non
+64519;Serres-Castet;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;105690;66;137;4418;Non vérifié;non
+64520;Serres-Morlaàs;64;eau potable : Territoire n°1;197904;2024;81,0;3,2;13,6;67,7;conforme;955424;11367;36;86;870;Non vérifié;non
+64521;Serres-Sainte-Marie;64;eau potable;52511;2024;68,2;1,9;4,1;65,8;conforme;351466;14169;67;175;581;Non vérifié;non
+64522;Sévignacq-Meyracq;64;eau potable;52529;2024;77,8;1,2;4,4;65,9;conforme;105545;8850;42;101;577;Non vérifié;non
+64523;Sévignacq;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;19258;66;137;805;Non vérifié;non
+64524;Simacourbe;64;eau potable : Secteur Nord : Ex Territoire Lembeye et enclaves;280194;2024;73,4;1,3;3,7;65,7;conforme;168908;11906;77;143;424;Non vérifié;non
+64525;Siros;64;eau potable;52480;2024;81,8;2,8;12,8;67,6;conforme;204400;11261;36;80;848;Non vérifié;non
+64526;Soumoulou;64;eau potable : territoire ex SMEAVO;52474;2024;76,0;2,2;6,8;66,4;conforme;391406;27295;47;118;1583;Non vérifié;non
+64527;Souraïde;64;eau potable : Nive-Adour/Errobi;52531;2024;84,1;2,3;12,4;67,5;conforme;663365;17096;32;75;1472;Non vérifié;non
+64528;Suhescun;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;2624;44;83;165;Non vérifié;non
+64529;Sus;64;eau potable;52526;2024;75,7;1,2;3,8;65,8;conforme;116070;8004;59;118;371;Non vérifié;non
+64530;Susmiou;64;eau potable;52526;2024;75,7;1,2;3,8;65,8;conforme;116070;7508;59;118;348;Non vérifié;non
+64531;Tabaille-Usquain;64;eau potable;331414;2024;70,3;2,6;6,1;66,2;conforme;538966;1787;104;172;47;Non vérifié;non
+64532;Tadousse-Ussau;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;1746;66;137;73;Non vérifié;non
+64533;Tardets-Sorholus;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;9367;44;83;589;Non vérifié;non
+64534;Taron-Sadirac-Viellenave;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;4019;66;137;168;Non vérifié;non
+64535;Tarsacq;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;12228;61;216;548;Non vérifié;non
+64536;Thèze;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;21483;66;137;898;Non vérifié;non
+64537;Trois-Villes;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;2354;44;83;148;Non vérifié;non
+64538;Uhart-Cize;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;12977;44;83;816;Non vérifié;non
+64539;Uhart-Mixe;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;3387;44;83;213;Non vérifié;non
+64540;Urcuit;64;eau potable : Nive-Adour/Errobi;52531;2024;84,1;2,3;12,4;67,5;conforme;663365;35388;32;75;3047;Non vérifié;non
+64541;Urdès;64;eau potable;52511;2023;73,4;1,5;4,2;65,8;conforme;276871;5830;52;137;310;Sans anomalie apparente;non
+64542;Urdos;64;eau potable;52307;2024;61,7;4,3;7,0;66,4;non conforme;10986;10986;424;224;71;Non vérifié;non
+64543;Urepel;64;eau potable : Régie_Agglomération_Eau_Potable;260795;2024;85,4;2,7;15,9;68,2;conforme;2976210;4310;44;83;271;Non vérifié;non
+64544;Urost;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;1842;66;137;77;Non vérifié;non
+64545;Urrugne;64;eau potable : Bidassoa;52548;2024;90,7;2,3;22,6;69,5;conforme;262142;80497;21;41;10661;Non vérifié;non
+64546;Urt;64;eau potable : Nive-Adour/Errobi;52531;2024;84,1;2,3;12,4;67,5;conforme;663365;27247;32;75;2346;Non vérifié;non
+64547;Ustaritz;64;eau potable : Nive-Adour/Errobi;52531;2024;84,1;2,3;12,4;67,5;conforme;663365;91717;32;75;7897;Non vérifié;non
+64548;Uzan;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;3947;66;137;165;Non vérifié;non
+64549;Uzein;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;31722;66;137;1326;Non vérifié;non
+64550;Uzos;64;eau potable : Territoire n°1;197904;2024;81,0;3,2;13,6;67,7;conforme;955424;11419;36;86;874;Non vérifié;non
+64551;Verdets;64;eau potable;52473;2024;51,9;5,2;5,6;66,1;non conforme;130962;12997;119;338;300;Non vérifié;non
+64552;Vialer;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;3445;66;137;144;Non vérifié;non
+64554;Viellenave-d'Arthez;64;eau potable;52511;2024;68,2;1,9;4,1;65,8;conforme;351466;5682;67;175;233;Non vérifié;non
+64555;Viellenave-de-Navarrenx;64;eau potable;52526;2024;75,7;1,2;3,8;65,8;conforme;116070;3409;59;118;158;Non vérifié;non
+64556;Vielleségure;64;eau potable;52528;2024;62,9;3,0;5,1;66,0;non conforme;1008243;8390;61;216;376;Non vérifié;non
+64557;Vignes;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;11076;66;137;463;Non vérifié;non
+64558;Villefranque;64;eau potable : Nive-Adour/Errobi;52531;2024;84,1;2,3;12,4;67,5;conforme;663365;35644;32;75;3069;Non vérifié;non
+64559;Viodos-Abense-de-Bas;64;eau potable : Pays de Soule;280614;2024;73,6;1,2;3,3;65,7;conforme;262787;28640;105;171;747;Non vérifié;non
+64560;Viven;64;eau potable;213711;2024;72,6;1,8;4,9;66,0;conforme;994586;4043;66;137;169;Non vérifié;non

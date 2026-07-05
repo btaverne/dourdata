@@ -7,503 +7,503 @@
 # Méthodologie et code : https://github.com/btaverne/dourdata
 # Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
 # Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
-Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
-24001;Abjat-sur-Bandiat;24;eau potable;137727;2024;70,1;1,2;2,7;65,5;conforme;314909;15606;67;162;639;Non vérifié
-24002;Agonac;24;eau potable : Secteur : NORD;137688;2024;67,6;2,1;4,4;65,9;conforme;1102741;42129;65;176;1765;Non vérifié
-24004;Ajat;24;eau potable : VALLEE AUVEZERE MANOIRE;213817;2024;79,5;0,9;3,4;65,7;conforme;339669;3438;31;99;307;Non vérifié
-24005;Alles-sur-Dordogne;24;eau potable : CT RDE 24;345574;2024;81,5;0,8;3,6;65,7;conforme;340793;5238;38;84;380;Non vérifié
-24006;Allas-les-Mines;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;10016;135;176;203;Non vérifié
-24007;Allemans;24;eau potable : CT Bassin Ribéracois;345974;2024;79,6;1,0;4,0;65,8;conforme;128871;8923;45;95;544;Non vérifié
-24008;Angoisse;24;eau potable : Secteur PAYZAC-SAVIGNAC-LEDRIER;137726;2024;75,9;0,6;1,9;65,4;conforme;87221;9266;42;117;598;Non vérifié
-24009;Anlhiac;24;eau potable : Secteur EXCIDEUIL;137717;2024;75,4;1,1;3,5;65,7;conforme;45739;4562;47;119;264;Non vérifié
-24010;Annesse-et-Beaulieu;24;eau potable : Secteur : NORD;137688;2024;67,6;2,1;4,4;65,9;conforme;1102741;36066;65;176;1511;Non vérifié
-24012;Archignac;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;7474;50;104;409;Non vérifié
-24014;Aubas;24;eau potable : CT RDE 24;345574;2024;81,5;0,8;3,6;65,7;conforme;340793;8463;38;84;614;Non vérifié
-24015;Audrix;24;eau potable;137465;2023;72,9;1,5;4,2;65,8;conforme;7118;7118;68;132;287;Sans anomalie apparente
-24016;Augignac;24;eau potable;137727;2024;70,1;1,2;2,7;65,5;conforme;314909;20027;67;162;820;Non vérifié
-24018;Auriac-du-Périgord;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;7255;50;104;397;Non vérifié
-24019;Azerat;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;8461;50;104;463;Non vérifié
-24020;La Bachellerie;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;16282;50;104;891;Non vérifié
-24021;Badefols-d'Ans;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;7693;50;104;421;Non vérifié
-24022;Badefols-sur-Dordogne;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;9966;135;176;202;Non vérifié
-24023;Baneuil;24;eau potable : CT RDE 24;345574;2024;81,5;0,8;3,6;65,7;conforme;340793;4425;38;84;321;Non vérifié
-24024;Bardou;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;1205;75;149;44;Non vérifié
-24025;Bars;24;eau potable : VALLEE AUVEZERE MANOIRE;213817;2024;79,5;0,9;3,4;65,7;conforme;339669;2755;31;99;246;Non vérifié
-24026;Bassillac et Auberoche;24;eau potable : VALLEE AUVEZERE MANOIRE;213817;2024;79,5;0,9;3,4;65,7;conforme;339669;48841;31;99;4361;Non vérifié
-24027;Bayac;24;eau potable : CT RDE 24;345574;2024;81,5;0,8;3,6;65,7;conforme;340793;4893;38;84;355;Non vérifié
-24028;Beaumontois en Périgord;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;85503;135;176;1733;Non vérifié
-24029;Beaupouyet;24;eau potable : Secteur MUSSIDAN - NEUVIC;307594;2024;73,6;1,4;3,8;65,8;conforme;428218;13365;66;136;553;Non vérifié
-24030;Beauregard-de-Terrasson;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;13358;50;104;731;Non vérifié
-24031;Beauregard-et-Bassac;24;eau potable : secteur : SUD;208887;2024;68,5;1,3;2,9;65,6;conforme;138208;11072;98;166;309;Non vérifié
-24032;Beauronne;24;eau potable : Secteur MUSSIDAN - NEUVIC;307594;2024;73,6;1,4;3,8;65,8;conforme;428218;8991;66;136;372;Non vérifié
-24034;Beleymas;24;eau potable : Secteur MUSSIDAN - NEUVIC;307594;2024;73,6;1,4;3,8;65,8;conforme;428218;6961;66;136;288;Non vérifié
-24035;Pays de Belvès;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;64041;135;176;1298;Non vérifié
-24036;Berbiguières;24;eau potable : Secteur MARNAC BERBIGUIERE;137721;2024;67,8;1,1;2,2;65,4;conforme;13900;6759;105;180;177;Non vérifié
-24037;Bergerac;24;eau potable : Secteur VILLE de BERGERAC;137473;2024;84,5;3,4;18,6;68,7;conforme;278679;278679;28;67;27110;Non vérifié
-24038;Bertric-Burée;24;eau potable : CT Bassin Ribéracois;345974;2024;79,6;1,0;4,0;65,8;conforme;128871;7299;45;95;445;Non vérifié
-24039;Besse;24;eau potable : Vitrac-Céou;137737;2024;60,7;2,9;4,5;65,9;non conforme;884895;6399;118;237;148;Non vérifié
-24040;Beynac-et-Cazenac;24;eau potable;137476;2024;68,5;2,3;5,0;66,0;conforme;25445;25445;176;169;397;Non vérifié
-24042;Biras;24;eau potable : Secteur : NORD;137688;2024;67,6;2,1;4,4;65,9;conforme;1102741;17448;65;176;731;Non vérifié
-24043;Biron;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;7450;135;176;151;Non vérifié
-24045;Boisse;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;6873;75;149;251;Non vérifié
-24046;Boisseuilh;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;2010;50;104;110;Non vérifié
-24048;Bonneville-et-Saint-Avit-de-Fumadières;24;eau potable : CT Vélines;137707;2024;77,4;1,8;6,1;66,2;conforme;301491;6907;63;108;299;Non vérifié
-24050;Borrèze;24;eau potable : SAUR du 01/01/2023 au 31/12/2031 (Territoires : Eaux du Doux, Moyenne Vallée de la Dordogne, Floirac, Martel et Ex. Blagour);325594;2024;68,8;1,6;3,4;65,7;conforme;371774;10936;85;185;354;Non vérifié
-24051;Bosset;24;eau potable : Secteur Saint-Pierre-d'Eyraud;332734;2024;80,2;0,9;3,5;65,7;conforme;34263;3239;38;113;234;Non vérifié
-24052;Bouillac;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;5970;135;176;121;Non vérifié
-24053;Boulazac Isle Manoire;24;eau potable : BOULAZAC Isle Manoire;267694;2024;76,1;3,7;11,7;67,3;conforme;137211;132281;34;115;10759;Non vérifié
-24054;Bouniagues;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;15828;75;149;578;Non vérifié
-24055;Bourdeilles;24;eau potable : Secteur : NORD;137688;2024;67,6;2,1;4,4;65,9;conforme;1102741;18737;65;176;785;Non vérifié
-24056;Le Bourdeix;24;eau potable;137727;2024;70,1;1,2;2,7;65,5;conforme;314909;6008;67;162;246;Non vérifié
-24057;Bourg-des-Maisons;24;eau potable;345494;2024;66,4;1,1;2,2;65,4;conforme;248027;2667;100;189;73;Non vérifié
-24058;Bourg-du-Bost;24;eau potable : CT Bois de la Côte;345994;2024;81,3;0,7;2,9;65,6;conforme;111600;3448;38;90;247;Non vérifié
-24059;Bourgnac;24;eau potable : Secteur MUSSIDAN - NEUVIC;307594;2024;73,6;1,4;3,8;65,8;conforme;428218;8556;66;136;354;Non vérifié
-24060;Bourniquel;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;3059;135;176;62;Non vérifié
-24061;Bourrou;24;eau potable : Secteur : NORD;137688;2024;67,6;2,1;4,4;65,9;conforme;1102741;3318;65;176;139;Non vérifié
-24062;Bouteilles-Saint-Sébastien;24;eau potable;345494;2024;66,4;1,1;2,2;65,4;conforme;248027;6285;100;189;172;Non vérifié
-24063;Bouzic;24;eau potable : Vitrac-Céou;137737;2024;60,7;2,9;4,5;65,9;non conforme;884895;6917;118;237;160;Non vérifié
-24064;Brantôme en Périgord;24;eau potable;345394;2024;76,4;0,9;2,9;65,6;conforme;248231;76471;56;113;3763;Non vérifié
-24066;Brouchaud;24;eau potable : VALLEE AUVEZERE MANOIRE;213817;2024;79,5;0,9;3,4;65,7;conforme;339669;2509;31;99;224;Non vérifié
-24067;Le Bugue;24;eau potable : CT RDE 24;345574;2024;81,5;0,8;3,6;65,7;conforme;340793;36707;38;84;2663;Non vérifié
-24068;Le Buisson-de-Cadouin;24;eau potable : CT RDE 24;345574;2024;81,5;0,8;3,6;65,7;conforme;340793;27085;38;84;1965;Non vérifié
-24069;Bussac;24;eau potable : Secteur : NORD;137688;2024;67,6;2,1;4,4;65,9;conforme;1102741;9046;65;176;379;Non vérifié
-24070;Busserolles;24;eau potable;137727;2024;70,1;1,2;2,7;65,5;conforme;314909;12602;67;162;516;Non vérifié
-24071;Bussière-Badil;24;eau potable;137727;2024;70,1;1,2;2,7;65,5;conforme;314909;9427;67;162;386;Non vérifié
-24073;Calès;24;eau potable : Secteur TREMOLAT CALES;137733;2024;85,8;0,5;3,2;65,6;conforme;11074;4115;31;58;369;Non vérifié
-24074;Calviac-en-Périgord;24;eau potable : Carlux - Saint-Vincent;345454;2024;75,5;1,4;4,3;65,9;conforme;212954;16397;82;121;546;Non vérifié
-24075;Campagnac-lès-Quercy;24;eau potable : Vitrac-Céou;137737;2024;60,7;2,9;4,5;65,9;non conforme;884895;13964;118;237;323;Non vérifié
-24076;Campagne;24;eau potable : CT RDE 24;345574;2024;81,5;0,8;3,6;65,7;conforme;340793;5734;38;84;416;Non vérifié
-24077;Campsegret;24;eau potable : secteur Nord;337574;2024;69,8;1,7;3,8;65,8;conforme;476525;11045;74;163;407;Non vérifié
-24080;Capdrot;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;22597;135;176;458;Non vérifié
-24081;Carlux;24;eau potable : Carlux - Saint-Vincent;345454;2024;75,5;1,4;4,3;65,9;conforme;212954;20151;82;121;671;Non vérifié
-24082;Carsac-Aillac;24;eau potable : Vitrac-Céou;137737;2024;60,7;2,9;4,5;65,9;non conforme;884895;68568;118;237;1586;Non vérifié
-24083;Carsac-de-Gurson;24;eau potable;137684;2024;86,5;0,6;4,0;65,8;conforme;137617;1955;23;55;231;Non vérifié
-24084;Carves;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;4835;135;176;98;Non vérifié
-24085;La Cassagne;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;2723;50;104;149;Non vérifié
-24086;Castelnaud-la-Chapelle;24;eau potable : Vitrac-Céou;137737;2024;60,7;2,9;4,5;65,9;non conforme;884895;19498;118;237;451;Non vérifié
-24087;Castels et Bézenac;24;eau potable (CASTELS);137493;2024;82,2;1,0;4,7;65,9;conforme;15104;15104;51;113;813;Non vérifié
-24088;Cause-de-Clérans;24;eau potable : Secteur STE ALVERE LALINDE NORD;137729;2024;81,9;0,6;2,8;65,6;conforme;61670;6119;51;77;331;Non vérifié
-24089;Cazoulès;24;eau potable : Secteur CARLUX;137713;2021;66,6;1,6;3,3;65,7;conforme;111538;15310;92;189;456;Sans anomalie apparente
-24090;Celles;24;eau potable : CT Bassin Ribéracois;345974;2024;79,6;1,0;4,0;65,8;conforme;128871;10153;45;95;619;Non vérifié
-24091;Cénac-et-Saint-Julien;24;eau potable : Vitrac-Céou;137737;2024;60,7;2,9;4,5;65,9;non conforme;884895;51145;118;237;1183;Non vérifié
-24095;Chaleix;24;eau potable : CT RDE 24;345574;2024;81,5;0,8;3,6;65,7;conforme;340793;5582;38;84;405;Non vérifié
-24096;Champagnac-de-Belair;24;eau potable;345394;2024;76,4;0,9;2,9;65,6;conforme;248231;15587;56;113;767;Non vérifié
-24097;Champagne-et-Fontaine;24;eau potable;345494;2024;66,4;1,1;2,2;65,4;conforme;248027;12642;100;189;346;Non vérifié
-24098;Champcevinel;24;eau potable : PERIGUEUX;137744;2024;87,1;4,7;31,7;71,3;conforme;358540;34828;31;64;3126;Non vérifié
-24100;Champniers-et-Reilhac;24;eau potable;137727;2024;70,1;1,2;2,7;65,5;conforme;314909;13213;67;162;541;Non vérifié
-24101;Champs-Romain;24;eau potable;137727;2024;70,1;1,2;2,7;65,5;conforme;314909;7107;67;162;291;Non vérifié
-24102;Chancelade;24;eau potable : Secteur : NORD;137688;2024;67,6;2,1;4,4;65,9;conforme;1102741;106646;65;176;4468;Non vérifié
-24104;Chantérac;24;eau potable;137705;2024;76,0;0,9;3,0;65,6;conforme;89401;9208;39;124;652;Non vérifié
-24105;Chapdeuil;24;eau potable;345494;2024;66,4;1,1;2,2;65,4;conforme;248027;5189;100;189;142;Non vérifié
-24106;La Chapelle-Aubareil;24;eau potable : CT RDE 24;345574;2024;81,5;0,8;3,6;65,7;conforme;340793;7471;38;84;542;Non vérifié
-24107;La Chapelle-Faucher;24;eau potable;345394;2024;76,4;0,9;2,9;65,6;conforme;248231;8027;56;113;395;Non vérifié
-24108;La Chapelle-Gonaguet;24;eau potable : Secteur : NORD;137688;2024;67,6;2,1;4,4;65,9;conforme;1102741;25038;65;176;1049;Non vérifié
-24109;La Chapelle-Grésignac;24;eau potable;345494;2024;66,4;1,1;2,2;65,4;conforme;248027;3764;100;189;103;Non vérifié
-24110;La Chapelle-Montabourlet;24;eau potable;345494;2024;66,4;1,1;2,2;65,4;conforme;248027;2046;100;189;56;Non vérifié
-24111;La Chapelle-Montmoreau;24;eau potable;345394;2024;76,4;0,9;2,9;65,6;conforme;248231;1524;56;113;75;Non vérifié
-24113;La Chapelle-Saint-Jean;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;1498;50;104;82;Non vérifié
-24114;Chassaignes;24;eau potable : CT Bois de la Côte;345994;2024;81,3;0,7;2,9;65,6;conforme;111600;1089;38;90;78;Non vérifié
-24115;Château-l'Évêque;24;eau potable : Secteur : NORD;137688;2024;67,6;2,1;4,4;65,9;conforme;1102741;51509;65;176;2158;Non vérifié
-24116;Châtres;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;3289;50;104;180;Non vérifié
-24117;Les Coteaux Périgourdins;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;10124;50;104;554;Non vérifié
-24119;Cherval;24;eau potable;345494;2024;66,4;1,1;2,2;65,4;conforme;248027;8112;100;189;222;Non vérifié
-24120;Cherveix-Cubas;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;10178;50;104;557;Non vérifié
-24121;Chourgnac;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;1261;50;104;69;Non vérifié
-24122;Cladech;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;4243;135;176;86;Non vérifié
-24123;Clermont-de-Beauregard;24;eau potable : secteur Nord;337574;2024;69,8;1,7;3,8;65,8;conforme;476525;3256;74;163;120;Non vérifié
-24124;Clermont-d'Excideuil;24;eau potable : Secteur NANTHIAT;137725;2024;81,0;0,6;2,4;65,5;conforme;78466;3640;39;99;255;Non vérifié
-24126;Colombier;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;7804;75;149;285;Non vérifié
-24128;Comberanche-et-Épeluche;24;eau potable : CT Bassin Ribéracois;345974;2024;79,6;1,0;4,0;65,8;conforme;128871;2706;45;95;165;Non vérifié
-24129;Condat-sur-Trincou;24;eau potable;345394;2024;76,4;0,9;2,9;65,6;conforme;248231;10242;56;113;504;Non vérifié
-24130;Condat-sur-Vézère;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;15697;50;104;859;Non vérifié
-24131;Connezac;24;eau potable;345494;2024;66,4;1,1;2,2;65,4;conforme;248027;2887;100;189;79;Non vérifié
-24132;Conne-de-Labarde;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;6819;75;149;249;Non vérifié
-24133;La Coquille;24;eau potable : CT RDE 24;345574;2024;81,5;0,8;3,6;65,7;conforme;340793;17616;38;84;1278;Non vérifié
-24134;Corgnac-sur-l'Isle;24;eau potable : CT Vallée de l'Isle;331594;2024;83,6;1,6;7,9;66,6;conforme;76814;18615;60;203;854;Non vérifié
-24135;Cornille;24;eau potable : CORNILLE;267654;2024;77,3;0,8;2,8;65,6;conforme;8500;8500;34;104;687;Non vérifié
-24136;Coubjours;24;eau potable;179745;2024;86,1;1,4;8,9;66,8;conforme;950460;1021;26;57;109;Non vérifié
-24137;Coulaures;24;eau potable : CT Vallée de l'Isle;331594;2024;83,6;1,6;7,9;66,6;conforme;76814;16740;60;203;768;Non vérifié
-24138;Coulounieix-Chamiers;24;eau potable : Secteur : NORD;137688;2024;67,6;2,1;4,4;65,9;conforme;1102741;186941;65;176;7832;Non vérifié
-24139;Coursac;24;eau potable : Secteur : NORD;137688;2024;67,6;2,1;4,4;65,9;conforme;1102741;56808;65;176;2380;Non vérifié
-24140;Cours-de-Pile;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;43403;75;149;1585;Non vérifié
-24141;Coutures;24;eau potable : CT Bassin Ribéracois;345974;2024;79,6;1,0;4,0;65,8;conforme;128871;3264;45;95;199;Non vérifié
-24142;Coux et Bigaroque-Mouzens;24;eau potable : Secreur: MOUZENS;137574;2024;71,5;1,4;3,5;65,7;conforme;7849;7849;17;147;1244;Non vérifié
-24143;Couze-et-Saint-Front;24;eau potable : CT RDE 24;345574;2024;81,5;0,8;3,6;65,7;conforme;340793;9773;38;84;709;Non vérifié
-24144;Creyssac;24;eau potable : Secteur : NORD;137688;2024;67,6;2,1;4,4;65,9;conforme;1102741;2482;65;176;104;Non vérifié
-24145;Creysse;24;eau potable : secteur Nord;337574;2024;69,8;1,7;3,8;65,8;conforme;476525;47300;74;163;1743;Non vérifié
-24147;Cubjac-Auvézère-Val d'Ans;24;eau potable : VALLEE AUVEZERE MANOIRE;213817;2024;79,5;0,9;3,4;65,7;conforme;339669;12622;31;99;1127;Non vérifié
-24148;Cunèges;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;8599;75;149;314;Non vérifié
-24150;Daglan;24;eau potable : Vitrac-Céou;137737;2024;60,7;2,9;4,5;65,9;non conforme;884895;24643;118;237;570;Non vérifié
-24151;Doissat;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;4884;135;176;99;Non vérifié
-24152;Domme;24;eau potable : Vitrac-Céou;137737;2024;60,7;2,9;4,5;65,9;non conforme;884895;39169;118;237;906;Non vérifié
-24153;La Dornac;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;7437;50;104;407;Non vérifié
-24154;Douchapt;24;eau potable;137705;2024;76,0;0,9;3,0;65,6;conforme;89401;4986;39;124;353;Non vérifié
-24155;Douville;24;eau potable : secteur : SUD;208887;2024;68,5;1,3;2,9;65,6;conforme;138208;16232;98;166;453;Non vérifié
-24156;La Douze;24;eau potable : VALLEE AUVEZERE MANOIRE;213817;2024;79,5;0,9;3,4;65,7;conforme;339669;12891;31;99;1151;Non vérifié
-24157;Douzillac;24;eau potable : Secteur MUSSIDAN - NEUVIC;307594;2024;73,6;1,4;3,8;65,8;conforme;428218;20422;66;136;845;Non vérifié
-24158;Dussac;24;eau potable : Secteur NANTHIAT;137725;2024;81,0;0,6;2,4;65,5;conforme;78466;6095;39;99;427;Non vérifié
-24159;Échourgnac;24;eau potable;137684;2024;86,5;0,6;4,0;65,8;conforme;137617;3344;23;55;395;Non vérifié
-24160;Église-Neuve-de-Vergt;24;eau potable : VALLEE AUVEZERE MANOIRE;213817;2024;79,5;0,9;3,4;65,7;conforme;339669;6484;31;99;579;Non vérifié
-24161;Église-Neuve-d'Issac;24;eau potable : Secteur MUSSIDAN - NEUVIC;307594;2024;73,6;1,4;3,8;65,8;conforme;428218;2924;66;136;121;Non vérifié
-24162;Escoire;24;eau potable : BOULAZAC Isle Manoire;267694;2024;76,1;3,7;11,7;67,3;conforme;137211;4930;34;115;401;Non vérifié
-24163;Étouars;24;eau potable;137727;2024;70,1;1,2;2,7;65,5;conforme;314909;4054;67;162;166;Non vérifié
-24164;Excideuil;24;eau potable : Secteur EXCIDEUIL;137717;2024;75,4;1,1;3,5;65,7;conforme;45739;20753;47;119;1201;Non vérifié
-24165;Eygurande-et-Gardedeuil;24;eau potable;137684;2024;86,5;0,6;4,0;65,8;conforme;137617;3403;23;55;402;Non vérifié
-24167;Eymet;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;70349;75;149;2569;Non vérifié
-24168;Plaisance;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;11282;75;149;412;Non vérifié
-24171;Eyzerac;24;eau potable : Secteur NANTHIAT;137725;2024;81,0;0,6;2,4;65,5;conforme;78466;7722;39;99;541;Non vérifié
-24172;Les Eyzies;24;eau potable : Secteur MANAURIE;137695;2024;65,0;1,5;2,8;65,6;non conforme;101041;60465;146;195;1134;Non vérifié
-24174;Fanlac;24;eau potable : Secteur ST LEON SUR VEZERE;137730;2024;68,4;1,1;2,3;65,5;conforme;131439;4222;86;174;134;Non vérifié
-24175;Les Farges;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;5683;50;104;311;Non vérifié
-24176;Faurilles;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;986;75;149;36;Non vérifié
-24177;Faux-en-Périgord;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;18402;75;149;672;Non vérifié
-24179;La Feuillade;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;14984;50;104;820;Non vérifié
-24180;Firbeix;24;eau potable : CT RDE 24;345574;2024;81,5;0,8;3,6;65,7;conforme;340793;4052;38;84;294;Non vérifié
-24182;Le Fleix;24;eau potable : CT Vélines;137707;2024;77,4;1,8;6,1;66,2;conforme;301491;34374;63;108;1488;Non vérifié
-24183;Fleurac;24;eau potable : Secteur ST LEON SUR VEZERE;137730;2024;68,4;1,1;2,3;65,5;conforme;131439;10334;86;174;328;Non vérifié
-24184;Florimont-Gaumier;24;eau potable : Vitrac-Céou;137737;2024;60,7;2,9;4,5;65,9;non conforme;884895;7350;118;237;170;Non vérifié
-24186;Fonroque;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;9338;75;149;341;Non vérifié
-24188;Fossemagne;24;eau potable : VALLEE AUVEZERE MANOIRE;213817;2024;79,5;0,9;3,4;65,7;conforme;339669;6227;31;99;556;Non vérifié
-24189;Fougueyrolles;24;eau potable : CT Vélines;137707;2024;77,4;1,8;6,1;66,2;conforme;301491;10673;63;108;462;Non vérifié
-24190;Fouleix;24;eau potable : secteur : SUD;208887;2024;68,5;1,3;2,9;65,6;conforme;138208;9926;98;166;277;Non vérifié
-24191;Fraisse;24;eau potable : Secteur Saint-Pierre-d'Eyraud;332734;2024;80,2;0,9;3,5;65,7;conforme;34263;2367;38;113;171;Non vérifié
-24192;Gabillou;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;1736;50;104;95;Non vérifié
-24193;Gageac-et-Rouillac;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;11556;75;149;422;Non vérifié
-24194;Gardonne;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;44033;75;149;1608;Non vérifié
-24195;Gaugeac;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;5230;135;176;106;Non vérifié
-24196;Génis;24;eau potable : Secteur PAYZAC-SAVIGNAC-LEDRIER;137726;2024;75,9;0,6;1,9;65,4;conforme;87221;7995;42;117;516;Non vérifié
-24197;Ginestet;24;eau potable : secteur Nord;337574;2024;69,8;1,7;3,8;65,8;conforme;476525;20678;74;163;762;Non vérifié
-24199;Gout-Rossignol;24;eau potable;345494;2024;66,4;1,1;2,2;65,4;conforme;248027;13154;100;189;360;Non vérifié
-24200;Grand-Brassac;24;eau potable : Secteur : NORD;137688;2024;67,6;2,1;4,4;65,9;conforme;1102741;13247;65;176;555;Non vérifié
-24202;Granges-d'Ans;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;2741;50;104;150;Non vérifié
-24205;Grignols;24;eau potable : Secteur : NORD;137688;2024;67,6;2,1;4,4;65,9;conforme;1102741;15921;65;176;667;Non vérifié
-24206;Grives;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;5230;135;176;106;Non vérifié
-24207;Groléjac;24;eau potable : Vitrac-Céou;137737;2024;60,7;2,9;4,5;65,9;non conforme;884895;29658;118;237;686;Non vérifié
-24208;Grun-Bordas;24;eau potable : Secteur : NORD;137688;2024;67,6;2,1;4,4;65,9;conforme;1102741;5824;65;176;244;Non vérifié
-24209;Hautefaye;24;eau potable;345494;2024;66,4;1,1;2,2;65,4;conforme;248027;4494;100;189;123;Non vérifié
-24210;Hautefort;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;14729;50;104;806;Non vérifié
-24211;Issac;24;eau potable : Secteur MUSSIDAN - NEUVIC;307594;2024;73,6;1,4;3,8;65,8;conforme;428218;10562;66;136;437;Non vérifié
-24212;Issigeac;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;20374;75;149;744;Non vérifié
-24213;Jaure;24;eau potable : Secteur : NORD;137688;2024;67,6;2,1;4,4;65,9;conforme;1102741;4249;65;176;178;Non vérifié
-24214;Javerlhac-et-la-Chapelle-Saint-Robert;24;eau potable;137727;2024;70,1;1,2;2,7;65,5;conforme;314909;20271;67;162;830;Non vérifié
-24215;Jayac;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;3490;50;104;191;Non vérifié
-24216;La Jemaye-Ponteyraud;24;eau potable : CT Bois de la Côte;345994;2024;81,3;0,7;2,9;65,6;conforme;111600;2038;38;90;146;Non vérifié
-24217;Journiac;24;eau potable;137545;2021;71,4;1,1;2,6;65,5;conforme;20525;20525;113;152;496;Sans anomalie apparente
-24218;Jumilhac-le-Grand;24;eau potable;137546;2024;64,8;1,2;2,2;65,4;non conforme;44895;44895;109;200;1130;Non vérifié
-24220;Lacropte;24;eau potable : VALLEE AUVEZERE MANOIRE;213817;2024;79,5;0,9;3,4;65,7;conforme;339669;7828;31;99;699;Non vérifié
-24221;Rudeau-Ladosse;24;eau potable;345494;2024;66,4;1,1;2,2;65,4;conforme;248027;5627;100;189;154;Non vérifié
-24222;La Force;24;eau potable : secteur Nord;337574;2024;69,8;1,7;3,8;65,8;conforme;476525;73324;74;163;2702;Non vérifié
-24223;Lalinde;24;eau potable : CT RDE 24;345574;2024;81,5;0,8;3,6;65,7;conforme;340793;40401;38;84;2931;Non vérifié
-24224;Lamonzie-Montastruc;24;eau potable : secteur Nord;337574;2024;69,8;1,7;3,8;65,8;conforme;476525;19213;74;163;708;Non vérifié
-24225;Lamonzie-Saint-Martin;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;75086;75;149;2742;Non vérifié
-24226;Lamothe-Montravel;24;eau potable : CT Vélines;137707;2024;77,4;1,8;6,1;66,2;conforme;301491;33335;63;108;1443;Non vérifié
-24227;Lanouaille;24;eau potable : Secteur PAYZAC-SAVIGNAC-LEDRIER;137726;2024;75,9;0,6;1,9;65,4;conforme;87221;14348;42;117;926;Non vérifié
-24228;Lanquais;24;eau potable : CT RDE 24;345574;2024;81,5;0,8;3,6;65,7;conforme;340793;6975;38;84;506;Non vérifié
-24229;Le Lardin-Saint-Lazare;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;30554;50;104;1672;Non vérifié
-24230;Larzac;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;7154;135;176;145;Non vérifié
-24231;Lavalade;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;5279;135;176;107;Non vérifié
-24232;Lavaur;24;eau potable : Secteur MAZEYROLLES;137722;2024;55,5;1,6;2,0;65,4;non conforme;90520;5488;177;288;85;Non vérifié
-24234;Les Lèches;24;eau potable : Secteur MUSSIDAN - NEUVIC;307594;2024;73,6;1,4;3,8;65,8;conforme;428218;9402;66;136;389;Non vérifié
-24236;Léguillac-de-l'Auche;24;eau potable : Secteur : NORD;137688;2024;67,6;2,1;4,4;65,9;conforme;1102741;23105;65;176;968;Non vérifié
-24237;Lembras;24;eau potable : secteur Nord;337574;2024;69,8;1,7;3,8;65,8;conforme;476525;34165;74;163;1259;Non vérifié
-24238;Lempzours;24;eau potable;345394;2024;76,4;0,9;2,9;65,6;conforme;248231;2723;56;113;134;Non vérifié
-24240;Limeuil;24;eau potable : CT RDE 24;345574;2024;81,5;0,8;3,6;65,7;conforme;340793;4714;38;84;342;Non vérifié
-24241;Limeyrat;24;eau potable : VALLEE AUVEZERE MANOIRE;213817;2024;79,5;0,9;3,4;65,7;conforme;339669;4749;31;99;424;Non vérifié
-24242;Liorac-sur-Louyre;24;eau potable : CT RDE 24;345574;2024;81,5;0,8;3,6;65,7;conforme;340793;3570;38;84;259;Non vérifié
-24243;Lisle;24;eau potable : Secteur : NORD;137688;2024;67,6;2,1;4,4;65,9;conforme;1102741;22055;65;176;924;Non vérifié
-24244;Lolme;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;9424;135;176;191;Non vérifié
-24245;Loubejac;24;eau potable;169434;2024;63,5;2,5;4,3;65,9;non conforme;728522;10713;110;217;266;Non vérifié
-24246;Lunas;24;eau potable : secteur Nord;337574;2024;69,8;1,7;3,8;65,8;conforme;476525;12456;74;163;459;Non vérifié
-24247;Lusignac;24;eau potable;345494;2024;66,4;1,1;2,2;65,4;conforme;248027;5919;100;189;162;Non vérifié
-24248;Lussas-et-Nontronneau;24;eau potable;137727;2024;70,1;1,2;2,7;65,5;conforme;314909;6912;67;162;283;Non vérifié
-24251;Manzac-sur-Vern;24;eau potable : Secteur : NORD;137688;2024;67,6;2,1;4,4;65,9;conforme;1102741;12770;65;176;535;Non vérifié
-24252;Marcillac-Saint-Quentin;24;eau potable : Carlux - Saint-Vincent;345454;2024;75,5;1,4;4,3;65,9;conforme;212954;24806;82;121;826;Non vérifié
-24253;Mareuil en Périgord;24;eau potable;345494;2024;66,4;1,1;2,2;65,4;conforme;248027;84990;100;189;2326;Non vérifié
-24254;Marnac;24;eau potable : Secteur MARNAC BERBIGUIERE;137721;2024;67,8;1,1;2,2;65,4;conforme;13900;7141;105;180;187;Non vérifié
-24255;Marquay;24;eau potable : Secteur MANAURIE;137695;2024;65,0;1,5;2,8;65,6;non conforme;101041;31352;146;195;588;Non vérifié
-24256;Marsac-sur-l'Isle;24;eau potable : Secteur : NORD;137688;2024;67,6;2,1;4,4;65,9;conforme;1102741;76070;65;176;3187;Non vérifié
-24257;Marsalès;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;11002;135;176;223;Non vérifié
-24259;Eyraud-Crempse-Maurens;24;eau potable : secteur Nord;337574;2024;69,8;1,7;3,8;65,8;conforme;476525;46214;74;163;1703;Non vérifié
-24260;Mauzac-et-Grand-Castang;24;eau potable : CT RDE 24;345574;2024;81,5;0,8;3,6;65,7;conforme;340793;12116;38;84;879;Non vérifié
-24261;Mauzens-et-Miremont;24;eau potable : CT RDE 24;345574;2024;81,5;0,8;3,6;65,7;conforme;340793;3970;38;84;288;Non vérifié
-24262;Mayac;24;eau potable : CT Vallée de l'Isle;331594;2024;83,6;1,6;7,9;66,6;conforme;76814;7084;60;203;325;Non vérifié
-24263;Mazeyrolles;24;eau potable : Secteur MAZEYROLLES;137722;2024;55,5;1,6;2,0;65,4;non conforme;90520;19821;177;288;307;Non vérifié
-24264;Ménesplet;24;eau potable;137684;2024;86,5;0,6;4,0;65,8;conforme;137617;16320;23;55;1928;Non vérifié
-24266;Mensignac;24;eau potable;137705;2024;76,0;0,9;3,0;65,6;conforme;89401;21482;39;124;1521;Non vérifié
-24267;Mescoules;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;4847;75;149;177;Non vérifié
-24268;Meyrals;24;eau potable;137564;2024;75,2;1,2;3,7;65,7;conforme;14861;14861;57;119;715;Non vérifié
-24269;Mialet;24;eau potable : CT RDE 24;345574;2024;81,5;0,8;3,6;65,7;conforme;340793;8656;38;84;628;Non vérifié
-24271;Milhac-de-Nontron;24;eau potable;345394;2024;76,4;0,9;2,9;65,6;conforme;248231;10567;56;113;520;Non vérifié
-24272;Minzac;24;eau potable;137684;2024;86,5;0,6;4,0;65,8;conforme;137617;4190;23;55;495;Non vérifié
-24273;Molières;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;18255;135;176;370;Non vérifié
-24274;Monbazillac;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;22701;75;149;829;Non vérifié
-24276;Monestier;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;10543;75;149;385;Non vérifié
-24277;Monfaucon;24;eau potable : CT Vélines;137707;2024;77,4;1,8;6,1;66,2;conforme;301491;6584;63;108;285;Non vérifié
-24278;Monmadalès;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;2273;75;149;83;Non vérifié
-24279;Monmarvès;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;1670;75;149;61;Non vérifié
-24280;Monpazier;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;21758;135;176;441;Non vérifié
-24281;Monsac;24;eau potable : CT RDE 24;345574;2024;81,5;0,8;3,6;65,7;conforme;340793;2454;38;84;178;Non vérifié
-24282;Monsaguel;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;3587;75;149;131;Non vérifié
-24284;Montagnac-d'Auberoche;24;eau potable : VALLEE AUVEZERE MANOIRE;213817;2024;79,5;0,9;3,4;65,7;conforme;339669;1534;31;99;137;Non vérifié
-24285;Montagnac-la-Crempse;24;eau potable : Secteur MUSSIDAN - NEUVIC;307594;2024;73,6;1,4;3,8;65,8;conforme;428218;9136;66;136;378;Non vérifié
-24286;Montagrier;24;eau potable;137705;2024;76,0;0,9;3,0;65,6;conforme;89401;7217;39;124;511;Non vérifié
-24287;Montaut;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;3478;75;149;127;Non vérifié
-24288;Montazeau;24;eau potable : CT Vélines;137707;2024;77,4;1,8;6,1;66,2;conforme;301491;6745;63;108;292;Non vérifié
-24289;Montcaret;24;eau potable : CT Vélines;137707;2024;77,4;1,8;6,1;66,2;conforme;301491;32110;63;108;1390;Non vérifié
-24290;Montferrand-du-Périgord;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;7697;135;176;156;Non vérifié
-24292;Montpeyroux;24;eau potable;137684;2024;86,5;0,6;4,0;65,8;conforme;137617;4198;23;55;496;Non vérifié
-24293;Monplaisant;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;13075;135;176;265;Non vérifié
-24294;Montpon-Ménestérol;24;eau potable;137684;2024;86,5;0,6;4,0;65,8;conforme;137617;49653;23;55;5866;Non vérifié
-24295;Montrem;24;eau potable : Secteur : NORD;137688;2024;67,6;2,1;4,4;65,9;conforme;1102741;28834;65;176;1208;Non vérifié
-24296;Mouleydier;24;eau potable : secteur Nord;337574;2024;69,8;1,7;3,8;65,8;conforme;476525;31262;74;163;1152;Non vérifié
-24297;Moulin-Neuf;24;eau potable;137684;2024;86,5;0,6;4,0;65,8;conforme;137617;8346;23;55;986;Non vérifié
-24299;Mussidan;24;eau potable : Secteur MUSSIDAN - NEUVIC;307594;2024;73,6;1,4;3,8;65,8;conforme;428218;66971;66;136;2771;Non vérifié
-24301;Nadaillac;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;6798;50;104;372;Non vérifié
-24302;Nailhac;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;5281;50;104;289;Non vérifié
-24303;Nanteuil-Auriac-de-Bourzac;24;eau potable;345494;2024;66,4;1,1;2,2;65,4;conforme;248027;8550;100;189;234;Non vérifié
-24304;Nantheuil;24;eau potable : Secteur NANTHIAT;137725;2024;81,0;0,6;2,4;65,5;conforme;78466;14117;39;99;989;Non vérifié
-24305;Nanthiat;24;eau potable : Secteur NANTHIAT;137725;2024;81,0;0,6;2,4;65,5;conforme;78466;3483;39;99;244;Non vérifié
-24306;Nastringues;24;eau potable : CT Vélines;137707;2024;77,4;1,8;6,1;66,2;conforme;301491;3188;63;108;138;Non vérifié
-24307;Naussannes;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;11446;135;176;232;Non vérifié
-24308;Négrondes;24;eau potable : CT Vallée de l'Isle;331594;2024;83,6;1,6;7,9;66,6;conforme;76814;16958;60;203;778;Non vérifié
-24309;Neuvic;24;eau potable : Secteur MUSSIDAN - NEUVIC;307594;2024;73,6;1,4;3,8;65,8;conforme;428218;89109;66;136;3687;Non vérifié
-24311;Nontron;24;eau potable;137727;2024;70,1;1,2;2,7;65,5;conforme;314909;74661;67;162;3057;Non vérifié
-24312;Sanilhac;24;eau potable : VALLEE AUVEZERE MANOIRE;213817;2024;79,5;0,9;3,4;65,7;conforme;339669;53276;31;99;4757;Non vérifié
-24313;Orliac;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;2122;135;176;43;Non vérifié
-24314;Orliaguet;24;eau potable : Secteur CARLUX;137713;2021;66,6;1,6;3,3;65,7;conforme;111538;3559;92;189;106;Sans anomalie apparente
-24316;Parcoul-Chenaud;24;eau potable : CT Bois de la Côte;345994;2024;81,3;0,7;2,9;65,6;conforme;111600;11167;38;90;800;Non vérifié
-24317;Paulin;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;4495;50;104;246;Non vérifié
-24318;Paunat;24;eau potable : Secteur STE ALVERE LALINDE NORD;137729;2024;81,9;0,6;2,8;65,6;conforme;61670;5916;51;77;320;Non vérifié
-24319;Paussac-et-Saint-Vivien;24;eau potable;345394;2024;76,4;0,9;2,9;65,6;conforme;248231;9023;56;113;444;Non vérifié
-24320;Payzac;24;eau potable : Secteur PAYZAC-SAVIGNAC-LEDRIER;137726;2024;75,9;0,6;1,9;65,4;conforme;87221;15247;42;117;984;Non vérifié
-24321;Pazayac;24;eau potable : CT RDE 24;345574;2024;81,5;0,8;3,6;65,7;conforme;340793;11179;38;84;811;Non vérifié
-24322;Périgueux;24;eau potable : PERIGUEUX;137744;2024;87,1;4,7;31,7;71,3;conforme;358540;323712;31;64;29055;Non vérifié
-24323;Petit-Bersac;24;eau potable : CT Bois de la Côte;345994;2024;81,3;0,7;2,9;65,6;conforme;111600;2568;38;90;184;Non vérifié
-24324;Peyrignac;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;10544;50;104;577;Non vérifié
-24325;Pechs-de-l'Espérance;24;eau potable : Carlux - Saint-Vincent;345454;2024;75,5;1,4;4,3;65,9;conforme;212954;23905;82;121;796;Non vérifié
-24326;Peyzac-le-Moustier;24;eau potable : Secteur ST LEON SUR VEZERE;137730;2024;68,4;1,1;2,3;65,5;conforme;131439;6333;86;174;201;Non vérifié
-24327;Pezuls;24;eau potable : Secteur STE ALVERE LALINDE NORD;137729;2024;81,9;0,6;2,8;65,6;conforme;61670;2089;51;77;113;Non vérifié
-24328;Piégut-Pluviers;24;eau potable;137727;2024;70,1;1,2;2,7;65,5;conforme;314909;28819;67;162;1180;Non vérifié
-24329;Le Pizou;24;eau potable;137684;2024;86,5;0,6;4,0;65,8;conforme;137617;12087;23;55;1428;Non vérifié
-24330;Plazac;24;eau potable : Secteur ST LEON SUR VEZERE;137730;2024;68,4;1,1;2,3;65,5;conforme;131439;22589;86;174;717;Non vérifié
-24331;Pomport;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;20127;75;149;735;Non vérifié
-24334;Pontours;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;10312;135;176;209;Non vérifié
-24335;Port-Sainte-Foy-et-Ponchapt;24;eau potable : CT Vélines;137707;2024;77,4;1,8;6,1;66,2;conforme;301491;58214;63;108;2520;Non vérifié
-24336;Prats-de-Carlux;24;eau potable : Carlux - Saint-Vincent;345454;2024;75,5;1,4;4,3;65,9;conforme;212954;14746;82;121;491;Non vérifié
-24337;Prats-du-Périgord;24;eau potable : Secteur MAZEYROLLES;137722;2024;55,5;1,6;2,0;65,4;non conforme;90520;9233;177;288;143;Non vérifié
-24338;Pressignac-Vicq;24;eau potable : Secteur STE ALVERE LALINDE NORD;137729;2024;81,9;0,6;2,8;65,6;conforme;61670;8430;51;77;456;Non vérifié
-24339;Preyssac-d'Excideuil;24;eau potable : Secteur EXCIDEUIL;137717;2024;75,4;1,1;3,5;65,7;conforme;45739;2626;47;119;152;Non vérifié
-24340;Prigonrieux;24;eau potable : secteur Nord;337574;2024;69,8;1,7;3,8;65,8;conforme;476525;118697;74;163;4374;Non vérifié
-24341;Proissans;24;eau potable : Carlux - Saint-Vincent;345454;2024;75,5;1,4;4,3;65,9;conforme;212954;33095;82;121;1102;Non vérifié
-24345;Queyssac;24;eau potable : secteur Nord;337574;2024;69,8;1,7;3,8;65,8;conforme;476525;14464;74;163;533;Non vérifié
-24346;Quinsac;24;eau potable;345394;2024;76,4;0,9;2,9;65,6;conforme;248231;7743;56;113;381;Non vérifié
-24347;Rampieux;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;6858;135;176;139;Non vérifié
-24348;Razac-d'Eymet;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;8982;75;149;328;Non vérifié
-24349;Razac-de-Saussignac;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;9174;75;149;335;Non vérifié
-24350;Razac-sur-l'Isle;24;eau potable : Secteur : NORD;137688;2024;67,6;2,1;4,4;65,9;conforme;1102741;56712;65;176;2376;Non vérifié
-24351;Ribagnac;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;9420;75;149;344;Non vérifié
-24352;Ribérac;24;eau potable : CT Bassin Ribéracois;345974;2024;79,6;1,0;4,0;65,8;conforme;128871;61245;45;95;3734;Non vérifié
-24353;La Rochebeaucourt-et-Argentine;24;eau potable;345494;2024;66,4;1,1;2,2;65,4;conforme;248027;12094;100;189;331;Non vérifié
-24354;La Roche-Chalais;24;eau potable : CT Bois de la Côte;345994;2024;81,3;0,7;2,9;65,6;conforme;111600;42714;38;90;3060;Non vérifié
-24355;La Roque-Gageac;24;eau potable : Vitrac-Céou;137737;2024;60,7;2,9;4,5;65,9;non conforme;884895;19368;118;237;448;Non vérifié
-24356;Rouffignac-Saint-Cernin-de-Reilhac;24;eau potable;137597;2024;72,5;1,1;2,8;65,6;conforme;46173;46173;75;141;1678;Non vérifié
-24357;Rouffignac-de-Sigoulès;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;9091;75;149;332;Non vérifié
-24359;Sadillac;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;2738;75;149;100;Non vérifié
-24360;Sagelat;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;15690;135;176;318;Non vérifié
-24361;Saint-Agne;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;11994;75;149;438;Non vérifié
-24362;Val de Louyre et Caudeau;24;eau potable : Secteur STE ALVERE LALINDE NORD;137729;2024;81,9;0,6;2,8;65,6;conforme;61670;29301;51;77;1585;Non vérifié
-24364;Coly-Saint-Amand;24;eau potable : CT RDE 24;345574;2024;81,5;0,8;3,6;65,7;conforme;340793;8822;38;84;640;Non vérifié
-24365;Saint-Amand-de-Vergt;24;eau potable : secteur : SUD;208887;2024;68,5;1,3;2,9;65,6;conforme;138208;8672;98;166;242;Non vérifié
-24366;Saint-André-d'Allas;24;eau potable;137601;2024;75,4;0,9;2,9;65,6;conforme;17424;17424;54;114;888;Non vérifié
-24367;Saint-André-de-Double;24;eau potable : Secteur MUSSIDAN - NEUVIC;307594;2024;73,6;1,4;3,8;65,8;conforme;428218;3915;66;136;162;Non vérifié
-24370;Saint-Antoine-de-Breuilh;24;eau potable : CT Vélines;137707;2024;77,4;1,8;6,1;66,2;conforme;301491;41212;63;108;1784;Non vérifié
-24371;Saint-Aquilin;24;eau potable;137705;2024;76,0;0,9;3,0;65,6;conforme;89401;6469;39;124;458;Non vérifié
-24372;Saint-Astier;24;eau potable : Secteur : NORD;137688;2024;67,6;2,1;4,4;65,9;conforme;1102741;128319;65;176;5376;Non vérifié
-24373;Saint-Aubin-de-Cadelech;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;9475;75;149;346;Non vérifié
-24374;Saint-Aubin-de-Lanquais;24;eau potable : Secteur ISSIGEAC;137691;2023;71,8;1,1;2,9;65,6;conforme;180213;7468;57;138;357;Sans anomalie apparente
-24375;Saint-Aubin-de-Nabirat;24;eau potable;137603;2024;77,1;0,8;2,7;65,5;conforme;4380;4380;75;107;160;Non vérifié
-24376;Saint Aulaye-Puymangou;24;eau potable : CT Bois de la Côte;345994;2024;81,3;0,7;2,9;65,6;conforme;111600;20240;38;90;1450;Non vérifié
-24377;Saint-Avit-de-Vialard;24;eau potable : Secteur STE ALVERE LALINDE NORD;137729;2024;81,9;0,6;2,8;65,6;conforme;61670;2810;51;77;152;Non vérifié
-24378;Saint-Avit-Rivière;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;4490;135;176;91;Non vérifié
-24379;Saint-Avit-Sénieur;24;eau potable;137605;2024;78,0;0,7;2,6;65,5;conforme;12008;12008;78;102;422;Non vérifié
-24380;Saint-Barthélemy-de-Bellegarde;24;eau potable;137684;2024;86,5;0,6;4,0;65,8;conforme;137617;4292;23;55;507;Non vérifié
-24381;Saint-Barthélemy-de-Bussière;24;eau potable;137727;2024;70,1;1,2;2,7;65,5;conforme;314909;5349;67;162;219;Non vérifié
-24382;Saint-Capraise-de-Lalinde;24;eau potable : CT RDE 24;345574;2024;81,5;0,8;3,6;65,7;conforme;340793;7388;38;84;536;Non vérifié
-24383;Saint-Capraise-d'Eymet;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;4847;75;149;177;Non vérifié
-24384;Saint-Cassien;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;1529;135;176;31;Non vérifié
-24385;Saint-Cernin-de-Labarde;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;6052;75;149;221;Non vérifié
-24386;Saint-Cernin-de-l'Herm;24;eau potable : Secteur MAZEYROLLES;137722;2024;55,5;1,6;2,0;65,4;non conforme;90520;12461;177;288;193;Non vérifié
-24388;Saint-Chamassy;24;eau potable : CT RDE 24;345574;2024;81,5;0,8;3,6;65,7;conforme;340793;7057;38;84;512;Non vérifié
-24390;Saint-Crépin-d'Auberoche;24;eau potable : VALLEE AUVEZERE MANOIRE;213817;2024;79,5;0,9;3,4;65,7;conforme;339669;3752;31;99;335;Non vérifié
-24392;Saint-Crépin-et-Carlucet;24;eau potable : Carlux - Saint-Vincent;345454;2024;75,5;1,4;4,3;65,9;conforme;212954;16097;82;121;536;Non vérifié
-24393;Sainte-Croix;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;4391;135;176;89;Non vérifié
-24394;Sainte-Croix-de-Mareuil;24;eau potable;345494;2024;66,4;1,1;2,2;65,4;conforme;248027;5262;100;189;144;Non vérifié
-24395;Saint-Cybranet;24;eau potable : Vitrac-Céou;137737;2024;60,7;2,9;4,5;65,9;non conforme;884895;16602;118;237;384;Non vérifié
-24396;Saint-Cyprien;24;eau potable;137608;2024;86,8;1,5;9,8;67,0;conforme;32965;32965;57;98;1580;Non vérifié
-24397;Saint-Cyr-les-Champagnes;24;eau potable : Secteur PAYZAC-SAVIGNAC-LEDRIER;137726;2024;75,9;0,6;1,9;65,4;conforme;87221;4710;42;117;304;Non vérifié
-24398;Saint-Estèphe;24;eau potable;137727;2024;70,1;1,2;2,7;65,5;conforme;314909;14239;67;162;583;Non vérifié
-24399;Saint-Étienne-de-Puycorbier;24;eau potable : Secteur MUSSIDAN - NEUVIC;307594;2024;73,6;1,4;3,8;65,8;conforme;428218;2683;66;136;111;Non vérifié
-24401;Sainte-Eulalie-d'Ans;24;eau potable : VALLEE AUVEZERE MANOIRE;213817;2024;79,5;0,9;3,4;65,7;conforme;339669;3337;31;99;298;Non vérifié
-24403;Saint-Félix-de-Bourdeilles;24;eau potable;345494;2024;66,4;1,1;2,2;65,4;conforme;248027;2631;100;189;72;Non vérifié
-24404;Saint-Félix-de-Reillac-et-Mortemart;24;eau potable;137610;2023;90,0;0,5;4,9;66,0;conforme;6022;6022;92;52;180;Sans anomalie apparente
-24405;Saint-Félix-de-Villadeix;24;eau potable : secteur Nord;337574;2024;69,8;1,7;3,8;65,8;conforme;476525;8521;74;163;314;Non vérifié
-24406;Sainte-Foy-de-Belvès;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;7006;135;176;142;Non vérifié
-24407;Sainte-Foy-de-Longas;24;eau potable : Secteur STE ALVERE LALINDE NORD;137729;2024;81,9;0,6;2,8;65,6;conforme;61670;4474;51;77;242;Non vérifié
-24408;Saint-Front-d'Alemps;24;eau potable;345394;2024;76,4;0,9;2,9;65,6;conforme;248231;5121;56;113;252;Non vérifié
-24409;Saint-Front-de-Pradoux;24;eau potable : Secteur MUSSIDAN - NEUVIC;307594;2024;73,6;1,4;3,8;65,8;conforme;428218;27745;66;136;1148;Non vérifié
-24410;Saint-Front-la-Rivière;24;eau potable;345394;2024;76,4;0,9;2,9;65,6;conforme;248231;10384;56;113;511;Non vérifié
-24411;Saint-Front-sur-Nizonne;24;eau potable;137727;2024;70,1;1,2;2,7;65,5;conforme;314909;4103;67;162;168;Non vérifié
-24412;Saint-Geniès;24;eau potable : Carlux - Saint-Vincent;345454;2024;75,5;1,4;4,3;65,9;conforme;212954;27809;82;121;926;Non vérifié
-24413;Saint-Georges-Blancaneix;24;eau potable : Secteur Saint-Pierre-d'Eyraud;332734;2024;80,2;0,9;3,5;65,7;conforme;34263;3807;38;113;275;Non vérifié
-24414;Saint-Georges-de-Montclard;24;eau potable : secteur Nord;337574;2024;69,8;1,7;3,8;65,8;conforme;476525;7327;74;163;270;Non vérifié
-24415;Saint-Géraud-de-Corps;24;eau potable;137684;2024;86,5;0,6;4,0;65,8;conforme;137617;1710;23;55;202;Non vérifié
-24416;Saint-Germain-de-Belvès;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;8881;135;176;180;Non vérifié
-24417;Saint-Germain-des-Prés;24;eau potable : Secteur NANTHIAT;137725;2024;81,0;0,6;2,4;65,5;conforme;78466;7180;39;99;503;Non vérifié
-24418;Saint-Germain-du-Salembre;24;eau potable : Secteur MUSSIDAN - NEUVIC;307594;2024;73,6;1,4;3,8;65,8;conforme;428218;21776;66;136;901;Non vérifié
-24419;Saint-Germain-et-Mons;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;24864;75;149;908;Non vérifié
-24420;Saint-Géry;24;eau potable : Secteur MUSSIDAN - NEUVIC;307594;2024;73,6;1,4;3,8;65,8;conforme;428218;5776;66;136;239;Non vérifié
-24421;Saint-Geyrac;24;eau potable : VALLEE AUVEZERE MANOIRE;213817;2024;79,5;0,9;3,4;65,7;conforme;339669;2206;31;99;197;Non vérifié
-24422;Saint-Hilaire-d'Estissac;24;eau potable : Secteur MUSSIDAN - NEUVIC;307594;2024;73,6;1,4;3,8;65,8;conforme;428218;3142;66;136;130;Non vérifié
-24423;Saint-Julien-Innocence-Eulalie;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;8516;75;149;311;Non vérifié
-24424;Saint-Jean-d'Ataux;24;eau potable : Secteur MUSSIDAN - NEUVIC;307594;2024;73,6;1,4;3,8;65,8;conforme;428218;3118;66;136;129;Non vérifié
-24425;Saint-Jean-de-Côle;24;eau potable;345394;2024;76,4;0,9;2,9;65,6;conforme;248231;7194;56;113;354;Non vérifié
-24426;Saint-Jean-d'Estissac;24;eau potable : Secteur MUSSIDAN - NEUVIC;307594;2024;73,6;1,4;3,8;65,8;conforme;428218;3819;66;136;158;Non vérifié
-24428;Saint-Jory-de-Chalais;24;eau potable : CT RDE 24;345574;2024;81,5;0,8;3,6;65,7;conforme;340793;7498;38;84;544;Non vérifié
-24429;Saint-Jory-las-Bloux;24;eau potable : CT Vallée de l'Isle;331594;2024;83,6;1,6;7,9;66,6;conforme;76814;5340;60;203;245;Non vérifié
-24432;Saint-Julien-de-Lampon;24;eau potable;169914;2024;70,4;1,5;3,6;65,7;conforme;187437;21216;88;154;660;Non vérifié
-24434;Saint-Just;24;eau potable;345394;2024;76,4;0,9;2,9;65,6;conforme;248231;2886;56;113;142;Non vérifié
-24436;Saint-Laurent-des-Hommes;24;eau potable : Secteur MUSSIDAN - NEUVIC;307594;2024;73,6;1,4;3,8;65,8;conforme;428218;24459;66;136;1012;Non vérifié
-24437;Saint-Laurent-des-Vignes;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;28424;75;149;1038;Non vérifié
-24438;Saint-Laurent-la-Vallée;24;eau potable : Vitrac-Céou;137737;2024;60,7;2,9;4,5;65,9;non conforme;884895;10246;118;237;237;Non vérifié
-24441;Saint-Léon-d'Issigeac;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;4025;75;149;147;Non vérifié
-24442;Saint-Léon-sur-l'Isle;24;eau potable : Secteur MUSSIDAN - NEUVIC;307594;2023;71,1;1,5;3,8;65,8;conforme;459725;48299;64;146;2080;Sans anomalie apparente
-24443;Saint-Léon-sur-Vézère;24;eau potable : Secteur ST LEON SUR VEZERE;137730;2024;68,4;1,1;2,3;65,5;conforme;131439;13579;86;174;431;Non vérifié
-24444;Saint-Louis-en-l'Isle;24;eau potable : Secteur MUSSIDAN - NEUVIC;307594;2024;73,6;1,4;3,8;65,8;conforme;428218;7516;66;136;311;Non vérifié
-24445;Saint-Marcel-du-Périgord;24;eau potable : Secteur STE ALVERE LALINDE NORD;137729;2024;81,9;0,6;2,8;65,6;conforme;61670;2533;51;77;137;Non vérifié
-24446;Saint-Marcory;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;2812;135;176;57;Non vérifié
-24448;Saint-Martial-d'Albarède;24;eau potable : Secteur EXCIDEUIL;137717;2024;75,4;1,1;3,5;65,7;conforme;45739;8363;47;119;484;Non vérifié
-24449;Saint-Martial-d'Artenset;24;eau potable;137684;2024;86,5;0,6;4,0;65,8;conforme;137617;7982;23;55;943;Non vérifié
-24450;Saint-Martial-de-Nabirat;24;eau potable : Vitrac-Céou;137737;2024;60,7;2,9;4,5;65,9;non conforme;884895;25335;118;237;586;Non vérifié
-24451;Saint-Martial-de-Valette;24;eau potable;137727;2024;70,1;1,2;2,7;65,5;conforme;314909;19612;67;162;803;Non vérifié
-24452;Saint-Martial-Viveyrol;24;eau potable;345494;2024;66,4;1,1;2,2;65,4;conforme;248027;6723;100;189;184;Non vérifié
-24453;Saint-Martin-de-Fressengeas;24;eau potable;345394;2024;76,4;0,9;2,9;65,6;conforme;248231;7336;56;113;361;Non vérifié
-24454;Saint-Martin-de-Gurson;24;eau potable;137684;2024;86,5;0,6;4,0;65,8;conforme;137617;5527;23;55;653;Non vérifié
-24455;Saint-Martin-de-Ribérac;24;eau potable : CT Bassin Ribéracois;345974;2024;79,6;1,0;4,0;65,8;conforme;128871;11859;45;95;723;Non vérifié
-24456;Saint-Martin-des-Combes;24;eau potable : secteur Nord;337574;2024;69,8;1,7;3,8;65,8;conforme;476525;5563;74;163;205;Non vérifié
-24457;Saint-Martin-l'Astier;24;eau potable : Secteur MUSSIDAN - NEUVIC;307594;2024;73,6;1,4;3,8;65,8;conforme;428218;3432;66;136;142;Non vérifié
-24458;Saint-Martin-le-Pin;24;eau potable;137727;2024;70,1;1,2;2,7;65,5;conforme;314909;6814;67;162;279;Non vérifié
-24459;Saint-Maime-de-Péreyrol;24;eau potable : Secteur : NORD;137688;2024;67,6;2,1;4,4;65,9;conforme;1102741;6826;65;176;286;Non vérifié
-24460;Saint-Méard-de-Drône;24;eau potable;137705;2024;76,0;0,9;3,0;65,6;conforme;89401;6850;39;124;485;Non vérifié
-24461;Saint-Méard-de-Gurçon;24;eau potable : CT Vélines;137707;2024;77,4;1,8;6,1;66,2;conforme;301491;18689;63;108;809;Non vérifié
-24462;Saint-Médard-de-Mussidan;24;eau potable : Secteur MUSSIDAN - NEUVIC;307594;2024;73,6;1,4;3,8;65,8;conforme;428218;39105;66;136;1618;Non vérifié
-24463;Saint-Médard-d'Excideuil;24;eau potable : Secteur EXCIDEUIL;137717;2024;75,4;1,1;3,5;65,7;conforme;45739;9435;47;119;546;Non vérifié
-24464;Saint-Mesmin;24;eau potable : Secteur PAYZAC-SAVIGNAC-LEDRIER;137726;2024;75,9;0,6;1,9;65,4;conforme;87221;5315;42;117;343;Non vérifié
-24465;Saint-Michel-de-Double;24;eau potable : Secteur MUSSIDAN - NEUVIC;307594;2024;73,6;1,4;3,8;65,8;conforme;428218;5607;66;136;232;Non vérifié
-24466;Saint-Michel-de-Montaigne;24;eau potable : CT Vélines;137707;2024;77,4;1,8;6,1;66,2;conforme;301491;7762;63;108;336;Non vérifié
-24468;Saint-Michel-de-Villadeix;24;eau potable : secteur : SUD;208887;2024;68,5;1,3;2,9;65,6;conforme;138208;10678;98;166;298;Non vérifié
-24470;Sainte-Mondane;24;eau potable : Vitrac-Céou;137737;2024;60,7;2,9;4,5;65,9;non conforme;884895;13186;118;237;305;Non vérifié
-24471;Sainte-Nathalène;24;eau potable : Carlux - Saint-Vincent;345454;2024;75,5;1,4;4,3;65,9;conforme;212954;19460;82;121;648;Non vérifié
-24472;Saint-Nexans;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;28205;75;149;1030;Non vérifié
-24473;Sainte-Orse;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;6323;50;104;346;Non vérifié
-24474;Saint-Pancrace;24;eau potable;345394;2024;76,4;0,9;2,9;65,6;conforme;248231;2926;56;113;144;Non vérifié
-24476;Saint-Pantaly-d'Excideuil;24;eau potable : VALLEE AUVEZERE MANOIRE;213817;2024;79,5;0,9;3,4;65,7;conforme;339669;1758;31;99;157;Non vérifié
-24477;Saint-Pardoux-de-Drône;24;eau potable;137705;2024;76,0;0,9;3,0;65,6;conforme;89401;2698;39;124;191;Non vérifié
-24478;Saint-Pardoux-et-Vielvic;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;9276;135;176;188;Non vérifié
-24479;Saint-Pardoux-la-Rivière;24;eau potable;345394;2024;76,4;0,9;2,9;65,6;conforme;248231;23695;56;113;1166;Non vérifié
-24481;Saint-Paul-la-Roche;24;eau potable : Secteur NANTHIAT;137725;2024;81,0;0,6;2,4;65,5;conforme;78466;7737;39;99;542;Non vérifié
-24482;Saint-Paul-Lizonne;24;eau potable;345494;2024;66,4;1,1;2,2;65,4;conforme;248027;10012;100;189;274;Non vérifié
-24483;Saint-Perdoux;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;3916;75;149;143;Non vérifié
-24484;Saint-Pierre-de-Chignac;24;eau potable : VALLEE AUVEZERE MANOIRE;213817;2024;79,5;0,9;3,4;65,7;conforme;339669;10875;31;99;971;Non vérifié
-24485;Saint-Pierre-de-Côle;24;eau potable;345394;2024;76,4;0,9;2,9;65,6;conforme;248231;8779;56;113;432;Non vérifié
-24486;Saint-Pierre-de-Frugie;24;eau potable : CT RDE 24;345574;2024;81,5;0,8;3,6;65,7;conforme;340793;7168;38;84;520;Non vérifié
-24487;Saint-Pierre-d'Eyraud;24;eau potable : Secteur Saint-Pierre-d'Eyraud;332734;2024;80,2;0,9;3,5;65,7;conforme;34263;24849;38;113;1795;Non vérifié
-24488;Saint-Pompon;24;eau potable : Vitrac-Céou;137737;2024;60,7;2,9;4,5;65,9;non conforme;884895;16126;118;237;373;Non vérifié
-24489;Saint-Priest-les-Fougères;24;eau potable : CT RDE 24;345574;2024;81,5;0,8;3,6;65,7;conforme;340793;5238;38;84;380;Non vérifié
-24490;Saint Privat en Périgord;24;eau potable : CT Bois de la Côte;345994;2024;81,3;0,7;2,9;65,6;conforme;111600;15899;38;90;1139;Non vérifié
-24491;Saint-Rabier;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;9831;50;104;538;Non vérifié
-24492;Sainte-Radegonde;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;2136;75;149;78;Non vérifié
-24493;Saint-Raphaël;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;1718;50;104;94;Non vérifié
-24494;Saint-Rémy;24;eau potable;137684;2024;86,5;0,6;4,0;65,8;conforme;137617;4258;23;55;503;Non vérifié
-24495;Saint-Romain-de-Monpazier;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;5131;135;176;104;Non vérifié
-24496;Saint-Romain-et-Saint-Clément;24;eau potable;345394;2024;76,4;0,9;2,9;65,6;conforme;248231;6767;56;113;333;Non vérifié
-24498;Saint-Saud-Lacoussière;24;eau potable;345394;2024;76,4;0,9;2,9;65,6;conforme;248231;16664;56;113;820;Non vérifié
-24499;Saint-Sauveur;24;eau potable : secteur Nord;337574;2024;69,8;1,7;3,8;65,8;conforme;476525;23039;74;163;849;Non vérifié
-24500;Saint-Sauveur-Lalande;24;eau potable;137684;2024;86,5;0,6;4,0;65,8;conforme;137617;1261;23;55;149;Non vérifié
-24501;Saint-Seurin-de-Prats;24;eau potable : CT Vélines;137707;2024;77,4;1,8;6,1;66,2;conforme;301491;10650;63;108;461;Non vérifié
-24502;Saint-Séverin-d'Estissac;24;eau potable : Secteur MUSSIDAN - NEUVIC;307594;2024;73,6;1,4;3,8;65,8;conforme;428218;2296;66;136;95;Non vérifié
-24504;Saint-Sulpice-de-Roumagnac;24;eau potable : CT Bassin Ribéracois;345974;2024;79,6;1,0;4,0;65,8;conforme;128871;4576;45;95;279;Non vérifié
-24505;Saint-Sulpice-d'Excideuil;24;eau potable : Secteur NANTHIAT;137725;2024;81,0;0,6;2,4;65,5;conforme;78466;5381;39;99;377;Non vérifié
-24507;Sainte-Trie;24;eau potable : Secteur PAYZAC-SAVIGNAC-LEDRIER;137726;2024;75,9;0,6;1,9;65,4;conforme;87221;1782;42;117;115;Non vérifié
-24508;Saint-Victor;24;eau potable;137705;2024;76,0;0,9;3,0;65,6;conforme;89401;3008;39;124;213;Non vérifié
-24509;Saint-Vincent-de-Connezac;24;eau potable;137644;2024;83,5;0,8;3,8;65,8;conforme;6526;6526;27;77;664;Non vérifié
-24510;Saint-Vincent-de-Cosse;24;eau potable;137646;2023;67,6;2,9;6,0;66,2;conforme;17994;17994;127;175;388;Sans anomalie apparente
-24511;Saint-Vincent-Jalmoutiers;24;eau potable : CT Bois de la Côte;345994;2024;81,3;0,7;2,9;65,6;conforme;111600;2820;38;90;202;Non vérifié
-24512;Saint-Vincent-le-Paluel;24;eau potable : Carlux - Saint-Vincent;345454;2024;75,5;1,4;4,3;65,9;conforme;212954;8799;82;121;293;Non vérifié
-24513;Saint-Vincent-sur-l'Isle;24;eau potable : CT Vallée de l'Isle;331594;2024;83,6;1,6;7,9;66,6;conforme;76814;6692;60;203;307;Non vérifié
-24514;Saint-Vivien;24;eau potable : CT Vélines;137707;2024;77,4;1,8;6,1;66,2;conforme;301491;5544;63;108;240;Non vérifié
-24515;Salagnac;24;eau potable : Secteur PAYZAC-SAVIGNAC-LEDRIER;137726;2024;75,9;0,6;1,9;65,4;conforme;87221;10630;42;117;686;Non vérifié
-24516;Salignac-Eyvigues;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;21636;50;104;1184;Non vérifié
-24517;Salles-de-Belvès;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;3848;135;176;78;Non vérifié
-24518;Salon;24;eau potable : VALLEE AUVEZERE MANOIRE;213817;2024;79,5;0,9;3,4;65,7;conforme;339669;2923;31;99;261;Non vérifié
-24519;Sarlande;24;eau potable : Secteur PAYZAC-SAVIGNAC-LEDRIER;137726;2024;75,9;0,6;1,9;65,4;conforme;87221;6632;42;117;428;Non vérifié
-24520;Sarlat-la-Canéda;24;eau potable : Vitrac-Céou;137737;2024;60,7;2,9;4,5;65,9;non conforme;884895;378852;118;237;8763;Non vérifié
-24521;Sarliac-sur-l'Isle;24;eau potable : VALLEE AUVEZERE MANOIRE;213817;2024;79,5;0,9;3,4;65,7;conforme;339669;11804;31;99;1054;Non vérifié
-24522;Sarrazac;24;eau potable : Secteur NANTHIAT;137725;2024;81,0;0,6;2,4;65,5;conforme;78466;5182;39;99;363;Non vérifié
-24523;Saussignac;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;11145;75;149;407;Non vérifié
-24524;Savignac-de-Miremont;24;eau potable : Secteur MANAURIE;137695;2024;65,0;1,5;2,8;65,6;non conforme;101041;9224;146;195;173;Non vérifié
-24525;Savignac-de-Nontron;24;eau potable;137727;2024;70,1;1,2;2,7;65,5;conforme;314909;5153;67;162;211;Non vérifié
-24526;Savignac-Lédrier;24;eau potable : Secteur PAYZAC-SAVIGNAC-LEDRIER;137726;2024;75,9;0,6;1,9;65,4;conforme;87221;11296;42;117;729;Non vérifié
-24527;Savignac-les-Églises;24;eau potable : VALLEE DE L'ISLE sud;137735;2020;76,8;1,1;3,6;65,7;conforme;136108;18912;52;114;1005;Sans anomalie apparente
-24528;Sceau-Saint-Angel;24;eau potable;137727;2024;70,1;1,2;2,7;65,5;conforme;314909;3053;67;162;125;Non vérifié
-24529;Segonzac;24;eau potable;137705;2024;76,0;0,9;3,0;65,6;conforme;89401;2881;39;124;204;Non vérifié
-24531;Sergeac;24;eau potable : Secteur ST LEON SUR VEZERE;137730;2024;68,4;1,1;2,3;65,5;conforme;131439;6774;86;174;215;Non vérifié
-24532;Serres-et-Montguyard;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;6326;75;149;231;Non vérifié
-24533;Servanches;24;eau potable;137684;2024;86,5;0,6;4,0;65,8;conforme;137617;643;23;55;76;Non vérifié
-24534;Sigoulès-et-Flaugeac;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;35051;75;149;1280;Non vérifié
-24535;Simeyrols;24;eau potable : Carlux - Saint-Vincent;345454;2024;75,5;1,4;4,3;65,9;conforme;212954;7688;82;121;256;Non vérifié
-24536;Singleyrac;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;8599;75;149;314;Non vérifié
-24537;Siorac-de-Ribérac;24;eau potable : CT Bassin Ribéracois;345974;2024;79,6;1,0;4,0;65,8;conforme;128871;4232;45;95;258;Non vérifié
-24538;Siorac-en-Périgord;24;eau potable;137654;2024;73,0;2,3;6,3;66,3;conforme;25294;25294;64;134;1082;Non vérifié
-24540;Sorges et Ligueux en Périgord;24;eau potable : VALLEE DE L'ISLE sud;137735;2020;76,8;1,1;3,6;65,7;conforme;136108;31049;52;114;1650;Sans anomalie apparente
-24541;Soudat;24;eau potable;137727;2024;70,1;1,2;2,7;65,5;conforme;314909;2491;67;162;102;Non vérifié
-24542;Soulaures;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;3306;135;176;67;Non vérifié
-24543;Sourzac;24;eau potable : Secteur MUSSIDAN - NEUVIC;307594;2024;73,6;1,4;3,8;65,8;conforme;428218;27431;66;136;1135;Non vérifié
-24544;Tamniès;24;eau potable : Secteur ST LEON SUR VEZERE;137730;2024;68,4;1,1;2,3;65,5;conforme;131439;13043;86;174;414;Non vérifié
-24545;Teillots;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;1827;50;104;100;Non vérifié
-24546;Temple-Laguyon;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;621;50;104;34;Non vérifié
-24547;Terrasson-Lavilledieu;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;113626;50;104;6218;Non vérifié
-24548;Teyjat;24;eau potable;137727;2024;70,1;1,2;2,7;65,5;conforme;314909;6619;67;162;271;Non vérifié
-24549;Thénac;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;12131;75;149;443;Non vérifié
-24550;Thenon;24;eau potable;137660;2024;68,9;2,3;5,1;66,0;conforme;51915;51915;111;185;1282;Non vérifié
-24551;Thiviers;24;eau potable;137662;2023;80,1;2,1;8,5;66,7;conforme;59787;59787;57;90;2876;Sans anomalie apparente
-24552;Thonac;24;eau potable : Secteur ST LEON SUR VEZERE;137730;2024;68,4;1,1;2,3;65,5;conforme;131439;8664;86;174;275;Non vérifié
-24553;Tocane-Saint-Apre;24;eau potable;137705;2024;76,0;0,9;3,0;65,6;conforme;89401;24603;39;124;1742;Non vérifié
-24554;La Tour-Blanche-Cercles;24;eau potable;345494;2024;66,4;1,1;2,2;65,4;conforme;248027;20060;100;189;549;Non vérifié
-24555;Tourtoirac;24;eau potable : CT RDE 24;345574;2024;81,5;0,8;3,6;65,7;conforme;340793;8767;38;84;636;Non vérifié
-24557;Trélissac;24;eau potable : TRELISSAC;299234;2024;80,4;3,0;12,2;67,4;conforme;117559;117559;44;100;7372;Non vérifié
-24558;Trémolat;24;eau potable : Secteur TREMOLAT CALES;137733;2024;85,8;0,5;3,2;65,6;conforme;11074;6959;31;58;624;Non vérifié
-24559;Tursac;24;eau potable : Secteur ST LEON SUR VEZERE;137730;2024;68,4;1,1;2,3;65,5;conforme;131439;10901;86;174;346;Non vérifié
-24560;Urval;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;5723;135;176;116;Non vérifié
-24562;Vallereuil;24;eau potable : Secteur : NORD;137688;2024;67,6;2,1;4,4;65,9;conforme;1102741;6206;65;176;260;Non vérifié
-24563;Valojoulx;24;eau potable : Secteur ST LEON SUR VEZERE;137730;2024;68,4;1,1;2,3;65,5;conforme;131439;8979;86;174;285;Non vérifié
-24564;Vanxains;24;eau potable : CT Bois de la Côte;345994;2024;81,3;0,7;2,9;65,6;conforme;111600;9618;38;90;689;Non vérifié
-24565;Varaignes;24;eau potable;137727;2024;70,1;1,2;2,7;65,5;conforme;314909;8743;67;162;358;Non vérifié
-24566;Varennes;24;eau potable : CT RDE 24;345574;2024;81,5;0,8;3,6;65,7;conforme;340793;6313;38;84;458;Non vérifié
-24567;Vaunac;24;eau potable;345394;2024;76,4;0,9;2,9;65,6;conforme;248231;5019;56;113;247;Non vérifié
-24568;Vélines;24;eau potable : CT Vélines;137707;2024;77,4;1,8;6,1;66,2;conforme;301491;25503;63;108;1104;Non vérifié
-24569;Vendoire;24;eau potable;345494;2024;66,4;1,1;2,2;65,4;conforme;248027;4933;100;189;135;Non vérifié
-24570;Verdon;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;958;75;149;35;Non vérifié
-24571;Vergt;24;eau potable : secteur : SUD;208887;2024;68,5;1,3;2,9;65,6;conforme;138208;63532;98;166;1773;Non vérifié
-24572;Vergt-de-Biron;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;9424;135;176;191;Non vérifié
-24573;Verteillac;24;eau potable;345494;2024;66,4;1,1;2,2;65,4;conforme;248027;19987;100;189;547;Non vérifié
-24574;Veyrignac;24;eau potable : Vitrac-Céou;137737;2024;60,7;2,9;4,5;65,9;non conforme;884895;14094;118;237;326;Non vérifié
-24575;Veyrines-de-Domme;24;eau potable : Vitrac-Céou;137737;2024;60,7;2,9;4,5;65,9;non conforme;884895;10203;118;237;236;Non vérifié
-24576;Veyrines-de-Vergt;24;eau potable : secteur : SUD;208887;2024;68,5;1,3;2,9;65,6;conforme;138208;8743;98;166;244;Non vérifié
-24577;Vézac;24;eau potable : Vitrac-Céou;137737;2024;60,7;2,9;4,5;65,9;non conforme;884895;23043;118;237;533;Non vérifié
-24580;Villac;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;5391;50;104;295;Non vérifié
-24581;Villamblard;24;eau potable : Secteur : NORD;137688;2024;67,6;2,1;4,4;65,9;conforme;1102741;20312;65;176;851;Non vérifié
-24582;Villars;24;eau potable;345394;2024;76,4;0,9;2,9;65,6;conforme;248231;9551;56;113;470;Non vérifié
-24584;Villefranche-de-Lonchat;24;eau potable;137684;2024;86,5;0,6;4,0;65,8;conforme;137617;8448;23;55;998;Non vérifié
-24585;Villefranche-du-Périgord;24;eau potable : Secteur MAZEYROLLES;137722;2024;55,5;1,6;2,0;65,4;non conforme;90520;43517;177;288;674;Non vérifié
-24586;Villetoureix;24;eau potable : CT Bassin Ribéracois;345974;2024;79,6;1,0;4,0;65,8;conforme;128871;14614;45;95;891;Non vérifié
-24587;Vitrac;24;eau potable : Vitrac-Céou;137737;2024;60,7;2,9;4,5;65,9;non conforme;884895;37310;118;237;863;Non vérifié
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement);Donnée suspecte (voir LISEZMOI)
+24001;Abjat-sur-Bandiat;24;eau potable;137727;2024;70,1;1,2;2,7;65,5;conforme;314909;15606;67;162;639;Non vérifié;non
+24002;Agonac;24;eau potable : Secteur : NORD;137688;2024;67,6;2,1;4,4;65,9;conforme;1102741;42129;65;176;1765;Non vérifié;non
+24004;Ajat;24;eau potable : VALLEE AUVEZERE MANOIRE;213817;2024;79,5;0,9;3,4;65,7;conforme;339669;3438;31;99;307;Non vérifié;non
+24005;Alles-sur-Dordogne;24;eau potable : CT RDE 24;345574;2024;81,5;0,8;3,6;65,7;conforme;340793;5238;38;84;380;Non vérifié;non
+24006;Allas-les-Mines;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;10016;135;176;203;Non vérifié;non
+24007;Allemans;24;eau potable : CT Bassin Ribéracois;345974;2024;79,6;1,0;4,0;65,8;conforme;128871;8923;45;95;544;Non vérifié;non
+24008;Angoisse;24;eau potable : Secteur PAYZAC-SAVIGNAC-LEDRIER;137726;2024;75,9;0,6;1,9;65,4;conforme;87221;9266;42;117;598;Non vérifié;non
+24009;Anlhiac;24;eau potable : Secteur EXCIDEUIL;137717;2024;75,4;1,1;3,5;65,7;conforme;45739;4562;47;119;264;Non vérifié;non
+24010;Annesse-et-Beaulieu;24;eau potable : Secteur : NORD;137688;2024;67,6;2,1;4,4;65,9;conforme;1102741;36066;65;176;1511;Non vérifié;non
+24012;Archignac;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;7474;50;104;409;Non vérifié;non
+24014;Aubas;24;eau potable : CT RDE 24;345574;2024;81,5;0,8;3,6;65,7;conforme;340793;8463;38;84;614;Non vérifié;non
+24015;Audrix;24;eau potable;137465;2023;72,9;1,5;4,2;65,8;conforme;7118;7118;68;132;287;Sans anomalie apparente;non
+24016;Augignac;24;eau potable;137727;2024;70,1;1,2;2,7;65,5;conforme;314909;20027;67;162;820;Non vérifié;non
+24018;Auriac-du-Périgord;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;7255;50;104;397;Non vérifié;non
+24019;Azerat;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;8461;50;104;463;Non vérifié;non
+24020;La Bachellerie;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;16282;50;104;891;Non vérifié;non
+24021;Badefols-d'Ans;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;7693;50;104;421;Non vérifié;non
+24022;Badefols-sur-Dordogne;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;9966;135;176;202;Non vérifié;non
+24023;Baneuil;24;eau potable : CT RDE 24;345574;2024;81,5;0,8;3,6;65,7;conforme;340793;4425;38;84;321;Non vérifié;non
+24024;Bardou;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;1205;75;149;44;Non vérifié;non
+24025;Bars;24;eau potable : VALLEE AUVEZERE MANOIRE;213817;2024;79,5;0,9;3,4;65,7;conforme;339669;2755;31;99;246;Non vérifié;non
+24026;Bassillac et Auberoche;24;eau potable : VALLEE AUVEZERE MANOIRE;213817;2024;79,5;0,9;3,4;65,7;conforme;339669;48841;31;99;4361;Non vérifié;non
+24027;Bayac;24;eau potable : CT RDE 24;345574;2024;81,5;0,8;3,6;65,7;conforme;340793;4893;38;84;355;Non vérifié;non
+24028;Beaumontois en Périgord;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;85503;135;176;1733;Non vérifié;non
+24029;Beaupouyet;24;eau potable : Secteur MUSSIDAN - NEUVIC;307594;2024;73,6;1,4;3,8;65,8;conforme;428218;13365;66;136;553;Non vérifié;non
+24030;Beauregard-de-Terrasson;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;13358;50;104;731;Non vérifié;non
+24031;Beauregard-et-Bassac;24;eau potable : secteur : SUD;208887;2024;68,5;1,3;2,9;65,6;conforme;138208;11072;98;166;309;Non vérifié;non
+24032;Beauronne;24;eau potable : Secteur MUSSIDAN - NEUVIC;307594;2024;73,6;1,4;3,8;65,8;conforme;428218;8991;66;136;372;Non vérifié;non
+24034;Beleymas;24;eau potable : Secteur MUSSIDAN - NEUVIC;307594;2024;73,6;1,4;3,8;65,8;conforme;428218;6961;66;136;288;Non vérifié;non
+24035;Pays de Belvès;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;64041;135;176;1298;Non vérifié;non
+24036;Berbiguières;24;eau potable : Secteur MARNAC BERBIGUIERE;137721;2024;67,8;1,1;2,2;65,4;conforme;13900;6759;105;180;177;Non vérifié;non
+24037;Bergerac;24;eau potable : Secteur VILLE de BERGERAC;137473;2024;84,5;3,4;18,6;68,7;conforme;278679;278679;28;67;27110;Non vérifié;non
+24038;Bertric-Burée;24;eau potable : CT Bassin Ribéracois;345974;2024;79,6;1,0;4,0;65,8;conforme;128871;7299;45;95;445;Non vérifié;non
+24039;Besse;24;eau potable : Vitrac-Céou;137737;2024;60,7;2,9;4,5;65,9;non conforme;884895;6399;118;237;148;Non vérifié;non
+24040;Beynac-et-Cazenac;24;eau potable;137476;2024;68,5;2,3;5,0;66,0;conforme;25445;25445;176;169;397;Non vérifié;non
+24042;Biras;24;eau potable : Secteur : NORD;137688;2024;67,6;2,1;4,4;65,9;conforme;1102741;17448;65;176;731;Non vérifié;non
+24043;Biron;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;7450;135;176;151;Non vérifié;non
+24045;Boisse;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;6873;75;149;251;Non vérifié;non
+24046;Boisseuilh;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;2010;50;104;110;Non vérifié;non
+24048;Bonneville-et-Saint-Avit-de-Fumadières;24;eau potable : CT Vélines;137707;2024;77,4;1,8;6,1;66,2;conforme;301491;6907;63;108;299;Non vérifié;non
+24050;Borrèze;24;eau potable : SAUR du 01/01/2023 au 31/12/2031 (Territoires : Eaux du Doux, Moyenne Vallée de la Dordogne, Floirac, Martel et Ex. Blagour);325594;2024;68,8;1,6;3,4;65,7;conforme;371774;10936;85;185;354;Non vérifié;non
+24051;Bosset;24;eau potable : Secteur Saint-Pierre-d'Eyraud;332734;2024;80,2;0,9;3,5;65,7;conforme;34263;3239;38;113;234;Non vérifié;non
+24052;Bouillac;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;5970;135;176;121;Non vérifié;non
+24053;Boulazac Isle Manoire;24;eau potable : BOULAZAC Isle Manoire;267694;2024;76,1;3,7;11,7;67,3;conforme;137211;132281;34;115;10759;Non vérifié;non
+24054;Bouniagues;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;15828;75;149;578;Non vérifié;non
+24055;Bourdeilles;24;eau potable : Secteur : NORD;137688;2024;67,6;2,1;4,4;65,9;conforme;1102741;18737;65;176;785;Non vérifié;non
+24056;Le Bourdeix;24;eau potable;137727;2024;70,1;1,2;2,7;65,5;conforme;314909;6008;67;162;246;Non vérifié;non
+24057;Bourg-des-Maisons;24;eau potable;345494;2024;66,4;1,1;2,2;65,4;conforme;248027;2667;100;189;73;Non vérifié;non
+24058;Bourg-du-Bost;24;eau potable : CT Bois de la Côte;345994;2024;81,3;0,7;2,9;65,6;conforme;111600;3448;38;90;247;Non vérifié;non
+24059;Bourgnac;24;eau potable : Secteur MUSSIDAN - NEUVIC;307594;2024;73,6;1,4;3,8;65,8;conforme;428218;8556;66;136;354;Non vérifié;non
+24060;Bourniquel;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;3059;135;176;62;Non vérifié;non
+24061;Bourrou;24;eau potable : Secteur : NORD;137688;2024;67,6;2,1;4,4;65,9;conforme;1102741;3318;65;176;139;Non vérifié;non
+24062;Bouteilles-Saint-Sébastien;24;eau potable;345494;2024;66,4;1,1;2,2;65,4;conforme;248027;6285;100;189;172;Non vérifié;non
+24063;Bouzic;24;eau potable : Vitrac-Céou;137737;2024;60,7;2,9;4,5;65,9;non conforme;884895;6917;118;237;160;Non vérifié;non
+24064;Brantôme en Périgord;24;eau potable;345394;2024;76,4;0,9;2,9;65,6;conforme;248231;76471;56;113;3763;Non vérifié;non
+24066;Brouchaud;24;eau potable : VALLEE AUVEZERE MANOIRE;213817;2024;79,5;0,9;3,4;65,7;conforme;339669;2509;31;99;224;Non vérifié;non
+24067;Le Bugue;24;eau potable : CT RDE 24;345574;2024;81,5;0,8;3,6;65,7;conforme;340793;36707;38;84;2663;Non vérifié;non
+24068;Le Buisson-de-Cadouin;24;eau potable : CT RDE 24;345574;2024;81,5;0,8;3,6;65,7;conforme;340793;27085;38;84;1965;Non vérifié;non
+24069;Bussac;24;eau potable : Secteur : NORD;137688;2024;67,6;2,1;4,4;65,9;conforme;1102741;9046;65;176;379;Non vérifié;non
+24070;Busserolles;24;eau potable;137727;2024;70,1;1,2;2,7;65,5;conforme;314909;12602;67;162;516;Non vérifié;non
+24071;Bussière-Badil;24;eau potable;137727;2024;70,1;1,2;2,7;65,5;conforme;314909;9427;67;162;386;Non vérifié;non
+24073;Calès;24;eau potable : Secteur TREMOLAT CALES;137733;2024;85,8;0,5;3,2;65,6;conforme;11074;4115;31;58;369;Non vérifié;non
+24074;Calviac-en-Périgord;24;eau potable : Carlux - Saint-Vincent;345454;2024;75,5;1,4;4,3;65,9;conforme;212954;16397;82;121;546;Non vérifié;non
+24075;Campagnac-lès-Quercy;24;eau potable : Vitrac-Céou;137737;2024;60,7;2,9;4,5;65,9;non conforme;884895;13964;118;237;323;Non vérifié;non
+24076;Campagne;24;eau potable : CT RDE 24;345574;2024;81,5;0,8;3,6;65,7;conforme;340793;5734;38;84;416;Non vérifié;non
+24077;Campsegret;24;eau potable : secteur Nord;337574;2024;69,8;1,7;3,8;65,8;conforme;476525;11045;74;163;407;Non vérifié;non
+24080;Capdrot;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;22597;135;176;458;Non vérifié;non
+24081;Carlux;24;eau potable : Carlux - Saint-Vincent;345454;2024;75,5;1,4;4,3;65,9;conforme;212954;20151;82;121;671;Non vérifié;non
+24082;Carsac-Aillac;24;eau potable : Vitrac-Céou;137737;2024;60,7;2,9;4,5;65,9;non conforme;884895;68568;118;237;1586;Non vérifié;non
+24083;Carsac-de-Gurson;24;eau potable;137684;2024;86,5;0,6;4,0;65,8;conforme;137617;1955;23;55;231;Non vérifié;non
+24084;Carves;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;4835;135;176;98;Non vérifié;non
+24085;La Cassagne;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;2723;50;104;149;Non vérifié;non
+24086;Castelnaud-la-Chapelle;24;eau potable : Vitrac-Céou;137737;2024;60,7;2,9;4,5;65,9;non conforme;884895;19498;118;237;451;Non vérifié;non
+24087;Castels et Bézenac;24;eau potable (CASTELS);137493;2024;82,2;1,0;4,7;65,9;conforme;15104;15104;51;113;813;Non vérifié;non
+24088;Cause-de-Clérans;24;eau potable : Secteur STE ALVERE LALINDE NORD;137729;2024;81,9;0,6;2,8;65,6;conforme;61670;6119;51;77;331;Non vérifié;non
+24089;Cazoulès;24;eau potable : Secteur CARLUX;137713;2021;66,6;1,6;3,3;65,7;conforme;111538;15310;92;189;456;Sans anomalie apparente;non
+24090;Celles;24;eau potable : CT Bassin Ribéracois;345974;2024;79,6;1,0;4,0;65,8;conforme;128871;10153;45;95;619;Non vérifié;non
+24091;Cénac-et-Saint-Julien;24;eau potable : Vitrac-Céou;137737;2024;60,7;2,9;4,5;65,9;non conforme;884895;51145;118;237;1183;Non vérifié;non
+24095;Chaleix;24;eau potable : CT RDE 24;345574;2024;81,5;0,8;3,6;65,7;conforme;340793;5582;38;84;405;Non vérifié;non
+24096;Champagnac-de-Belair;24;eau potable;345394;2024;76,4;0,9;2,9;65,6;conforme;248231;15587;56;113;767;Non vérifié;non
+24097;Champagne-et-Fontaine;24;eau potable;345494;2024;66,4;1,1;2,2;65,4;conforme;248027;12642;100;189;346;Non vérifié;non
+24098;Champcevinel;24;eau potable : PERIGUEUX;137744;2024;87,1;4,7;31,7;71,3;conforme;358540;34828;31;64;3126;Non vérifié;non
+24100;Champniers-et-Reilhac;24;eau potable;137727;2024;70,1;1,2;2,7;65,5;conforme;314909;13213;67;162;541;Non vérifié;non
+24101;Champs-Romain;24;eau potable;137727;2024;70,1;1,2;2,7;65,5;conforme;314909;7107;67;162;291;Non vérifié;non
+24102;Chancelade;24;eau potable : Secteur : NORD;137688;2024;67,6;2,1;4,4;65,9;conforme;1102741;106646;65;176;4468;Non vérifié;non
+24104;Chantérac;24;eau potable;137705;2024;76,0;0,9;3,0;65,6;conforme;89401;9208;39;124;652;Non vérifié;non
+24105;Chapdeuil;24;eau potable;345494;2024;66,4;1,1;2,2;65,4;conforme;248027;5189;100;189;142;Non vérifié;non
+24106;La Chapelle-Aubareil;24;eau potable : CT RDE 24;345574;2024;81,5;0,8;3,6;65,7;conforme;340793;7471;38;84;542;Non vérifié;non
+24107;La Chapelle-Faucher;24;eau potable;345394;2024;76,4;0,9;2,9;65,6;conforme;248231;8027;56;113;395;Non vérifié;non
+24108;La Chapelle-Gonaguet;24;eau potable : Secteur : NORD;137688;2024;67,6;2,1;4,4;65,9;conforme;1102741;25038;65;176;1049;Non vérifié;non
+24109;La Chapelle-Grésignac;24;eau potable;345494;2024;66,4;1,1;2,2;65,4;conforme;248027;3764;100;189;103;Non vérifié;non
+24110;La Chapelle-Montabourlet;24;eau potable;345494;2024;66,4;1,1;2,2;65,4;conforme;248027;2046;100;189;56;Non vérifié;non
+24111;La Chapelle-Montmoreau;24;eau potable;345394;2024;76,4;0,9;2,9;65,6;conforme;248231;1524;56;113;75;Non vérifié;non
+24113;La Chapelle-Saint-Jean;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;1498;50;104;82;Non vérifié;non
+24114;Chassaignes;24;eau potable : CT Bois de la Côte;345994;2024;81,3;0,7;2,9;65,6;conforme;111600;1089;38;90;78;Non vérifié;non
+24115;Château-l'Évêque;24;eau potable : Secteur : NORD;137688;2024;67,6;2,1;4,4;65,9;conforme;1102741;51509;65;176;2158;Non vérifié;non
+24116;Châtres;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;3289;50;104;180;Non vérifié;non
+24117;Les Coteaux Périgourdins;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;10124;50;104;554;Non vérifié;non
+24119;Cherval;24;eau potable;345494;2024;66,4;1,1;2,2;65,4;conforme;248027;8112;100;189;222;Non vérifié;non
+24120;Cherveix-Cubas;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;10178;50;104;557;Non vérifié;non
+24121;Chourgnac;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;1261;50;104;69;Non vérifié;non
+24122;Cladech;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;4243;135;176;86;Non vérifié;non
+24123;Clermont-de-Beauregard;24;eau potable : secteur Nord;337574;2024;69,8;1,7;3,8;65,8;conforme;476525;3256;74;163;120;Non vérifié;non
+24124;Clermont-d'Excideuil;24;eau potable : Secteur NANTHIAT;137725;2024;81,0;0,6;2,4;65,5;conforme;78466;3640;39;99;255;Non vérifié;non
+24126;Colombier;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;7804;75;149;285;Non vérifié;non
+24128;Comberanche-et-Épeluche;24;eau potable : CT Bassin Ribéracois;345974;2024;79,6;1,0;4,0;65,8;conforme;128871;2706;45;95;165;Non vérifié;non
+24129;Condat-sur-Trincou;24;eau potable;345394;2024;76,4;0,9;2,9;65,6;conforme;248231;10242;56;113;504;Non vérifié;non
+24130;Condat-sur-Vézère;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;15697;50;104;859;Non vérifié;non
+24131;Connezac;24;eau potable;345494;2024;66,4;1,1;2,2;65,4;conforme;248027;2887;100;189;79;Non vérifié;non
+24132;Conne-de-Labarde;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;6819;75;149;249;Non vérifié;non
+24133;La Coquille;24;eau potable : CT RDE 24;345574;2024;81,5;0,8;3,6;65,7;conforme;340793;17616;38;84;1278;Non vérifié;non
+24134;Corgnac-sur-l'Isle;24;eau potable : CT Vallée de l'Isle;331594;2024;83,6;1,6;7,9;66,6;conforme;76814;18615;60;203;854;Non vérifié;non
+24135;Cornille;24;eau potable : CORNILLE;267654;2024;77,3;0,8;2,8;65,6;conforme;8500;8500;34;104;687;Non vérifié;non
+24136;Coubjours;24;eau potable;179745;2024;86,1;1,4;8,9;66,8;conforme;950460;1021;26;57;109;Non vérifié;non
+24137;Coulaures;24;eau potable : CT Vallée de l'Isle;331594;2024;83,6;1,6;7,9;66,6;conforme;76814;16740;60;203;768;Non vérifié;non
+24138;Coulounieix-Chamiers;24;eau potable : Secteur : NORD;137688;2024;67,6;2,1;4,4;65,9;conforme;1102741;186941;65;176;7832;Non vérifié;non
+24139;Coursac;24;eau potable : Secteur : NORD;137688;2024;67,6;2,1;4,4;65,9;conforme;1102741;56808;65;176;2380;Non vérifié;non
+24140;Cours-de-Pile;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;43403;75;149;1585;Non vérifié;non
+24141;Coutures;24;eau potable : CT Bassin Ribéracois;345974;2024;79,6;1,0;4,0;65,8;conforme;128871;3264;45;95;199;Non vérifié;non
+24142;Coux et Bigaroque-Mouzens;24;eau potable : Secreur: MOUZENS;137574;2024;71,5;1,4;3,5;65,7;conforme;7849;7849;17;147;1244;Non vérifié;non
+24143;Couze-et-Saint-Front;24;eau potable : CT RDE 24;345574;2024;81,5;0,8;3,6;65,7;conforme;340793;9773;38;84;709;Non vérifié;non
+24144;Creyssac;24;eau potable : Secteur : NORD;137688;2024;67,6;2,1;4,4;65,9;conforme;1102741;2482;65;176;104;Non vérifié;non
+24145;Creysse;24;eau potable : secteur Nord;337574;2024;69,8;1,7;3,8;65,8;conforme;476525;47300;74;163;1743;Non vérifié;non
+24147;Cubjac-Auvézère-Val d'Ans;24;eau potable : VALLEE AUVEZERE MANOIRE;213817;2024;79,5;0,9;3,4;65,7;conforme;339669;12622;31;99;1127;Non vérifié;non
+24148;Cunèges;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;8599;75;149;314;Non vérifié;non
+24150;Daglan;24;eau potable : Vitrac-Céou;137737;2024;60,7;2,9;4,5;65,9;non conforme;884895;24643;118;237;570;Non vérifié;non
+24151;Doissat;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;4884;135;176;99;Non vérifié;non
+24152;Domme;24;eau potable : Vitrac-Céou;137737;2024;60,7;2,9;4,5;65,9;non conforme;884895;39169;118;237;906;Non vérifié;non
+24153;La Dornac;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;7437;50;104;407;Non vérifié;non
+24154;Douchapt;24;eau potable;137705;2024;76,0;0,9;3,0;65,6;conforme;89401;4986;39;124;353;Non vérifié;non
+24155;Douville;24;eau potable : secteur : SUD;208887;2024;68,5;1,3;2,9;65,6;conforme;138208;16232;98;166;453;Non vérifié;non
+24156;La Douze;24;eau potable : VALLEE AUVEZERE MANOIRE;213817;2024;79,5;0,9;3,4;65,7;conforme;339669;12891;31;99;1151;Non vérifié;non
+24157;Douzillac;24;eau potable : Secteur MUSSIDAN - NEUVIC;307594;2024;73,6;1,4;3,8;65,8;conforme;428218;20422;66;136;845;Non vérifié;non
+24158;Dussac;24;eau potable : Secteur NANTHIAT;137725;2024;81,0;0,6;2,4;65,5;conforme;78466;6095;39;99;427;Non vérifié;non
+24159;Échourgnac;24;eau potable;137684;2024;86,5;0,6;4,0;65,8;conforme;137617;3344;23;55;395;Non vérifié;non
+24160;Église-Neuve-de-Vergt;24;eau potable : VALLEE AUVEZERE MANOIRE;213817;2024;79,5;0,9;3,4;65,7;conforme;339669;6484;31;99;579;Non vérifié;non
+24161;Église-Neuve-d'Issac;24;eau potable : Secteur MUSSIDAN - NEUVIC;307594;2024;73,6;1,4;3,8;65,8;conforme;428218;2924;66;136;121;Non vérifié;non
+24162;Escoire;24;eau potable : BOULAZAC Isle Manoire;267694;2024;76,1;3,7;11,7;67,3;conforme;137211;4930;34;115;401;Non vérifié;non
+24163;Étouars;24;eau potable;137727;2024;70,1;1,2;2,7;65,5;conforme;314909;4054;67;162;166;Non vérifié;non
+24164;Excideuil;24;eau potable : Secteur EXCIDEUIL;137717;2024;75,4;1,1;3,5;65,7;conforme;45739;20753;47;119;1201;Non vérifié;non
+24165;Eygurande-et-Gardedeuil;24;eau potable;137684;2024;86,5;0,6;4,0;65,8;conforme;137617;3403;23;55;402;Non vérifié;non
+24167;Eymet;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;70349;75;149;2569;Non vérifié;non
+24168;Plaisance;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;11282;75;149;412;Non vérifié;non
+24171;Eyzerac;24;eau potable : Secteur NANTHIAT;137725;2024;81,0;0,6;2,4;65,5;conforme;78466;7722;39;99;541;Non vérifié;non
+24172;Les Eyzies;24;eau potable : Secteur MANAURIE;137695;2024;65,0;1,5;2,8;65,6;non conforme;101041;60465;146;195;1134;Non vérifié;non
+24174;Fanlac;24;eau potable : Secteur ST LEON SUR VEZERE;137730;2024;68,4;1,1;2,3;65,5;conforme;131439;4222;86;174;134;Non vérifié;non
+24175;Les Farges;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;5683;50;104;311;Non vérifié;non
+24176;Faurilles;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;986;75;149;36;Non vérifié;non
+24177;Faux-en-Périgord;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;18402;75;149;672;Non vérifié;non
+24179;La Feuillade;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;14984;50;104;820;Non vérifié;non
+24180;Firbeix;24;eau potable : CT RDE 24;345574;2024;81,5;0,8;3,6;65,7;conforme;340793;4052;38;84;294;Non vérifié;non
+24182;Le Fleix;24;eau potable : CT Vélines;137707;2024;77,4;1,8;6,1;66,2;conforme;301491;34374;63;108;1488;Non vérifié;non
+24183;Fleurac;24;eau potable : Secteur ST LEON SUR VEZERE;137730;2024;68,4;1,1;2,3;65,5;conforme;131439;10334;86;174;328;Non vérifié;non
+24184;Florimont-Gaumier;24;eau potable : Vitrac-Céou;137737;2024;60,7;2,9;4,5;65,9;non conforme;884895;7350;118;237;170;Non vérifié;non
+24186;Fonroque;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;9338;75;149;341;Non vérifié;non
+24188;Fossemagne;24;eau potable : VALLEE AUVEZERE MANOIRE;213817;2024;79,5;0,9;3,4;65,7;conforme;339669;6227;31;99;556;Non vérifié;non
+24189;Fougueyrolles;24;eau potable : CT Vélines;137707;2024;77,4;1,8;6,1;66,2;conforme;301491;10673;63;108;462;Non vérifié;non
+24190;Fouleix;24;eau potable : secteur : SUD;208887;2024;68,5;1,3;2,9;65,6;conforme;138208;9926;98;166;277;Non vérifié;non
+24191;Fraisse;24;eau potable : Secteur Saint-Pierre-d'Eyraud;332734;2024;80,2;0,9;3,5;65,7;conforme;34263;2367;38;113;171;Non vérifié;non
+24192;Gabillou;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;1736;50;104;95;Non vérifié;non
+24193;Gageac-et-Rouillac;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;11556;75;149;422;Non vérifié;non
+24194;Gardonne;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;44033;75;149;1608;Non vérifié;non
+24195;Gaugeac;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;5230;135;176;106;Non vérifié;non
+24196;Génis;24;eau potable : Secteur PAYZAC-SAVIGNAC-LEDRIER;137726;2024;75,9;0,6;1,9;65,4;conforme;87221;7995;42;117;516;Non vérifié;non
+24197;Ginestet;24;eau potable : secteur Nord;337574;2024;69,8;1,7;3,8;65,8;conforme;476525;20678;74;163;762;Non vérifié;non
+24199;Gout-Rossignol;24;eau potable;345494;2024;66,4;1,1;2,2;65,4;conforme;248027;13154;100;189;360;Non vérifié;non
+24200;Grand-Brassac;24;eau potable : Secteur : NORD;137688;2024;67,6;2,1;4,4;65,9;conforme;1102741;13247;65;176;555;Non vérifié;non
+24202;Granges-d'Ans;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;2741;50;104;150;Non vérifié;non
+24205;Grignols;24;eau potable : Secteur : NORD;137688;2024;67,6;2,1;4,4;65,9;conforme;1102741;15921;65;176;667;Non vérifié;non
+24206;Grives;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;5230;135;176;106;Non vérifié;non
+24207;Groléjac;24;eau potable : Vitrac-Céou;137737;2024;60,7;2,9;4,5;65,9;non conforme;884895;29658;118;237;686;Non vérifié;non
+24208;Grun-Bordas;24;eau potable : Secteur : NORD;137688;2024;67,6;2,1;4,4;65,9;conforme;1102741;5824;65;176;244;Non vérifié;non
+24209;Hautefaye;24;eau potable;345494;2024;66,4;1,1;2,2;65,4;conforme;248027;4494;100;189;123;Non vérifié;non
+24210;Hautefort;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;14729;50;104;806;Non vérifié;non
+24211;Issac;24;eau potable : Secteur MUSSIDAN - NEUVIC;307594;2024;73,6;1,4;3,8;65,8;conforme;428218;10562;66;136;437;Non vérifié;non
+24212;Issigeac;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;20374;75;149;744;Non vérifié;non
+24213;Jaure;24;eau potable : Secteur : NORD;137688;2024;67,6;2,1;4,4;65,9;conforme;1102741;4249;65;176;178;Non vérifié;non
+24214;Javerlhac-et-la-Chapelle-Saint-Robert;24;eau potable;137727;2024;70,1;1,2;2,7;65,5;conforme;314909;20271;67;162;830;Non vérifié;non
+24215;Jayac;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;3490;50;104;191;Non vérifié;non
+24216;La Jemaye-Ponteyraud;24;eau potable : CT Bois de la Côte;345994;2024;81,3;0,7;2,9;65,6;conforme;111600;2038;38;90;146;Non vérifié;non
+24217;Journiac;24;eau potable;137545;2021;71,4;1,1;2,6;65,5;conforme;20525;20525;113;152;496;Sans anomalie apparente;non
+24218;Jumilhac-le-Grand;24;eau potable;137546;2024;64,8;1,2;2,2;65,4;non conforme;44895;44895;109;200;1130;Non vérifié;non
+24220;Lacropte;24;eau potable : VALLEE AUVEZERE MANOIRE;213817;2024;79,5;0,9;3,4;65,7;conforme;339669;7828;31;99;699;Non vérifié;non
+24221;Rudeau-Ladosse;24;eau potable;345494;2024;66,4;1,1;2,2;65,4;conforme;248027;5627;100;189;154;Non vérifié;non
+24222;La Force;24;eau potable : secteur Nord;337574;2024;69,8;1,7;3,8;65,8;conforme;476525;73324;74;163;2702;Non vérifié;non
+24223;Lalinde;24;eau potable : CT RDE 24;345574;2024;81,5;0,8;3,6;65,7;conforme;340793;40401;38;84;2931;Non vérifié;non
+24224;Lamonzie-Montastruc;24;eau potable : secteur Nord;337574;2024;69,8;1,7;3,8;65,8;conforme;476525;19213;74;163;708;Non vérifié;non
+24225;Lamonzie-Saint-Martin;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;75086;75;149;2742;Non vérifié;non
+24226;Lamothe-Montravel;24;eau potable : CT Vélines;137707;2024;77,4;1,8;6,1;66,2;conforme;301491;33335;63;108;1443;Non vérifié;non
+24227;Lanouaille;24;eau potable : Secteur PAYZAC-SAVIGNAC-LEDRIER;137726;2024;75,9;0,6;1,9;65,4;conforme;87221;14348;42;117;926;Non vérifié;non
+24228;Lanquais;24;eau potable : CT RDE 24;345574;2024;81,5;0,8;3,6;65,7;conforme;340793;6975;38;84;506;Non vérifié;non
+24229;Le Lardin-Saint-Lazare;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;30554;50;104;1672;Non vérifié;non
+24230;Larzac;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;7154;135;176;145;Non vérifié;non
+24231;Lavalade;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;5279;135;176;107;Non vérifié;non
+24232;Lavaur;24;eau potable : Secteur MAZEYROLLES;137722;2024;55,5;1,6;2,0;65,4;non conforme;90520;5488;177;288;85;Non vérifié;non
+24234;Les Lèches;24;eau potable : Secteur MUSSIDAN - NEUVIC;307594;2024;73,6;1,4;3,8;65,8;conforme;428218;9402;66;136;389;Non vérifié;non
+24236;Léguillac-de-l'Auche;24;eau potable : Secteur : NORD;137688;2024;67,6;2,1;4,4;65,9;conforme;1102741;23105;65;176;968;Non vérifié;non
+24237;Lembras;24;eau potable : secteur Nord;337574;2024;69,8;1,7;3,8;65,8;conforme;476525;34165;74;163;1259;Non vérifié;non
+24238;Lempzours;24;eau potable;345394;2024;76,4;0,9;2,9;65,6;conforme;248231;2723;56;113;134;Non vérifié;non
+24240;Limeuil;24;eau potable : CT RDE 24;345574;2024;81,5;0,8;3,6;65,7;conforme;340793;4714;38;84;342;Non vérifié;non
+24241;Limeyrat;24;eau potable : VALLEE AUVEZERE MANOIRE;213817;2024;79,5;0,9;3,4;65,7;conforme;339669;4749;31;99;424;Non vérifié;non
+24242;Liorac-sur-Louyre;24;eau potable : CT RDE 24;345574;2024;81,5;0,8;3,6;65,7;conforme;340793;3570;38;84;259;Non vérifié;non
+24243;Lisle;24;eau potable : Secteur : NORD;137688;2024;67,6;2,1;4,4;65,9;conforme;1102741;22055;65;176;924;Non vérifié;non
+24244;Lolme;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;9424;135;176;191;Non vérifié;non
+24245;Loubejac;24;eau potable;169434;2024;63,5;2,5;4,3;65,9;non conforme;728522;10713;110;217;266;Non vérifié;non
+24246;Lunas;24;eau potable : secteur Nord;337574;2024;69,8;1,7;3,8;65,8;conforme;476525;12456;74;163;459;Non vérifié;non
+24247;Lusignac;24;eau potable;345494;2024;66,4;1,1;2,2;65,4;conforme;248027;5919;100;189;162;Non vérifié;non
+24248;Lussas-et-Nontronneau;24;eau potable;137727;2024;70,1;1,2;2,7;65,5;conforme;314909;6912;67;162;283;Non vérifié;non
+24251;Manzac-sur-Vern;24;eau potable : Secteur : NORD;137688;2024;67,6;2,1;4,4;65,9;conforme;1102741;12770;65;176;535;Non vérifié;non
+24252;Marcillac-Saint-Quentin;24;eau potable : Carlux - Saint-Vincent;345454;2024;75,5;1,4;4,3;65,9;conforme;212954;24806;82;121;826;Non vérifié;non
+24253;Mareuil en Périgord;24;eau potable;345494;2024;66,4;1,1;2,2;65,4;conforme;248027;84990;100;189;2326;Non vérifié;non
+24254;Marnac;24;eau potable : Secteur MARNAC BERBIGUIERE;137721;2024;67,8;1,1;2,2;65,4;conforme;13900;7141;105;180;187;Non vérifié;non
+24255;Marquay;24;eau potable : Secteur MANAURIE;137695;2024;65,0;1,5;2,8;65,6;non conforme;101041;31352;146;195;588;Non vérifié;non
+24256;Marsac-sur-l'Isle;24;eau potable : Secteur : NORD;137688;2024;67,6;2,1;4,4;65,9;conforme;1102741;76070;65;176;3187;Non vérifié;non
+24257;Marsalès;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;11002;135;176;223;Non vérifié;non
+24259;Eyraud-Crempse-Maurens;24;eau potable : secteur Nord;337574;2024;69,8;1,7;3,8;65,8;conforme;476525;46214;74;163;1703;Non vérifié;non
+24260;Mauzac-et-Grand-Castang;24;eau potable : CT RDE 24;345574;2024;81,5;0,8;3,6;65,7;conforme;340793;12116;38;84;879;Non vérifié;non
+24261;Mauzens-et-Miremont;24;eau potable : CT RDE 24;345574;2024;81,5;0,8;3,6;65,7;conforme;340793;3970;38;84;288;Non vérifié;non
+24262;Mayac;24;eau potable : CT Vallée de l'Isle;331594;2024;83,6;1,6;7,9;66,6;conforme;76814;7084;60;203;325;Non vérifié;non
+24263;Mazeyrolles;24;eau potable : Secteur MAZEYROLLES;137722;2024;55,5;1,6;2,0;65,4;non conforme;90520;19821;177;288;307;Non vérifié;non
+24264;Ménesplet;24;eau potable;137684;2024;86,5;0,6;4,0;65,8;conforme;137617;16320;23;55;1928;Non vérifié;non
+24266;Mensignac;24;eau potable;137705;2024;76,0;0,9;3,0;65,6;conforme;89401;21482;39;124;1521;Non vérifié;non
+24267;Mescoules;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;4847;75;149;177;Non vérifié;non
+24268;Meyrals;24;eau potable;137564;2024;75,2;1,2;3,7;65,7;conforme;14861;14861;57;119;715;Non vérifié;non
+24269;Mialet;24;eau potable : CT RDE 24;345574;2024;81,5;0,8;3,6;65,7;conforme;340793;8656;38;84;628;Non vérifié;non
+24271;Milhac-de-Nontron;24;eau potable;345394;2024;76,4;0,9;2,9;65,6;conforme;248231;10567;56;113;520;Non vérifié;non
+24272;Minzac;24;eau potable;137684;2024;86,5;0,6;4,0;65,8;conforme;137617;4190;23;55;495;Non vérifié;non
+24273;Molières;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;18255;135;176;370;Non vérifié;non
+24274;Monbazillac;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;22701;75;149;829;Non vérifié;non
+24276;Monestier;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;10543;75;149;385;Non vérifié;non
+24277;Monfaucon;24;eau potable : CT Vélines;137707;2024;77,4;1,8;6,1;66,2;conforme;301491;6584;63;108;285;Non vérifié;non
+24278;Monmadalès;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;2273;75;149;83;Non vérifié;non
+24279;Monmarvès;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;1670;75;149;61;Non vérifié;non
+24280;Monpazier;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;21758;135;176;441;Non vérifié;non
+24281;Monsac;24;eau potable : CT RDE 24;345574;2024;81,5;0,8;3,6;65,7;conforme;340793;2454;38;84;178;Non vérifié;non
+24282;Monsaguel;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;3587;75;149;131;Non vérifié;non
+24284;Montagnac-d'Auberoche;24;eau potable : VALLEE AUVEZERE MANOIRE;213817;2024;79,5;0,9;3,4;65,7;conforme;339669;1534;31;99;137;Non vérifié;non
+24285;Montagnac-la-Crempse;24;eau potable : Secteur MUSSIDAN - NEUVIC;307594;2024;73,6;1,4;3,8;65,8;conforme;428218;9136;66;136;378;Non vérifié;non
+24286;Montagrier;24;eau potable;137705;2024;76,0;0,9;3,0;65,6;conforme;89401;7217;39;124;511;Non vérifié;non
+24287;Montaut;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;3478;75;149;127;Non vérifié;non
+24288;Montazeau;24;eau potable : CT Vélines;137707;2024;77,4;1,8;6,1;66,2;conforme;301491;6745;63;108;292;Non vérifié;non
+24289;Montcaret;24;eau potable : CT Vélines;137707;2024;77,4;1,8;6,1;66,2;conforme;301491;32110;63;108;1390;Non vérifié;non
+24290;Montferrand-du-Périgord;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;7697;135;176;156;Non vérifié;non
+24292;Montpeyroux;24;eau potable;137684;2024;86,5;0,6;4,0;65,8;conforme;137617;4198;23;55;496;Non vérifié;non
+24293;Monplaisant;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;13075;135;176;265;Non vérifié;non
+24294;Montpon-Ménestérol;24;eau potable;137684;2024;86,5;0,6;4,0;65,8;conforme;137617;49653;23;55;5866;Non vérifié;non
+24295;Montrem;24;eau potable : Secteur : NORD;137688;2024;67,6;2,1;4,4;65,9;conforme;1102741;28834;65;176;1208;Non vérifié;non
+24296;Mouleydier;24;eau potable : secteur Nord;337574;2024;69,8;1,7;3,8;65,8;conforme;476525;31262;74;163;1152;Non vérifié;non
+24297;Moulin-Neuf;24;eau potable;137684;2024;86,5;0,6;4,0;65,8;conforme;137617;8346;23;55;986;Non vérifié;non
+24299;Mussidan;24;eau potable : Secteur MUSSIDAN - NEUVIC;307594;2024;73,6;1,4;3,8;65,8;conforme;428218;66971;66;136;2771;Non vérifié;non
+24301;Nadaillac;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;6798;50;104;372;Non vérifié;non
+24302;Nailhac;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;5281;50;104;289;Non vérifié;non
+24303;Nanteuil-Auriac-de-Bourzac;24;eau potable;345494;2024;66,4;1,1;2,2;65,4;conforme;248027;8550;100;189;234;Non vérifié;non
+24304;Nantheuil;24;eau potable : Secteur NANTHIAT;137725;2024;81,0;0,6;2,4;65,5;conforme;78466;14117;39;99;989;Non vérifié;non
+24305;Nanthiat;24;eau potable : Secteur NANTHIAT;137725;2024;81,0;0,6;2,4;65,5;conforme;78466;3483;39;99;244;Non vérifié;non
+24306;Nastringues;24;eau potable : CT Vélines;137707;2024;77,4;1,8;6,1;66,2;conforme;301491;3188;63;108;138;Non vérifié;non
+24307;Naussannes;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;11446;135;176;232;Non vérifié;non
+24308;Négrondes;24;eau potable : CT Vallée de l'Isle;331594;2024;83,6;1,6;7,9;66,6;conforme;76814;16958;60;203;778;Non vérifié;non
+24309;Neuvic;24;eau potable : Secteur MUSSIDAN - NEUVIC;307594;2024;73,6;1,4;3,8;65,8;conforme;428218;89109;66;136;3687;Non vérifié;non
+24311;Nontron;24;eau potable;137727;2024;70,1;1,2;2,7;65,5;conforme;314909;74661;67;162;3057;Non vérifié;non
+24312;Sanilhac;24;eau potable : VALLEE AUVEZERE MANOIRE;213817;2024;79,5;0,9;3,4;65,7;conforme;339669;53276;31;99;4757;Non vérifié;non
+24313;Orliac;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;2122;135;176;43;Non vérifié;non
+24314;Orliaguet;24;eau potable : Secteur CARLUX;137713;2021;66,6;1,6;3,3;65,7;conforme;111538;3559;92;189;106;Sans anomalie apparente;non
+24316;Parcoul-Chenaud;24;eau potable : CT Bois de la Côte;345994;2024;81,3;0,7;2,9;65,6;conforme;111600;11167;38;90;800;Non vérifié;non
+24317;Paulin;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;4495;50;104;246;Non vérifié;non
+24318;Paunat;24;eau potable : Secteur STE ALVERE LALINDE NORD;137729;2024;81,9;0,6;2,8;65,6;conforme;61670;5916;51;77;320;Non vérifié;non
+24319;Paussac-et-Saint-Vivien;24;eau potable;345394;2024;76,4;0,9;2,9;65,6;conforme;248231;9023;56;113;444;Non vérifié;non
+24320;Payzac;24;eau potable : Secteur PAYZAC-SAVIGNAC-LEDRIER;137726;2024;75,9;0,6;1,9;65,4;conforme;87221;15247;42;117;984;Non vérifié;non
+24321;Pazayac;24;eau potable : CT RDE 24;345574;2024;81,5;0,8;3,6;65,7;conforme;340793;11179;38;84;811;Non vérifié;non
+24322;Périgueux;24;eau potable : PERIGUEUX;137744;2024;87,1;4,7;31,7;71,3;conforme;358540;323712;31;64;29055;Non vérifié;non
+24323;Petit-Bersac;24;eau potable : CT Bois de la Côte;345994;2024;81,3;0,7;2,9;65,6;conforme;111600;2568;38;90;184;Non vérifié;non
+24324;Peyrignac;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;10544;50;104;577;Non vérifié;non
+24325;Pechs-de-l'Espérance;24;eau potable : Carlux - Saint-Vincent;345454;2024;75,5;1,4;4,3;65,9;conforme;212954;23905;82;121;796;Non vérifié;non
+24326;Peyzac-le-Moustier;24;eau potable : Secteur ST LEON SUR VEZERE;137730;2024;68,4;1,1;2,3;65,5;conforme;131439;6333;86;174;201;Non vérifié;non
+24327;Pezuls;24;eau potable : Secteur STE ALVERE LALINDE NORD;137729;2024;81,9;0,6;2,8;65,6;conforme;61670;2089;51;77;113;Non vérifié;non
+24328;Piégut-Pluviers;24;eau potable;137727;2024;70,1;1,2;2,7;65,5;conforme;314909;28819;67;162;1180;Non vérifié;non
+24329;Le Pizou;24;eau potable;137684;2024;86,5;0,6;4,0;65,8;conforme;137617;12087;23;55;1428;Non vérifié;non
+24330;Plazac;24;eau potable : Secteur ST LEON SUR VEZERE;137730;2024;68,4;1,1;2,3;65,5;conforme;131439;22589;86;174;717;Non vérifié;non
+24331;Pomport;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;20127;75;149;735;Non vérifié;non
+24334;Pontours;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;10312;135;176;209;Non vérifié;non
+24335;Port-Sainte-Foy-et-Ponchapt;24;eau potable : CT Vélines;137707;2024;77,4;1,8;6,1;66,2;conforme;301491;58214;63;108;2520;Non vérifié;non
+24336;Prats-de-Carlux;24;eau potable : Carlux - Saint-Vincent;345454;2024;75,5;1,4;4,3;65,9;conforme;212954;14746;82;121;491;Non vérifié;non
+24337;Prats-du-Périgord;24;eau potable : Secteur MAZEYROLLES;137722;2024;55,5;1,6;2,0;65,4;non conforme;90520;9233;177;288;143;Non vérifié;non
+24338;Pressignac-Vicq;24;eau potable : Secteur STE ALVERE LALINDE NORD;137729;2024;81,9;0,6;2,8;65,6;conforme;61670;8430;51;77;456;Non vérifié;non
+24339;Preyssac-d'Excideuil;24;eau potable : Secteur EXCIDEUIL;137717;2024;75,4;1,1;3,5;65,7;conforme;45739;2626;47;119;152;Non vérifié;non
+24340;Prigonrieux;24;eau potable : secteur Nord;337574;2024;69,8;1,7;3,8;65,8;conforme;476525;118697;74;163;4374;Non vérifié;non
+24341;Proissans;24;eau potable : Carlux - Saint-Vincent;345454;2024;75,5;1,4;4,3;65,9;conforme;212954;33095;82;121;1102;Non vérifié;non
+24345;Queyssac;24;eau potable : secteur Nord;337574;2024;69,8;1,7;3,8;65,8;conforme;476525;14464;74;163;533;Non vérifié;non
+24346;Quinsac;24;eau potable;345394;2024;76,4;0,9;2,9;65,6;conforme;248231;7743;56;113;381;Non vérifié;non
+24347;Rampieux;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;6858;135;176;139;Non vérifié;non
+24348;Razac-d'Eymet;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;8982;75;149;328;Non vérifié;non
+24349;Razac-de-Saussignac;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;9174;75;149;335;Non vérifié;non
+24350;Razac-sur-l'Isle;24;eau potable : Secteur : NORD;137688;2024;67,6;2,1;4,4;65,9;conforme;1102741;56712;65;176;2376;Non vérifié;non
+24351;Ribagnac;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;9420;75;149;344;Non vérifié;non
+24352;Ribérac;24;eau potable : CT Bassin Ribéracois;345974;2024;79,6;1,0;4,0;65,8;conforme;128871;61245;45;95;3734;Non vérifié;non
+24353;La Rochebeaucourt-et-Argentine;24;eau potable;345494;2024;66,4;1,1;2,2;65,4;conforme;248027;12094;100;189;331;Non vérifié;non
+24354;La Roche-Chalais;24;eau potable : CT Bois de la Côte;345994;2024;81,3;0,7;2,9;65,6;conforme;111600;42714;38;90;3060;Non vérifié;non
+24355;La Roque-Gageac;24;eau potable : Vitrac-Céou;137737;2024;60,7;2,9;4,5;65,9;non conforme;884895;19368;118;237;448;Non vérifié;non
+24356;Rouffignac-Saint-Cernin-de-Reilhac;24;eau potable;137597;2024;72,5;1,1;2,8;65,6;conforme;46173;46173;75;141;1678;Non vérifié;non
+24357;Rouffignac-de-Sigoulès;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;9091;75;149;332;Non vérifié;non
+24359;Sadillac;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;2738;75;149;100;Non vérifié;non
+24360;Sagelat;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;15690;135;176;318;Non vérifié;non
+24361;Saint-Agne;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;11994;75;149;438;Non vérifié;non
+24362;Val de Louyre et Caudeau;24;eau potable : Secteur STE ALVERE LALINDE NORD;137729;2024;81,9;0,6;2,8;65,6;conforme;61670;29301;51;77;1585;Non vérifié;non
+24364;Coly-Saint-Amand;24;eau potable : CT RDE 24;345574;2024;81,5;0,8;3,6;65,7;conforme;340793;8822;38;84;640;Non vérifié;non
+24365;Saint-Amand-de-Vergt;24;eau potable : secteur : SUD;208887;2024;68,5;1,3;2,9;65,6;conforme;138208;8672;98;166;242;Non vérifié;non
+24366;Saint-André-d'Allas;24;eau potable;137601;2024;75,4;0,9;2,9;65,6;conforme;17424;17424;54;114;888;Non vérifié;non
+24367;Saint-André-de-Double;24;eau potable : Secteur MUSSIDAN - NEUVIC;307594;2024;73,6;1,4;3,8;65,8;conforme;428218;3915;66;136;162;Non vérifié;non
+24370;Saint-Antoine-de-Breuilh;24;eau potable : CT Vélines;137707;2024;77,4;1,8;6,1;66,2;conforme;301491;41212;63;108;1784;Non vérifié;non
+24371;Saint-Aquilin;24;eau potable;137705;2024;76,0;0,9;3,0;65,6;conforme;89401;6469;39;124;458;Non vérifié;non
+24372;Saint-Astier;24;eau potable : Secteur : NORD;137688;2024;67,6;2,1;4,4;65,9;conforme;1102741;128319;65;176;5376;Non vérifié;non
+24373;Saint-Aubin-de-Cadelech;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;9475;75;149;346;Non vérifié;non
+24374;Saint-Aubin-de-Lanquais;24;eau potable : Secteur ISSIGEAC;137691;2023;71,8;1,1;2,9;65,6;conforme;180213;7468;57;138;357;Sans anomalie apparente;non
+24375;Saint-Aubin-de-Nabirat;24;eau potable;137603;2024;77,1;0,8;2,7;65,5;conforme;4380;4380;75;107;160;Non vérifié;non
+24376;Saint Aulaye-Puymangou;24;eau potable : CT Bois de la Côte;345994;2024;81,3;0,7;2,9;65,6;conforme;111600;20240;38;90;1450;Non vérifié;non
+24377;Saint-Avit-de-Vialard;24;eau potable : Secteur STE ALVERE LALINDE NORD;137729;2024;81,9;0,6;2,8;65,6;conforme;61670;2810;51;77;152;Non vérifié;non
+24378;Saint-Avit-Rivière;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;4490;135;176;91;Non vérifié;non
+24379;Saint-Avit-Sénieur;24;eau potable;137605;2024;78,0;0,7;2,6;65,5;conforme;12008;12008;78;102;422;Non vérifié;non
+24380;Saint-Barthélemy-de-Bellegarde;24;eau potable;137684;2024;86,5;0,6;4,0;65,8;conforme;137617;4292;23;55;507;Non vérifié;non
+24381;Saint-Barthélemy-de-Bussière;24;eau potable;137727;2024;70,1;1,2;2,7;65,5;conforme;314909;5349;67;162;219;Non vérifié;non
+24382;Saint-Capraise-de-Lalinde;24;eau potable : CT RDE 24;345574;2024;81,5;0,8;3,6;65,7;conforme;340793;7388;38;84;536;Non vérifié;non
+24383;Saint-Capraise-d'Eymet;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;4847;75;149;177;Non vérifié;non
+24384;Saint-Cassien;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;1529;135;176;31;Non vérifié;non
+24385;Saint-Cernin-de-Labarde;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;6052;75;149;221;Non vérifié;non
+24386;Saint-Cernin-de-l'Herm;24;eau potable : Secteur MAZEYROLLES;137722;2024;55,5;1,6;2,0;65,4;non conforme;90520;12461;177;288;193;Non vérifié;non
+24388;Saint-Chamassy;24;eau potable : CT RDE 24;345574;2024;81,5;0,8;3,6;65,7;conforme;340793;7057;38;84;512;Non vérifié;non
+24390;Saint-Crépin-d'Auberoche;24;eau potable : VALLEE AUVEZERE MANOIRE;213817;2024;79,5;0,9;3,4;65,7;conforme;339669;3752;31;99;335;Non vérifié;non
+24392;Saint-Crépin-et-Carlucet;24;eau potable : Carlux - Saint-Vincent;345454;2024;75,5;1,4;4,3;65,9;conforme;212954;16097;82;121;536;Non vérifié;non
+24393;Sainte-Croix;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;4391;135;176;89;Non vérifié;non
+24394;Sainte-Croix-de-Mareuil;24;eau potable;345494;2024;66,4;1,1;2,2;65,4;conforme;248027;5262;100;189;144;Non vérifié;non
+24395;Saint-Cybranet;24;eau potable : Vitrac-Céou;137737;2024;60,7;2,9;4,5;65,9;non conforme;884895;16602;118;237;384;Non vérifié;non
+24396;Saint-Cyprien;24;eau potable;137608;2024;86,8;1,5;9,8;67,0;conforme;32965;32965;57;98;1580;Non vérifié;non
+24397;Saint-Cyr-les-Champagnes;24;eau potable : Secteur PAYZAC-SAVIGNAC-LEDRIER;137726;2024;75,9;0,6;1,9;65,4;conforme;87221;4710;42;117;304;Non vérifié;non
+24398;Saint-Estèphe;24;eau potable;137727;2024;70,1;1,2;2,7;65,5;conforme;314909;14239;67;162;583;Non vérifié;non
+24399;Saint-Étienne-de-Puycorbier;24;eau potable : Secteur MUSSIDAN - NEUVIC;307594;2024;73,6;1,4;3,8;65,8;conforme;428218;2683;66;136;111;Non vérifié;non
+24401;Sainte-Eulalie-d'Ans;24;eau potable : VALLEE AUVEZERE MANOIRE;213817;2024;79,5;0,9;3,4;65,7;conforme;339669;3337;31;99;298;Non vérifié;non
+24403;Saint-Félix-de-Bourdeilles;24;eau potable;345494;2024;66,4;1,1;2,2;65,4;conforme;248027;2631;100;189;72;Non vérifié;non
+24404;Saint-Félix-de-Reillac-et-Mortemart;24;eau potable;137610;2023;90,0;0,5;4,9;66,0;conforme;6022;6022;92;52;180;Sans anomalie apparente;non
+24405;Saint-Félix-de-Villadeix;24;eau potable : secteur Nord;337574;2024;69,8;1,7;3,8;65,8;conforme;476525;8521;74;163;314;Non vérifié;non
+24406;Sainte-Foy-de-Belvès;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;7006;135;176;142;Non vérifié;non
+24407;Sainte-Foy-de-Longas;24;eau potable : Secteur STE ALVERE LALINDE NORD;137729;2024;81,9;0,6;2,8;65,6;conforme;61670;4474;51;77;242;Non vérifié;non
+24408;Saint-Front-d'Alemps;24;eau potable;345394;2024;76,4;0,9;2,9;65,6;conforme;248231;5121;56;113;252;Non vérifié;non
+24409;Saint-Front-de-Pradoux;24;eau potable : Secteur MUSSIDAN - NEUVIC;307594;2024;73,6;1,4;3,8;65,8;conforme;428218;27745;66;136;1148;Non vérifié;non
+24410;Saint-Front-la-Rivière;24;eau potable;345394;2024;76,4;0,9;2,9;65,6;conforme;248231;10384;56;113;511;Non vérifié;non
+24411;Saint-Front-sur-Nizonne;24;eau potable;137727;2024;70,1;1,2;2,7;65,5;conforme;314909;4103;67;162;168;Non vérifié;non
+24412;Saint-Geniès;24;eau potable : Carlux - Saint-Vincent;345454;2024;75,5;1,4;4,3;65,9;conforme;212954;27809;82;121;926;Non vérifié;non
+24413;Saint-Georges-Blancaneix;24;eau potable : Secteur Saint-Pierre-d'Eyraud;332734;2024;80,2;0,9;3,5;65,7;conforme;34263;3807;38;113;275;Non vérifié;non
+24414;Saint-Georges-de-Montclard;24;eau potable : secteur Nord;337574;2024;69,8;1,7;3,8;65,8;conforme;476525;7327;74;163;270;Non vérifié;non
+24415;Saint-Géraud-de-Corps;24;eau potable;137684;2024;86,5;0,6;4,0;65,8;conforme;137617;1710;23;55;202;Non vérifié;non
+24416;Saint-Germain-de-Belvès;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;8881;135;176;180;Non vérifié;non
+24417;Saint-Germain-des-Prés;24;eau potable : Secteur NANTHIAT;137725;2024;81,0;0,6;2,4;65,5;conforme;78466;7180;39;99;503;Non vérifié;non
+24418;Saint-Germain-du-Salembre;24;eau potable : Secteur MUSSIDAN - NEUVIC;307594;2024;73,6;1,4;3,8;65,8;conforme;428218;21776;66;136;901;Non vérifié;non
+24419;Saint-Germain-et-Mons;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;24864;75;149;908;Non vérifié;non
+24420;Saint-Géry;24;eau potable : Secteur MUSSIDAN - NEUVIC;307594;2024;73,6;1,4;3,8;65,8;conforme;428218;5776;66;136;239;Non vérifié;non
+24421;Saint-Geyrac;24;eau potable : VALLEE AUVEZERE MANOIRE;213817;2024;79,5;0,9;3,4;65,7;conforme;339669;2206;31;99;197;Non vérifié;non
+24422;Saint-Hilaire-d'Estissac;24;eau potable : Secteur MUSSIDAN - NEUVIC;307594;2024;73,6;1,4;3,8;65,8;conforme;428218;3142;66;136;130;Non vérifié;non
+24423;Saint-Julien-Innocence-Eulalie;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;8516;75;149;311;Non vérifié;non
+24424;Saint-Jean-d'Ataux;24;eau potable : Secteur MUSSIDAN - NEUVIC;307594;2024;73,6;1,4;3,8;65,8;conforme;428218;3118;66;136;129;Non vérifié;non
+24425;Saint-Jean-de-Côle;24;eau potable;345394;2024;76,4;0,9;2,9;65,6;conforme;248231;7194;56;113;354;Non vérifié;non
+24426;Saint-Jean-d'Estissac;24;eau potable : Secteur MUSSIDAN - NEUVIC;307594;2024;73,6;1,4;3,8;65,8;conforme;428218;3819;66;136;158;Non vérifié;non
+24428;Saint-Jory-de-Chalais;24;eau potable : CT RDE 24;345574;2024;81,5;0,8;3,6;65,7;conforme;340793;7498;38;84;544;Non vérifié;non
+24429;Saint-Jory-las-Bloux;24;eau potable : CT Vallée de l'Isle;331594;2024;83,6;1,6;7,9;66,6;conforme;76814;5340;60;203;245;Non vérifié;non
+24432;Saint-Julien-de-Lampon;24;eau potable;169914;2024;70,4;1,5;3,6;65,7;conforme;187437;21216;88;154;660;Non vérifié;non
+24434;Saint-Just;24;eau potable;345394;2024;76,4;0,9;2,9;65,6;conforme;248231;2886;56;113;142;Non vérifié;non
+24436;Saint-Laurent-des-Hommes;24;eau potable : Secteur MUSSIDAN - NEUVIC;307594;2024;73,6;1,4;3,8;65,8;conforme;428218;24459;66;136;1012;Non vérifié;non
+24437;Saint-Laurent-des-Vignes;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;28424;75;149;1038;Non vérifié;non
+24438;Saint-Laurent-la-Vallée;24;eau potable : Vitrac-Céou;137737;2024;60,7;2,9;4,5;65,9;non conforme;884895;10246;118;237;237;Non vérifié;non
+24441;Saint-Léon-d'Issigeac;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;4025;75;149;147;Non vérifié;non
+24442;Saint-Léon-sur-l'Isle;24;eau potable : Secteur MUSSIDAN - NEUVIC;307594;2023;71,1;1,5;3,8;65,8;conforme;459725;48299;64;146;2080;Sans anomalie apparente;non
+24443;Saint-Léon-sur-Vézère;24;eau potable : Secteur ST LEON SUR VEZERE;137730;2024;68,4;1,1;2,3;65,5;conforme;131439;13579;86;174;431;Non vérifié;non
+24444;Saint-Louis-en-l'Isle;24;eau potable : Secteur MUSSIDAN - NEUVIC;307594;2024;73,6;1,4;3,8;65,8;conforme;428218;7516;66;136;311;Non vérifié;non
+24445;Saint-Marcel-du-Périgord;24;eau potable : Secteur STE ALVERE LALINDE NORD;137729;2024;81,9;0,6;2,8;65,6;conforme;61670;2533;51;77;137;Non vérifié;non
+24446;Saint-Marcory;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;2812;135;176;57;Non vérifié;non
+24448;Saint-Martial-d'Albarède;24;eau potable : Secteur EXCIDEUIL;137717;2024;75,4;1,1;3,5;65,7;conforme;45739;8363;47;119;484;Non vérifié;non
+24449;Saint-Martial-d'Artenset;24;eau potable;137684;2024;86,5;0,6;4,0;65,8;conforme;137617;7982;23;55;943;Non vérifié;non
+24450;Saint-Martial-de-Nabirat;24;eau potable : Vitrac-Céou;137737;2024;60,7;2,9;4,5;65,9;non conforme;884895;25335;118;237;586;Non vérifié;non
+24451;Saint-Martial-de-Valette;24;eau potable;137727;2024;70,1;1,2;2,7;65,5;conforme;314909;19612;67;162;803;Non vérifié;non
+24452;Saint-Martial-Viveyrol;24;eau potable;345494;2024;66,4;1,1;2,2;65,4;conforme;248027;6723;100;189;184;Non vérifié;non
+24453;Saint-Martin-de-Fressengeas;24;eau potable;345394;2024;76,4;0,9;2,9;65,6;conforme;248231;7336;56;113;361;Non vérifié;non
+24454;Saint-Martin-de-Gurson;24;eau potable;137684;2024;86,5;0,6;4,0;65,8;conforme;137617;5527;23;55;653;Non vérifié;non
+24455;Saint-Martin-de-Ribérac;24;eau potable : CT Bassin Ribéracois;345974;2024;79,6;1,0;4,0;65,8;conforme;128871;11859;45;95;723;Non vérifié;non
+24456;Saint-Martin-des-Combes;24;eau potable : secteur Nord;337574;2024;69,8;1,7;3,8;65,8;conforme;476525;5563;74;163;205;Non vérifié;non
+24457;Saint-Martin-l'Astier;24;eau potable : Secteur MUSSIDAN - NEUVIC;307594;2024;73,6;1,4;3,8;65,8;conforme;428218;3432;66;136;142;Non vérifié;non
+24458;Saint-Martin-le-Pin;24;eau potable;137727;2024;70,1;1,2;2,7;65,5;conforme;314909;6814;67;162;279;Non vérifié;non
+24459;Saint-Maime-de-Péreyrol;24;eau potable : Secteur : NORD;137688;2024;67,6;2,1;4,4;65,9;conforme;1102741;6826;65;176;286;Non vérifié;non
+24460;Saint-Méard-de-Drône;24;eau potable;137705;2024;76,0;0,9;3,0;65,6;conforme;89401;6850;39;124;485;Non vérifié;non
+24461;Saint-Méard-de-Gurçon;24;eau potable : CT Vélines;137707;2024;77,4;1,8;6,1;66,2;conforme;301491;18689;63;108;809;Non vérifié;non
+24462;Saint-Médard-de-Mussidan;24;eau potable : Secteur MUSSIDAN - NEUVIC;307594;2024;73,6;1,4;3,8;65,8;conforme;428218;39105;66;136;1618;Non vérifié;non
+24463;Saint-Médard-d'Excideuil;24;eau potable : Secteur EXCIDEUIL;137717;2024;75,4;1,1;3,5;65,7;conforme;45739;9435;47;119;546;Non vérifié;non
+24464;Saint-Mesmin;24;eau potable : Secteur PAYZAC-SAVIGNAC-LEDRIER;137726;2024;75,9;0,6;1,9;65,4;conforme;87221;5315;42;117;343;Non vérifié;non
+24465;Saint-Michel-de-Double;24;eau potable : Secteur MUSSIDAN - NEUVIC;307594;2024;73,6;1,4;3,8;65,8;conforme;428218;5607;66;136;232;Non vérifié;non
+24466;Saint-Michel-de-Montaigne;24;eau potable : CT Vélines;137707;2024;77,4;1,8;6,1;66,2;conforme;301491;7762;63;108;336;Non vérifié;non
+24468;Saint-Michel-de-Villadeix;24;eau potable : secteur : SUD;208887;2024;68,5;1,3;2,9;65,6;conforme;138208;10678;98;166;298;Non vérifié;non
+24470;Sainte-Mondane;24;eau potable : Vitrac-Céou;137737;2024;60,7;2,9;4,5;65,9;non conforme;884895;13186;118;237;305;Non vérifié;non
+24471;Sainte-Nathalène;24;eau potable : Carlux - Saint-Vincent;345454;2024;75,5;1,4;4,3;65,9;conforme;212954;19460;82;121;648;Non vérifié;non
+24472;Saint-Nexans;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;28205;75;149;1030;Non vérifié;non
+24473;Sainte-Orse;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;6323;50;104;346;Non vérifié;non
+24474;Saint-Pancrace;24;eau potable;345394;2024;76,4;0,9;2,9;65,6;conforme;248231;2926;56;113;144;Non vérifié;non
+24476;Saint-Pantaly-d'Excideuil;24;eau potable : VALLEE AUVEZERE MANOIRE;213817;2024;79,5;0,9;3,4;65,7;conforme;339669;1758;31;99;157;Non vérifié;non
+24477;Saint-Pardoux-de-Drône;24;eau potable;137705;2024;76,0;0,9;3,0;65,6;conforme;89401;2698;39;124;191;Non vérifié;non
+24478;Saint-Pardoux-et-Vielvic;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;9276;135;176;188;Non vérifié;non
+24479;Saint-Pardoux-la-Rivière;24;eau potable;345394;2024;76,4;0,9;2,9;65,6;conforme;248231;23695;56;113;1166;Non vérifié;non
+24481;Saint-Paul-la-Roche;24;eau potable : Secteur NANTHIAT;137725;2024;81,0;0,6;2,4;65,5;conforme;78466;7737;39;99;542;Non vérifié;non
+24482;Saint-Paul-Lizonne;24;eau potable;345494;2024;66,4;1,1;2,2;65,4;conforme;248027;10012;100;189;274;Non vérifié;non
+24483;Saint-Perdoux;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;3916;75;149;143;Non vérifié;non
+24484;Saint-Pierre-de-Chignac;24;eau potable : VALLEE AUVEZERE MANOIRE;213817;2024;79,5;0,9;3,4;65,7;conforme;339669;10875;31;99;971;Non vérifié;non
+24485;Saint-Pierre-de-Côle;24;eau potable;345394;2024;76,4;0,9;2,9;65,6;conforme;248231;8779;56;113;432;Non vérifié;non
+24486;Saint-Pierre-de-Frugie;24;eau potable : CT RDE 24;345574;2024;81,5;0,8;3,6;65,7;conforme;340793;7168;38;84;520;Non vérifié;non
+24487;Saint-Pierre-d'Eyraud;24;eau potable : Secteur Saint-Pierre-d'Eyraud;332734;2024;80,2;0,9;3,5;65,7;conforme;34263;24849;38;113;1795;Non vérifié;non
+24488;Saint-Pompon;24;eau potable : Vitrac-Céou;137737;2024;60,7;2,9;4,5;65,9;non conforme;884895;16126;118;237;373;Non vérifié;non
+24489;Saint-Priest-les-Fougères;24;eau potable : CT RDE 24;345574;2024;81,5;0,8;3,6;65,7;conforme;340793;5238;38;84;380;Non vérifié;non
+24490;Saint Privat en Périgord;24;eau potable : CT Bois de la Côte;345994;2024;81,3;0,7;2,9;65,6;conforme;111600;15899;38;90;1139;Non vérifié;non
+24491;Saint-Rabier;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;9831;50;104;538;Non vérifié;non
+24492;Sainte-Radegonde;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;2136;75;149;78;Non vérifié;non
+24493;Saint-Raphaël;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;1718;50;104;94;Non vérifié;non
+24494;Saint-Rémy;24;eau potable;137684;2024;86,5;0,6;4,0;65,8;conforme;137617;4258;23;55;503;Non vérifié;non
+24495;Saint-Romain-de-Monpazier;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;5131;135;176;104;Non vérifié;non
+24496;Saint-Romain-et-Saint-Clément;24;eau potable;345394;2024;76,4;0,9;2,9;65,6;conforme;248231;6767;56;113;333;Non vérifié;non
+24498;Saint-Saud-Lacoussière;24;eau potable;345394;2024;76,4;0,9;2,9;65,6;conforme;248231;16664;56;113;820;Non vérifié;non
+24499;Saint-Sauveur;24;eau potable : secteur Nord;337574;2024;69,8;1,7;3,8;65,8;conforme;476525;23039;74;163;849;Non vérifié;non
+24500;Saint-Sauveur-Lalande;24;eau potable;137684;2024;86,5;0,6;4,0;65,8;conforme;137617;1261;23;55;149;Non vérifié;non
+24501;Saint-Seurin-de-Prats;24;eau potable : CT Vélines;137707;2024;77,4;1,8;6,1;66,2;conforme;301491;10650;63;108;461;Non vérifié;non
+24502;Saint-Séverin-d'Estissac;24;eau potable : Secteur MUSSIDAN - NEUVIC;307594;2024;73,6;1,4;3,8;65,8;conforme;428218;2296;66;136;95;Non vérifié;non
+24504;Saint-Sulpice-de-Roumagnac;24;eau potable : CT Bassin Ribéracois;345974;2024;79,6;1,0;4,0;65,8;conforme;128871;4576;45;95;279;Non vérifié;non
+24505;Saint-Sulpice-d'Excideuil;24;eau potable : Secteur NANTHIAT;137725;2024;81,0;0,6;2,4;65,5;conforme;78466;5381;39;99;377;Non vérifié;non
+24507;Sainte-Trie;24;eau potable : Secteur PAYZAC-SAVIGNAC-LEDRIER;137726;2024;75,9;0,6;1,9;65,4;conforme;87221;1782;42;117;115;Non vérifié;non
+24508;Saint-Victor;24;eau potable;137705;2024;76,0;0,9;3,0;65,6;conforme;89401;3008;39;124;213;Non vérifié;non
+24509;Saint-Vincent-de-Connezac;24;eau potable;137644;2024;83,5;0,8;3,8;65,8;conforme;6526;6526;27;77;664;Non vérifié;non
+24510;Saint-Vincent-de-Cosse;24;eau potable;137646;2023;67,6;2,9;6,0;66,2;conforme;17994;17994;127;175;388;Sans anomalie apparente;non
+24511;Saint-Vincent-Jalmoutiers;24;eau potable : CT Bois de la Côte;345994;2024;81,3;0,7;2,9;65,6;conforme;111600;2820;38;90;202;Non vérifié;non
+24512;Saint-Vincent-le-Paluel;24;eau potable : Carlux - Saint-Vincent;345454;2024;75,5;1,4;4,3;65,9;conforme;212954;8799;82;121;293;Non vérifié;non
+24513;Saint-Vincent-sur-l'Isle;24;eau potable : CT Vallée de l'Isle;331594;2024;83,6;1,6;7,9;66,6;conforme;76814;6692;60;203;307;Non vérifié;non
+24514;Saint-Vivien;24;eau potable : CT Vélines;137707;2024;77,4;1,8;6,1;66,2;conforme;301491;5544;63;108;240;Non vérifié;non
+24515;Salagnac;24;eau potable : Secteur PAYZAC-SAVIGNAC-LEDRIER;137726;2024;75,9;0,6;1,9;65,4;conforme;87221;10630;42;117;686;Non vérifié;non
+24516;Salignac-Eyvigues;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;21636;50;104;1184;Non vérifié;non
+24517;Salles-de-Belvès;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;3848;135;176;78;Non vérifié;non
+24518;Salon;24;eau potable : VALLEE AUVEZERE MANOIRE;213817;2024;79,5;0,9;3,4;65,7;conforme;339669;2923;31;99;261;Non vérifié;non
+24519;Sarlande;24;eau potable : Secteur PAYZAC-SAVIGNAC-LEDRIER;137726;2024;75,9;0,6;1,9;65,4;conforme;87221;6632;42;117;428;Non vérifié;non
+24520;Sarlat-la-Canéda;24;eau potable : Vitrac-Céou;137737;2024;60,7;2,9;4,5;65,9;non conforme;884895;378852;118;237;8763;Non vérifié;non
+24521;Sarliac-sur-l'Isle;24;eau potable : VALLEE AUVEZERE MANOIRE;213817;2024;79,5;0,9;3,4;65,7;conforme;339669;11804;31;99;1054;Non vérifié;non
+24522;Sarrazac;24;eau potable : Secteur NANTHIAT;137725;2024;81,0;0,6;2,4;65,5;conforme;78466;5182;39;99;363;Non vérifié;non
+24523;Saussignac;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;11145;75;149;407;Non vérifié;non
+24524;Savignac-de-Miremont;24;eau potable : Secteur MANAURIE;137695;2024;65,0;1,5;2,8;65,6;non conforme;101041;9224;146;195;173;Non vérifié;non
+24525;Savignac-de-Nontron;24;eau potable;137727;2024;70,1;1,2;2,7;65,5;conforme;314909;5153;67;162;211;Non vérifié;non
+24526;Savignac-Lédrier;24;eau potable : Secteur PAYZAC-SAVIGNAC-LEDRIER;137726;2024;75,9;0,6;1,9;65,4;conforme;87221;11296;42;117;729;Non vérifié;non
+24527;Savignac-les-Églises;24;eau potable : VALLEE DE L'ISLE sud;137735;2020;76,8;1,1;3,6;65,7;conforme;136108;18912;52;114;1005;Sans anomalie apparente;non
+24528;Sceau-Saint-Angel;24;eau potable;137727;2024;70,1;1,2;2,7;65,5;conforme;314909;3053;67;162;125;Non vérifié;non
+24529;Segonzac;24;eau potable;137705;2024;76,0;0,9;3,0;65,6;conforme;89401;2881;39;124;204;Non vérifié;non
+24531;Sergeac;24;eau potable : Secteur ST LEON SUR VEZERE;137730;2024;68,4;1,1;2,3;65,5;conforme;131439;6774;86;174;215;Non vérifié;non
+24532;Serres-et-Montguyard;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;6326;75;149;231;Non vérifié;non
+24533;Servanches;24;eau potable;137684;2024;86,5;0,6;4,0;65,8;conforme;137617;643;23;55;76;Non vérifié;non
+24534;Sigoulès-et-Flaugeac;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;35051;75;149;1280;Non vérifié;non
+24535;Simeyrols;24;eau potable : Carlux - Saint-Vincent;345454;2024;75,5;1,4;4,3;65,9;conforme;212954;7688;82;121;256;Non vérifié;non
+24536;Singleyrac;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;8599;75;149;314;Non vérifié;non
+24537;Siorac-de-Ribérac;24;eau potable : CT Bassin Ribéracois;345974;2024;79,6;1,0;4,0;65,8;conforme;128871;4232;45;95;258;Non vérifié;non
+24538;Siorac-en-Périgord;24;eau potable;137654;2024;73,0;2,3;6,3;66,3;conforme;25294;25294;64;134;1082;Non vérifié;non
+24540;Sorges et Ligueux en Périgord;24;eau potable : VALLEE DE L'ISLE sud;137735;2020;76,8;1,1;3,6;65,7;conforme;136108;31049;52;114;1650;Sans anomalie apparente;non
+24541;Soudat;24;eau potable;137727;2024;70,1;1,2;2,7;65,5;conforme;314909;2491;67;162;102;Non vérifié;non
+24542;Soulaures;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;3306;135;176;67;Non vérifié;non
+24543;Sourzac;24;eau potable : Secteur MUSSIDAN - NEUVIC;307594;2024;73,6;1,4;3,8;65,8;conforme;428218;27431;66;136;1135;Non vérifié;non
+24544;Tamniès;24;eau potable : Secteur ST LEON SUR VEZERE;137730;2024;68,4;1,1;2,3;65,5;conforme;131439;13043;86;174;414;Non vérifié;non
+24545;Teillots;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;1827;50;104;100;Non vérifié;non
+24546;Temple-Laguyon;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;621;50;104;34;Non vérifié;non
+24547;Terrasson-Lavilledieu;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;113626;50;104;6218;Non vérifié;non
+24548;Teyjat;24;eau potable;137727;2024;70,1;1,2;2,7;65,5;conforme;314909;6619;67;162;271;Non vérifié;non
+24549;Thénac;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;12131;75;149;443;Non vérifié;non
+24550;Thenon;24;eau potable;137660;2024;68,9;2,3;5,1;66,0;conforme;51915;51915;111;185;1282;Non vérifié;non
+24551;Thiviers;24;eau potable;137662;2023;80,1;2,1;8,5;66,7;conforme;59787;59787;57;90;2876;Sans anomalie apparente;non
+24552;Thonac;24;eau potable : Secteur ST LEON SUR VEZERE;137730;2024;68,4;1,1;2,3;65,5;conforme;131439;8664;86;174;275;Non vérifié;non
+24553;Tocane-Saint-Apre;24;eau potable;137705;2024;76,0;0,9;3,0;65,6;conforme;89401;24603;39;124;1742;Non vérifié;non
+24554;La Tour-Blanche-Cercles;24;eau potable;345494;2024;66,4;1,1;2,2;65,4;conforme;248027;20060;100;189;549;Non vérifié;non
+24555;Tourtoirac;24;eau potable : CT RDE 24;345574;2024;81,5;0,8;3,6;65,7;conforme;340793;8767;38;84;636;Non vérifié;non
+24557;Trélissac;24;eau potable : TRELISSAC;299234;2024;80,4;3,0;12,2;67,4;conforme;117559;117559;44;100;7372;Non vérifié;non
+24558;Trémolat;24;eau potable : Secteur TREMOLAT CALES;137733;2024;85,8;0,5;3,2;65,6;conforme;11074;6959;31;58;624;Non vérifié;non
+24559;Tursac;24;eau potable : Secteur ST LEON SUR VEZERE;137730;2024;68,4;1,1;2,3;65,5;conforme;131439;10901;86;174;346;Non vérifié;non
+24560;Urval;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;5723;135;176;116;Non vérifié;non
+24562;Vallereuil;24;eau potable : Secteur : NORD;137688;2024;67,6;2,1;4,4;65,9;conforme;1102741;6206;65;176;260;Non vérifié;non
+24563;Valojoulx;24;eau potable : Secteur ST LEON SUR VEZERE;137730;2024;68,4;1,1;2,3;65,5;conforme;131439;8979;86;174;285;Non vérifié;non
+24564;Vanxains;24;eau potable : CT Bois de la Côte;345994;2024;81,3;0,7;2,9;65,6;conforme;111600;9618;38;90;689;Non vérifié;non
+24565;Varaignes;24;eau potable;137727;2024;70,1;1,2;2,7;65,5;conforme;314909;8743;67;162;358;Non vérifié;non
+24566;Varennes;24;eau potable : CT RDE 24;345574;2024;81,5;0,8;3,6;65,7;conforme;340793;6313;38;84;458;Non vérifié;non
+24567;Vaunac;24;eau potable;345394;2024;76,4;0,9;2,9;65,6;conforme;248231;5019;56;113;247;Non vérifié;non
+24568;Vélines;24;eau potable : CT Vélines;137707;2024;77,4;1,8;6,1;66,2;conforme;301491;25503;63;108;1104;Non vérifié;non
+24569;Vendoire;24;eau potable;345494;2024;66,4;1,1;2,2;65,4;conforme;248027;4933;100;189;135;Non vérifié;non
+24570;Verdon;24;eau potable : secteur Sud;337554;2024;70,7;1,5;3,7;65,7;conforme;667233;958;75;149;35;Non vérifié;non
+24571;Vergt;24;eau potable : secteur : SUD;208887;2024;68,5;1,3;2,9;65,6;conforme;138208;63532;98;166;1773;Non vérifié;non
+24572;Vergt-de-Biron;24;eau potable : Secteur MONPAZIER BELVES;137724;2024;66,8;1,4;2,9;65,6;conforme;438913;9424;135;176;191;Non vérifié;non
+24573;Verteillac;24;eau potable;345494;2024;66,4;1,1;2,2;65,4;conforme;248027;19987;100;189;547;Non vérifié;non
+24574;Veyrignac;24;eau potable : Vitrac-Céou;137737;2024;60,7;2,9;4,5;65,9;non conforme;884895;14094;118;237;326;Non vérifié;non
+24575;Veyrines-de-Domme;24;eau potable : Vitrac-Céou;137737;2024;60,7;2,9;4,5;65,9;non conforme;884895;10203;118;237;236;Non vérifié;non
+24576;Veyrines-de-Vergt;24;eau potable : secteur : SUD;208887;2024;68,5;1,3;2,9;65,6;conforme;138208;8743;98;166;244;Non vérifié;non
+24577;Vézac;24;eau potable : Vitrac-Céou;137737;2024;60,7;2,9;4,5;65,9;non conforme;884895;23043;118;237;533;Non vérifié;non
+24580;Villac;24;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;5391;50;104;295;Non vérifié;non
+24581;Villamblard;24;eau potable : Secteur : NORD;137688;2024;67,6;2,1;4,4;65,9;conforme;1102741;20312;65;176;851;Non vérifié;non
+24582;Villars;24;eau potable;345394;2024;76,4;0,9;2,9;65,6;conforme;248231;9551;56;113;470;Non vérifié;non
+24584;Villefranche-de-Lonchat;24;eau potable;137684;2024;86,5;0,6;4,0;65,8;conforme;137617;8448;23;55;998;Non vérifié;non
+24585;Villefranche-du-Périgord;24;eau potable : Secteur MAZEYROLLES;137722;2024;55,5;1,6;2,0;65,4;non conforme;90520;43517;177;288;674;Non vérifié;non
+24586;Villetoureix;24;eau potable : CT Bassin Ribéracois;345974;2024;79,6;1,0;4,0;65,8;conforme;128871;14614;45;95;891;Non vérifié;non
+24587;Vitrac;24;eau potable : Vitrac-Céou;137737;2024;60,7;2,9;4,5;65,9;non conforme;884895;37310;118;237;863;Non vérifié;non

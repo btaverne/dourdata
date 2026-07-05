@@ -7,510 +7,510 @@
 # Méthodologie et code : https://github.com/btaverne/dourdata
 # Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
 # Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
-Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
-77001;Achères-la-Forêt;77;eau potable : Sud Ouest (10 Cnes);273074;2024;77,7;2,7;9,4;66,9;conforme;151136;18559;43;107;1191;Non vérifié
-77002;Amillis;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;6211;21;94;830;Non vérifié
-77003;Amponville;77;eau potable : Amponville;152578;2022;86,9;1,2;7,7;66,5;conforme;3079;3079;24;57;349;Sans anomalie apparente
-77004;Andrezel;77;eau potable : syndicat;219011;2024;56,0;9,7;12,4;67,5;non conforme;168811;12496;102;286;336;Non vérifié
-77005;Annet-sur-Marne;77;eau potable : Contrat 1;182968;2024;92,1;11,8;138,7;85,0;conforme;1373373;57758;46;113;3408;Non vérifié
-77006;Arbonne-la-Forêt;77;eau potable : Sud Ouest (10 Cnes);273074;2024;77,7;2,7;9,4;66,9;conforme;151136;15910;43;107;1021;Non vérifié
-77007;Argentières;77;eau potable : ex_SIAEP Beauvoir-Argentières;152945;2024;80,7;2,2;9,2;66,8;conforme;5035;3329;25;87;361;Non vérifié
-77008;Armentières-en-Brie;77;eau potable : 21 communes;153037;2024;76,2;3,1;10,0;67,0;conforme;243465;16883;39;122;1176;Non vérifié
-77009;Arville;77;eau potable;152935;2024;93,0;0,6;7,8;66,6;conforme;1402;653;12;47;145;Non vérifié
-77010;Aubepierre-Ozouer-le-Repos;77;eau potable : Aubepierre-Ozouer-le-Repos;152582;2022;70,0;1,9;4,4;65,9;conforme;19078;19078;53;157;984;Sans anomalie apparente
-77011;Aufferville;77;eau potable : ex_SIAEP_Nemours_StPierre;217222;2024;80,2;3,9;15,9;68,2;conforme;274422;5877;33;89;482;Non vérifié
-77012;Augers-en-Brie;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;1983;21;94;265;Non vérifié
-77013;Aulnoy;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;2709;21;94;362;Non vérifié
-77014;Avon;77;eau potable : DSP 12 Cnes;312614;2024;89,5;3,7;31,8;71,4;conforme;426420;117237;24;54;13651;Non vérifié
-77015;Baby;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;846;21;94;113;Non vérifié
-77016;Bagneaux-sur-Loing;77;eau potable : ex_SIAEP_Nemours_StPierre;217222;2024;80,2;3,9;15,9;68,2;conforme;274422;19144;33;89;1570;Non vérifié
-77018;Bailly-Romainvilliers;77;eau potable : 5 Communes;153004;2024;93,1;7,6;102,8;85,0;conforme;514993;96623;38;42;6980;Non vérifié
-77019;Balloy;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;2686;21;94;359;Non vérifié
-77020;Bannost-Villegagnon;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;4991;21;94;667;Non vérifié
-77021;Barbey;77;eau potable : secteur 1;214812;2024;73,3;7,0;19,1;68,8;conforme;625106;2544;46;148;153;Non vérifié
-77022;Barbizon;77;eau potable : DSP 12 Cnes;312614;2024;89,5;3,7;31,8;71,4;conforme;426420;10830;24;54;1261;Non vérifié
-77023;Barcy;77;eau potable : SMAEP TMM - Globalité;327234;2024;76,3;4,8;15,5;68,1;conforme;611290;5483;39;115;387;Non vérifié
-77024;Bassevelle;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;2799;21;94;374;Non vérifié
-77025;Bazoches-lès-Bray;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;6570;21;94;878;Non vérifié
-77026;Beauchery-Saint-Martin;77;eau potable : UDP 4 Beauchery-Saint-Martin;152595;2024;46,1;3,4;2,9;65,6;non conforme;21060;21060;150;431;384;Non vérifié
-77027;Beaumont-du-Gâtinais;77;eau potable;152598;2024;74,7;3,4;10,0;67,0;conforme;18615;18615;45;124;1129;Non vérifié
-77029;Beauvoir;77;eau potable : ex_SIAEP Beauvoir-Argentières;152945;2024;80,7;2,2;9,2;66,8;conforme;5035;1706;25;87;185;Non vérifié
-77030;Bellot;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;5814;21;94;777;Non vérifié
-77031;Bernay-Vilbert;77;eau potable : syndicat;152972;2024;73,7;4,4;12,4;67,5;conforme;140943;18531;51;147;1005;Non vérifié
-77032;Beton-Bazoches;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;6660;21;94;890;Non vérifié
-77033;Bezalles;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;1654;21;94;221;Non vérifié
-77034;Blandy;77;eau potable : ex_Siaep_Blandy-Chatillon-Moisenay-Sivry;152946;2024;68,5;3,5;7,7;66,5;conforme;70544;15489;56;168;763;Non vérifié
-77035;Blennes;77;eau potable : Chevry, Blennes, Diant, Lorrez, Vaux et Villemaréchal;152975;2023;76,0;2,9;9,1;66,8;conforme;119431;17178;86;226;546;Sans anomalie apparente
-77036;Boisdon;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;980;21;94;131;Non vérifié
-77037;Bois-le-Roi;77;eau potable : DSP 12 Cnes;312614;2024;89,5;3,7;31,8;71,4;conforme;426420;52147;24;54;6072;Non vérifié
-77038;Boissettes;77;eau potable : 5 Cnes;307034;2024;77,0;9,1;30,4;71,1;conforme;430101;7764;49;141;437;Non vérifié
-77039;Boissise-la-Bertrand;77;eau potable : Boissise-la-Bertrand;152605;2024;87,1;3,3;22,5;69,5;conforme;15104;15104;34;54;1206;Non vérifié
-77040;Boissise-le-Roi;77;eau potable : 5 Cnes;307034;2024;77,0;9,1;30,4;71,1;conforme;430101;70019;49;141;3941;Non vérifié
-77041;Boissy-aux-Cailles;77;eau potable : Sud Ouest (10 Cnes);273074;2024;77,7;2,7;9,4;66,9;conforme;151136;4238;43;107;272;Non vérifié
-77042;Boissy-le-Châtel;77;"eau potable : EST ""Boissy-Chauffry-Coulommiers""";326174;2024;69,2;10,0;22,3;69,5;non conforme;453330;57188;47;163;3346;Non vérifié
-77043;Boitron;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;2409;21;94;322;Non vérifié
-77044;Bombon;77;eau potable : Bombon;152609;2024;83,5;2,5;12,4;67,5;conforme;10366;10366;30;74;935;Non vérifié
-77045;Bougligny;77;eau potable;152611;2024;85,3;1,0;5,8;66,2;conforme;5957;5957;22;62;738;Non vérifié
-77046;Boulancourt;77;eau potable : ex_SMERB;152953;2024;76,2;2,2;6,9;66,4;conforme;39395;7803;61;116;350;Non vérifié
-77047;Bouleurs;77;eau potable : Territoire_SUD;152961;2024;76,7;4,6;15,2;68,0;conforme;374367;31077;49;196;1743;Non vérifié
-77048;Bourron-Marlotte;77;eau potable : DSP 12 Cnes;312614;2024;89,5;3,7;31,8;71,4;conforme;426420;23824;24;54;2774;Non vérifié
-77049;Boutigny;77;eau potable : Territoire_NORD;152949;2024;81,5;1,6;7,1;66,4;conforme;41265;8087;25;82;874;Non vérifié
-77050;Bransles;77;eau potable : principal;152978;2024;72,3;2,0;5,3;66,1;conforme;91900;10056;52;140;526;Non vérifié
-77051;Bray-sur-Seine;77;eau potable : UDBM 8 ex_siaep_Bray-sur-Seine;152995;2024;84,6;4,4;24,4;69,9;conforme;82275;45961;54;146;2344;Non vérifié
-77053;Brie-Comte-Robert;77;eau potable : Brie-Comte-Robert;152619;2024;76,5;11,9;38,6;72,7;conforme;299788;299788;43;113;19003;Non vérifié
-77054;La Brosse-Montceaux;77;eau potable : secteur 1;214812;2024;73,3;7,0;19,1;68,8;conforme;625106;12905;46;148;776;Non vérifié
-77055;Brou-sur-Chantereine;77;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;31461;17;43;5196;Non vérifié
-77056;Burcy;77;eau potable : ex_SIAEP_Burcy_Fromont_Rumont;152952;2024;85,2;0,8;4,9;66,0;conforme;3849;1143;21;60;150;Non vérifié
-77057;Bussières;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;4490;21;94;600;Non vérifié
-77058;Bussy-Saint-Georges;77;eau potable;152979;2024;96,5;4,7;128,2;85,0;conforme;735950;214358;21;59;27498;Non vérifié
-77059;Bussy-Saint-Martin;77;eau potable;152979;2024;96,5;4,7;128,2;85,0;conforme;735950;5753;21;59;738;Non vérifié
-77060;Buthiers;77;eau potable : ex_SMERB;152953;2024;76,2;2,2;6,9;66,4;conforme;39395;17658;61;116;792;Non vérifié
-77061;Cannes-Écluse;77;eau potable : secteur 2;152993;2024;69,0;5,5;12,2;67,4;conforme;198803;55381;55;167;2742;Non vérifié
-77062;Carnetin;77;eau potable;152979;2024;96,5;4,7;128,2;85,0;conforme;735950;3594;21;59;461;Non vérifié
-77063;La Celle-sur-Morin;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;9241;21;94;1235;Non vérifié
-77065;Cély;77;eau potable : DSP 12 Cnes;312614;2024;89,5;3,7;31,8;71,4;conforme;426420;10813;24;54;1259;Non vérifié
-77066;Cerneux;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;2035;21;94;272;Non vérifié
-77067;Cesson;77;eau potable : Régie de l'Eau;219484;2024;83,8;9,8;50,8;75,2;conforme;2739982;109501;27;70;11222;Non vérifié
-77068;Cessoy-en-Montois;77;eau potable : UDP14 ex_Siaep_plateau Est Montois;152983;2024;76,6;1,5;5,0;66,0;conforme;20482;2270;29;109;213;Non vérifié
-77069;Chailly-en-Bière;77;eau potable : Chailly;152625;2024;59,0;6,7;9,6;66,9;non conforme;61529;61529;78;254;2162;Non vérifié
-77070;Chailly-en-Brie;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;11793;21;94;1576;Non vérifié
-77071;Chaintreaux;77;eau potable : principal;152978;2024;72,3;2,0;5,3;66,1;conforme;91900;15696;52;140;821;Non vérifié
-77072;Chalautre-la-Grande;77;eau potable : UDP 5 Chalautre-la-Grande;152628;2024;77,2;1,7;5,8;66,2;conforme;10648;10648;45;177;644;Non vérifié
-77073;Chalautre-la-Petite;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;4048;21;94;541;Non vérifié
-77075;Chalifert;77;eau potable : Chanteloup, Chalifert, Ferrières, Lesches, Montevrain;222694;2024;92,4;3,7;44,6;73,9;conforme;122625;7443;13;30;1584;Non vérifié
-77076;Chalmaison;77;eau potable : UDP 18 Chalmaison;153064;2024;91,3;0,9;9,6;66,9;conforme;2993;2993;11;34;749;Non vérifié
-77077;Chambry;77;eau potable : SMAEP TMM - Globalité;327234;2024;76,3;4,8;15,5;68,1;conforme;611290;15074;39;115;1064;Non vérifié
-77078;Chamigny;77;eau potable : NORD (14 Cnes);152968;2024;80,0;4,1;16,4;68,3;conforme;364009;20731;38;109;1480;Non vérifié
-77079;Champagne-sur-Seine;77;eau potable;152954;2024;77,3;4,8;16,4;68,3;conforme;119802;85280;36;107;6497;Non vérifié
-77080;Champcenest;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;1534;21;94;205;Non vérifié
-77081;Champdeuil;77;eau potable : ex_SIAEP_Crisenoy-Champdeuil-Fouju;152962;2024;79,8;1,5;6,1;66,2;conforme;16770;6181;23;90;739;Non vérifié
-77082;Champeaux;77;eau potable : Champeaux;152636;2024;79,3;3,7;14,0;67,8;conforme;12506;12506;42;158;810;Non vérifié
-77083;Champs-sur-Marne;77;eau potable : 6 communes;152998;2024;95,3;6,0;122,9;85,0;conforme;520782;156933;16;43;27451;Non vérifié
-77084;Changis-sur-Marne;77;eau potable : NORD (14 Cnes);152968;2024;80,0;4,1;16,4;68,3;conforme;364009;18700;38;109;1335;Non vérifié
-77085;Chanteloup-en-Brie;77;eau potable : Chanteloup, Chalifert, Ferrières, Lesches, Montevrain;222694;2024;92,4;3,7;44,6;73,9;conforme;122625;19407;13;30;4130;Non vérifié
-77086;La Chapelle-Gauthier;77;eau potable;152638;2024;81,7;2,6;11,5;67,3;conforme;11796;11796;23;83;1400;Non vérifié
-77087;La Chapelle-Iger;77;eau potable : la Chapelle-Iger;152640;2024;91,0;0,4;3,4;65,7;conforme;860;860;12;46;191;Non vérifié
-77088;La Chapelle-la-Reine;77;eau potable : DSP 12 Cnes;312614;2024;89,5;3,7;31,8;71,4;conforme;426420;18636;24;54;2170;Non vérifié
-77089;La Chapelle-Rablais;77;eau potable;152955;2020;84,4;1,0;5,6;66,1;conforme;9162;7155;21;66;913;Sans anomalie apparente
-77090;La Chapelle-Saint-Sulpice;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;1788;21;94;239;Non vérifié
-77091;Les Chapelles-Bourbon;77;eau potable : syndicat;152972;2024;73,7;4,4;12,4;67,5;conforme;140943;8463;51;147;459;Non vérifié
-77093;La Chapelle-Moutils;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;2993;21;94;400;Non vérifié
-77094;Charmentray;77;eau potable : SMAEP TMM - Globalité;327234;2024;76,3;4,8;15,5;68,1;conforme;611290;4123;39;115;291;Non vérifié
-77095;Charny;77;eau potable : SMAEP TMM - Globalité;327234;2024;76,3;4,8;15,5;68,1;conforme;611290;22455;39;115;1585;Non vérifié
-77096;Chartrettes;77;eau potable : DSP 12 Cnes;312614;2024;89,5;3,7;31,8;71,4;conforme;426420;22613;24;54;2633;Non vérifié
-77097;Chartronges;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;2275;21;94;304;Non vérifié
-77098;Châteaubleau;77;eau potable;152650;2024;87,4;1,3;8,7;66,7;conforme;2102;2102;16;54;363;Non vérifié
-77099;Château-Landon;77;eau potable;152651;2024;77,5;2,3;7,8;66,6;conforme;43528;43528;38;108;3149;Non vérifié
-77100;Le Châtelet-en-Brie;77;eau potable : Fontaine-le-Port;152711;2024;80,8;2,2;9,3;66,9;conforme;12398;6632;4;93;4207;Non vérifié
-77101;Châtenay-sur-Seine;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;7849;21;94;1049;Non vérifié
-77102;Châtenoy;77;eau potable : ex_SIAEP_Nemours_StPierre;217222;2024;80,2;3,9;15,9;68,2;conforme;274422;1890;33;89;155;Non vérifié
-77103;Châtillon-la-Borde;77;eau potable : ex_Siaep_Blandy-Chatillon-Moisenay-Sivry;152946;2024;68,5;3,5;7,7;66,5;conforme;70544;4588;56;168;226;Non vérifié
-77104;Châtres;77;eau potable : syndicat;152972;2024;73,7;4,4;12,4;67,5;conforme;140943;13165;51;147;714;Non vérifié
-77106;Chauffry;77;"eau potable : EST ""Boissy-Chauffry-Coulommiers""";326174;2024;69,2;10,0;22,3;69,5;non conforme;453330;16989;47;163;994;Non vérifié
-77107;Chaumes-en-Brie;77;eau potable : Chaumes;152658;2024;74,3;5,4;15,6;68,1;conforme;49925;49925;39;126;3503;Non vérifié
-77108;Chelles;77;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;330720;17;43;54620;Non vérifié
-77109;Chenoise-Cucharmoy;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;12025;21;94;1607;Non vérifié
-77110;Chenou;77;eau potable;153028;2024;76,7;1,5;5,0;66,0;conforme;11826;5506;52;108;291;Non vérifié
-77111;Chessy;77;eau potable : 5 Communes;153004;2024;93,1;7,6;102,8;85,0;conforme;514993;107572;38;42;7771;Non vérifié
-77112;Chevrainvilliers;77;eau potable : ex_SIAEP_Nemours_StPierre;217222;2024;80,2;3,9;15,9;68,2;conforme;274422;3109;33;89;255;Non vérifié
-77113;Chevru;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;7573;21;94;1012;Non vérifié
-77114;Chevry-Cossigny;77;eau potable : Chevry-Cossigny et Férolles-Attilly;152958;2024;87,4;2,6;17,8;68,6;conforme;34620;26503;18;53;4075;Non vérifié
-77115;Chevry-en-Sereine;77;eau potable : Chevry, Blennes, Diant, Lorrez, Vaux et Villemaréchal;152975;2023;76,0;2,9;9,1;66,8;conforme;119431;15668;86;226;498;Sans anomalie apparente
-77116;Choisy-en-Brie;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;10132;21;94;1354;Non vérifié
-77117;Citry;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;6899;21;94;922;Non vérifié
-77118;Claye-Souilly;77;eau potable : Contrat 1;182968;2024;92,1;11,8;138,7;85,0;conforme;1373373;226303;46;113;13353;Non vérifié
-77119;Clos-Fontaine;77;eau potable;152944;2024;80,9;2,5;10,7;67,1;conforme;56575;4315;48;109;244;Non vérifié
-77120;Cocherel;77;eau potable : 21 communes;153037;2024;76,2;3,1;10,0;67,0;conforme;243465;8872;39;122;618;Non vérifié
-77121;Collégien;77;eau potable;152979;2024;96,5;4,7;128,2;85,0;conforme;735950;26146;21;59;3354;Non vérifié
-77122;Combs-la-Ville;77;eau potable : CA SENART 77;153002;2024;93,1;4,2;56,6;76,3;conforme;246046;130608;15;27;23350;Non vérifié
-77123;Compans;77;eau potable : Contrat 1;182968;2024;92,1;11,8;138,7;85,0;conforme;1373373;12779;46;113;754;Non vérifié
-77124;Conches-sur-Gondoire;77;eau potable;152979;2024;96,5;4,7;128,2;85,0;conforme;735950;13728;21;59;1761;Non vérifié
-77125;Condé-Sainte-Libiaire;77;eau potable : SMAEP TMM - Globalité;327234;2024;76,3;4,8;15,5;68,1;conforme;611290;21250;39;115;1500;Non vérifié
-77126;Congis-sur-Thérouanne;77;eau potable : 21 communes;153037;2024;76,2;3,1;10,0;67,0;conforme;243465;25439;39;122;1772;Non vérifié
-77127;Coubert;77;eau potable : TNO;262074;2024;76,8;3,6;12,0;67,4;conforme;190346;26037;36;113;2005;Non vérifié
-77128;Couilly-Pont-aux-Dames;77;eau potable : SMAEP TMM - Globalité;327234;2024;76,3;4,8;15,5;68,1;conforme;611290;29241;39;115;2064;Non vérifié
-77129;Coulombs-en-Valois;77;eau potable : 21 communes;153037;2024;76,2;3,1;10,0;67,0;conforme;243465;8269;39;122;576;Non vérifié
-77130;Coulommes;77;eau potable : Territoire_SUD;152961;2024;76,7;4,6;15,2;68,0;conforme;374367;9664;49;196;542;Non vérifié
-77131;Coulommiers;77;"eau potable : EST ""Boissy-Chauffry-Coulommiers""";326174;2024;69,2;10,0;22,3;69,5;non conforme;453330;279853;47;163;16374;Non vérifié
-77132;Coupvray;77;eau potable : 5 Communes;153004;2024;93,1;7,6;102,8;85,0;conforme;514993;42442;38;42;3066;Non vérifié
-77133;Courcelles-en-Bassée;77;eau potable : secteur 1;214812;2024;73,3;7,0;19,1;68,8;conforme;625106;3709;46;148;223;Non vérifié
-77134;Courchamp;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;1130;21;94;151;Non vérifié
-77135;Courpalay;77;eau potable : Courpalay;152670;2024;89,7;1,7;15,2;68,0;conforme;12354;12354;21;76;1610;Non vérifié
-77136;Courquetaine;77;eau potable : SMIAEP Région de Tournan;152992;2024;82,0;5,2;23,5;69,7;conforme;237914;2078;31;82;184;Non vérifié
-77137;Courtacon;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;1833;21;94;245;Non vérifié
-77138;Courtomer;77;eau potable : Courtomer;152673;2024;94,9;0,4;8,4;66,7;conforme;1094;1094;5;17;591;Non vérifié
-77139;Courtry;77;eau potable;152979;2024;96,5;4,7;128,2;85,0;conforme;735950;57140;21;59;7330;Non vérifié
-77140;Coutençon;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;1946;21;94;260;Non vérifié
-77141;Coutevroult;77;"eau potable : OUEST ""Coutevroult et Villiers/Morin""";152960;2024;72,5;5,3;14,0;67,8;conforme;52657;19114;44;145;1187;Non vérifié
-77142;Crécy-la-Chapelle;77;eau potable : Territoire_SUD;152961;2024;76,7;4,6;15,2;68,0;conforme;374367;88666;49;196;4973;Non vérifié
-77143;Crégy-lès-Meaux;77;eau potable : Crégy-lès-Meaux;152680;2024;73,4;9,3;25,7;70,1;conforme;67890;67890;34;132;5446;Non vérifié
-77144;Crèvecoeur-en-Brie;77;eau potable : syndicat;152972;2024;73,7;4,4;12,4;67,5;conforme;140943;8058;51;147;437;Non vérifié
-77145;Crisenoy;77;eau potable : ex_SIAEP_Crisenoy-Champdeuil-Fouju;152962;2024;79,8;1,5;6,1;66,2;conforme;16770;5110;23;90;611;Non vérifié
-77146;Croissy-Beaubourg;77;eau potable : 6 communes;152998;2024;95,3;6,0;122,9;85,0;conforme;520782;11537;16;43;2018;Non vérifié
-77147;La Croix-en-Brie;77;eau potable;152683;2024;56,9;3,6;4,7;65,9;non conforme;22246;22246;89;280;681;Non vérifié
-77148;Crouy-sur-Ourcq;77;eau potable : 21 communes;153037;2024;76,2;3,1;10,0;67,0;conforme;243465;25999;39;122;1811;Non vérifié
-77150;Cuisy;77;eau potable : 24 Cnes;152971;2024;83,0;4,5;22,0;69,4;conforme;546197;5233;30;80;476;Non vérifié
-77151;Dagny;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;2282;21;94;305;Non vérifié
-77152;Dammarie-les-Lys;77;eau potable : Melun-Dammarie;214254;2024;91,3;12,8;134,6;85,0;conforme;1145574;388024;45;114;23559;Non vérifié
-77153;Dammartin-en-Goële;77;eau potable : 24 Cnes;152971;2024;83,0;4,5;22,0;69,4;conforme;546197;130904;30;80;11907;Non vérifié
-77154;Dammartin-sur-Tigeaux;77;eau potable : Territoire_SUD;152961;2024;76,7;4,6;15,2;68,0;conforme;374367;22822;49;196;1280;Non vérifié
-77155;Dampmart;77;eau potable;152979;2024;96,5;4,7;128,2;85,0;conforme;735950;28664;21;59;3677;Non vérifié
-77156;Darvault;77;eau potable : ex_SIAEP_Nemours_StPierre;217222;2024;80,2;3,9;15,9;68,2;conforme;274422;12035;33;89;987;Non vérifié
-77157;Dhuisy;77;eau potable : 21 communes;153037;2024;76,2;3,1;10,0;67,0;conforme;243465;4795;39;122;334;Non vérifié
-77158;Diant;77;eau potable : Chevry, Blennes, Diant, Lorrez, Vaux et Villemaréchal;152975;2023;76,0;2,9;9,1;66,8;conforme;119431;6104;86;226;194;Sans anomalie apparente
-77159;Donnemarie-Dontilly;77;eau potable : UDBM 8 Donnemarie-Dontilly;188337;2024;74,7;3,7;11,0;67,2;conforme;42271;42271;43;122;2706;Non vérifié
-77161;Dormelles;77;eau potable : principal;152986;2024;76,2;3,6;11,6;67,3;conforme;81468;18528;62;192;816;Non vérifié
-77162;Doue;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;8396;21;94;1122;Non vérifié
-77163;Douy-la-Ramée;77;eau potable : 21 communes;153037;2024;76,2;3,1;10,0;67,0;conforme;243465;5671;39;122;395;Non vérifié
-77164;Échouboulains;77;eau potable : Sud (4Cnes);305634;2024;80,5;3,3;13,7;67,7;conforme;48060;8957;44;137;555;Non vérifié
-77165;Les Écrennes;77;eau potable : Écrennes;152691;2024;85,8;0,7;4,3;65,9;conforme;4433;4433;19;60;628;Non vérifié
-77167;Égligny;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;2320;21;94;310;Non vérifié
-77168;Égreville;77;eau potable : principal;152978;2024;72,3;2,0;5,3;66,1;conforme;91900;41792;52;140;2186;Non vérifié
-77169;Émerainville;77;eau potable : 6 communes;152998;2024;95,3;6,0;122,9;85,0;conforme;520782;43963;16;43;7690;Non vérifié
-77171;Esbly;77;eau potable : SMAEP TMM - Globalité;327234;2024;76,3;4,8;15,5;68,1;conforme;611290;86022;39;115;6072;Non vérifié
-77172;Esmans;77;eau potable : secteur 2;152993;2024;69,0;5,5;12,2;67,4;conforme;198803;18864;55;167;934;Non vérifié
-77173;Étrépilly;77;eau potable : 21 communes;153037;2024;76,2;3,1;10,0;67,0;conforme;243465;11557;39;122;805;Non vérifié
-77174;Everly;77;eau potable : UDBM10 CCBM5;299054;2024;87,0;1,6;10,5;67,1;conforme;27921;4610;22;64;566;Non vérifié
-77175;Évry-Grégy-sur-Yerre;77;eau potable : TNO;262074;2024;76,8;3,6;12,0;67,4;conforme;190346;43126;36;113;3321;Non vérifié
-77176;Faremoutiers;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;22875;21;94;3057;Non vérifié
-77177;Favières;77;eau potable : syndicat;152951;2024;82,4;2,7;12,6;67,5;conforme;59317;13242;28;78;1316;Non vérifié
-77178;Faÿ-lès-Nemours;77;eau potable : ex_SIAEP_Nemours_StPierre;217222;2024;80,2;3,9;15,9;68,2;conforme;274422;6390;33;89;524;Non vérifié
-77179;Féricy;77;eau potable : Sud (4Cnes);305634;2024;80,5;3,3;13,7;67,7;conforme;48060;10086;44;137;625;Non vérifié
-77180;Férolles-Attilly;77;eau potable : Chevry-Cossigny et Férolles-Attilly;152958;2024;87,4;2,6;17,8;68,6;conforme;34620;8117;18;53;1248;Non vérifié
-77181;Ferrières-en-Brie;77;eau potable : Chanteloup, Chalifert, Ferrières, Lesches, Montevrain;222694;2024;92,4;3,7;44,6;73,9;conforme;122625;18477;13;30;3932;Non vérifié
-77182;La Ferté-Gaucher;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;35491;21;94;4743;Non vérifié
-77183;La Ferté-sous-Jouarre;77;eau potable : NORD (14 Cnes);152968;2024;80,0;4,1;16,4;68,3;conforme;364009;143631;38;109;10254;Non vérifié
-77184;Flagy;77;eau potable : principal;152986;2024;76,2;3,6;11,6;67,3;conforme;81468;13260;62;192;584;Non vérifié
-77185;Fleury-en-Bière;77;eau potable : Sud Ouest (10 Cnes);273074;2024;77,7;2,7;9,4;66,9;conforme;151136;10160;43;107;652;Non vérifié
-77186;Fontainebleau;77;eau potable : DSP 12 Cnes;312614;2024;89,5;3,7;31,8;71,4;conforme;426420;133830;24;54;15583;Non vérifié
-77187;Fontaine-Fourches;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;4310;21;94;576;Non vérifié
-77188;Fontaine-le-Port;77;eau potable : Fontaine-le-Port;152711;2024;80,8;2,2;9,3;66,9;conforme;12398;1616;4;93;1025;Non vérifié
-77190;Fontains;77;eau potable;152844;2024;67,7;1,7;3,6;65,7;conforme;14886;3490;37;173;256;Non vérifié
-77191;Fontenailles;77;eau potable;152944;2024;80,9;2,5;10,7;67,1;conforme;56575;19613;48;109;1109;Non vérifié
-77192;Fontenay-Trésigny;77;eau potable : Fontenay-Trésigny;152714;2024;75,1;6,0;18,0;68,6;conforme;104594;79440;36;122;5994;Non vérifié
-77193;Forfry;77;eau potable : SMAEP TMM - Globalité;327234;2024;76,3;4,8;15,5;68,1;conforme;611290;3372;39;115;238;Non vérifié
-77194;Forges;77;eau potable : secteur 1;214812;2024;73,3;7,0;19,1;68,8;conforme;625106;7367;46;148;443;Non vérifié
-77195;Fouju;77;eau potable : ex_SIAEP_Crisenoy-Champdeuil-Fouju;152962;2024;79,8;1,5;6,1;66,2;conforme;16770;5478;23;90;655;Non vérifié
-77196;Fresnes-sur-Marne;77;eau potable : Contrat 1;182968;2024;92,1;11,8;138,7;85,0;conforme;1373373;16066;46;113;948;Non vérifié
-77197;Frétoy;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;1295;21;94;173;Non vérifié
-77198;Fromont;77;eau potable : ex_SIAEP_Burcy_Fromont_Rumont;152952;2024;85,2;0,8;4,9;66,0;conforme;3849;1753;21;60;230;Non vérifié
-77199;Fublaines;77;eau potable : Territoire_NORD;152949;2024;81,5;1,6;7,1;66,4;conforme;41265;12676;25;82;1370;Non vérifié
-77200;Garentreville;77;eau potable : Garentreville;152718;2024;89,2;1,1;8,8;66,8;conforme;675;675;15;45;123;Non vérifié
-77201;Gastins;77;eau potable;152720;2023;58,1;4,3;6,0;66,2;non conforme;22146;22146;82;268;741;Sans anomalie apparente
-77202;La Genevraye;77;eau potable : Groupé (4 cnes hors VlS);214075;2024;87,7;2,6;18,3;68,7;conforme;115066;4962;16;54;840;Non vérifié
-77203;Germigny-l'Évêque;77;eau potable : Germigny - Varreddes;152966;2024;85,0;3,0;17,0;68,4;conforme;33255;12777;26;64;1352;Non vérifié
-77204;Germigny-sous-Coulombs;77;eau potable : 21 communes;153037;2024;76,2;3,1;10,0;67,0;conforme;243465;2886;39;122;201;Non vérifié
-77205;Gesvres-le-Chapitre;77;eau potable : SMAEP TMM - Globalité;327234;2024;76,3;4,8;15,5;68,1;conforme;611290;2054;39;115;145;Non vérifié
-77206;Giremoutiers;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;1407;21;94;188;Non vérifié
-77207;Gironville;77;eau potable;152935;2024;93,0;0,6;7,8;66,6;conforme;1402;748;12;47;166;Non vérifié
-77208;Gouaix;77;eau potable : UDBM10 CCBM5;299054;2024;87,0;1,6;10,5;67,1;conforme;27921;10580;22;64;1299;Non vérifié
-77209;Gouvernes;77;eau potable;152979;2024;96,5;4,7;128,2;85,0;conforme;735950;9175;21;59;1177;Non vérifié
-77210;La Grande-Paroisse;77;eau potable : secteur 1;214812;2024;73,3;7,0;19,1;68,8;conforme;625106;48112;46;148;2893;Non vérifié
-77211;Grandpuits-Bailly-Carrois;77;eau potable;152944;2024;80,9;2,5;10,7;67,1;conforme;56575;17844;48;109;1009;Non vérifié
-77212;Gravon;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;1167;21;94;156;Non vérifié
-77214;Gressy;77;eau potable : SMAEP TMM - Globalité;327234;2024;76,3;4,8;15,5;68,1;conforme;611290;11433;39;115;807;Non vérifié
-77215;Gretz-Armainvilliers;77;eau potable : SMIAEP Région de Tournan;152992;2024;82,0;5,2;23,5;69,7;conforme;237914;99686;31;82;8825;Non vérifié
-77216;Grez-sur-Loing;77;eau potable : ex_SIAEP_Grez_Moncourt;152965;2024;82,8;3,5;16,7;68,3;conforme;45453;19588;37;115;1432;Non vérifié
-77217;Grisy-Suisnes;77;eau potable : TNO;262074;2024;76,8;3,6;12,0;67,4;conforme;190346;38282;36;113;2948;Non vérifié
-77218;Grisy-sur-Seine;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;920;21;94;123;Non vérifié
-77219;Guérard;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;20114;21;94;2688;Non vérifié
-77220;Guercheville;77;eau potable : Guercheville;152735;2024;82,4;2,9;13,4;67,7;conforme;2689;2689;27;79;268;Non vérifié
-77221;Guermantes;77;eau potable;152979;2024;96,5;4,7;128,2;85,0;conforme;735950;8988;21;59;1153;Non vérifié
-77222;Guignes;77;eau potable : Guignes;152737;2024;87,7;3,6;25,5;70,1;conforme;26609;26609;16;51;4448;Non vérifié
-77223;Gurcy-le-Châtel;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;4183;21;94;559;Non vérifié
-77224;Hautefeuille;77;"eau potable : EST ""Hautefeuille""";152739;2024;84,5;2,7;14,8;68,0;conforme;5085;5085;55;67;253;Non vérifié
-77225;La Haute-Maison;77;eau potable : Territoire_SUD;152961;2024;76,7;4,6;15,2;68,0;conforme;374367;6276;49;196;352;Non vérifié
-77226;Héricy;77;eau potable : Héricy-Samoreau-Vulaines/Seine;153093;2024;75,6;6,5;20,1;69,0;conforme;176419;58035;63;197;2507;Non vérifié
-77227;Hermé;77;eau potable : UDBM 7 Hermé;152742;2024;79,9;2,0;8,0;66,6;conforme;8169;3530;15;92;647;Non vérifié
-77228;Hondevilliers;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;1916;21;94;256;Non vérifié
-77229;La Houssaye-en-Brie;77;eau potable : syndicat;152972;2024;73,7;4,4;12,4;67,5;conforme;140943;31917;51;147;1731;Non vérifié
-77230;Ichy;77;eau potable;152743;2024;86,5;1,4;8,7;66,7;conforme;1022;1022;18;59;157;Non vérifié
-77231;Isles-les-Meldeuses;77;eau potable : 21 communes;153037;2024;76,2;3,1;10,0;67,0;conforme;243465;10911;39;122;760;Non vérifié
-77232;Isles-lès-Villenoy;77;eau potable : SMAEP TMM - Globalité;327234;2024;76,3;4,8;15,5;68,1;conforme;611290;15995;39;115;1129;Non vérifié
-77233;Iverny;77;eau potable : SMAEP TMM - Globalité;327234;2024;76,3;4,8;15,5;68,1;conforme;611290;8755;39;115;618;Non vérifié
-77234;Jablines;77;eau potable : Contrat 1;182968;2024;92,1;11,8;138,7;85,0;conforme;1373373;10965;46;113;647;Non vérifié
-77235;Jaignes;77;eau potable : 21 communes;153037;2024;76,2;3,1;10,0;67,0;conforme;243465;4623;39;122;322;Non vérifié
-77236;Jaulnes;77;eau potable : UDBM 8 ex_siaep_Bray-sur-Seine;152995;2024;84,6;4,4;24,4;69,9;conforme;82275;6745;54;146;344;Non vérifié
-77237;Jossigny;77;eau potable;152979;2024;96,5;4,7;128,2;85,0;conforme;735950;5067;21;59;650;Non vérifié
-77238;Jouarre;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;31585;21;94;4221;Non vérifié
-77239;Jouy-le-Châtel;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;12197;21;94;1630;Non vérifié
-77240;Jouy-sur-Morin;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;16687;21;94;2230;Non vérifié
-77241;Juilly;77;eau potable : 24 Cnes;152971;2024;83,0;4,5;22,0;69,4;conforme;546197;22383;30;80;2036;Non vérifié
-77242;Jutigny;77;eau potable : UDP14 ex_Siaep_plateau Est Montois;152983;2024;76,6;1,5;5,0;66,0;conforme;20482;5829;29;109;547;Non vérifié
-77243;Lagny-sur-Marne;77;eau potable;152979;2024;96,5;4,7;128,2;85,0;conforme;735950;167297;21;59;21461;Non vérifié
-77244;Larchant;77;eau potable : Larchant;152753;2024;89,0;0,9;7,3;66,5;conforme;4928;4928;18;45;730;Non vérifié
-77245;Laval-en-Brie;77;eau potable : secteur 1;214812;2024;73,3;7,0;19,1;68,8;conforme;625106;6852;46;148;412;Non vérifié
-77246;Léchelle;77;eau potable : UDP18 Léchelle;152755;2024;56,7;2,9;3,9;65,8;non conforme;18079;18079;87;274;572;Non vérifié
-77247;Lescherolles;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;3472;21;94;464;Non vérifié
-77248;Lesches;77;eau potable : SMAEP TMM - Globalité;327234;2024;76,3;4,8;15,5;68,1;conforme;611290;10809;39;115;763;Non vérifié
-77249;Lésigny;77;eau potable;153055;2024;86,1;2,9;18,3;68,7;conforme;53422;53422;21;66;6923;Non vérifié
-77250;Leudon-en-Brie;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;1257;21;94;168;Non vérifié
-77251;Lieusaint;77;eau potable : Régie de l'Eau;219484;2024;83,8;9,8;50,8;75,2;conforme;2739982;136773;27;70;14017;Non vérifié
-77252;Limoges-Fourches;77;eau potable : TNO;262074;2024;76,8;3,6;12,0;67,4;conforme;190346;8116;36;113;625;Non vérifié
-77253;Lissy;77;eau potable : TNO;262074;2024;76,8;3,6;12,0;67,4;conforme;190346;4571;36;113;352;Non vérifié
-77254;Liverdy-en-Brie;77;eau potable : SMIAEP Région de Tournan;152992;2024;82,0;5,2;23,5;69,7;conforme;237914;15927;31;82;1410;Non vérifié
-77255;Livry-sur-Seine;77;eau potable : Livry-sur-Seine;152760;2024;84,1;4,6;24,1;69,8;conforme;19342;19342;24;70;2226;Non vérifié
-77256;Lizines;77;eau potable : UDP14 ex_Siaep_plateau Est Montois;152983;2024;76,6;1,5;5,0;66,0;conforme;20482;1854;29;109;174;Non vérifié
-77257;Lizy-sur-Ourcq;77;eau potable : 21 communes;153037;2024;76,2;3,1;10,0;67,0;conforme;243465;52070;39;122;3627;Non vérifié
-77258;Lognes;77;eau potable : 6 communes;152998;2024;95,3;6,0;122,9;85,0;conforme;520782;86176;16;43;15074;Non vérifié
-77259;Longperrier;77;eau potable : 24 Cnes;152971;2024;83,0;4,5;22,0;69,4;conforme;546197;34653;30;80;3152;Non vérifié
-77260;Longueville;77;eau potable : UDP13 Longueville;188345;2024;80,0;3,2;12,8;67,6;conforme;18256;18256;28;91;1804;Non vérifié
-77261;Lorrez-le-Bocage-Préaux;77;eau potable : Chevry, Blennes, Diant, Lorrez, Vaux et Villemaréchal;152975;2023;76,0;2,9;9,1;66,8;conforme;119431;40083;86;226;1274;Sans anomalie apparente
-77262;Louan-Villegruis-Fontaine;77;eau potable : UDP15+16 Louan-Villegruis-Fontaine;152762;2024;79,8;0,9;3,4;65,7;conforme;7588;7588;42;96;491;Non vérifié
-77263;Luisetaines;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;1714;21;94;229;Non vérifié
-77264;Lumigny-Nesles-Ormeaux;77;eau potable : SIAEP région de Touquin;152991;2024;67,7;5,7;12,1;67,4;conforme;74315;29264;55;246;1468;Non vérifié
-77265;Luzancy;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;7752;21;94;1036;Non vérifié
-77266;Machault;77;eau potable : Sud (4Cnes);305634;2024;80,5;3,3;13,7;67,7;conforme;48060;13153;44;137;815;Non vérifié
-77267;La Madeleine-sur-Loing;77;eau potable;152766;2024;83,2;2,3;11,5;67,3;conforme;6750;6750;53;136;347;Non vérifié
-77268;Magny-le-Hongre;77;eau potable : 5 Communes;153004;2024;93,1;7,6;102,8;85,0;conforme;514993;125416;38;42;9060;Non vérifié
-77269;Maincy;77;eau potable : Maincy;188348;2024;71,6;5,5;13,9;67,8;conforme;26640;26640;40;145;1828;Non vérifié
-77270;Maisoncelles-en-Brie;77;eau potable : Territoire_SUD;152961;2024;76,7;4,6;15,2;68,0;conforme;374367;17419;49;196;977;Non vérifié
-77271;Maisoncelles-en-Gâtinais;77;eau potable;152769;2024;48,8;5,0;4,8;66,0;non conforme;5238;5238;102;381;141;Non vérifié
-77272;Maison-Rouge;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;6585;21;94;880;Non vérifié
-77273;Marchémoret;77;eau potable : 24 Cnes;152971;2024;83,0;4,5;22,0;69,4;conforme;546197;7245;30;80;659;Non vérifié
-77274;Marcilly;77;eau potable : SMAEP TMM - Globalité;327234;2024;76,3;4,8;15,5;68,1;conforme;611290;6928;39;115;489;Non vérifié
-77275;Les Marêts;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;1137;21;94;152;Non vérifié
-77276;Mareuil-lès-Meaux;77;eau potable : SMAEP TMM - Globalité;327234;2024;76,3;4,8;15,5;68,1;conforme;611290;47388;39;115;3345;Non vérifié
-77277;Marles-en-Brie;77;eau potable : syndicat;152972;2024;73,7;4,4;12,4;67,5;conforme;140943;34996;51;147;1898;Non vérifié
-77278;Marolles-en-Brie;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;3083;21;94;412;Non vérifié
-77279;Marolles-sur-Seine;77;eau potable : secteur 1;214812;2024;73,3;7,0;19,1;68,8;conforme;625106;29502;46;148;1774;Non vérifié
-77280;Mary-sur-Marne;77;eau potable : 21 communes;153037;2024;76,2;3,1;10,0;67,0;conforme;243465;16581;39;122;1155;Non vérifié
-77281;Mauperthuis;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;3704;21;94;495;Non vérifié
-77282;Mauregard;77;eau potable : 24 Cnes;152971;2024;83,0;4,5;22,0;69,4;conforme;546197;3749;30;80;341;Non vérifié
-77283;May-en-Multien;77;eau potable : 21 communes;153037;2024;76,2;3,1;10,0;67,0;conforme;243465;12590;39;122;877;Non vérifié
-77284;Meaux;77;eau potable : Régie;326914;2024;92,5;6,2;77,3;80,5;conforme;435130;385608;19;39;56905;Non vérifié
-77285;Le Mée-sur-Seine;77;eau potable : Le Mee-sur-Seine;152777;2024;88,4;8,1;62,0;77,4;conforme;140168;140168;20;51;19527;Non vérifié
-77286;Meigneux;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;1766;21;94;236;Non vérifié
-77287;Meilleray;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;3771;21;94;504;Non vérifié
-77288;Melun;77;eau potable : Melun-Dammarie;214254;2024;91,3;12,8;134,6;85,0;conforme;1145574;757551;45;114;45995;Non vérifié
-77289;Melz-sur-Seine;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;2582;21;94;345;Non vérifié
-77290;Méry-sur-Marne;77;eau potable : NORD (14 Cnes);152968;2024;80,0;4,1;16,4;68,3;conforme;364009;9511;38;109;679;Non vérifié
-77291;Le Mesnil-Amelot;77;eau potable : 24 Cnes;152971;2024;83,0;4,5;22,0;69,4;conforme;546197;10906;30;80;992;Non vérifié
-77292;Messy;77;eau potable : SMAEP TMM - Globalité;327234;2024;76,3;4,8;15,5;68,1;conforme;611290;17270;39;115;1219;Non vérifié
-77293;Misy-sur-Yonne;77;eau potable : secteur 1;214812;2024;73,3;7,0;19,1;68,8;conforme;625106;13870;46;148;834;Non vérifié
-77294;Mitry-Mory;77;eau potable : Contrat 1;182968;2024;92,1;11,8;138,7;85,0;conforme;1373373;346682;46;113;20456;Non vérifié
-77295;Moisenay;77;eau potable : ex_Siaep_Blandy-Chatillon-Moisenay-Sivry;152946;2024;68,5;3,5;7,7;66,5;conforme;70544;27649;56;168;1362;Non vérifié
-77296;Moissy-Cramayel;77;eau potable : CA SENART 77;153002;2024;93,1;4,2;56,6;76,3;conforme;246046;103541;15;27;18511;Non vérifié
-77297;Mondreville;77;eau potable;153028;2024;76,7;1,5;5,0;66,0;conforme;11826;6320;52;108;334;Non vérifié
-77298;Mons-en-Montois;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;3397;21;94;454;Non vérifié
-77300;Montceaux-lès-Meaux;77;eau potable : Territoire_NORD;152949;2024;81,5;1,6;7,1;66,4;conforme;41265;6190;25;82;669;Non vérifié
-77301;Montceaux-lès-Provins;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;2394;21;94;320;Non vérifié
-77302;Moncourt-Fromonville;77;eau potable : ex_SIAEP_Grez_Moncourt;152965;2024;82,8;3,5;16,7;68,3;conforme;45453;25866;37;115;1891;Non vérifié
-77303;Montdauphin;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;1758;21;94;235;Non vérifié
-77304;Montenils;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;254;21;94;34;Non vérifié
-77305;Montereau-Fault-Yonne;77;eau potable : secteur 1;214812;2024;73,3;7,0;19,1;68,8;conforme;625106;370510;46;148;22279;Non vérifié
-77306;Montereau-sur-le-Jard;77;eau potable : DSP Est;334314;2024;75,8;7,0;22,0;69,4;conforme;135364;7392;41;117;499;Non vérifié
-77307;Montévrain;77;eau potable : Chanteloup, Chalifert, Ferrières, Lesches, Montevrain;222694;2024;92,4;3,7;44,6;73,9;conforme;122625;73713;13;30;15687;Non vérifié
-77308;Montgé-en-Goële;77;eau potable : 24 Cnes;152971;2024;83,0;4,5;22,0;69,4;conforme;546197;7883;30;80;717;Non vérifié
-77309;Monthyon;77;eau potable : SMAEP TMM - Globalité;327234;2024;76,3;4,8;15,5;68,1;conforme;611290;24877;39;115;1756;Non vérifié
-77310;Montigny-le-Guesdier;77;eau potable : UDBM 9 Montigny-le-Guesdier;152788;2024;93,4;0,9;13,1;67,6;conforme;1117;1117;10;25;295;Non vérifié
-77311;Montigny-Lencoup;77;eau potable : UDBM15 Montigny-Lencoup;188353;2024;87,6;1,8;12,5;67,5;conforme;13285;9411;19;85;1358;Non vérifié
-77312;Montigny-sur-Loing;77;eau potable : Groupé (4 cnes hors VlS);214075;2024;87,7;2,6;18,3;68,7;conforme;115066;15765;16;54;2669;Non vérifié
-77313;Montmachoux;77;eau potable : secteur 2;152993;2024;69,0;5,5;12,2;67,4;conforme;198803;4302;55;167;213;Non vérifié
-77314;Montolivet;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;1923;21;94;257;Non vérifié
-77315;Montry;77;eau potable : SMAEP TMM - Globalité;327234;2024;76,3;4,8;15,5;68,1;conforme;611290;55889;39;115;3945;Non vérifié
-77316;Moret-Loing-et-Orvanne;77;eau potable : Groupé (4 cnes hors VlS);214075;2024;87,7;2,6;18,3;68,7;conforme;115066;75663;16;54;12810;Non vérifié
-77317;Mormant;77;eau potable;152794;2024;67,5;8,6;17,7;68,5;non conforme;100793;100793;52;177;5282;Non vérifié
-77318;Mortcerf;77;eau potable : syndicat;152972;2024;73,7;4,4;12,4;67,5;conforme;140943;25814;51;147;1400;Non vérifié
-77319;Mortery;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;1025;21;94;137;Non vérifié
-77320;Mouroux;77;"eau potable : EST ""Boissy-Chauffry-Coulommiers""";326174;2024;69,2;10,0;22,3;69,5;non conforme;453330;99301;47;163;5810;Non vérifié
-77321;Mousseaux-lès-Bray;77;eau potable : UDBM 8 ex_siaep_Bray-sur-Seine;152995;2024;84,6;4,4;24,4;69,9;conforme;82275;13373;54;146;682;Non vérifié
-77322;Moussy-le-Neuf;77;eau potable : 24 Cnes;152971;2024;83,0;4,5;22,0;69,4;conforme;546197;35763;30;80;3253;Non vérifié
-77323;Moussy-le-Vieux;77;eau potable : 24 Cnes;152971;2024;83,0;4,5;22,0;69,4;conforme;546197;16150;30;80;1469;Non vérifié
-77325;Mouy-sur-Seine;77;eau potable : UDBM 8 ex_siaep_Bray-sur-Seine;152995;2024;84,6;4,4;24,4;69,9;conforme;82275;6922;54;146;353;Non vérifié
-77326;Nandy;77;eau potable : Régie de l'Eau;219484;2024;83,8;9,8;50,8;75,2;conforme;2739982;61961;27;70;6350;Non vérifié
-77327;Nangis;77;eau potable;152799;2024;83,0;5,0;24,4;69,9;conforme;88604;88604;27;75;8867;Non vérifié
-77328;Nanteau-sur-Essonne;77;eau potable : ex_SMERB;152953;2024;76,2;2,2;6,9;66,4;conforme;39395;9230;61;116;414;Non vérifié
-77329;Nanteau-sur-Lunain;77;eau potable;152801;2024;94,4;0,9;15,0;68,0;conforme;4244;4244;17;32;702;Non vérifié
-77330;Nanteuil-lès-Meaux;77;eau potable : Régie;326914;2024;92,5;6,2;77,3;80,5;conforme;435130;49522;19;39;7308;Non vérifié
-77331;Nanteuil-sur-Marne;77;eau potable : NORD (14 Cnes);152968;2024;80,0;4,1;16,4;68,3;conforme;364009;5687;38;109;406;Non vérifié
-77332;Nantouillet;77;eau potable : 24 Cnes;152971;2024;83,0;4,5;22,0;69,4;conforme;546197;3320;30;80;302;Non vérifié
-77333;Nemours;77;eau potable : ex_SIAEP_Nemours_StPierre;217222;2024;80,2;3,9;15,9;68,2;conforme;274422;157166;33;89;12889;Non vérifié
-77335;Chauconin-Neufmontiers;77;eau potable : Chauconin-Neufmontiers;152805;2024;89,1;4,7;37,9;72,6;conforme;30999;30999;22;45;3784;Non vérifié
-77336;Neufmoutiers-en-Brie;77;eau potable : syndicat;152951;2024;82,4;2,7;12,6;67,5;conforme;59317;13463;28;78;1338;Non vérifié
-77337;Noisiel;77;eau potable : 6 communes;152998;2024;95,3;6,0;122,9;85,0;conforme;520782;91773;16;43;16053;Non vérifié
-77338;Noisy-Rudignon;77;eau potable : secteur 2;152993;2024;69,0;5,5;12,2;67,4;conforme;198803;11714;55;167;580;Non vérifié
-77339;Noisy-sur-École;77;eau potable : Sud Ouest (10 Cnes);273074;2024;77,7;2,7;9,4;66,9;conforme;151136;28002;43;107;1797;Non vérifié
-77340;Nonville;77;eau potable : Nonville;152810;2024;83,7;1,4;7,2;66,4;conforme;4650;4650;22;71;591;Non vérifié
-77341;Noyen-sur-Seine;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;2761;21;94;369;Non vérifié
-77342;Obsonville;77;eau potable;152813;2024;94,6;0,5;8,0;66,6;conforme;522;522;11;23;126;Non vérifié
-77343;Ocquerre;77;eau potable : 21 communes;153037;2024;76,2;3,1;10,0;67,0;conforme;243465;5427;39;122;378;Non vérifié
-77344;Oissery;77;eau potable : 24 Cnes;152971;2024;83,0;4,5;22,0;69,4;conforme;546197;27441;30;80;2496;Non vérifié
-77345;Orly-sur-Morin;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;4909;21;94;656;Non vérifié
-77347;Les Ormes-sur-Voulzie;77;eau potable : UDBM10 CCBM5;299054;2024;87,0;1,6;10,5;67,1;conforme;27921;7037;22;64;864;Non vérifié
-77348;Ormesson;77;eau potable : ex_SIAEP_Nemours_StPierre;217222;2024;80,2;3,9;15,9;68,2;conforme;274422;2951;33;89;242;Non vérifié
-77349;Othis;77;eau potable : 24 Cnes;152971;2024;83,0;4,5;22,0;69,4;conforme;546197;73846;30;80;6717;Non vérifié
-77350;Ozoir-la-Ferrière;77;eau potable : Ozoir;153056;2024;89,8;3,5;30,8;71,2;conforme;113927;113927;15;42;21238;Non vérifié
-77352;Ozouer-le-Voulgis;77;eau potable : TNO;262074;2024;76,8;3,6;12,0;67,4;conforme;190346;26621;36;113;2050;Non vérifié
-77353;Paley;77;eau potable : Paley;152819;2023;49,2;3,8;3,7;65,7;non conforme;32983;32983;187;375;483;Sans anomalie apparente
-77354;Pamfou;77;eau potable : Sud (4Cnes);305634;2024;80,5;3,3;13,7;67,7;conforme;48060;15864;44;137;983;Non vérifié
-77355;Paroy;77;eau potable : UDBM10 CCBM5;299054;2024;87,0;1,6;10,5;67,1;conforme;27921;1523;22;64;187;Non vérifié
-77356;Passy-sur-Seine;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;367;21;94;49;Non vérifié
-77357;Pécy;77;eau potable;152822;2024;63,6;3,4;6,0;66,2;non conforme;21060;21060;68;209;849;Non vérifié
-77358;Penchard;77;eau potable : Penchard;152824;2024;70,9;6,8;16,6;68,3;conforme;21469;21469;43;149;1373;Non vérifié
-77359;Perthes;77;eau potable : Sud Ouest (10 Cnes);273074;2024;77,7;2,7;9,4;66,9;conforme;151136;32303;43;107;2073;Non vérifié
-77360;Pézarches;77;eau potable : SIAEP région de Touquin;152991;2024;67,7;5,7;12,1;67,4;conforme;74315;8173;55;246;410;Non vérifié
-77361;Pierre-Levée;77;eau potable : Territoire_SUD;152961;2024;76,7;4,6;15,2;68,0;conforme;374367;8558;49;196;480;Non vérifié
-77363;Le Pin;77;eau potable;152979;2024;96,5;4,7;128,2;85,0;conforme;735950;11927;21;59;1530;Non vérifié
-77364;Le Plessis-aux-Bois;77;eau potable : SMAEP TMM - Globalité;327234;2024;76,3;4,8;15,5;68,1;conforme;611290;3698;39;115;261;Non vérifié
-77365;Le Plessis-Feu-Aussoux;77;eau potable : SIAEP région de Touquin;152991;2024;67,7;5,7;12,1;67,4;conforme;74315;11901;55;246;597;Non vérifié
-77366;Le Plessis-l'Évêque;77;eau potable : 24 Cnes;152971;2024;83,0;4,5;22,0;69,4;conforme;546197;3199;30;80;291;Non vérifié
-77367;Le Plessis-Placy;77;eau potable : 21 communes;153037;2024;76,2;3,1;10,0;67,0;conforme;243465;4379;39;122;305;Non vérifié
-77368;Poigny;77;eau potable : UDP18 Provins/Poigny;152840;2024;83,6;6,2;31,4;71,3;conforme;180135;7438;41;90;501;Non vérifié
-77369;Poincy;77;eau potable : Poincy;152832;2024;80,5;3,0;12,3;67,5;conforme;12363;12363;42;89;797;Non vérifié
-77370;Poligny;77;eau potable : principal;152978;2024;72,3;2,0;5,3;66,1;conforme;91900;15772;52;140;825;Non vérifié
-77371;Pommeuse;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;22815;21;94;3049;Non vérifié
-77372;Pomponne;77;eau potable;152979;2024;96,5;4,7;128,2;85,0;conforme;735950;32858;21;59;4215;Non vérifié
-77373;Pontault-Combault;77;eau potable : 3 communes;152984;2024;90,2;4,4;40,8;73,2;conforme;367742;198446;14;42;39096;Non vérifié
-77374;Pontcarré;77;eau potable : Roissy-Pontcarré;198357;2024;93,3;4,6;63,7;77,7;conforme;150539;12677;16;55;2136;Non vérifié
-77376;Précy-sur-Marne;77;eau potable : SMAEP TMM - Globalité;327234;2024;76,3;4,8;15,5;68,1;conforme;611290;10583;39;115;747;Non vérifié
-77377;Presles-en-Brie;77;eau potable : SMIAEP Région de Tournan;152992;2024;82,0;5,2;23,5;69,7;conforme;237914;26760;31;82;2369;Non vérifié
-77378;Pringy;77;eau potable : 5 Cnes;307034;2024;77,0;9,1;30,4;71,1;conforme;430101;68651;49;141;3864;Non vérifié
-77379;Provins;77;eau potable : UDP18 Provins/Poigny;152840;2024;83,6;6,2;31,4;71,3;conforme;180135;172697;41;90;11632;Non vérifié
-77380;Puisieux;77;eau potable : 21 communes;153037;2024;76,2;3,1;10,0;67,0;conforme;243465;4551;39;122;317;Non vérifié
-77381;Quiers;77;eau potable : Quiers;152842;2024;56,0;6,1;7,7;66,5;non conforme;18858;18858;79;288;650;Non vérifié
-77382;Quincy-Voisins;77;eau potable : SMAEP TMM - Globalité;327234;2024;76,3;4,8;15,5;68,1;conforme;611290;78584;39;115;5547;Non vérifié
-77383;Rampillon;77;eau potable;152844;2024;67,7;1,7;3,6;65,7;conforme;14886;11396;37;173;836;Non vérifié
-77384;Réau;77;eau potable : CA SENART 77;153002;2024;93,1;4,2;56,6;76,3;conforme;246046;11897;15;27;2127;Non vérifié
-77385;Rebais;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;17165;21;94;2294;Non vérifié
-77386;Recloses;77;eau potable : DSP 12 Cnes;312614;2024;89,5;3,7;31,8;71,4;conforme;426420;5436;24;54;633;Non vérifié
-77387;Remauville;77;eau potable : principal;152978;2024;72,3;2,0;5,3;66,1;conforme;91900;8584;52;140;449;Non vérifié
-77388;Reuil-en-Brie;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;5971;21;94;798;Non vérifié
-77389;La Rochette;77;eau potable : DSP Est;334314;2024;75,8;7,0;22,0;69,4;conforme;135364;58246;41;117;3932;Non vérifié
-77390;Roissy-en-Brie;77;eau potable : Roissy-Pontcarré;198357;2024;93,3;4,6;63,7;77,7;conforme;150539;137862;16;55;23229;Non vérifié
-77391;Rouilly;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;3711;21;94;496;Non vérifié
-77392;Rouvres;77;eau potable : 24 Cnes;152971;2024;83,0;4,5;22,0;69,4;conforme;546197;11412;30;80;1038;Non vérifié
-77393;Rozay-en-Brie;77;eau potable : Rozay-en-Brie;152850;2024;74,3;7,4;21,4;69,3;conforme;46619;46619;45;131;2860;Non vérifié
-77394;Rubelles;77;eau potable : DSP Est;334314;2024;75,8;7,0;22,0;69,4;conforme;135364;52395;41;117;3537;Non vérifié
-77395;Rumont;77;eau potable : ex_SIAEP_Burcy_Fromont_Rumont;152952;2024;85,2;0,8;4,9;66,0;conforme;3849;953;21;60;125;Non vérifié
-77396;Rupéreux;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;793;21;94;106;Non vérifié
-77397;Saâcy-sur-Marne;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;14053;21;94;1878;Non vérifié
-77398;Sablonnières;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;5919;21;94;791;Non vérifié
-77400;Saint-Augustin;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;14127;21;94;1888;Non vérifié
-77401;Sainte-Aulde;77;eau potable : NORD (14 Cnes);152968;2024;80,0;4,1;16,4;68,3;conforme;364009;9889;38;109;706;Non vérifié
-77402;Saint-Barthélemy;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;2507;21;94;335;Non vérifié
-77403;Saint-Brice;77;eau potable : UDP18 St-Brice;152854;2024;87,8;0,8;6,0;66,2;conforme;4847;4847;16;62;819;Non vérifié
-77404;Sainte-Colombe;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;13327;21;94;1781;Non vérifié
-77405;Saint-Cyr-sur-Morin;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;14786;21;94;1976;Non vérifié
-77406;Saint-Denis-lès-Rebais;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;7228;21;94;966;Non vérifié
-77407;Saint-Fargeau-Ponthierry;77;eau potable : 5 Cnes;307034;2024;77,0;9,1;30,4;71,1;conforme;430101;279367;49;141;15724;Non vérifié
-77408;Saint-Fiacre;77;eau potable : Territoire_NORD;152949;2024;81,5;1,6;7,1;66,4;conforme;41265;4839;25;82;523;Non vérifié
-77409;Saint-Germain-Laval;77;eau potable : secteur 1;214812;2024;73,3;7,0;19,1;68,8;conforme;625106;48029;46;148;2888;Non vérifié
-77410;Saint-Germain-Laxis;77;eau potable : St-Germain-Laxis;152861;2024;84,2;2,3;12,1;67,4;conforme;7304;7304;27;69;742;Non vérifié
-77411;Saint-Germain-sous-Doue;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;4108;21;94;549;Non vérifié
-77412;Saint-Germain-sur-École;77;eau potable : DSP 12 Cnes;312614;2024;89,5;3,7;31,8;71,4;conforme;426420;3135;24;54;365;Non vérifié
-77413;Saint-Germain-sur-Morin;77;eau potable : SMAEP TMM - Globalité;327234;2024;76,3;4,8;15,5;68,1;conforme;611290;55279;39;115;3902;Non vérifié
-77414;Saint-Hilliers;77;eau potable : UDP21 St-Hilliers;188362;2024;85,7;0,7;4,2;65,8;conforme;3761;3761;22;62;474;Non vérifié
-77415;Saint-Jean-les-Deux-Jumeaux;77;eau potable : NORD (14 Cnes);152968;2024;80,0;4,1;16,4;68,3;conforme;364009;18182;38;109;1298;Non vérifié
-77416;Saint-Just-en-Brie;77;eau potable : UDP18 St-Just-en-Brie;152863;2024;88,6;0,4;3,1;65,6;conforme;1555;1555;16;47;265;Non vérifié
-77417;Saint-Léger;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;1826;21;94;244;Non vérifié
-77418;Saint-Loup-de-Naud;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;6345;21;94;848;Non vérifié
-77419;Saint-Mammès;77;eau potable : Groupé (4 cnes hors VlS);214075;2024;87,7;2,6;18,3;68,7;conforme;115066;18677;16;54;3162;Non vérifié
-77420;Saint-Mard;77;eau potable : 24 Cnes;152971;2024;83,0;4,5;22,0;69,4;conforme;546197;42128;30;80;3832;Non vérifié
-77421;Saint-Mars-Vieux-Maisons;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;1826;21;94;244;Non vérifié
-77423;Saint-Martin-des-Champs;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;4946;21;94;661;Non vérifié
-77424;Saint-Martin-du-Boschet;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;1923;21;94;257;Non vérifié
-77425;Saint-Martin-en-Bière;77;eau potable : Sud Ouest (10 Cnes);273074;2024;77,7;2,7;9,4;66,9;conforme;151136;11625;43;107;746;Non vérifié
-77426;Saint-Méry;77;eau potable : St-Méry;152868;2024;71,6;2,2;5,6;66,1;conforme;5195;5195;43;143;334;Non vérifié
-77427;Saint-Mesmes;77;eau potable : 24 Cnes;152971;2024;83,0;4,5;22,0;69,4;conforme;546197;6365;30;80;579;Non vérifié
-77428;Saint-Ouen-en-Brie;77;eau potable;152944;2024;80,9;2,5;10,7;67,1;conforme;56575;14803;48;109;837;Non vérifié
-77429;Saint-Ouen-sur-Morin;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;3958;21;94;529;Non vérifié
-77430;Saint-Pathus;77;eau potable : 24 Cnes;152971;2024;83,0;4,5;22,0;69,4;conforme;546197;71229;30;80;6479;Non vérifié
-77431;Saint-Pierre-lès-Nemours;77;eau potable : ex_SIAEP_Nemours_StPierre;217222;2024;80,2;3,9;15,9;68,2;conforme;274422;65859;33;89;5401;Non vérifié
-77432;Saint-Rémy-de-la-Vanne;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;7371;21;94;985;Non vérifié
-77433;Beautheil-Saints;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;15661;21;94;2093;Non vérifié
-77434;Saint-Sauveur-lès-Bray;77;eau potable : UDBM 8 ex_siaep_Bray-sur-Seine;152995;2024;84,6;4,4;24,4;69,9;conforme;82275;6863;54;146;350;Non vérifié
-77435;Saint-Sauveur-sur-École;77;eau potable : DSP 12 Cnes;312614;2024;89,5;3,7;31,8;71,4;conforme;426420;9662;24;54;1125;Non vérifié
-77436;Saint-Siméon;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;6607;21;94;883;Non vérifié
-77437;Saint-Soupplets;77;eau potable : SMAEP TMM - Globalité;327234;2024;76,3;4,8;15,5;68,1;conforme;611290;50179;39;115;3542;Non vérifié
-77438;Saint-Thibault-des-Vignes;77;eau potable;152979;2024;96,5;4,7;128,2;85,0;conforme;735950;53250;21;59;6831;Non vérifié
-77439;Salins;77;eau potable : secteur 1;214812;2024;73,3;7,0;19,1;68,8;conforme;625106;19375;46;148;1165;Non vérifié
-77440;Sammeron;77;eau potable : NORD (14 Cnes);152968;2024;80,0;4,1;16,4;68,3;conforme;364009;16501;38;109;1178;Non vérifié
-77441;Samois-sur-Seine;77;eau potable : DSP 12 Cnes;312614;2024;89,5;3,7;31,8;71,4;conforme;426420;18258;24;54;2126;Non vérifié
-77442;Samoreau;77;eau potable : Héricy-Samoreau-Vulaines/Seine;153093;2024;75,6;6,5;20,1;69,0;conforme;176419;55187;63;197;2384;Non vérifié
-77443;Sancy;77;eau potable : Territoire_SUD;152961;2024;76,7;4,6;15,2;68,0;conforme;374367;7150;49;196;401;Non vérifié
-77444;Sancy-lès-Provins;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;2537;21;94;339;Non vérifié
-77445;Savigny-le-Temple;77;eau potable : Régie de l'Eau;219484;2024;83,8;9,8;50,8;75,2;conforme;2739982;303932;27;70;31148;Non vérifié
-77446;Savins;77;eau potable : UDP14 ex_Siaep_plateau Est Montois;152983;2024;76,6;1,5;5,0;66,0;conforme;20482;6575;29;109;617;Non vérifié
-77447;Seine-Port;77;eau potable : Seine-Port;152879;2024;74,2;3,6;10,3;67,1;conforme;31694;31694;50;127;1742;Non vérifié
-77448;Sept-Sorts;77;eau potable : NORD (14 Cnes);152968;2024;80,0;4,1;16,4;68,3;conforme;364009;8629;38;109;616;Non vérifié
-77449;Serris;77;eau potable : 5 Communes;153004;2024;93,1;7,6;102,8;85,0;conforme;514993;142941;38;42;10326;Non vérifié
-77450;Servon;77;eau potable;182964;2024;92,3;9,0;107,2;85,0;conforme;148679;70880;54;116;3565;Non vérifié
-77451;Signy-Signets;77;eau potable : Territoire_SUD;152961;2024;76,7;4,6;15,2;68,0;conforme;374367;11375;49;196;638;Non vérifié
-77452;Sigy;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;494;21;94;66;Non vérifié
-77453;Sivry-Courtry;77;eau potable : ex_Siaep_Blandy-Chatillon-Moisenay-Sivry;152946;2024;68,5;3,5;7,7;66,5;conforme;70544;22818;56;168;1124;Non vérifié
-77454;Sognolles-en-Montois;77;eau potable : UDP14 ex_Siaep_plateau Est Montois;152983;2024;76,6;1,5;5,0;66,0;conforme;20482;3954;29;109;371;Non vérifié
-77455;Soignolles-en-Brie;77;eau potable : TNO;262074;2024;76,8;3,6;12,0;67,4;conforme;190346;26244;36;113;2021;Non vérifié
-77456;Soisy-Bouy;77;eau potable : UDP18+BM7 Soisy-Bouy;152882;2024;88,0;2,2;15,9;68,2;conforme;9347;9347;30;94;850;Non vérifié
-77457;Solers;77;eau potable : TNO;262074;2024;76,8;3,6;12,0;67,4;conforme;190346;17349;36;113;1336;Non vérifié
-77458;Souppes-sur-Loing;77;eau potable;152885;2024;62,9;7,4;12,6;67,5;non conforme;146043;146043;81;217;4952;Non vérifié
-77459;Sourdun;77;eau potable : UDP18 Sourdun;152887;2024;74,4;3,0;8,6;66,7;conforme;22995;22995;41;127;1541;Non vérifié
-77460;Tancrou;77;eau potable : 21 communes;153037;2024;76,2;3,1;10,0;67,0;conforme;243465;4881;39;122;340;Non vérifié
-77461;Thénisy;77;eau potable : UDBM 8 Thénisy;188368;2024;83,9;1,7;9,0;66,8;conforme;2197;2197;20;69;297;Non vérifié
-77462;Thieux;77;eau potable : 24 Cnes;152971;2024;83,0;4,5;22,0;69,4;conforme;546197;8553;30;80;778;Non vérifié
-77463;Thomery;77;eau potable;153031;2024;79,1;4,5;17,1;68,4;conforme;38944;38944;32;96;3384;Non vérifié
-77464;Thorigny-sur-Marne;77;eau potable;152979;2024;96,5;4,7;128,2;85,0;conforme;735950;81384;21;59;10440;Non vérifié
-77465;Thoury-Férottes;77;eau potable : principal;152986;2024;76,2;3,6;11,6;67,3;conforme;81468;14736;62;192;649;Non vérifié
-77466;Tigeaux;77;eau potable : Territoire_SUD;152961;2024;76,7;4,6;15,2;68,0;conforme;374367;7506;49;196;421;Non vérifié
-77467;La Tombe;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;1556;21;94;208;Non vérifié
-77468;Torcy;77;eau potable : 6 communes;152998;2024;95,3;6,0;122,9;85,0;conforme;520782;130401;16;43;22810;Non vérifié
-77469;Touquin;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;9376;21;94;1253;Non vérifié
-77470;Tournan-en-Brie;77;eau potable : SMIAEP Région de Tournan;152992;2024;82,0;5,2;23,5;69,7;conforme;237914;93462;31;82;8274;Non vérifié
-77471;Tousson;77;eau potable : Sud Ouest (10 Cnes);273074;2024;77,7;2,7;9,4;66,9;conforme;151136;5205;43;107;334;Non vérifié
-77472;La Trétoire;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;3435;21;94;459;Non vérifié
-77473;Treuzy-Levelay;77;eau potable : Treuzy-Levelay;152892;2024;84,2;1,1;6,0;66,2;conforme;3533;3533;21;67;458;Non vérifié
-77474;Trilbardou;77;eau potable : SMAEP TMM - Globalité;327234;2024;76,3;4,8;15,5;68,1;conforme;611290;9917;39;115;700;Non vérifié
-77475;Trilport;77;eau potable : Trilport;152895;2024;64,0;10,8;19,2;68,8;non conforme;112347;112347;60;205;5146;Non vérifié
-77476;Trocy-en-Multien;77;eau potable : 21 communes;153037;2024;76,2;3,1;10,0;67,0;conforme;243465;3345;39;122;233;Non vérifié
-77477;Ury;77;eau potable : Sud Ouest (10 Cnes);273074;2024;77,7;2,7;9,4;66,9;conforme;151136;13744;43;107;882;Non vérifié
-77478;Ussy-sur-Marne;77;eau potable : NORD (14 Cnes);152968;2024;80,0;4,1;16,4;68,3;conforme;364009;14820;38;109;1058;Non vérifié
-77479;Vaires-sur-Marne;77;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;84351;17;43;13931;Non vérifié
-77480;Valence-en-Brie;77;eau potable : Valence;152899;2024;88,8;1,8;14,0;67,8;conforme;8088;8088;22;86;1007;Non vérifié
-77481;Vanvillé;77;eau potable : UDP18 Vanvillé;152900;2024;73,3;1,1;3,0;65,6;conforme;3320;3320;46;133;197;Non vérifié
-77482;Varennes-sur-Seine;77;eau potable : secteur 1;214812;2024;73,3;7,0;19,1;68,8;conforme;625106;62331;46;148;3748;Non vérifié
-77483;Varreddes;77;eau potable : Germigny - Varreddes;152966;2024;85,0;3,0;17,0;68,4;conforme;33255;20479;26;64;2167;Non vérifié
-77484;Vaucourtois;77;eau potable : Territoire_SUD;152961;2024;76,7;4,6;15,2;68,0;conforme;374367;4939;49;196;277;Non vérifié
-77485;Le Vaudoué;77;eau potable : Sud Ouest (10 Cnes);273074;2024;77,7;2,7;9,4;66,9;conforme;151136;11391;43;107;731;Non vérifié
-77486;Vaudoy-en-Brie;77;eau potable : Vaudoy-en-Brie;152901;2024;79,1;1,4;5,2;66,0;conforme;11191;11191;35;100;872;Non vérifié
-77487;Vaux-le-Pénil;77;eau potable : Vaux-le-Pénil;152903;2024;79,7;7,0;27,6;70,5;conforme;140423;140423;34;92;11474;Non vérifié
-77489;Vaux-sur-Lunain;77;eau potable : Chevry, Blennes, Diant, Lorrez, Vaux et Villemaréchal;152975;2023;76,0;2,9;9,1;66,8;conforme;119431;7205;86;226;229;Sans anomalie apparente
-77490;Vendrest;77;eau potable : 21 communes;153037;2024;76,2;3,1;10,0;67,0;conforme;243465;9848;39;122;686;Non vérifié
-77492;Verdelot;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;4639;21;94;620;Non vérifié
-77493;Verneuil-l'Étang;77;eau potable : syndicat;219011;2024;56,0;9,7;12,4;67,5;non conforme;168811;119867;102;286;3223;Non vérifié
-77494;Vernou-la-Celle-sur-Seine;77;eau potable;152954;2024;77,3;4,8;16,4;68,3;conforme;119802;34522;36;107;2630;Non vérifié
-77495;Vert-Saint-Denis;77;eau potable : Régie de l'Eau;219484;2024;83,8;9,8;50,8;75,2;conforme;2739982;90658;27;70;9291;Non vérifié
-77496;Vieux-Champagne;77;eau potable : UDP18 Vieux-Champagne;152906;2024;82,2;3,9;18,0;68,6;conforme;7886;7886;113;276;192;Non vérifié
-77498;Vignely;77;eau potable : SMAEP TMM - Globalité;327234;2024;76,3;4,8;15,5;68,1;conforme;611290;4562;39;115;322;Non vérifié
-77500;Villebéon;77;eau potable : Villebéon;188369;2023;62,1;2,3;3,8;65,8;non conforme;12408;12408;75;218;452;Sans anomalie apparente
-77501;Villecerf;77;eau potable : principal;152986;2024;76,2;3,6;11,6;67,3;conforme;81468;16439;62;192;724;Non vérifié
-77504;Villemaréchal;77;eau potable : Chevry, Blennes, Diant, Lorrez, Vaux et Villemaréchal;152975;2023;76,0;2,9;9,1;66,8;conforme;119431;33193;86;226;1055;Sans anomalie apparente
-77505;Villemareuil;77;eau potable : Territoire_NORD;152949;2024;81,5;1,6;7,1;66,4;conforme;41265;3571;25;82;386;Non vérifié
-77506;Villemer;77;eau potable : Villemer;152910;2024;71,0;2,2;5,4;66,1;conforme;13241;13241;48;147;759;Non vérifié
-77507;Villenauxe-la-Petite;77;eau potable : UDBM1+12 Villenauxe-la-Petite;152911;2024;78,8;1,7;6,3;66,3;conforme;7961;6261;38;120;453;Non vérifié
-77508;Villeneuve-le-Comte;77;eau potable : syndicat;152951;2024;82,4;2,7;12,6;67,5;conforme;59317;18837;28;78;1872;Non vérifié
-77509;Villeneuve-les-Bordes;77;eau potable : UDBM13 Villeneuve-les-Bordes;188371;2024;81,7;1,6;7,0;66,4;conforme;8258;4309;19;108;610;Non vérifié
-77510;Villeneuve-Saint-Denis;77;eau potable : syndicat;152951;2024;82,4;2,7;12,6;67,5;conforme;59317;13775;28;78;1369;Non vérifié
-77511;Villeneuve-sous-Dammartin;77;eau potable : 24 Cnes;152971;2024;83,0;4,5;22,0;69,4;conforme;546197;6541;30;80;595;Non vérifié
-77512;Villeneuve-sur-Bellot;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;8613;21;94;1151;Non vérifié
-77513;Villenoy;77;eau potable : Villenoy;152914;2024;87,5;6,2;43,6;73,7;conforme;48541;48541;26;69;5127;Non vérifié
-77514;Villeparisis;77;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;163156;17;43;26946;Non vérifié
-77515;Villeroy;77;eau potable : SMAEP TMM - Globalité;327234;2024;76,3;4,8;15,5;68,1;conforme;611290;10073;39;115;711;Non vérifié
-77516;Ville-Saint-Jacques;77;eau potable : principal;152986;2024;76,2;3,6;11,6;67,3;conforme;81468;18505;62;192;815;Non vérifié
-77517;Villevaudé;77;eau potable;152979;2024;96,5;4,7;128,2;85,0;conforme;735950;16620;21;59;2132;Non vérifié
-77518;Villiers-en-Bière;77;eau potable : 5 Cnes;307034;2024;77,0;9,1;30,4;71,1;conforme;430101;4300;49;141;242;Non vérifié
-77519;Villiers-Saint-Georges;77;eau potable : UDP23 Villiers-St-Georges;152922;2024;83,2;2,1;10,5;67,1;conforme;22512;22512;53;181;1160;Non vérifié
-77520;Villiers-sous-Grez;77;eau potable : Villiers-sous-Grez;152924;2024;72,4;3,5;9,1;66,8;conforme;15726;15726;61;141;706;Non vérifié
-77521;Villiers-sur-Morin;77;eau potable : Territoire_SUD;152961;2024;76,7;4,6;15,2;68,0;conforme;374367;37139;49;196;2083;Non vérifié
-77522;Villiers-sur-Seine;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;2080;21;94;278;Non vérifié
-77523;Villuis;77;eau potable : UDBM14 Villuis;152927;2024;82,7;2,4;11,3;67,3;conforme;3741;3170;32;96;272;Non vérifié
-77524;Vimpelles;77;eau potable : UDBM10 CCBM5;299054;2024;87,0;1,6;10,5;67,1;conforme;27921;4170;22;64;512;Non vérifié
-77525;Vinantes;77;eau potable : 24 Cnes;152971;2024;83,0;4,5;22,0;69,4;conforme;546197;4189;30;80;381;Non vérifié
-77526;Vincy-Manoeuvre;77;eau potable : 21 communes;153037;2024;76,2;3,1;10,0;67,0;conforme;243465;3890;39;122;271;Non vérifié
-77527;Voinsles;77;eau potable : Voinsles;152928;2024;91,5;0,5;5,0;66,0;conforme;3196;3196;15;36;580;Non vérifié
-77528;Voisenon;77;eau potable : DSP Est;334314;2024;75,8;7,0;22,0;69,4;conforme;135364;17332;41;117;1170;Non vérifié
-77529;Voulangis;77;eau potable : Territoire_SUD;152961;2024;76,7;4,6;15,2;68,0;conforme;374367;27475;49;196;1541;Non vérifié
-77530;Voulton;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;2207;21;94;295;Non vérifié
-77531;Voulx;77;eau potable : secteur 2;152993;2024;69,0;5,5;12,2;67,4;conforme;198803;32841;55;167;1626;Non vérifié
-77532;Vulaines-lès-Provins;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;599;21;94;80;Non vérifié
-77533;Vulaines-sur-Seine;77;eau potable : Héricy-Samoreau-Vulaines/Seine;153093;2024;75,6;6,5;20,1;69,0;conforme;176419;63197;63;197;2730;Non vérifié
-77534;Yèbles;77;eau potable : syndicat;219011;2024;56,0;9,7;12,4;67,5;non conforme;168811;36447;102;286;980;Non vérifié
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement);Donnée suspecte (voir LISEZMOI)
+77001;Achères-la-Forêt;77;eau potable : Sud Ouest (10 Cnes);273074;2024;77,7;2,7;9,4;66,9;conforme;151136;18559;43;107;1191;Non vérifié;non
+77002;Amillis;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;6211;21;94;830;Non vérifié;non
+77003;Amponville;77;eau potable : Amponville;152578;2022;86,9;1,2;7,7;66,5;conforme;3079;3079;24;57;349;Sans anomalie apparente;non
+77004;Andrezel;77;eau potable : syndicat;219011;2024;56,0;9,7;12,4;67,5;non conforme;168811;12496;102;286;336;Non vérifié;non
+77005;Annet-sur-Marne;77;eau potable : Contrat 1;182968;2024;92,1;11,8;138,7;85,0;conforme;1373373;57758;46;113;3408;Non vérifié;non
+77006;Arbonne-la-Forêt;77;eau potable : Sud Ouest (10 Cnes);273074;2024;77,7;2,7;9,4;66,9;conforme;151136;15910;43;107;1021;Non vérifié;non
+77007;Argentières;77;eau potable : ex_SIAEP Beauvoir-Argentières;152945;2024;80,7;2,2;9,2;66,8;conforme;5035;3329;25;87;361;Non vérifié;non
+77008;Armentières-en-Brie;77;eau potable : 21 communes;153037;2024;76,2;3,1;10,0;67,0;conforme;243465;16883;39;122;1176;Non vérifié;non
+77009;Arville;77;eau potable;152935;2024;93,0;0,6;7,8;66,6;conforme;1402;653;12;47;145;Non vérifié;non
+77010;Aubepierre-Ozouer-le-Repos;77;eau potable : Aubepierre-Ozouer-le-Repos;152582;2022;70,0;1,9;4,4;65,9;conforme;19078;19078;53;157;984;Sans anomalie apparente;non
+77011;Aufferville;77;eau potable : ex_SIAEP_Nemours_StPierre;217222;2024;80,2;3,9;15,9;68,2;conforme;274422;5877;33;89;482;Non vérifié;non
+77012;Augers-en-Brie;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;1983;21;94;265;Non vérifié;non
+77013;Aulnoy;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;2709;21;94;362;Non vérifié;non
+77014;Avon;77;eau potable : DSP 12 Cnes;312614;2024;89,5;3,7;31,8;71,4;conforme;426420;117237;24;54;13651;Non vérifié;non
+77015;Baby;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;846;21;94;113;Non vérifié;non
+77016;Bagneaux-sur-Loing;77;eau potable : ex_SIAEP_Nemours_StPierre;217222;2024;80,2;3,9;15,9;68,2;conforme;274422;19144;33;89;1570;Non vérifié;non
+77018;Bailly-Romainvilliers;77;eau potable : 5 Communes;153004;2024;93,1;7,6;102,8;85,0;conforme;514993;96623;38;42;6980;Non vérifié;non
+77019;Balloy;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;2686;21;94;359;Non vérifié;non
+77020;Bannost-Villegagnon;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;4991;21;94;667;Non vérifié;non
+77021;Barbey;77;eau potable : secteur 1;214812;2024;73,3;7,0;19,1;68,8;conforme;625106;2544;46;148;153;Non vérifié;non
+77022;Barbizon;77;eau potable : DSP 12 Cnes;312614;2024;89,5;3,7;31,8;71,4;conforme;426420;10830;24;54;1261;Non vérifié;non
+77023;Barcy;77;eau potable : SMAEP TMM - Globalité;327234;2024;76,3;4,8;15,5;68,1;conforme;611290;5483;39;115;387;Non vérifié;non
+77024;Bassevelle;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;2799;21;94;374;Non vérifié;non
+77025;Bazoches-lès-Bray;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;6570;21;94;878;Non vérifié;non
+77026;Beauchery-Saint-Martin;77;eau potable : UDP 4 Beauchery-Saint-Martin;152595;2024;46,1;3,4;2,9;65,6;non conforme;21060;21060;150;431;384;Non vérifié;non
+77027;Beaumont-du-Gâtinais;77;eau potable;152598;2024;74,7;3,4;10,0;67,0;conforme;18615;18615;45;124;1129;Non vérifié;non
+77029;Beauvoir;77;eau potable : ex_SIAEP Beauvoir-Argentières;152945;2024;80,7;2,2;9,2;66,8;conforme;5035;1706;25;87;185;Non vérifié;non
+77030;Bellot;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;5814;21;94;777;Non vérifié;non
+77031;Bernay-Vilbert;77;eau potable : syndicat;152972;2024;73,7;4,4;12,4;67,5;conforme;140943;18531;51;147;1005;Non vérifié;non
+77032;Beton-Bazoches;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;6660;21;94;890;Non vérifié;non
+77033;Bezalles;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;1654;21;94;221;Non vérifié;non
+77034;Blandy;77;eau potable : ex_Siaep_Blandy-Chatillon-Moisenay-Sivry;152946;2024;68,5;3,5;7,7;66,5;conforme;70544;15489;56;168;763;Non vérifié;non
+77035;Blennes;77;eau potable : Chevry, Blennes, Diant, Lorrez, Vaux et Villemaréchal;152975;2023;76,0;2,9;9,1;66,8;conforme;119431;17178;86;226;546;Sans anomalie apparente;non
+77036;Boisdon;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;980;21;94;131;Non vérifié;non
+77037;Bois-le-Roi;77;eau potable : DSP 12 Cnes;312614;2024;89,5;3,7;31,8;71,4;conforme;426420;52147;24;54;6072;Non vérifié;non
+77038;Boissettes;77;eau potable : 5 Cnes;307034;2024;77,0;9,1;30,4;71,1;conforme;430101;7764;49;141;437;Non vérifié;non
+77039;Boissise-la-Bertrand;77;eau potable : Boissise-la-Bertrand;152605;2024;87,1;3,3;22,5;69,5;conforme;15104;15104;34;54;1206;Non vérifié;non
+77040;Boissise-le-Roi;77;eau potable : 5 Cnes;307034;2024;77,0;9,1;30,4;71,1;conforme;430101;70019;49;141;3941;Non vérifié;non
+77041;Boissy-aux-Cailles;77;eau potable : Sud Ouest (10 Cnes);273074;2024;77,7;2,7;9,4;66,9;conforme;151136;4238;43;107;272;Non vérifié;non
+77042;Boissy-le-Châtel;77;"eau potable : EST ""Boissy-Chauffry-Coulommiers""";326174;2024;69,2;10,0;22,3;69,5;non conforme;453330;57188;47;163;3346;Non vérifié;non
+77043;Boitron;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;2409;21;94;322;Non vérifié;non
+77044;Bombon;77;eau potable : Bombon;152609;2024;83,5;2,5;12,4;67,5;conforme;10366;10366;30;74;935;Non vérifié;non
+77045;Bougligny;77;eau potable;152611;2024;85,3;1,0;5,8;66,2;conforme;5957;5957;22;62;738;Non vérifié;non
+77046;Boulancourt;77;eau potable : ex_SMERB;152953;2024;76,2;2,2;6,9;66,4;conforme;39395;7803;61;116;350;Non vérifié;non
+77047;Bouleurs;77;eau potable : Territoire_SUD;152961;2024;76,7;4,6;15,2;68,0;conforme;374367;31077;49;196;1743;Non vérifié;non
+77048;Bourron-Marlotte;77;eau potable : DSP 12 Cnes;312614;2024;89,5;3,7;31,8;71,4;conforme;426420;23824;24;54;2774;Non vérifié;non
+77049;Boutigny;77;eau potable : Territoire_NORD;152949;2024;81,5;1,6;7,1;66,4;conforme;41265;8087;25;82;874;Non vérifié;non
+77050;Bransles;77;eau potable : principal;152978;2024;72,3;2,0;5,3;66,1;conforme;91900;10056;52;140;526;Non vérifié;non
+77051;Bray-sur-Seine;77;eau potable : UDBM 8 ex_siaep_Bray-sur-Seine;152995;2024;84,6;4,4;24,4;69,9;conforme;82275;45961;54;146;2344;Non vérifié;non
+77053;Brie-Comte-Robert;77;eau potable : Brie-Comte-Robert;152619;2024;76,5;11,9;38,6;72,7;conforme;299788;299788;43;113;19003;Non vérifié;non
+77054;La Brosse-Montceaux;77;eau potable : secteur 1;214812;2024;73,3;7,0;19,1;68,8;conforme;625106;12905;46;148;776;Non vérifié;non
+77055;Brou-sur-Chantereine;77;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;31461;17;43;5196;Non vérifié;non
+77056;Burcy;77;eau potable : ex_SIAEP_Burcy_Fromont_Rumont;152952;2024;85,2;0,8;4,9;66,0;conforme;3849;1143;21;60;150;Non vérifié;non
+77057;Bussières;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;4490;21;94;600;Non vérifié;non
+77058;Bussy-Saint-Georges;77;eau potable;152979;2024;96,5;4,7;128,2;85,0;conforme;735950;214358;21;59;27498;Non vérifié;non
+77059;Bussy-Saint-Martin;77;eau potable;152979;2024;96,5;4,7;128,2;85,0;conforme;735950;5753;21;59;738;Non vérifié;non
+77060;Buthiers;77;eau potable : ex_SMERB;152953;2024;76,2;2,2;6,9;66,4;conforme;39395;17658;61;116;792;Non vérifié;non
+77061;Cannes-Écluse;77;eau potable : secteur 2;152993;2024;69,0;5,5;12,2;67,4;conforme;198803;55381;55;167;2742;Non vérifié;non
+77062;Carnetin;77;eau potable;152979;2024;96,5;4,7;128,2;85,0;conforme;735950;3594;21;59;461;Non vérifié;non
+77063;La Celle-sur-Morin;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;9241;21;94;1235;Non vérifié;non
+77065;Cély;77;eau potable : DSP 12 Cnes;312614;2024;89,5;3,7;31,8;71,4;conforme;426420;10813;24;54;1259;Non vérifié;non
+77066;Cerneux;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;2035;21;94;272;Non vérifié;non
+77067;Cesson;77;eau potable : Régie de l'Eau;219484;2024;83,8;9,8;50,8;75,2;conforme;2739982;109501;27;70;11222;Non vérifié;non
+77068;Cessoy-en-Montois;77;eau potable : UDP14 ex_Siaep_plateau Est Montois;152983;2024;76,6;1,5;5,0;66,0;conforme;20482;2270;29;109;213;Non vérifié;non
+77069;Chailly-en-Bière;77;eau potable : Chailly;152625;2024;59,0;6,7;9,6;66,9;non conforme;61529;61529;78;254;2162;Non vérifié;non
+77070;Chailly-en-Brie;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;11793;21;94;1576;Non vérifié;non
+77071;Chaintreaux;77;eau potable : principal;152978;2024;72,3;2,0;5,3;66,1;conforme;91900;15696;52;140;821;Non vérifié;non
+77072;Chalautre-la-Grande;77;eau potable : UDP 5 Chalautre-la-Grande;152628;2024;77,2;1,7;5,8;66,2;conforme;10648;10648;45;177;644;Non vérifié;non
+77073;Chalautre-la-Petite;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;4048;21;94;541;Non vérifié;non
+77075;Chalifert;77;eau potable : Chanteloup, Chalifert, Ferrières, Lesches, Montevrain;222694;2024;92,4;3,7;44,6;73,9;conforme;122625;7443;13;30;1584;Non vérifié;non
+77076;Chalmaison;77;eau potable : UDP 18 Chalmaison;153064;2024;91,3;0,9;9,6;66,9;conforme;2993;2993;11;34;749;Non vérifié;non
+77077;Chambry;77;eau potable : SMAEP TMM - Globalité;327234;2024;76,3;4,8;15,5;68,1;conforme;611290;15074;39;115;1064;Non vérifié;non
+77078;Chamigny;77;eau potable : NORD (14 Cnes);152968;2024;80,0;4,1;16,4;68,3;conforme;364009;20731;38;109;1480;Non vérifié;non
+77079;Champagne-sur-Seine;77;eau potable;152954;2024;77,3;4,8;16,4;68,3;conforme;119802;85280;36;107;6497;Non vérifié;non
+77080;Champcenest;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;1534;21;94;205;Non vérifié;non
+77081;Champdeuil;77;eau potable : ex_SIAEP_Crisenoy-Champdeuil-Fouju;152962;2024;79,8;1,5;6,1;66,2;conforme;16770;6181;23;90;739;Non vérifié;non
+77082;Champeaux;77;eau potable : Champeaux;152636;2024;79,3;3,7;14,0;67,8;conforme;12506;12506;42;158;810;Non vérifié;non
+77083;Champs-sur-Marne;77;eau potable : 6 communes;152998;2024;95,3;6,0;122,9;85,0;conforme;520782;156933;16;43;27451;Non vérifié;non
+77084;Changis-sur-Marne;77;eau potable : NORD (14 Cnes);152968;2024;80,0;4,1;16,4;68,3;conforme;364009;18700;38;109;1335;Non vérifié;non
+77085;Chanteloup-en-Brie;77;eau potable : Chanteloup, Chalifert, Ferrières, Lesches, Montevrain;222694;2024;92,4;3,7;44,6;73,9;conforme;122625;19407;13;30;4130;Non vérifié;non
+77086;La Chapelle-Gauthier;77;eau potable;152638;2024;81,7;2,6;11,5;67,3;conforme;11796;11796;23;83;1400;Non vérifié;non
+77087;La Chapelle-Iger;77;eau potable : la Chapelle-Iger;152640;2024;91,0;0,4;3,4;65,7;conforme;860;860;12;46;191;Non vérifié;non
+77088;La Chapelle-la-Reine;77;eau potable : DSP 12 Cnes;312614;2024;89,5;3,7;31,8;71,4;conforme;426420;18636;24;54;2170;Non vérifié;non
+77089;La Chapelle-Rablais;77;eau potable;152955;2020;84,4;1,0;5,6;66,1;conforme;9162;7155;21;66;913;Sans anomalie apparente;non
+77090;La Chapelle-Saint-Sulpice;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;1788;21;94;239;Non vérifié;non
+77091;Les Chapelles-Bourbon;77;eau potable : syndicat;152972;2024;73,7;4,4;12,4;67,5;conforme;140943;8463;51;147;459;Non vérifié;non
+77093;La Chapelle-Moutils;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;2993;21;94;400;Non vérifié;non
+77094;Charmentray;77;eau potable : SMAEP TMM - Globalité;327234;2024;76,3;4,8;15,5;68,1;conforme;611290;4123;39;115;291;Non vérifié;non
+77095;Charny;77;eau potable : SMAEP TMM - Globalité;327234;2024;76,3;4,8;15,5;68,1;conforme;611290;22455;39;115;1585;Non vérifié;non
+77096;Chartrettes;77;eau potable : DSP 12 Cnes;312614;2024;89,5;3,7;31,8;71,4;conforme;426420;22613;24;54;2633;Non vérifié;non
+77097;Chartronges;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;2275;21;94;304;Non vérifié;non
+77098;Châteaubleau;77;eau potable;152650;2024;87,4;1,3;8,7;66,7;conforme;2102;2102;16;54;363;Non vérifié;non
+77099;Château-Landon;77;eau potable;152651;2024;77,5;2,3;7,8;66,6;conforme;43528;43528;38;108;3149;Non vérifié;non
+77100;Le Châtelet-en-Brie;77;eau potable : Fontaine-le-Port;152711;2024;80,8;2,2;9,3;66,9;conforme;12398;6632;4;93;4207;Non vérifié;non
+77101;Châtenay-sur-Seine;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;7849;21;94;1049;Non vérifié;non
+77102;Châtenoy;77;eau potable : ex_SIAEP_Nemours_StPierre;217222;2024;80,2;3,9;15,9;68,2;conforme;274422;1890;33;89;155;Non vérifié;non
+77103;Châtillon-la-Borde;77;eau potable : ex_Siaep_Blandy-Chatillon-Moisenay-Sivry;152946;2024;68,5;3,5;7,7;66,5;conforme;70544;4588;56;168;226;Non vérifié;non
+77104;Châtres;77;eau potable : syndicat;152972;2024;73,7;4,4;12,4;67,5;conforme;140943;13165;51;147;714;Non vérifié;non
+77106;Chauffry;77;"eau potable : EST ""Boissy-Chauffry-Coulommiers""";326174;2024;69,2;10,0;22,3;69,5;non conforme;453330;16989;47;163;994;Non vérifié;non
+77107;Chaumes-en-Brie;77;eau potable : Chaumes;152658;2024;74,3;5,4;15,6;68,1;conforme;49925;49925;39;126;3503;Non vérifié;non
+77108;Chelles;77;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;330720;17;43;54620;Non vérifié;non
+77109;Chenoise-Cucharmoy;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;12025;21;94;1607;Non vérifié;non
+77110;Chenou;77;eau potable;153028;2024;76,7;1,5;5,0;66,0;conforme;11826;5506;52;108;291;Non vérifié;non
+77111;Chessy;77;eau potable : 5 Communes;153004;2024;93,1;7,6;102,8;85,0;conforme;514993;107572;38;42;7771;Non vérifié;non
+77112;Chevrainvilliers;77;eau potable : ex_SIAEP_Nemours_StPierre;217222;2024;80,2;3,9;15,9;68,2;conforme;274422;3109;33;89;255;Non vérifié;non
+77113;Chevru;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;7573;21;94;1012;Non vérifié;non
+77114;Chevry-Cossigny;77;eau potable : Chevry-Cossigny et Férolles-Attilly;152958;2024;87,4;2,6;17,8;68,6;conforme;34620;26503;18;53;4075;Non vérifié;non
+77115;Chevry-en-Sereine;77;eau potable : Chevry, Blennes, Diant, Lorrez, Vaux et Villemaréchal;152975;2023;76,0;2,9;9,1;66,8;conforme;119431;15668;86;226;498;Sans anomalie apparente;non
+77116;Choisy-en-Brie;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;10132;21;94;1354;Non vérifié;non
+77117;Citry;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;6899;21;94;922;Non vérifié;non
+77118;Claye-Souilly;77;eau potable : Contrat 1;182968;2024;92,1;11,8;138,7;85,0;conforme;1373373;226303;46;113;13353;Non vérifié;non
+77119;Clos-Fontaine;77;eau potable;152944;2024;80,9;2,5;10,7;67,1;conforme;56575;4315;48;109;244;Non vérifié;non
+77120;Cocherel;77;eau potable : 21 communes;153037;2024;76,2;3,1;10,0;67,0;conforme;243465;8872;39;122;618;Non vérifié;non
+77121;Collégien;77;eau potable;152979;2024;96,5;4,7;128,2;85,0;conforme;735950;26146;21;59;3354;Non vérifié;non
+77122;Combs-la-Ville;77;eau potable : CA SENART 77;153002;2024;93,1;4,2;56,6;76,3;conforme;246046;130608;15;27;23350;Non vérifié;non
+77123;Compans;77;eau potable : Contrat 1;182968;2024;92,1;11,8;138,7;85,0;conforme;1373373;12779;46;113;754;Non vérifié;non
+77124;Conches-sur-Gondoire;77;eau potable;152979;2024;96,5;4,7;128,2;85,0;conforme;735950;13728;21;59;1761;Non vérifié;non
+77125;Condé-Sainte-Libiaire;77;eau potable : SMAEP TMM - Globalité;327234;2024;76,3;4,8;15,5;68,1;conforme;611290;21250;39;115;1500;Non vérifié;non
+77126;Congis-sur-Thérouanne;77;eau potable : 21 communes;153037;2024;76,2;3,1;10,0;67,0;conforme;243465;25439;39;122;1772;Non vérifié;non
+77127;Coubert;77;eau potable : TNO;262074;2024;76,8;3,6;12,0;67,4;conforme;190346;26037;36;113;2005;Non vérifié;non
+77128;Couilly-Pont-aux-Dames;77;eau potable : SMAEP TMM - Globalité;327234;2024;76,3;4,8;15,5;68,1;conforme;611290;29241;39;115;2064;Non vérifié;non
+77129;Coulombs-en-Valois;77;eau potable : 21 communes;153037;2024;76,2;3,1;10,0;67,0;conforme;243465;8269;39;122;576;Non vérifié;non
+77130;Coulommes;77;eau potable : Territoire_SUD;152961;2024;76,7;4,6;15,2;68,0;conforme;374367;9664;49;196;542;Non vérifié;non
+77131;Coulommiers;77;"eau potable : EST ""Boissy-Chauffry-Coulommiers""";326174;2024;69,2;10,0;22,3;69,5;non conforme;453330;279853;47;163;16374;Non vérifié;non
+77132;Coupvray;77;eau potable : 5 Communes;153004;2024;93,1;7,6;102,8;85,0;conforme;514993;42442;38;42;3066;Non vérifié;non
+77133;Courcelles-en-Bassée;77;eau potable : secteur 1;214812;2024;73,3;7,0;19,1;68,8;conforme;625106;3709;46;148;223;Non vérifié;non
+77134;Courchamp;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;1130;21;94;151;Non vérifié;non
+77135;Courpalay;77;eau potable : Courpalay;152670;2024;89,7;1,7;15,2;68,0;conforme;12354;12354;21;76;1610;Non vérifié;non
+77136;Courquetaine;77;eau potable : SMIAEP Région de Tournan;152992;2024;82,0;5,2;23,5;69,7;conforme;237914;2078;31;82;184;Non vérifié;non
+77137;Courtacon;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;1833;21;94;245;Non vérifié;non
+77138;Courtomer;77;eau potable : Courtomer;152673;2024;94,9;0,4;8,4;66,7;conforme;1094;1094;5;17;591;Non vérifié;non
+77139;Courtry;77;eau potable;152979;2024;96,5;4,7;128,2;85,0;conforme;735950;57140;21;59;7330;Non vérifié;non
+77140;Coutençon;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;1946;21;94;260;Non vérifié;non
+77141;Coutevroult;77;"eau potable : OUEST ""Coutevroult et Villiers/Morin""";152960;2024;72,5;5,3;14,0;67,8;conforme;52657;19114;44;145;1187;Non vérifié;non
+77142;Crécy-la-Chapelle;77;eau potable : Territoire_SUD;152961;2024;76,7;4,6;15,2;68,0;conforme;374367;88666;49;196;4973;Non vérifié;non
+77143;Crégy-lès-Meaux;77;eau potable : Crégy-lès-Meaux;152680;2024;73,4;9,3;25,7;70,1;conforme;67890;67890;34;132;5446;Non vérifié;non
+77144;Crèvecoeur-en-Brie;77;eau potable : syndicat;152972;2024;73,7;4,4;12,4;67,5;conforme;140943;8058;51;147;437;Non vérifié;non
+77145;Crisenoy;77;eau potable : ex_SIAEP_Crisenoy-Champdeuil-Fouju;152962;2024;79,8;1,5;6,1;66,2;conforme;16770;5110;23;90;611;Non vérifié;non
+77146;Croissy-Beaubourg;77;eau potable : 6 communes;152998;2024;95,3;6,0;122,9;85,0;conforme;520782;11537;16;43;2018;Non vérifié;non
+77147;La Croix-en-Brie;77;eau potable;152683;2024;56,9;3,6;4,7;65,9;non conforme;22246;22246;89;280;681;Non vérifié;non
+77148;Crouy-sur-Ourcq;77;eau potable : 21 communes;153037;2024;76,2;3,1;10,0;67,0;conforme;243465;25999;39;122;1811;Non vérifié;non
+77150;Cuisy;77;eau potable : 24 Cnes;152971;2024;83,0;4,5;22,0;69,4;conforme;546197;5233;30;80;476;Non vérifié;non
+77151;Dagny;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;2282;21;94;305;Non vérifié;non
+77152;Dammarie-les-Lys;77;eau potable : Melun-Dammarie;214254;2024;91,3;12,8;134,6;85,0;conforme;1145574;388024;45;114;23559;Non vérifié;non
+77153;Dammartin-en-Goële;77;eau potable : 24 Cnes;152971;2024;83,0;4,5;22,0;69,4;conforme;546197;130904;30;80;11907;Non vérifié;non
+77154;Dammartin-sur-Tigeaux;77;eau potable : Territoire_SUD;152961;2024;76,7;4,6;15,2;68,0;conforme;374367;22822;49;196;1280;Non vérifié;non
+77155;Dampmart;77;eau potable;152979;2024;96,5;4,7;128,2;85,0;conforme;735950;28664;21;59;3677;Non vérifié;non
+77156;Darvault;77;eau potable : ex_SIAEP_Nemours_StPierre;217222;2024;80,2;3,9;15,9;68,2;conforme;274422;12035;33;89;987;Non vérifié;non
+77157;Dhuisy;77;eau potable : 21 communes;153037;2024;76,2;3,1;10,0;67,0;conforme;243465;4795;39;122;334;Non vérifié;non
+77158;Diant;77;eau potable : Chevry, Blennes, Diant, Lorrez, Vaux et Villemaréchal;152975;2023;76,0;2,9;9,1;66,8;conforme;119431;6104;86;226;194;Sans anomalie apparente;non
+77159;Donnemarie-Dontilly;77;eau potable : UDBM 8 Donnemarie-Dontilly;188337;2024;74,7;3,7;11,0;67,2;conforme;42271;42271;43;122;2706;Non vérifié;non
+77161;Dormelles;77;eau potable : principal;152986;2024;76,2;3,6;11,6;67,3;conforme;81468;18528;62;192;816;Non vérifié;non
+77162;Doue;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;8396;21;94;1122;Non vérifié;non
+77163;Douy-la-Ramée;77;eau potable : 21 communes;153037;2024;76,2;3,1;10,0;67,0;conforme;243465;5671;39;122;395;Non vérifié;non
+77164;Échouboulains;77;eau potable : Sud (4Cnes);305634;2024;80,5;3,3;13,7;67,7;conforme;48060;8957;44;137;555;Non vérifié;non
+77165;Les Écrennes;77;eau potable : Écrennes;152691;2024;85,8;0,7;4,3;65,9;conforme;4433;4433;19;60;628;Non vérifié;non
+77167;Égligny;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;2320;21;94;310;Non vérifié;non
+77168;Égreville;77;eau potable : principal;152978;2024;72,3;2,0;5,3;66,1;conforme;91900;41792;52;140;2186;Non vérifié;non
+77169;Émerainville;77;eau potable : 6 communes;152998;2024;95,3;6,0;122,9;85,0;conforme;520782;43963;16;43;7690;Non vérifié;non
+77171;Esbly;77;eau potable : SMAEP TMM - Globalité;327234;2024;76,3;4,8;15,5;68,1;conforme;611290;86022;39;115;6072;Non vérifié;non
+77172;Esmans;77;eau potable : secteur 2;152993;2024;69,0;5,5;12,2;67,4;conforme;198803;18864;55;167;934;Non vérifié;non
+77173;Étrépilly;77;eau potable : 21 communes;153037;2024;76,2;3,1;10,0;67,0;conforme;243465;11557;39;122;805;Non vérifié;non
+77174;Everly;77;eau potable : UDBM10 CCBM5;299054;2024;87,0;1,6;10,5;67,1;conforme;27921;4610;22;64;566;Non vérifié;non
+77175;Évry-Grégy-sur-Yerre;77;eau potable : TNO;262074;2024;76,8;3,6;12,0;67,4;conforme;190346;43126;36;113;3321;Non vérifié;non
+77176;Faremoutiers;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;22875;21;94;3057;Non vérifié;non
+77177;Favières;77;eau potable : syndicat;152951;2024;82,4;2,7;12,6;67,5;conforme;59317;13242;28;78;1316;Non vérifié;non
+77178;Faÿ-lès-Nemours;77;eau potable : ex_SIAEP_Nemours_StPierre;217222;2024;80,2;3,9;15,9;68,2;conforme;274422;6390;33;89;524;Non vérifié;non
+77179;Féricy;77;eau potable : Sud (4Cnes);305634;2024;80,5;3,3;13,7;67,7;conforme;48060;10086;44;137;625;Non vérifié;non
+77180;Férolles-Attilly;77;eau potable : Chevry-Cossigny et Férolles-Attilly;152958;2024;87,4;2,6;17,8;68,6;conforme;34620;8117;18;53;1248;Non vérifié;non
+77181;Ferrières-en-Brie;77;eau potable : Chanteloup, Chalifert, Ferrières, Lesches, Montevrain;222694;2024;92,4;3,7;44,6;73,9;conforme;122625;18477;13;30;3932;Non vérifié;non
+77182;La Ferté-Gaucher;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;35491;21;94;4743;Non vérifié;non
+77183;La Ferté-sous-Jouarre;77;eau potable : NORD (14 Cnes);152968;2024;80,0;4,1;16,4;68,3;conforme;364009;143631;38;109;10254;Non vérifié;non
+77184;Flagy;77;eau potable : principal;152986;2024;76,2;3,6;11,6;67,3;conforme;81468;13260;62;192;584;Non vérifié;non
+77185;Fleury-en-Bière;77;eau potable : Sud Ouest (10 Cnes);273074;2024;77,7;2,7;9,4;66,9;conforme;151136;10160;43;107;652;Non vérifié;non
+77186;Fontainebleau;77;eau potable : DSP 12 Cnes;312614;2024;89,5;3,7;31,8;71,4;conforme;426420;133830;24;54;15583;Non vérifié;non
+77187;Fontaine-Fourches;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;4310;21;94;576;Non vérifié;non
+77188;Fontaine-le-Port;77;eau potable : Fontaine-le-Port;152711;2024;80,8;2,2;9,3;66,9;conforme;12398;1616;4;93;1025;Non vérifié;non
+77190;Fontains;77;eau potable;152844;2024;67,7;1,7;3,6;65,7;conforme;14886;3490;37;173;256;Non vérifié;non
+77191;Fontenailles;77;eau potable;152944;2024;80,9;2,5;10,7;67,1;conforme;56575;19613;48;109;1109;Non vérifié;non
+77192;Fontenay-Trésigny;77;eau potable : Fontenay-Trésigny;152714;2024;75,1;6,0;18,0;68,6;conforme;104594;79440;36;122;5994;Non vérifié;non
+77193;Forfry;77;eau potable : SMAEP TMM - Globalité;327234;2024;76,3;4,8;15,5;68,1;conforme;611290;3372;39;115;238;Non vérifié;non
+77194;Forges;77;eau potable : secteur 1;214812;2024;73,3;7,0;19,1;68,8;conforme;625106;7367;46;148;443;Non vérifié;non
+77195;Fouju;77;eau potable : ex_SIAEP_Crisenoy-Champdeuil-Fouju;152962;2024;79,8;1,5;6,1;66,2;conforme;16770;5478;23;90;655;Non vérifié;non
+77196;Fresnes-sur-Marne;77;eau potable : Contrat 1;182968;2024;92,1;11,8;138,7;85,0;conforme;1373373;16066;46;113;948;Non vérifié;non
+77197;Frétoy;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;1295;21;94;173;Non vérifié;non
+77198;Fromont;77;eau potable : ex_SIAEP_Burcy_Fromont_Rumont;152952;2024;85,2;0,8;4,9;66,0;conforme;3849;1753;21;60;230;Non vérifié;non
+77199;Fublaines;77;eau potable : Territoire_NORD;152949;2024;81,5;1,6;7,1;66,4;conforme;41265;12676;25;82;1370;Non vérifié;non
+77200;Garentreville;77;eau potable : Garentreville;152718;2024;89,2;1,1;8,8;66,8;conforme;675;675;15;45;123;Non vérifié;non
+77201;Gastins;77;eau potable;152720;2023;58,1;4,3;6,0;66,2;non conforme;22146;22146;82;268;741;Sans anomalie apparente;non
+77202;La Genevraye;77;eau potable : Groupé (4 cnes hors VlS);214075;2024;87,7;2,6;18,3;68,7;conforme;115066;4962;16;54;840;Non vérifié;non
+77203;Germigny-l'Évêque;77;eau potable : Germigny - Varreddes;152966;2024;85,0;3,0;17,0;68,4;conforme;33255;12777;26;64;1352;Non vérifié;non
+77204;Germigny-sous-Coulombs;77;eau potable : 21 communes;153037;2024;76,2;3,1;10,0;67,0;conforme;243465;2886;39;122;201;Non vérifié;non
+77205;Gesvres-le-Chapitre;77;eau potable : SMAEP TMM - Globalité;327234;2024;76,3;4,8;15,5;68,1;conforme;611290;2054;39;115;145;Non vérifié;non
+77206;Giremoutiers;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;1407;21;94;188;Non vérifié;non
+77207;Gironville;77;eau potable;152935;2024;93,0;0,6;7,8;66,6;conforme;1402;748;12;47;166;Non vérifié;non
+77208;Gouaix;77;eau potable : UDBM10 CCBM5;299054;2024;87,0;1,6;10,5;67,1;conforme;27921;10580;22;64;1299;Non vérifié;non
+77209;Gouvernes;77;eau potable;152979;2024;96,5;4,7;128,2;85,0;conforme;735950;9175;21;59;1177;Non vérifié;non
+77210;La Grande-Paroisse;77;eau potable : secteur 1;214812;2024;73,3;7,0;19,1;68,8;conforme;625106;48112;46;148;2893;Non vérifié;non
+77211;Grandpuits-Bailly-Carrois;77;eau potable;152944;2024;80,9;2,5;10,7;67,1;conforme;56575;17844;48;109;1009;Non vérifié;non
+77212;Gravon;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;1167;21;94;156;Non vérifié;non
+77214;Gressy;77;eau potable : SMAEP TMM - Globalité;327234;2024;76,3;4,8;15,5;68,1;conforme;611290;11433;39;115;807;Non vérifié;non
+77215;Gretz-Armainvilliers;77;eau potable : SMIAEP Région de Tournan;152992;2024;82,0;5,2;23,5;69,7;conforme;237914;99686;31;82;8825;Non vérifié;non
+77216;Grez-sur-Loing;77;eau potable : ex_SIAEP_Grez_Moncourt;152965;2024;82,8;3,5;16,7;68,3;conforme;45453;19588;37;115;1432;Non vérifié;non
+77217;Grisy-Suisnes;77;eau potable : TNO;262074;2024;76,8;3,6;12,0;67,4;conforme;190346;38282;36;113;2948;Non vérifié;non
+77218;Grisy-sur-Seine;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;920;21;94;123;Non vérifié;non
+77219;Guérard;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;20114;21;94;2688;Non vérifié;non
+77220;Guercheville;77;eau potable : Guercheville;152735;2024;82,4;2,9;13,4;67,7;conforme;2689;2689;27;79;268;Non vérifié;non
+77221;Guermantes;77;eau potable;152979;2024;96,5;4,7;128,2;85,0;conforme;735950;8988;21;59;1153;Non vérifié;non
+77222;Guignes;77;eau potable : Guignes;152737;2024;87,7;3,6;25,5;70,1;conforme;26609;26609;16;51;4448;Non vérifié;non
+77223;Gurcy-le-Châtel;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;4183;21;94;559;Non vérifié;non
+77224;Hautefeuille;77;"eau potable : EST ""Hautefeuille""";152739;2024;84,5;2,7;14,8;68,0;conforme;5085;5085;55;67;253;Non vérifié;non
+77225;La Haute-Maison;77;eau potable : Territoire_SUD;152961;2024;76,7;4,6;15,2;68,0;conforme;374367;6276;49;196;352;Non vérifié;non
+77226;Héricy;77;eau potable : Héricy-Samoreau-Vulaines/Seine;153093;2024;75,6;6,5;20,1;69,0;conforme;176419;58035;63;197;2507;Non vérifié;non
+77227;Hermé;77;eau potable : UDBM 7 Hermé;152742;2024;79,9;2,0;8,0;66,6;conforme;8169;3530;15;92;647;Non vérifié;non
+77228;Hondevilliers;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;1916;21;94;256;Non vérifié;non
+77229;La Houssaye-en-Brie;77;eau potable : syndicat;152972;2024;73,7;4,4;12,4;67,5;conforme;140943;31917;51;147;1731;Non vérifié;non
+77230;Ichy;77;eau potable;152743;2024;86,5;1,4;8,7;66,7;conforme;1022;1022;18;59;157;Non vérifié;non
+77231;Isles-les-Meldeuses;77;eau potable : 21 communes;153037;2024;76,2;3,1;10,0;67,0;conforme;243465;10911;39;122;760;Non vérifié;non
+77232;Isles-lès-Villenoy;77;eau potable : SMAEP TMM - Globalité;327234;2024;76,3;4,8;15,5;68,1;conforme;611290;15995;39;115;1129;Non vérifié;non
+77233;Iverny;77;eau potable : SMAEP TMM - Globalité;327234;2024;76,3;4,8;15,5;68,1;conforme;611290;8755;39;115;618;Non vérifié;non
+77234;Jablines;77;eau potable : Contrat 1;182968;2024;92,1;11,8;138,7;85,0;conforme;1373373;10965;46;113;647;Non vérifié;non
+77235;Jaignes;77;eau potable : 21 communes;153037;2024;76,2;3,1;10,0;67,0;conforme;243465;4623;39;122;322;Non vérifié;non
+77236;Jaulnes;77;eau potable : UDBM 8 ex_siaep_Bray-sur-Seine;152995;2024;84,6;4,4;24,4;69,9;conforme;82275;6745;54;146;344;Non vérifié;non
+77237;Jossigny;77;eau potable;152979;2024;96,5;4,7;128,2;85,0;conforme;735950;5067;21;59;650;Non vérifié;non
+77238;Jouarre;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;31585;21;94;4221;Non vérifié;non
+77239;Jouy-le-Châtel;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;12197;21;94;1630;Non vérifié;non
+77240;Jouy-sur-Morin;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;16687;21;94;2230;Non vérifié;non
+77241;Juilly;77;eau potable : 24 Cnes;152971;2024;83,0;4,5;22,0;69,4;conforme;546197;22383;30;80;2036;Non vérifié;non
+77242;Jutigny;77;eau potable : UDP14 ex_Siaep_plateau Est Montois;152983;2024;76,6;1,5;5,0;66,0;conforme;20482;5829;29;109;547;Non vérifié;non
+77243;Lagny-sur-Marne;77;eau potable;152979;2024;96,5;4,7;128,2;85,0;conforme;735950;167297;21;59;21461;Non vérifié;non
+77244;Larchant;77;eau potable : Larchant;152753;2024;89,0;0,9;7,3;66,5;conforme;4928;4928;18;45;730;Non vérifié;non
+77245;Laval-en-Brie;77;eau potable : secteur 1;214812;2024;73,3;7,0;19,1;68,8;conforme;625106;6852;46;148;412;Non vérifié;non
+77246;Léchelle;77;eau potable : UDP18 Léchelle;152755;2024;56,7;2,9;3,9;65,8;non conforme;18079;18079;87;274;572;Non vérifié;non
+77247;Lescherolles;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;3472;21;94;464;Non vérifié;non
+77248;Lesches;77;eau potable : SMAEP TMM - Globalité;327234;2024;76,3;4,8;15,5;68,1;conforme;611290;10809;39;115;763;Non vérifié;non
+77249;Lésigny;77;eau potable;153055;2024;86,1;2,9;18,3;68,7;conforme;53422;53422;21;66;6923;Non vérifié;non
+77250;Leudon-en-Brie;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;1257;21;94;168;Non vérifié;non
+77251;Lieusaint;77;eau potable : Régie de l'Eau;219484;2024;83,8;9,8;50,8;75,2;conforme;2739982;136773;27;70;14017;Non vérifié;non
+77252;Limoges-Fourches;77;eau potable : TNO;262074;2024;76,8;3,6;12,0;67,4;conforme;190346;8116;36;113;625;Non vérifié;non
+77253;Lissy;77;eau potable : TNO;262074;2024;76,8;3,6;12,0;67,4;conforme;190346;4571;36;113;352;Non vérifié;non
+77254;Liverdy-en-Brie;77;eau potable : SMIAEP Région de Tournan;152992;2024;82,0;5,2;23,5;69,7;conforme;237914;15927;31;82;1410;Non vérifié;non
+77255;Livry-sur-Seine;77;eau potable : Livry-sur-Seine;152760;2024;84,1;4,6;24,1;69,8;conforme;19342;19342;24;70;2226;Non vérifié;non
+77256;Lizines;77;eau potable : UDP14 ex_Siaep_plateau Est Montois;152983;2024;76,6;1,5;5,0;66,0;conforme;20482;1854;29;109;174;Non vérifié;non
+77257;Lizy-sur-Ourcq;77;eau potable : 21 communes;153037;2024;76,2;3,1;10,0;67,0;conforme;243465;52070;39;122;3627;Non vérifié;non
+77258;Lognes;77;eau potable : 6 communes;152998;2024;95,3;6,0;122,9;85,0;conforme;520782;86176;16;43;15074;Non vérifié;non
+77259;Longperrier;77;eau potable : 24 Cnes;152971;2024;83,0;4,5;22,0;69,4;conforme;546197;34653;30;80;3152;Non vérifié;non
+77260;Longueville;77;eau potable : UDP13 Longueville;188345;2024;80,0;3,2;12,8;67,6;conforme;18256;18256;28;91;1804;Non vérifié;non
+77261;Lorrez-le-Bocage-Préaux;77;eau potable : Chevry, Blennes, Diant, Lorrez, Vaux et Villemaréchal;152975;2023;76,0;2,9;9,1;66,8;conforme;119431;40083;86;226;1274;Sans anomalie apparente;non
+77262;Louan-Villegruis-Fontaine;77;eau potable : UDP15+16 Louan-Villegruis-Fontaine;152762;2024;79,8;0,9;3,4;65,7;conforme;7588;7588;42;96;491;Non vérifié;non
+77263;Luisetaines;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;1714;21;94;229;Non vérifié;non
+77264;Lumigny-Nesles-Ormeaux;77;eau potable : SIAEP région de Touquin;152991;2024;67,7;5,7;12,1;67,4;conforme;74315;29264;55;246;1468;Non vérifié;non
+77265;Luzancy;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;7752;21;94;1036;Non vérifié;non
+77266;Machault;77;eau potable : Sud (4Cnes);305634;2024;80,5;3,3;13,7;67,7;conforme;48060;13153;44;137;815;Non vérifié;non
+77267;La Madeleine-sur-Loing;77;eau potable;152766;2024;83,2;2,3;11,5;67,3;conforme;6750;6750;53;136;347;Non vérifié;non
+77268;Magny-le-Hongre;77;eau potable : 5 Communes;153004;2024;93,1;7,6;102,8;85,0;conforme;514993;125416;38;42;9060;Non vérifié;non
+77269;Maincy;77;eau potable : Maincy;188348;2024;71,6;5,5;13,9;67,8;conforme;26640;26640;40;145;1828;Non vérifié;non
+77270;Maisoncelles-en-Brie;77;eau potable : Territoire_SUD;152961;2024;76,7;4,6;15,2;68,0;conforme;374367;17419;49;196;977;Non vérifié;non
+77271;Maisoncelles-en-Gâtinais;77;eau potable;152769;2024;48,8;5,0;4,8;66,0;non conforme;5238;5238;102;381;141;Non vérifié;non
+77272;Maison-Rouge;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;6585;21;94;880;Non vérifié;non
+77273;Marchémoret;77;eau potable : 24 Cnes;152971;2024;83,0;4,5;22,0;69,4;conforme;546197;7245;30;80;659;Non vérifié;non
+77274;Marcilly;77;eau potable : SMAEP TMM - Globalité;327234;2024;76,3;4,8;15,5;68,1;conforme;611290;6928;39;115;489;Non vérifié;non
+77275;Les Marêts;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;1137;21;94;152;Non vérifié;non
+77276;Mareuil-lès-Meaux;77;eau potable : SMAEP TMM - Globalité;327234;2024;76,3;4,8;15,5;68,1;conforme;611290;47388;39;115;3345;Non vérifié;non
+77277;Marles-en-Brie;77;eau potable : syndicat;152972;2024;73,7;4,4;12,4;67,5;conforme;140943;34996;51;147;1898;Non vérifié;non
+77278;Marolles-en-Brie;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;3083;21;94;412;Non vérifié;non
+77279;Marolles-sur-Seine;77;eau potable : secteur 1;214812;2024;73,3;7,0;19,1;68,8;conforme;625106;29502;46;148;1774;Non vérifié;non
+77280;Mary-sur-Marne;77;eau potable : 21 communes;153037;2024;76,2;3,1;10,0;67,0;conforme;243465;16581;39;122;1155;Non vérifié;non
+77281;Mauperthuis;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;3704;21;94;495;Non vérifié;non
+77282;Mauregard;77;eau potable : 24 Cnes;152971;2024;83,0;4,5;22,0;69,4;conforme;546197;3749;30;80;341;Non vérifié;non
+77283;May-en-Multien;77;eau potable : 21 communes;153037;2024;76,2;3,1;10,0;67,0;conforme;243465;12590;39;122;877;Non vérifié;non
+77284;Meaux;77;eau potable : Régie;326914;2024;92,5;6,2;77,3;80,5;conforme;435130;385608;19;39;56905;Non vérifié;non
+77285;Le Mée-sur-Seine;77;eau potable : Le Mee-sur-Seine;152777;2024;88,4;8,1;62,0;77,4;conforme;140168;140168;20;51;19527;Non vérifié;non
+77286;Meigneux;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;1766;21;94;236;Non vérifié;non
+77287;Meilleray;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;3771;21;94;504;Non vérifié;non
+77288;Melun;77;eau potable : Melun-Dammarie;214254;2024;91,3;12,8;134,6;85,0;conforme;1145574;757551;45;114;45995;Non vérifié;non
+77289;Melz-sur-Seine;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;2582;21;94;345;Non vérifié;non
+77290;Méry-sur-Marne;77;eau potable : NORD (14 Cnes);152968;2024;80,0;4,1;16,4;68,3;conforme;364009;9511;38;109;679;Non vérifié;non
+77291;Le Mesnil-Amelot;77;eau potable : 24 Cnes;152971;2024;83,0;4,5;22,0;69,4;conforme;546197;10906;30;80;992;Non vérifié;non
+77292;Messy;77;eau potable : SMAEP TMM - Globalité;327234;2024;76,3;4,8;15,5;68,1;conforme;611290;17270;39;115;1219;Non vérifié;non
+77293;Misy-sur-Yonne;77;eau potable : secteur 1;214812;2024;73,3;7,0;19,1;68,8;conforme;625106;13870;46;148;834;Non vérifié;non
+77294;Mitry-Mory;77;eau potable : Contrat 1;182968;2024;92,1;11,8;138,7;85,0;conforme;1373373;346682;46;113;20456;Non vérifié;non
+77295;Moisenay;77;eau potable : ex_Siaep_Blandy-Chatillon-Moisenay-Sivry;152946;2024;68,5;3,5;7,7;66,5;conforme;70544;27649;56;168;1362;Non vérifié;non
+77296;Moissy-Cramayel;77;eau potable : CA SENART 77;153002;2024;93,1;4,2;56,6;76,3;conforme;246046;103541;15;27;18511;Non vérifié;non
+77297;Mondreville;77;eau potable;153028;2024;76,7;1,5;5,0;66,0;conforme;11826;6320;52;108;334;Non vérifié;non
+77298;Mons-en-Montois;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;3397;21;94;454;Non vérifié;non
+77300;Montceaux-lès-Meaux;77;eau potable : Territoire_NORD;152949;2024;81,5;1,6;7,1;66,4;conforme;41265;6190;25;82;669;Non vérifié;non
+77301;Montceaux-lès-Provins;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;2394;21;94;320;Non vérifié;non
+77302;Moncourt-Fromonville;77;eau potable : ex_SIAEP_Grez_Moncourt;152965;2024;82,8;3,5;16,7;68,3;conforme;45453;25866;37;115;1891;Non vérifié;non
+77303;Montdauphin;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;1758;21;94;235;Non vérifié;non
+77304;Montenils;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;254;21;94;34;Non vérifié;non
+77305;Montereau-Fault-Yonne;77;eau potable : secteur 1;214812;2024;73,3;7,0;19,1;68,8;conforme;625106;370510;46;148;22279;Non vérifié;non
+77306;Montereau-sur-le-Jard;77;eau potable : DSP Est;334314;2024;75,8;7,0;22,0;69,4;conforme;135364;7392;41;117;499;Non vérifié;non
+77307;Montévrain;77;eau potable : Chanteloup, Chalifert, Ferrières, Lesches, Montevrain;222694;2024;92,4;3,7;44,6;73,9;conforme;122625;73713;13;30;15687;Non vérifié;non
+77308;Montgé-en-Goële;77;eau potable : 24 Cnes;152971;2024;83,0;4,5;22,0;69,4;conforme;546197;7883;30;80;717;Non vérifié;non
+77309;Monthyon;77;eau potable : SMAEP TMM - Globalité;327234;2024;76,3;4,8;15,5;68,1;conforme;611290;24877;39;115;1756;Non vérifié;non
+77310;Montigny-le-Guesdier;77;eau potable : UDBM 9 Montigny-le-Guesdier;152788;2024;93,4;0,9;13,1;67,6;conforme;1117;1117;10;25;295;Non vérifié;non
+77311;Montigny-Lencoup;77;eau potable : UDBM15 Montigny-Lencoup;188353;2024;87,6;1,8;12,5;67,5;conforme;13285;9411;19;85;1358;Non vérifié;non
+77312;Montigny-sur-Loing;77;eau potable : Groupé (4 cnes hors VlS);214075;2024;87,7;2,6;18,3;68,7;conforme;115066;15765;16;54;2669;Non vérifié;non
+77313;Montmachoux;77;eau potable : secteur 2;152993;2024;69,0;5,5;12,2;67,4;conforme;198803;4302;55;167;213;Non vérifié;non
+77314;Montolivet;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;1923;21;94;257;Non vérifié;non
+77315;Montry;77;eau potable : SMAEP TMM - Globalité;327234;2024;76,3;4,8;15,5;68,1;conforme;611290;55889;39;115;3945;Non vérifié;non
+77316;Moret-Loing-et-Orvanne;77;eau potable : Groupé (4 cnes hors VlS);214075;2024;87,7;2,6;18,3;68,7;conforme;115066;75663;16;54;12810;Non vérifié;non
+77317;Mormant;77;eau potable;152794;2024;67,5;8,6;17,7;68,5;non conforme;100793;100793;52;177;5282;Non vérifié;non
+77318;Mortcerf;77;eau potable : syndicat;152972;2024;73,7;4,4;12,4;67,5;conforme;140943;25814;51;147;1400;Non vérifié;non
+77319;Mortery;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;1025;21;94;137;Non vérifié;non
+77320;Mouroux;77;"eau potable : EST ""Boissy-Chauffry-Coulommiers""";326174;2024;69,2;10,0;22,3;69,5;non conforme;453330;99301;47;163;5810;Non vérifié;non
+77321;Mousseaux-lès-Bray;77;eau potable : UDBM 8 ex_siaep_Bray-sur-Seine;152995;2024;84,6;4,4;24,4;69,9;conforme;82275;13373;54;146;682;Non vérifié;non
+77322;Moussy-le-Neuf;77;eau potable : 24 Cnes;152971;2024;83,0;4,5;22,0;69,4;conforme;546197;35763;30;80;3253;Non vérifié;non
+77323;Moussy-le-Vieux;77;eau potable : 24 Cnes;152971;2024;83,0;4,5;22,0;69,4;conforme;546197;16150;30;80;1469;Non vérifié;non
+77325;Mouy-sur-Seine;77;eau potable : UDBM 8 ex_siaep_Bray-sur-Seine;152995;2024;84,6;4,4;24,4;69,9;conforme;82275;6922;54;146;353;Non vérifié;non
+77326;Nandy;77;eau potable : Régie de l'Eau;219484;2024;83,8;9,8;50,8;75,2;conforme;2739982;61961;27;70;6350;Non vérifié;non
+77327;Nangis;77;eau potable;152799;2024;83,0;5,0;24,4;69,9;conforme;88604;88604;27;75;8867;Non vérifié;non
+77328;Nanteau-sur-Essonne;77;eau potable : ex_SMERB;152953;2024;76,2;2,2;6,9;66,4;conforme;39395;9230;61;116;414;Non vérifié;non
+77329;Nanteau-sur-Lunain;77;eau potable;152801;2024;94,4;0,9;15,0;68,0;conforme;4244;4244;17;32;702;Non vérifié;non
+77330;Nanteuil-lès-Meaux;77;eau potable : Régie;326914;2024;92,5;6,2;77,3;80,5;conforme;435130;49522;19;39;7308;Non vérifié;non
+77331;Nanteuil-sur-Marne;77;eau potable : NORD (14 Cnes);152968;2024;80,0;4,1;16,4;68,3;conforme;364009;5687;38;109;406;Non vérifié;non
+77332;Nantouillet;77;eau potable : 24 Cnes;152971;2024;83,0;4,5;22,0;69,4;conforme;546197;3320;30;80;302;Non vérifié;non
+77333;Nemours;77;eau potable : ex_SIAEP_Nemours_StPierre;217222;2024;80,2;3,9;15,9;68,2;conforme;274422;157166;33;89;12889;Non vérifié;non
+77335;Chauconin-Neufmontiers;77;eau potable : Chauconin-Neufmontiers;152805;2024;89,1;4,7;37,9;72,6;conforme;30999;30999;22;45;3784;Non vérifié;non
+77336;Neufmoutiers-en-Brie;77;eau potable : syndicat;152951;2024;82,4;2,7;12,6;67,5;conforme;59317;13463;28;78;1338;Non vérifié;non
+77337;Noisiel;77;eau potable : 6 communes;152998;2024;95,3;6,0;122,9;85,0;conforme;520782;91773;16;43;16053;Non vérifié;non
+77338;Noisy-Rudignon;77;eau potable : secteur 2;152993;2024;69,0;5,5;12,2;67,4;conforme;198803;11714;55;167;580;Non vérifié;non
+77339;Noisy-sur-École;77;eau potable : Sud Ouest (10 Cnes);273074;2024;77,7;2,7;9,4;66,9;conforme;151136;28002;43;107;1797;Non vérifié;non
+77340;Nonville;77;eau potable : Nonville;152810;2024;83,7;1,4;7,2;66,4;conforme;4650;4650;22;71;591;Non vérifié;non
+77341;Noyen-sur-Seine;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;2761;21;94;369;Non vérifié;non
+77342;Obsonville;77;eau potable;152813;2024;94,6;0,5;8,0;66,6;conforme;522;522;11;23;126;Non vérifié;non
+77343;Ocquerre;77;eau potable : 21 communes;153037;2024;76,2;3,1;10,0;67,0;conforme;243465;5427;39;122;378;Non vérifié;non
+77344;Oissery;77;eau potable : 24 Cnes;152971;2024;83,0;4,5;22,0;69,4;conforme;546197;27441;30;80;2496;Non vérifié;non
+77345;Orly-sur-Morin;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;4909;21;94;656;Non vérifié;non
+77347;Les Ormes-sur-Voulzie;77;eau potable : UDBM10 CCBM5;299054;2024;87,0;1,6;10,5;67,1;conforme;27921;7037;22;64;864;Non vérifié;non
+77348;Ormesson;77;eau potable : ex_SIAEP_Nemours_StPierre;217222;2024;80,2;3,9;15,9;68,2;conforme;274422;2951;33;89;242;Non vérifié;non
+77349;Othis;77;eau potable : 24 Cnes;152971;2024;83,0;4,5;22,0;69,4;conforme;546197;73846;30;80;6717;Non vérifié;non
+77350;Ozoir-la-Ferrière;77;eau potable : Ozoir;153056;2024;89,8;3,5;30,8;71,2;conforme;113927;113927;15;42;21238;Non vérifié;non
+77352;Ozouer-le-Voulgis;77;eau potable : TNO;262074;2024;76,8;3,6;12,0;67,4;conforme;190346;26621;36;113;2050;Non vérifié;non
+77353;Paley;77;eau potable : Paley;152819;2023;49,2;3,8;3,7;65,7;non conforme;32983;32983;187;375;483;Sans anomalie apparente;non
+77354;Pamfou;77;eau potable : Sud (4Cnes);305634;2024;80,5;3,3;13,7;67,7;conforme;48060;15864;44;137;983;Non vérifié;non
+77355;Paroy;77;eau potable : UDBM10 CCBM5;299054;2024;87,0;1,6;10,5;67,1;conforme;27921;1523;22;64;187;Non vérifié;non
+77356;Passy-sur-Seine;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;367;21;94;49;Non vérifié;non
+77357;Pécy;77;eau potable;152822;2024;63,6;3,4;6,0;66,2;non conforme;21060;21060;68;209;849;Non vérifié;non
+77358;Penchard;77;eau potable : Penchard;152824;2024;70,9;6,8;16,6;68,3;conforme;21469;21469;43;149;1373;Non vérifié;non
+77359;Perthes;77;eau potable : Sud Ouest (10 Cnes);273074;2024;77,7;2,7;9,4;66,9;conforme;151136;32303;43;107;2073;Non vérifié;non
+77360;Pézarches;77;eau potable : SIAEP région de Touquin;152991;2024;67,7;5,7;12,1;67,4;conforme;74315;8173;55;246;410;Non vérifié;non
+77361;Pierre-Levée;77;eau potable : Territoire_SUD;152961;2024;76,7;4,6;15,2;68,0;conforme;374367;8558;49;196;480;Non vérifié;non
+77363;Le Pin;77;eau potable;152979;2024;96,5;4,7;128,2;85,0;conforme;735950;11927;21;59;1530;Non vérifié;non
+77364;Le Plessis-aux-Bois;77;eau potable : SMAEP TMM - Globalité;327234;2024;76,3;4,8;15,5;68,1;conforme;611290;3698;39;115;261;Non vérifié;non
+77365;Le Plessis-Feu-Aussoux;77;eau potable : SIAEP région de Touquin;152991;2024;67,7;5,7;12,1;67,4;conforme;74315;11901;55;246;597;Non vérifié;non
+77366;Le Plessis-l'Évêque;77;eau potable : 24 Cnes;152971;2024;83,0;4,5;22,0;69,4;conforme;546197;3199;30;80;291;Non vérifié;non
+77367;Le Plessis-Placy;77;eau potable : 21 communes;153037;2024;76,2;3,1;10,0;67,0;conforme;243465;4379;39;122;305;Non vérifié;non
+77368;Poigny;77;eau potable : UDP18 Provins/Poigny;152840;2024;83,6;6,2;31,4;71,3;conforme;180135;7438;41;90;501;Non vérifié;non
+77369;Poincy;77;eau potable : Poincy;152832;2024;80,5;3,0;12,3;67,5;conforme;12363;12363;42;89;797;Non vérifié;non
+77370;Poligny;77;eau potable : principal;152978;2024;72,3;2,0;5,3;66,1;conforme;91900;15772;52;140;825;Non vérifié;non
+77371;Pommeuse;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;22815;21;94;3049;Non vérifié;non
+77372;Pomponne;77;eau potable;152979;2024;96,5;4,7;128,2;85,0;conforme;735950;32858;21;59;4215;Non vérifié;non
+77373;Pontault-Combault;77;eau potable : 3 communes;152984;2024;90,2;4,4;40,8;73,2;conforme;367742;198446;14;42;39096;Non vérifié;non
+77374;Pontcarré;77;eau potable : Roissy-Pontcarré;198357;2024;93,3;4,6;63,7;77,7;conforme;150539;12677;16;55;2136;Non vérifié;non
+77376;Précy-sur-Marne;77;eau potable : SMAEP TMM - Globalité;327234;2024;76,3;4,8;15,5;68,1;conforme;611290;10583;39;115;747;Non vérifié;non
+77377;Presles-en-Brie;77;eau potable : SMIAEP Région de Tournan;152992;2024;82,0;5,2;23,5;69,7;conforme;237914;26760;31;82;2369;Non vérifié;non
+77378;Pringy;77;eau potable : 5 Cnes;307034;2024;77,0;9,1;30,4;71,1;conforme;430101;68651;49;141;3864;Non vérifié;non
+77379;Provins;77;eau potable : UDP18 Provins/Poigny;152840;2024;83,6;6,2;31,4;71,3;conforme;180135;172697;41;90;11632;Non vérifié;non
+77380;Puisieux;77;eau potable : 21 communes;153037;2024;76,2;3,1;10,0;67,0;conforme;243465;4551;39;122;317;Non vérifié;non
+77381;Quiers;77;eau potable : Quiers;152842;2024;56,0;6,1;7,7;66,5;non conforme;18858;18858;79;288;650;Non vérifié;non
+77382;Quincy-Voisins;77;eau potable : SMAEP TMM - Globalité;327234;2024;76,3;4,8;15,5;68,1;conforme;611290;78584;39;115;5547;Non vérifié;non
+77383;Rampillon;77;eau potable;152844;2024;67,7;1,7;3,6;65,7;conforme;14886;11396;37;173;836;Non vérifié;non
+77384;Réau;77;eau potable : CA SENART 77;153002;2024;93,1;4,2;56,6;76,3;conforme;246046;11897;15;27;2127;Non vérifié;non
+77385;Rebais;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;17165;21;94;2294;Non vérifié;non
+77386;Recloses;77;eau potable : DSP 12 Cnes;312614;2024;89,5;3,7;31,8;71,4;conforme;426420;5436;24;54;633;Non vérifié;non
+77387;Remauville;77;eau potable : principal;152978;2024;72,3;2,0;5,3;66,1;conforme;91900;8584;52;140;449;Non vérifié;non
+77388;Reuil-en-Brie;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;5971;21;94;798;Non vérifié;non
+77389;La Rochette;77;eau potable : DSP Est;334314;2024;75,8;7,0;22,0;69,4;conforme;135364;58246;41;117;3932;Non vérifié;non
+77390;Roissy-en-Brie;77;eau potable : Roissy-Pontcarré;198357;2024;93,3;4,6;63,7;77,7;conforme;150539;137862;16;55;23229;Non vérifié;non
+77391;Rouilly;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;3711;21;94;496;Non vérifié;non
+77392;Rouvres;77;eau potable : 24 Cnes;152971;2024;83,0;4,5;22,0;69,4;conforme;546197;11412;30;80;1038;Non vérifié;non
+77393;Rozay-en-Brie;77;eau potable : Rozay-en-Brie;152850;2024;74,3;7,4;21,4;69,3;conforme;46619;46619;45;131;2860;Non vérifié;non
+77394;Rubelles;77;eau potable : DSP Est;334314;2024;75,8;7,0;22,0;69,4;conforme;135364;52395;41;117;3537;Non vérifié;non
+77395;Rumont;77;eau potable : ex_SIAEP_Burcy_Fromont_Rumont;152952;2024;85,2;0,8;4,9;66,0;conforme;3849;953;21;60;125;Non vérifié;non
+77396;Rupéreux;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;793;21;94;106;Non vérifié;non
+77397;Saâcy-sur-Marne;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;14053;21;94;1878;Non vérifié;non
+77398;Sablonnières;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;5919;21;94;791;Non vérifié;non
+77400;Saint-Augustin;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;14127;21;94;1888;Non vérifié;non
+77401;Sainte-Aulde;77;eau potable : NORD (14 Cnes);152968;2024;80,0;4,1;16,4;68,3;conforme;364009;9889;38;109;706;Non vérifié;non
+77402;Saint-Barthélemy;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;2507;21;94;335;Non vérifié;non
+77403;Saint-Brice;77;eau potable : UDP18 St-Brice;152854;2024;87,8;0,8;6,0;66,2;conforme;4847;4847;16;62;819;Non vérifié;non
+77404;Sainte-Colombe;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;13327;21;94;1781;Non vérifié;non
+77405;Saint-Cyr-sur-Morin;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;14786;21;94;1976;Non vérifié;non
+77406;Saint-Denis-lès-Rebais;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;7228;21;94;966;Non vérifié;non
+77407;Saint-Fargeau-Ponthierry;77;eau potable : 5 Cnes;307034;2024;77,0;9,1;30,4;71,1;conforme;430101;279367;49;141;15724;Non vérifié;non
+77408;Saint-Fiacre;77;eau potable : Territoire_NORD;152949;2024;81,5;1,6;7,1;66,4;conforme;41265;4839;25;82;523;Non vérifié;non
+77409;Saint-Germain-Laval;77;eau potable : secteur 1;214812;2024;73,3;7,0;19,1;68,8;conforme;625106;48029;46;148;2888;Non vérifié;non
+77410;Saint-Germain-Laxis;77;eau potable : St-Germain-Laxis;152861;2024;84,2;2,3;12,1;67,4;conforme;7304;7304;27;69;742;Non vérifié;non
+77411;Saint-Germain-sous-Doue;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;4108;21;94;549;Non vérifié;non
+77412;Saint-Germain-sur-École;77;eau potable : DSP 12 Cnes;312614;2024;89,5;3,7;31,8;71,4;conforme;426420;3135;24;54;365;Non vérifié;non
+77413;Saint-Germain-sur-Morin;77;eau potable : SMAEP TMM - Globalité;327234;2024;76,3;4,8;15,5;68,1;conforme;611290;55279;39;115;3902;Non vérifié;non
+77414;Saint-Hilliers;77;eau potable : UDP21 St-Hilliers;188362;2024;85,7;0,7;4,2;65,8;conforme;3761;3761;22;62;474;Non vérifié;non
+77415;Saint-Jean-les-Deux-Jumeaux;77;eau potable : NORD (14 Cnes);152968;2024;80,0;4,1;16,4;68,3;conforme;364009;18182;38;109;1298;Non vérifié;non
+77416;Saint-Just-en-Brie;77;eau potable : UDP18 St-Just-en-Brie;152863;2024;88,6;0,4;3,1;65,6;conforme;1555;1555;16;47;265;Non vérifié;non
+77417;Saint-Léger;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;1826;21;94;244;Non vérifié;non
+77418;Saint-Loup-de-Naud;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;6345;21;94;848;Non vérifié;non
+77419;Saint-Mammès;77;eau potable : Groupé (4 cnes hors VlS);214075;2024;87,7;2,6;18,3;68,7;conforme;115066;18677;16;54;3162;Non vérifié;non
+77420;Saint-Mard;77;eau potable : 24 Cnes;152971;2024;83,0;4,5;22,0;69,4;conforme;546197;42128;30;80;3832;Non vérifié;non
+77421;Saint-Mars-Vieux-Maisons;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;1826;21;94;244;Non vérifié;non
+77423;Saint-Martin-des-Champs;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;4946;21;94;661;Non vérifié;non
+77424;Saint-Martin-du-Boschet;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;1923;21;94;257;Non vérifié;non
+77425;Saint-Martin-en-Bière;77;eau potable : Sud Ouest (10 Cnes);273074;2024;77,7;2,7;9,4;66,9;conforme;151136;11625;43;107;746;Non vérifié;non
+77426;Saint-Méry;77;eau potable : St-Méry;152868;2024;71,6;2,2;5,6;66,1;conforme;5195;5195;43;143;334;Non vérifié;non
+77427;Saint-Mesmes;77;eau potable : 24 Cnes;152971;2024;83,0;4,5;22,0;69,4;conforme;546197;6365;30;80;579;Non vérifié;non
+77428;Saint-Ouen-en-Brie;77;eau potable;152944;2024;80,9;2,5;10,7;67,1;conforme;56575;14803;48;109;837;Non vérifié;non
+77429;Saint-Ouen-sur-Morin;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;3958;21;94;529;Non vérifié;non
+77430;Saint-Pathus;77;eau potable : 24 Cnes;152971;2024;83,0;4,5;22,0;69,4;conforme;546197;71229;30;80;6479;Non vérifié;non
+77431;Saint-Pierre-lès-Nemours;77;eau potable : ex_SIAEP_Nemours_StPierre;217222;2024;80,2;3,9;15,9;68,2;conforme;274422;65859;33;89;5401;Non vérifié;non
+77432;Saint-Rémy-de-la-Vanne;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;7371;21;94;985;Non vérifié;non
+77433;Beautheil-Saints;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;15661;21;94;2093;Non vérifié;non
+77434;Saint-Sauveur-lès-Bray;77;eau potable : UDBM 8 ex_siaep_Bray-sur-Seine;152995;2024;84,6;4,4;24,4;69,9;conforme;82275;6863;54;146;350;Non vérifié;non
+77435;Saint-Sauveur-sur-École;77;eau potable : DSP 12 Cnes;312614;2024;89,5;3,7;31,8;71,4;conforme;426420;9662;24;54;1125;Non vérifié;non
+77436;Saint-Siméon;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;6607;21;94;883;Non vérifié;non
+77437;Saint-Soupplets;77;eau potable : SMAEP TMM - Globalité;327234;2024;76,3;4,8;15,5;68,1;conforme;611290;50179;39;115;3542;Non vérifié;non
+77438;Saint-Thibault-des-Vignes;77;eau potable;152979;2024;96,5;4,7;128,2;85,0;conforme;735950;53250;21;59;6831;Non vérifié;non
+77439;Salins;77;eau potable : secteur 1;214812;2024;73,3;7,0;19,1;68,8;conforme;625106;19375;46;148;1165;Non vérifié;non
+77440;Sammeron;77;eau potable : NORD (14 Cnes);152968;2024;80,0;4,1;16,4;68,3;conforme;364009;16501;38;109;1178;Non vérifié;non
+77441;Samois-sur-Seine;77;eau potable : DSP 12 Cnes;312614;2024;89,5;3,7;31,8;71,4;conforme;426420;18258;24;54;2126;Non vérifié;non
+77442;Samoreau;77;eau potable : Héricy-Samoreau-Vulaines/Seine;153093;2024;75,6;6,5;20,1;69,0;conforme;176419;55187;63;197;2384;Non vérifié;non
+77443;Sancy;77;eau potable : Territoire_SUD;152961;2024;76,7;4,6;15,2;68,0;conforme;374367;7150;49;196;401;Non vérifié;non
+77444;Sancy-lès-Provins;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;2537;21;94;339;Non vérifié;non
+77445;Savigny-le-Temple;77;eau potable : Régie de l'Eau;219484;2024;83,8;9,8;50,8;75,2;conforme;2739982;303932;27;70;31148;Non vérifié;non
+77446;Savins;77;eau potable : UDP14 ex_Siaep_plateau Est Montois;152983;2024;76,6;1,5;5,0;66,0;conforme;20482;6575;29;109;617;Non vérifié;non
+77447;Seine-Port;77;eau potable : Seine-Port;152879;2024;74,2;3,6;10,3;67,1;conforme;31694;31694;50;127;1742;Non vérifié;non
+77448;Sept-Sorts;77;eau potable : NORD (14 Cnes);152968;2024;80,0;4,1;16,4;68,3;conforme;364009;8629;38;109;616;Non vérifié;non
+77449;Serris;77;eau potable : 5 Communes;153004;2024;93,1;7,6;102,8;85,0;conforme;514993;142941;38;42;10326;Non vérifié;non
+77450;Servon;77;eau potable;182964;2024;92,3;9,0;107,2;85,0;conforme;148679;70880;54;116;3565;Non vérifié;non
+77451;Signy-Signets;77;eau potable : Territoire_SUD;152961;2024;76,7;4,6;15,2;68,0;conforme;374367;11375;49;196;638;Non vérifié;non
+77452;Sigy;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;494;21;94;66;Non vérifié;non
+77453;Sivry-Courtry;77;eau potable : ex_Siaep_Blandy-Chatillon-Moisenay-Sivry;152946;2024;68,5;3,5;7,7;66,5;conforme;70544;22818;56;168;1124;Non vérifié;non
+77454;Sognolles-en-Montois;77;eau potable : UDP14 ex_Siaep_plateau Est Montois;152983;2024;76,6;1,5;5,0;66,0;conforme;20482;3954;29;109;371;Non vérifié;non
+77455;Soignolles-en-Brie;77;eau potable : TNO;262074;2024;76,8;3,6;12,0;67,4;conforme;190346;26244;36;113;2021;Non vérifié;non
+77456;Soisy-Bouy;77;eau potable : UDP18+BM7 Soisy-Bouy;152882;2024;88,0;2,2;15,9;68,2;conforme;9347;9347;30;94;850;Non vérifié;non
+77457;Solers;77;eau potable : TNO;262074;2024;76,8;3,6;12,0;67,4;conforme;190346;17349;36;113;1336;Non vérifié;non
+77458;Souppes-sur-Loing;77;eau potable;152885;2024;62,9;7,4;12,6;67,5;non conforme;146043;146043;81;217;4952;Non vérifié;non
+77459;Sourdun;77;eau potable : UDP18 Sourdun;152887;2024;74,4;3,0;8,6;66,7;conforme;22995;22995;41;127;1541;Non vérifié;non
+77460;Tancrou;77;eau potable : 21 communes;153037;2024;76,2;3,1;10,0;67,0;conforme;243465;4881;39;122;340;Non vérifié;non
+77461;Thénisy;77;eau potable : UDBM 8 Thénisy;188368;2024;83,9;1,7;9,0;66,8;conforme;2197;2197;20;69;297;Non vérifié;non
+77462;Thieux;77;eau potable : 24 Cnes;152971;2024;83,0;4,5;22,0;69,4;conforme;546197;8553;30;80;778;Non vérifié;non
+77463;Thomery;77;eau potable;153031;2024;79,1;4,5;17,1;68,4;conforme;38944;38944;32;96;3384;Non vérifié;non
+77464;Thorigny-sur-Marne;77;eau potable;152979;2024;96,5;4,7;128,2;85,0;conforme;735950;81384;21;59;10440;Non vérifié;non
+77465;Thoury-Férottes;77;eau potable : principal;152986;2024;76,2;3,6;11,6;67,3;conforme;81468;14736;62;192;649;Non vérifié;non
+77466;Tigeaux;77;eau potable : Territoire_SUD;152961;2024;76,7;4,6;15,2;68,0;conforme;374367;7506;49;196;421;Non vérifié;non
+77467;La Tombe;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;1556;21;94;208;Non vérifié;non
+77468;Torcy;77;eau potable : 6 communes;152998;2024;95,3;6,0;122,9;85,0;conforme;520782;130401;16;43;22810;Non vérifié;non
+77469;Touquin;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;9376;21;94;1253;Non vérifié;non
+77470;Tournan-en-Brie;77;eau potable : SMIAEP Région de Tournan;152992;2024;82,0;5,2;23,5;69,7;conforme;237914;93462;31;82;8274;Non vérifié;non
+77471;Tousson;77;eau potable : Sud Ouest (10 Cnes);273074;2024;77,7;2,7;9,4;66,9;conforme;151136;5205;43;107;334;Non vérifié;non
+77472;La Trétoire;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;3435;21;94;459;Non vérifié;non
+77473;Treuzy-Levelay;77;eau potable : Treuzy-Levelay;152892;2024;84,2;1,1;6,0;66,2;conforme;3533;3533;21;67;458;Non vérifié;non
+77474;Trilbardou;77;eau potable : SMAEP TMM - Globalité;327234;2024;76,3;4,8;15,5;68,1;conforme;611290;9917;39;115;700;Non vérifié;non
+77475;Trilport;77;eau potable : Trilport;152895;2024;64,0;10,8;19,2;68,8;non conforme;112347;112347;60;205;5146;Non vérifié;non
+77476;Trocy-en-Multien;77;eau potable : 21 communes;153037;2024;76,2;3,1;10,0;67,0;conforme;243465;3345;39;122;233;Non vérifié;non
+77477;Ury;77;eau potable : Sud Ouest (10 Cnes);273074;2024;77,7;2,7;9,4;66,9;conforme;151136;13744;43;107;882;Non vérifié;non
+77478;Ussy-sur-Marne;77;eau potable : NORD (14 Cnes);152968;2024;80,0;4,1;16,4;68,3;conforme;364009;14820;38;109;1058;Non vérifié;non
+77479;Vaires-sur-Marne;77;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;84351;17;43;13931;Non vérifié;non
+77480;Valence-en-Brie;77;eau potable : Valence;152899;2024;88,8;1,8;14,0;67,8;conforme;8088;8088;22;86;1007;Non vérifié;non
+77481;Vanvillé;77;eau potable : UDP18 Vanvillé;152900;2024;73,3;1,1;3,0;65,6;conforme;3320;3320;46;133;197;Non vérifié;non
+77482;Varennes-sur-Seine;77;eau potable : secteur 1;214812;2024;73,3;7,0;19,1;68,8;conforme;625106;62331;46;148;3748;Non vérifié;non
+77483;Varreddes;77;eau potable : Germigny - Varreddes;152966;2024;85,0;3,0;17,0;68,4;conforme;33255;20479;26;64;2167;Non vérifié;non
+77484;Vaucourtois;77;eau potable : Territoire_SUD;152961;2024;76,7;4,6;15,2;68,0;conforme;374367;4939;49;196;277;Non vérifié;non
+77485;Le Vaudoué;77;eau potable : Sud Ouest (10 Cnes);273074;2024;77,7;2,7;9,4;66,9;conforme;151136;11391;43;107;731;Non vérifié;non
+77486;Vaudoy-en-Brie;77;eau potable : Vaudoy-en-Brie;152901;2024;79,1;1,4;5,2;66,0;conforme;11191;11191;35;100;872;Non vérifié;non
+77487;Vaux-le-Pénil;77;eau potable : Vaux-le-Pénil;152903;2024;79,7;7,0;27,6;70,5;conforme;140423;140423;34;92;11474;Non vérifié;non
+77489;Vaux-sur-Lunain;77;eau potable : Chevry, Blennes, Diant, Lorrez, Vaux et Villemaréchal;152975;2023;76,0;2,9;9,1;66,8;conforme;119431;7205;86;226;229;Sans anomalie apparente;non
+77490;Vendrest;77;eau potable : 21 communes;153037;2024;76,2;3,1;10,0;67,0;conforme;243465;9848;39;122;686;Non vérifié;non
+77492;Verdelot;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;4639;21;94;620;Non vérifié;non
+77493;Verneuil-l'Étang;77;eau potable : syndicat;219011;2024;56,0;9,7;12,4;67,5;non conforme;168811;119867;102;286;3223;Non vérifié;non
+77494;Vernou-la-Celle-sur-Seine;77;eau potable;152954;2024;77,3;4,8;16,4;68,3;conforme;119802;34522;36;107;2630;Non vérifié;non
+77495;Vert-Saint-Denis;77;eau potable : Régie de l'Eau;219484;2024;83,8;9,8;50,8;75,2;conforme;2739982;90658;27;70;9291;Non vérifié;non
+77496;Vieux-Champagne;77;eau potable : UDP18 Vieux-Champagne;152906;2024;82,2;3,9;18,0;68,6;conforme;7886;7886;113;276;192;Non vérifié;non
+77498;Vignely;77;eau potable : SMAEP TMM - Globalité;327234;2024;76,3;4,8;15,5;68,1;conforme;611290;4562;39;115;322;Non vérifié;non
+77500;Villebéon;77;eau potable : Villebéon;188369;2023;62,1;2,3;3,8;65,8;non conforme;12408;12408;75;218;452;Sans anomalie apparente;non
+77501;Villecerf;77;eau potable : principal;152986;2024;76,2;3,6;11,6;67,3;conforme;81468;16439;62;192;724;Non vérifié;non
+77504;Villemaréchal;77;eau potable : Chevry, Blennes, Diant, Lorrez, Vaux et Villemaréchal;152975;2023;76,0;2,9;9,1;66,8;conforme;119431;33193;86;226;1055;Sans anomalie apparente;non
+77505;Villemareuil;77;eau potable : Territoire_NORD;152949;2024;81,5;1,6;7,1;66,4;conforme;41265;3571;25;82;386;Non vérifié;non
+77506;Villemer;77;eau potable : Villemer;152910;2024;71,0;2,2;5,4;66,1;conforme;13241;13241;48;147;759;Non vérifié;non
+77507;Villenauxe-la-Petite;77;eau potable : UDBM1+12 Villenauxe-la-Petite;152911;2024;78,8;1,7;6,3;66,3;conforme;7961;6261;38;120;453;Non vérifié;non
+77508;Villeneuve-le-Comte;77;eau potable : syndicat;152951;2024;82,4;2,7;12,6;67,5;conforme;59317;18837;28;78;1872;Non vérifié;non
+77509;Villeneuve-les-Bordes;77;eau potable : UDBM13 Villeneuve-les-Bordes;188371;2024;81,7;1,6;7,0;66,4;conforme;8258;4309;19;108;610;Non vérifié;non
+77510;Villeneuve-Saint-Denis;77;eau potable : syndicat;152951;2024;82,4;2,7;12,6;67,5;conforme;59317;13775;28;78;1369;Non vérifié;non
+77511;Villeneuve-sous-Dammartin;77;eau potable : 24 Cnes;152971;2024;83,0;4,5;22,0;69,4;conforme;546197;6541;30;80;595;Non vérifié;non
+77512;Villeneuve-sur-Bellot;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;8613;21;94;1151;Non vérifié;non
+77513;Villenoy;77;eau potable : Villenoy;152914;2024;87,5;6,2;43,6;73,7;conforme;48541;48541;26;69;5127;Non vérifié;non
+77514;Villeparisis;77;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;163156;17;43;26946;Non vérifié;non
+77515;Villeroy;77;eau potable : SMAEP TMM - Globalité;327234;2024;76,3;4,8;15,5;68,1;conforme;611290;10073;39;115;711;Non vérifié;non
+77516;Ville-Saint-Jacques;77;eau potable : principal;152986;2024;76,2;3,6;11,6;67,3;conforme;81468;18505;62;192;815;Non vérifié;non
+77517;Villevaudé;77;eau potable;152979;2024;96,5;4,7;128,2;85,0;conforme;735950;16620;21;59;2132;Non vérifié;non
+77518;Villiers-en-Bière;77;eau potable : 5 Cnes;307034;2024;77,0;9,1;30,4;71,1;conforme;430101;4300;49;141;242;Non vérifié;non
+77519;Villiers-Saint-Georges;77;eau potable : UDP23 Villiers-St-Georges;152922;2024;83,2;2,1;10,5;67,1;conforme;22512;22512;53;181;1160;Non vérifié;non
+77520;Villiers-sous-Grez;77;eau potable : Villiers-sous-Grez;152924;2024;72,4;3,5;9,1;66,8;conforme;15726;15726;61;141;706;Non vérifié;non
+77521;Villiers-sur-Morin;77;eau potable : Territoire_SUD;152961;2024;76,7;4,6;15,2;68,0;conforme;374367;37139;49;196;2083;Non vérifié;non
+77522;Villiers-sur-Seine;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;2080;21;94;278;Non vérifié;non
+77523;Villuis;77;eau potable : UDBM14 Villuis;152927;2024;82,7;2,4;11,3;67,3;conforme;3741;3170;32;96;272;Non vérifié;non
+77524;Vimpelles;77;eau potable : UDBM10 CCBM5;299054;2024;87,0;1,6;10,5;67,1;conforme;27921;4170;22;64;512;Non vérifié;non
+77525;Vinantes;77;eau potable : 24 Cnes;152971;2024;83,0;4,5;22,0;69,4;conforme;546197;4189;30;80;381;Non vérifié;non
+77526;Vincy-Manoeuvre;77;eau potable : 21 communes;153037;2024;76,2;3,1;10,0;67,0;conforme;243465;3890;39;122;271;Non vérifié;non
+77527;Voinsles;77;eau potable : Voinsles;152928;2024;91,5;0,5;5,0;66,0;conforme;3196;3196;15;36;580;Non vérifié;non
+77528;Voisenon;77;eau potable : DSP Est;334314;2024;75,8;7,0;22,0;69,4;conforme;135364;17332;41;117;1170;Non vérifié;non
+77529;Voulangis;77;eau potable : Territoire_SUD;152961;2024;76,7;4,6;15,2;68,0;conforme;374367;27475;49;196;1541;Non vérifié;non
+77530;Voulton;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;2207;21;94;295;Non vérifié;non
+77531;Voulx;77;eau potable : secteur 2;152993;2024;69,0;5,5;12,2;67,4;conforme;198803;32841;55;167;1626;Non vérifié;non
+77532;Vulaines-lès-Provins;77;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;599;21;94;80;Non vérifié;non
+77533;Vulaines-sur-Seine;77;eau potable : Héricy-Samoreau-Vulaines/Seine;153093;2024;75,6;6,5;20,1;69,0;conforme;176419;63197;63;197;2730;Non vérifié;non
+77534;Yèbles;77;eau potable : syndicat;219011;2024;56,0;9,7;12,4;67,5;non conforme;168811;36447;102;286;980;Non vérifié;non

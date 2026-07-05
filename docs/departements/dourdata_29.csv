@@ -7,261 +7,261 @@
 # Méthodologie et code : https://github.com/btaverne/dourdata
 # Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
 # Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
-Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
-29001;Argol;29;eau potable : Crozon-Aulne-Maritime -Secteur Régie;313914;2024;73,3;2,0;5,4;66,1;conforme;417560;21047;54;136;1065;Non vérifié
-29002;Arzano;29;eau potable : Secteur Régie eau potable CC Quimperlé;282074;2024;83,2;1,4;7,0;66,4;conforme;813420;20513;39;73;1441;Non vérifié
-29004;Bannalec;29;eau potable : Secteur Régie eau potable CC Quimperlé;282074;2024;83,2;1,4;7,0;66,4;conforme;813420;81497;39;73;5725;Non vérifié
-29005;Baye;29;eau potable : Secteur Régie eau potable CC Quimperlé;282074;2024;83,2;1,4;7,0;66,4;conforme;813420;19488;39;73;1369;Non vérifié
-29006;Bénodet;29;eau potable : Secteur Bénodet;86672;2024;92,8;0,8;10,8;67,2;conforme;22239;22239;16;27;3849;Non vérifié
-29007;Berrien;29;eau potable;86831;2024;54,4;1,9;2,3;65,5;non conforme;42997;42997;125;314;943;Non vérifié
-29008;Beuzec-Cap-Sizun;29;eau potable;86556;2024;77,6;0,9;3,2;65,6;conforme;78840;20788;57;122;1008;Non vérifié
-29010;Bodilis;29;eau potable;86940;2024;71,7;1,1;2,8;65,6;conforme;126834;23323;37;148;1723;Non vérifié
-29011;Bohars;29;eau potable;86787;2024;86,4;4,2;26,9;70,4;conforme;2053484;35551;26;80;3727;Non vérifié
-29012;Bolazec;29;eau potable;86835;2024;80,9;1,1;4,5;65,9;conforme;9797;9797;160;89;168;Non vérifié
-29013;Botmeur;29;eau potable;86836;2024;91,4;0,2;2,2;65,4;conforme;964;964;12;32;224;Non vérifié
-29014;Botsorhel;29;eau potable : Secteur Régie Eau Potable Morlaix Communauté;282994;2024;78,4;1,5;5,6;66,1;conforme;908850;6186;40;107;425;Non vérifié
-29015;Bourg-Blanc;29;eau potable : CC Pays des Abers-régie Eau Potable;284154;2024;89,7;0,9;7,8;66,6;conforme;269370;23662;18;43;3573;Non vérifié
-29016;Brasparts;29;eau potable;86595;2024;59,6;27,3;40,3;73,1;non conforme;77723;77723;200;443;1067;Non vérifié
-29017;Brélès;29;eau potable : Landunvez, Lanildut, Porspoder, Plourin;86784;2024;85,9;0,6;3,8;65,8;conforme;47841;6407;20;58;868;Non vérifié
-29018;Brennilis;29;eau potable;86842;2024;69,2;19,0;42,7;73,5;non conforme;18031;18031;109;167;454;Non vérifié
-29019;Brest;29;eau potable;86787;2024;86,4;4,2;26,9;70,4;conforme;2053484;1357804;26;80;142346;Non vérifié
-29020;Briec;29;eau potable : Kemper Breizh Izel Régie Eau Potable;218004;2024;81,0;1,2;5,1;66,0;conforme;303679;104918;49;92;5816;Non vérifié
-29021;Plounéour-Brignogan-plages;29;eau potable : Régie-eau-potable-CC-Lesneven;292334;2024;81,2;1,5;6,4;66,3;conforme;366157;26042;36;86;1972;Non vérifié
-29022;Camaret-sur-Mer;29;eau potable : Crozon-Aulne-Maritime -Secteur Régie;313914;2024;73,3;2,0;5,4;66,1;conforme;417560;49287;54;136;2494;Non vérifié
-29023;Carantec;29;eau potable : Carantec;86845;2024;72,8;3,1;8,3;66,7;conforme;74034;74034;62;137;3272;Non vérifié
-29024;Carhaix-Plouguer;29;eau potable;86609;2024;92,4;2,0;24,7;69,9;conforme;93528;93528;35;30;7412;Non vérifié
-29025;Cast;29;eau potable : Secteur CC PLeyben-Châteaulin-Plonevez-Porzay;298594;2024;79,1;1,2;4,6;65,9;conforme;242008;32320;56;96;1570;Non vérifié
-29026;Châteaulin;29;eau potable : Châteaulin;86612;2024;93,0;2,6;34,8;72,0;conforme;74515;74515;40;27;5085;Non vérifié
-29027;Châteauneuf-du-Faou;29;eau potable : CHÂTEAUNEUF-DU-FAOU;86592;2024;88,9;1,6;13,1;67,6;conforme;66967;66967;50;49;3651;Non vérifié
-29028;Cléden-Cap-Sizun;29;eau potable;86556;2024;77,6;0,9;3,2;65,6;conforme;78840;18890;57;122;916;Non vérifié
-29029;Cléden-Poher;29;eau potable : Territoire n°1;86554;2024;76,6;0,8;2,7;65,5;conforme;87060;21156;51;112;1130;Non vérifié
-29030;Cléder;29;eau potable;86811;2024;77,7;1,7;5,9;66,2;conforme;92231;69929;53;141;3584;Non vérifié
-29031;Clohars-Carnoët;29;eau potable : Secteur Régie eau potable CC Quimperlé;282074;2024;83,2;1,4;7,0;66,4;conforme;813420;67020;39;73;4708;Non vérifié
-29032;Clohars-Fouesnant;29;eau potable : Secteur Clohars-F, Saint-Evarzec, Pleuven et Gouesnac'h;86531;2024;90,7;0,9;8,7;66,7;conforme;81061;15313;19;40;2264;Non vérifié
-29033;Le Cloître-Pleyben;29;eau potable : Secteur CC PLeyben-Châteaulin-Plonevez-Porzay;298594;2024;79,1;1,2;4,6;65,9;conforme;242008;10334;56;96;502;Non vérifié
-29034;Le Cloître-Saint-Thégonnec;29;eau potable : Secteur Régie Eau Potable Morlaix Communauté;282994;2024;78,4;1,5;5,6;66,1;conforme;908850;9330;40;107;641;Non vérifié
-29035;Coat-Méal;29;eau potable : CC Pays des Abers-régie Eau Potable;284154;2024;89,7;0,9;7,8;66,6;conforme;269370;7503;18;43;1133;Non vérifié
-29037;Combrit;29;eau potable;86691;2024;91,8;0,8;8,4;66,7;conforme;236961;26179;17;41;4265;Non vérifié
-29038;Commana;29;eau potable : Commana et Guimiliau;86933;2024;81,4;0,9;2,5;65,5;conforme;35051;17428;49;131;983;Non vérifié
-29039;Concarneau;29;eau potable : Concarneau;86703;2024;82,8;3,0;14,3;67,9;conforme;267837;267837;35;77;20845;Non vérifié
-29040;Le Conquet;29;eau potable : Lampaul-Plouarzel, Le Conquet, Trébabu, Ploumoguer, Plouarzel, Plougonvelin, Locmaria-Plouzané;86661;2024;85,5;1,0;5,8;66,2;conforme;163038;21825;21;63;2835;Non vérifié
-29042;Crozon;29;eau potable : Crozon-Aulne-Maritime -Secteur Régie;313914;2024;73,3;2,0;5,4;66,1;conforme;417560;148198;54;136;7499;Non vérifié
-29043;Daoulas;29;eau potable : secteur eau du ponant-CC Landerneau;281394;2024;85,2;1,8;10,5;67,1;conforme;580814;24457;36;70;1864;Non vérifié
-29044;Dinéault;29;eau potable : Secteur CC PLeyben-Châteaulin-Plonevez-Porzay;298594;2024;79,1;1,2;4,6;65,9;conforme;242008;38146;56;96;1853;Non vérifié
-29045;Dirinon;29;eau potable : secteur eau du ponant-CC Landerneau;281394;2024;85,2;1,8;10,5;67,1;conforme;580814;28708;36;70;2188;Non vérifié
-29046;Douarnenez;29;eau potable : douarnenez;86713;2024;93,5;1,2;17,8;68,6;conforme;63282;63282;12;26;14068;Non vérifié
-29047;Le Drennec;29;eau potable : CC Pays des Abers-régie Eau Potable;284154;2024;89,7;0,9;7,8;66,6;conforme;269370;12556;18;43;1896;Non vérifié
-29048;Edern;29;eau potable : Kemper Breizh Izel Régie Eau Potable;218004;2024;81,0;1,2;5,1;66,0;conforme;303679;39435;49;92;2186;Non vérifié
-29049;Elliant;29;eau potable : Elliant;86563;2024;88,6;0,5;3,8;65,8;conforme;25915;25915;21;50;3427;Non vérifié
-29051;Ergué-Gabéric;29;eau potable : Délégation Kemper Breizh Izel;203098;2024;91,6;1,2;13,3;67,7;conforme;409753;41144;13;33;8606;Non vérifié
-29053;Le Faou;29;eau potable : Le Faou - Secteur Veolia;313934;2024;79,0;1,7;6,5;66,3;conforme;27922;27922;40;96;1911;Non vérifié
-29054;La Feuillée;29;eau potable;86617;2024;83,3;7,4;37,0;72,4;conforme;10264;10264;42;80;677;Non vérifié
-29055;Le Folgoët;29;eau potable : Régie-eau-potable-CC-Lesneven;292334;2024;81,2;1,5;6,4;66,3;conforme;366157;43777;36;86;3315;Non vérifié
-29056;La Forest-Landerneau;29;eau potable : secteur eau du ponant-CC Landerneau;281394;2024;85,2;1,8;10,5;67,1;conforme;580814;26478;36;70;2018;Non vérifié
-29058;Fouesnant;29;eau potable : Secteur Fouesnant - La Forêt Fouesnant;86570;2024;85,4;1,4;8,0;66,6;conforme;156361;156361;41;64;10436;Non vérifié
-29059;Garlan;29;eau potable : Secteur Régie Eau Potable Morlaix Communauté;282994;2024;78,4;1,5;5,6;66,1;conforme;908850;15181;40;107;1043;Non vérifié
-29060;Gouesnach;29;eau potable : Secteur Clohars-F, Saint-Evarzec, Pleuven et Gouesnac'h;86531;2024;90,7;0,9;8,7;66,7;conforme;81061;19181;19;40;2836;Non vérifié
-29061;Gouesnou;29;eau potable;86787;2024;86,4;4,2;26,9;70,4;conforme;2053484;62011;26;80;6501;Non vérifié
-29062;Gouézec;29;eau potable : Secteur CC PLeyben-Châteaulin-Plonevez-Porzay;298594;2024;79,1;1,2;4,6;65,9;conforme;242008;22871;56;96;1111;Non vérifié
-29063;Goulien;29;eau potable;86556;2024;77,6;0,9;3,2;65,6;conforme;78840;9198;57;122;446;Non vérifié
-29064;Goulven;29;eau potable : Régie-eau-potable-CC-Lesneven;292334;2024;81,2;1,5;6,4;66,3;conforme;366157;5705;36;86;432;Non vérifié
-29065;Gourlizon;29;eau potable : Haut Pays Bigouden;317154;2024;81,0;1,1;4,7;65,9;conforme;256478;13034;38;107;949;Non vérifié
-29066;Guengat;29;eau potable : Délégation Kemper Breizh Izel;203098;2024;91,6;1,2;13,3;67,7;conforme;409753;8825;13;33;1846;Non vérifié
-29067;Guerlesquin;29;eau potable : Secteur Régie Eau Potable Morlaix Communauté;282994;2024;78,4;1,5;5,6;66,1;conforme;908850;18704;40;107;1285;Non vérifié
-29068;Guiclan;29;eau potable : Lampaul, Landivisiau, Sizun, Guiclan;344774;2024;84,1;1,3;7,1;66,4;conforme;163608;25839;27;67;2585;Non vérifié
-29069;Guilers;29;eau potable;86787;2024;86,4;4,2;26,9;70,4;conforme;2053484;78866;26;80;8268;Non vérifié
-29070;Guiler-sur-Goyen;29;eau potable : Haut Pays Bigouden;317154;2024;81,0;1,1;4,7;65,9;conforme;256478;7142;38;107;520;Non vérifié
-29071;Guilligomarc'h;29;eau potable : Secteur Régie eau potable CC Quimperlé;282074;2024;83,2;1,4;7,0;66,4;conforme;813420;11431;39;73;803;Non vérifié
-29072;Guilvinec;29;eau potable;86691;2024;91,8;0,8;8,4;66,7;conforme;236961;16383;17;41;2669;Non vérifié
-29073;Guimaëc;29;eau potable : Secteur Régie Eau Potable Morlaix Communauté;282994;2024;78,4;1,5;5,6;66,1;conforme;908850;14293;40;107;982;Non vérifié
-29074;Guimiliau;29;eau potable : Commana et Guimiliau;86933;2024;81,4;0,9;2,5;65,5;conforme;35051;17623;49;131;994;Non vérifié
-29075;Guipavas;29;eau potable;86787;2024;86,4;4,2;26,9;70,4;conforme;2053484;148213;26;80;15538;Non vérifié
-29076;Milizac-Guipronvel;29;eau potable : Secteur régie eau potable CC Pays d'Iroise;283054;2024;83,0;1,6;8,0;66,6;conforme;113997;38638;22;73;4816;Non vérifié
-29077;Guissény;29;eau potable : Régie-eau-potable-CC-Lesneven;292334;2024;81,2;1,5;6,4;66,3;conforme;366157;26134;36;86;1979;Non vérifié
-29078;Hanvec;29;eau potable : Hanvec;309374;2024;72,1;1,5;3,9;65,8;conforme;44720;44720;61;183;2025;Non vérifié
-29079;Henvic;29;eau potable : Secteur Régie Eau Potable Morlaix Communauté;282994;2024;78,4;1,5;5,6;66,1;conforme;908850;17190;40;107;1181;Non vérifié
-29080;Hôpital-Camfrout;29;eau potable : secteur eau du ponant-CC Landerneau;281394;2024;85,2;1,8;10,5;67,1;conforme;580814;29062;36;70;2215;Non vérifié
-29081;Huelgoat;29;eau potable;86571;2024;65,2;2,4;4,4;65,9;non conforme;39087;39087;74;202;1440;Non vérifié
-29084;Île-Molène;29;eau potable : Ile Molène;86864;2024;71,2;1,0;2,4;65,5;conforme;2172;2172;34;154;176;Non vérifié
-29085;Île-Tudy;29;eau potable;86691;2024;91,8;0,8;8,4;66,7;conforme;236961;4554;17;41;742;Non vérifié
-29086;Irvillac;29;eau potable : secteur eau du ponant-CC Landerneau;281394;2024;85,2;1,8;10,5;67,1;conforme;580814;18513;36;70;1411;Non vérifié
-29087;Le Juch;29;eau potable : Le Juch -Pouldergat;86533;2024;95,9;0,5;11,5;67,3;conforme;16889;6532;23;84;765;Non vérifié
-29089;Kergloff;29;eau potable;86622;2024;96,1;0,1;3,7;65,7;conforme;1825;1825;6;10;897;Non vérifié
-29090;Kerlaz;29;eau potable : Kerlaz;86519;2024;87,5;0,4;2,7;65,5;conforme;4926;4926;17;54;805;Non vérifié
-29091;Kerlouan;29;eau potable : Régie-eau-potable-CC-Lesneven;292334;2024;81,2;1,5;6,4;66,3;conforme;366157;26398;36;86;1999;Non vérifié
-29093;Kernilis;29;eau potable : Régie-eau-potable-CC-Lesneven;292334;2024;81,2;1,5;6,4;66,3;conforme;366157;18581;36;86;1407;Non vérifié
-29094;Kernouës;29;eau potable : Régie-eau-potable-CC-Lesneven;292334;2024;81,2;1,5;6,4;66,3;conforme;366157;8782;36;86;665;Non vérifié
-29097;Lampaul-Guimiliau;29;eau potable : Lampaul, Landivisiau, Sizun, Guiclan;344774;2024;84,1;1,3;7,1;66,4;conforme;163608;20311;27;67;2032;Non vérifié
-29098;Lampaul-Plouarzel;29;eau potable : Lampaul-Plouarzel, Le Conquet, Trébabu, Ploumoguer, Plouarzel, Plougonvelin, Locmaria-Plouzané;86661;2024;85,5;1,0;5,8;66,2;conforme;163038;17098;21;63;2221;Non vérifié
-29099;Lampaul-Ploudalmézeau;29;eau potable : Secteur régie eau potable CC Pays d'Iroise;283054;2024;83,0;1,6;8,0;66,6;conforme;113997;6547;22;73;816;Non vérifié
-29100;Lanarvily;29;eau potable : Régie-eau-potable-CC-Lesneven;292334;2024;81,2;1,5;6,4;66,3;conforme;366157;5296;36;86;401;Non vérifié
-29101;Landéda;29;eau potable : CC Pays des Abers-régie Eau Potable;284154;2024;89,7;0,9;7,8;66,6;conforme;269370;24516;18;43;3702;Non vérifié
-29102;Landeleau;29;eau potable : Territoire n°1;86554;2024;76,6;0,8;2,7;65,5;conforme;87060;18591;51;112;993;Non vérifié
-29103;Landerneau;29;eau potable : secteur eau du ponant-CC Landerneau;281394;2024;85,2;1,8;10,5;67,1;conforme;580814;214694;36;70;16363;Non vérifié
-29104;Landévennec;29;eau potable : Crozon-Aulne-Maritime -Secteur Régie;313914;2024;73,3;2,0;5,4;66,1;conforme;417560;6522;54;136;330;Non vérifié
-29105;Landivisiau;29;eau potable : Lampaul, Landivisiau, Sizun, Guiclan;344774;2024;84,1;1,3;7,1;66,4;conforme;163608;94218;27;67;9426;Non vérifié
-29106;Landrévarzec;29;eau potable : Kemper Breizh Izel Régie Eau Potable;218004;2024;81,0;1,2;5,1;66,0;conforme;303679;33951;49;92;1882;Non vérifié
-29107;Landudal;29;eau potable : Kemper Breizh Izel Régie Eau Potable;218004;2024;81,0;1,2;5,1;66,0;conforme;303679;16777;49;92;930;Non vérifié
-29108;Landudec;29;eau potable : Haut Pays Bigouden;317154;2024;81,0;1,1;4,7;65,9;conforme;256478;20039;38;107;1459;Non vérifié
-29109;Landunvez;29;eau potable : Landunvez, Lanildut, Porspoder, Plourin;86784;2024;85,9;0,6;3,8;65,8;conforme;47841;11656;20;58;1579;Non vérifié
-29110;Langolen;29;eau potable : Kemper Breizh Izel Régie Eau Potable;218004;2024;81,0;1,2;5,1;66,0;conforme;303679;15081;49;92;836;Non vérifié
-29111;Lanhouarneau;29;eau potable;86940;2024;71,7;1,1;2,8;65,6;conforme;126834;17353;37;148;1282;Non vérifié
-29112;Lanildut;29;eau potable : Landunvez, Lanildut, Porspoder, Plourin;86784;2024;85,9;0,6;3,8;65,8;conforme;47841;7478;20;58;1013;Non vérifié
-29113;Lanmeur;29;eau potable : Secteur Régie Eau Potable Morlaix Communauté;282994;2024;78,4;1,5;5,6;66,1;conforme;908850;34744;40;107;2387;Non vérifié
-29114;Lannéanou;29;eau potable : Secteur Régie Eau Potable Morlaix Communauté;282994;2024;78,4;1,5;5,6;66,1;conforme;908850;4978;40;107;342;Non vérifié
-29115;Lannédern;29;eau potable : Secteur CC PLeyben-Châteaulin-Plonevez-Porzay;298594;2024;79,1;1,2;4,6;65,9;conforme;242008;6608;56;96;321;Non vérifié
-29116;Lanneuffret;29;eau potable;86940;2024;71,7;1,1;2,8;65,6;conforme;126834;2139;37;148;158;Non vérifié
-29117;Lannilis;29;eau potable : CC Pays des Abers-régie Eau Potable;284154;2024;89,7;0,9;7,8;66,6;conforme;269370;37807;18;43;5709;Non vérifié
-29120;Lanvéoc;29;eau potable : Crozon-Aulne-Maritime -Secteur Régie;313914;2024;73,3;2,0;5,4;66,1;conforme;417560;40394;54;136;2044;Non vérifié
-29122;Laz;29;eau potable : Laz;86625;2024;93,6;0,2;3,4;65,7;conforme;3431;3431;14;22;685;Non vérifié
-29123;Lennon;29;eau potable : Lennon;86513;2024;83,0;0,7;3,6;65,7;conforme;12463;12463;42;72;812;Non vérifié
-29124;Lesneven;29;eau potable : Régie-eau-potable-CC-Lesneven;292334;2024;81,2;1,5;6,4;66,3;conforme;366157;99915;36;86;7566;Non vérifié
-29126;Loc-Brévalaire;29;eau potable : CC Pays des Abers-régie Eau Potable;284154;2024;89,7;0,9;7,8;66,6;conforme;269370;1391;18;43;210;Non vérifié
-29128;Loc-Eguiner;29;eau potable : Loc Eguinier;344814;2024;87,9;0,5;4,0;65,8;conforme;3778;3778;28;46;376;Non vérifié
-29130;Locmaria-Plouzané;29;eau potable : Lampaul-Plouarzel, Le Conquet, Trébabu, Ploumoguer, Plouarzel, Plougonvelin, Locmaria-Plouzané;86661;2024;85,5;1,0;5,8;66,2;conforme;163038;39493;21;63;5130;Non vérifié
-29131;Locmélar;29;eau potable : Locmélar et Saint-Sauveur;86817;2024;84,8;0,6;2,7;65,5;conforme;13709;4997;28;115;487;Non vérifié
-29132;Locquénolé;29;eau potable : Secteur Régie Eau Potable Morlaix Communauté;282994;2024;78,4;1,5;5,6;66,1;conforme;908850;11499;40;107;790;Non vérifié
-29133;Locquirec;29;eau potable : Secteur Régie Eau Potable Morlaix Communauté;282994;2024;78,4;1,5;5,6;66,1;conforme;908850;22634;40;107;1555;Non vérifié
-29134;Locronan;29;eau potable : Kemper Breizh Izel Régie Eau Potable;218004;2024;81,0;1,2;5,1;66,0;conforme;303679;14955;49;92;829;Non vérifié
-29135;Loctudy;29;eau potable;86691;2024;91,8;0,8;8,4;66,7;conforme;236961;25013;17;41;4075;Non vérifié
-29136;Locunolé;29;eau potable : Secteur Régie eau potable CC Quimperlé;282074;2024;83,2;1,4;7,0;66,4;conforme;813420;16755;39;73;1177;Non vérifié
-29137;Logonna-Daoulas;29;eau potable : secteur eau du ponant-CC Landerneau;281394;2024;85,2;1,8;10,5;67,1;conforme;580814;27947;36;70;2130;Non vérifié
-29139;Lopérec;29;eau potable;86630;2024;76,2;13,4;42,9;73,6;conforme;28857;28857;95;114;828;Non vérifié
-29140;Loperhet;29;eau potable : secteur eau du ponant-CC Landerneau;281394;2024;85,2;1,8;10,5;67,1;conforme;580814;51945;36;70;3959;Non vérifié
-29141;Loqueffret;29;eau potable;86650;2024;88,5;0,7;5,4;66,1;conforme;17374;8885;72;85;336;Non vérifié
-29142;Lothey;29;eau potable : Secteur CC PLeyben-Châteaulin-Plonevez-Porzay;298594;2024;79,1;1,2;4,6;65,9;conforme;242008;8728;56;96;424;Non vérifié
-29143;Mahalon;29;eau potable;211499;2024;88,1;0,3;2,3;65,5;conforme;5584;5584;15;48;1021;Non vérifié
-29144;La Martyre;29;eau potable : secteur eau du ponant-CC Landerneau;281394;2024;85,2;1,8;10,5;67,1;conforme;580814;9854;36;70;751;Non vérifié
-29146;Melgven;29;eau potable : Melgven;86663;2024;73,8;1,5;4,3;65,9;conforme;68985;68985;56;137;3371;Non vérifié
-29147;Mellac;29;eau potable : Secteur Régie eau potable CC Quimperlé;282074;2024;83,2;1,4;7,0;66,4;conforme;813420;48457;39;73;3404;Non vérifié
-29148;Mespaul;29;eau potable;86822;2024;97,6;0,8;31,3;71,3;conforme;51976;6332;18;51;946;Non vérifié
-29150;Moëlan-sur-Mer;29;eau potable : Secteur Régie eau potable CC Quimperlé;282074;2024;83,2;1,4;7,0;66,4;conforme;813420;96074;39;73;6749;Non vérifié
-29151;Morlaix;29;eau potable : Secteur Régie Eau Potable Morlaix Communauté;282994;2024;78,4;1,5;5,6;66,1;conforme;908850;221154;40;107;15194;Non vérifié
-29152;Motreff;29;eau potable;86891;2024;84,4;0,8;4,3;65,9;conforme;11680;11680;49;67;654;Non vérifié
-29153;Névez;29;eau potable : Pont-Aven, Nevez, trégunc;86527;2024;82,5;2,0;9,5;66,9;conforme;245280;53896;53;107;2795;Non vérifié
-29155;Ouessant;29;eau potable;86830;2024;86,2;0,6;3,6;65,7;conforme;9202;9202;29;61;860;Non vérifié
-29156;Pencran;29;eau potable : secteur eau du ponant-CC Landerneau;281394;2024;85,2;1,8;10,5;67,1;conforme;580814;29312;36;70;2234;Non vérifié
-29158;Penmarch;29;eau potable;86691;2024;91,8;0,8;8,4;66,7;conforme;236961;33809;17;41;5508;Non vérifié
-29159;Peumerit;29;eau potable : Haut Pays Bigouden;317154;2024;81,0;1,1;4,7;65,9;conforme;256478;12595;38;107;917;Non vérifié
-29160;Plabennec;29;eau potable : CC Pays des Abers-régie Eau Potable;284154;2024;89,7;0,9;7,8;66,6;conforme;269370;57522;18;43;8686;Non vérifié
-29161;Pleuven;29;eau potable : Secteur Clohars-F, Saint-Evarzec, Pleuven et Gouesnac'h;86531;2024;90,7;0,9;8,7;66,7;conforme;81061;22394;19;40;3311;Non vérifié
-29162;Pleyben;29;eau potable : Pleyben;86508;2024;87,7;0,7;5,1;66,0;conforme;44110;44110;33;71;3692;Non vérifié
-29163;Pleyber-Christ;29;eau potable : Secteur Régie Eau Potable Morlaix Communauté;282994;2024;78,4;1,5;5,6;66,1;conforme;908850;46082;40;107;3166;Non vérifié
-29165;Plobannalec-Lesconil;29;eau potable;86691;2024;91,8;0,8;8,4;66,7;conforme;236961;22821;17;41;3718;Non vérifié
-29166;Ploéven;29;eau potable : Secteur CC PLeyben-Châteaulin-Plonevez-Porzay;298594;2024;79,1;1,2;4,6;65,9;conforme;242008;11322;56;96;550;Non vérifié
-29167;Plogastel-Saint-Germain;29;eau potable : Haut Pays Bigouden;317154;2024;81,0;1,1;4,7;65,9;conforme;256478;27799;38;107;2024;Non vérifié
-29169;Plogonnec;29;eau potable : Kemper Breizh Izel Régie Eau Potable;218004;2024;81,0;1,2;5,1;66,0;conforme;303679;58376;49;92;3236;Non vérifié
-29170;Plomelin;29;eau potable : Délégation Kemper Breizh Izel;203098;2024;91,6;1,2;13,3;67,7;conforme;409753;20266;13;33;4239;Non vérifié
-29171;Plomeur;29;eau potable;86691;2024;91,8;0,8;8,4;66,7;conforme;236961;23963;17;41;3904;Non vérifié
-29172;Plomodiern;29;eau potable : Secteur CC PLeyben-Châteaulin-Plonevez-Porzay;298594;2024;79,1;1,2;4,6;65,9;conforme;242008;46977;56;96;2282;Non vérifié
-29173;Plonéis;29;eau potable : Délégation Kemper Breizh Izel;203098;2024;91,6;1,2;13,3;67,7;conforme;409753;11517;13;33;2409;Non vérifié
-29174;Plonéour-Lanvern;29;eau potable : Haut Pays Bigouden;317154;2024;81,0;1,1;4,7;65,9;conforme;256478;88615;38;107;6452;Non vérifié
-29175;Plonévez-du-Faou;29;eau potable : PLONÉVEZ DU FAOU;86576;2024;75,6;1,2;3,6;65,7;conforme;68884;68884;87;165;2160;Non vérifié
-29176;Plonévez-Porzay;29;eau potable : Secteur CC PLeyben-Châteaulin-Plonevez-Porzay;298594;2024;79,1;1,2;4,6;65,9;conforme;242008;36664;56;96;1781;Non vérifié
-29177;Plouarzel;29;eau potable : Lampaul-Plouarzel, Le Conquet, Trébabu, Ploumoguer, Plouarzel, Plougonvelin, Locmaria-Plouzané;86661;2024;85,5;1,0;5,8;66,2;conforme;163038;31017;21;63;4029;Non vérifié
-29178;Ploudalmézeau;29;eau potable : Ploudalmézeau;86755;2024;72,0;2,5;6,3;66,3;conforme;99700;99700;42;144;6522;Non vérifié
-29179;Ploudaniel;29;eau potable : Régie-eau-potable-CC-Lesneven;292334;2024;81,2;1,5;6,4;66,3;conforme;366157;49284;36;86;3732;Non vérifié
-29180;Ploudiry;29;eau potable : secteur eau du ponant-CC Landerneau;281394;2024;85,2;1,8;10,5;67,1;conforme;580814;11441;36;70;872;Non vérifié
-29181;Plouédern;29;eau potable : secteur eau du ponant-CC Landerneau;281394;2024;85,2;1,8;10,5;67,1;conforme;580814;40714;36;70;3103;Non vérifié
-29182;Plouégat-Guérand;29;eau potable : Secteur Régie Eau Potable Morlaix Communauté;282994;2024;78,4;1,5;5,6;66,1;conforme;908850;15283;40;107;1050;Non vérifié
-29183;Plouégat-Moysan;29;eau potable : Secteur Régie Eau Potable Morlaix Communauté;282994;2024;78,4;1,5;5,6;66,1;conforme;908850;10436;40;107;717;Non vérifié
-29184;Plouénan;29;eau potable;86822;2024;97,6;0,8;31,3;71,3;conforme;51976;17470;18;51;2610;Non vérifié
-29185;Plouescat;29;eau potable;86903;2024;87,3;1,1;7,7;66,5;conforme;32120;32120;25;52;3554;Non vérifié
-29186;Plouezoc'h;29;eau potable : Secteur Régie Eau Potable Morlaix Communauté;282994;2024;78,4;1,5;5,6;66,1;conforme;908850;23958;40;107;1646;Non vérifié
-29187;Plougar;29;eau potable;86940;2024;71,7;1,1;2,8;65,6;conforme;126834;10680;37;148;789;Non vérifié
-29188;Plougasnou;29;eau potable : Secteur Régie Eau Potable Morlaix Communauté;282994;2024;78,4;1,5;5,6;66,1;conforme;908850;46461;40;107;3192;Non vérifié
-29189;Plougastel-Daoulas;29;eau potable;86787;2024;86,4;4,2;26,9;70,4;conforme;2053484;128144;26;80;13434;Non vérifié
-29190;Plougonvelin;29;eau potable : Lampaul-Plouarzel, Le Conquet, Trébabu, Ploumoguer, Plouarzel, Plougonvelin, Locmaria-Plouzané;86661;2024;85,5;1,0;5,8;66,2;conforme;163038;34805;21;63;4521;Non vérifié
-29191;Plougonven;29;eau potable : Secteur Régie Eau Potable Morlaix Communauté;282994;2024;78,4;1,5;5,6;66,1;conforme;908850;49226;40;107;3382;Non vérifié
-29192;Plougoulm;29;eau potable;86822;2024;97,6;0,8;31,3;71,3;conforme;51976;11747;18;51;1755;Non vérifié
-29193;Plougourvest;29;eau potable;86940;2024;71,7;1,1;2,8;65,6;conforme;126834;20602;37;148;1522;Non vérifié
-29195;Plouguerneau;29;eau potable : CC Pays des Abers-régie Eau Potable;284154;2024;89,7;0,9;7,8;66,6;conforme;269370;44734;18;43;6755;Non vérifié
-29196;Plouguin;29;eau potable : CC Pays des Abers-régie Eau Potable;284154;2024;89,7;0,9;7,8;66,6;conforme;269370;15019;18;43;2268;Non vérifié
-29198;Plouider;29;eau potable : Régie-eau-potable-CC-Lesneven;292334;2024;81,2;1,5;6,4;66,3;conforme;366157;23889;36;86;1809;Non vérifié
-29199;Plouigneau;29;eau potable : Secteur Régie Eau Potable Morlaix Communauté;282994;2024;78,4;1,5;5,6;66,1;conforme;908850;72980;40;107;5014;Non vérifié
-29201;Ploumoguer;29;eau potable : Lampaul-Plouarzel, Le Conquet, Trébabu, Ploumoguer, Plouarzel, Plougonvelin, Locmaria-Plouzané;86661;2024;85,5;1,0;5,8;66,2;conforme;163038;15967;21;63;2074;Non vérifié
-29202;Plounéour-Ménez;29;eau potable : Secteur Régie Eau Potable Morlaix Communauté;282994;2024;78,4;1,5;5,6;66,1;conforme;908850;18878;40;107;1297;Non vérifié
-29204;Plounéventer;29;eau potable;86940;2024;71,7;1,1;2,8;65,6;conforme;126834;30470;37;148;2251;Non vérifié
-29206;Plounévez-Lochrist;29;eau potable;86801;2024;77,3;1,2;3,9;65,8;conforme;47304;47304;57;112;2281;Non vérifié
-29207;Plourin-lès-Morlaix;29;eau potable : Secteur Régie Eau Potable Morlaix Communauté;282994;2024;78,4;1,5;5,6;66,1;conforme;908850;66198;40;107;4548;Non vérifié
-29208;Plourin;29;eau potable : Landunvez, Lanildut, Porspoder, Plourin;86784;2024;85,9;0,6;3,8;65,8;conforme;47841;9360;20;58;1268;Non vérifié
-29209;Plouvien;29;eau potable : CC Pays des Abers-régie Eau Potable;284154;2024;89,7;0,9;7,8;66,6;conforme;269370;26277;18;43;3968;Non vérifié
-29210;Plouvorn;29;eau potable : Plouvorn;86914;2024;80,9;1,2;4,2;65,8;conforme;41479;41479;39;105;2916;Non vérifié
-29211;Plouyé;29;eau potable;86578;2024;87,9;0,2;1,8;65,4;conforme;4949;4949;20;41;687;Non vérifié
-29212;Plouzané;29;eau potable;86787;2024;86,4;4,2;26,9;70,4;conforme;2053484;129412;26;80;13567;Non vérifié
-29213;Plouzévédé;29;eau potable : Plouzévédé, Trézilidé, Saint-Vougay;344794;2024;92,5;0,4;5,3;66,1;conforme;15184;9072;13;41;1897;Non vérifié
-29214;Plovan;29;eau potable : Haut Pays Bigouden;317154;2024;81,0;1,1;4,7;65,9;conforme;256478;9298;38;107;677;Non vérifié
-29215;Plozévet;29;eau potable : Haut Pays Bigouden;317154;2024;81,0;1,1;4,7;65,9;conforme;256478;40984;38;107;2984;Non vérifié
-29216;Pluguffan;29;eau potable : Délégation Kemper Breizh Izel;203098;2024;91,6;1,2;13,3;67,7;conforme;409753;20189;13;33;4223;Non vérifié
-29217;Pont-Aven;29;eau potable : Pont-Aven, Nevez, trégunc;86527;2024;82,5;2,0;9,5;66,9;conforme;245280;53549;53;107;2777;Non vérifié
-29220;Pont-l'Abbé;29;eau potable;86691;2024;91,8;0,8;8,4;66,7;conforme;236961;52076;17;41;8484;Non vérifié
-29221;Porspoder;29;eau potable : Landunvez, Lanildut, Porspoder, Plourin;86784;2024;85,9;0,6;3,8;65,8;conforme;47841;12940;20;58;1753;Non vérifié
-29222;Port-Launay;29;eau potable : Port-Launay;86586;2024;94,2;0,3;5,3;66,1;conforme;1026;1026;7;21;404;Non vérifié
-29224;Pouldergat;29;eau potable : Le Juch -Pouldergat;86533;2024;95,9;0,5;11,5;67,3;conforme;16889;10357;23;84;1213;Non vérifié
-29225;Pouldreuzic;29;eau potable : Haut Pays Bigouden;317154;2024;81,0;1,1;4,7;65,9;conforme;256478;29103;38;107;2119;Non vérifié
-29226;Poullan-sur-Mer;29;eau potable;86556;2024;77,6;0,9;3,2;65,6;conforme;78840;29965;57;122;1453;Non vérifié
-29227;Poullaouen;29;eau potable : Poullaouen Eau potable;308534;2024;88,4;0,4;0,2;65,0;conforme;15558;15558;29;683;1470;Non vérifié
-29229;Quéménéven;29;eau potable : Kemper Breizh Izel Régie Eau Potable;218004;2024;81,0;1,2;5,1;66,0;conforme;303679;20186;49;92;1119;Non vérifié
-29230;Querrien;29;eau potable : Secteur Régie eau potable CC Quimperlé;282074;2024;83,2;1,4;7,0;66,4;conforme;813420;23417;39;73;1645;Non vérifié
-29232;Quimper;29;eau potable : Délégation Kemper Breizh Izel;203098;2024;91,6;1,2;13,3;67,7;conforme;409753;307812;13;33;64385;Non vérifié
-29233;Quimperlé;29;eau potable : Secteur Régie eau potable CC Quimperlé;282074;2024;83,2;1,4;7,0;66,4;conforme;813420;177500;39;73;12469;Non vérifié
-29234;Rédené;29;eau potable : Secteur Régie eau potable CC Quimperlé;282074;2024;83,2;1,4;7,0;66,4;conforme;813420;43318;39;73;3043;Non vérifié
-29235;Le Relecq-Kerhuon;29;eau potable;86787;2024;86,4;4,2;26,9;70,4;conforme;2053484;113483;26;80;11897;Non vérifié
-29236;Riec-sur-Belon;29;eau potable : Secteur Régie eau potable CC Quimperlé;282074;2024;83,2;1,4;7,0;66,4;conforme;813420;62294;39;73;4376;Non vérifié
-29237;La Roche-Maurice;29;eau potable : secteur eau du ponant-CC Landerneau;281394;2024;85,2;1,8;10,5;67,1;conforme;580814;24837;36;70;1893;Non vérifié
-29238;Roscanvel;29;eau potable : Crozon-Aulne-Maritime -Secteur Régie;313914;2024;73,3;2,0;5,4;66,1;conforme;417560;16897;54;136;855;Non vérifié
-29239;Roscoff;29;eau potable;86920;2024;88,1;2,1;15,2;68,0;conforme;38118;38118;31;50;3334;Non vérifié
-29240;Rosnoën;29;eau potable : Crozon-Aulne-Maritime -Secteur Régie;313914;2024;73,3;2,0;5,4;66,1;conforme;417560;20000;54;136;1012;Non vérifié
-29241;Rosporden;29;eau potable : Rosporden;86702;2024;88,1;1,0;7,7;66,5;conforme;68255;68255;25;50;7550;Non vérifié
-29243;Saint-Coulitz;29;eau potable : Secteur CC PLeyben-Châteaulin-Plonevez-Porzay;298594;2024;79,1;1,2;4,6;65,9;conforme;242008;9778;56;96;475;Non vérifié
-29244;Saint-Derrien;29;eau potable;86940;2024;71,7;1,1;2,8;65,6;conforme;126834;11655;37;148;861;Non vérifié
-29245;Saint-Divy;29;eau potable : ex-SYNDICAT DES EAUX DU SPERNEL;86771;2024;90,4;0,8;7,8;66,6;conforme;26423;11909;20;38;1605;Non vérifié
-29246;Saint-Eloy;29;eau potable : secteur eau du ponant-CC Landerneau;281394;2024;85,2;1,8;10,5;67,1;conforme;580814;2887;36;70;220;Non vérifié
-29247;Saint-Évarzec;29;eau potable : Secteur Clohars-F, Saint-Evarzec, Pleuven et Gouesnac'h;86531;2024;90,7;0,9;8,7;66,7;conforme;81061;24173;19;40;3574;Non vérifié
-29248;Saint-Frégant;29;eau potable : Régie-eau-potable-CC-Lesneven;292334;2024;81,2;1,5;6,4;66,3;conforme;366157;11542;36;86;874;Non vérifié
-29250;Saint-Hernin;29;eau potable : Territoire n°1;86554;2024;76,6;0,8;2,7;65,5;conforme;87060;14098;51;112;753;Non vérifié
-29251;Saint-Jean-du-Doigt;29;eau potable : Secteur Régie Eau Potable Morlaix Communauté;282994;2024;78,4;1,5;5,6;66,1;conforme;908850;10072;40;107;692;Non vérifié
-29252;Saint-Jean-Trolimon;29;eau potable;86691;2024;91,8;0,8;8,4;66,7;conforme;236961;6120;17;41;997;Non vérifié
-29254;Saint-Martin-des-Champs;29;eau potable : Secteur Régie Eau Potable Morlaix Communauté;282994;2024;78,4;1,5;5,6;66,1;conforme;908850;69473;40;107;4773;Non vérifié
-29255;Saint-Méen;29;eau potable : Régie-eau-potable-CC-Lesneven;292334;2024;81,2;1,5;6,4;66,3;conforme;366157;12440;36;86;942;Non vérifié
-29256;Saint-Nic;29;eau potable : Secteur CC PLeyben-Châteaulin-Plonevez-Porzay;298594;2024;79,1;1,2;4,6;65,9;conforme;242008;15501;56;96;753;Non vérifié
-29257;Saint-Pabu;29;eau potable : CC Pays des Abers-régie Eau Potable;284154;2024;89,7;0,9;7,8;66,6;conforme;269370;13821;18;43;2087;Non vérifié
-29259;Saint-Pol-de-Léon;29;eau potable;86924;2024;88,8;1,0;8,3;66,7;conforme;41971;41971;17;44;6941;Non vérifié
-29260;Saint-Renan;29;eau potable : Secteur régie eau potable CC Pays d'Iroise;283054;2024;83,0;1,6;8,0;66,6;conforme;113997;68812;22;73;8577;Non vérifié
-29261;Saint-Rivoal;29;eau potable;86642;2024;55,6;1,3;1,6;65,3;non conforme;9158;9158;113;302;223;Non vérifié
-29262;Saint-Sauveur;29;eau potable : Locmélar et Saint-Sauveur;86817;2024;84,8;0,6;2,7;65,5;conforme;13709;8712;28;115;849;Non vérifié
-29263;Saint-Ségal;29;eau potable : Saint-Segal;86517;2024;78,4;0,9;3,2;65,6;conforme;11727;11727;27;103;1182;Non vérifié
-29264;Saint-Servais;29;eau potable;86940;2024;71,7;1,1;2,8;65,6;conforme;126834;10612;37;148;784;Non vérifié
-29265;Sainte-Sève;29;eau potable : Secteur Régie Eau Potable Morlaix Communauté;282994;2024;78,4;1,5;5,6;66,1;conforme;908850;15676;40;107;1077;Non vérifié
-29266;Saint-Thégonnec Loc-Eguiner;29;eau potable : Secteur Régie Eau Potable Morlaix Communauté;282994;2024;78,4;1,5;5,6;66,1;conforme;908850;45820;40;107;3148;Non vérifié
-29268;Saint-Thonan;29;eau potable : ex-SYNDICAT DES EAUX DU SPERNEL;86771;2024;90,4;0,8;7,8;66,6;conforme;26423;14514;20;38;1956;Non vérifié
-29269;Saint-Thurien;29;eau potable : Secteur Régie eau potable CC Quimperlé;282074;2024;83,2;1,4;7,0;66,4;conforme;813420;14235;39;73;1000;Non vérifié
-29270;Saint-Urbain;29;eau potable : secteur eau du ponant-CC Landerneau;281394;2024;85,2;1,8;10,5;67,1;conforme;580814;21912;36;70;1670;Non vérifié
-29271;Saint-Vougay;29;eau potable : Plouzévédé, Trézilidé, Saint-Vougay;344794;2024;92,5;0,4;5,3;66,1;conforme;15184;4175;13;41;873;Non vérifié
-29272;Saint-Yvi;29;eau potable : Saint-Yvi;86669;2024;68,5;2,1;4,5;65,9;conforme;72358;72358;58;173;3431;Non vérifié
-29273;Santec;29;eau potable;86822;2024;97,6;0,8;31,3;71,3;conforme;51976;16426;18;51;2454;Non vérifié
-29274;Scaër;29;eau potable : Secteur Régie eau potable CC Quimperlé;282074;2024;83,2;1,4;7,0;66,4;conforme;813420;73710;39;73;5178;Non vérifié
-29275;Scrignac;29;eau potable;86588;2024;59,6;1,5;2,2;65,4;non conforme;54750;54750;184;296;816;Non vérifié
-29276;Sibiril;29;eau potable;86811;2024;77,7;1,7;5,9;66,2;conforme;92231;22302;53;141;1143;Non vérifié
-29277;Sizun;29;eau potable : Lampaul, Landivisiau, Sizun, Guiclan;344774;2024;84,1;1,3;7,1;66,4;conforme;163608;23240;27;67;2325;Non vérifié
-29278;Spézet;29;eau potable : Territoire n°1;86554;2024;76,6;0,8;2,7;65,5;conforme;87060;33214;51;112;1774;Non vérifié
-29279;Taulé;29;eau potable : Secteur Régie Eau Potable Morlaix Communauté;282994;2024;78,4;1,5;5,6;66,1;conforme;908850;42414;40;107;2914;Non vérifié
-29280;Telgruc-sur-Mer;29;eau potable : Crozon-Aulne-Maritime -Secteur Régie;313914;2024;73,3;2,0;5,4;66,1;conforme;417560;42825;54;136;2167;Non vérifié
-29281;Tourch;29;eau potable : Tourch;86717;2024;82,3;1,1;5,2;66,0;conforme;20637;20637;56;82;1002;Non vérifié
-29282;Trébabu;29;eau potable : Lampaul-Plouarzel, Le Conquet, Trébabu, Ploumoguer, Plouarzel, Plougonvelin, Locmaria-Plouzané;86661;2024;85,5;1,0;5,8;66,2;conforme;163038;2833;21;63;368;Non vérifié
-29284;Treffiagat;29;eau potable;86691;2024;91,8;0,8;8,4;66,7;conforme;236961;14909;17;41;2429;Non vérifié
-29285;Tréflaouénan;29;eau potable : SYNDICAT DES EAUX DE PLOUZEVEDE;86826;2022;91,9;0,4;4,9;66,0;conforme;18159;2547;13;40;518;Sans anomalie apparente
-29286;Tréflévénez;29;eau potable : secteur eau du ponant-CC Landerneau;281394;2024;85,2;1,8;10,5;67,1;conforme;580814;3411;36;70;260;Non vérifié
-29288;Trégarantec;29;eau potable : Régie-eau-potable-CC-Lesneven;292334;2024;81,2;1,5;6,4;66,3;conforme;366157;8372;36;86;634;Non vérifié
-29289;Trégarvan;29;eau potable : Secteur CC PLeyben-Châteaulin-Plonevez-Porzay;298594;2024;79,1;1,2;4,6;65,9;conforme;242008;2759;56;96;134;Non vérifié
-29290;Tréglonou;29;eau potable : CC Pays des Abers-régie Eau Potable;284154;2024;89,7;0,9;7,8;66,6;conforme;269370;4563;18;43;689;Non vérifié
-29292;Tréguennec;29;eau potable;86691;2024;91,8;0,8;8,4;66,7;conforme;236961;1909;17;41;311;Non vérifié
-29293;Trégunc;29;eau potable : Pont-Aven, Nevez, trégunc;86527;2024;82,5;2,0;9,5;66,9;conforme;245280;137835;53;107;7148;Non vérifié
-29294;Le Tréhou;29;eau potable : secteur eau du ponant-CC Landerneau;281394;2024;85,2;1,8;10,5;67,1;conforme;580814;8305;36;70;633;Non vérifié
-29295;Trémaouézan;29;eau potable : secteur eau du ponant-CC Landerneau;281394;2024;85,2;1,8;10,5;67,1;conforme;580814;6337;36;70;483;Non vérifié
-29296;Tréméoc;29;eau potable;86691;2024;91,8;0,8;8,4;66,7;conforme;236961;9226;17;41;1503;Non vérifié
-29297;Tréméven;29;eau potable : Secteur Régie eau potable CC Quimperlé;282074;2024;83,2;1,4;7,0;66,4;conforme;813420;34193;39;73;2402;Non vérifié
-29298;Tréogat;29;eau potable : Haut Pays Bigouden;317154;2024;81,0;1,1;4,7;65,9;conforme;256478;7870;38;107;573;Non vérifié
-29300;Le Trévoux;29;eau potable : Secteur Régie eau potable CC Quimperlé;282074;2024;83,2;1,4;7,0;66,4;conforme;813420;23517;39;73;1652;Non vérifié
-29301;Trézilidé;29;eau potable : Plouzévédé, Trézilidé, Saint-Vougay;344794;2024;92,5;0,4;5,3;66,1;conforme;15184;1937;13;41;405;Non vérifié
-29302;Pont-de-Buis-lès-Quimerch;29;eau potable : Crozon-Aulne-Maritime -Secteur Régie;313914;2024;73,3;2,0;5,4;66,1;conforme;417560;72390;54;136;3663;Non vérifié
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement);Donnée suspecte (voir LISEZMOI)
+29001;Argol;29;eau potable : Crozon-Aulne-Maritime -Secteur Régie;313914;2024;73,3;2,0;5,4;66,1;conforme;417560;21047;54;136;1065;Non vérifié;non
+29002;Arzano;29;eau potable : Secteur Régie eau potable CC Quimperlé;282074;2024;83,2;1,4;7,0;66,4;conforme;813420;20513;39;73;1441;Non vérifié;non
+29004;Bannalec;29;eau potable : Secteur Régie eau potable CC Quimperlé;282074;2024;83,2;1,4;7,0;66,4;conforme;813420;81497;39;73;5725;Non vérifié;non
+29005;Baye;29;eau potable : Secteur Régie eau potable CC Quimperlé;282074;2024;83,2;1,4;7,0;66,4;conforme;813420;19488;39;73;1369;Non vérifié;non
+29006;Bénodet;29;eau potable : Secteur Bénodet;86672;2024;92,8;0,8;10,8;67,2;conforme;22239;22239;16;27;3849;Non vérifié;non
+29007;Berrien;29;eau potable;86831;2024;54,4;1,9;2,3;65,5;non conforme;42997;42997;125;314;943;Non vérifié;non
+29008;Beuzec-Cap-Sizun;29;eau potable;86556;2024;77,6;0,9;3,2;65,6;conforme;78840;20788;57;122;1008;Non vérifié;non
+29010;Bodilis;29;eau potable;86940;2024;71,7;1,1;2,8;65,6;conforme;126834;23323;37;148;1723;Non vérifié;non
+29011;Bohars;29;eau potable;86787;2024;86,4;4,2;26,9;70,4;conforme;2053484;35551;26;80;3727;Non vérifié;non
+29012;Bolazec;29;eau potable;86835;2024;80,9;1,1;4,5;65,9;conforme;9797;9797;160;89;168;Non vérifié;non
+29013;Botmeur;29;eau potable;86836;2024;91,4;0,2;2,2;65,4;conforme;964;964;12;32;224;Non vérifié;non
+29014;Botsorhel;29;eau potable : Secteur Régie Eau Potable Morlaix Communauté;282994;2024;78,4;1,5;5,6;66,1;conforme;908850;6186;40;107;425;Non vérifié;non
+29015;Bourg-Blanc;29;eau potable : CC Pays des Abers-régie Eau Potable;284154;2024;89,7;0,9;7,8;66,6;conforme;269370;23662;18;43;3573;Non vérifié;non
+29016;Brasparts;29;eau potable;86595;2024;59,6;27,3;40,3;73,1;non conforme;77723;77723;200;443;1067;Non vérifié;non
+29017;Brélès;29;eau potable : Landunvez, Lanildut, Porspoder, Plourin;86784;2024;85,9;0,6;3,8;65,8;conforme;47841;6407;20;58;868;Non vérifié;non
+29018;Brennilis;29;eau potable;86842;2024;69,2;19,0;42,7;73,5;non conforme;18031;18031;109;167;454;Non vérifié;non
+29019;Brest;29;eau potable;86787;2024;86,4;4,2;26,9;70,4;conforme;2053484;1357804;26;80;142346;Non vérifié;non
+29020;Briec;29;eau potable : Kemper Breizh Izel Régie Eau Potable;218004;2024;81,0;1,2;5,1;66,0;conforme;303679;104918;49;92;5816;Non vérifié;non
+29021;Plounéour-Brignogan-plages;29;eau potable : Régie-eau-potable-CC-Lesneven;292334;2024;81,2;1,5;6,4;66,3;conforme;366157;26042;36;86;1972;Non vérifié;non
+29022;Camaret-sur-Mer;29;eau potable : Crozon-Aulne-Maritime -Secteur Régie;313914;2024;73,3;2,0;5,4;66,1;conforme;417560;49287;54;136;2494;Non vérifié;non
+29023;Carantec;29;eau potable : Carantec;86845;2024;72,8;3,1;8,3;66,7;conforme;74034;74034;62;137;3272;Non vérifié;non
+29024;Carhaix-Plouguer;29;eau potable;86609;2024;92,4;2,0;24,7;69,9;conforme;93528;93528;35;30;7412;Non vérifié;non
+29025;Cast;29;eau potable : Secteur CC PLeyben-Châteaulin-Plonevez-Porzay;298594;2024;79,1;1,2;4,6;65,9;conforme;242008;32320;56;96;1570;Non vérifié;non
+29026;Châteaulin;29;eau potable : Châteaulin;86612;2024;93,0;2,6;34,8;72,0;conforme;74515;74515;40;27;5085;Non vérifié;non
+29027;Châteauneuf-du-Faou;29;eau potable : CHÂTEAUNEUF-DU-FAOU;86592;2024;88,9;1,6;13,1;67,6;conforme;66967;66967;50;49;3651;Non vérifié;non
+29028;Cléden-Cap-Sizun;29;eau potable;86556;2024;77,6;0,9;3,2;65,6;conforme;78840;18890;57;122;916;Non vérifié;non
+29029;Cléden-Poher;29;eau potable : Territoire n°1;86554;2024;76,6;0,8;2,7;65,5;conforme;87060;21156;51;112;1130;Non vérifié;non
+29030;Cléder;29;eau potable;86811;2024;77,7;1,7;5,9;66,2;conforme;92231;69929;53;141;3584;Non vérifié;non
+29031;Clohars-Carnoët;29;eau potable : Secteur Régie eau potable CC Quimperlé;282074;2024;83,2;1,4;7,0;66,4;conforme;813420;67020;39;73;4708;Non vérifié;non
+29032;Clohars-Fouesnant;29;eau potable : Secteur Clohars-F, Saint-Evarzec, Pleuven et Gouesnac'h;86531;2024;90,7;0,9;8,7;66,7;conforme;81061;15313;19;40;2264;Non vérifié;non
+29033;Le Cloître-Pleyben;29;eau potable : Secteur CC PLeyben-Châteaulin-Plonevez-Porzay;298594;2024;79,1;1,2;4,6;65,9;conforme;242008;10334;56;96;502;Non vérifié;non
+29034;Le Cloître-Saint-Thégonnec;29;eau potable : Secteur Régie Eau Potable Morlaix Communauté;282994;2024;78,4;1,5;5,6;66,1;conforme;908850;9330;40;107;641;Non vérifié;non
+29035;Coat-Méal;29;eau potable : CC Pays des Abers-régie Eau Potable;284154;2024;89,7;0,9;7,8;66,6;conforme;269370;7503;18;43;1133;Non vérifié;non
+29037;Combrit;29;eau potable;86691;2024;91,8;0,8;8,4;66,7;conforme;236961;26179;17;41;4265;Non vérifié;non
+29038;Commana;29;eau potable : Commana et Guimiliau;86933;2024;81,4;0,9;2,5;65,5;conforme;35051;17428;49;131;983;Non vérifié;non
+29039;Concarneau;29;eau potable : Concarneau;86703;2024;82,8;3,0;14,3;67,9;conforme;267837;267837;35;77;20845;Non vérifié;non
+29040;Le Conquet;29;eau potable : Lampaul-Plouarzel, Le Conquet, Trébabu, Ploumoguer, Plouarzel, Plougonvelin, Locmaria-Plouzané;86661;2024;85,5;1,0;5,8;66,2;conforme;163038;21825;21;63;2835;Non vérifié;non
+29042;Crozon;29;eau potable : Crozon-Aulne-Maritime -Secteur Régie;313914;2024;73,3;2,0;5,4;66,1;conforme;417560;148198;54;136;7499;Non vérifié;non
+29043;Daoulas;29;eau potable : secteur eau du ponant-CC Landerneau;281394;2024;85,2;1,8;10,5;67,1;conforme;580814;24457;36;70;1864;Non vérifié;non
+29044;Dinéault;29;eau potable : Secteur CC PLeyben-Châteaulin-Plonevez-Porzay;298594;2024;79,1;1,2;4,6;65,9;conforme;242008;38146;56;96;1853;Non vérifié;non
+29045;Dirinon;29;eau potable : secteur eau du ponant-CC Landerneau;281394;2024;85,2;1,8;10,5;67,1;conforme;580814;28708;36;70;2188;Non vérifié;non
+29046;Douarnenez;29;eau potable : douarnenez;86713;2024;93,5;1,2;17,8;68,6;conforme;63282;63282;12;26;14068;Non vérifié;non
+29047;Le Drennec;29;eau potable : CC Pays des Abers-régie Eau Potable;284154;2024;89,7;0,9;7,8;66,6;conforme;269370;12556;18;43;1896;Non vérifié;non
+29048;Edern;29;eau potable : Kemper Breizh Izel Régie Eau Potable;218004;2024;81,0;1,2;5,1;66,0;conforme;303679;39435;49;92;2186;Non vérifié;non
+29049;Elliant;29;eau potable : Elliant;86563;2024;88,6;0,5;3,8;65,8;conforme;25915;25915;21;50;3427;Non vérifié;non
+29051;Ergué-Gabéric;29;eau potable : Délégation Kemper Breizh Izel;203098;2024;91,6;1,2;13,3;67,7;conforme;409753;41144;13;33;8606;Non vérifié;non
+29053;Le Faou;29;eau potable : Le Faou - Secteur Veolia;313934;2024;79,0;1,7;6,5;66,3;conforme;27922;27922;40;96;1911;Non vérifié;non
+29054;La Feuillée;29;eau potable;86617;2024;83,3;7,4;37,0;72,4;conforme;10264;10264;42;80;677;Non vérifié;non
+29055;Le Folgoët;29;eau potable : Régie-eau-potable-CC-Lesneven;292334;2024;81,2;1,5;6,4;66,3;conforme;366157;43777;36;86;3315;Non vérifié;non
+29056;La Forest-Landerneau;29;eau potable : secteur eau du ponant-CC Landerneau;281394;2024;85,2;1,8;10,5;67,1;conforme;580814;26478;36;70;2018;Non vérifié;non
+29058;Fouesnant;29;eau potable : Secteur Fouesnant - La Forêt Fouesnant;86570;2024;85,4;1,4;8,0;66,6;conforme;156361;156361;41;64;10436;Non vérifié;non
+29059;Garlan;29;eau potable : Secteur Régie Eau Potable Morlaix Communauté;282994;2024;78,4;1,5;5,6;66,1;conforme;908850;15181;40;107;1043;Non vérifié;non
+29060;Gouesnach;29;eau potable : Secteur Clohars-F, Saint-Evarzec, Pleuven et Gouesnac'h;86531;2024;90,7;0,9;8,7;66,7;conforme;81061;19181;19;40;2836;Non vérifié;non
+29061;Gouesnou;29;eau potable;86787;2024;86,4;4,2;26,9;70,4;conforme;2053484;62011;26;80;6501;Non vérifié;non
+29062;Gouézec;29;eau potable : Secteur CC PLeyben-Châteaulin-Plonevez-Porzay;298594;2024;79,1;1,2;4,6;65,9;conforme;242008;22871;56;96;1111;Non vérifié;non
+29063;Goulien;29;eau potable;86556;2024;77,6;0,9;3,2;65,6;conforme;78840;9198;57;122;446;Non vérifié;non
+29064;Goulven;29;eau potable : Régie-eau-potable-CC-Lesneven;292334;2024;81,2;1,5;6,4;66,3;conforme;366157;5705;36;86;432;Non vérifié;non
+29065;Gourlizon;29;eau potable : Haut Pays Bigouden;317154;2024;81,0;1,1;4,7;65,9;conforme;256478;13034;38;107;949;Non vérifié;non
+29066;Guengat;29;eau potable : Délégation Kemper Breizh Izel;203098;2024;91,6;1,2;13,3;67,7;conforme;409753;8825;13;33;1846;Non vérifié;non
+29067;Guerlesquin;29;eau potable : Secteur Régie Eau Potable Morlaix Communauté;282994;2024;78,4;1,5;5,6;66,1;conforme;908850;18704;40;107;1285;Non vérifié;non
+29068;Guiclan;29;eau potable : Lampaul, Landivisiau, Sizun, Guiclan;344774;2024;84,1;1,3;7,1;66,4;conforme;163608;25839;27;67;2585;Non vérifié;non
+29069;Guilers;29;eau potable;86787;2024;86,4;4,2;26,9;70,4;conforme;2053484;78866;26;80;8268;Non vérifié;non
+29070;Guiler-sur-Goyen;29;eau potable : Haut Pays Bigouden;317154;2024;81,0;1,1;4,7;65,9;conforme;256478;7142;38;107;520;Non vérifié;non
+29071;Guilligomarc'h;29;eau potable : Secteur Régie eau potable CC Quimperlé;282074;2024;83,2;1,4;7,0;66,4;conforme;813420;11431;39;73;803;Non vérifié;non
+29072;Guilvinec;29;eau potable;86691;2024;91,8;0,8;8,4;66,7;conforme;236961;16383;17;41;2669;Non vérifié;non
+29073;Guimaëc;29;eau potable : Secteur Régie Eau Potable Morlaix Communauté;282994;2024;78,4;1,5;5,6;66,1;conforme;908850;14293;40;107;982;Non vérifié;non
+29074;Guimiliau;29;eau potable : Commana et Guimiliau;86933;2024;81,4;0,9;2,5;65,5;conforme;35051;17623;49;131;994;Non vérifié;non
+29075;Guipavas;29;eau potable;86787;2024;86,4;4,2;26,9;70,4;conforme;2053484;148213;26;80;15538;Non vérifié;non
+29076;Milizac-Guipronvel;29;eau potable : Secteur régie eau potable CC Pays d'Iroise;283054;2024;83,0;1,6;8,0;66,6;conforme;113997;38638;22;73;4816;Non vérifié;non
+29077;Guissény;29;eau potable : Régie-eau-potable-CC-Lesneven;292334;2024;81,2;1,5;6,4;66,3;conforme;366157;26134;36;86;1979;Non vérifié;non
+29078;Hanvec;29;eau potable : Hanvec;309374;2024;72,1;1,5;3,9;65,8;conforme;44720;44720;61;183;2025;Non vérifié;non
+29079;Henvic;29;eau potable : Secteur Régie Eau Potable Morlaix Communauté;282994;2024;78,4;1,5;5,6;66,1;conforme;908850;17190;40;107;1181;Non vérifié;non
+29080;Hôpital-Camfrout;29;eau potable : secteur eau du ponant-CC Landerneau;281394;2024;85,2;1,8;10,5;67,1;conforme;580814;29062;36;70;2215;Non vérifié;non
+29081;Huelgoat;29;eau potable;86571;2024;65,2;2,4;4,4;65,9;non conforme;39087;39087;74;202;1440;Non vérifié;non
+29084;Île-Molène;29;eau potable : Ile Molène;86864;2024;71,2;1,0;2,4;65,5;conforme;2172;2172;34;154;176;Non vérifié;non
+29085;Île-Tudy;29;eau potable;86691;2024;91,8;0,8;8,4;66,7;conforme;236961;4554;17;41;742;Non vérifié;non
+29086;Irvillac;29;eau potable : secteur eau du ponant-CC Landerneau;281394;2024;85,2;1,8;10,5;67,1;conforme;580814;18513;36;70;1411;Non vérifié;non
+29087;Le Juch;29;eau potable : Le Juch -Pouldergat;86533;2024;95,9;0,5;11,5;67,3;conforme;16889;6532;23;84;765;Non vérifié;non
+29089;Kergloff;29;eau potable;86622;2024;96,1;0,1;3,7;65,7;conforme;1825;1825;6;10;897;Non vérifié;non
+29090;Kerlaz;29;eau potable : Kerlaz;86519;2024;87,5;0,4;2,7;65,5;conforme;4926;4926;17;54;805;Non vérifié;non
+29091;Kerlouan;29;eau potable : Régie-eau-potable-CC-Lesneven;292334;2024;81,2;1,5;6,4;66,3;conforme;366157;26398;36;86;1999;Non vérifié;non
+29093;Kernilis;29;eau potable : Régie-eau-potable-CC-Lesneven;292334;2024;81,2;1,5;6,4;66,3;conforme;366157;18581;36;86;1407;Non vérifié;non
+29094;Kernouës;29;eau potable : Régie-eau-potable-CC-Lesneven;292334;2024;81,2;1,5;6,4;66,3;conforme;366157;8782;36;86;665;Non vérifié;non
+29097;Lampaul-Guimiliau;29;eau potable : Lampaul, Landivisiau, Sizun, Guiclan;344774;2024;84,1;1,3;7,1;66,4;conforme;163608;20311;27;67;2032;Non vérifié;non
+29098;Lampaul-Plouarzel;29;eau potable : Lampaul-Plouarzel, Le Conquet, Trébabu, Ploumoguer, Plouarzel, Plougonvelin, Locmaria-Plouzané;86661;2024;85,5;1,0;5,8;66,2;conforme;163038;17098;21;63;2221;Non vérifié;non
+29099;Lampaul-Ploudalmézeau;29;eau potable : Secteur régie eau potable CC Pays d'Iroise;283054;2024;83,0;1,6;8,0;66,6;conforme;113997;6547;22;73;816;Non vérifié;non
+29100;Lanarvily;29;eau potable : Régie-eau-potable-CC-Lesneven;292334;2024;81,2;1,5;6,4;66,3;conforme;366157;5296;36;86;401;Non vérifié;non
+29101;Landéda;29;eau potable : CC Pays des Abers-régie Eau Potable;284154;2024;89,7;0,9;7,8;66,6;conforme;269370;24516;18;43;3702;Non vérifié;non
+29102;Landeleau;29;eau potable : Territoire n°1;86554;2024;76,6;0,8;2,7;65,5;conforme;87060;18591;51;112;993;Non vérifié;non
+29103;Landerneau;29;eau potable : secteur eau du ponant-CC Landerneau;281394;2024;85,2;1,8;10,5;67,1;conforme;580814;214694;36;70;16363;Non vérifié;non
+29104;Landévennec;29;eau potable : Crozon-Aulne-Maritime -Secteur Régie;313914;2024;73,3;2,0;5,4;66,1;conforme;417560;6522;54;136;330;Non vérifié;non
+29105;Landivisiau;29;eau potable : Lampaul, Landivisiau, Sizun, Guiclan;344774;2024;84,1;1,3;7,1;66,4;conforme;163608;94218;27;67;9426;Non vérifié;non
+29106;Landrévarzec;29;eau potable : Kemper Breizh Izel Régie Eau Potable;218004;2024;81,0;1,2;5,1;66,0;conforme;303679;33951;49;92;1882;Non vérifié;non
+29107;Landudal;29;eau potable : Kemper Breizh Izel Régie Eau Potable;218004;2024;81,0;1,2;5,1;66,0;conforme;303679;16777;49;92;930;Non vérifié;non
+29108;Landudec;29;eau potable : Haut Pays Bigouden;317154;2024;81,0;1,1;4,7;65,9;conforme;256478;20039;38;107;1459;Non vérifié;non
+29109;Landunvez;29;eau potable : Landunvez, Lanildut, Porspoder, Plourin;86784;2024;85,9;0,6;3,8;65,8;conforme;47841;11656;20;58;1579;Non vérifié;non
+29110;Langolen;29;eau potable : Kemper Breizh Izel Régie Eau Potable;218004;2024;81,0;1,2;5,1;66,0;conforme;303679;15081;49;92;836;Non vérifié;non
+29111;Lanhouarneau;29;eau potable;86940;2024;71,7;1,1;2,8;65,6;conforme;126834;17353;37;148;1282;Non vérifié;non
+29112;Lanildut;29;eau potable : Landunvez, Lanildut, Porspoder, Plourin;86784;2024;85,9;0,6;3,8;65,8;conforme;47841;7478;20;58;1013;Non vérifié;non
+29113;Lanmeur;29;eau potable : Secteur Régie Eau Potable Morlaix Communauté;282994;2024;78,4;1,5;5,6;66,1;conforme;908850;34744;40;107;2387;Non vérifié;non
+29114;Lannéanou;29;eau potable : Secteur Régie Eau Potable Morlaix Communauté;282994;2024;78,4;1,5;5,6;66,1;conforme;908850;4978;40;107;342;Non vérifié;non
+29115;Lannédern;29;eau potable : Secteur CC PLeyben-Châteaulin-Plonevez-Porzay;298594;2024;79,1;1,2;4,6;65,9;conforme;242008;6608;56;96;321;Non vérifié;non
+29116;Lanneuffret;29;eau potable;86940;2024;71,7;1,1;2,8;65,6;conforme;126834;2139;37;148;158;Non vérifié;non
+29117;Lannilis;29;eau potable : CC Pays des Abers-régie Eau Potable;284154;2024;89,7;0,9;7,8;66,6;conforme;269370;37807;18;43;5709;Non vérifié;non
+29120;Lanvéoc;29;eau potable : Crozon-Aulne-Maritime -Secteur Régie;313914;2024;73,3;2,0;5,4;66,1;conforme;417560;40394;54;136;2044;Non vérifié;non
+29122;Laz;29;eau potable : Laz;86625;2024;93,6;0,2;3,4;65,7;conforme;3431;3431;14;22;685;Non vérifié;non
+29123;Lennon;29;eau potable : Lennon;86513;2024;83,0;0,7;3,6;65,7;conforme;12463;12463;42;72;812;Non vérifié;non
+29124;Lesneven;29;eau potable : Régie-eau-potable-CC-Lesneven;292334;2024;81,2;1,5;6,4;66,3;conforme;366157;99915;36;86;7566;Non vérifié;non
+29126;Loc-Brévalaire;29;eau potable : CC Pays des Abers-régie Eau Potable;284154;2024;89,7;0,9;7,8;66,6;conforme;269370;1391;18;43;210;Non vérifié;non
+29128;Loc-Eguiner;29;eau potable : Loc Eguinier;344814;2024;87,9;0,5;4,0;65,8;conforme;3778;3778;28;46;376;Non vérifié;non
+29130;Locmaria-Plouzané;29;eau potable : Lampaul-Plouarzel, Le Conquet, Trébabu, Ploumoguer, Plouarzel, Plougonvelin, Locmaria-Plouzané;86661;2024;85,5;1,0;5,8;66,2;conforme;163038;39493;21;63;5130;Non vérifié;non
+29131;Locmélar;29;eau potable : Locmélar et Saint-Sauveur;86817;2024;84,8;0,6;2,7;65,5;conforme;13709;4997;28;115;487;Non vérifié;non
+29132;Locquénolé;29;eau potable : Secteur Régie Eau Potable Morlaix Communauté;282994;2024;78,4;1,5;5,6;66,1;conforme;908850;11499;40;107;790;Non vérifié;non
+29133;Locquirec;29;eau potable : Secteur Régie Eau Potable Morlaix Communauté;282994;2024;78,4;1,5;5,6;66,1;conforme;908850;22634;40;107;1555;Non vérifié;non
+29134;Locronan;29;eau potable : Kemper Breizh Izel Régie Eau Potable;218004;2024;81,0;1,2;5,1;66,0;conforme;303679;14955;49;92;829;Non vérifié;non
+29135;Loctudy;29;eau potable;86691;2024;91,8;0,8;8,4;66,7;conforme;236961;25013;17;41;4075;Non vérifié;non
+29136;Locunolé;29;eau potable : Secteur Régie eau potable CC Quimperlé;282074;2024;83,2;1,4;7,0;66,4;conforme;813420;16755;39;73;1177;Non vérifié;non
+29137;Logonna-Daoulas;29;eau potable : secteur eau du ponant-CC Landerneau;281394;2024;85,2;1,8;10,5;67,1;conforme;580814;27947;36;70;2130;Non vérifié;non
+29139;Lopérec;29;eau potable;86630;2024;76,2;13,4;42,9;73,6;conforme;28857;28857;95;114;828;Non vérifié;non
+29140;Loperhet;29;eau potable : secteur eau du ponant-CC Landerneau;281394;2024;85,2;1,8;10,5;67,1;conforme;580814;51945;36;70;3959;Non vérifié;non
+29141;Loqueffret;29;eau potable;86650;2024;88,5;0,7;5,4;66,1;conforme;17374;8885;72;85;336;Non vérifié;non
+29142;Lothey;29;eau potable : Secteur CC PLeyben-Châteaulin-Plonevez-Porzay;298594;2024;79,1;1,2;4,6;65,9;conforme;242008;8728;56;96;424;Non vérifié;non
+29143;Mahalon;29;eau potable;211499;2024;88,1;0,3;2,3;65,5;conforme;5584;5584;15;48;1021;Non vérifié;non
+29144;La Martyre;29;eau potable : secteur eau du ponant-CC Landerneau;281394;2024;85,2;1,8;10,5;67,1;conforme;580814;9854;36;70;751;Non vérifié;non
+29146;Melgven;29;eau potable : Melgven;86663;2024;73,8;1,5;4,3;65,9;conforme;68985;68985;56;137;3371;Non vérifié;non
+29147;Mellac;29;eau potable : Secteur Régie eau potable CC Quimperlé;282074;2024;83,2;1,4;7,0;66,4;conforme;813420;48457;39;73;3404;Non vérifié;non
+29148;Mespaul;29;eau potable;86822;2024;97,6;0,8;31,3;71,3;conforme;51976;6332;18;51;946;Non vérifié;non
+29150;Moëlan-sur-Mer;29;eau potable : Secteur Régie eau potable CC Quimperlé;282074;2024;83,2;1,4;7,0;66,4;conforme;813420;96074;39;73;6749;Non vérifié;non
+29151;Morlaix;29;eau potable : Secteur Régie Eau Potable Morlaix Communauté;282994;2024;78,4;1,5;5,6;66,1;conforme;908850;221154;40;107;15194;Non vérifié;non
+29152;Motreff;29;eau potable;86891;2024;84,4;0,8;4,3;65,9;conforme;11680;11680;49;67;654;Non vérifié;non
+29153;Névez;29;eau potable : Pont-Aven, Nevez, trégunc;86527;2024;82,5;2,0;9,5;66,9;conforme;245280;53896;53;107;2795;Non vérifié;non
+29155;Ouessant;29;eau potable;86830;2024;86,2;0,6;3,6;65,7;conforme;9202;9202;29;61;860;Non vérifié;non
+29156;Pencran;29;eau potable : secteur eau du ponant-CC Landerneau;281394;2024;85,2;1,8;10,5;67,1;conforme;580814;29312;36;70;2234;Non vérifié;non
+29158;Penmarch;29;eau potable;86691;2024;91,8;0,8;8,4;66,7;conforme;236961;33809;17;41;5508;Non vérifié;non
+29159;Peumerit;29;eau potable : Haut Pays Bigouden;317154;2024;81,0;1,1;4,7;65,9;conforme;256478;12595;38;107;917;Non vérifié;non
+29160;Plabennec;29;eau potable : CC Pays des Abers-régie Eau Potable;284154;2024;89,7;0,9;7,8;66,6;conforme;269370;57522;18;43;8686;Non vérifié;non
+29161;Pleuven;29;eau potable : Secteur Clohars-F, Saint-Evarzec, Pleuven et Gouesnac'h;86531;2024;90,7;0,9;8,7;66,7;conforme;81061;22394;19;40;3311;Non vérifié;non
+29162;Pleyben;29;eau potable : Pleyben;86508;2024;87,7;0,7;5,1;66,0;conforme;44110;44110;33;71;3692;Non vérifié;non
+29163;Pleyber-Christ;29;eau potable : Secteur Régie Eau Potable Morlaix Communauté;282994;2024;78,4;1,5;5,6;66,1;conforme;908850;46082;40;107;3166;Non vérifié;non
+29165;Plobannalec-Lesconil;29;eau potable;86691;2024;91,8;0,8;8,4;66,7;conforme;236961;22821;17;41;3718;Non vérifié;non
+29166;Ploéven;29;eau potable : Secteur CC PLeyben-Châteaulin-Plonevez-Porzay;298594;2024;79,1;1,2;4,6;65,9;conforme;242008;11322;56;96;550;Non vérifié;non
+29167;Plogastel-Saint-Germain;29;eau potable : Haut Pays Bigouden;317154;2024;81,0;1,1;4,7;65,9;conforme;256478;27799;38;107;2024;Non vérifié;non
+29169;Plogonnec;29;eau potable : Kemper Breizh Izel Régie Eau Potable;218004;2024;81,0;1,2;5,1;66,0;conforme;303679;58376;49;92;3236;Non vérifié;non
+29170;Plomelin;29;eau potable : Délégation Kemper Breizh Izel;203098;2024;91,6;1,2;13,3;67,7;conforme;409753;20266;13;33;4239;Non vérifié;non
+29171;Plomeur;29;eau potable;86691;2024;91,8;0,8;8,4;66,7;conforme;236961;23963;17;41;3904;Non vérifié;non
+29172;Plomodiern;29;eau potable : Secteur CC PLeyben-Châteaulin-Plonevez-Porzay;298594;2024;79,1;1,2;4,6;65,9;conforme;242008;46977;56;96;2282;Non vérifié;non
+29173;Plonéis;29;eau potable : Délégation Kemper Breizh Izel;203098;2024;91,6;1,2;13,3;67,7;conforme;409753;11517;13;33;2409;Non vérifié;non
+29174;Plonéour-Lanvern;29;eau potable : Haut Pays Bigouden;317154;2024;81,0;1,1;4,7;65,9;conforme;256478;88615;38;107;6452;Non vérifié;non
+29175;Plonévez-du-Faou;29;eau potable : PLONÉVEZ DU FAOU;86576;2024;75,6;1,2;3,6;65,7;conforme;68884;68884;87;165;2160;Non vérifié;non
+29176;Plonévez-Porzay;29;eau potable : Secteur CC PLeyben-Châteaulin-Plonevez-Porzay;298594;2024;79,1;1,2;4,6;65,9;conforme;242008;36664;56;96;1781;Non vérifié;non
+29177;Plouarzel;29;eau potable : Lampaul-Plouarzel, Le Conquet, Trébabu, Ploumoguer, Plouarzel, Plougonvelin, Locmaria-Plouzané;86661;2024;85,5;1,0;5,8;66,2;conforme;163038;31017;21;63;4029;Non vérifié;non
+29178;Ploudalmézeau;29;eau potable : Ploudalmézeau;86755;2024;72,0;2,5;6,3;66,3;conforme;99700;99700;42;144;6522;Non vérifié;non
+29179;Ploudaniel;29;eau potable : Régie-eau-potable-CC-Lesneven;292334;2024;81,2;1,5;6,4;66,3;conforme;366157;49284;36;86;3732;Non vérifié;non
+29180;Ploudiry;29;eau potable : secteur eau du ponant-CC Landerneau;281394;2024;85,2;1,8;10,5;67,1;conforme;580814;11441;36;70;872;Non vérifié;non
+29181;Plouédern;29;eau potable : secteur eau du ponant-CC Landerneau;281394;2024;85,2;1,8;10,5;67,1;conforme;580814;40714;36;70;3103;Non vérifié;non
+29182;Plouégat-Guérand;29;eau potable : Secteur Régie Eau Potable Morlaix Communauté;282994;2024;78,4;1,5;5,6;66,1;conforme;908850;15283;40;107;1050;Non vérifié;non
+29183;Plouégat-Moysan;29;eau potable : Secteur Régie Eau Potable Morlaix Communauté;282994;2024;78,4;1,5;5,6;66,1;conforme;908850;10436;40;107;717;Non vérifié;non
+29184;Plouénan;29;eau potable;86822;2024;97,6;0,8;31,3;71,3;conforme;51976;17470;18;51;2610;Non vérifié;non
+29185;Plouescat;29;eau potable;86903;2024;87,3;1,1;7,7;66,5;conforme;32120;32120;25;52;3554;Non vérifié;non
+29186;Plouezoc'h;29;eau potable : Secteur Régie Eau Potable Morlaix Communauté;282994;2024;78,4;1,5;5,6;66,1;conforme;908850;23958;40;107;1646;Non vérifié;non
+29187;Plougar;29;eau potable;86940;2024;71,7;1,1;2,8;65,6;conforme;126834;10680;37;148;789;Non vérifié;non
+29188;Plougasnou;29;eau potable : Secteur Régie Eau Potable Morlaix Communauté;282994;2024;78,4;1,5;5,6;66,1;conforme;908850;46461;40;107;3192;Non vérifié;non
+29189;Plougastel-Daoulas;29;eau potable;86787;2024;86,4;4,2;26,9;70,4;conforme;2053484;128144;26;80;13434;Non vérifié;non
+29190;Plougonvelin;29;eau potable : Lampaul-Plouarzel, Le Conquet, Trébabu, Ploumoguer, Plouarzel, Plougonvelin, Locmaria-Plouzané;86661;2024;85,5;1,0;5,8;66,2;conforme;163038;34805;21;63;4521;Non vérifié;non
+29191;Plougonven;29;eau potable : Secteur Régie Eau Potable Morlaix Communauté;282994;2024;78,4;1,5;5,6;66,1;conforme;908850;49226;40;107;3382;Non vérifié;non
+29192;Plougoulm;29;eau potable;86822;2024;97,6;0,8;31,3;71,3;conforme;51976;11747;18;51;1755;Non vérifié;non
+29193;Plougourvest;29;eau potable;86940;2024;71,7;1,1;2,8;65,6;conforme;126834;20602;37;148;1522;Non vérifié;non
+29195;Plouguerneau;29;eau potable : CC Pays des Abers-régie Eau Potable;284154;2024;89,7;0,9;7,8;66,6;conforme;269370;44734;18;43;6755;Non vérifié;non
+29196;Plouguin;29;eau potable : CC Pays des Abers-régie Eau Potable;284154;2024;89,7;0,9;7,8;66,6;conforme;269370;15019;18;43;2268;Non vérifié;non
+29198;Plouider;29;eau potable : Régie-eau-potable-CC-Lesneven;292334;2024;81,2;1,5;6,4;66,3;conforme;366157;23889;36;86;1809;Non vérifié;non
+29199;Plouigneau;29;eau potable : Secteur Régie Eau Potable Morlaix Communauté;282994;2024;78,4;1,5;5,6;66,1;conforme;908850;72980;40;107;5014;Non vérifié;non
+29201;Ploumoguer;29;eau potable : Lampaul-Plouarzel, Le Conquet, Trébabu, Ploumoguer, Plouarzel, Plougonvelin, Locmaria-Plouzané;86661;2024;85,5;1,0;5,8;66,2;conforme;163038;15967;21;63;2074;Non vérifié;non
+29202;Plounéour-Ménez;29;eau potable : Secteur Régie Eau Potable Morlaix Communauté;282994;2024;78,4;1,5;5,6;66,1;conforme;908850;18878;40;107;1297;Non vérifié;non
+29204;Plounéventer;29;eau potable;86940;2024;71,7;1,1;2,8;65,6;conforme;126834;30470;37;148;2251;Non vérifié;non
+29206;Plounévez-Lochrist;29;eau potable;86801;2024;77,3;1,2;3,9;65,8;conforme;47304;47304;57;112;2281;Non vérifié;non
+29207;Plourin-lès-Morlaix;29;eau potable : Secteur Régie Eau Potable Morlaix Communauté;282994;2024;78,4;1,5;5,6;66,1;conforme;908850;66198;40;107;4548;Non vérifié;non
+29208;Plourin;29;eau potable : Landunvez, Lanildut, Porspoder, Plourin;86784;2024;85,9;0,6;3,8;65,8;conforme;47841;9360;20;58;1268;Non vérifié;non
+29209;Plouvien;29;eau potable : CC Pays des Abers-régie Eau Potable;284154;2024;89,7;0,9;7,8;66,6;conforme;269370;26277;18;43;3968;Non vérifié;non
+29210;Plouvorn;29;eau potable : Plouvorn;86914;2024;80,9;1,2;4,2;65,8;conforme;41479;41479;39;105;2916;Non vérifié;non
+29211;Plouyé;29;eau potable;86578;2024;87,9;0,2;1,8;65,4;conforme;4949;4949;20;41;687;Non vérifié;non
+29212;Plouzané;29;eau potable;86787;2024;86,4;4,2;26,9;70,4;conforme;2053484;129412;26;80;13567;Non vérifié;non
+29213;Plouzévédé;29;eau potable : Plouzévédé, Trézilidé, Saint-Vougay;344794;2024;92,5;0,4;5,3;66,1;conforme;15184;9072;13;41;1897;Non vérifié;non
+29214;Plovan;29;eau potable : Haut Pays Bigouden;317154;2024;81,0;1,1;4,7;65,9;conforme;256478;9298;38;107;677;Non vérifié;non
+29215;Plozévet;29;eau potable : Haut Pays Bigouden;317154;2024;81,0;1,1;4,7;65,9;conforme;256478;40984;38;107;2984;Non vérifié;non
+29216;Pluguffan;29;eau potable : Délégation Kemper Breizh Izel;203098;2024;91,6;1,2;13,3;67,7;conforme;409753;20189;13;33;4223;Non vérifié;non
+29217;Pont-Aven;29;eau potable : Pont-Aven, Nevez, trégunc;86527;2024;82,5;2,0;9,5;66,9;conforme;245280;53549;53;107;2777;Non vérifié;non
+29220;Pont-l'Abbé;29;eau potable;86691;2024;91,8;0,8;8,4;66,7;conforme;236961;52076;17;41;8484;Non vérifié;non
+29221;Porspoder;29;eau potable : Landunvez, Lanildut, Porspoder, Plourin;86784;2024;85,9;0,6;3,8;65,8;conforme;47841;12940;20;58;1753;Non vérifié;non
+29222;Port-Launay;29;eau potable : Port-Launay;86586;2024;94,2;0,3;5,3;66,1;conforme;1026;1026;7;21;404;Non vérifié;non
+29224;Pouldergat;29;eau potable : Le Juch -Pouldergat;86533;2024;95,9;0,5;11,5;67,3;conforme;16889;10357;23;84;1213;Non vérifié;non
+29225;Pouldreuzic;29;eau potable : Haut Pays Bigouden;317154;2024;81,0;1,1;4,7;65,9;conforme;256478;29103;38;107;2119;Non vérifié;non
+29226;Poullan-sur-Mer;29;eau potable;86556;2024;77,6;0,9;3,2;65,6;conforme;78840;29965;57;122;1453;Non vérifié;non
+29227;Poullaouen;29;eau potable : Poullaouen Eau potable;308534;2024;88,4;0,4;0,2;65,0;conforme;15558;15558;29;683;1470;Non vérifié;non
+29229;Quéménéven;29;eau potable : Kemper Breizh Izel Régie Eau Potable;218004;2024;81,0;1,2;5,1;66,0;conforme;303679;20186;49;92;1119;Non vérifié;non
+29230;Querrien;29;eau potable : Secteur Régie eau potable CC Quimperlé;282074;2024;83,2;1,4;7,0;66,4;conforme;813420;23417;39;73;1645;Non vérifié;non
+29232;Quimper;29;eau potable : Délégation Kemper Breizh Izel;203098;2024;91,6;1,2;13,3;67,7;conforme;409753;307812;13;33;64385;Non vérifié;non
+29233;Quimperlé;29;eau potable : Secteur Régie eau potable CC Quimperlé;282074;2024;83,2;1,4;7,0;66,4;conforme;813420;177500;39;73;12469;Non vérifié;non
+29234;Rédené;29;eau potable : Secteur Régie eau potable CC Quimperlé;282074;2024;83,2;1,4;7,0;66,4;conforme;813420;43318;39;73;3043;Non vérifié;non
+29235;Le Relecq-Kerhuon;29;eau potable;86787;2024;86,4;4,2;26,9;70,4;conforme;2053484;113483;26;80;11897;Non vérifié;non
+29236;Riec-sur-Belon;29;eau potable : Secteur Régie eau potable CC Quimperlé;282074;2024;83,2;1,4;7,0;66,4;conforme;813420;62294;39;73;4376;Non vérifié;non
+29237;La Roche-Maurice;29;eau potable : secteur eau du ponant-CC Landerneau;281394;2024;85,2;1,8;10,5;67,1;conforme;580814;24837;36;70;1893;Non vérifié;non
+29238;Roscanvel;29;eau potable : Crozon-Aulne-Maritime -Secteur Régie;313914;2024;73,3;2,0;5,4;66,1;conforme;417560;16897;54;136;855;Non vérifié;non
+29239;Roscoff;29;eau potable;86920;2024;88,1;2,1;15,2;68,0;conforme;38118;38118;31;50;3334;Non vérifié;non
+29240;Rosnoën;29;eau potable : Crozon-Aulne-Maritime -Secteur Régie;313914;2024;73,3;2,0;5,4;66,1;conforme;417560;20000;54;136;1012;Non vérifié;non
+29241;Rosporden;29;eau potable : Rosporden;86702;2024;88,1;1,0;7,7;66,5;conforme;68255;68255;25;50;7550;Non vérifié;non
+29243;Saint-Coulitz;29;eau potable : Secteur CC PLeyben-Châteaulin-Plonevez-Porzay;298594;2024;79,1;1,2;4,6;65,9;conforme;242008;9778;56;96;475;Non vérifié;non
+29244;Saint-Derrien;29;eau potable;86940;2024;71,7;1,1;2,8;65,6;conforme;126834;11655;37;148;861;Non vérifié;non
+29245;Saint-Divy;29;eau potable : ex-SYNDICAT DES EAUX DU SPERNEL;86771;2024;90,4;0,8;7,8;66,6;conforme;26423;11909;20;38;1605;Non vérifié;non
+29246;Saint-Eloy;29;eau potable : secteur eau du ponant-CC Landerneau;281394;2024;85,2;1,8;10,5;67,1;conforme;580814;2887;36;70;220;Non vérifié;non
+29247;Saint-Évarzec;29;eau potable : Secteur Clohars-F, Saint-Evarzec, Pleuven et Gouesnac'h;86531;2024;90,7;0,9;8,7;66,7;conforme;81061;24173;19;40;3574;Non vérifié;non
+29248;Saint-Frégant;29;eau potable : Régie-eau-potable-CC-Lesneven;292334;2024;81,2;1,5;6,4;66,3;conforme;366157;11542;36;86;874;Non vérifié;non
+29250;Saint-Hernin;29;eau potable : Territoire n°1;86554;2024;76,6;0,8;2,7;65,5;conforme;87060;14098;51;112;753;Non vérifié;non
+29251;Saint-Jean-du-Doigt;29;eau potable : Secteur Régie Eau Potable Morlaix Communauté;282994;2024;78,4;1,5;5,6;66,1;conforme;908850;10072;40;107;692;Non vérifié;non
+29252;Saint-Jean-Trolimon;29;eau potable;86691;2024;91,8;0,8;8,4;66,7;conforme;236961;6120;17;41;997;Non vérifié;non
+29254;Saint-Martin-des-Champs;29;eau potable : Secteur Régie Eau Potable Morlaix Communauté;282994;2024;78,4;1,5;5,6;66,1;conforme;908850;69473;40;107;4773;Non vérifié;non
+29255;Saint-Méen;29;eau potable : Régie-eau-potable-CC-Lesneven;292334;2024;81,2;1,5;6,4;66,3;conforme;366157;12440;36;86;942;Non vérifié;non
+29256;Saint-Nic;29;eau potable : Secteur CC PLeyben-Châteaulin-Plonevez-Porzay;298594;2024;79,1;1,2;4,6;65,9;conforme;242008;15501;56;96;753;Non vérifié;non
+29257;Saint-Pabu;29;eau potable : CC Pays des Abers-régie Eau Potable;284154;2024;89,7;0,9;7,8;66,6;conforme;269370;13821;18;43;2087;Non vérifié;non
+29259;Saint-Pol-de-Léon;29;eau potable;86924;2024;88,8;1,0;8,3;66,7;conforme;41971;41971;17;44;6941;Non vérifié;non
+29260;Saint-Renan;29;eau potable : Secteur régie eau potable CC Pays d'Iroise;283054;2024;83,0;1,6;8,0;66,6;conforme;113997;68812;22;73;8577;Non vérifié;non
+29261;Saint-Rivoal;29;eau potable;86642;2024;55,6;1,3;1,6;65,3;non conforme;9158;9158;113;302;223;Non vérifié;non
+29262;Saint-Sauveur;29;eau potable : Locmélar et Saint-Sauveur;86817;2024;84,8;0,6;2,7;65,5;conforme;13709;8712;28;115;849;Non vérifié;non
+29263;Saint-Ségal;29;eau potable : Saint-Segal;86517;2024;78,4;0,9;3,2;65,6;conforme;11727;11727;27;103;1182;Non vérifié;non
+29264;Saint-Servais;29;eau potable;86940;2024;71,7;1,1;2,8;65,6;conforme;126834;10612;37;148;784;Non vérifié;non
+29265;Sainte-Sève;29;eau potable : Secteur Régie Eau Potable Morlaix Communauté;282994;2024;78,4;1,5;5,6;66,1;conforme;908850;15676;40;107;1077;Non vérifié;non
+29266;Saint-Thégonnec Loc-Eguiner;29;eau potable : Secteur Régie Eau Potable Morlaix Communauté;282994;2024;78,4;1,5;5,6;66,1;conforme;908850;45820;40;107;3148;Non vérifié;non
+29268;Saint-Thonan;29;eau potable : ex-SYNDICAT DES EAUX DU SPERNEL;86771;2024;90,4;0,8;7,8;66,6;conforme;26423;14514;20;38;1956;Non vérifié;non
+29269;Saint-Thurien;29;eau potable : Secteur Régie eau potable CC Quimperlé;282074;2024;83,2;1,4;7,0;66,4;conforme;813420;14235;39;73;1000;Non vérifié;non
+29270;Saint-Urbain;29;eau potable : secteur eau du ponant-CC Landerneau;281394;2024;85,2;1,8;10,5;67,1;conforme;580814;21912;36;70;1670;Non vérifié;non
+29271;Saint-Vougay;29;eau potable : Plouzévédé, Trézilidé, Saint-Vougay;344794;2024;92,5;0,4;5,3;66,1;conforme;15184;4175;13;41;873;Non vérifié;non
+29272;Saint-Yvi;29;eau potable : Saint-Yvi;86669;2024;68,5;2,1;4,5;65,9;conforme;72358;72358;58;173;3431;Non vérifié;non
+29273;Santec;29;eau potable;86822;2024;97,6;0,8;31,3;71,3;conforme;51976;16426;18;51;2454;Non vérifié;non
+29274;Scaër;29;eau potable : Secteur Régie eau potable CC Quimperlé;282074;2024;83,2;1,4;7,0;66,4;conforme;813420;73710;39;73;5178;Non vérifié;non
+29275;Scrignac;29;eau potable;86588;2024;59,6;1,5;2,2;65,4;non conforme;54750;54750;184;296;816;Non vérifié;non
+29276;Sibiril;29;eau potable;86811;2024;77,7;1,7;5,9;66,2;conforme;92231;22302;53;141;1143;Non vérifié;non
+29277;Sizun;29;eau potable : Lampaul, Landivisiau, Sizun, Guiclan;344774;2024;84,1;1,3;7,1;66,4;conforme;163608;23240;27;67;2325;Non vérifié;non
+29278;Spézet;29;eau potable : Territoire n°1;86554;2024;76,6;0,8;2,7;65,5;conforme;87060;33214;51;112;1774;Non vérifié;non
+29279;Taulé;29;eau potable : Secteur Régie Eau Potable Morlaix Communauté;282994;2024;78,4;1,5;5,6;66,1;conforme;908850;42414;40;107;2914;Non vérifié;non
+29280;Telgruc-sur-Mer;29;eau potable : Crozon-Aulne-Maritime -Secteur Régie;313914;2024;73,3;2,0;5,4;66,1;conforme;417560;42825;54;136;2167;Non vérifié;non
+29281;Tourch;29;eau potable : Tourch;86717;2024;82,3;1,1;5,2;66,0;conforme;20637;20637;56;82;1002;Non vérifié;non
+29282;Trébabu;29;eau potable : Lampaul-Plouarzel, Le Conquet, Trébabu, Ploumoguer, Plouarzel, Plougonvelin, Locmaria-Plouzané;86661;2024;85,5;1,0;5,8;66,2;conforme;163038;2833;21;63;368;Non vérifié;non
+29284;Treffiagat;29;eau potable;86691;2024;91,8;0,8;8,4;66,7;conforme;236961;14909;17;41;2429;Non vérifié;non
+29285;Tréflaouénan;29;eau potable : SYNDICAT DES EAUX DE PLOUZEVEDE;86826;2022;91,9;0,4;4,9;66,0;conforme;18159;2547;13;40;518;Sans anomalie apparente;non
+29286;Tréflévénez;29;eau potable : secteur eau du ponant-CC Landerneau;281394;2024;85,2;1,8;10,5;67,1;conforme;580814;3411;36;70;260;Non vérifié;non
+29288;Trégarantec;29;eau potable : Régie-eau-potable-CC-Lesneven;292334;2024;81,2;1,5;6,4;66,3;conforme;366157;8372;36;86;634;Non vérifié;non
+29289;Trégarvan;29;eau potable : Secteur CC PLeyben-Châteaulin-Plonevez-Porzay;298594;2024;79,1;1,2;4,6;65,9;conforme;242008;2759;56;96;134;Non vérifié;non
+29290;Tréglonou;29;eau potable : CC Pays des Abers-régie Eau Potable;284154;2024;89,7;0,9;7,8;66,6;conforme;269370;4563;18;43;689;Non vérifié;non
+29292;Tréguennec;29;eau potable;86691;2024;91,8;0,8;8,4;66,7;conforme;236961;1909;17;41;311;Non vérifié;non
+29293;Trégunc;29;eau potable : Pont-Aven, Nevez, trégunc;86527;2024;82,5;2,0;9,5;66,9;conforme;245280;137835;53;107;7148;Non vérifié;non
+29294;Le Tréhou;29;eau potable : secteur eau du ponant-CC Landerneau;281394;2024;85,2;1,8;10,5;67,1;conforme;580814;8305;36;70;633;Non vérifié;non
+29295;Trémaouézan;29;eau potable : secteur eau du ponant-CC Landerneau;281394;2024;85,2;1,8;10,5;67,1;conforme;580814;6337;36;70;483;Non vérifié;non
+29296;Tréméoc;29;eau potable;86691;2024;91,8;0,8;8,4;66,7;conforme;236961;9226;17;41;1503;Non vérifié;non
+29297;Tréméven;29;eau potable : Secteur Régie eau potable CC Quimperlé;282074;2024;83,2;1,4;7,0;66,4;conforme;813420;34193;39;73;2402;Non vérifié;non
+29298;Tréogat;29;eau potable : Haut Pays Bigouden;317154;2024;81,0;1,1;4,7;65,9;conforme;256478;7870;38;107;573;Non vérifié;non
+29300;Le Trévoux;29;eau potable : Secteur Régie eau potable CC Quimperlé;282074;2024;83,2;1,4;7,0;66,4;conforme;813420;23517;39;73;1652;Non vérifié;non
+29301;Trézilidé;29;eau potable : Plouzévédé, Trézilidé, Saint-Vougay;344794;2024;92,5;0,4;5,3;66,1;conforme;15184;1937;13;41;405;Non vérifié;non
+29302;Pont-de-Buis-lès-Quimerch;29;eau potable : Crozon-Aulne-Maritime -Secteur Régie;313914;2024;73,3;2,0;5,4;66,1;conforme;417560;72390;54;136;3663;Non vérifié;non

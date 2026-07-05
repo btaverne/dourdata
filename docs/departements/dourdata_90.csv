@@ -7,104 +7,104 @@
 # Méthodologie et code : https://github.com/btaverne/dourdata
 # Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
 # Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
-Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
-90001;Andelnans;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;11358;28;81;1093;Non vérifié
-90002;Angeot;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;3678;28;81;354;Non vérifié
-90003;Anjoutey;90;eau potable;117541;2024;58,9;9,4;13,5;67,7;non conforme;497495;26559;119;264;611;Non vérifié
-90004;Argiésans;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;6307;28;81;607;Non vérifié
-90005;Auxelles-Bas;90;eau potable;117541;2024;58,9;9,4;13,5;67,7;non conforme;497495;18126;119;264;417;Non vérifié
-90006;Auxelles-Haut;90;eau potable;117541;2024;58,9;9,4;13,5;67,7;non conforme;497495;12475;119;264;287;Non vérifié
-90007;Banvillars;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;3003;28;81;289;Non vérifié
-90008;Bavilliers;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;48610;28;81;4678;Non vérifié
-90009;Beaucourt;90;eau potable : principal;198758;2024;76,0;3,8;12,1;67,4;conforme;348262;73654;41;115;4966;Non vérifié
-90010;Belfort;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;477079;28;81;45912;Non vérifié
-90011;Bermont;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;3720;28;81;358;Non vérifié
-90012;Bessoncourt;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;13602;28;81;1309;Non vérifié
-90013;Bethonvilliers;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;2411;28;81;232;Non vérifié
-90014;Boron;90;eau potable : principal;198758;2024;76,0;3,8;12,1;67,4;conforme;348262;7179;41;115;484;Non vérifié
-90015;Botans;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;2587;28;81;249;Non vérifié
-90016;Bourg-sous-Châtelet;90;eau potable;117541;2024;58,9;9,4;13,5;67,7;non conforme;497495;4999;119;264;115;Non vérifié
-90017;Bourogne;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;18091;28;81;1741;Non vérifié
-90018;Brebotte;90;eau potable : principal;198758;2024;76,0;3,8;12,1;67,4;conforme;348262;5236;41;115;353;Non vérifié
-90019;Bretagne;90;eau potable : principal;198758;2024;76,0;3,8;12,1;67,4;conforme;348262;4731;41;115;319;Non vérifié
-90020;Buc;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;2535;28;81;244;Non vérifié
-90021;Charmois;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;3834;28;81;369;Non vérifié
-90022;Châtenois-les-Forges;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;27100;28;81;2608;Non vérifié
-90023;Chaux;90;eau potable;117541;2024;58,9;9,4;13,5;67,7;non conforme;497495;51466;119;264;1184;Non vérifié
-90024;Chavanatte;90;eau potable : principal;198758;2024;76,0;3,8;12,1;67,4;conforme;348262;1928;41;115;130;Non vérifié
-90025;Chavannes-les-Grands;90;eau potable : principal;198758;2024;76,0;3,8;12,1;67,4;conforme;348262;5117;41;115;345;Non vérifié
-90026;Chèvremont;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;15992;28;81;1539;Non vérifié
-90027;Courcelles;90;eau potable : principal;198758;2024;76,0;3,8;12,1;67,4;conforme;348262;1958;41;115;132;Non vérifié
-90028;Courtelevant;90;eau potable : principal;198758;2024;76,0;3,8;12,1;67,4;conforme;348262;5621;41;115;379;Non vérifié
-90029;Cravanche;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;20180;28;81;1942;Non vérifié
-90030;Croix;90;eau potable : principal;198758;2024;76,0;3,8;12,1;67,4;conforme;348262;2670;41;115;180;Non vérifié
-90031;Cunelières;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;3543;28;81;341;Non vérifié
-90032;Danjoutin;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;36566;28;81;3519;Non vérifié
-90033;Delle;90;eau potable : principal;198758;2024;76,0;3,8;12,1;67,4;conforme;348262;83398;41;115;5623;Non vérifié
-90034;Denney;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;7928;28;81;763;Non vérifié
-90035;Dorans;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;8562;28;81;824;Non vérifié
-90036;Eguenigue;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;2826;28;81;272;Non vérifié
-90037;Éloie;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;9892;28;81;952;Non vérifié
-90039;Essert;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;35507;28;81;3417;Non vérifié
-90041;Étueffont;90;eau potable;117541;2024;58,9;9,4;13,5;67,7;non conforme;497495;60551;119;264;1393;Non vérifié
-90042;Évette-Salbert;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;21084;28;81;2029;Non vérifié
-90043;Faverois;90;eau potable : principal;198758;2024;76,0;3,8;12,1;67,4;conforme;348262;8795;41;115;593;Non vérifié
-90044;Felon;90;eau potable;117547;2024;83,9;4,0;20,7;69,1;conforme;61320;3826;47;138;222;Non vérifié
-90045;Fêche-l'Église;90;eau potable : principal;198758;2024;76,0;3,8;12,1;67,4;conforme;348262;10412;41;115;702;Non vérifié
-90046;Florimont;90;eau potable : principal;198758;2024;76,0;3,8;12,1;67,4;conforme;348262;7015;41;115;473;Non vérifié
-90047;Fontaine;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;6287;28;81;605;Non vérifié
-90048;Fontenelle;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;1403;28;81;135;Non vérifié
-90049;Foussemagne;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;9030;28;81;869;Non vérifié
-90050;Frais;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;2587;28;81;249;Non vérifié
-90051;Froidefontaine;90;eau potable : principal;198758;2024;76,0;3,8;12,1;67,4;conforme;348262;6422;41;115;433;Non vérifié
-90052;Giromagny;90;eau potable;117541;2024;58,9;9,4;13,5;67,7;non conforme;497495;126362;119;264;2907;Non vérifié
-90053;Grandvillars;90;eau potable : principal;198758;2024;76,0;3,8;12,1;67,4;conforme;348262;43709;41;115;2947;Non vérifié
-90054;Grosmagny;90;eau potable;117541;2024;58,9;9,4;13,5;67,7;non conforme;497495;24733;119;264;569;Non vérifié
-90055;Grosne;90;eau potable : principal;198758;2024;76,0;3,8;12,1;67,4;conforme;348262;4761;41;115;321;Non vérifié
-90056;Joncherey;90;eau potable : principal;198758;2024;76,0;3,8;12,1;67,4;conforme;348262;21521;41;115;1451;Non vérifié
-90057;Lachapelle-sous-Chaux;90;eau potable;117541;2024;58,9;9,4;13,5;67,7;non conforme;497495;32384;119;264;745;Non vérifié
-90058;Lachapelle-sous-Rougemont;90;eau potable;117547;2024;83,9;4,0;20,7;69,1;conforme;61320;9289;47;138;539;Non vérifié
-90059;Lacollonge;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;2432;28;81;234;Non vérifié
-90060;Lagrange;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;1496;28;81;144;Non vérifié
-90062;Larivière;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;2930;28;81;282;Non vérifié
-90063;Lebetain;90;eau potable : principal;198758;2024;76,0;3,8;12,1;67,4;conforme;348262;6259;41;115;422;Non vérifié
-90064;Lepuix-Neuf;90;eau potable : principal;198758;2024;76,0;3,8;12,1;67,4;conforme;348262;4553;41;115;307;Non vérifié
-90065;Lepuix;90;eau potable;117541;2024;58,9;9,4;13,5;67,7;non conforme;497495;48467;119;264;1115;Non vérifié
-90066;Leval;90;eau potable;117547;2024;83,9;4,0;20,7;69,1;conforme;61320;4309;47;138;250;Non vérifié
-90067;Menoncourt;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;4063;28;81;391;Non vérifié
-90068;Meroux-Moval;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;14963;28;81;1440;Non vérifié
-90069;Méziré;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;13041;28;81;1255;Non vérifié
-90070;Montbouton;90;eau potable : principal;198758;2024;76,0;3,8;12,1;67,4;conforme;348262;6259;41;115;422;Non vérifié
-90071;Montreux-Château;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;12262;28;81;1180;Non vérifié
-90072;Morvillars;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;11565;28;81;1113;Non vérifié
-90074;Novillard;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;3117;28;81;300;Non vérifié
-90075;Offemont;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;42095;28;81;4051;Non vérifié
-90076;Pérouse;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;12428;28;81;1196;Non vérifié
-90077;Petit-Croix;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;3200;28;81;308;Non vérifié
-90078;Petitefontaine;90;eau potable;117547;2024;83,9;4,0;20,7;69,1;conforme;61320;3326;47;138;193;Non vérifié
-90079;Petitmagny;90;eau potable;117541;2024;58,9;9,4;13,5;67,7;non conforme;497495;13693;119;264;315;Non vérifié
-90080;Phaffans;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;4489;28;81;432;Non vérifié
-90081;Réchésy;90;eau potable : principal;198758;2024;76,0;3,8;12,1;67,4;conforme;348262;11331;41;115;764;Non vérifié
-90082;Autrechêne;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;2920;28;81;281;Non vérifié
-90083;Recouvrance;90;eau potable : principal;198758;2024;76,0;3,8;12,1;67,4;conforme;348262;2180;41;115;147;Non vérifié
-90084;Reppe;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;3346;28;81;322;Non vérifié
-90085;Riervescemont;90;eau potable;117541;2024;58,9;9,4;13,5;67,7;non conforme;497495;3608;119;264;83;Non vérifié
-90086;Romagny-sous-Rougemont;90;eau potable;117547;2024;83,9;4,0;20,7;69,1;conforme;61320;3671;47;138;213;Non vérifié
-90087;Roppe;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;10817;28;81;1041;Non vérifié
-90088;Rougegoutte;90;eau potable;117541;2024;58,9;9,4;13,5;67,7;non conforme;497495;42903;119;264;987;Non vérifié
-90089;Rougemont-le-Château;90;eau potable;117547;2024;83,9;4,0;20,7;69,1;conforme;61320;25628;47;138;1487;Non vérifié
-90090;Saint-Dizier-l'Évêque;90;eau potable : principal;198758;2024;76,0;3,8;12,1;67,4;conforme;348262;6333;41;115;427;Non vérifié
-90091;Saint-Germain-le-Châtelet;90;eau potable;117547;2024;83,9;4,0;20,7;69,1;conforme;61320;11271;47;138;654;Non vérifié
-90093;Sermamagny;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;9653;28;81;929;Non vérifié
-90094;Sevenans;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;7149;28;81;688;Non vérifié
-90095;Suarce;90;eau potable : principal;198758;2024;76,0;3,8;12,1;67,4;conforme;348262;6556;41;115;442;Non vérifié
-90096;Thiancourt;90;eau potable : principal;198758;2024;76,0;3,8;12,1;67,4;conforme;348262;4242;41;115;286;Non vérifié
-90097;Trévenans;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;13612;28;81;1310;Non vérifié
-90098;Urcerey;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;2671;28;81;257;Non vérifié
-90099;Valdoie;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;53774;28;81;5175;Non vérifié
-90100;Vauthiermont;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;2411;28;81;232;Non vérifié
-90101;Vellescot;90;eau potable : principal;198758;2024;76,0;3,8;12,1;67,4;conforme;348262;3812;41;115;257;Non vérifié
-90102;Vescemont;90;eau potable;117541;2024;58,9;9,4;13,5;67,7;non conforme;497495;31167;119;264;717;Non vérifié
-90103;Vétrigne;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;6609;28;81;636;Non vérifié
-90104;Vézelois;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;10692;28;81;1029;Non vérifié
-90105;Villars-le-Sec;90;eau potable : principal;198758;2024;76,0;3,8;12,1;67,4;conforme;348262;2610;41;115;176;Non vérifié
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement);Donnée suspecte (voir LISEZMOI)
+90001;Andelnans;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;11358;28;81;1093;Non vérifié;non
+90002;Angeot;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;3678;28;81;354;Non vérifié;non
+90003;Anjoutey;90;eau potable;117541;2024;58,9;9,4;13,5;67,7;non conforme;497495;26559;119;264;611;Non vérifié;non
+90004;Argiésans;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;6307;28;81;607;Non vérifié;non
+90005;Auxelles-Bas;90;eau potable;117541;2024;58,9;9,4;13,5;67,7;non conforme;497495;18126;119;264;417;Non vérifié;non
+90006;Auxelles-Haut;90;eau potable;117541;2024;58,9;9,4;13,5;67,7;non conforme;497495;12475;119;264;287;Non vérifié;non
+90007;Banvillars;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;3003;28;81;289;Non vérifié;non
+90008;Bavilliers;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;48610;28;81;4678;Non vérifié;non
+90009;Beaucourt;90;eau potable : principal;198758;2024;76,0;3,8;12,1;67,4;conforme;348262;73654;41;115;4966;Non vérifié;non
+90010;Belfort;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;477079;28;81;45912;Non vérifié;non
+90011;Bermont;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;3720;28;81;358;Non vérifié;non
+90012;Bessoncourt;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;13602;28;81;1309;Non vérifié;non
+90013;Bethonvilliers;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;2411;28;81;232;Non vérifié;non
+90014;Boron;90;eau potable : principal;198758;2024;76,0;3,8;12,1;67,4;conforme;348262;7179;41;115;484;Non vérifié;non
+90015;Botans;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;2587;28;81;249;Non vérifié;non
+90016;Bourg-sous-Châtelet;90;eau potable;117541;2024;58,9;9,4;13,5;67,7;non conforme;497495;4999;119;264;115;Non vérifié;non
+90017;Bourogne;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;18091;28;81;1741;Non vérifié;non
+90018;Brebotte;90;eau potable : principal;198758;2024;76,0;3,8;12,1;67,4;conforme;348262;5236;41;115;353;Non vérifié;non
+90019;Bretagne;90;eau potable : principal;198758;2024;76,0;3,8;12,1;67,4;conforme;348262;4731;41;115;319;Non vérifié;non
+90020;Buc;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;2535;28;81;244;Non vérifié;non
+90021;Charmois;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;3834;28;81;369;Non vérifié;non
+90022;Châtenois-les-Forges;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;27100;28;81;2608;Non vérifié;non
+90023;Chaux;90;eau potable;117541;2024;58,9;9,4;13,5;67,7;non conforme;497495;51466;119;264;1184;Non vérifié;non
+90024;Chavanatte;90;eau potable : principal;198758;2024;76,0;3,8;12,1;67,4;conforme;348262;1928;41;115;130;Non vérifié;non
+90025;Chavannes-les-Grands;90;eau potable : principal;198758;2024;76,0;3,8;12,1;67,4;conforme;348262;5117;41;115;345;Non vérifié;non
+90026;Chèvremont;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;15992;28;81;1539;Non vérifié;non
+90027;Courcelles;90;eau potable : principal;198758;2024;76,0;3,8;12,1;67,4;conforme;348262;1958;41;115;132;Non vérifié;non
+90028;Courtelevant;90;eau potable : principal;198758;2024;76,0;3,8;12,1;67,4;conforme;348262;5621;41;115;379;Non vérifié;non
+90029;Cravanche;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;20180;28;81;1942;Non vérifié;non
+90030;Croix;90;eau potable : principal;198758;2024;76,0;3,8;12,1;67,4;conforme;348262;2670;41;115;180;Non vérifié;non
+90031;Cunelières;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;3543;28;81;341;Non vérifié;non
+90032;Danjoutin;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;36566;28;81;3519;Non vérifié;non
+90033;Delle;90;eau potable : principal;198758;2024;76,0;3,8;12,1;67,4;conforme;348262;83398;41;115;5623;Non vérifié;non
+90034;Denney;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;7928;28;81;763;Non vérifié;non
+90035;Dorans;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;8562;28;81;824;Non vérifié;non
+90036;Eguenigue;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;2826;28;81;272;Non vérifié;non
+90037;Éloie;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;9892;28;81;952;Non vérifié;non
+90039;Essert;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;35507;28;81;3417;Non vérifié;non
+90041;Étueffont;90;eau potable;117541;2024;58,9;9,4;13,5;67,7;non conforme;497495;60551;119;264;1393;Non vérifié;non
+90042;Évette-Salbert;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;21084;28;81;2029;Non vérifié;non
+90043;Faverois;90;eau potable : principal;198758;2024;76,0;3,8;12,1;67,4;conforme;348262;8795;41;115;593;Non vérifié;non
+90044;Felon;90;eau potable;117547;2024;83,9;4,0;20,7;69,1;conforme;61320;3826;47;138;222;Non vérifié;non
+90045;Fêche-l'Église;90;eau potable : principal;198758;2024;76,0;3,8;12,1;67,4;conforme;348262;10412;41;115;702;Non vérifié;non
+90046;Florimont;90;eau potable : principal;198758;2024;76,0;3,8;12,1;67,4;conforme;348262;7015;41;115;473;Non vérifié;non
+90047;Fontaine;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;6287;28;81;605;Non vérifié;non
+90048;Fontenelle;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;1403;28;81;135;Non vérifié;non
+90049;Foussemagne;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;9030;28;81;869;Non vérifié;non
+90050;Frais;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;2587;28;81;249;Non vérifié;non
+90051;Froidefontaine;90;eau potable : principal;198758;2024;76,0;3,8;12,1;67,4;conforme;348262;6422;41;115;433;Non vérifié;non
+90052;Giromagny;90;eau potable;117541;2024;58,9;9,4;13,5;67,7;non conforme;497495;126362;119;264;2907;Non vérifié;non
+90053;Grandvillars;90;eau potable : principal;198758;2024;76,0;3,8;12,1;67,4;conforme;348262;43709;41;115;2947;Non vérifié;non
+90054;Grosmagny;90;eau potable;117541;2024;58,9;9,4;13,5;67,7;non conforme;497495;24733;119;264;569;Non vérifié;non
+90055;Grosne;90;eau potable : principal;198758;2024;76,0;3,8;12,1;67,4;conforme;348262;4761;41;115;321;Non vérifié;non
+90056;Joncherey;90;eau potable : principal;198758;2024;76,0;3,8;12,1;67,4;conforme;348262;21521;41;115;1451;Non vérifié;non
+90057;Lachapelle-sous-Chaux;90;eau potable;117541;2024;58,9;9,4;13,5;67,7;non conforme;497495;32384;119;264;745;Non vérifié;non
+90058;Lachapelle-sous-Rougemont;90;eau potable;117547;2024;83,9;4,0;20,7;69,1;conforme;61320;9289;47;138;539;Non vérifié;non
+90059;Lacollonge;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;2432;28;81;234;Non vérifié;non
+90060;Lagrange;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;1496;28;81;144;Non vérifié;non
+90062;Larivière;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;2930;28;81;282;Non vérifié;non
+90063;Lebetain;90;eau potable : principal;198758;2024;76,0;3,8;12,1;67,4;conforme;348262;6259;41;115;422;Non vérifié;non
+90064;Lepuix-Neuf;90;eau potable : principal;198758;2024;76,0;3,8;12,1;67,4;conforme;348262;4553;41;115;307;Non vérifié;non
+90065;Lepuix;90;eau potable;117541;2024;58,9;9,4;13,5;67,7;non conforme;497495;48467;119;264;1115;Non vérifié;non
+90066;Leval;90;eau potable;117547;2024;83,9;4,0;20,7;69,1;conforme;61320;4309;47;138;250;Non vérifié;non
+90067;Menoncourt;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;4063;28;81;391;Non vérifié;non
+90068;Meroux-Moval;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;14963;28;81;1440;Non vérifié;non
+90069;Méziré;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;13041;28;81;1255;Non vérifié;non
+90070;Montbouton;90;eau potable : principal;198758;2024;76,0;3,8;12,1;67,4;conforme;348262;6259;41;115;422;Non vérifié;non
+90071;Montreux-Château;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;12262;28;81;1180;Non vérifié;non
+90072;Morvillars;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;11565;28;81;1113;Non vérifié;non
+90074;Novillard;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;3117;28;81;300;Non vérifié;non
+90075;Offemont;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;42095;28;81;4051;Non vérifié;non
+90076;Pérouse;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;12428;28;81;1196;Non vérifié;non
+90077;Petit-Croix;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;3200;28;81;308;Non vérifié;non
+90078;Petitefontaine;90;eau potable;117547;2024;83,9;4,0;20,7;69,1;conforme;61320;3326;47;138;193;Non vérifié;non
+90079;Petitmagny;90;eau potable;117541;2024;58,9;9,4;13,5;67,7;non conforme;497495;13693;119;264;315;Non vérifié;non
+90080;Phaffans;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;4489;28;81;432;Non vérifié;non
+90081;Réchésy;90;eau potable : principal;198758;2024;76,0;3,8;12,1;67,4;conforme;348262;11331;41;115;764;Non vérifié;non
+90082;Autrechêne;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;2920;28;81;281;Non vérifié;non
+90083;Recouvrance;90;eau potable : principal;198758;2024;76,0;3,8;12,1;67,4;conforme;348262;2180;41;115;147;Non vérifié;non
+90084;Reppe;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;3346;28;81;322;Non vérifié;non
+90085;Riervescemont;90;eau potable;117541;2024;58,9;9,4;13,5;67,7;non conforme;497495;3608;119;264;83;Non vérifié;non
+90086;Romagny-sous-Rougemont;90;eau potable;117547;2024;83,9;4,0;20,7;69,1;conforme;61320;3671;47;138;213;Non vérifié;non
+90087;Roppe;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;10817;28;81;1041;Non vérifié;non
+90088;Rougegoutte;90;eau potable;117541;2024;58,9;9,4;13,5;67,7;non conforme;497495;42903;119;264;987;Non vérifié;non
+90089;Rougemont-le-Château;90;eau potable;117547;2024;83,9;4,0;20,7;69,1;conforme;61320;25628;47;138;1487;Non vérifié;non
+90090;Saint-Dizier-l'Évêque;90;eau potable : principal;198758;2024;76,0;3,8;12,1;67,4;conforme;348262;6333;41;115;427;Non vérifié;non
+90091;Saint-Germain-le-Châtelet;90;eau potable;117547;2024;83,9;4,0;20,7;69,1;conforme;61320;11271;47;138;654;Non vérifié;non
+90093;Sermamagny;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;9653;28;81;929;Non vérifié;non
+90094;Sevenans;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;7149;28;81;688;Non vérifié;non
+90095;Suarce;90;eau potable : principal;198758;2024;76,0;3,8;12,1;67,4;conforme;348262;6556;41;115;442;Non vérifié;non
+90096;Thiancourt;90;eau potable : principal;198758;2024;76,0;3,8;12,1;67,4;conforme;348262;4242;41;115;286;Non vérifié;non
+90097;Trévenans;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;13612;28;81;1310;Non vérifié;non
+90098;Urcerey;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;2671;28;81;257;Non vérifié;non
+90099;Valdoie;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;53774;28;81;5175;Non vérifié;non
+90100;Vauthiermont;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;2411;28;81;232;Non vérifié;non
+90101;Vellescot;90;eau potable : principal;198758;2024;76,0;3,8;12,1;67,4;conforme;348262;3812;41;115;257;Non vérifié;non
+90102;Vescemont;90;eau potable;117541;2024;58,9;9,4;13,5;67,7;non conforme;497495;31167;119;264;717;Non vérifié;non
+90103;Vétrigne;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;6609;28;81;636;Non vérifié;non
+90104;Vézelois;90;eau potable : principal;117545;2024;81,9;4,0;18,1;68,6;conforme;1057040;10692;28;81;1029;Non vérifié;non
+90105;Villars-le-Sec;90;eau potable : principal;198758;2024;76,0;3,8;12,1;67,4;conforme;348262;2610;41;115;176;Non vérifié;non

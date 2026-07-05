@@ -7,271 +7,271 @@
 # Méthodologie et code : https://github.com/btaverne/dourdata
 # Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
 # Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
-Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
-37001;Abilly;37;eau potable;58639;2024;73,2;1,4;3,9;65,8;conforme;186004;22099;54;132;1116;Non vérifié
-37003;Amboise;37;eau potable : Territoire principal AEP;216294;2024;85,9;1,6;10,0;67,0;conforme;228064;120698;26;59;12937;Non vérifié
-37004;Anché;37;eau potable : Territoire général;229154;2024;87,4;1,0;7,1;66,4;conforme;207648;3760;24;51;426;Non vérifié
-37005;Antogny-le-Tillac;37;eau potable;58639;2024;73,2;1,4;3,9;65,8;conforme;186004;9604;54;132;485;Non vérifié
-37006;Artannes-sur-Indre;37;eau potable : Territoire de Artannes - Pont de Ruan - Saché - Thilouze;58651;2024;82,6;1,3;6,2;66,2;conforme;72314;27967;27;79;2795;Non vérifié
-37007;Assay;37;eau potable : SIAEP DE LA REGION DE CHAMPIGNY SUR VEUDE;58642;2024;64,8;1,4;2,6;65,5;non conforme;60809;3686;57;222;177;Non vérifié
-37008;Athée-sur-Cher;37;eau potable : Athée - EP;58379;2024;86,6;1,0;6,6;66,3;conforme;18830;5772;6;55;2855;Non vérifié
-37009;Autrèche;37;eau potable : Autrèche;58381;2024;71,8;1,5;3,7;65,7;conforme;12592;12592;82;148;419;Non vérifié
-37010;Auzouer-en-Touraine;37;eau potable;58646;2024;62,9;1,8;3,0;65,6;non conforme;99378;51061;65;221;2159;Non vérifié
-37011;Avoine;37;eau potable : Territoire général;229154;2024;87,4;1,0;7,1;66,4;conforme;207648;18243;24;51;2067;Non vérifié
-37012;Avon-les-Roches;37;eau potable : Villaines les Rochers;58584;2024;87,1;1,1;7,2;66,4;conforme;12972;2037;10;56;534;Non vérifié
-37013;Avrillé-les-Ponceaux;37;eau potable : SIAEP DE CLERE LES PINS, AVRILLE LES PONCEAUX, MAZIERES DE TOURAINE;58604;2024;80,2;0,7;2,8;65,6;conforme;38580;5442;31;96;479;Non vérifié
-37014;Azay-le-Rideau;37;eau potable : Azay-le-rideau;58387;2024;76,4;2,6;8,3;66,7;conforme;59161;59161;47;114;3438;Non vérifié
-37015;Azay-sur-Cher;37;eau potable;58618;2024;98,6;0,1;8,7;66,7;conforme;4861;1495;1;4;3243;Non vérifié
-37016;Azay-sur-Indre;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;2851;22;53;363;Non vérifié
-37018;Ballan-Miré;37;eau potable : Ballan-Miré, Savonnières, Druye, Villandry, Berthenay;233174;2024;83,1;1,8;9,0;66,8;conforme;145920;83902;27;73;8477;Non vérifié
-37019;Barrou;37;eau potable : SMAEP Touraine du Sud;215176;2024;75,0;0,7;2,0;65,4;conforme;132165;13112;75;140;478;Non vérifié
-37020;Beaulieu-lès-Loches;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;13612;22;53;1733;Non vérifié
-37021;Beaumont-Louestault;37;eau potable (BEAUMONT LA RONCE);58685;2024;86,0;0,6;3,9;65,8;conforme;9130;9130;14;56;1813;Non vérifié
-37022;Beaumont-en-Véron;37;eau potable : Territoire général;229154;2024;87,4;1,0;7,1;66,4;conforme;207648;23980;24;51;2717;Non vérifié
-37023;Beaumont-Village;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;1877;22;53;239;Non vérifié
-37024;Benais;37;eau potable : Territoire de l'ex-CCPB;218217;2024;95,2;0,3;5,8;66,2;conforme;38073;3266;9;22;945;Non vérifié
-37025;Berthenay;37;eau potable : Ballan-Miré, Savonnières, Druye, Villandry, Berthenay;233174;2024;83,1;1,8;9,0;66,8;conforme;145920;6998;27;73;707;Non vérifié
-37026;Betz-le-Château;37;eau potable : SMAEP Touraine du Sud;215176;2024;75,0;0,7;2,0;65,4;conforme;132165;13688;75;140;499;Non vérifié
-37027;Bléré;37;eau potable : Bléré - EP;58395;2024;91,9;0,9;10,3;67,1;conforme;26280;26280;13;34;5352;Non vérifié
-37028;Bossay-sur-Claise;37;eau potable : SMAEP Touraine du Sud;215176;2024;75,0;0,7;2,0;65,4;conforme;132165;20107;75;140;733;Non vérifié
-37029;Bossée;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;2568;22;53;327;Non vérifié
-37030;Le Boulay;37;eau potable;58616;2024;87,7;0,4;3,0;65,6;conforme;21430;7463;25;67;810;Non vérifié
-37031;Bourgueil;37;eau potable : Territoire de l'ex-CCPB;218217;2024;95,2;0,3;5,8;66,2;conforme;38073;12548;9;22;3631;Non vérifié
-37032;Bournan;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;2176;22;53;277;Non vérifié
-37033;Boussay;37;eau potable : SMAEP Touraine du Sud;215176;2024;75,0;0,7;2,0;65,4;conforme;132165;6501;75;140;237;Non vérifié
-37034;Braslou;37;eau potable;58634;2024;77,2;0,9;3,0;65,6;conforme;76639;5800;50;108;319;Non vérifié
-37035;Braye-sous-Faye;37;eau potable;58634;2024;77,2;0,9;3,0;65,6;conforme;76639;5109;50;108;281;Non vérifié
-37036;Braye-sur-Maulne;37;eau potable : SIVOM DE BRAYE SUR MAULNE, MARCILLY SUR MAULNE;58601;2024;89,8;0,2;1,8;65,4;conforme;3358;582;8;47;199;Non vérifié
-37037;Brèches;37;eau potable : SIAEP de COUESMES, VILLIERS au BOUIN et BRECHES;58617;2024;88,5;0,3;2,3;65,5;conforme;10846;1718;20;47;239;Non vérifié
-37038;Bréhémont;37;eau potable;58641;2024;84,8;1,2;6,8;66,4;conforme;48583;11584;43;116;737;Non vérifié
-37039;Bridoré;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;3856;22;53;491;Non vérifié
-37040;Brizay;37;eau potable;58622;2024;71,5;1,2;3,0;65,6;conforme;51364;7721;83;151;256;Non vérifié
-37041;Bueil-en-Touraine;37;eau potable;58602;2024;70,5;0,8;1,9;65,4;conforme;15248;7868;67;155;323;Non vérifié
-37042;Candes-Saint-Martin;37;eau potable : Territoire général;229154;2024;87,4;1,0;7,1;66,4;conforme;207648;1589;24;51;180;Non vérifié
-37043;Cangey;37;eau potable;87870;2024;84,7;1,0;5,6;66,1;conforme;103269;9103;24;65;1021;Non vérifié
-37044;La Celle-Guenand;37;eau potable : SMAEP Touraine du Sud;215176;2024;75,0;0,7;2,0;65,4;conforme;132165;10397;75;140;379;Non vérifié
-37045;La Celle-Saint-Avant;37;eau potable;58639;2024;73,2;1,4;3,9;65,8;conforme;186004;21367;54;132;1079;Non vérifié
-37046;Céré-la-Ronde;37;eau potable : SIAE Céré - Epeigné - EP;58620;2024;83,3;0,5;2,4;65,5;conforme;12293;6274;41;75;418;Non vérifié
-37047;Cerelles;37;eau potable;58613;2024;92,0;0,5;5,3;66,1;conforme;27747;1711;4;35;1252;Non vérifié
-37048;Chambon;37;eau potable : SMAEP Touraine du Sud;215176;2024;75,0;0,7;2,0;65,4;conforme;132165;8531;75;140;311;Non vérifié
-37049;Chambourg-sur-Indre;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;9936;22;53;1265;Non vérifié
-37050;Chambray-lès-Tours;37;eau potable : Chambray;233214;2024;86,0;3,4;20,8;69,2;conforme;136733;136733;29;60;12720;Non vérifié
-37051;Champigny-sur-Veude;37;eau potable : SIAEP DE LA REGION DE CHAMPIGNY SUR VEUDE;58642;2024;64,8;1,4;2,6;65,5;non conforme;60809;16847;57;222;809;Non vérifié
-37052;Chançay;37;eau potable;58655;2024;76,1;3,0;9,5;66,9;conforme;133875;14129;35;115;1122;Non vérifié
-37053;Chanceaux-près-Loches;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;856;22;53;109;Non vérifié
-37054;Chanceaux-sur-Choisille;37;eau potable : Notre Dame d'Oé - Chanceaux sur Choisille;233314;2024;84,6;2,2;12,2;67,4;conforme;73555;32115;25;80;3499;Non vérifié
-37055;Channay-sur-Lathan;37;eau potable : SI DES EAUX DE LA REGION DE CHANNAY SUR LATHAN;58603;2024;87,2;0,3;2,2;65,4;conforme;14646;5635;19;49;803;Non vérifié
-37056;La Chapelle-aux-Naux;37;eau potable : La Chapelle-Cheillé-Vallères-Lignières;319674;2024;80,6;1,3;5,5;66,1;conforme;48461;5307;26;86;562;Non vérifié
-37057;La Chapelle-Blanche-Saint-Martin;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;5404;22;53;688;Non vérifié
-37058;La Chapelle-sur-Loire;37;eau potable : Territoire de l'ex-CCPB;218217;2024;95,2;0,3;5,8;66,2;conforme;38073;5073;9;22;1468;Non vérifié
-37059;Charentilly;37;eau potable;58613;2024;92,0;0,5;5,3;66,1;conforme;27747;1866;4;35;1365;Non vérifié
-37060;Chargé;37;eau potable : Territoire principal AEP;216294;2024;85,9;1,6;10,0;67,0;conforme;228064;12679;26;59;1359;Non vérifié
-37061;Charnizay;37;eau potable : SMAEP Touraine du Sud;215176;2024;75,0;0,7;2,0;65,4;conforme;132165;12646;75;140;461;Non vérifié
-37062;Château-la-Vallière;37;eau potable : CHÂTEAU LA VALLIERE;58424;2024;92,3;1,0;11,4;67,3;conforme;12432;8759;14;56;1734;Non vérifié
-37063;Château-Renault;37;eau potable : CHÂTEAU RENAULT;58426;2024;76,3;5,6;18,1;68,6;conforme;92655;45863;29;113;4392;Non vérifié
-37064;Chaumussay;37;eau potable : SMAEP Touraine du Sud;215176;2024;75,0;0,7;2,0;65,4;conforme;132165;5459;75;140;199;Non vérifié
-37065;Chaveignes;37;eau potable;58622;2024;71,5;1,2;3,0;65,6;conforme;51364;17524;83;151;581;Non vérifié
-37066;Chédigny;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;4446;22;53;566;Non vérifié
-37067;Cheillé;37;eau potable : La Chapelle-Cheillé-Vallères-Lignières;319674;2024;80,6;1,3;5,5;66,1;conforme;48461;18008;26;86;1907;Non vérifié
-37068;Chemillé-sur-Dême;37;eau potable;58608;2024;67,1;0,9;1,9;65,4;conforme;66433;11549;45;179;707;Non vérifié
-37069;Chemillé-sur-Indrois;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;1783;22;53;227;Non vérifié
-37070;Chenonceaux;37;eau potable : Syndicat d'eau de la Vallée du Cher - EP;58623;2024;83,2;1,4;6,8;66,4;conforme;74504;3357;28;75;334;Non vérifié
-37071;Chezelles;37;eau potable;58622;2024;71,5;1,2;3,0;65,6;conforme;51364;3921;83;151;130;Non vérifié
-37072;Chinon;37;eau potable : Territoire général;229154;2024;87,4;1,0;7,1;66,4;conforme;207648;71879;24;51;8144;Non vérifié
-37073;Chisseaux;37;eau potable : Syndicat d'eau de la Vallée du Cher - EP;58623;2024;83,2;1,4;6,8;66,4;conforme;74504;6132;28;75;610;Non vérifié
-37074;Chouzé-sur-Loire;37;eau potable : Territoire général;229154;2024;87,4;1,0;7,1;66,4;conforme;207648;18817;24;51;2132;Non vérifié
-37075;Cigogné;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;3613;22;53;460;Non vérifié
-37076;Cinais;37;eau potable : Territoire général;229154;2024;87,4;1,0;7,1;66,4;conforme;207648;3283;24;51;372;Non vérifié
-37077;Cinq-Mars-la-Pile;37;eau potable : SIVOM DU PAYS DE LANGEAIS;58607;2024;75,0;2,5;7,4;66,5;conforme;139914;54811;37;123;4015;Non vérifié
-37078;Ciran;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;3338;22;53;425;Non vérifié
-37079;Civray-de-Touraine;37;eau potable : Syndicat d'eau de la Vallée du Cher - EP;58623;2024;83,2;1,4;6,8;66,4;conforme;74504;18284;28;75;1819;Non vérifié
-37080;Civray-sur-Esves;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;1665;22;53;212;Non vérifié
-37081;Cléré-les-Pins;37;eau potable : SIAEP DE CLERE LES PINS, AVRILLE LES PONCEAUX, MAZIERES DE TOURAINE;58604;2024;80,2;0,7;2,8;65,6;conforme;38580;16234;31;96;1429;Non vérifié
-37082;Continvoir;37;eau potable : Territoire de l'ex-CCPB;218217;2024;95,2;0,3;5,8;66,2;conforme;38073;1621;9;22;469;Non vérifié
-37083;Cormery;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;14963;22;53;1905;Non vérifié
-37084;Couesmes;37;eau potable : SIAEP de COUESMES, VILLIERS au BOUIN et BRECHES;58617;2024;88,5;0,3;2,3;65,5;conforme;10846;3903;20;47;543;Non vérifié
-37085;Courçay;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;6221;22;53;792;Non vérifié
-37086;Courcelles-de-Touraine;37;eau potable : SI DES EAUX DE LA REGION DE CHANNAY SUR LATHAN;58603;2024;87,2;0,3;2,2;65,4;conforme;14646;3389;19;49;483;Non vérifié
-37087;Courcoué;37;eau potable;58622;2024;71,5;1,2;3,0;65,6;conforme;51364;7088;83;151;235;Non vérifié
-37088;Couziers;37;eau potable : Territoire général;229154;2024;87,4;1,0;7,1;66,4;conforme;207648;1068;24;51;121;Non vérifié
-37089;Cravant-les-Côteaux;37;eau potable : Territoire général;229154;2024;87,4;1,0;7,1;66,4;conforme;207648;6169;24;51;699;Non vérifié
-37091;La Croix-en-Touraine;37;eau potable : Syndicat d'eau de la Vallée du Cher - EP;58623;2024;83,2;1,4;6,8;66,4;conforme;74504;25562;28;75;2543;Non vérifié
-37092;Crotelles;37;eau potable : Crotelles;58447;2024;84,6;0,4;2,2;65,4;conforme;4672;4672;20;66;649;Non vérifié
-37093;Crouzilles;37;eau potable : Île-Bouchard;58466;2024;68,1;3,8;8,1;66,6;conforme;40778;6089;32;172;528;Non vérifié
-37094;Cussay;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;4485;22;53;571;Non vérifié
-37095;Dame-Marie-les-Bois;37;eau potable : Territoire général;58689;2024;79,7;0,7;2,9;65,6;conforme;24508;6890;55;139;343;Non vérifié
-37096;Dierre;37;eau potable : Syndicat d'eau de la Vallée du Cher - EP;58623;2024;83,2;1,4;6,8;66,4;conforme;74504;6483;28;75;645;Non vérifié
-37097;Dolus-le-Sec;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;5113;22;53;651;Non vérifié
-37098;Draché;37;eau potable;58627;2024;80,4;0,8;3,3;65,7;conforme;32126;8655;34;90;698;Non vérifié
-37099;Druye;37;eau potable : Ballan-Miré, Savonnières, Druye, Villandry, Berthenay;233174;2024;83,1;1,8;9,0;66,8;conforme;145920;10135;27;73;1024;Non vérifié
-37100;Épeigné-les-Bois;37;eau potable : SIAE Céré - Epeigné - EP;58620;2024;83,3;0,5;2,4;65,5;conforme;12293;6019;41;75;401;Non vérifié
-37101;Épeigné-sur-Dême;37;eau potable : SMAEP de la Région Loir Braye et Dême;313434;2024;77,4;1,3;4,3;65,9;conforme;164652;3495;59;111;162;Non vérifié
-37103;Esves-le-Moutier;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;1249;22;53;159;Non vérifié
-37104;Esvres;37;eau potable : territoire d' Esvres-Truyes;58456;2024;81,3;2,5;11,1;67,2;conforme;106443;76689;33;97;6294;Non vérifié
-37105;Faye-la-Vineuse;37;eau potable;58634;2024;77,2;0,9;3,0;65,6;conforme;76639;4946;50;108;272;Non vérifié
-37106;La Ferrière;37;eau potable;58608;2024;67,1;0,9;1,9;65,4;conforme;66433;4998;45;179;306;Non vérifié
-37107;Ferrière-Larçon;37;eau potable : SMAEP Touraine du Sud;215176;2024;75,0;0,7;2,0;65,4;conforme;132165;6638;75;140;242;Non vérifié
-37108;Ferrière-sur-Beaulieu;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;5522;22;53;703;Non vérifié
-37109;Fondettes;37;eau potable : Fondettes-Luynes-Saint Etienne de Chigny;233254;2024;77,9;2,8;10,0;67,0;conforme;258668;161037;40;103;10954;Non vérifié
-37110;Francueil;37;eau potable : Syndicat d'eau de la Vallée du Cher - EP;58623;2024;83,2;1,4;6,8;66,4;conforme;74504;14686;28;75;1461;Non vérifié
-37111;Genillé;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;11805;22;53;1503;Non vérifié
-37112;Gizeux;37;eau potable : Territoire de l'ex-CCPB;218217;2024;95,2;0,3;5,8;66,2;conforme;38073;1320;9;22;382;Non vérifié
-37113;Le Grand-Pressigny;37;eau potable;58639;2024;73,2;1,4;3,9;65,8;conforme;186004;17268;54;132;872;Non vérifié
-37114;La Guerche;37;eau potable : SMAEP Touraine du Sud;215176;2024;75,0;0,7;2,0;65,4;conforme;132165;4773;75;140;174;Non vérifié
-37115;Descartes;37;eau potable;58639;2024;73,2;1,4;3,9;65,8;conforme;186004;66714;54;132;3369;Non vérifié
-37116;Les Hermites;37;eau potable;58608;2024;67,1;0,9;1,9;65,4;conforme;66433;9523;45;179;583;Non vérifié
-37117;Hommes;37;eau potable : SIAEP DE SAVIGNE SUR LATHAN, HOMMES;58612;2024;74,4;0,9;2,8;65,6;conforme;30222;12047;38;120;865;Non vérifié
-37118;Huismes;37;eau potable : Territoire général;229154;2024;87,4;1,0;7,1;66,4;conforme;207648;13221;24;51;1498;Non vérifié
-37119;L' Île-Bouchard;37;eau potable : Île-Bouchard;58466;2024;68,1;3,8;8,1;66,6;conforme;40778;18521;32;172;1606;Non vérifié
-37121;Jaulnay;37;eau potable;58634;2024;77,2;0,9;3,0;65,6;conforme;76639;4418;50;108;243;Non vérifié
-37122;Joué-lès-Tours;37;eau potable : Joué lès Tours;233255;2024;92,4;2,4;28,8;70,8;conforme;185178;185178;13;37;38423;Non vérifié
-37123;Langeais;37;eau potable : SIVOM DU PAYS DE LANGEAIS;58607;2024;75,0;2,5;7,4;66,5;conforme;139914;59616;37;123;4367;Non vérifié
-37124;Larçay;37;eau potable;58618;2024;98,6;0,1;8,7;66,7;conforme;4861;1225;1;4;2657;Non vérifié
-37125;Lémeré;37;eau potable : SIAEP DE LA REGION DE CHAMPIGNY SUR VEUDE;58642;2024;64,8;1,4;2,6;65,5;non conforme;60809;8351;57;222;401;Non vérifié
-37126;Lerné;37;eau potable : Territoire général;229154;2024;87,4;1,0;7,1;66,4;conforme;207648;3098;24;51;351;Non vérifié
-37127;Le Liège;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;2561;22;53;326;Non vérifié
-37128;Lignières-de-Touraine;37;eau potable : La Chapelle-Cheillé-Vallères-Lignières;319674;2024;80,6;1,3;5,5;66,1;conforme;48461;12446;26;86;1318;Non vérifié
-37129;Ligré;37;eau potable : SIAEP DE LA REGION DE CHAMPIGNY SUR VEUDE;58642;2024;64,8;1,4;2,6;65,5;non conforme;60809;22241;57;222;1068;Non vérifié
-37130;Ligueil;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;16533;22;53;2105;Non vérifié
-37131;Limeray;37;eau potable;87870;2024;84,7;1,0;5,6;66,1;conforme;103269;11162;24;65;1252;Non vérifié
-37132;Loches;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;48964;22;53;6234;Non vérifié
-37133;Loché-sur-Indrois;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;3786;22;53;482;Non vérifié
-37134;Louans;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;5569;22;53;709;Non vérifié
-37136;Le Louroux;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;4186;22;53;533;Non vérifié
-37137;Lublé;37;eau potable : SI DES EAUX DE LA REGION DE CHANNAY SUR LATHAN;58603;2024;87,2;0,3;2,2;65,4;conforme;14646;989;19;49;141;Non vérifié
-37138;Lussault-sur-Loire;37;eau potable : Territoire AEP Lussault;228534;2024;88,3;1,1;8,3;66,7;conforme;5918;5918;18;48;886;Non vérifié
-37139;Luynes;37;eau potable : Fondettes-Luynes-Saint Etienne de Chigny;233254;2024;77,9;2,8;10,0;67,0;conforme;258668;74418;40;103;5062;Non vérifié
-37140;Luzé;37;eau potable;58634;2024;77,2;0,9;3,0;65,6;conforme;76639;5018;50;108;276;Non vérifié
-37141;Luzillé;37;eau potable : Luzillé - EP;58478;2024;76,2;0,9;2,8;65,6;conforme;13633;13633;38;116;987;Non vérifié
-37142;Maillé;37;eau potable;58627;2024;80,4;0,8;3,3;65,7;conforme;32126;6906;34;90;557;Non vérifié
-37143;Manthelan;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;10823;22;53;1378;Non vérifié
-37144;Marçay;37;eau potable : Territoire général;229154;2024;87,4;1,0;7,1;66,4;conforme;207648;4104;24;51;465;Non vérifié
-37145;Marcé-sur-Esves;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;1971;22;53;251;Non vérifié
-37146;Marcilly-sur-Maulne;37;eau potable : SIVOM DE BRAYE SUR MAULNE, MARCILLY SUR MAULNE;58601;2024;89,8;0,2;1,8;65,4;conforme;3358;649;8;47;222;Non vérifié
-37147;Marcilly-sur-Vienne;37;eau potable;58627;2024;80,4;0,8;3,3;65,7;conforme;32126;6819;34;90;550;Non vérifié
-37148;Marigny-Marmande;37;eau potable;58634;2024;77,2;0,9;3,0;65,6;conforme;76639;10928;50;108;601;Non vérifié
-37149;Marray;37;eau potable;58608;2024;67,1;0,9;1,9;65,4;conforme;66433;8102;45;179;496;Non vérifié
-37150;Mazières-de-Touraine;37;eau potable : SIAEP DE CLERE LES PINS, AVRILLE LES PONCEAUX, MAZIERES DE TOURAINE;58604;2024;80,2;0,7;2,8;65,6;conforme;38580;16905;31;96;1488;Non vérifié
-37151;La Membrolle-sur-Choisille;37;eau potable : Territoire Régie;231454;2024;95,0;2,5;47,1;74,4;conforme;748360;14103;12;23;3290;Non vérifié
-37152;Mettray;37;eau potable : Mettray;233256;2024;89,9;1,3;11,3;67,3;conforme;13817;13817;18;42;2070;Non vérifié
-37153;Monnaie;37;eau potable;58492;2024;88,3;0,9;6,7;66,3;conforme;26047;26047;15;49;4833;Non vérifié
-37154;Montbazon;37;eau potable : Territoire de Monts-Montbazon-Veigné;331234;2024;86,8;1,7;11,3;67,3;conforme;130038;31980;18;55;4874;Non vérifié
-37155;Monthodon;37;eau potable;58616;2024;87,7;0,4;3,0;65,6;conforme;21430;5924;25;67;643;Non vérifié
-37156;Montlouis-sur-Loire;37;eau potable;58494;2024;76,8;4,3;14,2;67,8;conforme;162977;162977;39;116;11335;Non vérifié
-37157;Montrésor;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;2427;22;53;309;Non vérifié
-37158;Montreuil-en-Touraine;37;eau potable : Territoire principal AEP;216294;2024;85,9;1,6;10,0;67,0;conforme;228064;6904;26;59;740;Non vérifié
-37159;Monts;37;eau potable : Territoire de Monts-Montbazon-Veigné;331234;2024;86,8;1,7;11,3;67,3;conforme;130038;53015;18;55;8080;Non vérifié
-37160;Morand;37;eau potable : Territoire général;58689;2024;79,7;0,7;2,9;65,6;conforme;24508;7051;55;139;351;Non vérifié
-37161;Mosnes;37;eau potable : Territoire principal AEP;216294;2024;85,9;1,6;10,0;67,0;conforme;228064;7576;26;59;812;Non vérifié
-37162;Mouzay;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;3613;22;53;460;Non vérifié
-37163;Nazelles-Négron;37;eau potable : Territoire principal AEP;216294;2024;85,9;1,6;10,0;67,0;conforme;228064;35229;26;59;3776;Non vérifié
-37165;Neuil;37;eau potable : Villaines les Rochers;58584;2024;87,1;1,1;7,2;66,4;conforme;12972;1575;10;56;413;Non vérifié
-37166;Neuillé-le-Lierre;37;eau potable;58646;2024;62,9;1,8;3,0;65,6;non conforme;99378;17809;65;221;753;Non vérifié
-37167;Neuillé-Pont-Pierre;37;eau potable;58684;2024;81,9;0,9;4,1;65,8;conforme;24746;24746;30;80;2252;Non vérifié
-37168;Neuilly-le-Brignon;37;eau potable;58639;2024;73,2;1,4;3,9;65,8;conforme;186004;5505;54;132;278;Non vérifié
-37169;Neuville-sur-Brenne;37;eau potable : NEUVILLE SUR BRENNE;58505;2024;91,3;0,7;7,7;66,5;conforme;3194;3194;10;33;872;Non vérifié
-37170;Neuvy-le-Roi;37;eau potable;58507;2024;78,8;0,8;2,8;65,6;conforme;12848;12848;34;103;1048;Non vérifié
-37171;Noizay;37;eau potable : Territoire principal AEP;216294;2024;85,9;1,6;10,0;67,0;conforme;228064;10897;26;59;1168;Non vérifié
-37172;Notre-Dame-d'Oé;37;eau potable : Notre Dame d'Oé - Chanceaux sur Choisille;233314;2024;84,6;2,2;12,2;67,4;conforme;73555;41440;25;80;4515;Non vérifié
-37173;Nouans-les-Fontaines;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;5278;22;53;672;Non vérifié
-37174;Nouâtre;37;eau potable;58627;2024;80,4;0,8;3,3;65,7;conforme;32126;9746;34;90;786;Non vérifié
-37175;Nouzilly;37;eau potable : Nouzilly;58511;2024;80,6;0,8;3,2;65,6;conforme;15613;15613;35;101;1234;Non vérifié
-37176;Noyant-de-Touraine;37;eau potable : SIAEP NOYANT – POUZAY - TROGUES;58632;2024;91,5;0,5;5,5;66,1;conforme;12304;6173;15;34;1160;Non vérifié
-37177;Orbigny;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;5592;22;53;712;Non vérifié
-37178;Panzoult;37;eau potable : Île-Bouchard;58466;2024;68,1;3,8;8,1;66,6;conforme;40778;6746;32;172;585;Non vérifié
-37179;Parçay-Meslay;37;eau potable : Parçay Meslay - Rochecorbon;233335;2024;83,3;2,1;10,5;67,1;conforme;71829;31916;34;74;2574;Non vérifié
-37180;Parçay-sur-Vienne;37;eau potable : SIAEP PARCAY - THENEUIL;58633;2024;97,7;0,1;4,6;65,9;conforme;1489;1008;4;16;616;Non vérifié
-37181;Paulmy;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;1869;22;53;238;Non vérifié
-37183;Perrusson;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;10988;22;53;1399;Non vérifié
-37184;Le Petit-Pressigny;37;eau potable : SMAEP Touraine du Sud;215176;2024;75,0;0,7;2,0;65,4;conforme;132165;8367;75;140;305;Non vérifié
-37185;Pocé-sur-Cisse;37;eau potable : Territoire principal AEP;216294;2024;85,9;1,6;10,0;67,0;conforme;228064;15963;26;59;1711;Non vérifié
-37186;Pont-de-Ruan;37;eau potable : Territoire de Artannes - Pont de Ruan - Saché - Thilouze;58651;2024;82,6;1,3;6,2;66,2;conforme;72314;12147;27;79;1214;Non vérifié
-37187;Ports;37;eau potable;58639;2024;73,2;1,4;3,9;65,8;conforme;186004;6970;54;132;352;Non vérifié
-37188;Pouzay;37;eau potable : SIAEP NOYANT – POUZAY - TROGUES;58632;2024;91,5;0,5;5,5;66,1;conforme;12304;4614;15;34;867;Non vérifié
-37189;Preuilly-sur-Claise;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;7941;22;53;1011;Non vérifié
-37190;Pussigny;37;eau potable;58639;2024;73,2;1,4;3,9;65,8;conforme;186004;3149;54;132;159;Non vérifié
-37191;Razines;37;eau potable;58634;2024;77,2;0,9;3,0;65,6;conforme;76639;3964;50;108;218;Non vérifié
-37192;Reignac-sur-Indre;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;10116;22;53;1288;Non vérifié
-37193;Restigné;37;eau potable : Territoire de l'ex-CCPB;218217;2024;95,2;0,3;5,8;66,2;conforme;38073;3936;9;22;1139;Non vérifié
-37195;La Riche;37;eau potable : La Riche, Saint Genouph;58526;2024;90,4;2,5;23,4;69,7;conforme;58765;53561;14;39;10487;Non vérifié
-37196;Richelieu;37;eau potable;58634;2024;77,2;0,9;3,0;65,6;conforme;76639;29056;50;108;1598;Non vérifié
-37197;Rigny-Ussé;37;eau potable;58641;2024;84,8;1,2;6,8;66,4;conforme;48583;8047;43;116;512;Non vérifié
-37198;Rillé;37;eau potable : SI DES EAUX DE LA REGION DE CHANNAY SUR LATHAN;58603;2024;87,2;0,3;2,2;65,4;conforme;14646;2196;19;49;313;Non vérifié
-37199;Rilly-sur-Vienne;37;eau potable : SIAEP RILLY - VERNEUIL;58635;2024;95,1;0,1;2,3;65,5;conforme;1424;1120;7;16;458;Non vérifié
-37200;Rivarennes;37;eau potable;58641;2024;84,8;1,2;6,8;66,4;conforme;48583;15718;43;116;1000;Non vérifié
-37201;Rivière;37;eau potable : Territoire général;229154;2024;87,4;1,0;7,1;66,4;conforme;207648;6169;24;51;699;Non vérifié
-37202;La Roche-Clermault;37;eau potable : Territoire général;229154;2024;87,4;1,0;7,1;66,4;conforme;207648;4766;24;51;540;Non vérifié
-37203;Rochecorbon;37;eau potable : Parçay Meslay - Rochecorbon;233335;2024;83,3;2,1;10,5;67,1;conforme;71829;39913;34;74;3219;Non vérifié
-37204;Rouziers-de-Touraine;37;eau potable;58613;2024;92,0;0,5;5,3;66,1;conforme;27747;1862;4;35;1362;Non vérifié
-37205;Saché;37;eau potable : Territoire de Artannes - Pont de Ruan - Saché - Thilouze;58651;2024;82,6;1,3;6,2;66,2;conforme;72314;14039;27;79;1403;Non vérifié
-37206;Saint-Antoine-du-Rocher;37;eau potable;58613;2024;92,0;0,5;5,3;66,1;conforme;27747;2493;4;35;1824;Non vérifié
-37207;Saint-Aubin-le-Dépeint;37;eau potable : SMAEP de Chenu;74109;2024;52,4;2,1;2,3;65,5;non conforme;187532;7375;59;363;340;Non vérifié
-37208;Saint-Avertin;37;eau potable : Territoire Régie;231454;2024;95,0;2,5;47,1;74,4;conforme;748360;64296;12;23;14999;Non vérifié
-37210;Saint-Benoît-la-Forêt;37;eau potable;58641;2024;84,8;1,2;6,8;66,4;conforme;48583;13234;43;116;842;Non vérifié
-37211;Saint-Branchs;37;eau potable : AEP Sorigny-Saint-Branchs;331814;2024;78,5;2,0;7,1;66,4;conforme;112953;53427;56;158;2637;Non vérifié
-37212;Sainte-Catherine-de-Fierbois;37;eau potable : territoire de Sainte Catherine;231174;2024;92,6;0,5;5,8;66,2;conforme;4413;4413;17;31;732;Non vérifié
-37213;Saint-Christophe-sur-le-Nais;37;eau potable;58611;2024;83,0;0,6;3,2;65,6;conforme;27594;10583;27;69;1067;Non vérifié
-37214;Saint-Cyr-sur-Loire;37;eau potable : Territoire Régie;231454;2024;95,0;2,5;47,1;74,4;conforme;748360;72998;12;23;17029;Non vérifié
-37216;Saint-Épain;37;eau potable : territoire de Villeperdue;58591;2024;86,0;0,8;4,9;66,0;conforme;9002;3001;6;60;1471;Non vérifié
-37217;Saint-Étienne-de-Chigny;37;eau potable : Fondettes-Luynes-Saint Etienne de Chigny;233254;2024;77,9;2,8;10,0;67,0;conforme;258668;23213;40;103;1579;Non vérifié
-37218;Saint-Flovier;37;eau potable : SMAEP Touraine du Sud;215176;2024;75,0;0,7;2,0;65,4;conforme;132165;15801;75;140;576;Non vérifié
-37219;Saint-Genouph;37;eau potable : La Riche, Saint Genouph;58526;2024;90,4;2,5;23,4;69,7;conforme;58765;5204;14;39;1019;Non vérifié
-37220;Saint-Germain-sur-Vienne;37;eau potable : Territoire général;229154;2024;87,4;1,0;7,1;66,4;conforme;207648;3177;24;51;360;Non vérifié
-37221;Saint-Hippolyte;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;5011;22;53;638;Non vérifié
-37222;Saint-Jean-Saint-Germain;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;5851;22;53;745;Non vérifié
-37223;Saint-Laurent-de-Lin;37;eau potable : SI DES EAUX DE LA REGION DE CHANNAY SUR LATHAN;58603;2024;87,2;0,3;2,2;65,4;conforme;14646;2435;19;49;347;Non vérifié
-37224;Saint-Laurent-en-Gâtines;37;eau potable;58616;2024;87,7;0,4;3,0;65,6;conforme;21430;8043;25;67;873;Non vérifié
-37225;Saint-Martin-le-Beau;37;eau potable : Saint Martin le Beau - EP;58550;2024;78,5;2,7;9,8;67,0;conforme;35163;35163;30;100;3216;Non vérifié
-37226;Sainte-Maure-de-Touraine;37;eau potable : SAINTE MAURE DE TOURAINE;58552;2024;75,2;2,4;7,1;66,4;conforme;83141;72448;49;149;4092;Non vérifié
-37228;Saint-Nicolas-de-Bourgueil;37;eau potable : Territoire de l'ex-CCPB;218217;2024;95,2;0,3;5,8;66,2;conforme;38073;3857;9;22;1116;Non vérifié
-37229;Saint-Nicolas-des-Motets;37;eau potable : Territoire général;58689;2024;79,7;0,7;2,9;65,6;conforme;24508;4781;55;139;238;Non vérifié
-37230;Saint-Ouen-les-Vignes;37;eau potable : Territoire principal AEP;216294;2024;85,9;1,6;10,0;67,0;conforme;228064;8984;26;59;963;Non vérifié
-37231;Saint-Paterne-Racan;37;eau potable;58611;2024;83,0;0,6;3,2;65,6;conforme;27594;17011;27;69;1715;Non vérifié
-37232;Côteaux-sur-Loire;37;eau potable : Territoire de l'ex-CCPB;218217;2024;95,2;0,3;5,8;66,2;conforme;38073;6452;9;22;1867;Non vérifié
-37233;Saint-Pierre-des-Corps;37;eau potable : Territoire Régie;231454;2023;88,9;5,3;42,2;73,4;conforme;1565243;130643;23;52;15898;Non vérifié
-37234;Saint-Quentin-sur-Indrois;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;3802;22;53;484;Non vérifié
-37236;Saint-Règle;37;eau potable : Territoire principal AEP;216294;2024;85,9;1,6;10,0;67,0;conforme;228064;5588;26;59;599;Non vérifié
-37237;Saint-Roch;37;eau potable;58613;2024;92,0;0,5;5,3;66,1;conforme;27747;1834;4;35;1342;Non vérifié
-37238;Saint-Senoch;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;4037;22;53;514;Non vérifié
-37240;Saunay;37;eau potable : Saunay;58559;2024;80,3;0,6;2,3;65,5;conforme;6857;6857;29;96;640;Non vérifié
-37241;Savigné-sur-Lathan;37;eau potable : SIAEP DE SAVIGNE SUR LATHAN, HOMMES;58612;2024;74,4;0,9;2,8;65,6;conforme;30222;18175;38;120;1305;Non vérifié
-37242;Savigny-en-Véron;37;eau potable : Territoire général;229154;2024;87,4;1,0;7,1;66,4;conforme;207648;13601;24;51;1541;Non vérifié
-37243;Savonnières;37;eau potable : Ballan-Miré, Savonnières, Druye, Villandry, Berthenay;233174;2024;83,1;1,8;9,0;66,8;conforme;145920;33573;27;73;3392;Non vérifié
-37244;Sazilly;37;eau potable : Territoire général;229154;2024;87,4;1,0;7,1;66,4;conforme;207648;2409;24;51;273;Non vérifié
-37245;Semblançay;37;eau potable;58613;2024;92,0;0,5;5,3;66,1;conforme;27747;3007;4;35;2200;Non vérifié
-37246;Sennevières;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;1775;22;53;226;Non vérifié
-37247;Sepmes;37;eau potable : SAINTE MAURE DE TOURAINE;58552;2024;75,2;2,4;7,1;66,4;conforme;83141;10694;49;149;604;Non vérifié
-37248;Seuilly;37;eau potable : Territoire général;229154;2024;87,4;1,0;7,1;66,4;conforme;207648;3248;24;51;368;Non vérifié
-37249;Sonzay;37;eau potable;58566;2024;90,2;0,4;3,8;65,8;conforme;8626;8626;17;38;1410;Non vérifié
-37250;Sorigny;37;eau potable : AEP Sorigny-Saint-Branchs;331814;2024;78,5;2,0;7,1;66,4;conforme;112953;59526;56;158;2938;Non vérifié
-37251;Souvigné;37;eau potable : SOUVIGNE;58569;2024;87,4;0,9;6,6;66,3;conforme;12302;12302;36;100;933;Non vérifié
-37252;Souvigny-de-Touraine;37;eau potable : Territoire principal AEP;216294;2024;85,9;1,6;10,0;67,0;conforme;228064;3545;26;59;380;Non vérifié
-37253;Sublaines;37;eau potable : Sublaines - EP;58572;2024;82,1;0,4;1,9;65,4;conforme;2015;2015;31;78;176;Non vérifié
-37254;Tauxigny-Saint-Bauld;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;13258;22;53;1688;Non vérifié
-37255;Tavant;37;eau potable : Territoire général;229154;2024;87,4;1,0;7,1;66,4;conforme;207648;2357;24;51;267;Non vérifié
-37256;Theneuil;37;eau potable : SIAEP PARCAY - THENEUIL;58633;2024;97,7;0,1;4,6;65,9;conforme;1489;481;4;16;294;Non vérifié
-37257;Thilouze;37;eau potable : Territoire de Artannes - Pont de Ruan - Saché - Thilouze;58651;2024;82,6;1,3;6,2;66,2;conforme;72314;18161;27;79;1815;Non vérifié
-37258;Thizay;37;eau potable : Territoire général;229154;2024;87,4;1,0;7,1;66,4;conforme;207648;2710;24;51;307;Non vérifié
-37259;Tournon-Saint-Pierre;37;eau potable;78961;2024;68,5;1,4;3,0;65,6;conforme;284627;15158;97;171;426;Non vérifié
-37260;La Tour-Saint-Gelin;37;eau potable;58622;2024;71,5;1,2;3,0;65,6;conforme;51364;15111;83;151;501;Non vérifié
-37261;Tours;37;eau potable : Territoire Régie;231454;2024;95,0;2,5;47,1;74,4;conforme;748360;596962;12;23;139259;Non vérifié
-37262;Trogues;37;eau potable : SIAEP NOYANT – POUZAY - TROGUES;58632;2024;91,5;0,5;5,5;66,1;conforme;12304;1517;15;34;285;Non vérifié
-37263;Truyes;37;eau potable : territoire d' Esvres-Truyes;58456;2024;81,3;2,5;11,1;67,2;conforme;106443;29754;33;97;2442;Non vérifié
-37264;Vallères;37;eau potable : La Chapelle-Cheillé-Vallères-Lignières;319674;2024;80,6;1,3;5,5;66,1;conforme;48461;12701;26;86;1345;Non vérifié
-37265;Varennes;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;1964;22;53;250;Non vérifié
-37266;Veigné;37;eau potable : Territoire de Monts-Montbazon-Veigné;331234;2024;86,8;1,7;11,3;67,3;conforme;130038;45043;18;55;6865;Non vérifié
-37267;Véretz;37;eau potable;58618;2024;98,6;0,1;8,7;66,7;conforme;4861;2141;1;4;4644;Non vérifié
-37268;Verneuil-le-Château;37;eau potable : SIAEP RILLY - VERNEUIL;58635;2024;95,1;0,1;2,3;65,5;conforme;1424;303;7;16;124;Non vérifié
-37269;Verneuil-sur-Indre;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;3660;22;53;466;Non vérifié
-37270;Vernou-sur-Brenne;37;eau potable;58655;2024;76,1;3,0;9,5;66,9;conforme;133875;36142;35;115;2870;Non vérifié
-37271;Villaines-les-Rochers;37;eau potable : Villaines les Rochers;58584;2024;87,1;1,1;7,2;66,4;conforme;12972;4009;10;56;1051;Non vérifié
-37272;Villandry;37;eau potable : Ballan-Miré, Savonnières, Druye, Villandry, Berthenay;233174;2024;83,1;1,8;9,0;66,8;conforme;145920;11313;27;73;1143;Non vérifié
-37274;Villebourg;37;eau potable;58602;2024;70,5;0,8;1,9;65,4;conforme;15248;7381;67;155;303;Non vérifié
-37275;Villedômain;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;1013;22;53;129;Non vérifié
-37276;Villedômer;37;eau potable;58646;2024;62,9;1,8;3,0;65,6;non conforme;99378;30509;65;221;1290;Non vérifié
-37277;Villeloin-Coulangé;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;4556;22;53;580;Non vérifié
-37278;Villeperdue;37;eau potable : territoire de Villeperdue;58591;2024;86,0;0,8;4,9;66,0;conforme;9002;2298;6;60;1126;Non vérifié
-37279;Villiers-au-Bouin;37;eau potable : SIAEP de COUESMES, VILLIERS au BOUIN et BRECHES;58617;2024;88,5;0,3;2,3;65,5;conforme;10846;5225;20;47;727;Non vérifié
-37280;Vou;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;1940;22;53;247;Non vérifié
-37281;Vouvray;37;eau potable;58655;2024;76,1;3,0;9,5;66,9;conforme;133875;43068;35;115;3420;Non vérifié
-37282;Yzeures-sur-Creuse;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;10588;22;53;1348;Non vérifié
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement);Donnée suspecte (voir LISEZMOI)
+37001;Abilly;37;eau potable;58639;2024;73,2;1,4;3,9;65,8;conforme;186004;22099;54;132;1116;Non vérifié;non
+37003;Amboise;37;eau potable : Territoire principal AEP;216294;2024;85,9;1,6;10,0;67,0;conforme;228064;120698;26;59;12937;Non vérifié;non
+37004;Anché;37;eau potable : Territoire général;229154;2024;87,4;1,0;7,1;66,4;conforme;207648;3760;24;51;426;Non vérifié;non
+37005;Antogny-le-Tillac;37;eau potable;58639;2024;73,2;1,4;3,9;65,8;conforme;186004;9604;54;132;485;Non vérifié;non
+37006;Artannes-sur-Indre;37;eau potable : Territoire de Artannes - Pont de Ruan - Saché - Thilouze;58651;2024;82,6;1,3;6,2;66,2;conforme;72314;27967;27;79;2795;Non vérifié;non
+37007;Assay;37;eau potable : SIAEP DE LA REGION DE CHAMPIGNY SUR VEUDE;58642;2024;64,8;1,4;2,6;65,5;non conforme;60809;3686;57;222;177;Non vérifié;non
+37008;Athée-sur-Cher;37;eau potable : Athée - EP;58379;2024;86,6;1,0;6,6;66,3;conforme;18830;5772;6;55;2855;Non vérifié;non
+37009;Autrèche;37;eau potable : Autrèche;58381;2024;71,8;1,5;3,7;65,7;conforme;12592;12592;82;148;419;Non vérifié;non
+37010;Auzouer-en-Touraine;37;eau potable;58646;2024;62,9;1,8;3,0;65,6;non conforme;99378;51061;65;221;2159;Non vérifié;non
+37011;Avoine;37;eau potable : Territoire général;229154;2024;87,4;1,0;7,1;66,4;conforme;207648;18243;24;51;2067;Non vérifié;non
+37012;Avon-les-Roches;37;eau potable : Villaines les Rochers;58584;2024;87,1;1,1;7,2;66,4;conforme;12972;2037;10;56;534;Non vérifié;non
+37013;Avrillé-les-Ponceaux;37;eau potable : SIAEP DE CLERE LES PINS, AVRILLE LES PONCEAUX, MAZIERES DE TOURAINE;58604;2024;80,2;0,7;2,8;65,6;conforme;38580;5442;31;96;479;Non vérifié;non
+37014;Azay-le-Rideau;37;eau potable : Azay-le-rideau;58387;2024;76,4;2,6;8,3;66,7;conforme;59161;59161;47;114;3438;Non vérifié;non
+37015;Azay-sur-Cher;37;eau potable;58618;2024;98,6;0,1;8,7;66,7;conforme;4861;1495;1;4;3243;Non vérifié;non
+37016;Azay-sur-Indre;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;2851;22;53;363;Non vérifié;non
+37018;Ballan-Miré;37;eau potable : Ballan-Miré, Savonnières, Druye, Villandry, Berthenay;233174;2024;83,1;1,8;9,0;66,8;conforme;145920;83902;27;73;8477;Non vérifié;non
+37019;Barrou;37;eau potable : SMAEP Touraine du Sud;215176;2024;75,0;0,7;2,0;65,4;conforme;132165;13112;75;140;478;Non vérifié;non
+37020;Beaulieu-lès-Loches;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;13612;22;53;1733;Non vérifié;non
+37021;Beaumont-Louestault;37;eau potable (BEAUMONT LA RONCE);58685;2024;86,0;0,6;3,9;65,8;conforme;9130;9130;14;56;1813;Non vérifié;non
+37022;Beaumont-en-Véron;37;eau potable : Territoire général;229154;2024;87,4;1,0;7,1;66,4;conforme;207648;23980;24;51;2717;Non vérifié;non
+37023;Beaumont-Village;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;1877;22;53;239;Non vérifié;non
+37024;Benais;37;eau potable : Territoire de l'ex-CCPB;218217;2024;95,2;0,3;5,8;66,2;conforme;38073;3266;9;22;945;Non vérifié;non
+37025;Berthenay;37;eau potable : Ballan-Miré, Savonnières, Druye, Villandry, Berthenay;233174;2024;83,1;1,8;9,0;66,8;conforme;145920;6998;27;73;707;Non vérifié;non
+37026;Betz-le-Château;37;eau potable : SMAEP Touraine du Sud;215176;2024;75,0;0,7;2,0;65,4;conforme;132165;13688;75;140;499;Non vérifié;non
+37027;Bléré;37;eau potable : Bléré - EP;58395;2024;91,9;0,9;10,3;67,1;conforme;26280;26280;13;34;5352;Non vérifié;non
+37028;Bossay-sur-Claise;37;eau potable : SMAEP Touraine du Sud;215176;2024;75,0;0,7;2,0;65,4;conforme;132165;20107;75;140;733;Non vérifié;non
+37029;Bossée;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;2568;22;53;327;Non vérifié;non
+37030;Le Boulay;37;eau potable;58616;2024;87,7;0,4;3,0;65,6;conforme;21430;7463;25;67;810;Non vérifié;non
+37031;Bourgueil;37;eau potable : Territoire de l'ex-CCPB;218217;2024;95,2;0,3;5,8;66,2;conforme;38073;12548;9;22;3631;Non vérifié;non
+37032;Bournan;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;2176;22;53;277;Non vérifié;non
+37033;Boussay;37;eau potable : SMAEP Touraine du Sud;215176;2024;75,0;0,7;2,0;65,4;conforme;132165;6501;75;140;237;Non vérifié;non
+37034;Braslou;37;eau potable;58634;2024;77,2;0,9;3,0;65,6;conforme;76639;5800;50;108;319;Non vérifié;non
+37035;Braye-sous-Faye;37;eau potable;58634;2024;77,2;0,9;3,0;65,6;conforme;76639;5109;50;108;281;Non vérifié;non
+37036;Braye-sur-Maulne;37;eau potable : SIVOM DE BRAYE SUR MAULNE, MARCILLY SUR MAULNE;58601;2024;89,8;0,2;1,8;65,4;conforme;3358;582;8;47;199;Non vérifié;non
+37037;Brèches;37;eau potable : SIAEP de COUESMES, VILLIERS au BOUIN et BRECHES;58617;2024;88,5;0,3;2,3;65,5;conforme;10846;1718;20;47;239;Non vérifié;non
+37038;Bréhémont;37;eau potable;58641;2024;84,8;1,2;6,8;66,4;conforme;48583;11584;43;116;737;Non vérifié;non
+37039;Bridoré;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;3856;22;53;491;Non vérifié;non
+37040;Brizay;37;eau potable;58622;2024;71,5;1,2;3,0;65,6;conforme;51364;7721;83;151;256;Non vérifié;non
+37041;Bueil-en-Touraine;37;eau potable;58602;2024;70,5;0,8;1,9;65,4;conforme;15248;7868;67;155;323;Non vérifié;non
+37042;Candes-Saint-Martin;37;eau potable : Territoire général;229154;2024;87,4;1,0;7,1;66,4;conforme;207648;1589;24;51;180;Non vérifié;non
+37043;Cangey;37;eau potable;87870;2024;84,7;1,0;5,6;66,1;conforme;103269;9103;24;65;1021;Non vérifié;non
+37044;La Celle-Guenand;37;eau potable : SMAEP Touraine du Sud;215176;2024;75,0;0,7;2,0;65,4;conforme;132165;10397;75;140;379;Non vérifié;non
+37045;La Celle-Saint-Avant;37;eau potable;58639;2024;73,2;1,4;3,9;65,8;conforme;186004;21367;54;132;1079;Non vérifié;non
+37046;Céré-la-Ronde;37;eau potable : SIAE Céré - Epeigné - EP;58620;2024;83,3;0,5;2,4;65,5;conforme;12293;6274;41;75;418;Non vérifié;non
+37047;Cerelles;37;eau potable;58613;2024;92,0;0,5;5,3;66,1;conforme;27747;1711;4;35;1252;Non vérifié;non
+37048;Chambon;37;eau potable : SMAEP Touraine du Sud;215176;2024;75,0;0,7;2,0;65,4;conforme;132165;8531;75;140;311;Non vérifié;non
+37049;Chambourg-sur-Indre;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;9936;22;53;1265;Non vérifié;non
+37050;Chambray-lès-Tours;37;eau potable : Chambray;233214;2024;86,0;3,4;20,8;69,2;conforme;136733;136733;29;60;12720;Non vérifié;non
+37051;Champigny-sur-Veude;37;eau potable : SIAEP DE LA REGION DE CHAMPIGNY SUR VEUDE;58642;2024;64,8;1,4;2,6;65,5;non conforme;60809;16847;57;222;809;Non vérifié;non
+37052;Chançay;37;eau potable;58655;2024;76,1;3,0;9,5;66,9;conforme;133875;14129;35;115;1122;Non vérifié;non
+37053;Chanceaux-près-Loches;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;856;22;53;109;Non vérifié;non
+37054;Chanceaux-sur-Choisille;37;eau potable : Notre Dame d'Oé - Chanceaux sur Choisille;233314;2024;84,6;2,2;12,2;67,4;conforme;73555;32115;25;80;3499;Non vérifié;non
+37055;Channay-sur-Lathan;37;eau potable : SI DES EAUX DE LA REGION DE CHANNAY SUR LATHAN;58603;2024;87,2;0,3;2,2;65,4;conforme;14646;5635;19;49;803;Non vérifié;non
+37056;La Chapelle-aux-Naux;37;eau potable : La Chapelle-Cheillé-Vallères-Lignières;319674;2024;80,6;1,3;5,5;66,1;conforme;48461;5307;26;86;562;Non vérifié;non
+37057;La Chapelle-Blanche-Saint-Martin;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;5404;22;53;688;Non vérifié;non
+37058;La Chapelle-sur-Loire;37;eau potable : Territoire de l'ex-CCPB;218217;2024;95,2;0,3;5,8;66,2;conforme;38073;5073;9;22;1468;Non vérifié;non
+37059;Charentilly;37;eau potable;58613;2024;92,0;0,5;5,3;66,1;conforme;27747;1866;4;35;1365;Non vérifié;non
+37060;Chargé;37;eau potable : Territoire principal AEP;216294;2024;85,9;1,6;10,0;67,0;conforme;228064;12679;26;59;1359;Non vérifié;non
+37061;Charnizay;37;eau potable : SMAEP Touraine du Sud;215176;2024;75,0;0,7;2,0;65,4;conforme;132165;12646;75;140;461;Non vérifié;non
+37062;Château-la-Vallière;37;eau potable : CHÂTEAU LA VALLIERE;58424;2024;92,3;1,0;11,4;67,3;conforme;12432;8759;14;56;1734;Non vérifié;non
+37063;Château-Renault;37;eau potable : CHÂTEAU RENAULT;58426;2024;76,3;5,6;18,1;68,6;conforme;92655;45863;29;113;4392;Non vérifié;non
+37064;Chaumussay;37;eau potable : SMAEP Touraine du Sud;215176;2024;75,0;0,7;2,0;65,4;conforme;132165;5459;75;140;199;Non vérifié;non
+37065;Chaveignes;37;eau potable;58622;2024;71,5;1,2;3,0;65,6;conforme;51364;17524;83;151;581;Non vérifié;non
+37066;Chédigny;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;4446;22;53;566;Non vérifié;non
+37067;Cheillé;37;eau potable : La Chapelle-Cheillé-Vallères-Lignières;319674;2024;80,6;1,3;5,5;66,1;conforme;48461;18008;26;86;1907;Non vérifié;non
+37068;Chemillé-sur-Dême;37;eau potable;58608;2024;67,1;0,9;1,9;65,4;conforme;66433;11549;45;179;707;Non vérifié;non
+37069;Chemillé-sur-Indrois;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;1783;22;53;227;Non vérifié;non
+37070;Chenonceaux;37;eau potable : Syndicat d'eau de la Vallée du Cher - EP;58623;2024;83,2;1,4;6,8;66,4;conforme;74504;3357;28;75;334;Non vérifié;non
+37071;Chezelles;37;eau potable;58622;2024;71,5;1,2;3,0;65,6;conforme;51364;3921;83;151;130;Non vérifié;non
+37072;Chinon;37;eau potable : Territoire général;229154;2024;87,4;1,0;7,1;66,4;conforme;207648;71879;24;51;8144;Non vérifié;non
+37073;Chisseaux;37;eau potable : Syndicat d'eau de la Vallée du Cher - EP;58623;2024;83,2;1,4;6,8;66,4;conforme;74504;6132;28;75;610;Non vérifié;non
+37074;Chouzé-sur-Loire;37;eau potable : Territoire général;229154;2024;87,4;1,0;7,1;66,4;conforme;207648;18817;24;51;2132;Non vérifié;non
+37075;Cigogné;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;3613;22;53;460;Non vérifié;non
+37076;Cinais;37;eau potable : Territoire général;229154;2024;87,4;1,0;7,1;66,4;conforme;207648;3283;24;51;372;Non vérifié;non
+37077;Cinq-Mars-la-Pile;37;eau potable : SIVOM DU PAYS DE LANGEAIS;58607;2024;75,0;2,5;7,4;66,5;conforme;139914;54811;37;123;4015;Non vérifié;non
+37078;Ciran;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;3338;22;53;425;Non vérifié;non
+37079;Civray-de-Touraine;37;eau potable : Syndicat d'eau de la Vallée du Cher - EP;58623;2024;83,2;1,4;6,8;66,4;conforme;74504;18284;28;75;1819;Non vérifié;non
+37080;Civray-sur-Esves;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;1665;22;53;212;Non vérifié;non
+37081;Cléré-les-Pins;37;eau potable : SIAEP DE CLERE LES PINS, AVRILLE LES PONCEAUX, MAZIERES DE TOURAINE;58604;2024;80,2;0,7;2,8;65,6;conforme;38580;16234;31;96;1429;Non vérifié;non
+37082;Continvoir;37;eau potable : Territoire de l'ex-CCPB;218217;2024;95,2;0,3;5,8;66,2;conforme;38073;1621;9;22;469;Non vérifié;non
+37083;Cormery;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;14963;22;53;1905;Non vérifié;non
+37084;Couesmes;37;eau potable : SIAEP de COUESMES, VILLIERS au BOUIN et BRECHES;58617;2024;88,5;0,3;2,3;65,5;conforme;10846;3903;20;47;543;Non vérifié;non
+37085;Courçay;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;6221;22;53;792;Non vérifié;non
+37086;Courcelles-de-Touraine;37;eau potable : SI DES EAUX DE LA REGION DE CHANNAY SUR LATHAN;58603;2024;87,2;0,3;2,2;65,4;conforme;14646;3389;19;49;483;Non vérifié;non
+37087;Courcoué;37;eau potable;58622;2024;71,5;1,2;3,0;65,6;conforme;51364;7088;83;151;235;Non vérifié;non
+37088;Couziers;37;eau potable : Territoire général;229154;2024;87,4;1,0;7,1;66,4;conforme;207648;1068;24;51;121;Non vérifié;non
+37089;Cravant-les-Côteaux;37;eau potable : Territoire général;229154;2024;87,4;1,0;7,1;66,4;conforme;207648;6169;24;51;699;Non vérifié;non
+37091;La Croix-en-Touraine;37;eau potable : Syndicat d'eau de la Vallée du Cher - EP;58623;2024;83,2;1,4;6,8;66,4;conforme;74504;25562;28;75;2543;Non vérifié;non
+37092;Crotelles;37;eau potable : Crotelles;58447;2024;84,6;0,4;2,2;65,4;conforme;4672;4672;20;66;649;Non vérifié;non
+37093;Crouzilles;37;eau potable : Île-Bouchard;58466;2024;68,1;3,8;8,1;66,6;conforme;40778;6089;32;172;528;Non vérifié;non
+37094;Cussay;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;4485;22;53;571;Non vérifié;non
+37095;Dame-Marie-les-Bois;37;eau potable : Territoire général;58689;2024;79,7;0,7;2,9;65,6;conforme;24508;6890;55;139;343;Non vérifié;non
+37096;Dierre;37;eau potable : Syndicat d'eau de la Vallée du Cher - EP;58623;2024;83,2;1,4;6,8;66,4;conforme;74504;6483;28;75;645;Non vérifié;non
+37097;Dolus-le-Sec;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;5113;22;53;651;Non vérifié;non
+37098;Draché;37;eau potable;58627;2024;80,4;0,8;3,3;65,7;conforme;32126;8655;34;90;698;Non vérifié;non
+37099;Druye;37;eau potable : Ballan-Miré, Savonnières, Druye, Villandry, Berthenay;233174;2024;83,1;1,8;9,0;66,8;conforme;145920;10135;27;73;1024;Non vérifié;non
+37100;Épeigné-les-Bois;37;eau potable : SIAE Céré - Epeigné - EP;58620;2024;83,3;0,5;2,4;65,5;conforme;12293;6019;41;75;401;Non vérifié;non
+37101;Épeigné-sur-Dême;37;eau potable : SMAEP de la Région Loir Braye et Dême;313434;2024;77,4;1,3;4,3;65,9;conforme;164652;3495;59;111;162;Non vérifié;non
+37103;Esves-le-Moutier;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;1249;22;53;159;Non vérifié;non
+37104;Esvres;37;eau potable : territoire d' Esvres-Truyes;58456;2024;81,3;2,5;11,1;67,2;conforme;106443;76689;33;97;6294;Non vérifié;non
+37105;Faye-la-Vineuse;37;eau potable;58634;2024;77,2;0,9;3,0;65,6;conforme;76639;4946;50;108;272;Non vérifié;non
+37106;La Ferrière;37;eau potable;58608;2024;67,1;0,9;1,9;65,4;conforme;66433;4998;45;179;306;Non vérifié;non
+37107;Ferrière-Larçon;37;eau potable : SMAEP Touraine du Sud;215176;2024;75,0;0,7;2,0;65,4;conforme;132165;6638;75;140;242;Non vérifié;non
+37108;Ferrière-sur-Beaulieu;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;5522;22;53;703;Non vérifié;non
+37109;Fondettes;37;eau potable : Fondettes-Luynes-Saint Etienne de Chigny;233254;2024;77,9;2,8;10,0;67,0;conforme;258668;161037;40;103;10954;Non vérifié;non
+37110;Francueil;37;eau potable : Syndicat d'eau de la Vallée du Cher - EP;58623;2024;83,2;1,4;6,8;66,4;conforme;74504;14686;28;75;1461;Non vérifié;non
+37111;Genillé;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;11805;22;53;1503;Non vérifié;non
+37112;Gizeux;37;eau potable : Territoire de l'ex-CCPB;218217;2024;95,2;0,3;5,8;66,2;conforme;38073;1320;9;22;382;Non vérifié;non
+37113;Le Grand-Pressigny;37;eau potable;58639;2024;73,2;1,4;3,9;65,8;conforme;186004;17268;54;132;872;Non vérifié;non
+37114;La Guerche;37;eau potable : SMAEP Touraine du Sud;215176;2024;75,0;0,7;2,0;65,4;conforme;132165;4773;75;140;174;Non vérifié;non
+37115;Descartes;37;eau potable;58639;2024;73,2;1,4;3,9;65,8;conforme;186004;66714;54;132;3369;Non vérifié;non
+37116;Les Hermites;37;eau potable;58608;2024;67,1;0,9;1,9;65,4;conforme;66433;9523;45;179;583;Non vérifié;non
+37117;Hommes;37;eau potable : SIAEP DE SAVIGNE SUR LATHAN, HOMMES;58612;2024;74,4;0,9;2,8;65,6;conforme;30222;12047;38;120;865;Non vérifié;non
+37118;Huismes;37;eau potable : Territoire général;229154;2024;87,4;1,0;7,1;66,4;conforme;207648;13221;24;51;1498;Non vérifié;non
+37119;L' Île-Bouchard;37;eau potable : Île-Bouchard;58466;2024;68,1;3,8;8,1;66,6;conforme;40778;18521;32;172;1606;Non vérifié;non
+37121;Jaulnay;37;eau potable;58634;2024;77,2;0,9;3,0;65,6;conforme;76639;4418;50;108;243;Non vérifié;non
+37122;Joué-lès-Tours;37;eau potable : Joué lès Tours;233255;2024;92,4;2,4;28,8;70,8;conforme;185178;185178;13;37;38423;Non vérifié;non
+37123;Langeais;37;eau potable : SIVOM DU PAYS DE LANGEAIS;58607;2024;75,0;2,5;7,4;66,5;conforme;139914;59616;37;123;4367;Non vérifié;non
+37124;Larçay;37;eau potable;58618;2024;98,6;0,1;8,7;66,7;conforme;4861;1225;1;4;2657;Non vérifié;non
+37125;Lémeré;37;eau potable : SIAEP DE LA REGION DE CHAMPIGNY SUR VEUDE;58642;2024;64,8;1,4;2,6;65,5;non conforme;60809;8351;57;222;401;Non vérifié;non
+37126;Lerné;37;eau potable : Territoire général;229154;2024;87,4;1,0;7,1;66,4;conforme;207648;3098;24;51;351;Non vérifié;non
+37127;Le Liège;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;2561;22;53;326;Non vérifié;non
+37128;Lignières-de-Touraine;37;eau potable : La Chapelle-Cheillé-Vallères-Lignières;319674;2024;80,6;1,3;5,5;66,1;conforme;48461;12446;26;86;1318;Non vérifié;non
+37129;Ligré;37;eau potable : SIAEP DE LA REGION DE CHAMPIGNY SUR VEUDE;58642;2024;64,8;1,4;2,6;65,5;non conforme;60809;22241;57;222;1068;Non vérifié;non
+37130;Ligueil;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;16533;22;53;2105;Non vérifié;non
+37131;Limeray;37;eau potable;87870;2024;84,7;1,0;5,6;66,1;conforme;103269;11162;24;65;1252;Non vérifié;non
+37132;Loches;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;48964;22;53;6234;Non vérifié;non
+37133;Loché-sur-Indrois;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;3786;22;53;482;Non vérifié;non
+37134;Louans;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;5569;22;53;709;Non vérifié;non
+37136;Le Louroux;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;4186;22;53;533;Non vérifié;non
+37137;Lublé;37;eau potable : SI DES EAUX DE LA REGION DE CHANNAY SUR LATHAN;58603;2024;87,2;0,3;2,2;65,4;conforme;14646;989;19;49;141;Non vérifié;non
+37138;Lussault-sur-Loire;37;eau potable : Territoire AEP Lussault;228534;2024;88,3;1,1;8,3;66,7;conforme;5918;5918;18;48;886;Non vérifié;non
+37139;Luynes;37;eau potable : Fondettes-Luynes-Saint Etienne de Chigny;233254;2024;77,9;2,8;10,0;67,0;conforme;258668;74418;40;103;5062;Non vérifié;non
+37140;Luzé;37;eau potable;58634;2024;77,2;0,9;3,0;65,6;conforme;76639;5018;50;108;276;Non vérifié;non
+37141;Luzillé;37;eau potable : Luzillé - EP;58478;2024;76,2;0,9;2,8;65,6;conforme;13633;13633;38;116;987;Non vérifié;non
+37142;Maillé;37;eau potable;58627;2024;80,4;0,8;3,3;65,7;conforme;32126;6906;34;90;557;Non vérifié;non
+37143;Manthelan;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;10823;22;53;1378;Non vérifié;non
+37144;Marçay;37;eau potable : Territoire général;229154;2024;87,4;1,0;7,1;66,4;conforme;207648;4104;24;51;465;Non vérifié;non
+37145;Marcé-sur-Esves;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;1971;22;53;251;Non vérifié;non
+37146;Marcilly-sur-Maulne;37;eau potable : SIVOM DE BRAYE SUR MAULNE, MARCILLY SUR MAULNE;58601;2024;89,8;0,2;1,8;65,4;conforme;3358;649;8;47;222;Non vérifié;non
+37147;Marcilly-sur-Vienne;37;eau potable;58627;2024;80,4;0,8;3,3;65,7;conforme;32126;6819;34;90;550;Non vérifié;non
+37148;Marigny-Marmande;37;eau potable;58634;2024;77,2;0,9;3,0;65,6;conforme;76639;10928;50;108;601;Non vérifié;non
+37149;Marray;37;eau potable;58608;2024;67,1;0,9;1,9;65,4;conforme;66433;8102;45;179;496;Non vérifié;non
+37150;Mazières-de-Touraine;37;eau potable : SIAEP DE CLERE LES PINS, AVRILLE LES PONCEAUX, MAZIERES DE TOURAINE;58604;2024;80,2;0,7;2,8;65,6;conforme;38580;16905;31;96;1488;Non vérifié;non
+37151;La Membrolle-sur-Choisille;37;eau potable : Territoire Régie;231454;2024;95,0;2,5;47,1;74,4;conforme;748360;14103;12;23;3290;Non vérifié;non
+37152;Mettray;37;eau potable : Mettray;233256;2024;89,9;1,3;11,3;67,3;conforme;13817;13817;18;42;2070;Non vérifié;non
+37153;Monnaie;37;eau potable;58492;2024;88,3;0,9;6,7;66,3;conforme;26047;26047;15;49;4833;Non vérifié;non
+37154;Montbazon;37;eau potable : Territoire de Monts-Montbazon-Veigné;331234;2024;86,8;1,7;11,3;67,3;conforme;130038;31980;18;55;4874;Non vérifié;non
+37155;Monthodon;37;eau potable;58616;2024;87,7;0,4;3,0;65,6;conforme;21430;5924;25;67;643;Non vérifié;non
+37156;Montlouis-sur-Loire;37;eau potable;58494;2024;76,8;4,3;14,2;67,8;conforme;162977;162977;39;116;11335;Non vérifié;non
+37157;Montrésor;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;2427;22;53;309;Non vérifié;non
+37158;Montreuil-en-Touraine;37;eau potable : Territoire principal AEP;216294;2024;85,9;1,6;10,0;67,0;conforme;228064;6904;26;59;740;Non vérifié;non
+37159;Monts;37;eau potable : Territoire de Monts-Montbazon-Veigné;331234;2024;86,8;1,7;11,3;67,3;conforme;130038;53015;18;55;8080;Non vérifié;non
+37160;Morand;37;eau potable : Territoire général;58689;2024;79,7;0,7;2,9;65,6;conforme;24508;7051;55;139;351;Non vérifié;non
+37161;Mosnes;37;eau potable : Territoire principal AEP;216294;2024;85,9;1,6;10,0;67,0;conforme;228064;7576;26;59;812;Non vérifié;non
+37162;Mouzay;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;3613;22;53;460;Non vérifié;non
+37163;Nazelles-Négron;37;eau potable : Territoire principal AEP;216294;2024;85,9;1,6;10,0;67,0;conforme;228064;35229;26;59;3776;Non vérifié;non
+37165;Neuil;37;eau potable : Villaines les Rochers;58584;2024;87,1;1,1;7,2;66,4;conforme;12972;1575;10;56;413;Non vérifié;non
+37166;Neuillé-le-Lierre;37;eau potable;58646;2024;62,9;1,8;3,0;65,6;non conforme;99378;17809;65;221;753;Non vérifié;non
+37167;Neuillé-Pont-Pierre;37;eau potable;58684;2024;81,9;0,9;4,1;65,8;conforme;24746;24746;30;80;2252;Non vérifié;non
+37168;Neuilly-le-Brignon;37;eau potable;58639;2024;73,2;1,4;3,9;65,8;conforme;186004;5505;54;132;278;Non vérifié;non
+37169;Neuville-sur-Brenne;37;eau potable : NEUVILLE SUR BRENNE;58505;2024;91,3;0,7;7,7;66,5;conforme;3194;3194;10;33;872;Non vérifié;non
+37170;Neuvy-le-Roi;37;eau potable;58507;2024;78,8;0,8;2,8;65,6;conforme;12848;12848;34;103;1048;Non vérifié;non
+37171;Noizay;37;eau potable : Territoire principal AEP;216294;2024;85,9;1,6;10,0;67,0;conforme;228064;10897;26;59;1168;Non vérifié;non
+37172;Notre-Dame-d'Oé;37;eau potable : Notre Dame d'Oé - Chanceaux sur Choisille;233314;2024;84,6;2,2;12,2;67,4;conforme;73555;41440;25;80;4515;Non vérifié;non
+37173;Nouans-les-Fontaines;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;5278;22;53;672;Non vérifié;non
+37174;Nouâtre;37;eau potable;58627;2024;80,4;0,8;3,3;65,7;conforme;32126;9746;34;90;786;Non vérifié;non
+37175;Nouzilly;37;eau potable : Nouzilly;58511;2024;80,6;0,8;3,2;65,6;conforme;15613;15613;35;101;1234;Non vérifié;non
+37176;Noyant-de-Touraine;37;eau potable : SIAEP NOYANT – POUZAY - TROGUES;58632;2024;91,5;0,5;5,5;66,1;conforme;12304;6173;15;34;1160;Non vérifié;non
+37177;Orbigny;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;5592;22;53;712;Non vérifié;non
+37178;Panzoult;37;eau potable : Île-Bouchard;58466;2024;68,1;3,8;8,1;66,6;conforme;40778;6746;32;172;585;Non vérifié;non
+37179;Parçay-Meslay;37;eau potable : Parçay Meslay - Rochecorbon;233335;2024;83,3;2,1;10,5;67,1;conforme;71829;31916;34;74;2574;Non vérifié;non
+37180;Parçay-sur-Vienne;37;eau potable : SIAEP PARCAY - THENEUIL;58633;2024;97,7;0,1;4,6;65,9;conforme;1489;1008;4;16;616;Non vérifié;non
+37181;Paulmy;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;1869;22;53;238;Non vérifié;non
+37183;Perrusson;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;10988;22;53;1399;Non vérifié;non
+37184;Le Petit-Pressigny;37;eau potable : SMAEP Touraine du Sud;215176;2024;75,0;0,7;2,0;65,4;conforme;132165;8367;75;140;305;Non vérifié;non
+37185;Pocé-sur-Cisse;37;eau potable : Territoire principal AEP;216294;2024;85,9;1,6;10,0;67,0;conforme;228064;15963;26;59;1711;Non vérifié;non
+37186;Pont-de-Ruan;37;eau potable : Territoire de Artannes - Pont de Ruan - Saché - Thilouze;58651;2024;82,6;1,3;6,2;66,2;conforme;72314;12147;27;79;1214;Non vérifié;non
+37187;Ports;37;eau potable;58639;2024;73,2;1,4;3,9;65,8;conforme;186004;6970;54;132;352;Non vérifié;non
+37188;Pouzay;37;eau potable : SIAEP NOYANT – POUZAY - TROGUES;58632;2024;91,5;0,5;5,5;66,1;conforme;12304;4614;15;34;867;Non vérifié;non
+37189;Preuilly-sur-Claise;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;7941;22;53;1011;Non vérifié;non
+37190;Pussigny;37;eau potable;58639;2024;73,2;1,4;3,9;65,8;conforme;186004;3149;54;132;159;Non vérifié;non
+37191;Razines;37;eau potable;58634;2024;77,2;0,9;3,0;65,6;conforme;76639;3964;50;108;218;Non vérifié;non
+37192;Reignac-sur-Indre;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;10116;22;53;1288;Non vérifié;non
+37193;Restigné;37;eau potable : Territoire de l'ex-CCPB;218217;2024;95,2;0,3;5,8;66,2;conforme;38073;3936;9;22;1139;Non vérifié;non
+37195;La Riche;37;eau potable : La Riche, Saint Genouph;58526;2024;90,4;2,5;23,4;69,7;conforme;58765;53561;14;39;10487;Non vérifié;non
+37196;Richelieu;37;eau potable;58634;2024;77,2;0,9;3,0;65,6;conforme;76639;29056;50;108;1598;Non vérifié;non
+37197;Rigny-Ussé;37;eau potable;58641;2024;84,8;1,2;6,8;66,4;conforme;48583;8047;43;116;512;Non vérifié;non
+37198;Rillé;37;eau potable : SI DES EAUX DE LA REGION DE CHANNAY SUR LATHAN;58603;2024;87,2;0,3;2,2;65,4;conforme;14646;2196;19;49;313;Non vérifié;non
+37199;Rilly-sur-Vienne;37;eau potable : SIAEP RILLY - VERNEUIL;58635;2024;95,1;0,1;2,3;65,5;conforme;1424;1120;7;16;458;Non vérifié;non
+37200;Rivarennes;37;eau potable;58641;2024;84,8;1,2;6,8;66,4;conforme;48583;15718;43;116;1000;Non vérifié;non
+37201;Rivière;37;eau potable : Territoire général;229154;2024;87,4;1,0;7,1;66,4;conforme;207648;6169;24;51;699;Non vérifié;non
+37202;La Roche-Clermault;37;eau potable : Territoire général;229154;2024;87,4;1,0;7,1;66,4;conforme;207648;4766;24;51;540;Non vérifié;non
+37203;Rochecorbon;37;eau potable : Parçay Meslay - Rochecorbon;233335;2024;83,3;2,1;10,5;67,1;conforme;71829;39913;34;74;3219;Non vérifié;non
+37204;Rouziers-de-Touraine;37;eau potable;58613;2024;92,0;0,5;5,3;66,1;conforme;27747;1862;4;35;1362;Non vérifié;non
+37205;Saché;37;eau potable : Territoire de Artannes - Pont de Ruan - Saché - Thilouze;58651;2024;82,6;1,3;6,2;66,2;conforme;72314;14039;27;79;1403;Non vérifié;non
+37206;Saint-Antoine-du-Rocher;37;eau potable;58613;2024;92,0;0,5;5,3;66,1;conforme;27747;2493;4;35;1824;Non vérifié;non
+37207;Saint-Aubin-le-Dépeint;37;eau potable : SMAEP de Chenu;74109;2024;52,4;2,1;2,3;65,5;non conforme;187532;7375;59;363;340;Non vérifié;non
+37208;Saint-Avertin;37;eau potable : Territoire Régie;231454;2024;95,0;2,5;47,1;74,4;conforme;748360;64296;12;23;14999;Non vérifié;non
+37210;Saint-Benoît-la-Forêt;37;eau potable;58641;2024;84,8;1,2;6,8;66,4;conforme;48583;13234;43;116;842;Non vérifié;non
+37211;Saint-Branchs;37;eau potable : AEP Sorigny-Saint-Branchs;331814;2024;78,5;2,0;7,1;66,4;conforme;112953;53427;56;158;2637;Non vérifié;non
+37212;Sainte-Catherine-de-Fierbois;37;eau potable : territoire de Sainte Catherine;231174;2024;92,6;0,5;5,8;66,2;conforme;4413;4413;17;31;732;Non vérifié;non
+37213;Saint-Christophe-sur-le-Nais;37;eau potable;58611;2024;83,0;0,6;3,2;65,6;conforme;27594;10583;27;69;1067;Non vérifié;non
+37214;Saint-Cyr-sur-Loire;37;eau potable : Territoire Régie;231454;2024;95,0;2,5;47,1;74,4;conforme;748360;72998;12;23;17029;Non vérifié;non
+37216;Saint-Épain;37;eau potable : territoire de Villeperdue;58591;2024;86,0;0,8;4,9;66,0;conforme;9002;3001;6;60;1471;Non vérifié;non
+37217;Saint-Étienne-de-Chigny;37;eau potable : Fondettes-Luynes-Saint Etienne de Chigny;233254;2024;77,9;2,8;10,0;67,0;conforme;258668;23213;40;103;1579;Non vérifié;non
+37218;Saint-Flovier;37;eau potable : SMAEP Touraine du Sud;215176;2024;75,0;0,7;2,0;65,4;conforme;132165;15801;75;140;576;Non vérifié;non
+37219;Saint-Genouph;37;eau potable : La Riche, Saint Genouph;58526;2024;90,4;2,5;23,4;69,7;conforme;58765;5204;14;39;1019;Non vérifié;non
+37220;Saint-Germain-sur-Vienne;37;eau potable : Territoire général;229154;2024;87,4;1,0;7,1;66,4;conforme;207648;3177;24;51;360;Non vérifié;non
+37221;Saint-Hippolyte;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;5011;22;53;638;Non vérifié;non
+37222;Saint-Jean-Saint-Germain;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;5851;22;53;745;Non vérifié;non
+37223;Saint-Laurent-de-Lin;37;eau potable : SI DES EAUX DE LA REGION DE CHANNAY SUR LATHAN;58603;2024;87,2;0,3;2,2;65,4;conforme;14646;2435;19;49;347;Non vérifié;non
+37224;Saint-Laurent-en-Gâtines;37;eau potable;58616;2024;87,7;0,4;3,0;65,6;conforme;21430;8043;25;67;873;Non vérifié;non
+37225;Saint-Martin-le-Beau;37;eau potable : Saint Martin le Beau - EP;58550;2024;78,5;2,7;9,8;67,0;conforme;35163;35163;30;100;3216;Non vérifié;non
+37226;Sainte-Maure-de-Touraine;37;eau potable : SAINTE MAURE DE TOURAINE;58552;2024;75,2;2,4;7,1;66,4;conforme;83141;72448;49;149;4092;Non vérifié;non
+37228;Saint-Nicolas-de-Bourgueil;37;eau potable : Territoire de l'ex-CCPB;218217;2024;95,2;0,3;5,8;66,2;conforme;38073;3857;9;22;1116;Non vérifié;non
+37229;Saint-Nicolas-des-Motets;37;eau potable : Territoire général;58689;2024;79,7;0,7;2,9;65,6;conforme;24508;4781;55;139;238;Non vérifié;non
+37230;Saint-Ouen-les-Vignes;37;eau potable : Territoire principal AEP;216294;2024;85,9;1,6;10,0;67,0;conforme;228064;8984;26;59;963;Non vérifié;non
+37231;Saint-Paterne-Racan;37;eau potable;58611;2024;83,0;0,6;3,2;65,6;conforme;27594;17011;27;69;1715;Non vérifié;non
+37232;Côteaux-sur-Loire;37;eau potable : Territoire de l'ex-CCPB;218217;2024;95,2;0,3;5,8;66,2;conforme;38073;6452;9;22;1867;Non vérifié;non
+37233;Saint-Pierre-des-Corps;37;eau potable : Territoire Régie;231454;2023;88,9;5,3;42,2;73,4;conforme;1565243;130643;23;52;15898;Non vérifié;non
+37234;Saint-Quentin-sur-Indrois;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;3802;22;53;484;Non vérifié;non
+37236;Saint-Règle;37;eau potable : Territoire principal AEP;216294;2024;85,9;1,6;10,0;67,0;conforme;228064;5588;26;59;599;Non vérifié;non
+37237;Saint-Roch;37;eau potable;58613;2024;92,0;0,5;5,3;66,1;conforme;27747;1834;4;35;1342;Non vérifié;non
+37238;Saint-Senoch;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;4037;22;53;514;Non vérifié;non
+37240;Saunay;37;eau potable : Saunay;58559;2024;80,3;0,6;2,3;65,5;conforme;6857;6857;29;96;640;Non vérifié;non
+37241;Savigné-sur-Lathan;37;eau potable : SIAEP DE SAVIGNE SUR LATHAN, HOMMES;58612;2024;74,4;0,9;2,8;65,6;conforme;30222;18175;38;120;1305;Non vérifié;non
+37242;Savigny-en-Véron;37;eau potable : Territoire général;229154;2024;87,4;1,0;7,1;66,4;conforme;207648;13601;24;51;1541;Non vérifié;non
+37243;Savonnières;37;eau potable : Ballan-Miré, Savonnières, Druye, Villandry, Berthenay;233174;2024;83,1;1,8;9,0;66,8;conforme;145920;33573;27;73;3392;Non vérifié;non
+37244;Sazilly;37;eau potable : Territoire général;229154;2024;87,4;1,0;7,1;66,4;conforme;207648;2409;24;51;273;Non vérifié;non
+37245;Semblançay;37;eau potable;58613;2024;92,0;0,5;5,3;66,1;conforme;27747;3007;4;35;2200;Non vérifié;non
+37246;Sennevières;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;1775;22;53;226;Non vérifié;non
+37247;Sepmes;37;eau potable : SAINTE MAURE DE TOURAINE;58552;2024;75,2;2,4;7,1;66,4;conforme;83141;10694;49;149;604;Non vérifié;non
+37248;Seuilly;37;eau potable : Territoire général;229154;2024;87,4;1,0;7,1;66,4;conforme;207648;3248;24;51;368;Non vérifié;non
+37249;Sonzay;37;eau potable;58566;2024;90,2;0,4;3,8;65,8;conforme;8626;8626;17;38;1410;Non vérifié;non
+37250;Sorigny;37;eau potable : AEP Sorigny-Saint-Branchs;331814;2024;78,5;2,0;7,1;66,4;conforme;112953;59526;56;158;2938;Non vérifié;non
+37251;Souvigné;37;eau potable : SOUVIGNE;58569;2024;87,4;0,9;6,6;66,3;conforme;12302;12302;36;100;933;Non vérifié;non
+37252;Souvigny-de-Touraine;37;eau potable : Territoire principal AEP;216294;2024;85,9;1,6;10,0;67,0;conforme;228064;3545;26;59;380;Non vérifié;non
+37253;Sublaines;37;eau potable : Sublaines - EP;58572;2024;82,1;0,4;1,9;65,4;conforme;2015;2015;31;78;176;Non vérifié;non
+37254;Tauxigny-Saint-Bauld;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;13258;22;53;1688;Non vérifié;non
+37255;Tavant;37;eau potable : Territoire général;229154;2024;87,4;1,0;7,1;66,4;conforme;207648;2357;24;51;267;Non vérifié;non
+37256;Theneuil;37;eau potable : SIAEP PARCAY - THENEUIL;58633;2024;97,7;0,1;4,6;65,9;conforme;1489;481;4;16;294;Non vérifié;non
+37257;Thilouze;37;eau potable : Territoire de Artannes - Pont de Ruan - Saché - Thilouze;58651;2024;82,6;1,3;6,2;66,2;conforme;72314;18161;27;79;1815;Non vérifié;non
+37258;Thizay;37;eau potable : Territoire général;229154;2024;87,4;1,0;7,1;66,4;conforme;207648;2710;24;51;307;Non vérifié;non
+37259;Tournon-Saint-Pierre;37;eau potable;78961;2024;68,5;1,4;3,0;65,6;conforme;284627;15158;97;171;426;Non vérifié;non
+37260;La Tour-Saint-Gelin;37;eau potable;58622;2024;71,5;1,2;3,0;65,6;conforme;51364;15111;83;151;501;Non vérifié;non
+37261;Tours;37;eau potable : Territoire Régie;231454;2024;95,0;2,5;47,1;74,4;conforme;748360;596962;12;23;139259;Non vérifié;non
+37262;Trogues;37;eau potable : SIAEP NOYANT – POUZAY - TROGUES;58632;2024;91,5;0,5;5,5;66,1;conforme;12304;1517;15;34;285;Non vérifié;non
+37263;Truyes;37;eau potable : territoire d' Esvres-Truyes;58456;2024;81,3;2,5;11,1;67,2;conforme;106443;29754;33;97;2442;Non vérifié;non
+37264;Vallères;37;eau potable : La Chapelle-Cheillé-Vallères-Lignières;319674;2024;80,6;1,3;5,5;66,1;conforme;48461;12701;26;86;1345;Non vérifié;non
+37265;Varennes;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;1964;22;53;250;Non vérifié;non
+37266;Veigné;37;eau potable : Territoire de Monts-Montbazon-Veigné;331234;2024;86,8;1,7;11,3;67,3;conforme;130038;45043;18;55;6865;Non vérifié;non
+37267;Véretz;37;eau potable;58618;2024;98,6;0,1;8,7;66,7;conforme;4861;2141;1;4;4644;Non vérifié;non
+37268;Verneuil-le-Château;37;eau potable : SIAEP RILLY - VERNEUIL;58635;2024;95,1;0,1;2,3;65,5;conforme;1424;303;7;16;124;Non vérifié;non
+37269;Verneuil-sur-Indre;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;3660;22;53;466;Non vérifié;non
+37270;Vernou-sur-Brenne;37;eau potable;58655;2024;76,1;3,0;9,5;66,9;conforme;133875;36142;35;115;2870;Non vérifié;non
+37271;Villaines-les-Rochers;37;eau potable : Villaines les Rochers;58584;2024;87,1;1,1;7,2;66,4;conforme;12972;4009;10;56;1051;Non vérifié;non
+37272;Villandry;37;eau potable : Ballan-Miré, Savonnières, Druye, Villandry, Berthenay;233174;2024;83,1;1,8;9,0;66,8;conforme;145920;11313;27;73;1143;Non vérifié;non
+37274;Villebourg;37;eau potable;58602;2024;70,5;0,8;1,9;65,4;conforme;15248;7381;67;155;303;Non vérifié;non
+37275;Villedômain;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;1013;22;53;129;Non vérifié;non
+37276;Villedômer;37;eau potable;58646;2024;62,9;1,8;3,0;65,6;non conforme;99378;30509;65;221;1290;Non vérifié;non
+37277;Villeloin-Coulangé;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;4556;22;53;580;Non vérifié;non
+37278;Villeperdue;37;eau potable : territoire de Villeperdue;58591;2024;86,0;0,8;4,9;66,0;conforme;9002;2298;6;60;1126;Non vérifié;non
+37279;Villiers-au-Bouin;37;eau potable : SIAEP de COUESMES, VILLIERS au BOUIN et BRECHES;58617;2024;88,5;0,3;2,3;65,5;conforme;10846;5225;20;47;727;Non vérifié;non
+37280;Vou;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;1940;22;53;247;Non vérifié;non
+37281;Vouvray;37;eau potable;58655;2024;76,1;3,0;9,5;66,9;conforme;133875;43068;35;115;3420;Non vérifié;non
+37282;Yzeures-sur-Creuse;37;eau potable : Régie;207380;2024;87,2;0,5;3,4;65,7;conforme;314630;10588;22;53;1348;Non vérifié;non

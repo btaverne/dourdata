@@ -7,765 +7,765 @@
 # Méthodologie et code : https://github.com/btaverne/dourdata
 # Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
 # Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
-Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
-80001;Abbeville;80;eau potable : Abbeville;136757;2024;86,5;5,6;35,7;72,1;conforme;308276;308276;38;61;22395;Non vérifié
-80002;Ablaincourt-Pressoir;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;3113;32;69;263;Non vérifié
-80003;Acheux-en-Amiénois;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;6852;32;81;590;Non vérifié
-80004;Acheux-en-Vimeu;80;eau potable;210987;2024;90,2;0,7;6,8;66,4;conforme;58254;2828;15;38;501;Non vérifié
-80005;Agenville;80;eau potable : Régie;214800;2024;79,2;2,3;8,7;66,7;conforme;75555;1204;40;97;83;Non vérifié
-80006;Agenvillers;80;eau potable;136984;2024;82,9;1,8;8,8;66,8;conforme;85830;3073;39;76;215;Non vérifié
-80008;Aigneville;80;eau potable : SIAEP D' AIGNEVILLE;136959;2024;99,8;0,0;8,6;66,7;conforme;0;0;0;0;904;Non vérifié
-80009;Ailly-le-Haut-Clocher;80;eau potable;136961;2022;80,0;1,9;7,8;66,6;conforme;29820;13242;35;89;1024;Sans anomalie apparente
-80010;Ailly-sur-Noye;80;eau potable : ex-SIAEP DU PLATEAU SUD D'AILLY SUR NOYE;137059;2024;53,2;5,4;6,1;66,2;non conforme;210897;97275;101;321;2648;Non vérifié
-80011;Ailly-sur-Somme;80;eau potable;136960;2024;55,0;13,4;16,4;68,3;non conforme;125601;101666;93;298;3003;Non vérifié
-80013;Airaines;80;eau potable;136761;2024;58,7;14,6;20,7;69,1;non conforme;143883;143883;179;290;2204;Non vérifié
-80014;Aizecourt-le-Bas;80;eau potable;199397;2024;77,1;2,0;6,7;66,3;conforme;86045;967;38;114;69;Non vérifié
-80015;Aizecourt-le-Haut;80;eau potable;199397;2024;77,1;2,0;6,7;66,3;conforme;86045;925;38;114;66;Non vérifié
-80016;Albert;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;110573;32;81;9521;Non vérifié
-80018;Allenay;80;eau potable : SYNDICAT INTERCOMMUNAL DES EAUX DE PICARDIE;137006;2024;73,2;3,6;9,7;66,9;conforme;454263;4973;54;135;253;Non vérifié
-80019;Allery;80;eau potable;136986;2024;83,8;2,2;11,2;67,2;conforme;22709;7881;26;71;843;Non vérifié
-80020;Allonville;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;20191;71;165;778;Non vérifié
-80021;Amiens;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;3541226;71;165;136449;Non vérifié
-80022;Andainville;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;5511;65;116;233;Non vérifié
-80023;Andechy;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;1588;15;37;282;Non vérifié
-80024;Argoeuves;80;eau potable;136766;2024;75,4;3,7;11,3;67,3;conforme;7428;7428;37;120;543;Non vérifié
-80025;Argoules;80;eau potable;136998;2024;78,6;3,0;10,9;67,2;conforme;454885;12829;109;136;322;Non vérifié
-80026;Arguel;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;733;65;116;31;Non vérifié
-80027;Armancourt;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;186;15;37;33;Non vérifié
-80028;Arquèves;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;1765;32;81;152;Non vérifié
-80029;Arrest;80;eau potable : SYNDICAT INTERCOMMUNAL DES EAUX DE PICARDIE;137006;2024;73,2;3,6;9,7;66,9;conforme;454263;16118;54;135;820;Non vérifié
-80030;Arry;80;eau potable;136998;2024;78,6;3,0;10,9;67,2;conforme;454885;8447;109;136;212;Non vérifié
-80031;Arvillers;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;8985;32;69;759;Non vérifié
-80032;Assainvillers;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;766;15;37;136;Non vérifié
-80033;Assevillers;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;3682;32;69;311;Non vérifié
-80034;Athies;80;eau potable;218462;2024;99,8;0,0;9,8;67,0;conforme;0;0;0;0;614;Non vérifié
-80035;Aubercourt;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;817;32;69;69;Non vérifié
-80036;Aubigny;80;eau potable : DSP VAL DE SOMME (SUEZ);267254;2024;84,9;2,6;14,9;68,0;conforme;165344;5037;27;77;502;Non vérifié
-80037;Aubvillers;80;eau potable : REGIE CCALN;136951;2024;59,8;7,2;10,7;67,1;non conforme;147694;4916;79;249;170;Non vérifié
-80038;Auchonvillers;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;1452;32;81;125;Non vérifié
-80039;Ault;80;eau potable : SYNDICAT INTERCOMMUNAL DES EAUX DE PICARDIE;137006;2024;73,2;3,6;9,7;66,9;conforme;454263;26458;54;135;1346;Non vérifié
-80040;Aumâtre;80;eau potable;136772;2024;100,0;0,0;11,1;67,2;conforme;0;0;0;0;170;Non vérifié
-80041;Aumont;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;2815;65;116;119;Non vérifié
-80042;Autheux;80;eau potable : Régie;214800;2024;79,2;2,3;8,7;66,7;conforme;75555;1740;40;97;120;Non vérifié
-80043;Authie;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;2857;32;81;246;Non vérifié
-80044;Authieule;80;eau potable;210989;2024;75,6;3,1;9,6;66,9;conforme;205446;7045;49;121;393;Non vérifié
-80045;Authuille;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;1788;32;81;154;Non vérifié
-80046;Avelesges;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;1135;65;116;48;Non vérifié
-80047;Aveluy;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;6271;32;81;540;Non vérifié
-80048;Avesnes-Chaussoy;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;1490;65;116;63;Non vérifié
-80049;Ayencourt;80;eau potable;136774;2024;57,1;6,2;8,3;66,7;non conforme;5046;5046;91;274;152;Non vérifié
-80050;Bacouel-sur-Selle;80;eau potable;137046;2024;61,0;6,8;10,7;67,1;non conforme;11789;11789;70;232;461;Non vérifié
-80051;Bailleul;80;eau potable;136983;2024;84,2;1,2;6,2;66,2;conforme;24090;4423;48;71;253;Non vérifié
-80052;Baizieux;80;eau potable : DSP VAL DE SOMME (SUEZ);267254;2024;84,9;2,6;14,9;68,0;conforme;165344;2438;27;77;243;Non vérifié
-80053;Balâtre;80;eau potable;167744;2024;77,3;1,6;5,6;66,1;conforme;98457;944;33;105;78;Non vérifié
-80054;Barleux;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;2758;32;69;233;Non vérifié
-80055;Barly;80;eau potable;210989;2024;75,6;3,1;9,6;66,9;conforme;205446;2886;49;121;161;Non vérifié
-80056;Bavelincourt;80;eau potable;136987;2024;69,9;6,2;14,3;67,9;conforme;97309;3110;82;158;104;Non vérifié
-80057;Bayencourt;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;813;32;81;70;Non vérifié
-80058;Bayonvillers;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;4025;32;69;340;Non vérifié
-80059;Bazentin;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;917;32;81;79;Non vérifié
-80060;Béalcourt;80;eau potable;210989;2024;75,6;3,1;9,6;66,9;conforme;205446;2259;49;121;126;Non vérifié
-80061;Beaucamps-le-Jeune;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;4896;65;116;207;Non vérifié
-80062;Beaucamps-le-Vieux;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;33020;65;116;1396;Non vérifié
-80063;Beauchamps;80;eau potable;93046;2024;74,4;2,1;6,2;66,2;conforme;357572;9954;29;151;937;Non vérifié
-80064;Beaucourt-en-Santerre;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;1906;32;69;161;Non vérifié
-80065;Beaucourt-sur-l'Ancre;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;1034;32;81;89;Non vérifié
-80066;Beaucourt-sur-l'Hallue;80;eau potable;136987;2024;69,9;6,2;14,3;67,9;conforme;97309;8313;82;158;278;Non vérifié
-80067;Beaufort-en-Santerre;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;2285;32;69;193;Non vérifié
-80068;Beaumetz;80;eau potable : Régie;214800;2024;79,2;2,3;8,7;66,7;conforme;75555;3118;40;97;215;Non vérifié
-80069;Beaumont-Hamel;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;2323;32;81;200;Non vérifié
-80070;Beauquesne;80;eau potable;210989;2024;75,6;3,1;9,6;66,9;conforme;205446;24236;49;121;1352;Non vérifié
-80071;Beauval;80;eau potable;186266;2024;79,5;2,6;9,9;67,0;conforme;20328;20328;29;96;1929;Non vérifié
-80073;Bécordel-Bécourt;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;1777;32;81;153;Non vérifié
-80074;Becquigny;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;614;15;37;109;Non vérifié
-80076;Béhen;80;eau potable;210987;2024;90,2;0,7;6,8;66,4;conforme;58254;2822;15;38;500;Non vérifié
-80077;Béhencourt;80;eau potable;136987;2024;69,9;6,2;14,3;67,9;conforme;97309;9001;82;158;301;Non vérifié
-80078;Bellancourt;80;eau potable : ex-SIAEP DE VAUCHELLES LES QUESNOY - BELLANCOURT;137017;2024;97,8;0,2;10,7;67,1;conforme;1134;428;2;7;494;Non vérifié
-80079;Belleuse;80;eau potable;136778;2020;49,8;0,0;;;non calculable;;;;;297;Sans anomalie apparente
-80080;Belloy-en-Santerre;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;1764;32;69;149;Non vérifié
-80081;Belloy-Saint-Léonard;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;1892;65;116;80;Non vérifié
-80082;Belloy-sur-Somme;80;eau potable;136779;2024;90,2;0,6;5,7;66,1;conforme;2744;2744;10;38;717;Non vérifié
-80083;Bergicourt;80;eau potable;214799;2024;83,5;1,6;8,1;66,6;conforme;65408;1800;34;72;145;Non vérifié
-80084;Bermesnil;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;4660;65;116;197;Non vérifié
-80085;Bernâtre;80;eau potable;136984;2024;82,9;1,8;8,8;66,8;conforme;85830;572;39;76;40;Non vérifié
-80086;Bernaville;80;eau potable : Régie;214800;2024;79,2;2,3;8,7;66,7;conforme;75555;15111;40;97;1042;Non vérifié
-80087;Bernay-en-Ponthieu;80;eau potable;136998;2024;78,6;3,0;10,9;67,2;conforme;454885;9562;109;136;240;Non vérifié
-80088;Bernes;80;eau potable;137019;2024;88,6;1,2;9,0;66,8;conforme;23766;2239;17;92;353;Non vérifié
-80089;Berneuil;80;eau potable : Régie;214800;2024;79,2;2,3;8,7;66,7;conforme;75555;4046;40;97;279;Non vérifié
-80090;Berny-en-Santerre;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;1835;32;69;155;Non vérifié
-80092;Bertangles;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;21151;71;165;815;Non vérifié
-80093;Berteaucourt-les-Dames;80;eau potable;137003;2023;63,4;9,5;16,5;68,3;non conforme;209125;32665;82;296;1092;Sans anomalie apparente
-80094;Berteaucourt-lès-Thennes;80;eau potable : DSP SUEZ;136979;2024;83,3;5,4;26,8;70,4;conforme;50182;4377;23;187;517;Non vérifié
-80095;Bertrancourt;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;2555;32;81;220;Non vérifié
-80096;Béthencourt-sur-Mer;80;eau potable : SYNDICAT INTERCOMMUNAL DES EAUX DE PICARDIE;137006;2024;73,2;3,6;9,7;66,9;conforme;454263;17337;54;135;882;Non vérifié
-80097;Béthencourt-sur-Somme;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;1468;32;69;124;Non vérifié
-80098;Bettembos;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;2152;65;116;91;Non vérifié
-80099;Bettencourt-Rivière;80;eau potable : ex-SIAEP DE LA RÉGION DE LONGPRE-LES-CORPS-SAINTS;136996;2024;68,3;6,8;14,6;67,9;conforme;54604;4434;58;170;209;Non vérifié
-80100;Bettencourt-Saint-Ouen;80;eau potable;137003;2023;63,4;9,5;16,5;68,3;non conforme;209125;18098;82;296;605;Sans anomalie apparente
-80101;Beuvraignes;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;5067;15;37;900;Non vérifié
-80102;Biaches;80;eau potable;137087;2021;97,6;0,2;8,2;66,6;conforme;381;381;3;9;386;Sans anomalie apparente
-80103;Biarre;80;eau potable;167744;2024;77,3;1,6;5,6;66,1;conforme;98457;690;33;105;57;Non vérifié
-80104;Biencourt;80;eau potable;210987;2024;90,2;0,7;6,8;66,4;conforme;58254;773;15;38;137;Non vérifié
-80105;Billancourt;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;2107;32;69;178;Non vérifié
-80106;Blangy-sous-Poix;80;eau potable;214799;2024;83,5;1,6;8,1;66,6;conforme;65408;1999;34;72;161;Non vérifié
-80107;Blangy-Tronville;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;15909;71;165;613;Non vérifié
-80108;Boisbergues;80;eau potable : Régie;214800;2024;79,2;2,3;8,7;66,7;conforme;75555;928;40;97;64;Non vérifié
-80109;Le Boisle;80;eau potable;148300;2024;78,3;2,1;7,7;66,5;conforme;19162;8114;68;100;329;Non vérifié
-80110;Boismont;80;eau potable;209376;2024;79,9;1,4;5,4;66,1;conforme;64897;4432;28;94;441;Non vérifié
-80112;Bonnay;80;eau potable : DSP VAL DE SOMME (SUEZ);267254;2024;84,9;2,6;14,9;68,0;conforme;165344;2478;27;77;247;Non vérifié
-80113;Bonneville;80;eau potable : Régie;214800;2024;79,2;2,3;8,7;66,7;conforme;75555;4713;40;97;325;Non vérifié
-80114;Bosquel;80;eau potable;136787;2024;78,7;3,4;12,6;67,5;conforme;5212;5212;41;98;349;Non vérifié
-80115;Bouchavesnes-Bergen;80;eau potable;137094;2024;87,9;0,8;5,9;66,2;conforme;1606;1606;16;49;283;Non vérifié
-80116;Bouchoir;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;3267;32;69;276;Non vérifié
-80118;Boufflers;80;eau potable;136984;2024;82,9;1,8;8,8;66,8;conforme;85830;1615;39;76;113;Non vérifié
-80119;Bougainville;80;eau potable;210990;2024;84,9;2,7;15,1;68,0;conforme;50408;6510;46;126;389;Non vérifié
-80120;Bouillancourt-en-Séry;80;eau potable;210987;2024;90,2;0,7;6,8;66,4;conforme;58254;3048;15;38;540;Non vérifié
-80121;Bouillancourt-la-Bataille;80;eau potable : ex-SIAEP DES TROIS DOMS;137016;2024;50,0;15,3;16,3;68,3;non calculable;41884;11138;215;343;142;Non vérifié
-80122;Bouquemaison;80;eau potable;210989;2024;75,6;3,1;9,6;66,9;conforme;205446;8837;49;121;493;Non vérifié
-80123;Bourdon;80;eau potable;136988;2022;86,5;1,1;7,2;66,4;conforme;12671;2333;17;55;376;Sans anomalie apparente
-80124;Bourseville;80;eau potable : SYNDICAT INTERCOMMUNAL DES EAUX DE PICARDIE;137006;2024;73,2;3,6;9,7;66,9;conforme;454263;14251;54;135;725;Non vérifié
-80125;Boussicourt;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;450;15;37;80;Non vérifié
-80126;Bouttencourt;80;eau potable;92995;2024;76,3;3,2;10,3;67,1;conforme;58015;14357;42;113;927;Non vérifié
-80127;Bouvaincourt-sur-Bresle;80;eau potable : SYNDICAT INTERCOMMUNAL DES EAUX DE PICARDIE;137006;2024;73,2;3,6;9,7;66,9;conforme;454263;15391;54;135;783;Non vérifié
-80129;Bouzincourt;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;6132;32;81;528;Non vérifié
-80130;Bovelles;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;11030;71;165;425;Non vérifié
-80131;Boves;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;83931;71;165;3234;Non vérifié
-80132;Braches;80;eau potable;137007;2024;88,5;1,5;11,5;67,3;conforme;13906;1449;20;48;203;Non vérifié
-80133;Brailly-Cornehotte;80;eau potable;136984;2024;82,9;1,8;8,8;66,8;conforme;85830;3015;39;76;211;Non vérifié
-80134;Brassy;80;eau potable;137012;2024;82,2;1,8;8,3;66,7;conforme;9592;1539;51;90;82;Non vérifié
-80135;Bray-lès-Mareuil;80;eau potable;137008;2024;77,2;2,4;8,0;66,6;conforme;37633;2768;30;110;249;Non vérifié
-80136;Bray-sur-Somme;80;eau potable : CC du pays du coquelicot DSP Saur;241514;2024;83,7;2,0;10,1;67,0;conforme;282408;127089;294;81;1184;Non vérifié
-80137;Breilly;80;eau potable;136960;2024;55,0;13,4;16,4;68,3;non conforme;125601;23935;93;298;707;Non vérifié
-80138;Bresle;80;eau potable : DSP VAL DE SOMME (SUEZ);267254;2024;84,9;2,6;14,9;68,0;conforme;165344;1204;27;77;120;Non vérifié
-80139;Breuil;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;533;32;69;45;Non vérifié
-80140;Brévillers;80;eau potable;210986;2024;67,2;2,9;5,8;66,2;conforme;29903;2467;58;181;116;Non vérifié
-80141;Brie;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;4143;32;69;350;Non vérifié
-80142;Briquemesnil-Floxicourt;80;eau potable;210990;2024;84,9;2,7;15,1;68,0;conforme;50408;5707;46;126;341;Non vérifié
-80143;Brocourt;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;2578;65;116;109;Non vérifié
-80144;Brouchy;80;eau potable : Eppeville, Brouchy, Muille-Villette;136975;2024;92,3;0,9;10,1;67,0;conforme;12910;2139;12;32;495;Non vérifié
-80145;Brucamps;80;eau potable;136973;2020;74,1;3,7;10,6;67,1;conforme;40515;3696;65;128;155;Sans anomalie apparente
-80146;Brutelles;80;eau potable : SYNDICAT INTERCOMMUNAL DES EAUX DE PICARDIE;137006;2024;73,2;3,6;9,7;66,9;conforme;454263;3872;54;135;197;Non vérifié
-80147;Buigny-l'Abbé;80;eau potable;136969;2024;78,2;2,7;9,5;66,9;conforme;69714;5200;42;103;341;Non vérifié
-80148;Buigny-lès-Gamaches;80;eau potable : SYNDICAT INTERCOMMUNAL DES EAUX DE PICARDIE;137006;2024;73,2;3,6;9,7;66,9;conforme;454263;7804;54;135;397;Non vérifié
-80149;Buigny-Saint-Maclou;80;eau potable : principal;137004;2024;62,6;3,2;5,4;66,1;non conforme;153405;13555;72;220;514;Non vérifié
-80150;Buire-Courcelles;80;eau potable;137019;2024;88,6;1,2;9,0;66,8;conforme;23766;1395;17;92;220;Non vérifié
-80151;Buire-sur-l'Ancre;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;3414;32;81;294;Non vérifié
-80152;Bus-la-Mésière;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;811;15;37;144;Non vérifié
-80153;Bus-lès-Artois;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;1626;32;81;140;Non vérifié
-80154;Bussu;80;eau potable;136794;2024;71,0;4,0;9,9;67,0;conforme;2920;2920;39;148;207;Non vérifié
-80155;Bussus-Bussuel;80;eau potable;136969;2024;78,2;2,7;9,5;66,9;conforme;69714;8478;42;103;556;Non vérifié
-80156;Bussy-lès-Daours;80;eau potable : DSP VAL DE SOMME (SUEZ);267254;2024;84,9;2,6;14,9;68,0;conforme;165344;3713;27;77;370;Non vérifié
-80157;Bussy-lès-Poix;80;eau potable;210990;2024;84,9;2,7;15,1;68,0;conforme;50408;1506;46;126;90;Non vérifié
-80158;Buverchy;80;eau potable : Esmery-Hallon;137022;2024;82,0;1,3;5,7;66,1;conforme;15013;330;22;83;41;Non vérifié
-80159;Cachy;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;3551;32;69;300;Non vérifié
-80160;Cagny;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;30910;71;165;1191;Non vérifié
-80161;Cahon;80;eau potable;209376;2024;79,9;1,4;5,4;66,1;conforme;64897;2231;28;94;222;Non vérifié
-80162;Caix;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;8334;32;69;704;Non vérifié
-80163;Cambron;80;eau potable : Cambron;136795;2024;77,7;2,4;8,4;66,7;conforme;7209;7209;27;104;740;Non vérifié
-80164;Camon;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;113128;71;165;4359;Non vérifié
-80165;Camps-en-Amiénois;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;4305;65;116;182;Non vérifié
-80166;Canaples;80;eau potable;137003;2023;63,4;9,5;16,5;68,3;non conforme;209125;21089;82;296;705;Sans anomalie apparente
-80167;Canchy;80;eau potable : principal;137004;2024;62,6;3,2;5,4;66,1;non conforme;153405;9177;72;220;348;Non vérifié
-80168;Candas;80;eau potable;136797;2024;100,0;0,0;17,4;68,5;conforme;0;0;0;0;1035;Non vérifié
-80169;Cannessières;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;1396;65;116;59;Non vérifié
-80170;Cantigny;80;eau potable : ex-SIAEP DU PLATEAU SUD D'AILLY SUR NOYE;137059;2024;53,2;5,4;6,1;66,2;non conforme;210897;4041;101;321;110;Non vérifié
-80171;Caours;80;eau potable;136969;2024;78,2;2,7;9,5;66,9;conforme;69714;8356;42;103;548;Non vérifié
-80172;Cappy;80;eau potable : CC du pays du coquelicot DSP Saur;241514;2024;83,7;2,0;10,1;67,0;conforme;282408;58607;294;81;546;Non vérifié
-80173;Cardonnette;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;13314;71;165;513;Non vérifié
-80174;Le Cardonnois;80;eau potable;167765;2024;83,0;1,5;7,3;66,5;conforme;12905;874;32;75;75;Non vérifié
-80176;Carrépuis;80;eau potable;137056;2024;89,8;0,7;5,8;66,2;conforme;3209;1201;13;44;250;Non vérifié
-80177;Cartigny;80;eau potable;137019;2024;88,6;1,2;9,0;66,8;conforme;23766;4364;17;92;688;Non vérifié
-80179;Caulières;80;eau potable;214799;2024;83,5;1,6;8,1;66,6;conforme;65408;2768;34;72;223;Non vérifié
-80180;Cavillon;80;eau potable;137041;2024;87,8;1,3;9,5;66,9;conforme;6909;848;26;50;90;Non vérifié
-80181;Cayeux-en-Santerre;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;1456;32;69;123;Non vérifié
-80182;Cayeux-sur-Mer;80;eau potable : SYNDICAT INTERCOMMUNAL DES EAUX DE PICARDIE;137006;2024;73,2;3,6;9,7;66,9;conforme;454263;45525;54;135;2316;Non vérifié
-80183;Cerisy-Buleux;80;eau potable;210987;2024;90,2;0,7;6,8;66,4;conforme;58254;1569;15;38;278;Non vérifié
-80184;Cerisy;80;eau potable : DSP VAL DE SOMME (SUEZ);267254;2024;84,9;2,6;14,9;68,0;conforme;165344;5278;27;77;526;Non vérifié
-80185;Champien;80;eau potable;167744;2024;77,3;1,6;5,6;66,1;conforme;98457;3292;33;105;272;Non vérifié
-80186;Chaulnes;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;23309;32;69;1969;Non vérifié
-80187;La Chaussée-Tirancourt;80;eau potable;214797;2024;70,8;7,8;18,8;68,8;conforme;44812;15884;62;151;699;Non vérifié
-80188;Chaussoy-Epagny;80;eau potable : DSP VEOLIA;137027;2024;77,8;1,8;6,4;66,3;conforme;15183;8088;39;103;570;Non vérifié
-80189;La Chavatte;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;338;15;37;60;Non vérifié
-80190;Chépy;80;eau potable;210987;2024;90,2;0,7;6,8;66,4;conforme;58254;6717;15;38;1190;Non vérifié
-80191;Chilly;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;2001;32;69;169;Non vérifié
-80192;Chipilly;80;eau potable : DSP VAL DE SOMME (SUEZ);267254;2024;84,9;2,6;14,9;68,0;conforme;165344;1726;27;77;172;Non vérifié
-80193;Chirmont;80;eau potable : ex-SIAEP DU PLATEAU SUD D'AILLY SUR NOYE;137059;2024;53,2;5,4;6,1;66,2;non conforme;210897;5804;101;321;158;Non vérifié
-80194;Chuignes;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;1799;32;69;152;Non vérifié
-80195;Chuignolles;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;1707;32;81;147;Non vérifié
-80196;Citerne;80;eau potable;136983;2024;84,2;1,2;6,2;66,2;conforme;24090;4196;48;71;240;Non vérifié
-80197;Cizancourt;80;eau potable;218462;2024;99,8;0,0;9,8;67,0;conforme;0;0;0;0;30;Non vérifié
-80198;Clairy-Saulchoix;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;9758;71;165;376;Non vérifié
-80199;Cléry-sur-Somme;80;eau potable;137047;2024;83,7;1,1;5,8;66,2;conforme;4015;4015;21;70;516;Non vérifié
-80200;Cocquerel;80;eau potable;136961;2022;80,0;1,9;7,8;66,6;conforme;29820;2845;35;89;220;Sans anomalie apparente
-80201;Coigneux;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;523;32;81;45;Non vérifié
-80202;Coisy;80;eau potable;136807;2024;91,5;1,1;11,5;67,3;conforme;1285;1285;9;35;387;Non vérifié
-80203;Colincamps;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;929;32;81;80;Non vérifié
-80204;Combles;80;eau potable;137026;2024;81,6;1,2;5,1;66,0;conforme;42885;11214;41;85;757;Non vérifié
-80205;Condé-Folie;80;eau potable : ex-SIAEP DE LA RÉGION DE LONGPRE-LES-CORPS-SAINTS;136996;2024;68,3;6,8;14,6;67,9;conforme;54604;18350;58;170;865;Non vérifié
-80206;Contalmaison;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;1417;32;81;122;Non vérifié
-80207;Contay;80;eau potable;136987;2024;69,9;6,2;14,3;67,9;conforme;97309;9121;82;158;305;Non vérifié
-80208;Conteville;80;eau potable;136984;2024;82,9;1,8;8,8;66,8;conforme;85830;3001;39;76;210;Non vérifié
-80210;Contre;80;eau potable;137052;2024;89,9;0,8;7,5;66,5;conforme;1168;600;11;39;149;Non vérifié
-80211;Conty;80;eau potable;136995;2024;79,0;1,7;6,4;66,3;conforme;10232;5841;10;97;1660;Non vérifié
-80212;Corbie;80;eau potable : DSP VAL DE SOMME (SUEZ);267254;2024;84,9;2,6;14,9;68,0;conforme;165344;60025;27;77;5982;Non vérifié
-80213;Cottenchy;80;eau potable : REGIE CCALN;136951;2024;59,8;7,2;10,7;67,1;non conforme;147694;16369;79;249;566;Non vérifié
-80214;Coullemelle;80;eau potable : ex-SIAEP DU PLATEAU SUD D'AILLY SUR NOYE;137059;2024;53,2;5,4;6,1;66,2;non conforme;210897;11498;101;321;313;Non vérifié
-80215;Coulonvillers;80;eau potable;136969;2024;78,2;2,7;9,5;66,9;conforme;69714;3263;42;103;214;Non vérifié
-80216;Courcelette;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;1765;32;81;152;Non vérifié
-80217;Courcelles-au-Bois;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;801;32;81;69;Non vérifié
-80218;Courcelles-sous-Moyencourt;80;eau potable;210990;2024;84,9;2,7;15,1;68,0;conforme;50408;2745;46;126;164;Non vérifié
-80219;Courcelles-sous-Thoix;80;eau potable;137012;2024;82,2;1,8;8,3;66,7;conforme;9592;1220;51;90;65;Non vérifié
-80220;Courtemanche;80;eau potable : ex-SIAEP DU PLATEAU SUD D'AILLY SUR NOYE;137059;2024;53,2;5,4;6,1;66,2;non conforme;210897;3637;101;321;99;Non vérifié
-80221;Cramont;80;eau potable : Régie;214800;2024;79,2;2,3;8,7;66,7;conforme;75555;4409;40;97;304;Non vérifié
-80222;Crécy-en-Ponthieu;80;eau potable;136998;2024;78,6;3,0;10,9;67,2;conforme;454885;54824;109;136;1376;Non vérifié
-80223;Crémery;80;eau potable;137056;2024;89,8;0,7;5,8;66,2;conforme;3209;552;13;44;115;Non vérifié
-80224;Cressy-Omencourt;80;eau potable;167744;2024;77,3;1,6;5,6;66,1;conforme;98457;1537;33;105;127;Non vérifié
-80225;Creuse;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;4827;71;165;186;Non vérifié
-80226;Croix-Moligneaux;80;eau potable;218462;2024;99,8;0,0;9,8;67,0;conforme;0;0;0;0;270;Non vérifié
-80227;Croixrault;80;eau potable;136815;2024;72,8;6,9;18,6;68,7;conforme;14784;14784;88;136;460;Non vérifié
-80228;Le Crotoy;80;eau potable;136998;2024;78,6;3,0;10,9;67,2;conforme;454885;78012;109;136;1958;Non vérifié
-80229;Crouy-Saint-Pierre;80;eau potable;136988;2022;86,5;1,1;7,2;66,4;conforme;12671;2321;17;55;374;Sans anomalie apparente
-80230;Curchy;80;eau potable;136972;2023;68,8;2,2;4,8;66,0;conforme;12246;5613;55;169;281;Sans anomalie apparente
-80231;Curlu;80;eau potable : CC du pays du coquelicot DSP Saur;241514;2024;83,7;2,0;10,1;67,0;conforme;282408;16315;294;81;152;Non vérifié
-80232;Damery;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;1210;15;37;215;Non vérifié
-80233;Dancourt-Popincourt;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;844;15;37;150;Non vérifié
-80234;Daours;80;eau potable : DSP VAL DE SOMME (SUEZ);267254;2024;84,9;2,6;14,9;68,0;conforme;165344;7395;27;77;737;Non vérifié
-80235;Dargnies;80;eau potable : SYNDICAT INTERCOMMUNAL DES EAUX DE PICARDIE;137006;2024;73,2;3,6;9,7;66,9;conforme;454263;23077;54;135;1174;Non vérifié
-80236;Davenescourt;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;3124;15;37;555;Non vérifié
-80237;Démuin;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;6203;32;69;524;Non vérifié
-80238;Dernancourt;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;6004;32;81;517;Non vérifié
-80239;Devise;80;eau potable;218462;2024;99,8;0,0;9,8;67,0;conforme;0;0;0;0;59;Non vérifié
-80240;Doingt;80;eau potable;136819;2024;81,7;2,5;11,4;67,3;conforme;11461;11461;23;80;1389;Non vérifié
-80241;Domart-en-Ponthieu;80;eau potable;136973;2020;74,1;3,7;10,6;67,1;conforme;40515;25778;65;128;1081;Sans anomalie apparente
-80242;Domart-sur-la-Luce;80;eau potable : DSP SUEZ;136979;2024;83,3;5,4;26,8;70,4;conforme;50182;3412;23;187;403;Non vérifié
-80243;Domesmont;80;eau potable : Régie;214800;2024;79,2;2,3;8,7;66,7;conforme;75555;638;40;97;44;Non vérifié
-80244;Dominois;80;eau potable;136998;2024;78,6;3,0;10,9;67,2;conforme;454885;6694;109;136;168;Non vérifié
-80245;Domléger-Longvillers;80;eau potable : Régie;214800;2024;79,2;2,3;8,7;66,7;conforme;75555;4162;40;97;287;Non vérifié
-80246;Dommartin;80;eau potable : REGIE CCALN;136951;2024;59,8;7,2;10,7;67,1;non conforme;147694;10006;79;249;346;Non vérifié
-80247;Dompierre-Becquincourt;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;8393;32;69;709;Non vérifié
-80248;Dompierre-sur-Authie;80;eau potable;136984;2024;82,9;1,8;8,8;66,8;conforme;85830;5959;39;76;417;Non vérifié
-80249;Domqueur;80;eau potable;136969;2024;78,2;2,7;9,5;66,9;conforme;69714;4696;42;103;308;Non vérifié
-80250;Domvast;80;eau potable;136984;2024;82,9;1,8;8,8;66,8;conforme;85830;4759;39;76;333;Non vérifié
-80251;Doudelainville;80;eau potable;210987;2024;90,2;0,7;6,8;66,4;conforme;58254;2049;15;38;363;Non vérifié
-80252;Douilly;80;eau potable;136822;2021;91,2;0,4;3,8;65,8;conforme;1022;1022;11;39;250;Sans anomalie apparente
-80253;Doullens;80;eau potable;210989;2024;75,6;3,1;9,6;66,9;conforme;205446;103091;49;121;5751;Non vérifié
-80256;Dreuil-lès-Amiens;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;40902;71;165;1576;Non vérifié
-80258;Driencourt;80;eau potable;199397;2024;77,1;2,0;6,7;66,3;conforme;86045;1093;38;114;78;Non vérifié
-80259;Dromesnil;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;1940;65;116;82;Non vérifié
-80260;Drucat;80;eau potable : principal;137004;2024;62,6;3,2;5,4;66,1;non conforme;153405;23392;72;220;887;Non vérifié
-80261;Dury;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;37398;71;165;1441;Non vérifié
-80262;Eaucourt-sur-Somme;80;eau potable;137008;2024;77,2;2,4;8,0;66,6;conforme;37633;3969;30;110;357;Non vérifié
-80263;L' Échelle-Saint-Aurin;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;242;15;37;43;Non vérifié
-80264;Éclusier-Vaux;80;eau potable : CC du pays du coquelicot DSP Saur;241514;2024;83,7;2,0;10,1;67,0;conforme;282408;9124;294;81;85;Non vérifié
-80265;Embreville;80;eau potable : SYNDICAT INTERCOMMUNAL DES EAUX DE PICARDIE;137006;2024;73,2;3,6;9,7;66,9;conforme;454263;11008;54;135;560;Non vérifié
-80266;Englebelmer;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;3275;32;81;282;Non vérifié
-80267;Ennemain;80;eau potable;218462;2024;99,8;0,0;9,8;67,0;conforme;0;0;0;0;241;Non vérifié
-80268;Épagne-Épagnette;80;eau potable;137008;2024;77,2;2,4;8,0;66,6;conforme;37633;5670;30;110;510;Non vérifié
-80269;Épaumesnil;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;2460;65;116;104;Non vérifié
-80270;Épécamps;80;eau potable : Régie;214800;2024;79,2;2,3;8,7;66,7;conforme;75555;102;40;97;7;Non vérifié
-80271;Épehy;80;eau potable;199397;2024;77,1;2,0;6,7;66,3;conforme;86045;15399;38;114;1099;Non vérifié
-80272;Épénancourt;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;1527;32;69;129;Non vérifié
-80273;Éplessier;80;eau potable;214799;2024;83,5;1,6;8,1;66,6;conforme;65408;4245;34;72;342;Non vérifié
-80274;Eppeville;80;eau potable : Eppeville, Brouchy, Muille-Villette;136975;2024;92,3;0,9;10,1;67,0;conforme;12910;7362;12;32;1704;Non vérifié
-80275;Équancourt;80;eau potable;136825;2024;62,4;4,7;7,8;66,6;non conforme;6862;6862;63;219;300;Non vérifié
-80276;Équennes-Éramecourt;80;eau potable;214799;2024;83,5;1,6;8,1;66,6;conforme;65408;3426;34;72;276;Non vérifié
-80278;Erches;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;1132;15;37;201;Non vérifié
-80279;Ercheu;80;eau potable;136826;2024;79,5;4,1;15,8;68,2;conforme;14127;14127;52;149;751;Non vérifié
-80280;Ercourt;80;eau potable : SIAEP D' AIGNEVILLE;136959;2024;99,8;0,0;8,6;66,7;conforme;0;0;0;0;132;Non vérifié
-80281;Ergnies;80;eau potable;136961;2022;80,0;1,9;7,8;66,6;conforme;29820;2056;35;89;159;Sans anomalie apparente
-80282;Érondelle;80;eau potable;137008;2024;77,2;2,4;8,0;66,6;conforme;37633;5603;30;110;504;Non vérifié
-80283;Esclainvillers;80;eau potable : ex-SIAEP DU PLATEAU SUD D'AILLY SUR NOYE;137059;2024;53,2;5,4;6,1;66,2;non conforme;210897;5841;101;321;159;Non vérifié
-80284;Esmery-Hallon;80;eau potable : Esmery-Hallon;137022;2024;82,0;1,3;5,7;66,1;conforme;15013;5750;22;83;715;Non vérifié
-80285;Essertaux;80;eau potable;137005;2024;89,0;1,8;14,3;67,9;conforme;20919;2467;25;74;270;Non vérifié
-80287;Estréboeuf;80;eau potable : SYNDICAT INTERCOMMUNAL DES EAUX DE PICARDIE;137006;2024;73,2;3,6;9,7;66,9;conforme;454263;4796;54;135;244;Non vérifié
-80288;Estrées-Deniécourt;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;4487;32;69;379;Non vérifié
-80290;Estrées-lès-Crécy;80;eau potable;136984;2024;82,9;1,8;8,8;66,8;conforme;85830;5688;39;76;398;Non vérifié
-80291;Estrées-sur-Noye;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;7448;71;165;287;Non vérifié
-80292;Étalon;80;eau potable;136972;2023;68,8;2,2;4,8;66,0;conforme;12246;2517;55;169;126;Sans anomalie apparente
-80293;Ételfay;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;1959;15;37;348;Non vérifié
-80294;Éterpigny;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;1965;32;69;166;Non vérifié
-80295;Étinehem-Méricourt;80;eau potable : CC du pays du coquelicot régie;241474;2024;83,7;2,0;10,1;67,0;conforme;282408;19047;89;81;589;Non vérifié
-80297;Étréjust;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;993;65;116;42;Non vérifié
-80299;La Faloise;80;eau potable : DSP VEOLIA;137027;2024;77,8;1,8;6,4;66,3;conforme;15183;2895;39;103;204;Non vérifié
-80300;Falvy;80;eau potable;218462;2024;99,8;0,0;9,8;67,0;conforme;0;0;0;0;163;Non vérifié
-80301;Famechon;80;eau potable;214799;2024;83,5;1,6;8,1;66,6;conforme;65408;3352;34;72;270;Non vérifié
-80302;Faverolles;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;963;15;37;171;Non vérifié
-80303;Favières;80;eau potable;136998;2024;78,6;3,0;10,9;67,2;conforme;454885;18049;109;136;453;Non vérifié
-80304;Fay;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;1077;32;69;91;Non vérifié
-80305;Ferrières;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;12873;71;165;496;Non vérifié
-80306;Fescamps;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;766;15;37;136;Non vérifié
-80307;Feuillères;80;eau potable;137026;2024;81,6;1,2;5,1;66,0;conforme;42885;2296;41;85;155;Non vérifié
-80308;Feuquières-en-Vimeu;80;eau potable : SIAEP D' AIGNEVILLE;136959;2024;99,8;0,0;8,6;66,7;conforme;0;0;0;0;2414;Non vérifié
-80310;Fienvillers;80;eau potable : Régie;214800;2024;79,2;2,3;8,7;66,7;conforme;75555;9615;40;97;663;Non vérifié
-80311;Fignières;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;799;15;37;142;Non vérifié
-80312;Fins;80;eau potable;199397;2024;77,1;2,0;6,7;66,3;conforme;86045;3895;38;114;278;Non vérifié
-80313;Flaucourt;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;3539;32;69;299;Non vérifié
-80314;Flers;80;eau potable;137026;2024;81,6;1,2;5,1;66,0;conforme;42885;2815;41;85;190;Non vérifié
-80315;Flers-sur-Noye;80;eau potable;137005;2024;89,0;1,8;14,3;67,9;conforme;20919;4853;25;74;531;Non vérifié
-80316;Flesselles;80;eau potable : ex-SIAEP DE LA RÉGION DE NAOURS;137002;2024;81,9;1,9;8,6;66,7;conforme;99628;22266;31;91;1937;Non vérifié
-80318;Flixecourt;80;eau potable;136978;2024;70,7;4,8;11,6;67,3;conforme;122640;107285;91;151;3221;Non vérifié
-80319;Fluy;80;eau potable;210990;2024;84,9;2,7;15,1;68,0;conforme;50408;5355;46;126;320;Non vérifié
-80320;Folies;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;1799;32;69;152;Non vérifié
-80321;Folleville;80;eau potable : ex-SIAEP DU PLATEAU SUD D'AILLY SUR NOYE;137059;2024;53,2;5,4;6,1;66,2;non conforme;210897;5657;101;321;154;Non vérifié
-80322;Fonches-Fonchette;80;eau potable;136972;2023;68,8;2,2;4,8;66,0;conforme;12246;3356;55;169;168;Sans anomalie apparente
-80324;Fontaine-le-Sec;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;3382;65;116;143;Non vérifié
-80325;Fontaine-lès-Cappy;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;639;32;69;54;Non vérifié
-80326;Fontaine-sous-Montdidier;80;eau potable : ex-SIAEP DU PLATEAU SUD D'AILLY SUR NOYE;137059;2024;53,2;5,4;6,1;66,2;non conforme;210897;3563;101;321;97;Non vérifié
-80327;Fontaine-sur-Maye;80;eau potable;136984;2024;82,9;1,8;8,8;66,8;conforme;85830;2315;39;76;162;Non vérifié
-80328;Fontaine-sur-Somme;80;eau potable;136961;2022;80,0;1,9;7,8;66,6;conforme;29820;6492;35;89;502;Sans anomalie apparente
-80329;Forceville;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;1893;32;81;163;Non vérifié
-80330;Forceville-en-Vimeu;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;5346;65;116;226;Non vérifié
-80331;Forest-l'Abbaye;80;eau potable : principal;137004;2024;62,6;3,2;5,4;66,1;non conforme;153405;8281;72;220;314;Non vérifié
-80332;Forest-Montiers;80;eau potable;136998;2024;78,6;3,0;10,9;67,2;conforme;454885;15220;109;136;382;Non vérifié
-80333;Fort-Mahon-Plage;80;eau potable;136998;2024;78,6;3,0;10,9;67,2;conforme;454885;54306;109;136;1363;Non vérifié
-80334;Fossemanant;80;eau potable;136995;2024;79,0;1,7;6,4;66,3;conforme;10232;352;10;97;100;Non vérifié
-80335;Foucaucourt-en-Santerre;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;2782;32;69;235;Non vérifié
-80336;Foucaucourt-Hors-Nesle;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;1869;65;116;79;Non vérifié
-80337;Fouencamps;80;eau potable : REGIE CCALN;136951;2024;59,8;7,2;10,7;67,1;non conforme;147694;6247;79;249;216;Non vérifié
-80338;Fouilloy;80;eau potable : DSP VAL DE SOMME (SUEZ);267254;2024;84,9;2,6;14,9;68,0;conforme;165344;17289;27;77;1723;Non vérifié
-80339;Fouquescourt;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;1823;32;69;154;Non vérifié
-80340;Fourcigny;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;4281;65;116;181;Non vérifié
-80341;Fourdrinoy;80;eau potable;137041;2024;87,8;1,3;9,5;66,9;conforme;6909;3582;26;50;380;Non vérifié
-80342;Framerville-Rainecourt;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;5244;32;69;443;Non vérifié
-80343;Framicourt;80;eau potable;210987;2024;90,2;0,7;6,8;66,4;conforme;58254;852;15;38;151;Non vérifié
-80344;Francières;80;eau potable;136969;2024;78,2;2,7;9,5;66,9;conforme;69714;2684;42;103;176;Non vérifié
-80345;Franleu;80;eau potable;209376;2024;79,9;1,4;5,4;66,1;conforme;64897;5035;28;94;501;Non vérifié
-80346;Franqueville;80;eau potable;136973;2020;74,1;3,7;10,6;67,1;conforme;40515;3887;65;128;163;Sans anomalie apparente
-80347;Fransart;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;918;15;37;163;Non vérifié
-80348;Fransu;80;eau potable : Régie;214800;2024;79,2;2,3;8,7;66,7;conforme;75555;2799;40;97;193;Non vérifié
-80349;Fransures;80;eau potable;137005;2024;89,0;1,8;14,3;67,9;conforme;20919;1142;25;74;125;Non vérifié
-80350;Franvillers;80;eau potable;136987;2024;69,9;6,2;14,3;67,9;conforme;97309;16687;82;158;558;Non vérifié
-80351;Fréchencourt;80;eau potable;136987;2024;69,9;6,2;14,3;67,9;conforme;97309;7476;82;158;250;Non vérifié
-80352;Frémontiers;80;eau potable;136836;2024;96,5;0,1;3,3;65,7;conforme;196;196;3;11;166;Non vérifié
-80353;Fresnes-Mazancourt;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;1870;32;69;158;Non vérifié
-80354;Fresnes-Tilloloy;80;eau potable;136983;2024;84,2;1,2;6,2;66,2;conforme;24090;3689;48;71;211;Non vérifié
-80355;Fresneville;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;2460;65;116;104;Non vérifié
-80356;Fresnoy-Andainville;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;2271;65;116;96;Non vérifié
-80357;Fresnoy-au-Val;80;eau potable;210990;2024;84,9;2,7;15,1;68,0;conforme;50408;3732;46;126;223;Non vérifié
-80358;Fresnoy-en-Chaussée;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;1634;32;69;138;Non vérifié
-80359;Fresnoy-lès-Roye;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;1610;15;37;286;Non vérifié
-80360;Fressenneville;80;eau potable;209376;2024;79,9;1,4;5,4;66,1;conforme;64897;20554;28;94;2045;Non vérifié
-80361;Frettecuisse;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;1632;65;116;69;Non vérifié
-80362;Frettemeule;80;eau potable;210987;2024;90,2;0,7;6,8;66,4;conforme;58254;1671;15;38;296;Non vérifié
-80364;Friaucourt;80;eau potable : SYNDICAT INTERCOMMUNAL DES EAUX DE PICARDIE;137006;2024;73,2;3,6;9,7;66,9;conforme;454263;13661;54;135;695;Non vérifié
-80365;Fricamps;80;eau potable;210990;2024;84,9;2,7;15,1;68,0;conforme;50408;2962;46;126;177;Non vérifié
-80366;Fricourt;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;5307;32;81;457;Non vérifié
-80367;Frise;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;2083;32;69;176;Non vérifié
-80368;Friville-Escarbotin;80;eau potable : SYNDICAT INTERCOMMUNAL DES EAUX DE PICARDIE;137006;2024;73,2;3,6;9,7;66,9;conforme;454263;84641;54;135;4306;Non vérifié
-80369;Frohen-sur-Authie;80;eau potable;210989;2024;75,6;3,1;9,6;66,9;conforme;205446;4374;49;121;244;Non vérifié
-80371;Froyelles;80;eau potable;136984;2024;82,9;1,8;8,8;66,8;conforme;85830;1372;39;76;96;Non vérifié
-80372;Frucourt;80;eau potable;136983;2024;84,2;1,2;6,2;66,2;conforme;24090;2115;48;71;121;Non vérifié
-80373;Gamaches;80;eau potable;136839;2024;49,9;18,3;18,2;68,6;non conforme;134058;134058;153;382;2397;Non vérifié
-80374;Gapennes;80;eau potable;136984;2024;82,9;1,8;8,8;66,8;conforme;85830;3859;39;76;270;Non vérifié
-80375;Gauville;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;7735;65;116;327;Non vérifié
-80376;Gentelles;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;7422;32;69;627;Non vérifié
-80377;Gézaincourt;80;eau potable;210989;2024;75,6;3,1;9,6;66,9;conforme;205446;7152;49;121;399;Non vérifié
-80378;Ginchy;80;eau potable;137026;2024;81,6;1,2;5,1;66,0;conforme;42885;1111;41;85;75;Non vérifié
-80379;Glisy;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;20529;71;165;791;Non vérifié
-80380;Gorenflos;80;eau potable;136961;2022;80,0;1,9;7,8;66,6;conforme;29820;3026;35;89;234;Sans anomalie apparente
-80381;Gorges;80;eau potable : Régie;214800;2024;79,2;2,3;8,7;66,7;conforme;75555;580;40;97;40;Non vérifié
-80383;Goyencourt;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;557;15;37;99;Non vérifié
-80384;Grandcourt;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;2067;32;81;178;Non vérifié
-80385;Grand-Laviers;80;eau potable : principal;137004;2024;62,6;3,2;5,4;66,1;non conforme;153405;12263;72;220;465;Non vérifié
-80386;Gratibus;80;eau potable : ex-SIAEP DES TROIS DOMS;137016;2024;50,0;15,3;16,3;68,3;non calculable;41884;13726;215;343;175;Non vérifié
-80387;Grattepanche;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;8331;71;165;321;Non vérifié
-80388;Grébault-Mesnil;80;eau potable;210987;2024;90,2;0,7;6,8;66,4;conforme;58254;1152;15;38;204;Non vérifié
-80390;Grivesnes;80;eau potable : ex-SIAEP DU PLATEAU SUD D'AILLY SUR NOYE;137059;2024;53,2;5,4;6,1;66,2;non conforme;210897;15025;101;321;409;Non vérifié
-80391;Grivillers;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;512;15;37;91;Non vérifié
-80392;Grouches-Luchuel;80;eau potable;210986;2024;67,2;2,9;5,8;66,2;conforme;29903;12165;58;181;572;Non vérifié
-80393;Gruny;80;eau potable;137056;2024;89,8;0,7;5,8;66,2;conforme;3209;1456;13;44;303;Non vérifié
-80395;Guerbigny;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;1548;15;37;275;Non vérifié
-80396;Gueschart;80;eau potable;136984;2024;82,9;1,8;8,8;66,8;conforme;85830;5159;39;76;361;Non vérifié
-80397;Gueudecourt;80;eau potable;137026;2024;81,6;1,2;5,1;66,0;conforme;42885;1496;41;85;101;Non vérifié
-80399;Guignemicourt;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;10018;71;165;386;Non vérifié
-80400;Guillaucourt;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;4569;32;69;386;Non vérifié
-80401;Guillemont;80;eau potable;137026;2024;81,6;1,2;5,1;66,0;conforme;42885;1866;41;85;126;Non vérifié
-80402;Guizancourt;80;eau potable;214799;2024;83,5;1,6;8,1;66,6;conforme;65408;1403;34;72;113;Non vérifié
-80403;Guyencourt-sur-Noye;80;eau potable : REGIE CCALN;136951;2024;59,8;7,2;10,7;67,1;non conforme;147694;4656;79;249;161;Non vérifié
-80404;Guyencourt-Saulcourt;80;eau potable;136841;2024;87,2;1,4;9,6;66,9;conforme;1380;1380;26;53;145;Non vérifié
-80405;Hailles;80;eau potable : DSP SUEZ;136979;2024;83,3;5,4;26,8;70,4;conforme;50182;3421;23;187;404;Non vérifié
-80406;Hallencourt;80;eau potable;136986;2024;83,8;2,2;11,2;67,2;conforme;22709;12631;26;71;1351;Non vérifié
-80407;Hallivillers;80;eau potable : DSP VEOLIA;137027;2024;77,8;1,8;6,4;66,3;conforme;15183;2015;39;103;142;Non vérifié
-80408;Halloy-lès-Pernois;80;eau potable;137003;2023;63,4;9,5;16,5;68,3;non conforme;209125;9632;82;296;322;Sans anomalie apparente
-80409;Hallu;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;1693;32;69;143;Non vérifié
-80410;Ham;80;eau potable;136843;2021;74,9;5,6;16,6;68,3;conforme;78714;78714;49;138;4378;Sans anomalie apparente
-80411;Le Hamel;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;5824;32;69;492;Non vérifié
-80412;Hamelet;80;eau potable : DSP VAL DE SOMME (SUEZ);267254;2024;84,9;2,6;14,9;68,0;conforme;165344;6261;27;77;624;Non vérifié
-80414;Hangard;80;eau potable : DSP SUEZ;136979;2024;83,3;5,4;26,8;70,4;conforme;50182;974;23;187;115;Non vérifié
-80415;Hangest-en-Santerre;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;12157;32;69;1027;Non vérifié
-80416;Hangest-sur-Somme;80;eau potable;136988;2022;86,5;1,1;7,2;66,4;conforme;12671;4716;17;55;760;Sans anomalie apparente
-80417;Harbonnières;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;19414;32;69;1640;Non vérifié
-80418;Hardecourt-aux-Bois;80;eau potable;137026;2024;81,6;1,2;5,1;66,0;conforme;42885;1244;41;85;84;Non vérifié
-80420;Harponville;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;1974;32;81;170;Non vérifié
-80421;Hattencourt;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;1700;15;37;302;Non vérifié
-80422;Hautvillers-Ouville;80;eau potable : principal;137004;2024;62,6;3,2;5,4;66,1;non conforme;153405;13898;72;220;527;Non vérifié
-80423;Havernas;80;eau potable : ex-SIAEP DE LA RÉGION DE NAOURS;137002;2024;81,9;1,9;8,6;66,7;conforme;99628;4345;31;91;378;Non vérifié
-80424;Hébécourt;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;14949;71;165;576;Non vérifié
-80425;Hédauville;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;1231;32;81;106;Non vérifié
-80426;Heilly;80;eau potable : DSP VAL DE SOMME (SUEZ);267254;2024;84,9;2,6;14,9;68,0;conforme;165344;4395;27;77;438;Non vérifié
-80427;Hem-Hardinval;80;eau potable;210989;2024;75,6;3,1;9,6;66,9;conforme;205446;6220;49;121;347;Non vérifié
-80428;Hem-Monacu;80;eau potable;137026;2024;81,6;1,2;5,1;66,0;conforme;42885;2029;41;85;137;Non vérifié
-80429;Hénencourt;80;eau potable : DSP VAL DE SOMME (SUEZ);267254;2024;84,9;2,6;14,9;68,0;conforme;165344;1947;27;77;194;Non vérifié
-80430;Herbécourt;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;2107;32;69;178;Non vérifié
-80431;Hérissart;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;8873;32;81;764;Non vérifié
-80432;Herleville;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;2273;32;69;192;Non vérifié
-80433;Herly;80;eau potable;136972;2023;68,8;2,2;4,8;66,0;conforme;12246;759;55;169;38;Sans anomalie apparente
-80434;Hervilly;80;eau potable;137019;2024;88,6;1,2;9,0;66,8;conforme;23766;1167;17;92;184;Non vérifié
-80435;Hesbécourt;80;eau potable;137019;2024;88,6;1,2;9,0;66,8;conforme;23766;285;17;92;45;Non vérifié
-80436;Hescamps;80;eau potable;214799;2024;83,5;1,6;8,1;66,6;conforme;65408;6480;34;72;522;Non vérifié
-80437;Heucourt-Croquoison;80;eau potable;136848;2024;50,8;8,1;8,3;66,7;non conforme;10052;10052;255;355;108;Non vérifié
-80438;Heudicourt;80;eau potable;199397;2024;77,1;2,0;6,7;66,3;conforme;86045;7384;38;114;527;Non vérifié
-80439;Heuzecourt;80;eau potable : Régie;214800;2024;79,2;2,3;8,7;66,7;conforme;75555;2393;40;97;165;Non vérifié
-80440;Hiermont;80;eau potable;136984;2024;82,9;1,8;8,8;66,8;conforme;85830;2144;39;76;150;Non vérifié
-80442;Hombleux;80;eau potable : Esmery-Hallon;137022;2024;82,0;1,3;5,7;66,1;conforme;15013;8934;22;83;1111;Non vérifié
-80443;Hornoy-le-Bourg;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;38366;65;116;1622;Non vérifié
-80444;Huchenneville;80;eau potable;210987;2024;90,2;0,7;6,8;66,4;conforme;58254;3833;15;38;679;Non vérifié
-80445;Humbercourt;80;eau potable;148375;2024;85,8;1,1;6,6;66,3;conforme;3212;2216;25;61;247;Non vérifié
-80446;Huppy;80;eau potable;210987;2024;90,2;0,7;6,8;66,4;conforme;58254;4228;15;38;749;Non vérifié
-80449;Ignaucourt;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;769;32;69;65;Non vérifié
-80450;Inval-Boiron;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;2791;65;116;118;Non vérifié
-80451;Irles;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;1289;32;81;111;Non vérifié
-80452;Jumel;80;eau potable : REGIE CCALN;136951;2024;59,8;7,2;10,7;67,1;non conforme;147694;15385;79;249;532;Non vérifié
-80453;Laboissière-en-Santerre;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;754;15;37;134;Non vérifié
-80455;Lachapelle;80;eau potable;214799;2024;83,5;1,6;8,1;66,6;conforme;65408;1080;34;72;87;Non vérifié
-80456;Lafresguimont-Saint-Martin;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;13080;65;116;553;Non vérifié
-80458;Lahoussoye;80;eau potable;136987;2024;69,9;6,2;14,3;67,9;conforme;97309;13218;82;158;442;Non vérifié
-80459;Laleu;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;2318;65;116;98;Non vérifié
-80460;Lamaronde;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;1206;65;116;51;Non vérifié
-80461;Lamotte-Brebière;80;eau potable : DSP VAL DE SOMME (SUEZ);267254;2024;84,9;2,6;14,9;68,0;conforme;165344;2609;27;77;260;Non vérifié
-80462;Lamotte-Buleux;80;eau potable : principal;137004;2024;62,6;3,2;5,4;66,1;non conforme;153405;8650;72;220;328;Non vérifié
-80463;Lamotte-Warfusée;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;8582;32;69;725;Non vérifié
-80464;Lanchères;80;eau potable : SYNDICAT INTERCOMMUNAL DES EAUX DE PICARDIE;137006;2024;73,2;3,6;9,7;66,9;conforme;454263;16885;54;135;859;Non vérifié
-80465;Languevoisin-Quiquery;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;2273;32;69;192;Non vérifié
-80466;Lanches-Saint-Hilaire;80;eau potable : Régie;214800;2024;79,2;2,3;8,7;66,7;conforme;75555;1929;40;97;133;Non vérifié
-80467;Laucourt;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;1030;15;37;183;Non vérifié
-80468;Laviéville;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;1974;32;81;170;Non vérifié
-80469;Lawarde-Mauger-l'Hortoy;80;eau potable : DSP VEOLIA;137027;2024;77,8;1,8;6,4;66,3;conforme;15183;2185;39;103;154;Non vérifié
-80470;Léalvillers;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;1812;32;81;156;Non vérifié
-80472;Lesboeufs;80;eau potable;148391;2023;87,4;2,2;15,5;68,1;conforme;3212;2107;35;52;166;Sans anomalie apparente
-80473;Liancourt-Fosse;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;1644;15;37;292;Non vérifié
-80474;Licourt;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;4676;32;69;395;Non vérifié
-80475;Liéramont;80;eau potable;199397;2024;77,1;2,0;6,7;66,3;conforme;86045;3041;38;114;217;Non vérifié
-80476;Liercourt;80;eau potable;137008;2024;77,2;2,4;8,0;66,6;conforme;37633;3635;30;110;327;Non vérifié
-80477;Ligescourt;80;eau potable;136998;2024;78,6;3,0;10,9;67,2;conforme;454885;8885;109;136;223;Non vérifié
-80478;Lignières;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;799;15;37;142;Non vérifié
-80479;Lignières-Châtelain;80;eau potable;214799;2024;83,5;1,6;8,1;66,6;conforme;65408;4295;34;72;346;Non vérifié
-80480;Lignières-en-Vimeu;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;2555;65;116;108;Non vérifié
-80481;Lihons;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;5481;32;69;463;Non vérifié
-80482;Limeux;80;eau potable;136983;2024;84,2;1,2;6,2;66,2;conforme;24090;2482;48;71;142;Non vérifié
-80484;Liomer;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;8846;65;116;374;Non vérifié
-80485;Ô-de-Selle;80;eau potable;136995;2024;79,0;1,7;6,4;66,3;conforme;10232;4039;10;97;1148;Non vérifié
-80486;Long;80;eau potable;136855;2024;84,0;1,4;7,6;66,5;conforme;6433;6433;30;67;590;Non vérifié
-80487;Longavesnes;80;eau potable;199397;2024;77,1;2,0;6,7;66,3;conforme;86045;1079;38;114;77;Non vérifié
-80488;Longpré-les-Corps-Saints;80;eau potable : ex-SIAEP DE LA RÉGION DE LONGPRE-LES-CORPS-SAINTS;136996;2024;68,3;6,8;14,6;67,9;conforme;54604;31821;58;170;1500;Non vérifié
-80489;Longueau;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;147412;71;165;5680;Non vérifié
-80490;Longueval;80;eau potable;137026;2024;81,6;1,2;5,1;66,0;conforme;42885;4325;41;85;292;Non vérifié
-80491;Longuevillette;80;eau potable;136857;2024;93,3;0,8;11,3;67,3;conforme;333;333;14;26;67;Non vérifié
-80493;Louvencourt;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;3356;32;81;289;Non vérifié
-80494;Louvrechy;80;eau potable : ex-SIAEP DU PLATEAU SUD D'AILLY SUR NOYE;137059;2024;53,2;5,4;6,1;66,2;non conforme;210897;7237;101;321;197;Non vérifié
-80495;Lucheux;80;eau potable;210986;2024;67,2;2,9;5,8;66,2;conforme;29903;11081;58;181;521;Non vérifié
-80496;Machiel;80;eau potable;136998;2024;78,6;3,0;10,9;67,2;conforme;454885;6016;109;136;151;Non vérifié
-80497;Machy;80;eau potable;136998;2024;78,6;3,0;10,9;67,2;conforme;454885;4662;109;136;117;Non vérifié
-80498;Mailly-Maillet;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;7293;32;81;628;Non vérifié
-80499;Mailly-Raineval;80;eau potable : REGIE CCALN;136951;2024;59,8;7,2;10,7;67,1;non conforme;147694;8387;79;249;290;Non vérifié
-80500;Maisnières;80;eau potable;210987;2024;90,2;0,7;6,8;66,4;conforme;58254;2664;15;38;472;Non vérifié
-80501;Maison-Ponthieu;80;eau potable;136984;2024;82,9;1,8;8,8;66,8;conforme;85830;4001;39;76;280;Non vérifié
-80502;Maison-Roland;80;eau potable;136969;2024;78,2;2,7;9,5;66,9;conforme;69714;1479;42;103;97;Non vérifié
-80503;Maizicourt;80;eau potable;136860;2024;89,0;2,6;21,2;69,2;conforme;2790;2790;42;45;182;Non vérifié
-80504;Malpart;80;eau potable : ex-SIAEP DU PLATEAU SUD D'AILLY SUR NOYE;137059;2024;53,2;5,4;6,1;66,2;non conforme;210897;2571;101;321;70;Non vérifié
-80505;Carnoy-Mametz;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;2961;32;81;255;Non vérifié
-80507;Marcelcave;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;15413;32;69;1302;Non vérifié
-80508;Marché-Allouarde;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;604;32;69;51;Non vérifié
-80509;Marchélepot-Misery;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;6807;32;69;575;Non vérifié
-80511;Marestmontiers;80;eau potable : ex-SIAEP DES TROIS DOMS;137016;2024;50,0;15,3;16,3;68,3;non calculable;41884;9412;215;343;120;Non vérifié
-80512;Mareuil-Caubert;80;eau potable;210987;2024;90,2;0,7;6,8;66,4;conforme;58254;4742;15;38;840;Non vérifié
-80513;Maricourt;80;eau potable : CC du pays du coquelicot DSP Saur;241514;2024;83,7;2,0;10,1;67,0;conforme;282408;19750;294;81;184;Non vérifié
-80514;Marieux;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;1487;32;81;128;Non vérifié
-80515;Marlers;80;eau potable;136864;2024;100,0;0,0;8,6;66,7;conforme;0;0;0;0;149;Non vérifié
-80516;Marquaix;80;eau potable;137019;2024;88,6;1,2;9,0;66,8;conforme;23766;1205;17;92;190;Non vérifié
-80517;Marquivillers;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;1064;15;37;189;Non vérifié
-80518;Martainneville;80;eau potable;210987;2024;90,2;0,7;6,8;66,4;conforme;58254;2314;15;38;410;Non vérifié
-80519;Matigny;80;eau potable;218462;2024;99,8;0,0;9,8;67,0;conforme;0;0;0;0;505;Non vérifié
-80520;Maucourt;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;2427;32;69;205;Non vérifié
-80521;Maurepas;80;eau potable;137026;2024;81,6;1,2;5,1;66,0;conforme;42885;3200;41;85;216;Non vérifié
-80522;Le Mazis;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;2531;65;116;107;Non vérifié
-80523;Méaulte;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;14923;32;81;1285;Non vérifié
-80524;Méharicourt;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;6463;32;69;546;Non vérifié
-80525;Meigneux;80;eau potable;214799;2024;83,5;1,6;8,1;66,6;conforme;65408;2272;34;72;183;Non vérifié
-80526;Le Meillard;80;eau potable : Régie;214800;2024;79,2;2,3;8,7;66,7;conforme;75555;2233;40;97;154;Non vérifié
-80527;Méneslies;80;eau potable : SYNDICAT INTERCOMMUNAL DES EAUX DE PICARDIE;137006;2024;73,2;3,6;9,7;66,9;conforme;454263;5858;54;135;298;Non vérifié
-80528;Méréaucourt;80;eau potable;214799;2024;83,5;1,6;8,1;66,6;conforme;65408;112;34;72;9;Non vérifié
-80529;Mérélessart;80;eau potable;136983;2024;84,2;1,2;6,2;66,2;conforme;24090;3199;48;71;183;Non vérifié
-80530;Méricourt-l'Abbé;80;eau potable : DSP VAL DE SOMME (SUEZ);267254;2024;84,9;2,6;14,9;68,0;conforme;165344;5890;27;77;587;Non vérifié
-80531;Méricourt-en-Vimeu;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;2507;65;116;106;Non vérifié
-80533;Mers-les-Bains;80;eau potable : syndicat;93094;2024;69,7;7,3;16,9;68,4;conforme;330265;59076;64;158;2540;Non vérifié
-80535;Le Mesge;80;eau potable;136988;2022;86,5;1,1;7,2;66,4;conforme;12671;894;17;55;144;Sans anomalie apparente
-80536;Mesnil-Bruntel;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;3433;32;69;290;Non vérifié
-80537;Mesnil-Domqueur;80;eau potable : Régie;214800;2024;79,2;2,3;8,7;66,7;conforme;75555;1276;40;97;88;Non vérifié
-80538;Mesnil-en-Arrouaise;80;eau potable;137026;2024;81,6;1,2;5,1;66,0;conforme;42885;1555;41;85;105;Non vérifié
-80540;Mesnil-Martinsart;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;2752;32;81;237;Non vérifié
-80541;Mesnil-Saint-Georges;80;eau potable : ex-SIAEP DU PLATEAU SUD D'AILLY SUR NOYE;137059;2024;53,2;5,4;6,1;66,2;non conforme;210897;7972;101;321;217;Non vérifié
-80542;Mesnil-Saint-Nicaise;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;6736;32;69;569;Non vérifié
-80543;Métigny;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;2886;65;116;122;Non vérifié
-80544;Mézerolles;80;eau potable;210989;2024;75,6;3,1;9,6;66,9;conforme;205446;3298;49;121;184;Non vérifié
-80545;Mézières-en-Santerre;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;6167;32;69;521;Non vérifié
-80546;Miannay;80;eau potable;210987;2024;90,2;0,7;6,8;66,4;conforme;58254;3409;15;38;604;Non vérifié
-80547;Millencourt;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;2346;32;81;202;Non vérifié
-80548;Millencourt-en-Ponthieu;80;eau potable;136984;2024;82,9;1,8;8,8;66,8;conforme;85830;4816;39;76;337;Non vérifié
-80549;Miraumont;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;7200;32;81;620;Non vérifié
-80550;Mirvaux;80;eau potable : ex-SIAEP DE RUBEMPRE - PIERREGOT - MIRVAUX et MOLLIENS AU BOIS;137010;2024;88,8;1,2;9,8;67,0;conforme;11826;973;22;67;121;Non vérifié
-80552;Moislains;80;eau potable;136870;2024;100,0;0,0;19,0;68,8;conforme;0;0;0;0;1109;Non vérifié
-80553;Molliens-au-Bois;80;eau potable : ex-SIAEP DE RUBEMPRE - PIERREGOT - MIRVAUX et MOLLIENS AU BOIS;137010;2024;88,8;1,2;9,8;67,0;conforme;11826;2808;22;67;349;Non vérifié
-80554;Molliens-Dreuil;80;eau potable;210990;2024;84,9;2,7;15,1;68,0;conforme;50408;15414;46;126;921;Non vérifié
-80555;Monchy-Lagache;80;eau potable;218462;2024;99,8;0,0;9,8;67,0;conforme;0;0;0;0;593;Non vérifié
-80556;Mons-Boubert;80;eau potable;209376;2024;79,9;1,4;5,4;66,1;conforme;64897;5880;28;94;585;Non vérifié
-80558;Monsures;80;eau potable;137005;2024;89,0;1,8;14,3;67,9;conforme;20919;1974;25;74;216;Non vérifié
-80559;Montagne-Fayel;80;eau potable;136873;2024;79,0;4,0;14,9;68,0;conforme;4482;4482;84;98;146;Non vérifié
-80560;Montauban-de-Picardie;80;eau potable : CC du pays du coquelicot DSP Saur;241514;2024;83,7;2,0;10,1;67,0;conforme;282408;23292;294;81;217;Non vérifié
-80561;Montdidier;80;eau potable;136874;2024;69,4;7,0;15,9;68,2;conforme;137714;137714;64;167;5935;Non vérifié
-80562;Montigny-sur-l'Hallue;80;eau potable;136987;2024;69,9;6,2;14,3;67,9;conforme;97309;5233;82;158;175;Non vérifié
-80563;Montigny-les-Jongleurs;80;eau potable : Régie;214800;2024;79,2;2,3;8,7;66,7;conforme;75555;1479;40;97;102;Non vérifié
-80565;Montonvillers;80;eau potable : ex-SIAEP DE LA RÉGION DE NAOURS;137002;2024;81,9;1,9;8,6;66,7;conforme;99628;1069;31;91;93;Non vérifié
-80566;Fieffes-Montrelet;80;eau potable : Régie;214800;2024;79,2;2,3;8,7;66,7;conforme;75555;4916;40;97;339;Non vérifié
-80568;Morchain;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;4285;32;69;362;Non vérifié
-80569;Morcourt;80;eau potable : DSP VAL DE SOMME (SUEZ);267254;2024;84,9;2,6;14,9;68,0;conforme;165344;3281;27;77;327;Non vérifié
-80570;Moreuil;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;46593;32;69;3936;Non vérifié
-80571;Morisel;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;5552;32;69;469;Non vérifié
-80572;Morlancourt;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;4436;32;81;382;Non vérifié
-80573;Morvillers-Saint-Saturnin;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;8799;65;116;372;Non vérifié
-80574;Mouflers;80;eau potable;136973;2020;74,1;3,7;10,6;67,1;conforme;40515;2289;65;128;96;Sans anomalie apparente
-80575;Mouflières;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;1774;65;116;75;Non vérifié
-80576;Moyencourt;80;eau potable;136880;2024;70,4;3,7;8,7;66,7;conforme;5942;5942;52;154;314;Non vérifié
-80577;Moyencourt-lès-Poix;80;eau potable;136881;2024;96,2;0,3;8,1;66,6;conforme;471;471;8;13;165;Non vérifié
-80578;Moyenneville;80;eau potable;210987;2024;90,2;0,7;6,8;66,4;conforme;58254;3912;15;38;693;Non vérifié
-80579;Muille-Villette;80;eau potable : Eppeville, Brouchy, Muille-Villette;136975;2024;92,3;0,9;10,1;67,0;conforme;12910;3409;12;32;789;Non vérifié
-80580;Nampont;80;eau potable;136998;2024;78,6;3,0;10,9;67,2;conforme;454885;10399;109;136;261;Non vérifié
-80582;Namps-Maisnil;80;eau potable;136882;2024;79,1;2,8;10,7;67,1;conforme;10384;10384;28;96;1013;Non vérifié
-80583;Nampty;80;eau potable;136884;2024;96,4;0,5;13,7;67,7;conforme;730;730;7;13;277;Non vérifié
-80584;Naours;80;eau potable : ex-SIAEP DE LA RÉGION DE NAOURS;137002;2024;81,9;1,9;8,6;66,7;conforme;99628;12035;31;91;1047;Non vérifié
-80585;Nesle;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;27037;32;69;2284;Non vérifié
-80586;Nesle-l'Hôpital;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;4116;65;116;174;Non vérifié
-80587;Neslette;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;2105;65;116;89;Non vérifié
-80588;Neufmoulin;80;eau potable;136969;2024;78,2;2,7;9,5;66,9;conforme;69714;5611;42;103;368;Non vérifié
-80589;Neuilly-le-Dien;80;eau potable;136984;2024;82,9;1,8;8,8;66,8;conforme;85830;1515;39;76;106;Non vérifié
-80590;Neuilly-l'Hôpital;80;eau potable : principal;137004;2024;62,6;3,2;5,4;66,1;non conforme;153405;8808;72;220;334;Non vérifié
-80591;Neuville-au-Bois;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;3406;65;116;144;Non vérifié
-80592;Neuville-Coppegueule;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;12040;65;116;509;Non vérifié
-80593;La Neuville-lès-Bray;80;eau potable : CC du pays du coquelicot DSP Saur;241514;2024;83,7;2,0;10,1;67,0;conforme;282408;28230;294;81;263;Non vérifié
-80595;La Neuville-Sire-Bernard;80;eau potable;137007;2024;88,5;1,5;11,5;67,3;conforme;13906;1878;20;48;263;Non vérifié
-80596;Neuvillette;80;eau potable;210989;2024;75,6;3,1;9,6;66,9;conforme;205446;3800;49;121;212;Non vérifié
-80597;Nibas;80;eau potable;209376;2024;79,9;1,4;5,4;66,1;conforme;64897;8322;28;94;828;Non vérifié
-80598;Nouvion;80;eau potable : principal;137004;2024;62,6;3,2;5,4;66,1;non conforme;153405;31541;72;220;1196;Non vérifié
-80599;Noyelles-en-Chaussée;80;eau potable;136984;2024;82,9;1,8;8,8;66,8;conforme;85830;3458;39;76;242;Non vérifié
-80600;Noyelles-sur-Mer;80;eau potable : principal;137004;2024;62,6;3,2;5,4;66,1;non conforme;153405;16773;72;220;636;Non vérifié
-80601;Nurlu;80;eau potable;199397;2024;77,1;2,0;6,7;66,3;conforme;86045;5226;38;114;373;Non vérifié
-80602;Occoches;80;eau potable;210989;2024;75,6;3,1;9,6;66,9;conforme;205446;2169;49;121;121;Non vérifié
-80603;Ochancourt;80;eau potable;209376;2024;79,9;1,4;5,4;66,1;conforme;64897;3236;28;94;322;Non vérifié
-80604;Offignies;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;1963;65;116;83;Non vérifié
-80606;Oisemont;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;26658;65;116;1127;Non vérifié
-80607;Oissy;80;eau potable;210990;2024;84,9;2,7;15,1;68,0;conforme;50408;3448;46;126;206;Non vérifié
-80609;Oneux;80;eau potable;136969;2024;78,2;2,7;9,5;66,9;conforme;69714;6618;42;103;434;Non vérifié
-80611;Oresmaux;80;eau potable;137005;2024;89,0;1,8;14,3;67,9;conforme;20919;9121;25;74;998;Non vérifié
-80613;Oust-Marest;80;eau potable : SYNDICAT INTERCOMMUNAL DES EAUX DE PICARDIE;137006;2024;73,2;3,6;9,7;66,9;conforme;454263;11951;54;135;608;Non vérifié
-80614;Outrebois;80;eau potable;210989;2024;75,6;3,1;9,6;66,9;conforme;205446;5611;49;121;313;Non vérifié
-80615;Ovillers-la-Boisselle;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;5005;32;81;431;Non vérifié
-80616;Pargny;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;2344;32;69;198;Non vérifié
-80617;Parvillers-le-Quesnoy;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;1374;15;37;244;Non vérifié
-80618;Pendé;80;eau potable : SYNDICAT INTERCOMMUNAL DES EAUX DE PICARDIE;137006;2024;73,2;3,6;9,7;66,9;conforme;454263;20148;54;135;1025;Non vérifié
-80619;Pernois;80;eau potable;137003;2023;63,4;9,5;16,5;68,3;non conforme;209125;20521;82;296;686;Sans anomalie apparente
-80620;Péronne;80;eau potable;136895;2024;92,7;2,7;34,3;71,9;conforme;68000;68000;26;36;7090;Non vérifié
-80621;Hypercourt;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;8038;32;69;679;Non vérifié
-80622;Picquigny;80;eau potable;214797;2024;70,8;7,8;18,8;68,8;conforme;44812;28928;62;151;1273;Non vérifié
-80623;Piennes-Onvillers;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;2201;15;37;391;Non vérifié
-80624;Pierregot;80;eau potable : ex-SIAEP DE RUBEMPRE - PIERREGOT - MIRVAUX et MOLLIENS AU BOIS;137010;2024;88,8;1,2;9,8;67,0;conforme;11826;2253;22;67;280;Non vérifié
-80625;Trois-Rivières;80;eau potable;137007;2024;88,5;1,5;11,5;67,3;conforme;13906;10580;20;48;1482;Non vérifié
-80626;Pissy;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;7371;71;165;284;Non vérifié
-80628;Le Plessier-Rozainvillers;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;8914;32;69;753;Non vérifié
-80629;Poeuilly;80;eau potable;137019;2024;88,6;1,2;9,0;66,8;conforme;23766;679;17;92;107;Non vérifié
-80630;Poix-de-Picardie;80;eau potable;214799;2024;83,5;1,6;8,1;66,6;conforme;65408;28328;34;72;2282;Non vérifié
-80631;Ponches-Estruval;80;eau potable;136984;2024;82,9;1,8;8,8;66,8;conforme;85830;1815;39;76;127;Non vérifié
-80632;Pont-de-Metz;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;62935;71;165;2425;Non vérifié
-80633;Ponthoile;80;eau potable;136998;2024;78,6;3,0;10,9;67,2;conforme;454885;22431;109;136;563;Non vérifié
-80634;Pont-Noyelles;80;eau potable : DSP VAL DE SOMME (SUEZ);267254;2024;84,9;2,6;14,9;68,0;conforme;165344;8288;27;77;826;Non vérifié
-80635;Pont-Remy;80;eau potable;137008;2024;77,2;2,4;8,0;66,6;conforme;37633;15987;30;110;1438;Non vérifié
-80637;Port-le-Grand;80;eau potable : principal;137004;2024;62,6;3,2;5,4;66,1;non conforme;153405;7068;72;220;268;Non vérifié
-80638;Potte;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;1314;32;69;111;Non vérifié
-80639;Poulainville;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;34647;71;165;1335;Non vérifié
-80640;Pozières;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;3054;32;81;263;Non vérifié
-80642;Prouville;80;eau potable : Régie;214800;2024;79,2;2,3;8,7;66,7;conforme;75555;4409;40;97;304;Non vérifié
-80643;Prouzel;80;eau potable;136902;2024;94,4;0,7;11,8;67,4;conforme;1145;1145;5;22;572;Non vérifié
-80644;Proyart;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;9009;32;69;761;Non vérifié
-80645;Puchevillers;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;6643;32;81;572;Non vérifié
-80646;Punchy;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;935;32;69;79;Non vérifié
-80647;Puzeaux;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;3291;32;69;278;Non vérifié
-80648;Pys;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;1452;32;81;125;Non vérifié
-80649;Quend;80;eau potable;136998;2024;78,6;3,0;10,9;67,2;conforme;454885;50999;109;136;1280;Non vérifié
-80650;Querrieu;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;16246;71;165;626;Non vérifié
-80651;Le Quesne;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;5511;65;116;233;Non vérifié
-80652;Le Quesnel;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;9044;32;69;764;Non vérifié
-80654;Quesnoy-le-Montant;80;eau potable;209376;2024;79,9;1,4;5,4;66,1;conforme;64897;5166;28;94;514;Non vérifié
-80655;Quesnoy-sur-Airaines;80;eau potable;136908;2024;75,6;2,5;7,8;66,6;conforme;5521;5521;35;117;427;Non vérifié
-80656;Quevauvillers;80;eau potable;136909;2024;92,2;0,8;8,8;66,8;conforme;3971;3971;10;33;1102;Non vérifié
-80657;Quiry-le-Sec;80;eau potable : ex-SIAEP DU PLATEAU SUD D'AILLY SUR NOYE;137059;2024;53,2;5,4;6,1;66,2;non conforme;210897;11425;101;321;311;Non vérifié
-80658;Quivières;80;eau potable;218462;2024;99,8;0,0;9,8;67,0;conforme;0;0;0;0;139;Non vérifié
-80659;Raincheval;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;3124;32;81;269;Non vérifié
-80661;Rainneville;80;eau potable : Rainneville;136912;2024;91,6;1,3;13,8;67,8;conforme;4745;4745;12;34;1123;Non vérifié
-80662;Ramburelles;80;eau potable;210987;2024;90,2;0,7;6,8;66,4;conforme;58254;1479;15;38;262;Non vérifié
-80663;Rambures;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;8965;65;116;379;Non vérifié
-80664;Rancourt;80;eau potable;137026;2024;81,6;1,2;5,1;66,0;conforme;42885;2785;41;85;188;Non vérifié
-80665;Regnière-Écluse;80;eau potable;136998;2024;78,6;3,0;10,9;67,2;conforme;454885;5538;109;136;139;Non vérifié
-80666;Remaisnil;80;eau potable;210989;2024;75,6;3,1;9,6;66,9;conforme;205446;502;49;121;28;Non vérifié
-80667;Remaugies;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;771;15;37;137;Non vérifié
-80668;Remiencourt;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;4256;71;165;164;Non vérifié
-80669;Rethonvillers;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;4096;32;69;346;Non vérifié
-80670;Revelles;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;13755;71;165;530;Non vérifié
-80671;Ribeaucourt;80;eau potable : Régie;214800;2024;79,2;2,3;8,7;66,7;conforme;75555;3234;40;97;223;Non vérifié
-80672;Ribemont-sur-Ancre;80;eau potable : DSP VAL DE SOMME (SUEZ);267254;2024;84,9;2,6;14,9;68,0;conforme;165344;6111;27;77;609;Non vérifié
-80673;Riencourt;80;eau potable;210990;2024;84,9;2,7;15,1;68,0;conforme;50408;3029;46;126;181;Non vérifié
-80674;Rivery;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;94364;71;165;3636;Non vérifié
-80675;Rogy;80;eau potable;137005;2024;89,0;1,8;14,3;67,9;conforme;20919;1362;25;74;149;Non vérifié
-80676;Roiglise;80;eau potable;167744;2024;77,3;1,6;5,6;66,1;conforme;98457;1840;33;105;152;Non vérifié
-80677;Roisel;80;eau potable;199397;2024;77,1;2,0;6,7;66,3;conforme;86045;22783;38;114;1626;Non vérifié
-80678;Rollot;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;4250;15;37;755;Non vérifié
-80679;Ronssoy;80;eau potable;199397;2024;77,1;2,0;6,7;66,3;conforme;86045;8085;38;114;577;Non vérifié
-80680;Rosières-en-Santerre;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;34259;32;69;2894;Non vérifié
-80681;Rouvrel;80;eau potable : ex-SIAEP DU PLATEAU SUD D'AILLY SUR NOYE;137059;2024;53,2;5,4;6,1;66,2;non conforme;210897;11168;101;321;304;Non vérifié
-80682;Rouvroy-en-Santerre;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;2474;32;69;209;Non vérifié
-80683;Rouy-le-Grand;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;1184;32;69;100;Non vérifié
-80684;Rouy-le-Petit;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;1196;32;69;101;Non vérifié
-80685;Roye;80;eau potable;136916;2024;85,8;3,5;21,1;69,2;conforme;63760;63760;30;62;5833;Non vérifié
-80686;Rubempré;80;eau potable : ex-SIAEP DE RUBEMPRE - PIERREGOT - MIRVAUX et MOLLIENS AU BOIS;137010;2024;88,8;1,2;9,8;67,0;conforme;11826;5792;22;67;720;Non vérifié
-80687;Rubescourt;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;726;15;37;129;Non vérifié
-80688;Rue;80;eau potable;136918;2024;58,7;7,4;10,6;67,1;non conforme;113442;113442;104;256;2987;Non vérifié
-80690;Rumigny;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;15909;71;165;613;Non vérifié
-80691;Saigneville;80;eau potable;209376;2024;79,9;1,4;5,4;66,1;conforme;64897;3457;28;94;344;Non vérifié
-80692;Sailly-Flibeaucourt;80;eau potable;137011;2024;87,9;2,2;15,8;68,2;conforme;9732;7290;20;73;991;Non vérifié
-80693;Sailly-Laurette;80;eau potable : DSP VAL DE SOMME (SUEZ);267254;2024;84,9;2,6;14,9;68,0;conforme;165344;3341;27;77;333;Non vérifié
-80694;Sailly-le-Sec;80;eau potable : DSP VAL DE SOMME (SUEZ);267254;2024;84,9;2,6;14,9;68,0;conforme;165344;3522;27;77;351;Non vérifié
-80695;Sailly-Saillisel;80;eau potable;137026;2024;81,6;1,2;5,1;66,0;conforme;42885;6947;41;85;469;Non vérifié
-80696;Sains-en-Amiénois;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;30806;71;165;1187;Non vérifié
-80697;Saint-Acheul;80;eau potable : Régie;214800;2024;79,2;2,3;8,7;66,7;conforme;75555;522;40;97;36;Non vérifié
-80698;Saint-Aubin-Montenoy;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;5156;65;116;218;Non vérifié
-80699;Saint-Aubin-Rivière;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;2744;65;116;116;Non vérifié
-80700;Saint-Blimont;80;eau potable : SYNDICAT INTERCOMMUNAL DES EAUX DE PICARDIE;137006;2024;73,2;3,6;9,7;66,9;conforme;454263;17357;54;135;883;Non vérifié
-80701;Saint-Christ-Briost;80;eau potable;218462;2024;99,8;0,0;9,8;67,0;conforme;0;0;0;0;425;Non vérifié
-80702;Saint-Fuscien;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;36567;71;165;1409;Non vérifié
-80703;Saint-Germain-sur-Bresle;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;5298;65;116;224;Non vérifié
-80704;Saint-Gratien;80;eau potable : Saint-Gratien;136922;2024;82,5;3,0;14,2;67,8;conforme;4380;4380;31;77;383;Non vérifié
-80705;Saint-Léger-lès-Authie;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;917;32;81;79;Non vérifié
-80706;Saint-Léger-lès-Domart;80;eau potable;137003;2023;63,4;9,5;16,5;68,3;non conforme;209125;54113;82;296;1809;Sans anomalie apparente
-80707;Saint-Léger-sur-Bresle;80;eau potable;92997;2024;66,7;3,2;6,4;66,3;conforme;30368;1988;68;184;80;Non vérifié
-80708;Saint-Mard;80;eau potable;136924;2021;100,0;0,0;11,4;67,3;conforme;0;0;0;0;155;Sans anomalie apparente
-80709;Saint-Maulvis;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;6599;65;116;279;Non vérifié
-80710;Saint-Maxent;80;eau potable;210987;2024;90,2;0,7;6,8;66,4;conforme;58254;2201;15;38;390;Non vérifié
-80711;Saint-Ouen;80;eau potable;137003;2023;63,4;9,5;16,5;68,3;non conforme;209125;53007;82;296;1772;Sans anomalie apparente
-80713;Saint-Quentin-en-Tourmont;80;eau potable;136998;2024;78,6;3,0;10,9;67,2;conforme;454885;12033;109;136;302;Non vérifié
-80714;Saint-Quentin-la-Motte-Croix-au-Bailly;80;eau potable : SYNDICAT INTERCOMMUNAL DES EAUX DE PICARDIE;137006;2024;73,2;3,6;9,7;66,9;conforme;454263;24610;54;135;1252;Non vérifié
-80716;Saint-Riquier;80;eau potable;136969;2024;78,2;2,7;9,5;66,9;conforme;69714;19502;42;103;1279;Non vérifié
-80717;Saint-Sauflieu;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;25330;71;165;976;Non vérifié
-80718;Saint-Sauveur;80;eau potable;136928;2024;79,2;6,2;23,7;69,7;conforme;16656;16656;34;95;1344;Non vérifié
-80719;Sainte-Segrée;80;eau potable;214799;2024;83,5;1,6;8,1;66,6;conforme;65408;583;34;72;47;Non vérifié
-80721;Saint-Valery-sur-Somme;80;eau potable;344614;2024;83,6;3,5;17,8;68,6;conforme;48175;48175;57;72;2306;Non vérifié
-80722;Saint-Vaast-en-Chaussée;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;13080;71;165;504;Non vérifié
-80723;Saisseval;80;eau potable;137041;2024;87,8;1,3;9,5;66,9;conforme;6909;2479;26;50;263;Non vérifié
-80724;Saleux;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;71085;71;165;2739;Non vérifié
-80725;Salouël;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;108457;71;165;4179;Non vérifié
-80726;Sancourt;80;eau potable;136932;2024;90,7;0,4;3,8;65,8;conforme;1188;1188;12;41;269;Non vérifié
-80728;Saulchoy-sous-Poix;80;eau potable;214799;2024;83,5;1,6;8,1;66,6;conforme;65408;919;34;72;74;Non vérifié
-80729;Sauvillers-Mongival;80;eau potable : REGIE CCALN;136951;2024;59,8;7,2;10,7;67,1;non conforme;147694;5148;79;249;178;Non vérifié
-80730;Saveuse;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;28444;71;165;1096;Non vérifié
-80732;Senarpont;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;14736;65;116;623;Non vérifié
-80733;Senlis-le-Sec;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;3763;32;81;324;Non vérifié
-80734;Sentelie;80;eau potable;137012;2024;82,2;1,8;8,3;66,7;conforme;9592;4073;51;90;217;Non vérifié
-80735;Seux;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;4204;71;165;162;Non vérifié
-80736;Sorel-en-Vimeu;80;eau potable;136986;2024;83,8;2,2;11,2;67,2;conforme;22709;2197;26;71;235;Non vérifié
-80737;Sorel;80;eau potable;199397;2024;77,1;2,0;6,7;66,3;conforme;86045;2270;38;114;162;Non vérifié
-80738;Soues;80;eau potable;136988;2022;86,5;1,1;7,2;66,4;conforme;12671;769;17;55;124;Sans anomalie apparente
-80740;Sourdon;80;eau potable : ex-SIAEP DU PLATEAU SUD D'AILLY SUR NOYE;137059;2024;53,2;5,4;6,1;66,2;non conforme;210897;10580;101;321;288;Non vérifié
-80741;Soyécourt;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;2202;32;69;186;Non vérifié
-80742;Surcamps;80;eau potable;136973;2020;74,1;3,7;10,6;67,1;conforme;40515;2003;65;128;84;Sans anomalie apparente
-80743;Suzanne;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;2207;32;81;190;Non vérifié
-80744;Tailly;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;1372;65;116;58;Non vérifié
-80746;Talmas;80;eau potable : ex-SIAEP DE LA RÉGION DE NAOURS;137002;2024;81,9;1,9;8,6;66,7;conforme;99628;12472;31;91;1085;Non vérifié
-80747;Templeux-la-Fosse;80;eau potable;199397;2024;77,1;2,0;6,7;66,3;conforme;86045;1948;38;114;139;Non vérifié
-80748;Templeux-le-Guérard;80;eau potable;199397;2024;77,1;2,0;6,7;66,3;conforme;86045;2774;38;114;198;Non vérifié
-80749;Terramesnil;80;eau potable;210989;2024;75,6;3,1;9,6;66,9;conforme;205446;5790;49;121;323;Non vérifié
-80750;Tertry;80;eau potable;218462;2024;99,8;0,0;9,8;67,0;conforme;0;0;0;0;145;Non vérifié
-80751;Thennes;80;eau potable : DSP SUEZ;136979;2024;83,3;5,4;26,8;70,4;conforme;50182;4674;23;187;552;Non vérifié
-80752;Thézy-Glimont;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;17155;71;165;661;Non vérifié
-80753;Thiepval;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;1440;32;81;124;Non vérifié
-80754;Thieulloy-l'Abbaye;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;8988;65;116;380;Non vérifié
-80755;Thieulloy-la-Ville;80;eau potable;214799;2024;83,5;1,6;8,1;66,6;conforme;65408;1750;34;72;141;Non vérifié
-80756;Thièvres;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;627;32;81;54;Non vérifié
-80757;Thoix;80;eau potable;137012;2024;82,2;1,8;8,3;66,7;conforme;9592;2759;51;90;147;Non vérifié
-80758;Thory;80;eau potable : ex-SIAEP DU PLATEAU SUD D'AILLY SUR NOYE;137059;2024;53,2;5,4;6,1;66,2;non conforme;210897;7604;101;321;207;Non vérifié
-80759;Tilloloy;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;1790;15;37;318;Non vérifié
-80760;Tilloy-Floriville;80;eau potable;210987;2024;90,2;0,7;6,8;66,4;conforme;58254;1993;15;38;353;Non vérifié
-80762;Tincourt-Boucly;80;eau potable;137019;2024;88,6;1,2;9,0;66,8;conforme;23766;2118;17;92;334;Non vérifié
-80763;Le Titre;80;eau potable;137011;2024;87,9;2,2;15,8;68,2;conforme;9732;2442;20;73;332;Non vérifié
-80764;Toeufles;80;eau potable : SIAEP D' AIGNEVILLE;136959;2024;99,8;0,0;8,6;66,7;conforme;0;0;0;0;308;Non vérifié
-80765;Tours-en-Vimeu;80;eau potable : SIAEP D' AIGNEVILLE;136959;2024;99,8;0,0;8,6;66,7;conforme;0;0;0;0;805;Non vérifié
-80766;Toutencourt;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;5052;32;81;435;Non vérifié
-80767;Le Translay;80;eau potable;210987;2024;90,2;0,7;6,8;66,4;conforme;58254;1321;15;38;234;Non vérifié
-80769;Treux;80;eau potable : DSP VAL DE SOMME (SUEZ);267254;2024;84,9;2,6;14,9;68,0;conforme;165344;2208;27;77;220;Non vérifié
-80770;Tully;80;eau potable : SYNDICAT INTERCOMMUNAL DES EAUX DE PICARDIE;137006;2024;73,2;3,6;9,7;66,9;conforme;454263;10791;54;135;549;Non vérifié
-80771;Ugny-l'Équipée;80;eau potable : SAE vallée Omignon-régie-P,T,D;124515;2024;67,6;3,5;7,2;66,4;conforme;146580;623;59;177;29;Non vérifié
-80773;Vadencourt;80;eau potable;136987;2024;69,9;6,2;14,3;67,9;conforme;97309;2931;82;158;98;Non vérifié
-80774;Vaire-sous-Corbie;80;eau potable : DSP VAL DE SOMME (SUEZ);267254;2024;84,9;2,6;14,9;68,0;conforme;165344;2890;27;77;288;Non vérifié
-80775;Valines;80;eau potable;209376;2024;79,9;1,4;5,4;66,1;conforme;64897;6583;28;94;655;Non vérifié
-80776;Varennes;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;2578;32;81;222;Non vérifié
-80777;Vauchelles-lès-Authie;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;1533;32;81;132;Non vérifié
-80778;Vauchelles-lès-Domart;80;eau potable;136973;2020;74,1;3,7;10,6;67,1;conforme;40515;2862;65;128;120;Sans anomalie apparente
-80779;Vauchelles-les-Quesnoy;80;eau potable : ex-SIAEP DE VAUCHELLES LES QUESNOY - BELLANCOURT;137017;2024;97,8;0,2;10,7;67,1;conforme;1134;706;2;7;815;Non vérifié
-80780;Vaudricourt;80;eau potable : SYNDICAT INTERCOMMUNAL DES EAUX DE PICARDIE;137006;2024;73,2;3,6;9,7;66,9;conforme;454263;8138;54;135;414;Non vérifié
-80781;Vauvillers;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;2758;32;69;233;Non vérifié
-80782;Vaux-en-Amiénois;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;11523;71;165;444;Non vérifié
-80783;Vaux-Marquenneville;80;eau potable;136983;2024;84,2;1,2;6,2;66,2;conforme;24090;1381;48;71;79;Non vérifié
-80784;Vaux-sur-Somme;80;eau potable : DSP VAL DE SOMME (SUEZ);267254;2024;84,9;2,6;14,9;68,0;conforme;165344;2689;27;77;268;Non vérifié
-80785;Vecquemont;80;eau potable : DSP VAL DE SOMME (SUEZ);267254;2024;84,9;2,6;14,9;68,0;conforme;165344;5328;27;77;531;Non vérifié
-80786;Velennes;80;eau potable;137052;2024;89,9;0,8;7,5;66,5;conforme;1168;568;11;39;141;Non vérifié
-80787;Vercourt;80;eau potable;136998;2024;78,6;3,0;10,9;67,2;conforme;454885;3865;109;136;97;Non vérifié
-80788;Vergies;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;4116;65;116;174;Non vérifié
-80789;Vermandovillers;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;1740;32;69;147;Non vérifié
-80790;Verpillières;80;eau potable;136942;2021;94,1;0,6;10,3;67,1;conforme;705;705;12;21;168;Sans anomalie apparente
-80791;Vers-sur-Selles;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;24110;71;165;929;Non vérifié
-80792;La Vicogne;80;eau potable : ex-SIAEP DE LA RÉGION DE NAOURS;137002;2024;81,9;1,9;8,6;66,7;conforme;99628;2770;31;91;241;Non vérifié
-80793;Vignacourt;80;eau potable : ex-SIAEP DE LA RÉGION DE NAOURS;137002;2024;81,9;1,9;8,6;66,7;conforme;99628;26013;31;91;2263;Non vérifié
-80794;Villecourt;80;eau potable;218462;2024;99,8;0,0;9,8;67,0;conforme;0;0;0;0;46;Non vérifié
-80795;Ville-le-Marclet;80;eau potable;136978;2024;70,7;4,8;11,6;67,3;conforme;122640;15355;91;151;461;Non vérifié
-80796;Villeroy;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;4187;65;116;177;Non vérifié
-80797;Villers-aux-Érables;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;1622;32;69;137;Non vérifié
-80798;Villers-Bocage;80;eau potable : ex-SIAEP DE LA RÉGION DE NAOURS;137002;2024;81,9;1,9;8,6;66,7;conforme;99628;17760;31;91;1545;Non vérifié
-80799;Villers-Bretonneux;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;55010;32;69;4647;Non vérifié
-80800;Villers-Campsart;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;3264;65;116;138;Non vérifié
-80801;Villers-Carbonnel;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;3480;32;69;294;Non vérifié
-80802;Villers-Faucon;80;eau potable;199397;2024;77,1;2,0;6,7;66,3;conforme;86045;7426;38;114;530;Non vérifié
-80803;Villers-lès-Roye;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;1621;15;37;288;Non vérifié
-80804;Villers-sous-Ailly;80;eau potable;136961;2022;80,0;1,9;7,8;66,6;conforme;29820;2160;35;89;167;Sans anomalie apparente
-80805;Villers-Tournelle;80;eau potable;167765;2024;83,0;1,5;7,3;66,5;conforme;12905;1863;32;75;160;Non vérifié
-80806;Villers-sur-Authie;80;eau potable;136998;2024;78,6;3,0;10,9;67,2;conforme;454885;18646;109;136;468;Non vérifié
-80807;Ville-sur-Ancre;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;3263;32;81;281;Non vérifié
-80808;Vironchaux;80;eau potable;136998;2024;78,6;3,0;10,9;67,2;conforme;454885;20041;109;136;503;Non vérifié
-80809;Vismes;80;eau potable;210987;2024;90,2;0,7;6,8;66,4;conforme;58254;2676;15;38;474;Non vérifié
-80810;Vitz-sur-Authie;80;eau potable;136984;2024;82,9;1,8;8,8;66,8;conforme;85830;1944;39;76;136;Non vérifié
-80811;Voyennes;80;eau potable;136948;2021;53,4;5,4;6,2;66,2;non conforme;15374;15374;71;316;595;Sans anomalie apparente
-80813;Vraignes-lès-Hornoy;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;2271;65;116;96;Non vérifié
-80814;Vrély;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;5434;32;69;459;Non vérifié
-80815;Vron;80;eau potable;136998;2024;78,6;3,0;10,9;67,2;conforme;454885;33428;109;136;839;Non vérifié
-80819;Wargnies;80;eau potable : ex-SIAEP DE LA RÉGION DE NAOURS;137002;2024;81,9;1,9;8,6;66,7;conforme;99628;897;31;91;78;Non vérifié
-80820;Warloy-Baillon;80;eau potable;136987;2024;69,9;6,2;14,3;67,9;conforme;97309;22219;82;158;743;Non vérifié
-80821;Warlus;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;5440;65;116;230;Non vérifié
-80822;Warsy;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;783;15;37;139;Non vérifié
-80823;Warvillers;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;1432;32;69;121;Non vérifié
-80824;Wiencourt-l'Équipée;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;2948;32;69;249;Non vérifié
-80825;Wiry-au-Mont;80;eau potable;136983;2024;84,2;1,2;6,2;66,2;conforme;24090;1801;48;71;103;Non vérifié
-80826;Woignarue;80;eau potable : SYNDICAT INTERCOMMUNAL DES EAUX DE PICARDIE;137006;2024;73,2;3,6;9,7;66,9;conforme;454263;14389;54;135;732;Non vérifié
-80827;Woincourt;80;eau potable : SYNDICAT INTERCOMMUNAL DES EAUX DE PICARDIE;137006;2024;73,2;3,6;9,7;66,9;conforme;454263;25593;54;135;1302;Non vérifié
-80828;Woirel;80;eau potable;136983;2024;84,2;1,2;6,2;66,2;conforme;24090;804;48;71;46;Non vérifié
-80829;Y;80;eau potable;218462;2024;99,8;0,0;9,8;67,0;conforme;0;0;0;0;87;Non vérifié
-80830;Yaucourt-Bussus;80;eau potable;136969;2024;78,2;2,7;9,5;66,9;conforme;69714;3827;42;103;251;Non vérifié
-80832;Yvrench;80;eau potable;136984;2024;82,9;1,8;8,8;66,8;conforme;85830;4230;39;76;296;Non vérifié
-80833;Yvrencheux;80;eau potable;136984;2024;82,9;1,8;8,8;66,8;conforme;85830;1858;39;76;130;Non vérifié
-80834;Yzengremer;80;eau potable : SYNDICAT INTERCOMMUNAL DES EAUX DE PICARDIE;137006;2024;73,2;3,6;9,7;66,9;conforme;454263;9632;54;135;490;Non vérifié
-80835;Yzeux;80;eau potable;136988;2022;86,5;1,1;7,2;66,4;conforme;12671;1638;17;55;264;Sans anomalie apparente
-80836;Yonval;80;eau potable : Yonval;136950;2024;97,8;0,3;11,8;67,4;conforme;288;288;3;9;243;Non vérifié
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement);Donnée suspecte (voir LISEZMOI)
+80001;Abbeville;80;eau potable : Abbeville;136757;2024;86,5;5,6;35,7;72,1;conforme;308276;308276;38;61;22395;Non vérifié;non
+80002;Ablaincourt-Pressoir;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;3113;32;69;263;Non vérifié;non
+80003;Acheux-en-Amiénois;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;6852;32;81;590;Non vérifié;non
+80004;Acheux-en-Vimeu;80;eau potable;210987;2024;90,2;0,7;6,8;66,4;conforme;58254;2828;15;38;501;Non vérifié;non
+80005;Agenville;80;eau potable : Régie;214800;2024;79,2;2,3;8,7;66,7;conforme;75555;1204;40;97;83;Non vérifié;non
+80006;Agenvillers;80;eau potable;136984;2024;82,9;1,8;8,8;66,8;conforme;85830;3073;39;76;215;Non vérifié;non
+80008;Aigneville;80;eau potable : SIAEP D' AIGNEVILLE;136959;2024;99,8;0,0;8,6;66,7;conforme;0;0;0;0;904;Non vérifié;non
+80009;Ailly-le-Haut-Clocher;80;eau potable;136961;2022;80,0;1,9;7,8;66,6;conforme;29820;13242;35;89;1024;Sans anomalie apparente;non
+80010;Ailly-sur-Noye;80;eau potable : ex-SIAEP DU PLATEAU SUD D'AILLY SUR NOYE;137059;2024;53,2;5,4;6,1;66,2;non conforme;210897;97275;101;321;2648;Non vérifié;non
+80011;Ailly-sur-Somme;80;eau potable;136960;2024;55,0;13,4;16,4;68,3;non conforme;125601;101666;93;298;3003;Non vérifié;non
+80013;Airaines;80;eau potable;136761;2024;58,7;14,6;20,7;69,1;non conforme;143883;143883;179;290;2204;Non vérifié;non
+80014;Aizecourt-le-Bas;80;eau potable;199397;2024;77,1;2,0;6,7;66,3;conforme;86045;967;38;114;69;Non vérifié;non
+80015;Aizecourt-le-Haut;80;eau potable;199397;2024;77,1;2,0;6,7;66,3;conforme;86045;925;38;114;66;Non vérifié;non
+80016;Albert;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;110573;32;81;9521;Non vérifié;non
+80018;Allenay;80;eau potable : SYNDICAT INTERCOMMUNAL DES EAUX DE PICARDIE;137006;2024;73,2;3,6;9,7;66,9;conforme;454263;4973;54;135;253;Non vérifié;non
+80019;Allery;80;eau potable;136986;2024;83,8;2,2;11,2;67,2;conforme;22709;7881;26;71;843;Non vérifié;non
+80020;Allonville;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;20191;71;165;778;Non vérifié;non
+80021;Amiens;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;3541226;71;165;136449;Non vérifié;non
+80022;Andainville;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;5511;65;116;233;Non vérifié;non
+80023;Andechy;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;1588;15;37;282;Non vérifié;non
+80024;Argoeuves;80;eau potable;136766;2024;75,4;3,7;11,3;67,3;conforme;7428;7428;37;120;543;Non vérifié;non
+80025;Argoules;80;eau potable;136998;2024;78,6;3,0;10,9;67,2;conforme;454885;12829;109;136;322;Non vérifié;non
+80026;Arguel;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;733;65;116;31;Non vérifié;non
+80027;Armancourt;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;186;15;37;33;Non vérifié;non
+80028;Arquèves;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;1765;32;81;152;Non vérifié;non
+80029;Arrest;80;eau potable : SYNDICAT INTERCOMMUNAL DES EAUX DE PICARDIE;137006;2024;73,2;3,6;9,7;66,9;conforme;454263;16118;54;135;820;Non vérifié;non
+80030;Arry;80;eau potable;136998;2024;78,6;3,0;10,9;67,2;conforme;454885;8447;109;136;212;Non vérifié;non
+80031;Arvillers;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;8985;32;69;759;Non vérifié;non
+80032;Assainvillers;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;766;15;37;136;Non vérifié;non
+80033;Assevillers;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;3682;32;69;311;Non vérifié;non
+80034;Athies;80;eau potable;218462;2024;99,8;0,0;9,8;67,0;conforme;0;0;0;0;614;Non vérifié;non
+80035;Aubercourt;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;817;32;69;69;Non vérifié;non
+80036;Aubigny;80;eau potable : DSP VAL DE SOMME (SUEZ);267254;2024;84,9;2,6;14,9;68,0;conforme;165344;5037;27;77;502;Non vérifié;non
+80037;Aubvillers;80;eau potable : REGIE CCALN;136951;2024;59,8;7,2;10,7;67,1;non conforme;147694;4916;79;249;170;Non vérifié;non
+80038;Auchonvillers;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;1452;32;81;125;Non vérifié;non
+80039;Ault;80;eau potable : SYNDICAT INTERCOMMUNAL DES EAUX DE PICARDIE;137006;2024;73,2;3,6;9,7;66,9;conforme;454263;26458;54;135;1346;Non vérifié;non
+80040;Aumâtre;80;eau potable;136772;2024;100,0;0,0;11,1;67,2;conforme;0;0;0;0;170;Non vérifié;non
+80041;Aumont;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;2815;65;116;119;Non vérifié;non
+80042;Autheux;80;eau potable : Régie;214800;2024;79,2;2,3;8,7;66,7;conforme;75555;1740;40;97;120;Non vérifié;non
+80043;Authie;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;2857;32;81;246;Non vérifié;non
+80044;Authieule;80;eau potable;210989;2024;75,6;3,1;9,6;66,9;conforme;205446;7045;49;121;393;Non vérifié;non
+80045;Authuille;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;1788;32;81;154;Non vérifié;non
+80046;Avelesges;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;1135;65;116;48;Non vérifié;non
+80047;Aveluy;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;6271;32;81;540;Non vérifié;non
+80048;Avesnes-Chaussoy;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;1490;65;116;63;Non vérifié;non
+80049;Ayencourt;80;eau potable;136774;2024;57,1;6,2;8,3;66,7;non conforme;5046;5046;91;274;152;Non vérifié;non
+80050;Bacouel-sur-Selle;80;eau potable;137046;2024;61,0;6,8;10,7;67,1;non conforme;11789;11789;70;232;461;Non vérifié;non
+80051;Bailleul;80;eau potable;136983;2024;84,2;1,2;6,2;66,2;conforme;24090;4423;48;71;253;Non vérifié;non
+80052;Baizieux;80;eau potable : DSP VAL DE SOMME (SUEZ);267254;2024;84,9;2,6;14,9;68,0;conforme;165344;2438;27;77;243;Non vérifié;non
+80053;Balâtre;80;eau potable;167744;2024;77,3;1,6;5,6;66,1;conforme;98457;944;33;105;78;Non vérifié;non
+80054;Barleux;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;2758;32;69;233;Non vérifié;non
+80055;Barly;80;eau potable;210989;2024;75,6;3,1;9,6;66,9;conforme;205446;2886;49;121;161;Non vérifié;non
+80056;Bavelincourt;80;eau potable;136987;2024;69,9;6,2;14,3;67,9;conforme;97309;3110;82;158;104;Non vérifié;non
+80057;Bayencourt;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;813;32;81;70;Non vérifié;non
+80058;Bayonvillers;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;4025;32;69;340;Non vérifié;non
+80059;Bazentin;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;917;32;81;79;Non vérifié;non
+80060;Béalcourt;80;eau potable;210989;2024;75,6;3,1;9,6;66,9;conforme;205446;2259;49;121;126;Non vérifié;non
+80061;Beaucamps-le-Jeune;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;4896;65;116;207;Non vérifié;non
+80062;Beaucamps-le-Vieux;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;33020;65;116;1396;Non vérifié;non
+80063;Beauchamps;80;eau potable;93046;2024;74,4;2,1;6,2;66,2;conforme;357572;9954;29;151;937;Non vérifié;non
+80064;Beaucourt-en-Santerre;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;1906;32;69;161;Non vérifié;non
+80065;Beaucourt-sur-l'Ancre;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;1034;32;81;89;Non vérifié;non
+80066;Beaucourt-sur-l'Hallue;80;eau potable;136987;2024;69,9;6,2;14,3;67,9;conforme;97309;8313;82;158;278;Non vérifié;non
+80067;Beaufort-en-Santerre;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;2285;32;69;193;Non vérifié;non
+80068;Beaumetz;80;eau potable : Régie;214800;2024;79,2;2,3;8,7;66,7;conforme;75555;3118;40;97;215;Non vérifié;non
+80069;Beaumont-Hamel;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;2323;32;81;200;Non vérifié;non
+80070;Beauquesne;80;eau potable;210989;2024;75,6;3,1;9,6;66,9;conforme;205446;24236;49;121;1352;Non vérifié;non
+80071;Beauval;80;eau potable;186266;2024;79,5;2,6;9,9;67,0;conforme;20328;20328;29;96;1929;Non vérifié;non
+80073;Bécordel-Bécourt;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;1777;32;81;153;Non vérifié;non
+80074;Becquigny;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;614;15;37;109;Non vérifié;non
+80076;Béhen;80;eau potable;210987;2024;90,2;0,7;6,8;66,4;conforme;58254;2822;15;38;500;Non vérifié;non
+80077;Béhencourt;80;eau potable;136987;2024;69,9;6,2;14,3;67,9;conforme;97309;9001;82;158;301;Non vérifié;non
+80078;Bellancourt;80;eau potable : ex-SIAEP DE VAUCHELLES LES QUESNOY - BELLANCOURT;137017;2024;97,8;0,2;10,7;67,1;conforme;1134;428;2;7;494;Non vérifié;non
+80079;Belleuse;80;eau potable;136778;2020;49,8;0,0;;;non calculable;;;;;297;Sans anomalie apparente;oui
+80080;Belloy-en-Santerre;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;1764;32;69;149;Non vérifié;non
+80081;Belloy-Saint-Léonard;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;1892;65;116;80;Non vérifié;non
+80082;Belloy-sur-Somme;80;eau potable;136779;2024;90,2;0,6;5,7;66,1;conforme;2744;2744;10;38;717;Non vérifié;non
+80083;Bergicourt;80;eau potable;214799;2024;83,5;1,6;8,1;66,6;conforme;65408;1800;34;72;145;Non vérifié;non
+80084;Bermesnil;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;4660;65;116;197;Non vérifié;non
+80085;Bernâtre;80;eau potable;136984;2024;82,9;1,8;8,8;66,8;conforme;85830;572;39;76;40;Non vérifié;non
+80086;Bernaville;80;eau potable : Régie;214800;2024;79,2;2,3;8,7;66,7;conforme;75555;15111;40;97;1042;Non vérifié;non
+80087;Bernay-en-Ponthieu;80;eau potable;136998;2024;78,6;3,0;10,9;67,2;conforme;454885;9562;109;136;240;Non vérifié;non
+80088;Bernes;80;eau potable;137019;2024;88,6;1,2;9,0;66,8;conforme;23766;2239;17;92;353;Non vérifié;non
+80089;Berneuil;80;eau potable : Régie;214800;2024;79,2;2,3;8,7;66,7;conforme;75555;4046;40;97;279;Non vérifié;non
+80090;Berny-en-Santerre;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;1835;32;69;155;Non vérifié;non
+80092;Bertangles;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;21151;71;165;815;Non vérifié;non
+80093;Berteaucourt-les-Dames;80;eau potable;137003;2023;63,4;9,5;16,5;68,3;non conforme;209125;32665;82;296;1092;Sans anomalie apparente;non
+80094;Berteaucourt-lès-Thennes;80;eau potable : DSP SUEZ;136979;2024;83,3;5,4;26,8;70,4;conforme;50182;4377;23;187;517;Non vérifié;non
+80095;Bertrancourt;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;2555;32;81;220;Non vérifié;non
+80096;Béthencourt-sur-Mer;80;eau potable : SYNDICAT INTERCOMMUNAL DES EAUX DE PICARDIE;137006;2024;73,2;3,6;9,7;66,9;conforme;454263;17337;54;135;882;Non vérifié;non
+80097;Béthencourt-sur-Somme;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;1468;32;69;124;Non vérifié;non
+80098;Bettembos;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;2152;65;116;91;Non vérifié;non
+80099;Bettencourt-Rivière;80;eau potable : ex-SIAEP DE LA RÉGION DE LONGPRE-LES-CORPS-SAINTS;136996;2024;68,3;6,8;14,6;67,9;conforme;54604;4434;58;170;209;Non vérifié;non
+80100;Bettencourt-Saint-Ouen;80;eau potable;137003;2023;63,4;9,5;16,5;68,3;non conforme;209125;18098;82;296;605;Sans anomalie apparente;non
+80101;Beuvraignes;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;5067;15;37;900;Non vérifié;non
+80102;Biaches;80;eau potable;137087;2021;97,6;0,2;8,2;66,6;conforme;381;381;3;9;386;Sans anomalie apparente;non
+80103;Biarre;80;eau potable;167744;2024;77,3;1,6;5,6;66,1;conforme;98457;690;33;105;57;Non vérifié;non
+80104;Biencourt;80;eau potable;210987;2024;90,2;0,7;6,8;66,4;conforme;58254;773;15;38;137;Non vérifié;non
+80105;Billancourt;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;2107;32;69;178;Non vérifié;non
+80106;Blangy-sous-Poix;80;eau potable;214799;2024;83,5;1,6;8,1;66,6;conforme;65408;1999;34;72;161;Non vérifié;non
+80107;Blangy-Tronville;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;15909;71;165;613;Non vérifié;non
+80108;Boisbergues;80;eau potable : Régie;214800;2024;79,2;2,3;8,7;66,7;conforme;75555;928;40;97;64;Non vérifié;non
+80109;Le Boisle;80;eau potable;148300;2024;78,3;2,1;7,7;66,5;conforme;19162;8114;68;100;329;Non vérifié;non
+80110;Boismont;80;eau potable;209376;2024;79,9;1,4;5,4;66,1;conforme;64897;4432;28;94;441;Non vérifié;non
+80112;Bonnay;80;eau potable : DSP VAL DE SOMME (SUEZ);267254;2024;84,9;2,6;14,9;68,0;conforme;165344;2478;27;77;247;Non vérifié;non
+80113;Bonneville;80;eau potable : Régie;214800;2024;79,2;2,3;8,7;66,7;conforme;75555;4713;40;97;325;Non vérifié;non
+80114;Bosquel;80;eau potable;136787;2024;78,7;3,4;12,6;67,5;conforme;5212;5212;41;98;349;Non vérifié;non
+80115;Bouchavesnes-Bergen;80;eau potable;137094;2024;87,9;0,8;5,9;66,2;conforme;1606;1606;16;49;283;Non vérifié;non
+80116;Bouchoir;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;3267;32;69;276;Non vérifié;non
+80118;Boufflers;80;eau potable;136984;2024;82,9;1,8;8,8;66,8;conforme;85830;1615;39;76;113;Non vérifié;non
+80119;Bougainville;80;eau potable;210990;2024;84,9;2,7;15,1;68,0;conforme;50408;6510;46;126;389;Non vérifié;non
+80120;Bouillancourt-en-Séry;80;eau potable;210987;2024;90,2;0,7;6,8;66,4;conforme;58254;3048;15;38;540;Non vérifié;non
+80121;Bouillancourt-la-Bataille;80;eau potable : ex-SIAEP DES TROIS DOMS;137016;2024;50,0;15,3;16,3;68,3;non calculable;41884;11138;215;343;142;Non vérifié;non
+80122;Bouquemaison;80;eau potable;210989;2024;75,6;3,1;9,6;66,9;conforme;205446;8837;49;121;493;Non vérifié;non
+80123;Bourdon;80;eau potable;136988;2022;86,5;1,1;7,2;66,4;conforme;12671;2333;17;55;376;Sans anomalie apparente;non
+80124;Bourseville;80;eau potable : SYNDICAT INTERCOMMUNAL DES EAUX DE PICARDIE;137006;2024;73,2;3,6;9,7;66,9;conforme;454263;14251;54;135;725;Non vérifié;non
+80125;Boussicourt;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;450;15;37;80;Non vérifié;non
+80126;Bouttencourt;80;eau potable;92995;2024;76,3;3,2;10,3;67,1;conforme;58015;14357;42;113;927;Non vérifié;non
+80127;Bouvaincourt-sur-Bresle;80;eau potable : SYNDICAT INTERCOMMUNAL DES EAUX DE PICARDIE;137006;2024;73,2;3,6;9,7;66,9;conforme;454263;15391;54;135;783;Non vérifié;non
+80129;Bouzincourt;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;6132;32;81;528;Non vérifié;non
+80130;Bovelles;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;11030;71;165;425;Non vérifié;non
+80131;Boves;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;83931;71;165;3234;Non vérifié;non
+80132;Braches;80;eau potable;137007;2024;88,5;1,5;11,5;67,3;conforme;13906;1449;20;48;203;Non vérifié;non
+80133;Brailly-Cornehotte;80;eau potable;136984;2024;82,9;1,8;8,8;66,8;conforme;85830;3015;39;76;211;Non vérifié;non
+80134;Brassy;80;eau potable;137012;2024;82,2;1,8;8,3;66,7;conforme;9592;1539;51;90;82;Non vérifié;non
+80135;Bray-lès-Mareuil;80;eau potable;137008;2024;77,2;2,4;8,0;66,6;conforme;37633;2768;30;110;249;Non vérifié;non
+80136;Bray-sur-Somme;80;eau potable : CC du pays du coquelicot DSP Saur;241514;2024;83,7;2,0;10,1;67,0;conforme;282408;127089;294;81;1184;Non vérifié;non
+80137;Breilly;80;eau potable;136960;2024;55,0;13,4;16,4;68,3;non conforme;125601;23935;93;298;707;Non vérifié;non
+80138;Bresle;80;eau potable : DSP VAL DE SOMME (SUEZ);267254;2024;84,9;2,6;14,9;68,0;conforme;165344;1204;27;77;120;Non vérifié;non
+80139;Breuil;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;533;32;69;45;Non vérifié;non
+80140;Brévillers;80;eau potable;210986;2024;67,2;2,9;5,8;66,2;conforme;29903;2467;58;181;116;Non vérifié;non
+80141;Brie;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;4143;32;69;350;Non vérifié;non
+80142;Briquemesnil-Floxicourt;80;eau potable;210990;2024;84,9;2,7;15,1;68,0;conforme;50408;5707;46;126;341;Non vérifié;non
+80143;Brocourt;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;2578;65;116;109;Non vérifié;non
+80144;Brouchy;80;eau potable : Eppeville, Brouchy, Muille-Villette;136975;2024;92,3;0,9;10,1;67,0;conforme;12910;2139;12;32;495;Non vérifié;non
+80145;Brucamps;80;eau potable;136973;2020;74,1;3,7;10,6;67,1;conforme;40515;3696;65;128;155;Sans anomalie apparente;non
+80146;Brutelles;80;eau potable : SYNDICAT INTERCOMMUNAL DES EAUX DE PICARDIE;137006;2024;73,2;3,6;9,7;66,9;conforme;454263;3872;54;135;197;Non vérifié;non
+80147;Buigny-l'Abbé;80;eau potable;136969;2024;78,2;2,7;9,5;66,9;conforme;69714;5200;42;103;341;Non vérifié;non
+80148;Buigny-lès-Gamaches;80;eau potable : SYNDICAT INTERCOMMUNAL DES EAUX DE PICARDIE;137006;2024;73,2;3,6;9,7;66,9;conforme;454263;7804;54;135;397;Non vérifié;non
+80149;Buigny-Saint-Maclou;80;eau potable : principal;137004;2024;62,6;3,2;5,4;66,1;non conforme;153405;13555;72;220;514;Non vérifié;non
+80150;Buire-Courcelles;80;eau potable;137019;2024;88,6;1,2;9,0;66,8;conforme;23766;1395;17;92;220;Non vérifié;non
+80151;Buire-sur-l'Ancre;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;3414;32;81;294;Non vérifié;non
+80152;Bus-la-Mésière;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;811;15;37;144;Non vérifié;non
+80153;Bus-lès-Artois;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;1626;32;81;140;Non vérifié;non
+80154;Bussu;80;eau potable;136794;2024;71,0;4,0;9,9;67,0;conforme;2920;2920;39;148;207;Non vérifié;non
+80155;Bussus-Bussuel;80;eau potable;136969;2024;78,2;2,7;9,5;66,9;conforme;69714;8478;42;103;556;Non vérifié;non
+80156;Bussy-lès-Daours;80;eau potable : DSP VAL DE SOMME (SUEZ);267254;2024;84,9;2,6;14,9;68,0;conforme;165344;3713;27;77;370;Non vérifié;non
+80157;Bussy-lès-Poix;80;eau potable;210990;2024;84,9;2,7;15,1;68,0;conforme;50408;1506;46;126;90;Non vérifié;non
+80158;Buverchy;80;eau potable : Esmery-Hallon;137022;2024;82,0;1,3;5,7;66,1;conforme;15013;330;22;83;41;Non vérifié;non
+80159;Cachy;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;3551;32;69;300;Non vérifié;non
+80160;Cagny;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;30910;71;165;1191;Non vérifié;non
+80161;Cahon;80;eau potable;209376;2024;79,9;1,4;5,4;66,1;conforme;64897;2231;28;94;222;Non vérifié;non
+80162;Caix;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;8334;32;69;704;Non vérifié;non
+80163;Cambron;80;eau potable : Cambron;136795;2024;77,7;2,4;8,4;66,7;conforme;7209;7209;27;104;740;Non vérifié;non
+80164;Camon;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;113128;71;165;4359;Non vérifié;non
+80165;Camps-en-Amiénois;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;4305;65;116;182;Non vérifié;non
+80166;Canaples;80;eau potable;137003;2023;63,4;9,5;16,5;68,3;non conforme;209125;21089;82;296;705;Sans anomalie apparente;non
+80167;Canchy;80;eau potable : principal;137004;2024;62,6;3,2;5,4;66,1;non conforme;153405;9177;72;220;348;Non vérifié;non
+80168;Candas;80;eau potable;136797;2024;100,0;0,0;17,4;68,5;conforme;0;0;0;0;1035;Non vérifié;non
+80169;Cannessières;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;1396;65;116;59;Non vérifié;non
+80170;Cantigny;80;eau potable : ex-SIAEP DU PLATEAU SUD D'AILLY SUR NOYE;137059;2024;53,2;5,4;6,1;66,2;non conforme;210897;4041;101;321;110;Non vérifié;non
+80171;Caours;80;eau potable;136969;2024;78,2;2,7;9,5;66,9;conforme;69714;8356;42;103;548;Non vérifié;non
+80172;Cappy;80;eau potable : CC du pays du coquelicot DSP Saur;241514;2024;83,7;2,0;10,1;67,0;conforme;282408;58607;294;81;546;Non vérifié;non
+80173;Cardonnette;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;13314;71;165;513;Non vérifié;non
+80174;Le Cardonnois;80;eau potable;167765;2024;83,0;1,5;7,3;66,5;conforme;12905;874;32;75;75;Non vérifié;non
+80176;Carrépuis;80;eau potable;137056;2024;89,8;0,7;5,8;66,2;conforme;3209;1201;13;44;250;Non vérifié;non
+80177;Cartigny;80;eau potable;137019;2024;88,6;1,2;9,0;66,8;conforme;23766;4364;17;92;688;Non vérifié;non
+80179;Caulières;80;eau potable;214799;2024;83,5;1,6;8,1;66,6;conforme;65408;2768;34;72;223;Non vérifié;non
+80180;Cavillon;80;eau potable;137041;2024;87,8;1,3;9,5;66,9;conforme;6909;848;26;50;90;Non vérifié;non
+80181;Cayeux-en-Santerre;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;1456;32;69;123;Non vérifié;non
+80182;Cayeux-sur-Mer;80;eau potable : SYNDICAT INTERCOMMUNAL DES EAUX DE PICARDIE;137006;2024;73,2;3,6;9,7;66,9;conforme;454263;45525;54;135;2316;Non vérifié;non
+80183;Cerisy-Buleux;80;eau potable;210987;2024;90,2;0,7;6,8;66,4;conforme;58254;1569;15;38;278;Non vérifié;non
+80184;Cerisy;80;eau potable : DSP VAL DE SOMME (SUEZ);267254;2024;84,9;2,6;14,9;68,0;conforme;165344;5278;27;77;526;Non vérifié;non
+80185;Champien;80;eau potable;167744;2024;77,3;1,6;5,6;66,1;conforme;98457;3292;33;105;272;Non vérifié;non
+80186;Chaulnes;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;23309;32;69;1969;Non vérifié;non
+80187;La Chaussée-Tirancourt;80;eau potable;214797;2024;70,8;7,8;18,8;68,8;conforme;44812;15884;62;151;699;Non vérifié;non
+80188;Chaussoy-Epagny;80;eau potable : DSP VEOLIA;137027;2024;77,8;1,8;6,4;66,3;conforme;15183;8088;39;103;570;Non vérifié;non
+80189;La Chavatte;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;338;15;37;60;Non vérifié;non
+80190;Chépy;80;eau potable;210987;2024;90,2;0,7;6,8;66,4;conforme;58254;6717;15;38;1190;Non vérifié;non
+80191;Chilly;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;2001;32;69;169;Non vérifié;non
+80192;Chipilly;80;eau potable : DSP VAL DE SOMME (SUEZ);267254;2024;84,9;2,6;14,9;68,0;conforme;165344;1726;27;77;172;Non vérifié;non
+80193;Chirmont;80;eau potable : ex-SIAEP DU PLATEAU SUD D'AILLY SUR NOYE;137059;2024;53,2;5,4;6,1;66,2;non conforme;210897;5804;101;321;158;Non vérifié;non
+80194;Chuignes;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;1799;32;69;152;Non vérifié;non
+80195;Chuignolles;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;1707;32;81;147;Non vérifié;non
+80196;Citerne;80;eau potable;136983;2024;84,2;1,2;6,2;66,2;conforme;24090;4196;48;71;240;Non vérifié;non
+80197;Cizancourt;80;eau potable;218462;2024;99,8;0,0;9,8;67,0;conforme;0;0;0;0;30;Non vérifié;non
+80198;Clairy-Saulchoix;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;9758;71;165;376;Non vérifié;non
+80199;Cléry-sur-Somme;80;eau potable;137047;2024;83,7;1,1;5,8;66,2;conforme;4015;4015;21;70;516;Non vérifié;non
+80200;Cocquerel;80;eau potable;136961;2022;80,0;1,9;7,8;66,6;conforme;29820;2845;35;89;220;Sans anomalie apparente;non
+80201;Coigneux;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;523;32;81;45;Non vérifié;non
+80202;Coisy;80;eau potable;136807;2024;91,5;1,1;11,5;67,3;conforme;1285;1285;9;35;387;Non vérifié;non
+80203;Colincamps;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;929;32;81;80;Non vérifié;non
+80204;Combles;80;eau potable;137026;2024;81,6;1,2;5,1;66,0;conforme;42885;11214;41;85;757;Non vérifié;non
+80205;Condé-Folie;80;eau potable : ex-SIAEP DE LA RÉGION DE LONGPRE-LES-CORPS-SAINTS;136996;2024;68,3;6,8;14,6;67,9;conforme;54604;18350;58;170;865;Non vérifié;non
+80206;Contalmaison;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;1417;32;81;122;Non vérifié;non
+80207;Contay;80;eau potable;136987;2024;69,9;6,2;14,3;67,9;conforme;97309;9121;82;158;305;Non vérifié;non
+80208;Conteville;80;eau potable;136984;2024;82,9;1,8;8,8;66,8;conforme;85830;3001;39;76;210;Non vérifié;non
+80210;Contre;80;eau potable;137052;2024;89,9;0,8;7,5;66,5;conforme;1168;600;11;39;149;Non vérifié;non
+80211;Conty;80;eau potable;136995;2024;79,0;1,7;6,4;66,3;conforme;10232;5841;10;97;1660;Non vérifié;non
+80212;Corbie;80;eau potable : DSP VAL DE SOMME (SUEZ);267254;2024;84,9;2,6;14,9;68,0;conforme;165344;60025;27;77;5982;Non vérifié;non
+80213;Cottenchy;80;eau potable : REGIE CCALN;136951;2024;59,8;7,2;10,7;67,1;non conforme;147694;16369;79;249;566;Non vérifié;non
+80214;Coullemelle;80;eau potable : ex-SIAEP DU PLATEAU SUD D'AILLY SUR NOYE;137059;2024;53,2;5,4;6,1;66,2;non conforme;210897;11498;101;321;313;Non vérifié;non
+80215;Coulonvillers;80;eau potable;136969;2024;78,2;2,7;9,5;66,9;conforme;69714;3263;42;103;214;Non vérifié;non
+80216;Courcelette;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;1765;32;81;152;Non vérifié;non
+80217;Courcelles-au-Bois;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;801;32;81;69;Non vérifié;non
+80218;Courcelles-sous-Moyencourt;80;eau potable;210990;2024;84,9;2,7;15,1;68,0;conforme;50408;2745;46;126;164;Non vérifié;non
+80219;Courcelles-sous-Thoix;80;eau potable;137012;2024;82,2;1,8;8,3;66,7;conforme;9592;1220;51;90;65;Non vérifié;non
+80220;Courtemanche;80;eau potable : ex-SIAEP DU PLATEAU SUD D'AILLY SUR NOYE;137059;2024;53,2;5,4;6,1;66,2;non conforme;210897;3637;101;321;99;Non vérifié;non
+80221;Cramont;80;eau potable : Régie;214800;2024;79,2;2,3;8,7;66,7;conforme;75555;4409;40;97;304;Non vérifié;non
+80222;Crécy-en-Ponthieu;80;eau potable;136998;2024;78,6;3,0;10,9;67,2;conforme;454885;54824;109;136;1376;Non vérifié;non
+80223;Crémery;80;eau potable;137056;2024;89,8;0,7;5,8;66,2;conforme;3209;552;13;44;115;Non vérifié;non
+80224;Cressy-Omencourt;80;eau potable;167744;2024;77,3;1,6;5,6;66,1;conforme;98457;1537;33;105;127;Non vérifié;non
+80225;Creuse;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;4827;71;165;186;Non vérifié;non
+80226;Croix-Moligneaux;80;eau potable;218462;2024;99,8;0,0;9,8;67,0;conforme;0;0;0;0;270;Non vérifié;non
+80227;Croixrault;80;eau potable;136815;2024;72,8;6,9;18,6;68,7;conforme;14784;14784;88;136;460;Non vérifié;non
+80228;Le Crotoy;80;eau potable;136998;2024;78,6;3,0;10,9;67,2;conforme;454885;78012;109;136;1958;Non vérifié;non
+80229;Crouy-Saint-Pierre;80;eau potable;136988;2022;86,5;1,1;7,2;66,4;conforme;12671;2321;17;55;374;Sans anomalie apparente;non
+80230;Curchy;80;eau potable;136972;2023;68,8;2,2;4,8;66,0;conforme;12246;5613;55;169;281;Sans anomalie apparente;non
+80231;Curlu;80;eau potable : CC du pays du coquelicot DSP Saur;241514;2024;83,7;2,0;10,1;67,0;conforme;282408;16315;294;81;152;Non vérifié;non
+80232;Damery;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;1210;15;37;215;Non vérifié;non
+80233;Dancourt-Popincourt;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;844;15;37;150;Non vérifié;non
+80234;Daours;80;eau potable : DSP VAL DE SOMME (SUEZ);267254;2024;84,9;2,6;14,9;68,0;conforme;165344;7395;27;77;737;Non vérifié;non
+80235;Dargnies;80;eau potable : SYNDICAT INTERCOMMUNAL DES EAUX DE PICARDIE;137006;2024;73,2;3,6;9,7;66,9;conforme;454263;23077;54;135;1174;Non vérifié;non
+80236;Davenescourt;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;3124;15;37;555;Non vérifié;non
+80237;Démuin;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;6203;32;69;524;Non vérifié;non
+80238;Dernancourt;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;6004;32;81;517;Non vérifié;non
+80239;Devise;80;eau potable;218462;2024;99,8;0,0;9,8;67,0;conforme;0;0;0;0;59;Non vérifié;non
+80240;Doingt;80;eau potable;136819;2024;81,7;2,5;11,4;67,3;conforme;11461;11461;23;80;1389;Non vérifié;non
+80241;Domart-en-Ponthieu;80;eau potable;136973;2020;74,1;3,7;10,6;67,1;conforme;40515;25778;65;128;1081;Sans anomalie apparente;non
+80242;Domart-sur-la-Luce;80;eau potable : DSP SUEZ;136979;2024;83,3;5,4;26,8;70,4;conforme;50182;3412;23;187;403;Non vérifié;non
+80243;Domesmont;80;eau potable : Régie;214800;2024;79,2;2,3;8,7;66,7;conforme;75555;638;40;97;44;Non vérifié;non
+80244;Dominois;80;eau potable;136998;2024;78,6;3,0;10,9;67,2;conforme;454885;6694;109;136;168;Non vérifié;non
+80245;Domléger-Longvillers;80;eau potable : Régie;214800;2024;79,2;2,3;8,7;66,7;conforme;75555;4162;40;97;287;Non vérifié;non
+80246;Dommartin;80;eau potable : REGIE CCALN;136951;2024;59,8;7,2;10,7;67,1;non conforme;147694;10006;79;249;346;Non vérifié;non
+80247;Dompierre-Becquincourt;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;8393;32;69;709;Non vérifié;non
+80248;Dompierre-sur-Authie;80;eau potable;136984;2024;82,9;1,8;8,8;66,8;conforme;85830;5959;39;76;417;Non vérifié;non
+80249;Domqueur;80;eau potable;136969;2024;78,2;2,7;9,5;66,9;conforme;69714;4696;42;103;308;Non vérifié;non
+80250;Domvast;80;eau potable;136984;2024;82,9;1,8;8,8;66,8;conforme;85830;4759;39;76;333;Non vérifié;non
+80251;Doudelainville;80;eau potable;210987;2024;90,2;0,7;6,8;66,4;conforme;58254;2049;15;38;363;Non vérifié;non
+80252;Douilly;80;eau potable;136822;2021;91,2;0,4;3,8;65,8;conforme;1022;1022;11;39;250;Sans anomalie apparente;non
+80253;Doullens;80;eau potable;210989;2024;75,6;3,1;9,6;66,9;conforme;205446;103091;49;121;5751;Non vérifié;non
+80256;Dreuil-lès-Amiens;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;40902;71;165;1576;Non vérifié;non
+80258;Driencourt;80;eau potable;199397;2024;77,1;2,0;6,7;66,3;conforme;86045;1093;38;114;78;Non vérifié;non
+80259;Dromesnil;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;1940;65;116;82;Non vérifié;non
+80260;Drucat;80;eau potable : principal;137004;2024;62,6;3,2;5,4;66,1;non conforme;153405;23392;72;220;887;Non vérifié;non
+80261;Dury;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;37398;71;165;1441;Non vérifié;non
+80262;Eaucourt-sur-Somme;80;eau potable;137008;2024;77,2;2,4;8,0;66,6;conforme;37633;3969;30;110;357;Non vérifié;non
+80263;L' Échelle-Saint-Aurin;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;242;15;37;43;Non vérifié;non
+80264;Éclusier-Vaux;80;eau potable : CC du pays du coquelicot DSP Saur;241514;2024;83,7;2,0;10,1;67,0;conforme;282408;9124;294;81;85;Non vérifié;non
+80265;Embreville;80;eau potable : SYNDICAT INTERCOMMUNAL DES EAUX DE PICARDIE;137006;2024;73,2;3,6;9,7;66,9;conforme;454263;11008;54;135;560;Non vérifié;non
+80266;Englebelmer;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;3275;32;81;282;Non vérifié;non
+80267;Ennemain;80;eau potable;218462;2024;99,8;0,0;9,8;67,0;conforme;0;0;0;0;241;Non vérifié;non
+80268;Épagne-Épagnette;80;eau potable;137008;2024;77,2;2,4;8,0;66,6;conforme;37633;5670;30;110;510;Non vérifié;non
+80269;Épaumesnil;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;2460;65;116;104;Non vérifié;non
+80270;Épécamps;80;eau potable : Régie;214800;2024;79,2;2,3;8,7;66,7;conforme;75555;102;40;97;7;Non vérifié;non
+80271;Épehy;80;eau potable;199397;2024;77,1;2,0;6,7;66,3;conforme;86045;15399;38;114;1099;Non vérifié;non
+80272;Épénancourt;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;1527;32;69;129;Non vérifié;non
+80273;Éplessier;80;eau potable;214799;2024;83,5;1,6;8,1;66,6;conforme;65408;4245;34;72;342;Non vérifié;non
+80274;Eppeville;80;eau potable : Eppeville, Brouchy, Muille-Villette;136975;2024;92,3;0,9;10,1;67,0;conforme;12910;7362;12;32;1704;Non vérifié;non
+80275;Équancourt;80;eau potable;136825;2024;62,4;4,7;7,8;66,6;non conforme;6862;6862;63;219;300;Non vérifié;non
+80276;Équennes-Éramecourt;80;eau potable;214799;2024;83,5;1,6;8,1;66,6;conforme;65408;3426;34;72;276;Non vérifié;non
+80278;Erches;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;1132;15;37;201;Non vérifié;non
+80279;Ercheu;80;eau potable;136826;2024;79,5;4,1;15,8;68,2;conforme;14127;14127;52;149;751;Non vérifié;non
+80280;Ercourt;80;eau potable : SIAEP D' AIGNEVILLE;136959;2024;99,8;0,0;8,6;66,7;conforme;0;0;0;0;132;Non vérifié;non
+80281;Ergnies;80;eau potable;136961;2022;80,0;1,9;7,8;66,6;conforme;29820;2056;35;89;159;Sans anomalie apparente;non
+80282;Érondelle;80;eau potable;137008;2024;77,2;2,4;8,0;66,6;conforme;37633;5603;30;110;504;Non vérifié;non
+80283;Esclainvillers;80;eau potable : ex-SIAEP DU PLATEAU SUD D'AILLY SUR NOYE;137059;2024;53,2;5,4;6,1;66,2;non conforme;210897;5841;101;321;159;Non vérifié;non
+80284;Esmery-Hallon;80;eau potable : Esmery-Hallon;137022;2024;82,0;1,3;5,7;66,1;conforme;15013;5750;22;83;715;Non vérifié;non
+80285;Essertaux;80;eau potable;137005;2024;89,0;1,8;14,3;67,9;conforme;20919;2467;25;74;270;Non vérifié;non
+80287;Estréboeuf;80;eau potable : SYNDICAT INTERCOMMUNAL DES EAUX DE PICARDIE;137006;2024;73,2;3,6;9,7;66,9;conforme;454263;4796;54;135;244;Non vérifié;non
+80288;Estrées-Deniécourt;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;4487;32;69;379;Non vérifié;non
+80290;Estrées-lès-Crécy;80;eau potable;136984;2024;82,9;1,8;8,8;66,8;conforme;85830;5688;39;76;398;Non vérifié;non
+80291;Estrées-sur-Noye;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;7448;71;165;287;Non vérifié;non
+80292;Étalon;80;eau potable;136972;2023;68,8;2,2;4,8;66,0;conforme;12246;2517;55;169;126;Sans anomalie apparente;non
+80293;Ételfay;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;1959;15;37;348;Non vérifié;non
+80294;Éterpigny;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;1965;32;69;166;Non vérifié;non
+80295;Étinehem-Méricourt;80;eau potable : CC du pays du coquelicot régie;241474;2024;83,7;2,0;10,1;67,0;conforme;282408;19047;89;81;589;Non vérifié;non
+80297;Étréjust;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;993;65;116;42;Non vérifié;non
+80299;La Faloise;80;eau potable : DSP VEOLIA;137027;2024;77,8;1,8;6,4;66,3;conforme;15183;2895;39;103;204;Non vérifié;non
+80300;Falvy;80;eau potable;218462;2024;99,8;0,0;9,8;67,0;conforme;0;0;0;0;163;Non vérifié;non
+80301;Famechon;80;eau potable;214799;2024;83,5;1,6;8,1;66,6;conforme;65408;3352;34;72;270;Non vérifié;non
+80302;Faverolles;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;963;15;37;171;Non vérifié;non
+80303;Favières;80;eau potable;136998;2024;78,6;3,0;10,9;67,2;conforme;454885;18049;109;136;453;Non vérifié;non
+80304;Fay;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;1077;32;69;91;Non vérifié;non
+80305;Ferrières;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;12873;71;165;496;Non vérifié;non
+80306;Fescamps;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;766;15;37;136;Non vérifié;non
+80307;Feuillères;80;eau potable;137026;2024;81,6;1,2;5,1;66,0;conforme;42885;2296;41;85;155;Non vérifié;non
+80308;Feuquières-en-Vimeu;80;eau potable : SIAEP D' AIGNEVILLE;136959;2024;99,8;0,0;8,6;66,7;conforme;0;0;0;0;2414;Non vérifié;non
+80310;Fienvillers;80;eau potable : Régie;214800;2024;79,2;2,3;8,7;66,7;conforme;75555;9615;40;97;663;Non vérifié;non
+80311;Fignières;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;799;15;37;142;Non vérifié;non
+80312;Fins;80;eau potable;199397;2024;77,1;2,0;6,7;66,3;conforme;86045;3895;38;114;278;Non vérifié;non
+80313;Flaucourt;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;3539;32;69;299;Non vérifié;non
+80314;Flers;80;eau potable;137026;2024;81,6;1,2;5,1;66,0;conforme;42885;2815;41;85;190;Non vérifié;non
+80315;Flers-sur-Noye;80;eau potable;137005;2024;89,0;1,8;14,3;67,9;conforme;20919;4853;25;74;531;Non vérifié;non
+80316;Flesselles;80;eau potable : ex-SIAEP DE LA RÉGION DE NAOURS;137002;2024;81,9;1,9;8,6;66,7;conforme;99628;22266;31;91;1937;Non vérifié;non
+80318;Flixecourt;80;eau potable;136978;2024;70,7;4,8;11,6;67,3;conforme;122640;107285;91;151;3221;Non vérifié;non
+80319;Fluy;80;eau potable;210990;2024;84,9;2,7;15,1;68,0;conforme;50408;5355;46;126;320;Non vérifié;non
+80320;Folies;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;1799;32;69;152;Non vérifié;non
+80321;Folleville;80;eau potable : ex-SIAEP DU PLATEAU SUD D'AILLY SUR NOYE;137059;2024;53,2;5,4;6,1;66,2;non conforme;210897;5657;101;321;154;Non vérifié;non
+80322;Fonches-Fonchette;80;eau potable;136972;2023;68,8;2,2;4,8;66,0;conforme;12246;3356;55;169;168;Sans anomalie apparente;non
+80324;Fontaine-le-Sec;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;3382;65;116;143;Non vérifié;non
+80325;Fontaine-lès-Cappy;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;639;32;69;54;Non vérifié;non
+80326;Fontaine-sous-Montdidier;80;eau potable : ex-SIAEP DU PLATEAU SUD D'AILLY SUR NOYE;137059;2024;53,2;5,4;6,1;66,2;non conforme;210897;3563;101;321;97;Non vérifié;non
+80327;Fontaine-sur-Maye;80;eau potable;136984;2024;82,9;1,8;8,8;66,8;conforme;85830;2315;39;76;162;Non vérifié;non
+80328;Fontaine-sur-Somme;80;eau potable;136961;2022;80,0;1,9;7,8;66,6;conforme;29820;6492;35;89;502;Sans anomalie apparente;non
+80329;Forceville;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;1893;32;81;163;Non vérifié;non
+80330;Forceville-en-Vimeu;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;5346;65;116;226;Non vérifié;non
+80331;Forest-l'Abbaye;80;eau potable : principal;137004;2024;62,6;3,2;5,4;66,1;non conforme;153405;8281;72;220;314;Non vérifié;non
+80332;Forest-Montiers;80;eau potable;136998;2024;78,6;3,0;10,9;67,2;conforme;454885;15220;109;136;382;Non vérifié;non
+80333;Fort-Mahon-Plage;80;eau potable;136998;2024;78,6;3,0;10,9;67,2;conforme;454885;54306;109;136;1363;Non vérifié;non
+80334;Fossemanant;80;eau potable;136995;2024;79,0;1,7;6,4;66,3;conforme;10232;352;10;97;100;Non vérifié;non
+80335;Foucaucourt-en-Santerre;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;2782;32;69;235;Non vérifié;non
+80336;Foucaucourt-Hors-Nesle;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;1869;65;116;79;Non vérifié;non
+80337;Fouencamps;80;eau potable : REGIE CCALN;136951;2024;59,8;7,2;10,7;67,1;non conforme;147694;6247;79;249;216;Non vérifié;non
+80338;Fouilloy;80;eau potable : DSP VAL DE SOMME (SUEZ);267254;2024;84,9;2,6;14,9;68,0;conforme;165344;17289;27;77;1723;Non vérifié;non
+80339;Fouquescourt;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;1823;32;69;154;Non vérifié;non
+80340;Fourcigny;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;4281;65;116;181;Non vérifié;non
+80341;Fourdrinoy;80;eau potable;137041;2024;87,8;1,3;9,5;66,9;conforme;6909;3582;26;50;380;Non vérifié;non
+80342;Framerville-Rainecourt;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;5244;32;69;443;Non vérifié;non
+80343;Framicourt;80;eau potable;210987;2024;90,2;0,7;6,8;66,4;conforme;58254;852;15;38;151;Non vérifié;non
+80344;Francières;80;eau potable;136969;2024;78,2;2,7;9,5;66,9;conforme;69714;2684;42;103;176;Non vérifié;non
+80345;Franleu;80;eau potable;209376;2024;79,9;1,4;5,4;66,1;conforme;64897;5035;28;94;501;Non vérifié;non
+80346;Franqueville;80;eau potable;136973;2020;74,1;3,7;10,6;67,1;conforme;40515;3887;65;128;163;Sans anomalie apparente;non
+80347;Fransart;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;918;15;37;163;Non vérifié;non
+80348;Fransu;80;eau potable : Régie;214800;2024;79,2;2,3;8,7;66,7;conforme;75555;2799;40;97;193;Non vérifié;non
+80349;Fransures;80;eau potable;137005;2024;89,0;1,8;14,3;67,9;conforme;20919;1142;25;74;125;Non vérifié;non
+80350;Franvillers;80;eau potable;136987;2024;69,9;6,2;14,3;67,9;conforme;97309;16687;82;158;558;Non vérifié;non
+80351;Fréchencourt;80;eau potable;136987;2024;69,9;6,2;14,3;67,9;conforme;97309;7476;82;158;250;Non vérifié;non
+80352;Frémontiers;80;eau potable;136836;2024;96,5;0,1;3,3;65,7;conforme;196;196;3;11;166;Non vérifié;non
+80353;Fresnes-Mazancourt;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;1870;32;69;158;Non vérifié;non
+80354;Fresnes-Tilloloy;80;eau potable;136983;2024;84,2;1,2;6,2;66,2;conforme;24090;3689;48;71;211;Non vérifié;non
+80355;Fresneville;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;2460;65;116;104;Non vérifié;non
+80356;Fresnoy-Andainville;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;2271;65;116;96;Non vérifié;non
+80357;Fresnoy-au-Val;80;eau potable;210990;2024;84,9;2,7;15,1;68,0;conforme;50408;3732;46;126;223;Non vérifié;non
+80358;Fresnoy-en-Chaussée;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;1634;32;69;138;Non vérifié;non
+80359;Fresnoy-lès-Roye;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;1610;15;37;286;Non vérifié;non
+80360;Fressenneville;80;eau potable;209376;2024;79,9;1,4;5,4;66,1;conforme;64897;20554;28;94;2045;Non vérifié;non
+80361;Frettecuisse;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;1632;65;116;69;Non vérifié;non
+80362;Frettemeule;80;eau potable;210987;2024;90,2;0,7;6,8;66,4;conforme;58254;1671;15;38;296;Non vérifié;non
+80364;Friaucourt;80;eau potable : SYNDICAT INTERCOMMUNAL DES EAUX DE PICARDIE;137006;2024;73,2;3,6;9,7;66,9;conforme;454263;13661;54;135;695;Non vérifié;non
+80365;Fricamps;80;eau potable;210990;2024;84,9;2,7;15,1;68,0;conforme;50408;2962;46;126;177;Non vérifié;non
+80366;Fricourt;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;5307;32;81;457;Non vérifié;non
+80367;Frise;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;2083;32;69;176;Non vérifié;non
+80368;Friville-Escarbotin;80;eau potable : SYNDICAT INTERCOMMUNAL DES EAUX DE PICARDIE;137006;2024;73,2;3,6;9,7;66,9;conforme;454263;84641;54;135;4306;Non vérifié;non
+80369;Frohen-sur-Authie;80;eau potable;210989;2024;75,6;3,1;9,6;66,9;conforme;205446;4374;49;121;244;Non vérifié;non
+80371;Froyelles;80;eau potable;136984;2024;82,9;1,8;8,8;66,8;conforme;85830;1372;39;76;96;Non vérifié;non
+80372;Frucourt;80;eau potable;136983;2024;84,2;1,2;6,2;66,2;conforme;24090;2115;48;71;121;Non vérifié;non
+80373;Gamaches;80;eau potable;136839;2024;49,9;18,3;18,2;68,6;non conforme;134058;134058;153;382;2397;Non vérifié;non
+80374;Gapennes;80;eau potable;136984;2024;82,9;1,8;8,8;66,8;conforme;85830;3859;39;76;270;Non vérifié;non
+80375;Gauville;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;7735;65;116;327;Non vérifié;non
+80376;Gentelles;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;7422;32;69;627;Non vérifié;non
+80377;Gézaincourt;80;eau potable;210989;2024;75,6;3,1;9,6;66,9;conforme;205446;7152;49;121;399;Non vérifié;non
+80378;Ginchy;80;eau potable;137026;2024;81,6;1,2;5,1;66,0;conforme;42885;1111;41;85;75;Non vérifié;non
+80379;Glisy;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;20529;71;165;791;Non vérifié;non
+80380;Gorenflos;80;eau potable;136961;2022;80,0;1,9;7,8;66,6;conforme;29820;3026;35;89;234;Sans anomalie apparente;non
+80381;Gorges;80;eau potable : Régie;214800;2024;79,2;2,3;8,7;66,7;conforme;75555;580;40;97;40;Non vérifié;non
+80383;Goyencourt;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;557;15;37;99;Non vérifié;non
+80384;Grandcourt;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;2067;32;81;178;Non vérifié;non
+80385;Grand-Laviers;80;eau potable : principal;137004;2024;62,6;3,2;5,4;66,1;non conforme;153405;12263;72;220;465;Non vérifié;non
+80386;Gratibus;80;eau potable : ex-SIAEP DES TROIS DOMS;137016;2024;50,0;15,3;16,3;68,3;non calculable;41884;13726;215;343;175;Non vérifié;non
+80387;Grattepanche;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;8331;71;165;321;Non vérifié;non
+80388;Grébault-Mesnil;80;eau potable;210987;2024;90,2;0,7;6,8;66,4;conforme;58254;1152;15;38;204;Non vérifié;non
+80390;Grivesnes;80;eau potable : ex-SIAEP DU PLATEAU SUD D'AILLY SUR NOYE;137059;2024;53,2;5,4;6,1;66,2;non conforme;210897;15025;101;321;409;Non vérifié;non
+80391;Grivillers;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;512;15;37;91;Non vérifié;non
+80392;Grouches-Luchuel;80;eau potable;210986;2024;67,2;2,9;5,8;66,2;conforme;29903;12165;58;181;572;Non vérifié;non
+80393;Gruny;80;eau potable;137056;2024;89,8;0,7;5,8;66,2;conforme;3209;1456;13;44;303;Non vérifié;non
+80395;Guerbigny;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;1548;15;37;275;Non vérifié;non
+80396;Gueschart;80;eau potable;136984;2024;82,9;1,8;8,8;66,8;conforme;85830;5159;39;76;361;Non vérifié;non
+80397;Gueudecourt;80;eau potable;137026;2024;81,6;1,2;5,1;66,0;conforme;42885;1496;41;85;101;Non vérifié;non
+80399;Guignemicourt;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;10018;71;165;386;Non vérifié;non
+80400;Guillaucourt;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;4569;32;69;386;Non vérifié;non
+80401;Guillemont;80;eau potable;137026;2024;81,6;1,2;5,1;66,0;conforme;42885;1866;41;85;126;Non vérifié;non
+80402;Guizancourt;80;eau potable;214799;2024;83,5;1,6;8,1;66,6;conforme;65408;1403;34;72;113;Non vérifié;non
+80403;Guyencourt-sur-Noye;80;eau potable : REGIE CCALN;136951;2024;59,8;7,2;10,7;67,1;non conforme;147694;4656;79;249;161;Non vérifié;non
+80404;Guyencourt-Saulcourt;80;eau potable;136841;2024;87,2;1,4;9,6;66,9;conforme;1380;1380;26;53;145;Non vérifié;non
+80405;Hailles;80;eau potable : DSP SUEZ;136979;2024;83,3;5,4;26,8;70,4;conforme;50182;3421;23;187;404;Non vérifié;non
+80406;Hallencourt;80;eau potable;136986;2024;83,8;2,2;11,2;67,2;conforme;22709;12631;26;71;1351;Non vérifié;non
+80407;Hallivillers;80;eau potable : DSP VEOLIA;137027;2024;77,8;1,8;6,4;66,3;conforme;15183;2015;39;103;142;Non vérifié;non
+80408;Halloy-lès-Pernois;80;eau potable;137003;2023;63,4;9,5;16,5;68,3;non conforme;209125;9632;82;296;322;Sans anomalie apparente;non
+80409;Hallu;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;1693;32;69;143;Non vérifié;non
+80410;Ham;80;eau potable;136843;2021;74,9;5,6;16,6;68,3;conforme;78714;78714;49;138;4378;Sans anomalie apparente;non
+80411;Le Hamel;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;5824;32;69;492;Non vérifié;non
+80412;Hamelet;80;eau potable : DSP VAL DE SOMME (SUEZ);267254;2024;84,9;2,6;14,9;68,0;conforme;165344;6261;27;77;624;Non vérifié;non
+80414;Hangard;80;eau potable : DSP SUEZ;136979;2024;83,3;5,4;26,8;70,4;conforme;50182;974;23;187;115;Non vérifié;non
+80415;Hangest-en-Santerre;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;12157;32;69;1027;Non vérifié;non
+80416;Hangest-sur-Somme;80;eau potable;136988;2022;86,5;1,1;7,2;66,4;conforme;12671;4716;17;55;760;Sans anomalie apparente;non
+80417;Harbonnières;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;19414;32;69;1640;Non vérifié;non
+80418;Hardecourt-aux-Bois;80;eau potable;137026;2024;81,6;1,2;5,1;66,0;conforme;42885;1244;41;85;84;Non vérifié;non
+80420;Harponville;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;1974;32;81;170;Non vérifié;non
+80421;Hattencourt;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;1700;15;37;302;Non vérifié;non
+80422;Hautvillers-Ouville;80;eau potable : principal;137004;2024;62,6;3,2;5,4;66,1;non conforme;153405;13898;72;220;527;Non vérifié;non
+80423;Havernas;80;eau potable : ex-SIAEP DE LA RÉGION DE NAOURS;137002;2024;81,9;1,9;8,6;66,7;conforme;99628;4345;31;91;378;Non vérifié;non
+80424;Hébécourt;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;14949;71;165;576;Non vérifié;non
+80425;Hédauville;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;1231;32;81;106;Non vérifié;non
+80426;Heilly;80;eau potable : DSP VAL DE SOMME (SUEZ);267254;2024;84,9;2,6;14,9;68,0;conforme;165344;4395;27;77;438;Non vérifié;non
+80427;Hem-Hardinval;80;eau potable;210989;2024;75,6;3,1;9,6;66,9;conforme;205446;6220;49;121;347;Non vérifié;non
+80428;Hem-Monacu;80;eau potable;137026;2024;81,6;1,2;5,1;66,0;conforme;42885;2029;41;85;137;Non vérifié;non
+80429;Hénencourt;80;eau potable : DSP VAL DE SOMME (SUEZ);267254;2024;84,9;2,6;14,9;68,0;conforme;165344;1947;27;77;194;Non vérifié;non
+80430;Herbécourt;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;2107;32;69;178;Non vérifié;non
+80431;Hérissart;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;8873;32;81;764;Non vérifié;non
+80432;Herleville;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;2273;32;69;192;Non vérifié;non
+80433;Herly;80;eau potable;136972;2023;68,8;2,2;4,8;66,0;conforme;12246;759;55;169;38;Sans anomalie apparente;non
+80434;Hervilly;80;eau potable;137019;2024;88,6;1,2;9,0;66,8;conforme;23766;1167;17;92;184;Non vérifié;non
+80435;Hesbécourt;80;eau potable;137019;2024;88,6;1,2;9,0;66,8;conforme;23766;285;17;92;45;Non vérifié;non
+80436;Hescamps;80;eau potable;214799;2024;83,5;1,6;8,1;66,6;conforme;65408;6480;34;72;522;Non vérifié;non
+80437;Heucourt-Croquoison;80;eau potable;136848;2024;50,8;8,1;8,3;66,7;non conforme;10052;10052;255;355;108;Non vérifié;non
+80438;Heudicourt;80;eau potable;199397;2024;77,1;2,0;6,7;66,3;conforme;86045;7384;38;114;527;Non vérifié;non
+80439;Heuzecourt;80;eau potable : Régie;214800;2024;79,2;2,3;8,7;66,7;conforme;75555;2393;40;97;165;Non vérifié;non
+80440;Hiermont;80;eau potable;136984;2024;82,9;1,8;8,8;66,8;conforme;85830;2144;39;76;150;Non vérifié;non
+80442;Hombleux;80;eau potable : Esmery-Hallon;137022;2024;82,0;1,3;5,7;66,1;conforme;15013;8934;22;83;1111;Non vérifié;non
+80443;Hornoy-le-Bourg;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;38366;65;116;1622;Non vérifié;non
+80444;Huchenneville;80;eau potable;210987;2024;90,2;0,7;6,8;66,4;conforme;58254;3833;15;38;679;Non vérifié;non
+80445;Humbercourt;80;eau potable;148375;2024;85,8;1,1;6,6;66,3;conforme;3212;2216;25;61;247;Non vérifié;non
+80446;Huppy;80;eau potable;210987;2024;90,2;0,7;6,8;66,4;conforme;58254;4228;15;38;749;Non vérifié;non
+80449;Ignaucourt;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;769;32;69;65;Non vérifié;non
+80450;Inval-Boiron;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;2791;65;116;118;Non vérifié;non
+80451;Irles;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;1289;32;81;111;Non vérifié;non
+80452;Jumel;80;eau potable : REGIE CCALN;136951;2024;59,8;7,2;10,7;67,1;non conforme;147694;15385;79;249;532;Non vérifié;non
+80453;Laboissière-en-Santerre;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;754;15;37;134;Non vérifié;non
+80455;Lachapelle;80;eau potable;214799;2024;83,5;1,6;8,1;66,6;conforme;65408;1080;34;72;87;Non vérifié;non
+80456;Lafresguimont-Saint-Martin;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;13080;65;116;553;Non vérifié;non
+80458;Lahoussoye;80;eau potable;136987;2024;69,9;6,2;14,3;67,9;conforme;97309;13218;82;158;442;Non vérifié;non
+80459;Laleu;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;2318;65;116;98;Non vérifié;non
+80460;Lamaronde;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;1206;65;116;51;Non vérifié;non
+80461;Lamotte-Brebière;80;eau potable : DSP VAL DE SOMME (SUEZ);267254;2024;84,9;2,6;14,9;68,0;conforme;165344;2609;27;77;260;Non vérifié;non
+80462;Lamotte-Buleux;80;eau potable : principal;137004;2024;62,6;3,2;5,4;66,1;non conforme;153405;8650;72;220;328;Non vérifié;non
+80463;Lamotte-Warfusée;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;8582;32;69;725;Non vérifié;non
+80464;Lanchères;80;eau potable : SYNDICAT INTERCOMMUNAL DES EAUX DE PICARDIE;137006;2024;73,2;3,6;9,7;66,9;conforme;454263;16885;54;135;859;Non vérifié;non
+80465;Languevoisin-Quiquery;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;2273;32;69;192;Non vérifié;non
+80466;Lanches-Saint-Hilaire;80;eau potable : Régie;214800;2024;79,2;2,3;8,7;66,7;conforme;75555;1929;40;97;133;Non vérifié;non
+80467;Laucourt;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;1030;15;37;183;Non vérifié;non
+80468;Laviéville;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;1974;32;81;170;Non vérifié;non
+80469;Lawarde-Mauger-l'Hortoy;80;eau potable : DSP VEOLIA;137027;2024;77,8;1,8;6,4;66,3;conforme;15183;2185;39;103;154;Non vérifié;non
+80470;Léalvillers;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;1812;32;81;156;Non vérifié;non
+80472;Lesboeufs;80;eau potable;148391;2023;87,4;2,2;15,5;68,1;conforme;3212;2107;35;52;166;Sans anomalie apparente;non
+80473;Liancourt-Fosse;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;1644;15;37;292;Non vérifié;non
+80474;Licourt;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;4676;32;69;395;Non vérifié;non
+80475;Liéramont;80;eau potable;199397;2024;77,1;2,0;6,7;66,3;conforme;86045;3041;38;114;217;Non vérifié;non
+80476;Liercourt;80;eau potable;137008;2024;77,2;2,4;8,0;66,6;conforme;37633;3635;30;110;327;Non vérifié;non
+80477;Ligescourt;80;eau potable;136998;2024;78,6;3,0;10,9;67,2;conforme;454885;8885;109;136;223;Non vérifié;non
+80478;Lignières;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;799;15;37;142;Non vérifié;non
+80479;Lignières-Châtelain;80;eau potable;214799;2024;83,5;1,6;8,1;66,6;conforme;65408;4295;34;72;346;Non vérifié;non
+80480;Lignières-en-Vimeu;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;2555;65;116;108;Non vérifié;non
+80481;Lihons;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;5481;32;69;463;Non vérifié;non
+80482;Limeux;80;eau potable;136983;2024;84,2;1,2;6,2;66,2;conforme;24090;2482;48;71;142;Non vérifié;non
+80484;Liomer;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;8846;65;116;374;Non vérifié;non
+80485;Ô-de-Selle;80;eau potable;136995;2024;79,0;1,7;6,4;66,3;conforme;10232;4039;10;97;1148;Non vérifié;non
+80486;Long;80;eau potable;136855;2024;84,0;1,4;7,6;66,5;conforme;6433;6433;30;67;590;Non vérifié;non
+80487;Longavesnes;80;eau potable;199397;2024;77,1;2,0;6,7;66,3;conforme;86045;1079;38;114;77;Non vérifié;non
+80488;Longpré-les-Corps-Saints;80;eau potable : ex-SIAEP DE LA RÉGION DE LONGPRE-LES-CORPS-SAINTS;136996;2024;68,3;6,8;14,6;67,9;conforme;54604;31821;58;170;1500;Non vérifié;non
+80489;Longueau;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;147412;71;165;5680;Non vérifié;non
+80490;Longueval;80;eau potable;137026;2024;81,6;1,2;5,1;66,0;conforme;42885;4325;41;85;292;Non vérifié;non
+80491;Longuevillette;80;eau potable;136857;2024;93,3;0,8;11,3;67,3;conforme;333;333;14;26;67;Non vérifié;non
+80493;Louvencourt;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;3356;32;81;289;Non vérifié;non
+80494;Louvrechy;80;eau potable : ex-SIAEP DU PLATEAU SUD D'AILLY SUR NOYE;137059;2024;53,2;5,4;6,1;66,2;non conforme;210897;7237;101;321;197;Non vérifié;non
+80495;Lucheux;80;eau potable;210986;2024;67,2;2,9;5,8;66,2;conforme;29903;11081;58;181;521;Non vérifié;non
+80496;Machiel;80;eau potable;136998;2024;78,6;3,0;10,9;67,2;conforme;454885;6016;109;136;151;Non vérifié;non
+80497;Machy;80;eau potable;136998;2024;78,6;3,0;10,9;67,2;conforme;454885;4662;109;136;117;Non vérifié;non
+80498;Mailly-Maillet;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;7293;32;81;628;Non vérifié;non
+80499;Mailly-Raineval;80;eau potable : REGIE CCALN;136951;2024;59,8;7,2;10,7;67,1;non conforme;147694;8387;79;249;290;Non vérifié;non
+80500;Maisnières;80;eau potable;210987;2024;90,2;0,7;6,8;66,4;conforme;58254;2664;15;38;472;Non vérifié;non
+80501;Maison-Ponthieu;80;eau potable;136984;2024;82,9;1,8;8,8;66,8;conforme;85830;4001;39;76;280;Non vérifié;non
+80502;Maison-Roland;80;eau potable;136969;2024;78,2;2,7;9,5;66,9;conforme;69714;1479;42;103;97;Non vérifié;non
+80503;Maizicourt;80;eau potable;136860;2024;89,0;2,6;21,2;69,2;conforme;2790;2790;42;45;182;Non vérifié;non
+80504;Malpart;80;eau potable : ex-SIAEP DU PLATEAU SUD D'AILLY SUR NOYE;137059;2024;53,2;5,4;6,1;66,2;non conforme;210897;2571;101;321;70;Non vérifié;non
+80505;Carnoy-Mametz;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;2961;32;81;255;Non vérifié;non
+80507;Marcelcave;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;15413;32;69;1302;Non vérifié;non
+80508;Marché-Allouarde;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;604;32;69;51;Non vérifié;non
+80509;Marchélepot-Misery;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;6807;32;69;575;Non vérifié;non
+80511;Marestmontiers;80;eau potable : ex-SIAEP DES TROIS DOMS;137016;2024;50,0;15,3;16,3;68,3;non calculable;41884;9412;215;343;120;Non vérifié;non
+80512;Mareuil-Caubert;80;eau potable;210987;2024;90,2;0,7;6,8;66,4;conforme;58254;4742;15;38;840;Non vérifié;non
+80513;Maricourt;80;eau potable : CC du pays du coquelicot DSP Saur;241514;2024;83,7;2,0;10,1;67,0;conforme;282408;19750;294;81;184;Non vérifié;non
+80514;Marieux;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;1487;32;81;128;Non vérifié;non
+80515;Marlers;80;eau potable;136864;2024;100,0;0,0;8,6;66,7;conforme;0;0;0;0;149;Non vérifié;non
+80516;Marquaix;80;eau potable;137019;2024;88,6;1,2;9,0;66,8;conforme;23766;1205;17;92;190;Non vérifié;non
+80517;Marquivillers;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;1064;15;37;189;Non vérifié;non
+80518;Martainneville;80;eau potable;210987;2024;90,2;0,7;6,8;66,4;conforme;58254;2314;15;38;410;Non vérifié;non
+80519;Matigny;80;eau potable;218462;2024;99,8;0,0;9,8;67,0;conforme;0;0;0;0;505;Non vérifié;non
+80520;Maucourt;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;2427;32;69;205;Non vérifié;non
+80521;Maurepas;80;eau potable;137026;2024;81,6;1,2;5,1;66,0;conforme;42885;3200;41;85;216;Non vérifié;non
+80522;Le Mazis;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;2531;65;116;107;Non vérifié;non
+80523;Méaulte;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;14923;32;81;1285;Non vérifié;non
+80524;Méharicourt;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;6463;32;69;546;Non vérifié;non
+80525;Meigneux;80;eau potable;214799;2024;83,5;1,6;8,1;66,6;conforme;65408;2272;34;72;183;Non vérifié;non
+80526;Le Meillard;80;eau potable : Régie;214800;2024;79,2;2,3;8,7;66,7;conforme;75555;2233;40;97;154;Non vérifié;non
+80527;Méneslies;80;eau potable : SYNDICAT INTERCOMMUNAL DES EAUX DE PICARDIE;137006;2024;73,2;3,6;9,7;66,9;conforme;454263;5858;54;135;298;Non vérifié;non
+80528;Méréaucourt;80;eau potable;214799;2024;83,5;1,6;8,1;66,6;conforme;65408;112;34;72;9;Non vérifié;non
+80529;Mérélessart;80;eau potable;136983;2024;84,2;1,2;6,2;66,2;conforme;24090;3199;48;71;183;Non vérifié;non
+80530;Méricourt-l'Abbé;80;eau potable : DSP VAL DE SOMME (SUEZ);267254;2024;84,9;2,6;14,9;68,0;conforme;165344;5890;27;77;587;Non vérifié;non
+80531;Méricourt-en-Vimeu;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;2507;65;116;106;Non vérifié;non
+80533;Mers-les-Bains;80;eau potable : syndicat;93094;2024;69,7;7,3;16,9;68,4;conforme;330265;59076;64;158;2540;Non vérifié;non
+80535;Le Mesge;80;eau potable;136988;2022;86,5;1,1;7,2;66,4;conforme;12671;894;17;55;144;Sans anomalie apparente;non
+80536;Mesnil-Bruntel;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;3433;32;69;290;Non vérifié;non
+80537;Mesnil-Domqueur;80;eau potable : Régie;214800;2024;79,2;2,3;8,7;66,7;conforme;75555;1276;40;97;88;Non vérifié;non
+80538;Mesnil-en-Arrouaise;80;eau potable;137026;2024;81,6;1,2;5,1;66,0;conforme;42885;1555;41;85;105;Non vérifié;non
+80540;Mesnil-Martinsart;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;2752;32;81;237;Non vérifié;non
+80541;Mesnil-Saint-Georges;80;eau potable : ex-SIAEP DU PLATEAU SUD D'AILLY SUR NOYE;137059;2024;53,2;5,4;6,1;66,2;non conforme;210897;7972;101;321;217;Non vérifié;non
+80542;Mesnil-Saint-Nicaise;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;6736;32;69;569;Non vérifié;non
+80543;Métigny;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;2886;65;116;122;Non vérifié;non
+80544;Mézerolles;80;eau potable;210989;2024;75,6;3,1;9,6;66,9;conforme;205446;3298;49;121;184;Non vérifié;non
+80545;Mézières-en-Santerre;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;6167;32;69;521;Non vérifié;non
+80546;Miannay;80;eau potable;210987;2024;90,2;0,7;6,8;66,4;conforme;58254;3409;15;38;604;Non vérifié;non
+80547;Millencourt;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;2346;32;81;202;Non vérifié;non
+80548;Millencourt-en-Ponthieu;80;eau potable;136984;2024;82,9;1,8;8,8;66,8;conforme;85830;4816;39;76;337;Non vérifié;non
+80549;Miraumont;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;7200;32;81;620;Non vérifié;non
+80550;Mirvaux;80;eau potable : ex-SIAEP DE RUBEMPRE - PIERREGOT - MIRVAUX et MOLLIENS AU BOIS;137010;2024;88,8;1,2;9,8;67,0;conforme;11826;973;22;67;121;Non vérifié;non
+80552;Moislains;80;eau potable;136870;2024;100,0;0,0;19,0;68,8;conforme;0;0;0;0;1109;Non vérifié;non
+80553;Molliens-au-Bois;80;eau potable : ex-SIAEP DE RUBEMPRE - PIERREGOT - MIRVAUX et MOLLIENS AU BOIS;137010;2024;88,8;1,2;9,8;67,0;conforme;11826;2808;22;67;349;Non vérifié;non
+80554;Molliens-Dreuil;80;eau potable;210990;2024;84,9;2,7;15,1;68,0;conforme;50408;15414;46;126;921;Non vérifié;non
+80555;Monchy-Lagache;80;eau potable;218462;2024;99,8;0,0;9,8;67,0;conforme;0;0;0;0;593;Non vérifié;non
+80556;Mons-Boubert;80;eau potable;209376;2024;79,9;1,4;5,4;66,1;conforme;64897;5880;28;94;585;Non vérifié;non
+80558;Monsures;80;eau potable;137005;2024;89,0;1,8;14,3;67,9;conforme;20919;1974;25;74;216;Non vérifié;non
+80559;Montagne-Fayel;80;eau potable;136873;2024;79,0;4,0;14,9;68,0;conforme;4482;4482;84;98;146;Non vérifié;non
+80560;Montauban-de-Picardie;80;eau potable : CC du pays du coquelicot DSP Saur;241514;2024;83,7;2,0;10,1;67,0;conforme;282408;23292;294;81;217;Non vérifié;non
+80561;Montdidier;80;eau potable;136874;2024;69,4;7,0;15,9;68,2;conforme;137714;137714;64;167;5935;Non vérifié;non
+80562;Montigny-sur-l'Hallue;80;eau potable;136987;2024;69,9;6,2;14,3;67,9;conforme;97309;5233;82;158;175;Non vérifié;non
+80563;Montigny-les-Jongleurs;80;eau potable : Régie;214800;2024;79,2;2,3;8,7;66,7;conforme;75555;1479;40;97;102;Non vérifié;non
+80565;Montonvillers;80;eau potable : ex-SIAEP DE LA RÉGION DE NAOURS;137002;2024;81,9;1,9;8,6;66,7;conforme;99628;1069;31;91;93;Non vérifié;non
+80566;Fieffes-Montrelet;80;eau potable : Régie;214800;2024;79,2;2,3;8,7;66,7;conforme;75555;4916;40;97;339;Non vérifié;non
+80568;Morchain;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;4285;32;69;362;Non vérifié;non
+80569;Morcourt;80;eau potable : DSP VAL DE SOMME (SUEZ);267254;2024;84,9;2,6;14,9;68,0;conforme;165344;3281;27;77;327;Non vérifié;non
+80570;Moreuil;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;46593;32;69;3936;Non vérifié;non
+80571;Morisel;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;5552;32;69;469;Non vérifié;non
+80572;Morlancourt;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;4436;32;81;382;Non vérifié;non
+80573;Morvillers-Saint-Saturnin;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;8799;65;116;372;Non vérifié;non
+80574;Mouflers;80;eau potable;136973;2020;74,1;3,7;10,6;67,1;conforme;40515;2289;65;128;96;Sans anomalie apparente;non
+80575;Mouflières;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;1774;65;116;75;Non vérifié;non
+80576;Moyencourt;80;eau potable;136880;2024;70,4;3,7;8,7;66,7;conforme;5942;5942;52;154;314;Non vérifié;non
+80577;Moyencourt-lès-Poix;80;eau potable;136881;2024;96,2;0,3;8,1;66,6;conforme;471;471;8;13;165;Non vérifié;non
+80578;Moyenneville;80;eau potable;210987;2024;90,2;0,7;6,8;66,4;conforme;58254;3912;15;38;693;Non vérifié;non
+80579;Muille-Villette;80;eau potable : Eppeville, Brouchy, Muille-Villette;136975;2024;92,3;0,9;10,1;67,0;conforme;12910;3409;12;32;789;Non vérifié;non
+80580;Nampont;80;eau potable;136998;2024;78,6;3,0;10,9;67,2;conforme;454885;10399;109;136;261;Non vérifié;non
+80582;Namps-Maisnil;80;eau potable;136882;2024;79,1;2,8;10,7;67,1;conforme;10384;10384;28;96;1013;Non vérifié;non
+80583;Nampty;80;eau potable;136884;2024;96,4;0,5;13,7;67,7;conforme;730;730;7;13;277;Non vérifié;non
+80584;Naours;80;eau potable : ex-SIAEP DE LA RÉGION DE NAOURS;137002;2024;81,9;1,9;8,6;66,7;conforme;99628;12035;31;91;1047;Non vérifié;non
+80585;Nesle;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;27037;32;69;2284;Non vérifié;non
+80586;Nesle-l'Hôpital;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;4116;65;116;174;Non vérifié;non
+80587;Neslette;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;2105;65;116;89;Non vérifié;non
+80588;Neufmoulin;80;eau potable;136969;2024;78,2;2,7;9,5;66,9;conforme;69714;5611;42;103;368;Non vérifié;non
+80589;Neuilly-le-Dien;80;eau potable;136984;2024;82,9;1,8;8,8;66,8;conforme;85830;1515;39;76;106;Non vérifié;non
+80590;Neuilly-l'Hôpital;80;eau potable : principal;137004;2024;62,6;3,2;5,4;66,1;non conforme;153405;8808;72;220;334;Non vérifié;non
+80591;Neuville-au-Bois;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;3406;65;116;144;Non vérifié;non
+80592;Neuville-Coppegueule;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;12040;65;116;509;Non vérifié;non
+80593;La Neuville-lès-Bray;80;eau potable : CC du pays du coquelicot DSP Saur;241514;2024;83,7;2,0;10,1;67,0;conforme;282408;28230;294;81;263;Non vérifié;non
+80595;La Neuville-Sire-Bernard;80;eau potable;137007;2024;88,5;1,5;11,5;67,3;conforme;13906;1878;20;48;263;Non vérifié;non
+80596;Neuvillette;80;eau potable;210989;2024;75,6;3,1;9,6;66,9;conforme;205446;3800;49;121;212;Non vérifié;non
+80597;Nibas;80;eau potable;209376;2024;79,9;1,4;5,4;66,1;conforme;64897;8322;28;94;828;Non vérifié;non
+80598;Nouvion;80;eau potable : principal;137004;2024;62,6;3,2;5,4;66,1;non conforme;153405;31541;72;220;1196;Non vérifié;non
+80599;Noyelles-en-Chaussée;80;eau potable;136984;2024;82,9;1,8;8,8;66,8;conforme;85830;3458;39;76;242;Non vérifié;non
+80600;Noyelles-sur-Mer;80;eau potable : principal;137004;2024;62,6;3,2;5,4;66,1;non conforme;153405;16773;72;220;636;Non vérifié;non
+80601;Nurlu;80;eau potable;199397;2024;77,1;2,0;6,7;66,3;conforme;86045;5226;38;114;373;Non vérifié;non
+80602;Occoches;80;eau potable;210989;2024;75,6;3,1;9,6;66,9;conforme;205446;2169;49;121;121;Non vérifié;non
+80603;Ochancourt;80;eau potable;209376;2024;79,9;1,4;5,4;66,1;conforme;64897;3236;28;94;322;Non vérifié;non
+80604;Offignies;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;1963;65;116;83;Non vérifié;non
+80606;Oisemont;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;26658;65;116;1127;Non vérifié;non
+80607;Oissy;80;eau potable;210990;2024;84,9;2,7;15,1;68,0;conforme;50408;3448;46;126;206;Non vérifié;non
+80609;Oneux;80;eau potable;136969;2024;78,2;2,7;9,5;66,9;conforme;69714;6618;42;103;434;Non vérifié;non
+80611;Oresmaux;80;eau potable;137005;2024;89,0;1,8;14,3;67,9;conforme;20919;9121;25;74;998;Non vérifié;non
+80613;Oust-Marest;80;eau potable : SYNDICAT INTERCOMMUNAL DES EAUX DE PICARDIE;137006;2024;73,2;3,6;9,7;66,9;conforme;454263;11951;54;135;608;Non vérifié;non
+80614;Outrebois;80;eau potable;210989;2024;75,6;3,1;9,6;66,9;conforme;205446;5611;49;121;313;Non vérifié;non
+80615;Ovillers-la-Boisselle;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;5005;32;81;431;Non vérifié;non
+80616;Pargny;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;2344;32;69;198;Non vérifié;non
+80617;Parvillers-le-Quesnoy;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;1374;15;37;244;Non vérifié;non
+80618;Pendé;80;eau potable : SYNDICAT INTERCOMMUNAL DES EAUX DE PICARDIE;137006;2024;73,2;3,6;9,7;66,9;conforme;454263;20148;54;135;1025;Non vérifié;non
+80619;Pernois;80;eau potable;137003;2023;63,4;9,5;16,5;68,3;non conforme;209125;20521;82;296;686;Sans anomalie apparente;non
+80620;Péronne;80;eau potable;136895;2024;92,7;2,7;34,3;71,9;conforme;68000;68000;26;36;7090;Non vérifié;non
+80621;Hypercourt;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;8038;32;69;679;Non vérifié;non
+80622;Picquigny;80;eau potable;214797;2024;70,8;7,8;18,8;68,8;conforme;44812;28928;62;151;1273;Non vérifié;non
+80623;Piennes-Onvillers;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;2201;15;37;391;Non vérifié;non
+80624;Pierregot;80;eau potable : ex-SIAEP DE RUBEMPRE - PIERREGOT - MIRVAUX et MOLLIENS AU BOIS;137010;2024;88,8;1,2;9,8;67,0;conforme;11826;2253;22;67;280;Non vérifié;non
+80625;Trois-Rivières;80;eau potable;137007;2024;88,5;1,5;11,5;67,3;conforme;13906;10580;20;48;1482;Non vérifié;non
+80626;Pissy;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;7371;71;165;284;Non vérifié;non
+80628;Le Plessier-Rozainvillers;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;8914;32;69;753;Non vérifié;non
+80629;Poeuilly;80;eau potable;137019;2024;88,6;1,2;9,0;66,8;conforme;23766;679;17;92;107;Non vérifié;non
+80630;Poix-de-Picardie;80;eau potable;214799;2024;83,5;1,6;8,1;66,6;conforme;65408;28328;34;72;2282;Non vérifié;non
+80631;Ponches-Estruval;80;eau potable;136984;2024;82,9;1,8;8,8;66,8;conforme;85830;1815;39;76;127;Non vérifié;non
+80632;Pont-de-Metz;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;62935;71;165;2425;Non vérifié;non
+80633;Ponthoile;80;eau potable;136998;2024;78,6;3,0;10,9;67,2;conforme;454885;22431;109;136;563;Non vérifié;non
+80634;Pont-Noyelles;80;eau potable : DSP VAL DE SOMME (SUEZ);267254;2024;84,9;2,6;14,9;68,0;conforme;165344;8288;27;77;826;Non vérifié;non
+80635;Pont-Remy;80;eau potable;137008;2024;77,2;2,4;8,0;66,6;conforme;37633;15987;30;110;1438;Non vérifié;non
+80637;Port-le-Grand;80;eau potable : principal;137004;2024;62,6;3,2;5,4;66,1;non conforme;153405;7068;72;220;268;Non vérifié;non
+80638;Potte;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;1314;32;69;111;Non vérifié;non
+80639;Poulainville;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;34647;71;165;1335;Non vérifié;non
+80640;Pozières;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;3054;32;81;263;Non vérifié;non
+80642;Prouville;80;eau potable : Régie;214800;2024;79,2;2,3;8,7;66,7;conforme;75555;4409;40;97;304;Non vérifié;non
+80643;Prouzel;80;eau potable;136902;2024;94,4;0,7;11,8;67,4;conforme;1145;1145;5;22;572;Non vérifié;non
+80644;Proyart;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;9009;32;69;761;Non vérifié;non
+80645;Puchevillers;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;6643;32;81;572;Non vérifié;non
+80646;Punchy;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;935;32;69;79;Non vérifié;non
+80647;Puzeaux;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;3291;32;69;278;Non vérifié;non
+80648;Pys;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;1452;32;81;125;Non vérifié;non
+80649;Quend;80;eau potable;136998;2024;78,6;3,0;10,9;67,2;conforme;454885;50999;109;136;1280;Non vérifié;non
+80650;Querrieu;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;16246;71;165;626;Non vérifié;non
+80651;Le Quesne;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;5511;65;116;233;Non vérifié;non
+80652;Le Quesnel;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;9044;32;69;764;Non vérifié;non
+80654;Quesnoy-le-Montant;80;eau potable;209376;2024;79,9;1,4;5,4;66,1;conforme;64897;5166;28;94;514;Non vérifié;non
+80655;Quesnoy-sur-Airaines;80;eau potable;136908;2024;75,6;2,5;7,8;66,6;conforme;5521;5521;35;117;427;Non vérifié;non
+80656;Quevauvillers;80;eau potable;136909;2024;92,2;0,8;8,8;66,8;conforme;3971;3971;10;33;1102;Non vérifié;non
+80657;Quiry-le-Sec;80;eau potable : ex-SIAEP DU PLATEAU SUD D'AILLY SUR NOYE;137059;2024;53,2;5,4;6,1;66,2;non conforme;210897;11425;101;321;311;Non vérifié;non
+80658;Quivières;80;eau potable;218462;2024;99,8;0,0;9,8;67,0;conforme;0;0;0;0;139;Non vérifié;non
+80659;Raincheval;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;3124;32;81;269;Non vérifié;non
+80661;Rainneville;80;eau potable : Rainneville;136912;2024;91,6;1,3;13,8;67,8;conforme;4745;4745;12;34;1123;Non vérifié;non
+80662;Ramburelles;80;eau potable;210987;2024;90,2;0,7;6,8;66,4;conforme;58254;1479;15;38;262;Non vérifié;non
+80663;Rambures;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;8965;65;116;379;Non vérifié;non
+80664;Rancourt;80;eau potable;137026;2024;81,6;1,2;5,1;66,0;conforme;42885;2785;41;85;188;Non vérifié;non
+80665;Regnière-Écluse;80;eau potable;136998;2024;78,6;3,0;10,9;67,2;conforme;454885;5538;109;136;139;Non vérifié;non
+80666;Remaisnil;80;eau potable;210989;2024;75,6;3,1;9,6;66,9;conforme;205446;502;49;121;28;Non vérifié;non
+80667;Remaugies;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;771;15;37;137;Non vérifié;non
+80668;Remiencourt;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;4256;71;165;164;Non vérifié;non
+80669;Rethonvillers;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;4096;32;69;346;Non vérifié;non
+80670;Revelles;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;13755;71;165;530;Non vérifié;non
+80671;Ribeaucourt;80;eau potable : Régie;214800;2024;79,2;2,3;8,7;66,7;conforme;75555;3234;40;97;223;Non vérifié;non
+80672;Ribemont-sur-Ancre;80;eau potable : DSP VAL DE SOMME (SUEZ);267254;2024;84,9;2,6;14,9;68,0;conforme;165344;6111;27;77;609;Non vérifié;non
+80673;Riencourt;80;eau potable;210990;2024;84,9;2,7;15,1;68,0;conforme;50408;3029;46;126;181;Non vérifié;non
+80674;Rivery;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;94364;71;165;3636;Non vérifié;non
+80675;Rogy;80;eau potable;137005;2024;89,0;1,8;14,3;67,9;conforme;20919;1362;25;74;149;Non vérifié;non
+80676;Roiglise;80;eau potable;167744;2024;77,3;1,6;5,6;66,1;conforme;98457;1840;33;105;152;Non vérifié;non
+80677;Roisel;80;eau potable;199397;2024;77,1;2,0;6,7;66,3;conforme;86045;22783;38;114;1626;Non vérifié;non
+80678;Rollot;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;4250;15;37;755;Non vérifié;non
+80679;Ronssoy;80;eau potable;199397;2024;77,1;2,0;6,7;66,3;conforme;86045;8085;38;114;577;Non vérifié;non
+80680;Rosières-en-Santerre;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;34259;32;69;2894;Non vérifié;non
+80681;Rouvrel;80;eau potable : ex-SIAEP DU PLATEAU SUD D'AILLY SUR NOYE;137059;2024;53,2;5,4;6,1;66,2;non conforme;210897;11168;101;321;304;Non vérifié;non
+80682;Rouvroy-en-Santerre;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;2474;32;69;209;Non vérifié;non
+80683;Rouy-le-Grand;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;1184;32;69;100;Non vérifié;non
+80684;Rouy-le-Petit;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;1196;32;69;101;Non vérifié;non
+80685;Roye;80;eau potable;136916;2024;85,8;3,5;21,1;69,2;conforme;63760;63760;30;62;5833;Non vérifié;non
+80686;Rubempré;80;eau potable : ex-SIAEP DE RUBEMPRE - PIERREGOT - MIRVAUX et MOLLIENS AU BOIS;137010;2024;88,8;1,2;9,8;67,0;conforme;11826;5792;22;67;720;Non vérifié;non
+80687;Rubescourt;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;726;15;37;129;Non vérifié;non
+80688;Rue;80;eau potable;136918;2024;58,7;7,4;10,6;67,1;non conforme;113442;113442;104;256;2987;Non vérifié;non
+80690;Rumigny;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;15909;71;165;613;Non vérifié;non
+80691;Saigneville;80;eau potable;209376;2024;79,9;1,4;5,4;66,1;conforme;64897;3457;28;94;344;Non vérifié;non
+80692;Sailly-Flibeaucourt;80;eau potable;137011;2024;87,9;2,2;15,8;68,2;conforme;9732;7290;20;73;991;Non vérifié;non
+80693;Sailly-Laurette;80;eau potable : DSP VAL DE SOMME (SUEZ);267254;2024;84,9;2,6;14,9;68,0;conforme;165344;3341;27;77;333;Non vérifié;non
+80694;Sailly-le-Sec;80;eau potable : DSP VAL DE SOMME (SUEZ);267254;2024;84,9;2,6;14,9;68,0;conforme;165344;3522;27;77;351;Non vérifié;non
+80695;Sailly-Saillisel;80;eau potable;137026;2024;81,6;1,2;5,1;66,0;conforme;42885;6947;41;85;469;Non vérifié;non
+80696;Sains-en-Amiénois;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;30806;71;165;1187;Non vérifié;non
+80697;Saint-Acheul;80;eau potable : Régie;214800;2024;79,2;2,3;8,7;66,7;conforme;75555;522;40;97;36;Non vérifié;non
+80698;Saint-Aubin-Montenoy;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;5156;65;116;218;Non vérifié;non
+80699;Saint-Aubin-Rivière;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;2744;65;116;116;Non vérifié;non
+80700;Saint-Blimont;80;eau potable : SYNDICAT INTERCOMMUNAL DES EAUX DE PICARDIE;137006;2024;73,2;3,6;9,7;66,9;conforme;454263;17357;54;135;883;Non vérifié;non
+80701;Saint-Christ-Briost;80;eau potable;218462;2024;99,8;0,0;9,8;67,0;conforme;0;0;0;0;425;Non vérifié;non
+80702;Saint-Fuscien;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;36567;71;165;1409;Non vérifié;non
+80703;Saint-Germain-sur-Bresle;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;5298;65;116;224;Non vérifié;non
+80704;Saint-Gratien;80;eau potable : Saint-Gratien;136922;2024;82,5;3,0;14,2;67,8;conforme;4380;4380;31;77;383;Non vérifié;non
+80705;Saint-Léger-lès-Authie;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;917;32;81;79;Non vérifié;non
+80706;Saint-Léger-lès-Domart;80;eau potable;137003;2023;63,4;9,5;16,5;68,3;non conforme;209125;54113;82;296;1809;Sans anomalie apparente;non
+80707;Saint-Léger-sur-Bresle;80;eau potable;92997;2024;66,7;3,2;6,4;66,3;conforme;30368;1988;68;184;80;Non vérifié;non
+80708;Saint-Mard;80;eau potable;136924;2021;100,0;0,0;11,4;67,3;conforme;0;0;0;0;155;Sans anomalie apparente;non
+80709;Saint-Maulvis;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;6599;65;116;279;Non vérifié;non
+80710;Saint-Maxent;80;eau potable;210987;2024;90,2;0,7;6,8;66,4;conforme;58254;2201;15;38;390;Non vérifié;non
+80711;Saint-Ouen;80;eau potable;137003;2023;63,4;9,5;16,5;68,3;non conforme;209125;53007;82;296;1772;Sans anomalie apparente;non
+80713;Saint-Quentin-en-Tourmont;80;eau potable;136998;2024;78,6;3,0;10,9;67,2;conforme;454885;12033;109;136;302;Non vérifié;non
+80714;Saint-Quentin-la-Motte-Croix-au-Bailly;80;eau potable : SYNDICAT INTERCOMMUNAL DES EAUX DE PICARDIE;137006;2024;73,2;3,6;9,7;66,9;conforme;454263;24610;54;135;1252;Non vérifié;non
+80716;Saint-Riquier;80;eau potable;136969;2024;78,2;2,7;9,5;66,9;conforme;69714;19502;42;103;1279;Non vérifié;non
+80717;Saint-Sauflieu;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;25330;71;165;976;Non vérifié;non
+80718;Saint-Sauveur;80;eau potable;136928;2024;79,2;6,2;23,7;69,7;conforme;16656;16656;34;95;1344;Non vérifié;non
+80719;Sainte-Segrée;80;eau potable;214799;2024;83,5;1,6;8,1;66,6;conforme;65408;583;34;72;47;Non vérifié;non
+80721;Saint-Valery-sur-Somme;80;eau potable;344614;2024;83,6;3,5;17,8;68,6;conforme;48175;48175;57;72;2306;Non vérifié;non
+80722;Saint-Vaast-en-Chaussée;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;13080;71;165;504;Non vérifié;non
+80723;Saisseval;80;eau potable;137041;2024;87,8;1,3;9,5;66,9;conforme;6909;2479;26;50;263;Non vérifié;non
+80724;Saleux;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;71085;71;165;2739;Non vérifié;non
+80725;Salouël;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;108457;71;165;4179;Non vérifié;non
+80726;Sancourt;80;eau potable;136932;2024;90,7;0,4;3,8;65,8;conforme;1188;1188;12;41;269;Non vérifié;non
+80728;Saulchoy-sous-Poix;80;eau potable;214799;2024;83,5;1,6;8,1;66,6;conforme;65408;919;34;72;74;Non vérifié;non
+80729;Sauvillers-Mongival;80;eau potable : REGIE CCALN;136951;2024;59,8;7,2;10,7;67,1;non conforme;147694;5148;79;249;178;Non vérifié;non
+80730;Saveuse;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;28444;71;165;1096;Non vérifié;non
+80732;Senarpont;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;14736;65;116;623;Non vérifié;non
+80733;Senlis-le-Sec;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;3763;32;81;324;Non vérifié;non
+80734;Sentelie;80;eau potable;137012;2024;82,2;1,8;8,3;66,7;conforme;9592;4073;51;90;217;Non vérifié;non
+80735;Seux;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;4204;71;165;162;Non vérifié;non
+80736;Sorel-en-Vimeu;80;eau potable;136986;2024;83,8;2,2;11,2;67,2;conforme;22709;2197;26;71;235;Non vérifié;non
+80737;Sorel;80;eau potable;199397;2024;77,1;2,0;6,7;66,3;conforme;86045;2270;38;114;162;Non vérifié;non
+80738;Soues;80;eau potable;136988;2022;86,5;1,1;7,2;66,4;conforme;12671;769;17;55;124;Sans anomalie apparente;non
+80740;Sourdon;80;eau potable : ex-SIAEP DU PLATEAU SUD D'AILLY SUR NOYE;137059;2024;53,2;5,4;6,1;66,2;non conforme;210897;10580;101;321;288;Non vérifié;non
+80741;Soyécourt;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;2202;32;69;186;Non vérifié;non
+80742;Surcamps;80;eau potable;136973;2020;74,1;3,7;10,6;67,1;conforme;40515;2003;65;128;84;Sans anomalie apparente;non
+80743;Suzanne;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;2207;32;81;190;Non vérifié;non
+80744;Tailly;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;1372;65;116;58;Non vérifié;non
+80746;Talmas;80;eau potable : ex-SIAEP DE LA RÉGION DE NAOURS;137002;2024;81,9;1,9;8,6;66,7;conforme;99628;12472;31;91;1085;Non vérifié;non
+80747;Templeux-la-Fosse;80;eau potable;199397;2024;77,1;2,0;6,7;66,3;conforme;86045;1948;38;114;139;Non vérifié;non
+80748;Templeux-le-Guérard;80;eau potable;199397;2024;77,1;2,0;6,7;66,3;conforme;86045;2774;38;114;198;Non vérifié;non
+80749;Terramesnil;80;eau potable;210989;2024;75,6;3,1;9,6;66,9;conforme;205446;5790;49;121;323;Non vérifié;non
+80750;Tertry;80;eau potable;218462;2024;99,8;0,0;9,8;67,0;conforme;0;0;0;0;145;Non vérifié;non
+80751;Thennes;80;eau potable : DSP SUEZ;136979;2024;83,3;5,4;26,8;70,4;conforme;50182;4674;23;187;552;Non vérifié;non
+80752;Thézy-Glimont;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;17155;71;165;661;Non vérifié;non
+80753;Thiepval;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;1440;32;81;124;Non vérifié;non
+80754;Thieulloy-l'Abbaye;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;8988;65;116;380;Non vérifié;non
+80755;Thieulloy-la-Ville;80;eau potable;214799;2024;83,5;1,6;8,1;66,6;conforme;65408;1750;34;72;141;Non vérifié;non
+80756;Thièvres;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;627;32;81;54;Non vérifié;non
+80757;Thoix;80;eau potable;137012;2024;82,2;1,8;8,3;66,7;conforme;9592;2759;51;90;147;Non vérifié;non
+80758;Thory;80;eau potable : ex-SIAEP DU PLATEAU SUD D'AILLY SUR NOYE;137059;2024;53,2;5,4;6,1;66,2;non conforme;210897;7604;101;321;207;Non vérifié;non
+80759;Tilloloy;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;1790;15;37;318;Non vérifié;non
+80760;Tilloy-Floriville;80;eau potable;210987;2024;90,2;0,7;6,8;66,4;conforme;58254;1993;15;38;353;Non vérifié;non
+80762;Tincourt-Boucly;80;eau potable;137019;2024;88,6;1,2;9,0;66,8;conforme;23766;2118;17;92;334;Non vérifié;non
+80763;Le Titre;80;eau potable;137011;2024;87,9;2,2;15,8;68,2;conforme;9732;2442;20;73;332;Non vérifié;non
+80764;Toeufles;80;eau potable : SIAEP D' AIGNEVILLE;136959;2024;99,8;0,0;8,6;66,7;conforme;0;0;0;0;308;Non vérifié;non
+80765;Tours-en-Vimeu;80;eau potable : SIAEP D' AIGNEVILLE;136959;2024;99,8;0,0;8,6;66,7;conforme;0;0;0;0;805;Non vérifié;non
+80766;Toutencourt;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;5052;32;81;435;Non vérifié;non
+80767;Le Translay;80;eau potable;210987;2024;90,2;0,7;6,8;66,4;conforme;58254;1321;15;38;234;Non vérifié;non
+80769;Treux;80;eau potable : DSP VAL DE SOMME (SUEZ);267254;2024;84,9;2,6;14,9;68,0;conforme;165344;2208;27;77;220;Non vérifié;non
+80770;Tully;80;eau potable : SYNDICAT INTERCOMMUNAL DES EAUX DE PICARDIE;137006;2024;73,2;3,6;9,7;66,9;conforme;454263;10791;54;135;549;Non vérifié;non
+80771;Ugny-l'Équipée;80;eau potable : SAE vallée Omignon-régie-P,T,D;124515;2024;67,6;3,5;7,2;66,4;conforme;146580;623;59;177;29;Non vérifié;non
+80773;Vadencourt;80;eau potable;136987;2024;69,9;6,2;14,3;67,9;conforme;97309;2931;82;158;98;Non vérifié;non
+80774;Vaire-sous-Corbie;80;eau potable : DSP VAL DE SOMME (SUEZ);267254;2024;84,9;2,6;14,9;68,0;conforme;165344;2890;27;77;288;Non vérifié;non
+80775;Valines;80;eau potable;209376;2024;79,9;1,4;5,4;66,1;conforme;64897;6583;28;94;655;Non vérifié;non
+80776;Varennes;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;2578;32;81;222;Non vérifié;non
+80777;Vauchelles-lès-Authie;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;1533;32;81;132;Non vérifié;non
+80778;Vauchelles-lès-Domart;80;eau potable;136973;2020;74,1;3,7;10,6;67,1;conforme;40515;2862;65;128;120;Sans anomalie apparente;non
+80779;Vauchelles-les-Quesnoy;80;eau potable : ex-SIAEP DE VAUCHELLES LES QUESNOY - BELLANCOURT;137017;2024;97,8;0,2;10,7;67,1;conforme;1134;706;2;7;815;Non vérifié;non
+80780;Vaudricourt;80;eau potable : SYNDICAT INTERCOMMUNAL DES EAUX DE PICARDIE;137006;2024;73,2;3,6;9,7;66,9;conforme;454263;8138;54;135;414;Non vérifié;non
+80781;Vauvillers;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;2758;32;69;233;Non vérifié;non
+80782;Vaux-en-Amiénois;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;11523;71;165;444;Non vérifié;non
+80783;Vaux-Marquenneville;80;eau potable;136983;2024;84,2;1,2;6,2;66,2;conforme;24090;1381;48;71;79;Non vérifié;non
+80784;Vaux-sur-Somme;80;eau potable : DSP VAL DE SOMME (SUEZ);267254;2024;84,9;2,6;14,9;68,0;conforme;165344;2689;27;77;268;Non vérifié;non
+80785;Vecquemont;80;eau potable : DSP VAL DE SOMME (SUEZ);267254;2024;84,9;2,6;14,9;68,0;conforme;165344;5328;27;77;531;Non vérifié;non
+80786;Velennes;80;eau potable;137052;2024;89,9;0,8;7,5;66,5;conforme;1168;568;11;39;141;Non vérifié;non
+80787;Vercourt;80;eau potable;136998;2024;78,6;3,0;10,9;67,2;conforme;454885;3865;109;136;97;Non vérifié;non
+80788;Vergies;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;4116;65;116;174;Non vérifié;non
+80789;Vermandovillers;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;1740;32;69;147;Non vérifié;non
+80790;Verpillières;80;eau potable;136942;2021;94,1;0,6;10,3;67,1;conforme;705;705;12;21;168;Sans anomalie apparente;non
+80791;Vers-sur-Selles;80;eau potable : Service d'eau potable d'Amiens Métropole;186270;2024;69,5;13,7;31,0;71,2;non conforme;4785478;24110;71;165;929;Non vérifié;non
+80792;La Vicogne;80;eau potable : ex-SIAEP DE LA RÉGION DE NAOURS;137002;2024;81,9;1,9;8,6;66,7;conforme;99628;2770;31;91;241;Non vérifié;non
+80793;Vignacourt;80;eau potable : ex-SIAEP DE LA RÉGION DE NAOURS;137002;2024;81,9;1,9;8,6;66,7;conforme;99628;26013;31;91;2263;Non vérifié;non
+80794;Villecourt;80;eau potable;218462;2024;99,8;0,0;9,8;67,0;conforme;0;0;0;0;46;Non vérifié;non
+80795;Ville-le-Marclet;80;eau potable;136978;2024;70,7;4,8;11,6;67,3;conforme;122640;15355;91;151;461;Non vérifié;non
+80796;Villeroy;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;4187;65;116;177;Non vérifié;non
+80797;Villers-aux-Érables;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;1622;32;69;137;Non vérifié;non
+80798;Villers-Bocage;80;eau potable : ex-SIAEP DE LA RÉGION DE NAOURS;137002;2024;81,9;1,9;8,6;66,7;conforme;99628;17760;31;91;1545;Non vérifié;non
+80799;Villers-Bretonneux;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;55010;32;69;4647;Non vérifié;non
+80800;Villers-Campsart;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;3264;65;116;138;Non vérifié;non
+80801;Villers-Carbonnel;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;3480;32;69;294;Non vérifié;non
+80802;Villers-Faucon;80;eau potable;199397;2024;77,1;2,0;6,7;66,3;conforme;86045;7426;38;114;530;Non vérifié;non
+80803;Villers-lès-Roye;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;1621;15;37;288;Non vérifié;non
+80804;Villers-sous-Ailly;80;eau potable;136961;2022;80,0;1,9;7,8;66,6;conforme;29820;2160;35;89;167;Sans anomalie apparente;non
+80805;Villers-Tournelle;80;eau potable;167765;2024;83,0;1,5;7,3;66,5;conforme;12905;1863;32;75;160;Non vérifié;non
+80806;Villers-sur-Authie;80;eau potable;136998;2024;78,6;3,0;10,9;67,2;conforme;454885;18646;109;136;468;Non vérifié;non
+80807;Ville-sur-Ancre;80;eau potable : CC du pays du coquelicot DSP Veolia;241494;2024;83,7;2,0;10,1;67,0;conforme;282408;3263;32;81;281;Non vérifié;non
+80808;Vironchaux;80;eau potable;136998;2024;78,6;3,0;10,9;67,2;conforme;454885;20041;109;136;503;Non vérifié;non
+80809;Vismes;80;eau potable;210987;2024;90,2;0,7;6,8;66,4;conforme;58254;2676;15;38;474;Non vérifié;non
+80810;Vitz-sur-Authie;80;eau potable;136984;2024;82,9;1,8;8,8;66,8;conforme;85830;1944;39;76;136;Non vérifié;non
+80811;Voyennes;80;eau potable;136948;2021;53,4;5,4;6,2;66,2;non conforme;15374;15374;71;316;595;Sans anomalie apparente;non
+80813;Vraignes-lès-Hornoy;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;2271;65;116;96;Non vérifié;non
+80814;Vrély;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;5434;32;69;459;Non vérifié;non
+80815;Vron;80;eau potable;136998;2024;78,6;3,0;10,9;67,2;conforme;454885;33428;109;136;839;Non vérifié;non
+80819;Wargnies;80;eau potable : ex-SIAEP DE LA RÉGION DE NAOURS;137002;2024;81,9;1,9;8,6;66,7;conforme;99628;897;31;91;78;Non vérifié;non
+80820;Warloy-Baillon;80;eau potable;136987;2024;69,9;6,2;14,3;67,9;conforme;97309;22219;82;158;743;Non vérifié;non
+80821;Warlus;80;eau potable : Régie;210991;2024;76,5;2,5;8,2;66,6;conforme;317550;5440;65;116;230;Non vérifié;non
+80822;Warsy;80;eau potable;136985;2024;91,0;0,6;6,4;66,3;conforme;58035;783;15;37;139;Non vérifié;non
+80823;Warvillers;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;1432;32;69;121;Non vérifié;non
+80824;Wiencourt-l'Équipée;80;eau potable;137054;2024;84,2;2,1;11,3;67,3;conforme;506657;2948;32;69;249;Non vérifié;non
+80825;Wiry-au-Mont;80;eau potable;136983;2024;84,2;1,2;6,2;66,2;conforme;24090;1801;48;71;103;Non vérifié;non
+80826;Woignarue;80;eau potable : SYNDICAT INTERCOMMUNAL DES EAUX DE PICARDIE;137006;2024;73,2;3,6;9,7;66,9;conforme;454263;14389;54;135;732;Non vérifié;non
+80827;Woincourt;80;eau potable : SYNDICAT INTERCOMMUNAL DES EAUX DE PICARDIE;137006;2024;73,2;3,6;9,7;66,9;conforme;454263;25593;54;135;1302;Non vérifié;non
+80828;Woirel;80;eau potable;136983;2024;84,2;1,2;6,2;66,2;conforme;24090;804;48;71;46;Non vérifié;non
+80829;Y;80;eau potable;218462;2024;99,8;0,0;9,8;67,0;conforme;0;0;0;0;87;Non vérifié;non
+80830;Yaucourt-Bussus;80;eau potable;136969;2024;78,2;2,7;9,5;66,9;conforme;69714;3827;42;103;251;Non vérifié;non
+80832;Yvrench;80;eau potable;136984;2024;82,9;1,8;8,8;66,8;conforme;85830;4230;39;76;296;Non vérifié;non
+80833;Yvrencheux;80;eau potable;136984;2024;82,9;1,8;8,8;66,8;conforme;85830;1858;39;76;130;Non vérifié;non
+80834;Yzengremer;80;eau potable : SYNDICAT INTERCOMMUNAL DES EAUX DE PICARDIE;137006;2024;73,2;3,6;9,7;66,9;conforme;454263;9632;54;135;490;Non vérifié;non
+80835;Yzeux;80;eau potable;136988;2022;86,5;1,1;7,2;66,4;conforme;12671;1638;17;55;264;Sans anomalie apparente;non
+80836;Yonval;80;eau potable : Yonval;136950;2024;97,8;0,3;11,8;67,4;conforme;288;288;3;9;243;Non vérifié;non

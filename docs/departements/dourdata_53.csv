@@ -7,246 +7,246 @@
 # Méthodologie et code : https://github.com/btaverne/dourdata
 # Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
 # Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
-Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
-53001;Ahuillé;53;eau potable : PS secteur Sud Nord Ouest;284274;2024;81,8;0,8;3,5;65,7;conforme;64640;17712;26;85;1852;Non vérifié
-53002;Alexain;53;eau potable : SIAEP de l'Anxure et de la Perche;92066;2024;94,5;0,2;4,2;65,8;conforme;11965;2776;12;18;610;Non vérifié
-53003;Ambrières-les-Vallées;53;eau potable : COMAVA;92223;2024;83,3;0,6;3,2;65,6;conforme;81665;27719;29;68;2619;Non vérifié
-53005;Andouillé;53;eau potable : Principal;92150;2024;75,0;1,2;3,6;65,7;conforme;323520;43289;51;130;2321;Non vérifié
-53007;Argentré;53;eau potable : PS secteur EST;240034;2024;88,0;0,8;6,1;66,2;conforme;102816;21432;20;59;2906;Non vérifié
-53008;Aron;53;eau potable : Aron;92205;2024;90,5;0,3;3,1;65,6;conforme;7294;7294;11;35;1828;Non vérifié
-53009;Arquenay;53;eau potable : CC du Pays de Meslay-Grez;92196;2024;80,9;1,0;4,3;65,9;conforme;251120;12833;52;97;674;Non vérifié
-53010;Assé-le-Bérenger;53;eau potable : Régie des Eaux des Coëvrons;92063;2024;89,4;0,7;5,5;66,1;conforme;353101;5246;36;50;395;Non vérifié
-53011;Astillé;53;eau potable : Distribution en DSP;300334;2024;83,9;0,6;3,1;65,6;conforme;156714;9662;30;76;895;Non vérifié
-53012;Athée;53;eau potable : Principal;92195;2024;87,7;1,3;9,3;66,9;conforme;366789;11753;71;85;451;Non vérifié
-53013;Averton;53;eau potable : CC du Mont des Avaloirs;212350;2024;67,5;1,2;2,6;65,5;conforme;219372;13753;68;169;552;Non vérifié
-53015;La Baconnière;53;eau potable : Principal;92150;2024;75,0;1,2;3,6;65,7;conforme;323520;36649;51;130;1965;Non vérifié
-53016;Bais;53;eau potable : Régie des Eaux des Coëvrons;92063;2024;89,4;0,7;5,5;66,1;conforme;353101;16231;36;50;1222;Non vérifié
-53017;Val-du-Maine;53;eau potable : ex-SIAEP Ballée;91931;2024;69,5;2,1;4,9;66,0;conforme;49585;31617;91;227;952;Non vérifié
-53018;Ballots;53;eau potable : Principal;92195;2024;87,7;1,3;9,3;66,9;conforme;366789;33304;71;85;1278;Non vérifié
-53019;Bannes;53;eau potable : CC du Pays de Meslay-Grez;92196;2024;80,9;1,0;4,3;65,9;conforme;251120;2266;52;97;119;Non vérifié
-53021;La Bazoge-Montpinçon;53;eau potable : SIAEP de Commer;91995;2024;85,5;0,7;4,0;65,8;conforme;32816;6310;18;64;953;Non vérifié
-53022;La Bazouge-de-Chemeré;53;eau potable : CC du Pays de Meslay-Grez;92196;2024;80,9;1,0;4,3;65,9;conforme;251120;9463;52;97;497;Non vérifié
-53023;La Bazouge-des-Alleux;53;eau potable : Régie des Eaux des Coëvrons;92063;2024;89,4;0,7;5,5;66,1;conforme;353101;7411;36;50;558;Non vérifié
-53025;Bazougers;53;eau potable : CC du Pays de Meslay-Grez;92196;2024;80,9;1,0;4,3;65,9;conforme;251120;20544;52;97;1079;Non vérifié
-53026;Beaulieu-sur-Oudon;53;eau potable : PS secteur Sud Ouest;303634;2024;84,0;1,1;6,0;66,2;conforme;137305;4223;24;76;483;Non vérifié
-53027;Beaumont-Pied-de-Boeuf;53;eau potable : ex-SIAEP Ballée;91931;2024;69,5;2,1;4,9;66,0;conforme;49585;6742;91;227;203;Non vérifié
-53028;Belgeard;53;eau potable : SIAEP de Commer;91995;2024;85,5;0,7;4,0;65,8;conforme;32816;3675;18;64;555;Non vérifié
-53029;Bierné-les-Villages;53;eau potable : Secteur Est - ex-SIAEP Bierné;91932;2024;95,9;0,3;7,6;66,5;conforme;45573;8439;18;45;1285;Non vérifié
-53030;Le Bignon-du-Maine;53;eau potable : CC du Pays de Meslay-Grez;92196;2024;80,9;1,0;4,3;65,9;conforme;251120;6131;52;97;322;Non vérifié
-53031;La Bigottière;53;eau potable : Principal;92150;2024;75,0;1,2;3,6;65,7;conforme;323520;9120;51;130;489;Non vérifié
-53033;La Boissière;53;eau potable : Distribution en DSP;300334;2024;83,9;0,6;3,1;65,6;conforme;156714;1242;30;76;115;Non vérifié
-53034;Bonchamp-lès-Laval;53;eau potable : PS secteur EST;240034;2024;88,0;0,8;6,1;66,2;conforme;102816;46478;20;59;6302;Non vérifié
-53035;Bouchamps-lès-Craon;53;eau potable : Distribution en DSP;300334;2024;83,9;0,6;3,1;65,6;conforme;156714;6424;30;76;595;Non vérifié
-53036;Bouère;53;eau potable : CC du Pays de Meslay-Grez;92196;2024;80,9;1,0;4,3;65,9;conforme;251120;20144;52;97;1058;Non vérifié
-53037;Bouessay;53;eau potable : Bouessay;305534;2024;85,5;0,5;3,0;65,6;conforme;4249;4249;16;62;714;Non vérifié
-53038;Boulay-les-Ifs;53;eau potable : CC du Mont des Avaloirs;212350;2024;67,5;1,2;2,6;65,5;conforme;219372;3388;68;169;136;Non vérifié
-53039;Le Bourgneuf-la-Forêt;53;eau potable : ex SIAEP de Port-Brillet et le Bourgneuf la Foret;212345;2024;90,5;0,7;6,8;66,4;conforme;84325;13275;21;60;1769;Non vérifié
-53040;Bourgon;53;eau potable : ex SIAEP de Port-Brillet et le Bourgneuf la Foret;212345;2024;90,5;0,7;6,8;66,4;conforme;84325;4623;21;60;616;Non vérifié
-53041;Brains-sur-les-Marches;53;eau potable : Principal;92195;2024;87,7;1,3;9,3;66,9;conforme;366789;7271;71;85;279;Non vérifié
-53042;Brecé;53;eau potable : SENOM;92212;2024;76,9;0,9;3,1;65,6;conforme;307804;19299;64;122;821;Non vérifié
-53043;Brée;53;eau potable : Régie des Eaux des Coëvrons;92063;2024;89,4;0,7;5,5;66,1;conforme;353101;7850;36;50;591;Non vérifié
-53045;La Brûlatte;53;eau potable : PS secteur Sud Ouest;303634;2024;84,0;1,1;6,0;66,2;conforme;137305;5885;24;76;673;Non vérifié
-53046;Le Buret;53;eau potable : CC du Pays de Meslay-Grez;92196;2024;80,9;1,0;4,3;65,9;conforme;251120;5998;52;97;315;Non vérifié
-53047;Carelles;53;eau potable : SENOM;92212;2024;76,9;0,9;3,1;65,6;conforme;307804;5783;64;122;246;Non vérifié
-53048;Chailland;53;eau potable : Principal;92150;2024;75,0;1,2;3,6;65,7;conforme;323520;22139;51;130;1187;Non vérifié
-53049;Châlons-du-Maine;53;eau potable : PS secteur Nord;284254;2024;95,5;0,5;11,5;67,3;conforme;39166;1707;7;37;682;Non vérifié
-53051;Champéon;53;eau potable : SMEP de la Région de Le Horps;92192;2024;88,7;0,3;2,5;65,5;conforme;16425;1591;7;51;636;Non vérifié
-53052;Champfrémont;53;eau potable : CC du Mont des Avaloirs;212350;2024;67,5;1,2;2,6;65,5;conforme;219372;7026;68;169;282;Non vérifié
-53053;Champgenéteux;53;eau potable : Régie des Eaux des Coëvrons;92063;2024;89,4;0,7;5,5;66,1;conforme;353101;6535;36;50;492;Non vérifié
-53054;Changé;53;eau potable : PS secteur Nord;284254;2024;95,5;0,5;11,5;67,3;conforme;39166;16273;7;37;6502;Non vérifié
-53055;Chantrigné;53;eau potable : Chantrigné;92089;2024;88,9;0,4;3,1;65,6;conforme;5548;5548;25;48;599;Non vérifié
-53056;La Chapelle-Anthenaise;53;eau potable : PS secteur Nord;284254;2024;95,5;0,5;11,5;67,3;conforme;39166;2428;7;37;970;Non vérifié
-53057;La Chapelle-au-Riboul;53;eau potable : SIAEP de Grazay;91997;2024;77,8;0,6;2,2;65,4;conforme;31087;4811;26;102;505;Non vérifié
-53058;La Chapelle-Craonnaise;53;eau potable : Distribution en DSP;300334;2024;83,9;0,6;3,1;65,6;conforme;156714;3325;30;76;308;Non vérifié
-53059;La Chapelle-Rainsouin;53;eau potable : Régie des Eaux des Coëvrons;92063;2024;89,4;0,7;5,5;66,1;conforme;353101;5472;36;50;412;Non vérifié
-53061;Charchigné;53;eau potable : SMEP de la Région de Le Horps;92192;2024;88,7;0,3;2,5;65,5;conforme;16425;1148;7;51;459;Non vérifié
-53062;Château-Gontier-sur-Mayenne;53;eau potable : Secteur Ouest;92211;2024;92,5;0,7;9,0;66,8;conforme;138757;99820;16;34;16584;Non vérifié
-53063;Châtelain;53;eau potable : Secteur Est - ex-SIAEP Bierné;91932;2024;95,9;0,3;7,6;66,5;conforme;45573;3087;18;45;470;Non vérifié
-53064;Châtillon-sur-Colmont;53;eau potable : SENOM;92212;2024;76,9;0,9;3,1;65,6;conforme;307804;22308;64;122;949;Non vérifié
-53066;Chemazé;53;eau potable : Secteur Ouest;92211;2024;92,5;0,7;9,0;66,8;conforme;138757;8138;16;34;1352;Non vérifié
-53067;Chémeré-le-Roi;53;eau potable : CC du Pays de Meslay-Grez;92196;2024;80,9;1,0;4,3;65,9;conforme;251120;8206;52;97;431;Non vérifié
-53068;Chérancé;53;eau potable : Distribution en DSP;300334;2024;83,9;0,6;3,1;65,6;conforme;156714;1673;30;76;155;Non vérifié
-53069;Chevaigné-du-Maine;53;eau potable : SIAEPAC de la Fontaine Rouillée;92193;2024;78,1;1,3;4,8;66,0;conforme;90525;4578;84;112;150;Non vérifié
-53071;Colombiers-du-Plessis;53;eau potable : SENOM;92212;2024;76,9;0,9;3,1;65,6;conforme;307804;11331;64;122;482;Non vérifié
-53072;Commer;53;eau potable : SIAEP de Commer;91995;2024;85,5;0,7;4,0;65,8;conforme;32816;8515;18;64;1286;Non vérifié
-53073;Congrier;53;eau potable : Distribution en DSP;300334;2024;83,9;0,6;3,1;65,6;conforme;156714;10062;30;76;932;Non vérifié
-53074;Contest;53;eau potable : SIAEP de l'Anxure et de la Perche;92066;2024;94,5;0,2;4,2;65,8;conforme;11965;3796;12;18;834;Non vérifié
-53075;Cosmes;53;eau potable : Distribution en DSP;300334;2024;83,9;0,6;3,1;65,6;conforme;156714;3260;30;76;302;Non vérifié
-53076;Cossé-en-Champagne;53;eau potable : CC du Pays de Meslay-Grez;92196;2024;80,9;1,0;4,3;65,9;conforme;251120;5693;52;97;299;Non vérifié
-53077;Cossé-le-Vivien;53;eau potable : Principal;92195;2024;87,7;1,3;9,3;66,9;conforme;366789;82713;71;85;3174;Non vérifié
-53078;Coudray;53;eau potable : Secteur Est - ex-SIAEP Bierné;91932;2024;95,9;0,3;7,6;66,5;conforme;45573;5707;18;45;869;Non vérifié
-53079;Couesmes-Vaucé;53;eau potable : COMAVA;92223;2024;83,3;0,6;3,2;65,6;conforme;81665;4011;29;68;379;Non vérifié
-53080;Couptrain;53;eau potable : SIAEP des Avaloirs;92189;2024;81,2;0,9;3,8;65,8;conforme;161622;1803;48;86;103;Non vérifié
-53082;Courbeveille;53;eau potable : Distribution en DSP;300334;2024;83,9;0,6;3,1;65,6;conforme;156714;6812;30;76;631;Non vérifié
-53083;Courcité;53;eau potable : CC du Mont des Avaloirs;212350;2024;67,5;1,2;2,6;65,5;conforme;219372;19857;68;169;797;Non vérifié
-53084;Craon;53;eau potable : Principal;92195;2024;87,7;1,3;9,3;66,9;conforme;366789;115470;71;85;4431;Non vérifié
-53085;Crennes-sur-Fraubée;53;eau potable : CC du Mont des Avaloirs;212350;2024;67,5;1,2;2,6;65,5;conforme;219372;4784;68;169;192;Non vérifié
-53086;La Croixille;53;eau potable : ex SIAEP de Juvigné;212346;2024;81,3;0,9;4,1;65,8;conforme;51377;16522;72;172;629;Non vérifié
-53087;La Cropte;53;eau potable : CC du Pays de Meslay-Grez;92196;2024;80,9;1,0;4,3;65,9;conforme;251120;4474;52;97;235;Non vérifié
-53088;Cuillé;53;eau potable : Principal;92195;2024;87,7;1,3;9,3;66,9;conforme;366789;23141;71;85;888;Non vérifié
-53089;Daon;53;eau potable : Secteur Est - ex-SIAEP Bierné;91932;2024;95,9;0,3;7,6;66,5;conforme;45573;3566;18;45;543;Non vérifié
-53090;Denazé;53;eau potable : Distribution en DSP;300334;2024;83,9;0,6;3,1;65,6;conforme;156714;2094;30;76;194;Non vérifié
-53091;Désertines;53;eau potable : SENOM;92212;2024;76,9;0,9;3,1;65,6;conforme;307804;11001;64;122;468;Non vérifié
-53093;La Dorée;53;eau potable : SENOM;92212;2024;76,9;0,9;3,1;65,6;conforme;307804;6723;64;122;286;Non vérifié
-53094;Entrammes;53;eau potable : PS secteur Sud Nord Ouest;284274;2024;81,8;0,8;3,5;65,7;conforme;64640;21939;26;85;2294;Non vérifié
-53096;Ernée;53;eau potable : Principal;92150;2024;75,0;1,2;3,6;65,7;conforme;323520;102562;51;130;5499;Non vérifié
-53097;Évron;53;eau potable : Régie des Eaux des Coëvrons;92063;2024;89,4;0,7;5,5;66,1;conforme;353101;109603;36;50;8252;Non vérifié
-53098;Fontaine-Couverte;53;eau potable : Principal;92195;2024;87,7;1,3;9,3;66,9;conforme;366789;10945;71;85;420;Non vérifié
-53099;Forcé;53;eau potable : PS secteur EST;240034;2024;88,0;0,8;6,1;66,2;conforme;102816;8105;20;59;1099;Non vérifié
-53100;Fougerolles-du-Plessis;53;eau potable : SENOM;92212;2024;76,9;0,9;3,1;65,6;conforme;307804;28561;64;122;1215;Non vérifié
-53101;Fromentières;53;eau potable : Secteur Ouest;92211;2024;92,5;0,7;9,0;66,8;conforme;138757;5104;16;34;848;Non vérifié
-53102;Gastines;53;eau potable : Principal;92195;2024;87,7;1,3;9,3;66,9;conforme;366789;4300;71;85;165;Non vérifié
-53103;Le Genest-Saint-Isle;53;eau potable : PS secteur Sud Ouest;303634;2024;84,0;1,1;6,0;66,2;conforme;137305;18939;24;76;2166;Non vérifié
-53104;Gennes-Longuefuye;53;eau potable : Secteur Est - ex-SIAEP Bierné;91932;2024;95,9;0,3;7,6;66,5;conforme;45573;8893;18;45;1354;Non vérifié
-53105;Gesnes;53;eau potable : Régie des Eaux des Coëvrons;92063;2024;89,4;0,7;5,5;66,1;conforme;353101;3307;36;50;249;Non vérifié
-53106;Gesvres;53;eau potable : CC du Mont des Avaloirs;212350;2024;67,5;1,2;2,6;65,5;conforme;219372;13429;68;169;539;Non vérifié
-53107;Gorron;53;eau potable : SENOM;92212;2024;76,9;0,9;3,1;65,6;conforme;307804;57358;64;122;2440;Non vérifié
-53108;La Gravelle;53;eau potable : PS secteur Sud Ouest;303634;2024;84,0;1,1;6,0;66,2;conforme;137305;4870;24;76;557;Non vérifié
-53109;Grazay;53;eau potable : SIAEP de Grazay;91997;2024;77,8;0,6;2,2;65,4;conforme;31087;5993;26;102;629;Non vérifié
-53110;Grez-en-Bouère;53;eau potable : CC du Pays de Meslay-Grez;92196;2024;80,9;1,0;4,3;65,9;conforme;251120;18659;52;97;980;Non vérifié
-53111;La Haie-Traversaine;53;eau potable : COMAVA;92223;2024;83,3;0,6;3,2;65,6;conforme;81665;4953;29;68;468;Non vérifié
-53112;Le Ham;53;eau potable : CC du Mont des Avaloirs;212350;2024;67,5;1,2;2,6;65,5;conforme;219372;8421;68;169;338;Non vérifié
-53113;Hambers;53;eau potable : Régie des Eaux des Coëvrons;92063;2024;89,4;0,7;5,5;66,1;conforme;353101;8288;36;50;624;Non vérifié
-53114;Hardanges;53;eau potable : SMEP de la Région de Le Horps;92192;2024;88,7;0,3;2,5;65,5;conforme;16425;423;7;51;169;Non vérifié
-53115;Hercé;53;eau potable : SENOM;92212;2024;76,9;0,9;3,1;65,6;conforme;307804;6982;64;122;297;Non vérifié
-53116;Le Horps;53;eau potable : SMEP de la Région de Le Horps;92192;2024;88,7;0,3;2,5;65,5;conforme;16425;1791;7;51;716;Non vérifié
-53117;Houssay;53;eau potable : Secteur Ouest;92211;2024;92,5;0,7;9,0;66,8;conforme;138757;2967;16;34;493;Non vérifié
-53118;Le Housseau-Brétignolles;53;eau potable : SIAEPAC de la Fontaine Rouillée;92193;2024;78,1;1,3;4,8;66,0;conforme;90525;7050;84;112;231;Non vérifié
-53119;L' Huisserie;53;eau potable : Régie;232954;2024;88,2;3,5;26,0;70,2;conforme;648970;50054;29;60;4672;Non vérifié
-53120;Izé;53;eau potable : Régie des Eaux des Coëvrons;92063;2024;89,4;0,7;5,5;66,1;conforme;353101;6163;36;50;464;Non vérifié
-53121;Javron-les-Chapelles;53;eau potable : SIAEP des Avaloirs;92189;2024;81,2;0,9;3,8;65,8;conforme;161622;23001;48;86;1314;Non vérifié
-53122;Jublains;53;eau potable : SIAEP de Grazay;91997;2024;77,8;0,6;2,2;65,4;conforme;31087;7117;26;102;747;Non vérifié
-53123;Juvigné;53;eau potable : ex SIAEP de Juvigné;212346;2024;81,3;0,9;4,1;65,8;conforme;51377;34856;72;172;1327;Non vérifié
-53124;Prée-d'Anjou;53;eau potable : Secteur Ouest;92211;2024;92,5;0,7;9,0;66,8;conforme;138757;8312;16;34;1381;Non vérifié
-53125;Landivy;53;eau potable : SENOM;92212;2024;76,9;0,9;3,1;65,6;conforme;307804;25717;64;122;1094;Non vérifié
-53126;Larchamp;53;eau potable : SENOM;92212;2024;76,9;0,9;3,1;65,6;conforme;307804;23531;64;122;1001;Non vérifié
-53127;Lassay-les-Châteaux;53;eau potable : SIAEPAC de la Fontaine Rouillée;92193;2024;78,1;1,3;4,8;66,0;conforme;90525;68581;84;112;2247;Non vérifié
-53128;Laubrières;53;eau potable : Principal;92195;2024;87,7;1,3;9,3;66,9;conforme;366789;8443;71;85;324;Non vérifié
-53129;Launay-Villiers;53;eau potable : ex SIAEP de Port-Brillet et le Bourgneuf la Foret;212345;2024;90,5;0,7;6,8;66,4;conforme;84325;2626;21;60;350;Non vérifié
-53130;Laval;53;eau potable : Régie;232954;2024;88,2;3,5;26,0;70,2;conforme;648970;529255;29;60;49400;Non vérifié
-53131;Lesbois;53;eau potable : SENOM;92212;2024;76,9;0,9;3,1;65,6;conforme;307804;4208;64;122;179;Non vérifié
-53132;Levaré;53;eau potable : SENOM;92212;2024;76,9;0,9;3,1;65,6;conforme;307804;6323;64;122;269;Non vérifié
-53133;Lignières-Orgères;53;eau potable : principal;209734;2024;68,7;1,1;2,5;65,5;conforme;104936;10598;40;163;719;Non vérifié
-53134;Livet;53;eau potable : Régie des Eaux des Coëvrons;92063;2024;89,4;0,7;5,5;66,1;conforme;353101;2537;36;50;191;Non vérifié
-53135;Livré-la-Touche;53;eau potable : Principal;92195;2024;87,7;1,3;9,3;66,9;conforme;366789;18997;71;85;729;Non vérifié
-53136;La Roche-Neuville;53;eau potable : Secteur Ouest;92211;2024;92,5;0,7;9,0;66,8;conforme;138757;7464;16;34;1240;Non vérifié
-53137;Loiron-Ruillé;53;eau potable : PS secteur Sud Ouest;303634;2024;84,0;1,1;6,0;66,2;conforme;137305;24116;24;76;2758;Non vérifié
-53139;Loupfougères;53;eau potable : CC du Mont des Avaloirs;212350;2024;67,5;1,2;2,6;65,5;conforme;219372;10165;68;169;408;Non vérifié
-53140;Louverné;53;eau potable : PS secteur Nord;284254;2024;95,5;0,5;11,5;67,3;conforme;39166;10872;7;37;4344;Non vérifié
-53141;Louvigné;53;eau potable : PS secteur EST;240034;2024;88,0;0,8;6,1;66,2;conforme;102816;8798;20;59;1193;Non vérifié
-53142;Madré;53;eau potable : SIAEP des Avaloirs;92189;2024;81,2;0,9;3,8;65,8;conforme;161622;4901;48;86;280;Non vérifié
-53143;Maisoncelles-du-Maine;53;eau potable : CC du Pays de Meslay-Grez;92196;2024;80,9;1,0;4,3;65,9;conforme;251120;9634;52;97;506;Non vérifié
-53144;Marcillé-la-Ville;53;eau potable : SMEP de la Région de Le Horps;92192;2024;88,7;0,3;2,5;65,5;conforme;16425;1896;7;51;758;Non vérifié
-53145;Marigné-Peuton;53;eau potable : Secteur Ouest;92211;2024;92,5;0,7;9,0;66,8;conforme;138757;3268;16;34;543;Non vérifié
-53146;Martigné-sur-Mayenne;53;eau potable : Martigné-sur-Mayenne;92129;2024;80,0;1,3;5,3;66,1;conforme;29894;29894;43;89;1902;Non vérifié
-53147;Mayenne;53;eau potable : Mayenne;92132;2024;94,6;1,5;27,2;70,4;conforme;75555;75555;16;23;12883;Non vérifié
-53148;Mée;53;eau potable : Distribution en DSP;300334;2024;83,9;0,6;3,1;65,6;conforme;156714;2440;30;76;226;Non vérifié
-53150;Ménil;53;eau potable : Secteur Est - ex-SIAEP Bierné;91932;2024;95,9;0,3;7,6;66,5;conforme;45573;6062;18;45;923;Non vérifié
-53151;Méral;53;eau potable : Principal;92195;2024;87,7;1,3;9,3;66,9;conforme;366789;27441;71;85;1053;Non vérifié
-53152;Meslay-du-Maine;53;eau potable : CC du Pays de Meslay-Grez;92196;2024;80,9;1,0;4,3;65,9;conforme;251120;52912;52;97;2779;Non vérifié
-53153;Mézangers;53;eau potable : Régie des Eaux des Coëvrons;92063;2024;89,4;0,7;5,5;66,1;conforme;353101;8328;36;50;627;Non vérifié
-53154;Montaudin;53;eau potable : SENOM;92212;2024;76,9;0,9;3,1;65,6;conforme;307804;20663;64;122;879;Non vérifié
-53155;Montenay;53;eau potable : Principal;92150;2024;75,0;1,2;3,6;65,7;conforme;323520;24078;51;130;1291;Non vérifié
-53156;Montflours;53;eau potable : PS secteur Nord;284254;2024;95,5;0,5;11,5;67,3;conforme;39166;618;7;37;247;Non vérifié
-53157;Montigné-le-Brillant;53;eau potable : PS secteur Sud Nord Ouest;284274;2024;81,8;0,8;3,5;65,7;conforme;64640;13064;26;85;1366;Non vérifié
-53158;Montjean;53;eau potable : PS secteur Sud Ouest;303634;2024;84,0;1,1;6,0;66,2;conforme;137305;8919;24;76;1020;Non vérifié
-53160;Montreuil-Poulay;53;eau potable : SMEP de la Région de Le Horps;92192;2024;88,7;0,3;2,5;65,5;conforme;16425;933;7;51;373;Non vérifié
-53161;Montsûrs;53;eau potable : Régie des Eaux des Coëvrons;92063;2024;89,4;0,7;5,5;66,1;conforme;353101;42396;36;50;3192;Non vérifié
-53162;Moulay;53;eau potable : SIAEP de Commer;91995;2024;85,5;0,7;4,0;65,8;conforme;32816;6443;18;64;973;Non vérifié
-53163;Neau;53;eau potable : Régie des Eaux des Coëvrons;92063;2024;89,4;0,7;5,5;66,1;conforme;353101;9961;36;50;750;Non vérifié
-53164;Neuilly-le-Vendin;53;eau potable : SIAEP des Avaloirs;92189;2024;81,2;0,9;3,8;65,8;conforme;161622;6162;48;86;352;Non vérifié
-53165;Niafles;53;eau potable : Distribution en DSP;300334;2024;83,9;0,6;3,1;65,6;conforme;156714;3714;30;76;344;Non vérifié
-53168;Nuillé-sur-Vicoin;53;eau potable : PS secteur Sud Nord Ouest;284274;2024;81,8;0,8;3,5;65,7;conforme;64640;11926;26;85;1247;Non vérifié
-53169;Olivet;53;eau potable : ex SIAEP de Port-Brillet et le Bourgneuf la Foret;212345;2024;90,5;0,7;6,8;66,4;conforme;84325;3032;21;60;404;Non vérifié
-53170;Oisseau;53;eau potable : COMAVA;92223;2024;83,3;0,6;3,2;65,6;conforme;81665;12023;29;68;1136;Non vérifié
-53172;Origné;53;eau potable : Secteur Ouest;92211;2024;92,5;0,7;9,0;66,8;conforme;138757;2347;16;34;390;Non vérifié
-53173;La Pallu;53;eau potable : SIAEP des Avaloirs;92189;2024;81,2;0,9;3,8;65,8;conforme;161622;2993;48;86;171;Non vérifié
-53174;Parigné-sur-Braye;53;eau potable : Parigné-sur-Braye;92149;2024;81,2;0,8;3,6;65,7;conforme;5957;5957;19;82;848;Non vérifié
-53175;Parné-sur-Roc;53;eau potable : PS secteur EST;240034;2024;88,0;0,8;6,1;66,2;conforme;102816;10163;20;59;1378;Non vérifié
-53176;Le Pas;53;eau potable : COMAVA;92223;2024;83,3;0,6;3,2;65,6;conforme;81665;5472;29;68;517;Non vérifié
-53177;La Pellerine;53;eau potable : Principal;92150;2024;75,0;1,2;3,6;65,7;conforme;323520;5539;51;130;297;Non vérifié
-53178;Peuton;53;eau potable : Secteur Ouest;92211;2024;92,5;0,7;9,0;66,8;conforme;138757;1336;16;34;222;Non vérifié
-53179;Placé;53;eau potable : SIAEP de l'Anxure et de la Perche;92066;2024;94,5;0,2;4,2;65,8;conforme;11965;1634;12;18;359;Non vérifié
-53180;Pommerieux;53;eau potable : Distribution en DSP;300334;2024;83,9;0,6;3,1;65,6;conforme;156714;7201;30;76;667;Non vérifié
-53181;Pontmain;53;eau potable : SENOM;92212;2024;76,9;0,9;3,1;65,6;conforme;307804;19017;64;122;809;Non vérifié
-53182;Port-Brillet;53;eau potable : ex SIAEP de Port-Brillet et le Bourgneuf la Foret;212345;2024;90,5;0,7;6,8;66,4;conforme;84325;13710;21;60;1827;Non vérifié
-53184;Préaux;53;eau potable : CC du Pays de Meslay-Grez;92196;2024;80,9;1,0;4,3;65,9;conforme;251120;3008;52;97;158;Non vérifié
-53185;Pré-en-Pail-Saint-Samson;53;eau potable;136037;2024;70,1;0,9;2,0;65,4;conforme;81728;28708;35;165;2273;Non vérifié
-53186;Quelaines-Saint-Gault;53;eau potable : Distribution en DSP;300334;2024;83,9;0,6;3,1;65,6;conforme;156714;23233;30;76;2152;Non vérifié
-53187;Ravigny;53;eau potable : CC du Mont des Avaloirs;212350;2024;67,5;1,2;2,6;65,5;conforme;219372;5780;68;169;232;Non vérifié
-53188;Renazé;53;eau potable : Distribution en DSP;300334;2024;83,9;0,6;3,1;65,6;conforme;156714;27033;30;76;2504;Non vérifié
-53189;Rennes-en-Grenouilles;53;eau potable : SIAEPAC de la Fontaine Rouillée;92193;2024;78,1;1,3;4,8;66,0;conforme;90525;3418;84;112;112;Non vérifié
-53190;Le Ribay;53;eau potable : SMEP de la Région de Le Horps;92192;2024;88,7;0,3;2,5;65,5;conforme;16425;1158;7;51;463;Non vérifié
-53191;La Roë;53;eau potable : Principal;92195;2024;87,7;1,3;9,3;66,9;conforme;366789;6463;71;85;248;Non vérifié
-53192;La Rouaudière;53;eau potable : Distribution en DSP;300334;2024;83,9;0,6;3,1;65,6;conforme;156714;3455;30;76;320;Non vérifié
-53193;Ruillé-Froid-Fonds;53;eau potable : CC du Pays de Meslay-Grez;92196;2024;80,9;1,0;4,3;65,9;conforme;251120;11100;52;97;583;Non vérifié
-53195;Sacé;53;eau potable : SIAEP de l'Anxure et de la Perche;92066;2024;94,5;0,2;4,2;65,8;conforme;11965;2148;12;18;472;Non vérifié
-53196;Saint-Aignan-de-Couptrain;53;eau potable : SIAEP des Avaloirs;92189;2024;81,2;0,9;3,8;65,8;conforme;161622;6109;48;86;349;Non vérifié
-53197;Saint-Aignan-sur-Roë;53;eau potable : Distribution en DSP;300334;2024;83,9;0,6;3,1;65,6;conforme;156714;10245;30;76;949;Non vérifié
-53198;Saint-Aubin-du-Désert;53;eau potable : CC du Mont des Avaloirs;212350;2024;67,5;1,2;2,6;65,5;conforme;219372;5656;68;169;227;Non vérifié
-53199;Saint-Aubin-Fosse-Louvain;53;eau potable : SENOM;92212;2024;76,9;0,9;3,1;65,6;conforme;307804;4913;64;122;209;Non vérifié
-53200;Saint-Baudelle;53;eau potable : SIAEP de Commer;91995;2024;85,5;0,7;4,0;65,8;conforme;32816;7873;18;64;1189;Non vérifié
-53201;Saint-Berthevin;53;eau potable : PS secteur Sud Ouest;303634;2024;84,0;1,1;6,0;66,2;conforme;137305;65395;24;76;7479;Non vérifié
-53202;Saint-Berthevin-la-Tannière;53;eau potable : SENOM;92212;2024;76,9;0,9;3,1;65,6;conforme;307804;7240;64;122;308;Non vérifié
-53203;Saint-Brice;53;eau potable : CC du Pays de Meslay-Grez;92196;2024;80,9;1,0;4,3;65,9;conforme;251120;9844;52;97;517;Non vérifié
-53204;Saint-Calais-du-Désert;53;eau potable : SIAEP des Avaloirs;92189;2024;81,2;0,9;3,8;65,8;conforme;161622;6932;48;86;396;Non vérifié
-53206;Saint-Charles-la-Forêt;53;eau potable : CC du Pays de Meslay-Grez;92196;2024;80,9;1,0;4,3;65,9;conforme;251120;4398;52;97;231;Non vérifié
-53208;Saint-Cyr-en-Pail;53;eau potable : SIAEP des Avaloirs;92189;2024;81,2;0,9;3,8;65,8;conforme;161622;8752;48;86;500;Non vérifié
-53209;Saint-Cyr-le-Gravelais;53;eau potable : PS secteur Sud Ouest;303634;2024;84,0;1,1;6,0;66,2;conforme;137305;4958;24;76;567;Non vérifié
-53210;Saint-Denis-d'Anjou;53;eau potable : Secteur Est - ex-SIAEP Bierné;91932;2024;95,9;0,3;7,6;66,5;conforme;45573;9819;18;45;1495;Non vérifié
-53211;Saint-Denis-de-Gastines;53;eau potable : Principal;92150;2024;75,0;1,2;3,6;65,7;conforme;323520;27286;51;130;1463;Non vérifié
-53212;Saint-Denis-du-Maine;53;eau potable : CC du Pays de Meslay-Grez;92196;2024;80,9;1,0;4,3;65,9;conforme;251120;8549;52;97;449;Non vérifié
-53213;Saint-Ellier-du-Maine;53;eau potable : SENOM;92212;2024;76,9;0,9;3,1;65,6;conforme;307804;11942;64;122;508;Non vérifié
-53214;Saint-Erblon;53;eau potable : Distribution en DSP;300334;2024;83,9;0,6;3,1;65,6;conforme;156714;1652;30;76;153;Non vérifié
-53216;Saint-Fraimbault-de-Prières;53;eau potable : St-Fraimbault-de-Prières;92052;2024;83,3;0,8;4,2;65,8;conforme;8620;8620;26;70;926;Non vérifié
-53218;Sainte-Gemmes-le-Robert;53;eau potable : Régie des Eaux des Coëvrons;92063;2024;89,4;0,7;5,5;66,1;conforme;353101;10267;36;50;773;Non vérifié
-53219;Saint-Georges-Buttavent;53;eau potable : St-Georges-Buttavent;92168;2024;79,3;0,7;2,5;65,5;conforme;17630;17630;35;101;1367;Non vérifié
-53220;Saint-Georges-le-Fléchard;53;eau potable : Régie des Eaux des Coëvrons;92063;2024;89,4;0,7;5,5;66,1;conforme;353101;4954;36;50;373;Non vérifié
-53221;Saint-Georges-sur-Erve;53;eau potable : Régie des Eaux des Coëvrons;92063;2024;89,4;0,7;5,5;66,1;conforme;353101;5220;36;50;393;Non vérifié
-53222;Saint-Germain-d'Anxure;53;eau potable : SIAEP de l'Anxure et de la Perche;92066;2024;94,5;0,2;4,2;65,8;conforme;11965;1611;12;18;354;Non vérifié
-53223;Saint-Germain-de-Coulamer;53;eau potable : CC du Mont des Avaloirs;212350;2024;67,5;1,2;2,6;65,5;conforme;219372;8197;68;169;329;Non vérifié
-53224;Saint-Germain-le-Fouilloux;53;eau potable : PS secteur Nord;284254;2024;95,5;0,5;11,5;67,3;conforme;39166;2933;7;37;1172;Non vérifié
-53225;Saint-Germain-le-Guillaume;53;eau potable : Principal;92150;2024;75,0;1,2;3,6;65,7;conforme;323520;9456;51;130;507;Non vérifié
-53226;Saint-Hilaire-du-Maine;53;eau potable : Principal;92150;2024;75,0;1,2;3,6;65,7;conforme;323520;14865;51;130;797;Non vérifié
-53228;Blandouet-Saint Jean;53;eau potable : Régie des Eaux des Coëvrons;92063;2024;89,4;0,7;5,5;66,1;conforme;353101;7358;36;50;554;Non vérifié
-53229;Saint-Jean-sur-Mayenne;53;eau potable : PS secteur Nord;284254;2024;95,5;0,5;11,5;67,3;conforme;39166;4335;7;37;1732;Non vérifié
-53230;Saint-Julien-du-Terroux;53;eau potable : SIAEP des Avaloirs;92189;2024;81,2;0,9;3,8;65,8;conforme;161622;4516;48;86;258;Non vérifié
-53232;Saint-Léger;53;eau potable : Régie des Eaux des Coëvrons;92063;2024;89,4;0,7;5,5;66,1;conforme;353101;4144;36;50;312;Non vérifié
-53233;Saint-Loup-du-Dorat;53;eau potable : ex-SIAEP Ballée;91931;2024;69,5;2,1;4,9;66,0;conforme;49585;11226;91;227;338;Non vérifié
-53234;Saint-Loup-du-Gast;53;eau potable : COMAVA;92223;2024;83,3;0,6;3,2;65,6;conforme;81665;3313;29;68;313;Non vérifié
-53235;Sainte-Marie-du-Bois;53;eau potable : SIAEPAC de la Fontaine Rouillée;92193;2024;78,1;1,3;4,8;66,0;conforme;90525;6898;84;112;226;Non vérifié
-53236;Saint-Mars-du-Désert;53;eau potable : CC du Mont des Avaloirs;212350;2024;67,5;1,2;2,6;65,5;conforme;219372;4036;68;169;162;Non vérifié
-53237;Saint-Mars-sur-Colmont;53;eau potable : COMAVA;92223;2024;83,3;0,6;3,2;65,6;conforme;81665;4657;29;68;440;Non vérifié
-53238;Saint-Mars-sur-la-Futaie;53;eau potable : SENOM;92212;2024;76,9;0,9;3,1;65,6;conforme;307804;12271;64;122;522;Non vérifié
-53239;Saint-Martin-de-Connée;53;eau potable : Régie des Eaux des Coëvrons;92063;2020;92,3;0,5;6,1;66,2;conforme;223380;3772;25;32;421;Sans anomalie apparente
-53240;Saint-Martin-du-Limet;53;eau potable : Distribution en DSP;300334;2024;83,9;0,6;3,1;65,6;conforme;156714;4534;30;76;420;Non vérifié
-53242;Saint-Michel-de-la-Roë;53;eau potable : Principal;92195;2024;87,7;1,3;9,3;66,9;conforme;366789;6567;71;85;252;Non vérifié
-53243;Saint-Ouën-des-Toits;53;eau potable : ex SIAEP de Port-Brillet et le Bourgneuf la Foret;212345;2024;90,5;0,7;6,8;66,4;conforme;84325;13395;21;60;1785;Non vérifié
-53245;Saint-Pierre-des-Landes;53;eau potable : Principal;92150;2024;75,0;1,2;3,6;65,7;conforme;323520;17215;51;130;923;Non vérifié
-53246;Saint-Pierre-des-Nids;53;eau potable : CC du Mont des Avaloirs;212350;2024;67,5;1,2;2,6;65,5;conforme;219372;43551;68;169;1748;Non vérifié
-53247;Saint-Pierre-la-Cour;53;eau potable : ex SIAEP de Port-Brillet et le Bourgneuf la Foret;212345;2024;90,5;0,7;6,8;66,4;conforme;84325;17410;21;60;2320;Non vérifié
-53248;Saint-Pierre-sur-Erve;53;eau potable : Régie des Eaux des Coëvrons;92063;2024;89,4;0,7;5,5;66,1;conforme;353101;1727;36;50;130;Non vérifié
-53249;Vimartin-sur-Orthe;53;eau potable : Régie des Eaux des Coëvrons;92063;2024;89,4;0,7;5,5;66,1;conforme;353101;14610;36;50;1100;Non vérifié
-53250;Saint-Poix;53;eau potable : Principal;92195;2024;87,7;1,3;9,3;66,9;conforme;366789;9981;71;85;383;Non vérifié
-53251;Saint-Quentin-les-Anges;53;eau potable : Distribution en DSP;300334;2024;83,9;0,6;3,1;65,6;conforme;156714;5096;30;76;472;Non vérifié
-53253;Saint-Saturnin-du-Limet;53;eau potable : Distribution en DSP;300334;2024;83,9;0,6;3,1;65,6;conforme;156714;5560;30;76;515;Non vérifié
-53255;Sainte-Suzanne-et-Chammes;53;eau potable : Régie des Eaux des Coëvrons;92063;2024;89,4;0,7;5,5;66,1;conforme;353101;15606;36;50;1175;Non vérifié
-53256;Saint-Thomas-de-Courceriers;53;eau potable : Régie des Eaux des Coëvrons;92063;2024;89,4;0,7;5,5;66,1;conforme;353101;2205;36;50;166;Non vérifié
-53257;Saulges;53;eau potable : Régie des Eaux des Coëvrons;92063;2024;89,4;0,7;5,5;66,1;conforme;353101;4370;36;50;329;Non vérifié
-53258;La Selle-Craonnaise;53;eau potable : Distribution en DSP;300334;2024;83,9;0,6;3,1;65,6;conforme;156714;9662;30;76;895;Non vérifié
-53259;Senonnes;53;eau potable : Distribution en DSP;300334;2024;83,9;0,6;3,1;65,6;conforme;156714;4232;30;76;392;Non vérifié
-53260;Simplé;53;eau potable : Distribution en DSP;300334;2024;83,9;0,6;3,1;65,6;conforme;156714;4102;30;76;380;Non vérifié
-53261;Soucé;53;eau potable : COMAVA;92223;2024;83,3;0,6;3,2;65,6;conforme;81665;1471;29;68;139;Non vérifié
-53262;Soulgé-sur-Ouette;53;eau potable : PS secteur EST;240034;2024;88,0;0,8;6,1;66,2;conforme;102816;7840;20;59;1063;Non vérifié
-53263;Thuboeuf;53;eau potable : SIAEP des Avaloirs;92189;2024;81,2;0,9;3,8;65,8;conforme;161622;4744;48;86;271;Non vérifié
-53264;Thorigné-en-Charnie;53;eau potable : Régie des Eaux des Coëvrons;92063;2024;89,4;0,7;5,5;66,1;conforme;353101;2537;36;50;191;Non vérifié
-53265;Torcé-Viviers-en-Charnie;53;eau potable : Régie des Eaux des Coëvrons;92063;2024;89,4;0,7;5,5;66,1;conforme;353101;10201;36;50;768;Non vérifié
-53266;Trans;53;eau potable : Régie des Eaux des Coëvrons;92063;2024;89,4;0,7;5,5;66,1;conforme;353101;3068;36;50;231;Non vérifié
-53267;Vaiges;53;eau potable : Régie des Eaux des Coëvrons;92063;2024;89,4;0,7;5,5;66,1;conforme;353101;15646;36;50;1178;Non vérifié
-53269;Vautorte;53;eau potable : Principal;92150;2024;75,0;1,2;3,6;65,7;conforme;323520;11321;51;130;607;Non vérifié
-53270;Vieuvy;53;eau potable : SENOM;92212;2024;76,9;0,9;3,1;65,6;conforme;307804;2633;64;122;112;Non vérifié
-53271;Villaines-la-Juhel;53;eau potable : CC du Mont des Avaloirs;212350;2024;67,5;1,2;2,6;65,5;conforme;219372;66547;68;169;2671;Non vérifié
-53272;Villepail;53;eau potable : CC du Mont des Avaloirs;212350;2024;67,5;1,2;2,6;65,5;conforme;219372;4784;68;169;192;Non vérifié
-53273;Villiers-Charlemagne;53;eau potable : CC du Pays de Meslay-Grez;92196;2024;80,9;1,0;4,3;65,9;conforme;251120;21115;52;97;1109;Non vérifié
-53274;Vimarcé;53;eau potable : Régie des Eaux des Coëvrons;92063;2020;92,3;0,5;6,1;66,2;conforme;223380;2123;25;32;237;Sans anomalie apparente
-53276;Voutré;53;eau potable : Régie des Eaux des Coëvrons;92063;2024;89,4;0,7;5,5;66,1;conforme;353101;11861;36;50;893;Non vérifié
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement);Donnée suspecte (voir LISEZMOI)
+53001;Ahuillé;53;eau potable : PS secteur Sud Nord Ouest;284274;2024;81,8;0,8;3,5;65,7;conforme;64640;17712;26;85;1852;Non vérifié;non
+53002;Alexain;53;eau potable : SIAEP de l'Anxure et de la Perche;92066;2024;94,5;0,2;4,2;65,8;conforme;11965;2776;12;18;610;Non vérifié;non
+53003;Ambrières-les-Vallées;53;eau potable : COMAVA;92223;2024;83,3;0,6;3,2;65,6;conforme;81665;27719;29;68;2619;Non vérifié;non
+53005;Andouillé;53;eau potable : Principal;92150;2024;75,0;1,2;3,6;65,7;conforme;323520;43289;51;130;2321;Non vérifié;non
+53007;Argentré;53;eau potable : PS secteur EST;240034;2024;88,0;0,8;6,1;66,2;conforme;102816;21432;20;59;2906;Non vérifié;non
+53008;Aron;53;eau potable : Aron;92205;2024;90,5;0,3;3,1;65,6;conforme;7294;7294;11;35;1828;Non vérifié;non
+53009;Arquenay;53;eau potable : CC du Pays de Meslay-Grez;92196;2024;80,9;1,0;4,3;65,9;conforme;251120;12833;52;97;674;Non vérifié;non
+53010;Assé-le-Bérenger;53;eau potable : Régie des Eaux des Coëvrons;92063;2024;89,4;0,7;5,5;66,1;conforme;353101;5246;36;50;395;Non vérifié;non
+53011;Astillé;53;eau potable : Distribution en DSP;300334;2024;83,9;0,6;3,1;65,6;conforme;156714;9662;30;76;895;Non vérifié;non
+53012;Athée;53;eau potable : Principal;92195;2024;87,7;1,3;9,3;66,9;conforme;366789;11753;71;85;451;Non vérifié;non
+53013;Averton;53;eau potable : CC du Mont des Avaloirs;212350;2024;67,5;1,2;2,6;65,5;conforme;219372;13753;68;169;552;Non vérifié;non
+53015;La Baconnière;53;eau potable : Principal;92150;2024;75,0;1,2;3,6;65,7;conforme;323520;36649;51;130;1965;Non vérifié;non
+53016;Bais;53;eau potable : Régie des Eaux des Coëvrons;92063;2024;89,4;0,7;5,5;66,1;conforme;353101;16231;36;50;1222;Non vérifié;non
+53017;Val-du-Maine;53;eau potable : ex-SIAEP Ballée;91931;2024;69,5;2,1;4,9;66,0;conforme;49585;31617;91;227;952;Non vérifié;non
+53018;Ballots;53;eau potable : Principal;92195;2024;87,7;1,3;9,3;66,9;conforme;366789;33304;71;85;1278;Non vérifié;non
+53019;Bannes;53;eau potable : CC du Pays de Meslay-Grez;92196;2024;80,9;1,0;4,3;65,9;conforme;251120;2266;52;97;119;Non vérifié;non
+53021;La Bazoge-Montpinçon;53;eau potable : SIAEP de Commer;91995;2024;85,5;0,7;4,0;65,8;conforme;32816;6310;18;64;953;Non vérifié;non
+53022;La Bazouge-de-Chemeré;53;eau potable : CC du Pays de Meslay-Grez;92196;2024;80,9;1,0;4,3;65,9;conforme;251120;9463;52;97;497;Non vérifié;non
+53023;La Bazouge-des-Alleux;53;eau potable : Régie des Eaux des Coëvrons;92063;2024;89,4;0,7;5,5;66,1;conforme;353101;7411;36;50;558;Non vérifié;non
+53025;Bazougers;53;eau potable : CC du Pays de Meslay-Grez;92196;2024;80,9;1,0;4,3;65,9;conforme;251120;20544;52;97;1079;Non vérifié;non
+53026;Beaulieu-sur-Oudon;53;eau potable : PS secteur Sud Ouest;303634;2024;84,0;1,1;6,0;66,2;conforme;137305;4223;24;76;483;Non vérifié;non
+53027;Beaumont-Pied-de-Boeuf;53;eau potable : ex-SIAEP Ballée;91931;2024;69,5;2,1;4,9;66,0;conforme;49585;6742;91;227;203;Non vérifié;non
+53028;Belgeard;53;eau potable : SIAEP de Commer;91995;2024;85,5;0,7;4,0;65,8;conforme;32816;3675;18;64;555;Non vérifié;non
+53029;Bierné-les-Villages;53;eau potable : Secteur Est - ex-SIAEP Bierné;91932;2024;95,9;0,3;7,6;66,5;conforme;45573;8439;18;45;1285;Non vérifié;non
+53030;Le Bignon-du-Maine;53;eau potable : CC du Pays de Meslay-Grez;92196;2024;80,9;1,0;4,3;65,9;conforme;251120;6131;52;97;322;Non vérifié;non
+53031;La Bigottière;53;eau potable : Principal;92150;2024;75,0;1,2;3,6;65,7;conforme;323520;9120;51;130;489;Non vérifié;non
+53033;La Boissière;53;eau potable : Distribution en DSP;300334;2024;83,9;0,6;3,1;65,6;conforme;156714;1242;30;76;115;Non vérifié;non
+53034;Bonchamp-lès-Laval;53;eau potable : PS secteur EST;240034;2024;88,0;0,8;6,1;66,2;conforme;102816;46478;20;59;6302;Non vérifié;non
+53035;Bouchamps-lès-Craon;53;eau potable : Distribution en DSP;300334;2024;83,9;0,6;3,1;65,6;conforme;156714;6424;30;76;595;Non vérifié;non
+53036;Bouère;53;eau potable : CC du Pays de Meslay-Grez;92196;2024;80,9;1,0;4,3;65,9;conforme;251120;20144;52;97;1058;Non vérifié;non
+53037;Bouessay;53;eau potable : Bouessay;305534;2024;85,5;0,5;3,0;65,6;conforme;4249;4249;16;62;714;Non vérifié;non
+53038;Boulay-les-Ifs;53;eau potable : CC du Mont des Avaloirs;212350;2024;67,5;1,2;2,6;65,5;conforme;219372;3388;68;169;136;Non vérifié;non
+53039;Le Bourgneuf-la-Forêt;53;eau potable : ex SIAEP de Port-Brillet et le Bourgneuf la Foret;212345;2024;90,5;0,7;6,8;66,4;conforme;84325;13275;21;60;1769;Non vérifié;non
+53040;Bourgon;53;eau potable : ex SIAEP de Port-Brillet et le Bourgneuf la Foret;212345;2024;90,5;0,7;6,8;66,4;conforme;84325;4623;21;60;616;Non vérifié;non
+53041;Brains-sur-les-Marches;53;eau potable : Principal;92195;2024;87,7;1,3;9,3;66,9;conforme;366789;7271;71;85;279;Non vérifié;non
+53042;Brecé;53;eau potable : SENOM;92212;2024;76,9;0,9;3,1;65,6;conforme;307804;19299;64;122;821;Non vérifié;non
+53043;Brée;53;eau potable : Régie des Eaux des Coëvrons;92063;2024;89,4;0,7;5,5;66,1;conforme;353101;7850;36;50;591;Non vérifié;non
+53045;La Brûlatte;53;eau potable : PS secteur Sud Ouest;303634;2024;84,0;1,1;6,0;66,2;conforme;137305;5885;24;76;673;Non vérifié;non
+53046;Le Buret;53;eau potable : CC du Pays de Meslay-Grez;92196;2024;80,9;1,0;4,3;65,9;conforme;251120;5998;52;97;315;Non vérifié;non
+53047;Carelles;53;eau potable : SENOM;92212;2024;76,9;0,9;3,1;65,6;conforme;307804;5783;64;122;246;Non vérifié;non
+53048;Chailland;53;eau potable : Principal;92150;2024;75,0;1,2;3,6;65,7;conforme;323520;22139;51;130;1187;Non vérifié;non
+53049;Châlons-du-Maine;53;eau potable : PS secteur Nord;284254;2024;95,5;0,5;11,5;67,3;conforme;39166;1707;7;37;682;Non vérifié;non
+53051;Champéon;53;eau potable : SMEP de la Région de Le Horps;92192;2024;88,7;0,3;2,5;65,5;conforme;16425;1591;7;51;636;Non vérifié;non
+53052;Champfrémont;53;eau potable : CC du Mont des Avaloirs;212350;2024;67,5;1,2;2,6;65,5;conforme;219372;7026;68;169;282;Non vérifié;non
+53053;Champgenéteux;53;eau potable : Régie des Eaux des Coëvrons;92063;2024;89,4;0,7;5,5;66,1;conforme;353101;6535;36;50;492;Non vérifié;non
+53054;Changé;53;eau potable : PS secteur Nord;284254;2024;95,5;0,5;11,5;67,3;conforme;39166;16273;7;37;6502;Non vérifié;non
+53055;Chantrigné;53;eau potable : Chantrigné;92089;2024;88,9;0,4;3,1;65,6;conforme;5548;5548;25;48;599;Non vérifié;non
+53056;La Chapelle-Anthenaise;53;eau potable : PS secteur Nord;284254;2024;95,5;0,5;11,5;67,3;conforme;39166;2428;7;37;970;Non vérifié;non
+53057;La Chapelle-au-Riboul;53;eau potable : SIAEP de Grazay;91997;2024;77,8;0,6;2,2;65,4;conforme;31087;4811;26;102;505;Non vérifié;non
+53058;La Chapelle-Craonnaise;53;eau potable : Distribution en DSP;300334;2024;83,9;0,6;3,1;65,6;conforme;156714;3325;30;76;308;Non vérifié;non
+53059;La Chapelle-Rainsouin;53;eau potable : Régie des Eaux des Coëvrons;92063;2024;89,4;0,7;5,5;66,1;conforme;353101;5472;36;50;412;Non vérifié;non
+53061;Charchigné;53;eau potable : SMEP de la Région de Le Horps;92192;2024;88,7;0,3;2,5;65,5;conforme;16425;1148;7;51;459;Non vérifié;non
+53062;Château-Gontier-sur-Mayenne;53;eau potable : Secteur Ouest;92211;2024;92,5;0,7;9,0;66,8;conforme;138757;99820;16;34;16584;Non vérifié;non
+53063;Châtelain;53;eau potable : Secteur Est - ex-SIAEP Bierné;91932;2024;95,9;0,3;7,6;66,5;conforme;45573;3087;18;45;470;Non vérifié;non
+53064;Châtillon-sur-Colmont;53;eau potable : SENOM;92212;2024;76,9;0,9;3,1;65,6;conforme;307804;22308;64;122;949;Non vérifié;non
+53066;Chemazé;53;eau potable : Secteur Ouest;92211;2024;92,5;0,7;9,0;66,8;conforme;138757;8138;16;34;1352;Non vérifié;non
+53067;Chémeré-le-Roi;53;eau potable : CC du Pays de Meslay-Grez;92196;2024;80,9;1,0;4,3;65,9;conforme;251120;8206;52;97;431;Non vérifié;non
+53068;Chérancé;53;eau potable : Distribution en DSP;300334;2024;83,9;0,6;3,1;65,6;conforme;156714;1673;30;76;155;Non vérifié;non
+53069;Chevaigné-du-Maine;53;eau potable : SIAEPAC de la Fontaine Rouillée;92193;2024;78,1;1,3;4,8;66,0;conforme;90525;4578;84;112;150;Non vérifié;non
+53071;Colombiers-du-Plessis;53;eau potable : SENOM;92212;2024;76,9;0,9;3,1;65,6;conforme;307804;11331;64;122;482;Non vérifié;non
+53072;Commer;53;eau potable : SIAEP de Commer;91995;2024;85,5;0,7;4,0;65,8;conforme;32816;8515;18;64;1286;Non vérifié;non
+53073;Congrier;53;eau potable : Distribution en DSP;300334;2024;83,9;0,6;3,1;65,6;conforme;156714;10062;30;76;932;Non vérifié;non
+53074;Contest;53;eau potable : SIAEP de l'Anxure et de la Perche;92066;2024;94,5;0,2;4,2;65,8;conforme;11965;3796;12;18;834;Non vérifié;non
+53075;Cosmes;53;eau potable : Distribution en DSP;300334;2024;83,9;0,6;3,1;65,6;conforme;156714;3260;30;76;302;Non vérifié;non
+53076;Cossé-en-Champagne;53;eau potable : CC du Pays de Meslay-Grez;92196;2024;80,9;1,0;4,3;65,9;conforme;251120;5693;52;97;299;Non vérifié;non
+53077;Cossé-le-Vivien;53;eau potable : Principal;92195;2024;87,7;1,3;9,3;66,9;conforme;366789;82713;71;85;3174;Non vérifié;non
+53078;Coudray;53;eau potable : Secteur Est - ex-SIAEP Bierné;91932;2024;95,9;0,3;7,6;66,5;conforme;45573;5707;18;45;869;Non vérifié;non
+53079;Couesmes-Vaucé;53;eau potable : COMAVA;92223;2024;83,3;0,6;3,2;65,6;conforme;81665;4011;29;68;379;Non vérifié;non
+53080;Couptrain;53;eau potable : SIAEP des Avaloirs;92189;2024;81,2;0,9;3,8;65,8;conforme;161622;1803;48;86;103;Non vérifié;non
+53082;Courbeveille;53;eau potable : Distribution en DSP;300334;2024;83,9;0,6;3,1;65,6;conforme;156714;6812;30;76;631;Non vérifié;non
+53083;Courcité;53;eau potable : CC du Mont des Avaloirs;212350;2024;67,5;1,2;2,6;65,5;conforme;219372;19857;68;169;797;Non vérifié;non
+53084;Craon;53;eau potable : Principal;92195;2024;87,7;1,3;9,3;66,9;conforme;366789;115470;71;85;4431;Non vérifié;non
+53085;Crennes-sur-Fraubée;53;eau potable : CC du Mont des Avaloirs;212350;2024;67,5;1,2;2,6;65,5;conforme;219372;4784;68;169;192;Non vérifié;non
+53086;La Croixille;53;eau potable : ex SIAEP de Juvigné;212346;2024;81,3;0,9;4,1;65,8;conforme;51377;16522;72;172;629;Non vérifié;non
+53087;La Cropte;53;eau potable : CC du Pays de Meslay-Grez;92196;2024;80,9;1,0;4,3;65,9;conforme;251120;4474;52;97;235;Non vérifié;non
+53088;Cuillé;53;eau potable : Principal;92195;2024;87,7;1,3;9,3;66,9;conforme;366789;23141;71;85;888;Non vérifié;non
+53089;Daon;53;eau potable : Secteur Est - ex-SIAEP Bierné;91932;2024;95,9;0,3;7,6;66,5;conforme;45573;3566;18;45;543;Non vérifié;non
+53090;Denazé;53;eau potable : Distribution en DSP;300334;2024;83,9;0,6;3,1;65,6;conforme;156714;2094;30;76;194;Non vérifié;non
+53091;Désertines;53;eau potable : SENOM;92212;2024;76,9;0,9;3,1;65,6;conforme;307804;11001;64;122;468;Non vérifié;non
+53093;La Dorée;53;eau potable : SENOM;92212;2024;76,9;0,9;3,1;65,6;conforme;307804;6723;64;122;286;Non vérifié;non
+53094;Entrammes;53;eau potable : PS secteur Sud Nord Ouest;284274;2024;81,8;0,8;3,5;65,7;conforme;64640;21939;26;85;2294;Non vérifié;non
+53096;Ernée;53;eau potable : Principal;92150;2024;75,0;1,2;3,6;65,7;conforme;323520;102562;51;130;5499;Non vérifié;non
+53097;Évron;53;eau potable : Régie des Eaux des Coëvrons;92063;2024;89,4;0,7;5,5;66,1;conforme;353101;109603;36;50;8252;Non vérifié;non
+53098;Fontaine-Couverte;53;eau potable : Principal;92195;2024;87,7;1,3;9,3;66,9;conforme;366789;10945;71;85;420;Non vérifié;non
+53099;Forcé;53;eau potable : PS secteur EST;240034;2024;88,0;0,8;6,1;66,2;conforme;102816;8105;20;59;1099;Non vérifié;non
+53100;Fougerolles-du-Plessis;53;eau potable : SENOM;92212;2024;76,9;0,9;3,1;65,6;conforme;307804;28561;64;122;1215;Non vérifié;non
+53101;Fromentières;53;eau potable : Secteur Ouest;92211;2024;92,5;0,7;9,0;66,8;conforme;138757;5104;16;34;848;Non vérifié;non
+53102;Gastines;53;eau potable : Principal;92195;2024;87,7;1,3;9,3;66,9;conforme;366789;4300;71;85;165;Non vérifié;non
+53103;Le Genest-Saint-Isle;53;eau potable : PS secteur Sud Ouest;303634;2024;84,0;1,1;6,0;66,2;conforme;137305;18939;24;76;2166;Non vérifié;non
+53104;Gennes-Longuefuye;53;eau potable : Secteur Est - ex-SIAEP Bierné;91932;2024;95,9;0,3;7,6;66,5;conforme;45573;8893;18;45;1354;Non vérifié;non
+53105;Gesnes;53;eau potable : Régie des Eaux des Coëvrons;92063;2024;89,4;0,7;5,5;66,1;conforme;353101;3307;36;50;249;Non vérifié;non
+53106;Gesvres;53;eau potable : CC du Mont des Avaloirs;212350;2024;67,5;1,2;2,6;65,5;conforme;219372;13429;68;169;539;Non vérifié;non
+53107;Gorron;53;eau potable : SENOM;92212;2024;76,9;0,9;3,1;65,6;conforme;307804;57358;64;122;2440;Non vérifié;non
+53108;La Gravelle;53;eau potable : PS secteur Sud Ouest;303634;2024;84,0;1,1;6,0;66,2;conforme;137305;4870;24;76;557;Non vérifié;non
+53109;Grazay;53;eau potable : SIAEP de Grazay;91997;2024;77,8;0,6;2,2;65,4;conforme;31087;5993;26;102;629;Non vérifié;non
+53110;Grez-en-Bouère;53;eau potable : CC du Pays de Meslay-Grez;92196;2024;80,9;1,0;4,3;65,9;conforme;251120;18659;52;97;980;Non vérifié;non
+53111;La Haie-Traversaine;53;eau potable : COMAVA;92223;2024;83,3;0,6;3,2;65,6;conforme;81665;4953;29;68;468;Non vérifié;non
+53112;Le Ham;53;eau potable : CC du Mont des Avaloirs;212350;2024;67,5;1,2;2,6;65,5;conforme;219372;8421;68;169;338;Non vérifié;non
+53113;Hambers;53;eau potable : Régie des Eaux des Coëvrons;92063;2024;89,4;0,7;5,5;66,1;conforme;353101;8288;36;50;624;Non vérifié;non
+53114;Hardanges;53;eau potable : SMEP de la Région de Le Horps;92192;2024;88,7;0,3;2,5;65,5;conforme;16425;423;7;51;169;Non vérifié;non
+53115;Hercé;53;eau potable : SENOM;92212;2024;76,9;0,9;3,1;65,6;conforme;307804;6982;64;122;297;Non vérifié;non
+53116;Le Horps;53;eau potable : SMEP de la Région de Le Horps;92192;2024;88,7;0,3;2,5;65,5;conforme;16425;1791;7;51;716;Non vérifié;non
+53117;Houssay;53;eau potable : Secteur Ouest;92211;2024;92,5;0,7;9,0;66,8;conforme;138757;2967;16;34;493;Non vérifié;non
+53118;Le Housseau-Brétignolles;53;eau potable : SIAEPAC de la Fontaine Rouillée;92193;2024;78,1;1,3;4,8;66,0;conforme;90525;7050;84;112;231;Non vérifié;non
+53119;L' Huisserie;53;eau potable : Régie;232954;2024;88,2;3,5;26,0;70,2;conforme;648970;50054;29;60;4672;Non vérifié;non
+53120;Izé;53;eau potable : Régie des Eaux des Coëvrons;92063;2024;89,4;0,7;5,5;66,1;conforme;353101;6163;36;50;464;Non vérifié;non
+53121;Javron-les-Chapelles;53;eau potable : SIAEP des Avaloirs;92189;2024;81,2;0,9;3,8;65,8;conforme;161622;23001;48;86;1314;Non vérifié;non
+53122;Jublains;53;eau potable : SIAEP de Grazay;91997;2024;77,8;0,6;2,2;65,4;conforme;31087;7117;26;102;747;Non vérifié;non
+53123;Juvigné;53;eau potable : ex SIAEP de Juvigné;212346;2024;81,3;0,9;4,1;65,8;conforme;51377;34856;72;172;1327;Non vérifié;non
+53124;Prée-d'Anjou;53;eau potable : Secteur Ouest;92211;2024;92,5;0,7;9,0;66,8;conforme;138757;8312;16;34;1381;Non vérifié;non
+53125;Landivy;53;eau potable : SENOM;92212;2024;76,9;0,9;3,1;65,6;conforme;307804;25717;64;122;1094;Non vérifié;non
+53126;Larchamp;53;eau potable : SENOM;92212;2024;76,9;0,9;3,1;65,6;conforme;307804;23531;64;122;1001;Non vérifié;non
+53127;Lassay-les-Châteaux;53;eau potable : SIAEPAC de la Fontaine Rouillée;92193;2024;78,1;1,3;4,8;66,0;conforme;90525;68581;84;112;2247;Non vérifié;non
+53128;Laubrières;53;eau potable : Principal;92195;2024;87,7;1,3;9,3;66,9;conforme;366789;8443;71;85;324;Non vérifié;non
+53129;Launay-Villiers;53;eau potable : ex SIAEP de Port-Brillet et le Bourgneuf la Foret;212345;2024;90,5;0,7;6,8;66,4;conforme;84325;2626;21;60;350;Non vérifié;non
+53130;Laval;53;eau potable : Régie;232954;2024;88,2;3,5;26,0;70,2;conforme;648970;529255;29;60;49400;Non vérifié;non
+53131;Lesbois;53;eau potable : SENOM;92212;2024;76,9;0,9;3,1;65,6;conforme;307804;4208;64;122;179;Non vérifié;non
+53132;Levaré;53;eau potable : SENOM;92212;2024;76,9;0,9;3,1;65,6;conforme;307804;6323;64;122;269;Non vérifié;non
+53133;Lignières-Orgères;53;eau potable : principal;209734;2024;68,7;1,1;2,5;65,5;conforme;104936;10598;40;163;719;Non vérifié;non
+53134;Livet;53;eau potable : Régie des Eaux des Coëvrons;92063;2024;89,4;0,7;5,5;66,1;conforme;353101;2537;36;50;191;Non vérifié;non
+53135;Livré-la-Touche;53;eau potable : Principal;92195;2024;87,7;1,3;9,3;66,9;conforme;366789;18997;71;85;729;Non vérifié;non
+53136;La Roche-Neuville;53;eau potable : Secteur Ouest;92211;2024;92,5;0,7;9,0;66,8;conforme;138757;7464;16;34;1240;Non vérifié;non
+53137;Loiron-Ruillé;53;eau potable : PS secteur Sud Ouest;303634;2024;84,0;1,1;6,0;66,2;conforme;137305;24116;24;76;2758;Non vérifié;non
+53139;Loupfougères;53;eau potable : CC du Mont des Avaloirs;212350;2024;67,5;1,2;2,6;65,5;conforme;219372;10165;68;169;408;Non vérifié;non
+53140;Louverné;53;eau potable : PS secteur Nord;284254;2024;95,5;0,5;11,5;67,3;conforme;39166;10872;7;37;4344;Non vérifié;non
+53141;Louvigné;53;eau potable : PS secteur EST;240034;2024;88,0;0,8;6,1;66,2;conforme;102816;8798;20;59;1193;Non vérifié;non
+53142;Madré;53;eau potable : SIAEP des Avaloirs;92189;2024;81,2;0,9;3,8;65,8;conforme;161622;4901;48;86;280;Non vérifié;non
+53143;Maisoncelles-du-Maine;53;eau potable : CC du Pays de Meslay-Grez;92196;2024;80,9;1,0;4,3;65,9;conforme;251120;9634;52;97;506;Non vérifié;non
+53144;Marcillé-la-Ville;53;eau potable : SMEP de la Région de Le Horps;92192;2024;88,7;0,3;2,5;65,5;conforme;16425;1896;7;51;758;Non vérifié;non
+53145;Marigné-Peuton;53;eau potable : Secteur Ouest;92211;2024;92,5;0,7;9,0;66,8;conforme;138757;3268;16;34;543;Non vérifié;non
+53146;Martigné-sur-Mayenne;53;eau potable : Martigné-sur-Mayenne;92129;2024;80,0;1,3;5,3;66,1;conforme;29894;29894;43;89;1902;Non vérifié;non
+53147;Mayenne;53;eau potable : Mayenne;92132;2024;94,6;1,5;27,2;70,4;conforme;75555;75555;16;23;12883;Non vérifié;non
+53148;Mée;53;eau potable : Distribution en DSP;300334;2024;83,9;0,6;3,1;65,6;conforme;156714;2440;30;76;226;Non vérifié;non
+53150;Ménil;53;eau potable : Secteur Est - ex-SIAEP Bierné;91932;2024;95,9;0,3;7,6;66,5;conforme;45573;6062;18;45;923;Non vérifié;non
+53151;Méral;53;eau potable : Principal;92195;2024;87,7;1,3;9,3;66,9;conforme;366789;27441;71;85;1053;Non vérifié;non
+53152;Meslay-du-Maine;53;eau potable : CC du Pays de Meslay-Grez;92196;2024;80,9;1,0;4,3;65,9;conforme;251120;52912;52;97;2779;Non vérifié;non
+53153;Mézangers;53;eau potable : Régie des Eaux des Coëvrons;92063;2024;89,4;0,7;5,5;66,1;conforme;353101;8328;36;50;627;Non vérifié;non
+53154;Montaudin;53;eau potable : SENOM;92212;2024;76,9;0,9;3,1;65,6;conforme;307804;20663;64;122;879;Non vérifié;non
+53155;Montenay;53;eau potable : Principal;92150;2024;75,0;1,2;3,6;65,7;conforme;323520;24078;51;130;1291;Non vérifié;non
+53156;Montflours;53;eau potable : PS secteur Nord;284254;2024;95,5;0,5;11,5;67,3;conforme;39166;618;7;37;247;Non vérifié;non
+53157;Montigné-le-Brillant;53;eau potable : PS secteur Sud Nord Ouest;284274;2024;81,8;0,8;3,5;65,7;conforme;64640;13064;26;85;1366;Non vérifié;non
+53158;Montjean;53;eau potable : PS secteur Sud Ouest;303634;2024;84,0;1,1;6,0;66,2;conforme;137305;8919;24;76;1020;Non vérifié;non
+53160;Montreuil-Poulay;53;eau potable : SMEP de la Région de Le Horps;92192;2024;88,7;0,3;2,5;65,5;conforme;16425;933;7;51;373;Non vérifié;non
+53161;Montsûrs;53;eau potable : Régie des Eaux des Coëvrons;92063;2024;89,4;0,7;5,5;66,1;conforme;353101;42396;36;50;3192;Non vérifié;non
+53162;Moulay;53;eau potable : SIAEP de Commer;91995;2024;85,5;0,7;4,0;65,8;conforme;32816;6443;18;64;973;Non vérifié;non
+53163;Neau;53;eau potable : Régie des Eaux des Coëvrons;92063;2024;89,4;0,7;5,5;66,1;conforme;353101;9961;36;50;750;Non vérifié;non
+53164;Neuilly-le-Vendin;53;eau potable : SIAEP des Avaloirs;92189;2024;81,2;0,9;3,8;65,8;conforme;161622;6162;48;86;352;Non vérifié;non
+53165;Niafles;53;eau potable : Distribution en DSP;300334;2024;83,9;0,6;3,1;65,6;conforme;156714;3714;30;76;344;Non vérifié;non
+53168;Nuillé-sur-Vicoin;53;eau potable : PS secteur Sud Nord Ouest;284274;2024;81,8;0,8;3,5;65,7;conforme;64640;11926;26;85;1247;Non vérifié;non
+53169;Olivet;53;eau potable : ex SIAEP de Port-Brillet et le Bourgneuf la Foret;212345;2024;90,5;0,7;6,8;66,4;conforme;84325;3032;21;60;404;Non vérifié;non
+53170;Oisseau;53;eau potable : COMAVA;92223;2024;83,3;0,6;3,2;65,6;conforme;81665;12023;29;68;1136;Non vérifié;non
+53172;Origné;53;eau potable : Secteur Ouest;92211;2024;92,5;0,7;9,0;66,8;conforme;138757;2347;16;34;390;Non vérifié;non
+53173;La Pallu;53;eau potable : SIAEP des Avaloirs;92189;2024;81,2;0,9;3,8;65,8;conforme;161622;2993;48;86;171;Non vérifié;non
+53174;Parigné-sur-Braye;53;eau potable : Parigné-sur-Braye;92149;2024;81,2;0,8;3,6;65,7;conforme;5957;5957;19;82;848;Non vérifié;non
+53175;Parné-sur-Roc;53;eau potable : PS secteur EST;240034;2024;88,0;0,8;6,1;66,2;conforme;102816;10163;20;59;1378;Non vérifié;non
+53176;Le Pas;53;eau potable : COMAVA;92223;2024;83,3;0,6;3,2;65,6;conforme;81665;5472;29;68;517;Non vérifié;non
+53177;La Pellerine;53;eau potable : Principal;92150;2024;75,0;1,2;3,6;65,7;conforme;323520;5539;51;130;297;Non vérifié;non
+53178;Peuton;53;eau potable : Secteur Ouest;92211;2024;92,5;0,7;9,0;66,8;conforme;138757;1336;16;34;222;Non vérifié;non
+53179;Placé;53;eau potable : SIAEP de l'Anxure et de la Perche;92066;2024;94,5;0,2;4,2;65,8;conforme;11965;1634;12;18;359;Non vérifié;non
+53180;Pommerieux;53;eau potable : Distribution en DSP;300334;2024;83,9;0,6;3,1;65,6;conforme;156714;7201;30;76;667;Non vérifié;non
+53181;Pontmain;53;eau potable : SENOM;92212;2024;76,9;0,9;3,1;65,6;conforme;307804;19017;64;122;809;Non vérifié;non
+53182;Port-Brillet;53;eau potable : ex SIAEP de Port-Brillet et le Bourgneuf la Foret;212345;2024;90,5;0,7;6,8;66,4;conforme;84325;13710;21;60;1827;Non vérifié;non
+53184;Préaux;53;eau potable : CC du Pays de Meslay-Grez;92196;2024;80,9;1,0;4,3;65,9;conforme;251120;3008;52;97;158;Non vérifié;non
+53185;Pré-en-Pail-Saint-Samson;53;eau potable;136037;2024;70,1;0,9;2,0;65,4;conforme;81728;28708;35;165;2273;Non vérifié;non
+53186;Quelaines-Saint-Gault;53;eau potable : Distribution en DSP;300334;2024;83,9;0,6;3,1;65,6;conforme;156714;23233;30;76;2152;Non vérifié;non
+53187;Ravigny;53;eau potable : CC du Mont des Avaloirs;212350;2024;67,5;1,2;2,6;65,5;conforme;219372;5780;68;169;232;Non vérifié;non
+53188;Renazé;53;eau potable : Distribution en DSP;300334;2024;83,9;0,6;3,1;65,6;conforme;156714;27033;30;76;2504;Non vérifié;non
+53189;Rennes-en-Grenouilles;53;eau potable : SIAEPAC de la Fontaine Rouillée;92193;2024;78,1;1,3;4,8;66,0;conforme;90525;3418;84;112;112;Non vérifié;non
+53190;Le Ribay;53;eau potable : SMEP de la Région de Le Horps;92192;2024;88,7;0,3;2,5;65,5;conforme;16425;1158;7;51;463;Non vérifié;non
+53191;La Roë;53;eau potable : Principal;92195;2024;87,7;1,3;9,3;66,9;conforme;366789;6463;71;85;248;Non vérifié;non
+53192;La Rouaudière;53;eau potable : Distribution en DSP;300334;2024;83,9;0,6;3,1;65,6;conforme;156714;3455;30;76;320;Non vérifié;non
+53193;Ruillé-Froid-Fonds;53;eau potable : CC du Pays de Meslay-Grez;92196;2024;80,9;1,0;4,3;65,9;conforme;251120;11100;52;97;583;Non vérifié;non
+53195;Sacé;53;eau potable : SIAEP de l'Anxure et de la Perche;92066;2024;94,5;0,2;4,2;65,8;conforme;11965;2148;12;18;472;Non vérifié;non
+53196;Saint-Aignan-de-Couptrain;53;eau potable : SIAEP des Avaloirs;92189;2024;81,2;0,9;3,8;65,8;conforme;161622;6109;48;86;349;Non vérifié;non
+53197;Saint-Aignan-sur-Roë;53;eau potable : Distribution en DSP;300334;2024;83,9;0,6;3,1;65,6;conforme;156714;10245;30;76;949;Non vérifié;non
+53198;Saint-Aubin-du-Désert;53;eau potable : CC du Mont des Avaloirs;212350;2024;67,5;1,2;2,6;65,5;conforme;219372;5656;68;169;227;Non vérifié;non
+53199;Saint-Aubin-Fosse-Louvain;53;eau potable : SENOM;92212;2024;76,9;0,9;3,1;65,6;conforme;307804;4913;64;122;209;Non vérifié;non
+53200;Saint-Baudelle;53;eau potable : SIAEP de Commer;91995;2024;85,5;0,7;4,0;65,8;conforme;32816;7873;18;64;1189;Non vérifié;non
+53201;Saint-Berthevin;53;eau potable : PS secteur Sud Ouest;303634;2024;84,0;1,1;6,0;66,2;conforme;137305;65395;24;76;7479;Non vérifié;non
+53202;Saint-Berthevin-la-Tannière;53;eau potable : SENOM;92212;2024;76,9;0,9;3,1;65,6;conforme;307804;7240;64;122;308;Non vérifié;non
+53203;Saint-Brice;53;eau potable : CC du Pays de Meslay-Grez;92196;2024;80,9;1,0;4,3;65,9;conforme;251120;9844;52;97;517;Non vérifié;non
+53204;Saint-Calais-du-Désert;53;eau potable : SIAEP des Avaloirs;92189;2024;81,2;0,9;3,8;65,8;conforme;161622;6932;48;86;396;Non vérifié;non
+53206;Saint-Charles-la-Forêt;53;eau potable : CC du Pays de Meslay-Grez;92196;2024;80,9;1,0;4,3;65,9;conforme;251120;4398;52;97;231;Non vérifié;non
+53208;Saint-Cyr-en-Pail;53;eau potable : SIAEP des Avaloirs;92189;2024;81,2;0,9;3,8;65,8;conforme;161622;8752;48;86;500;Non vérifié;non
+53209;Saint-Cyr-le-Gravelais;53;eau potable : PS secteur Sud Ouest;303634;2024;84,0;1,1;6,0;66,2;conforme;137305;4958;24;76;567;Non vérifié;non
+53210;Saint-Denis-d'Anjou;53;eau potable : Secteur Est - ex-SIAEP Bierné;91932;2024;95,9;0,3;7,6;66,5;conforme;45573;9819;18;45;1495;Non vérifié;non
+53211;Saint-Denis-de-Gastines;53;eau potable : Principal;92150;2024;75,0;1,2;3,6;65,7;conforme;323520;27286;51;130;1463;Non vérifié;non
+53212;Saint-Denis-du-Maine;53;eau potable : CC du Pays de Meslay-Grez;92196;2024;80,9;1,0;4,3;65,9;conforme;251120;8549;52;97;449;Non vérifié;non
+53213;Saint-Ellier-du-Maine;53;eau potable : SENOM;92212;2024;76,9;0,9;3,1;65,6;conforme;307804;11942;64;122;508;Non vérifié;non
+53214;Saint-Erblon;53;eau potable : Distribution en DSP;300334;2024;83,9;0,6;3,1;65,6;conforme;156714;1652;30;76;153;Non vérifié;non
+53216;Saint-Fraimbault-de-Prières;53;eau potable : St-Fraimbault-de-Prières;92052;2024;83,3;0,8;4,2;65,8;conforme;8620;8620;26;70;926;Non vérifié;non
+53218;Sainte-Gemmes-le-Robert;53;eau potable : Régie des Eaux des Coëvrons;92063;2024;89,4;0,7;5,5;66,1;conforme;353101;10267;36;50;773;Non vérifié;non
+53219;Saint-Georges-Buttavent;53;eau potable : St-Georges-Buttavent;92168;2024;79,3;0,7;2,5;65,5;conforme;17630;17630;35;101;1367;Non vérifié;non
+53220;Saint-Georges-le-Fléchard;53;eau potable : Régie des Eaux des Coëvrons;92063;2024;89,4;0,7;5,5;66,1;conforme;353101;4954;36;50;373;Non vérifié;non
+53221;Saint-Georges-sur-Erve;53;eau potable : Régie des Eaux des Coëvrons;92063;2024;89,4;0,7;5,5;66,1;conforme;353101;5220;36;50;393;Non vérifié;non
+53222;Saint-Germain-d'Anxure;53;eau potable : SIAEP de l'Anxure et de la Perche;92066;2024;94,5;0,2;4,2;65,8;conforme;11965;1611;12;18;354;Non vérifié;non
+53223;Saint-Germain-de-Coulamer;53;eau potable : CC du Mont des Avaloirs;212350;2024;67,5;1,2;2,6;65,5;conforme;219372;8197;68;169;329;Non vérifié;non
+53224;Saint-Germain-le-Fouilloux;53;eau potable : PS secteur Nord;284254;2024;95,5;0,5;11,5;67,3;conforme;39166;2933;7;37;1172;Non vérifié;non
+53225;Saint-Germain-le-Guillaume;53;eau potable : Principal;92150;2024;75,0;1,2;3,6;65,7;conforme;323520;9456;51;130;507;Non vérifié;non
+53226;Saint-Hilaire-du-Maine;53;eau potable : Principal;92150;2024;75,0;1,2;3,6;65,7;conforme;323520;14865;51;130;797;Non vérifié;non
+53228;Blandouet-Saint Jean;53;eau potable : Régie des Eaux des Coëvrons;92063;2024;89,4;0,7;5,5;66,1;conforme;353101;7358;36;50;554;Non vérifié;non
+53229;Saint-Jean-sur-Mayenne;53;eau potable : PS secteur Nord;284254;2024;95,5;0,5;11,5;67,3;conforme;39166;4335;7;37;1732;Non vérifié;non
+53230;Saint-Julien-du-Terroux;53;eau potable : SIAEP des Avaloirs;92189;2024;81,2;0,9;3,8;65,8;conforme;161622;4516;48;86;258;Non vérifié;non
+53232;Saint-Léger;53;eau potable : Régie des Eaux des Coëvrons;92063;2024;89,4;0,7;5,5;66,1;conforme;353101;4144;36;50;312;Non vérifié;non
+53233;Saint-Loup-du-Dorat;53;eau potable : ex-SIAEP Ballée;91931;2024;69,5;2,1;4,9;66,0;conforme;49585;11226;91;227;338;Non vérifié;non
+53234;Saint-Loup-du-Gast;53;eau potable : COMAVA;92223;2024;83,3;0,6;3,2;65,6;conforme;81665;3313;29;68;313;Non vérifié;non
+53235;Sainte-Marie-du-Bois;53;eau potable : SIAEPAC de la Fontaine Rouillée;92193;2024;78,1;1,3;4,8;66,0;conforme;90525;6898;84;112;226;Non vérifié;non
+53236;Saint-Mars-du-Désert;53;eau potable : CC du Mont des Avaloirs;212350;2024;67,5;1,2;2,6;65,5;conforme;219372;4036;68;169;162;Non vérifié;non
+53237;Saint-Mars-sur-Colmont;53;eau potable : COMAVA;92223;2024;83,3;0,6;3,2;65,6;conforme;81665;4657;29;68;440;Non vérifié;non
+53238;Saint-Mars-sur-la-Futaie;53;eau potable : SENOM;92212;2024;76,9;0,9;3,1;65,6;conforme;307804;12271;64;122;522;Non vérifié;non
+53239;Saint-Martin-de-Connée;53;eau potable : Régie des Eaux des Coëvrons;92063;2020;92,3;0,5;6,1;66,2;conforme;223380;3772;25;32;421;Sans anomalie apparente;non
+53240;Saint-Martin-du-Limet;53;eau potable : Distribution en DSP;300334;2024;83,9;0,6;3,1;65,6;conforme;156714;4534;30;76;420;Non vérifié;non
+53242;Saint-Michel-de-la-Roë;53;eau potable : Principal;92195;2024;87,7;1,3;9,3;66,9;conforme;366789;6567;71;85;252;Non vérifié;non
+53243;Saint-Ouën-des-Toits;53;eau potable : ex SIAEP de Port-Brillet et le Bourgneuf la Foret;212345;2024;90,5;0,7;6,8;66,4;conforme;84325;13395;21;60;1785;Non vérifié;non
+53245;Saint-Pierre-des-Landes;53;eau potable : Principal;92150;2024;75,0;1,2;3,6;65,7;conforme;323520;17215;51;130;923;Non vérifié;non
+53246;Saint-Pierre-des-Nids;53;eau potable : CC du Mont des Avaloirs;212350;2024;67,5;1,2;2,6;65,5;conforme;219372;43551;68;169;1748;Non vérifié;non
+53247;Saint-Pierre-la-Cour;53;eau potable : ex SIAEP de Port-Brillet et le Bourgneuf la Foret;212345;2024;90,5;0,7;6,8;66,4;conforme;84325;17410;21;60;2320;Non vérifié;non
+53248;Saint-Pierre-sur-Erve;53;eau potable : Régie des Eaux des Coëvrons;92063;2024;89,4;0,7;5,5;66,1;conforme;353101;1727;36;50;130;Non vérifié;non
+53249;Vimartin-sur-Orthe;53;eau potable : Régie des Eaux des Coëvrons;92063;2024;89,4;0,7;5,5;66,1;conforme;353101;14610;36;50;1100;Non vérifié;non
+53250;Saint-Poix;53;eau potable : Principal;92195;2024;87,7;1,3;9,3;66,9;conforme;366789;9981;71;85;383;Non vérifié;non
+53251;Saint-Quentin-les-Anges;53;eau potable : Distribution en DSP;300334;2024;83,9;0,6;3,1;65,6;conforme;156714;5096;30;76;472;Non vérifié;non
+53253;Saint-Saturnin-du-Limet;53;eau potable : Distribution en DSP;300334;2024;83,9;0,6;3,1;65,6;conforme;156714;5560;30;76;515;Non vérifié;non
+53255;Sainte-Suzanne-et-Chammes;53;eau potable : Régie des Eaux des Coëvrons;92063;2024;89,4;0,7;5,5;66,1;conforme;353101;15606;36;50;1175;Non vérifié;non
+53256;Saint-Thomas-de-Courceriers;53;eau potable : Régie des Eaux des Coëvrons;92063;2024;89,4;0,7;5,5;66,1;conforme;353101;2205;36;50;166;Non vérifié;non
+53257;Saulges;53;eau potable : Régie des Eaux des Coëvrons;92063;2024;89,4;0,7;5,5;66,1;conforme;353101;4370;36;50;329;Non vérifié;non
+53258;La Selle-Craonnaise;53;eau potable : Distribution en DSP;300334;2024;83,9;0,6;3,1;65,6;conforme;156714;9662;30;76;895;Non vérifié;non
+53259;Senonnes;53;eau potable : Distribution en DSP;300334;2024;83,9;0,6;3,1;65,6;conforme;156714;4232;30;76;392;Non vérifié;non
+53260;Simplé;53;eau potable : Distribution en DSP;300334;2024;83,9;0,6;3,1;65,6;conforme;156714;4102;30;76;380;Non vérifié;non
+53261;Soucé;53;eau potable : COMAVA;92223;2024;83,3;0,6;3,2;65,6;conforme;81665;1471;29;68;139;Non vérifié;non
+53262;Soulgé-sur-Ouette;53;eau potable : PS secteur EST;240034;2024;88,0;0,8;6,1;66,2;conforme;102816;7840;20;59;1063;Non vérifié;non
+53263;Thuboeuf;53;eau potable : SIAEP des Avaloirs;92189;2024;81,2;0,9;3,8;65,8;conforme;161622;4744;48;86;271;Non vérifié;non
+53264;Thorigné-en-Charnie;53;eau potable : Régie des Eaux des Coëvrons;92063;2024;89,4;0,7;5,5;66,1;conforme;353101;2537;36;50;191;Non vérifié;non
+53265;Torcé-Viviers-en-Charnie;53;eau potable : Régie des Eaux des Coëvrons;92063;2024;89,4;0,7;5,5;66,1;conforme;353101;10201;36;50;768;Non vérifié;non
+53266;Trans;53;eau potable : Régie des Eaux des Coëvrons;92063;2024;89,4;0,7;5,5;66,1;conforme;353101;3068;36;50;231;Non vérifié;non
+53267;Vaiges;53;eau potable : Régie des Eaux des Coëvrons;92063;2024;89,4;0,7;5,5;66,1;conforme;353101;15646;36;50;1178;Non vérifié;non
+53269;Vautorte;53;eau potable : Principal;92150;2024;75,0;1,2;3,6;65,7;conforme;323520;11321;51;130;607;Non vérifié;non
+53270;Vieuvy;53;eau potable : SENOM;92212;2024;76,9;0,9;3,1;65,6;conforme;307804;2633;64;122;112;Non vérifié;non
+53271;Villaines-la-Juhel;53;eau potable : CC du Mont des Avaloirs;212350;2024;67,5;1,2;2,6;65,5;conforme;219372;66547;68;169;2671;Non vérifié;non
+53272;Villepail;53;eau potable : CC du Mont des Avaloirs;212350;2024;67,5;1,2;2,6;65,5;conforme;219372;4784;68;169;192;Non vérifié;non
+53273;Villiers-Charlemagne;53;eau potable : CC du Pays de Meslay-Grez;92196;2024;80,9;1,0;4,3;65,9;conforme;251120;21115;52;97;1109;Non vérifié;non
+53274;Vimarcé;53;eau potable : Régie des Eaux des Coëvrons;92063;2020;92,3;0,5;6,1;66,2;conforme;223380;2123;25;32;237;Sans anomalie apparente;non
+53276;Voutré;53;eau potable : Régie des Eaux des Coëvrons;92063;2024;89,4;0,7;5,5;66,1;conforme;353101;11861;36;50;893;Non vérifié;non

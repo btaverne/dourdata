@@ -7,532 +7,532 @@
 # Méthodologie et code : https://github.com/btaverne/dourdata
 # Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
 # Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
-Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
-14001;Ablon;14;eau potable : principal;98399;2024;76,5;4,4;14,2;67,8;conforme;399637;34060;80;113;1166;Non vérifié
-14003;Agy;14;eau potable;98337;2024;81,0;1,5;6,5;66,3;conforme;64539;4159;36;107;320;Non vérifié
-14005;Valambray;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;16153;26;107;1682;Non vérifié
-14006;Amayé-sur-Orne;14;eau potable : Ex syndicat  Région d'Evrecy;98308;2024;82,2;1,5;7,1;66,4;conforme;60345;8628;22;77;1079;Non vérifié
-14007;Amayé-sur-Seulles;14;eau potable;98391;2024;96,3;0,2;5,7;66,1;conforme;35405;349;4;13;215;Non vérifié
-14009;Amfreville;14;eau potable;98329;2024;79,9;2,3;9,3;66,9;conforme;211554;22392;44;107;1394;Non vérifié
-14011;Aurseulles;14;eau potable;98391;2024;96,3;0,2;5,7;66,1;conforme;35405;3125;4;13;1923;Non vérifié
-14012;Angerville;14;eau potable;98372;2024;78,4;1,4;5,0;66,0;conforme;86870;1224;18;102;184;Non vérifié
-14014;Colomby-Anguerny;14;eau potable : Secteur Littoral et Mue;312974;2024;95,5;1,4;29,8;71,0;conforme;229265;8209;17;50;1353;Non vérifié
-14015;Anisy;14;eau potable : Secteur Littoral et Mue;312974;2024;95,5;1,4;29,8;71,0;conforme;229265;4969;17;50;819;Non vérifié
-14016;Annebault;14;eau potable : principal;98311;2024;78,4;1,2;4,3;65,9;conforme;150076;5623;30;105;521;Non vérifié
-14019;Arganchy;14;eau potable;98447;2024;84,0;2,3;11,9;67,4;conforme;320689;2878;36;70;220;Non vérifié
-14020;Argences;14;eau potable : AEP;98287;2024;80,1;2,4;9,6;66,9;conforme;210862;29652;21;91;3959;Non vérifié
-14021;Arromanches-les-Bains;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;2829;19;70;413;Non vérifié
-14022;Asnelles;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;4397;19;70;642;Non vérifié
-14023;Asnières-en-Bessin;14;eau potable : principal;98323;2024;85,6;0,8;5,0;66,0;conforme;68556;1144;43;74;73;Non vérifié
-14024;Auberville;14;eau potable;98441;2024;88,5;2,8;21,7;69,3;conforme;346601;9825;44;48;609;Non vérifié
-14025;Aubigny;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;2795;26;107;291;Non vérifié
-14026;Audrieu;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;7993;19;70;1167;Non vérifié
-14027;Les Monts d'Aunay;14;eau potable : AEP;323814;2024;84,9;0,8;4,3;65,9;conforme;499320;53785;31;72;4777;Non vérifié
-14030;Authie;14;eau potable : Secteur Littoral et Mue;312974;2024;95,5;1,4;29,8;71,0;conforme;229265;10357;17;50;1707;Non vérifié
-14032;Les Authieux-sur-Calonne;14;eau potable;98406;2024;73,2;1,5;4,2;65,8;conforme;78090;4692;46;148;278;Non vérifié
-14033;Auvillars;14;eau potable : principal;98311;2024;78,4;1,2;4,3;65,9;conforme;150076;2569;30;105;238;Non vérifié
-14034;Avenay;14;eau potable : Ex syndicat  Région d'Evrecy;98308;2024;82,2;1,5;7,1;66,4;conforme;60345;4438;22;77;555;Non vérifié
-14035;Balleroy-sur-Drôme;14;eau potable;98342;2024;0,0;5,2;0,0;65,0;non conforme;70188;44656;94;96;1303;Non vérifié
-14036;Banneville-la-Campagne;14;eau potable : AEP;98287;2024;80,1;2,4;9,6;66,9;conforme;210862;1401;21;91;187;Non vérifié
-14037;Malherbe-sur-Ajon;14;eau potable;98391;2024;96,3;0,2;5,7;66,1;conforme;35405;939;4;13;578;Non vérifié
-14038;Banville;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;5459;19;70;797;Non vérifié
-14039;Barbery;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;7299;26;107;760;Non vérifié
-14040;Barbeville;14;eau potable;98447;2024;84,0;2,3;11,9;67,4;conforme;320689;3140;36;70;240;Non vérifié
-14041;Barneville-la-Bertran;14;eau potable : principal;98399;2024;76,5;4,4;14,2;67,8;conforme;399637;3535;80;113;121;Non vérifié
-14042;Baron-sur-Odon;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;7921;19;49;1154;Non vérifié
-14043;Barou-en-Auge;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;643;26;107;67;Non vérifié
-14044;Basly;14;eau potable : Secteur Littoral et Mue;312974;2024;95,5;1,4;29,8;71,0;conforme;229265;6244;17;50;1029;Non vérifié
-14045;Basseneville;14;eau potable;98336;2024;82,9;2,0;9,8;67,0;conforme;64101;8729;95;75;253;Non vérifié
-14046;Bavent;14;eau potable;98329;2024;79,9;2,3;9,3;66,9;conforme;211554;30279;44;107;1885;Non vérifié
-14047;Bayeux;14;eau potable;98447;2024;84,0;2,3;11,9;67,4;conforme;320689;165624;36;70;12659;Non vérifié
-14049;Bazenville;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;973;19;70;142;Non vérifié
-14050;La Bazoque;14;eau potable;98288;2024;82,7;0,8;3,6;65,7;conforme;55340;1110;16;96;193;Non vérifié
-14053;Beaumais;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;1585;26;107;165;Non vérifié
-14054;Beaumesnil;14;eau potable : AEP;323814;2024;84,9;0,8;4,3;65,9;conforme;499320;2331;31;72;207;Non vérifié
-14055;Beaumont-en-Auge;14;eau potable : principal;98311;2024;78,4;1,2;4,3;65,9;conforme;150076;4058;30;105;376;Non vérifié
-14057;Bellengreville;14;eau potable : AEP;98287;2024;80,1;2,4;9,6;66,9;conforme;210862;11969;21;91;1598;Non vérifié
-14059;Benerville-sur-Mer;14;eau potable;98441;2024;88,5;2,8;21,7;69,3;conforme;346601;5921;44;48;367;Non vérifié
-14060;Bénouville;14;eau potable : Bénouville;98201;2024;95,1;0,8;14,9;68,0;conforme;6077;6077;8;20;1987;Non vérifié
-14061;Souleuvre en Bocage;14;eau potable : AEP;323814;2024;84,9;0,8;4,3;65,9;conforme;499320;97155;31;72;8629;Non vérifié
-14062;Bény-sur-Mer;14;eau potable : Secteur Littoral et Mue;312974;2024;95,5;1,4;29,8;71,0;conforme;229265;2834;17;50;467;Non vérifié
-14063;Bernesq;14;eau potable;98371;2024;71,8;1,5;3,9;65,8;conforme;125378;4622;60;139;212;Non vérifié
-14064;Bernières-d'Ailly;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;2132;26;107;222;Non vérifié
-14066;Bernières-sur-Mer;14;eau potable : principal;98291;2024;80,8;3,8;15,9;68,2;conforme;93109;35158;40;87;2437;Non vérifié
-14068;Biéville-Beuville;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;26357;19;49;3840;Non vérifié
-14069;Beuvillers;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;17259;37;129;1283;Non vérifié
-14070;Beuvron-en-Auge;14;eau potable;98289;2024;70,3;1,5;3,6;65,7;conforme;66297;4680;63;153;203;Non vérifié
-14076;Blainville-sur-Orne;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;41910;19;49;6106;Non vérifié
-14077;Blangy-le-Château;14;eau potable;98331;2024;84,4;0,8;4,4;65,9;conforme;110972;9118;30;70;828;Non vérifié
-14078;Blay;14;eau potable;98337;2024;81,0;1,5;6,5;66,3;conforme;64539;4601;36;107;354;Non vérifié
-14079;Blonville-sur-Mer;14;eau potable;98441;2024;88,5;2,8;21,7;69,3;conforme;346601;26153;44;48;1621;Non vérifié
-14080;Le Bô;14;eau potable;219224;2024;84,7;0,9;4,9;66,0;conforme;152096;1130;26;72;117;Non vérifié
-14082;La Boissière;14;eau potable : SYNDICAT MIXTE D'ALIMENTATION EN EAU POTABLE DU PLATEAU OUEST DE LISIEUX;98325;2024;82,6;0,9;4,2;65,8;conforme;99059;477;7;88;187;Non vérifié
-14083;Bonnebosq;14;eau potable : principal;98311;2024;78,4;1,2;4,3;65,9;conforme;150076;7005;30;105;649;Non vérifié
-14084;Bonnemaison;14;eau potable;98400;2024;67,7;1,6;3,3;65,7;conforme;99496;3750;26;221;398;Non vérifié
-14085;Bonneville-la-Louvet;14;eau potable;98331;2024;84,4;0,8;4,4;65,9;conforme;110972;9085;30;70;825;Non vérifié
-14086;Bonneville-sur-Touques;14;eau potable;98310;2024;84,2;1,1;6,1;66,2;conforme;26607;1067;10;66;307;Non vérifié
-14087;Bonnoeil;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;1200;26;107;125;Non vérifié
-14088;Bons-Tassilly;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;3765;26;107;392;Non vérifié
-14089;Bougy;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;2581;19;49;376;Non vérifié
-14090;Boulon;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;8105;26;107;844;Non vérifié
-14091;Bourgeauville;14;eau potable : principal;98311;2024;78,4;1,2;4,3;65,9;conforme;150076;1122;30;105;104;Non vérifié
-14092;Bourguébus;14;eau potable : Ex syndicat d'Ifs-Bourguebus;98313;2024;85,0;3,1;17,5;68,5;conforme;135757;19890;21;65;2613;Non vérifié
-14093;Branville;14;eau potable;98372;2024;78,4;1,4;5,0;66,0;conforme;86870;1583;18;102;238;Non vérifié
-14096;Brémoy;14;eau potable : AEP;323814;2024;84,9;0,8;4,3;65,9;conforme;499320;2950;31;72;262;Non vérifié
-14097;Bretteville-le-Rabet;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;2852;26;107;297;Non vérifié
-14098;Thue et Mue;14;eau potable : Secteur Littoral et Mue;312974;2024;95,5;1,4;29,8;71,0;conforme;229265;37510;17;50;6182;Non vérifié
-14100;Bretteville-sur-Laize;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;18343;26;107;1910;Non vérifié
-14101;Bretteville-sur-Odon;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;30845;19;49;4494;Non vérifié
-14102;Le Breuil-en-Auge;14;eau potable;98331;2024;84,4;0,8;4,4;65,9;conforme;110972;10484;30;70;952;Non vérifié
-14103;Le Breuil-en-Bessin;14;eau potable;98321;2024;85,0;1,7;9,9;67,0;conforme;73200;6829;46;66;409;Non vérifié
-14104;Le Brévedent;14;eau potable;98331;2024;84,4;0,8;4,4;65,9;conforme;110972;2213;30;70;201;Non vérifié
-14106;Bréville-les-Monts;14;eau potable;98329;2024;79,9;2,3;9,3;66,9;conforme;211554;10618;44;107;661;Non vérifié
-14107;Bricqueville;14;eau potable;98371;2024;71,8;1,5;3,9;65,8;conforme;125378;3292;60;139;151;Non vérifié
-14110;Brucourt;14;eau potable;98413;2024;90,7;2,6;25,1;70,0;conforme;54719;1777;38;38;129;Non vérifié
-14111;Bucéels;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;3123;19;70;456;Non vérifié
-14116;Le Bû-sur-Rouvres;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;1143;26;107;119;Non vérifié
-14117;Cabourg;14;eau potable;98413;2024;90,7;2,6;25,1;70,0;conforme;54719;51304;38;38;3725;Non vérifié
-14118;Caen;14;eau potable : Secteur Caennais;312954;2024;81,7;9,1;40,4;73,1;conforme;1523904;1445799;36;84;109400;Non vérifié
-14119;Cagny;14;eau potable : AEP;98287;2024;80,1;2,4;9,6;66,9;conforme;210862;15474;21;91;2066;Non vérifié
-14120;Cahagnes;14;eau potable;98301;2024;69,5;1,1;2,6;65,5;conforme;123188;15575;30;160;1405;Non vérifié
-14121;Cahagnolles;14;eau potable;98288;2024;82,7;0,8;3,6;65,7;conforme;55340;1450;16;96;252;Non vérifié
-14122;La Caine;14;eau potable;98400;2024;67,7;1,6;3,3;65,7;conforme;99496;1498;26;221;159;Non vérifié
-14123;Cairon;14;eau potable : Secteur Littoral et Mue;312974;2024;95,5;1,4;29,8;71,0;conforme;229265;12536;17;50;2066;Non vérifié
-14124;La Cambe;14;eau potable : principal;98323;2024;85,6;0,8;5,0;66,0;conforme;68556;8587;43;74;548;Non vérifié
-14125;Cambes-en-Plaine;14;eau potable : Secteur Littoral et Mue;312974;2024;95,5;1,4;29,8;71,0;conforme;229265;11104;17;50;1830;Non vérifié
-14126;Cambremer;14;eau potable : SYNDICAT MIXTE D'ALIMENTATION EN EAU POTABLE DU PLATEAU OUEST DE LISIEUX;98325;2024;82,6;0,9;4,2;65,8;conforme;99059;3303;7;88;1294;Non vérifié
-14127;Campagnolles;14;eau potable : AEP;323814;2024;84,9;0,8;4,3;65,9;conforme;499320;6328;31;72;562;Non vérifié
-14130;Campigny;14;eau potable;98337;2024;81,0;1,5;6,5;66,3;conforme;64539;2391;36;107;184;Non vérifié
-14131;Canapville;14;eau potable;98310;2024;84,2;1,1;6,1;66,2;conforme;26607;778;10;66;224;Non vérifié
-14132;Canchy;14;eau potable : principal;98323;2024;85,6;0,8;5,0;66,0;conforme;68556;3165;43;74;202;Non vérifié
-14134;Canteloup;14;eau potable : AEP;98287;2024;80,1;2,4;9,6;66,9;conforme;210862;1401;21;91;187;Non vérifié
-14135;Carcagny;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;1863;19;70;272;Non vérifié
-14136;Cardonville;14;eau potable : principal;98323;2024;85,6;0,8;5,0;66,0;conforme;68556;1410;43;74;90;Non vérifié
-14137;Carpiquet;14;eau potable : Secteur Caennais;312954;2024;81,7;9,1;40,4;73,1;conforme;1523904;45303;36;84;3428;Non vérifié
-14138;Cartigny-l'Épinay;14;eau potable;265274;2024;100,0;0,0;3,0;65,6;conforme;0;0;0;0;300;Non vérifié
-14140;Castillon;14;eau potable;98288;2024;82,7;0,8;3,6;65,7;conforme;55340;2117;16;96;368;Non vérifié
-14141;Castillon-en-Auge;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;2233;37;129;166;Non vérifié
-14143;Caumont-sur-Aure;14;eau potable;98391;2024;96,3;0,2;5,7;66,1;conforme;35405;3951;4;13;2431;Non vérifié
-14145;Cauvicourt;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;5416;26;107;564;Non vérifié
-14146;Cauville;14;eau potable;219224;2024;84,7;0,9;4,9;66,0;conforme;152096;1642;26;72;170;Non vérifié
-14147;Cernay;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;1843;37;129;137;Non vérifié
-14149;Cesny-aux-Vignes;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;4043;26;107;421;Non vérifié
-14150;Cesny-les-Sources;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;13551;26;107;1411;Non vérifié
-14159;Chouain;14;eau potable;98447;2024;84,0;2,3;11,9;67,4;conforme;320689;2996;36;70;229;Non vérifié
-14160;Cintheaux;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;1633;26;107;170;Non vérifié
-14161;Clarbec;14;eau potable : principal;98311;2024;78,4;1,2;4,3;65,9;conforme;150076;3389;30;105;314;Non vérifié
-14162;Clécy;14;eau potable;219224;2024;84,7;0,9;4,9;66,0;conforme;152096;12425;26;72;1286;Non vérifié
-14163;Cléville;14;eau potable : AEP;98287;2024;80,1;2,4;9,6;66,9;conforme;210862;2914;21;91;389;Non vérifié
-14165;Colleville-sur-Mer;14;eau potable : principal;98323;2024;85,6;0,8;5,0;66,0;conforme;68556;3244;43;74;207;Non vérifié
-14166;Colleville-Montgomery;14;eau potable : Secteur Littoral et Mue;312974;2024;95,5;1,4;29,8;71,0;conforme;229265;15691;17;50;2586;Non vérifié
-14167;Colombelles;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;49714;19;49;7243;Non vérifié
-14168;Colombières;14;eau potable;98371;2024;71,8;1,5;3,9;65,8;conforme;125378;4491;60;139;206;Non vérifié
-14169;Colombiers-sur-Seulles;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;1041;19;70;152;Non vérifié
-14171;Combray;14;eau potable;219224;2024;84,7;0,9;4,9;66,0;conforme;152096;1478;26;72;153;Non vérifié
-14172;Commes;14;eau potable;98447;2024;84,0;2,3;11,9;67,4;conforme;320689;6162;36;70;471;Non vérifié
-14173;Condé-sur-Ifs;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;4360;26;107;454;Non vérifié
-14174;Condé-en-Normandie;14;eau potable;219224;2024;84,7;0,9;4,9;66,0;conforme;152096;57826;26;72;5985;Non vérifié
-14175;Condé-sur-Seulles;14;eau potable;98447;2024;84,0;2,3;11,9;67,4;conforme;320689;3951;36;70;302;Non vérifié
-14177;Coquainvilliers;14;eau potable : SYNDICAT MIXTE D'ALIMENTATION EN EAU POTABLE DU PLATEAU OUEST DE LISIEUX;98325;2024;82,6;0,9;4,2;65,8;conforme;99059;2167;7;88;849;Non vérifié
-14179;Cordebugle;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;2152;37;129;160;Non vérifié
-14180;Cordey;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;1479;26;107;154;Non vérifié
-14181;Cormelles-le-Royal;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;36906;19;49;5377;Non vérifié
-14182;Cormolain;14;eau potable;98301;2024;69,5;1,1;2,6;65,5;conforme;123188;4345;30;160;392;Non vérifié
-14183;Cossesseville;14;eau potable;219224;2024;84,7;0,9;4,9;66,0;conforme;152096;995;26;72;103;Non vérifié
-14184;Cottun;14;eau potable;98337;2024;81,0;1,5;6,5;66,3;conforme;64539;3119;36;107;240;Non vérifié
-14190;Courcy;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;1421;26;107;148;Non vérifié
-14191;Courseulles-sur-Mer;14;eau potable;98217;2024;83,9;4,6;23,9;69,8;conforme;66539;66539;43;70;4268;Non vérifié
-14193;Courtonne-la-Meurdrac;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;9188;37;129;683;Non vérifié
-14194;Courtonne-les-Deux-Églises;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;8434;37;129;627;Non vérifié
-14195;Courvaudon;14;eau potable;98400;2024;67,7;1,6;3,3;65,7;conforme;99496;2742;26;221;291;Non vérifié
-14196;Crépon;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;1521;19;70;222;Non vérifié
-14197;Cresserons;14;eau potable;98307;2024;79,0;4,0;15,0;68,0;conforme;128538;14173;36;97;1068;Non vérifié
-14198;Cresseveuille;14;eau potable;98289;2024;70,3;1,5;3,6;65,7;conforme;66297;5924;63;153;257;Non vérifié
-14200;Creully sur Seulles;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;15486;19;70;2261;Non vérifié
-14202;Cricqueboeuf;14;eau potable;199776;2024;84,8;1,6;9,1;66,8;conforme;5694;5694;63;64;246;Non vérifié
-14203;Cricqueville-en-Auge;14;eau potable;98396;2024;79,8;2,4;9,4;66,9;conforme;37142;2090;31;97;185;Non vérifié
-14204;Cricqueville-en-Bessin;14;eau potable : principal;98323;2024;85,6;0,8;5,0;66,0;conforme;68556;2633;43;74;168;Non vérifié
-14205;Cristot;14;eau potable : Secteur Littoral et Mue;312974;2024;95,5;1,4;29,8;71,0;conforme;229265;1256;17;50;207;Non vérifié
-14206;Crocy;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;2737;26;107;285;Non vérifié
-14207;Croisilles;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;6194;26;107;645;Non vérifié
-14209;Crouay;14;eau potable;98337;2024;81,0;1,5;6,5;66,3;conforme;64539;6628;36;107;510;Non vérifié
-14211;Culey-le-Patry;14;eau potable;98400;2024;67,7;1,6;3,3;65,7;conforme;99496;3618;26;221;384;Non vérifié
-14214;Cussy;14;eau potable;98337;2024;81,0;1,5;6,5;66,3;conforme;64539;2170;36;107;167;Non vérifié
-14215;Cuverville;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;15560;19;49;2267;Non vérifié
-14216;Damblainville;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;2180;26;107;227;Non vérifié
-14218;Danestal;14;eau potable;98372;2024;78,4;1,4;5,0;66,0;conforme;86870;2341;18;102;352;Non vérifié
-14220;Deauville;14;eau potable;98441;2024;88,5;2,8;21,7;69,3;conforme;346601;57097;44;48;3539;Non vérifié
-14221;Démouville;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;20831;19;49;3035;Non vérifié
-14223;Le Détroit;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;903;26;107;94;Non vérifié
-14224;Deux-Jumeaux;14;eau potable : principal;98323;2024;85,6;0,8;5,0;66,0;conforme;68556;956;43;74;61;Non vérifié
-14225;Dives-sur-Mer;14;eau potable;98379;2024;76,5;4,6;15,0;68,0;conforme;105844;105844;57;112;5122;Non vérifié
-14226;Donnay;14;eau potable;219224;2024;84,7;0,9;4,9;66,0;conforme;152096;3188;26;72;330;Non vérifié
-14227;Douville-en-Auge;14;eau potable;98372;2024;78,4;1,4;5,0;66,0;conforme;86870;1470;18;102;221;Non vérifié
-14228;Douvres-la-Délivrande;14;eau potable;98307;2024;79,0;4,0;15,0;68,0;conforme;128538;68250;36;97;5143;Non vérifié
-14229;Dozulé;14;eau potable;98396;2024;79,8;2,4;9,4;66,9;conforme;37142;25357;31;97;2244;Non vérifié
-14230;Drubec;14;eau potable : principal;98311;2024;78,4;1,2;4,3;65,9;conforme;150076;1198;30;105;111;Non vérifié
-14231;Beaufour-Druval;14;eau potable : principal;98311;2024;78,4;1,2;4,3;65,9;conforme;150076;4889;30;105;453;Non vérifié
-14232;Ducy-Sainte-Marguerite;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;1212;19;70;177;Non vérifié
-14236;Ellon;14;eau potable;98447;2024;84,0;2,3;11,9;67,4;conforme;320689;8321;36;70;636;Non vérifié
-14237;Émiéville;14;eau potable : AEP;98287;2024;80,1;2,4;9,6;66,9;conforme;210862;4689;21;91;626;Non vérifié
-14238;Englesqueville-en-Auge;14;eau potable;98374;2021;79,1;2,9;10,9;67,2;conforme;3811;3811;92;97;113;Sans anomalie apparente
-14239;Englesqueville-la-Percée;14;eau potable : principal;98323;2024;85,6;0,8;5,0;66,0;conforme;68556;1442;43;74;92;Non vérifié
-14240;Épaney;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;4687;26;107;488;Non vérifié
-14241;Épinay-sur-Odon;14;eau potable;98391;2024;96,3;0,2;5,7;66,1;conforme;35405;1027;4;13;632;Non vérifié
-14242;Épron;14;eau potable : Epron;98417;2024;97,7;0,8;33,1;71,6;conforme;3819;3819;5;13;2093;Non vérifié
-14243;Équemauville;14;eau potable : principal;98399;2024;76,5;4,4;14,2;67,8;conforme;399637;45978;80;113;1574;Non vérifié
-14244;Eraines;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;2679;26;107;279;Non vérifié
-14245;Ernes;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;3140;26;107;327;Non vérifié
-14246;Escoville;14;eau potable;98329;2024;79,9;2,3;9,3;66,9;conforme;211554;14778;44;107;920;Non vérifié
-14248;Espins;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;2343;26;107;244;Non vérifié
-14249;Esquay-Notre-Dame;14;eau potable : Ex syndicat  Région d'Evrecy;98308;2024;82,2;1,5;7,1;66,4;conforme;60345;11546;22;77;1444;Non vérifié
-14250;Esquay-sur-Seulles;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;2048;19;70;299;Non vérifié
-14251;Esson;14;eau potable;98456;2024;81,5;2,2;9,8;67,0;conforme;30747;4241;20;82;576;Non vérifié
-14252;Estrées-la-Campagne;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;2353;26;107;245;Non vérifié
-14254;Éterville;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;10495;19;49;1529;Non vérifié
-14256;Étréham;14;eau potable;98337;2024;81,0;1,5;6,5;66,3;conforme;64539;4211;36;107;324;Non vérifié
-14257;Évrecy;14;eau potable : Ex syndicat  Région d'Evrecy;98308;2024;82,2;1,5;7,1;66,4;conforme;60345;16520;22;77;2066;Non vérifié
-14258;Falaise;14;eau potable : Falaise;98178;2024;86,3;3,1;19,5;68,9;conforme;99278;99278;35;75;7680;Non vérifié
-14260;Fauguernon;14;eau potable;98331;2024;84,4;0,8;4,4;65,9;conforme;110972;2434;30;70;221;Non vérifié
-14261;Le Faulq;14;eau potable;98331;2024;84,4;0,8;4,4;65,9;conforme;110972;3513;30;70;319;Non vérifié
-14266;Feuguerolles-Bully;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;10433;19;49;1520;Non vérifié
-14269;Fierville-les-Parcs;14;eau potable;98331;2024;84,4;0,8;4,4;65,9;conforme;110972;2610;30;70;237;Non vérifié
-14270;Firfol;14;eau potable : Plateau Est de Lisieux;98324;2024;79,5;0,9;3,6;65,7;conforme;31543;2673;20;92;366;Non vérifié
-14271;Fleury-sur-Orne;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;40777;19;49;5941;Non vérifié
-14272;La Folie;14;eau potable;98371;2024;71,8;1,5;3,9;65,8;conforme;125378;2355;60;139;108;Non vérifié
-14273;La Folletière-Abenon;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;1856;37;129;138;Non vérifié
-14274;Fontaine-Étoupefour;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;19287;19;49;2810;Non vérifié
-14275;Fontaine-Henry;14;eau potable : Secteur Littoral et Mue;312974;2024;95,5;1,4;29,8;71,0;conforme;229265;3204;17;50;528;Non vérifié
-14276;Fontaine-le-Pin;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;3198;26;107;333;Non vérifié
-14277;Fontenay-le-Marmion;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;14105;19;49;2055;Non vérifié
-14278;Fontenay-le-Pesnel;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;8616;19;70;1258;Non vérifié
-14280;Formentin;14;eau potable : principal;98311;2024;78,4;1,2;4,3;65,9;conforme;150076;2903;30;105;269;Non vérifié
-14281;Formigny La Bataille;14;eau potable : principal;98323;2024;85,6;0,8;5,0;66,0;conforme;68556;11987;43;74;765;Non vérifié
-14282;Foulognes;14;eau potable;98288;2024;82,7;0,8;3,6;65,7;conforme;55340;1266;16;96;220;Non vérifié
-14283;Fourches;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;2065;26;107;215;Non vérifié
-14284;Fourneaux-le-Val;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;1489;26;107;155;Non vérifié
-14285;Le Fournet;14;eau potable : principal;98311;2024;78,4;1,2;4,3;65,9;conforme;150076;831;30;105;77;Non vérifié
-14286;Fourneville;14;eau potable : principal;98399;2024;76,5;4,4;14,2;67,8;conforme;399637;14255;80;113;488;Non vérifié
-14287;Frénouville;14;eau potable : AEP;98287;2024;80,1;2,4;9,6;66,9;conforme;210862;15354;21;91;2050;Non vérifié
-14288;Le Fresne-Camilly;14;eau potable : Secteur Littoral et Mue;312974;2024;95,5;1,4;29,8;71,0;conforme;229265;5770;17;50;951;Non vérifié
-14289;Fresné-la-Mère;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;5436;26;107;566;Non vérifié
-14290;Fresney-le-Puceux;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;7760;26;107;808;Non vérifié
-14291;Fresney-le-Vieux;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;3179;26;107;331;Non vérifié
-14293;Fumichon;14;eau potable;98331;2024;84,4;0,8;4,4;65,9;conforme;110972;2951;30;70;268;Non vérifié
-14297;Gavrus;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;4358;19;49;635;Non vérifié
-14298;Géfosse-Fontenay;14;eau potable;98317;2024;85,4;1,1;6,2;66,2;conforme;22938;1792;38;65;129;Non vérifié
-14299;Genneville;14;eau potable;98406;2024;73,2;1,5;4,2;65,8;conforme;78090;13603;46;148;806;Non vérifié
-14300;Gerrots;14;eau potable;98289;2024;70,3;1,5;3,6;65,7;conforme;66297;1199;63;153;52;Non vérifié
-14301;Giberville;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;34847;19;49;5077;Non vérifié
-14302;Glanville;14;eau potable;98441;2024;88,5;2,8;21,7;69,3;conforme;346601;2549;44;48;158;Non vérifié
-14303;Glos;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;12524;37;129;931;Non vérifié
-14304;Gonneville-sur-Honfleur;14;eau potable : principal;98399;2024;76,5;4,4;14,2;67,8;conforme;399637;25092;80;113;859;Non vérifié
-14305;Gonneville-sur-Mer;14;eau potable;98372;2024;78,4;1,4;5,0;66,0;conforme;86870;4337;18;102;652;Non vérifié
-14306;Gonneville-en-Auge;14;eau potable;98329;2024;79,9;2,3;9,3;66,9;conforme;211554;6265;44;107;390;Non vérifié
-14308;Goustranville;14;eau potable;98336;2024;82,9;2,0;9,8;67,0;conforme;64101;13041;95;75;378;Non vérifié
-14309;Gouvix;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;7923;26;107;825;Non vérifié
-14310;Grainville-Langannerie;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;7798;26;107;812;Non vérifié
-14311;Grainville-sur-Odon;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;7584;19;49;1105;Non vérifié
-14312;Grandcamp-Maisy;14;eau potable;98317;2024;85,4;1,1;6,2;66,2;conforme;22938;21145;38;65;1522;Non vérifié
-14316;Grangues;14;eau potable;98372;2024;78,4;1,4;5,0;66,0;conforme;86870;1916;18;102;288;Non vérifié
-14318;Graye-sur-Mer;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;5295;19;70;773;Non vérifié
-14319;Grentheville;14;eau potable : Ex syndicat d'Ifs-Bourguebus;98313;2024;85,0;3,1;17,5;68,5;conforme;135757;7802;21;65;1025;Non vérifié
-14320;Grimbosq;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;2747;26;107;286;Non vérifié
-14322;Guéron;14;eau potable;98447;2024;84,0;2,3;11,9;67,4;conforme;320689;3232;36;70;247;Non vérifié
-14325;Hermanville-sur-Mer;14;eau potable : Secteur Littoral et Mue;312974;2024;95,5;1,4;29,8;71,0;conforme;229265;20163;17;50;3323;Non vérifié
-14326;Hermival-les-Vaux;14;eau potable;98331;2024;84,4;0,8;4,4;65,9;conforme;110972;9482;30;70;861;Non vérifié
-14327;Hérouville-Saint-Clair;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;161091;19;49;23470;Non vérifié
-14328;Hérouvillette;14;eau potable;98329;2024;79,9;2,3;9,3;66,9;conforme;211554;21750;44;107;1354;Non vérifié
-14329;Heuland;14;eau potable;98372;2024;78,4;1,4;5,0;66,0;conforme;86870;984;18;102;148;Non vérifié
-14332;La Hoguette;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;6358;26;107;662;Non vérifié
-14333;Honfleur;14;eau potable : principal;98399;2024;76,5;4,4;14,2;67,8;conforme;399637;193962;80;113;6640;Non vérifié
-14334;L' Hôtellerie;14;eau potable : Plateau Est de Lisieux;98324;2024;79,5;0,9;3,6;65,7;conforme;31543;2286;20;92;313;Non vérifié
-14335;Hotot-en-Auge;14;eau potable : SYNDICAT MIXTE D'ALIMENTATION EN EAU POTABLE DU PLATEAU OUEST DE LISIEUX;98325;2024;82,6;0,9;4,2;65,8;conforme;99059;728;7;88;285;Non vérifié
-14336;Hottot-les-Bagues;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;3096;19;70;452;Non vérifié
-14337;La Houblonnière;14;eau potable : SYNDICAT MIXTE D'ALIMENTATION EN EAU POTABLE DU PLATEAU OUEST DE LISIEUX;98325;2024;82,6;0,9;4,2;65,8;conforme;99059;827;7;88;324;Non vérifié
-14338;Houlgate;14;eau potable;98380;2024;93,0;1,4;18,8;68,8;conforme;25806;25806;39;35;1834;Non vérifié
-14341;Ifs;14;eau potable : Ex syndicat d'Ifs-Bourguebus;98313;2024;85,0;3,1;17,5;68,5;conforme;135757;90863;21;65;11937;Non vérifié
-14342;Isigny-sur-Mer;14;eau potable (ISIGNY-SUR-MER (avant 2017));98422;2024;72,0;3,0;7,6;66,5;conforme;62010;62010;48;143;3543;Non vérifié
-14343;Les Isles-Bardel;14;eau potable : Houlme;202408;2024;81,3;0,6;2,5;65,5;conforme;181376;862;32;109;73;Non vérifié
-14344;Janville;14;eau potable;98336;2024;82,9;2,0;9,8;67,0;conforme;64101;13179;95;75;382;Non vérifié
-14345;Jort;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;2910;26;107;303;Non vérifié
-14346;Juaye-Mondaye;14;eau potable;98447;2024;84,0;2,3;11,9;67,4;conforme;320689;9198;36;70;703;Non vérifié
-14347;Dialan sur Chaîne;14;eau potable : AEP;323814;2024;84,9;0,8;4,3;65,9;conforme;499320;11327;31;72;1006;Non vérifié
-14348;Juvigny-sur-Seulles;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;527;19;70;77;Non vérifié
-14349;Laize-Clinchamps;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;14791;19;49;2155;Non vérifié
-14352;Landelles-et-Coupigny;14;eau potable : AEP;323814;2024;84,9;0,8;4,3;65,9;conforme;499320;9210;31;72;818;Non vérifié
-14353;Landes-sur-Ajon;14;eau potable;98391;2024;96,3;0,2;5,7;66,1;conforme;35405;733;4;13;451;Non vérifié
-14354;Langrune-sur-Mer;14;eau potable : principal;98291;2024;80,8;3,8;15,9;68,2;conforme;93109;27641;40;87;1916;Non vérifié
-14355;Ponts sur Seulles;14;eau potable : Secteur Littoral et Mue;312974;2024;95,5;1,4;29,8;71,0;conforme;229265;7354;17;50;1212;Non vérifié
-14357;Terres de Druance;14;eau potable;219224;2024;84,7;0,9;4,9;66,0;conforme;152096;8754;26;72;906;Non vérifié
-14358;Léaupartie;14;eau potable : principal;98311;2024;78,4;1,2;4,3;65,9;conforme;150076;928;30;105;86;Non vérifié
-14360;Leffard;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;1959;26;107;204;Non vérifié
-14362;Lessard-et-le-Chêne;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;2045;37;129;152;Non vérifié
-14364;Lingèvres;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;3068;19;70;448;Non vérifié
-14365;Lion-sur-Mer;14;eau potable : Ex syndicat Lion-sur-Mer;98241;2024;85,7;2,4;14,2;67,8;conforme;22040;22040;24;62;2486;Non vérifié
-14366;Lisieux;14;eau potable : Lisieux;98402;2024;92,6;2,0;25,3;70,1;conforme;99119;79517;11;30;19645;Non vérifié
-14367;Lison;14;eau potable;265274;2024;100,0;0,0;3,0;65,6;conforme;0;0;0;0;451;Non vérifié
-14368;Lisores;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;3497;37;129;260;Non vérifié
-14369;Litteau;14;eau potable;265274;2024;100,0;0,0;3,0;65,6;conforme;0;0;0;0;271;Non vérifié
-14370;Le Molay-Littry;14;eau potable;98321;2024;85,0;1,7;9,9;67,0;conforme;73200;52162;46;66;3124;Non vérifié
-14371;Livarot-Pays-d'Auge;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;83496;37;129;6207;Non vérifié
-14374;Les Loges;14;eau potable : AEP;323814;2024;84,9;0,8;4,3;65,9;conforme;499320;1531;31;72;136;Non vérifié
-14375;Les Loges-Saulces;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;1498;26;107;156;Non vérifié
-14377;Longues-sur-Mer;14;eau potable;98447;2024;84,0;2,3;11,9;67,4;conforme;320689;7654;36;70;585;Non vérifié
-14378;Longueville;14;eau potable : principal;98323;2024;85,6;0,8;5,0;66,0;conforme;68556;4623;43;74;295;Non vérifié
-14379;Longvillers;14;eau potable;98391;2024;96,3;0,2;5,7;66,1;conforme;35405;574;4;13;353;Non vérifié
-14380;Loucelles;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;1514;19;70;221;Non vérifié
-14381;Louvagny;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;557;26;107;58;Non vérifié
-14383;Louvigny;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;17928;19;49;2612;Non vérifié
-14384;Luc-sur-Mer;14;eau potable;98307;2024;79,0;4,0;15,0;68,0;conforme;128538;43461;36;97;3275;Non vérifié
-14385;Magny-en-Bessin;14;eau potable;98447;2024;84,0;2,3;11,9;67,4;conforme;320689;2146;36;70;164;Non vérifié
-14389;Maisoncelles-Pelvey;14;eau potable;98391;2024;96,3;0,2;5,7;66,1;conforme;35405;410;4;13;252;Non vérifié
-14390;Maisoncelles-sur-Ajon;14;eau potable;98391;2024;96,3;0,2;5,7;66,1;conforme;35405;338;4;13;208;Non vérifié
-14391;Maisons;14;eau potable;98404;2024;63,0;7,1;12,1;67,4;non conforme;121360;18976;120;214;435;Non vérifié
-14393;Maizet;14;eau potable : Ex syndicat  Région d'Evrecy;98308;2024;82,2;1,5;7,1;66,4;conforme;60345;2879;22;77;360;Non vérifié
-14394;Maizières;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;4197;26;107;437;Non vérifié
-14396;Maltot;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;7276;19;49;1060;Non vérifié
-14397;Mandeville-en-Bessin;14;eau potable;98371;2024;71,8;1,5;3,9;65,8;conforme;125378;6606;60;139;303;Non vérifié
-14398;Manerbe;14;eau potable : SYNDICAT MIXTE D'ALIMENTATION EN EAU POTABLE DU PLATEAU OUEST DE LISIEUX;98325;2024;82,6;0,9;4,2;65,8;conforme;99059;1389;7;88;544;Non vérifié
-14399;Manneville-la-Pipard;14;eau potable;98331;2024;84,4;0,8;4,4;65,9;conforme;110972;2830;30;70;257;Non vérifié
-14400;Le Manoir;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;1336;19;70;195;Non vérifié
-14401;Manvieux;14;eau potable;98447;2024;84,0;2,3;11,9;67,4;conforme;320689;1688;36;70;129;Non vérifié
-14402;Le Marais-la-Chapelle;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;884;26;107;92;Non vérifié
-14403;Marolles;14;eau potable : Plateau Est de Lisieux;98324;2024;79,5;0,9;3,6;65,7;conforme;31543;5470;20;92;749;Non vérifié
-14404;Martainville;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;1114;26;107;116;Non vérifié
-14405;Martigny-sur-l'Ante;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;3035;26;107;316;Non vérifié
-14406;Moulins en Bessin;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;7705;19;70;1125;Non vérifié
-14407;Mathieu;14;eau potable : Secteur Littoral et Mue;312974;2024;95,5;1,4;29,8;71,0;conforme;229265;14144;17;50;2331;Non vérifié
-14408;May-sur-Orne;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;31086;19;49;4529;Non vérifié
-14409;Merville-Franceville-Plage;14;eau potable;98329;2024;79,9;2,3;9,3;66,9;conforme;211554;35837;44;107;2231;Non vérifié
-14410;Méry-Bissières-en-Auge;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;14555;37;129;1082;Non vérifié
-14411;Meslay;14;eau potable;219224;2024;84,7;0,9;4,9;66,0;conforme;152096;3266;26;72;338;Non vérifié
-14412;Le Mesnil-au-Grain;14;eau potable;98391;2024;96,3;0,2;5,7;66,1;conforme;35405;120;4;13;74;Non vérifié
-14419;Le Mesnil-Eudes;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;3390;37;129;252;Non vérifié
-14421;Le Mesnil-Guillaume;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;7412;37;129;551;Non vérifié
-14424;Le Mesnil-Robert;14;eau potable : AEP;323814;2024;84,9;0,8;4,3;65,9;conforme;499320;2038;31;72;181;Non vérifié
-14425;Le Mesnil-Simon;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;2125;37;129;158;Non vérifié
-14426;Le Mesnil-sur-Blangy;14;eau potable;98331;2024;84,4;0,8;4,4;65,9;conforme;110972;1927;30;70;175;Non vérifié
-14427;Le Mesnil-Villement;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;2708;26;107;282;Non vérifié
-14430;Meuvaines;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;932;19;70;136;Non vérifié
-14431;Mézidon Vallée d'Auge;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;131371;37;129;9766;Non vérifié
-14435;Les Monceaux;14;eau potable : SYNDICAT MIXTE D'ALIMENTATION EN EAU POTABLE DU PLATEAU OUEST DE LISIEUX;98325;2024;82,6;0,9;4,2;65,8;conforme;99059;505;7;88;198;Non vérifié
-14436;Monceaux-en-Bessin;14;eau potable;98447;2024;84,0;2,3;11,9;67,4;conforme;320689;7863;36;70;601;Non vérifié
-14437;Mondeville;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;70909;19;49;10331;Non vérifié
-14438;Mondrainville;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;4077;19;49;594;Non vérifié
-14439;Monfréville;14;eau potable;98371;2024;71,8;1,5;3,9;65,8;conforme;125378;2202;60;139;101;Non vérifié
-14445;Montfiquet;14;eau potable;98288;2024;82,7;0,8;3,6;65,7;conforme;55340;466;16;96;81;Non vérifié
-14446;Montigny;14;eau potable;98400;2024;67,7;1,6;3,3;65,7;conforme;99496;810;26;221;86;Non vérifié
-14448;Montreuil-en-Auge;14;eau potable : SYNDICAT MIXTE D'ALIMENTATION EN EAU POTABLE DU PLATEAU OUEST DE LISIEUX;98325;2024;82,6;0,9;4,2;65,8;conforme;99059;166;7;88;65;Non vérifié
-14449;Monts-en-Bessin;14;eau potable;98391;2024;96,3;0,2;5,7;66,1;conforme;35405;686;4;13;422;Non vérifié
-14452;Morteaux-Couliboeuf;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;5772;26;107;601;Non vérifié
-14453;Mosles;14;eau potable;98337;2024;81,0;1,5;6,5;66,3;conforme;64539;4783;36;107;368;Non vérifié
-14454;Mouen;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;12272;19;49;1788;Non vérifié
-14455;Moulines;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;2612;26;107;272;Non vérifié
-14456;Moult-Chicheboville;14;eau potable : AEP;98287;2024;80,1;2,4;9,6;66,9;conforme;210862;25773;21;91;3441;Non vérifié
-14457;Les Moutiers-en-Auge;14;eau potable : principal;208941;2024;63,8;1,8;3,1;65,6;non conforme;116296;4998;105;272;130;Non vérifié
-14458;Les Moutiers-en-Cinglais;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;5071;26;107;528;Non vérifié
-14460;Moyaux;14;eau potable;98331;2024;84,4;0,8;4,4;65,9;conforme;110972;15230;30;70;1383;Non vérifié
-14461;Mutrécy;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;5695;26;107;593;Non vérifié
-14465;Nonant;14;eau potable;98447;2024;84,0;2,3;11,9;67,4;conforme;320689;6803;36;70;520;Non vérifié
-14466;Norolles;14;eau potable;98331;2024;84,4;0,8;4,4;65,9;conforme;110972;3975;30;70;361;Non vérifié
-14467;Noron-l'Abbaye;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;3140;26;107;327;Non vérifié
-14468;Noron-la-Poterie;14;eau potable;98337;2024;81,0;1,5;6,5;66,3;conforme;64539;4315;36;107;332;Non vérifié
-14469;Norrey-en-Auge;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;893;26;107;93;Non vérifié
-14473;Notre-Dame-de-Livaye;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;1412;37;129;105;Non vérifié
-14474;Notre-Dame-d'Estrées-Corbon;14;eau potable : SYNDICAT MIXTE D'ALIMENTATION EN EAU POTABLE DU PLATEAU OUEST DE LISIEUX;98325;2024;82,6;0,9;4,2;65,8;conforme;99059;472;7;88;185;Non vérifié
-14475;Val d'Arry;14;eau potable;98391;2024;96,3;0,2;5,7;66,1;conforme;35405;4056;4;13;2496;Non vérifié
-14476;Olendon;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;1825;26;107;190;Non vérifié
-14478;Orbec;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;26568;37;129;1975;Non vérifié
-14480;Osmanville;14;eau potable;98367;2024;85,2;0,9;5,4;66,1;conforme;7884;7884;42;61;510;Non vérifié
-14482;Ouézy;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;2180;26;107;227;Non vérifié
-14483;Ouffières;14;eau potable;98400;2024;67,7;1,6;3,3;65,7;conforme;99496;1885;26;221;200;Non vérifié
-14484;Ouilly-du-Houley;14;eau potable;98331;2024;84,4;0,8;4,4;65,9;conforme;110972;2819;30;70;256;Non vérifié
-14486;Ouilly-le-Tesson;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;5484;26;107;571;Non vérifié
-14487;Ouilly-le-Vicomte;14;eau potable : Lisieux;98402;2024;92,6;2,0;25,3;70,1;conforme;99119;3060;11;30;756;Non vérifié
-14488;Ouistreham;14;eau potable : Ouistreham;98426;2024;81,9;4,5;20,4;69,1;conforme;130464;130464;39;80;9212;Non vérifié
-14491;Parfouru-sur-Odon;14;eau potable;98391;2024;96,3;0,2;5,7;66,1;conforme;35405;322;4;13;198;Non vérifié
-14492;Pennedepie;14;eau potable : principal;98399;2024;76,5;4,4;14,2;67,8;conforme;399637;8939;80;113;306;Non vérifié
-14494;Périers-en-Auge;14;eau potable;98413;2024;90,7;2,6;25,1;70,0;conforme;54719;1639;38;38;119;Non vérifié
-14495;Périers-sur-le-Dan;14;eau potable : Secteur Littoral et Mue;312974;2024;95,5;1,4;29,8;71,0;conforme;229265;3562;17;50;587;Non vérifié
-14496;Périgny;14;eau potable;219224;2024;84,7;0,9;4,9;66,0;conforme;152096;560;26;72;58;Non vérifié
-14497;Perrières;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;3188;26;107;332;Non vérifié
-14498;Pertheville-Ners;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;2247;26;107;234;Non vérifié
-14499;Petiville;14;eau potable;98329;2024;79,9;2,3;9,3;66,9;conforme;211554;8995;44;107;560;Non vérifié
-14500;Pierrefitte-en-Auge;14;eau potable : principal;98311;2024;78,4;1,2;4,3;65,9;conforme;150076;1641;30;105;152;Non vérifié
-14501;Pierrefitte-en-Cinglais;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;2276;26;107;237;Non vérifié
-14502;Pierrepont;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;797;26;107;83;Non vérifié
-14504;Le Pin;14;eau potable;98331;2024;84,4;0,8;4,4;65,9;conforme;110972;8777;30;70;797;Non vérifié
-14506;Planquery;14;eau potable;98288;2024;82,7;0,8;3,6;65,7;conforme;55340;1433;16;96;249;Non vérifié
-14509;Plumetot;14;eau potable;98307;2024;79,0;4,0;15,0;68,0;conforme;128538;2654;36;97;200;Non vérifié
-14510;La Pommeraye;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;634;26;107;66;Non vérifié
-14511;Pont-Bellanger;14;eau potable : AEP;323814;2024;84,9;0,8;4,3;65,9;conforme;499320;676;31;72;60;Non vérifié
-14512;Pontécoulant;14;eau potable;219224;2024;84,7;0,9;4,9;66,0;conforme;152096;686;26;72;71;Non vérifié
-14514;Pont-l'Évêque;14;eau potable : principal;98311;2024;78,4;1,2;4,3;65,9;conforme;150076;55530;30;105;5145;Non vérifié
-14515;Port-en-Bessin-Huppain;14;eau potable;98404;2024;63,0;7,1;12,1;67,4;non conforme;121360;81837;120;214;1876;Non vérifié
-14516;Potigny;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;20062;26;107;2089;Non vérifié
-14519;Préaux-Bocage;14;eau potable;98400;2024;67,7;1,6;3,3;65,7;conforme;99496;1008;26;221;107;Non vérifié
-14520;Le Pré-d'Auge;14;eau potable : SYNDICAT MIXTE D'ALIMENTATION EN EAU POTABLE DU PLATEAU OUEST DE LISIEUX;98325;2024;82,6;0,9;4,2;65,8;conforme;99059;2147;7;88;841;Non vérifié
-14522;Prêtreville;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;5260;37;129;391;Non vérifié
-14524;Putot-en-Auge;14;eau potable;98396;2024;79,8;2,4;9,4;66,9;conforme;37142;3469;31;97;307;Non vérifié
-14527;Belle Vie en Auge;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;7237;37;129;538;Non vérifié
-14528;Quetteville;14;eau potable;98406;2024;73,2;1,5;4,2;65,8;conforme;78090;6700;46;148;397;Non vérifié
-14529;Ranchy;14;eau potable;98337;2024;81,0;1,5;6,5;66,3;conforme;64539;3509;36;107;270;Non vérifié
-14530;Ranville;14;eau potable;98329;2024;79,9;2,3;9,3;66,9;conforme;211554;33315;44;107;2074;Non vérifié
-14531;Rapilly;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;423;26;107;44;Non vérifié
-14533;Repentigny;14;eau potable : principal;98311;2024;78,4;1,2;4,3;65,9;conforme;150076;1101;30;105;102;Non vérifié
-14534;Reux;14;eau potable : principal;98311;2024;78,4;1,2;4,3;65,9;conforme;150076;4479;30;105;415;Non vérifié
-14535;Reviers;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;4295;19;70;627;Non vérifié
-14536;La Rivière-Saint-Sauveur;14;eau potable : principal;98399;2024;76,5;4,4;14,2;67,8;conforme;399637;73816;80;113;2527;Non vérifié
-14538;Castine-en-Plaine;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;12176;19;49;1774;Non vérifié
-14540;Rocques;14;eau potable : Lisieux;98402;2024;92,6;2,0;25,3;70,1;conforme;99119;1154;11;30;285;Non vérifié
-14541;La Roque-Baignard;14;eau potable : principal;98311;2024;78,4;1,2;4,3;65,9;conforme;150076;1122;30;105;104;Non vérifié
-14542;Rosel;14;eau potable : Secteur Littoral et Mue;312974;2024;95,5;1,4;29,8;71,0;conforme;229265;4223;17;50;696;Non vérifié
-14543;Rots;14;eau potable : Secteur Littoral et Mue;312974;2024;95,5;1,4;29,8;71,0;conforme;229265;15436;17;50;2544;Non vérifié
-14546;Rouvres;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;2113;26;107;220;Non vérifié
-14547;Rubercy;14;eau potable;98321;2024;85,0;1,7;9,9;67,0;conforme;73200;2538;46;66;152;Non vérifié
-14550;Rumesnil;14;eau potable : SYNDICAT MIXTE D'ALIMENTATION EN EAU POTABLE DU PLATEAU OUEST DE LISIEUX;98325;2024;82,6;0,9;4,2;65,8;conforme;99059;222;7;88;87;Non vérifié
-14552;Ryes;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;3301;19;70;482;Non vérifié
-14554;Le Castelet;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;12698;19;49;1850;Non vérifié
-14555;Saint-André-d'Hébertot;14;eau potable;98406;2024;73,2;1,5;4,2;65,8;conforme;78090;7612;46;148;451;Non vérifié
-14556;Saint-André-sur-Orne;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;11421;19;49;1664;Non vérifié
-14557;Saint-Arnoult;14;eau potable;98441;2024;88,5;2,8;21,7;69,3;conforme;346601;17618;44;48;1092;Non vérifié
-14558;Saint-Aubin-d'Arquenay;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;7674;19;49;1118;Non vérifié
-14559;Saint-Aubin-des-Bois;14;eau potable : AEP;323814;2024;84,9;0,8;4,3;65,9;conforme;499320;2545;31;72;226;Non vérifié
-14562;Saint-Aubin-sur-Mer;14;eau potable : principal;98291;2024;80,8;3,8;15,9;68,2;conforme;93109;30310;40;87;2101;Non vérifié
-14563;Saint-Benoît-d'Hébertot;14;eau potable;98406;2024;73,2;1,5;4,2;65,8;conforme;78090;7527;46;148;446;Non vérifié
-14565;Saint-Côme-de-Fresné;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;1753;19;70;256;Non vérifié
-14566;Saint-Contest;14;eau potable : Secteur Littoral et Mue;312974;2024;95,5;1,4;29,8;71,0;conforme;229265;14957;17;50;2465;Non vérifié
-14569;Sainte-Croix-sur-Mer;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;1664;19;70;243;Non vérifié
-14570;Valorbiquet;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;32809;37;129;2439;Non vérifié
-14571;Saint-Denis-de-Mailloc;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;3982;37;129;296;Non vérifié
-14572;Saint-Denis-de-Méré;14;eau potable;219224;2024;84,7;0,9;4,9;66,0;conforme;152096;7285;26;72;754;Non vérifié
-14574;Saint-Désir;14;eau potable : Lisieux;98402;2024;92,6;2,0;25,3;70,1;conforme;99119;7108;11;30;1756;Non vérifié
-14575;Saint-Étienne-la-Thillaye;14;eau potable;98264;2024;70,1;2,0;4,7;65,9;conforme;17097;17097;121;156;386;Non vérifié
-14576;Val-de-Vie;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;6753;37;129;502;Non vérifié
-14578;Saint-Gatien-des-Bois;14;eau potable;98441;2024;88,5;2,8;21,7;69,3;conforme;346601;20893;44;48;1295;Non vérifié
-14579;Seulline;14;eau potable;98391;2024;96,3;0,2;5,7;66,1;conforme;35405;2132;4;13;1312;Non vérifié
-14582;Saint-Germain-de-Livet;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;9255;37;129;688;Non vérifié
-14586;Saint-Germain-du-Pert;14;eau potable : principal;98323;2024;85,6;0,8;5,0;66,0;conforme;68556;2319;43;74;148;Non vérifié
-14587;Saint-Germain-la-Blanche-Herbe;14;eau potable : Secteur Caennais;312954;2024;81,7;9,1;40,4;73,1;conforme;1523904;32801;36;84;2482;Non vérifié
-14588;Saint-Germain-Langot;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;3361;26;107;350;Non vérifié
-14589;Saint-Germain-le-Vasson;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;9277;26;107;966;Non vérifié
-14590;Sainte-Honorine-de-Ducy;14;eau potable;98288;2024;82,7;0,8;3,6;65,7;conforme;55340;783;16;96;136;Non vérifié
-14591;Aure sur Mer;14;eau potable : principal;98323;2024;85,6;0,8;5,0;66,0;conforme;68556;10844;43;74;692;Non vérifié
-14592;Sainte-Honorine-du-Fay;14;eau potable : Ex syndicat  Région d'Evrecy;98308;2024;82,2;1,5;7,1;66,4;conforme;60345;10890;22;77;1362;Non vérifié
-14593;Saint-Hymer;14;eau potable : principal;98311;2024;78,4;1,2;4,3;65,9;conforme;150076;7080;30;105;656;Non vérifié
-14595;Saint-Jean-de-Livet;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;3080;37;129;229;Non vérifié
-14598;Saint-Jouin;14;eau potable;98396;2024;79,8;2,4;9,4;66,9;conforme;37142;3390;31;97;300;Non vérifié
-14601;Saint-Julien-sur-Calonne;14;eau potable;98406;2024;73,2;1,5;4,2;65,8;conforme;78090;3004;46;148;178;Non vérifié
-14602;Saint-Lambert;14;eau potable;219224;2024;84,7;0,9;4,9;66,0;conforme;152096;2531;26;72;262;Non vérifié
-14603;Saint-Laurent-de-Condel;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;4917;26;107;512;Non vérifié
-14605;Saint-Laurent-sur-Mer;14;eau potable : principal;98323;2024;85,6;0,8;5,0;66,0;conforme;68556;4200;43;74;268;Non vérifié
-14606;Saint-Léger-Dubosq;14;eau potable;98396;2024;79,8;2,4;9,4;66,9;conforme;37142;2836;31;97;251;Non vérifié
-14607;Saint-Louet-sur-Seulles;14;eau potable;98391;2024;96,3;0,2;5,7;66,1;conforme;35405;241;4;13;148;Non vérifié
-14609;Saint-Loup-Hors;14;eau potable;98447;2024;84,0;2,3;11,9;67,4;conforme;320689;6594;36;70;504;Non vérifié
-14610;Saint-Manvieu-Norrey;14;eau potable : Secteur Littoral et Mue;312974;2024;95,5;1,4;29,8;71,0;conforme;229265;13106;17;50;2160;Non vérifié
-14613;Saint-Marcouf;14;eau potable;98371;2024;71,8;1,5;3,9;65,8;conforme;125378;1831;60;139;84;Non vérifié
-14614;Sainte-Marguerite-d'Elle;14;eau potable;265274;2024;100,0;0,0;3,0;65,6;conforme;0;0;0;0;757;Non vérifié
-14619;Sainte-Marie-Outre-l'Eau;14;eau potable : AEP;323814;2024;84,9;0,8;4,3;65,9;conforme;499320;1396;31;72;124;Non vérifié
-14620;Saint-Martin-aux-Chartrains;14;eau potable;98310;2024;84,2;1,1;6,1;66,2;conforme;26607;1491;10;66;429;Non vérifié
-14621;Saint-Martin-de-Bienfaite-la-Cressonnière;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;7210;37;129;536;Non vérifié
-14622;Saint-Martin-de-Blagny;14;eau potable;98371;2024;71,8;1,5;3,9;65,8;conforme;125378;2573;60;139;118;Non vérifié
-14623;Saint-Martin-de-Fontenay;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;17571;19;49;2560;Non vérifié
-14625;Saint-Martin-de-la-Lieue;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;10264;37;129;763;Non vérifié
-14626;Saint-Martin-de-Mailloc;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;13990;37;129;1040;Non vérifié
-14627;Saint-Martin-de-Mieux;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;3803;26;107;396;Non vérifié
-14630;Saint-Martin-des-Entrées;14;eau potable;98447;2024;84,0;2,3;11,9;67,4;conforme;320689;10257;36;70;784;Non vérifié
-14635;Saint-Omer;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;1834;26;107;191;Non vérifié
-14637;Saint-Ouen-du-Mesnil-Oger;14;eau potable : AEP;98287;2024;80,1;2,4;9,6;66,9;conforme;210862;1745;21;91;233;Non vérifié
-14639;Saint-Ouen-le-Pin;14;eau potable : SYNDICAT MIXTE D'ALIMENTATION EN EAU POTABLE DU PLATEAU OUEST DE LISIEUX;98325;2024;82,6;0,9;4,2;65,8;conforme;99059;638;7;88;250;Non vérifié
-14640;Saint-Pair;14;eau potable;98336;2024;82,9;2,0;9,8;67,0;conforme;64101;8453;95;75;245;Non vérifié
-14643;Saint-Paul-du-Vernay;14;eau potable;98288;2024;82,7;0,8;3,6;65,7;conforme;55340;4781;16;96;831;Non vérifié
-14644;Saint-Philbert-des-Champs;14;eau potable;98331;2024;84,4;0,8;4,4;65,9;conforme;110972;7037;30;70;639;Non vérifié
-14645;Saint-Pierre-Azif;14;eau potable;98441;2024;88,5;2,8;21,7;69,3;conforme;346601;2630;44;48;163;Non vérifié
-14646;Saint-Pierre-Canivet;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;4437;26;107;462;Non vérifié
-14648;Saint-Pierre-des-Ifs;14;eau potable : SYNDICAT MIXTE D'ALIMENTATION EN EAU POTABLE DU PLATEAU OUEST DE LISIEUX;98325;2024;82,6;0,9;4,2;65,8;conforme;99059;1156;7;88;453;Non vérifié
-14649;Saint-Pierre-du-Bû;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;4187;26;107;436;Non vérifié
-14650;Saint-Pierre-du-Fresne;14;eau potable;98391;2024;96,3;0,2;5,7;66,1;conforme;35405;297;4;13;183;Non vérifié
-14651;Saint-Pierre-du-Jonquet;14;eau potable;98336;2024;82,9;2,0;9,8;67,0;conforme;64101;10109;95;75;293;Non vérifié
-14652;Saint-Pierre-du-Mont;14;eau potable : principal;98323;2024;85,6;0,8;5,0;66,0;conforme;68556;1128;43;74;72;Non vérifié
-14654;Saint-Pierre-en-Auge;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;95509;37;129;7100;Non vérifié
-14656;Saint-Rémy;14;eau potable;219224;2024;84,7;0,9;4,9;66,0;conforme;152096;9623;26;72;996;Non vérifié
-14657;Saint-Samson;14;eau potable;98336;2024;82,9;2,0;9,8;67,0;conforme;64101;10592;95;75;307;Non vérifié
-14658;Noues de Sienne;14;eau potable : AEP;323814;2024;84,9;0,8;4,3;65,9;conforme;499320;47367;31;72;4207;Non vérifié
-14659;Saint-Sylvain;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;14156;26;107;1474;Non vérifié
-14660;Saint-Vaast-en-Auge;14;eau potable;98372;2024;78,4;1,4;5,0;66,0;conforme;86870;831;18;102;125;Non vérifié
-14661;Saint-Vaast-sur-Seulles;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;1103;19;70;161;Non vérifié
-14663;Saint-Vigor-le-Grand;14;eau potable;98447;2024;84,0;2,3;11,9;67,4;conforme;320689;31963;36;70;2443;Non vérifié
-14664;Sallen;14;eau potable;98301;2024;69,5;1,1;2,6;65,5;conforme;123188;3569;30;160;322;Non vérifié
-14665;Sallenelles;14;eau potable;98329;2024;79,9;2,3;9,3;66,9;conforme;211554;4610;44;107;287;Non vérifié
-14666;Sannerville;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;13075;19;49;1905;Non vérifié
-14667;Saon;14;eau potable;98321;2024;85,0;1,7;9,9;67,0;conforme;73200;3774;46;66;226;Non vérifié
-14668;Saonnet;14;eau potable;98321;2024;85,0;1,7;9,9;67,0;conforme;73200;5427;46;66;325;Non vérifié
-14669;Sassy;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;2084;26;107;217;Non vérifié
-14672;Val de Drôme;14;eau potable;98301;2024;69,5;1,1;2,6;65,5;conforme;123188;9965;30;160;899;Non vérifié
-14674;Soignolles;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;1104;26;107;115;Non vérifié
-14675;Soliers;14;eau potable : Ex syndicat d'Ifs-Bourguebus;98313;2024;85,0;3,1;17,5;68,5;conforme;135757;17203;21;65;2260;Non vérifié
-14676;Sommervieu;14;eau potable;98447;2024;84,0;2,3;11,9;67,4;conforme;320689;12913;36;70;987;Non vérifié
-14677;Soulangy;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;2391;26;107;249;Non vérifié
-14678;Soumont-Saint-Quentin;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;6329;26;107;659;Non vérifié
-14679;Subles;14;eau potable;98447;2024;84,0;2,3;11,9;67,4;conforme;320689;9028;36;70;690;Non vérifié
-14680;Sully;14;eau potable;98447;2024;84,0;2,3;11,9;67,4;conforme;320689;2237;36;70;171;Non vérifié
-14681;Surrain;14;eau potable : principal;98323;2024;85,6;0,8;5,0;66,0;conforme;68556;2162;43;74;138;Non vérifié
-14682;Surville;14;eau potable;98406;2024;73,2;1,5;4,2;65,8;conforme;78090;7983;46;148;473;Non vérifié
-14684;Tessel;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;1664;19;70;243;Non vérifié
-14685;Thaon;14;eau potable : Secteur Littoral et Mue;312974;2024;95,5;1,4;29,8;71,0;conforme;229265;11492;17;50;1894;Non vérifié
-14687;Le Theil-en-Auge;14;eau potable;98406;2024;73,2;1,5;4,2;65,8;conforme;78090;3359;46;148;199;Non vérifié
-14689;Le Hom;14;eau potable;219224;2024;84,7;0,9;4,9;66,0;conforme;152096;34782;26;72;3600;Non vérifié
-14692;Tilly-sur-Seulles;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;12329;19;70;1800;Non vérifié
-14694;Le Torquesne;14;eau potable : principal;98311;2024;78,4;1,2;4,3;65,9;conforme;150076;5709;30;105;529;Non vérifié
-14698;Touffréville;14;eau potable;98329;2024;79,9;2,3;9,3;66,9;conforme;211554;6297;44;107;392;Non vérifié
-14699;Touques;14;eau potable;98441;2024;88,5;2,8;21,7;69,3;conforme;346601;63131;44;48;3913;Non vérifié
-14700;Tour-en-Bessin;14;eau potable;98337;2024;81,0;1,5;6,5;66,3;conforme;64539;8993;36;107;692;Non vérifié
-14701;Tourgéville;14;eau potable;98441;2024;88,5;2,8;21,7;69,3;conforme;346601;13649;44;48;846;Non vérifié
-14705;Tournières;14;eau potable;98321;2024;85,0;1,7;9,9;67,0;conforme;73200;2471;46;66;148;Non vérifié
-14706;Tourville-en-Auge;14;eau potable;98310;2024;84,2;1,1;6,1;66,2;conforme;26607;893;10;66;257;Non vérifié
-14707;Tourville-sur-Odon;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;7914;19;49;1153;Non vérifié
-14708;Tracy-Bocage;14;eau potable;98391;2024;96,3;0,2;5,7;66,1;conforme;35405;507;4;13;312;Non vérifié
-14709;Tracy-sur-Mer;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;2336;19;70;341;Non vérifié
-14710;Tréprel;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;1076;26;107;112;Non vérifié
-14711;Trévières;14;eau potable;98371;2024;71,8;1,5;3,9;65,8;conforme;125378;20166;60;139;925;Non vérifié
-14712;Troarn;14;eau potable : Troarn;297034;2024;51,6;15,1;16,0;68,2;non conforme;183533;183533;146;344;3439;Non vérifié
-14713;Montillières-sur-Orne;14;eau potable;98400;2024;67,7;1,6;3,3;65,7;conforme;99496;5249;26;221;557;Non vérifié
-14714;Le Tronquay;14;eau potable;98342;2024;0,0;5,2;0,0;65,0;non conforme;70188;25532;94;107;745;Non vérifié
-14715;Trouville-sur-Mer;14;eau potable;98441;2024;88,5;2,8;21,7;69,3;conforme;346601;74522;44;48;4619;Non vérifié
-14716;Trungy;14;eau potable;98288;2024;82,7;0,8;3,6;65,7;conforme;55340;1203;16;96;209;Non vérifié
-14719;Urville;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;7481;26;107;779;Non vérifié
-14720;Ussy;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;8346;26;107;869;Non vérifié
-14721;Vacognes-Neuilly;14;eau potable : Ex syndicat  Région d'Evrecy;98308;2024;82,2;1,5;7,1;66,4;conforme;60345;5445;22;77;681;Non vérifié
-14723;Valsemé;14;eau potable : principal;98311;2024;78,4;1,2;4,3;65,9;conforme;150076;2817;30;105;261;Non vérifié
-14724;Varaville;14;eau potable;98329;2024;79,9;2,3;9,3;66,9;conforme;211554;16417;44;107;1022;Non vérifié
-14726;Valdallière;14;eau potable : AEP;323814;2024;84,9;0,8;4,3;65,9;conforme;499320;64132;31;72;5696;Non vérifié
-14728;Vaucelles;14;eau potable;98447;2024;84,0;2,3;11,9;67,4;conforme;320689;7837;36;70;599;Non vérifié
-14731;Vauville;14;eau potable;98441;2024;88,5;2,8;21,7;69,3;conforme;346601;3243;44;48;201;Non vérifié
-14732;Vaux-sur-Aure;14;eau potable;98447;2024;84,0;2,3;11,9;67,4;conforme;320689;3742;36;70;286;Non vérifié
-14733;Vaux-sur-Seulles;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;2240;19;70;327;Non vérifié
-14734;Vendes;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;2336;19;70;341;Non vérifié
-14735;Vendeuvre;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;7683;26;107;800;Non vérifié
-14737;Versainville;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;4994;26;107;520;Non vérifié
-14738;Verson;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;27860;19;49;4059;Non vérifié
-14739;Ver-sur-Mer;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;10829;19;70;1581;Non vérifié
-14740;La Vespière-Friardel;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;15860;37;129;1179;Non vérifié
-14741;Le Vey;14;eau potable;219224;2024;84,7;0,9;4,9;66,0;conforme;152096;1343;26;72;139;Non vérifié
-14742;Vicques;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;643;26;107;67;Non vérifié
-14743;Victot-Pontfol;14;eau potable : SYNDICAT MIXTE D'ALIMENTATION EN EAU POTABLE DU PLATEAU OUEST DE LISIEUX;98325;2024;82,6;0,9;4,2;65,8;conforme;99059;370;7;88;145;Non vérifié
-14744;Vienne-en-Bessin;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;1815;19;70;265;Non vérifié
-14745;Vierville-sur-Mer;14;eau potable : principal;98323;2024;85,6;0,8;5,0;66,0;conforme;68556;3635;43;74;232;Non vérifié
-14747;Vieux;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;4990;19;49;727;Non vérifié
-14748;Vieux-Bourg;14;eau potable;98406;2024;73,2;1,5;4,2;65,8;conforme;78090;1755;46;148;104;Non vérifié
-14751;Vignats;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;2727;26;107;284;Non vérifié
-14752;Villers-Bocage;14;eau potable;98391;2024;96,3;0,2;5,7;66,1;conforme;35405;5018;4;13;3088;Non vérifié
-14753;Villers-Canivet;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;6915;26;107;720;Non vérifié
-14754;Villers-sur-Mer;14;eau potable;98441;2024;88,5;2,8;21,7;69,3;conforme;346601;39366;44;48;2440;Non vérifié
-14755;Villerville;14;eau potable;98441;2024;88,5;2,8;21,7;69,3;conforme;346601;10003;44;48;620;Non vérifié
-14756;La Villette;14;eau potable;219224;2024;84,7;0,9;4,9;66,0;conforme;152096;2097;26;72;217;Non vérifié
-14758;Villons-les-Buissons;14;eau potable : Secteur Littoral et Mue;312974;2024;95,5;1,4;29,8;71,0;conforme;229265;5145;17;50;848;Non vérifié
-14759;Villy-lez-Falaise;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;2631;26;107;274;Non vérifié
-14760;Villy-Bocage;14;eau potable;98391;2024;96,3;0,2;5,7;66,1;conforme;35405;1183;4;13;728;Non vérifié
-14761;Vimont;14;eau potable : AEP;98287;2024;80,1;2,4;9,6;66,9;conforme;210862;6644;21;91;887;Non vérifié
-14762;Vire Normandie;14;eau potable : AEP;323814;2024;84,9;0,8;4,3;65,9;conforme;499320;196551;31;72;17457;Non vérifié
-14764;Pont-d'Ouilly;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;9777;26;107;1018;Non vérifié
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement);Donnée suspecte (voir LISEZMOI)
+14001;Ablon;14;eau potable : principal;98399;2024;76,5;4,4;14,2;67,8;conforme;399637;34060;80;113;1166;Non vérifié;non
+14003;Agy;14;eau potable;98337;2024;81,0;1,5;6,5;66,3;conforme;64539;4159;36;107;320;Non vérifié;non
+14005;Valambray;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;16153;26;107;1682;Non vérifié;non
+14006;Amayé-sur-Orne;14;eau potable : Ex syndicat  Région d'Evrecy;98308;2024;82,2;1,5;7,1;66,4;conforme;60345;8628;22;77;1079;Non vérifié;non
+14007;Amayé-sur-Seulles;14;eau potable;98391;2024;96,3;0,2;5,7;66,1;conforme;35405;349;4;13;215;Non vérifié;non
+14009;Amfreville;14;eau potable;98329;2024;79,9;2,3;9,3;66,9;conforme;211554;22392;44;107;1394;Non vérifié;non
+14011;Aurseulles;14;eau potable;98391;2024;96,3;0,2;5,7;66,1;conforme;35405;3125;4;13;1923;Non vérifié;non
+14012;Angerville;14;eau potable;98372;2024;78,4;1,4;5,0;66,0;conforme;86870;1224;18;102;184;Non vérifié;non
+14014;Colomby-Anguerny;14;eau potable : Secteur Littoral et Mue;312974;2024;95,5;1,4;29,8;71,0;conforme;229265;8209;17;50;1353;Non vérifié;non
+14015;Anisy;14;eau potable : Secteur Littoral et Mue;312974;2024;95,5;1,4;29,8;71,0;conforme;229265;4969;17;50;819;Non vérifié;non
+14016;Annebault;14;eau potable : principal;98311;2024;78,4;1,2;4,3;65,9;conforme;150076;5623;30;105;521;Non vérifié;non
+14019;Arganchy;14;eau potable;98447;2024;84,0;2,3;11,9;67,4;conforme;320689;2878;36;70;220;Non vérifié;non
+14020;Argences;14;eau potable : AEP;98287;2024;80,1;2,4;9,6;66,9;conforme;210862;29652;21;91;3959;Non vérifié;non
+14021;Arromanches-les-Bains;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;2829;19;70;413;Non vérifié;non
+14022;Asnelles;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;4397;19;70;642;Non vérifié;non
+14023;Asnières-en-Bessin;14;eau potable : principal;98323;2024;85,6;0,8;5,0;66,0;conforme;68556;1144;43;74;73;Non vérifié;non
+14024;Auberville;14;eau potable;98441;2024;88,5;2,8;21,7;69,3;conforme;346601;9825;44;48;609;Non vérifié;non
+14025;Aubigny;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;2795;26;107;291;Non vérifié;non
+14026;Audrieu;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;7993;19;70;1167;Non vérifié;non
+14027;Les Monts d'Aunay;14;eau potable : AEP;323814;2024;84,9;0,8;4,3;65,9;conforme;499320;53785;31;72;4777;Non vérifié;non
+14030;Authie;14;eau potable : Secteur Littoral et Mue;312974;2024;95,5;1,4;29,8;71,0;conforme;229265;10357;17;50;1707;Non vérifié;non
+14032;Les Authieux-sur-Calonne;14;eau potable;98406;2024;73,2;1,5;4,2;65,8;conforme;78090;4692;46;148;278;Non vérifié;non
+14033;Auvillars;14;eau potable : principal;98311;2024;78,4;1,2;4,3;65,9;conforme;150076;2569;30;105;238;Non vérifié;non
+14034;Avenay;14;eau potable : Ex syndicat  Région d'Evrecy;98308;2024;82,2;1,5;7,1;66,4;conforme;60345;4438;22;77;555;Non vérifié;non
+14035;Balleroy-sur-Drôme;14;eau potable;98342;2024;0,0;5,2;0,0;65,0;non conforme;70188;44656;94;96;1303;Non vérifié;oui
+14036;Banneville-la-Campagne;14;eau potable : AEP;98287;2024;80,1;2,4;9,6;66,9;conforme;210862;1401;21;91;187;Non vérifié;non
+14037;Malherbe-sur-Ajon;14;eau potable;98391;2024;96,3;0,2;5,7;66,1;conforme;35405;939;4;13;578;Non vérifié;non
+14038;Banville;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;5459;19;70;797;Non vérifié;non
+14039;Barbery;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;7299;26;107;760;Non vérifié;non
+14040;Barbeville;14;eau potable;98447;2024;84,0;2,3;11,9;67,4;conforme;320689;3140;36;70;240;Non vérifié;non
+14041;Barneville-la-Bertran;14;eau potable : principal;98399;2024;76,5;4,4;14,2;67,8;conforme;399637;3535;80;113;121;Non vérifié;non
+14042;Baron-sur-Odon;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;7921;19;49;1154;Non vérifié;non
+14043;Barou-en-Auge;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;643;26;107;67;Non vérifié;non
+14044;Basly;14;eau potable : Secteur Littoral et Mue;312974;2024;95,5;1,4;29,8;71,0;conforme;229265;6244;17;50;1029;Non vérifié;non
+14045;Basseneville;14;eau potable;98336;2024;82,9;2,0;9,8;67,0;conforme;64101;8729;95;75;253;Non vérifié;non
+14046;Bavent;14;eau potable;98329;2024;79,9;2,3;9,3;66,9;conforme;211554;30279;44;107;1885;Non vérifié;non
+14047;Bayeux;14;eau potable;98447;2024;84,0;2,3;11,9;67,4;conforme;320689;165624;36;70;12659;Non vérifié;non
+14049;Bazenville;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;973;19;70;142;Non vérifié;non
+14050;La Bazoque;14;eau potable;98288;2024;82,7;0,8;3,6;65,7;conforme;55340;1110;16;96;193;Non vérifié;non
+14053;Beaumais;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;1585;26;107;165;Non vérifié;non
+14054;Beaumesnil;14;eau potable : AEP;323814;2024;84,9;0,8;4,3;65,9;conforme;499320;2331;31;72;207;Non vérifié;non
+14055;Beaumont-en-Auge;14;eau potable : principal;98311;2024;78,4;1,2;4,3;65,9;conforme;150076;4058;30;105;376;Non vérifié;non
+14057;Bellengreville;14;eau potable : AEP;98287;2024;80,1;2,4;9,6;66,9;conforme;210862;11969;21;91;1598;Non vérifié;non
+14059;Benerville-sur-Mer;14;eau potable;98441;2024;88,5;2,8;21,7;69,3;conforme;346601;5921;44;48;367;Non vérifié;non
+14060;Bénouville;14;eau potable : Bénouville;98201;2024;95,1;0,8;14,9;68,0;conforme;6077;6077;8;20;1987;Non vérifié;non
+14061;Souleuvre en Bocage;14;eau potable : AEP;323814;2024;84,9;0,8;4,3;65,9;conforme;499320;97155;31;72;8629;Non vérifié;non
+14062;Bény-sur-Mer;14;eau potable : Secteur Littoral et Mue;312974;2024;95,5;1,4;29,8;71,0;conforme;229265;2834;17;50;467;Non vérifié;non
+14063;Bernesq;14;eau potable;98371;2024;71,8;1,5;3,9;65,8;conforme;125378;4622;60;139;212;Non vérifié;non
+14064;Bernières-d'Ailly;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;2132;26;107;222;Non vérifié;non
+14066;Bernières-sur-Mer;14;eau potable : principal;98291;2024;80,8;3,8;15,9;68,2;conforme;93109;35158;40;87;2437;Non vérifié;non
+14068;Biéville-Beuville;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;26357;19;49;3840;Non vérifié;non
+14069;Beuvillers;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;17259;37;129;1283;Non vérifié;non
+14070;Beuvron-en-Auge;14;eau potable;98289;2024;70,3;1,5;3,6;65,7;conforme;66297;4680;63;153;203;Non vérifié;non
+14076;Blainville-sur-Orne;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;41910;19;49;6106;Non vérifié;non
+14077;Blangy-le-Château;14;eau potable;98331;2024;84,4;0,8;4,4;65,9;conforme;110972;9118;30;70;828;Non vérifié;non
+14078;Blay;14;eau potable;98337;2024;81,0;1,5;6,5;66,3;conforme;64539;4601;36;107;354;Non vérifié;non
+14079;Blonville-sur-Mer;14;eau potable;98441;2024;88,5;2,8;21,7;69,3;conforme;346601;26153;44;48;1621;Non vérifié;non
+14080;Le Bô;14;eau potable;219224;2024;84,7;0,9;4,9;66,0;conforme;152096;1130;26;72;117;Non vérifié;non
+14082;La Boissière;14;eau potable : SYNDICAT MIXTE D'ALIMENTATION EN EAU POTABLE DU PLATEAU OUEST DE LISIEUX;98325;2024;82,6;0,9;4,2;65,8;conforme;99059;477;7;88;187;Non vérifié;non
+14083;Bonnebosq;14;eau potable : principal;98311;2024;78,4;1,2;4,3;65,9;conforme;150076;7005;30;105;649;Non vérifié;non
+14084;Bonnemaison;14;eau potable;98400;2024;67,7;1,6;3,3;65,7;conforme;99496;3750;26;221;398;Non vérifié;non
+14085;Bonneville-la-Louvet;14;eau potable;98331;2024;84,4;0,8;4,4;65,9;conforme;110972;9085;30;70;825;Non vérifié;non
+14086;Bonneville-sur-Touques;14;eau potable;98310;2024;84,2;1,1;6,1;66,2;conforme;26607;1067;10;66;307;Non vérifié;non
+14087;Bonnoeil;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;1200;26;107;125;Non vérifié;non
+14088;Bons-Tassilly;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;3765;26;107;392;Non vérifié;non
+14089;Bougy;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;2581;19;49;376;Non vérifié;non
+14090;Boulon;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;8105;26;107;844;Non vérifié;non
+14091;Bourgeauville;14;eau potable : principal;98311;2024;78,4;1,2;4,3;65,9;conforme;150076;1122;30;105;104;Non vérifié;non
+14092;Bourguébus;14;eau potable : Ex syndicat d'Ifs-Bourguebus;98313;2024;85,0;3,1;17,5;68,5;conforme;135757;19890;21;65;2613;Non vérifié;non
+14093;Branville;14;eau potable;98372;2024;78,4;1,4;5,0;66,0;conforme;86870;1583;18;102;238;Non vérifié;non
+14096;Brémoy;14;eau potable : AEP;323814;2024;84,9;0,8;4,3;65,9;conforme;499320;2950;31;72;262;Non vérifié;non
+14097;Bretteville-le-Rabet;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;2852;26;107;297;Non vérifié;non
+14098;Thue et Mue;14;eau potable : Secteur Littoral et Mue;312974;2024;95,5;1,4;29,8;71,0;conforme;229265;37510;17;50;6182;Non vérifié;non
+14100;Bretteville-sur-Laize;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;18343;26;107;1910;Non vérifié;non
+14101;Bretteville-sur-Odon;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;30845;19;49;4494;Non vérifié;non
+14102;Le Breuil-en-Auge;14;eau potable;98331;2024;84,4;0,8;4,4;65,9;conforme;110972;10484;30;70;952;Non vérifié;non
+14103;Le Breuil-en-Bessin;14;eau potable;98321;2024;85,0;1,7;9,9;67,0;conforme;73200;6829;46;66;409;Non vérifié;non
+14104;Le Brévedent;14;eau potable;98331;2024;84,4;0,8;4,4;65,9;conforme;110972;2213;30;70;201;Non vérifié;non
+14106;Bréville-les-Monts;14;eau potable;98329;2024;79,9;2,3;9,3;66,9;conforme;211554;10618;44;107;661;Non vérifié;non
+14107;Bricqueville;14;eau potable;98371;2024;71,8;1,5;3,9;65,8;conforme;125378;3292;60;139;151;Non vérifié;non
+14110;Brucourt;14;eau potable;98413;2024;90,7;2,6;25,1;70,0;conforme;54719;1777;38;38;129;Non vérifié;non
+14111;Bucéels;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;3123;19;70;456;Non vérifié;non
+14116;Le Bû-sur-Rouvres;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;1143;26;107;119;Non vérifié;non
+14117;Cabourg;14;eau potable;98413;2024;90,7;2,6;25,1;70,0;conforme;54719;51304;38;38;3725;Non vérifié;non
+14118;Caen;14;eau potable : Secteur Caennais;312954;2024;81,7;9,1;40,4;73,1;conforme;1523904;1445799;36;84;109400;Non vérifié;non
+14119;Cagny;14;eau potable : AEP;98287;2024;80,1;2,4;9,6;66,9;conforme;210862;15474;21;91;2066;Non vérifié;non
+14120;Cahagnes;14;eau potable;98301;2024;69,5;1,1;2,6;65,5;conforme;123188;15575;30;160;1405;Non vérifié;non
+14121;Cahagnolles;14;eau potable;98288;2024;82,7;0,8;3,6;65,7;conforme;55340;1450;16;96;252;Non vérifié;non
+14122;La Caine;14;eau potable;98400;2024;67,7;1,6;3,3;65,7;conforme;99496;1498;26;221;159;Non vérifié;non
+14123;Cairon;14;eau potable : Secteur Littoral et Mue;312974;2024;95,5;1,4;29,8;71,0;conforme;229265;12536;17;50;2066;Non vérifié;non
+14124;La Cambe;14;eau potable : principal;98323;2024;85,6;0,8;5,0;66,0;conforme;68556;8587;43;74;548;Non vérifié;non
+14125;Cambes-en-Plaine;14;eau potable : Secteur Littoral et Mue;312974;2024;95,5;1,4;29,8;71,0;conforme;229265;11104;17;50;1830;Non vérifié;non
+14126;Cambremer;14;eau potable : SYNDICAT MIXTE D'ALIMENTATION EN EAU POTABLE DU PLATEAU OUEST DE LISIEUX;98325;2024;82,6;0,9;4,2;65,8;conforme;99059;3303;7;88;1294;Non vérifié;non
+14127;Campagnolles;14;eau potable : AEP;323814;2024;84,9;0,8;4,3;65,9;conforme;499320;6328;31;72;562;Non vérifié;non
+14130;Campigny;14;eau potable;98337;2024;81,0;1,5;6,5;66,3;conforme;64539;2391;36;107;184;Non vérifié;non
+14131;Canapville;14;eau potable;98310;2024;84,2;1,1;6,1;66,2;conforme;26607;778;10;66;224;Non vérifié;non
+14132;Canchy;14;eau potable : principal;98323;2024;85,6;0,8;5,0;66,0;conforme;68556;3165;43;74;202;Non vérifié;non
+14134;Canteloup;14;eau potable : AEP;98287;2024;80,1;2,4;9,6;66,9;conforme;210862;1401;21;91;187;Non vérifié;non
+14135;Carcagny;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;1863;19;70;272;Non vérifié;non
+14136;Cardonville;14;eau potable : principal;98323;2024;85,6;0,8;5,0;66,0;conforme;68556;1410;43;74;90;Non vérifié;non
+14137;Carpiquet;14;eau potable : Secteur Caennais;312954;2024;81,7;9,1;40,4;73,1;conforme;1523904;45303;36;84;3428;Non vérifié;non
+14138;Cartigny-l'Épinay;14;eau potable;265274;2024;100,0;0,0;3,0;65,6;conforme;0;0;0;0;300;Non vérifié;non
+14140;Castillon;14;eau potable;98288;2024;82,7;0,8;3,6;65,7;conforme;55340;2117;16;96;368;Non vérifié;non
+14141;Castillon-en-Auge;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;2233;37;129;166;Non vérifié;non
+14143;Caumont-sur-Aure;14;eau potable;98391;2024;96,3;0,2;5,7;66,1;conforme;35405;3951;4;13;2431;Non vérifié;non
+14145;Cauvicourt;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;5416;26;107;564;Non vérifié;non
+14146;Cauville;14;eau potable;219224;2024;84,7;0,9;4,9;66,0;conforme;152096;1642;26;72;170;Non vérifié;non
+14147;Cernay;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;1843;37;129;137;Non vérifié;non
+14149;Cesny-aux-Vignes;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;4043;26;107;421;Non vérifié;non
+14150;Cesny-les-Sources;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;13551;26;107;1411;Non vérifié;non
+14159;Chouain;14;eau potable;98447;2024;84,0;2,3;11,9;67,4;conforme;320689;2996;36;70;229;Non vérifié;non
+14160;Cintheaux;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;1633;26;107;170;Non vérifié;non
+14161;Clarbec;14;eau potable : principal;98311;2024;78,4;1,2;4,3;65,9;conforme;150076;3389;30;105;314;Non vérifié;non
+14162;Clécy;14;eau potable;219224;2024;84,7;0,9;4,9;66,0;conforme;152096;12425;26;72;1286;Non vérifié;non
+14163;Cléville;14;eau potable : AEP;98287;2024;80,1;2,4;9,6;66,9;conforme;210862;2914;21;91;389;Non vérifié;non
+14165;Colleville-sur-Mer;14;eau potable : principal;98323;2024;85,6;0,8;5,0;66,0;conforme;68556;3244;43;74;207;Non vérifié;non
+14166;Colleville-Montgomery;14;eau potable : Secteur Littoral et Mue;312974;2024;95,5;1,4;29,8;71,0;conforme;229265;15691;17;50;2586;Non vérifié;non
+14167;Colombelles;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;49714;19;49;7243;Non vérifié;non
+14168;Colombières;14;eau potable;98371;2024;71,8;1,5;3,9;65,8;conforme;125378;4491;60;139;206;Non vérifié;non
+14169;Colombiers-sur-Seulles;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;1041;19;70;152;Non vérifié;non
+14171;Combray;14;eau potable;219224;2024;84,7;0,9;4,9;66,0;conforme;152096;1478;26;72;153;Non vérifié;non
+14172;Commes;14;eau potable;98447;2024;84,0;2,3;11,9;67,4;conforme;320689;6162;36;70;471;Non vérifié;non
+14173;Condé-sur-Ifs;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;4360;26;107;454;Non vérifié;non
+14174;Condé-en-Normandie;14;eau potable;219224;2024;84,7;0,9;4,9;66,0;conforme;152096;57826;26;72;5985;Non vérifié;non
+14175;Condé-sur-Seulles;14;eau potable;98447;2024;84,0;2,3;11,9;67,4;conforme;320689;3951;36;70;302;Non vérifié;non
+14177;Coquainvilliers;14;eau potable : SYNDICAT MIXTE D'ALIMENTATION EN EAU POTABLE DU PLATEAU OUEST DE LISIEUX;98325;2024;82,6;0,9;4,2;65,8;conforme;99059;2167;7;88;849;Non vérifié;non
+14179;Cordebugle;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;2152;37;129;160;Non vérifié;non
+14180;Cordey;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;1479;26;107;154;Non vérifié;non
+14181;Cormelles-le-Royal;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;36906;19;49;5377;Non vérifié;non
+14182;Cormolain;14;eau potable;98301;2024;69,5;1,1;2,6;65,5;conforme;123188;4345;30;160;392;Non vérifié;non
+14183;Cossesseville;14;eau potable;219224;2024;84,7;0,9;4,9;66,0;conforme;152096;995;26;72;103;Non vérifié;non
+14184;Cottun;14;eau potable;98337;2024;81,0;1,5;6,5;66,3;conforme;64539;3119;36;107;240;Non vérifié;non
+14190;Courcy;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;1421;26;107;148;Non vérifié;non
+14191;Courseulles-sur-Mer;14;eau potable;98217;2024;83,9;4,6;23,9;69,8;conforme;66539;66539;43;70;4268;Non vérifié;non
+14193;Courtonne-la-Meurdrac;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;9188;37;129;683;Non vérifié;non
+14194;Courtonne-les-Deux-Églises;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;8434;37;129;627;Non vérifié;non
+14195;Courvaudon;14;eau potable;98400;2024;67,7;1,6;3,3;65,7;conforme;99496;2742;26;221;291;Non vérifié;non
+14196;Crépon;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;1521;19;70;222;Non vérifié;non
+14197;Cresserons;14;eau potable;98307;2024;79,0;4,0;15,0;68,0;conforme;128538;14173;36;97;1068;Non vérifié;non
+14198;Cresseveuille;14;eau potable;98289;2024;70,3;1,5;3,6;65,7;conforme;66297;5924;63;153;257;Non vérifié;non
+14200;Creully sur Seulles;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;15486;19;70;2261;Non vérifié;non
+14202;Cricqueboeuf;14;eau potable;199776;2024;84,8;1,6;9,1;66,8;conforme;5694;5694;63;64;246;Non vérifié;non
+14203;Cricqueville-en-Auge;14;eau potable;98396;2024;79,8;2,4;9,4;66,9;conforme;37142;2090;31;97;185;Non vérifié;non
+14204;Cricqueville-en-Bessin;14;eau potable : principal;98323;2024;85,6;0,8;5,0;66,0;conforme;68556;2633;43;74;168;Non vérifié;non
+14205;Cristot;14;eau potable : Secteur Littoral et Mue;312974;2024;95,5;1,4;29,8;71,0;conforme;229265;1256;17;50;207;Non vérifié;non
+14206;Crocy;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;2737;26;107;285;Non vérifié;non
+14207;Croisilles;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;6194;26;107;645;Non vérifié;non
+14209;Crouay;14;eau potable;98337;2024;81,0;1,5;6,5;66,3;conforme;64539;6628;36;107;510;Non vérifié;non
+14211;Culey-le-Patry;14;eau potable;98400;2024;67,7;1,6;3,3;65,7;conforme;99496;3618;26;221;384;Non vérifié;non
+14214;Cussy;14;eau potable;98337;2024;81,0;1,5;6,5;66,3;conforme;64539;2170;36;107;167;Non vérifié;non
+14215;Cuverville;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;15560;19;49;2267;Non vérifié;non
+14216;Damblainville;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;2180;26;107;227;Non vérifié;non
+14218;Danestal;14;eau potable;98372;2024;78,4;1,4;5,0;66,0;conforme;86870;2341;18;102;352;Non vérifié;non
+14220;Deauville;14;eau potable;98441;2024;88,5;2,8;21,7;69,3;conforme;346601;57097;44;48;3539;Non vérifié;non
+14221;Démouville;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;20831;19;49;3035;Non vérifié;non
+14223;Le Détroit;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;903;26;107;94;Non vérifié;non
+14224;Deux-Jumeaux;14;eau potable : principal;98323;2024;85,6;0,8;5,0;66,0;conforme;68556;956;43;74;61;Non vérifié;non
+14225;Dives-sur-Mer;14;eau potable;98379;2024;76,5;4,6;15,0;68,0;conforme;105844;105844;57;112;5122;Non vérifié;non
+14226;Donnay;14;eau potable;219224;2024;84,7;0,9;4,9;66,0;conforme;152096;3188;26;72;330;Non vérifié;non
+14227;Douville-en-Auge;14;eau potable;98372;2024;78,4;1,4;5,0;66,0;conforme;86870;1470;18;102;221;Non vérifié;non
+14228;Douvres-la-Délivrande;14;eau potable;98307;2024;79,0;4,0;15,0;68,0;conforme;128538;68250;36;97;5143;Non vérifié;non
+14229;Dozulé;14;eau potable;98396;2024;79,8;2,4;9,4;66,9;conforme;37142;25357;31;97;2244;Non vérifié;non
+14230;Drubec;14;eau potable : principal;98311;2024;78,4;1,2;4,3;65,9;conforme;150076;1198;30;105;111;Non vérifié;non
+14231;Beaufour-Druval;14;eau potable : principal;98311;2024;78,4;1,2;4,3;65,9;conforme;150076;4889;30;105;453;Non vérifié;non
+14232;Ducy-Sainte-Marguerite;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;1212;19;70;177;Non vérifié;non
+14236;Ellon;14;eau potable;98447;2024;84,0;2,3;11,9;67,4;conforme;320689;8321;36;70;636;Non vérifié;non
+14237;Émiéville;14;eau potable : AEP;98287;2024;80,1;2,4;9,6;66,9;conforme;210862;4689;21;91;626;Non vérifié;non
+14238;Englesqueville-en-Auge;14;eau potable;98374;2021;79,1;2,9;10,9;67,2;conforme;3811;3811;92;97;113;Sans anomalie apparente;non
+14239;Englesqueville-la-Percée;14;eau potable : principal;98323;2024;85,6;0,8;5,0;66,0;conforme;68556;1442;43;74;92;Non vérifié;non
+14240;Épaney;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;4687;26;107;488;Non vérifié;non
+14241;Épinay-sur-Odon;14;eau potable;98391;2024;96,3;0,2;5,7;66,1;conforme;35405;1027;4;13;632;Non vérifié;non
+14242;Épron;14;eau potable : Epron;98417;2024;97,7;0,8;33,1;71,6;conforme;3819;3819;5;13;2093;Non vérifié;non
+14243;Équemauville;14;eau potable : principal;98399;2024;76,5;4,4;14,2;67,8;conforme;399637;45978;80;113;1574;Non vérifié;non
+14244;Eraines;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;2679;26;107;279;Non vérifié;non
+14245;Ernes;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;3140;26;107;327;Non vérifié;non
+14246;Escoville;14;eau potable;98329;2024;79,9;2,3;9,3;66,9;conforme;211554;14778;44;107;920;Non vérifié;non
+14248;Espins;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;2343;26;107;244;Non vérifié;non
+14249;Esquay-Notre-Dame;14;eau potable : Ex syndicat  Région d'Evrecy;98308;2024;82,2;1,5;7,1;66,4;conforme;60345;11546;22;77;1444;Non vérifié;non
+14250;Esquay-sur-Seulles;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;2048;19;70;299;Non vérifié;non
+14251;Esson;14;eau potable;98456;2024;81,5;2,2;9,8;67,0;conforme;30747;4241;20;82;576;Non vérifié;non
+14252;Estrées-la-Campagne;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;2353;26;107;245;Non vérifié;non
+14254;Éterville;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;10495;19;49;1529;Non vérifié;non
+14256;Étréham;14;eau potable;98337;2024;81,0;1,5;6,5;66,3;conforme;64539;4211;36;107;324;Non vérifié;non
+14257;Évrecy;14;eau potable : Ex syndicat  Région d'Evrecy;98308;2024;82,2;1,5;7,1;66,4;conforme;60345;16520;22;77;2066;Non vérifié;non
+14258;Falaise;14;eau potable : Falaise;98178;2024;86,3;3,1;19,5;68,9;conforme;99278;99278;35;75;7680;Non vérifié;non
+14260;Fauguernon;14;eau potable;98331;2024;84,4;0,8;4,4;65,9;conforme;110972;2434;30;70;221;Non vérifié;non
+14261;Le Faulq;14;eau potable;98331;2024;84,4;0,8;4,4;65,9;conforme;110972;3513;30;70;319;Non vérifié;non
+14266;Feuguerolles-Bully;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;10433;19;49;1520;Non vérifié;non
+14269;Fierville-les-Parcs;14;eau potable;98331;2024;84,4;0,8;4,4;65,9;conforme;110972;2610;30;70;237;Non vérifié;non
+14270;Firfol;14;eau potable : Plateau Est de Lisieux;98324;2024;79,5;0,9;3,6;65,7;conforme;31543;2673;20;92;366;Non vérifié;non
+14271;Fleury-sur-Orne;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;40777;19;49;5941;Non vérifié;non
+14272;La Folie;14;eau potable;98371;2024;71,8;1,5;3,9;65,8;conforme;125378;2355;60;139;108;Non vérifié;non
+14273;La Folletière-Abenon;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;1856;37;129;138;Non vérifié;non
+14274;Fontaine-Étoupefour;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;19287;19;49;2810;Non vérifié;non
+14275;Fontaine-Henry;14;eau potable : Secteur Littoral et Mue;312974;2024;95,5;1,4;29,8;71,0;conforme;229265;3204;17;50;528;Non vérifié;non
+14276;Fontaine-le-Pin;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;3198;26;107;333;Non vérifié;non
+14277;Fontenay-le-Marmion;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;14105;19;49;2055;Non vérifié;non
+14278;Fontenay-le-Pesnel;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;8616;19;70;1258;Non vérifié;non
+14280;Formentin;14;eau potable : principal;98311;2024;78,4;1,2;4,3;65,9;conforme;150076;2903;30;105;269;Non vérifié;non
+14281;Formigny La Bataille;14;eau potable : principal;98323;2024;85,6;0,8;5,0;66,0;conforme;68556;11987;43;74;765;Non vérifié;non
+14282;Foulognes;14;eau potable;98288;2024;82,7;0,8;3,6;65,7;conforme;55340;1266;16;96;220;Non vérifié;non
+14283;Fourches;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;2065;26;107;215;Non vérifié;non
+14284;Fourneaux-le-Val;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;1489;26;107;155;Non vérifié;non
+14285;Le Fournet;14;eau potable : principal;98311;2024;78,4;1,2;4,3;65,9;conforme;150076;831;30;105;77;Non vérifié;non
+14286;Fourneville;14;eau potable : principal;98399;2024;76,5;4,4;14,2;67,8;conforme;399637;14255;80;113;488;Non vérifié;non
+14287;Frénouville;14;eau potable : AEP;98287;2024;80,1;2,4;9,6;66,9;conforme;210862;15354;21;91;2050;Non vérifié;non
+14288;Le Fresne-Camilly;14;eau potable : Secteur Littoral et Mue;312974;2024;95,5;1,4;29,8;71,0;conforme;229265;5770;17;50;951;Non vérifié;non
+14289;Fresné-la-Mère;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;5436;26;107;566;Non vérifié;non
+14290;Fresney-le-Puceux;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;7760;26;107;808;Non vérifié;non
+14291;Fresney-le-Vieux;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;3179;26;107;331;Non vérifié;non
+14293;Fumichon;14;eau potable;98331;2024;84,4;0,8;4,4;65,9;conforme;110972;2951;30;70;268;Non vérifié;non
+14297;Gavrus;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;4358;19;49;635;Non vérifié;non
+14298;Géfosse-Fontenay;14;eau potable;98317;2024;85,4;1,1;6,2;66,2;conforme;22938;1792;38;65;129;Non vérifié;non
+14299;Genneville;14;eau potable;98406;2024;73,2;1,5;4,2;65,8;conforme;78090;13603;46;148;806;Non vérifié;non
+14300;Gerrots;14;eau potable;98289;2024;70,3;1,5;3,6;65,7;conforme;66297;1199;63;153;52;Non vérifié;non
+14301;Giberville;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;34847;19;49;5077;Non vérifié;non
+14302;Glanville;14;eau potable;98441;2024;88,5;2,8;21,7;69,3;conforme;346601;2549;44;48;158;Non vérifié;non
+14303;Glos;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;12524;37;129;931;Non vérifié;non
+14304;Gonneville-sur-Honfleur;14;eau potable : principal;98399;2024;76,5;4,4;14,2;67,8;conforme;399637;25092;80;113;859;Non vérifié;non
+14305;Gonneville-sur-Mer;14;eau potable;98372;2024;78,4;1,4;5,0;66,0;conforme;86870;4337;18;102;652;Non vérifié;non
+14306;Gonneville-en-Auge;14;eau potable;98329;2024;79,9;2,3;9,3;66,9;conforme;211554;6265;44;107;390;Non vérifié;non
+14308;Goustranville;14;eau potable;98336;2024;82,9;2,0;9,8;67,0;conforme;64101;13041;95;75;378;Non vérifié;non
+14309;Gouvix;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;7923;26;107;825;Non vérifié;non
+14310;Grainville-Langannerie;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;7798;26;107;812;Non vérifié;non
+14311;Grainville-sur-Odon;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;7584;19;49;1105;Non vérifié;non
+14312;Grandcamp-Maisy;14;eau potable;98317;2024;85,4;1,1;6,2;66,2;conforme;22938;21145;38;65;1522;Non vérifié;non
+14316;Grangues;14;eau potable;98372;2024;78,4;1,4;5,0;66,0;conforme;86870;1916;18;102;288;Non vérifié;non
+14318;Graye-sur-Mer;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;5295;19;70;773;Non vérifié;non
+14319;Grentheville;14;eau potable : Ex syndicat d'Ifs-Bourguebus;98313;2024;85,0;3,1;17,5;68,5;conforme;135757;7802;21;65;1025;Non vérifié;non
+14320;Grimbosq;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;2747;26;107;286;Non vérifié;non
+14322;Guéron;14;eau potable;98447;2024;84,0;2,3;11,9;67,4;conforme;320689;3232;36;70;247;Non vérifié;non
+14325;Hermanville-sur-Mer;14;eau potable : Secteur Littoral et Mue;312974;2024;95,5;1,4;29,8;71,0;conforme;229265;20163;17;50;3323;Non vérifié;non
+14326;Hermival-les-Vaux;14;eau potable;98331;2024;84,4;0,8;4,4;65,9;conforme;110972;9482;30;70;861;Non vérifié;non
+14327;Hérouville-Saint-Clair;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;161091;19;49;23470;Non vérifié;non
+14328;Hérouvillette;14;eau potable;98329;2024;79,9;2,3;9,3;66,9;conforme;211554;21750;44;107;1354;Non vérifié;non
+14329;Heuland;14;eau potable;98372;2024;78,4;1,4;5,0;66,0;conforme;86870;984;18;102;148;Non vérifié;non
+14332;La Hoguette;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;6358;26;107;662;Non vérifié;non
+14333;Honfleur;14;eau potable : principal;98399;2024;76,5;4,4;14,2;67,8;conforme;399637;193962;80;113;6640;Non vérifié;non
+14334;L' Hôtellerie;14;eau potable : Plateau Est de Lisieux;98324;2024;79,5;0,9;3,6;65,7;conforme;31543;2286;20;92;313;Non vérifié;non
+14335;Hotot-en-Auge;14;eau potable : SYNDICAT MIXTE D'ALIMENTATION EN EAU POTABLE DU PLATEAU OUEST DE LISIEUX;98325;2024;82,6;0,9;4,2;65,8;conforme;99059;728;7;88;285;Non vérifié;non
+14336;Hottot-les-Bagues;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;3096;19;70;452;Non vérifié;non
+14337;La Houblonnière;14;eau potable : SYNDICAT MIXTE D'ALIMENTATION EN EAU POTABLE DU PLATEAU OUEST DE LISIEUX;98325;2024;82,6;0,9;4,2;65,8;conforme;99059;827;7;88;324;Non vérifié;non
+14338;Houlgate;14;eau potable;98380;2024;93,0;1,4;18,8;68,8;conforme;25806;25806;39;35;1834;Non vérifié;non
+14341;Ifs;14;eau potable : Ex syndicat d'Ifs-Bourguebus;98313;2024;85,0;3,1;17,5;68,5;conforme;135757;90863;21;65;11937;Non vérifié;non
+14342;Isigny-sur-Mer;14;eau potable (ISIGNY-SUR-MER (avant 2017));98422;2024;72,0;3,0;7,6;66,5;conforme;62010;62010;48;143;3543;Non vérifié;non
+14343;Les Isles-Bardel;14;eau potable : Houlme;202408;2024;81,3;0,6;2,5;65,5;conforme;181376;862;32;109;73;Non vérifié;non
+14344;Janville;14;eau potable;98336;2024;82,9;2,0;9,8;67,0;conforme;64101;13179;95;75;382;Non vérifié;non
+14345;Jort;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;2910;26;107;303;Non vérifié;non
+14346;Juaye-Mondaye;14;eau potable;98447;2024;84,0;2,3;11,9;67,4;conforme;320689;9198;36;70;703;Non vérifié;non
+14347;Dialan sur Chaîne;14;eau potable : AEP;323814;2024;84,9;0,8;4,3;65,9;conforme;499320;11327;31;72;1006;Non vérifié;non
+14348;Juvigny-sur-Seulles;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;527;19;70;77;Non vérifié;non
+14349;Laize-Clinchamps;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;14791;19;49;2155;Non vérifié;non
+14352;Landelles-et-Coupigny;14;eau potable : AEP;323814;2024;84,9;0,8;4,3;65,9;conforme;499320;9210;31;72;818;Non vérifié;non
+14353;Landes-sur-Ajon;14;eau potable;98391;2024;96,3;0,2;5,7;66,1;conforme;35405;733;4;13;451;Non vérifié;non
+14354;Langrune-sur-Mer;14;eau potable : principal;98291;2024;80,8;3,8;15,9;68,2;conforme;93109;27641;40;87;1916;Non vérifié;non
+14355;Ponts sur Seulles;14;eau potable : Secteur Littoral et Mue;312974;2024;95,5;1,4;29,8;71,0;conforme;229265;7354;17;50;1212;Non vérifié;non
+14357;Terres de Druance;14;eau potable;219224;2024;84,7;0,9;4,9;66,0;conforme;152096;8754;26;72;906;Non vérifié;non
+14358;Léaupartie;14;eau potable : principal;98311;2024;78,4;1,2;4,3;65,9;conforme;150076;928;30;105;86;Non vérifié;non
+14360;Leffard;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;1959;26;107;204;Non vérifié;non
+14362;Lessard-et-le-Chêne;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;2045;37;129;152;Non vérifié;non
+14364;Lingèvres;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;3068;19;70;448;Non vérifié;non
+14365;Lion-sur-Mer;14;eau potable : Ex syndicat Lion-sur-Mer;98241;2024;85,7;2,4;14,2;67,8;conforme;22040;22040;24;62;2486;Non vérifié;non
+14366;Lisieux;14;eau potable : Lisieux;98402;2024;92,6;2,0;25,3;70,1;conforme;99119;79517;11;30;19645;Non vérifié;non
+14367;Lison;14;eau potable;265274;2024;100,0;0,0;3,0;65,6;conforme;0;0;0;0;451;Non vérifié;non
+14368;Lisores;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;3497;37;129;260;Non vérifié;non
+14369;Litteau;14;eau potable;265274;2024;100,0;0,0;3,0;65,6;conforme;0;0;0;0;271;Non vérifié;non
+14370;Le Molay-Littry;14;eau potable;98321;2024;85,0;1,7;9,9;67,0;conforme;73200;52162;46;66;3124;Non vérifié;non
+14371;Livarot-Pays-d'Auge;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;83496;37;129;6207;Non vérifié;non
+14374;Les Loges;14;eau potable : AEP;323814;2024;84,9;0,8;4,3;65,9;conforme;499320;1531;31;72;136;Non vérifié;non
+14375;Les Loges-Saulces;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;1498;26;107;156;Non vérifié;non
+14377;Longues-sur-Mer;14;eau potable;98447;2024;84,0;2,3;11,9;67,4;conforme;320689;7654;36;70;585;Non vérifié;non
+14378;Longueville;14;eau potable : principal;98323;2024;85,6;0,8;5,0;66,0;conforme;68556;4623;43;74;295;Non vérifié;non
+14379;Longvillers;14;eau potable;98391;2024;96,3;0,2;5,7;66,1;conforme;35405;574;4;13;353;Non vérifié;non
+14380;Loucelles;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;1514;19;70;221;Non vérifié;non
+14381;Louvagny;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;557;26;107;58;Non vérifié;non
+14383;Louvigny;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;17928;19;49;2612;Non vérifié;non
+14384;Luc-sur-Mer;14;eau potable;98307;2024;79,0;4,0;15,0;68,0;conforme;128538;43461;36;97;3275;Non vérifié;non
+14385;Magny-en-Bessin;14;eau potable;98447;2024;84,0;2,3;11,9;67,4;conforme;320689;2146;36;70;164;Non vérifié;non
+14389;Maisoncelles-Pelvey;14;eau potable;98391;2024;96,3;0,2;5,7;66,1;conforme;35405;410;4;13;252;Non vérifié;non
+14390;Maisoncelles-sur-Ajon;14;eau potable;98391;2024;96,3;0,2;5,7;66,1;conforme;35405;338;4;13;208;Non vérifié;non
+14391;Maisons;14;eau potable;98404;2024;63,0;7,1;12,1;67,4;non conforme;121360;18976;120;214;435;Non vérifié;non
+14393;Maizet;14;eau potable : Ex syndicat  Région d'Evrecy;98308;2024;82,2;1,5;7,1;66,4;conforme;60345;2879;22;77;360;Non vérifié;non
+14394;Maizières;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;4197;26;107;437;Non vérifié;non
+14396;Maltot;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;7276;19;49;1060;Non vérifié;non
+14397;Mandeville-en-Bessin;14;eau potable;98371;2024;71,8;1,5;3,9;65,8;conforme;125378;6606;60;139;303;Non vérifié;non
+14398;Manerbe;14;eau potable : SYNDICAT MIXTE D'ALIMENTATION EN EAU POTABLE DU PLATEAU OUEST DE LISIEUX;98325;2024;82,6;0,9;4,2;65,8;conforme;99059;1389;7;88;544;Non vérifié;non
+14399;Manneville-la-Pipard;14;eau potable;98331;2024;84,4;0,8;4,4;65,9;conforme;110972;2830;30;70;257;Non vérifié;non
+14400;Le Manoir;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;1336;19;70;195;Non vérifié;non
+14401;Manvieux;14;eau potable;98447;2024;84,0;2,3;11,9;67,4;conforme;320689;1688;36;70;129;Non vérifié;non
+14402;Le Marais-la-Chapelle;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;884;26;107;92;Non vérifié;non
+14403;Marolles;14;eau potable : Plateau Est de Lisieux;98324;2024;79,5;0,9;3,6;65,7;conforme;31543;5470;20;92;749;Non vérifié;non
+14404;Martainville;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;1114;26;107;116;Non vérifié;non
+14405;Martigny-sur-l'Ante;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;3035;26;107;316;Non vérifié;non
+14406;Moulins en Bessin;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;7705;19;70;1125;Non vérifié;non
+14407;Mathieu;14;eau potable : Secteur Littoral et Mue;312974;2024;95,5;1,4;29,8;71,0;conforme;229265;14144;17;50;2331;Non vérifié;non
+14408;May-sur-Orne;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;31086;19;49;4529;Non vérifié;non
+14409;Merville-Franceville-Plage;14;eau potable;98329;2024;79,9;2,3;9,3;66,9;conforme;211554;35837;44;107;2231;Non vérifié;non
+14410;Méry-Bissières-en-Auge;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;14555;37;129;1082;Non vérifié;non
+14411;Meslay;14;eau potable;219224;2024;84,7;0,9;4,9;66,0;conforme;152096;3266;26;72;338;Non vérifié;non
+14412;Le Mesnil-au-Grain;14;eau potable;98391;2024;96,3;0,2;5,7;66,1;conforme;35405;120;4;13;74;Non vérifié;non
+14419;Le Mesnil-Eudes;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;3390;37;129;252;Non vérifié;non
+14421;Le Mesnil-Guillaume;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;7412;37;129;551;Non vérifié;non
+14424;Le Mesnil-Robert;14;eau potable : AEP;323814;2024;84,9;0,8;4,3;65,9;conforme;499320;2038;31;72;181;Non vérifié;non
+14425;Le Mesnil-Simon;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;2125;37;129;158;Non vérifié;non
+14426;Le Mesnil-sur-Blangy;14;eau potable;98331;2024;84,4;0,8;4,4;65,9;conforme;110972;1927;30;70;175;Non vérifié;non
+14427;Le Mesnil-Villement;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;2708;26;107;282;Non vérifié;non
+14430;Meuvaines;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;932;19;70;136;Non vérifié;non
+14431;Mézidon Vallée d'Auge;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;131371;37;129;9766;Non vérifié;non
+14435;Les Monceaux;14;eau potable : SYNDICAT MIXTE D'ALIMENTATION EN EAU POTABLE DU PLATEAU OUEST DE LISIEUX;98325;2024;82,6;0,9;4,2;65,8;conforme;99059;505;7;88;198;Non vérifié;non
+14436;Monceaux-en-Bessin;14;eau potable;98447;2024;84,0;2,3;11,9;67,4;conforme;320689;7863;36;70;601;Non vérifié;non
+14437;Mondeville;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;70909;19;49;10331;Non vérifié;non
+14438;Mondrainville;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;4077;19;49;594;Non vérifié;non
+14439;Monfréville;14;eau potable;98371;2024;71,8;1,5;3,9;65,8;conforme;125378;2202;60;139;101;Non vérifié;non
+14445;Montfiquet;14;eau potable;98288;2024;82,7;0,8;3,6;65,7;conforme;55340;466;16;96;81;Non vérifié;non
+14446;Montigny;14;eau potable;98400;2024;67,7;1,6;3,3;65,7;conforme;99496;810;26;221;86;Non vérifié;non
+14448;Montreuil-en-Auge;14;eau potable : SYNDICAT MIXTE D'ALIMENTATION EN EAU POTABLE DU PLATEAU OUEST DE LISIEUX;98325;2024;82,6;0,9;4,2;65,8;conforme;99059;166;7;88;65;Non vérifié;non
+14449;Monts-en-Bessin;14;eau potable;98391;2024;96,3;0,2;5,7;66,1;conforme;35405;686;4;13;422;Non vérifié;non
+14452;Morteaux-Couliboeuf;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;5772;26;107;601;Non vérifié;non
+14453;Mosles;14;eau potable;98337;2024;81,0;1,5;6,5;66,3;conforme;64539;4783;36;107;368;Non vérifié;non
+14454;Mouen;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;12272;19;49;1788;Non vérifié;non
+14455;Moulines;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;2612;26;107;272;Non vérifié;non
+14456;Moult-Chicheboville;14;eau potable : AEP;98287;2024;80,1;2,4;9,6;66,9;conforme;210862;25773;21;91;3441;Non vérifié;non
+14457;Les Moutiers-en-Auge;14;eau potable : principal;208941;2024;63,8;1,8;3,1;65,6;non conforme;116296;4998;105;272;130;Non vérifié;non
+14458;Les Moutiers-en-Cinglais;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;5071;26;107;528;Non vérifié;non
+14460;Moyaux;14;eau potable;98331;2024;84,4;0,8;4,4;65,9;conforme;110972;15230;30;70;1383;Non vérifié;non
+14461;Mutrécy;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;5695;26;107;593;Non vérifié;non
+14465;Nonant;14;eau potable;98447;2024;84,0;2,3;11,9;67,4;conforme;320689;6803;36;70;520;Non vérifié;non
+14466;Norolles;14;eau potable;98331;2024;84,4;0,8;4,4;65,9;conforme;110972;3975;30;70;361;Non vérifié;non
+14467;Noron-l'Abbaye;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;3140;26;107;327;Non vérifié;non
+14468;Noron-la-Poterie;14;eau potable;98337;2024;81,0;1,5;6,5;66,3;conforme;64539;4315;36;107;332;Non vérifié;non
+14469;Norrey-en-Auge;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;893;26;107;93;Non vérifié;non
+14473;Notre-Dame-de-Livaye;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;1412;37;129;105;Non vérifié;non
+14474;Notre-Dame-d'Estrées-Corbon;14;eau potable : SYNDICAT MIXTE D'ALIMENTATION EN EAU POTABLE DU PLATEAU OUEST DE LISIEUX;98325;2024;82,6;0,9;4,2;65,8;conforme;99059;472;7;88;185;Non vérifié;non
+14475;Val d'Arry;14;eau potable;98391;2024;96,3;0,2;5,7;66,1;conforme;35405;4056;4;13;2496;Non vérifié;non
+14476;Olendon;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;1825;26;107;190;Non vérifié;non
+14478;Orbec;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;26568;37;129;1975;Non vérifié;non
+14480;Osmanville;14;eau potable;98367;2024;85,2;0,9;5,4;66,1;conforme;7884;7884;42;61;510;Non vérifié;non
+14482;Ouézy;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;2180;26;107;227;Non vérifié;non
+14483;Ouffières;14;eau potable;98400;2024;67,7;1,6;3,3;65,7;conforme;99496;1885;26;221;200;Non vérifié;non
+14484;Ouilly-du-Houley;14;eau potable;98331;2024;84,4;0,8;4,4;65,9;conforme;110972;2819;30;70;256;Non vérifié;non
+14486;Ouilly-le-Tesson;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;5484;26;107;571;Non vérifié;non
+14487;Ouilly-le-Vicomte;14;eau potable : Lisieux;98402;2024;92,6;2,0;25,3;70,1;conforme;99119;3060;11;30;756;Non vérifié;non
+14488;Ouistreham;14;eau potable : Ouistreham;98426;2024;81,9;4,5;20,4;69,1;conforme;130464;130464;39;80;9212;Non vérifié;non
+14491;Parfouru-sur-Odon;14;eau potable;98391;2024;96,3;0,2;5,7;66,1;conforme;35405;322;4;13;198;Non vérifié;non
+14492;Pennedepie;14;eau potable : principal;98399;2024;76,5;4,4;14,2;67,8;conforme;399637;8939;80;113;306;Non vérifié;non
+14494;Périers-en-Auge;14;eau potable;98413;2024;90,7;2,6;25,1;70,0;conforme;54719;1639;38;38;119;Non vérifié;non
+14495;Périers-sur-le-Dan;14;eau potable : Secteur Littoral et Mue;312974;2024;95,5;1,4;29,8;71,0;conforme;229265;3562;17;50;587;Non vérifié;non
+14496;Périgny;14;eau potable;219224;2024;84,7;0,9;4,9;66,0;conforme;152096;560;26;72;58;Non vérifié;non
+14497;Perrières;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;3188;26;107;332;Non vérifié;non
+14498;Pertheville-Ners;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;2247;26;107;234;Non vérifié;non
+14499;Petiville;14;eau potable;98329;2024;79,9;2,3;9,3;66,9;conforme;211554;8995;44;107;560;Non vérifié;non
+14500;Pierrefitte-en-Auge;14;eau potable : principal;98311;2024;78,4;1,2;4,3;65,9;conforme;150076;1641;30;105;152;Non vérifié;non
+14501;Pierrefitte-en-Cinglais;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;2276;26;107;237;Non vérifié;non
+14502;Pierrepont;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;797;26;107;83;Non vérifié;non
+14504;Le Pin;14;eau potable;98331;2024;84,4;0,8;4,4;65,9;conforme;110972;8777;30;70;797;Non vérifié;non
+14506;Planquery;14;eau potable;98288;2024;82,7;0,8;3,6;65,7;conforme;55340;1433;16;96;249;Non vérifié;non
+14509;Plumetot;14;eau potable;98307;2024;79,0;4,0;15,0;68,0;conforme;128538;2654;36;97;200;Non vérifié;non
+14510;La Pommeraye;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;634;26;107;66;Non vérifié;non
+14511;Pont-Bellanger;14;eau potable : AEP;323814;2024;84,9;0,8;4,3;65,9;conforme;499320;676;31;72;60;Non vérifié;non
+14512;Pontécoulant;14;eau potable;219224;2024;84,7;0,9;4,9;66,0;conforme;152096;686;26;72;71;Non vérifié;non
+14514;Pont-l'Évêque;14;eau potable : principal;98311;2024;78,4;1,2;4,3;65,9;conforme;150076;55530;30;105;5145;Non vérifié;non
+14515;Port-en-Bessin-Huppain;14;eau potable;98404;2024;63,0;7,1;12,1;67,4;non conforme;121360;81837;120;214;1876;Non vérifié;non
+14516;Potigny;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;20062;26;107;2089;Non vérifié;non
+14519;Préaux-Bocage;14;eau potable;98400;2024;67,7;1,6;3,3;65,7;conforme;99496;1008;26;221;107;Non vérifié;non
+14520;Le Pré-d'Auge;14;eau potable : SYNDICAT MIXTE D'ALIMENTATION EN EAU POTABLE DU PLATEAU OUEST DE LISIEUX;98325;2024;82,6;0,9;4,2;65,8;conforme;99059;2147;7;88;841;Non vérifié;non
+14522;Prêtreville;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;5260;37;129;391;Non vérifié;non
+14524;Putot-en-Auge;14;eau potable;98396;2024;79,8;2,4;9,4;66,9;conforme;37142;3469;31;97;307;Non vérifié;non
+14527;Belle Vie en Auge;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;7237;37;129;538;Non vérifié;non
+14528;Quetteville;14;eau potable;98406;2024;73,2;1,5;4,2;65,8;conforme;78090;6700;46;148;397;Non vérifié;non
+14529;Ranchy;14;eau potable;98337;2024;81,0;1,5;6,5;66,3;conforme;64539;3509;36;107;270;Non vérifié;non
+14530;Ranville;14;eau potable;98329;2024;79,9;2,3;9,3;66,9;conforme;211554;33315;44;107;2074;Non vérifié;non
+14531;Rapilly;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;423;26;107;44;Non vérifié;non
+14533;Repentigny;14;eau potable : principal;98311;2024;78,4;1,2;4,3;65,9;conforme;150076;1101;30;105;102;Non vérifié;non
+14534;Reux;14;eau potable : principal;98311;2024;78,4;1,2;4,3;65,9;conforme;150076;4479;30;105;415;Non vérifié;non
+14535;Reviers;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;4295;19;70;627;Non vérifié;non
+14536;La Rivière-Saint-Sauveur;14;eau potable : principal;98399;2024;76,5;4,4;14,2;67,8;conforme;399637;73816;80;113;2527;Non vérifié;non
+14538;Castine-en-Plaine;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;12176;19;49;1774;Non vérifié;non
+14540;Rocques;14;eau potable : Lisieux;98402;2024;92,6;2,0;25,3;70,1;conforme;99119;1154;11;30;285;Non vérifié;non
+14541;La Roque-Baignard;14;eau potable : principal;98311;2024;78,4;1,2;4,3;65,9;conforme;150076;1122;30;105;104;Non vérifié;non
+14542;Rosel;14;eau potable : Secteur Littoral et Mue;312974;2024;95,5;1,4;29,8;71,0;conforme;229265;4223;17;50;696;Non vérifié;non
+14543;Rots;14;eau potable : Secteur Littoral et Mue;312974;2024;95,5;1,4;29,8;71,0;conforme;229265;15436;17;50;2544;Non vérifié;non
+14546;Rouvres;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;2113;26;107;220;Non vérifié;non
+14547;Rubercy;14;eau potable;98321;2024;85,0;1,7;9,9;67,0;conforme;73200;2538;46;66;152;Non vérifié;non
+14550;Rumesnil;14;eau potable : SYNDICAT MIXTE D'ALIMENTATION EN EAU POTABLE DU PLATEAU OUEST DE LISIEUX;98325;2024;82,6;0,9;4,2;65,8;conforme;99059;222;7;88;87;Non vérifié;non
+14552;Ryes;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;3301;19;70;482;Non vérifié;non
+14554;Le Castelet;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;12698;19;49;1850;Non vérifié;non
+14555;Saint-André-d'Hébertot;14;eau potable;98406;2024;73,2;1,5;4,2;65,8;conforme;78090;7612;46;148;451;Non vérifié;non
+14556;Saint-André-sur-Orne;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;11421;19;49;1664;Non vérifié;non
+14557;Saint-Arnoult;14;eau potable;98441;2024;88,5;2,8;21,7;69,3;conforme;346601;17618;44;48;1092;Non vérifié;non
+14558;Saint-Aubin-d'Arquenay;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;7674;19;49;1118;Non vérifié;non
+14559;Saint-Aubin-des-Bois;14;eau potable : AEP;323814;2024;84,9;0,8;4,3;65,9;conforme;499320;2545;31;72;226;Non vérifié;non
+14562;Saint-Aubin-sur-Mer;14;eau potable : principal;98291;2024;80,8;3,8;15,9;68,2;conforme;93109;30310;40;87;2101;Non vérifié;non
+14563;Saint-Benoît-d'Hébertot;14;eau potable;98406;2024;73,2;1,5;4,2;65,8;conforme;78090;7527;46;148;446;Non vérifié;non
+14565;Saint-Côme-de-Fresné;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;1753;19;70;256;Non vérifié;non
+14566;Saint-Contest;14;eau potable : Secteur Littoral et Mue;312974;2024;95,5;1,4;29,8;71,0;conforme;229265;14957;17;50;2465;Non vérifié;non
+14569;Sainte-Croix-sur-Mer;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;1664;19;70;243;Non vérifié;non
+14570;Valorbiquet;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;32809;37;129;2439;Non vérifié;non
+14571;Saint-Denis-de-Mailloc;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;3982;37;129;296;Non vérifié;non
+14572;Saint-Denis-de-Méré;14;eau potable;219224;2024;84,7;0,9;4,9;66,0;conforme;152096;7285;26;72;754;Non vérifié;non
+14574;Saint-Désir;14;eau potable : Lisieux;98402;2024;92,6;2,0;25,3;70,1;conforme;99119;7108;11;30;1756;Non vérifié;non
+14575;Saint-Étienne-la-Thillaye;14;eau potable;98264;2024;70,1;2,0;4,7;65,9;conforme;17097;17097;121;156;386;Non vérifié;non
+14576;Val-de-Vie;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;6753;37;129;502;Non vérifié;non
+14578;Saint-Gatien-des-Bois;14;eau potable;98441;2024;88,5;2,8;21,7;69,3;conforme;346601;20893;44;48;1295;Non vérifié;non
+14579;Seulline;14;eau potable;98391;2024;96,3;0,2;5,7;66,1;conforme;35405;2132;4;13;1312;Non vérifié;non
+14582;Saint-Germain-de-Livet;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;9255;37;129;688;Non vérifié;non
+14586;Saint-Germain-du-Pert;14;eau potable : principal;98323;2024;85,6;0,8;5,0;66,0;conforme;68556;2319;43;74;148;Non vérifié;non
+14587;Saint-Germain-la-Blanche-Herbe;14;eau potable : Secteur Caennais;312954;2024;81,7;9,1;40,4;73,1;conforme;1523904;32801;36;84;2482;Non vérifié;non
+14588;Saint-Germain-Langot;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;3361;26;107;350;Non vérifié;non
+14589;Saint-Germain-le-Vasson;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;9277;26;107;966;Non vérifié;non
+14590;Sainte-Honorine-de-Ducy;14;eau potable;98288;2024;82,7;0,8;3,6;65,7;conforme;55340;783;16;96;136;Non vérifié;non
+14591;Aure sur Mer;14;eau potable : principal;98323;2024;85,6;0,8;5,0;66,0;conforme;68556;10844;43;74;692;Non vérifié;non
+14592;Sainte-Honorine-du-Fay;14;eau potable : Ex syndicat  Région d'Evrecy;98308;2024;82,2;1,5;7,1;66,4;conforme;60345;10890;22;77;1362;Non vérifié;non
+14593;Saint-Hymer;14;eau potable : principal;98311;2024;78,4;1,2;4,3;65,9;conforme;150076;7080;30;105;656;Non vérifié;non
+14595;Saint-Jean-de-Livet;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;3080;37;129;229;Non vérifié;non
+14598;Saint-Jouin;14;eau potable;98396;2024;79,8;2,4;9,4;66,9;conforme;37142;3390;31;97;300;Non vérifié;non
+14601;Saint-Julien-sur-Calonne;14;eau potable;98406;2024;73,2;1,5;4,2;65,8;conforme;78090;3004;46;148;178;Non vérifié;non
+14602;Saint-Lambert;14;eau potable;219224;2024;84,7;0,9;4,9;66,0;conforme;152096;2531;26;72;262;Non vérifié;non
+14603;Saint-Laurent-de-Condel;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;4917;26;107;512;Non vérifié;non
+14605;Saint-Laurent-sur-Mer;14;eau potable : principal;98323;2024;85,6;0,8;5,0;66,0;conforme;68556;4200;43;74;268;Non vérifié;non
+14606;Saint-Léger-Dubosq;14;eau potable;98396;2024;79,8;2,4;9,4;66,9;conforme;37142;2836;31;97;251;Non vérifié;non
+14607;Saint-Louet-sur-Seulles;14;eau potable;98391;2024;96,3;0,2;5,7;66,1;conforme;35405;241;4;13;148;Non vérifié;non
+14609;Saint-Loup-Hors;14;eau potable;98447;2024;84,0;2,3;11,9;67,4;conforme;320689;6594;36;70;504;Non vérifié;non
+14610;Saint-Manvieu-Norrey;14;eau potable : Secteur Littoral et Mue;312974;2024;95,5;1,4;29,8;71,0;conforme;229265;13106;17;50;2160;Non vérifié;non
+14613;Saint-Marcouf;14;eau potable;98371;2024;71,8;1,5;3,9;65,8;conforme;125378;1831;60;139;84;Non vérifié;non
+14614;Sainte-Marguerite-d'Elle;14;eau potable;265274;2024;100,0;0,0;3,0;65,6;conforme;0;0;0;0;757;Non vérifié;non
+14619;Sainte-Marie-Outre-l'Eau;14;eau potable : AEP;323814;2024;84,9;0,8;4,3;65,9;conforme;499320;1396;31;72;124;Non vérifié;non
+14620;Saint-Martin-aux-Chartrains;14;eau potable;98310;2024;84,2;1,1;6,1;66,2;conforme;26607;1491;10;66;429;Non vérifié;non
+14621;Saint-Martin-de-Bienfaite-la-Cressonnière;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;7210;37;129;536;Non vérifié;non
+14622;Saint-Martin-de-Blagny;14;eau potable;98371;2024;71,8;1,5;3,9;65,8;conforme;125378;2573;60;139;118;Non vérifié;non
+14623;Saint-Martin-de-Fontenay;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;17571;19;49;2560;Non vérifié;non
+14625;Saint-Martin-de-la-Lieue;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;10264;37;129;763;Non vérifié;non
+14626;Saint-Martin-de-Mailloc;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;13990;37;129;1040;Non vérifié;non
+14627;Saint-Martin-de-Mieux;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;3803;26;107;396;Non vérifié;non
+14630;Saint-Martin-des-Entrées;14;eau potable;98447;2024;84,0;2,3;11,9;67,4;conforme;320689;10257;36;70;784;Non vérifié;non
+14635;Saint-Omer;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;1834;26;107;191;Non vérifié;non
+14637;Saint-Ouen-du-Mesnil-Oger;14;eau potable : AEP;98287;2024;80,1;2,4;9,6;66,9;conforme;210862;1745;21;91;233;Non vérifié;non
+14639;Saint-Ouen-le-Pin;14;eau potable : SYNDICAT MIXTE D'ALIMENTATION EN EAU POTABLE DU PLATEAU OUEST DE LISIEUX;98325;2024;82,6;0,9;4,2;65,8;conforme;99059;638;7;88;250;Non vérifié;non
+14640;Saint-Pair;14;eau potable;98336;2024;82,9;2,0;9,8;67,0;conforme;64101;8453;95;75;245;Non vérifié;non
+14643;Saint-Paul-du-Vernay;14;eau potable;98288;2024;82,7;0,8;3,6;65,7;conforme;55340;4781;16;96;831;Non vérifié;non
+14644;Saint-Philbert-des-Champs;14;eau potable;98331;2024;84,4;0,8;4,4;65,9;conforme;110972;7037;30;70;639;Non vérifié;non
+14645;Saint-Pierre-Azif;14;eau potable;98441;2024;88,5;2,8;21,7;69,3;conforme;346601;2630;44;48;163;Non vérifié;non
+14646;Saint-Pierre-Canivet;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;4437;26;107;462;Non vérifié;non
+14648;Saint-Pierre-des-Ifs;14;eau potable : SYNDICAT MIXTE D'ALIMENTATION EN EAU POTABLE DU PLATEAU OUEST DE LISIEUX;98325;2024;82,6;0,9;4,2;65,8;conforme;99059;1156;7;88;453;Non vérifié;non
+14649;Saint-Pierre-du-Bû;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;4187;26;107;436;Non vérifié;non
+14650;Saint-Pierre-du-Fresne;14;eau potable;98391;2024;96,3;0,2;5,7;66,1;conforme;35405;297;4;13;183;Non vérifié;non
+14651;Saint-Pierre-du-Jonquet;14;eau potable;98336;2024;82,9;2,0;9,8;67,0;conforme;64101;10109;95;75;293;Non vérifié;non
+14652;Saint-Pierre-du-Mont;14;eau potable : principal;98323;2024;85,6;0,8;5,0;66,0;conforme;68556;1128;43;74;72;Non vérifié;non
+14654;Saint-Pierre-en-Auge;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;95509;37;129;7100;Non vérifié;non
+14656;Saint-Rémy;14;eau potable;219224;2024;84,7;0,9;4,9;66,0;conforme;152096;9623;26;72;996;Non vérifié;non
+14657;Saint-Samson;14;eau potable;98336;2024;82,9;2,0;9,8;67,0;conforme;64101;10592;95;75;307;Non vérifié;non
+14658;Noues de Sienne;14;eau potable : AEP;323814;2024;84,9;0,8;4,3;65,9;conforme;499320;47367;31;72;4207;Non vérifié;non
+14659;Saint-Sylvain;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;14156;26;107;1474;Non vérifié;non
+14660;Saint-Vaast-en-Auge;14;eau potable;98372;2024;78,4;1,4;5,0;66,0;conforme;86870;831;18;102;125;Non vérifié;non
+14661;Saint-Vaast-sur-Seulles;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;1103;19;70;161;Non vérifié;non
+14663;Saint-Vigor-le-Grand;14;eau potable;98447;2024;84,0;2,3;11,9;67,4;conforme;320689;31963;36;70;2443;Non vérifié;non
+14664;Sallen;14;eau potable;98301;2024;69,5;1,1;2,6;65,5;conforme;123188;3569;30;160;322;Non vérifié;non
+14665;Sallenelles;14;eau potable;98329;2024;79,9;2,3;9,3;66,9;conforme;211554;4610;44;107;287;Non vérifié;non
+14666;Sannerville;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;13075;19;49;1905;Non vérifié;non
+14667;Saon;14;eau potable;98321;2024;85,0;1,7;9,9;67,0;conforme;73200;3774;46;66;226;Non vérifié;non
+14668;Saonnet;14;eau potable;98321;2024;85,0;1,7;9,9;67,0;conforme;73200;5427;46;66;325;Non vérifié;non
+14669;Sassy;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;2084;26;107;217;Non vérifié;non
+14672;Val de Drôme;14;eau potable;98301;2024;69,5;1,1;2,6;65,5;conforme;123188;9965;30;160;899;Non vérifié;non
+14674;Soignolles;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;1104;26;107;115;Non vérifié;non
+14675;Soliers;14;eau potable : Ex syndicat d'Ifs-Bourguebus;98313;2024;85,0;3,1;17,5;68,5;conforme;135757;17203;21;65;2260;Non vérifié;non
+14676;Sommervieu;14;eau potable;98447;2024;84,0;2,3;11,9;67,4;conforme;320689;12913;36;70;987;Non vérifié;non
+14677;Soulangy;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;2391;26;107;249;Non vérifié;non
+14678;Soumont-Saint-Quentin;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;6329;26;107;659;Non vérifié;non
+14679;Subles;14;eau potable;98447;2024;84,0;2,3;11,9;67,4;conforme;320689;9028;36;70;690;Non vérifié;non
+14680;Sully;14;eau potable;98447;2024;84,0;2,3;11,9;67,4;conforme;320689;2237;36;70;171;Non vérifié;non
+14681;Surrain;14;eau potable : principal;98323;2024;85,6;0,8;5,0;66,0;conforme;68556;2162;43;74;138;Non vérifié;non
+14682;Surville;14;eau potable;98406;2024;73,2;1,5;4,2;65,8;conforme;78090;7983;46;148;473;Non vérifié;non
+14684;Tessel;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;1664;19;70;243;Non vérifié;non
+14685;Thaon;14;eau potable : Secteur Littoral et Mue;312974;2024;95,5;1,4;29,8;71,0;conforme;229265;11492;17;50;1894;Non vérifié;non
+14687;Le Theil-en-Auge;14;eau potable;98406;2024;73,2;1,5;4,2;65,8;conforme;78090;3359;46;148;199;Non vérifié;non
+14689;Le Hom;14;eau potable;219224;2024;84,7;0,9;4,9;66,0;conforme;152096;34782;26;72;3600;Non vérifié;non
+14692;Tilly-sur-Seulles;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;12329;19;70;1800;Non vérifié;non
+14694;Le Torquesne;14;eau potable : principal;98311;2024;78,4;1,2;4,3;65,9;conforme;150076;5709;30;105;529;Non vérifié;non
+14698;Touffréville;14;eau potable;98329;2024;79,9;2,3;9,3;66,9;conforme;211554;6297;44;107;392;Non vérifié;non
+14699;Touques;14;eau potable;98441;2024;88,5;2,8;21,7;69,3;conforme;346601;63131;44;48;3913;Non vérifié;non
+14700;Tour-en-Bessin;14;eau potable;98337;2024;81,0;1,5;6,5;66,3;conforme;64539;8993;36;107;692;Non vérifié;non
+14701;Tourgéville;14;eau potable;98441;2024;88,5;2,8;21,7;69,3;conforme;346601;13649;44;48;846;Non vérifié;non
+14705;Tournières;14;eau potable;98321;2024;85,0;1,7;9,9;67,0;conforme;73200;2471;46;66;148;Non vérifié;non
+14706;Tourville-en-Auge;14;eau potable;98310;2024;84,2;1,1;6,1;66,2;conforme;26607;893;10;66;257;Non vérifié;non
+14707;Tourville-sur-Odon;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;7914;19;49;1153;Non vérifié;non
+14708;Tracy-Bocage;14;eau potable;98391;2024;96,3;0,2;5,7;66,1;conforme;35405;507;4;13;312;Non vérifié;non
+14709;Tracy-sur-Mer;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;2336;19;70;341;Non vérifié;non
+14710;Tréprel;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;1076;26;107;112;Non vérifié;non
+14711;Trévières;14;eau potable;98371;2024;71,8;1,5;3,9;65,8;conforme;125378;20166;60;139;925;Non vérifié;non
+14712;Troarn;14;eau potable : Troarn;297034;2024;51,6;15,1;16,0;68,2;non conforme;183533;183533;146;344;3439;Non vérifié;non
+14713;Montillières-sur-Orne;14;eau potable;98400;2024;67,7;1,6;3,3;65,7;conforme;99496;5249;26;221;557;Non vérifié;non
+14714;Le Tronquay;14;eau potable;98342;2024;0,0;5,2;0,0;65,0;non conforme;70188;25532;94;107;745;Non vérifié;oui
+14715;Trouville-sur-Mer;14;eau potable;98441;2024;88,5;2,8;21,7;69,3;conforme;346601;74522;44;48;4619;Non vérifié;non
+14716;Trungy;14;eau potable;98288;2024;82,7;0,8;3,6;65,7;conforme;55340;1203;16;96;209;Non vérifié;non
+14719;Urville;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;7481;26;107;779;Non vérifié;non
+14720;Ussy;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;8346;26;107;869;Non vérifié;non
+14721;Vacognes-Neuilly;14;eau potable : Ex syndicat  Région d'Evrecy;98308;2024;82,2;1,5;7,1;66,4;conforme;60345;5445;22;77;681;Non vérifié;non
+14723;Valsemé;14;eau potable : principal;98311;2024;78,4;1,2;4,3;65,9;conforme;150076;2817;30;105;261;Non vérifié;non
+14724;Varaville;14;eau potable;98329;2024;79,9;2,3;9,3;66,9;conforme;211554;16417;44;107;1022;Non vérifié;non
+14726;Valdallière;14;eau potable : AEP;323814;2024;84,9;0,8;4,3;65,9;conforme;499320;64132;31;72;5696;Non vérifié;non
+14728;Vaucelles;14;eau potable;98447;2024;84,0;2,3;11,9;67,4;conforme;320689;7837;36;70;599;Non vérifié;non
+14731;Vauville;14;eau potable;98441;2024;88,5;2,8;21,7;69,3;conforme;346601;3243;44;48;201;Non vérifié;non
+14732;Vaux-sur-Aure;14;eau potable;98447;2024;84,0;2,3;11,9;67,4;conforme;320689;3742;36;70;286;Non vérifié;non
+14733;Vaux-sur-Seulles;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;2240;19;70;327;Non vérifié;non
+14734;Vendes;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;2336;19;70;341;Non vérifié;non
+14735;Vendeuvre;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;7683;26;107;800;Non vérifié;non
+14737;Versainville;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;4994;26;107;520;Non vérifié;non
+14738;Verson;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;27860;19;49;4059;Non vérifié;non
+14739;Ver-sur-Mer;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;10829;19;70;1581;Non vérifié;non
+14740;La Vespière-Friardel;14;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;15860;37;129;1179;Non vérifié;non
+14741;Le Vey;14;eau potable;219224;2024;84,7;0,9;4,9;66,0;conforme;152096;1343;26;72;139;Non vérifié;non
+14742;Vicques;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;643;26;107;67;Non vérifié;non
+14743;Victot-Pontfol;14;eau potable : SYNDICAT MIXTE D'ALIMENTATION EN EAU POTABLE DU PLATEAU OUEST DE LISIEUX;98325;2024;82,6;0,9;4,2;65,8;conforme;99059;370;7;88;145;Non vérifié;non
+14744;Vienne-en-Bessin;14;eau potable : Principal;216526;2024;83,9;1,2;6,3;66,3;conforme;193767;1815;19;70;265;Non vérifié;non
+14745;Vierville-sur-Mer;14;eau potable : principal;98323;2024;85,6;0,8;5,0;66,0;conforme;68556;3635;43;74;232;Non vérifié;non
+14747;Vieux;14;eau potable : Secteur Eaux de l'Orne;312994;2024;93,3;2,4;33,8;71,8;conforme;809319;4990;19;49;727;Non vérifié;non
+14748;Vieux-Bourg;14;eau potable;98406;2024;73,2;1,5;4,2;65,8;conforme;78090;1755;46;148;104;Non vérifié;non
+14751;Vignats;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;2727;26;107;284;Non vérifié;non
+14752;Villers-Bocage;14;eau potable;98391;2024;96,3;0,2;5,7;66,1;conforme;35405;5018;4;13;3088;Non vérifié;non
+14753;Villers-Canivet;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;6915;26;107;720;Non vérifié;non
+14754;Villers-sur-Mer;14;eau potable;98441;2024;88,5;2,8;21,7;69,3;conforme;346601;39366;44;48;2440;Non vérifié;non
+14755;Villerville;14;eau potable;98441;2024;88,5;2,8;21,7;69,3;conforme;346601;10003;44;48;620;Non vérifié;non
+14756;La Villette;14;eau potable;219224;2024;84,7;0,9;4,9;66,0;conforme;152096;2097;26;72;217;Non vérifié;non
+14758;Villons-les-Buissons;14;eau potable : Secteur Littoral et Mue;312974;2024;95,5;1,4;29,8;71,0;conforme;229265;5145;17;50;848;Non vérifié;non
+14759;Villy-lez-Falaise;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;2631;26;107;274;Non vérifié;non
+14760;Villy-Bocage;14;eau potable;98391;2024;96,3;0,2;5,7;66,1;conforme;35405;1183;4;13;728;Non vérifié;non
+14761;Vimont;14;eau potable : AEP;98287;2024;80,1;2,4;9,6;66,9;conforme;210862;6644;21;91;887;Non vérifié;non
+14762;Vire Normandie;14;eau potable : AEP;323814;2024;84,9;0,8;4,3;65,9;conforme;499320;196551;31;72;17457;Non vérifié;non
+14764;Pont-d'Ouilly;14;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;9777;26;107;1018;Non vérifié;non

@@ -7,347 +7,347 @@
 # Méthodologie et code : https://github.com/btaverne/dourdata
 # Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
 # Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
-Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
-26001;Solaure en Diois;26;eau potable : SOLAURE EN DIOIS;71269;2024;68,0;1,6;3,5;65,7;conforme;9811;9811;59;169;456;Non vérifié
-26002;Albon;26;eau potable : SME VALLOIRE GALAURE;71836;2024;73,1;2,1;5,6;66,1;conforme;512789;34622;49;142;1942;Non vérifié
-26003;Aleyrac;26;eau potable : SIEA PAYS DE DIEULEFIT BOURDEAUX;71859;2024;82,6;1,6;7,6;66,5;conforme;64824;701;38;77;50;Non vérifié
-26004;Alixan;26;eau potable : SIE DE LA PLAINE DE VALENCE;71839;2024;79,2;2,0;7,6;66,5;conforme;426320;20216;20;97;2729;Non vérifié
-26005;Allan;26;eau potable : Allan;344074;2024;85,4;1,0;6,0;66,2;conforme;19345;19345;27;61;1980;Non vérifié
-26006;Allex;26;eau potable : ALLEX;71277;2024;77,9;2,4;8,5;66,7;conforme;44177;44177;45;103;2698;Non vérifié
-26007;Ambonil;26;eau potable : SME DU SUD VALENTINOIS;71840;2024;85,2;1,3;6,6;66,3;conforme;244666;1238;32;74;106;Non vérifié
-26008;Ancône;26;eau potable : ANCONE;71279;2024;100,0;0,0;10,4;67,1;conforme;0;0;0;0;1338;Non vérifié
-26009;Andancette;26;eau potable : SME VALLOIRE GALAURE;71836;2024;73,1;2,1;5,6;66,1;conforme;512789;23711;49;142;1330;Non vérifié
-26010;Anneyron;26;eau potable : SME VALLOIRE GALAURE;71836;2024;73,1;2,1;5,6;66,1;conforme;512789;74325;49;142;4169;Non vérifié
-26011;Aouste-sur-Sye;26;eau potable : SMPAS SI DES EAUX;71850;2024;74,5;1,7;5,0;66,0;conforme;139612;55605;56;123;2733;Non vérifié
-26013;Arpavon;26;eau potable;71286;2024;24,6;6,2;2,0;65,4;non conforme;6789;6789;255;1120;73;Non vérifié
-26014;Arthémonay;26;eau potable : SI DES EAUX DE L'HERBASSE;71857;2024;82,8;1,1;5,2;66,0;conforme;240579;7778;35;78;613;Non vérifié
-26016;Aubres;26;eau potable : AUBRES;71291;2024;75,1;2,0;5,9;66,2;conforme;8578;8578;56;124;420;Non vérifié
-26017;Aucelon;26;eau potable : AUCELON;71293;2024;100,0;0,0;1,3;65,3;conforme;0;0;0;0;17;Non vérifié
-26018;Aulan;26;eau potable : AULAN;71295;2024;99,2;0,0;1,2;65,2;conforme;0;0;0;0;8;Non vérifié
-26019;Aurel;26;eau potable : AUREL;71297;2024;84,2;1,1;6,0;66,2;conforme;6544;6544;66;66;271;Non vérifié
-26020;La Répara-Auriples;26;eau potable : REPARA-AURIPLES;71483;2024;76,9;0,6;1,9;65,4;conforme;4708;1020;11;115;244;Non vérifié
-26021;Autichamp;26;eau potable : AUTICHAMP;71299;2024;88,3;0,9;6,8;66,4;conforme;2979;2979;54;74;151;Non vérifié
-26022;Ballons;26;eau potable : BALLONS;71301;2024;0,0;8,9;0,0;65,0;non conforme;12669;12669;394;0;88;Non vérifié
-26023;Barbières;26;eau potable : BARBIERES - BESAYES;71855;2024;77,5;2,0;7,1;66,4;conforme;35916;16336;39;103;1143;Non vérifié
-26024;Barcelonne;26;eau potable : BARCELONNE;71304;2024;76,7;1,1;3,8;65,8;conforme;5782;5782;47;107;335;Non vérifié
-26025;Barnave;26;eau potable : BARNAVE;71306;2024;99,0;0,1;5,3;66,1;conforme;182;182;2;7;217;Non vérifié
-26026;Barret-de-Lioure;26;eau potable : SIE MONTBRUN-BARRET-REILHANETTE;71847;2022;99,9;0,0;9,5;66,9;conforme;0;0;0;0;72;Sans anomalie apparente
-26027;Barsac;26;eau potable : BARSAC;71309;2024;94,9;0,3;5,1;66,0;conforme;419;419;7;22;154;Non vérifié
-26028;Bathernay;26;eau potable : SI DES EAUX DE L'HERBASSE;71857;2024;82,8;1,1;5,2;66,0;conforme;240579;2804;35;78;221;Non vérifié
-26030;La Bâtie-des-Fonds;26;eau potable;71461;2024;100,0;0,0;0,6;65,1;conforme;0;0;0;0;6;Non vérifié
-26031;La Bâtie-Rolland;26;eau potable : SYNDICAT EAUX BAS ROUBION CITELLE;71842;2024;73,6;1,8;5,0;66,0;conforme;320826;20258;51;132;1087;Non vérifié
-26032;La Baume-Cornillane;26;eau potable : SME DU SUD VALENTINOIS;71840;2024;85,2;1,3;6,6;66,3;conforme;244666;5324;32;74;456;Non vérifié
-26033;La Baume-de-Transit;26;eau potable;64593;2024;74,8;3,3;9,9;67,0;conforme;1615186;21294;62;123;942;Non vérifié
-26034;La Baume-d'Hostun;26;eau potable : LA BAUME D'HOSTUN;71466;2024;88,5;0,8;6,1;66,2;conforme;4292;4292;20;48;592;Non vérifié
-26035;Beaufort-sur-Gervanne;26;eau potable;71312;2024;80,1;0,8;3,1;65,6;conforme;7840;7840;43;95;494;Non vérifié
-26036;Beaumont-en-Diois;26;eau potable : BEAUMONT-EN-DIOIS;71314;2024;78,7;0,8;3,0;65,6;conforme;2377;2377;63;96;103;Non vérifié
-26037;Beaumont-lès-Valence;26;eau potable : SME DU SUD VALENTINOIS;71840;2024;85,2;1,3;6,6;66,3;conforme;244666;50640;32;74;4337;Non vérifié
-26038;Beaumont-Monteux;26;eau potable : EAUX DE LA VEAUNE;71837;2024;88,1;0,9;6,6;66,3;conforme;144868;9651;19;52;1394;Non vérifié
-26039;Beauregard-Baret;26;eau potable : SIE DE ROCHEFORT - SAMSON;71856;2024;93,5;0,8;12,0;67,4;conforme;79278;3197;10;43;905;Non vérifié
-26040;Beaurières;26;eau potable : BEAURIERES;71318;2024;53,0;4,0;4,5;65,9;non conforme;13140;13140;439;322;82;Non vérifié
-26041;Beausemblant;26;eau potable : SME VALLOIRE GALAURE;71836;2024;73,1;2,1;5,6;66,1;conforme;512789;26296;49;142;1475;Non vérifié
-26042;Beauvallon;26;eau potable : SME DU SUD VALENTINOIS;71840;2024;85,2;1,3;6,6;66,3;conforme;244666;19371;32;74;1659;Non vérifié
-26043;Beauvoisin;26;eau potable;64593;2024;74,8;3,3;9,9;67,0;conforme;1615186;3187;62;123;141;Non vérifié
-26045;La Bégude-de-Mazenc;26;eau potable : SYNDICAT EAUX BAS ROUBION CITELLE;71842;2024;73,6;1,8;5,0;66,0;conforme;320826;33154;51;132;1779;Non vérifié
-26046;Bellecombe-Tarendol;26;eau potable : BELLECOMBE-TARENDOL;71324;2022;85,0;0,2;1,2;65,2;conforme;1095;1095;39;62;77;Sans anomalie apparente
-26047;Bellegarde-en-Diois;26;eau potable : BELLEGARDE-EN-DIOIS;71326;2024;90,3;0,2;2,3;65,5;conforme;345;345;10;31;96;Non vérifié
-26048;Bénivay-Ollon;26;eau potable;64593;2024;74,8;3,3;9,9;67,0;conforme;1615186;1560;62;123;69;Non vérifié
-26049;Bésayes;26;eau potable : BARBIERES - BESAYES;71855;2024;77,5;2,0;7,1;66,4;conforme;35916;19580;39;103;1370;Non vérifié
-26050;Bésignan;26;eau potable : BESIGNAN;71330;2024;64,0;3,3;5,8;66,2;non conforme;2650;2650;96;207;76;Non vérifié
-26051;Bézaudun-sur-Bîne;26;eau potable : SIE DU HAUT ROUBION;71849;2024;60,4;2,2;3,4;65,7;non conforme;82950;4690;176;250;73;Non vérifié
-26052;Bonlieu-sur-Roubion;26;eau potable : SYNDICAT EAUX BAS ROUBION CITELLE;71842;2024;73,6;1,8;5,0;66,0;conforme;320826;8535;51;132;458;Non vérifié
-26054;Bouchet;26;eau potable;64593;2024;74,8;3,3;9,9;67,0;conforme;1615186;31851;62;123;1409;Non vérifié
-26055;Boulc;26;eau potable : BOULC;71334;2024;69,2;1,0;2,3;65,5;conforme;5435;5435;97;156;154;Non vérifié
-26056;Bourdeaux;26;eau potable : SIE DU HAUT ROUBION;71849;2024;60,4;2,2;3,4;65,7;non conforme;82950;43049;176;250;670;Non vérifié
-26057;Bourg-de-Péage;26;eau potable : BOURG-DE-PEAGE;318134;2024;89,6;2,4;21,1;69,2;conforme;53436;53436;15;41;9921;Non vérifié
-26058;Bourg-lès-Valence;26;eau potable : BOURG LES VALENCE;302874;2024;85,1;4,1;23,8;69,8;conforme;189158;189158;26;69;19992;Non vérifié
-26059;Bouvante;26;eau potable : SMA LENTE FONT D'URLE;336214;2024;51,2;8,1;8,5;66,7;non conforme;35478;35478;463;413;210;Non vérifié
-26060;Bouvières;26;eau potable : BOUVIERES;71342;2024;72,0;0,7;1,9;65,4;conforme;2550;2550;46;135;151;Non vérifié
-26061;Bren;26;eau potable : SME VALLOIRE GALAURE;71836;2024;73,1;2,1;5,6;66,1;conforme;512789;12640;49;142;709;Non vérifié
-26062;Brette;26;eau potable : BRETTE;71345;2024;51,3;2,5;2,7;65,5;non conforme;2610;2610;247;341;29;Non vérifié
-26063;Buis-les-Baronnies;26;eau potable : BUIS-LES-BARONNIES;71347;2024;78,9;3,2;12,1;67,4;conforme;45494;45494;56;112;2218;Non vérifié
-26064;Chabeuil;26;eau potable : SIE DE LA PLAINE DE VALENCE;71839;2024;79,2;2,0;7,6;66,5;conforme;426320;50619;20;97;6833;Non vérifié
-26065;Chabrillan;26;eau potable : CHABRILLAN;71350;2024;99,2;0,0;2,7;65,5;conforme;0;0;0;0;752;Non vérifié
-26066;Le Chaffal;26;eau potable : LE CHAFFAL;71503;2024;21,6;6,9;1,9;65,4;non conforme;29718;29718;2326;1331;35;Non vérifié
-26067;Chalancon;26;eau potable : CHALANCON;71352;2024;100,0;0,0;4,0;65,8;conforme;0;0;0;0;59;Non vérifié
-26068;Le Chalon;26;eau potable : SI DES EAUX DE L'HERBASSE;71857;2024;82,8;1,1;5,2;66,0;conforme;240579;2538;35;78;200;Non vérifié
-26069;Chamaloc;26;eau potable : CHAMALOC;71354;2024;81,3;3,1;13,3;67,7;conforme;5476;5476;126;85;119;Non vérifié
-26070;Chamaret;26;eau potable : CHAMARET;71356;2024;82,5;3,3;15,7;68,1;conforme;19272;19272;97;77;542;Non vérifié
-26071;Chanos-Curson;26;eau potable : EAUX DE LA VEAUNE;71837;2024;88,1;0,9;6,6;66,3;conforme;144868;8280;19;52;1196;Non vérifié
-26072;Chantemerle-les-Blés;26;eau potable : EAUX DE LA VEAUNE;71837;2024;88,1;0,9;6,6;66,3;conforme;144868;9297;19;52;1343;Non vérifié
-26073;Chantemerle-lès-Grignan;26;eau potable : CHANTEMERLE-LES-GRIGNAN;71360;2024;69,3;1,7;3,9;65,8;conforme;11665;11665;130;160;246;Non vérifié
-26074;La Chapelle-en-Vercors;26;eau potable : SI EAUX ET ASSAINISSEMENT DU VERCORS;71853;2024;55,4;3,1;3,8;65,8;non conforme;79250;53482;184;296;797;Non vérifié
-26075;La Charce;26;eau potable : LA CHARCE;71469;2024;80,0;0,7;2,0;65,4;conforme;1009;1009;120;130;23;Non vérifié
-26076;Charens;26;eau potable : CHARENS;71362;2024;64,3;1,2;2,1;65,4;non conforme;1673;1673;143;207;32;Non vérifié
-26077;Charmes-sur-l'Herbasse;26;eau potable : SI DES EAUX DE L'HERBASSE;71857;2024;82,8;1,1;5,2;66,0;conforme;240579;10227;35;78;806;Non vérifié
-26078;Charols;26;eau potable : SYNDICAT EAUX BAS ROUBION CITELLE;71842;2024;73,6;1,8;5,0;66,0;conforme;320826;17984;51;132;965;Non vérifié
-26079;Charpey;26;eau potable : SAINT-VINCENT CHARPEY;71852;2024;59,6;3,3;4,9;66,0;non conforme;69295;49106;87;248;1547;Non vérifié
-26081;Châteaudouble;26;eau potable : CHATEAUDOUBLE;71369;2024;97,2;0,1;3,8;65,8;conforme;1022;1022;4;10;633;Non vérifié
-26082;Châteauneuf-de-Bordette;26;eau potable : SIVU DU RIEU;71861;2024;90,8;0,3;3,0;65,6;conforme;10758;590;16;36;101;Non vérifié
-26083;Châteauneuf-de-Galaure;26;eau potable : Service de l'Eau de CHATEAUNEUF DE GALAURE;339435;2024;39,8;13,2;8,7;66,7;non conforme;21103;21103;32;553;1804;Non vérifié
-26084;Châteauneuf-sur-Isère;26;eau potable : SIE DE LA PLAINE DE VALENCE;71839;2024;79,2;2,0;7,6;66,5;conforme;426320;31713;20;97;4281;Non vérifié
-26085;Châteauneuf-du-Rhône;26;eau potable : CHATEAUNEUF-DU-RHONE;71373;2024;68,3;6,8;14,6;67,9;conforme;89352;89352;84;172;2917;Non vérifié
-26086;Châtillon-en-Diois;26;eau potable : CHATILLON-EN-DIOIS;71376;2024;33,7;13,6;6,9;66,4;non conforme;125986;125986;516;720;669;Non vérifié
-26087;Châtillon-Saint-Jean;26;eau potable : SI DES EAUX DE L'HERBASSE;71857;2024;82,8;1,1;5,2;66,0;conforme;240579;16559;35;78;1305;Non vérifié
-26088;Chatuzange-le-Goubet;26;eau potable : SIE DE ROCHEFORT - SAMSON;71856;2024;93,5;0,8;12,0;67,4;conforme;79278;23043;10;43;6523;Non vérifié
-26089;Chaudebonne;26;eau potable : CHAUDEBONNE;71380;2024;95,0;0,0;4,5;65,9;conforme;0;0;0;0;58;Non vérifié
-26090;La Chaudière;26;eau potable : LA CHAUDIERE;71471;2020;38,7;16,9;10,7;67,1;non conforme;24674;24674;2704;577;25;Sans anomalie apparente
-26091;Chauvac-Laux-Montaux;26;eau potable : CHAUVAC LAUX-MONTAUX;71382;2024;100,0;0,0;1,1;65,2;conforme;0;0;0;0;43;Non vérifié
-26092;Chavannes;26;eau potable : EAUX DE LA VEAUNE;71837;2024;88,1;0,9;6,6;66,3;conforme;144868;5317;19;52;768;Non vérifié
-26093;Clansayes;26;eau potable;64593;2024;74,8;3,3;9,9;67,0;conforme;1615186;11687;62;123;517;Non vérifié
-26094;Claveyson;26;eau potable : SME VALLOIRE GALAURE;71836;2024;73,1;2,1;5,6;66,1;conforme;512789;16651;49;142;934;Non vérifié
-26095;Cléon-d'Andran;26;eau potable : SYNDICAT EAUX BAS ROUBION CITELLE;71842;2024;73,6;1,8;5,0;66,0;conforme;320826;18711;51;132;1004;Non vérifié
-26096;Clérieux;26;eau potable : EAUX DE LA VEAUNE;71837;2024;88,1;0,9;6,6;66,3;conforme;144868;13223;19;52;1910;Non vérifié
-26097;Cliousclat;26;eau potable : SYNDICAT DES EAUX DROME-RHONE;71841;2024;75,7;2,0;6,3;66,3;conforme;285291;10880;49;116;611;Non vérifié
-26098;Cobonne;26;eau potable : SMPAS SI DES EAUX;71850;2024;74,5;1,7;5,0;66,0;conforme;139612;3459;56;123;170;Non vérifié
-26099;Colonzelle;26;eau potable : COLONZELLE;71392;2024;74,1;1,8;5,2;66,0;conforme;10492;10492;55;127;524;Non vérifié
-26100;Combovin;26;eau potable : SME DU SUD VALENTINOIS;71840;2024;85,2;1,3;6,6;66,3;conforme;244666;5558;32;74;476;Non vérifié
-26101;Comps;26;eau potable : COMPS;71395;2024;85,8;0,3;2,0;65,4;conforme;2363;2363;47;56;137;Non vérifié
-26102;Condillac;26;eau potable : SYNDICAT DES EAUX DROME-RHONE;71841;2024;75,7;2,0;6,3;66,3;conforme;285291;2350;49;116;132;Non vérifié
-26103;Condorcet;26;eau potable : SIE DU BENTRIX;71848;2024;51,6;3,2;3,4;65,7;non conforme;44851;31157;172;343;496;Non vérifié
-26104;Cornillac;26;eau potable : CORNILLAC;71399;2024;49,2;0,0;1,5;65,3;non conforme;0;0;0;0;91;Non vérifié
-26105;Cornillon-sur-l'Oule;26;eau potable : CORNILLON-SUR-L'OULE;71401;2024;94,6;0,4;7,5;66,5;conforme;385;385;14;19;75;Non vérifié
-26106;La Coucourde;26;eau potable : SYNDICAT DES EAUX DROME-RHONE;71841;2024;75,7;2,0;6,3;66,3;conforme;285291;22080;49;116;1240;Non vérifié
-26107;Crépol;26;eau potable : SI DES EAUX DE L'HERBASSE;71857;2024;82,8;1,1;5,2;66,0;conforme;240579;6636;35;78;523;Non vérifié
-26108;Crest;26;eau potable : CREST;71404;2024;86,4;2,7;17,3;68,5;conforme;95889;95889;30;81;8658;Non vérifié
-26110;Crozes-Hermitage;26;eau potable : EAUX DE LA VEAUNE;71837;2024;88,1;0,9;6,6;66,3;conforme;144868;4569;19;52;660;Non vérifié
-26111;Crupies;26;eau potable : SIE DU HAUT ROUBION;71849;2024;60,4;2,2;3,4;65,7;non conforme;82950;6168;176;250;96;Non vérifié
-26112;Curnier;26;eau potable : CURNIER;71406;2024;86,4;0,2;1,1;65,2;conforme;1467;1467;20;68;206;Non vérifié
-26113;Die;26;eau potable : DIE;71408;2024;85,3;2,4;14,0;67,8;conforme;55013;55013;31;63;4844;Non vérifié
-26114;Dieulefit;26;eau potable : SIEA PAYS DE DIEULEFIT BOURDEAUX;71859;2024;82,6;1,6;7,6;66,5;conforme;64824;46099;38;77;3289;Non vérifié
-26115;Divajeu;26;eau potable : DIVAJEU;71410;2024;87,6;0,5;3,4;65,7;conforme;5475;5475;22;54;688;Non vérifié
-26116;Donzère;26;eau potable : DONZERE;71412;2024;77,7;5,1;17,9;68,6;conforme;96333;96333;44;104;6008;Non vérifié
-26117;Échevis;26;eau potable : ECHEVIS;71414;2024;51,2;1,5;1,6;65,3;non conforme;2464;2464;116;354;58;Non vérifié
-26118;Épinouze;26;eau potable : Territoire n°1;71858;2024;76,9;1,7;5,6;66,1;conforme;37261;21058;38;111;1531;Non vérifié
-26119;Érôme;26;eau potable : EAUX DE LA VEAUNE;71837;2024;88,1;0,9;6,6;66,3;conforme;144868;5871;19;52;848;Non vérifié
-26121;Espeluche;26;eau potable : SYNDICAT EAUX BAS ROUBION CITELLE;71842;2024;73,6;1,8;5,0;66,0;conforme;320826;21134;51;132;1134;Non vérifié
-26123;Establet;26;eau potable : ESTABLET;71420;2024;80,0;0,0;4,7;65,9;conforme;0;0;0;0;27;Non vérifié
-26124;Étoile-sur-Rhône;26;eau potable : SME DU SUD VALENTINOIS;71840;2024;85,2;1,3;6,6;66,3;conforme;244666;63846;32;74;5468;Non vérifié
-26125;Eurre;26;eau potable;71422;2024;83,7;1,0;4,9;66,0;conforme;17911;17911;34;75;1431;Non vérifié
-26126;Eygalayes;26;eau potable;71424;2024;86,4;0,2;1,4;65,3;conforme;482;482;15;54;89;Non vérifié
-26127;Eygaliers;26;eau potable : EYGALIERS;71426;2024;98,8;0,1;8,2;66,6;conforme;73;73;1;4;139;Non vérifié
-26129;Eymeux;26;eau potable : SIE DE ROCHEFORT - SAMSON;71856;2024;93,5;0,8;12,0;67,4;conforme;79278;3875;10;43;1097;Non vérifié
-26131;Eyzahut;26;eau potable : EYZAHUT;71434;2024;85,0;1,0;6,6;66,3;non calculable;5336;5336;97;55;151;Non vérifié
-26133;Fay-le-Clos;26;eau potable : SME VALLOIRE GALAURE;71836;2024;73,1;2,1;5,6;66,1;conforme;512789;3263;49;142;183;Non vérifié
-26134;Félines-sur-Rimandoule;26;eau potable : SIE DU HAUT ROUBION;71849;2024;60,4;2,2;3,4;65,7;non conforme;82950;5333;176;250;83;Non vérifié
-26135;Ferrassières;26;eau potable;64599;2024;60,6;1,8;2,7;65,5;non conforme;142188;5035;113;281;122;Non vérifié
-26136;Val-Maravel;26;eau potable : VAL-MARAVEL;71799;2024;84,0;0,8;4,4;65,9;conforme;1737;1737;87;66;55;Non vérifié
-26137;Francillon-sur-Roubion;26;eau potable : FRANCILLON-SUR-ROUBION;71440;2024;76,2;0,5;1,7;65,3;conforme;2829;2829;43;107;181;Non vérifié
-26138;La Garde-Adhémar;26;eau potable : LA GARDE-ADHEMAR;71474;2024;53,4;3,8;4,3;65,9;non conforme;63636;63636;152;322;1144;Non vérifié
-26139;Génissieux;26;eau potable : SI DES EAUX DE L'HERBASSE;71857;2024;82,8;1,1;5,2;66,0;conforme;240579;30808;35;78;2428;Non vérifié
-26140;Geyssans;26;eau potable : SI DES EAUX DE L'HERBASSE;71857;2024;82,8;1,1;5,2;66,0;conforme;240579;9580;35;78;755;Non vérifié
-26141;Gigors-et-Lozeron;26;eau potable : SMPAS SI DES EAUX;71850;2024;74,5;1,7;5,0;66,0;conforme;139612;4578;56;123;225;Non vérifié
-26142;Glandage;26;eau potable : GLANDAGE;71447;2024;73,5;2,4;6,6;66,3;conforme;12518;12518;301;134;114;Non vérifié
-26143;Le Grand-Serre;26;eau potable : LE GRAND-SERRE;71506;2024;89,4;0,4;3,0;65,6;conforme;6398;6398;18;49;973;Non vérifié
-26144;Grane;26;eau potable : SYNDICAT DES EAUX DROME-RHONE;71841;2024;75,7;2,0;6,3;66,3;conforme;285291;39245;49;116;2204;Non vérifié
-26145;Les Granges-Gontardes;26;eau potable : LES GRANGES GONTARDES;71520;2024;89,3;1,6;13,1;67,6;conforme;4555;4555;18;45;698;Non vérifié
-26146;Grignan;26;eau potable : GRIGNAN;71449;2024;86,7;0,9;5,6;66,1;conforme;32850;32850;56;59;1596;Non vérifié
-26147;Gumiane;26;eau potable : GUMIANE;71451;2024;59,0;0,7;1,0;65,2;non conforme;953;953;131;249;20;Non vérifié
-26148;Hauterives;26;eau potable : Territoire n°1;71453;2024;80,4;1,3;5,1;66,0;conforme;33799;33799;49;96;1904;Non vérifié
-26149;Hostun;26;eau potable : SIE DE ROCHEFORT - SAMSON;71856;2024;93,5;0,8;12,0;67,4;conforme;79278;3663;10;43;1037;Non vérifié
-26152;Jonchères;26;eau potable : JONCHERES;71459;2024;99,0;0,0;1,1;65,2;conforme;0;0;0;0;27;Non vérifié
-26153;Laborel;26;eau potable : LABOREL;71494;2024;52,7;2,7;3,0;65,6;non conforme;5282;5282;125;326;116;Non vérifié
-26154;Lachau;26;eau potable;71496;2024;98,2;0,5;25,8;70,2;conforme;2404;2404;30;7;218;Non vérifié
-26155;Lapeyrouse-Mornay;26;eau potable : Territoire n°1;71858;2024;76,9;1,7;5,6;66,1;conforme;37261;16203;38;111;1178;Non vérifié
-26156;Larnage;26;eau potable : EAUX DE LA VEAUNE;71837;2024;88,1;0,9;6,6;66,3;conforme;144868;6985;19;52;1009;Non vérifié
-26157;La Laupie;26;eau potable : SYNDICAT EAUX BAS ROUBION CITELLE;71842;2024;73,6;1,8;5,0;66,0;conforme;320826;14704;51;132;789;Non vérifié
-26159;Laval-d'Aix;26;eau potable : LAVAL-D'AIX;71500;2024;72,3;1,3;3,3;65,7;conforme;2339;2339;57;192;112;Non vérifié
-26160;Laveyron;26;eau potable : SME VALLOIRE GALAURE;71836;2024;73,1;2,1;5,6;66,1;conforme;512789;22339;49;142;1253;Non vérifié
-26161;Lemps;26;eau potable;71515;2024;93,6;0,1;0,8;65,2;conforme;90;90;6;45;40;Non vérifié
-26162;Lens-Lestang;26;eau potable : SME VALLOIRE GALAURE;71836;2024;73,1;2,1;5,6;66,1;conforme;512789;15760;49;142;884;Non vérifié
-26163;Léoncel;26;eau potable : SME DU SUD VALENTINOIS;71840;2024;85,2;1,3;6,6;66,3;conforme;244666;537;32;74;46;Non vérifié
-26164;Lesches-en-Diois;26;eau potable : LESCHES-EN-DIOIS;71529;2024;66,0;2,3;4,4;65,9;conforme;6128;6128;295;191;57;Non vérifié
-26165;Livron-sur-Drôme;26;eau potable : LIVRON-SUR-DROME;71531;2024;88,4;1,8;13,7;67,7;conforme;62376;62376;18;48;9329;Non vérifié
-26166;Loriol-sur-Drôme;26;eau potable : SYNDICAT DES EAUX DROME-RHONE;71841;2024;75,7;2,0;6,3;66,3;conforme;285291;117770;49;116;6614;Non vérifié
-26167;Luc-en-Diois;26;eau potable : LUC-EN-DIOIS;71534;2024;65,3;2,9;5,5;66,1;non conforme;28537;28537;127;201;614;Non vérifié
-26169;Malataverne;26;eau potable : MALATAVERNE;71538;2024;91,9;0,8;8,8;66,8;conforme;18104;18104;22;33;2258;Non vérifié
-26170;Malissard;26;eau potable : SIE DE LA PLAINE DE VALENCE;71839;2024;79,2;2,0;7,6;66,5;conforme;426320;24402;20;97;3294;Non vérifié
-26171;Manas;26;eau potable : SYNDICAT EAUX BAS ROUBION CITELLE;71842;2024;73,6;1,8;5,0;66,0;conforme;320826;3355;51;132;180;Non vérifié
-26172;Manthes;26;eau potable : SME VALLOIRE GALAURE;71836;2024;73,1;2,1;5,6;66,1;conforme;512789;12212;49;142;685;Non vérifié
-26173;Marches;26;eau potable : SIE DE ROCHEFORT - SAMSON;71856;2024;93,5;0,8;12,0;67,4;conforme;79278;3059;10;43;866;Non vérifié
-26174;Margès;26;eau potable : SI DES EAUX DE L'HERBASSE;71857;2024;82,8;1,1;5,2;66,0;conforme;240579;13539;35;78;1067;Non vérifié
-26175;Marignac-en-Diois;26;eau potable : MARIGNAC-EN-DIOIS;71544;2024;88,7;0,4;3,3;65,7;conforme;1752;1752;21;44;231;Non vérifié
-26176;Marsanne;26;eau potable : MARSANNE;71546;2024;93,4;0,5;7,5;66,5;conforme;9855;9855;22;24;1246;Non vérifié
-26177;Marsaz;26;eau potable : EAUX DE LA VEAUNE;71837;2024;88,1;0,9;6,6;66,3;conforme;144868;4943;19;52;714;Non vérifié
-26178;Menglon;26;eau potable : MENGLON;71549;2024;79,7;1,5;6,0;66,2;conforme;15330;15330;78;91;539;Non vérifié
-26179;Mercurol-Veaunes;26;eau potable : EAUX DE LA VEAUNE;71837;2024;88,1;0,9;6,6;66,3;conforme;144868;19495;19;52;2816;Non vérifié
-26180;Mérindol-les-Oliviers;26;eau potable;64593;2024;74,8;3,3;9,9;67,0;conforme;1615186;4702;62;123;208;Non vérifié
-26181;Mévouillon;26;eau potable : MEVOUILLON;71553;2024;69,5;4,4;10,0;67,0;conforme;7548;7548;84;160;246;Non vérifié
-26182;Mirabel-aux-Baronnies;26;eau potable : SIVU DU RIEU;71861;2024;90,8;0,3;3,0;65,6;conforme;10758;8768;16;36;1502;Non vérifié
-26183;Mirabel-et-Blacons;26;eau potable : SMPAS SI DES EAUX;71850;2024;74,5;1,7;5,0;66,0;conforme;139612;24374;56;123;1198;Non vérifié
-26185;Mirmande;26;eau potable : SYNDICAT DES EAUX DROME-RHONE;71841;2024;75,7;2,0;6,3;66,3;conforme;285291;10880;49;116;611;Non vérifié
-26186;Miscon;26;eau potable : MISCON;71559;2024;96,4;0,1;3,1;65,6;conforme;184;184;7;12;73;Non vérifié
-26188;Mollans-sur-Ouvèze;26;eau potable : MOLLANS-SUR-OUVEZE;71563;2024;71,2;4,9;12,2;67,4;conforme;54013;54013;142;147;1043;Non vérifié
-26189;Montauban-sur-l'Ouvèze;26;eau potable : MONTAUBAN-SUR-L'OUVEZE;71565;2024;82,5;0,5;2,2;65,4;conforme;2190;2190;52;82;116;Non vérifié
-26190;Montaulieu;26;eau potable : MONTAULIEU;71567;2024;90,2;0,2;1,7;65,3;non calculable;445;445;14;43;89;Non vérifié
-26191;Montboucher-sur-Jabron;26;eau potable : SYNDICAT EAUX BAS ROUBION CITELLE;71842;2024;73,6;1,8;5,0;66,0;conforme;320826;48306;51;132;2592;Non vérifié
-26192;Montbrison-sur-Lez;26;eau potable : MONTBRISON;71569;2024;71,8;1,2;3,0;65,6;conforme;7446;7446;76;147;267;Non vérifié
-26193;Montbrun-les-Bains;26;eau potable : SIE MONTBRUN-BARRET-REILHANETTE;71847;2022;99,9;0,0;9,5;66,9;conforme;0;0;0;0;442;Sans anomalie apparente
-26194;Montchenu;26;eau potable : SI DES EAUX DE L'HERBASSE;71857;2024;82,8;1,1;5,2;66,0;conforme;240579;7677;35;78;605;Non vérifié
-26195;Montclar-sur-Gervanne;26;eau potable : SMPAS SI DES EAUX;71850;2024;74,5;1,7;5,0;66,0;conforme;139612;3947;56;123;194;Non vérifié
-26196;Montéléger;26;eau potable : SME DU SUD VALENTINOIS;71840;2024;85,2;1,3;6,6;66,3;conforme;244666;19535;32;74;1673;Non vérifié
-26197;Montélier;26;eau potable : SIE DE LA PLAINE DE VALENCE;71839;2024;79,2;2,0;7,6;66,5;conforme;426320;32025;20;97;4323;Non vérifié
-26198;Montélimar;26;eau potable : MONTELIMAR;71576;2024;81,3;4,9;21,3;69,3;conforme;575539;575539;39;88;40595;Non vérifié
-26199;Montferrand-la-Fare;26;eau potable : MONTFERRAND-LA-FARE;71578;2024;93,3;0,1;0,8;65,2;conforme;153;153;16;46;27;Non vérifié
-26200;Montfroc;26;eau potable : MONTFROC;71580;2024;15,9;104,7;19,7;68,9;non conforme;103182;103182;2827;1937;100;Non vérifié
-26201;Montguers;26;eau potable;71582;2024;70,9;2,6;6,3;66,3;conforme;1898;1898;133;150;39;Non vérifié
-26202;Montjoux;26;eau potable : SIEA PAYS DE DIEULEFIT BOURDEAUX;71859;2024;82,6;1,6;7,6;66,5;conforme;64824;4429;38;77;316;Non vérifié
-26203;Montjoyer;26;eau potable : MONTJOYER - CHEF-LIEU;71586;2024;43,3;4,0;3,1;65,6;non conforme;14600;14600;145;473;275;Non vérifié
-26204;Montlaur-en-Diois;26;eau potable : MONTLAUR-EN-DIOIS;71588;2024;95,0;0,0;2,7;65,5;conforme;0;0;0;0;134;Non vérifié
-26205;Montmaur-en-Diois;26;eau potable : MONTMAUR-EN-DIOIS;71590;2024;93,6;0,1;1,3;65,3;conforme;542;542;15;28;102;Non vérifié
-26206;Montmeyran;26;eau potable : SME DU SUD VALENTINOIS;71840;2024;85,2;1,3;6,6;66,3;conforme;244666;34562;32;74;2960;Non vérifié
-26207;Montmiral;26;eau potable : SI DES EAUX DE L'HERBASSE;71857;2024;82,8;1,1;5,2;66,0;conforme;240579;8235;35;78;649;Non vérifié
-26208;Montoison;26;eau potable : SME DU SUD VALENTINOIS;71840;2024;85,2;1,3;6,6;66,3;conforme;244666;22489;32;74;1926;Non vérifié
-26209;Montréal-les-Sources;26;eau potable : MONTREAL-LES-SOURCES;71595;2024;81,4;2,5;10,9;67,2;conforme;1369;1369;144;84;26;Non vérifié
-26210;Valherbasse;26;eau potable : SI DES EAUX DE L'HERBASSE;71857;2024;82,8;1,1;5,2;66,0;conforme;240579;12752;35;78;1005;Non vérifié
-26211;Montségur-sur-Lauzon;26;eau potable : MONTSEGUR-SUR-LAUZON;71599;2024;70,4;2,0;4,8;66,0;conforme;27010;27010;54;153;1359;Non vérifié
-26213;Moras-en-Valloire;26;eau potable : SME VALLOIRE GALAURE;71836;2024;73,1;2,1;5,6;66,1;conforme;512789;12159;49;142;682;Non vérifié
-26214;Mornans;26;eau potable : SIE DU HAUT ROUBION;71849;2024;60,4;2,2;3,4;65,7;non conforme;82950;4883;176;250;76;Non vérifié
-26215;La Motte-Chalancon;26;eau potable : LA MOTTE-CHALANCON;71477;2024;67,8;5,7;11,9;67,4;conforme;27983;27983;194;175;395;Non vérifié
-26216;Saint-Jean-de-Galaure;26;eau potable : SME VALLOIRE GALAURE;71836;2024;73,1;2,1;5,6;66,1;conforme;512789;22285;49;142;1250;Non vérifié
-26217;La Motte-Fanjas;26;eau potable : LA MOTTE-FANJAS;71480;2024;100,0;0,0;1,7;65,3;conforme;0;0;0;0;198;Non vérifié
-26218;Mours-Saint-Eusèbe;26;eau potable : ROMANS SUR ISERE  MOURS;71679;2024;85,5;4,1;24,2;69,8;conforme;402738;37383;30;62;3424;Non vérifié
-26219;Mureils;26;eau potable : SME VALLOIRE GALAURE;71836;2020;74,5;2,1;6,0;66,2;conforme;510489;8122;48;132;465;Sans anomalie apparente
-26220;Nyons;26;eau potable : NYONS;71885;2024;70,7;6,5;15,7;68,1;conforme;164153;164153;66;151;6816;Non vérifié
-26221;Omblèze;26;eau potable : OMBLEZE;71609;2024;88,7;0,3;2,0;65,4;conforme;810;810;40;55;55;Non vérifié
-26223;Oriol-en-Royans;26;eau potable : ORIOL-EN-ROYANS;71613;2024;94,8;0,3;5,8;66,2;conforme;1424;1424;8;20;518;Non vérifié
-26224;Ourches;26;eau potable : SME DU SUD VALENTINOIS;71840;2024;85,2;1,3;6,6;66,3;conforme;244666;3398;32;74;291;Non vérifié
-26225;Parnans;26;eau potable : SI DES EAUX DE L'HERBASSE;71857;2024;82,8;1,1;5,2;66,0;conforme;240579;8895;35;78;701;Non vérifié
-26226;Le Pègue;26;eau potable : LE PEGUE;71508;2024;63,3;3,2;5,6;66,1;non conforme;9531;9531;73;210;358;Non vérifié
-26227;Pelonne;26;eau potable : PELONNE;71617;2024;83,3;0,2;1,0;65,2;conforme;110;110;13;77;23;Non vérifié
-26228;Pennes-le-Sec;26;eau potable : PENNES-LE-SEC;71619;2023;83,2;0,8;3,8;65,8;conforme;584;584;76;76;21;Sans anomalie apparente
-26229;La Penne-sur-l'Ouvèze;26;eau potable : LA PENNE SUR L'OUVEZE;71481;2024;72,0;1,6;4,0;65,8;conforme;3668;3668;123;144;82;Non vérifié
-26231;Peyrins;26;eau potable : SI DES EAUX DE L'HERBASSE;71857;2024;82,8;1,1;5,2;66,0;conforme;240579;33156;35;78;2613;Non vérifié
-26232;Peyrus;26;eau potable : PEYRUS;317194;2024;94,9;8,0;149,0;85,0;conforme;52560;52560;250;532;576;Non vérifié
-26233;Piégon;26;eau potable : SIVU DU RIEU;71861;2024;90,8;0,3;3,0;65,6;conforme;10758;1401;16;36;240;Non vérifié
-26234;Piégros-la-Clastre;26;eau potable : SMPAS SI DES EAUX;71850;2024;74,5;1,7;5,0;66,0;conforme;139612;17945;56;123;882;Non vérifié
-26235;Pierrelatte;26;eau potable : PIERRELATTE;71625;2024;74,9;6,2;18,5;68,7;conforme;231052;231052;46;122;13756;Non vérifié
-26236;Pierrelongue;26;eau potable : PIERRELONGUE;71627;2024;97,1;0,2;5,6;66,1;conforme;358;358;4;13;231;Non vérifié
-26238;Les Pilles;26;eau potable : LES PILLES;71522;2024;90,8;0,5;4,9;66,0;conforme;1433;1433;18;39;217;Non vérifié
-26239;Plaisians;26;eau potable : PLAISIANS;71629;2024;56,3;2,8;3,6;65,7;non conforme;7645;7645;100;287;209;Non vérifié
-26240;Plan-de-Baix;26;eau potable : PLAN-DE-BAIX;71631;2024;72,3;0,9;2,3;65,5;conforme;4678;4678;79;146;162;Non vérifié
-26241;Le Poët-Célard;26;eau potable : SIE DU HAUT ROUBION;71849;2024;60,4;2,2;3,4;65,7;non conforme;82950;9509;176;250;148;Non vérifié
-26242;Le Poët-en-Percip;26;eau potable : LE POET-EN-PERCIP;71511;2024;100,0;0,0;1,4;65,3;conforme;0;0;0;0;25;Non vérifié
-26243;Le Poët-Laval;26;eau potable : SIEA PAYS DE DIEULEFIT BOURDEAUX;71859;2024;82,6;1,6;7,6;66,5;conforme;64824;13371;38;77;954;Non vérifié
-26244;Le Poët-Sigillat;26;eau potable : LE POET-SIGILLAT;71513;2024;50,5;1,2;1,3;65,3;non conforme;5344;5344;128;345;114;Non vérifié
-26246;Ponet-et-Saint-Auban;26;eau potable : PONET ET SAINT-AUBAN;71635;2024;74,8;1,6;4,9;66,0;conforme;2914;2914;57;120;141;Non vérifié
-26247;Ponsas;26;eau potable : EAUX DE LA VEAUNE;71837;2024;88,1;0,9;6,6;66,3;conforme;144868;3621;19;52;523;Non vérifié
-26248;Pontaix;26;eau potable : PONTAIX;71641;2024;44,7;9,2;7,4;66,5;non conforme;8932;8932;135;453;181;Non vérifié
-26249;Pont-de-Barret;26;eau potable : SYNDICAT EAUX BAS ROUBION CITELLE;71842;2024;73,6;1,8;5,0;66,0;conforme;320826;12244;51;132;657;Non vérifié
-26250;Pont-de-l'Isère;26;eau potable : PONT D'ISERE LA ROCHE DE GLUN;199598;2024;69,8;4,6;10,6;67,1;conforme;161704;75089;56;161;3681;Non vérifié
-26251;Portes-en-Valdaine;26;eau potable : PORTES-EN-VALDAINE;71643;2024;77,5;;;;non calculable;;;;;459;Non vérifié
-26252;Portes-lès-Valence;26;eau potable : PORTES LES VALENCE;71870;2024;87,9;2,5;18,2;68,6;conforme;76011;76011;20;51;10477;Non vérifié
-26253;Poyols;26;eau potable : POYOLS;71646;2024;35,8;4,9;2,8;65,6;non conforme;5813;5813;162;650;98;Non vérifié
-26254;Pradelle;26;eau potable : PRADELLE;71648;2024;32,5;4,0;2,0;65,4;non conforme;6030;6030;635;750;26;Non vérifié
-26255;Les Prés;26;eau potable : LES PRES;71524;2024;96,4;0,1;1,5;65,3;conforme;123;123;11;24;31;Non vérifié
-26256;Propiac;26;eau potable;64593;2024;74,8;3,3;9,9;67,0;conforme;1615186;2961;62;123;131;Non vérifié
-26257;Puygiron;26;eau potable : SYNDICAT EAUX BAS ROUBION CITELLE;71842;2024;73,6;1,8;5,0;66,0;conforme;320826;8032;51;132;431;Non vérifié
-26258;Puy-Saint-Martin;26;eau potable : SYNDICAT EAUX BAS ROUBION CITELLE;71842;2024;73,6;1,8;5,0;66,0;conforme;320826;15412;51;132;827;Non vérifié
-26259;Ratières;26;eau potable : SME VALLOIRE GALAURE;71836;2024;73,1;2,1;5,6;66,1;conforme;512789;4903;49;142;275;Non vérifié
-26261;Réauville;26;eau potable : REAUVILLE;71654;2024;84,3;0,8;4,1;65,8;conforme;3559;3559;25;72;389;Non vérifié
-26262;Recoubeau-Jansac;26;eau potable : RECOUBEAU-JANSAC;71656;2024;80,0;2,6;11,6;67,3;non calculable;9964;9964;83;92;330;Non vérifié
-26263;Reilhanette;26;eau potable : SIE MONTBRUN-BARRET-REILHANETTE;71847;2022;99,9;0,0;9,5;66,9;conforme;0;0;0;0;107;Sans anomalie apparente
-26264;Rémuzat;26;eau potable : REMUZAT;71659;2024;75,2;7,8;23,6;69,7;conforme;60641;60641;522;120;318;Non vérifié
-26266;Rimon-et-Savel;26;eau potable : RIMON ET SAVAL;71661;2024;77,0;0,7;2,2;65,4;conforme;2121;2121;264;117;22;Non vérifié
-26268;Rochebaudin;26;eau potable : SYNDICAT EAUX BAS ROUBION CITELLE;71842;2024;73,6;1,8;5,0;66,0;conforme;320826;2199;51;132;118;Non vérifié
-26269;Rochebrune;26;eau potable : ROCHEBRUNE;71669;2024;82,2;0,4;1,7;65,3;conforme;1358;1358;76;87;49;Non vérifié
-26270;Rochechinard;26;eau potable : ROCHECHINARD;71671;2024;86,7;0,7;4,5;65,9;conforme;3007;3007;63;57;131;Non vérifié
-26271;La Roche-de-Glun;26;eau potable : PONT D'ISERE LA ROCHE DE GLUN;199598;2024;69,8;4,6;10,6;67,1;conforme;161704;72805;56;161;3569;Non vérifié
-26272;Rochefort-en-Valdaine;26;eau potable;71673;2024;75,7;1,0;3,3;65,7;conforme;5840;5840;45;112;353;Non vérifié
-26273;Rochefort-Samson;26;eau potable : SIE DE ROCHEFORT - SAMSON;71856;2024;93,5;0,8;12,0;67,4;conforme;79278;3829;10;43;1084;Non vérifié
-26275;Rochegude;26;eau potable;64593;2024;74,8;3,3;9,9;67,0;conforme;1615186;37932;62;123;1678;Non vérifié
-26277;La Roche-sur-Grane;26;eau potable : LA ROCHE-SUR-GRANE;71486;2024;81,6;0,5;2,2;65,4;conforme;3358;3358;49;85;189;Non vérifié
-26278;La Roche-sur-le-Buis;26;eau potable : LA-ROCHE-SUR-LE-BUIS;71488;2024;56,5;3,7;4,9;66,0;non conforme;9454;9454;92;278;281;Non vérifié
-26279;La Rochette-du-Buis;26;eau potable : LA ROCHETTE DU BUIS;71490;2024;100,0;0,0;6,9;66,4;conforme;0;0;0;0;56;Non vérifié
-26281;Romans-sur-Isère;26;eau potable : ROMANS SUR ISERE  MOURS;71679;2024;85,5;4,1;24,2;69,8;conforme;402738;365355;30;62;33464;Non vérifié
-26282;Romeyer;26;eau potable : ROMEYER;71681;2024;89,8;0,6;5,1;66,0;conforme;1095;1095;13;43;233;Non vérifié
-26283;Rottier;26;eau potable : ROTTIER;71683;2024;29,9;8,5;3,6;65,7;non conforme;5864;5864;643;860;25;Non vérifié
-26284;Roussas;26;eau potable : SIE DE VALAURIE ROUSSAS;71845;2024;57,3;3,6;4,9;66,0;non conforme;65700;23551;158;269;409;Non vérifié
-26285;Rousset-les-Vignes;26;eau potable;71686;2024;92,9;0,8;10,3;67,1;conforme;949;949;10;28;271;Non vérifié
-26287;Roynac;26;eau potable : SYNDICAT EAUX BAS ROUBION CITELLE;71842;2024;73,6;1,8;5,0;66,0;conforme;320826;8890;51;132;477;Non vérifié
-26288;Sahune;26;eau potable : SAHUNE;71691;2024;63,8;1,9;3,3;65,7;non conforme;11096;11096;101;210;301;Non vérifié
-26289;Saillans (avant 2025);26;eau potable : SMPAS SI DES EAUX;71850;2024;74,5;1,7;5,0;66,0;conforme;139612;29705;56;123;1460;Non vérifié
-26290;Saint-Agnan-en-Vercors;26;eau potable : SI EAUX ET ASSAINISSEMENT DU VERCORS;71853;2024;55,4;3,1;3,8;65,8;non conforme;79250;25768;184;296;384;Non vérifié
-26291;Saint-Andéol;26;eau potable : SIE VALLEE DE QUINT;71851;2024;97,3;0,1;2,4;65,5;conforme;1020;287;10;15;82;Non vérifié
-26292;Saint-Auban-sur-l'Ouvèze;26;eau potable;71696;2024;69,9;2,2;5,1;66,0;conforme;18710;18710;263;156;195;Non vérifié
-26293;Saint-Avit;26;eau potable : SME VALLOIRE GALAURE;71836;2024;73,1;2,1;5,6;66,1;conforme;512789;5651;49;142;317;Non vérifié
-26294;Saint-Bardoux;26;eau potable : EAUX DE LA VEAUNE;71837;2024;88,1;0,9;6,6;66,3;conforme;144868;4147;19;52;599;Non vérifié
-26295;Saint-Barthélemy-de-Vals;26;eau potable : SME VALLOIRE GALAURE;71836;2024;73,1;2,1;5,6;66,1;conforme;512789;33784;49;142;1895;Non vérifié
-26296;Saint-Benoit-en-Diois;26;eau potable : SAINT-BENOIS-EN-DIOIS;71701;2024;85,9;0,7;4,2;65,8;conforme;675;675;60;61;31;Non vérifié
-26298;Saint-Christophe-et-le-Laris;26;eau potable : SI DES EAUX DE L'HERBASSE;71857;2024;82,8;1,1;5,2;66,0;conforme;240579;5380;35;78;424;Non vérifié
-26299;Sainte-Croix;26;eau potable : SAINTE-CROIX;71758;2024;55,1;2,5;3,1;65,6;non conforme;4955;4955;131;296;104;Non vérifié
-26300;Saint-Dizier-en-Diois;26;eau potable : SAINT-DIZIER-EN-DIOIS;71706;2024;93,0;0,1;1,0;65,2;conforme;181;181;11;36;45;Non vérifié
-26301;Saint-Donat-sur-l'Herbasse;26;eau potable : EAUX DE LA VEAUNE;71837;2024;88,1;0,9;6,6;66,3;conforme;144868;29028;19;52;4193;Non vérifié
-26302;Sainte-Eulalie-en-Royans;26;eau potable : SAINTE-EULALIE-EN-ROYANS;71760;2024;70,2;1,9;4,4;65,9;conforme;9362;9362;48;158;538;Non vérifié
-26303;Sainte-Euphémie-sur-Ouvèze;26;eau potable : SAINTE-EUPHEMIE SUR OUVEZE;71762;2024;73,2;1,2;3,3;65,7;conforme;1708;1708;66;133;71;Non vérifié
-26304;Saint-Ferréol-Trente-Pas;26;eau potable : SIE DU BENTRIX;71848;2024;51,6;3,2;3,4;65,7;non conforme;44851;13694;172;343;218;Non vérifié
-26305;Saint-Gervais-sur-Roubion;26;eau potable : SYNDICAT EAUX BAS ROUBION CITELLE;71842;2024;73,6;1,8;5,0;66,0;conforme;320826;20332;51;132;1091;Non vérifié
-26306;Sainte-Jalle;26;eau potable : SAINT-JALLE;71764;2024;62,6;1,7;2,8;65,6;non conforme;15606;15606;130;224;330;Non vérifié
-26307;Saint-Jean-en-Royans;26;eau potable : ST-JEAN-EN-ROYANS;71712;2024;60,3;16,8;25,6;70,1;non conforme;283728;283728;270;240;2874;Non vérifié
-26308;Saint-Julien-en-Quint;26;eau potable : SIE VALLEE DE QUINT;71851;2024;97,3;0,1;2,4;65,5;conforme;1020;599;10;15;171;Non vérifié
-26309;Saint-Julien-en-Vercors;26;eau potable : ST-JULIEN-EN-VERCORS;71715;2024;66,3;2,6;5,2;66,0;conforme;15184;15184;158;183;264;Non vérifié
-26310;Saint-Laurent-d'Onay;26;eau potable : SI DES EAUX DE L'HERBASSE;71857;2024;82,8;1,1;5,2;66,0;conforme;240579;2005;35;78;158;Non vérifié
-26311;Saint-Laurent-en-Royans;26;eau potable : ST-LAURENT-ROYANS;71718;2024;76,0;0,9;2,8;65,6;conforme;25952;25952;52;118;1377;Non vérifié
-26312;Saint-Marcel-lès-Sauzet;26;eau potable : SYNDICAT EAUX BAS ROUBION CITELLE;71842;2024;73,6;1,8;5,0;66,0;conforme;320826;22886;51;132;1228;Non vérifié
-26313;Saint-Marcel-lès-Valence;26;eau potable : SIE DE LA PLAINE DE VALENCE;71839;2024;79,2;2,0;7,6;66,5;conforme;426320;45751;20;97;6176;Non vérifié
-26314;Saint-Martin-d'Août;26;eau potable : SME VALLOIRE GALAURE;71836;2024;73,1;2,1;5,6;66,1;conforme;512789;7006;49;142;393;Non vérifié
-26315;Saint-Martin-en-Vercors;26;eau potable : SAINT-MARTIN-EN-VERCORS;71722;2024;83,4;0,8;4,1;65,8;conforme;7066;7066;44;72;437;Non vérifié
-26316;Saint-Martin-le-Colonel;26;eau potable : SAINT-MARTIN-LE-COLONEL;71724;2024;87,4;0,4;2,8;65,6;conforme;1343;1343;16;52;224;Non vérifié
-26317;Saint-Maurice-sur-Eygues;26;eau potable : SAINT-MAURICE SUR EYGUES;71726;2024;76,1;2,6;8,3;66,7;conforme;13286;13286;46;115;787;Non vérifié
-26319;Saint-Michel-sur-Savasse;26;eau potable : SI DES EAUX DE L'HERBASSE;71857;2024;82,8;1,1;5,2;66,0;conforme;240579;7347;35;78;579;Non vérifié
-26320;Saint-Nazaire-en-Royans;26;eau potable : SAINT-NAZAIRE-EN-ROYANS;71731;2024;67,7;3,2;6,6;66,3;conforme;17987;17987;60;177;826;Non vérifié
-26321;Saint-Nazaire-le-Désert;26;eau potable : ST-NAZAIRE-LE-DESERT;71733;2024;95,3;0,4;8,6;66,7;conforme;1898;1898;25;17;206;Non vérifié
-26322;Saint-Pantaléon-les-Vignes;26;eau potable : SAINT-PANTALEON-LES-VIGNES;71735;2024;95,0;0,4;8,2;66,6;conforme;832;832;6;18;393;Non vérifié
-26323;Saint-Paul-lès-Romans;26;eau potable : SI DES EAUX DE L'HERBASSE;71857;2024;82,8;1,1;5,2;66,0;conforme;240579;24312;35;78;1916;Non vérifié
-26324;Saint-Paul-Trois-Châteaux;26;eau potable : ST-PAUL TROIS CHATEAUX;71739;2024;85,2;2,8;16,1;68,2;conforme;102997;102997;31;64;8981;Non vérifié
-26325;Saint-Rambert-d'Albon;26;eau potable : SAINT-RAMBERT D'ALBON;71741;2024;71,9;6,4;16,4;68,3;conforme;130349;130349;51;143;7001;Non vérifié
-26326;Saint-Restitut;26;eau potable : SAINT-RESTITUT;202774;2024;78,6;2,3;8,5;66,7;conforme;25764;25764;49;98;1432;Non vérifié
-26327;Saint-Roman;26;eau potable : SAINT-ROMAN;71745;2024;0,0;2,6;0,0;65,0;non conforme;10249;10249;119;;235;Non vérifié
-26329;Saint-Sauveur-Gouvernet;26;eau potable : SAINT-SAUVEUR-GOUVERNET;71749;2024;100,0;0,0;1,4;65,3;conforme;0;0;0;0;188;Non vérifié
-26330;Saint-Sorlin-en-Valloire;26;eau potable : SME VALLOIRE GALAURE;71836;2024;73,1;2,1;5,6;66,1;conforme;512789;40131;49;142;2251;Non vérifié
-26331;Saint-Thomas-en-Royans;26;eau potable;71752;2024;75,9;2,1;6,5;66,3;conforme;12333;12333;59;118;569;Non vérifié
-26332;Saint-Uze;26;eau potable : SME VALLOIRE GALAURE;71836;2024;73,1;2,1;5,6;66,1;conforme;512789;38134;49;142;2139;Non vérifié
-26333;Saint-Vallier;26;eau potable : SAINT-VALLIER-SUR-RHONE;71755;2024;70,4;8,4;19,9;69,0;conforme;112676;112676;77;154;4027;Non vérifié
-26334;Salettes;26;eau potable : SYNDICAT EAUX BAS ROUBION CITELLE;71842;2024;73,6;1,8;5,0;66,0;conforme;320826;2758;51;132;148;Non vérifié
-26335;Salles-sous-Bois;26;eau potable : SALLE-SOUS-BOIS;71767;2024;91,3;2,4;24,7;69,9;conforme;1051;1051;13;35;222;Non vérifié
-26336;Saou;26;eau potable : SAOU;71769;2024;91,2;0,4;3,7;65,7;conforme;4170;4170;19;39;590;Non vérifié
-26337;Saulce-sur-Rhône;26;eau potable : SYNDICAT DES EAUX DROME-RHONE;71841;2024;75,7;2,0;6,3;66,3;conforme;285291;33689;49;116;1892;Non vérifié
-26338;Sauzet;26;eau potable : SYNDICAT EAUX BAS ROUBION CITELLE;71842;2024;73,6;1,8;5,0;66,0;conforme;320826;35074;51;132;1882;Non vérifié
-26339;Savasse;26;eau potable : SYNDICAT DES EAUX DROME-RHONE;71841;2024;75,7;2,0;6,3;66,3;conforme;285291;29042;49;116;1631;Non vérifié
-26340;Séderon;26;eau potable : SEDERON;71773;2024;82,2;15,9;73,4;79,7;conforme;8589;8589;99;79;237;Non vérifié
-26341;Serves-sur-Rhône;26;eau potable : EAUX DE LA VEAUNE;71837;2024;88,1;0,9;6,6;66,3;conforme;144868;5414;19;52;782;Non vérifié
-26342;Solérieux;26;eau potable;64593;2024;74,8;3,3;9,9;67,0;conforme;1615186;7415;62;123;328;Non vérifié
-26343;Souspierre;26;eau potable : SYNDICAT EAUX BAS ROUBION CITELLE;71842;2024;73,6;1,8;5,0;66,0;conforme;320826;2013;51;132;108;Non vérifié
-26344;Soyans;26;eau potable : SOYANS;71778;2024;65,2;2,8;5,3;66,1;non conforme;17272;17272;117;192;405;Non vérifié
-26345;Suze-la-Rousse;26;eau potable;64593;2024;74,8;3,3;9,9;67,0;conforme;1615186;46952;62;123;2077;Non vérifié
-26347;Tain-l'Hermitage;26;eau potable : Tain-l'Hermitage;71783;2024;87,4;4,1;28,4;70,7;conforme;64694;64694;30;53;5915;Non vérifié
-26348;Taulignan;26;eau potable : TAULIGNAN;71785;2024;72,2;2,6;6,8;66,4;conforme;37865;37865;64;139;1627;Non vérifié
-26350;Teyssières;26;eau potable;71789;2024;78,3;0,2;0,9;65,2;conforme;604;604;25;82;66;Non vérifié
-26351;Les Tonils;26;eau potable : SIEA PAYS DE DIEULEFIT BOURDEAUX;71859;2024;82,6;1,6;7,6;66,5;conforme;64824;224;38;77;16;Non vérifié
-26352;La Touche;26;eau potable : SYNDICAT EAUX BAS ROUBION CITELLE;71842;2024;73,6;1,8;5,0;66,0;conforme;320826;4845;51;132;260;Non vérifié
-26353;Les Tourrettes;26;eau potable : SYNDICAT DES EAUX DROME-RHONE;71841;2024;75,7;2,0;6,3;66,3;conforme;285291;19355;49;116;1087;Non vérifié
-26355;Triors;26;eau potable : SI DES EAUX DE L'HERBASSE;71857;2024;82,8;1,1;5,2;66,0;conforme;240579;8032;35;78;633;Non vérifié
-26356;Truinas;26;eau potable : SIE DU HAUT ROUBION;71849;2024;60,4;2,2;3,4;65,7;non conforme;82950;9317;176;250;145;Non vérifié
-26357;Tulette;26;eau potable;64593;2024;74,8;3,3;9,9;67,0;conforme;1615186;45075;62;123;1994;Non vérifié
-26358;Upie;26;eau potable : SME DU SUD VALENTINOIS;71840;2024;85,2;1,3;6,6;66,3;conforme;244666;18168;32;74;1556;Non vérifié
-26359;Vachères-en-Quint;26;eau potable : SIE VALLEE DE QUINT;71851;2024;97,3;0,1;2,4;65,5;conforme;1020;133;10;15;38;Non vérifié
-26360;Valaurie;26;eau potable : SIE DE VALAURIE ROUSSAS;71845;2024;57,3;3,6;4,9;66,0;non conforme;65700;42149;158;269;732;Non vérifié
-26361;Valdrôme;26;eau potable : VALDROME;71802;2024;60,0;7,7;11,5;67,3;non conforme;14305;14305;295;244;133;Non vérifié
-26362;Valence;26;eau potable : EAU POTABLE VALENCE;71804;2024;86,2;6,4;39,9;73,0;conforme;696128;696128;30;68;64458;Non vérifié
-26363;Valouse;26;eau potable : VALOUSE;71806;2024;87,9;0,3;2,2;65,4;conforme;756;756;50;50;41;Non vérifié
-26364;Vassieux-en-Vercors;26;eau potable : VASSIEUX-EN-VERCORS;71808;2022;46,6;4,1;3,6;65,7;non conforme;42291;42291;340;418;341;Sans anomalie apparente
-26365;Vaunaveys-la-Rochette;26;eau potable : VAUNAVEYS-LA-ROCHETTE;71810;2024;79,2;0,6;2,1;65,4;conforme;9886;9886;43;103;625;Non vérifié
-26367;Venterol;26;eau potable : VENTEROL;71813;2024;58,0;7,2;2,6;65,5;non conforme;96842;96842;425;1027;625;Non vérifié
-26368;Vercheny;26;eau potable;71815;2024;71,9;2,4;6,1;66,2;conforme;11826;11826;73;144;443;Non vérifié
-26369;Verclause;26;eau potable : VERCLAUSE;71817;2024;97,3;0,4;14,5;67,9;conforme;1023;1023;41;10;68;Non vérifié
-26370;Vercoiran;26;eau potable : VERCOIRAN;71819;2024;85,8;0,4;2,6;65,5;conforme;885;885;19;56;130;Non vérifié
-26372;Vers-sur-Méouge;26;eau potable : VERS-SUR-MEOUGE;71822;2024;51,6;0,7;0,8;65,2;non conforme;2555;2555;167;321;42;Non vérifié
-26373;Vesc;26;eau potable : VESC;71824;2023;67,5;2,4;5,1;66,0;conforme;14016;14016;147;193;261;Sans anomalie apparente
-26375;Villefranche-le-Château;26;eau potable : VILLEFRANCHE-LE-CHATEAU;71828;2024;20,0;5,2;1,3;65,3;non conforme;7326;7326;1004;1469;20;Non vérifié
-26376;Villeperdrix;26;eau potable : VILLEPERDRIX;71830;2024;50,4;4,0;4,0;65,8;non conforme;11914;11914;317;362;103;Non vérifié
-26377;Vinsobres;26;eau potable : VINSOBRES;71832;2024;77,9;3,6;12,9;67,6;conforme;18961;18961;50;102;1034;Non vérifié
-26378;Volvent;26;eau potable : VOLVENT;71834;2024;100,0;0,0;2,0;65,4;conforme;0;0;0;0;37;Non vérifié
-26379;Granges-les-Beaumont;26;eau potable : EAUX DE LA VEAUNE;71837;2024;88,1;0,9;6,6;66,3;conforme;144868;6570;19;52;949;Non vérifié
-26380;Gervans;26;eau potable : EAUX DE LA VEAUNE;71837;2024;88,1;0,9;6,6;66,3;conforme;144868;3773;19;52;545;Non vérifié
-26381;Jaillans;26;eau potable : SIE DE ROCHEFORT - SAMSON;71856;2024;93,5;0,8;12,0;67,4;conforme;79278;3564;10;43;1009;Non vérifié
-26382;Saint-Vincent-la-Commanderie;26;eau potable : SAINT-VINCENT CHARPEY;71852;2024;59,6;3,3;4,9;66,0;non conforme;69295;20189;87;248;636;Non vérifié
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement);Donnée suspecte (voir LISEZMOI)
+26001;Solaure en Diois;26;eau potable : SOLAURE EN DIOIS;71269;2024;68,0;1,6;3,5;65,7;conforme;9811;9811;59;169;456;Non vérifié;non
+26002;Albon;26;eau potable : SME VALLOIRE GALAURE;71836;2024;73,1;2,1;5,6;66,1;conforme;512789;34622;49;142;1942;Non vérifié;non
+26003;Aleyrac;26;eau potable : SIEA PAYS DE DIEULEFIT BOURDEAUX;71859;2024;82,6;1,6;7,6;66,5;conforme;64824;701;38;77;50;Non vérifié;non
+26004;Alixan;26;eau potable : SIE DE LA PLAINE DE VALENCE;71839;2024;79,2;2,0;7,6;66,5;conforme;426320;20216;20;97;2729;Non vérifié;non
+26005;Allan;26;eau potable : Allan;344074;2024;85,4;1,0;6,0;66,2;conforme;19345;19345;27;61;1980;Non vérifié;non
+26006;Allex;26;eau potable : ALLEX;71277;2024;77,9;2,4;8,5;66,7;conforme;44177;44177;45;103;2698;Non vérifié;non
+26007;Ambonil;26;eau potable : SME DU SUD VALENTINOIS;71840;2024;85,2;1,3;6,6;66,3;conforme;244666;1238;32;74;106;Non vérifié;non
+26008;Ancône;26;eau potable : ANCONE;71279;2024;100,0;0,0;10,4;67,1;conforme;0;0;0;0;1338;Non vérifié;non
+26009;Andancette;26;eau potable : SME VALLOIRE GALAURE;71836;2024;73,1;2,1;5,6;66,1;conforme;512789;23711;49;142;1330;Non vérifié;non
+26010;Anneyron;26;eau potable : SME VALLOIRE GALAURE;71836;2024;73,1;2,1;5,6;66,1;conforme;512789;74325;49;142;4169;Non vérifié;non
+26011;Aouste-sur-Sye;26;eau potable : SMPAS SI DES EAUX;71850;2024;74,5;1,7;5,0;66,0;conforme;139612;55605;56;123;2733;Non vérifié;non
+26013;Arpavon;26;eau potable;71286;2024;24,6;6,2;2,0;65,4;non conforme;6789;6789;255;1120;73;Non vérifié;non
+26014;Arthémonay;26;eau potable : SI DES EAUX DE L'HERBASSE;71857;2024;82,8;1,1;5,2;66,0;conforme;240579;7778;35;78;613;Non vérifié;non
+26016;Aubres;26;eau potable : AUBRES;71291;2024;75,1;2,0;5,9;66,2;conforme;8578;8578;56;124;420;Non vérifié;non
+26017;Aucelon;26;eau potable : AUCELON;71293;2024;100,0;0,0;1,3;65,3;conforme;0;0;0;0;17;Non vérifié;non
+26018;Aulan;26;eau potable : AULAN;71295;2024;99,2;0,0;1,2;65,2;conforme;0;0;0;0;8;Non vérifié;non
+26019;Aurel;26;eau potable : AUREL;71297;2024;84,2;1,1;6,0;66,2;conforme;6544;6544;66;66;271;Non vérifié;non
+26020;La Répara-Auriples;26;eau potable : REPARA-AURIPLES;71483;2024;76,9;0,6;1,9;65,4;conforme;4708;1020;11;115;244;Non vérifié;non
+26021;Autichamp;26;eau potable : AUTICHAMP;71299;2024;88,3;0,9;6,8;66,4;conforme;2979;2979;54;74;151;Non vérifié;non
+26022;Ballons;26;eau potable : BALLONS;71301;2024;0,0;8,9;0,0;65,0;non conforme;12669;12669;394;0;88;Non vérifié;oui
+26023;Barbières;26;eau potable : BARBIERES - BESAYES;71855;2024;77,5;2,0;7,1;66,4;conforme;35916;16336;39;103;1143;Non vérifié;non
+26024;Barcelonne;26;eau potable : BARCELONNE;71304;2024;76,7;1,1;3,8;65,8;conforme;5782;5782;47;107;335;Non vérifié;non
+26025;Barnave;26;eau potable : BARNAVE;71306;2024;99,0;0,1;5,3;66,1;conforme;182;182;2;7;217;Non vérifié;non
+26026;Barret-de-Lioure;26;eau potable : SIE MONTBRUN-BARRET-REILHANETTE;71847;2022;99,9;0,0;9,5;66,9;conforme;0;0;0;0;72;Sans anomalie apparente;non
+26027;Barsac;26;eau potable : BARSAC;71309;2024;94,9;0,3;5,1;66,0;conforme;419;419;7;22;154;Non vérifié;non
+26028;Bathernay;26;eau potable : SI DES EAUX DE L'HERBASSE;71857;2024;82,8;1,1;5,2;66,0;conforme;240579;2804;35;78;221;Non vérifié;non
+26030;La Bâtie-des-Fonds;26;eau potable;71461;2024;100,0;0,0;0,6;65,1;conforme;0;0;0;0;6;Non vérifié;non
+26031;La Bâtie-Rolland;26;eau potable : SYNDICAT EAUX BAS ROUBION CITELLE;71842;2024;73,6;1,8;5,0;66,0;conforme;320826;20258;51;132;1087;Non vérifié;non
+26032;La Baume-Cornillane;26;eau potable : SME DU SUD VALENTINOIS;71840;2024;85,2;1,3;6,6;66,3;conforme;244666;5324;32;74;456;Non vérifié;non
+26033;La Baume-de-Transit;26;eau potable;64593;2024;74,8;3,3;9,9;67,0;conforme;1615186;21294;62;123;942;Non vérifié;non
+26034;La Baume-d'Hostun;26;eau potable : LA BAUME D'HOSTUN;71466;2024;88,5;0,8;6,1;66,2;conforme;4292;4292;20;48;592;Non vérifié;non
+26035;Beaufort-sur-Gervanne;26;eau potable;71312;2024;80,1;0,8;3,1;65,6;conforme;7840;7840;43;95;494;Non vérifié;non
+26036;Beaumont-en-Diois;26;eau potable : BEAUMONT-EN-DIOIS;71314;2024;78,7;0,8;3,0;65,6;conforme;2377;2377;63;96;103;Non vérifié;non
+26037;Beaumont-lès-Valence;26;eau potable : SME DU SUD VALENTINOIS;71840;2024;85,2;1,3;6,6;66,3;conforme;244666;50640;32;74;4337;Non vérifié;non
+26038;Beaumont-Monteux;26;eau potable : EAUX DE LA VEAUNE;71837;2024;88,1;0,9;6,6;66,3;conforme;144868;9651;19;52;1394;Non vérifié;non
+26039;Beauregard-Baret;26;eau potable : SIE DE ROCHEFORT - SAMSON;71856;2024;93,5;0,8;12,0;67,4;conforme;79278;3197;10;43;905;Non vérifié;non
+26040;Beaurières;26;eau potable : BEAURIERES;71318;2024;53,0;4,0;4,5;65,9;non conforme;13140;13140;439;322;82;Non vérifié;non
+26041;Beausemblant;26;eau potable : SME VALLOIRE GALAURE;71836;2024;73,1;2,1;5,6;66,1;conforme;512789;26296;49;142;1475;Non vérifié;non
+26042;Beauvallon;26;eau potable : SME DU SUD VALENTINOIS;71840;2024;85,2;1,3;6,6;66,3;conforme;244666;19371;32;74;1659;Non vérifié;non
+26043;Beauvoisin;26;eau potable;64593;2024;74,8;3,3;9,9;67,0;conforme;1615186;3187;62;123;141;Non vérifié;non
+26045;La Bégude-de-Mazenc;26;eau potable : SYNDICAT EAUX BAS ROUBION CITELLE;71842;2024;73,6;1,8;5,0;66,0;conforme;320826;33154;51;132;1779;Non vérifié;non
+26046;Bellecombe-Tarendol;26;eau potable : BELLECOMBE-TARENDOL;71324;2022;85,0;0,2;1,2;65,2;conforme;1095;1095;39;62;77;Sans anomalie apparente;non
+26047;Bellegarde-en-Diois;26;eau potable : BELLEGARDE-EN-DIOIS;71326;2024;90,3;0,2;2,3;65,5;conforme;345;345;10;31;96;Non vérifié;non
+26048;Bénivay-Ollon;26;eau potable;64593;2024;74,8;3,3;9,9;67,0;conforme;1615186;1560;62;123;69;Non vérifié;non
+26049;Bésayes;26;eau potable : BARBIERES - BESAYES;71855;2024;77,5;2,0;7,1;66,4;conforme;35916;19580;39;103;1370;Non vérifié;non
+26050;Bésignan;26;eau potable : BESIGNAN;71330;2024;64,0;3,3;5,8;66,2;non conforme;2650;2650;96;207;76;Non vérifié;non
+26051;Bézaudun-sur-Bîne;26;eau potable : SIE DU HAUT ROUBION;71849;2024;60,4;2,2;3,4;65,7;non conforme;82950;4690;176;250;73;Non vérifié;non
+26052;Bonlieu-sur-Roubion;26;eau potable : SYNDICAT EAUX BAS ROUBION CITELLE;71842;2024;73,6;1,8;5,0;66,0;conforme;320826;8535;51;132;458;Non vérifié;non
+26054;Bouchet;26;eau potable;64593;2024;74,8;3,3;9,9;67,0;conforme;1615186;31851;62;123;1409;Non vérifié;non
+26055;Boulc;26;eau potable : BOULC;71334;2024;69,2;1,0;2,3;65,5;conforme;5435;5435;97;156;154;Non vérifié;non
+26056;Bourdeaux;26;eau potable : SIE DU HAUT ROUBION;71849;2024;60,4;2,2;3,4;65,7;non conforme;82950;43049;176;250;670;Non vérifié;non
+26057;Bourg-de-Péage;26;eau potable : BOURG-DE-PEAGE;318134;2024;89,6;2,4;21,1;69,2;conforme;53436;53436;15;41;9921;Non vérifié;non
+26058;Bourg-lès-Valence;26;eau potable : BOURG LES VALENCE;302874;2024;85,1;4,1;23,8;69,8;conforme;189158;189158;26;69;19992;Non vérifié;non
+26059;Bouvante;26;eau potable : SMA LENTE FONT D'URLE;336214;2024;51,2;8,1;8,5;66,7;non conforme;35478;35478;463;413;210;Non vérifié;non
+26060;Bouvières;26;eau potable : BOUVIERES;71342;2024;72,0;0,7;1,9;65,4;conforme;2550;2550;46;135;151;Non vérifié;non
+26061;Bren;26;eau potable : SME VALLOIRE GALAURE;71836;2024;73,1;2,1;5,6;66,1;conforme;512789;12640;49;142;709;Non vérifié;non
+26062;Brette;26;eau potable : BRETTE;71345;2024;51,3;2,5;2,7;65,5;non conforme;2610;2610;247;341;29;Non vérifié;non
+26063;Buis-les-Baronnies;26;eau potable : BUIS-LES-BARONNIES;71347;2024;78,9;3,2;12,1;67,4;conforme;45494;45494;56;112;2218;Non vérifié;non
+26064;Chabeuil;26;eau potable : SIE DE LA PLAINE DE VALENCE;71839;2024;79,2;2,0;7,6;66,5;conforme;426320;50619;20;97;6833;Non vérifié;non
+26065;Chabrillan;26;eau potable : CHABRILLAN;71350;2024;99,2;0,0;2,7;65,5;conforme;0;0;0;0;752;Non vérifié;non
+26066;Le Chaffal;26;eau potable : LE CHAFFAL;71503;2024;21,6;6,9;1,9;65,4;non conforme;29718;29718;2326;1331;35;Non vérifié;non
+26067;Chalancon;26;eau potable : CHALANCON;71352;2024;100,0;0,0;4,0;65,8;conforme;0;0;0;0;59;Non vérifié;non
+26068;Le Chalon;26;eau potable : SI DES EAUX DE L'HERBASSE;71857;2024;82,8;1,1;5,2;66,0;conforme;240579;2538;35;78;200;Non vérifié;non
+26069;Chamaloc;26;eau potable : CHAMALOC;71354;2024;81,3;3,1;13,3;67,7;conforme;5476;5476;126;85;119;Non vérifié;non
+26070;Chamaret;26;eau potable : CHAMARET;71356;2024;82,5;3,3;15,7;68,1;conforme;19272;19272;97;77;542;Non vérifié;non
+26071;Chanos-Curson;26;eau potable : EAUX DE LA VEAUNE;71837;2024;88,1;0,9;6,6;66,3;conforme;144868;8280;19;52;1196;Non vérifié;non
+26072;Chantemerle-les-Blés;26;eau potable : EAUX DE LA VEAUNE;71837;2024;88,1;0,9;6,6;66,3;conforme;144868;9297;19;52;1343;Non vérifié;non
+26073;Chantemerle-lès-Grignan;26;eau potable : CHANTEMERLE-LES-GRIGNAN;71360;2024;69,3;1,7;3,9;65,8;conforme;11665;11665;130;160;246;Non vérifié;non
+26074;La Chapelle-en-Vercors;26;eau potable : SI EAUX ET ASSAINISSEMENT DU VERCORS;71853;2024;55,4;3,1;3,8;65,8;non conforme;79250;53482;184;296;797;Non vérifié;non
+26075;La Charce;26;eau potable : LA CHARCE;71469;2024;80,0;0,7;2,0;65,4;conforme;1009;1009;120;130;23;Non vérifié;non
+26076;Charens;26;eau potable : CHARENS;71362;2024;64,3;1,2;2,1;65,4;non conforme;1673;1673;143;207;32;Non vérifié;non
+26077;Charmes-sur-l'Herbasse;26;eau potable : SI DES EAUX DE L'HERBASSE;71857;2024;82,8;1,1;5,2;66,0;conforme;240579;10227;35;78;806;Non vérifié;non
+26078;Charols;26;eau potable : SYNDICAT EAUX BAS ROUBION CITELLE;71842;2024;73,6;1,8;5,0;66,0;conforme;320826;17984;51;132;965;Non vérifié;non
+26079;Charpey;26;eau potable : SAINT-VINCENT CHARPEY;71852;2024;59,6;3,3;4,9;66,0;non conforme;69295;49106;87;248;1547;Non vérifié;non
+26081;Châteaudouble;26;eau potable : CHATEAUDOUBLE;71369;2024;97,2;0,1;3,8;65,8;conforme;1022;1022;4;10;633;Non vérifié;non
+26082;Châteauneuf-de-Bordette;26;eau potable : SIVU DU RIEU;71861;2024;90,8;0,3;3,0;65,6;conforme;10758;590;16;36;101;Non vérifié;non
+26083;Châteauneuf-de-Galaure;26;eau potable : Service de l'Eau de CHATEAUNEUF DE GALAURE;339435;2024;39,8;13,2;8,7;66,7;non conforme;21103;21103;32;553;1804;Non vérifié;non
+26084;Châteauneuf-sur-Isère;26;eau potable : SIE DE LA PLAINE DE VALENCE;71839;2024;79,2;2,0;7,6;66,5;conforme;426320;31713;20;97;4281;Non vérifié;non
+26085;Châteauneuf-du-Rhône;26;eau potable : CHATEAUNEUF-DU-RHONE;71373;2024;68,3;6,8;14,6;67,9;conforme;89352;89352;84;172;2917;Non vérifié;non
+26086;Châtillon-en-Diois;26;eau potable : CHATILLON-EN-DIOIS;71376;2024;33,7;13,6;6,9;66,4;non conforme;125986;125986;516;720;669;Non vérifié;non
+26087;Châtillon-Saint-Jean;26;eau potable : SI DES EAUX DE L'HERBASSE;71857;2024;82,8;1,1;5,2;66,0;conforme;240579;16559;35;78;1305;Non vérifié;non
+26088;Chatuzange-le-Goubet;26;eau potable : SIE DE ROCHEFORT - SAMSON;71856;2024;93,5;0,8;12,0;67,4;conforme;79278;23043;10;43;6523;Non vérifié;non
+26089;Chaudebonne;26;eau potable : CHAUDEBONNE;71380;2024;95,0;0,0;4,5;65,9;conforme;0;0;0;0;58;Non vérifié;non
+26090;La Chaudière;26;eau potable : LA CHAUDIERE;71471;2020;38,7;16,9;10,7;67,1;non conforme;24674;24674;2704;577;25;Sans anomalie apparente;non
+26091;Chauvac-Laux-Montaux;26;eau potable : CHAUVAC LAUX-MONTAUX;71382;2024;100,0;0,0;1,1;65,2;conforme;0;0;0;0;43;Non vérifié;non
+26092;Chavannes;26;eau potable : EAUX DE LA VEAUNE;71837;2024;88,1;0,9;6,6;66,3;conforme;144868;5317;19;52;768;Non vérifié;non
+26093;Clansayes;26;eau potable;64593;2024;74,8;3,3;9,9;67,0;conforme;1615186;11687;62;123;517;Non vérifié;non
+26094;Claveyson;26;eau potable : SME VALLOIRE GALAURE;71836;2024;73,1;2,1;5,6;66,1;conforme;512789;16651;49;142;934;Non vérifié;non
+26095;Cléon-d'Andran;26;eau potable : SYNDICAT EAUX BAS ROUBION CITELLE;71842;2024;73,6;1,8;5,0;66,0;conforme;320826;18711;51;132;1004;Non vérifié;non
+26096;Clérieux;26;eau potable : EAUX DE LA VEAUNE;71837;2024;88,1;0,9;6,6;66,3;conforme;144868;13223;19;52;1910;Non vérifié;non
+26097;Cliousclat;26;eau potable : SYNDICAT DES EAUX DROME-RHONE;71841;2024;75,7;2,0;6,3;66,3;conforme;285291;10880;49;116;611;Non vérifié;non
+26098;Cobonne;26;eau potable : SMPAS SI DES EAUX;71850;2024;74,5;1,7;5,0;66,0;conforme;139612;3459;56;123;170;Non vérifié;non
+26099;Colonzelle;26;eau potable : COLONZELLE;71392;2024;74,1;1,8;5,2;66,0;conforme;10492;10492;55;127;524;Non vérifié;non
+26100;Combovin;26;eau potable : SME DU SUD VALENTINOIS;71840;2024;85,2;1,3;6,6;66,3;conforme;244666;5558;32;74;476;Non vérifié;non
+26101;Comps;26;eau potable : COMPS;71395;2024;85,8;0,3;2,0;65,4;conforme;2363;2363;47;56;137;Non vérifié;non
+26102;Condillac;26;eau potable : SYNDICAT DES EAUX DROME-RHONE;71841;2024;75,7;2,0;6,3;66,3;conforme;285291;2350;49;116;132;Non vérifié;non
+26103;Condorcet;26;eau potable : SIE DU BENTRIX;71848;2024;51,6;3,2;3,4;65,7;non conforme;44851;31157;172;343;496;Non vérifié;non
+26104;Cornillac;26;eau potable : CORNILLAC;71399;2024;49,2;0,0;1,5;65,3;non conforme;0;0;0;0;91;Non vérifié;non
+26105;Cornillon-sur-l'Oule;26;eau potable : CORNILLON-SUR-L'OULE;71401;2024;94,6;0,4;7,5;66,5;conforme;385;385;14;19;75;Non vérifié;non
+26106;La Coucourde;26;eau potable : SYNDICAT DES EAUX DROME-RHONE;71841;2024;75,7;2,0;6,3;66,3;conforme;285291;22080;49;116;1240;Non vérifié;non
+26107;Crépol;26;eau potable : SI DES EAUX DE L'HERBASSE;71857;2024;82,8;1,1;5,2;66,0;conforme;240579;6636;35;78;523;Non vérifié;non
+26108;Crest;26;eau potable : CREST;71404;2024;86,4;2,7;17,3;68,5;conforme;95889;95889;30;81;8658;Non vérifié;non
+26110;Crozes-Hermitage;26;eau potable : EAUX DE LA VEAUNE;71837;2024;88,1;0,9;6,6;66,3;conforme;144868;4569;19;52;660;Non vérifié;non
+26111;Crupies;26;eau potable : SIE DU HAUT ROUBION;71849;2024;60,4;2,2;3,4;65,7;non conforme;82950;6168;176;250;96;Non vérifié;non
+26112;Curnier;26;eau potable : CURNIER;71406;2024;86,4;0,2;1,1;65,2;conforme;1467;1467;20;68;206;Non vérifié;non
+26113;Die;26;eau potable : DIE;71408;2024;85,3;2,4;14,0;67,8;conforme;55013;55013;31;63;4844;Non vérifié;non
+26114;Dieulefit;26;eau potable : SIEA PAYS DE DIEULEFIT BOURDEAUX;71859;2024;82,6;1,6;7,6;66,5;conforme;64824;46099;38;77;3289;Non vérifié;non
+26115;Divajeu;26;eau potable : DIVAJEU;71410;2024;87,6;0,5;3,4;65,7;conforme;5475;5475;22;54;688;Non vérifié;non
+26116;Donzère;26;eau potable : DONZERE;71412;2024;77,7;5,1;17,9;68,6;conforme;96333;96333;44;104;6008;Non vérifié;non
+26117;Échevis;26;eau potable : ECHEVIS;71414;2024;51,2;1,5;1,6;65,3;non conforme;2464;2464;116;354;58;Non vérifié;non
+26118;Épinouze;26;eau potable : Territoire n°1;71858;2024;76,9;1,7;5,6;66,1;conforme;37261;21058;38;111;1531;Non vérifié;non
+26119;Érôme;26;eau potable : EAUX DE LA VEAUNE;71837;2024;88,1;0,9;6,6;66,3;conforme;144868;5871;19;52;848;Non vérifié;non
+26121;Espeluche;26;eau potable : SYNDICAT EAUX BAS ROUBION CITELLE;71842;2024;73,6;1,8;5,0;66,0;conforme;320826;21134;51;132;1134;Non vérifié;non
+26123;Establet;26;eau potable : ESTABLET;71420;2024;80,0;0,0;4,7;65,9;conforme;0;0;0;0;27;Non vérifié;non
+26124;Étoile-sur-Rhône;26;eau potable : SME DU SUD VALENTINOIS;71840;2024;85,2;1,3;6,6;66,3;conforme;244666;63846;32;74;5468;Non vérifié;non
+26125;Eurre;26;eau potable;71422;2024;83,7;1,0;4,9;66,0;conforme;17911;17911;34;75;1431;Non vérifié;non
+26126;Eygalayes;26;eau potable;71424;2024;86,4;0,2;1,4;65,3;conforme;482;482;15;54;89;Non vérifié;non
+26127;Eygaliers;26;eau potable : EYGALIERS;71426;2024;98,8;0,1;8,2;66,6;conforme;73;73;1;4;139;Non vérifié;non
+26129;Eymeux;26;eau potable : SIE DE ROCHEFORT - SAMSON;71856;2024;93,5;0,8;12,0;67,4;conforme;79278;3875;10;43;1097;Non vérifié;non
+26131;Eyzahut;26;eau potable : EYZAHUT;71434;2024;85,0;1,0;6,6;66,3;non calculable;5336;5336;97;55;151;Non vérifié;non
+26133;Fay-le-Clos;26;eau potable : SME VALLOIRE GALAURE;71836;2024;73,1;2,1;5,6;66,1;conforme;512789;3263;49;142;183;Non vérifié;non
+26134;Félines-sur-Rimandoule;26;eau potable : SIE DU HAUT ROUBION;71849;2024;60,4;2,2;3,4;65,7;non conforme;82950;5333;176;250;83;Non vérifié;non
+26135;Ferrassières;26;eau potable;64599;2024;60,6;1,8;2,7;65,5;non conforme;142188;5035;113;281;122;Non vérifié;non
+26136;Val-Maravel;26;eau potable : VAL-MARAVEL;71799;2024;84,0;0,8;4,4;65,9;conforme;1737;1737;87;66;55;Non vérifié;non
+26137;Francillon-sur-Roubion;26;eau potable : FRANCILLON-SUR-ROUBION;71440;2024;76,2;0,5;1,7;65,3;conforme;2829;2829;43;107;181;Non vérifié;non
+26138;La Garde-Adhémar;26;eau potable : LA GARDE-ADHEMAR;71474;2024;53,4;3,8;4,3;65,9;non conforme;63636;63636;152;322;1144;Non vérifié;non
+26139;Génissieux;26;eau potable : SI DES EAUX DE L'HERBASSE;71857;2024;82,8;1,1;5,2;66,0;conforme;240579;30808;35;78;2428;Non vérifié;non
+26140;Geyssans;26;eau potable : SI DES EAUX DE L'HERBASSE;71857;2024;82,8;1,1;5,2;66,0;conforme;240579;9580;35;78;755;Non vérifié;non
+26141;Gigors-et-Lozeron;26;eau potable : SMPAS SI DES EAUX;71850;2024;74,5;1,7;5,0;66,0;conforme;139612;4578;56;123;225;Non vérifié;non
+26142;Glandage;26;eau potable : GLANDAGE;71447;2024;73,5;2,4;6,6;66,3;conforme;12518;12518;301;134;114;Non vérifié;non
+26143;Le Grand-Serre;26;eau potable : LE GRAND-SERRE;71506;2024;89,4;0,4;3,0;65,6;conforme;6398;6398;18;49;973;Non vérifié;non
+26144;Grane;26;eau potable : SYNDICAT DES EAUX DROME-RHONE;71841;2024;75,7;2,0;6,3;66,3;conforme;285291;39245;49;116;2204;Non vérifié;non
+26145;Les Granges-Gontardes;26;eau potable : LES GRANGES GONTARDES;71520;2024;89,3;1,6;13,1;67,6;conforme;4555;4555;18;45;698;Non vérifié;non
+26146;Grignan;26;eau potable : GRIGNAN;71449;2024;86,7;0,9;5,6;66,1;conforme;32850;32850;56;59;1596;Non vérifié;non
+26147;Gumiane;26;eau potable : GUMIANE;71451;2024;59,0;0,7;1,0;65,2;non conforme;953;953;131;249;20;Non vérifié;non
+26148;Hauterives;26;eau potable : Territoire n°1;71453;2024;80,4;1,3;5,1;66,0;conforme;33799;33799;49;96;1904;Non vérifié;non
+26149;Hostun;26;eau potable : SIE DE ROCHEFORT - SAMSON;71856;2024;93,5;0,8;12,0;67,4;conforme;79278;3663;10;43;1037;Non vérifié;non
+26152;Jonchères;26;eau potable : JONCHERES;71459;2024;99,0;0,0;1,1;65,2;conforme;0;0;0;0;27;Non vérifié;non
+26153;Laborel;26;eau potable : LABOREL;71494;2024;52,7;2,7;3,0;65,6;non conforme;5282;5282;125;326;116;Non vérifié;non
+26154;Lachau;26;eau potable;71496;2024;98,2;0,5;25,8;70,2;conforme;2404;2404;30;7;218;Non vérifié;non
+26155;Lapeyrouse-Mornay;26;eau potable : Territoire n°1;71858;2024;76,9;1,7;5,6;66,1;conforme;37261;16203;38;111;1178;Non vérifié;non
+26156;Larnage;26;eau potable : EAUX DE LA VEAUNE;71837;2024;88,1;0,9;6,6;66,3;conforme;144868;6985;19;52;1009;Non vérifié;non
+26157;La Laupie;26;eau potable : SYNDICAT EAUX BAS ROUBION CITELLE;71842;2024;73,6;1,8;5,0;66,0;conforme;320826;14704;51;132;789;Non vérifié;non
+26159;Laval-d'Aix;26;eau potable : LAVAL-D'AIX;71500;2024;72,3;1,3;3,3;65,7;conforme;2339;2339;57;192;112;Non vérifié;non
+26160;Laveyron;26;eau potable : SME VALLOIRE GALAURE;71836;2024;73,1;2,1;5,6;66,1;conforme;512789;22339;49;142;1253;Non vérifié;non
+26161;Lemps;26;eau potable;71515;2024;93,6;0,1;0,8;65,2;conforme;90;90;6;45;40;Non vérifié;non
+26162;Lens-Lestang;26;eau potable : SME VALLOIRE GALAURE;71836;2024;73,1;2,1;5,6;66,1;conforme;512789;15760;49;142;884;Non vérifié;non
+26163;Léoncel;26;eau potable : SME DU SUD VALENTINOIS;71840;2024;85,2;1,3;6,6;66,3;conforme;244666;537;32;74;46;Non vérifié;non
+26164;Lesches-en-Diois;26;eau potable : LESCHES-EN-DIOIS;71529;2024;66,0;2,3;4,4;65,9;conforme;6128;6128;295;191;57;Non vérifié;non
+26165;Livron-sur-Drôme;26;eau potable : LIVRON-SUR-DROME;71531;2024;88,4;1,8;13,7;67,7;conforme;62376;62376;18;48;9329;Non vérifié;non
+26166;Loriol-sur-Drôme;26;eau potable : SYNDICAT DES EAUX DROME-RHONE;71841;2024;75,7;2,0;6,3;66,3;conforme;285291;117770;49;116;6614;Non vérifié;non
+26167;Luc-en-Diois;26;eau potable : LUC-EN-DIOIS;71534;2024;65,3;2,9;5,5;66,1;non conforme;28537;28537;127;201;614;Non vérifié;non
+26169;Malataverne;26;eau potable : MALATAVERNE;71538;2024;91,9;0,8;8,8;66,8;conforme;18104;18104;22;33;2258;Non vérifié;non
+26170;Malissard;26;eau potable : SIE DE LA PLAINE DE VALENCE;71839;2024;79,2;2,0;7,6;66,5;conforme;426320;24402;20;97;3294;Non vérifié;non
+26171;Manas;26;eau potable : SYNDICAT EAUX BAS ROUBION CITELLE;71842;2024;73,6;1,8;5,0;66,0;conforme;320826;3355;51;132;180;Non vérifié;non
+26172;Manthes;26;eau potable : SME VALLOIRE GALAURE;71836;2024;73,1;2,1;5,6;66,1;conforme;512789;12212;49;142;685;Non vérifié;non
+26173;Marches;26;eau potable : SIE DE ROCHEFORT - SAMSON;71856;2024;93,5;0,8;12,0;67,4;conforme;79278;3059;10;43;866;Non vérifié;non
+26174;Margès;26;eau potable : SI DES EAUX DE L'HERBASSE;71857;2024;82,8;1,1;5,2;66,0;conforme;240579;13539;35;78;1067;Non vérifié;non
+26175;Marignac-en-Diois;26;eau potable : MARIGNAC-EN-DIOIS;71544;2024;88,7;0,4;3,3;65,7;conforme;1752;1752;21;44;231;Non vérifié;non
+26176;Marsanne;26;eau potable : MARSANNE;71546;2024;93,4;0,5;7,5;66,5;conforme;9855;9855;22;24;1246;Non vérifié;non
+26177;Marsaz;26;eau potable : EAUX DE LA VEAUNE;71837;2024;88,1;0,9;6,6;66,3;conforme;144868;4943;19;52;714;Non vérifié;non
+26178;Menglon;26;eau potable : MENGLON;71549;2024;79,7;1,5;6,0;66,2;conforme;15330;15330;78;91;539;Non vérifié;non
+26179;Mercurol-Veaunes;26;eau potable : EAUX DE LA VEAUNE;71837;2024;88,1;0,9;6,6;66,3;conforme;144868;19495;19;52;2816;Non vérifié;non
+26180;Mérindol-les-Oliviers;26;eau potable;64593;2024;74,8;3,3;9,9;67,0;conforme;1615186;4702;62;123;208;Non vérifié;non
+26181;Mévouillon;26;eau potable : MEVOUILLON;71553;2024;69,5;4,4;10,0;67,0;conforme;7548;7548;84;160;246;Non vérifié;non
+26182;Mirabel-aux-Baronnies;26;eau potable : SIVU DU RIEU;71861;2024;90,8;0,3;3,0;65,6;conforme;10758;8768;16;36;1502;Non vérifié;non
+26183;Mirabel-et-Blacons;26;eau potable : SMPAS SI DES EAUX;71850;2024;74,5;1,7;5,0;66,0;conforme;139612;24374;56;123;1198;Non vérifié;non
+26185;Mirmande;26;eau potable : SYNDICAT DES EAUX DROME-RHONE;71841;2024;75,7;2,0;6,3;66,3;conforme;285291;10880;49;116;611;Non vérifié;non
+26186;Miscon;26;eau potable : MISCON;71559;2024;96,4;0,1;3,1;65,6;conforme;184;184;7;12;73;Non vérifié;non
+26188;Mollans-sur-Ouvèze;26;eau potable : MOLLANS-SUR-OUVEZE;71563;2024;71,2;4,9;12,2;67,4;conforme;54013;54013;142;147;1043;Non vérifié;non
+26189;Montauban-sur-l'Ouvèze;26;eau potable : MONTAUBAN-SUR-L'OUVEZE;71565;2024;82,5;0,5;2,2;65,4;conforme;2190;2190;52;82;116;Non vérifié;non
+26190;Montaulieu;26;eau potable : MONTAULIEU;71567;2024;90,2;0,2;1,7;65,3;non calculable;445;445;14;43;89;Non vérifié;non
+26191;Montboucher-sur-Jabron;26;eau potable : SYNDICAT EAUX BAS ROUBION CITELLE;71842;2024;73,6;1,8;5,0;66,0;conforme;320826;48306;51;132;2592;Non vérifié;non
+26192;Montbrison-sur-Lez;26;eau potable : MONTBRISON;71569;2024;71,8;1,2;3,0;65,6;conforme;7446;7446;76;147;267;Non vérifié;non
+26193;Montbrun-les-Bains;26;eau potable : SIE MONTBRUN-BARRET-REILHANETTE;71847;2022;99,9;0,0;9,5;66,9;conforme;0;0;0;0;442;Sans anomalie apparente;non
+26194;Montchenu;26;eau potable : SI DES EAUX DE L'HERBASSE;71857;2024;82,8;1,1;5,2;66,0;conforme;240579;7677;35;78;605;Non vérifié;non
+26195;Montclar-sur-Gervanne;26;eau potable : SMPAS SI DES EAUX;71850;2024;74,5;1,7;5,0;66,0;conforme;139612;3947;56;123;194;Non vérifié;non
+26196;Montéléger;26;eau potable : SME DU SUD VALENTINOIS;71840;2024;85,2;1,3;6,6;66,3;conforme;244666;19535;32;74;1673;Non vérifié;non
+26197;Montélier;26;eau potable : SIE DE LA PLAINE DE VALENCE;71839;2024;79,2;2,0;7,6;66,5;conforme;426320;32025;20;97;4323;Non vérifié;non
+26198;Montélimar;26;eau potable : MONTELIMAR;71576;2024;81,3;4,9;21,3;69,3;conforme;575539;575539;39;88;40595;Non vérifié;non
+26199;Montferrand-la-Fare;26;eau potable : MONTFERRAND-LA-FARE;71578;2024;93,3;0,1;0,8;65,2;conforme;153;153;16;46;27;Non vérifié;non
+26200;Montfroc;26;eau potable : MONTFROC;71580;2024;15,9;104,7;19,7;68,9;non conforme;103182;103182;2827;1937;100;Non vérifié;non
+26201;Montguers;26;eau potable;71582;2024;70,9;2,6;6,3;66,3;conforme;1898;1898;133;150;39;Non vérifié;non
+26202;Montjoux;26;eau potable : SIEA PAYS DE DIEULEFIT BOURDEAUX;71859;2024;82,6;1,6;7,6;66,5;conforme;64824;4429;38;77;316;Non vérifié;non
+26203;Montjoyer;26;eau potable : MONTJOYER - CHEF-LIEU;71586;2024;43,3;4,0;3,1;65,6;non conforme;14600;14600;145;473;275;Non vérifié;non
+26204;Montlaur-en-Diois;26;eau potable : MONTLAUR-EN-DIOIS;71588;2024;95,0;0,0;2,7;65,5;conforme;0;0;0;0;134;Non vérifié;non
+26205;Montmaur-en-Diois;26;eau potable : MONTMAUR-EN-DIOIS;71590;2024;93,6;0,1;1,3;65,3;conforme;542;542;15;28;102;Non vérifié;non
+26206;Montmeyran;26;eau potable : SME DU SUD VALENTINOIS;71840;2024;85,2;1,3;6,6;66,3;conforme;244666;34562;32;74;2960;Non vérifié;non
+26207;Montmiral;26;eau potable : SI DES EAUX DE L'HERBASSE;71857;2024;82,8;1,1;5,2;66,0;conforme;240579;8235;35;78;649;Non vérifié;non
+26208;Montoison;26;eau potable : SME DU SUD VALENTINOIS;71840;2024;85,2;1,3;6,6;66,3;conforme;244666;22489;32;74;1926;Non vérifié;non
+26209;Montréal-les-Sources;26;eau potable : MONTREAL-LES-SOURCES;71595;2024;81,4;2,5;10,9;67,2;conforme;1369;1369;144;84;26;Non vérifié;non
+26210;Valherbasse;26;eau potable : SI DES EAUX DE L'HERBASSE;71857;2024;82,8;1,1;5,2;66,0;conforme;240579;12752;35;78;1005;Non vérifié;non
+26211;Montségur-sur-Lauzon;26;eau potable : MONTSEGUR-SUR-LAUZON;71599;2024;70,4;2,0;4,8;66,0;conforme;27010;27010;54;153;1359;Non vérifié;non
+26213;Moras-en-Valloire;26;eau potable : SME VALLOIRE GALAURE;71836;2024;73,1;2,1;5,6;66,1;conforme;512789;12159;49;142;682;Non vérifié;non
+26214;Mornans;26;eau potable : SIE DU HAUT ROUBION;71849;2024;60,4;2,2;3,4;65,7;non conforme;82950;4883;176;250;76;Non vérifié;non
+26215;La Motte-Chalancon;26;eau potable : LA MOTTE-CHALANCON;71477;2024;67,8;5,7;11,9;67,4;conforme;27983;27983;194;175;395;Non vérifié;non
+26216;Saint-Jean-de-Galaure;26;eau potable : SME VALLOIRE GALAURE;71836;2024;73,1;2,1;5,6;66,1;conforme;512789;22285;49;142;1250;Non vérifié;non
+26217;La Motte-Fanjas;26;eau potable : LA MOTTE-FANJAS;71480;2024;100,0;0,0;1,7;65,3;conforme;0;0;0;0;198;Non vérifié;non
+26218;Mours-Saint-Eusèbe;26;eau potable : ROMANS SUR ISERE  MOURS;71679;2024;85,5;4,1;24,2;69,8;conforme;402738;37383;30;62;3424;Non vérifié;non
+26219;Mureils;26;eau potable : SME VALLOIRE GALAURE;71836;2020;74,5;2,1;6,0;66,2;conforme;510489;8122;48;132;465;Sans anomalie apparente;non
+26220;Nyons;26;eau potable : NYONS;71885;2024;70,7;6,5;15,7;68,1;conforme;164153;164153;66;151;6816;Non vérifié;non
+26221;Omblèze;26;eau potable : OMBLEZE;71609;2024;88,7;0,3;2,0;65,4;conforme;810;810;40;55;55;Non vérifié;non
+26223;Oriol-en-Royans;26;eau potable : ORIOL-EN-ROYANS;71613;2024;94,8;0,3;5,8;66,2;conforme;1424;1424;8;20;518;Non vérifié;non
+26224;Ourches;26;eau potable : SME DU SUD VALENTINOIS;71840;2024;85,2;1,3;6,6;66,3;conforme;244666;3398;32;74;291;Non vérifié;non
+26225;Parnans;26;eau potable : SI DES EAUX DE L'HERBASSE;71857;2024;82,8;1,1;5,2;66,0;conforme;240579;8895;35;78;701;Non vérifié;non
+26226;Le Pègue;26;eau potable : LE PEGUE;71508;2024;63,3;3,2;5,6;66,1;non conforme;9531;9531;73;210;358;Non vérifié;non
+26227;Pelonne;26;eau potable : PELONNE;71617;2024;83,3;0,2;1,0;65,2;conforme;110;110;13;77;23;Non vérifié;non
+26228;Pennes-le-Sec;26;eau potable : PENNES-LE-SEC;71619;2023;83,2;0,8;3,8;65,8;conforme;584;584;76;76;21;Sans anomalie apparente;non
+26229;La Penne-sur-l'Ouvèze;26;eau potable : LA PENNE SUR L'OUVEZE;71481;2024;72,0;1,6;4,0;65,8;conforme;3668;3668;123;144;82;Non vérifié;non
+26231;Peyrins;26;eau potable : SI DES EAUX DE L'HERBASSE;71857;2024;82,8;1,1;5,2;66,0;conforme;240579;33156;35;78;2613;Non vérifié;non
+26232;Peyrus;26;eau potable : PEYRUS;317194;2024;94,9;8,0;149,0;85,0;conforme;52560;52560;250;532;576;Non vérifié;non
+26233;Piégon;26;eau potable : SIVU DU RIEU;71861;2024;90,8;0,3;3,0;65,6;conforme;10758;1401;16;36;240;Non vérifié;non
+26234;Piégros-la-Clastre;26;eau potable : SMPAS SI DES EAUX;71850;2024;74,5;1,7;5,0;66,0;conforme;139612;17945;56;123;882;Non vérifié;non
+26235;Pierrelatte;26;eau potable : PIERRELATTE;71625;2024;74,9;6,2;18,5;68,7;conforme;231052;231052;46;122;13756;Non vérifié;non
+26236;Pierrelongue;26;eau potable : PIERRELONGUE;71627;2024;97,1;0,2;5,6;66,1;conforme;358;358;4;13;231;Non vérifié;non
+26238;Les Pilles;26;eau potable : LES PILLES;71522;2024;90,8;0,5;4,9;66,0;conforme;1433;1433;18;39;217;Non vérifié;non
+26239;Plaisians;26;eau potable : PLAISIANS;71629;2024;56,3;2,8;3,6;65,7;non conforme;7645;7645;100;287;209;Non vérifié;non
+26240;Plan-de-Baix;26;eau potable : PLAN-DE-BAIX;71631;2024;72,3;0,9;2,3;65,5;conforme;4678;4678;79;146;162;Non vérifié;non
+26241;Le Poët-Célard;26;eau potable : SIE DU HAUT ROUBION;71849;2024;60,4;2,2;3,4;65,7;non conforme;82950;9509;176;250;148;Non vérifié;non
+26242;Le Poët-en-Percip;26;eau potable : LE POET-EN-PERCIP;71511;2024;100,0;0,0;1,4;65,3;conforme;0;0;0;0;25;Non vérifié;non
+26243;Le Poët-Laval;26;eau potable : SIEA PAYS DE DIEULEFIT BOURDEAUX;71859;2024;82,6;1,6;7,6;66,5;conforme;64824;13371;38;77;954;Non vérifié;non
+26244;Le Poët-Sigillat;26;eau potable : LE POET-SIGILLAT;71513;2024;50,5;1,2;1,3;65,3;non conforme;5344;5344;128;345;114;Non vérifié;non
+26246;Ponet-et-Saint-Auban;26;eau potable : PONET ET SAINT-AUBAN;71635;2024;74,8;1,6;4,9;66,0;conforme;2914;2914;57;120;141;Non vérifié;non
+26247;Ponsas;26;eau potable : EAUX DE LA VEAUNE;71837;2024;88,1;0,9;6,6;66,3;conforme;144868;3621;19;52;523;Non vérifié;non
+26248;Pontaix;26;eau potable : PONTAIX;71641;2024;44,7;9,2;7,4;66,5;non conforme;8932;8932;135;453;181;Non vérifié;non
+26249;Pont-de-Barret;26;eau potable : SYNDICAT EAUX BAS ROUBION CITELLE;71842;2024;73,6;1,8;5,0;66,0;conforme;320826;12244;51;132;657;Non vérifié;non
+26250;Pont-de-l'Isère;26;eau potable : PONT D'ISERE LA ROCHE DE GLUN;199598;2024;69,8;4,6;10,6;67,1;conforme;161704;75089;56;161;3681;Non vérifié;non
+26251;Portes-en-Valdaine;26;eau potable : PORTES-EN-VALDAINE;71643;2024;77,5;;;;non calculable;;;;;459;Non vérifié;oui
+26252;Portes-lès-Valence;26;eau potable : PORTES LES VALENCE;71870;2024;87,9;2,5;18,2;68,6;conforme;76011;76011;20;51;10477;Non vérifié;non
+26253;Poyols;26;eau potable : POYOLS;71646;2024;35,8;4,9;2,8;65,6;non conforme;5813;5813;162;650;98;Non vérifié;non
+26254;Pradelle;26;eau potable : PRADELLE;71648;2024;32,5;4,0;2,0;65,4;non conforme;6030;6030;635;750;26;Non vérifié;non
+26255;Les Prés;26;eau potable : LES PRES;71524;2024;96,4;0,1;1,5;65,3;conforme;123;123;11;24;31;Non vérifié;non
+26256;Propiac;26;eau potable;64593;2024;74,8;3,3;9,9;67,0;conforme;1615186;2961;62;123;131;Non vérifié;non
+26257;Puygiron;26;eau potable : SYNDICAT EAUX BAS ROUBION CITELLE;71842;2024;73,6;1,8;5,0;66,0;conforme;320826;8032;51;132;431;Non vérifié;non
+26258;Puy-Saint-Martin;26;eau potable : SYNDICAT EAUX BAS ROUBION CITELLE;71842;2024;73,6;1,8;5,0;66,0;conforme;320826;15412;51;132;827;Non vérifié;non
+26259;Ratières;26;eau potable : SME VALLOIRE GALAURE;71836;2024;73,1;2,1;5,6;66,1;conforme;512789;4903;49;142;275;Non vérifié;non
+26261;Réauville;26;eau potable : REAUVILLE;71654;2024;84,3;0,8;4,1;65,8;conforme;3559;3559;25;72;389;Non vérifié;non
+26262;Recoubeau-Jansac;26;eau potable : RECOUBEAU-JANSAC;71656;2024;80,0;2,6;11,6;67,3;non calculable;9964;9964;83;92;330;Non vérifié;non
+26263;Reilhanette;26;eau potable : SIE MONTBRUN-BARRET-REILHANETTE;71847;2022;99,9;0,0;9,5;66,9;conforme;0;0;0;0;107;Sans anomalie apparente;non
+26264;Rémuzat;26;eau potable : REMUZAT;71659;2024;75,2;7,8;23,6;69,7;conforme;60641;60641;522;120;318;Non vérifié;non
+26266;Rimon-et-Savel;26;eau potable : RIMON ET SAVAL;71661;2024;77,0;0,7;2,2;65,4;conforme;2121;2121;264;117;22;Non vérifié;non
+26268;Rochebaudin;26;eau potable : SYNDICAT EAUX BAS ROUBION CITELLE;71842;2024;73,6;1,8;5,0;66,0;conforme;320826;2199;51;132;118;Non vérifié;non
+26269;Rochebrune;26;eau potable : ROCHEBRUNE;71669;2024;82,2;0,4;1,7;65,3;conforme;1358;1358;76;87;49;Non vérifié;non
+26270;Rochechinard;26;eau potable : ROCHECHINARD;71671;2024;86,7;0,7;4,5;65,9;conforme;3007;3007;63;57;131;Non vérifié;non
+26271;La Roche-de-Glun;26;eau potable : PONT D'ISERE LA ROCHE DE GLUN;199598;2024;69,8;4,6;10,6;67,1;conforme;161704;72805;56;161;3569;Non vérifié;non
+26272;Rochefort-en-Valdaine;26;eau potable;71673;2024;75,7;1,0;3,3;65,7;conforme;5840;5840;45;112;353;Non vérifié;non
+26273;Rochefort-Samson;26;eau potable : SIE DE ROCHEFORT - SAMSON;71856;2024;93,5;0,8;12,0;67,4;conforme;79278;3829;10;43;1084;Non vérifié;non
+26275;Rochegude;26;eau potable;64593;2024;74,8;3,3;9,9;67,0;conforme;1615186;37932;62;123;1678;Non vérifié;non
+26277;La Roche-sur-Grane;26;eau potable : LA ROCHE-SUR-GRANE;71486;2024;81,6;0,5;2,2;65,4;conforme;3358;3358;49;85;189;Non vérifié;non
+26278;La Roche-sur-le-Buis;26;eau potable : LA-ROCHE-SUR-LE-BUIS;71488;2024;56,5;3,7;4,9;66,0;non conforme;9454;9454;92;278;281;Non vérifié;non
+26279;La Rochette-du-Buis;26;eau potable : LA ROCHETTE DU BUIS;71490;2024;100,0;0,0;6,9;66,4;conforme;0;0;0;0;56;Non vérifié;non
+26281;Romans-sur-Isère;26;eau potable : ROMANS SUR ISERE  MOURS;71679;2024;85,5;4,1;24,2;69,8;conforme;402738;365355;30;62;33464;Non vérifié;non
+26282;Romeyer;26;eau potable : ROMEYER;71681;2024;89,8;0,6;5,1;66,0;conforme;1095;1095;13;43;233;Non vérifié;non
+26283;Rottier;26;eau potable : ROTTIER;71683;2024;29,9;8,5;3,6;65,7;non conforme;5864;5864;643;860;25;Non vérifié;non
+26284;Roussas;26;eau potable : SIE DE VALAURIE ROUSSAS;71845;2024;57,3;3,6;4,9;66,0;non conforme;65700;23551;158;269;409;Non vérifié;non
+26285;Rousset-les-Vignes;26;eau potable;71686;2024;92,9;0,8;10,3;67,1;conforme;949;949;10;28;271;Non vérifié;non
+26287;Roynac;26;eau potable : SYNDICAT EAUX BAS ROUBION CITELLE;71842;2024;73,6;1,8;5,0;66,0;conforme;320826;8890;51;132;477;Non vérifié;non
+26288;Sahune;26;eau potable : SAHUNE;71691;2024;63,8;1,9;3,3;65,7;non conforme;11096;11096;101;210;301;Non vérifié;non
+26289;Saillans (avant 2025);26;eau potable : SMPAS SI DES EAUX;71850;2024;74,5;1,7;5,0;66,0;conforme;139612;29705;56;123;1460;Non vérifié;non
+26290;Saint-Agnan-en-Vercors;26;eau potable : SI EAUX ET ASSAINISSEMENT DU VERCORS;71853;2024;55,4;3,1;3,8;65,8;non conforme;79250;25768;184;296;384;Non vérifié;non
+26291;Saint-Andéol;26;eau potable : SIE VALLEE DE QUINT;71851;2024;97,3;0,1;2,4;65,5;conforme;1020;287;10;15;82;Non vérifié;non
+26292;Saint-Auban-sur-l'Ouvèze;26;eau potable;71696;2024;69,9;2,2;5,1;66,0;conforme;18710;18710;263;156;195;Non vérifié;non
+26293;Saint-Avit;26;eau potable : SME VALLOIRE GALAURE;71836;2024;73,1;2,1;5,6;66,1;conforme;512789;5651;49;142;317;Non vérifié;non
+26294;Saint-Bardoux;26;eau potable : EAUX DE LA VEAUNE;71837;2024;88,1;0,9;6,6;66,3;conforme;144868;4147;19;52;599;Non vérifié;non
+26295;Saint-Barthélemy-de-Vals;26;eau potable : SME VALLOIRE GALAURE;71836;2024;73,1;2,1;5,6;66,1;conforme;512789;33784;49;142;1895;Non vérifié;non
+26296;Saint-Benoit-en-Diois;26;eau potable : SAINT-BENOIS-EN-DIOIS;71701;2024;85,9;0,7;4,2;65,8;conforme;675;675;60;61;31;Non vérifié;non
+26298;Saint-Christophe-et-le-Laris;26;eau potable : SI DES EAUX DE L'HERBASSE;71857;2024;82,8;1,1;5,2;66,0;conforme;240579;5380;35;78;424;Non vérifié;non
+26299;Sainte-Croix;26;eau potable : SAINTE-CROIX;71758;2024;55,1;2,5;3,1;65,6;non conforme;4955;4955;131;296;104;Non vérifié;non
+26300;Saint-Dizier-en-Diois;26;eau potable : SAINT-DIZIER-EN-DIOIS;71706;2024;93,0;0,1;1,0;65,2;conforme;181;181;11;36;45;Non vérifié;non
+26301;Saint-Donat-sur-l'Herbasse;26;eau potable : EAUX DE LA VEAUNE;71837;2024;88,1;0,9;6,6;66,3;conforme;144868;29028;19;52;4193;Non vérifié;non
+26302;Sainte-Eulalie-en-Royans;26;eau potable : SAINTE-EULALIE-EN-ROYANS;71760;2024;70,2;1,9;4,4;65,9;conforme;9362;9362;48;158;538;Non vérifié;non
+26303;Sainte-Euphémie-sur-Ouvèze;26;eau potable : SAINTE-EUPHEMIE SUR OUVEZE;71762;2024;73,2;1,2;3,3;65,7;conforme;1708;1708;66;133;71;Non vérifié;non
+26304;Saint-Ferréol-Trente-Pas;26;eau potable : SIE DU BENTRIX;71848;2024;51,6;3,2;3,4;65,7;non conforme;44851;13694;172;343;218;Non vérifié;non
+26305;Saint-Gervais-sur-Roubion;26;eau potable : SYNDICAT EAUX BAS ROUBION CITELLE;71842;2024;73,6;1,8;5,0;66,0;conforme;320826;20332;51;132;1091;Non vérifié;non
+26306;Sainte-Jalle;26;eau potable : SAINT-JALLE;71764;2024;62,6;1,7;2,8;65,6;non conforme;15606;15606;130;224;330;Non vérifié;non
+26307;Saint-Jean-en-Royans;26;eau potable : ST-JEAN-EN-ROYANS;71712;2024;60,3;16,8;25,6;70,1;non conforme;283728;283728;270;240;2874;Non vérifié;non
+26308;Saint-Julien-en-Quint;26;eau potable : SIE VALLEE DE QUINT;71851;2024;97,3;0,1;2,4;65,5;conforme;1020;599;10;15;171;Non vérifié;non
+26309;Saint-Julien-en-Vercors;26;eau potable : ST-JULIEN-EN-VERCORS;71715;2024;66,3;2,6;5,2;66,0;conforme;15184;15184;158;183;264;Non vérifié;non
+26310;Saint-Laurent-d'Onay;26;eau potable : SI DES EAUX DE L'HERBASSE;71857;2024;82,8;1,1;5,2;66,0;conforme;240579;2005;35;78;158;Non vérifié;non
+26311;Saint-Laurent-en-Royans;26;eau potable : ST-LAURENT-ROYANS;71718;2024;76,0;0,9;2,8;65,6;conforme;25952;25952;52;118;1377;Non vérifié;non
+26312;Saint-Marcel-lès-Sauzet;26;eau potable : SYNDICAT EAUX BAS ROUBION CITELLE;71842;2024;73,6;1,8;5,0;66,0;conforme;320826;22886;51;132;1228;Non vérifié;non
+26313;Saint-Marcel-lès-Valence;26;eau potable : SIE DE LA PLAINE DE VALENCE;71839;2024;79,2;2,0;7,6;66,5;conforme;426320;45751;20;97;6176;Non vérifié;non
+26314;Saint-Martin-d'Août;26;eau potable : SME VALLOIRE GALAURE;71836;2024;73,1;2,1;5,6;66,1;conforme;512789;7006;49;142;393;Non vérifié;non
+26315;Saint-Martin-en-Vercors;26;eau potable : SAINT-MARTIN-EN-VERCORS;71722;2024;83,4;0,8;4,1;65,8;conforme;7066;7066;44;72;437;Non vérifié;non
+26316;Saint-Martin-le-Colonel;26;eau potable : SAINT-MARTIN-LE-COLONEL;71724;2024;87,4;0,4;2,8;65,6;conforme;1343;1343;16;52;224;Non vérifié;non
+26317;Saint-Maurice-sur-Eygues;26;eau potable : SAINT-MAURICE SUR EYGUES;71726;2024;76,1;2,6;8,3;66,7;conforme;13286;13286;46;115;787;Non vérifié;non
+26319;Saint-Michel-sur-Savasse;26;eau potable : SI DES EAUX DE L'HERBASSE;71857;2024;82,8;1,1;5,2;66,0;conforme;240579;7347;35;78;579;Non vérifié;non
+26320;Saint-Nazaire-en-Royans;26;eau potable : SAINT-NAZAIRE-EN-ROYANS;71731;2024;67,7;3,2;6,6;66,3;conforme;17987;17987;60;177;826;Non vérifié;non
+26321;Saint-Nazaire-le-Désert;26;eau potable : ST-NAZAIRE-LE-DESERT;71733;2024;95,3;0,4;8,6;66,7;conforme;1898;1898;25;17;206;Non vérifié;non
+26322;Saint-Pantaléon-les-Vignes;26;eau potable : SAINT-PANTALEON-LES-VIGNES;71735;2024;95,0;0,4;8,2;66,6;conforme;832;832;6;18;393;Non vérifié;non
+26323;Saint-Paul-lès-Romans;26;eau potable : SI DES EAUX DE L'HERBASSE;71857;2024;82,8;1,1;5,2;66,0;conforme;240579;24312;35;78;1916;Non vérifié;non
+26324;Saint-Paul-Trois-Châteaux;26;eau potable : ST-PAUL TROIS CHATEAUX;71739;2024;85,2;2,8;16,1;68,2;conforme;102997;102997;31;64;8981;Non vérifié;non
+26325;Saint-Rambert-d'Albon;26;eau potable : SAINT-RAMBERT D'ALBON;71741;2024;71,9;6,4;16,4;68,3;conforme;130349;130349;51;143;7001;Non vérifié;non
+26326;Saint-Restitut;26;eau potable : SAINT-RESTITUT;202774;2024;78,6;2,3;8,5;66,7;conforme;25764;25764;49;98;1432;Non vérifié;non
+26327;Saint-Roman;26;eau potable : SAINT-ROMAN;71745;2024;0,0;2,6;0,0;65,0;non conforme;10249;10249;119;;235;Non vérifié;oui
+26329;Saint-Sauveur-Gouvernet;26;eau potable : SAINT-SAUVEUR-GOUVERNET;71749;2024;100,0;0,0;1,4;65,3;conforme;0;0;0;0;188;Non vérifié;non
+26330;Saint-Sorlin-en-Valloire;26;eau potable : SME VALLOIRE GALAURE;71836;2024;73,1;2,1;5,6;66,1;conforme;512789;40131;49;142;2251;Non vérifié;non
+26331;Saint-Thomas-en-Royans;26;eau potable;71752;2024;75,9;2,1;6,5;66,3;conforme;12333;12333;59;118;569;Non vérifié;non
+26332;Saint-Uze;26;eau potable : SME VALLOIRE GALAURE;71836;2024;73,1;2,1;5,6;66,1;conforme;512789;38134;49;142;2139;Non vérifié;non
+26333;Saint-Vallier;26;eau potable : SAINT-VALLIER-SUR-RHONE;71755;2024;70,4;8,4;19,9;69,0;conforme;112676;112676;77;154;4027;Non vérifié;non
+26334;Salettes;26;eau potable : SYNDICAT EAUX BAS ROUBION CITELLE;71842;2024;73,6;1,8;5,0;66,0;conforme;320826;2758;51;132;148;Non vérifié;non
+26335;Salles-sous-Bois;26;eau potable : SALLE-SOUS-BOIS;71767;2024;91,3;2,4;24,7;69,9;conforme;1051;1051;13;35;222;Non vérifié;non
+26336;Saou;26;eau potable : SAOU;71769;2024;91,2;0,4;3,7;65,7;conforme;4170;4170;19;39;590;Non vérifié;non
+26337;Saulce-sur-Rhône;26;eau potable : SYNDICAT DES EAUX DROME-RHONE;71841;2024;75,7;2,0;6,3;66,3;conforme;285291;33689;49;116;1892;Non vérifié;non
+26338;Sauzet;26;eau potable : SYNDICAT EAUX BAS ROUBION CITELLE;71842;2024;73,6;1,8;5,0;66,0;conforme;320826;35074;51;132;1882;Non vérifié;non
+26339;Savasse;26;eau potable : SYNDICAT DES EAUX DROME-RHONE;71841;2024;75,7;2,0;6,3;66,3;conforme;285291;29042;49;116;1631;Non vérifié;non
+26340;Séderon;26;eau potable : SEDERON;71773;2024;82,2;15,9;73,4;79,7;conforme;8589;8589;99;79;237;Non vérifié;non
+26341;Serves-sur-Rhône;26;eau potable : EAUX DE LA VEAUNE;71837;2024;88,1;0,9;6,6;66,3;conforme;144868;5414;19;52;782;Non vérifié;non
+26342;Solérieux;26;eau potable;64593;2024;74,8;3,3;9,9;67,0;conforme;1615186;7415;62;123;328;Non vérifié;non
+26343;Souspierre;26;eau potable : SYNDICAT EAUX BAS ROUBION CITELLE;71842;2024;73,6;1,8;5,0;66,0;conforme;320826;2013;51;132;108;Non vérifié;non
+26344;Soyans;26;eau potable : SOYANS;71778;2024;65,2;2,8;5,3;66,1;non conforme;17272;17272;117;192;405;Non vérifié;non
+26345;Suze-la-Rousse;26;eau potable;64593;2024;74,8;3,3;9,9;67,0;conforme;1615186;46952;62;123;2077;Non vérifié;non
+26347;Tain-l'Hermitage;26;eau potable : Tain-l'Hermitage;71783;2024;87,4;4,1;28,4;70,7;conforme;64694;64694;30;53;5915;Non vérifié;non
+26348;Taulignan;26;eau potable : TAULIGNAN;71785;2024;72,2;2,6;6,8;66,4;conforme;37865;37865;64;139;1627;Non vérifié;non
+26350;Teyssières;26;eau potable;71789;2024;78,3;0,2;0,9;65,2;conforme;604;604;25;82;66;Non vérifié;non
+26351;Les Tonils;26;eau potable : SIEA PAYS DE DIEULEFIT BOURDEAUX;71859;2024;82,6;1,6;7,6;66,5;conforme;64824;224;38;77;16;Non vérifié;non
+26352;La Touche;26;eau potable : SYNDICAT EAUX BAS ROUBION CITELLE;71842;2024;73,6;1,8;5,0;66,0;conforme;320826;4845;51;132;260;Non vérifié;non
+26353;Les Tourrettes;26;eau potable : SYNDICAT DES EAUX DROME-RHONE;71841;2024;75,7;2,0;6,3;66,3;conforme;285291;19355;49;116;1087;Non vérifié;non
+26355;Triors;26;eau potable : SI DES EAUX DE L'HERBASSE;71857;2024;82,8;1,1;5,2;66,0;conforme;240579;8032;35;78;633;Non vérifié;non
+26356;Truinas;26;eau potable : SIE DU HAUT ROUBION;71849;2024;60,4;2,2;3,4;65,7;non conforme;82950;9317;176;250;145;Non vérifié;non
+26357;Tulette;26;eau potable;64593;2024;74,8;3,3;9,9;67,0;conforme;1615186;45075;62;123;1994;Non vérifié;non
+26358;Upie;26;eau potable : SME DU SUD VALENTINOIS;71840;2024;85,2;1,3;6,6;66,3;conforme;244666;18168;32;74;1556;Non vérifié;non
+26359;Vachères-en-Quint;26;eau potable : SIE VALLEE DE QUINT;71851;2024;97,3;0,1;2,4;65,5;conforme;1020;133;10;15;38;Non vérifié;non
+26360;Valaurie;26;eau potable : SIE DE VALAURIE ROUSSAS;71845;2024;57,3;3,6;4,9;66,0;non conforme;65700;42149;158;269;732;Non vérifié;non
+26361;Valdrôme;26;eau potable : VALDROME;71802;2024;60,0;7,7;11,5;67,3;non conforme;14305;14305;295;244;133;Non vérifié;non
+26362;Valence;26;eau potable : EAU POTABLE VALENCE;71804;2024;86,2;6,4;39,9;73,0;conforme;696128;696128;30;68;64458;Non vérifié;non
+26363;Valouse;26;eau potable : VALOUSE;71806;2024;87,9;0,3;2,2;65,4;conforme;756;756;50;50;41;Non vérifié;non
+26364;Vassieux-en-Vercors;26;eau potable : VASSIEUX-EN-VERCORS;71808;2022;46,6;4,1;3,6;65,7;non conforme;42291;42291;340;418;341;Sans anomalie apparente;non
+26365;Vaunaveys-la-Rochette;26;eau potable : VAUNAVEYS-LA-ROCHETTE;71810;2024;79,2;0,6;2,1;65,4;conforme;9886;9886;43;103;625;Non vérifié;non
+26367;Venterol;26;eau potable : VENTEROL;71813;2024;58,0;7,2;2,6;65,5;non conforme;96842;96842;425;1027;625;Non vérifié;non
+26368;Vercheny;26;eau potable;71815;2024;71,9;2,4;6,1;66,2;conforme;11826;11826;73;144;443;Non vérifié;non
+26369;Verclause;26;eau potable : VERCLAUSE;71817;2024;97,3;0,4;14,5;67,9;conforme;1023;1023;41;10;68;Non vérifié;non
+26370;Vercoiran;26;eau potable : VERCOIRAN;71819;2024;85,8;0,4;2,6;65,5;conforme;885;885;19;56;130;Non vérifié;non
+26372;Vers-sur-Méouge;26;eau potable : VERS-SUR-MEOUGE;71822;2024;51,6;0,7;0,8;65,2;non conforme;2555;2555;167;321;42;Non vérifié;non
+26373;Vesc;26;eau potable : VESC;71824;2023;67,5;2,4;5,1;66,0;conforme;14016;14016;147;193;261;Sans anomalie apparente;non
+26375;Villefranche-le-Château;26;eau potable : VILLEFRANCHE-LE-CHATEAU;71828;2024;20,0;5,2;1,3;65,3;non conforme;7326;7326;1004;1469;20;Non vérifié;non
+26376;Villeperdrix;26;eau potable : VILLEPERDRIX;71830;2024;50,4;4,0;4,0;65,8;non conforme;11914;11914;317;362;103;Non vérifié;non
+26377;Vinsobres;26;eau potable : VINSOBRES;71832;2024;77,9;3,6;12,9;67,6;conforme;18961;18961;50;102;1034;Non vérifié;non
+26378;Volvent;26;eau potable : VOLVENT;71834;2024;100,0;0,0;2,0;65,4;conforme;0;0;0;0;37;Non vérifié;non
+26379;Granges-les-Beaumont;26;eau potable : EAUX DE LA VEAUNE;71837;2024;88,1;0,9;6,6;66,3;conforme;144868;6570;19;52;949;Non vérifié;non
+26380;Gervans;26;eau potable : EAUX DE LA VEAUNE;71837;2024;88,1;0,9;6,6;66,3;conforme;144868;3773;19;52;545;Non vérifié;non
+26381;Jaillans;26;eau potable : SIE DE ROCHEFORT - SAMSON;71856;2024;93,5;0,8;12,0;67,4;conforme;79278;3564;10;43;1009;Non vérifié;non
+26382;Saint-Vincent-la-Commanderie;26;eau potable : SAINT-VINCENT CHARPEY;71852;2024;59,6;3,3;4,9;66,0;non conforme;69295;20189;87;248;636;Non vérifié;non

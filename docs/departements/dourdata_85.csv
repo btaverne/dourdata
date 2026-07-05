@@ -7,262 +7,262 @@
 # Méthodologie et code : https://github.com/btaverne/dourdata
 # Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
 # Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
-Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
-85001;L'Aiguillon-la-Presqu'île;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;27717;27;58;2845;Non vérifié
-85002;L' Aiguillon-sur-Vie;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;22183;27;58;2277;Non vérifié
-85003;Aizenay;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;100979;27;58;10365;Non vérifié
-85004;Angles;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;30347;27;58;3115;Non vérifié
-85005;Antigny;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;10005;27;58;1027;Non vérifié
-85006;Apremont;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;20537;27;58;2108;Non vérifié
-85008;Aubigny-Les Clouzeaux;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;70057;27;58;7191;Non vérifié
-85009;Auchay-sur-Vendée;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;10931;27;58;1122;Non vérifié
-85010;Avrillé;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;13668;27;58;1403;Non vérifié
-85011;Barbâtre;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;17770;27;58;1824;Non vérifié
-85012;La Barre-de-Monts;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;23060;27;58;2367;Non vérifié
-85013;Bazoges-en-Paillers;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;15149;27;58;1555;Non vérifié
-85014;Bazoges-en-Pareds;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;11535;27;58;1184;Non vérifié
-85015;Beaufou;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;16396;27;58;1683;Non vérifié
-85016;Beaulieu-sous-la-Roche;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;23586;27;58;2421;Non vérifié
-85017;Beaurepaire;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;23235;27;58;2385;Non vérifié
-85018;Beauvoir-sur-Mer;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;39310;27;58;4035;Non vérifié
-85019;Bellevigny;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;60792;27;58;6240;Non vérifié
-85020;Benet;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;39836;27;58;4089;Non vérifié
-85021;La Bernardière;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;18637;27;58;1913;Non vérifié
-85022;Le Bernard;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;12850;27;58;1319;Non vérifié
-85023;Bessay;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;4442;27;58;456;Non vérifié
-85024;Bois-de-Céné;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;21979;27;58;2256;Non vérifié
-85025;La Boissière-de-Montaigu;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;22514;27;58;2311;Non vérifié
-85026;La Boissière-des-Landes;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;14263;27;58;1464;Non vérifié
-85028;Bouillé-Courdault;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;5797;27;58;595;Non vérifié
-85029;Bouin;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;21482;27;58;2205;Non vérifié
-85031;Le Boupère;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;30698;27;58;3151;Non vérifié
-85033;Bourneau;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;6917;27;58;710;Non vérifié
-85034;Bournezeau;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;33630;27;58;3452;Non vérifié
-85035;Bretignolles-sur-Mer;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;52063;27;58;5344;Non vérifié
-85036;La Bretonnière-la-Claye;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;5709;27;58;586;Non vérifié
-85037;Breuil-Barret;85;eau potable :  Vendée Eau;176142;2022;88,5;1,1;8,4;66,7;conforme;6263802;5362;24;51;606;Sans anomalie apparente
-85038;Les Brouzils;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;28623;27;58;2938;Non vérifié
-85039;La Bruffière;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;38843;27;58;3987;Non vérifié
-85040;La Caillère-Saint-Hilaire;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;10717;27;58;1100;Non vérifié
-85041;Cezais;85;eau potable :  Vendée Eau;176142;2023;87,1;1,2;8,0;66,6;conforme;6857328;2987;27;58;308;Sans anomalie apparente
-85042;Chaillé-les-Marais;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;18744;27;58;1924;Non vérifié
-85045;La Chaize-Giraud;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;10950;27;58;1124;Non vérifié
-85046;La Chaize-le-Vicomte;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;38463;27;58;3948;Non vérifié
-85047;Challans;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;223518;27;58;22943;Non vérifié
-85049;Champagné-les-Marais;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;17770;27;58;1824;Non vérifié
-85050;Le Champ-Saint-Père;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;20800;27;58;2135;Non vérifié
-85051;Chantonnay;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;83365;27;58;8557;Non vérifié
-85053;La Chapelle-aux-Lys;85;eau potable :  Vendée Eau;176142;2022;88,5;1,1;8,4;66,7;conforme;6263802;2327;24;51;263;Sans anomalie apparente
-85054;La Chapelle-Hermier;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;10697;27;58;1098;Non vérifié
-85055;La Chapelle-Palluau;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;10950;27;58;1124;Non vérifié
-85056;La Chapelle-Thémer;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;3829;27;58;393;Non vérifié
-85058;Chasnais;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;7969;27;58;818;Non vérifié
-85059;La Châtaigneraie;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;25330;27;58;2600;Non vérifié
-85061;Château-Guibert;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;15432;27;58;1584;Non vérifié
-85062;Châteauneuf;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;11106;27;58;1140;Non vérifié
-85064;Chauché;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;25457;27;58;2613;Non vérifié
-85065;Chavagnes-en-Paillers;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;36300;27;58;3726;Non vérifié
-85066;Chavagnes-les-Redoux;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;8349;27;58;857;Non vérifié
-85067;Cheffois;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;9830;27;58;1009;Non vérifié
-85070;Coëx;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;33397;27;58;3428;Non vérifié
-85071;Commequiers;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;36388;27;58;3735;Non vérifié
-85072;La Copechagnière;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;10190;27;58;1046;Non vérifié
-85073;Corpe;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;9976;27;58;1024;Non vérifié
-85074;La Couture;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;2250;27;58;231;Non vérifié
-85076;Cugand;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;55638;27;58;5711;Non vérifié
-85077;Curzon;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;4686;27;58;481;Non vérifié
-85078;Damvix;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;7141;27;58;733;Non vérifié
-85080;Doix lès Fontaines;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;17332;27;58;1779;Non vérifié
-85081;Dompierre-sur-Yon;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;45058;27;58;4625;Non vérifié
-85082;Les Epesses;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;29061;27;58;2983;Non vérifié
-85083;L' Épine;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;15938;27;58;1636;Non vérifié
-85084;Essarts en Bocage;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;66745;27;58;6851;Non vérifié
-85086;Falleron;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;16805;27;58;1725;Non vérifié
-85087;Faymoreau;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;2036;27;58;209;Non vérifié
-85088;Le Fenouiller;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;48497;27;58;4978;Non vérifié
-85089;La Ferrière;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;53135;27;58;5454;Non vérifié
-85090;Sèvremont;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;62205;27;58;6385;Non vérifié
-85092;Fontenay-le-Comte;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;136967;27;58;14059;Non vérifié
-85093;Fougeré;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;12080;27;58;1240;Non vérifié
-85094;Foussais-Payré;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;11379;27;58;1168;Non vérifié
-85095;Froidfond;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;21511;27;58;2208;Non vérifié
-85096;La Garnache;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;53729;27;58;5515;Non vérifié
-85097;La Gaubretière;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;31419;27;58;3225;Non vérifié
-85098;Genétouze;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;19592;27;58;2011;Non vérifié
-85099;Le Girouard;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;11262;27;58;1156;Non vérifié
-85100;Givrand;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;21482;27;58;2205;Non vérifié
-85101;Le Givre;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;5212;27;58;535;Non vérifié
-85102;Grand'Landes;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;7063;27;58;725;Non vérifié
-85103;Grosbreuil;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;21638;27;58;2221;Non vérifié
-85104;Grues;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;9031;27;58;927;Non vérifié
-85105;Le Gué-de-Velluire;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;5115;27;58;525;Non vérifié
-85106;La Guérinière;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;13415;27;58;1377;Non vérifié
-85108;L' Herbergement;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;33923;27;58;3482;Non vérifié
-85109;Les Herbiers;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;160953;27;58;16521;Non vérifié
-85110;L' Hermenault;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;8904;27;58;914;Non vérifié
-85111;L' Île-d'Elle;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;14633;27;58;1502;Non vérifié
-85112;L' Île-d'Olonne;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;27298;27;58;2802;Non vérifié
-85113;L' Île-d'Yeu;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;47572;27;58;4883;Non vérifié
-85114;Jard-sur-Mer;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;31516;27;58;3235;Non vérifié
-85115;La Jaudonnière;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;6527;27;58;670;Non vérifié
-85116;La Jonchère;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;4852;27;58;498;Non vérifié
-85117;Lairoux;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;5865;27;58;602;Non vérifié
-85118;Landeronde;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;22437;27;58;2303;Non vérifié
-85119;Les Landes-Genusson;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;25700;27;58;2638;Non vérifié
-85120;Landevieille;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;14799;27;58;1519;Non vérifié
-85121;Le Langon;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;10181;27;58;1045;Non vérifié
-85123;Liez;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;2942;27;58;302;Non vérifié
-85125;Loge-Fougereuse;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;3634;27;58;373;Non vérifié
-85126;Longèves;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;13337;27;58;1369;Non vérifié
-85127;Longeville-sur-Mer;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;25574;27;58;2625;Non vérifié
-85128;Luçon;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;91743;27;58;9417;Non vérifié
-85129;Les Lucs-sur-Boulogne;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;36056;27;58;3701;Non vérifié
-85130;Maché;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;17838;27;58;1831;Non vérifié
-85131;Les Magnils-Reigniers;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;14477;27;58;1486;Non vérifié
-85132;Maillé;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;7394;27;58;759;Non vérifié
-85133;Maillezais;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;8671;27;58;890;Non vérifié
-85134;Mallièvre;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;2445;27;58;251;Non vérifié
-85135;Mareuil-sur-Lay-Dissais;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;27356;27;58;2808;Non vérifié
-85136;Marillet;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;1198;27;58;123;Non vérifié
-85137;Marsais-Sainte-Radégonde;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;5387;27;58;553;Non vérifié
-85138;Martinet;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;11973;27;58;1229;Non vérifié
-85139;Le Mazeau;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;4520;27;58;464;Non vérifié
-85140;La Meilleraie-Tillay;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;14467;27;58;1485;Non vérifié
-85141;Menomblet;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;6673;27;58;685;Non vérifié
-85142;La Merlatière;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;9830;27;58;1009;Non vérifié
-85143;Mervent;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;10356;27;58;1063;Non vérifié
-85144;Mesnard-la-Barotière;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;15179;27;58;1558;Non vérifié
-85145;Monsireigne;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;9733;27;58;999;Non vérifié
-85146;Montaigu-Vendée;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;205894;27;58;21134;Non vérifié
-85147;Montournais;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;15880;27;58;1630;Non vérifié
-85148;Montreuil;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;7969;27;58;818;Non vérifié
-85149;Moreilles;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;3965;27;58;407;Non vérifié
-85151;Mortagne-sur-Sèvre;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;59009;27;58;6057;Non vérifié
-85152;Les Achards;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;53758;27;58;5518;Non vérifié
-85153;Mouchamps;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;29373;27;58;3015;Non vérifié
-85154;Mouilleron-Saint-Germain;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;16991;27;58;1744;Non vérifié
-85155;Mouilleron-le-Captif;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;51371;27;58;5273;Non vérifié
-85156;Moutiers-les-Mauxfaits;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;23235;27;58;2385;Non vérifié
-85157;Moutiers-sur-le-Lay;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;8213;27;58;843;Non vérifié
-85158;Mouzeuil-Saint-Martin;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;12012;27;58;1233;Non vérifié
-85159;Nalliers;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;23274;27;58;2389;Non vérifié
-85160;Nesmy;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;30201;27;58;3100;Non vérifié
-85161;Nieul-le-Dolent;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;25047;27;58;2571;Non vérifié
-85162;Rives-d'Autise;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;19835;27;58;2036;Non vérifié
-85163;Noirmoutier-en-l'Île;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;43889;27;58;4505;Non vérifié
-85164;Notre-Dame-de-Monts;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;23576;27;58;2420;Non vérifié
-85167;L' Orbrie;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;7872;27;58;808;Non vérifié
-85169;Palluau;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;10989;27;58;1128;Non vérifié
-85171;Péault;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;6128;27;58;629;Non vérifié
-85172;Le Perrier;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;22212;27;58;2280;Non vérifié
-85174;Petosse;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;6703;27;58;688;Non vérifié
-85175;Les Pineaux;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;6703;27;58;688;Non vérifié
-85176;Pissotte;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;11028;27;58;1132;Non vérifié
-85177;Les Velluire-sur-Vendée;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;13230;27;58;1358;Non vérifié
-85178;Le Poiré-sur-Vie;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;84261;27;58;8649;Non vérifié
-85179;Poiroux;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;12139;27;58;1246;Non vérifié
-85181;Pouillé;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;6138;27;58;630;Non vérifié
-85182;Pouzauges;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;55219;27;58;5668;Non vérifié
-85184;Puy-de-Serre;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;3030;27;58;311;Non vérifié
-85185;Puyravault;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;6255;27;58;642;Non vérifié
-85186;La Rabatelière;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;9976;27;58;1024;Non vérifié
-85187;Réaumur;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;8349;27;58;857;Non vérifié
-85188;La Réorthe;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;11311;27;58;1161;Non vérifié
-85189;Notre-Dame-de-Riez;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;21560;27;58;2213;Non vérifié
-85190;Rocheservière;85;eau potable : Grandlieu;129096;2024;88,1;1,1;8,3;66,7;conforme;390258;22800;17;53;3594;Non vérifié
-85191;La Roche-sur-Yon;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;534356;27;58;54849;Non vérifié
-85192;Rochetrejoux;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;9577;27;58;983;Non vérifié
-85193;Rosnay;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;6547;27;58;672;Non vérifié
-85194;Les Sables-d'Olonne;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;483248;27;58;49603;Non vérifié
-85196;Saint-André-Goule-d'Oie;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;19095;27;58;1960;Non vérifié
-85197;Montréverd;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;37576;27;58;3857;Non vérifié
-85198;Saint-Aubin-des-Ormeaux;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;13581;27;58;1394;Non vérifié
-85199;Saint-Aubin-la-Plaine;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;5154;27;58;529;Non vérifié
-85200;Saint-Avaugourd-des-Landes;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;11817;27;58;1213;Non vérifié
-85201;Saint-Benoist-sur-Mer;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;5017;27;58;515;Non vérifié
-85202;Sainte-Cécile;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;15344;27;58;1575;Non vérifié
-85204;Saint-Christophe-du-Ligneron;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;26567;27;58;2727;Non vérifié
-85205;Saint-Cyr-des-Gâts;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;5193;27;58;533;Non vérifié
-85206;Saint-Cyr-en-Talmondais;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;3926;27;58;403;Non vérifié
-85207;Saint-Denis-du-Payré;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;4228;27;58;434;Non vérifié
-85208;Saint-Denis-la-Chevasse;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;23567;27;58;2419;Non vérifié
-85209;Saint-Étienne-de-Brillouet;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;6001;27;58;616;Non vérifié
-85210;Saint-Étienne-du-Bois;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;22514;27;58;2311;Non vérifié
-85211;Sainte-Flaive-des-Loups;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;25184;27;58;2585;Non vérifié
-85213;Rives de l'Yon;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;42233;27;58;4335;Non vérifié
-85214;Sainte-Foy;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;26470;27;58;2717;Non vérifié
-85215;Saint-Fulgent;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;38911;27;58;3994;Non vérifié
-85216;Sainte-Gemme-la-Plaine;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;20303;27;58;2084;Non vérifié
-85218;Saint-Georges-de-Pointindoux;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;18218;27;58;1870;Non vérifié
-85220;Saint-Germain-de-Prinçay;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;15977;27;58;1640;Non vérifié
-85221;Saint-Gervais;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;27093;27;58;2781;Non vérifié
-85222;Saint-Gilles-Croix-de-Vie;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;81183;27;58;8333;Non vérifié
-85223;Sainte-Hermine;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;35179;27;58;3611;Non vérifié
-85226;Saint-Hilaire-de-Riez;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;127371;27;58;13074;Non vérifié
-85227;Saint-Hilaire-des-Loges;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;18676;27;58;1917;Non vérifié
-85229;Saint-Hilaire-de-Voust;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;6255;27;58;642;Non vérifié
-85231;Saint-Hilaire-la-Forêt;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;8242;27;58;846;Non vérifié
-85232;Saint-Hilaire-le-Vouhis;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;10726;27;58;1101;Non vérifié
-85233;Saint-Jean-de-Beugné;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;6167;27;58;633;Non vérifié
-85234;Saint-Jean-de-Monts;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;86395;27;58;8868;Non vérifié
-85235;Saint-Juire-Champgillon;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;4140;27;58;425;Non vérifié
-85236;Saint-Julien-des-Landes;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;20313;27;58;2085;Non vérifié
-85237;Saint-Laurent-de-la-Salle;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;3877;27;58;398;Non vérifié
-85238;Saint-Laurent-sur-Sèvre;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;34585;27;58;3550;Non vérifié
-85239;Saint-Maixent-sur-Vie;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;12022;27;58;1234;Non vérifié
-85240;Saint-Malô-du-Bois;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;15705;27;58;1612;Non vérifié
-85242;Saint-Mars-la-Réorthe;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;10151;27;58;1042;Non vérifié
-85243;Brem-sur-Mer;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;29159;27;58;2993;Non vérifié
-85244;Saint-Martin-de-Fraigneau;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;7745;27;58;795;Non vérifié
-85245;Saint-Martin-des-Fontaines;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;1617;27;58;166;Non vérifié
-85246;Saint-Martin-des-Noyers;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;24940;27;58;2560;Non vérifié
-85247;Saint-Martin-des-Tilleuls;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;11204;27;58;1150;Non vérifié
-85248;Saint-Martin-Lars-en-Sainte-Hermine;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;4082;27;58;419;Non vérifié
-85250;Saint-Mathurin;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;24317;27;58;2496;Non vérifié
-85251;Saint-Maurice-des-Noues;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;6255;27;58;642;Non vérifié
-85252;Saint-Maurice-le-Girard;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;5816;27;58;597;Non vérifié
-85254;Saint-Mesmin;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;17283;27;58;1774;Non vérifié
-85255;Saint-Michel-en-l'Herm;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;22690;27;58;2329;Non vérifié
-85256;Saint-Michel-le-Cloucq;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;12207;27;58;1253;Non vérifié
-85259;Saint-Paul-en-Pareds;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;13415;27;58;1377;Non vérifié
-85260;Saint-Paul-Mont-Penit;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;8573;27;58;880;Non vérifié
-85261;Sainte-Pexine;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;2835;27;58;291;Non vérifié
-85262;Saint-Philbert-de-Bouaine;85;eau potable : Grandlieu;129096;2024;88,1;1,1;8,3;66,7;conforme;390258;23174;17;53;3653;Non vérifié
-85264;Saint-Pierre-du-Chemin;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;13191;27;58;1354;Non vérifié
-85265;Saint-Pierre-le-Vieux;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;8934;27;58;917;Non vérifié
-85266;Saint-Prouant;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;16231;27;58;1666;Non vérifié
-85267;Sainte-Radégonde-des-Noyers;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;9645;27;58;990;Non vérifié
-85268;Saint-Révérend;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;15091;27;58;1549;Non vérifié
-85269;Saint-Sigismond;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;4170;27;58;428;Non vérifié
-85271;Saint-Sulpice-en-Pareds;85;eau potable :  Vendée Eau;176142;2023;87,1;1,2;8,0;66,6;conforme;6857328;4345;27;58;448;Sans anomalie apparente
-85273;Saint-Urbain;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;19485;27;58;2000;Non vérifié
-85274;Saint-Valérien;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;5426;27;58;557;Non vérifié
-85276;Saint-Vincent-Sterlanges;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;7278;27;58;747;Non vérifié
-85277;Saint-Vincent-sur-Graon;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;15734;27;58;1615;Non vérifié
-85278;Saint-Vincent-sur-Jard;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;16961;27;58;1741;Non vérifié
-85280;Sallertaine;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;34273;27;58;3518;Non vérifié
-85281;Sérigné;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;10210;27;58;1048;Non vérifié
-85282;Sigournais;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;9733;27;58;999;Non vérifié
-85284;Soullans;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;45341;27;58;4654;Non vérifié
-85285;Le Tablier;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;7453;27;58;765;Non vérifié
-85286;La Taillée;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;5358;27;58;550;Non vérifié
-85287;Tallud-Sainte-Gemme;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;4413;27;58;453;Non vérifié
-85288;Talmont-Saint-Hilaire;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;82732;27;58;8492;Non vérifié
-85289;Terval;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;20917;27;58;2147;Non vérifié
-85290;Thiré;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;5183;27;58;532;Non vérifié
-85291;Thorigny;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;12421;27;58;1275;Non vérifié
-85292;Rives-du-Fougerais;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;14613;27;58;1500;Non vérifié
-85293;Tiffauges;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;15042;27;58;1544;Non vérifié
-85294;La Tranche-sur-Mer;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;30552;27;58;3136;Non vérifié
-85295;Treize-Septiers;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;33280;27;58;3416;Non vérifié
-85296;Treize-Vents;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;11944;27;58;1226;Non vérifié
-85297;Triaize;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;10434;27;58;1071;Non vérifié
-85298;Vairé;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;19095;27;58;1960;Non vérifié
-85300;Venansault;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;46344;27;58;4757;Non vérifié
-85301;Vendrennes;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;17526;27;58;1799;Non vérifié
-85302;Chanverrie;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;55073;27;58;5653;Non vérifié
-85303;Vix;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;17877;27;58;1835;Non vérifié
-85304;Vouillé-les-Marais;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;7852;27;58;806;Non vérifié
-85305;Vouvant;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;8076;27;58;829;Non vérifié
-85306;Xanton-Chassenon;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;7239;27;58;743;Non vérifié
-85307;La Faute-sur-Mer;85;eau potable :  Vendée Eau;176142;2021;88,1;1,1;8,3;66,7;conforme;6238507;5812;24;51;660;Sans anomalie apparente
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement);Donnée suspecte (voir LISEZMOI)
+85001;L'Aiguillon-la-Presqu'île;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;27717;27;58;2845;Non vérifié;non
+85002;L' Aiguillon-sur-Vie;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;22183;27;58;2277;Non vérifié;non
+85003;Aizenay;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;100979;27;58;10365;Non vérifié;non
+85004;Angles;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;30347;27;58;3115;Non vérifié;non
+85005;Antigny;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;10005;27;58;1027;Non vérifié;non
+85006;Apremont;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;20537;27;58;2108;Non vérifié;non
+85008;Aubigny-Les Clouzeaux;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;70057;27;58;7191;Non vérifié;non
+85009;Auchay-sur-Vendée;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;10931;27;58;1122;Non vérifié;non
+85010;Avrillé;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;13668;27;58;1403;Non vérifié;non
+85011;Barbâtre;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;17770;27;58;1824;Non vérifié;non
+85012;La Barre-de-Monts;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;23060;27;58;2367;Non vérifié;non
+85013;Bazoges-en-Paillers;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;15149;27;58;1555;Non vérifié;non
+85014;Bazoges-en-Pareds;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;11535;27;58;1184;Non vérifié;non
+85015;Beaufou;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;16396;27;58;1683;Non vérifié;non
+85016;Beaulieu-sous-la-Roche;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;23586;27;58;2421;Non vérifié;non
+85017;Beaurepaire;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;23235;27;58;2385;Non vérifié;non
+85018;Beauvoir-sur-Mer;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;39310;27;58;4035;Non vérifié;non
+85019;Bellevigny;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;60792;27;58;6240;Non vérifié;non
+85020;Benet;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;39836;27;58;4089;Non vérifié;non
+85021;La Bernardière;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;18637;27;58;1913;Non vérifié;non
+85022;Le Bernard;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;12850;27;58;1319;Non vérifié;non
+85023;Bessay;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;4442;27;58;456;Non vérifié;non
+85024;Bois-de-Céné;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;21979;27;58;2256;Non vérifié;non
+85025;La Boissière-de-Montaigu;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;22514;27;58;2311;Non vérifié;non
+85026;La Boissière-des-Landes;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;14263;27;58;1464;Non vérifié;non
+85028;Bouillé-Courdault;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;5797;27;58;595;Non vérifié;non
+85029;Bouin;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;21482;27;58;2205;Non vérifié;non
+85031;Le Boupère;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;30698;27;58;3151;Non vérifié;non
+85033;Bourneau;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;6917;27;58;710;Non vérifié;non
+85034;Bournezeau;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;33630;27;58;3452;Non vérifié;non
+85035;Bretignolles-sur-Mer;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;52063;27;58;5344;Non vérifié;non
+85036;La Bretonnière-la-Claye;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;5709;27;58;586;Non vérifié;non
+85037;Breuil-Barret;85;eau potable :  Vendée Eau;176142;2022;88,5;1,1;8,4;66,7;conforme;6263802;5362;24;51;606;Sans anomalie apparente;non
+85038;Les Brouzils;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;28623;27;58;2938;Non vérifié;non
+85039;La Bruffière;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;38843;27;58;3987;Non vérifié;non
+85040;La Caillère-Saint-Hilaire;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;10717;27;58;1100;Non vérifié;non
+85041;Cezais;85;eau potable :  Vendée Eau;176142;2023;87,1;1,2;8,0;66,6;conforme;6857328;2987;27;58;308;Sans anomalie apparente;non
+85042;Chaillé-les-Marais;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;18744;27;58;1924;Non vérifié;non
+85045;La Chaize-Giraud;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;10950;27;58;1124;Non vérifié;non
+85046;La Chaize-le-Vicomte;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;38463;27;58;3948;Non vérifié;non
+85047;Challans;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;223518;27;58;22943;Non vérifié;non
+85049;Champagné-les-Marais;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;17770;27;58;1824;Non vérifié;non
+85050;Le Champ-Saint-Père;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;20800;27;58;2135;Non vérifié;non
+85051;Chantonnay;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;83365;27;58;8557;Non vérifié;non
+85053;La Chapelle-aux-Lys;85;eau potable :  Vendée Eau;176142;2022;88,5;1,1;8,4;66,7;conforme;6263802;2327;24;51;263;Sans anomalie apparente;non
+85054;La Chapelle-Hermier;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;10697;27;58;1098;Non vérifié;non
+85055;La Chapelle-Palluau;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;10950;27;58;1124;Non vérifié;non
+85056;La Chapelle-Thémer;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;3829;27;58;393;Non vérifié;non
+85058;Chasnais;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;7969;27;58;818;Non vérifié;non
+85059;La Châtaigneraie;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;25330;27;58;2600;Non vérifié;non
+85061;Château-Guibert;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;15432;27;58;1584;Non vérifié;non
+85062;Châteauneuf;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;11106;27;58;1140;Non vérifié;non
+85064;Chauché;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;25457;27;58;2613;Non vérifié;non
+85065;Chavagnes-en-Paillers;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;36300;27;58;3726;Non vérifié;non
+85066;Chavagnes-les-Redoux;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;8349;27;58;857;Non vérifié;non
+85067;Cheffois;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;9830;27;58;1009;Non vérifié;non
+85070;Coëx;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;33397;27;58;3428;Non vérifié;non
+85071;Commequiers;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;36388;27;58;3735;Non vérifié;non
+85072;La Copechagnière;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;10190;27;58;1046;Non vérifié;non
+85073;Corpe;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;9976;27;58;1024;Non vérifié;non
+85074;La Couture;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;2250;27;58;231;Non vérifié;non
+85076;Cugand;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;55638;27;58;5711;Non vérifié;non
+85077;Curzon;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;4686;27;58;481;Non vérifié;non
+85078;Damvix;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;7141;27;58;733;Non vérifié;non
+85080;Doix lès Fontaines;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;17332;27;58;1779;Non vérifié;non
+85081;Dompierre-sur-Yon;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;45058;27;58;4625;Non vérifié;non
+85082;Les Epesses;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;29061;27;58;2983;Non vérifié;non
+85083;L' Épine;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;15938;27;58;1636;Non vérifié;non
+85084;Essarts en Bocage;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;66745;27;58;6851;Non vérifié;non
+85086;Falleron;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;16805;27;58;1725;Non vérifié;non
+85087;Faymoreau;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;2036;27;58;209;Non vérifié;non
+85088;Le Fenouiller;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;48497;27;58;4978;Non vérifié;non
+85089;La Ferrière;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;53135;27;58;5454;Non vérifié;non
+85090;Sèvremont;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;62205;27;58;6385;Non vérifié;non
+85092;Fontenay-le-Comte;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;136967;27;58;14059;Non vérifié;non
+85093;Fougeré;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;12080;27;58;1240;Non vérifié;non
+85094;Foussais-Payré;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;11379;27;58;1168;Non vérifié;non
+85095;Froidfond;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;21511;27;58;2208;Non vérifié;non
+85096;La Garnache;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;53729;27;58;5515;Non vérifié;non
+85097;La Gaubretière;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;31419;27;58;3225;Non vérifié;non
+85098;Genétouze;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;19592;27;58;2011;Non vérifié;non
+85099;Le Girouard;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;11262;27;58;1156;Non vérifié;non
+85100;Givrand;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;21482;27;58;2205;Non vérifié;non
+85101;Le Givre;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;5212;27;58;535;Non vérifié;non
+85102;Grand'Landes;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;7063;27;58;725;Non vérifié;non
+85103;Grosbreuil;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;21638;27;58;2221;Non vérifié;non
+85104;Grues;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;9031;27;58;927;Non vérifié;non
+85105;Le Gué-de-Velluire;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;5115;27;58;525;Non vérifié;non
+85106;La Guérinière;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;13415;27;58;1377;Non vérifié;non
+85108;L' Herbergement;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;33923;27;58;3482;Non vérifié;non
+85109;Les Herbiers;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;160953;27;58;16521;Non vérifié;non
+85110;L' Hermenault;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;8904;27;58;914;Non vérifié;non
+85111;L' Île-d'Elle;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;14633;27;58;1502;Non vérifié;non
+85112;L' Île-d'Olonne;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;27298;27;58;2802;Non vérifié;non
+85113;L' Île-d'Yeu;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;47572;27;58;4883;Non vérifié;non
+85114;Jard-sur-Mer;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;31516;27;58;3235;Non vérifié;non
+85115;La Jaudonnière;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;6527;27;58;670;Non vérifié;non
+85116;La Jonchère;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;4852;27;58;498;Non vérifié;non
+85117;Lairoux;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;5865;27;58;602;Non vérifié;non
+85118;Landeronde;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;22437;27;58;2303;Non vérifié;non
+85119;Les Landes-Genusson;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;25700;27;58;2638;Non vérifié;non
+85120;Landevieille;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;14799;27;58;1519;Non vérifié;non
+85121;Le Langon;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;10181;27;58;1045;Non vérifié;non
+85123;Liez;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;2942;27;58;302;Non vérifié;non
+85125;Loge-Fougereuse;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;3634;27;58;373;Non vérifié;non
+85126;Longèves;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;13337;27;58;1369;Non vérifié;non
+85127;Longeville-sur-Mer;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;25574;27;58;2625;Non vérifié;non
+85128;Luçon;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;91743;27;58;9417;Non vérifié;non
+85129;Les Lucs-sur-Boulogne;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;36056;27;58;3701;Non vérifié;non
+85130;Maché;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;17838;27;58;1831;Non vérifié;non
+85131;Les Magnils-Reigniers;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;14477;27;58;1486;Non vérifié;non
+85132;Maillé;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;7394;27;58;759;Non vérifié;non
+85133;Maillezais;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;8671;27;58;890;Non vérifié;non
+85134;Mallièvre;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;2445;27;58;251;Non vérifié;non
+85135;Mareuil-sur-Lay-Dissais;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;27356;27;58;2808;Non vérifié;non
+85136;Marillet;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;1198;27;58;123;Non vérifié;non
+85137;Marsais-Sainte-Radégonde;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;5387;27;58;553;Non vérifié;non
+85138;Martinet;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;11973;27;58;1229;Non vérifié;non
+85139;Le Mazeau;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;4520;27;58;464;Non vérifié;non
+85140;La Meilleraie-Tillay;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;14467;27;58;1485;Non vérifié;non
+85141;Menomblet;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;6673;27;58;685;Non vérifié;non
+85142;La Merlatière;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;9830;27;58;1009;Non vérifié;non
+85143;Mervent;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;10356;27;58;1063;Non vérifié;non
+85144;Mesnard-la-Barotière;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;15179;27;58;1558;Non vérifié;non
+85145;Monsireigne;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;9733;27;58;999;Non vérifié;non
+85146;Montaigu-Vendée;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;205894;27;58;21134;Non vérifié;non
+85147;Montournais;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;15880;27;58;1630;Non vérifié;non
+85148;Montreuil;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;7969;27;58;818;Non vérifié;non
+85149;Moreilles;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;3965;27;58;407;Non vérifié;non
+85151;Mortagne-sur-Sèvre;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;59009;27;58;6057;Non vérifié;non
+85152;Les Achards;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;53758;27;58;5518;Non vérifié;non
+85153;Mouchamps;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;29373;27;58;3015;Non vérifié;non
+85154;Mouilleron-Saint-Germain;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;16991;27;58;1744;Non vérifié;non
+85155;Mouilleron-le-Captif;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;51371;27;58;5273;Non vérifié;non
+85156;Moutiers-les-Mauxfaits;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;23235;27;58;2385;Non vérifié;non
+85157;Moutiers-sur-le-Lay;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;8213;27;58;843;Non vérifié;non
+85158;Mouzeuil-Saint-Martin;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;12012;27;58;1233;Non vérifié;non
+85159;Nalliers;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;23274;27;58;2389;Non vérifié;non
+85160;Nesmy;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;30201;27;58;3100;Non vérifié;non
+85161;Nieul-le-Dolent;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;25047;27;58;2571;Non vérifié;non
+85162;Rives-d'Autise;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;19835;27;58;2036;Non vérifié;non
+85163;Noirmoutier-en-l'Île;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;43889;27;58;4505;Non vérifié;non
+85164;Notre-Dame-de-Monts;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;23576;27;58;2420;Non vérifié;non
+85167;L' Orbrie;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;7872;27;58;808;Non vérifié;non
+85169;Palluau;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;10989;27;58;1128;Non vérifié;non
+85171;Péault;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;6128;27;58;629;Non vérifié;non
+85172;Le Perrier;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;22212;27;58;2280;Non vérifié;non
+85174;Petosse;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;6703;27;58;688;Non vérifié;non
+85175;Les Pineaux;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;6703;27;58;688;Non vérifié;non
+85176;Pissotte;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;11028;27;58;1132;Non vérifié;non
+85177;Les Velluire-sur-Vendée;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;13230;27;58;1358;Non vérifié;non
+85178;Le Poiré-sur-Vie;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;84261;27;58;8649;Non vérifié;non
+85179;Poiroux;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;12139;27;58;1246;Non vérifié;non
+85181;Pouillé;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;6138;27;58;630;Non vérifié;non
+85182;Pouzauges;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;55219;27;58;5668;Non vérifié;non
+85184;Puy-de-Serre;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;3030;27;58;311;Non vérifié;non
+85185;Puyravault;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;6255;27;58;642;Non vérifié;non
+85186;La Rabatelière;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;9976;27;58;1024;Non vérifié;non
+85187;Réaumur;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;8349;27;58;857;Non vérifié;non
+85188;La Réorthe;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;11311;27;58;1161;Non vérifié;non
+85189;Notre-Dame-de-Riez;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;21560;27;58;2213;Non vérifié;non
+85190;Rocheservière;85;eau potable : Grandlieu;129096;2024;88,1;1,1;8,3;66,7;conforme;390258;22800;17;53;3594;Non vérifié;non
+85191;La Roche-sur-Yon;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;534356;27;58;54849;Non vérifié;non
+85192;Rochetrejoux;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;9577;27;58;983;Non vérifié;non
+85193;Rosnay;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;6547;27;58;672;Non vérifié;non
+85194;Les Sables-d'Olonne;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;483248;27;58;49603;Non vérifié;non
+85196;Saint-André-Goule-d'Oie;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;19095;27;58;1960;Non vérifié;non
+85197;Montréverd;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;37576;27;58;3857;Non vérifié;non
+85198;Saint-Aubin-des-Ormeaux;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;13581;27;58;1394;Non vérifié;non
+85199;Saint-Aubin-la-Plaine;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;5154;27;58;529;Non vérifié;non
+85200;Saint-Avaugourd-des-Landes;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;11817;27;58;1213;Non vérifié;non
+85201;Saint-Benoist-sur-Mer;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;5017;27;58;515;Non vérifié;non
+85202;Sainte-Cécile;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;15344;27;58;1575;Non vérifié;non
+85204;Saint-Christophe-du-Ligneron;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;26567;27;58;2727;Non vérifié;non
+85205;Saint-Cyr-des-Gâts;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;5193;27;58;533;Non vérifié;non
+85206;Saint-Cyr-en-Talmondais;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;3926;27;58;403;Non vérifié;non
+85207;Saint-Denis-du-Payré;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;4228;27;58;434;Non vérifié;non
+85208;Saint-Denis-la-Chevasse;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;23567;27;58;2419;Non vérifié;non
+85209;Saint-Étienne-de-Brillouet;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;6001;27;58;616;Non vérifié;non
+85210;Saint-Étienne-du-Bois;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;22514;27;58;2311;Non vérifié;non
+85211;Sainte-Flaive-des-Loups;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;25184;27;58;2585;Non vérifié;non
+85213;Rives de l'Yon;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;42233;27;58;4335;Non vérifié;non
+85214;Sainte-Foy;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;26470;27;58;2717;Non vérifié;non
+85215;Saint-Fulgent;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;38911;27;58;3994;Non vérifié;non
+85216;Sainte-Gemme-la-Plaine;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;20303;27;58;2084;Non vérifié;non
+85218;Saint-Georges-de-Pointindoux;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;18218;27;58;1870;Non vérifié;non
+85220;Saint-Germain-de-Prinçay;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;15977;27;58;1640;Non vérifié;non
+85221;Saint-Gervais;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;27093;27;58;2781;Non vérifié;non
+85222;Saint-Gilles-Croix-de-Vie;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;81183;27;58;8333;Non vérifié;non
+85223;Sainte-Hermine;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;35179;27;58;3611;Non vérifié;non
+85226;Saint-Hilaire-de-Riez;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;127371;27;58;13074;Non vérifié;non
+85227;Saint-Hilaire-des-Loges;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;18676;27;58;1917;Non vérifié;non
+85229;Saint-Hilaire-de-Voust;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;6255;27;58;642;Non vérifié;non
+85231;Saint-Hilaire-la-Forêt;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;8242;27;58;846;Non vérifié;non
+85232;Saint-Hilaire-le-Vouhis;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;10726;27;58;1101;Non vérifié;non
+85233;Saint-Jean-de-Beugné;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;6167;27;58;633;Non vérifié;non
+85234;Saint-Jean-de-Monts;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;86395;27;58;8868;Non vérifié;non
+85235;Saint-Juire-Champgillon;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;4140;27;58;425;Non vérifié;non
+85236;Saint-Julien-des-Landes;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;20313;27;58;2085;Non vérifié;non
+85237;Saint-Laurent-de-la-Salle;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;3877;27;58;398;Non vérifié;non
+85238;Saint-Laurent-sur-Sèvre;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;34585;27;58;3550;Non vérifié;non
+85239;Saint-Maixent-sur-Vie;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;12022;27;58;1234;Non vérifié;non
+85240;Saint-Malô-du-Bois;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;15705;27;58;1612;Non vérifié;non
+85242;Saint-Mars-la-Réorthe;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;10151;27;58;1042;Non vérifié;non
+85243;Brem-sur-Mer;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;29159;27;58;2993;Non vérifié;non
+85244;Saint-Martin-de-Fraigneau;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;7745;27;58;795;Non vérifié;non
+85245;Saint-Martin-des-Fontaines;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;1617;27;58;166;Non vérifié;non
+85246;Saint-Martin-des-Noyers;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;24940;27;58;2560;Non vérifié;non
+85247;Saint-Martin-des-Tilleuls;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;11204;27;58;1150;Non vérifié;non
+85248;Saint-Martin-Lars-en-Sainte-Hermine;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;4082;27;58;419;Non vérifié;non
+85250;Saint-Mathurin;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;24317;27;58;2496;Non vérifié;non
+85251;Saint-Maurice-des-Noues;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;6255;27;58;642;Non vérifié;non
+85252;Saint-Maurice-le-Girard;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;5816;27;58;597;Non vérifié;non
+85254;Saint-Mesmin;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;17283;27;58;1774;Non vérifié;non
+85255;Saint-Michel-en-l'Herm;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;22690;27;58;2329;Non vérifié;non
+85256;Saint-Michel-le-Cloucq;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;12207;27;58;1253;Non vérifié;non
+85259;Saint-Paul-en-Pareds;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;13415;27;58;1377;Non vérifié;non
+85260;Saint-Paul-Mont-Penit;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;8573;27;58;880;Non vérifié;non
+85261;Sainte-Pexine;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;2835;27;58;291;Non vérifié;non
+85262;Saint-Philbert-de-Bouaine;85;eau potable : Grandlieu;129096;2024;88,1;1,1;8,3;66,7;conforme;390258;23174;17;53;3653;Non vérifié;non
+85264;Saint-Pierre-du-Chemin;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;13191;27;58;1354;Non vérifié;non
+85265;Saint-Pierre-le-Vieux;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;8934;27;58;917;Non vérifié;non
+85266;Saint-Prouant;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;16231;27;58;1666;Non vérifié;non
+85267;Sainte-Radégonde-des-Noyers;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;9645;27;58;990;Non vérifié;non
+85268;Saint-Révérend;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;15091;27;58;1549;Non vérifié;non
+85269;Saint-Sigismond;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;4170;27;58;428;Non vérifié;non
+85271;Saint-Sulpice-en-Pareds;85;eau potable :  Vendée Eau;176142;2023;87,1;1,2;8,0;66,6;conforme;6857328;4345;27;58;448;Sans anomalie apparente;non
+85273;Saint-Urbain;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;19485;27;58;2000;Non vérifié;non
+85274;Saint-Valérien;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;5426;27;58;557;Non vérifié;non
+85276;Saint-Vincent-Sterlanges;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;7278;27;58;747;Non vérifié;non
+85277;Saint-Vincent-sur-Graon;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;15734;27;58;1615;Non vérifié;non
+85278;Saint-Vincent-sur-Jard;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;16961;27;58;1741;Non vérifié;non
+85280;Sallertaine;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;34273;27;58;3518;Non vérifié;non
+85281;Sérigné;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;10210;27;58;1048;Non vérifié;non
+85282;Sigournais;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;9733;27;58;999;Non vérifié;non
+85284;Soullans;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;45341;27;58;4654;Non vérifié;non
+85285;Le Tablier;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;7453;27;58;765;Non vérifié;non
+85286;La Taillée;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;5358;27;58;550;Non vérifié;non
+85287;Tallud-Sainte-Gemme;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;4413;27;58;453;Non vérifié;non
+85288;Talmont-Saint-Hilaire;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;82732;27;58;8492;Non vérifié;non
+85289;Terval;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;20917;27;58;2147;Non vérifié;non
+85290;Thiré;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;5183;27;58;532;Non vérifié;non
+85291;Thorigny;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;12421;27;58;1275;Non vérifié;non
+85292;Rives-du-Fougerais;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;14613;27;58;1500;Non vérifié;non
+85293;Tiffauges;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;15042;27;58;1544;Non vérifié;non
+85294;La Tranche-sur-Mer;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;30552;27;58;3136;Non vérifié;non
+85295;Treize-Septiers;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;33280;27;58;3416;Non vérifié;non
+85296;Treize-Vents;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;11944;27;58;1226;Non vérifié;non
+85297;Triaize;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;10434;27;58;1071;Non vérifié;non
+85298;Vairé;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;19095;27;58;1960;Non vérifié;non
+85300;Venansault;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;46344;27;58;4757;Non vérifié;non
+85301;Vendrennes;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;17526;27;58;1799;Non vérifié;non
+85302;Chanverrie;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;55073;27;58;5653;Non vérifié;non
+85303;Vix;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;17877;27;58;1835;Non vérifié;non
+85304;Vouillé-les-Marais;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;7852;27;58;806;Non vérifié;non
+85305;Vouvant;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;8076;27;58;829;Non vérifié;non
+85306;Xanton-Chassenon;85;eau potable :  Vendée Eau;176142;2024;87,3;1,2;8,0;66,6;conforme;6880980;7239;27;58;743;Non vérifié;non
+85307;La Faute-sur-Mer;85;eau potable :  Vendée Eau;176142;2021;88,1;1,1;8,3;66,7;conforme;6238507;5812;24;51;660;Sans anomalie apparente;non

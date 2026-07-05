@@ -7,229 +7,229 @@
 # Méthodologie et code : https://github.com/btaverne/dourdata
 # Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
 # Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
-Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
-66002;Alénya;66;eau potable : ALENYA;208956;2024;81,3;5,9;25,8;70,2;conforme;52416;52416;38;83;3782;Non vérifié
-66003;Amélie-les-Bains-Palalda;66;eau potable;95424;2024;76,9;4,3;14,2;67,8;conforme;335873;65875;51;110;3529;Non vérifié
-66004;Les Angles;66;eau potable : Les Angles;95213;2024;60,2;7,5;11,3;67,3;non conforme;109938;109938;505;242;597;Non vérifié
-66005;Angoustrine-Villeneuve-des-Escaldes;66;eau potable;95427;2024;60,9;6,4;9,9;67,0;non conforme;64824;31767;161;236;542;Non vérifié
-66006;Ansignan;66;eau potable : Ansignan;95216;2024;46,6;5,7;5,0;66,0;non conforme;4889;4889;82;419;164;Non vérifié
-66007;Arboussols;66;eau potable : Arboussols - Marcevol;311414;2024;55,3;4,0;5,0;66,0;non conforme;5417;5417;114;292;130;Non vérifié
-66008;Argelès-sur-Mer;66;eau potable : ARGELES SUR MER - SMNPR;95510;2024;92,5;2,4;30,0;71,0;conforme;129744;129744;33;29;10616;Non vérifié
-66009;Arles-sur-Tech;66;eau potable;95424;2024;76,9;4,3;14,2;67,8;conforme;335873;52547;51;110;2815;Non vérifié
-66010;Ayguatébia-Talau;66;eau potable;95217;2024;77,2;1,0;3,4;65,7;conforme;876;876;49;107;49;Non vérifié
-66011;Bages;66;eau potable : BAGES;95516;2024;82,2;4,2;19,4;68,9;conforme;45913;45913;28;79;4560;Non vérifié
-66012;Baho;66;eau potable : Baho;95495;2024;69,0;8,8;19,6;68,9;conforme;57077;57077;48;164;3231;Non vérifié
-66013;Baillestavy;66;eau potable;218001;2024;94,0;0,2;2,6;65,5;conforme;183;183;4;28;112;Non vérifié
-66014;Baixas;66;eau potable : Baixas;95493;2024;90,5;4,4;41,7;73,3;conforme;28282;28282;28;41;2777;Non vérifié
-66015;Banyuls-dels-Aspres;66;eau potable : Banyuls des Aspres;310914;2024;76,1;3,2;10,3;67,1;conforme;22531;22531;42;114;1483;Non vérifié
-66016;Banyuls-sur-Mer;66;eau potable : BANYULS - CERBERE - COLLIOURE - PORT VENDRES;95509;2024;70,0;8,7;20,3;69,1;conforme;484772;174656;106;187;4496;Non vérifié
-66017;Le Barcarès;66;eau potable : Le Barcares;95500;2024;78,2;10,2;36,8;72,4;conforme;282427;282427;127;101;6109;Non vérifié
-66018;La Bastide;66;eau potable : La Bastide;95219;2024;69,7;1,3;3,0;65,6;conforme;641;641;29;159;60;Non vérifié
-66019;Bélesta;66;eau potable;95221;2024;79,5;1,3;4,8;66,0;conforme;3250;3250;33;98;270;Non vérifié
-66020;Bolquère;66;eau potable;192098;2024;84,8;1,8;10,1;67,0;conforme;20814;20814;70;65;816;Non vérifié
-66021;Bompas;66;eau potable : Bompas;200595;2024;76,5;6,5;21,3;69,3;conforme;104390;104390;37;111;7832;Non vérifié
-66022;Boule-d'Amont;66;eau potable : Prieuré de Serrabona;230294;2024;100,0;0,0;0,0;65,0;conforme;0;0;0;0;63;Non vérifié
-66023;Bouleternère;66;eau potable;95426;2024;47,6;10,0;9,1;66,8;non conforme;164250;47205;136;401;951;Non vérifié
-66024;Le Boulou;66;eau potable : Le Boulou;95228;2024;71,2;6,6;16,2;68,2;conforme;139722;139722;70;148;5487;Non vérifié
-66025;Bourg-Madame;66;eau potable;95445;2024;66,1;7,3;14,2;67,8;non conforme;140206;53719;125;188;1182;Non vérifié
-66026;Brouilla;66;eau potable : Brouilla;310894;2024;43,5;15,5;11,9;67,4;non conforme;89954;89954;157;511;1572;Non vérifié
-66027;La Cabanasse;66;eau potable;95449;2024;42,7;13,1;9,8;67,0;non conforme;138568;87743;337;488;713;Non vérifié
-66028;Cabestany;66;eau potable : Cabestany;95230;2024;70,6;11,8;28,4;70,7;non conforme;272504;272504;71;152;10465;Non vérifié
-66029;Caixas;66;eau potable : Caixas;310934;2024;61,0;1,2;1,9;65,4;non conforme;4687;4687;96;229;134;Non vérifié
-66030;Calce;66;eau potable : Calce;95497;2024;68,8;1,8;3,9;65,8;conforme;5433;5433;66;170;226;Non vérifié
-66032;Calmeilles;66;eau potable : autres communes : Calmeilles, Camelas, Castelnou, Fourques, Llauro, Montauriol, Oms, Passa, Ste Colombe de la Commanderie, Saint Jean Lasseille, Terrats, Thuir, Tordères, Tresserre, Villemolaque;310974;2024;64,5;6,1;11,2;67,2;non conforme;567758;1927;88;214;60;Non vérifié
-66033;Camélas;66;eau potable : autres communes : Calmeilles, Camelas, Castelnou, Fourques, Llauro, Montauriol, Oms, Passa, Ste Colombe de la Commanderie, Saint Jean Lasseille, Terrats, Thuir, Tordères, Tresserre, Villemolaque;310974;2024;64,5;6,1;11,2;67,2;non conforme;567758;14804;88;214;461;Non vérifié
-66034;Campôme;66;eau potable : Castellanne;311334;2024;66,0;5,5;10,6;67,1;non conforme;27041;8942;198;189;124;Non vérifié
-66035;Campoussy;66;eau potable : Campoussy;95232;2024;47,1;1,0;0,9;65,2;non conforme;1058;1058;69;407;42;Non vérifié
-66036;Canaveilles;66;eau potable;95234;2024;100,0;0,0;2,8;65,6;conforme;0;0;0;0;53;Non vérifié
-66037;Canet-en-Roussillon;66;eau potable : Canet en Roussillon;95498;2024;85,9;5,1;31,2;71,2;conforme;205491;205491;43;60;13227;Non vérifié
-66038;Canohès;66;eau potable : Canohes;95492;2024;72,1;7,3;18,9;68,8;conforme;115746;115746;48;141;6616;Non vérifié
-66039;Caramany;66;eau potable : Caramany;95236;2024;67,4;4,0;8,2;66,6;conforme;4234;4234;90;178;129;Non vérifié
-66040;Casefabre;66;eau potable;95239;2022;43,0;6,1;4,6;65,9;non conforme;2672;2672;166;482;44;Sans anomalie apparente
-66041;Cases-de-Pène;66;eau potable : Cases de Pene;95241;2024;57,6;8,8;11,9;67,4;non conforme;40857;40857;115;270;973;Non vérifié
-66042;Cassagnes;66;eau potable : Cassagnes;95243;2024;88,5;1,1;8,5;66,7;conforme;1730;1730;16;47;294;Non vérifié
-66043;Casteil;66;eau potable;95442;2024;76,0;2,9;9,4;66,9;conforme;41461;2663;52;113;139;Non vérifié
-66044;Castelnou;66;eau potable : autres communes : Calmeilles, Camelas, Castelnou, Fourques, Llauro, Montauriol, Oms, Passa, Ste Colombe de la Commanderie, Saint Jean Lasseille, Terrats, Thuir, Tordères, Tresserre, Villemolaque;310974;2024;64,5;6,1;11,2;67,2;non conforme;567758;8992;88;214;280;Non vérifié
-66045;Catllar;66;eau potable;95244;2024;61,3;8,7;13,8;67,8;non conforme;17783;17783;67;231;723;Non vérifié
-66046;Caudiès-de-Fenouillèdes;66;eau potable : Caudiès-de-Fenouillèdes;192101;2024;41,2;6,2;4,4;65,9;non conforme;38471;38471;180;524;586;Non vérifié
-66047;Caudiès-de-Conflent;66;eau potable : caudiès de conflent;95248;2024;67,5;1,3;2,7;65,5;conforme;1936;1936;231;176;23;Non vérifié
-66048;Cerbère;66;eau potable : BANYULS - CERBERE - COLLIOURE - PORT VENDRES;95509;2024;70,0;8,7;20,3;69,1;conforme;484772;46966;106;187;1209;Non vérifié
-66049;Céret;66;eau potable;95424;2024;76,9;4,3;14,2;67,8;conforme;335873;140394;51;110;7521;Non vérifié
-66050;Claira;66;eau potable : Claira;95251;2024;80,6;4,5;18,6;68,7;conforme;58933;58933;33;88;4922;Non vérifié
-66051;Clara-Villerach;66;eau potable : En Gorner;311374;2024;63,3;9,8;16,9;68,4;non conforme;364461;11084;115;260;265;Non vérifié
-66052;Codalet;66;eau potable : En Gorner;311374;2024;63,3;9,8;16,9;68,4;non conforme;364461;14639;115;260;350;Non vérifié
-66053;Collioure;66;eau potable : BANYULS - CERBERE - COLLIOURE - PORT VENDRES;95509;2024;70,0;8,7;20,3;69,1;conforme;484772;107062;106;187;2756;Non vérifié
-66054;Conat;66;eau potable : Conat;95253;2024;96,3;0,2;5,4;66,1;conforme;75;75;3;14;65;Non vérifié
-66055;Corbère;66;eau potable;95426;2024;47,6;10,0;9,1;66,8;non conforme;164250;38767;136;401;781;Non vérifié
-66056;Corbère-les-Cabanes;66;eau potable;95426;2024;47,6;10,0;9,1;66,8;non conforme;164250;60210;136;401;1213;Non vérifié
-66057;Corneilla-de-Conflent;66;eau potable;95442;2024;76,0;2,9;9,4;66,9;conforme;41461;10097;52;113;527;Non vérifié
-66058;Corneilla-la-Rivière;66;eau potable : Corneilla-la-Rivière;95255;2024;62,3;10,2;16,8;68,4;non conforme;40953;40953;56;222;2004;Non vérifié
-66059;Corneilla-del-Vercol;66;eau potable : CORNEILLA DEL VERCOL;95520;2024;81,4;5,5;24,0;69,8;conforme;27764;27764;28;84;2696;Non vérifié
-66060;Corsavy;66;eau potable : Corsavy;95256;2024;55,3;5,6;7,0;66,4;non conforme;8176;8176;91;293;246;Non vérifié
-66061;Coustouges;66;eau potable : Coustouges;95259;2024;68,5;1,3;2,8;65,6;conforme;2040;2040;59;169;95;Non vérifié
-66062;Dorres;66;eau potable;95427;2024;60,9;6,4;9,9;67,0;non conforme;64824;10667;161;236;182;Non vérifié
-66063;Les Cluses;66;eau potable;201156;2024;51,1;2,7;2,9;65,6;non conforme;15768;15768;153;345;282;Non vérifié
-66064;Égat;66;eau potable;192106;2024;58,7;4,4;6,3;66,3;non conforme;21135;21135;133;254;435;Non vérifié
-66065;Elne;66;eau potable : ELNE;95261;2024;91,1;2,2;22,5;69,5;conforme;49393;49393;14;36;9511;Non vérifié
-66066;Enveitg;66;eau potable;95429;2024;62,1;5,2;8,6;66,7;non conforme;96798;45668;208;221;602;Non vérifié
-66067;Err;66;eau potable : principal;95431;2024;82,2;2,4;11,0;67,2;conforme;62608;17045;65;83;716;Non vérifié
-66068;Escaro;66;eau potable;95263;2024;64,6;1,0;1,7;65,3;non conforme;2555;2555;55;209;128;Non vérifié
-66069;Espira-de-l'Agly;66;eau potable : Espira de l'Agly;95264;2024;88,8;2,1;16,3;68,3;conforme;24290;24290;19;47;3524;Non vérifié
-66070;Espira-de-Conflent;66;eau potable : Espira de Conflent;311434;2024;70,2;4,8;11,4;67,3;conforme;5414;5414;65;153;227;Non vérifié
-66071;Estagel;66;eau potable : Estagel;95267;2024;41,9;27,4;19,8;69,0;non conforme;145014;145014;184;505;2160;Non vérifié
-66072;Estavar;66;eau potable : principal;95431;2024;82,2;2,4;11,0;67,2;conforme;62608;10546;65;83;443;Non vérifié
-66073;Estoher;66;eau potable : Estoher;311435;2024;58,5;4,6;6,5;66,3;non conforme;4433;4433;75;259;163;Non vérifié
-66074;Eus;66;eau potable : En Gorner;311374;2024;63,3;9,8;16,9;68,4;non conforme;364461;16144;115;260;386;Non vérifié
-66075;Eyne;66;eau potable : principal;95431;2024;82,2;2,4;11,0;67,2;conforme;62608;3880;65;83;163;Non vérifié
-66076;Felluns;66;eau potable : Feilluns;95268;2024;34,5;4,0;2,1;65,4;non conforme;3504;3504;163;693;59;Non vérifié
-66077;Fenouillet;66;eau potable : Fenouillet;192107;2024;17,8;15,9;3,5;65,7;non conforme;13928;13928;382;1680;100;Non vérifié
-66078;Fillols;66;eau potable;95271;2024;36,2;13,8;7,8;66,6;non conforme;21155;21155;280;644;207;Non vérifié
-66079;Finestret;66;eau potable : Lentilla;311454;2024;58,9;8,9;12,7;67,5;non conforme;112983;6442;87;256;204;Non vérifié
-66080;Fontpédrouse;66;eau potable;95274;2024;40,7;11,6;8,0;66,6;non conforme;12702;12702;278;533;125;Non vérifié
-66081;Fontrabiouse;66;eau potable : Fontrabiouse;95275;2024;69,3;3,2;7,2;66,4;conforme;8877;8877;169;161;144;Non vérifié
-66082;Formiguères;66;eau potable : Villeneuve de Formiguères;218195;2024;100,0;0,0;17,7;68,5;conforme;0;0;0;0;494;Non vérifié
-66083;Fosse;66;eau potable : Fosse;95279;2024;92,9;0,1;1,3;65,3;conforme;91;91;5;28;52;Non vérifié
-66084;Fourques;66;eau potable : autres communes : Calmeilles, Camelas, Castelnou, Fourques, Llauro, Montauriol, Oms, Passa, Ste Colombe de la Commanderie, Saint Jean Lasseille, Terrats, Thuir, Tordères, Tresserre, Villemolaque;310974;2024;64,5;6,1;11,2;67,2;non conforme;567758;43256;88;214;1347;Non vérifié
-66085;Fuilla;66;eau potable;95281;2024;79,2;1,9;7,1;66,4;conforme;6886;6886;43;98;435;Non vérifié
-66086;Glorianes;66;eau potable;95283;2024;66,9;0,7;1,5;65,3;conforme;383;383;70;171;15;Non vérifié
-66088;Ille-sur-Têt;66;eau potable : Ille sur Têt;95286;2024;55,5;17,2;21,5;69,3;non conforme;236681;236681;117;293;5556;Non vérifié
-66089;Joch;66;eau potable : Lentilla;311454;2024;58,9;8,9;12,7;67,5;non conforme;112983;13136;87;256;416;Non vérifié
-66090;Jujols;66;eau potable;95288;2024;98,8;0,1;5,3;66,1;conforme;36;36;2;7;47;Non vérifié
-66091;Lamanère;66;eau potable : Lamanère;95290;2024;66,6;1,0;2,0;65,4;conforme;949;949;42;185;62;Non vérifié
-66092;Lansac;66;eau potable : Lansac;95291;2024;75,5;1,7;5,1;66,0;conforme;931;931;29;121;89;Non vérifié
-66093;Laroque-des-Albères;66;eau potable : LAROQUE - PALAU DEL VIDRE - ST ANDRE - ST GENIS - SOREDE - VILLELONGUE DELS MONTS;95508;2024;68,3;6,4;13,8;67,8;conforme;430782;55471;67;169;2256;Non vérifié
-66094;Latour-Bas-Elne;66;eau potable : LATOUR BAS ELNE - ST CYPRIEN;95423;2024;84,1;6,5;34,4;71,9;conforme;339457;71638;61;78;3228;Non vérifié
-66095;Latour-de-Carol;66;eau potable;95429;2024;62,1;5,2;8,6;66,7;non conforme;96798;36413;208;221;480;Non vérifié
-66096;Latour-de-France;66;eau potable : Latour de France;95294;2024;48,3;13,5;12,6;67,5;non conforme;44348;44348;116;400;1043;Non vérifié
-66097;Lesquerde;66;eau potable : Lesquerde;95296;2024;33,3;3,8;1,9;65,4;non conforme;8322;8322;162;735;141;Non vérifié
-66098;La Llagonne;66;eau potable;95297;2021;74,4;2,9;8,6;66,7;conforme;12702;12702;151;124;230;Sans anomalie apparente
-66099;Llauro;66;eau potable : autres communes : Calmeilles, Camelas, Castelnou, Fourques, Llauro, Montauriol, Oms, Passa, Ste Colombe de la Commanderie, Saint Jean Lasseille, Terrats, Thuir, Tordères, Tresserre, Villemolaque;310974;2024;64,5;6,1;11,2;67,2;non conforme;567758;9987;88;214;311;Non vérifié
-66100;Llo;66;eau potable : principal;95431;2024;82,2;2,4;11,0;67,2;conforme;62608;3642;65;83;153;Non vérifié
-66101;Llupia;66;eau potable : Llupia;198789;2024;91,6;1,8;19,7;68,9;conforme;8935;8935;11;33;2199;Non vérifié
-66102;Mantet;66;eau potable;95299;2024;94,7;0,3;4,7;65,9;conforme;135;135;11;23;35;Non vérifié
-66103;Marquixanes;66;eau potable : En Gorner;311374;2024;63,3;9,8;16,9;68,4;non conforme;364461;25053;115;260;599;Non vérifié
-66104;Los Masos;66;eau potable : En Gorner;311374;2024;63,3;9,8;16,9;68,4;non conforme;364461;40403;115;260;966;Non vérifié
-66105;Matemale;66;eau potable;95301;2024;24,3;28,0;9,0;66,8;non conforme;143080;143080;1431;1141;274;Non vérifié
-66106;Maureillas-las-Illas;66;eau potable : Maureillas-las-illas;95304;2024;78,6;2,9;10,8;67,2;conforme;45897;45897;42;98;3006;Non vérifié
-66107;Maury;66;eau potable : Maury;95306;2024;18,9;29,7;6,9;66,4;non conforme;130086;130086;461;1715;773;Non vérifié
-66108;Millas;66;eau potable : Millas;95307;2024;69,3;9,6;21,6;69,3;non conforme;92856;92856;58;162;4417;Non vérifié
-66109;Molitg-les-Bains;66;eau potable : Castellanne;311334;2024;66,0;5,5;10,6;67,1;non conforme;27041;18099;198;189;251;Non vérifié
-66111;Montalba-le-Château;66;eau potable;95309;2024;72,6;5,1;13,4;67,7;conforme;4635;4635;78;139;163;Non vérifié
-66112;Montauriol;66;eau potable : autres communes : Calmeilles, Camelas, Castelnou, Fourques, Llauro, Montauriol, Oms, Passa, Ste Colombe de la Commanderie, Saint Jean Lasseille, Terrats, Thuir, Tordères, Tresserre, Villemolaque;310974;2024;64,5;6,1;11,2;67,2;non conforme;567758;8157;88;214;254;Non vérifié
-66113;Montbolo;66;eau potable;95424;2024;76,9;4,3;14,2;67,8;conforme;335873;3528;51;110;189;Non vérifié
-66114;Montescot;66;eau potable : MONTESCOT;95522;2024;79,7;4,5;17,4;68,5;conforme;18889;18889;33;94;1586;Non vérifié
-66115;Montesquieu-des-Albères;66;eau potable : MONTESQUIEU DES ALBERES;95514;2024;80,2;2,0;8,3;66,7;conforme;22265;22265;45;88;1353;Non vérifié
-66116;Montferrer;66;eau potable;95424;2024;76,9;4,3;14,2;67,8;conforme;335873;4069;51;110;218;Non vérifié
-66117;Mont-Louis;66;eau potable;95449;2024;42,7;13,1;9,8;67,0;non conforme;138568;18828;337;488;153;Non vérifié
-66118;Montner;66;eau potable : Montner;95316;2024;72,6;3,2;8,5;66,7;conforme;8001;8001;68;138;324;Non vérifié
-66119;Mosset;66;eau potable;95317;2024;79,4;1,2;4,6;65,9;conforme;4700;4700;40;95;321;Non vérifié
-66120;Nahuja;66;eau potable;95445;2024;66,1;7,3;14,2;67,8;non conforme;140206;3363;125;188;74;Non vérifié
-66121;Néfiach;66;eau potable : Néfiach;95319;2024;43,7;27,8;21,6;69,3;non conforme;74073;74073;147;471;1383;Non vérifié
-66122;Nohèdes;66;eau potable;95321;2024;60,5;1,2;1,8;65,4;non conforme;1971;1971;89;245;61;Non vérifié
-66123;Nyer;66;eau potable;95323;2024;84,8;0,9;5,0;66,0;conforme;690;690;13;66;148;Non vérifié
-66124;Font-Romeu-Odeillo-Via;66;eau potable;192112;2024;93,3;1,3;17,6;68,5;conforme;19649;19649;31;27;1762;Non vérifié
-66125;Olette;66;eau potable : le hameau Evol - Olette;319255;2024;31,9;13,6;6,3;66,3;non conforme;9928;9928;76;782;360;Non vérifié
-66126;Oms;66;eau potable : autres communes : Calmeilles, Camelas, Castelnou, Fourques, Llauro, Montauriol, Oms, Passa, Ste Colombe de la Commanderie, Saint Jean Lasseille, Terrats, Thuir, Tordères, Tresserre, Villemolaque;310974;2024;64,5;6,1;11,2;67,2;non conforme;567758;11689;88;214;364;Non vérifié
-66127;Opoul-Périllos;66;eau potable : Opoul Perillos;95328;2024;72,4;4,8;12,6;67,5;conforme;24230;24230;54;139;1239;Non vérifié
-66128;Oreilla;66;eau potable;95331;2024;81,7;0,4;1,7;65,3;conforme;292;292;29;85;28;Non vérifié
-66129;Ortaffa;66;eau potable : ORTAFFA;95518;2024;77,6;3,8;13,1;67,6;conforme;23010;23010;32;106;1980;Non vérifié
-66130;Osséja;66;eau potable;95445;2024;66,1;7,3;14,2;67,8;non conforme;140206;63172;125;188;1390;Non vérifié
-66132;Palau-de-Cerdagne;66;eau potable;95445;2024;66,1;7,3;14,2;67,8;non conforme;140206;18406;125;188;405;Non vérifié
-66133;Palau-del-Vidre;66;eau potable : LAROQUE - PALAU DEL VIDRE - ST ANDRE - ST GENIS - SOREDE - VILLELONGUE DELS MONTS;95508;2024;68,3;6,4;13,8;67,8;conforme;430782;81853;67;169;3329;Non vérifié
-66134;Passa;66;eau potable : autres communes : Calmeilles, Camelas, Castelnou, Fourques, Llauro, Montauriol, Oms, Passa, Ste Colombe de la Commanderie, Saint Jean Lasseille, Terrats, Thuir, Tordères, Tresserre, Villemolaque;310974;2024;64,5;6,1;11,2;67,2;non conforme;567758;35902;88;214;1118;Non vérifié
-66136;Perpignan;66;eau potable : Perpignan;95502;2024;78,6;10,4;38,4;72,7;conforme;1920055;1920055;43;101;121616;Non vérifié
-66137;Le Perthus;66;eau potable;201157;2024;80,3;3,5;14,1;67,8;conforme;10220;10220;50;125;555;Non vérifié
-66138;Peyrestortes;66;eau potable : Peyrestortes;95503;2024;76,4;6,0;19,6;68,9;conforme;26630;26630;38;112;1927;Non vérifié
-66139;Pézilla-de-Conflent;66;eau potable : Pezilla de conflent;95333;2024;66,7;1,4;2,8;65,6;conforme;869;869;52;184;46;Non vérifié
-66140;Pézilla-la-Rivière;66;eau potable : Pezilla la Rivière;95504;2024;79,4;5,7;21,8;69,4;conforme;46853;46853;31;95;4129;Non vérifié
-66141;Pia;66;eau potable : Pia;95334;2024;54,9;18,2;22,2;69,4;non conforme;380312;380312;90;300;11615;Non vérifié
-66142;Planès;66;eau potable;95336;2024;79,2;1,8;6,7;66,3;conforme;2451;2451;118;98;57;Non vérifié
-66143;Planèzes;66;eau potable : Planèzes;95339;2024;77,9;1,4;5,1;66,0;conforme;1124;1124;31;101;99;Non vérifié
-66144;Pollestres;66;eau potable : Pollestres;95486;2024;88,6;3,0;23,2;69,6;conforme;37558;37558;19;47;5548;Non vérifié
-66145;Ponteilla;66;eau potable : Ponteilla - Nyls;198791;2024;87,5;3,7;25,9;70,2;conforme;28550;28550;25;52;3101;Non vérifié
-66146;Porta;66;eau potable;95429;2024;62,1;5,2;8,6;66,7;non conforme;96798;7131;208;221;94;Non vérifié
-66147;Porté-Puymorens;66;eau potable;95429;2024;62,1;5,2;8,6;66,7;non conforme;96798;7586;208;221;100;Non vérifié
-66148;Port-Vendres;66;eau potable : BANYULS - CERBERE - COLLIOURE - PORT VENDRES;95509;2024;70,0;8,7;20,3;69,1;conforme;484772;156087;106;187;4018;Non vérifié
-66149;Prades;66;eau potable : En Gorner;311374;2024;63,3;9,8;16,9;68,4;non conforme;364461;257138;115;260;6148;Non vérifié
-66150;Prats-de-Mollo-la-Preste;66;eau potable : Prats de Mollo;95340;2024;66,9;4,4;8,9;66,8;conforme;32778;32778;82;181;1099;Non vérifié
-66151;Prats-de-Sournia;66;eau potable : Prats de Sournia;95342;2024;81,9;0,4;1,6;65,3;conforme;842;842;30;90;76;Non vérifié
-66152;Prugnanes;66;eau potable : Prugnanes;192113;2024;63,2;5,1;8,8;66,8;non conforme;2327;2327;71;211;90;Non vérifié
-66153;Prunet-et-Belpuig;66;eau potable;95346;2024;49,5;0,9;0,9;65,2;non conforme;657;657;41;378;44;Non vérifié
-66154;Puyvalador;66;eau potable : Puyvalador;95347;2024;38,9;25,3;16,1;68,2;non conforme;80340;80340;3237;573;68;Non vérifié
-66155;Py;66;eau potable;95350;2024;70,1;3,9;9,0;66,8;conforme;4171;4171;138;157;83;Non vérifié
-66156;Rabouillet;66;eau potable : Rabouillet;95351;2024;88,2;0,3;2,4;65,5;conforme;383;383;12;46;85;Non vérifié
-66157;Railleu;66;eau potable;95353;2024;93,9;0,2;2,5;65,5;conforme;365;365;43;29;23;Non vérifié
-66158;Rasiguères;66;eau potable : Rasiguères;95356;2024;46,9;8,8;7,8;66,6;non conforme;7452;7452;124;412;165;Non vérifié
-66159;Réal;66;eau potable : Réal;95358;2024;73,0;16,4;44,5;73,9;non conforme;11373;11373;385;134;81;Non vérifié
-66160;Reynès;66;eau potable;95424;2024;76,9;4,3;14,2;67,8;conforme;335873;22774;51;110;1220;Non vérifié
-66161;Ria-Sirach;66;eau potable;95361;2024;60,4;6,9;10,5;67,1;non conforme;34780;34780;75;239;1264;Non vérifié
-66162;Rigarda;66;eau potable : Lentilla;311454;2024;58,9;8,9;12,7;67,5;non conforme;112983;22041;87;256;698;Non vérifié
-66164;Rivesaltes;66;eau potable : Espace Méditerranée Entreprise - (Rivesaltes - F1 AINR);219197;2024;69,5;6,4;14,5;67,9;conforme;20767;20767;6;161;9270;Non vérifié
-66165;Rodès;66;eau potable;95364;2024;87,3;2,4;16,5;68,3;conforme;5712;5712;21;53;758;Non vérifié
-66166;Sahorre;66;eau potable;95366;2024;77,0;2,3;7,6;66,5;conforme;5625;5625;38;111;401;Non vérifié
-66167;Saillagouse;66;eau potable : principal;95431;2024;82,2;2,4;11,0;67,2;conforme;62608;27495;65;83;1155;Non vérifié
-66168;Saint-André;66;eau potable : LAROQUE - PALAU DEL VIDRE - ST ANDRE - ST GENIS - SOREDE - VILLELONGUE DELS MONTS;95508;2024;68,3;6,4;13,8;67,8;conforme;430782;83304;67;169;3388;Non vérifié
-66169;Saint-Arnac;66;eau potable : Saint Arnac;95368;2024;77,0;0,8;2,7;65,5;conforme;1022;1022;28;107;99;Non vérifié
-66170;Sainte-Colombe-de-la-Commanderie;66;eau potable : autres communes : Calmeilles, Camelas, Castelnou, Fourques, Llauro, Montauriol, Oms, Passa, Ste Colombe de la Commanderie, Saint Jean Lasseille, Terrats, Thuir, Tordères, Tresserre, Villemolaque;310974;2024;64,5;6,1;11,2;67,2;non conforme;567758;5877;88;214;183;Non vérifié
-66171;Saint-Cyprien;66;eau potable : LATOUR BAS ELNE - ST CYPRIEN;95423;2024;84,1;6,5;34,4;71,9;conforme;339457;267820;61;78;12068;Non vérifié
-66172;Saint-Estève;66;eau potable : Saint Estève;95494;2024;76,8;7,6;25,1;70,0;conforme;202530;202530;48;111;11630;Non vérifié
-66173;Saint-Féliu-d'Amont;66;eau potable : St-Féliu-d'Amont;95371;2024;45,1;18,6;15,3;68,1;non conforme;61101;61101;130;443;1292;Non vérifié
-66174;Saint-Féliu-d'Avall;66;eau potable : Saint Feliu D'Avall;95499;2024;90,3;2,0;18,9;68,8;conforme;13206;13206;12;39;2950;Non vérifié
-66175;Saint-Génis-des-Fontaines;66;eau potable : LAROQUE - PALAU DEL VIDRE - ST ANDRE - ST GENIS - SOREDE - VILLELONGUE DELS MONTS;95508;2024;68,3;6,4;13,8;67,8;conforme;430782;75215;67;169;3059;Non vérifié
-66176;Saint-Hippolyte;66;eau potable : Saint Hippolyte;95472;2024;91,2;1,6;17,0;68,4;conforme;11925;11925;10;34;3126;Non vérifié
-66177;Saint-Jean-Lasseille;66;eau potable : autres communes : Calmeilles, Camelas, Castelnou, Fourques, Llauro, Montauriol, Oms, Passa, Ste Colombe de la Commanderie, Saint Jean Lasseille, Terrats, Thuir, Tordères, Tresserre, Villemolaque;310974;2024;64,5;6,1;11,2;67,2;non conforme;567758;52087;88;214;1622;Non vérifié
-66178;Saint-Jean-Pla-de-Corts;66;eau potable;95424;2024;76,9;4,3;14,2;67,8;conforme;335873;43139;51;110;2311;Non vérifié
-66179;Saint-Laurent-de-Cerdans;66;eau potable : Saint Laurent de Cerdans;95373;2024;66,2;3,0;5,9;66,2;conforme;21900;21900;57;187;1045;Non vérifié
-66180;Saint-Laurent-de-la-Salanque;66;eau potable : Saint Laurent de la Salanque;95471;2024;76,2;5,9;18,8;68,8;conforme;134551;134551;37;115;9898;Non vérifié
-66181;Sainte-Léocadie;66;eau potable;95375;2024;78,5;2,6;9,5;66,9;conforme;12631;12631;220;99;157;Non vérifié
-66182;Sainte-Marie-la-Mer;66;eau potable : Sainte Marie la Mer;95469;2024;61,8;14,6;23,7;69,7;non conforme;237620;237620;131;225;4952;Non vérifié
-66183;Saint-Marsal;66;eau potable : Saint Marsal;95377;2024;67,0;0,8;1,7;65,3;conforme;2044;2044;73;175;77;Non vérifié
-66184;Saint-Martin-de-Fenouillet;66;eau potable : Saint Martin de Fenouillet;95379;2024;85,4;0,4;2,3;65,5;conforme;336;336;19;63;49;Non vérifié
-66185;Saint-Michel-de-Llotes;66;eau potable;95426;2024;47,6;10,0;9,1;66,8;non conforme;164250;18068;136;401;364;Non vérifié
-66186;Saint-Nazaire;66;eau potable : Saint Nazaire;95470;2024;90,1;4,6;42,3;73,5;conforme;31297;31297;31;61;2779;Non vérifié
-66187;Saint-Paul-de-Fenouillet;66;eau potable : Saint Paul de Fenouillet;95382;2024;47,6;10,3;9,4;66,9;non conforme;95153;95153;150;408;1742;Non vérifié
-66188;Saint-Pierre-dels-Forcats;66;eau potable;95449;2024;42,7;13,1;9,8;67,0;non conforme;138568;31996;337;488;260;Non vérifié
-66189;Saleilles;66;eau potable : Saleilles;95505;2024;68,6;8,5;18,4;68,7;non conforme;114513;114513;55;168;5698;Non vérifié
-66190;Salses-le-Château;66;eau potable : Salses-le-Château;95384;2024;83,5;4,6;23,4;69,7;conforme;34906;34906;24;72;3965;Non vérifié
-66191;Sansa;66;eau potable;95387;2024;86,3;2,0;12,4;67,5;conforme;949;949;84;59;31;Non vérifié
-66192;Sauto;66;eau potable;95388;2024;85,3;1,5;8,7;66,7;conforme;1642;1642;44;63;102;Non vérifié
-66193;Serdinya;66;eau potable;95390;2024;64,2;1,9;3,4;65,7;non conforme;5680;5680;66;202;236;Non vérifié
-66194;Serralongue;66;eau potable : Serralongue;95393;2024;65,6;1,1;2,1;65,4;conforme;4657;4657;52;188;244;Non vérifié
-66195;Le Soler;66;eau potable : Le Soler;95501;2024;69,8;9,5;22,1;69,4;conforme;145219;145219;50;157;7942;Non vérifié
-66196;Sorède;66;eau potable : LAROQUE - PALAU DEL VIDRE - ST ANDRE - ST GENIS - SOREDE - VILLELONGUE DELS MONTS;95508;2024;68,3;6,4;13,8;67,8;conforme;430782;86353;67;169;3512;Non vérifié
-66197;Souanyas;66;eau potable;95395;2024;94,2;0,1;1,6;65,3;conforme;91;91;9;22;29;Non vérifié
-66198;Sournia;66;eau potable : Sournia;310694;2024;31,9;19,3;9,0;66,8;non conforme;55511;55511;318;781;478;Non vérifié
-66199;Taillet;66;eau potable;198040;2024;88,5;0,3;2,1;65,4;conforme;955;955;25;52;105;Non vérifié
-66201;Tarerach;66;eau potable : Tarerach;311474;2024;37,7;5,7;3,5;65,7;non conforme;2705;2705;176;602;42;Non vérifié
-66202;Targasonne;66;eau potable;95398;2024;69,8;1,4;3,3;65,7;conforme;5299;5299;72;155;201;Non vérifié
-66203;Taulis;66;eau potable : Taulis;95399;2024;86,3;0,6;3,5;65,7;conforme;372;372;18;62;58;Non vérifié
-66204;Taurinya;66;eau potable : Taurinya;311394;2024;64,4;5,0;9,0;66,8;non conforme;10585;10585;88;202;328;Non vérifié
-66205;Tautavel;66;eau potable : Tautavel;95401;2024;67,9;6,4;13,6;67,7;conforme;23524;23524;68;172;945;Non vérifié
-66206;Le Tech;66;eau potable : Le Tech;95403;2024;69,5;1,3;3,0;65,6;conforme;1082;1082;31;156;95;Non vérifié
-66207;Terrats;66;eau potable : autres communes : Calmeilles, Camelas, Castelnou, Fourques, Llauro, Montauriol, Oms, Passa, Ste Colombe de la Commanderie, Saint Jean Lasseille, Terrats, Thuir, Tordères, Tresserre, Villemolaque;310974;2024;64,5;6,1;11,2;67,2;non conforme;567758;25883;88;214;806;Non vérifié
-66208;Théza;66;eau potable : THEZA;95515;2024;83,8;3,5;17,9;68,6;conforme;18319;18319;24;71;2126;Non vérifié
-66209;Thuès-Entre-Valls;66;eau potable;95405;2022;70,2;1,2;2,8;65,6;conforme;1314;1314;144;157;25;Sans anomalie apparente
-66210;Thuir;66;eau potable : autres communes : Calmeilles, Camelas, Castelnou, Fourques, Llauro, Montauriol, Oms, Passa, Ste Colombe de la Commanderie, Saint Jean Lasseille, Terrats, Thuir, Tordères, Tresserre, Villemolaque;310974;2024;64,5;6,1;11,2;67,2;non conforme;567758;264707;88;214;8243;Non vérifié
-66211;Tordères;66;eau potable : autres communes : Calmeilles, Camelas, Castelnou, Fourques, Llauro, Montauriol, Oms, Passa, Ste Colombe de la Commanderie, Saint Jean Lasseille, Terrats, Thuir, Tordères, Tresserre, Villemolaque;310974;2024;64,5;6,1;11,2;67,2;non conforme;567758;6005;88;214;187;Non vérifié
-66212;Torreilles;66;eau potable : Torreilles;95468;2024;71,6;10,4;26,1;70,2;conforme;120295;120295;88;145;3753;Non vérifié
-66213;Toulouges;66;eau potable : Toulouges;95466;2024;70,7;9,6;23,3;69,7;conforme;132942;132942;49;151;7450;Non vérifié
-66214;Tresserre;66;eau potable : autres communes : Calmeilles, Camelas, Castelnou, Fourques, Llauro, Montauriol, Oms, Passa, Ste Colombe de la Commanderie, Saint Jean Lasseille, Terrats, Thuir, Tordères, Tresserre, Villemolaque;310974;2024;64,5;6,1;11,2;67,2;non conforme;567758;37444;88;214;1166;Non vérifié
-66215;Trévillach;66;eau potable : Trevillach;311494;2024;77,0;2,8;9,2;66,8;conforme;2269;2269;31;111;201;Non vérifié
-66216;Trilla;66;eau potable : Trilla;95407;2024;75,7;1,6;5,1;66,0;conforme;730;730;26;115;77;Non vérifié
-66217;Trouillas;66;eau potable : Trouillas;310954;2024;85,4;4,7;27,4;70,5;conforme;33624;33624;40;142;2324;Non vérifié
-66218;Ur;66;eau potable;95427;2024;60,9;6,4;9,9;67,0;non conforme;64824;22389;161;236;382;Non vérifié
-66219;Urbanya;66;eau potable : Urbanya;95410;2024;70,0;1,4;3,2;65,6;conforme;1032;1032;63;162;45;Non vérifié
-66220;Valcebollère;66;eau potable;95445;2024;66,1;7,3;14,2;67,8;non conforme;140206;1545;125;188;34;Non vérifié
-66221;Valmanya;66;eau potable : Valmanya;311475;2024;37,9;3,1;1,9;65,4;non conforme;2750;2750;222;589;34;Non vérifié
-66222;Vernet-les-Bains;66;eau potable;95442;2024;76,0;2,9;9,4;66,9;conforme;41461;28701;52;113;1498;Non vérifié
-66223;Villefranche-de-Conflent;66;eau potable;95411;2024;87,4;3,7;25,8;70,2;conforme;3322;3322;42;74;215;Non vérifié
-66224;Villelongue-de-la-Salanque;66;eau potable : Villelongue de la Salanque;200593;2024;83,7;3,9;20,2;69,0;conforme;30776;30776;25;70;3335;Non vérifié
-66225;Villelongue-dels-Monts;66;eau potable : LAROQUE - PALAU DEL VIDRE - ST ANDRE - ST GENIS - SOREDE - VILLELONGUE DELS MONTS;95508;2024;68,3;6,4;13,8;67,8;conforme;430782;48586;67;169;1976;Non vérifié
-66226;Villemolaque;66;eau potable : autres communes : Calmeilles, Camelas, Castelnou, Fourques, Llauro, Montauriol, Oms, Passa, Ste Colombe de la Commanderie, Saint Jean Lasseille, Terrats, Thuir, Tordères, Tresserre, Villemolaque;310974;2024;64,5;6,1;11,2;67,2;non conforme;567758;41040;88;214;1278;Non vérifié
-66227;Villeneuve-de-la-Raho;66;eau potable : Villeneuve de la Raho;95464;2024;91,9;2,1;23,9;69,8;conforme;23915;23915;15;32;4470;Non vérifié
-66228;Villeneuve-la-Rivière;66;eau potable : Villeneuve-la-Rivière;95463;2024;91,4;1,7;18,4;68,7;conforme;4852;4852;10;34;1360;Non vérifié
-66230;Vinça;66;eau potable : Lentilla;311454;2024;58,9;8,9;12,7;67,5;non conforme;112983;71364;87;256;2260;Non vérifié
-66231;Vingrau;66;eau potable : Vingrau;95413;2024;76,5;2,1;6,8;66,4;conforme;9842;9842;50;113;536;Non vérifié
-66232;Vira;66;eau potable : Vira;95415;2024;48,7;0,9;0,9;65,2;non conforme;1314;1314;124;377;29;Non vérifié
-66233;Vivès;66;eau potable;95424;2024;76,9;4,3;14,2;67,8;conforme;335873;3547;51;110;190;Non vérifié
-66234;Le Vivier;66;eau potable : Le Vivier;95420;2024;79,0;0,4;1,6;65,3;conforme;730;730;28;88;71;Non vérifié
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement);Donnée suspecte (voir LISEZMOI)
+66002;Alénya;66;eau potable : ALENYA;208956;2024;81,3;5,9;25,8;70,2;conforme;52416;52416;38;83;3782;Non vérifié;non
+66003;Amélie-les-Bains-Palalda;66;eau potable;95424;2024;76,9;4,3;14,2;67,8;conforme;335873;65875;51;110;3529;Non vérifié;non
+66004;Les Angles;66;eau potable : Les Angles;95213;2024;60,2;7,5;11,3;67,3;non conforme;109938;109938;505;242;597;Non vérifié;non
+66005;Angoustrine-Villeneuve-des-Escaldes;66;eau potable;95427;2024;60,9;6,4;9,9;67,0;non conforme;64824;31767;161;236;542;Non vérifié;non
+66006;Ansignan;66;eau potable : Ansignan;95216;2024;46,6;5,7;5,0;66,0;non conforme;4889;4889;82;419;164;Non vérifié;non
+66007;Arboussols;66;eau potable : Arboussols - Marcevol;311414;2024;55,3;4,0;5,0;66,0;non conforme;5417;5417;114;292;130;Non vérifié;non
+66008;Argelès-sur-Mer;66;eau potable : ARGELES SUR MER - SMNPR;95510;2024;92,5;2,4;30,0;71,0;conforme;129744;129744;33;29;10616;Non vérifié;non
+66009;Arles-sur-Tech;66;eau potable;95424;2024;76,9;4,3;14,2;67,8;conforme;335873;52547;51;110;2815;Non vérifié;non
+66010;Ayguatébia-Talau;66;eau potable;95217;2024;77,2;1,0;3,4;65,7;conforme;876;876;49;107;49;Non vérifié;non
+66011;Bages;66;eau potable : BAGES;95516;2024;82,2;4,2;19,4;68,9;conforme;45913;45913;28;79;4560;Non vérifié;non
+66012;Baho;66;eau potable : Baho;95495;2024;69,0;8,8;19,6;68,9;conforme;57077;57077;48;164;3231;Non vérifié;non
+66013;Baillestavy;66;eau potable;218001;2024;94,0;0,2;2,6;65,5;conforme;183;183;4;28;112;Non vérifié;non
+66014;Baixas;66;eau potable : Baixas;95493;2024;90,5;4,4;41,7;73,3;conforme;28282;28282;28;41;2777;Non vérifié;non
+66015;Banyuls-dels-Aspres;66;eau potable : Banyuls des Aspres;310914;2024;76,1;3,2;10,3;67,1;conforme;22531;22531;42;114;1483;Non vérifié;non
+66016;Banyuls-sur-Mer;66;eau potable : BANYULS - CERBERE - COLLIOURE - PORT VENDRES;95509;2024;70,0;8,7;20,3;69,1;conforme;484772;174656;106;187;4496;Non vérifié;non
+66017;Le Barcarès;66;eau potable : Le Barcares;95500;2024;78,2;10,2;36,8;72,4;conforme;282427;282427;127;101;6109;Non vérifié;non
+66018;La Bastide;66;eau potable : La Bastide;95219;2024;69,7;1,3;3,0;65,6;conforme;641;641;29;159;60;Non vérifié;non
+66019;Bélesta;66;eau potable;95221;2024;79,5;1,3;4,8;66,0;conforme;3250;3250;33;98;270;Non vérifié;non
+66020;Bolquère;66;eau potable;192098;2024;84,8;1,8;10,1;67,0;conforme;20814;20814;70;65;816;Non vérifié;non
+66021;Bompas;66;eau potable : Bompas;200595;2024;76,5;6,5;21,3;69,3;conforme;104390;104390;37;111;7832;Non vérifié;non
+66022;Boule-d'Amont;66;eau potable : Prieuré de Serrabona;230294;2024;100,0;0,0;0,0;65,0;conforme;0;0;0;0;63;Non vérifié;non
+66023;Bouleternère;66;eau potable;95426;2024;47,6;10,0;9,1;66,8;non conforme;164250;47205;136;401;951;Non vérifié;non
+66024;Le Boulou;66;eau potable : Le Boulou;95228;2024;71,2;6,6;16,2;68,2;conforme;139722;139722;70;148;5487;Non vérifié;non
+66025;Bourg-Madame;66;eau potable;95445;2024;66,1;7,3;14,2;67,8;non conforme;140206;53719;125;188;1182;Non vérifié;non
+66026;Brouilla;66;eau potable : Brouilla;310894;2024;43,5;15,5;11,9;67,4;non conforme;89954;89954;157;511;1572;Non vérifié;non
+66027;La Cabanasse;66;eau potable;95449;2024;42,7;13,1;9,8;67,0;non conforme;138568;87743;337;488;713;Non vérifié;non
+66028;Cabestany;66;eau potable : Cabestany;95230;2024;70,6;11,8;28,4;70,7;non conforme;272504;272504;71;152;10465;Non vérifié;non
+66029;Caixas;66;eau potable : Caixas;310934;2024;61,0;1,2;1,9;65,4;non conforme;4687;4687;96;229;134;Non vérifié;non
+66030;Calce;66;eau potable : Calce;95497;2024;68,8;1,8;3,9;65,8;conforme;5433;5433;66;170;226;Non vérifié;non
+66032;Calmeilles;66;eau potable : autres communes : Calmeilles, Camelas, Castelnou, Fourques, Llauro, Montauriol, Oms, Passa, Ste Colombe de la Commanderie, Saint Jean Lasseille, Terrats, Thuir, Tordères, Tresserre, Villemolaque;310974;2024;64,5;6,1;11,2;67,2;non conforme;567758;1927;88;214;60;Non vérifié;non
+66033;Camélas;66;eau potable : autres communes : Calmeilles, Camelas, Castelnou, Fourques, Llauro, Montauriol, Oms, Passa, Ste Colombe de la Commanderie, Saint Jean Lasseille, Terrats, Thuir, Tordères, Tresserre, Villemolaque;310974;2024;64,5;6,1;11,2;67,2;non conforme;567758;14804;88;214;461;Non vérifié;non
+66034;Campôme;66;eau potable : Castellanne;311334;2024;66,0;5,5;10,6;67,1;non conforme;27041;8942;198;189;124;Non vérifié;non
+66035;Campoussy;66;eau potable : Campoussy;95232;2024;47,1;1,0;0,9;65,2;non conforme;1058;1058;69;407;42;Non vérifié;non
+66036;Canaveilles;66;eau potable;95234;2024;100,0;0,0;2,8;65,6;conforme;0;0;0;0;53;Non vérifié;non
+66037;Canet-en-Roussillon;66;eau potable : Canet en Roussillon;95498;2024;85,9;5,1;31,2;71,2;conforme;205491;205491;43;60;13227;Non vérifié;non
+66038;Canohès;66;eau potable : Canohes;95492;2024;72,1;7,3;18,9;68,8;conforme;115746;115746;48;141;6616;Non vérifié;non
+66039;Caramany;66;eau potable : Caramany;95236;2024;67,4;4,0;8,2;66,6;conforme;4234;4234;90;178;129;Non vérifié;non
+66040;Casefabre;66;eau potable;95239;2022;43,0;6,1;4,6;65,9;non conforme;2672;2672;166;482;44;Sans anomalie apparente;non
+66041;Cases-de-Pène;66;eau potable : Cases de Pene;95241;2024;57,6;8,8;11,9;67,4;non conforme;40857;40857;115;270;973;Non vérifié;non
+66042;Cassagnes;66;eau potable : Cassagnes;95243;2024;88,5;1,1;8,5;66,7;conforme;1730;1730;16;47;294;Non vérifié;non
+66043;Casteil;66;eau potable;95442;2024;76,0;2,9;9,4;66,9;conforme;41461;2663;52;113;139;Non vérifié;non
+66044;Castelnou;66;eau potable : autres communes : Calmeilles, Camelas, Castelnou, Fourques, Llauro, Montauriol, Oms, Passa, Ste Colombe de la Commanderie, Saint Jean Lasseille, Terrats, Thuir, Tordères, Tresserre, Villemolaque;310974;2024;64,5;6,1;11,2;67,2;non conforme;567758;8992;88;214;280;Non vérifié;non
+66045;Catllar;66;eau potable;95244;2024;61,3;8,7;13,8;67,8;non conforme;17783;17783;67;231;723;Non vérifié;non
+66046;Caudiès-de-Fenouillèdes;66;eau potable : Caudiès-de-Fenouillèdes;192101;2024;41,2;6,2;4,4;65,9;non conforme;38471;38471;180;524;586;Non vérifié;non
+66047;Caudiès-de-Conflent;66;eau potable : caudiès de conflent;95248;2024;67,5;1,3;2,7;65,5;conforme;1936;1936;231;176;23;Non vérifié;non
+66048;Cerbère;66;eau potable : BANYULS - CERBERE - COLLIOURE - PORT VENDRES;95509;2024;70,0;8,7;20,3;69,1;conforme;484772;46966;106;187;1209;Non vérifié;non
+66049;Céret;66;eau potable;95424;2024;76,9;4,3;14,2;67,8;conforme;335873;140394;51;110;7521;Non vérifié;non
+66050;Claira;66;eau potable : Claira;95251;2024;80,6;4,5;18,6;68,7;conforme;58933;58933;33;88;4922;Non vérifié;non
+66051;Clara-Villerach;66;eau potable : En Gorner;311374;2024;63,3;9,8;16,9;68,4;non conforme;364461;11084;115;260;265;Non vérifié;non
+66052;Codalet;66;eau potable : En Gorner;311374;2024;63,3;9,8;16,9;68,4;non conforme;364461;14639;115;260;350;Non vérifié;non
+66053;Collioure;66;eau potable : BANYULS - CERBERE - COLLIOURE - PORT VENDRES;95509;2024;70,0;8,7;20,3;69,1;conforme;484772;107062;106;187;2756;Non vérifié;non
+66054;Conat;66;eau potable : Conat;95253;2024;96,3;0,2;5,4;66,1;conforme;75;75;3;14;65;Non vérifié;non
+66055;Corbère;66;eau potable;95426;2024;47,6;10,0;9,1;66,8;non conforme;164250;38767;136;401;781;Non vérifié;non
+66056;Corbère-les-Cabanes;66;eau potable;95426;2024;47,6;10,0;9,1;66,8;non conforme;164250;60210;136;401;1213;Non vérifié;non
+66057;Corneilla-de-Conflent;66;eau potable;95442;2024;76,0;2,9;9,4;66,9;conforme;41461;10097;52;113;527;Non vérifié;non
+66058;Corneilla-la-Rivière;66;eau potable : Corneilla-la-Rivière;95255;2024;62,3;10,2;16,8;68,4;non conforme;40953;40953;56;222;2004;Non vérifié;non
+66059;Corneilla-del-Vercol;66;eau potable : CORNEILLA DEL VERCOL;95520;2024;81,4;5,5;24,0;69,8;conforme;27764;27764;28;84;2696;Non vérifié;non
+66060;Corsavy;66;eau potable : Corsavy;95256;2024;55,3;5,6;7,0;66,4;non conforme;8176;8176;91;293;246;Non vérifié;non
+66061;Coustouges;66;eau potable : Coustouges;95259;2024;68,5;1,3;2,8;65,6;conforme;2040;2040;59;169;95;Non vérifié;non
+66062;Dorres;66;eau potable;95427;2024;60,9;6,4;9,9;67,0;non conforme;64824;10667;161;236;182;Non vérifié;non
+66063;Les Cluses;66;eau potable;201156;2024;51,1;2,7;2,9;65,6;non conforme;15768;15768;153;345;282;Non vérifié;non
+66064;Égat;66;eau potable;192106;2024;58,7;4,4;6,3;66,3;non conforme;21135;21135;133;254;435;Non vérifié;non
+66065;Elne;66;eau potable : ELNE;95261;2024;91,1;2,2;22,5;69,5;conforme;49393;49393;14;36;9511;Non vérifié;non
+66066;Enveitg;66;eau potable;95429;2024;62,1;5,2;8,6;66,7;non conforme;96798;45668;208;221;602;Non vérifié;non
+66067;Err;66;eau potable : principal;95431;2024;82,2;2,4;11,0;67,2;conforme;62608;17045;65;83;716;Non vérifié;non
+66068;Escaro;66;eau potable;95263;2024;64,6;1,0;1,7;65,3;non conforme;2555;2555;55;209;128;Non vérifié;non
+66069;Espira-de-l'Agly;66;eau potable : Espira de l'Agly;95264;2024;88,8;2,1;16,3;68,3;conforme;24290;24290;19;47;3524;Non vérifié;non
+66070;Espira-de-Conflent;66;eau potable : Espira de Conflent;311434;2024;70,2;4,8;11,4;67,3;conforme;5414;5414;65;153;227;Non vérifié;non
+66071;Estagel;66;eau potable : Estagel;95267;2024;41,9;27,4;19,8;69,0;non conforme;145014;145014;184;505;2160;Non vérifié;non
+66072;Estavar;66;eau potable : principal;95431;2024;82,2;2,4;11,0;67,2;conforme;62608;10546;65;83;443;Non vérifié;non
+66073;Estoher;66;eau potable : Estoher;311435;2024;58,5;4,6;6,5;66,3;non conforme;4433;4433;75;259;163;Non vérifié;non
+66074;Eus;66;eau potable : En Gorner;311374;2024;63,3;9,8;16,9;68,4;non conforme;364461;16144;115;260;386;Non vérifié;non
+66075;Eyne;66;eau potable : principal;95431;2024;82,2;2,4;11,0;67,2;conforme;62608;3880;65;83;163;Non vérifié;non
+66076;Felluns;66;eau potable : Feilluns;95268;2024;34,5;4,0;2,1;65,4;non conforme;3504;3504;163;693;59;Non vérifié;non
+66077;Fenouillet;66;eau potable : Fenouillet;192107;2024;17,8;15,9;3,5;65,7;non conforme;13928;13928;382;1680;100;Non vérifié;non
+66078;Fillols;66;eau potable;95271;2024;36,2;13,8;7,8;66,6;non conforme;21155;21155;280;644;207;Non vérifié;non
+66079;Finestret;66;eau potable : Lentilla;311454;2024;58,9;8,9;12,7;67,5;non conforme;112983;6442;87;256;204;Non vérifié;non
+66080;Fontpédrouse;66;eau potable;95274;2024;40,7;11,6;8,0;66,6;non conforme;12702;12702;278;533;125;Non vérifié;non
+66081;Fontrabiouse;66;eau potable : Fontrabiouse;95275;2024;69,3;3,2;7,2;66,4;conforme;8877;8877;169;161;144;Non vérifié;non
+66082;Formiguères;66;eau potable : Villeneuve de Formiguères;218195;2024;100,0;0,0;17,7;68,5;conforme;0;0;0;0;494;Non vérifié;non
+66083;Fosse;66;eau potable : Fosse;95279;2024;92,9;0,1;1,3;65,3;conforme;91;91;5;28;52;Non vérifié;non
+66084;Fourques;66;eau potable : autres communes : Calmeilles, Camelas, Castelnou, Fourques, Llauro, Montauriol, Oms, Passa, Ste Colombe de la Commanderie, Saint Jean Lasseille, Terrats, Thuir, Tordères, Tresserre, Villemolaque;310974;2024;64,5;6,1;11,2;67,2;non conforme;567758;43256;88;214;1347;Non vérifié;non
+66085;Fuilla;66;eau potable;95281;2024;79,2;1,9;7,1;66,4;conforme;6886;6886;43;98;435;Non vérifié;non
+66086;Glorianes;66;eau potable;95283;2024;66,9;0,7;1,5;65,3;conforme;383;383;70;171;15;Non vérifié;non
+66088;Ille-sur-Têt;66;eau potable : Ille sur Têt;95286;2024;55,5;17,2;21,5;69,3;non conforme;236681;236681;117;293;5556;Non vérifié;non
+66089;Joch;66;eau potable : Lentilla;311454;2024;58,9;8,9;12,7;67,5;non conforme;112983;13136;87;256;416;Non vérifié;non
+66090;Jujols;66;eau potable;95288;2024;98,8;0,1;5,3;66,1;conforme;36;36;2;7;47;Non vérifié;non
+66091;Lamanère;66;eau potable : Lamanère;95290;2024;66,6;1,0;2,0;65,4;conforme;949;949;42;185;62;Non vérifié;non
+66092;Lansac;66;eau potable : Lansac;95291;2024;75,5;1,7;5,1;66,0;conforme;931;931;29;121;89;Non vérifié;non
+66093;Laroque-des-Albères;66;eau potable : LAROQUE - PALAU DEL VIDRE - ST ANDRE - ST GENIS - SOREDE - VILLELONGUE DELS MONTS;95508;2024;68,3;6,4;13,8;67,8;conforme;430782;55471;67;169;2256;Non vérifié;non
+66094;Latour-Bas-Elne;66;eau potable : LATOUR BAS ELNE - ST CYPRIEN;95423;2024;84,1;6,5;34,4;71,9;conforme;339457;71638;61;78;3228;Non vérifié;non
+66095;Latour-de-Carol;66;eau potable;95429;2024;62,1;5,2;8,6;66,7;non conforme;96798;36413;208;221;480;Non vérifié;non
+66096;Latour-de-France;66;eau potable : Latour de France;95294;2024;48,3;13,5;12,6;67,5;non conforme;44348;44348;116;400;1043;Non vérifié;non
+66097;Lesquerde;66;eau potable : Lesquerde;95296;2024;33,3;3,8;1,9;65,4;non conforme;8322;8322;162;735;141;Non vérifié;non
+66098;La Llagonne;66;eau potable;95297;2021;74,4;2,9;8,6;66,7;conforme;12702;12702;151;124;230;Sans anomalie apparente;non
+66099;Llauro;66;eau potable : autres communes : Calmeilles, Camelas, Castelnou, Fourques, Llauro, Montauriol, Oms, Passa, Ste Colombe de la Commanderie, Saint Jean Lasseille, Terrats, Thuir, Tordères, Tresserre, Villemolaque;310974;2024;64,5;6,1;11,2;67,2;non conforme;567758;9987;88;214;311;Non vérifié;non
+66100;Llo;66;eau potable : principal;95431;2024;82,2;2,4;11,0;67,2;conforme;62608;3642;65;83;153;Non vérifié;non
+66101;Llupia;66;eau potable : Llupia;198789;2024;91,6;1,8;19,7;68,9;conforme;8935;8935;11;33;2199;Non vérifié;non
+66102;Mantet;66;eau potable;95299;2024;94,7;0,3;4,7;65,9;conforme;135;135;11;23;35;Non vérifié;non
+66103;Marquixanes;66;eau potable : En Gorner;311374;2024;63,3;9,8;16,9;68,4;non conforme;364461;25053;115;260;599;Non vérifié;non
+66104;Los Masos;66;eau potable : En Gorner;311374;2024;63,3;9,8;16,9;68,4;non conforme;364461;40403;115;260;966;Non vérifié;non
+66105;Matemale;66;eau potable;95301;2024;24,3;28,0;9,0;66,8;non conforme;143080;143080;1431;1141;274;Non vérifié;non
+66106;Maureillas-las-Illas;66;eau potable : Maureillas-las-illas;95304;2024;78,6;2,9;10,8;67,2;conforme;45897;45897;42;98;3006;Non vérifié;non
+66107;Maury;66;eau potable : Maury;95306;2024;18,9;29,7;6,9;66,4;non conforme;130086;130086;461;1715;773;Non vérifié;non
+66108;Millas;66;eau potable : Millas;95307;2024;69,3;9,6;21,6;69,3;non conforme;92856;92856;58;162;4417;Non vérifié;non
+66109;Molitg-les-Bains;66;eau potable : Castellanne;311334;2024;66,0;5,5;10,6;67,1;non conforme;27041;18099;198;189;251;Non vérifié;non
+66111;Montalba-le-Château;66;eau potable;95309;2024;72,6;5,1;13,4;67,7;conforme;4635;4635;78;139;163;Non vérifié;non
+66112;Montauriol;66;eau potable : autres communes : Calmeilles, Camelas, Castelnou, Fourques, Llauro, Montauriol, Oms, Passa, Ste Colombe de la Commanderie, Saint Jean Lasseille, Terrats, Thuir, Tordères, Tresserre, Villemolaque;310974;2024;64,5;6,1;11,2;67,2;non conforme;567758;8157;88;214;254;Non vérifié;non
+66113;Montbolo;66;eau potable;95424;2024;76,9;4,3;14,2;67,8;conforme;335873;3528;51;110;189;Non vérifié;non
+66114;Montescot;66;eau potable : MONTESCOT;95522;2024;79,7;4,5;17,4;68,5;conforme;18889;18889;33;94;1586;Non vérifié;non
+66115;Montesquieu-des-Albères;66;eau potable : MONTESQUIEU DES ALBERES;95514;2024;80,2;2,0;8,3;66,7;conforme;22265;22265;45;88;1353;Non vérifié;non
+66116;Montferrer;66;eau potable;95424;2024;76,9;4,3;14,2;67,8;conforme;335873;4069;51;110;218;Non vérifié;non
+66117;Mont-Louis;66;eau potable;95449;2024;42,7;13,1;9,8;67,0;non conforme;138568;18828;337;488;153;Non vérifié;non
+66118;Montner;66;eau potable : Montner;95316;2024;72,6;3,2;8,5;66,7;conforme;8001;8001;68;138;324;Non vérifié;non
+66119;Mosset;66;eau potable;95317;2024;79,4;1,2;4,6;65,9;conforme;4700;4700;40;95;321;Non vérifié;non
+66120;Nahuja;66;eau potable;95445;2024;66,1;7,3;14,2;67,8;non conforme;140206;3363;125;188;74;Non vérifié;non
+66121;Néfiach;66;eau potable : Néfiach;95319;2024;43,7;27,8;21,6;69,3;non conforme;74073;74073;147;471;1383;Non vérifié;non
+66122;Nohèdes;66;eau potable;95321;2024;60,5;1,2;1,8;65,4;non conforme;1971;1971;89;245;61;Non vérifié;non
+66123;Nyer;66;eau potable;95323;2024;84,8;0,9;5,0;66,0;conforme;690;690;13;66;148;Non vérifié;non
+66124;Font-Romeu-Odeillo-Via;66;eau potable;192112;2024;93,3;1,3;17,6;68,5;conforme;19649;19649;31;27;1762;Non vérifié;non
+66125;Olette;66;eau potable : le hameau Evol - Olette;319255;2024;31,9;13,6;6,3;66,3;non conforme;9928;9928;76;782;360;Non vérifié;non
+66126;Oms;66;eau potable : autres communes : Calmeilles, Camelas, Castelnou, Fourques, Llauro, Montauriol, Oms, Passa, Ste Colombe de la Commanderie, Saint Jean Lasseille, Terrats, Thuir, Tordères, Tresserre, Villemolaque;310974;2024;64,5;6,1;11,2;67,2;non conforme;567758;11689;88;214;364;Non vérifié;non
+66127;Opoul-Périllos;66;eau potable : Opoul Perillos;95328;2024;72,4;4,8;12,6;67,5;conforme;24230;24230;54;139;1239;Non vérifié;non
+66128;Oreilla;66;eau potable;95331;2024;81,7;0,4;1,7;65,3;conforme;292;292;29;85;28;Non vérifié;non
+66129;Ortaffa;66;eau potable : ORTAFFA;95518;2024;77,6;3,8;13,1;67,6;conforme;23010;23010;32;106;1980;Non vérifié;non
+66130;Osséja;66;eau potable;95445;2024;66,1;7,3;14,2;67,8;non conforme;140206;63172;125;188;1390;Non vérifié;non
+66132;Palau-de-Cerdagne;66;eau potable;95445;2024;66,1;7,3;14,2;67,8;non conforme;140206;18406;125;188;405;Non vérifié;non
+66133;Palau-del-Vidre;66;eau potable : LAROQUE - PALAU DEL VIDRE - ST ANDRE - ST GENIS - SOREDE - VILLELONGUE DELS MONTS;95508;2024;68,3;6,4;13,8;67,8;conforme;430782;81853;67;169;3329;Non vérifié;non
+66134;Passa;66;eau potable : autres communes : Calmeilles, Camelas, Castelnou, Fourques, Llauro, Montauriol, Oms, Passa, Ste Colombe de la Commanderie, Saint Jean Lasseille, Terrats, Thuir, Tordères, Tresserre, Villemolaque;310974;2024;64,5;6,1;11,2;67,2;non conforme;567758;35902;88;214;1118;Non vérifié;non
+66136;Perpignan;66;eau potable : Perpignan;95502;2024;78,6;10,4;38,4;72,7;conforme;1920055;1920055;43;101;121616;Non vérifié;non
+66137;Le Perthus;66;eau potable;201157;2024;80,3;3,5;14,1;67,8;conforme;10220;10220;50;125;555;Non vérifié;non
+66138;Peyrestortes;66;eau potable : Peyrestortes;95503;2024;76,4;6,0;19,6;68,9;conforme;26630;26630;38;112;1927;Non vérifié;non
+66139;Pézilla-de-Conflent;66;eau potable : Pezilla de conflent;95333;2024;66,7;1,4;2,8;65,6;conforme;869;869;52;184;46;Non vérifié;non
+66140;Pézilla-la-Rivière;66;eau potable : Pezilla la Rivière;95504;2024;79,4;5,7;21,8;69,4;conforme;46853;46853;31;95;4129;Non vérifié;non
+66141;Pia;66;eau potable : Pia;95334;2024;54,9;18,2;22,2;69,4;non conforme;380312;380312;90;300;11615;Non vérifié;non
+66142;Planès;66;eau potable;95336;2024;79,2;1,8;6,7;66,3;conforme;2451;2451;118;98;57;Non vérifié;non
+66143;Planèzes;66;eau potable : Planèzes;95339;2024;77,9;1,4;5,1;66,0;conforme;1124;1124;31;101;99;Non vérifié;non
+66144;Pollestres;66;eau potable : Pollestres;95486;2024;88,6;3,0;23,2;69,6;conforme;37558;37558;19;47;5548;Non vérifié;non
+66145;Ponteilla;66;eau potable : Ponteilla - Nyls;198791;2024;87,5;3,7;25,9;70,2;conforme;28550;28550;25;52;3101;Non vérifié;non
+66146;Porta;66;eau potable;95429;2024;62,1;5,2;8,6;66,7;non conforme;96798;7131;208;221;94;Non vérifié;non
+66147;Porté-Puymorens;66;eau potable;95429;2024;62,1;5,2;8,6;66,7;non conforme;96798;7586;208;221;100;Non vérifié;non
+66148;Port-Vendres;66;eau potable : BANYULS - CERBERE - COLLIOURE - PORT VENDRES;95509;2024;70,0;8,7;20,3;69,1;conforme;484772;156087;106;187;4018;Non vérifié;non
+66149;Prades;66;eau potable : En Gorner;311374;2024;63,3;9,8;16,9;68,4;non conforme;364461;257138;115;260;6148;Non vérifié;non
+66150;Prats-de-Mollo-la-Preste;66;eau potable : Prats de Mollo;95340;2024;66,9;4,4;8,9;66,8;conforme;32778;32778;82;181;1099;Non vérifié;non
+66151;Prats-de-Sournia;66;eau potable : Prats de Sournia;95342;2024;81,9;0,4;1,6;65,3;conforme;842;842;30;90;76;Non vérifié;non
+66152;Prugnanes;66;eau potable : Prugnanes;192113;2024;63,2;5,1;8,8;66,8;non conforme;2327;2327;71;211;90;Non vérifié;non
+66153;Prunet-et-Belpuig;66;eau potable;95346;2024;49,5;0,9;0,9;65,2;non conforme;657;657;41;378;44;Non vérifié;non
+66154;Puyvalador;66;eau potable : Puyvalador;95347;2024;38,9;25,3;16,1;68,2;non conforme;80340;80340;3237;573;68;Non vérifié;non
+66155;Py;66;eau potable;95350;2024;70,1;3,9;9,0;66,8;conforme;4171;4171;138;157;83;Non vérifié;non
+66156;Rabouillet;66;eau potable : Rabouillet;95351;2024;88,2;0,3;2,4;65,5;conforme;383;383;12;46;85;Non vérifié;non
+66157;Railleu;66;eau potable;95353;2024;93,9;0,2;2,5;65,5;conforme;365;365;43;29;23;Non vérifié;non
+66158;Rasiguères;66;eau potable : Rasiguères;95356;2024;46,9;8,8;7,8;66,6;non conforme;7452;7452;124;412;165;Non vérifié;non
+66159;Réal;66;eau potable : Réal;95358;2024;73,0;16,4;44,5;73,9;non conforme;11373;11373;385;134;81;Non vérifié;non
+66160;Reynès;66;eau potable;95424;2024;76,9;4,3;14,2;67,8;conforme;335873;22774;51;110;1220;Non vérifié;non
+66161;Ria-Sirach;66;eau potable;95361;2024;60,4;6,9;10,5;67,1;non conforme;34780;34780;75;239;1264;Non vérifié;non
+66162;Rigarda;66;eau potable : Lentilla;311454;2024;58,9;8,9;12,7;67,5;non conforme;112983;22041;87;256;698;Non vérifié;non
+66164;Rivesaltes;66;eau potable : Espace Méditerranée Entreprise - (Rivesaltes - F1 AINR);219197;2024;69,5;6,4;14,5;67,9;conforme;20767;20767;6;161;9270;Non vérifié;non
+66165;Rodès;66;eau potable;95364;2024;87,3;2,4;16,5;68,3;conforme;5712;5712;21;53;758;Non vérifié;non
+66166;Sahorre;66;eau potable;95366;2024;77,0;2,3;7,6;66,5;conforme;5625;5625;38;111;401;Non vérifié;non
+66167;Saillagouse;66;eau potable : principal;95431;2024;82,2;2,4;11,0;67,2;conforme;62608;27495;65;83;1155;Non vérifié;non
+66168;Saint-André;66;eau potable : LAROQUE - PALAU DEL VIDRE - ST ANDRE - ST GENIS - SOREDE - VILLELONGUE DELS MONTS;95508;2024;68,3;6,4;13,8;67,8;conforme;430782;83304;67;169;3388;Non vérifié;non
+66169;Saint-Arnac;66;eau potable : Saint Arnac;95368;2024;77,0;0,8;2,7;65,5;conforme;1022;1022;28;107;99;Non vérifié;non
+66170;Sainte-Colombe-de-la-Commanderie;66;eau potable : autres communes : Calmeilles, Camelas, Castelnou, Fourques, Llauro, Montauriol, Oms, Passa, Ste Colombe de la Commanderie, Saint Jean Lasseille, Terrats, Thuir, Tordères, Tresserre, Villemolaque;310974;2024;64,5;6,1;11,2;67,2;non conforme;567758;5877;88;214;183;Non vérifié;non
+66171;Saint-Cyprien;66;eau potable : LATOUR BAS ELNE - ST CYPRIEN;95423;2024;84,1;6,5;34,4;71,9;conforme;339457;267820;61;78;12068;Non vérifié;non
+66172;Saint-Estève;66;eau potable : Saint Estève;95494;2024;76,8;7,6;25,1;70,0;conforme;202530;202530;48;111;11630;Non vérifié;non
+66173;Saint-Féliu-d'Amont;66;eau potable : St-Féliu-d'Amont;95371;2024;45,1;18,6;15,3;68,1;non conforme;61101;61101;130;443;1292;Non vérifié;non
+66174;Saint-Féliu-d'Avall;66;eau potable : Saint Feliu D'Avall;95499;2024;90,3;2,0;18,9;68,8;conforme;13206;13206;12;39;2950;Non vérifié;non
+66175;Saint-Génis-des-Fontaines;66;eau potable : LAROQUE - PALAU DEL VIDRE - ST ANDRE - ST GENIS - SOREDE - VILLELONGUE DELS MONTS;95508;2024;68,3;6,4;13,8;67,8;conforme;430782;75215;67;169;3059;Non vérifié;non
+66176;Saint-Hippolyte;66;eau potable : Saint Hippolyte;95472;2024;91,2;1,6;17,0;68,4;conforme;11925;11925;10;34;3126;Non vérifié;non
+66177;Saint-Jean-Lasseille;66;eau potable : autres communes : Calmeilles, Camelas, Castelnou, Fourques, Llauro, Montauriol, Oms, Passa, Ste Colombe de la Commanderie, Saint Jean Lasseille, Terrats, Thuir, Tordères, Tresserre, Villemolaque;310974;2024;64,5;6,1;11,2;67,2;non conforme;567758;52087;88;214;1622;Non vérifié;non
+66178;Saint-Jean-Pla-de-Corts;66;eau potable;95424;2024;76,9;4,3;14,2;67,8;conforme;335873;43139;51;110;2311;Non vérifié;non
+66179;Saint-Laurent-de-Cerdans;66;eau potable : Saint Laurent de Cerdans;95373;2024;66,2;3,0;5,9;66,2;conforme;21900;21900;57;187;1045;Non vérifié;non
+66180;Saint-Laurent-de-la-Salanque;66;eau potable : Saint Laurent de la Salanque;95471;2024;76,2;5,9;18,8;68,8;conforme;134551;134551;37;115;9898;Non vérifié;non
+66181;Sainte-Léocadie;66;eau potable;95375;2024;78,5;2,6;9,5;66,9;conforme;12631;12631;220;99;157;Non vérifié;non
+66182;Sainte-Marie-la-Mer;66;eau potable : Sainte Marie la Mer;95469;2024;61,8;14,6;23,7;69,7;non conforme;237620;237620;131;225;4952;Non vérifié;non
+66183;Saint-Marsal;66;eau potable : Saint Marsal;95377;2024;67,0;0,8;1,7;65,3;conforme;2044;2044;73;175;77;Non vérifié;non
+66184;Saint-Martin-de-Fenouillet;66;eau potable : Saint Martin de Fenouillet;95379;2024;85,4;0,4;2,3;65,5;conforme;336;336;19;63;49;Non vérifié;non
+66185;Saint-Michel-de-Llotes;66;eau potable;95426;2024;47,6;10,0;9,1;66,8;non conforme;164250;18068;136;401;364;Non vérifié;non
+66186;Saint-Nazaire;66;eau potable : Saint Nazaire;95470;2024;90,1;4,6;42,3;73,5;conforme;31297;31297;31;61;2779;Non vérifié;non
+66187;Saint-Paul-de-Fenouillet;66;eau potable : Saint Paul de Fenouillet;95382;2024;47,6;10,3;9,4;66,9;non conforme;95153;95153;150;408;1742;Non vérifié;non
+66188;Saint-Pierre-dels-Forcats;66;eau potable;95449;2024;42,7;13,1;9,8;67,0;non conforme;138568;31996;337;488;260;Non vérifié;non
+66189;Saleilles;66;eau potable : Saleilles;95505;2024;68,6;8,5;18,4;68,7;non conforme;114513;114513;55;168;5698;Non vérifié;non
+66190;Salses-le-Château;66;eau potable : Salses-le-Château;95384;2024;83,5;4,6;23,4;69,7;conforme;34906;34906;24;72;3965;Non vérifié;non
+66191;Sansa;66;eau potable;95387;2024;86,3;2,0;12,4;67,5;conforme;949;949;84;59;31;Non vérifié;non
+66192;Sauto;66;eau potable;95388;2024;85,3;1,5;8,7;66,7;conforme;1642;1642;44;63;102;Non vérifié;non
+66193;Serdinya;66;eau potable;95390;2024;64,2;1,9;3,4;65,7;non conforme;5680;5680;66;202;236;Non vérifié;non
+66194;Serralongue;66;eau potable : Serralongue;95393;2024;65,6;1,1;2,1;65,4;conforme;4657;4657;52;188;244;Non vérifié;non
+66195;Le Soler;66;eau potable : Le Soler;95501;2024;69,8;9,5;22,1;69,4;conforme;145219;145219;50;157;7942;Non vérifié;non
+66196;Sorède;66;eau potable : LAROQUE - PALAU DEL VIDRE - ST ANDRE - ST GENIS - SOREDE - VILLELONGUE DELS MONTS;95508;2024;68,3;6,4;13,8;67,8;conforme;430782;86353;67;169;3512;Non vérifié;non
+66197;Souanyas;66;eau potable;95395;2024;94,2;0,1;1,6;65,3;conforme;91;91;9;22;29;Non vérifié;non
+66198;Sournia;66;eau potable : Sournia;310694;2024;31,9;19,3;9,0;66,8;non conforme;55511;55511;318;781;478;Non vérifié;non
+66199;Taillet;66;eau potable;198040;2024;88,5;0,3;2,1;65,4;conforme;955;955;25;52;105;Non vérifié;non
+66201;Tarerach;66;eau potable : Tarerach;311474;2024;37,7;5,7;3,5;65,7;non conforme;2705;2705;176;602;42;Non vérifié;non
+66202;Targasonne;66;eau potable;95398;2024;69,8;1,4;3,3;65,7;conforme;5299;5299;72;155;201;Non vérifié;non
+66203;Taulis;66;eau potable : Taulis;95399;2024;86,3;0,6;3,5;65,7;conforme;372;372;18;62;58;Non vérifié;non
+66204;Taurinya;66;eau potable : Taurinya;311394;2024;64,4;5,0;9,0;66,8;non conforme;10585;10585;88;202;328;Non vérifié;non
+66205;Tautavel;66;eau potable : Tautavel;95401;2024;67,9;6,4;13,6;67,7;conforme;23524;23524;68;172;945;Non vérifié;non
+66206;Le Tech;66;eau potable : Le Tech;95403;2024;69,5;1,3;3,0;65,6;conforme;1082;1082;31;156;95;Non vérifié;non
+66207;Terrats;66;eau potable : autres communes : Calmeilles, Camelas, Castelnou, Fourques, Llauro, Montauriol, Oms, Passa, Ste Colombe de la Commanderie, Saint Jean Lasseille, Terrats, Thuir, Tordères, Tresserre, Villemolaque;310974;2024;64,5;6,1;11,2;67,2;non conforme;567758;25883;88;214;806;Non vérifié;non
+66208;Théza;66;eau potable : THEZA;95515;2024;83,8;3,5;17,9;68,6;conforme;18319;18319;24;71;2126;Non vérifié;non
+66209;Thuès-Entre-Valls;66;eau potable;95405;2022;70,2;1,2;2,8;65,6;conforme;1314;1314;144;157;25;Sans anomalie apparente;non
+66210;Thuir;66;eau potable : autres communes : Calmeilles, Camelas, Castelnou, Fourques, Llauro, Montauriol, Oms, Passa, Ste Colombe de la Commanderie, Saint Jean Lasseille, Terrats, Thuir, Tordères, Tresserre, Villemolaque;310974;2024;64,5;6,1;11,2;67,2;non conforme;567758;264707;88;214;8243;Non vérifié;non
+66211;Tordères;66;eau potable : autres communes : Calmeilles, Camelas, Castelnou, Fourques, Llauro, Montauriol, Oms, Passa, Ste Colombe de la Commanderie, Saint Jean Lasseille, Terrats, Thuir, Tordères, Tresserre, Villemolaque;310974;2024;64,5;6,1;11,2;67,2;non conforme;567758;6005;88;214;187;Non vérifié;non
+66212;Torreilles;66;eau potable : Torreilles;95468;2024;71,6;10,4;26,1;70,2;conforme;120295;120295;88;145;3753;Non vérifié;non
+66213;Toulouges;66;eau potable : Toulouges;95466;2024;70,7;9,6;23,3;69,7;conforme;132942;132942;49;151;7450;Non vérifié;non
+66214;Tresserre;66;eau potable : autres communes : Calmeilles, Camelas, Castelnou, Fourques, Llauro, Montauriol, Oms, Passa, Ste Colombe de la Commanderie, Saint Jean Lasseille, Terrats, Thuir, Tordères, Tresserre, Villemolaque;310974;2024;64,5;6,1;11,2;67,2;non conforme;567758;37444;88;214;1166;Non vérifié;non
+66215;Trévillach;66;eau potable : Trevillach;311494;2024;77,0;2,8;9,2;66,8;conforme;2269;2269;31;111;201;Non vérifié;non
+66216;Trilla;66;eau potable : Trilla;95407;2024;75,7;1,6;5,1;66,0;conforme;730;730;26;115;77;Non vérifié;non
+66217;Trouillas;66;eau potable : Trouillas;310954;2024;85,4;4,7;27,4;70,5;conforme;33624;33624;40;142;2324;Non vérifié;non
+66218;Ur;66;eau potable;95427;2024;60,9;6,4;9,9;67,0;non conforme;64824;22389;161;236;382;Non vérifié;non
+66219;Urbanya;66;eau potable : Urbanya;95410;2024;70,0;1,4;3,2;65,6;conforme;1032;1032;63;162;45;Non vérifié;non
+66220;Valcebollère;66;eau potable;95445;2024;66,1;7,3;14,2;67,8;non conforme;140206;1545;125;188;34;Non vérifié;non
+66221;Valmanya;66;eau potable : Valmanya;311475;2024;37,9;3,1;1,9;65,4;non conforme;2750;2750;222;589;34;Non vérifié;non
+66222;Vernet-les-Bains;66;eau potable;95442;2024;76,0;2,9;9,4;66,9;conforme;41461;28701;52;113;1498;Non vérifié;non
+66223;Villefranche-de-Conflent;66;eau potable;95411;2024;87,4;3,7;25,8;70,2;conforme;3322;3322;42;74;215;Non vérifié;non
+66224;Villelongue-de-la-Salanque;66;eau potable : Villelongue de la Salanque;200593;2024;83,7;3,9;20,2;69,0;conforme;30776;30776;25;70;3335;Non vérifié;non
+66225;Villelongue-dels-Monts;66;eau potable : LAROQUE - PALAU DEL VIDRE - ST ANDRE - ST GENIS - SOREDE - VILLELONGUE DELS MONTS;95508;2024;68,3;6,4;13,8;67,8;conforme;430782;48586;67;169;1976;Non vérifié;non
+66226;Villemolaque;66;eau potable : autres communes : Calmeilles, Camelas, Castelnou, Fourques, Llauro, Montauriol, Oms, Passa, Ste Colombe de la Commanderie, Saint Jean Lasseille, Terrats, Thuir, Tordères, Tresserre, Villemolaque;310974;2024;64,5;6,1;11,2;67,2;non conforme;567758;41040;88;214;1278;Non vérifié;non
+66227;Villeneuve-de-la-Raho;66;eau potable : Villeneuve de la Raho;95464;2024;91,9;2,1;23,9;69,8;conforme;23915;23915;15;32;4470;Non vérifié;non
+66228;Villeneuve-la-Rivière;66;eau potable : Villeneuve-la-Rivière;95463;2024;91,4;1,7;18,4;68,7;conforme;4852;4852;10;34;1360;Non vérifié;non
+66230;Vinça;66;eau potable : Lentilla;311454;2024;58,9;8,9;12,7;67,5;non conforme;112983;71364;87;256;2260;Non vérifié;non
+66231;Vingrau;66;eau potable : Vingrau;95413;2024;76,5;2,1;6,8;66,4;conforme;9842;9842;50;113;536;Non vérifié;non
+66232;Vira;66;eau potable : Vira;95415;2024;48,7;0,9;0,9;65,2;non conforme;1314;1314;124;377;29;Non vérifié;non
+66233;Vivès;66;eau potable;95424;2024;76,9;4,3;14,2;67,8;conforme;335873;3547;51;110;190;Non vérifié;non
+66234;Le Vivier;66;eau potable : Le Vivier;95420;2024;79,0;0,4;1,6;65,3;conforme;730;730;28;88;71;Non vérifié;non

@@ -7,608 +7,608 @@
 # Méthodologie et code : https://github.com/btaverne/dourdata
 # Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
 # Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
-Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
-51001;Ablancourt;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;5969;97;135;168;Non vérifié
-51002;Saint-Martin-d'Ablois;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;39452;81;214;1336;Non vérifié
-51003;Aigny;51;eau potable : Ex SIA région de condé;158009;2024;49,7;6,6;6,5;66,3;non conforme;148539;14149;134;372;289;Non vérifié
-51004;Allemanche-Launay-et-Soyer;51;eau potable : REGIE;158234;2024;70,9;2,2;5,4;66,1;conforme;132302;2391;54;148;121;Non vérifié
-51005;Allemant;51;eau potable : SIVU des eaux de Mondement;158080;2024;87,9;0,5;3,5;65,7;conforme;6833;1333;22;52;166;Non vérifié
-51007;Ambonnay;51;eau potable : Principal;318254;2024;82,6;2,4;11,3;67,3;conforme;189514;12963;38;81;941;Non vérifié
-51008;Ambrières;51;eau potable : ex Syndicat Landricourt-Sainte Livière-Ambrières;158086;2024;88,5;0,4;2,9;65,6;conforme;3481;311;4;50;210;Non vérifié
-51009;Anglure;51;eau potable : REGIE;158234;2024;70,9;2,2;5,4;66,1;conforme;132302;15352;54;148;777;Non vérifié
-51010;Angluzelles-et-Courcelles;51;eau potable : SMIDEP du MONT AOUT;158065;2024;76,6;2,2;7,2;66,4;conforme;84853;3673;68;146;149;Non vérifié
-51012;Anthenay;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;714;28;81;70;Non vérifié
-51013;Aougny;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;1051;28;81;103;Non vérifié
-51014;Arcis-le-Ponsart;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;2908;28;81;285;Non vérifié
-51015;Argers;51;eau potable : affermage SUEZ;158109;2024;67,3;3,5;7,2;66,4;conforme;200568;2982;74;177;110;Non vérifié
-51016;Arrigny;51;eau potable;158057;2024;80,3;1,0;3,9;65,8;conforme;7621;2637;32;93;227;Non vérifié
-51017;Arzillières-Neuville;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;11441;97;135;322;Non vérifié
-51018;Athis;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;17857;55;103;885;Non vérifié
-51019;Aubérive;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;2719;31;74;241;Non vérifié
-51020;Aubilly;51;eau potable : Rouillat;158076;2024;77,4;2,9;9,8;67,0;conforme;100229;1207;66;178;50;Non vérifié
-51022;Aulnay-l'Aître;51;eau potable;158090;2024;65,0;3,8;7,1;66,4;non conforme;72928;4551;74;196;168;Non vérifié
-51023;Aulnay-sur-Marne;51;eau potable : Aulnay;157767;2024;89,5;1,2;10,3;67,1;conforme;1603;1603;16;43;279;Non vérifié
-51025;Auménancourt;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;12749;31;74;1130;Non vérifié
-51027;Auve;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;8990;78;147;314;Non vérifié
-51028;Avenay-Val-d'Or;51;eau potable : Principal;318254;2024;82,6;2,4;11,3;67,3;conforme;189514;13170;38;81;956;Non vérifié
-51029;Avize;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;35150;55;103;1742;Non vérifié
-51030;Aÿ-Champagne;51;eau potable : Principal;318254;2024;82,6;2,4;11,3;67,3;conforme;189514;70298;38;81;5103;Non vérifié
-51031;Baconnes;51;eau potable : Ex CC Mourmelon;158037;2024;81,9;2,5;11,5;67,3;conforme;65244;2172;21;80;289;Non vérifié
-51032;Bagneux;51;eau potable : REGIE;158234;2024;70,9;2,2;5,4;66,1;conforme;132302;8002;54;148;405;Non vérifié
-51033;Le Baizil;51;eau potable : DSP - SUEZ EX: BRIE DES ETANGS;158119;2024;65,7;1,9;3,5;65,7;non conforme;106106;7567;74;196;282;Non vérifié
-51034;Bannay;51;eau potable : DSP - SUEZ EX: BRIE DES ETANGS;158119;2024;65,7;1,9;3,5;65,7;non conforme;106106;617;74;196;23;Non vérifié
-51035;Bannes;51;eau potable : SMIDEP du MONT AOUT;158065;2024;76,6;2,2;7,2;66,4;conforme;84853;6212;68;146;252;Non vérifié
-51036;Barbonne-Fayel;51;eau potable : Barbonne Fayel;293954;2024;66,8;4,0;8,0;66,6;conforme;13111;13111;75;183;482;Non vérifié
-51037;Baslieux-lès-Fismes;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;3459;28;81;339;Non vérifié
-51038;Baslieux-sous-Châtillon;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;5168;81;214;175;Non vérifié
-51039;Bassu;51;eau potable;157773;2024;91,4;7,7;81,9;81,4;conforme;562;562;16;34;95;Non vérifié
-51040;Bassuet;51;eau potable;157774;2024;74,5;6,7;19,5;68,9;conforme;5747;5747;67;125;235;Non vérifié
-51041;BAUDEMENT;51;eau potable : REGIE;158234;2024;70,9;2,2;5,4;66,1;conforme;132302;1936;54;148;98;Non vérifié
-51042;Baye;51;eau potable : DSP - SUEZ EX: BRIE DES ETANGS;158119;2024;65,7;1,9;3,5;65,7;non conforme;106106;9983;74;196;372;Non vérifié
-51043;Bazancourt;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;28150;31;74;2495;Non vérifié
-51044;Beaumont-sur-Vesle;51;eau potable : Région de Verzy;245214;2024;75,8;2,7;8,5;66,7;conforme;121473;12623;45;116;767;Non vérifié
-51045;Beaunay;51;eau potable : DSP - SUEZ EX: BRIE DES ETANGS;158119;2024;65,7;1,9;3,5;65,7;non conforme;106106;2737;74;196;102;Non vérifié
-51046;Beine-Nauroy;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;11779;31;74;1044;Non vérifié
-51047;Belval-en-Argonne;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;1260;78;147;44;Non vérifié
-51048;Belval-sous-Châtillon;51;eau potable : Belval sous Châtillon;217602;2024;89,4;0,3;2,6;65,5;conforme;929;929;15;43;174;Non vérifié
-51049;Bergères-lès-Vertus;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;12026;55;103;596;Non vérifié
-51050;Bergères-sous-Montmirail;51;eau potable : AFFERMAGE;158011;2024;61,0;2,8;4,3;65,9;non conforme;170654;6790;136;269;137;Non vérifié
-51051;Berméricourt;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;2714;28;81;266;Non vérifié
-51052;Berru;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;7074;31;74;627;Non vérifié
-51053;Berzieux;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;2004;78;147;70;Non vérifié
-51054;Bétheniville;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;14205;31;74;1259;Non vérifié
-51055;Bétheny;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;78696;31;74;6975;Non vérifié
-51056;Bethon;51;eau potable : Bethon;293994;2024;86,0;0,9;5,6;66,1;conforme;2861;2861;35;59;222;Non vérifié
-51058;Bezannes;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;56853;31;74;5039;Non vérifié
-51059;Bignicourt-sur-Marne;51;eau potable;158060;2024;79,2;1,6;6,1;66,2;conforme;8211;4199;30;96;381;Non vérifié
-51060;Bignicourt-sur-Saulx;51;eau potable;158064;2024;50,8;4,7;4,9;66,0;non conforme;18819;8274;148;351;153;Non vérifié
-51061;Billy-le-Grand;51;eau potable : Région de Verzy;245214;2024;75,8;2,7;8,5;66,7;conforme;121473;2452;45;116;149;Non vérifié
-51062;Binarville;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;2348;78;147;82;Non vérifié
-51063;Binson-et-Orquigny;51;eau potable : Eau potable Nord;318314;2022;74,0;3,0;8,7;66,7;conforme;348703;3471;57;144;166;Sans anomalie apparente
-51065;Blacy;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;21817;97;135;614;Non vérifié
-51066;Blaise-sous-Arzillières;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;11228;97;135;316;Non vérifié
-51068;Blesme;51;eau potable;158055;2024;84,5;1,7;9,5;66,9;conforme;6999;2479;35;121;193;Non vérifié
-51069;Bligny;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;1092;28;81;107;Non vérifié
-51070;Boissy-le-Repos;51;eau potable : AFFERMAGE;158011;2024;61,0;2,8;4,3;65,9;non conforme;170654;11598;136;269;234;Non vérifié
-51071;Bouchy-Saint-Genest;51;eau potable : Bouchy saint Genest;294175;2024;55,8;2,2;2,8;65,6;non conforme;8833;8833;114;287;213;Non vérifié
-51072;Bouilly;51;eau potable : Rouillat;158076;2024;77,4;2,9;9,8;67,0;conforme;100229;5554;66;178;230;Non vérifié
-51073;BOULEUSE;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;2255;28;81;221;Non vérifié
-51074;Boult-sur-Suippe;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;20230;31;74;1793;Non vérifié
-51075;Bourgogne-Fresne;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;15071;28;81;1477;Non vérifié
-51076;Boursault;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;11605;81;214;393;Non vérifié
-51077;Bouvancourt;51;eau potable : SIVU des eaux de Fismes;158079;2024;80,1;2,6;10,4;67,1;conforme;121216;2018;32;91;174;Non vérifié
-51078;Bouy;51;eau potable : Ex CC Mourmelon;158037;2024;81,9;2,5;11,5;67,3;conforme;65244;4006;21;80;533;Non vérifié
-51079;Bouzy;51;eau potable : Principal;318254;2024;82,6;2,4;11,3;67,3;conforme;189514;11365;38;81;825;Non vérifié
-51081;Branscourt;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;3143;28;81;308;Non vérifié
-51082;Braux-Sainte-Cohière;51;eau potable : affermage SUEZ;158109;2024;67,3;3,5;7,2;66,4;conforme;200568;2576;74;177;95;Non vérifié
-51083;Braux-Saint-Remy;51;eau potable : affermage SUEZ;158109;2024;67,3;3,5;7,2;66,4;conforme;200568;2169;74;177;80;Non vérifié
-51084;Bréban;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;3020;97;135;85;Non vérifié
-51085;Le Breuil;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;10985;81;214;372;Non vérifié
-51086;Breuil-sur-Vesle;51;eau potable : SIVU des eaux de Fismes;158079;2024;80,1;2,6;10,4;67,1;conforme;121216;3770;32;91;325;Non vérifié
-51087;Breuvery-sur-Coole;51;eau potable : affermage n°3;217205;2024;56,3;3,8;4,9;66,0;non conforme;194097;8013;106;281;207;Non vérifié
-51088;Brimont;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;4622;28;81;453;Non vérifié
-51089;Brouillet;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;694;28;81;68;Non vérifié
-51090;Broussy-le-Grand;51;eau potable : SMIDEP du MONT AOUT;158065;2024;76,6;2,2;7,2;66,4;conforme;84853;7618;68;146;309;Non vérifié
-51091;Broussy-le-Petit;51;eau potable : SIVU des eaux de Mondement;158080;2024;87,9;0,5;3,5;65,7;conforme;6833;1092;22;52;136;Non vérifié
-51092;Broyes;51;eau potable : ex SIVU Grand Morin;158082;2024;89,3;0,5;4,2;65,8;conforme;3935;1335;11;44;340;Non vérifié
-51093;Brugny-Vaudancourt;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;8737;55;103;433;Non vérifié
-51095;Le Buisson;51;eau potable;158064;2024;50,8;4,7;4,9;66,0;non conforme;18819;4488;148;351;83;Non vérifié
-51097;Bussy-le-Château;51;eau potable;158108;2024;75,5;2,9;8,9;66,8;conforme;110666;2501;39;119;176;Non vérifié
-51098;Bussy-le-Repos;51;eau potable;157794;2024;92,4;0,4;4,7;65,9;conforme;467;467;9;31;135;Non vérifié
-51099;Bussy-Lettrée;51;eau potable : plateforme de Vatry;341094;2024;56,5;2,2;2,9;65,6;non conforme;19047;11511;103;280;307;Non vérifié
-51100;La Caure;51;eau potable : DSP - SUEZ EX: BRIE DES ETANGS;158119;2024;65,7;1,9;3,5;65,7;non conforme;106106;2549;74;196;95;Non vérifié
-51101;Caurel;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;7071;28;81;693;Non vérifié
-51102;Cauroy-lès-Hermonville;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;5245;28;81;514;Non vérifié
-51103;La Celle-sous-Chantemerle;51;eau potable : REGIE;158234;2024;70,9;2,2;5,4;66,1;conforme;132302;2687;54;148;136;Non vérifié
-51104;Cernay-en-Dormois;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;3922;78;147;137;Non vérifié
-51105;Cernay-lès-Reims;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;18323;31;74;1624;Non vérifié
-51106;Cernon;51;eau potable : affermage n°3;217205;2024;56,3;3,8;4,9;66,0;non conforme;194097;5071;106;281;131;Non vérifié
-51107;Chaintrix-Bierges;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;6961;55;103;345;Non vérifié
-51108;Châlons-en-Champagne;51;eau potable : Châlons en Champagne;157799;2024;83,3;8,5;42,1;73,4;conforme;642218;642218;41;93;42971;Non vérifié
-51109;Châlons-sur-Vesle;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;2102;28;81;206;Non vérifié
-51110;Chaltrait;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;1211;55;103;60;Non vérifié
-51111;Chambrecy;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;1490;28;81;146;Non vérifié
-51112;Chamery;51;eau potable : Rouillat;158076;2024;77,4;2,9;9,8;67,0;conforme;100229;11204;66;178;464;Non vérifié
-51113;Champaubert;51;eau potable : DSP - SUEZ EX: BRIE DES ETANGS;158119;2024;65,7;1,9;3,5;65,7;non conforme;106106;3301;74;196;123;Non vérifié
-51115;Champfleury;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;6995;31;74;620;Non vérifié
-51116;Champguyon;51;eau potable : Champguyon;294054;2024;96,0;0,3;7,3;66,5;conforme;627;627;6;15;298;Non vérifié
-51117;Champigneul-Champagne;51;eau potable : Champigneul-Champagne;217611;2024;57,1;3,5;4,6;65,9;non conforme;10322;10322;88;277;322;Non vérifié
-51118;Champigny;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;18582;31;74;1647;Non vérifié
-51119;Champillon;51;eau potable : Principal;318254;2024;82,6;2,4;11,3;67,3;conforme;189514;7026;38;81;510;Non vérifié
-51120;Champlat-et-Boujacourt;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;4105;81;214;139;Non vérifié
-51121;Champvoisy;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;7442;81;214;252;Non vérifié
-51122;Changy;51;eau potable;158090;2024;65,0;3,8;7,1;66,4;non conforme;72928;3143;74;196;116;Non vérifié
-51124;Chantemerle;51;eau potable : Chantemerle;294034;2024;86,6;0,9;6,2;66,2;conforme;493;493;28;53;48;Non vérifié
-51125;Chapelaine;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;1599;97;135;45;Non vérifié
-51126;La Chapelle-Felcourt;51;eau potable : affermage SUEZ;158109;2024;67,3;3,5;7,2;66,4;conforme;200568;1193;74;177;44;Non vérifié
-51127;La Chapelle-Lasson;51;eau potable : REGIE;158234;2024;70,9;2,2;5,4;66,1;conforme;132302;1679;54;148;85;Non vérifié
-51128;La Chapelle-sous-Orbais;51;eau potable : DSP - SUEZ EX: BRIE DES ETANGS;158119;2024;65,7;1,9;3,5;65,7;non conforme;106106;1422;74;196;53;Non vérifié
-51129;Charleville;51;eau potable : AFFERMAGE;158011;2024;61,0;2,8;4,3;65,9;non conforme;170654;12986;136;269;262;Non vérifié
-51130;Charmont;51;eau potable;157806;2024;81,5;0,6;2,7;65,5;conforme;1962;1962;23;81;232;Non vérifié
-51132;Les Charmontois;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;3407;78;147;119;Non vérifié
-51133;Le Châtelier;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;1804;78;147;63;Non vérifié
-51134;Châtelraould-Saint-Louvent;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;8670;97;135;244;Non vérifié
-51135;Châtillon-sur-Broué;51;eau potable;158087;2024;70,3;1,7;4,0;65,8;conforme;17728;3854;117;153;90;Non vérifié
-51136;Châtillon-sur-Marne;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;18456;81;214;625;Non vérifié
-51137;Châtillon-sur-Morin;51;eau potable : Chatillon sur Morin;294154;2024;99,5;0,0;7,3;66,5;conforme;0;0;0;0;210;Non vérifié
-51138;Châtrices;51;eau potable : affermage SUEZ;158109;2024;67,3;3,5;7,2;66,4;conforme;200568;976;74;177;36;Non vérifié
-51139;Chaudefontaine;51;eau potable : affermage SUEZ;158109;2024;67,3;3,5;7,2;66,4;conforme;200568;8459;74;177;312;Non vérifié
-51140;Chaumuzy;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;3520;28;81;345;Non vérifié
-51141;La Chaussée-sur-Marne;51;eau potable;158090;2024;65,0;3,8;7,1;66,4;non conforme;72928;20535;74;196;758;Non vérifié
-51142;Chavot-Courcourt;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;6861;55;103;340;Non vérifié
-51143;Le Chemin;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;1804;78;147;63;Non vérifié
-51144;Cheminon;51;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;10496;50;109;578;Non vérifié
-51145;Chenay;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;2255;28;81;221;Non vérifié
-51146;Cheniers;51;eau potable : Cheniers;157813;2024;89,0;1,0;8,4;66,7;conforme;482;482;11;44;125;Non vérifié
-51147;La Cheppe;51;eau potable;158108;2024;75,5;2,9;8,9;66,8;conforme;110666;4576;39;119;322;Non vérifié
-51148;Cheppes-la-Prairie;51;eau potable : affermage n°3;217205;2024;56,3;3,8;4,9;66,0;non conforme;194097;5342;106;281;138;Non vérifié
-51149;Chepy;51;eau potable : SIVU Mont Louvet;158075;2024;55,4;7,8;9,6;66,9;non conforme;136656;15911;94;295;462;Non vérifié
-51150;Cherville;51;eau potable : Cherville;157816;2024;94,4;1,0;16,8;68,4;conforme;296;296;10;22;85;Non vérifié
-51151;Chichey;51;eau potable : ex SIVU de Gaye;158067;2024;71,5;1,4;3,5;65,7;conforme;19755;3162;52;147;166;Non vérifié
-51152;Chigny-les-Roses;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;5878;31;74;521;Non vérifié
-51153;Chouilly;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;21469;55;103;1064;Non vérifié
-51154;Clamanges;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;4601;55;103;228;Non vérifié
-51155;Clesles;51;eau potable : REGIE;158234;2024;70,9;2,2;5,4;66,1;conforme;132302;12151;54;148;615;Non vérifié
-51156;Cloyes-sur-Marne;51;eau potable;158060;2024;79,2;1,6;6,1;66,2;conforme;8211;1378;30;96;125;Non vérifié
-51157;Coizard-Joches;51;eau potable : DSP - SUEZ EX: BRIE DES ETANGS;158119;2024;65,7;1,9;3,5;65,7;non conforme;106106;2522;74;196;94;Non vérifié
-51158;Val-des-Marais;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;11078;55;103;549;Non vérifié
-51160;Compertrix;51;eau potable : Compertrix;157819;2024;85,1;1,6;9,4;66,9;conforme;7650;7650;16;62;1308;Non vérifié
-51161;Condé-sur-Marne;51;eau potable : Ex SIA région de condé;158009;2024;49,7;6,6;6,5;66,3;non conforme;148539;36572;134;372;747;Non vérifié
-51162;Conflans-sur-Seine;51;eau potable : REGIE;158234;2024;70,9;2,2;5,4;66,1;conforme;132302;11895;54;148;602;Non vérifié
-51163;Congy;51;eau potable : DSP - SUEZ EX: BRIE DES ETANGS;158119;2024;65,7;1,9;3,5;65,7;non conforme;106106;6897;74;196;257;Non vérifié
-51164;Connantray-Vaurefroy;51;eau potable;157820;2024;64,5;2,1;3,8;65,8;non conforme;4522;4522;95;204;130;Non vérifié
-51165;Connantre;51;eau potable : SMIDEP du MONT AOUT;158065;2024;76,6;2,2;7,2;66,4;conforme;84853;24923;68;146;1011;Non vérifié
-51166;Contault;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;1947;78;147;68;Non vérifié
-51167;Coole;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;5579;97;135;157;Non vérifié
-51168;Coolus;51;eau potable : Coolus;157822;2024;64,1;4,1;7,4;66,5;non conforme;5851;5851;68;204;235;Non vérifié
-51169;Corbeil;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;3553;97;135;100;Non vérifié
-51170;Corfélix;51;eau potable : AFFERMAGE;158011;2024;61,0;2,8;4,3;65,9;non conforme;170654;5403;136;269;109;Non vérifié
-51171;Cormicy;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;15306;28;81;1500;Non vérifié
-51172;Cormontreuil;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;73720;31;74;6534;Non vérifié
-51173;Cormoyeux;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;3809;81;214;129;Non vérifié
-51174;Corribert;51;eau potable : DSP - SUEZ EX: BRIE DES ETANGS;158119;2024;65,7;1,9;3,5;65,7;non conforme;106106;1771;74;196;66;Non vérifié
-51175;Corrobert;51;eau potable : AFFERMAGE;158011;2024;61,0;2,8;4,3;65,9;non conforme;170654;10161;136;269;205;Non vérifié
-51176;Corroy;51;eau potable : SMIDEP du MONT AOUT;158065;2024;76,6;2,2;7,2;66,4;conforme;84853;3624;68;146;147;Non vérifié
-51177;Coulommes-la-Montagne;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;2133;28;81;209;Non vérifié
-51178;Coupetz;51;eau potable : affermage n°3;217205;2024;56,3;3,8;4,9;66,0;non conforme;194097;3407;106;281;88;Non vérifié
-51179;Coupéville;51;eau potable : affermage n°3;217205;2024;56,3;3,8;4,9;66,0;non conforme;194097;6465;106;281;167;Non vérifié
-51181;Courcelles-Sapicourt;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;4041;28;81;396;Non vérifié
-51182;Courcemain;51;eau potable : SMIDEP du MONT AOUT;158065;2024;76,6;2,2;7,2;66,4;conforme;84853;2342;68;146;95;Non vérifié
-51183;Courcy;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;12653;28;81;1240;Non vérifié
-51184;Courdemanges;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;13858;97;135;390;Non vérifié
-51185;Courgivaux;51;eau potable : REGIE_Courgivaux;283634;2024;99,4;0,0;5,2;66,0;conforme;0;0;0;0;277;Non vérifié
-51186;Courjeonnet;51;eau potable : DSP - SUEZ EX: BRIE DES ETANGS;158119;2024;65,7;1,9;3,5;65,7;non conforme;106106;1315;74;196;49;Non vérifié
-51187;Courlandon;51;eau potable : SIVU des eaux de Fismes;158079;2024;80,1;2,6;10,4;67,1;conforme;121216;3503;32;91;302;Non vérifié
-51188;Courmas;51;eau potable : Rouillat;158076;2024;77,4;2,9;9,8;67,0;conforme;100229;5723;66;178;237;Non vérifié
-51190;COURTAGNON;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;786;28;81;77;Non vérifié
-51191;Courtémont;51;eau potable : affermage SUEZ;158109;2024;67,3;3,5;7,2;66,4;conforme;200568;1735;74;177;64;Non vérifié
-51192;Courthiézy;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;10011;81;214;339;Non vérifié
-51193;Courtisols;51;eau potable : Courtisol-Poix-SommeVesle;265654;2024;66,1;4,4;8,5;66,7;non conforme;68721;58486;68;189;2343;Non vérifié
-51194;Courville;51;eau potable : SIVU des eaux de Fismes;158079;2024;80,1;2,6;10,4;67,1;conforme;121216;5196;32;91;448;Non vérifié
-51195;Couvrot;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;27929;97;135;786;Non vérifié
-51196;Cramant;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;17575;55;103;871;Non vérifié
-51197;La Croix-en-Champagne;51;eau potable;158108;2024;75,5;2,9;8,9;66,8;conforme;110666;1251;39;119;88;Non vérifié
-51198;Crugny;51;eau potable : SIVU des eaux de Fismes;158079;2024;80,1;2,6;10,4;67,1;conforme;121216;7829;32;91;675;Non vérifié
-51199;Cuchery;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;12166;81;214;412;Non vérifié
-51200;Cuis;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;7425;55;103;368;Non vérifié
-51201;Cuisles;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;1357;28;81;133;Non vérifié
-51202;Cumières;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;13822;55;103;685;Non vérifié
-51203;Cuperly;51;eau potable;158108;2024;75,5;2,9;8,9;66,8;conforme;110666;3070;39;119;216;Non vérifié
-51204;Damery;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;39039;81;214;1322;Non vérifié
-51205;Dampierre-au-Temple;51;eau potable : Ex CC Mourmelon;158037;2024;81,9;2,5;11,5;67,3;conforme;65244;2067;21;80;275;Non vérifié
-51206;Dampierre-le-Château;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;3207;78;147;112;Non vérifié
-51208;Dampierre-sur-Moivre;51;eau potable : affermage n°3;217205;2024;56,3;3,8;4,9;66,0;non conforme;194097;4142;106;281;107;Non vérifié
-51210;Dizy;51;eau potable : Principal;318254;2024;82,6;2,4;11,3;67,3;conforme;189514;20416;38;81;1482;Non vérifié
-51211;Dommartin-Dampierre;51;eau potable : affermage SUEZ;158109;2024;67,3;3,5;7,2;66,4;conforme;200568;2060;74;177;76;Non vérifié
-51212;Dommartin-Lettrée;51;eau potable : Dommartin-Lettrée;157835;2024;96,4;0,4;9,5;66,9;conforme;428;428;7;15;165;Non vérifié
-51213;Dommartin-sous-Hans;51;eau potable : affermage SUEZ;158109;2024;67,3;3,5;7,2;66,4;conforme;200568;1220;74;177;45;Non vérifié
-51214;Dommartin-Varimont;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;3894;78;147;136;Non vérifié
-51216;Dontrien;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;2945;31;74;261;Non vérifié
-51217;Dormans;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;85342;81;214;2890;Non vérifié
-51219;Drosnay;51;eau potable;158087;2024;70,3;1,7;4,0;65,8;conforme;17728;8307;117;153;194;Non vérifié
-51220;Drouilly;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;5152;97;135;145;Non vérifié
-51222;Éclaires;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;2348;78;147;82;Non vérifié
-51223;Écollemont;51;eau potable;158057;2024;80,3;1,0;3,9;65,8;conforme;7621;744;32;93;64;Non vérifié
-51224;Écriennes;51;eau potable;157841;2024;90,3;0,4;3,4;65,7;conforme;804;804;13;43;165;Non vérifié
-51225;Écueil;51;eau potable : Rouillat;158076;2024;77,4;2,9;9,8;67,0;conforme;100229;8644;66;178;358;Non vérifié
-51226;Écury-le-Repos;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;1251;55;103;62;Non vérifié
-51227;Écury-sur-Coole;51;eau potable : affermage n°3;217205;2024;56,3;3,8;4,9;66,0;non conforme;194097;19046;106;281;492;Non vérifié
-51228;Élise-Daucourt;51;eau potable : affermage SUEZ;158109;2024;67,3;3,5;7,2;66,4;conforme;200568;2304;74;177;85;Non vérifié
-51229;Épense;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;3350;78;147;117;Non vérifié
-51230;Épernay;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;447426;55;103;22174;Non vérifié
-51231;L' Épine;51;eau potable : L'Épine;157842;2024;45,8;13,0;11,0;67,2;non conforme;34449;34449;138;431;685;Non vérifié
-51232;Époye;51;eau potable : Saint Masmes;158068;2024;68,1;4,5;9,6;66,9;conforme;38993;8370;55;172;416;Non vérifié
-51233;Escardes;51;eau potable : Escardes;294114;2024;99,9;0,0;3,1;65,6;conforme;0;0;0;0;61;Non vérifié
-51234;Esclavolles-Lurey;51;eau potable : REGIE;158234;2024;70,9;2,2;5,4;66,1;conforme;132302;12784;54;148;647;Non vérifié
-51235;Les Essarts-lès-Sézanne;51;eau potable : ex SIVU Essarts-les-Sézanne;158062;2024;84,2;2,2;11,6;67,3;conforme;19714;5208;58;140;247;Non vérifié
-51236;Les Essarts-le-Vicomte;51;eau potable : Les Essarts le Vicomte;294174;2024;94,3;0,7;10,9;67,2;conforme;1262;1262;26;24;134;Non vérifié
-51237;Esternay;51;eau potable : Esternay;294074;2024;71,8;5,6;14,2;67,8;conforme;46910;46910;74;213;1748;Non vérifié
-51238;Étoges;51;eau potable : DSP - SUEZ EX: BRIE DES ETANGS;158119;2024;65,7;1,9;3,5;65,7;non conforme;106106;11137;74;196;415;Non vérifié
-51239;Étréchy;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;1998;55;103;99;Non vérifié
-51240;Étrepy;51;eau potable;158064;2024;50,8;4,7;4,9;66,0;non conforme;18819;6057;148;351;112;Non vérifié
-51241;Euvy;51;eau potable;157847;2024;99,4;0,0;7,5;66,5;conforme;0;0;0;0;80;Non vérifié
-51242;Fagnières;51;eau potable : Fagnières;158113;2024;76,6;5,1;16,7;68,3;conforme;60275;60275;34;112;4858;Non vérifié
-51243;Faux-Fresnay;51;eau potable : SMIDEP du MONT AOUT;158065;2024;76,6;2,2;7,2;66,4;conforme;84853;8456;68;146;343;Non vérifié
-51244;Faux-Vésigneul;51;eau potable : affermage n°3;217205;2024;56,3;3,8;4,9;66,0;non conforme;194097;9213;106;281;238;Non vérifié
-51245;Faverolles-et-Coëmy;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;6133;28;81;601;Non vérifié
-51246;Favresse;51;eau potable : Favresse;157848;2024;80,7;1,0;4,2;65,8;conforme;2040;2040;26;86;217;Non vérifié
-51247;Fèrebrianges;51;eau potable : DSP - SUEZ EX: BRIE DES ETANGS;158119;2024;65,7;1,9;3,5;65,7;non conforme;106106;3408;74;196;127;Non vérifié
-51248;Fère-Champenoise;51;eau potable;157849;2024;77,6;3,4;11,8;67,4;conforme;30194;30194;38;112;2173;Non vérifié
-51249;Festigny;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;11635;81;214;394;Non vérifié
-51250;Fismes;51;eau potable : SIVU des eaux de Fismes;158079;2024;80,1;2,6;10,4;67,1;conforme;121216;67851;32;91;5850;Non vérifié
-51251;Flavigny;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;3471;55;103;172;Non vérifié
-51252;Fleury-la-Rivière;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;15444;81;214;523;Non vérifié
-51253;Florent-en-Argonne;51;eau potable : affermage SUEZ;158109;2024;67,3;3,5;7,2;66,4;conforme;200568;5802;74;177;214;Non vérifié
-51254;Fontaine-Denis-Nuisy;51;eau potable : REGIE;158234;2024;70,9;2,2;5,4;66,1;conforme;132302;4683;54;148;237;Non vérifié
-51255;Fontaine-en-Dormois;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;458;78;147;16;Non vérifié
-51256;Fontaine-sur-Ay;51;eau potable : Principal;318254;2024;82,6;2,4;11,3;67,3;conforme;189514;4353;38;81;316;Non vérifié
-51258;La Forestière;51;eau potable : La Forestiere;293974;2024;75,7;1,6;5,1;66,0;conforme;3492;3492;46;114;209;Non vérifié
-51259;Francheville;51;eau potable : affermage n°3;217205;2024;56,3;3,8;4,9;66,0;non conforme;194097;7316;106;281;189;Non vérifié
-51260;Le Fresne;51;eau potable : affermage n°3;217205;2024;56,3;3,8;4,9;66,0;non conforme;194097;2865;106;281;74;Non vérifié
-51262;Frignicourt;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;62075;97;135;1747;Non vérifié
-51263;Fromentières;51;eau potable : AFFERMAGE;158011;2024;61,0;2,8;4,3;65,9;non conforme;170654;18934;136;269;382;Non vérifié
-51264;Le Gault-Soigny;51;eau potable : eau potable : REGIE;338434;2024;79,1;2,2;8,2;66,6;conforme;53335;6644;36;98;503;Non vérifié
-51265;Gaye;51;eau potable : ex SIVU de Gaye;158067;2024;71,5;1,4;3,5;65,7;conforme;19755;10744;52;147;564;Non vérifié
-51266;Germaine;51;eau potable : Principal;318254;2024;82,6;2,4;11,3;67,3;conforme;189514;7274;38;81;528;Non vérifié
-51267;Germigny;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;1918;28;81;188;Non vérifié
-51268;Germinon;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;3834;55;103;190;Non vérifié
-51269;Giffaumont-Champaubert;51;eau potable;157854;2024;94,8;0,8;15,2;68,0;conforme;2044;2044;20;40;287;Non vérifié
-51270;Gigny-Bussy;51;eau potable;157856;2024;93,6;0,5;8,0;66,6;conforme;1642;1642;20;44;221;Non vérifié
-51272;Givry-en-Argonne;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;12826;78;147;448;Non vérifié
-51273;Givry-lès-Loisy;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;1453;55;103;72;Non vérifié
-51274;Gizaucourt;51;eau potable : affermage SUEZ;158109;2024;67,3;3,5;7,2;66,4;conforme;200568;3064;74;177;113;Non vérifié
-51275;Glannes;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;6502;97;135;183;Non vérifié
-51276;Gourgançon;51;eau potable : COPE DES VALLEES DE LA MAURIENNE ET DE L'HERBISSONNE;148909;2024;86,9;0,9;6,2;66,2;conforme;11701;2896;54;53;147;Non vérifié
-51277;Sainte-Marie-du-Lac-Nuisement;51;eau potable;157862;2024;83,9;2,3;12,1;67,4;conforme;11610;11610;115;306;277;Non vérifié
-51278;Les Grandes-Loges;51;eau potable : Les Grandes Loges;157864;2024;77,6;4,2;14,7;67,9;conforme;4032;4032;39;104;284;Non vérifié
-51279;Granges-sur-Aube;51;eau potable : REGIE;158234;2024;70,9;2,2;5,4;66,1;conforme;132302;3557;54;148;180;Non vérifié
-51280;Gratreuil;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;601;78;147;21;Non vérifié
-51281;Grauves;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;12470;55;103;618;Non vérifié
-51282;Gueux;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;19459;28;81;1907;Non vérifié
-51283;Hans;51;eau potable : affermage SUEZ;158109;2024;67,3;3,5;7,2;66,4;conforme;200568;3253;74;177;120;Non vérifié
-51284;Haussignémont;51;eau potable;158055;2024;84,5;1,7;9,5;66,9;conforme;6999;3994;35;121;311;Non vérifié
-51285;Haussimont;51;eau potable : plateforme de Vatry;341094;2024;56,5;2,2;2,9;65,6;non conforme;19047;5212;103;280;139;Non vérifié
-51286;Hauteville;51;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;4177;50;109;230;Non vérifié
-51287;Hautvillers;51;eau potable : Principal;318254;2024;82,6;2,4;11,3;67,3;conforme;189514;8376;38;81;608;Non vérifié
-51288;Heiltz-le-Hutier;51;eau potable;157868;2024;64,7;2,5;4,5;65,9;non conforme;4854;4854;57;201;233;Non vérifié
-51289;Heiltz-le-Maurupt;51;eau potable;157869;2024;36,8;20,5;11,9;67,4;non conforme;30080;30080;192;628;429;Non vérifié
-51290;Heiltz-l'Évêque;51;eau potable;218236;2024;83,8;1,9;10,0;67,0;conforme;2053;2053;20;69;276;Non vérifié
-51291;Hermonville;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;14479;28;81;1419;Non vérifié
-51292;Herpont;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;3464;78;147;121;Non vérifié
-51293;Heutrégiville;51;eau potable : Saint Masmes;158068;2024;68,1;4,5;9,6;66,9;conforme;38993;10221;55;172;508;Non vérifié
-51294;Hourges;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;878;28;81;86;Non vérifié
-51295;Huiron;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;10731;97;135;302;Non vérifié
-51296;Humbauville;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;2629;97;135;74;Non vérifié
-51298;Igny-Comblizy;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;12728;81;214;431;Non vérifié
-51299;Isles-sur-Suippe;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;11000;31;74;975;Non vérifié
-51300;Isle-sur-Marne;51;eau potable;158057;2024;80,3;1,0;3,9;65,8;conforme;7621;1115;32;93;96;Non vérifié
-51301;Isse;51;eau potable : Isse;218390;2024;87,8;1,4;10,3;67,1;conforme;1170;1170;29;49;112;Non vérifié
-51302;Les Istres-et-Bury;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;1856;55;103;92;Non vérifié
-51303;Jâlons;51;eau potable : Jâlons;157878;2024;81,3;3,1;13,3;67,7;conforme;6789;6789;34;85;549;Non vérifié
-51304;Janvilliers;51;eau potable : AFFERMAGE;158011;2024;61,0;2,8;4,3;65,9;non conforme;170654;7534;136;269;152;Non vérifié
-51305;Janvry;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;1582;28;81;155;Non vérifié
-51306;Joiselle;51;eau potable : ex: SIVU de distribution d'eau potable de la Brie Champenoise;158058;2024;45,6;2,9;2,4;65,5;non conforme;63192;9122;227;482;110;Non vérifié
-51307;Jonchery-sur-Suippe;51;eau potable;158108;2024;75,5;2,9;8,9;66,8;conforme;110666;3169;39;119;223;Non vérifié
-51308;Jonchery-sur-Vesle;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;18591;28;81;1822;Non vérifié
-51309;Jonquery;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;1173;28;81;115;Non vérifié
-51310;Jouy-lès-Reims;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;2082;28;81;204;Non vérifié
-51311;Jussecourt-Minecourt;51;eau potable;157880;2024;96,2;0,4;10,7;67,1;conforme;482;482;7;14;193;Non vérifié
-51312;Juvigny;51;eau potable : Ex SIA région de condé;158009;2024;49,7;6,6;6,5;66,3;non conforme;148539;45825;134;372;936;Non vérifié
-51313;Lachy;51;eau potable : ex SIVU Grand Morin;158082;2024;89,3;0,5;4,2;65,8;conforme;3935;1355;11;44;345;Non vérifié
-51314;Lagery;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;2388;28;81;234;Non vérifié
-51315;Landricourt;51;eau potable : ex Syndicat Landricourt-Sainte Livière-Ambrières;158086;2024;88,5;0,4;2,9;65,6;conforme;3481;193;4;50;130;Non vérifié
-51316;Larzicourt;51;eau potable;187766;2024;95,5;0,3;5,7;66,1;conforme;1863;1863;19;19;269;Non vérifié
-51317;Laval-sur-Tourbe;51;eau potable;158108;2024;75,5;2,9;8,9;66,8;conforme;110666;739;39;119;52;Non vérifié
-51318;Lavannes;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;6578;31;74;583;Non vérifié
-51319;Lenharrée;51;eau potable : Lenharée;157882;2024;57,1;3,5;4,7;65,9;non conforme;4382;4382;119;272;101;Non vérifié
-51320;Leuvrigny;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;9332;81;214;316;Non vérifié
-51321;Lhéry;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;908;28;81;89;Non vérifié
-51322;Lignon;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;4193;97;135;118;Non vérifié
-51323;Linthelles;51;eau potable : SIVU des eaux de Mondement;158080;2024;87,9;0,5;3,5;65,7;conforme;6833;827;22;52;103;Non vérifié
-51324;Linthes;51;eau potable : SIVU des eaux de Mondement;158080;2024;87,9;0,5;3,5;65,7;conforme;6833;907;22;52;113;Non vérifié
-51325;Lisse-en-Champagne;51;eau potable;157886;2024;76,2;4,1;13,1;67,6;conforme;1945;1945;51;114;104;Non vérifié
-51326;Livry-Louvercy;51;eau potable : Ex CC Mourmelon;158037;2024;81,9;2,5;11,5;67,3;conforme;65244;8072;21;80;1074;Non vérifié
-51327;Loisy-en-Brie;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;3450;55;103;171;Non vérifié
-51328;Loisy-sur-Marne;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;39406;97;135;1109;Non vérifié
-51329;Loivre;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;14714;28;81;1442;Non vérifié
-51333;Ludes;51;eau potable : Région de Verzy;245214;2024;75,8;2,7;8,5;66,7;conforme;121473;11306;45;116;687;Non vérifié
-51334;Luxémont-et-Villotte;51;eau potable;158077;2024;73,2;2,6;7,9;66,6;conforme;16940;6548;40;120;448;Non vérifié
-51336;Maffrécourt;51;eau potable : affermage SUEZ;158109;2024;67,3;3,5;7,2;66,4;conforme;200568;1600;74;177;59;Non vérifié
-51337;Magneux;51;eau potable : SIVU des eaux de Fismes;158079;2024;80,1;2,6;10,4;67,1;conforme;121216;3085;32;91;266;Non vérifié
-51338;Mailly-Champagne;51;eau potable : Région de Verzy;245214;2024;75,8;2,7;8,5;66,7;conforme;121473;10154;45;116;617;Non vérifié
-51339;Mairy-sur-Marne;51;eau potable : affermage n°3;217205;2024;56,3;3,8;4,9;66,0;non conforme;194097;21872;106;281;565;Non vérifié
-51340;Maisons-en-Champagne;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;19614;97;135;552;Non vérifié
-51341;Malmy;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;1088;78;147;38;Non vérifié
-51342;Mancy;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;4701;55;103;233;Non vérifié
-51343;Marcilly-sur-Seine;51;eau potable : REGIE;158234;2024;70,9;2,2;5,4;66,1;conforme;132302;12290;54;148;622;Non vérifié
-51344;Mardeuil;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;29399;55;103;1457;Non vérifié
-51345;Mareuil-en-Brie;51;eau potable : DSP - SUEZ EX: BRIE DES ETANGS;158119;2024;65,7;1,9;3,5;65,7;non conforme;106106;7728;74;196;288;Non vérifié
-51346;Mareuil-le-Port;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;33960;81;214;1150;Non vérifié
-51348;Marfaux;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;1184;28;81;116;Non vérifié
-51349;Margerie-Hancourt;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;6609;97;135;186;Non vérifié
-51350;Margny;51;eau potable : AFFERMAGE;158011;2024;61,0;2,8;4,3;65,9;non conforme;170654;5898;136;269;119;Non vérifié
-51351;Marigny;51;eau potable : SMIDEP du MONT AOUT;158065;2024;76,6;2,2;7,2;66,4;conforme;84853;2662;68;146;108;Non vérifié
-51352;Marolles;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;28284;97;135;796;Non vérifié
-51353;Marsangis;51;eau potable : REGIE;158234;2024;70,9;2,2;5,4;66,1;conforme;132302;889;54;148;45;Non vérifié
-51354;Marson;51;eau potable : affermage n°3;217205;2024;56,3;3,8;4,9;66,0;non conforme;194097;10723;106;281;277;Non vérifié
-51355;Massiges;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;1231;78;147;43;Non vérifié
-51356;Matignicourt-Goncourt;51;eau potable;157895;2024;74,5;1,9;5,4;66,1;conforme;2469;2469;43;128;158;Non vérifié
-51357;Matougues;51;eau potable : Matougues;157896;2024;89,5;1,7;14,2;67,8;conforme;3196;3196;14;44;636;Non vérifié
-51358;Maurupt-le-Montois;51;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;9279;50;109;511;Non vérifié
-51359;Mécringes;51;eau potable : AFFERMAGE;158011;2024;61,0;2,8;4,3;65,9;non conforme;170654;10260;136;269;207;Non vérifié
-51360;Le Meix-Saint-Epoing;51;eau potable : Le Meix saint Epoing;293935;2024;78,3;0,8;3,0;65,6;conforme;2724;2724;26;97;286;Non vérifié
-51361;Le Meix-Tiercelin;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;6041;97;135;170;Non vérifié
-51362;Merfy;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;6214;28;81;609;Non vérifié
-51363;Merlaut;51;eau potable;157901;2024;93,3;0,8;10,7;67,1;conforme;803;803;8;27;275;Non vérifié
-51364;Méry-Prémecy;51;eau potable : Rouillat;158076;2024;77,4;2,9;9,8;67,0;conforme;100229;1642;66;178;68;Non vérifié
-51365;Les Mesneux;51;eau potable : Rouillat;158076;2024;77,4;2,9;9,8;67,0;conforme;100229;23325;66;178;966;Non vérifié
-51367;Le Mesnil-sur-Oger;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;19936;55;103;988;Non vérifié
-51368;Minaucourt-le-Mesnil-lès-Hurlus;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;1317;78;147;46;Non vérifié
-51369;Moeurs-Verdey;51;eau potable : ex SIVU Grand Morin;158082;2024;89,3;0,5;4,2;65,8;conforme;3935;1245;11;44;317;Non vérifié
-51370;Moiremont;51;eau potable : affermage SUEZ;158109;2024;67,3;3,5;7,2;66,4;conforme;200568;5070;74;177;187;Non vérifié
-51371;Moivre;51;eau potable : affermage n°3;217205;2024;56,3;3,8;4,9;66,0;non conforme;194097;2090;106;281;54;Non vérifié
-51372;Moncetz-Longevas;51;eau potable : SIVU Mont Louvet;158075;2024;55,4;7,8;9,6;66,9;non conforme;136656;19631;94;295;570;Non vérifié
-51373;Moncetz-l'Abbaye;51;eau potable;158060;2024;79,2;1,6;6,1;66,2;conforme;8211;970;30;96;88;Non vérifié
-51374;Mondement-Montgivroux;51;eau potable : SIVU des eaux de Mondement;158080;2024;87,9;0,5;3,5;65,7;conforme;6833;233;22;52;29;Non vérifié
-51375;Montbré;51;eau potable : Région de Verzy;245214;2024;75,8;2,7;8,5;66,7;conforme;121473;6550;45;116;398;Non vérifié
-51376;Montgenost;51;eau potable : Montgenost;294014;2024;84,0;1,3;6,9;66,4;conforme;1438;1438;24;69;161;Non vérifié
-51377;Montépreux;51;eau potable : Montépreux;157909;2024;98,1;0,2;10,5;67,1;conforme;126;126;8;7;45;Non vérifié
-51378;Monthelon;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;6739;55;103;334;Non vérifié
-51379;Montigny-sur-Vesle;51;eau potable : SIVU des eaux de Fismes;158079;2024;80,1;2,6;10,4;67,1;conforme;121216;6600;32;91;569;Non vérifié
-51380;Montmirail;51;eau potable : eau potable : REGIE;338434;2024;79,1;2,2;8,2;66,6;conforme;53335;46691;36;98;3535;Non vérifié
-51381;Montmort-Lucy;51;eau potable : DSP - SUEZ EX: BRIE DES ETANGS;158119;2024;65,7;1,9;3,5;65,7;non conforme;106106;17604;74;196;656;Non vérifié
-51382;Mont-sur-Courville;51;eau potable : SIVU des eaux de Fismes;158079;2024;80,1;2,6;10,4;67,1;conforme;121216;1380;32;91;119;Non vérifié
-51384;Morangis;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;7325;55;103;363;Non vérifié
-51386;Morsains;51;eau potable : AFFERMAGE;158011;2024;61,0;2,8;4,3;65,9;non conforme;170654;7435;136;269;150;Non vérifié
-51387;Moslins;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;5811;55;103;288;Non vérifié
-51388;Mourmelon-le-Grand;51;eau potable : Ex CC Mourmelon;158037;2024;81,9;2,5;11,5;67,3;conforme;65244;36789;21;80;4895;Non vérifié
-51389;Mourmelon-le-Petit;51;eau potable : Ex CC Mourmelon;158037;2024;81,9;2,5;11,5;67,3;conforme;65244;6035;21;80;803;Non vérifié
-51390;Moussy;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;14629;55;103;725;Non vérifié
-51391;Muizon;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;21234;28;81;2081;Non vérifié
-51392;Mutigny;51;eau potable : Principal;318254;2024;82,6;2,4;11,3;67,3;conforme;189514;2920;38;81;212;Non vérifié
-51393;Nanteuil-la-Forêt;51;eau potable : Nanteuil-la-Forêt;322094;2024;95,5;0,2;4,4;65,9;conforme;513;513;5;17;300;Non vérifié
-51395;Nesle-la-Reposte;51;eau potable : Nesle La Reposte;294134;2024;99,2;0,2;24,1;69,8;conforme;760;760;23;46;89;Non vérifié
-51396;Nesle-le-Repons;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;4164;81;214;141;Non vérifié
-51397;La Neuville-aux-Bois;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;3951;78;147;138;Non vérifié
-51398;La Neuville-aux-Larris;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;5552;81;214;188;Non vérifié
-51399;La Neuville-au-Pont;51;eau potable : affermage SUEZ;158109;2024;67,3;3,5;7,2;66,4;conforme;200568;12552;74;177;463;Non vérifié
-51402;Neuvy;51;eau potable : ex: SIVU de distribution d'eau potable de la Brie Champenoise;158058;2024;45,6;2,9;2,4;65,5;non conforme;63192;22723;227;482;274;Non vérifié
-51403;Nogent-l'Abbesse;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;6115;31;74;542;Non vérifié
-51404;Noirlieu;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;3207;78;147;112;Non vérifié
-51406;Norrois;51;eau potable;158060;2024;79,2;1,6;6,1;66,2;conforme;8211;1664;30;96;151;Non vérifié
-51407;La Noue;51;eau potable : ex SIVU Essarts-les-Sézanne;158062;2024;84,2;2,2;11,6;67,3;conforme;19714;7822;58;140;371;Non vérifié
-51409;Nuisement-sur-Coole;51;eau potable : affermage n°3;217205;2024;56,3;3,8;4,9;66,0;non conforme;194097;14865;106;281;384;Non vérifié
-51410;OEuilly;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;16655;81;214;564;Non vérifié
-51412;Ognes;51;eau potable : SMIDEP du MONT AOUT;158065;2024;76,6;2,2;7,2;66,4;conforme;84853;1454;68;146;59;Non vérifié
-51413;Oiry;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;17837;55;103;884;Non vérifié
-51414;Olizy;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;1510;28;81;148;Non vérifié
-51415;Omey;51;eau potable : affermage n°4;157914;2024;66,7;4,1;8,2;66,6;conforme;6166;6166;83;183;203;Non vérifié
-51416;Orbais-l'Abbaye;51;eau potable : DSP - SUEZ EX: BRIE DES ETANGS;158119;2024;65,7;1,9;3,5;65,7;non conforme;106106;13552;74;196;505;Non vérifié
-51417;Orconte;51;eau potable;157915;2024;77,6;2,8;9,9;67,0;conforme;6224;6224;47;104;365;Non vérifié
-51418;Ormes;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;5877;28;81;576;Non vérifié
-51419;Outines;51;eau potable;158087;2024;70,3;1,7;4,0;65,8;conforme;17728;5567;117;153;130;Non vérifié
-51420;Outrepont;51;eau potable;158090;2024;65,0;3,8;7,1;66,4;non conforme;72928;2005;74;196;74;Non vérifié
-51421;Oyes;51;eau potable : SIVU des eaux de Mondement;158080;2024;87,9;0,5;3,5;65,7;conforme;6833;851;22;52;106;Non vérifié
-51422;Pargny-lès-Reims;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;5071;28;81;497;Non vérifié
-51423;Pargny-sur-Saulx;51;eau potable;157917;2024;93,7;2,3;34,1;71,8;conforme;15950;15950;26;30;1654;Non vérifié
-51424;Passavant-en-Argonne;51;eau potable : affermage SUEZ;158109;2024;67,3;3,5;7,2;66,4;conforme;200568;4392;74;177;162;Non vérifié
-51425;Passy-Grigny;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;10926;81;214;370;Non vérifié
-51426;Péas;51;eau potable : SIVU des eaux de Mondement;158080;2024;87,9;0,5;3,5;65,7;conforme;6833;522;22;52;65;Non vérifié
-51428;Les Petites-Loges;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;5427;31;74;481;Non vérifié
-51429;Pévy;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;2398;28;81;235;Non vérifié
-51430;Pierre-Morains;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;1998;55;103;99;Non vérifié
-51431;Pierry;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;25505;55;103;1264;Non vérifié
-51432;Pleurs;51;eau potable : SMIDEP du MONT AOUT;158065;2024;76,6;2,2;7,2;66,4;conforme;84853;20338;68;146;825;Non vérifié
-51433;Plichancourt;51;eau potable;157922;2024;95,5;0,3;5,6;66,1;conforme;548;548;6;20;248;Non vérifié
-51434;Plivot;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;15234;55;103;755;Non vérifié
-51435;Pocancy;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;3531;55;103;175;Non vérifié
-51436;Pogny;51;eau potable : affermage n°3;217205;2024;56,3;3,8;4,9;66,0;non conforme;194097;34608;106;281;894;Non vérifié
-51437;Poilly;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;959;28;81;94;Non vérifié
-51438;Poix;51;eau potable : Courtisol-Poix-SommeVesle;265654;2024;66,1;4,4;8,5;66,7;non conforme;68721;1697;68;189;68;Non vérifié
-51439;Pomacle;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;6093;31;74;540;Non vérifié
-51440;Pontfaverger-Moronvilliers;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;19564;31;74;1734;Non vérifié
-51442;Possesse;51;eau potable;157925;2024;71,2;3,2;8,0;66,6;conforme;3726;3726;76;146;135;Non vérifié
-51443;Potangis;51;eau potable : REGIE;158234;2024;70,9;2,2;5,4;66,1;conforme;132302;2252;54;148;114;Non vérifié
-51444;Pouillon;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;5398;28;81;529;Non vérifié
-51445;Pourcy;51;eau potable : Rouillat;158076;2024;77,4;2,9;9,8;67,0;conforme;100229;4684;66;178;194;Non vérifié
-51446;Pringy;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;15563;97;135;438;Non vérifié
-51447;Prosnes;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;5483;31;74;486;Non vérifié
-51448;Prouilly;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;5602;28;81;549;Non vérifié
-51449;Prunay;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;11756;31;74;1042;Non vérifié
-51450;Puisieulx;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;5258;31;74;466;Non vérifié
-51451;Queudes;51;eau potable : ex SIVU de Gaye;158067;2024;71,5;1,4;3,5;65,7;conforme;19755;1505;52;147;79;Non vérifié
-51452;Rapsécourt;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;973;78;147;34;Non vérifié
-51453;Recy;51;eau potable : Recy;157928;2024;89,5;1,1;9,8;67,0;conforme;6424;6424;16;41;1093;Non vérifié
-51454;Reims;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;2004612;31;74;177674;Non vérifié
-51455;Reims-la-Brûlée;51;eau potable;158077;2024;73,2;2,6;7,9;66,6;conforme;16940;3128;40;120;214;Non vérifié
-51456;Remicourt;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;1661;78;147;58;Non vérifié
-51457;Cœur-de-la-Vallée;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;18958;81;214;642;Non vérifié
-51458;Reuves;51;eau potable : SIVU des eaux de Mondement;158080;2024;87,9;0,5;3,5;65,7;conforme;6833;474;22;52;59;Non vérifié
-51459;Réveillon;51;eau potable : ex: SIVU de distribution d'eau potable de la Brie Champenoise;158058;2024;45,6;2,9;2,4;65,5;non conforme;63192;9039;227;482;109;Non vérifié
-51460;Rieux;51;eau potable : AFFERMAGE;158011;2024;61,0;2,8;4,3;65,9;non conforme;170654;9368;136;269;189;Non vérifié
-51461;Rilly-la-Montagne;51;eau potable : Région de Verzy;245214;2024;75,8;2,7;8,5;66,7;conforme;121473;16507;45;116;1003;Non vérifié
-51463;Les Rivières-Henruel;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;5543;97;135;156;Non vérifié
-51464;Romain;51;eau potable : SIVU des eaux de Fismes;158079;2024;80,1;2,6;10,4;67,1;conforme;121216;3851;32;91;332;Non vérifié
-51465;Romery;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;4725;81;214;160;Non vérifié
-51466;Romigny;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;2102;28;81;206;Non vérifié
-51468;Rosnay;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;4316;28;81;423;Non vérifié
-51469;Rouffy;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;2240;55;103;111;Non vérifié
-51470;Rouvroy-Ripont;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;143;78;147;5;Non vérifié
-51471;Sacy;51;eau potable : Rouillat;158076;2024;77,4;2,9;9,8;67,0;conforme;100229;8910;66;178;369;Non vérifié
-51472;Saint-Amand-sur-Fion;51;eau potable;158090;2024;65,0;3,8;7,1;66,4;non conforme;72928;27497;74;196;1015;Non vérifié
-51473;Saint-Bon;51;eau potable : Saint Bon;294075;2024;81,6;0,9;3,9;65,8;conforme;1192;1192;36;85;91;Non vérifié
-51474;Saint-Brice-Courcelles;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;40233;31;74;3566;Non vérifié
-51475;Saint-Chéron;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;2239;97;135;63;Non vérifié
-51476;Saint-Étienne-au-Temple;51;eau potable : Saint-Étienne-au-Temple;157932;2024;81,9;1,1;4,9;66,0;conforme;6665;6665;24;83;768;Non vérifié
-51477;Saint-Étienne-sur-Suippe;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;4017;31;74;356;Non vérifié
-51478;Saint-Eulien;51;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;7500;50;109;413;Non vérifié
-51479;Saint-Euphraise-et-Clairizet;51;eau potable : Rouillat;158076;2024;77,4;2,9;9,8;67,0;conforme;100229;5892;66;178;244;Non vérifié
-51480;Sainte-Gemme;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;3987;81;214;135;Non vérifié
-51482;Saint-Germain-la-Ville;51;eau potable : SIVU Mont Louvet;158075;2024;55,4;7,8;9,6;66,9;non conforme;136656;22455;94;295;652;Non vérifié
-51483;Saint-Gibrien;51;eau potable : Saint-Gibrien;157937;2024;90,1;1,0;9,2;66,8;conforme;2573;2573;13;40;552;Non vérifié
-51484;Saint-Gilles;51;eau potable : SIVU des eaux de Fismes;158079;2024;80,1;2,6;10,4;67,1;conforme;121216;3132;32;91;270;Non vérifié
-51485;Saint-Hilaire-au-Temple;51;eau potable : Ex CC Mourmelon;158037;2024;81,9;2,5;11,5;67,3;conforme;65244;4352;21;80;579;Non vérifié
-51486;Saint-Hilaire-le-Grand;51;eau potable;158108;2024;75,5;2,9;8,9;66,8;conforme;110666;4960;39;119;349;Non vérifié
-51487;Saint-Hilaire-le-Petit;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;4017;31;74;356;Non vérifié
-51488;Saint-Imoges;51;eau potable : Principal;318254;2024;82,6;2,4;11,3;67,3;conforme;189514;4546;38;81;330;Non vérifié
-51489;Saint-Jean-devant-Possesse;51;eau potable;157939;2024;97,3;0,1;3,4;65,7;conforme;62;62;5;11;31;Non vérifié
-51490;Saint-Jean-sur-Moivre;51;eau potable : affermage n°3;217205;2024;56,3;3,8;4,9;66,0;non conforme;194097;7626;106;281;197;Non vérifié
-51491;Saint-Jean-sur-Tourbe;51;eau potable;158108;2024;75,5;2,9;8,9;66,8;conforme;110666;1336;39;119;94;Non vérifié
-51492;Saint-Just-Sauvage;51;eau potable : REGIE;158234;2024;70,9;2,2;5,4;66,1;conforme;132302;28768;54;148;1456;Non vérifié
-51493;Saint-Léonard;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;1083;31;74;96;Non vérifié
-51495;Saint-Loup;51;eau potable : SIVU des eaux de Mondement;158080;2024;87,9;0,5;3,5;65,7;conforme;6833;594;22;52;74;Non vérifié
-51496;Saint-Lumier-en-Champagne;51;eau potable;158090;2024;65,0;3,8;7,1;66,4;non conforme;72928;7233;74;196;267;Non vérifié
-51497;Saint-Lumier-la-Populeuse;51;eau potable;158055;2024;84,5;1,7;9,5;66,9;conforme;6999;527;35;121;41;Non vérifié
-51498;Saint-Mard-sur-Auve;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;1804;78;147;63;Non vérifié
-51499;Saint-Mard-lès-Rouffy;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;2885;55;103;143;Non vérifié
-51500;Saint-Mard-sur-le-Mont;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;3264;78;147;114;Non vérifié
-51501;Sainte-Marie-à-Py;51;eau potable;158108;2024;75,5;2,9;8,9;66,8;conforme;110666;2757;39;119;194;Non vérifié
-51502;Saint-Martin-aux-Champs;51;eau potable : affermage n°3;217205;2024;56,3;3,8;4,9;66,0;non conforme;194097;3910;106;281;101;Non vérifié
-51503;Saint-Martin-l'Heureux;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;1128;31;74;100;Non vérifié
-51504;Saint-Martin-sur-le-Pré;51;eau potable : Saint-Martin-sur-le-Pré;157942;2024;85,4;1,2;7,2;66,4;conforme;8059;8059;28;61;792;Non vérifié
-51505;Saint-Masmes;51;eau potable : Saint Masmes;158068;2024;68,1;4,5;9,6;66,9;conforme;38993;11066;55;172;550;Non vérifié
-51506;Saint-Memmie;51;eau potable : Saint-Memmie;157943;2024;80,8;5,6;23,7;69,7;conforme;65408;65408;33;86;5441;Non vérifié
-51507;Sainte-Menehould;51;eau potable : affermage SUEZ;158109;2024;67,3;3,5;7,2;66,4;conforme;200568;112402;74;177;4146;Non vérifié
-51508;Saint-Ouen-Domprot;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;7213;97;135;203;Non vérifié
-51509;Saint-Pierre;51;eau potable : Saint-Pierre;157945;2024;94,9;1,8;32,9;71,6;conforme;1406;696;7;40;293;Non vérifié
-51510;Saint-Quentin-les-Marais;51;eau potable;158090;2024;65,0;3,8;7,1;66,4;non conforme;72928;3197;74;196;118;Non vérifié
-51511;Saint-Quentin-le-Verger;51;eau potable : REGIE;158234;2024;70,9;2,2;5,4;66,1;conforme;132302;2213;54;148;112;Non vérifié
-51512;Saint-Quentin-sur-Coole;51;eau potable : affermage n°3;217205;2024;56,3;3,8;4,9;66,0;non conforme;194097;4026;106;281;104;Non vérifié
-51513;Saint-Remy-en-Bouzemont-Saint-Genest-et-Isson;51;eau potable;157947;2024;39,8;10,8;7,2;66,4;non conforme;42613;42613;248;551;470;Non vérifié
-51514;Saint-Remy-sous-Broyes;51;eau potable : ex SIVU de Gaye;158067;2024;71,5;1,4;3,5;65,7;conforme;19755;2057;52;147;108;Non vérifié
-51515;Saint-Remy-sur-Bussy;51;eau potable;158108;2024;75,5;2,9;8,9;66,8;conforme;110666;4619;39;119;325;Non vérifié
-51516;Saint-Saturnin;51;eau potable : SMIDEP du MONT AOUT;158065;2024;76,6;2,2;7,2;66,4;conforme;84853;1159;68;146;47;Non vérifié
-51517;Saint-Souplet-sur-Py;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;1512;31;74;134;Non vérifié
-51518;Saint-Thierry;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;6173;28;81;605;Non vérifié
-51519;Saint-Thomas-en-Argonne;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;1059;78;147;37;Non vérifié
-51520;Saint-Utin;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;2487;97;135;70;Non vérifié
-51521;Saint-Vrain;51;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;4195;50;109;231;Non vérifié
-51522;Sapignicourt;51;eau potable : Sapignicourt;157950;2024;96,4;0,3;7,2;66,4;conforme;489;489;4;15;365;Non vérifié
-51523;Sarcy;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;2735;28;81;268;Non vérifié
-51524;Saron-sur-Aube;51;eau potable : REGIE;158234;2024;70,9;2,2;5,4;66,1;conforme;132302;5295;54;148;268;Non vérifié
-51525;Sarry;51;eau potable : SIVU Mont Louvet;158075;2024;55,4;7,8;9,6;66,9;non conforme;136656;70394;94;295;2044;Non vérifié
-51526;Saudoy;51;eau potable : REGIE_Saudoy;283594;2024;74,8;1,9;5,5;66,1;conforme;6117;6117;44;126;377;Non vérifié
-51527;Savigny-sur-Ardres;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;2531;28;81;248;Non vérifié
-51529;Selles;51;eau potable : Saint Masmes;158068;2024;68,1;4,5;9,6;66,9;conforme;38993;9336;55;172;464;Non vérifié
-51530;Sept-Saulx;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;7796;31;74;691;Non vérifié
-51531;Sermaize-les-Bains;51;eau potable;157958;2024;78,8;3,1;11,7;67,3;conforme;21261;21261;33;99;1742;Non vérifié
-51532;Sermiers;51;eau potable : Rouillat;158076;2024;77,4;2,9;9,8;67,0;conforme;100229;13618;66;178;564;Non vérifié
-51533;Servon-Melzicourt;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;2491;78;147;87;Non vérifié
-51534;Serzy-et-Prin;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;2163;28;81;212;Non vérifié
-51535;Sézanne;51;eau potable : Sézanne;157959;2024;86,6;2,9;18,9;68,8;conforme;44637;44637;27;57;4576;Non vérifié
-51536;Sillery;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;20579;31;74;1824;Non vérifié
-51537;Sivry-Ante;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;5068;78;147;177;Non vérifié
-51538;Sogny-aux-Moulins;51;eau potable : affermage n°3;217205;2024;56,3;3,8;4,9;66,0;non conforme;194097;4258;106;281;110;Non vérifié
-51539;Sogny-en-l'Angle;51;eau potable;157962;2024;95,2;0,5;9,5;66,9;conforme;303;303;11;19;73;Non vérifié
-51542;Soizy-aux-Bois;51;eau potable : AFFERMAGE;158011;2024;61,0;2,8;4,3;65,9;non conforme;170654;9517;136;269;192;Non vérifié
-51543;Somme-Bionne;51;eau potable : affermage SUEZ;158109;2024;67,3;3,5;7,2;66,4;conforme;200568;1898;74;177;70;Non vérifié
-51544;Sommepy-Tahure;51;eau potable;158108;2024;75,5;2,9;8,9;66,8;conforme;110666;9422;39;119;663;Non vérifié
-51545;Sommesous;51;eau potable : Sommesous;157963;2024;88,1;1,3;9,5;66,9;conforme;5922;5922;35;50;467;Non vérifié
-51546;Somme-Suippe;51;eau potable;158108;2024;75,5;2,9;8,9;66,8;conforme;110666;7291;39;119;513;Non vérifié
-51547;Somme-Tourbe;51;eau potable;158108;2024;75,5;2,9;8,9;66,8;conforme;110666;2004;39;119;141;Non vérifié
-51548;Somme-Vesle;51;eau potable : Courtisol-Poix-SommeVesle;265654;2024;66,1;4,4;8,5;66,7;non conforme;68721;8537;68;189;342;Non vérifié
-51549;Somme-Yèvre;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;3035;78;147;106;Non vérifié
-51550;Sompuis;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;9167;97;135;258;Non vérifié
-51551;Somsois;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;6680;97;135;188;Non vérifié
-51552;Songy;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;9452;97;135;266;Non vérifié
-51553;Souain-Perthes-lès-Hurlus;51;eau potable;158108;2024;75,5;2,9;8,9;66,8;conforme;110666;3738;39;119;263;Non vérifié
-51555;Soudé;51;eau potable : Soudé;157967;2024;98,2;0,1;4,6;65,9;conforme;204;204;4;8;149;Non vérifié
-51556;Soudron;51;eau potable : Soudron;157969;2024;98,2;0,3;17,5;68,5;conforme;433;433;4;6;300;Non vérifié
-51557;Soulanges;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;16096;97;135;453;Non vérifié
-51558;Soulières;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;2885;55;103;143;Non vérifié
-51559;Suippes;51;eau potable;158108;2024;75,5;2,9;8,9;66,8;conforme;110666;55966;39;119;3938;Non vérifié
-51560;Suizy-le-Franc;51;eau potable : DSP - SUEZ EX: BRIE DES ETANGS;158119;2024;65,7;1,9;3,5;65,7;non conforme;106106;2871;74;196;107;Non vérifié
-51562;Taissy;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;24754;31;74;2194;Non vérifié
-51563;Talus-Saint-Prix;51;eau potable : DSP - SUEZ EX: BRIE DES ETANGS;158119;2024;65,7;1,9;3,5;65,7;non conforme;106106;2845;74;196;106;Non vérifié
-51564;Val de Livre;51;eau potable : Principal;318254;2024;82,6;2,4;11,3;67,3;conforme;189514;8073;38;81;586;Non vérifié
-51565;Thaas;51;eau potable : SMIDEP du MONT AOUT;158065;2024;76,6;2,2;7,2;66,4;conforme;84853;2391;68;146;97;Non vérifié
-51566;Thibie;51;eau potable : Thibie;157973;2024;90,6;1,2;11,8;67,4;conforme;1572;1572;15;37;291;Non vérifié
-51567;Thiéblemont-Farémont;51;eau potable;157974;2024;62,7;7,7;13,0;67,6;non conforme;16722;16722;89;300;513;Non vérifié
-51568;Thil;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;3337;28;81;327;Non vérifié
-51569;Thillois;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;5245;28;81;514;Non vérifié
-51570;Le Thoult-Trosnay;51;eau potable : AFFERMAGE;158011;2024;61,0;2,8;4,3;65,9;non conforme;170654;5204;136;269;105;Non vérifié
-51571;Val-de-Vesle;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;11497;31;74;1019;Non vérifié
-51572;Tilloy-et-Bellay;51;eau potable;158108;2024;75,5;2,9;8,9;66,8;conforme;110666;3269;39;119;230;Non vérifié
-51573;Tinqueux;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;121524;31;74;10771;Non vérifié
-51574;Togny-aux-Boeufs;51;eau potable : affermage n°3;217205;2024;56,3;3,8;4,9;66,0;non conforme;194097;5342;106;281;138;Non vérifié
-51576;Tours-sur-Marne;51;eau potable : Principal;318254;2024;82,6;2,4;11,3;67,3;conforme;189514;18735;38;81;1360;Non vérifié
-51577;Tramery;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;1520;28;81;149;Non vérifié
-51578;Trécon;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;1675;55;103;83;Non vérifié
-51579;Tréfols;51;eau potable : AFFERMAGE;158011;2024;61,0;2,8;4,3;65,9;non conforme;170654;8377;136;269;169;Non vérifié
-51580;Trépail;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;4784;31;74;424;Non vérifié
-51581;Treslon;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;2571;28;81;252;Non vérifié
-51582;Trigny;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;6316;28;81;619;Non vérifié
-51583;Trois-Fontaines-l'Abbaye;51;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;3468;50;109;191;Non vérifié
-51584;Trois-Puits;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;1884;31;74;167;Non vérifié
-51585;Troissy;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;24244;81;214;821;Non vérifié
-51586;Unchair;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;1980;28;81;194;Non vérifié
-51587;Vadenay;51;eau potable : Ex CC Mourmelon;158037;2024;81,9;2,5;11,5;67,3;conforme;65244;1751;21;80;233;Non vérifié
-51588;Valmy;51;eau potable : affermage SUEZ;158109;2024;67,3;3,5;7,2;66,4;conforme;200568;6344;74;177;234;Non vérifié
-51589;Vanault-le-Châtel;51;eau potable;157982;2024;85,5;2,1;12,3;67,5;conforme;1916;1916;33;63;160;Non vérifié
-51590;Vanault-les-Dames;51;eau potable;157984;2024;91,2;1,5;15,7;68,1;conforme;3000;3000;22;35;376;Non vérifié
-51591;Vandeuil;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;1908;28;81;187;Non vérifié
-51592;Vandières;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;8948;81;214;303;Non vérifié
-51594;Vassimont-et-Chapelaine;51;eau potable : plateforme de Vatry;341094;2024;56,5;2,2;2,9;65,6;non conforme;19047;2325;103;280;62;Non vérifié
-51595;Vatry;51;eau potable : Vatry;157987;2024;95,6;0,3;6,2;66,2;conforme;296;296;6;18;143;Non vérifié
-51596;Vauchamps;51;eau potable : AFFERMAGE;158011;2024;61,0;2,8;4,3;65,9;non conforme;170654;16753;136;269;338;Non vérifié
-51597;Vauciennes;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;9420;81;214;319;Non vérifié
-51598;Vauclerc;51;eau potable;158077;2024;73,2;2,6;7,9;66,6;conforme;16940;7264;40;120;497;Non vérifié
-51599;Vaudemange;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;3757;31;74;333;Non vérifié
-51600;Vaudesincourt;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;1241;31;74;110;Non vérifié
-51601;Vavray-le-Grand;51;eau potable;158090;2024;65,0;3,8;7,1;66,4;non conforme;72928;4768;74;196;176;Non vérifié
-51603;Vélye;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;4601;55;103;228;Non vérifié
-51604;Ventelay;51;eau potable : SIVU des eaux de Fismes;158079;2024;80,1;2,6;10,4;67,1;conforme;121216;2934;32;91;253;Non vérifié
-51605;Venteuil;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;13643;81;214;462;Non vérifié
-51607;Verdon;51;eau potable : AFFERMAGE;158011;2024;61,0;2,8;4,3;65,9;non conforme;170654;9665;136;269;195;Non vérifié
-51608;Vernancourt;51;eau potable;157992;2024;79,1;3,0;11,4;67,3;conforme;2234;2234;76;96;80;Non vérifié
-51609;Verneuil;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;24687;81;214;836;Non vérifié
-51610;Verrières;51;eau potable : affermage SUEZ;158109;2024;67,3;3,5;7,2;66,4;conforme;200568;11468;74;177;423;Non vérifié
-51611;Vert-Toulon;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;5670;55;103;281;Non vérifié
-51612;Blancs-Coteaux;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;62148;55;103;3080;Non vérifié
-51613;Verzenay;51;eau potable : Région de Verzy;245214;2024;75,8;2,7;8,5;66,7;conforme;121473;16309;45;116;991;Non vérifié
-51614;Verzy;51;eau potable : Région de Verzy;245214;2024;75,8;2,7;8,5;66,7;conforme;121473;15816;45;116;961;Non vérifié
-51616;Vésigneul-sur-Marne;51;eau potable : SIVU Mont Louvet;158075;2024;55,4;7,8;9,6;66,9;non conforme;136656;8265;94;295;240;Non vérifié
-51617;La Veuve;51;eau potable : Ex SIA région de condé;158009;2024;49,7;6,6;6,5;66,3;non conforme;148539;29473;134;372;602;Non vérifié
-51618;Le Vézier;51;eau potable : AFFERMAGE;158011;2024;61,0;2,8;4,3;65,9;non conforme;170654;8971;136;269;181;Non vérifié
-51619;Le Vieil-Dampierre;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;2920;78;147;102;Non vérifié
-51620;Vienne-la-Ville;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;4581;78;147;160;Non vérifié
-51621;Vienne-le-Château;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;14773;78;147;516;Non vérifié
-51622;Ville-Dommange;51;eau potable : Rouillat;158076;2024;77,4;2,9;9,8;67,0;conforme;100229;9827;66;178;407;Non vérifié
-51623;Ville-en-Selve;51;eau potable : Région de Verzy;245214;2024;75,8;2,7;8,5;66,7;conforme;121473;4871;45;116;296;Non vérifié
-51624;Ville-en-Tardenois;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;6735;28;81;660;Non vérifié
-51625;Villeneuve-la-Lionne;51;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;2013;21;94;269;Non vérifié
-51626;La Villeneuve-lès-Charleville;51;eau potable : AFFERMAGE;158011;2024;61,0;2,8;4,3;65,9;non conforme;170654;5799;136;269;117;Non vérifié
-51627;Villeneuve-Renneville-Chevigny;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;6578;55;103;326;Non vérifié
-51628;Villeneuve-Saint-Vistre-et-Villevotte;51;eau potable : ex SIVU de Gaye;158067;2024;71,5;1,4;3,5;65,7;conforme;19755;2286;52;147;120;Non vérifié
-51629;Villers-Allerand;51;eau potable : Région de Verzy;245214;2024;75,8;2,7;8,5;66,7;conforme;121473;15355;45;116;933;Non vérifié
-51630;Villers-aux-Bois;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;6275;55;103;311;Non vérifié
-51631;Villers-aux-Noeuds;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;3859;31;74;342;Non vérifié
-51632;Villers-en-Argonne;51;eau potable : affermage SUEZ;158109;2024;67,3;3,5;7,2;66,4;conforme;200568;5775;74;177;213;Non vérifié
-51633;Villers-Franqueux;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;3041;28;81;298;Non vérifié
-51634;Villers-le-Château;51;eau potable : Villers-le-Château;157994;2024;93,7;0,7;10,0;67,0;conforme;835;835;8;26;299;Non vérifié
-51635;Villers-le-Sec;51;eau potable;157995;2024;97,8;0,1;4,9;66,0;conforme;77;77;2;7;109;Non vérifié
-51636;Villers-Marmery;51;eau potable : Région de Verzy;245214;2024;75,8;2,7;8,5;66,7;conforme;121473;9529;45;116;579;Non vérifié
-51637;Villers-sous-Châtillon;51;eau potable : Eau potable Nord;318314;2022;74,0;3,0;8,7;66,7;conforme;348703;4495;57;144;215;Sans anomalie apparente
-51638;Villeseneux;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;4015;55;103;199;Non vérifié
-51639;La Ville-sous-Orbais;51;eau potable : DSP - SUEZ EX: BRIE DES ETANGS;158119;2024;65,7;1,9;3,5;65,7;non conforme;106106;1100;74;196;41;Non vérifié
-51640;Ville-sur-Tourbe;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;6184;78;147;216;Non vérifié
-51641;Villevenard;51;eau potable : DSP - SUEZ EX: BRIE DES ETANGS;158119;2024;65,7;1,9;3,5;65,7;non conforme;106106;5179;74;196;193;Non vérifié
-51642;Villiers-aux-Corneilles;51;eau potable : REGIE;158234;2024;70,9;2,2;5,4;66,1;conforme;132302;2233;54;148;113;Non vérifié
-51643;Vinay;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;10795;55;103;535;Non vérifié
-51644;Vincelles;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;9834;81;214;333;Non vérifié
-51645;Vindey;51;eau potable : Vindey;293934;2024;98,5;0,1;4,2;65,8;conforme;127;127;3;9;105;Non vérifié
-51646;Virginy;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;2348;78;147;82;Non vérifié
-51647;Vitry-en-Perthois;51;eau potable;158001;2024;75,4;5,2;15,9;68,2;conforme;17082;17082;54;200;863;Non vérifié
-51648;Vitry-la-Ville;51;eau potable : affermage n°3;217205;2024;56,3;3,8;4,9;66,0;non conforme;194097;13897;106;281;359;Non vérifié
-51649;Vitry-le-François;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;390715;97;135;10996;Non vérifié
-51650;Voilemont;51;eau potable : affermage SUEZ;158109;2024;67,3;3,5;7,2;66,4;conforme;200568;1274;74;177;47;Non vérifié
-51652;Vouarces;51;eau potable : REGIE;158234;2024;70,9;2,2;5,4;66,1;conforme;132302;1245;54;148;63;Non vérifié
-51654;Vouillers;51;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;4667;50;109;257;Non vérifié
-51655;Vouzy;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;6033;55;103;299;Non vérifié
-51656;Vraux;51;eau potable : Ex SIA région de condé;158009;2024;49,7;6,6;6,5;66,3;non conforme;148539;22521;134;372;460;Non vérifié
-51657;Vrigny;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;2388;28;81;234;Non vérifié
-51658;Vroil;51;eau potable;158005;2024;90,1;2,5;22,7;69,5;conforme;1460;1460;39;58;103;Non vérifié
-51659;Wargemoulin-Hurlus;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;1288;78;147;45;Non vérifié
-51660;Warmeriville;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;31016;31;74;2749;Non vérifié
-51662;Witry-lès-Reims;51;eau potable : Witry-les-Reims;319894;2023;88,6;4,7;15,2;68,0;conforme;69461;60930;34;113;4950;Sans anomalie apparente
-51663;Magenta;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;33899;55;103;1680;Non vérifié
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement);Donnée suspecte (voir LISEZMOI)
+51001;Ablancourt;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;5969;97;135;168;Non vérifié;non
+51002;Saint-Martin-d'Ablois;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;39452;81;214;1336;Non vérifié;non
+51003;Aigny;51;eau potable : Ex SIA région de condé;158009;2024;49,7;6,6;6,5;66,3;non conforme;148539;14149;134;372;289;Non vérifié;non
+51004;Allemanche-Launay-et-Soyer;51;eau potable : REGIE;158234;2024;70,9;2,2;5,4;66,1;conforme;132302;2391;54;148;121;Non vérifié;non
+51005;Allemant;51;eau potable : SIVU des eaux de Mondement;158080;2024;87,9;0,5;3,5;65,7;conforme;6833;1333;22;52;166;Non vérifié;non
+51007;Ambonnay;51;eau potable : Principal;318254;2024;82,6;2,4;11,3;67,3;conforme;189514;12963;38;81;941;Non vérifié;non
+51008;Ambrières;51;eau potable : ex Syndicat Landricourt-Sainte Livière-Ambrières;158086;2024;88,5;0,4;2,9;65,6;conforme;3481;311;4;50;210;Non vérifié;non
+51009;Anglure;51;eau potable : REGIE;158234;2024;70,9;2,2;5,4;66,1;conforme;132302;15352;54;148;777;Non vérifié;non
+51010;Angluzelles-et-Courcelles;51;eau potable : SMIDEP du MONT AOUT;158065;2024;76,6;2,2;7,2;66,4;conforme;84853;3673;68;146;149;Non vérifié;non
+51012;Anthenay;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;714;28;81;70;Non vérifié;non
+51013;Aougny;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;1051;28;81;103;Non vérifié;non
+51014;Arcis-le-Ponsart;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;2908;28;81;285;Non vérifié;non
+51015;Argers;51;eau potable : affermage SUEZ;158109;2024;67,3;3,5;7,2;66,4;conforme;200568;2982;74;177;110;Non vérifié;non
+51016;Arrigny;51;eau potable;158057;2024;80,3;1,0;3,9;65,8;conforme;7621;2637;32;93;227;Non vérifié;non
+51017;Arzillières-Neuville;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;11441;97;135;322;Non vérifié;non
+51018;Athis;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;17857;55;103;885;Non vérifié;non
+51019;Aubérive;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;2719;31;74;241;Non vérifié;non
+51020;Aubilly;51;eau potable : Rouillat;158076;2024;77,4;2,9;9,8;67,0;conforme;100229;1207;66;178;50;Non vérifié;non
+51022;Aulnay-l'Aître;51;eau potable;158090;2024;65,0;3,8;7,1;66,4;non conforme;72928;4551;74;196;168;Non vérifié;non
+51023;Aulnay-sur-Marne;51;eau potable : Aulnay;157767;2024;89,5;1,2;10,3;67,1;conforme;1603;1603;16;43;279;Non vérifié;non
+51025;Auménancourt;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;12749;31;74;1130;Non vérifié;non
+51027;Auve;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;8990;78;147;314;Non vérifié;non
+51028;Avenay-Val-d'Or;51;eau potable : Principal;318254;2024;82,6;2,4;11,3;67,3;conforme;189514;13170;38;81;956;Non vérifié;non
+51029;Avize;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;35150;55;103;1742;Non vérifié;non
+51030;Aÿ-Champagne;51;eau potable : Principal;318254;2024;82,6;2,4;11,3;67,3;conforme;189514;70298;38;81;5103;Non vérifié;non
+51031;Baconnes;51;eau potable : Ex CC Mourmelon;158037;2024;81,9;2,5;11,5;67,3;conforme;65244;2172;21;80;289;Non vérifié;non
+51032;Bagneux;51;eau potable : REGIE;158234;2024;70,9;2,2;5,4;66,1;conforme;132302;8002;54;148;405;Non vérifié;non
+51033;Le Baizil;51;eau potable : DSP - SUEZ EX: BRIE DES ETANGS;158119;2024;65,7;1,9;3,5;65,7;non conforme;106106;7567;74;196;282;Non vérifié;non
+51034;Bannay;51;eau potable : DSP - SUEZ EX: BRIE DES ETANGS;158119;2024;65,7;1,9;3,5;65,7;non conforme;106106;617;74;196;23;Non vérifié;non
+51035;Bannes;51;eau potable : SMIDEP du MONT AOUT;158065;2024;76,6;2,2;7,2;66,4;conforme;84853;6212;68;146;252;Non vérifié;non
+51036;Barbonne-Fayel;51;eau potable : Barbonne Fayel;293954;2024;66,8;4,0;8,0;66,6;conforme;13111;13111;75;183;482;Non vérifié;non
+51037;Baslieux-lès-Fismes;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;3459;28;81;339;Non vérifié;non
+51038;Baslieux-sous-Châtillon;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;5168;81;214;175;Non vérifié;non
+51039;Bassu;51;eau potable;157773;2024;91,4;7,7;81,9;81,4;conforme;562;562;16;34;95;Non vérifié;non
+51040;Bassuet;51;eau potable;157774;2024;74,5;6,7;19,5;68,9;conforme;5747;5747;67;125;235;Non vérifié;non
+51041;BAUDEMENT;51;eau potable : REGIE;158234;2024;70,9;2,2;5,4;66,1;conforme;132302;1936;54;148;98;Non vérifié;non
+51042;Baye;51;eau potable : DSP - SUEZ EX: BRIE DES ETANGS;158119;2024;65,7;1,9;3,5;65,7;non conforme;106106;9983;74;196;372;Non vérifié;non
+51043;Bazancourt;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;28150;31;74;2495;Non vérifié;non
+51044;Beaumont-sur-Vesle;51;eau potable : Région de Verzy;245214;2024;75,8;2,7;8,5;66,7;conforme;121473;12623;45;116;767;Non vérifié;non
+51045;Beaunay;51;eau potable : DSP - SUEZ EX: BRIE DES ETANGS;158119;2024;65,7;1,9;3,5;65,7;non conforme;106106;2737;74;196;102;Non vérifié;non
+51046;Beine-Nauroy;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;11779;31;74;1044;Non vérifié;non
+51047;Belval-en-Argonne;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;1260;78;147;44;Non vérifié;non
+51048;Belval-sous-Châtillon;51;eau potable : Belval sous Châtillon;217602;2024;89,4;0,3;2,6;65,5;conforme;929;929;15;43;174;Non vérifié;non
+51049;Bergères-lès-Vertus;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;12026;55;103;596;Non vérifié;non
+51050;Bergères-sous-Montmirail;51;eau potable : AFFERMAGE;158011;2024;61,0;2,8;4,3;65,9;non conforme;170654;6790;136;269;137;Non vérifié;non
+51051;Berméricourt;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;2714;28;81;266;Non vérifié;non
+51052;Berru;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;7074;31;74;627;Non vérifié;non
+51053;Berzieux;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;2004;78;147;70;Non vérifié;non
+51054;Bétheniville;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;14205;31;74;1259;Non vérifié;non
+51055;Bétheny;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;78696;31;74;6975;Non vérifié;non
+51056;Bethon;51;eau potable : Bethon;293994;2024;86,0;0,9;5,6;66,1;conforme;2861;2861;35;59;222;Non vérifié;non
+51058;Bezannes;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;56853;31;74;5039;Non vérifié;non
+51059;Bignicourt-sur-Marne;51;eau potable;158060;2024;79,2;1,6;6,1;66,2;conforme;8211;4199;30;96;381;Non vérifié;non
+51060;Bignicourt-sur-Saulx;51;eau potable;158064;2024;50,8;4,7;4,9;66,0;non conforme;18819;8274;148;351;153;Non vérifié;non
+51061;Billy-le-Grand;51;eau potable : Région de Verzy;245214;2024;75,8;2,7;8,5;66,7;conforme;121473;2452;45;116;149;Non vérifié;non
+51062;Binarville;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;2348;78;147;82;Non vérifié;non
+51063;Binson-et-Orquigny;51;eau potable : Eau potable Nord;318314;2022;74,0;3,0;8,7;66,7;conforme;348703;3471;57;144;166;Sans anomalie apparente;non
+51065;Blacy;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;21817;97;135;614;Non vérifié;non
+51066;Blaise-sous-Arzillières;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;11228;97;135;316;Non vérifié;non
+51068;Blesme;51;eau potable;158055;2024;84,5;1,7;9,5;66,9;conforme;6999;2479;35;121;193;Non vérifié;non
+51069;Bligny;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;1092;28;81;107;Non vérifié;non
+51070;Boissy-le-Repos;51;eau potable : AFFERMAGE;158011;2024;61,0;2,8;4,3;65,9;non conforme;170654;11598;136;269;234;Non vérifié;non
+51071;Bouchy-Saint-Genest;51;eau potable : Bouchy saint Genest;294175;2024;55,8;2,2;2,8;65,6;non conforme;8833;8833;114;287;213;Non vérifié;non
+51072;Bouilly;51;eau potable : Rouillat;158076;2024;77,4;2,9;9,8;67,0;conforme;100229;5554;66;178;230;Non vérifié;non
+51073;BOULEUSE;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;2255;28;81;221;Non vérifié;non
+51074;Boult-sur-Suippe;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;20230;31;74;1793;Non vérifié;non
+51075;Bourgogne-Fresne;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;15071;28;81;1477;Non vérifié;non
+51076;Boursault;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;11605;81;214;393;Non vérifié;non
+51077;Bouvancourt;51;eau potable : SIVU des eaux de Fismes;158079;2024;80,1;2,6;10,4;67,1;conforme;121216;2018;32;91;174;Non vérifié;non
+51078;Bouy;51;eau potable : Ex CC Mourmelon;158037;2024;81,9;2,5;11,5;67,3;conforme;65244;4006;21;80;533;Non vérifié;non
+51079;Bouzy;51;eau potable : Principal;318254;2024;82,6;2,4;11,3;67,3;conforme;189514;11365;38;81;825;Non vérifié;non
+51081;Branscourt;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;3143;28;81;308;Non vérifié;non
+51082;Braux-Sainte-Cohière;51;eau potable : affermage SUEZ;158109;2024;67,3;3,5;7,2;66,4;conforme;200568;2576;74;177;95;Non vérifié;non
+51083;Braux-Saint-Remy;51;eau potable : affermage SUEZ;158109;2024;67,3;3,5;7,2;66,4;conforme;200568;2169;74;177;80;Non vérifié;non
+51084;Bréban;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;3020;97;135;85;Non vérifié;non
+51085;Le Breuil;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;10985;81;214;372;Non vérifié;non
+51086;Breuil-sur-Vesle;51;eau potable : SIVU des eaux de Fismes;158079;2024;80,1;2,6;10,4;67,1;conforme;121216;3770;32;91;325;Non vérifié;non
+51087;Breuvery-sur-Coole;51;eau potable : affermage n°3;217205;2024;56,3;3,8;4,9;66,0;non conforme;194097;8013;106;281;207;Non vérifié;non
+51088;Brimont;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;4622;28;81;453;Non vérifié;non
+51089;Brouillet;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;694;28;81;68;Non vérifié;non
+51090;Broussy-le-Grand;51;eau potable : SMIDEP du MONT AOUT;158065;2024;76,6;2,2;7,2;66,4;conforme;84853;7618;68;146;309;Non vérifié;non
+51091;Broussy-le-Petit;51;eau potable : SIVU des eaux de Mondement;158080;2024;87,9;0,5;3,5;65,7;conforme;6833;1092;22;52;136;Non vérifié;non
+51092;Broyes;51;eau potable : ex SIVU Grand Morin;158082;2024;89,3;0,5;4,2;65,8;conforme;3935;1335;11;44;340;Non vérifié;non
+51093;Brugny-Vaudancourt;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;8737;55;103;433;Non vérifié;non
+51095;Le Buisson;51;eau potable;158064;2024;50,8;4,7;4,9;66,0;non conforme;18819;4488;148;351;83;Non vérifié;non
+51097;Bussy-le-Château;51;eau potable;158108;2024;75,5;2,9;8,9;66,8;conforme;110666;2501;39;119;176;Non vérifié;non
+51098;Bussy-le-Repos;51;eau potable;157794;2024;92,4;0,4;4,7;65,9;conforme;467;467;9;31;135;Non vérifié;non
+51099;Bussy-Lettrée;51;eau potable : plateforme de Vatry;341094;2024;56,5;2,2;2,9;65,6;non conforme;19047;11511;103;280;307;Non vérifié;non
+51100;La Caure;51;eau potable : DSP - SUEZ EX: BRIE DES ETANGS;158119;2024;65,7;1,9;3,5;65,7;non conforme;106106;2549;74;196;95;Non vérifié;non
+51101;Caurel;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;7071;28;81;693;Non vérifié;non
+51102;Cauroy-lès-Hermonville;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;5245;28;81;514;Non vérifié;non
+51103;La Celle-sous-Chantemerle;51;eau potable : REGIE;158234;2024;70,9;2,2;5,4;66,1;conforme;132302;2687;54;148;136;Non vérifié;non
+51104;Cernay-en-Dormois;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;3922;78;147;137;Non vérifié;non
+51105;Cernay-lès-Reims;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;18323;31;74;1624;Non vérifié;non
+51106;Cernon;51;eau potable : affermage n°3;217205;2024;56,3;3,8;4,9;66,0;non conforme;194097;5071;106;281;131;Non vérifié;non
+51107;Chaintrix-Bierges;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;6961;55;103;345;Non vérifié;non
+51108;Châlons-en-Champagne;51;eau potable : Châlons en Champagne;157799;2024;83,3;8,5;42,1;73,4;conforme;642218;642218;41;93;42971;Non vérifié;non
+51109;Châlons-sur-Vesle;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;2102;28;81;206;Non vérifié;non
+51110;Chaltrait;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;1211;55;103;60;Non vérifié;non
+51111;Chambrecy;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;1490;28;81;146;Non vérifié;non
+51112;Chamery;51;eau potable : Rouillat;158076;2024;77,4;2,9;9,8;67,0;conforme;100229;11204;66;178;464;Non vérifié;non
+51113;Champaubert;51;eau potable : DSP - SUEZ EX: BRIE DES ETANGS;158119;2024;65,7;1,9;3,5;65,7;non conforme;106106;3301;74;196;123;Non vérifié;non
+51115;Champfleury;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;6995;31;74;620;Non vérifié;non
+51116;Champguyon;51;eau potable : Champguyon;294054;2024;96,0;0,3;7,3;66,5;conforme;627;627;6;15;298;Non vérifié;non
+51117;Champigneul-Champagne;51;eau potable : Champigneul-Champagne;217611;2024;57,1;3,5;4,6;65,9;non conforme;10322;10322;88;277;322;Non vérifié;non
+51118;Champigny;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;18582;31;74;1647;Non vérifié;non
+51119;Champillon;51;eau potable : Principal;318254;2024;82,6;2,4;11,3;67,3;conforme;189514;7026;38;81;510;Non vérifié;non
+51120;Champlat-et-Boujacourt;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;4105;81;214;139;Non vérifié;non
+51121;Champvoisy;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;7442;81;214;252;Non vérifié;non
+51122;Changy;51;eau potable;158090;2024;65,0;3,8;7,1;66,4;non conforme;72928;3143;74;196;116;Non vérifié;non
+51124;Chantemerle;51;eau potable : Chantemerle;294034;2024;86,6;0,9;6,2;66,2;conforme;493;493;28;53;48;Non vérifié;non
+51125;Chapelaine;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;1599;97;135;45;Non vérifié;non
+51126;La Chapelle-Felcourt;51;eau potable : affermage SUEZ;158109;2024;67,3;3,5;7,2;66,4;conforme;200568;1193;74;177;44;Non vérifié;non
+51127;La Chapelle-Lasson;51;eau potable : REGIE;158234;2024;70,9;2,2;5,4;66,1;conforme;132302;1679;54;148;85;Non vérifié;non
+51128;La Chapelle-sous-Orbais;51;eau potable : DSP - SUEZ EX: BRIE DES ETANGS;158119;2024;65,7;1,9;3,5;65,7;non conforme;106106;1422;74;196;53;Non vérifié;non
+51129;Charleville;51;eau potable : AFFERMAGE;158011;2024;61,0;2,8;4,3;65,9;non conforme;170654;12986;136;269;262;Non vérifié;non
+51130;Charmont;51;eau potable;157806;2024;81,5;0,6;2,7;65,5;conforme;1962;1962;23;81;232;Non vérifié;non
+51132;Les Charmontois;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;3407;78;147;119;Non vérifié;non
+51133;Le Châtelier;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;1804;78;147;63;Non vérifié;non
+51134;Châtelraould-Saint-Louvent;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;8670;97;135;244;Non vérifié;non
+51135;Châtillon-sur-Broué;51;eau potable;158087;2024;70,3;1,7;4,0;65,8;conforme;17728;3854;117;153;90;Non vérifié;non
+51136;Châtillon-sur-Marne;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;18456;81;214;625;Non vérifié;non
+51137;Châtillon-sur-Morin;51;eau potable : Chatillon sur Morin;294154;2024;99,5;0,0;7,3;66,5;conforme;0;0;0;0;210;Non vérifié;non
+51138;Châtrices;51;eau potable : affermage SUEZ;158109;2024;67,3;3,5;7,2;66,4;conforme;200568;976;74;177;36;Non vérifié;non
+51139;Chaudefontaine;51;eau potable : affermage SUEZ;158109;2024;67,3;3,5;7,2;66,4;conforme;200568;8459;74;177;312;Non vérifié;non
+51140;Chaumuzy;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;3520;28;81;345;Non vérifié;non
+51141;La Chaussée-sur-Marne;51;eau potable;158090;2024;65,0;3,8;7,1;66,4;non conforme;72928;20535;74;196;758;Non vérifié;non
+51142;Chavot-Courcourt;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;6861;55;103;340;Non vérifié;non
+51143;Le Chemin;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;1804;78;147;63;Non vérifié;non
+51144;Cheminon;51;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;10496;50;109;578;Non vérifié;non
+51145;Chenay;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;2255;28;81;221;Non vérifié;non
+51146;Cheniers;51;eau potable : Cheniers;157813;2024;89,0;1,0;8,4;66,7;conforme;482;482;11;44;125;Non vérifié;non
+51147;La Cheppe;51;eau potable;158108;2024;75,5;2,9;8,9;66,8;conforme;110666;4576;39;119;322;Non vérifié;non
+51148;Cheppes-la-Prairie;51;eau potable : affermage n°3;217205;2024;56,3;3,8;4,9;66,0;non conforme;194097;5342;106;281;138;Non vérifié;non
+51149;Chepy;51;eau potable : SIVU Mont Louvet;158075;2024;55,4;7,8;9,6;66,9;non conforme;136656;15911;94;295;462;Non vérifié;non
+51150;Cherville;51;eau potable : Cherville;157816;2024;94,4;1,0;16,8;68,4;conforme;296;296;10;22;85;Non vérifié;non
+51151;Chichey;51;eau potable : ex SIVU de Gaye;158067;2024;71,5;1,4;3,5;65,7;conforme;19755;3162;52;147;166;Non vérifié;non
+51152;Chigny-les-Roses;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;5878;31;74;521;Non vérifié;non
+51153;Chouilly;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;21469;55;103;1064;Non vérifié;non
+51154;Clamanges;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;4601;55;103;228;Non vérifié;non
+51155;Clesles;51;eau potable : REGIE;158234;2024;70,9;2,2;5,4;66,1;conforme;132302;12151;54;148;615;Non vérifié;non
+51156;Cloyes-sur-Marne;51;eau potable;158060;2024;79,2;1,6;6,1;66,2;conforme;8211;1378;30;96;125;Non vérifié;non
+51157;Coizard-Joches;51;eau potable : DSP - SUEZ EX: BRIE DES ETANGS;158119;2024;65,7;1,9;3,5;65,7;non conforme;106106;2522;74;196;94;Non vérifié;non
+51158;Val-des-Marais;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;11078;55;103;549;Non vérifié;non
+51160;Compertrix;51;eau potable : Compertrix;157819;2024;85,1;1,6;9,4;66,9;conforme;7650;7650;16;62;1308;Non vérifié;non
+51161;Condé-sur-Marne;51;eau potable : Ex SIA région de condé;158009;2024;49,7;6,6;6,5;66,3;non conforme;148539;36572;134;372;747;Non vérifié;non
+51162;Conflans-sur-Seine;51;eau potable : REGIE;158234;2024;70,9;2,2;5,4;66,1;conforme;132302;11895;54;148;602;Non vérifié;non
+51163;Congy;51;eau potable : DSP - SUEZ EX: BRIE DES ETANGS;158119;2024;65,7;1,9;3,5;65,7;non conforme;106106;6897;74;196;257;Non vérifié;non
+51164;Connantray-Vaurefroy;51;eau potable;157820;2024;64,5;2,1;3,8;65,8;non conforme;4522;4522;95;204;130;Non vérifié;non
+51165;Connantre;51;eau potable : SMIDEP du MONT AOUT;158065;2024;76,6;2,2;7,2;66,4;conforme;84853;24923;68;146;1011;Non vérifié;non
+51166;Contault;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;1947;78;147;68;Non vérifié;non
+51167;Coole;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;5579;97;135;157;Non vérifié;non
+51168;Coolus;51;eau potable : Coolus;157822;2024;64,1;4,1;7,4;66,5;non conforme;5851;5851;68;204;235;Non vérifié;non
+51169;Corbeil;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;3553;97;135;100;Non vérifié;non
+51170;Corfélix;51;eau potable : AFFERMAGE;158011;2024;61,0;2,8;4,3;65,9;non conforme;170654;5403;136;269;109;Non vérifié;non
+51171;Cormicy;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;15306;28;81;1500;Non vérifié;non
+51172;Cormontreuil;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;73720;31;74;6534;Non vérifié;non
+51173;Cormoyeux;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;3809;81;214;129;Non vérifié;non
+51174;Corribert;51;eau potable : DSP - SUEZ EX: BRIE DES ETANGS;158119;2024;65,7;1,9;3,5;65,7;non conforme;106106;1771;74;196;66;Non vérifié;non
+51175;Corrobert;51;eau potable : AFFERMAGE;158011;2024;61,0;2,8;4,3;65,9;non conforme;170654;10161;136;269;205;Non vérifié;non
+51176;Corroy;51;eau potable : SMIDEP du MONT AOUT;158065;2024;76,6;2,2;7,2;66,4;conforme;84853;3624;68;146;147;Non vérifié;non
+51177;Coulommes-la-Montagne;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;2133;28;81;209;Non vérifié;non
+51178;Coupetz;51;eau potable : affermage n°3;217205;2024;56,3;3,8;4,9;66,0;non conforme;194097;3407;106;281;88;Non vérifié;non
+51179;Coupéville;51;eau potable : affermage n°3;217205;2024;56,3;3,8;4,9;66,0;non conforme;194097;6465;106;281;167;Non vérifié;non
+51181;Courcelles-Sapicourt;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;4041;28;81;396;Non vérifié;non
+51182;Courcemain;51;eau potable : SMIDEP du MONT AOUT;158065;2024;76,6;2,2;7,2;66,4;conforme;84853;2342;68;146;95;Non vérifié;non
+51183;Courcy;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;12653;28;81;1240;Non vérifié;non
+51184;Courdemanges;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;13858;97;135;390;Non vérifié;non
+51185;Courgivaux;51;eau potable : REGIE_Courgivaux;283634;2024;99,4;0,0;5,2;66,0;conforme;0;0;0;0;277;Non vérifié;non
+51186;Courjeonnet;51;eau potable : DSP - SUEZ EX: BRIE DES ETANGS;158119;2024;65,7;1,9;3,5;65,7;non conforme;106106;1315;74;196;49;Non vérifié;non
+51187;Courlandon;51;eau potable : SIVU des eaux de Fismes;158079;2024;80,1;2,6;10,4;67,1;conforme;121216;3503;32;91;302;Non vérifié;non
+51188;Courmas;51;eau potable : Rouillat;158076;2024;77,4;2,9;9,8;67,0;conforme;100229;5723;66;178;237;Non vérifié;non
+51190;COURTAGNON;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;786;28;81;77;Non vérifié;non
+51191;Courtémont;51;eau potable : affermage SUEZ;158109;2024;67,3;3,5;7,2;66,4;conforme;200568;1735;74;177;64;Non vérifié;non
+51192;Courthiézy;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;10011;81;214;339;Non vérifié;non
+51193;Courtisols;51;eau potable : Courtisol-Poix-SommeVesle;265654;2024;66,1;4,4;8,5;66,7;non conforme;68721;58486;68;189;2343;Non vérifié;non
+51194;Courville;51;eau potable : SIVU des eaux de Fismes;158079;2024;80,1;2,6;10,4;67,1;conforme;121216;5196;32;91;448;Non vérifié;non
+51195;Couvrot;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;27929;97;135;786;Non vérifié;non
+51196;Cramant;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;17575;55;103;871;Non vérifié;non
+51197;La Croix-en-Champagne;51;eau potable;158108;2024;75,5;2,9;8,9;66,8;conforme;110666;1251;39;119;88;Non vérifié;non
+51198;Crugny;51;eau potable : SIVU des eaux de Fismes;158079;2024;80,1;2,6;10,4;67,1;conforme;121216;7829;32;91;675;Non vérifié;non
+51199;Cuchery;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;12166;81;214;412;Non vérifié;non
+51200;Cuis;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;7425;55;103;368;Non vérifié;non
+51201;Cuisles;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;1357;28;81;133;Non vérifié;non
+51202;Cumières;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;13822;55;103;685;Non vérifié;non
+51203;Cuperly;51;eau potable;158108;2024;75,5;2,9;8,9;66,8;conforme;110666;3070;39;119;216;Non vérifié;non
+51204;Damery;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;39039;81;214;1322;Non vérifié;non
+51205;Dampierre-au-Temple;51;eau potable : Ex CC Mourmelon;158037;2024;81,9;2,5;11,5;67,3;conforme;65244;2067;21;80;275;Non vérifié;non
+51206;Dampierre-le-Château;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;3207;78;147;112;Non vérifié;non
+51208;Dampierre-sur-Moivre;51;eau potable : affermage n°3;217205;2024;56,3;3,8;4,9;66,0;non conforme;194097;4142;106;281;107;Non vérifié;non
+51210;Dizy;51;eau potable : Principal;318254;2024;82,6;2,4;11,3;67,3;conforme;189514;20416;38;81;1482;Non vérifié;non
+51211;Dommartin-Dampierre;51;eau potable : affermage SUEZ;158109;2024;67,3;3,5;7,2;66,4;conforme;200568;2060;74;177;76;Non vérifié;non
+51212;Dommartin-Lettrée;51;eau potable : Dommartin-Lettrée;157835;2024;96,4;0,4;9,5;66,9;conforme;428;428;7;15;165;Non vérifié;non
+51213;Dommartin-sous-Hans;51;eau potable : affermage SUEZ;158109;2024;67,3;3,5;7,2;66,4;conforme;200568;1220;74;177;45;Non vérifié;non
+51214;Dommartin-Varimont;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;3894;78;147;136;Non vérifié;non
+51216;Dontrien;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;2945;31;74;261;Non vérifié;non
+51217;Dormans;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;85342;81;214;2890;Non vérifié;non
+51219;Drosnay;51;eau potable;158087;2024;70,3;1,7;4,0;65,8;conforme;17728;8307;117;153;194;Non vérifié;non
+51220;Drouilly;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;5152;97;135;145;Non vérifié;non
+51222;Éclaires;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;2348;78;147;82;Non vérifié;non
+51223;Écollemont;51;eau potable;158057;2024;80,3;1,0;3,9;65,8;conforme;7621;744;32;93;64;Non vérifié;non
+51224;Écriennes;51;eau potable;157841;2024;90,3;0,4;3,4;65,7;conforme;804;804;13;43;165;Non vérifié;non
+51225;Écueil;51;eau potable : Rouillat;158076;2024;77,4;2,9;9,8;67,0;conforme;100229;8644;66;178;358;Non vérifié;non
+51226;Écury-le-Repos;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;1251;55;103;62;Non vérifié;non
+51227;Écury-sur-Coole;51;eau potable : affermage n°3;217205;2024;56,3;3,8;4,9;66,0;non conforme;194097;19046;106;281;492;Non vérifié;non
+51228;Élise-Daucourt;51;eau potable : affermage SUEZ;158109;2024;67,3;3,5;7,2;66,4;conforme;200568;2304;74;177;85;Non vérifié;non
+51229;Épense;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;3350;78;147;117;Non vérifié;non
+51230;Épernay;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;447426;55;103;22174;Non vérifié;non
+51231;L' Épine;51;eau potable : L'Épine;157842;2024;45,8;13,0;11,0;67,2;non conforme;34449;34449;138;431;685;Non vérifié;non
+51232;Époye;51;eau potable : Saint Masmes;158068;2024;68,1;4,5;9,6;66,9;conforme;38993;8370;55;172;416;Non vérifié;non
+51233;Escardes;51;eau potable : Escardes;294114;2024;99,9;0,0;3,1;65,6;conforme;0;0;0;0;61;Non vérifié;non
+51234;Esclavolles-Lurey;51;eau potable : REGIE;158234;2024;70,9;2,2;5,4;66,1;conforme;132302;12784;54;148;647;Non vérifié;non
+51235;Les Essarts-lès-Sézanne;51;eau potable : ex SIVU Essarts-les-Sézanne;158062;2024;84,2;2,2;11,6;67,3;conforme;19714;5208;58;140;247;Non vérifié;non
+51236;Les Essarts-le-Vicomte;51;eau potable : Les Essarts le Vicomte;294174;2024;94,3;0,7;10,9;67,2;conforme;1262;1262;26;24;134;Non vérifié;non
+51237;Esternay;51;eau potable : Esternay;294074;2024;71,8;5,6;14,2;67,8;conforme;46910;46910;74;213;1748;Non vérifié;non
+51238;Étoges;51;eau potable : DSP - SUEZ EX: BRIE DES ETANGS;158119;2024;65,7;1,9;3,5;65,7;non conforme;106106;11137;74;196;415;Non vérifié;non
+51239;Étréchy;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;1998;55;103;99;Non vérifié;non
+51240;Étrepy;51;eau potable;158064;2024;50,8;4,7;4,9;66,0;non conforme;18819;6057;148;351;112;Non vérifié;non
+51241;Euvy;51;eau potable;157847;2024;99,4;0,0;7,5;66,5;conforme;0;0;0;0;80;Non vérifié;non
+51242;Fagnières;51;eau potable : Fagnières;158113;2024;76,6;5,1;16,7;68,3;conforme;60275;60275;34;112;4858;Non vérifié;non
+51243;Faux-Fresnay;51;eau potable : SMIDEP du MONT AOUT;158065;2024;76,6;2,2;7,2;66,4;conforme;84853;8456;68;146;343;Non vérifié;non
+51244;Faux-Vésigneul;51;eau potable : affermage n°3;217205;2024;56,3;3,8;4,9;66,0;non conforme;194097;9213;106;281;238;Non vérifié;non
+51245;Faverolles-et-Coëmy;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;6133;28;81;601;Non vérifié;non
+51246;Favresse;51;eau potable : Favresse;157848;2024;80,7;1,0;4,2;65,8;conforme;2040;2040;26;86;217;Non vérifié;non
+51247;Fèrebrianges;51;eau potable : DSP - SUEZ EX: BRIE DES ETANGS;158119;2024;65,7;1,9;3,5;65,7;non conforme;106106;3408;74;196;127;Non vérifié;non
+51248;Fère-Champenoise;51;eau potable;157849;2024;77,6;3,4;11,8;67,4;conforme;30194;30194;38;112;2173;Non vérifié;non
+51249;Festigny;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;11635;81;214;394;Non vérifié;non
+51250;Fismes;51;eau potable : SIVU des eaux de Fismes;158079;2024;80,1;2,6;10,4;67,1;conforme;121216;67851;32;91;5850;Non vérifié;non
+51251;Flavigny;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;3471;55;103;172;Non vérifié;non
+51252;Fleury-la-Rivière;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;15444;81;214;523;Non vérifié;non
+51253;Florent-en-Argonne;51;eau potable : affermage SUEZ;158109;2024;67,3;3,5;7,2;66,4;conforme;200568;5802;74;177;214;Non vérifié;non
+51254;Fontaine-Denis-Nuisy;51;eau potable : REGIE;158234;2024;70,9;2,2;5,4;66,1;conforme;132302;4683;54;148;237;Non vérifié;non
+51255;Fontaine-en-Dormois;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;458;78;147;16;Non vérifié;non
+51256;Fontaine-sur-Ay;51;eau potable : Principal;318254;2024;82,6;2,4;11,3;67,3;conforme;189514;4353;38;81;316;Non vérifié;non
+51258;La Forestière;51;eau potable : La Forestiere;293974;2024;75,7;1,6;5,1;66,0;conforme;3492;3492;46;114;209;Non vérifié;non
+51259;Francheville;51;eau potable : affermage n°3;217205;2024;56,3;3,8;4,9;66,0;non conforme;194097;7316;106;281;189;Non vérifié;non
+51260;Le Fresne;51;eau potable : affermage n°3;217205;2024;56,3;3,8;4,9;66,0;non conforme;194097;2865;106;281;74;Non vérifié;non
+51262;Frignicourt;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;62075;97;135;1747;Non vérifié;non
+51263;Fromentières;51;eau potable : AFFERMAGE;158011;2024;61,0;2,8;4,3;65,9;non conforme;170654;18934;136;269;382;Non vérifié;non
+51264;Le Gault-Soigny;51;eau potable : eau potable : REGIE;338434;2024;79,1;2,2;8,2;66,6;conforme;53335;6644;36;98;503;Non vérifié;non
+51265;Gaye;51;eau potable : ex SIVU de Gaye;158067;2024;71,5;1,4;3,5;65,7;conforme;19755;10744;52;147;564;Non vérifié;non
+51266;Germaine;51;eau potable : Principal;318254;2024;82,6;2,4;11,3;67,3;conforme;189514;7274;38;81;528;Non vérifié;non
+51267;Germigny;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;1918;28;81;188;Non vérifié;non
+51268;Germinon;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;3834;55;103;190;Non vérifié;non
+51269;Giffaumont-Champaubert;51;eau potable;157854;2024;94,8;0,8;15,2;68,0;conforme;2044;2044;20;40;287;Non vérifié;non
+51270;Gigny-Bussy;51;eau potable;157856;2024;93,6;0,5;8,0;66,6;conforme;1642;1642;20;44;221;Non vérifié;non
+51272;Givry-en-Argonne;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;12826;78;147;448;Non vérifié;non
+51273;Givry-lès-Loisy;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;1453;55;103;72;Non vérifié;non
+51274;Gizaucourt;51;eau potable : affermage SUEZ;158109;2024;67,3;3,5;7,2;66,4;conforme;200568;3064;74;177;113;Non vérifié;non
+51275;Glannes;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;6502;97;135;183;Non vérifié;non
+51276;Gourgançon;51;eau potable : COPE DES VALLEES DE LA MAURIENNE ET DE L'HERBISSONNE;148909;2024;86,9;0,9;6,2;66,2;conforme;11701;2896;54;53;147;Non vérifié;non
+51277;Sainte-Marie-du-Lac-Nuisement;51;eau potable;157862;2024;83,9;2,3;12,1;67,4;conforme;11610;11610;115;306;277;Non vérifié;non
+51278;Les Grandes-Loges;51;eau potable : Les Grandes Loges;157864;2024;77,6;4,2;14,7;67,9;conforme;4032;4032;39;104;284;Non vérifié;non
+51279;Granges-sur-Aube;51;eau potable : REGIE;158234;2024;70,9;2,2;5,4;66,1;conforme;132302;3557;54;148;180;Non vérifié;non
+51280;Gratreuil;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;601;78;147;21;Non vérifié;non
+51281;Grauves;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;12470;55;103;618;Non vérifié;non
+51282;Gueux;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;19459;28;81;1907;Non vérifié;non
+51283;Hans;51;eau potable : affermage SUEZ;158109;2024;67,3;3,5;7,2;66,4;conforme;200568;3253;74;177;120;Non vérifié;non
+51284;Haussignémont;51;eau potable;158055;2024;84,5;1,7;9,5;66,9;conforme;6999;3994;35;121;311;Non vérifié;non
+51285;Haussimont;51;eau potable : plateforme de Vatry;341094;2024;56,5;2,2;2,9;65,6;non conforme;19047;5212;103;280;139;Non vérifié;non
+51286;Hauteville;51;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;4177;50;109;230;Non vérifié;non
+51287;Hautvillers;51;eau potable : Principal;318254;2024;82,6;2,4;11,3;67,3;conforme;189514;8376;38;81;608;Non vérifié;non
+51288;Heiltz-le-Hutier;51;eau potable;157868;2024;64,7;2,5;4,5;65,9;non conforme;4854;4854;57;201;233;Non vérifié;non
+51289;Heiltz-le-Maurupt;51;eau potable;157869;2024;36,8;20,5;11,9;67,4;non conforme;30080;30080;192;628;429;Non vérifié;non
+51290;Heiltz-l'Évêque;51;eau potable;218236;2024;83,8;1,9;10,0;67,0;conforme;2053;2053;20;69;276;Non vérifié;non
+51291;Hermonville;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;14479;28;81;1419;Non vérifié;non
+51292;Herpont;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;3464;78;147;121;Non vérifié;non
+51293;Heutrégiville;51;eau potable : Saint Masmes;158068;2024;68,1;4,5;9,6;66,9;conforme;38993;10221;55;172;508;Non vérifié;non
+51294;Hourges;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;878;28;81;86;Non vérifié;non
+51295;Huiron;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;10731;97;135;302;Non vérifié;non
+51296;Humbauville;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;2629;97;135;74;Non vérifié;non
+51298;Igny-Comblizy;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;12728;81;214;431;Non vérifié;non
+51299;Isles-sur-Suippe;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;11000;31;74;975;Non vérifié;non
+51300;Isle-sur-Marne;51;eau potable;158057;2024;80,3;1,0;3,9;65,8;conforme;7621;1115;32;93;96;Non vérifié;non
+51301;Isse;51;eau potable : Isse;218390;2024;87,8;1,4;10,3;67,1;conforme;1170;1170;29;49;112;Non vérifié;non
+51302;Les Istres-et-Bury;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;1856;55;103;92;Non vérifié;non
+51303;Jâlons;51;eau potable : Jâlons;157878;2024;81,3;3,1;13,3;67,7;conforme;6789;6789;34;85;549;Non vérifié;non
+51304;Janvilliers;51;eau potable : AFFERMAGE;158011;2024;61,0;2,8;4,3;65,9;non conforme;170654;7534;136;269;152;Non vérifié;non
+51305;Janvry;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;1582;28;81;155;Non vérifié;non
+51306;Joiselle;51;eau potable : ex: SIVU de distribution d'eau potable de la Brie Champenoise;158058;2024;45,6;2,9;2,4;65,5;non conforme;63192;9122;227;482;110;Non vérifié;non
+51307;Jonchery-sur-Suippe;51;eau potable;158108;2024;75,5;2,9;8,9;66,8;conforme;110666;3169;39;119;223;Non vérifié;non
+51308;Jonchery-sur-Vesle;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;18591;28;81;1822;Non vérifié;non
+51309;Jonquery;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;1173;28;81;115;Non vérifié;non
+51310;Jouy-lès-Reims;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;2082;28;81;204;Non vérifié;non
+51311;Jussecourt-Minecourt;51;eau potable;157880;2024;96,2;0,4;10,7;67,1;conforme;482;482;7;14;193;Non vérifié;non
+51312;Juvigny;51;eau potable : Ex SIA région de condé;158009;2024;49,7;6,6;6,5;66,3;non conforme;148539;45825;134;372;936;Non vérifié;non
+51313;Lachy;51;eau potable : ex SIVU Grand Morin;158082;2024;89,3;0,5;4,2;65,8;conforme;3935;1355;11;44;345;Non vérifié;non
+51314;Lagery;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;2388;28;81;234;Non vérifié;non
+51315;Landricourt;51;eau potable : ex Syndicat Landricourt-Sainte Livière-Ambrières;158086;2024;88,5;0,4;2,9;65,6;conforme;3481;193;4;50;130;Non vérifié;non
+51316;Larzicourt;51;eau potable;187766;2024;95,5;0,3;5,7;66,1;conforme;1863;1863;19;19;269;Non vérifié;non
+51317;Laval-sur-Tourbe;51;eau potable;158108;2024;75,5;2,9;8,9;66,8;conforme;110666;739;39;119;52;Non vérifié;non
+51318;Lavannes;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;6578;31;74;583;Non vérifié;non
+51319;Lenharrée;51;eau potable : Lenharée;157882;2024;57,1;3,5;4,7;65,9;non conforme;4382;4382;119;272;101;Non vérifié;non
+51320;Leuvrigny;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;9332;81;214;316;Non vérifié;non
+51321;Lhéry;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;908;28;81;89;Non vérifié;non
+51322;Lignon;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;4193;97;135;118;Non vérifié;non
+51323;Linthelles;51;eau potable : SIVU des eaux de Mondement;158080;2024;87,9;0,5;3,5;65,7;conforme;6833;827;22;52;103;Non vérifié;non
+51324;Linthes;51;eau potable : SIVU des eaux de Mondement;158080;2024;87,9;0,5;3,5;65,7;conforme;6833;907;22;52;113;Non vérifié;non
+51325;Lisse-en-Champagne;51;eau potable;157886;2024;76,2;4,1;13,1;67,6;conforme;1945;1945;51;114;104;Non vérifié;non
+51326;Livry-Louvercy;51;eau potable : Ex CC Mourmelon;158037;2024;81,9;2,5;11,5;67,3;conforme;65244;8072;21;80;1074;Non vérifié;non
+51327;Loisy-en-Brie;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;3450;55;103;171;Non vérifié;non
+51328;Loisy-sur-Marne;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;39406;97;135;1109;Non vérifié;non
+51329;Loivre;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;14714;28;81;1442;Non vérifié;non
+51333;Ludes;51;eau potable : Région de Verzy;245214;2024;75,8;2,7;8,5;66,7;conforme;121473;11306;45;116;687;Non vérifié;non
+51334;Luxémont-et-Villotte;51;eau potable;158077;2024;73,2;2,6;7,9;66,6;conforme;16940;6548;40;120;448;Non vérifié;non
+51336;Maffrécourt;51;eau potable : affermage SUEZ;158109;2024;67,3;3,5;7,2;66,4;conforme;200568;1600;74;177;59;Non vérifié;non
+51337;Magneux;51;eau potable : SIVU des eaux de Fismes;158079;2024;80,1;2,6;10,4;67,1;conforme;121216;3085;32;91;266;Non vérifié;non
+51338;Mailly-Champagne;51;eau potable : Région de Verzy;245214;2024;75,8;2,7;8,5;66,7;conforme;121473;10154;45;116;617;Non vérifié;non
+51339;Mairy-sur-Marne;51;eau potable : affermage n°3;217205;2024;56,3;3,8;4,9;66,0;non conforme;194097;21872;106;281;565;Non vérifié;non
+51340;Maisons-en-Champagne;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;19614;97;135;552;Non vérifié;non
+51341;Malmy;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;1088;78;147;38;Non vérifié;non
+51342;Mancy;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;4701;55;103;233;Non vérifié;non
+51343;Marcilly-sur-Seine;51;eau potable : REGIE;158234;2024;70,9;2,2;5,4;66,1;conforme;132302;12290;54;148;622;Non vérifié;non
+51344;Mardeuil;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;29399;55;103;1457;Non vérifié;non
+51345;Mareuil-en-Brie;51;eau potable : DSP - SUEZ EX: BRIE DES ETANGS;158119;2024;65,7;1,9;3,5;65,7;non conforme;106106;7728;74;196;288;Non vérifié;non
+51346;Mareuil-le-Port;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;33960;81;214;1150;Non vérifié;non
+51348;Marfaux;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;1184;28;81;116;Non vérifié;non
+51349;Margerie-Hancourt;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;6609;97;135;186;Non vérifié;non
+51350;Margny;51;eau potable : AFFERMAGE;158011;2024;61,0;2,8;4,3;65,9;non conforme;170654;5898;136;269;119;Non vérifié;non
+51351;Marigny;51;eau potable : SMIDEP du MONT AOUT;158065;2024;76,6;2,2;7,2;66,4;conforme;84853;2662;68;146;108;Non vérifié;non
+51352;Marolles;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;28284;97;135;796;Non vérifié;non
+51353;Marsangis;51;eau potable : REGIE;158234;2024;70,9;2,2;5,4;66,1;conforme;132302;889;54;148;45;Non vérifié;non
+51354;Marson;51;eau potable : affermage n°3;217205;2024;56,3;3,8;4,9;66,0;non conforme;194097;10723;106;281;277;Non vérifié;non
+51355;Massiges;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;1231;78;147;43;Non vérifié;non
+51356;Matignicourt-Goncourt;51;eau potable;157895;2024;74,5;1,9;5,4;66,1;conforme;2469;2469;43;128;158;Non vérifié;non
+51357;Matougues;51;eau potable : Matougues;157896;2024;89,5;1,7;14,2;67,8;conforme;3196;3196;14;44;636;Non vérifié;non
+51358;Maurupt-le-Montois;51;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;9279;50;109;511;Non vérifié;non
+51359;Mécringes;51;eau potable : AFFERMAGE;158011;2024;61,0;2,8;4,3;65,9;non conforme;170654;10260;136;269;207;Non vérifié;non
+51360;Le Meix-Saint-Epoing;51;eau potable : Le Meix saint Epoing;293935;2024;78,3;0,8;3,0;65,6;conforme;2724;2724;26;97;286;Non vérifié;non
+51361;Le Meix-Tiercelin;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;6041;97;135;170;Non vérifié;non
+51362;Merfy;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;6214;28;81;609;Non vérifié;non
+51363;Merlaut;51;eau potable;157901;2024;93,3;0,8;10,7;67,1;conforme;803;803;8;27;275;Non vérifié;non
+51364;Méry-Prémecy;51;eau potable : Rouillat;158076;2024;77,4;2,9;9,8;67,0;conforme;100229;1642;66;178;68;Non vérifié;non
+51365;Les Mesneux;51;eau potable : Rouillat;158076;2024;77,4;2,9;9,8;67,0;conforme;100229;23325;66;178;966;Non vérifié;non
+51367;Le Mesnil-sur-Oger;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;19936;55;103;988;Non vérifié;non
+51368;Minaucourt-le-Mesnil-lès-Hurlus;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;1317;78;147;46;Non vérifié;non
+51369;Moeurs-Verdey;51;eau potable : ex SIVU Grand Morin;158082;2024;89,3;0,5;4,2;65,8;conforme;3935;1245;11;44;317;Non vérifié;non
+51370;Moiremont;51;eau potable : affermage SUEZ;158109;2024;67,3;3,5;7,2;66,4;conforme;200568;5070;74;177;187;Non vérifié;non
+51371;Moivre;51;eau potable : affermage n°3;217205;2024;56,3;3,8;4,9;66,0;non conforme;194097;2090;106;281;54;Non vérifié;non
+51372;Moncetz-Longevas;51;eau potable : SIVU Mont Louvet;158075;2024;55,4;7,8;9,6;66,9;non conforme;136656;19631;94;295;570;Non vérifié;non
+51373;Moncetz-l'Abbaye;51;eau potable;158060;2024;79,2;1,6;6,1;66,2;conforme;8211;970;30;96;88;Non vérifié;non
+51374;Mondement-Montgivroux;51;eau potable : SIVU des eaux de Mondement;158080;2024;87,9;0,5;3,5;65,7;conforme;6833;233;22;52;29;Non vérifié;non
+51375;Montbré;51;eau potable : Région de Verzy;245214;2024;75,8;2,7;8,5;66,7;conforme;121473;6550;45;116;398;Non vérifié;non
+51376;Montgenost;51;eau potable : Montgenost;294014;2024;84,0;1,3;6,9;66,4;conforme;1438;1438;24;69;161;Non vérifié;non
+51377;Montépreux;51;eau potable : Montépreux;157909;2024;98,1;0,2;10,5;67,1;conforme;126;126;8;7;45;Non vérifié;non
+51378;Monthelon;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;6739;55;103;334;Non vérifié;non
+51379;Montigny-sur-Vesle;51;eau potable : SIVU des eaux de Fismes;158079;2024;80,1;2,6;10,4;67,1;conforme;121216;6600;32;91;569;Non vérifié;non
+51380;Montmirail;51;eau potable : eau potable : REGIE;338434;2024;79,1;2,2;8,2;66,6;conforme;53335;46691;36;98;3535;Non vérifié;non
+51381;Montmort-Lucy;51;eau potable : DSP - SUEZ EX: BRIE DES ETANGS;158119;2024;65,7;1,9;3,5;65,7;non conforme;106106;17604;74;196;656;Non vérifié;non
+51382;Mont-sur-Courville;51;eau potable : SIVU des eaux de Fismes;158079;2024;80,1;2,6;10,4;67,1;conforme;121216;1380;32;91;119;Non vérifié;non
+51384;Morangis;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;7325;55;103;363;Non vérifié;non
+51386;Morsains;51;eau potable : AFFERMAGE;158011;2024;61,0;2,8;4,3;65,9;non conforme;170654;7435;136;269;150;Non vérifié;non
+51387;Moslins;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;5811;55;103;288;Non vérifié;non
+51388;Mourmelon-le-Grand;51;eau potable : Ex CC Mourmelon;158037;2024;81,9;2,5;11,5;67,3;conforme;65244;36789;21;80;4895;Non vérifié;non
+51389;Mourmelon-le-Petit;51;eau potable : Ex CC Mourmelon;158037;2024;81,9;2,5;11,5;67,3;conforme;65244;6035;21;80;803;Non vérifié;non
+51390;Moussy;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;14629;55;103;725;Non vérifié;non
+51391;Muizon;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;21234;28;81;2081;Non vérifié;non
+51392;Mutigny;51;eau potable : Principal;318254;2024;82,6;2,4;11,3;67,3;conforme;189514;2920;38;81;212;Non vérifié;non
+51393;Nanteuil-la-Forêt;51;eau potable : Nanteuil-la-Forêt;322094;2024;95,5;0,2;4,4;65,9;conforme;513;513;5;17;300;Non vérifié;non
+51395;Nesle-la-Reposte;51;eau potable : Nesle La Reposte;294134;2024;99,2;0,2;24,1;69,8;conforme;760;760;23;46;89;Non vérifié;non
+51396;Nesle-le-Repons;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;4164;81;214;141;Non vérifié;non
+51397;La Neuville-aux-Bois;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;3951;78;147;138;Non vérifié;non
+51398;La Neuville-aux-Larris;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;5552;81;214;188;Non vérifié;non
+51399;La Neuville-au-Pont;51;eau potable : affermage SUEZ;158109;2024;67,3;3,5;7,2;66,4;conforme;200568;12552;74;177;463;Non vérifié;non
+51402;Neuvy;51;eau potable : ex: SIVU de distribution d'eau potable de la Brie Champenoise;158058;2024;45,6;2,9;2,4;65,5;non conforme;63192;22723;227;482;274;Non vérifié;non
+51403;Nogent-l'Abbesse;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;6115;31;74;542;Non vérifié;non
+51404;Noirlieu;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;3207;78;147;112;Non vérifié;non
+51406;Norrois;51;eau potable;158060;2024;79,2;1,6;6,1;66,2;conforme;8211;1664;30;96;151;Non vérifié;non
+51407;La Noue;51;eau potable : ex SIVU Essarts-les-Sézanne;158062;2024;84,2;2,2;11,6;67,3;conforme;19714;7822;58;140;371;Non vérifié;non
+51409;Nuisement-sur-Coole;51;eau potable : affermage n°3;217205;2024;56,3;3,8;4,9;66,0;non conforme;194097;14865;106;281;384;Non vérifié;non
+51410;OEuilly;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;16655;81;214;564;Non vérifié;non
+51412;Ognes;51;eau potable : SMIDEP du MONT AOUT;158065;2024;76,6;2,2;7,2;66,4;conforme;84853;1454;68;146;59;Non vérifié;non
+51413;Oiry;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;17837;55;103;884;Non vérifié;non
+51414;Olizy;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;1510;28;81;148;Non vérifié;non
+51415;Omey;51;eau potable : affermage n°4;157914;2024;66,7;4,1;8,2;66,6;conforme;6166;6166;83;183;203;Non vérifié;non
+51416;Orbais-l'Abbaye;51;eau potable : DSP - SUEZ EX: BRIE DES ETANGS;158119;2024;65,7;1,9;3,5;65,7;non conforme;106106;13552;74;196;505;Non vérifié;non
+51417;Orconte;51;eau potable;157915;2024;77,6;2,8;9,9;67,0;conforme;6224;6224;47;104;365;Non vérifié;non
+51418;Ormes;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;5877;28;81;576;Non vérifié;non
+51419;Outines;51;eau potable;158087;2024;70,3;1,7;4,0;65,8;conforme;17728;5567;117;153;130;Non vérifié;non
+51420;Outrepont;51;eau potable;158090;2024;65,0;3,8;7,1;66,4;non conforme;72928;2005;74;196;74;Non vérifié;non
+51421;Oyes;51;eau potable : SIVU des eaux de Mondement;158080;2024;87,9;0,5;3,5;65,7;conforme;6833;851;22;52;106;Non vérifié;non
+51422;Pargny-lès-Reims;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;5071;28;81;497;Non vérifié;non
+51423;Pargny-sur-Saulx;51;eau potable;157917;2024;93,7;2,3;34,1;71,8;conforme;15950;15950;26;30;1654;Non vérifié;non
+51424;Passavant-en-Argonne;51;eau potable : affermage SUEZ;158109;2024;67,3;3,5;7,2;66,4;conforme;200568;4392;74;177;162;Non vérifié;non
+51425;Passy-Grigny;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;10926;81;214;370;Non vérifié;non
+51426;Péas;51;eau potable : SIVU des eaux de Mondement;158080;2024;87,9;0,5;3,5;65,7;conforme;6833;522;22;52;65;Non vérifié;non
+51428;Les Petites-Loges;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;5427;31;74;481;Non vérifié;non
+51429;Pévy;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;2398;28;81;235;Non vérifié;non
+51430;Pierre-Morains;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;1998;55;103;99;Non vérifié;non
+51431;Pierry;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;25505;55;103;1264;Non vérifié;non
+51432;Pleurs;51;eau potable : SMIDEP du MONT AOUT;158065;2024;76,6;2,2;7,2;66,4;conforme;84853;20338;68;146;825;Non vérifié;non
+51433;Plichancourt;51;eau potable;157922;2024;95,5;0,3;5,6;66,1;conforme;548;548;6;20;248;Non vérifié;non
+51434;Plivot;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;15234;55;103;755;Non vérifié;non
+51435;Pocancy;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;3531;55;103;175;Non vérifié;non
+51436;Pogny;51;eau potable : affermage n°3;217205;2024;56,3;3,8;4,9;66,0;non conforme;194097;34608;106;281;894;Non vérifié;non
+51437;Poilly;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;959;28;81;94;Non vérifié;non
+51438;Poix;51;eau potable : Courtisol-Poix-SommeVesle;265654;2024;66,1;4,4;8,5;66,7;non conforme;68721;1697;68;189;68;Non vérifié;non
+51439;Pomacle;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;6093;31;74;540;Non vérifié;non
+51440;Pontfaverger-Moronvilliers;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;19564;31;74;1734;Non vérifié;non
+51442;Possesse;51;eau potable;157925;2024;71,2;3,2;8,0;66,6;conforme;3726;3726;76;146;135;Non vérifié;non
+51443;Potangis;51;eau potable : REGIE;158234;2024;70,9;2,2;5,4;66,1;conforme;132302;2252;54;148;114;Non vérifié;non
+51444;Pouillon;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;5398;28;81;529;Non vérifié;non
+51445;Pourcy;51;eau potable : Rouillat;158076;2024;77,4;2,9;9,8;67,0;conforme;100229;4684;66;178;194;Non vérifié;non
+51446;Pringy;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;15563;97;135;438;Non vérifié;non
+51447;Prosnes;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;5483;31;74;486;Non vérifié;non
+51448;Prouilly;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;5602;28;81;549;Non vérifié;non
+51449;Prunay;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;11756;31;74;1042;Non vérifié;non
+51450;Puisieulx;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;5258;31;74;466;Non vérifié;non
+51451;Queudes;51;eau potable : ex SIVU de Gaye;158067;2024;71,5;1,4;3,5;65,7;conforme;19755;1505;52;147;79;Non vérifié;non
+51452;Rapsécourt;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;973;78;147;34;Non vérifié;non
+51453;Recy;51;eau potable : Recy;157928;2024;89,5;1,1;9,8;67,0;conforme;6424;6424;16;41;1093;Non vérifié;non
+51454;Reims;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;2004612;31;74;177674;Non vérifié;non
+51455;Reims-la-Brûlée;51;eau potable;158077;2024;73,2;2,6;7,9;66,6;conforme;16940;3128;40;120;214;Non vérifié;non
+51456;Remicourt;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;1661;78;147;58;Non vérifié;non
+51457;Cœur-de-la-Vallée;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;18958;81;214;642;Non vérifié;non
+51458;Reuves;51;eau potable : SIVU des eaux de Mondement;158080;2024;87,9;0,5;3,5;65,7;conforme;6833;474;22;52;59;Non vérifié;non
+51459;Réveillon;51;eau potable : ex: SIVU de distribution d'eau potable de la Brie Champenoise;158058;2024;45,6;2,9;2,4;65,5;non conforme;63192;9039;227;482;109;Non vérifié;non
+51460;Rieux;51;eau potable : AFFERMAGE;158011;2024;61,0;2,8;4,3;65,9;non conforme;170654;9368;136;269;189;Non vérifié;non
+51461;Rilly-la-Montagne;51;eau potable : Région de Verzy;245214;2024;75,8;2,7;8,5;66,7;conforme;121473;16507;45;116;1003;Non vérifié;non
+51463;Les Rivières-Henruel;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;5543;97;135;156;Non vérifié;non
+51464;Romain;51;eau potable : SIVU des eaux de Fismes;158079;2024;80,1;2,6;10,4;67,1;conforme;121216;3851;32;91;332;Non vérifié;non
+51465;Romery;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;4725;81;214;160;Non vérifié;non
+51466;Romigny;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;2102;28;81;206;Non vérifié;non
+51468;Rosnay;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;4316;28;81;423;Non vérifié;non
+51469;Rouffy;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;2240;55;103;111;Non vérifié;non
+51470;Rouvroy-Ripont;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;143;78;147;5;Non vérifié;non
+51471;Sacy;51;eau potable : Rouillat;158076;2024;77,4;2,9;9,8;67,0;conforme;100229;8910;66;178;369;Non vérifié;non
+51472;Saint-Amand-sur-Fion;51;eau potable;158090;2024;65,0;3,8;7,1;66,4;non conforme;72928;27497;74;196;1015;Non vérifié;non
+51473;Saint-Bon;51;eau potable : Saint Bon;294075;2024;81,6;0,9;3,9;65,8;conforme;1192;1192;36;85;91;Non vérifié;non
+51474;Saint-Brice-Courcelles;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;40233;31;74;3566;Non vérifié;non
+51475;Saint-Chéron;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;2239;97;135;63;Non vérifié;non
+51476;Saint-Étienne-au-Temple;51;eau potable : Saint-Étienne-au-Temple;157932;2024;81,9;1,1;4,9;66,0;conforme;6665;6665;24;83;768;Non vérifié;non
+51477;Saint-Étienne-sur-Suippe;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;4017;31;74;356;Non vérifié;non
+51478;Saint-Eulien;51;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;7500;50;109;413;Non vérifié;non
+51479;Saint-Euphraise-et-Clairizet;51;eau potable : Rouillat;158076;2024;77,4;2,9;9,8;67,0;conforme;100229;5892;66;178;244;Non vérifié;non
+51480;Sainte-Gemme;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;3987;81;214;135;Non vérifié;non
+51482;Saint-Germain-la-Ville;51;eau potable : SIVU Mont Louvet;158075;2024;55,4;7,8;9,6;66,9;non conforme;136656;22455;94;295;652;Non vérifié;non
+51483;Saint-Gibrien;51;eau potable : Saint-Gibrien;157937;2024;90,1;1,0;9,2;66,8;conforme;2573;2573;13;40;552;Non vérifié;non
+51484;Saint-Gilles;51;eau potable : SIVU des eaux de Fismes;158079;2024;80,1;2,6;10,4;67,1;conforme;121216;3132;32;91;270;Non vérifié;non
+51485;Saint-Hilaire-au-Temple;51;eau potable : Ex CC Mourmelon;158037;2024;81,9;2,5;11,5;67,3;conforme;65244;4352;21;80;579;Non vérifié;non
+51486;Saint-Hilaire-le-Grand;51;eau potable;158108;2024;75,5;2,9;8,9;66,8;conforme;110666;4960;39;119;349;Non vérifié;non
+51487;Saint-Hilaire-le-Petit;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;4017;31;74;356;Non vérifié;non
+51488;Saint-Imoges;51;eau potable : Principal;318254;2024;82,6;2,4;11,3;67,3;conforme;189514;4546;38;81;330;Non vérifié;non
+51489;Saint-Jean-devant-Possesse;51;eau potable;157939;2024;97,3;0,1;3,4;65,7;conforme;62;62;5;11;31;Non vérifié;non
+51490;Saint-Jean-sur-Moivre;51;eau potable : affermage n°3;217205;2024;56,3;3,8;4,9;66,0;non conforme;194097;7626;106;281;197;Non vérifié;non
+51491;Saint-Jean-sur-Tourbe;51;eau potable;158108;2024;75,5;2,9;8,9;66,8;conforme;110666;1336;39;119;94;Non vérifié;non
+51492;Saint-Just-Sauvage;51;eau potable : REGIE;158234;2024;70,9;2,2;5,4;66,1;conforme;132302;28768;54;148;1456;Non vérifié;non
+51493;Saint-Léonard;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;1083;31;74;96;Non vérifié;non
+51495;Saint-Loup;51;eau potable : SIVU des eaux de Mondement;158080;2024;87,9;0,5;3,5;65,7;conforme;6833;594;22;52;74;Non vérifié;non
+51496;Saint-Lumier-en-Champagne;51;eau potable;158090;2024;65,0;3,8;7,1;66,4;non conforme;72928;7233;74;196;267;Non vérifié;non
+51497;Saint-Lumier-la-Populeuse;51;eau potable;158055;2024;84,5;1,7;9,5;66,9;conforme;6999;527;35;121;41;Non vérifié;non
+51498;Saint-Mard-sur-Auve;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;1804;78;147;63;Non vérifié;non
+51499;Saint-Mard-lès-Rouffy;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;2885;55;103;143;Non vérifié;non
+51500;Saint-Mard-sur-le-Mont;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;3264;78;147;114;Non vérifié;non
+51501;Sainte-Marie-à-Py;51;eau potable;158108;2024;75,5;2,9;8,9;66,8;conforme;110666;2757;39;119;194;Non vérifié;non
+51502;Saint-Martin-aux-Champs;51;eau potable : affermage n°3;217205;2024;56,3;3,8;4,9;66,0;non conforme;194097;3910;106;281;101;Non vérifié;non
+51503;Saint-Martin-l'Heureux;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;1128;31;74;100;Non vérifié;non
+51504;Saint-Martin-sur-le-Pré;51;eau potable : Saint-Martin-sur-le-Pré;157942;2024;85,4;1,2;7,2;66,4;conforme;8059;8059;28;61;792;Non vérifié;non
+51505;Saint-Masmes;51;eau potable : Saint Masmes;158068;2024;68,1;4,5;9,6;66,9;conforme;38993;11066;55;172;550;Non vérifié;non
+51506;Saint-Memmie;51;eau potable : Saint-Memmie;157943;2024;80,8;5,6;23,7;69,7;conforme;65408;65408;33;86;5441;Non vérifié;non
+51507;Sainte-Menehould;51;eau potable : affermage SUEZ;158109;2024;67,3;3,5;7,2;66,4;conforme;200568;112402;74;177;4146;Non vérifié;non
+51508;Saint-Ouen-Domprot;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;7213;97;135;203;Non vérifié;non
+51509;Saint-Pierre;51;eau potable : Saint-Pierre;157945;2024;94,9;1,8;32,9;71,6;conforme;1406;696;7;40;293;Non vérifié;non
+51510;Saint-Quentin-les-Marais;51;eau potable;158090;2024;65,0;3,8;7,1;66,4;non conforme;72928;3197;74;196;118;Non vérifié;non
+51511;Saint-Quentin-le-Verger;51;eau potable : REGIE;158234;2024;70,9;2,2;5,4;66,1;conforme;132302;2213;54;148;112;Non vérifié;non
+51512;Saint-Quentin-sur-Coole;51;eau potable : affermage n°3;217205;2024;56,3;3,8;4,9;66,0;non conforme;194097;4026;106;281;104;Non vérifié;non
+51513;Saint-Remy-en-Bouzemont-Saint-Genest-et-Isson;51;eau potable;157947;2024;39,8;10,8;7,2;66,4;non conforme;42613;42613;248;551;470;Non vérifié;non
+51514;Saint-Remy-sous-Broyes;51;eau potable : ex SIVU de Gaye;158067;2024;71,5;1,4;3,5;65,7;conforme;19755;2057;52;147;108;Non vérifié;non
+51515;Saint-Remy-sur-Bussy;51;eau potable;158108;2024;75,5;2,9;8,9;66,8;conforme;110666;4619;39;119;325;Non vérifié;non
+51516;Saint-Saturnin;51;eau potable : SMIDEP du MONT AOUT;158065;2024;76,6;2,2;7,2;66,4;conforme;84853;1159;68;146;47;Non vérifié;non
+51517;Saint-Souplet-sur-Py;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;1512;31;74;134;Non vérifié;non
+51518;Saint-Thierry;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;6173;28;81;605;Non vérifié;non
+51519;Saint-Thomas-en-Argonne;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;1059;78;147;37;Non vérifié;non
+51520;Saint-Utin;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;2487;97;135;70;Non vérifié;non
+51521;Saint-Vrain;51;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;4195;50;109;231;Non vérifié;non
+51522;Sapignicourt;51;eau potable : Sapignicourt;157950;2024;96,4;0,3;7,2;66,4;conforme;489;489;4;15;365;Non vérifié;non
+51523;Sarcy;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;2735;28;81;268;Non vérifié;non
+51524;Saron-sur-Aube;51;eau potable : REGIE;158234;2024;70,9;2,2;5,4;66,1;conforme;132302;5295;54;148;268;Non vérifié;non
+51525;Sarry;51;eau potable : SIVU Mont Louvet;158075;2024;55,4;7,8;9,6;66,9;non conforme;136656;70394;94;295;2044;Non vérifié;non
+51526;Saudoy;51;eau potable : REGIE_Saudoy;283594;2024;74,8;1,9;5,5;66,1;conforme;6117;6117;44;126;377;Non vérifié;non
+51527;Savigny-sur-Ardres;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;2531;28;81;248;Non vérifié;non
+51529;Selles;51;eau potable : Saint Masmes;158068;2024;68,1;4,5;9,6;66,9;conforme;38993;9336;55;172;464;Non vérifié;non
+51530;Sept-Saulx;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;7796;31;74;691;Non vérifié;non
+51531;Sermaize-les-Bains;51;eau potable;157958;2024;78,8;3,1;11,7;67,3;conforme;21261;21261;33;99;1742;Non vérifié;non
+51532;Sermiers;51;eau potable : Rouillat;158076;2024;77,4;2,9;9,8;67,0;conforme;100229;13618;66;178;564;Non vérifié;non
+51533;Servon-Melzicourt;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;2491;78;147;87;Non vérifié;non
+51534;Serzy-et-Prin;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;2163;28;81;212;Non vérifié;non
+51535;Sézanne;51;eau potable : Sézanne;157959;2024;86,6;2,9;18,9;68,8;conforme;44637;44637;27;57;4576;Non vérifié;non
+51536;Sillery;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;20579;31;74;1824;Non vérifié;non
+51537;Sivry-Ante;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;5068;78;147;177;Non vérifié;non
+51538;Sogny-aux-Moulins;51;eau potable : affermage n°3;217205;2024;56,3;3,8;4,9;66,0;non conforme;194097;4258;106;281;110;Non vérifié;non
+51539;Sogny-en-l'Angle;51;eau potable;157962;2024;95,2;0,5;9,5;66,9;conforme;303;303;11;19;73;Non vérifié;non
+51542;Soizy-aux-Bois;51;eau potable : AFFERMAGE;158011;2024;61,0;2,8;4,3;65,9;non conforme;170654;9517;136;269;192;Non vérifié;non
+51543;Somme-Bionne;51;eau potable : affermage SUEZ;158109;2024;67,3;3,5;7,2;66,4;conforme;200568;1898;74;177;70;Non vérifié;non
+51544;Sommepy-Tahure;51;eau potable;158108;2024;75,5;2,9;8,9;66,8;conforme;110666;9422;39;119;663;Non vérifié;non
+51545;Sommesous;51;eau potable : Sommesous;157963;2024;88,1;1,3;9,5;66,9;conforme;5922;5922;35;50;467;Non vérifié;non
+51546;Somme-Suippe;51;eau potable;158108;2024;75,5;2,9;8,9;66,8;conforme;110666;7291;39;119;513;Non vérifié;non
+51547;Somme-Tourbe;51;eau potable;158108;2024;75,5;2,9;8,9;66,8;conforme;110666;2004;39;119;141;Non vérifié;non
+51548;Somme-Vesle;51;eau potable : Courtisol-Poix-SommeVesle;265654;2024;66,1;4,4;8,5;66,7;non conforme;68721;8537;68;189;342;Non vérifié;non
+51549;Somme-Yèvre;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;3035;78;147;106;Non vérifié;non
+51550;Sompuis;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;9167;97;135;258;Non vérifié;non
+51551;Somsois;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;6680;97;135;188;Non vérifié;non
+51552;Songy;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;9452;97;135;266;Non vérifié;non
+51553;Souain-Perthes-lès-Hurlus;51;eau potable;158108;2024;75,5;2,9;8,9;66,8;conforme;110666;3738;39;119;263;Non vérifié;non
+51555;Soudé;51;eau potable : Soudé;157967;2024;98,2;0,1;4,6;65,9;conforme;204;204;4;8;149;Non vérifié;non
+51556;Soudron;51;eau potable : Soudron;157969;2024;98,2;0,3;17,5;68,5;conforme;433;433;4;6;300;Non vérifié;non
+51557;Soulanges;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;16096;97;135;453;Non vérifié;non
+51558;Soulières;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;2885;55;103;143;Non vérifié;non
+51559;Suippes;51;eau potable;158108;2024;75,5;2,9;8,9;66,8;conforme;110666;55966;39;119;3938;Non vérifié;non
+51560;Suizy-le-Franc;51;eau potable : DSP - SUEZ EX: BRIE DES ETANGS;158119;2024;65,7;1,9;3,5;65,7;non conforme;106106;2871;74;196;107;Non vérifié;non
+51562;Taissy;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;24754;31;74;2194;Non vérifié;non
+51563;Talus-Saint-Prix;51;eau potable : DSP - SUEZ EX: BRIE DES ETANGS;158119;2024;65,7;1,9;3,5;65,7;non conforme;106106;2845;74;196;106;Non vérifié;non
+51564;Val de Livre;51;eau potable : Principal;318254;2024;82,6;2,4;11,3;67,3;conforme;189514;8073;38;81;586;Non vérifié;non
+51565;Thaas;51;eau potable : SMIDEP du MONT AOUT;158065;2024;76,6;2,2;7,2;66,4;conforme;84853;2391;68;146;97;Non vérifié;non
+51566;Thibie;51;eau potable : Thibie;157973;2024;90,6;1,2;11,8;67,4;conforme;1572;1572;15;37;291;Non vérifié;non
+51567;Thiéblemont-Farémont;51;eau potable;157974;2024;62,7;7,7;13,0;67,6;non conforme;16722;16722;89;300;513;Non vérifié;non
+51568;Thil;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;3337;28;81;327;Non vérifié;non
+51569;Thillois;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;5245;28;81;514;Non vérifié;non
+51570;Le Thoult-Trosnay;51;eau potable : AFFERMAGE;158011;2024;61,0;2,8;4,3;65,9;non conforme;170654;5204;136;269;105;Non vérifié;non
+51571;Val-de-Vesle;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;11497;31;74;1019;Non vérifié;non
+51572;Tilloy-et-Bellay;51;eau potable;158108;2024;75,5;2,9;8,9;66,8;conforme;110666;3269;39;119;230;Non vérifié;non
+51573;Tinqueux;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;121524;31;74;10771;Non vérifié;non
+51574;Togny-aux-Boeufs;51;eau potable : affermage n°3;217205;2024;56,3;3,8;4,9;66,0;non conforme;194097;5342;106;281;138;Non vérifié;non
+51576;Tours-sur-Marne;51;eau potable : Principal;318254;2024;82,6;2,4;11,3;67,3;conforme;189514;18735;38;81;1360;Non vérifié;non
+51577;Tramery;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;1520;28;81;149;Non vérifié;non
+51578;Trécon;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;1675;55;103;83;Non vérifié;non
+51579;Tréfols;51;eau potable : AFFERMAGE;158011;2024;61,0;2,8;4,3;65,9;non conforme;170654;8377;136;269;169;Non vérifié;non
+51580;Trépail;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;4784;31;74;424;Non vérifié;non
+51581;Treslon;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;2571;28;81;252;Non vérifié;non
+51582;Trigny;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;6316;28;81;619;Non vérifié;non
+51583;Trois-Fontaines-l'Abbaye;51;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;3468;50;109;191;Non vérifié;non
+51584;Trois-Puits;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;1884;31;74;167;Non vérifié;non
+51585;Troissy;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;24244;81;214;821;Non vérifié;non
+51586;Unchair;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;1980;28;81;194;Non vérifié;non
+51587;Vadenay;51;eau potable : Ex CC Mourmelon;158037;2024;81,9;2,5;11,5;67,3;conforme;65244;1751;21;80;233;Non vérifié;non
+51588;Valmy;51;eau potable : affermage SUEZ;158109;2024;67,3;3,5;7,2;66,4;conforme;200568;6344;74;177;234;Non vérifié;non
+51589;Vanault-le-Châtel;51;eau potable;157982;2024;85,5;2,1;12,3;67,5;conforme;1916;1916;33;63;160;Non vérifié;non
+51590;Vanault-les-Dames;51;eau potable;157984;2024;91,2;1,5;15,7;68,1;conforme;3000;3000;22;35;376;Non vérifié;non
+51591;Vandeuil;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;1908;28;81;187;Non vérifié;non
+51592;Vandières;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;8948;81;214;303;Non vérifié;non
+51594;Vassimont-et-Chapelaine;51;eau potable : plateforme de Vatry;341094;2024;56,5;2,2;2,9;65,6;non conforme;19047;2325;103;280;62;Non vérifié;non
+51595;Vatry;51;eau potable : Vatry;157987;2024;95,6;0,3;6,2;66,2;conforme;296;296;6;18;143;Non vérifié;non
+51596;Vauchamps;51;eau potable : AFFERMAGE;158011;2024;61,0;2,8;4,3;65,9;non conforme;170654;16753;136;269;338;Non vérifié;non
+51597;Vauciennes;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;9420;81;214;319;Non vérifié;non
+51598;Vauclerc;51;eau potable;158077;2024;73,2;2,6;7,9;66,6;conforme;16940;7264;40;120;497;Non vérifié;non
+51599;Vaudemange;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;3757;31;74;333;Non vérifié;non
+51600;Vaudesincourt;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;1241;31;74;110;Non vérifié;non
+51601;Vavray-le-Grand;51;eau potable;158090;2024;65,0;3,8;7,1;66,4;non conforme;72928;4768;74;196;176;Non vérifié;non
+51603;Vélye;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;4601;55;103;228;Non vérifié;non
+51604;Ventelay;51;eau potable : SIVU des eaux de Fismes;158079;2024;80,1;2,6;10,4;67,1;conforme;121216;2934;32;91;253;Non vérifié;non
+51605;Venteuil;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;13643;81;214;462;Non vérifié;non
+51607;Verdon;51;eau potable : AFFERMAGE;158011;2024;61,0;2,8;4,3;65,9;non conforme;170654;9665;136;269;195;Non vérifié;non
+51608;Vernancourt;51;eau potable;157992;2024;79,1;3,0;11,4;67,3;conforme;2234;2234;76;96;80;Non vérifié;non
+51609;Verneuil;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;24687;81;214;836;Non vérifié;non
+51610;Verrières;51;eau potable : affermage SUEZ;158109;2024;67,3;3,5;7,2;66,4;conforme;200568;11468;74;177;423;Non vérifié;non
+51611;Vert-Toulon;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;5670;55;103;281;Non vérifié;non
+51612;Blancs-Coteaux;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;62148;55;103;3080;Non vérifié;non
+51613;Verzenay;51;eau potable : Région de Verzy;245214;2024;75,8;2,7;8,5;66,7;conforme;121473;16309;45;116;991;Non vérifié;non
+51614;Verzy;51;eau potable : Région de Verzy;245214;2024;75,8;2,7;8,5;66,7;conforme;121473;15816;45;116;961;Non vérifié;non
+51616;Vésigneul-sur-Marne;51;eau potable : SIVU Mont Louvet;158075;2024;55,4;7,8;9,6;66,9;non conforme;136656;8265;94;295;240;Non vérifié;non
+51617;La Veuve;51;eau potable : Ex SIA région de condé;158009;2024;49,7;6,6;6,5;66,3;non conforme;148539;29473;134;372;602;Non vérifié;non
+51618;Le Vézier;51;eau potable : AFFERMAGE;158011;2024;61,0;2,8;4,3;65,9;non conforme;170654;8971;136;269;181;Non vérifié;non
+51619;Le Vieil-Dampierre;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;2920;78;147;102;Non vérifié;non
+51620;Vienne-la-Ville;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;4581;78;147;160;Non vérifié;non
+51621;Vienne-le-Château;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;14773;78;147;516;Non vérifié;non
+51622;Ville-Dommange;51;eau potable : Rouillat;158076;2024;77,4;2,9;9,8;67,0;conforme;100229;9827;66;178;407;Non vérifié;non
+51623;Ville-en-Selve;51;eau potable : Région de Verzy;245214;2024;75,8;2,7;8,5;66,7;conforme;121473;4871;45;116;296;Non vérifié;non
+51624;Ville-en-Tardenois;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;6735;28;81;660;Non vérifié;non
+51625;Villeneuve-la-Lionne;51;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;2013;21;94;269;Non vérifié;non
+51626;La Villeneuve-lès-Charleville;51;eau potable : AFFERMAGE;158011;2024;61,0;2,8;4,3;65,9;non conforme;170654;5799;136;269;117;Non vérifié;non
+51627;Villeneuve-Renneville-Chevigny;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;6578;55;103;326;Non vérifié;non
+51628;Villeneuve-Saint-Vistre-et-Villevotte;51;eau potable : ex SIVU de Gaye;158067;2024;71,5;1,4;3,5;65,7;conforme;19755;2286;52;147;120;Non vérifié;non
+51629;Villers-Allerand;51;eau potable : Région de Verzy;245214;2024;75,8;2,7;8,5;66,7;conforme;121473;15355;45;116;933;Non vérifié;non
+51630;Villers-aux-Bois;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;6275;55;103;311;Non vérifié;non
+51631;Villers-aux-Noeuds;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;3859;31;74;342;Non vérifié;non
+51632;Villers-en-Argonne;51;eau potable : affermage SUEZ;158109;2024;67,3;3,5;7,2;66,4;conforme;200568;5775;74;177;213;Non vérifié;non
+51633;Villers-Franqueux;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;3041;28;81;298;Non vérifié;non
+51634;Villers-le-Château;51;eau potable : Villers-le-Château;157994;2024;93,7;0,7;10,0;67,0;conforme;835;835;8;26;299;Non vérifié;non
+51635;Villers-le-Sec;51;eau potable;157995;2024;97,8;0,1;4,9;66,0;conforme;77;77;2;7;109;Non vérifié;non
+51636;Villers-Marmery;51;eau potable : Région de Verzy;245214;2024;75,8;2,7;8,5;66,7;conforme;121473;9529;45;116;579;Non vérifié;non
+51637;Villers-sous-Châtillon;51;eau potable : Eau potable Nord;318314;2022;74,0;3,0;8,7;66,7;conforme;348703;4495;57;144;215;Sans anomalie apparente;non
+51638;Villeseneux;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;4015;55;103;199;Non vérifié;non
+51639;La Ville-sous-Orbais;51;eau potable : DSP - SUEZ EX: BRIE DES ETANGS;158119;2024;65,7;1,9;3,5;65,7;non conforme;106106;1100;74;196;41;Non vérifié;non
+51640;Ville-sur-Tourbe;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;6184;78;147;216;Non vérifié;non
+51641;Villevenard;51;eau potable : DSP - SUEZ EX: BRIE DES ETANGS;158119;2024;65,7;1,9;3,5;65,7;non conforme;106106;5179;74;196;193;Non vérifié;non
+51642;Villiers-aux-Corneilles;51;eau potable : REGIE;158234;2024;70,9;2,2;5,4;66,1;conforme;132302;2233;54;148;113;Non vérifié;non
+51643;Vinay;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;10795;55;103;535;Non vérifié;non
+51644;Vincelles;51;eau potable : Eau potable Nord;318314;2024;65,1;4,1;7,7;66,5;non conforme;486422;9834;81;214;333;Non vérifié;non
+51645;Vindey;51;eau potable : Vindey;293934;2024;98,5;0,1;4,2;65,8;conforme;127;127;3;9;105;Non vérifié;non
+51646;Virginy;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;2348;78;147;82;Non vérifié;non
+51647;Vitry-en-Perthois;51;eau potable;158001;2024;75,4;5,2;15,9;68,2;conforme;17082;17082;54;200;863;Non vérifié;non
+51648;Vitry-la-Ville;51;eau potable : affermage n°3;217205;2024;56,3;3,8;4,9;66,0;non conforme;194097;13897;106;281;359;Non vérifié;non
+51649;Vitry-le-François;51;eau potable : DSP PRINCIPALE;217580;2024;75,0;8,0;22,3;69,5;conforme;771055;390715;97;135;10996;Non vérifié;non
+51650;Voilemont;51;eau potable : affermage SUEZ;158109;2024;67,3;3,5;7,2;66,4;conforme;200568;1274;74;177;47;Non vérifié;non
+51652;Vouarces;51;eau potable : REGIE;158234;2024;70,9;2,2;5,4;66,1;conforme;132302;1245;54;148;63;Non vérifié;non
+51654;Vouillers;51;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;4667;50;109;257;Non vérifié;non
+51655;Vouzy;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;6033;55;103;299;Non vérifié;non
+51656;Vraux;51;eau potable : Ex SIA région de condé;158009;2024;49,7;6,6;6,5;66,3;non conforme;148539;22521;134;372;460;Non vérifié;non
+51657;Vrigny;51;eau potable : Eau Ardre et Vesle;337714;2024;82,5;1,9;8,8;66,8;conforme;290493;2388;28;81;234;Non vérifié;non
+51658;Vroil;51;eau potable;158005;2024;90,1;2,5;22,7;69,5;conforme;1460;1460;39;58;103;Non vérifié;non
+51659;Wargemoulin-Hurlus;51;eau potable : affermage veolia;158021;2024;71,7;1,9;4,7;65,9;conforme;120017;1288;78;147;45;Non vérifié;non
+51660;Warmeriville;51;eau potable : Régie du Grand Reims;158047;2024;83,8;7,0;36,2;72,2;conforme;2749946;31016;31;74;2749;Non vérifié;non
+51662;Witry-lès-Reims;51;eau potable : Witry-les-Reims;319894;2023;88,6;4,7;15,2;68,0;conforme;69461;60930;34;113;4950;Sans anomalie apparente;non
+51663;Magenta;51;eau potable : régie;217859;2024;78,1;4,2;15,2;68,0;conforme;944328;33899;55;103;1680;Non vérifié;non

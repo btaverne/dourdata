@@ -7,726 +7,726 @@
 # Méthodologie et code : https://github.com/btaverne/dourdata
 # Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
 # Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
-Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
-57001;Aboncourt;57;eau potable;63314;2024;86,8;1,7;11,5;67,3;conforme;124100;2184;19;55;320;Non vérifié
-57002;Aboncourt-sur-Seille;57;eau potable;164178;2024;76,3;2,5;7,9;66,6;conforme;193450;1141;47;128;67;Non vérifié
-57003;Abreschviller;57;eau potable;132038;2024;74,3;2,5;7,3;66,5;conforme;20312;20312;39;125;1428;Non vérifié
-57004;Achain;57;eau potable;63311;2024;81,0;3,5;14,8;68,0;conforme;133524;2342;84;86;76;Non vérifié
-57006;Achen;57;eau potable;63234;2024;56,3;6,0;7,7;66,5;non conforme;26324;26324;75;285;963;Non vérifié
-57007;Adaincourt;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;2730;55;152;135;Non vérifié
-57008;Adelange;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;4489;55;152;222;Non vérifié
-57009;Ajoncourt;57;eau potable;164178;2024;76,3;2,5;7,9;66,6;conforme;193450;1737;47;128;102;Non vérifié
-57010;Alaincourt-la-Côte;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;3559;55;152;176;Non vérifié
-57011;Albestroff;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;23978;108;152;606;Sans anomalie apparente
-57012;Algrange;57;eau potable;63318;2024;79,2;4,3;16,2;68,2;conforme;667038;68858;33;97;5802;Non vérifié
-57013;Alsting;57;eau potable;63211;2024;79,4;4,9;18,9;68,8;conforme;838610;30132;33;97;2480;Non vérifié
-57014;Altrippe;57;eau potable;63214;2024;79,3;1,5;5,9;66,2;conforme;79388;4243;32;93;365;Non vérifié
-57015;Altviller;57;eau potable;63206;2024;86,5;1,5;9,9;67,0;conforme;44348;2378;12;56;524;Non vérifié
-57016;Alzing;57;eau potable;63309;2024;74,9;2,9;8,6;66,7;conforme;212970;6749;46;125;405;Non vérifié
-57017;Amanvillers;57;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;40776;51;139;2188;Non vérifié
-57018;Amelécourt;57;eau potable;63311;2024;81,0;3,5;14,8;68,0;conforme;133524;3636;84;86;118;Non vérifié
-57019;Amnéville;57;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;202667;51;139;10875;Non vérifié
-57020;Ancerville;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;6066;55;152;300;Non vérifié
-57021;Ancy-Dornot;57;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;27768;51;139;1490;Non vérifié
-57022;Angevillers;57;eau potable;63318;2024;79,2;4,3;16,2;68,2;conforme;667038;16663;33;97;1404;Non vérifié
-57024;Antilly;57;eau potable;63314;2024;86,8;1,7;11,5;67,3;conforme;124100;1351;19;55;198;Non vérifié
-57025;Anzeling;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;8418;48;130;480;Non vérifié
-57026;Apach;57;eau potable : SYNDICAT DES EAUX DU MEINSBERG;63325;2024;86,4;1,3;8,2;66,6;conforme;21827;7531;19;59;1072;Non vérifié
-57027;Arraincourt;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;2548;55;152;126;Non vérifié
-57028;Argancy;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;14036;28;62;1381;Non vérifié
-57029;Arriance;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;4307;55;152;213;Non vérifié
-57030;Arry;57;eau potable;63348;2024;67,6;5,3;11,1;67,2;conforme;13793;13793;73;174;517;Non vérifié
-57031;Ars-Laquenexy;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;9493;28;62;934;Non vérifié
-57032;Ars-sur-Moselle;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;46916;28;62;4616;Non vérifié
-57033;Arzviller;57;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;3219;17;48;516;Non vérifié
-57034;Aspach;57;eau potable;63220;2024;90,6;1,0;9,6;66,9;conforme;67416;332;23;38;40;Non vérifié
-57035;Assenoncourt;57;eau potable;63223;2024;92,3;0,6;7,5;66,5;conforme;22995;1602;38;35;115;Non vérifié
-57036;Attilloncourt;57;eau potable;132049;2020;100,0;;;;non calculable;;;;;98;Sans anomalie apparente
-57037;Aube;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;5419;55;152;268;Non vérifié
-57038;Audun-le-Tiche;57;eau potable : Audun-le-Tiche;132050;2024;69,6;16,4;37,5;72,5;non conforme;211426;211426;79;199;7356;Non vérifié
-57039;Augny;57;eau potable : ancien périmètre MONTIGNY-LES-METZ;63328;2024;74,6;8,6;25,3;70,1;conforme;877037;43145;54;130;2207;Non vérifié
-57040;Aulnois-sur-Seille;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;6329;55;152;313;Non vérifié
-57041;Aumetz;57;eau potable;63318;2024;79,2;4,3;16,2;68,2;conforme;667038;28697;33;97;2418;Non vérifié
-57042;Avricourt;57;eau potable;63220;2024;90,6;1,0;9,6;66,9;conforme;67416;4764;23;38;574;Non vérifié
-57043;Ay-sur-Moselle;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;16272;28;62;1601;Non vérifié
-57044;Azoudange;57;eau potable;63223;2024;92,3;0,6;7,5;66,5;conforme;22995;1240;38;35;89;Non vérifié
-57045;Bacourt;57;eau potable;63307;2024;56,4;4,6;6,0;66,2;non conforme;30222;6575;158;281;114;Non vérifié
-57046;Baerenthal;57;eau potable : PERIMETRE BAERENTHAL;63236;2024;84,0;0,9;4,9;66,0;conforme;7749;7749;29;69;734;Non vérifié
-57047;Bambiderstroff;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;20543;55;152;1016;Non vérifié
-57048;Bannay;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;1577;55;152;78;Non vérifié
-57049;Le Ban-Saint-Martin;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;47607;28;62;4684;Non vérifié
-57050;Barchain;57;eau potable;63220;2024;90,6;1,0;9,6;66,9;conforme;67416;780;23;38;94;Non vérifié
-57051;Baronville;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;14600;108;152;369;Sans anomalie apparente
-57052;Barst;57;eau potable;63206;2024;86,5;1,5;9,9;67,0;conforme;44348;2587;12;56;570;Non vérifié
-57053;Bassing;57;eau potable;63205;2024;95,0;0,1;2,7;65,5;conforme;14600;249;6;14;106;Non vérifié
-57054;Baudrecourt;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;3498;55;152;173;Non vérifié
-57055;Bazoncourt;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;10636;55;152;526;Non vérifié
-57056;Bébing;57;eau potable;63220;2024;90,6;1,0;9,6;66,9;conforme;67416;1569;23;38;189;Non vérifié
-57057;Béchy;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;12435;55;152;615;Non vérifié
-57058;Behren-lès-Forbach;57;eau potable;63211;2024;79,4;4,9;18,9;68,8;conforme;838610;74917;33;97;6166;Non vérifié
-57059;Bellange;57;eau potable;63311;2024;81,0;3,5;14,8;68,0;conforme;133524;1787;84;86;58;Non vérifié
-57060;Bénestroff;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;20417;108;152;516;Sans anomalie apparente
-57061;Béning-lès-Saint-Avold;57;eau potable;63231;2024;91,7;5,3;58,6;76,7;conforme;394290;15536;39;112;1095;Non vérifié
-57062;Berg-sur-Moselle;57;eau potable;63614;2024;85,5;3,3;19,7;68,9;conforme;65597;648;4;62;461;Non vérifié
-57063;Bérig-Vintrange;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;8309;108;152;210;Sans anomalie apparente
-57064;Berling;57;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;1953;17;48;313;Non vérifié
-57065;Bermering;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;7874;108;152;199;Sans anomalie apparente
-57066;Berthelming;57;eau potable;63205;2024;95,0;0,1;2,7;65,5;conforme;14600;1196;6;14;509;Non vérifié
-57067;Bertrange;57;eau potable;63321;2024;81,4;3,5;15,4;68,1;conforme;146402;25958;24;83;2941;Non vérifié
-57069;Berviller-en-Moselle;57;eau potable;63309;2024;74,9;2,9;8,6;66,7;conforme;212970;7732;46;125;464;Non vérifié
-57070;Bettange;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;4244;48;130;242;Non vérifié
-57071;Bettborn;57;eau potable;63205;2024;95,0;0,1;2,7;65,5;conforme;14600;954;6;14;406;Non vérifié
-57072;Bettelainville;57;eau potable;63314;2024;86,8;1,7;11,5;67,3;conforme;124100;4272;19;55;626;Non vérifié
-57073;Betting;57;eau potable;63231;2024;91,7;5,3;58,6;76,7;conforme;394290;12173;39;112;858;Non vérifié
-57074;Bettviller;57;eau potable;64040;2024;74,3;2,3;6,7;66,3;conforme;49111;12248;41;125;815;Non vérifié
-57075;Beux;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;2188;20;60;296;Non vérifié
-57076;Beyren-lès-Sierck;57;eau potable;63331;2024;81,8;2,3;10,5;67,1;conforme;37777;6006;30;83;551;Non vérifié
-57077;Bezange-la-Petite;57;eau potable;63351;2024;97,6;0,3;14,4;67,9;conforme;189;189;6;8;92;Non vérifié
-57079;Bibiche;57;eau potable;63309;2024;74,9;2,9;8,6;66,7;conforme;212970;7082;46;125;425;Non vérifié
-57080;Bickenholtz;57;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;537;17;48;86;Non vérifié
-57081;Bidestroff;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;4550;108;152;115;Sans anomalie apparente
-57082;Biding;57;eau potable;63214;2024;79,3;1,5;5,9;66,2;conforme;79388;3929;32;93;338;Non vérifié
-57083;Bining;57;eau potable;63224;2024;52,6;7,9;8,8;66,8;non conforme;193195;47471;112;327;1162;Non vérifié
-57084;Bioncourt;57;eau potable;63352;2024;62,0;6,4;10,5;67,1;non conforme;9321;9321;85;222;300;Non vérifié
-57085;Bionville-sur-Nied;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;7946;55;152;393;Non vérifié
-57086;Belles-Forêts;57;eau potable;63205;2024;95,0;0,1;2,7;65,5;conforme;14600;526;6;14;224;Non vérifié
-57087;Bisten-en-Lorraine;57;eau potable;63353;2024;95,6;0,5;11,4;67,3;conforme;438;438;5;16;245;Non vérifié
-57088;Bistroff;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;12622;108;152;319;Sans anomalie apparente
-57089;Bitche;57;eau potable : PERIMETRE BITCHE;63238;2024;82,0;3,3;15,5;68,1;conforme;48505;48505;27;78;4966;Non vérifié
-57090;Blanche-Église;57;eau potable;63329;2024;64,5;3,1;5,6;66,1;non conforme;14710;3589;96;201;102;Non vérifié
-57091;Bliesbruck;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;25355;72;167;961;Non vérifié
-57092;Blies-Ébersing;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;16279;72;167;617;Non vérifié
-57093;Blies-Guersviller;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;17176;72;167;651;Non vérifié
-57095;Boucheporn;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;9838;48;130;561;Non vérifié
-57096;Boulange;57;eau potable;63318;2024;79,2;4,3;16,2;68,2;conforme;667038;28803;33;97;2427;Non vérifié
-57097;Boulay-Moselle;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;95295;48;130;5434;Non vérifié
-57098;Bourgaltroff;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;8744;108;152;221;Sans anomalie apparente
-57099;Bourdonnay;57;eau potable;63223;2024;92,3;0,6;7,5;66,5;conforme;22995;3454;38;35;248;Non vérifié
-57100;Bourscheid;57;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;1079;17;48;173;Non vérifié
-57101;Bousbach;57;eau potable;63211;2024;79,4;4,9;18,9;68,8;conforme;838610;14325;33;97;1179;Non vérifié
-57102;Bousse;57;eau potable;63321;2024;81,4;3,5;15,4;68,1;conforme;146402;28562;24;83;3236;Non vérifié
-57103;Bousseviller;57;eau potable;63213;2024;55,6;3,1;3,9;65,8;non conforme;8746;3324;80;288;114;Non vérifié
-57104;Boust;57;eau potable;63355;2023;88,5;1,7;12,9;67,6;conforme;6273;6273;15;48;1157;Sans anomalie apparente
-57105;Boustroff;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;3073;55;152;152;Non vérifié
-57106;Bouzonville;57;eau potable;63309;2024;74,9;2,9;8,6;66,7;conforme;212970;62008;46;125;3721;Non vérifié
-57107;Bréhain;57;eau potable;63311;2024;81,0;3,5;14,8;68,0;conforme;133524;2989;84;86;97;Non vérifié
-57108;Breidenbach;57;eau potable;63229;2024;65,6;2,1;4,0;65,8;non conforme;76650;9956;88;193;309;Non vérifié
-57109;Breistroff-la-Grande;57;eau potable;63333;2024;87,1;1,8;12,4;67,5;conforme;17450;6194;19;53;876;Non vérifié
-57110;Brettnach;57;eau potable;63309;2024;74,9;2,9;8,6;66,7;conforme;212970;7149;46;125;429;Non vérifié
-57111;Bronvaux;57;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;9374;51;139;503;Non vérifié
-57112;Brouck;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;1403;48;130;80;Non vérifié
-57113;Brouderdorff;57;eau potable;63240;2024;83,5;2,9;14,7;67,9;conforme;6467;6467;18;72;987;Non vérifié
-57114;Brouviller;57;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;2570;17;48;412;Non vérifié
-57115;Brulange;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;2002;55;152;99;Non vérifié
-57116;Buchy;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;747;20;60;101;Non vérifié
-57117;Buding;57;eau potable;63314;2024;86,8;1,7;11,5;67,3;conforme;124100;3835;19;55;562;Non vérifié
-57118;Budling;57;eau potable : SYNDICAT EAUX DE KIRSCHNAUMEN;63322;2024;72,9;2,5;6,6;66,3;conforme;82536;2474;41;138;165;Non vérifié
-57119;Buhl-Lorraine;57;eau potable;63242;2024;100,0;0,0;9,7;66,9;conforme;0;0;0;0;1204;Non vérifié
-57120;Burlioncourt;57;eau potable;63311;2024;81,0;3,5;14,8;68,0;conforme;133524;4006;84;86;130;Non vérifié
-57121;Burtoncourt;57;eau potable : BURTONCOURT;63356;2024;62,5;4,8;7,9;66,6;non conforme;7008;7008;84;221;228;Non vérifié
-57122;Cappel;57;eau potable;63206;2024;86,5;1,5;9,9;67,0;conforme;44348;3068;12;56;676;Non vérifié
-57123;Carling;57;eau potable;63231;2024;91,7;5,3;58,6;76,7;conforme;394290;46692;39;112;3291;Non vérifié
-57124;Cattenom;57;eau potable;63614;2024;85,5;3,3;19,7;68,9;conforme;65597;3624;4;62;2580;Non vérifié
-57125;Chailly-lès-Ennery;57;eau potable;63314;2024;86,8;1,7;11,5;67,3;conforme;124100;2689;19;55;394;Non vérifié
-57126;Chambrey;57;eau potable;63358;2024;86,0;0,8;5,2;66,0;conforme;2473;2473;21;56;317;Non vérifié
-57127;Chanville;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;2972;55;152;147;Non vérifié
-57128;Charleville-sous-Bois;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;2886;28;62;284;Non vérifié
-57129;Charly-Oradour;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;8233;28;62;810;Non vérifié
-57130;Château-Bréhain;57;eau potable;63311;2024;81,0;3,5;14,8;68,0;conforme;133524;2126;84;86;69;Non vérifié
-57131;Château-Rouge;57;eau potable;63309;2024;74,9;2,9;8,6;66,7;conforme;212970;4933;46;125;296;Non vérifié
-57132;Château-Salins;57;eau potable;63311;2024;81,0;3,5;14,8;68,0;conforme;133524;70753;84;86;2296;Non vérifié
-57133;Château-Voué;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;4471;108;152;113;Sans anomalie apparente
-57134;Châtel-Saint-Germain;57;eau potable : ancien périmètre MONTIGNY-LES-METZ;63328;2024;74,6;8,6;25,3;70,1;conforme;877037;36753;54;130;1880;Non vérifié
-57136;Chémery-les-Deux;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;10469;48;130;597;Non vérifié
-57137;Cheminot;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;6158;20;60;833;Non vérifié
-57138;Chenois;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;1597;55;152;79;Non vérifié
-57139;Chérisey;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;2070;20;60;280;Non vérifié
-57140;Chesny;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;4088;20;60;553;Non vérifié
-57141;Chicourt;57;eau potable;63311;2024;81,0;3,5;14,8;68,0;conforme;133524;2712;84;86;88;Non vérifié
-57142;Chieulles;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;4147;28;62;408;Non vérifié
-57143;Clouange;57;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;71264;51;139;3824;Non vérifié
-57144;Cocheren;57;eau potable;63231;2024;91,7;5,3;58,6;76,7;conforme;394290;47642;39;112;3358;Non vérifié
-57145;Coincy;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;3395;28;62;334;Non vérifié
-57146;Coin-lès-Cuvry;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;6091;20;60;824;Non vérifié
-57147;Coin-sur-Seille;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;2499;20;60;338;Non vérifié
-57148;Colligny-Maizery;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;11404;55;152;564;Non vérifié
-57149;Colmen;57;eau potable;63309;2024;74,9;2,9;8,6;66,7;conforme;212970;3450;46;125;207;Non vérifié
-57150;Condé-Northen;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;12925;48;130;737;Non vérifié
-57151;Conthil;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;5856;108;152;148;Sans anomalie apparente
-57152;Contz-les-Bains;57;eau potable;63359;2024;95,4;0,6;11,9;67,4;conforme;1040;1040;5;18;548;Non vérifié
-57153;Corny-sur-Moselle;57;eau potable;63361;2024;91,8;1,5;16,7;68,3;conforme;10112;10112;13;34;2168;Non vérifié
-57154;Coume;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;10399;48;130;593;Non vérifié
-57155;Courcelles-Chaussy;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;60780;55;152;3006;Non vérifié
-57156;Courcelles-sur-Nied;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;24142;55;152;1194;Non vérifié
-57158;Craincourt;57;eau potable;63363;2024;92,0;0,7;8,2;66,6;conforme;818;818;10;31;226;Non vérifié
-57159;Créhange;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;74631;55;152;3691;Non vérifié
-57160;Creutzwald;57;eau potable;132052;2024;90,5;2,1;20,0;69,0;conforme;72818;72818;16;39;12254;Non vérifié
-57161;Cutting;57;eau potable;63205;2024;95,0;0,1;2,7;65,5;conforme;14600;226;6;14;96;Non vérifié
-57162;Cuvry;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;8102;20;60;1096;Non vérifié
-57163;Dabo;57;eau potable;63243;2024;77,0;1,4;4,7;65,9;conforme;30660;30660;36;109;2361;Non vérifié
-57165;Dalem;57;eau potable;63309;2024;74,9;2,9;8,6;66,7;conforme;212970;11582;46;125;695;Non vérifié
-57166;Dalhain;57;eau potable;63311;2024;81,0;3,5;14,8;68,0;conforme;133524;2989;84;86;97;Non vérifié
-57167;Dalstein;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;6594;48;130;376;Non vérifié
-57168;Danne-et-Quatre-Vents;57;eau potable;63245;2024;95,7;0,3;7,5;66,5;conforme;1312;1312;5;15;670;Non vérifié
-57169;Dannelbourg;57;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;3151;17;48;505;Non vérifié
-57171;Delme;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;23576;55;152;1166;Non vérifié
-57172;Denting;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;4700;48;130;268;Non vérifié
-57173;Desseling;57;eau potable;63223;2024;92,3;0,6;7,5;66,5;conforme;22995;1351;38;35;97;Non vérifié
-57174;Destry;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;4550;108;152;115;Sans anomalie apparente
-57175;Diane-Capelle;57;eau potable;63218;2024;43,6;6,2;4,8;66,0;non conforme;90520;26024;282;469;253;Non vérifié
-57176;Diebling;57;eau potable;63211;2024;79,4;4,9;18,9;68,8;conforme;838610;20145;33;97;1658;Non vérifié
-57177;Dieuze;57;eau potable;63365;2024;72,6;11,6;30,7;71,1;conforme;106273;106273;105;195;2770;Non vérifié
-57178;Diffembach-lès-Hellimer;57;eau potable;63214;2024;79,3;1,5;5,9;66,2;conforme;79388;4173;32;93;359;Non vérifié
-57179;Distroff;57;eau potable;63314;2024;86,8;1,7;11,5;67,3;conforme;124100;12476;19;55;1828;Non vérifié
-57180;Dolving;57;eau potable;63205;2024;95,0;0,1;2,7;65,5;conforme;14600;808;6;14;344;Non vérifié
-57181;Domnom-lès-Dieuze;57;eau potable;63205;2024;95,0;0,1;2,7;65,5;conforme;14600;235;6;14;100;Non vérifié
-57182;Donjeux;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;1860;55;152;92;Non vérifié
-57183;Donnelay;57;eau potable;63367;2023;54,8;8,0;9,7;66,9;non conforme;29200;29200;415;301;193;Sans anomalie apparente
-57186;Ébersviller;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;16888;48;130;963;Non vérifié
-57187;Éblange;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;6313;48;130;360;Non vérifié
-57188;Éguelshardt;57;eau potable;63247;2024;79,2;1,1;4,1;65,8;conforme;6838;6838;43;99;440;Non vérifié
-57189;Eincheville;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;8547;108;152;216;Sans anomalie apparente
-57190;Elvange;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;8472;55;152;419;Non vérifié
-57191;Elzange;57;eau potable;63314;2024;86,8;1,7;11,5;67,3;conforme;124100;4545;19;55;666;Non vérifié
-57192;Enchenberg;57;eau potable;132041;2024;81,3;2,1;8,9;66,8;conforme;11498;11498;26;86;1206;Non vérifié
-57193;Ennery;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;23600;28;62;2322;Non vérifié
-57194;Entrange;57;eau potable;63369;2024;60,7;2,2;39,0;72,8;non conforme;7620;7620;17;55;1218;Non vérifié
-57195;Epping;57;eau potable;63229;2024;65,6;2,1;4,0;65,8;non conforme;76650;18430;88;193;572;Non vérifié
-57196;Erching;57;eau potable;64040;2024;74,3;2,3;6,7;66,3;conforme;49111;6282;41;125;418;Non vérifié
-57197;Ernestviller;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;13271;72;167;503;Non vérifié
-57198;Erstroff;57;eau potable;63214;2024;79,3;1,5;5,9;66,2;conforme;79388;2174;32;93;187;Non vérifié
-57199;Escherange;57;eau potable;63318;2024;79,2;4,3;16,2;68,2;conforme;667038;8224;33;97;693;Non vérifié
-57200;Les Étangs;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;8512;55;152;421;Non vérifié
-57201;Etting;57;eau potable;63217;2024;64,7;5,5;10,1;67,0;non conforme;57214;27453;105;199;714;Non vérifié
-57202;Etzling;57;eau potable;63211;2024;79,4;4,9;18,9;68,8;conforme;838610;13802;33;97;1136;Non vérifié
-57203;Évrange;57;eau potable;63308;2023;97,5;0,3;11,3;67,3;conforme;1767;376;4;10;246;Sans anomalie apparente
-57204;Failly;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;5407;28;62;532;Non vérifié
-57205;Falck;57;eau potable;63372;2023;53,2;11,7;13,4;67,7;non conforme;97581;97581;108;320;2482;Sans anomalie apparente
-57206;Fameck;57;eau potable : Commune de FAMECK - UCKANGE;63373;2024;83,9;5,3;27,6;70,5;conforme;177103;120088;22;70;14788;Non vérifié
-57207;Farébersviller;57;eau potable : principal;63208;2024;87,7;3,4;24,4;69,9;conforme;52110;52110;27;51;5224;Non vérifié
-57208;Farschviller;57;eau potable;63228;2024;71,1;3,1;7,7;66,5;conforme;67890;19095;40;147;1318;Non vérifié
-57209;Faulquemont;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;103302;55;152;5109;Non vérifié
-57210;Fénétrange;57;eau potable;63205;2024;95,0;0,1;2,7;65,5;conforme;14600;1501;6;14;639;Non vérifié
-57211;Fèves;57;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;22233;51;139;1193;Non vérifié
-57212;Féy;57;eau potable : ancien périmètre MONTIGNY-LES-METZ;63328;2024;74,6;8,6;25,3;70,1;conforme;877037;14740;54;130;754;Non vérifié
-57213;Filstroff;57;eau potable;63309;2024;74,9;2,9;8,6;66,7;conforme;212970;12965;46;125;778;Non vérifié
-57214;Fixem;57;eau potable;63614;2024;85,5;3,3;19,7;68,9;conforme;65597;558;4;62;397;Non vérifié
-57215;Flastroff;57;eau potable;63309;2024;74,9;2,9;8,6;66,7;conforme;212970;6216;46;125;373;Non vérifié
-57216;Fleisheim;57;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;842;17;48;135;Non vérifié
-57217;Flétrange;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;17692;55;152;875;Non vérifié
-57218;Fleury;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;9432;20;60;1276;Non vérifié
-57219;Flévy;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;6119;28;62;602;Non vérifié
-57220;Flocourt;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;998;20;60;135;Non vérifié
-57221;Florange;57;eau potable : Ancien périmètre du SIEA Florange et Seremange-Erzange;63315;2024;72,1;8,7;22,6;69,5;conforme;371819;274766;63;163;12035;Non vérifié
-57222;Folkling;57;eau potable;63211;2024;79,4;4,9;18,9;68,8;conforme;838610;17144;33;97;1411;Non vérifié
-57224;Folschviller;57;eau potable : commune de Folschviller et Valmont;63210;2024;83,4;4,0;19,9;69,0;conforme;110011;50386;35;85;3916;Non vérifié
-57225;Fonteny;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;2891;55;152;143;Non vérifié
-57226;Fontoy;57;eau potable;63318;2024;79,2;4,3;16,2;68,2;conforme;667038;37788;33;97;3184;Non vérifié
-57227;Forbach;57;eau potable;63211;2024;79,4;4,9;18,9;68,8;conforme;838610;248991;33;97;20493;Non vérifié
-57228;Fossieux;57;eau potable;164178;2024;76,3;2,5;7,9;66,6;conforme;193450;3168;47;128;186;Non vérifié
-57229;Foulcrey;57;eau potable;63220;2024;90,6;1,0;9,6;66,9;conforme;67416;1344;23;38;162;Non vérifié
-57230;Fouligny;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;3882;55;152;192;Non vérifié
-57231;Foville;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;2062;55;152;102;Non vérifié
-57232;Francaltroff;57;eau potable;63214;2024;79,3;1,5;5,9;66,2;conforme;79388;8718;32;93;750;Non vérifié
-57233;Fraquelfing;57;eau potable;63220;2024;90,6;1,0;9,6;66,9;conforme;67416;681;23;38;82;Non vérifié
-57234;Frauenberg;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;15910;72;167;603;Non vérifié
-57235;Freistroff;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;17537;48;130;1000;Non vérifié
-57236;Frémery;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;1759;55;152;87;Non vérifié
-57237;Frémestroff;57;eau potable;63214;2024;79,3;1,5;5,9;66,2;conforme;79388;3533;32;93;304;Non vérifié
-57238;Fresnes-en-Saulnois;57;eau potable;63311;2024;81,0;3,5;14,8;68,0;conforme;133524;5886;84;86;191;Non vérifié
-57239;Freybouse;57;eau potable;63214;2024;79,3;1,5;5,9;66,2;conforme;79388;4905;32;93;422;Non vérifié
-57240;Freyming-Merlebach;57;eau potable;63231;2024;91,7;5,3;58,6;76,7;conforme;394290;188214;39;112;13266;Non vérifié
-57241;Fribourg;57;eau potable;63223;2024;92,3;0,6;7,5;66,5;conforme;22995;2215;38;35;159;Non vérifié
-57242;Gandrange;57;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;56486;51;139;3031;Non vérifié
-57244;Garrebourg;57;eau potable;63248;2024;86,2;1,7;10,7;67,1;conforme;3102;3102;18;58;485;Non vérifié
-57245;Gavisse;57;eau potable;63614;2024;85,5;3,3;19,7;68,9;conforme;65597;846;4;62;602;Non vérifié
-57246;Gelucourt;57;eau potable;63374;2024;81,8;1,6;7,1;66,4;conforme;2628;2628;35;82;204;Non vérifié
-57247;Gerbécourt;57;eau potable;63376;2024;76,5;3,9;12,5;67,5;conforme;1566;1566;50;114;85;Non vérifié
-57248;Givrycourt;57;eau potable;63335;2024;79,6;2,3;8,8;66,8;conforme;42470;2046;59;95;95;Non vérifié
-57249;Glatigny;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;2602;28;62;256;Non vérifié
-57250;Goetzenbruck;57;eau potable;63250;2023;86,0;2,2;13,2;67,6;conforme;13490;13490;25;61;1484;Sans anomalie apparente
-57251;Goin;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;2632;20;60;356;Non vérifié
-57252;Gomelange;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;8347;48;130;476;Non vérifié
-57253;Gondrexange;57;eau potable;63220;2024;90,6;1,0;9,6;66,9;conforme;67416;4175;23;38;503;Non vérifié
-57254;Gorze;57;eau potable;63377;2024;94,8;4,2;76,3;80,3;conforme;6132;6132;15;20;1120;Non vérifié
-57255;Gosselming;57;eau potable;63205;2024;95,0;0,1;2,7;65,5;conforme;14600;1344;6;14;572;Non vérifié
-57256;Gravelotte;57;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;15226;51;139;817;Non vérifié
-57257;Grémecey;57;eau potable;63379;2024;89,2;3,8;31,6;71,3;conforme;1387;1387;38;44;100;Non vérifié
-57258;Gréning;57;eau potable;63214;2024;79,3;1,5;5,9;66,2;conforme;79388;1313;32;93;113;Non vérifié
-57259;Grindorff-Bizing;57;eau potable;63381;2024;99,1;0,1;9,3;66,9;conforme;166;166;1;4;314;Non vérifié
-57260;Grosbliederstroff;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;88281;72;167;3346;Non vérifié
-57261;Gros-Réderching;57;eau potable;63224;2024;52,6;7,9;8,8;66,8;non conforme;193195;51720;112;327;1266;Non vérifié
-57262;Grostenquin;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;23899;108;152;604;Sans anomalie apparente
-57263;Grundviller;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;17783;72;167;674;Non vérifié
-57264;Guebenhouse;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;11002;72;167;417;Non vérifié
-57265;Guébestroff;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;2295;108;152;58;Sans anomalie apparente
-57266;Guéblange-lès-Dieuze;57;eau potable;63383;2024;73,1;1,5;4,1;65,8;conforme;2190;2190;40;133;150;Non vérifié
-57267;Le Val-de-Guéblange;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;20817;72;167;789;Non vérifié
-57268;Guébling;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;4946;108;152;125;Sans anomalie apparente
-57269;Guénange;57;eau potable;63321;2024;81,4;3,5;15,4;68,1;conforme;146402;71343;24;83;8083;Non vérifié
-57270;Val-de-Bride;57;eau potable;63419;2024;28,2;24,1;9,5;66,9;non conforme;68613;68613;368;930;511;Non vérifié
-57271;Guenviller;57;eau potable;63206;2024;86,5;1,5;9,9;67,0;conforme;44348;3086;12;56;680;Non vérifié
-57272;Guermange;57;eau potable;63223;2024;92,3;0,6;7,5;66,5;conforme;22995;1323;38;35;95;Non vérifié
-57273;Guerstling;57;eau potable;63309;2024;74,9;2,9;8,6;66,7;conforme;212970;5999;46;125;360;Non vérifié
-57274;Guerting;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;15187;48;130;866;Non vérifié
-57275;Guessling-Hémering;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;18703;55;152;925;Non vérifié
-57276;Guinglange;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;6511;55;152;322;Non vérifié
-57277;Guinkirchen;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;2473;48;130;141;Non vérifié
-57278;Guinzeling;57;eau potable;63205;2024;95,0;0,1;2,7;65,5;conforme;14600;143;6;14;61;Non vérifié
-57280;Guntzviller;57;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;2202;17;48;353;Non vérifié
-57281;Haboudange;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;8903;108;152;225;Sans anomalie apparente
-57282;Hagen;57;eau potable;63308;2023;97,5;0,3;11,3;67,3;conforme;1767;591;4;10;387;Sans anomalie apparente
-57283;Hagondange;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;94299;28;62;9278;Non vérifié
-57284;Hallering;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;2002;55;152;99;Non vérifié
-57286;Halstroff;57;eau potable;63385;2024;98,1;0,4;21,0;69,2;conforme;527;527;5;17;288;Non vérifié
-57287;Basse-Ham;57;eau potable : THIONVILLE;132048;2024;75,7;9,6;30,0;71,0;conforme;1219392;48590;57;120;2349;Non vérifié
-57288;Ham-sous-Varsberg;57;eau potable;63336;2024;93,1;1,0;13,6;67,7;conforme;11246;8412;8;27;2888;Non vérifié
-57289;Hambach;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;72978;72;167;2766;Non vérifié
-57290;Hampont;57;eau potable;63311;2024;81,0;3,5;14,8;68,0;conforme;133524;5146;84;86;167;Non vérifié
-57291;Hangviller;57;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;1578;17;48;253;Non vérifié
-57292;Hannocourt;57;eau potable;63307;2024;56,4;4,6;6,0;66,2;non conforme;30222;865;158;281;15;Non vérifié
-57293;Han-sur-Nied;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;5035;55;152;249;Non vérifié
-57294;Hanviller;57;eau potable;63213;2024;55,6;3,1;3,9;65,8;non conforme;8746;5423;80;288;186;Non vérifié
-57295;Haraucourt-sur-Seille;57;eau potable;63324;2024;80,0;2,1;8,5;66,7;conforme;5327;1739;43;90;111;Non vérifié
-57296;Hargarten-aux-Mines;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;18817;48;130;1073;Non vérifié
-57297;Harprich;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;3700;55;152;183;Non vérifié
-57298;Harreberg;57;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;2302;17;48;369;Non vérifié
-57299;Hartzviller;57;eau potable;63220;2024;90,6;1,0;9,6;66,9;conforme;67416;7752;23;38;934;Non vérifié
-57300;Haselbourg;57;eau potable;63254;2024;100,0;0,0;8,6;66,7;conforme;0;0;0;0;295;Non vérifié
-57302;Hattigny;57;eau potable;63220;2024;90,6;1,0;9,6;66,9;conforme;67416;1950;23;38;235;Non vérifié
-57303;Hauconcourt;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;5885;28;62;579;Non vérifié
-57304;Haut-Clocher;57;eau potable;63256;2024;87,1;0,7;4,7;65,9;conforme;2862;2862;23;54;340;Non vérifié
-57305;Havange;57;eau potable;63318;2024;79,2;4,3;16,2;68,2;conforme;667038;5412;33;97;456;Non vérifié
-57306;Hayange;57;eau potable;63318;2024;79,2;4,3;16,2;68,2;conforme;667038;187585;33;97;15806;Non vérifié
-57307;Hayes;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;2551;28;62;251;Non vérifié
-57308;Hazembourg;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;4010;72;167;152;Non vérifié
-57309;Heining-lès-Bouzonville;57;eau potable;63309;2024;74,9;2,9;8,6;66,7;conforme;212970;8116;46;125;487;Non vérifié
-57310;Hellering-lès-Fénétrange;57;eau potable;103990;2024;63,1;3,2;5,5;66,1;non conforme;245280;5141;76;213;186;Non vérifié
-57311;Hellimer;57;eau potable;63214;2024;79,3;1,5;5,9;66,2;conforme;79388;6079;32;93;523;Non vérifié
-57312;Helstroff;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;8435;48;130;481;Non vérifié
-57313;Hémilly;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;2750;55;152;136;Non vérifié
-57314;Héming;57;eau potable;63220;2024;90,6;1,0;9,6;66,9;conforme;67416;4067;23;38;490;Non vérifié
-57315;Henridorff;57;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;4405;17;48;706;Non vérifié
-57316;Henriville;57;eau potable;63228;2024;71,1;3,1;7,7;66,5;conforme;67890;10750;40;147;742;Non vérifié
-57317;Hérange;57;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;649;17;48;104;Non vérifié
-57318;Hermelange;57;eau potable;63220;2024;90,6;1,0;9,6;66,9;conforme;67416;1884;23;38;227;Non vérifié
-57319;Herny;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;10413;55;152;515;Non vérifié
-57320;Hertzing;57;eau potable;63220;2024;90,6;1,0;9,6;66,9;conforme;67416;1436;23;38;173;Non vérifié
-57321;Hesse;57;eau potable;63259;2024;91,1;1,1;11,2;67,2;conforme;2008;2008;10;36;549;Non vérifié
-57322;Hestroff;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;8453;48;130;482;Non vérifié
-57323;Hettange-Grande;57;eau potable;63388;2024;75,5;6,6;20,4;69,1;conforme;125967;125967;44;119;7772;Non vérifié
-57324;Hilbesheim;57;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;3849;17;48;617;Non vérifié
-57325;Hilsprich;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;22347;72;167;847;Non vérifié
-57326;Hinckange;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;5629;48;130;321;Non vérifié
-57328;Holacourt;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;1759;55;152;87;Non vérifié
-57329;Holling;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;7786;48;130;444;Non vérifié
-57330;Holving;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;33455;72;167;1268;Non vérifié
-57331;Hombourg-Budange;57;eau potable;63314;2024;86,8;1,7;11,5;67,3;conforme;124100;3835;19;55;562;Non vérifié
-57332;Hombourg-Haut;57;eau potable;63260;2024;83,6;2,1;10,8;67,2;conforme;40739;40739;19;71;5976;Non vérifié
-57333;Hommarting;57;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;5284;17;48;847;Non vérifié
-57334;Hommert;57;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;1903;17;48;305;Non vérifié
-57335;Honskirch;57;eau potable;63335;2024;79,6;2,3;8,8;66,8;conforme;42470;4587;59;95;213;Non vérifié
-57336;L' Hôpital;57;eau potable;63231;2024;91,7;5,3;58,6;76,7;conforme;394290;73535;39;112;5183;Non vérifié
-57337;Hoste;57;eau potable;63206;2024;86,5;1,5;9,9;67,0;conforme;44348;2550;12;56;562;Non vérifié
-57338;Hottviller;57;eau potable : PERIMETRE HOTTVILLER;63261;2024;81,0;1,9;8,2;66,6;conforme;7129;7129;39;84;504;Non vérifié
-57339;Hultehouse;57;eau potable;63262;2024;83,9;1,9;9,8;67,0;conforme;3148;3148;24;71;360;Non vérifié
-57340;Hundling;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;35328;72;167;1339;Non vérifié
-57341;Hunting;57;eau potable : SYNDICAT EAUX DE KIRSCHNAUMEN;63322;2024;72,9;2,5;6,6;66,3;conforme;82536;10092;41;138;673;Non vérifié
-57342;Ibigny;57;eau potable;63220;2024;90,6;1,0;9,6;66,9;conforme;67416;747;23;38;90;Non vérifié
-57343;Illange;57;eau potable : THIONVILLE;132048;2024;75,7;9,6;30,0;71,0;conforme;1219392;36613;57;120;1770;Non vérifié
-57344;Imling;57;eau potable;63216;2023;66,8;3,6;7,2;66,4;conforme;21392;16614;66;181;685;Sans anomalie apparente
-57345;Inglange;57;eau potable;63314;2024;86,8;1,7;11,5;67,3;conforme;124100;2634;19;55;386;Non vérifié
-57346;Insming;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;23938;108;152;605;Sans anomalie apparente
-57347;Insviller;57;eau potable;63205;2024;95,0;0,1;2,7;65,5;conforme;14600;395;6;14;168;Non vérifié
-57348;Ippling;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;20764;72;167;787;Non vérifié
-57349;Jallaucourt;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;2770;55;152;137;Non vérifié
-57350;Jouy-aux-Arches;57;eau potable : Régie Jouy-aux-Arches;63390;2024;59,8;14,5;21,5;69,3;non conforme;61816;61816;118;246;1430;Non vérifié
-57351;Jury;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;14310;28;62;1408;Non vérifié
-57352;Jussy;57;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;8684;51;139;466;Non vérifié
-57354;Juville;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;2952;55;152;146;Non vérifié
-57355;Kalhausen;57;eau potable;63217;2024;64,7;5,5;10,1;67,0;non conforme;57214;29760;105;199;774;Non vérifié
-57356;Kanfen;57;eau potable : THIONVILLE;132048;2024;75,7;9,6;30,0;71,0;conforme;1219392;25546;57;120;1235;Non vérifié
-57357;Kappelkinger;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;11213;72;167;425;Non vérifié
-57358;Kédange-sur-Canner;57;eau potable;63314;2024;86,8;1,7;11,5;67,3;conforme;124100;7650;19;55;1121;Non vérifié
-57359;Kemplich;57;eau potable : SYNDICAT EAUX DE KIRSCHNAUMEN;63322;2024;72,9;2,5;6,6;66,3;conforme;82536;2714;41;138;181;Non vérifié
-57360;Kerbach;57;eau potable;63211;2024;79,4;4,9;18,9;68,8;conforme;838610;14872;33;97;1224;Non vérifié
-57361;Kerling-lès-Sierck;57;eau potable : SYNDICAT EAUX DE KIRSCHNAUMEN;63322;2024;72,9;2,5;6,6;66,3;conforme;82536;8982;41;138;599;Non vérifié
-57362;Kerprich-aux-Bois;57;eau potable;63216;2023;66,8;3,6;7,2;66,4;conforme;21392;4778;66;181;197;Sans anomalie apparente
-57364;Kirsch-lès-Sierck;57;eau potable : SYNDICAT DES EAUX DU MEINSBERG;63325;2024;86,4;1,3;8,2;66,6;conforme;21827;2304;19;59;328;Non vérifié
-57365;Kirschnaumen;57;eau potable : SYNDICAT EAUX DE KIRSCHNAUMEN;63322;2024;72,9;2,5;6,6;66,3;conforme;82536;7213;41;138;481;Non vérifié
-57366;Kirviller;57;eau potable;63335;2024;79,6;2,3;8,8;66,8;conforme;42470;3058;59;95;142;Non vérifié
-57367;Klang;57;eau potable;63314;2024;86,8;1,7;11,5;67,3;conforme;124100;1420;19;55;208;Non vérifié
-57368;Knutange;57;eau potable;63318;2024;79,2;4,3;16,2;68,2;conforme;667038;37966;33;97;3199;Non vérifié
-57370;Koenigsmacker;57;eau potable;63613;2024;78,9;3,5;13,1;67,6;conforme;40101;30700;38;124;2224;Non vérifié
-57371;Haute-Kontz;57;eau potable;63387;2023;99,3;0,1;13,9;67,8;conforme;226;226;1;3;532;Sans anomalie apparente
-57372;Kuntzig;57;eau potable;63314;2024;86,8;1,7;11,5;67,3;conforme;124100;9275;19;55;1359;Non vérifié
-57373;Lachambre;57;eau potable;63206;2024;86,5;1,5;9,9;67,0;conforme;44348;4111;12;56;906;Non vérifié
-57374;Lafrimbolle;57;eau potable;63220;2024;90,6;1,0;9,6;66,9;conforme;67416;1751;23;38;211;Non vérifié
-57375;Lagarde;57;eau potable;164013;2024;81,3;1,7;7,3;66,5;conforme;59264;3311;51;85;179;Non vérifié
-57376;Lambach;57;eau potable;132079;2024;73,8;2,5;7,0;66,4;conforme;21444;8953;53;131;463;Non vérifié
-57377;Landange;57;eau potable;63220;2024;90,6;1,0;9,6;66,9;conforme;67416;1984;23;38;239;Non vérifié
-57379;Landroff;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;10248;108;152;259;Sans anomalie apparente
-57380;Laneuveville-lès-Lorquin;57;eau potable;63220;2024;90,6;1,0;9,6;66,9;conforme;67416;863;23;38;104;Non vérifié
-57381;Laneuveville-en-Saulnois;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;5763;55;152;285;Non vérifié
-57382;Langatte;57;eau potable;63218;2024;43,6;6,2;4,8;66,0;non conforme;90520;64496;282;469;627;Non vérifié
-57383;Languimberg;57;eau potable;63223;2024;92,3;0,6;7,5;66,5;conforme;22995;2159;38;35;155;Non vérifié
-57384;Laning;57;eau potable;63214;2024;79,3;1,5;5,9;66,2;conforme;79388;6730;32;93;579;Non vérifié
-57385;Laquenexy;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;25376;55;152;1255;Non vérifié
-57386;Laudrefang;57;eau potable : commune de Folschviller et Valmont;63210;2024;83,4;4,0;19,9;69,0;conforme;110011;4310;35;85;335;Non vérifié
-57387;Laumesfeld;57;eau potable : SYNDICAT EAUX DE KIRSCHNAUMEN;63322;2024;72,9;2,5;6,6;66,3;conforme;82536;4169;41;138;278;Non vérifié
-57388;Launstroff;57;eau potable;63323;2024;83,3;1,7;8,5;66,7;conforme;7756;2169;25;73;238;Non vérifié
-57389;Lelling;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;9261;55;152;458;Non vérifié
-57390;Lemberg;57;eau potable;132043;2024;90,0;0,0;14,9;68,0;conforme;0;0;0;0;1428;Non vérifié
-57391;Lemoncourt;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;1153;55;152;57;Non vérifié
-57392;Lemud;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;10433;55;152;516;Non vérifié
-57393;Lengelsheim;57;eau potable;63229;2024;65,6;2,1;4,0;65,8;non conforme;76650;5993;88;193;186;Non vérifié
-57394;Léning;57;eau potable;63214;2024;79,3;1,5;5,9;66,2;conforme;79388;3731;32;93;321;Non vérifié
-57395;Lesse;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;4165;55;152;206;Non vérifié
-57396;Lessy;57;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;14797;51;139;794;Non vérifié
-57397;Ley;57;eau potable;164165;2024;73,4;2,4;6,5;66,3;conforme;104559;2911;73;146;109;Non vérifié
-57398;Leyviller;57;eau potable;63214;2024;79,3;1,5;5,9;66,2;conforme;79388;5835;32;93;502;Non vérifié
-57401;Lidrezing;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;3165;108;152;80;Sans anomalie apparente
-57402;Liederschiedt;57;eau potable;63225;2024;86,3;0,8;4,9;66,0;conforme;2126;1158;27;59;116;Non vérifié
-57403;Liéhon;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;961;20;60;130;Non vérifié
-57404;Lindre-Basse;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;9259;108;152;234;Sans anomalie apparente
-57405;Lindre-Haute;57;eau potable;63396;2024;94,3;0,5;8,3;66,7;conforme;639;639;37;22;47;Non vérifié
-57406;Liocourt;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;2790;55;152;138;Non vérifié
-57407;Lixheim;57;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;3444;17;48;552;Non vérifié
-57408;Lixing-lès-Rouhling;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;21081;72;167;799;Non vérifié
-57409;Lixing-lès-Saint-Avold;57;eau potable;63214;2024;79,3;1,5;5,9;66,2;conforme;79388;7823;32;93;673;Non vérifié
-57410;Lhor;57;eau potable;63205;2024;95,0;0,1;2,7;65,5;conforme;14600;324;6;14;138;Non vérifié
-57411;Lommerange;57;eau potable;63318;2024;79,2;4,3;16,2;68,2;conforme;667038;4510;33;97;380;Non vérifié
-57412;Longeville-lès-Metz;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;41691;28;62;4102;Non vérifié
-57413;Longeville-lès-Saint-Avold;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;72225;55;152;3572;Non vérifié
-57414;Lorquin;57;eau potable;63220;2024;90,6;1,0;9,6;66,9;conforme;67416;9544;23;38;1150;Non vérifié
-57415;Lorry-lès-Metz;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;17482;28;62;1720;Non vérifié
-57416;Lorry-Mardigny;57;eau potable : LORRY-MARDIGNY;63397;2024;96,2;0,7;17,8;68,6;conforme;2131;2131;9;26;683;Non vérifié
-57417;Lostroff;57;eau potable;63205;2024;95,0;0,1;2,7;65,5;conforme;14600;167;6;14;71;Non vérifié
-57418;Loudrefing;57;eau potable;63205;2024;95,0;0,1;2,7;65,5;conforme;14600;681;6;14;290;Non vérifié
-57419;Loupershouse;57;eau potable;63228;2024;71,1;3,1;7,7;66,5;conforme;67890;13097;40;147;904;Non vérifié
-57421;Loutzviller;57;eau potable;63442;2024;52,2;6,0;6,5;66,3;non conforme;23433;4803;88;337;149;Non vérifié
-57422;Louvigny;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;6505;20;60;880;Non vérifié
-57423;Lubécourt;57;eau potable;63311;2024;81,0;3,5;14,8;68,0;conforme;133524;2034;84;86;66;Non vérifié
-57424;Lucy;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;4529;55;152;224;Non vérifié
-57425;Luppy;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;4398;20;60;595;Non vérifié
-57426;Luttange;57;eau potable;63314;2024;86,8;1,7;11,5;67,3;conforme;124100;6709;19;55;983;Non vérifié
-57427;Lutzelbourg;57;eau potable;63269;2024;51,6;7,9;8,4;66,7;non conforme;28172;28172;140;343;551;Non vérifié
-57428;Macheren;57;eau potable;63206;2024;86,5;1,5;9,9;67,0;conforme;44348;12769;12;56;2814;Non vérifié
-57430;Mainvillers;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;6430;55;152;318;Non vérifié
-57431;Maizeroy;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;8290;55;152;410;Non vérifié
-57433;Maizières-lès-Metz;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;117696;28;62;11580;Non vérifié
-57434;Maizières-lès-Vic;57;eau potable;63223;2024;92,3;0,6;7,5;66,5;conforme;22995;6463;38;35;464;Non vérifié
-57436;Malaucourt-sur-Seille;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;2629;55;152;130;Non vérifié
-57437;Malling;57;eau potable;63613;2024;78,9;3,5;13,1;67,6;conforme;40101;9401;38;124;681;Non vérifié
-57438;Malroy;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;3588;28;62;353;Non vérifié
-57439;Manderen-Ritzing;57;eau potable : SYNDICAT DES EAUX DU MEINSBERG;63325;2024;86,4;1,3;8,2;66,6;conforme;21827;4306;19;59;613;Non vérifié
-57440;Manhoué;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;2891;55;152;143;Non vérifié
-57441;Manom;57;eau potable : THIONVILLE;132048;2024;75,7;9,6;30,0;71,0;conforme;1219392;64889;57;120;3137;Non vérifié
-57442;Many;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;5196;55;152;257;Non vérifié
-57443;Marange-Silvange;57;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;121861;51;139;6539;Non vérifié
-57444;Marange-Zondrange;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;7522;55;152;372;Non vérifié
-57445;Marieulles;57;eau potable : ancien périmètre MARIEULLES;63400;2024;94,7;0,7;12,0;67,4;conforme;2059;2059;8;21;700;Non vérifié
-57446;Marimont-lès-Bénestroff;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;2216;108;152;56;Sans anomalie apparente
-57447;Marly;57;eau potable : ancien périmètre MONTIGNY-LES-METZ;63328;2024;74,6;8,6;25,3;70,1;conforme;877037;201083;54;130;10286;Non vérifié
-57448;Marsal;57;eau potable;63324;2024;80,0;2,1;8,5;66,7;conforme;5327;3588;43;90;229;Non vérifié
-57449;Marsilly;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;5915;28;62;582;Non vérifié
-57451;Marthille;57;eau potable;63311;2024;81,0;3,5;14,8;68,0;conforme;133524;5146;84;86;167;Non vérifié
-57452;La Maxe;57;eau potable : ancien périmètre MAXE (LA);63468;2024;94,3;1,0;16,7;68,3;conforme;3365;3365;9;22;1056;Non vérifié
-57453;Maxstadt;57;eau potable;63214;2024;79,3;1,5;5,9;66,2;conforme;79388;3452;32;93;297;Non vérifié
-57454;Mécleuves;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;8841;20;60;1196;Non vérifié
-57455;Mégange;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;2420;48;130;138;Non vérifié
-57456;Meisenthal;57;eau potable;63221;2023;82,2;1,8;8,2;66,6;conforme;19710;7595;33;81;635;Sans anomalie apparente
-57457;Menskirch;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;2473;48;130;141;Non vérifié
-57459;Merschweiller;57;eau potable : SYNDICAT DES EAUX DU MEINSBERG;63325;2024;86,4;1,3;8,2;66,6;conforme;21827;2037;19;59;290;Non vérifié
-57460;Merten;57;eau potable;63401;2024;74,1;4,4;12,7;67,5;conforme;20878;20878;40;127;1444;Non vérifié
-57461;Métairies-Saint-Quirin;57;eau potable;63220;2024;90,6;1,0;9,6;66,9;conforme;67416;2249;23;38;271;Non vérifié
-57462;Metting;57;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;2558;17;48;410;Non vérifié
-57463;Metz;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;1245785;28;62;122572;Non vérifié
-57464;Metzeresche;57;eau potable;63314;2024;86,8;1,7;11,5;67,3;conforme;124100;6961;19;55;1020;Non vérifié
-57465;Metzervisse;57;eau potable;63314;2024;86,8;1,7;11,5;67,3;conforme;124100;15540;19;55;2277;Non vérifié
-57466;Metzing;57;eau potable;63211;2024;79,4;4,9;18,9;68,8;conforme;838610;8529;33;97;702;Non vérifié
-57467;Mey;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;3141;28;62;309;Non vérifié
-57468;Mittelbronn;57;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;3968;17;48;636;Non vérifié
-57469;Mittersheim;57;eau potable;63205;2024;95,0;0,1;2,7;65,5;conforme;14600;1370;6;14;583;Non vérifié
-57470;Molring;57;eau potable;63205;2024;95,0;0,1;2,7;65,5;conforme;14600;28;6;14;12;Non vérifié
-57471;Momerstroff;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;5226;48;130;298;Non vérifié
-57472;Moncheux;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;2952;55;152;146;Non vérifié
-57473;Moncourt;57;eau potable;63403;2023;100,0;0,0;8,3;66,7;conforme;0;0;0;0;63;Sans anomalie apparente
-57474;Mondelange;57;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;106207;51;139;5699;Non vérifié
-57475;Mondorff;57;eau potable;63331;2024;81,8;2,3;10,5;67,1;conforme;37777;6638;30;83;609;Non vérifié
-57476;Monneren;57;eau potable : SYNDICAT EAUX DE KIRSCHNAUMEN;63322;2024;72,9;2,5;6,6;66,3;conforme;82536;5968;41;138;398;Non vérifié
-57477;Montbronn;57;eau potable;63273;2024;57,4;9,8;13,2;67,6;non conforme;53655;53655;93;271;1578;Non vérifié
-57478;Montdidier;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;3205;108;152;81;Sans anomalie apparente
-57479;Montenach;57;eau potable;63404;2024;97,7;0,2;7,4;66,5;conforme;876;876;5;10;495;Non vérifié
-57480;Montigny-lès-Metz;57;eau potable : ancien périmètre MONTIGNY-LES-METZ;63328;2024;74,6;8,6;25,3;70,1;conforme;877037;424570;54;130;21718;Non vérifié
-57481;Montois-la-Montagne;57;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;50522;51;139;2711;Non vérifié
-57482;Ogy-Montoy-Flanville;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;18356;28;62;1806;Non vérifié
-57483;Morhange;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;130889;108;152;3308;Sans anomalie apparente
-57484;Morsbach;57;eau potable;63211;2024;79,4;4,9;18,9;68,8;conforme;838610;32015;33;97;2635;Non vérifié
-57485;Morville-lès-Vic;57;eau potable;63311;2024;81,0;3,5;14,8;68,0;conforme;133524;3236;84;86;105;Non vérifié
-57486;Morville-sur-Nied;57;eau potable;63307;2024;56,4;4,6;6,0;66,2;non conforme;30222;6979;158;281;121;Non vérifié
-57487;Moulins-lès-Metz;57;eau potable : ancien périmètre MONTIGNY-LES-METZ;63328;2024;74,6;8,6;25,3;70,1;conforme;877037;102927;54;130;5265;Non vérifié
-57488;Moussey;57;eau potable;63274;2022;76,7;3,4;11,2;67,2;conforme;13651;13651;67;111;559;Sans anomalie apparente
-57489;Mouterhouse;57;eau potable;63276;2024;75,6;2,1;6,5;66,3;conforme;5910;5910;60;118;270;Non vérifié
-57490;Moyenvic;57;eau potable;164165;2024;73,4;2,4;6,5;66,3;conforme;104559;8306;73;146;311;Non vérifié
-57491;Moyeuvre-Grande;57;eau potable : MOYEUVRE-GRANDE;63406;2024;72,5;6,7;17,7;68,5;conforme;123424;123424;46;145;7311;Non vérifié
-57492;Moyeuvre-Petite;57;eau potable : MOYEUVRE-PETITE;63407;2024;99,1;0,2;18,4;68,7;conforme;174;174;1;4;442;Non vérifié
-57493;Mulcey;57;eau potable;63329;2024;64,5;3,1;5,6;66,1;non conforme;14710;7355;96;201;209;Non vérifié
-57494;Munster;57;eau potable;63335;2024;79,6;2,3;8,8;66,8;conforme;42470;5104;59;95;237;Non vérifié
-57495;Narbéfontaine;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;2017;48;130;115;Non vérifié
-57496;Nébing;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;12978;108;152;328;Sans anomalie apparente
-57497;Nelling;57;eau potable;63214;2024;79,3;1,5;5,9;66,2;conforme;79388;3092;32;93;266;Non vérifié
-57498;Neufchef;57;eau potable;63318;2024;79,2;4,3;16,2;68,2;conforme;667038;31450;33;97;2650;Non vérifié
-57499;Neufgrange;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;35988;72;167;1364;Non vérifié
-57500;Neufmoulins;57;eau potable;63220;2024;90,6;1,0;9,6;66,9;conforme;67416;282;23;38;34;Non vérifié
-57501;Neufvillage;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;1939;108;152;49;Sans anomalie apparente
-57502;Neunkirchen-lès-Bouzonville;57;eau potable;63309;2024;74,9;2,9;8,6;66,7;conforme;212970;5416;46;125;325;Non vérifié
-57504;Niderhoff;57;eau potable;63220;2024;90,6;1,0;9,6;66,9;conforme;67416;2316;23;38;279;Non vérifié
-57505;Niderviller;57;eau potable;63277;2024;68,1;4,5;9,7;66,9;conforme;20975;20975;50;169;1138;Non vérifié
-57506;Niederstinzel;57;eau potable;63205;2024;95,0;0,1;2,7;65,5;conforme;14600;552;6;14;235;Non vérifié
-57507;Niedervisse;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;4893;48;130;279;Non vérifié
-57508;Nilvange;57;eau potable;63318;2024;79,2;4,3;16,2;68,2;conforme;667038;51519;33;97;4341;Non vérifié
-57509;Nitting;57;eau potable;63220;2024;90,6;1,0;9,6;66,9;conforme;67416;4390;23;38;529;Non vérifié
-57510;Noisseville;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;11272;28;62;1109;Non vérifié
-57511;Norroy-le-Veneur;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;10093;28;62;993;Non vérifié
-57512;Nouilly;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;7308;28;62;719;Non vérifié
-57513;Nousseviller-lès-Bitche;57;eau potable;63229;2024;65,6;2,1;4,0;65,8;non conforme;76650;4833;88;193;150;Non vérifié
-57514;Nousseviller-Saint-Nabor;57;eau potable;63211;2024;79,4;4,9;18,9;68,8;conforme;838610;14361;33;97;1182;Non vérifié
-57515;Novéant-sur-Moselle;57;eau potable : NOVEANT-SUR-MOSELLE;63408;2024;92,0;1,4;16,5;68,3;conforme;7231;7231;11;31;1844;Non vérifié
-57516;Oberdorff;57;eau potable;63309;2024;74,9;2,9;8,6;66,7;conforme;212970;5483;46;125;329;Non vérifié
-57517;Obergailbach;57;eau potable;63278;2024;65,7;4,1;7,9;66,6;non conforme;7482;7482;76;190;268;Non vérifié
-57518;Oberstinzel;57;eau potable;63205;2024;95,0;0,1;2,7;65,5;conforme;14600;742;6;14;316;Non vérifié
-57519;Obervisse;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;2701;48;130;154;Non vérifié
-57520;Obreck;57;eau potable;63311;2024;81,0;3,5;14,8;68,0;conforme;133524;1233;84;86;40;Non vérifié
-57521;OEting;57;eau potable;63211;2024;79,4;4,9;18,9;68,8;conforme;838610;31578;33;97;2599;Non vérifié
-57524;Ommeray;57;eau potable;164165;2024;73,4;2,4;6,5;66,3;conforme;104559;3392;73;146;127;Non vérifié
-57525;Oriocourt;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;1112;55;152;55;Non vérifié
-57526;Ormersviller;57;eau potable;63229;2024;65,6;2,1;4,0;65,8;non conforme;76650;12404;88;193;385;Non vérifié
-57527;Orny;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;3312;20;60;448;Non vérifié
-57528;Oron;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;2244;55;152;111;Non vérifié
-57529;Ottange;57;eau potable;63318;2024;79,2;4,3;16,2;68,2;conforme;667038;35129;33;97;2960;Non vérifié
-57530;Ottonville;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;8137;48;130;464;Non vérifié
-57531;Oudrenne;57;eau potable : SYNDICAT EAUX DE KIRSCHNAUMEN;63322;2024;72,9;2,5;6,6;66,3;conforme;82536;10857;41;138;724;Non vérifié
-57532;Pagny-lès-Goin;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;1663;20;60;225;Non vérifié
-57533;Pange;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;17571;55;152;869;Non vérifié
-57534;Peltre;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;18193;28;62;1790;Non vérifié
-57535;Petit-Réderching;57;eau potable;64040;2024;74,3;2,3;6,7;66,3;conforme;49111;21294;41;125;1417;Non vérifié
-57536;Petit-Tenquin;57;eau potable;63214;2024;79,3;1,5;5,9;66,2;conforme;79388;2522;32;93;217;Non vérifié
-57537;Petite-Rosselle;57;eau potable;63211;2024;79,4;4,9;18,9;68,8;conforme;838610;74978;33;97;6171;Non vérifié
-57538;Pettoncourt;57;eau potable;63409;2024;84,7;1,6;9,0;66,8;conforme;1635;1635;15;65;296;Non vérifié
-57539;Pévange;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;1583;108;152;40;Sans anomalie apparente
-57540;Phalsbourg;57;eau potable;63279;2024;80,7;3,9;16,5;68,3;conforme;61751;61751;36;99;4688;Non vérifié
-57541;Philippsbourg;57;eau potable;132044;2024;76,5;1,8;5,8;66,2;conforme;10512;10512;47;113;613;Non vérifié
-57542;Piblange;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;16537;48;130;943;Non vérifié
-57543;Pierrevillers;57;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;26892;51;139;1443;Non vérifié
-57544;Plaine-de-Walsch;57;eau potable;63281;2024;77,5;2,3;8,0;66,6;conforme;6716;6716;31;106;601;Non vérifié
-57545;Plappeville;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;20602;28;62;2027;Non vérifié
-57546;Plesnois;57;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;14387;51;139;772;Non vérifié
-57547;Pommérieux;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;5581;20;60;755;Non vérifié
-57548;Pontoy;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;4531;20;60;613;Non vérifié
-57549;Pontpierre;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;14861;55;152;735;Non vérifié
-57550;Porcelette;57;eau potable : commune de Porcelette;63282;2024;96,4;0,5;12,6;67,5;conforme;4006;4006;5;15;2397;Non vérifié
-57551;Postroff;57;eau potable;103990;2024;63,1;3,2;5,5;66,1;non conforme;245280;5417;76;213;196;Non vérifié
-57552;Pouilly;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;7119;20;60;963;Non vérifié
-57553;Pournoy-la-Chétive;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;4509;20;60;610;Non vérifié
-57554;Pournoy-la-Grasse;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;5670;20;60;767;Non vérifié
-57555;Prévocourt;57;eau potable;63307;2024;56,4;4,6;6,0;66,2;non conforme;30222;6056;158;281;105;Non vérifié
-57556;Puttelange-aux-Lacs;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;79574;72;167;3016;Non vérifié
-57557;Puttelange-lès-Thionville;57;eau potable;63331;2024;81,8;2,3;10,5;67,1;conforme;37777;11216;30;83;1029;Non vérifié
-57558;Puttigny;57;eau potable;63311;2024;81,0;3,5;14,8;68,0;conforme;133524;2311;84;86;75;Non vérifié
-57559;Puzieux;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;3377;55;152;167;Non vérifié
-57560;Racrange;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;24571;108;152;621;Sans anomalie apparente
-57561;Rahling;57;eau potable;63222;2024;86,0;1,4;8,7;66,7;conforme;13787;7043;27;59;707;Non vérifié
-57562;Ranguevaux;57;eau potable : Commune de RANGUEVAUX;63410;2024;88,5;8,5;65,0;78,0;conforme;15947;15947;48;186;907;Non vérifié
-57563;Raville;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;6672;55;152;330;Non vérifié
-57564;Réchicourt-le-Château;57;eau potable;63220;2024;90,6;1,0;9,6;66,9;conforme;67416;4565;23;38;550;Non vérifié
-57565;Rédange;57;eau potable : Rédange;63411;2024;39,7;18,1;11,9;67,4;non conforme;62762;62762;170;555;1014;Non vérifié
-57566;Réding;57;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;14225;17;48;2280;Non vérifié
-57567;Rémelfang;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;2578;48;130;147;Non vérifié
-57568;Rémelfing;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;34431;72;167;1305;Non vérifié
-57569;Rémeling;57;eau potable : SYNDICAT EAUX DE KIRSCHNAUMEN;63322;2024;72,9;2,5;6,6;66,3;conforme;82536;4934;41;138;329;Non vérifié
-57570;Rémering;57;eau potable;63309;2024;74,9;2,9;8,6;66,7;conforme;212970;7016;46;125;421;Non vérifié
-57571;Rémering-lès-Puttelange;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;27703;72;167;1050;Non vérifié
-57572;Rémilly;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;41855;55;152;2070;Non vérifié
-57573;Réning;57;eau potable;63214;2024;79,3;1,5;5,9;66,2;conforme;79388;1476;32;93;127;Non vérifié
-57574;Basse-Rentgen;57;eau potable;63308;2023;97,5;0,3;11,3;67,3;conforme;1767;800;4;10;524;Sans anomalie apparente
-57575;Retonfey;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;13487;28;62;1327;Non vérifié
-57576;Rettel;57;eau potable;63412;2024;97,5;0,4;15,4;68,1;conforme;1178;1178;4;9;869;Non vérifié
-57577;Reyersviller;57;eau potable;63284;2021;58,7;4,6;6,5;66,3;non conforme;12089;12089;87;259;380;Sans anomalie apparente
-57578;Rezonville-Vionville;57;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;9635;51;139;517;Non vérifié
-57579;Rhodes;57;eau potable;63223;2024;92,3;0,6;7,5;66,5;conforme;22995;1755;38;35;126;Non vérifié
-57580;Riche;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;7122;108;152;180;Sans anomalie apparente
-57581;Richeling;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;9155;72;167;347;Non vérifié
-57582;Richemont;57;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;40533;51;139;2175;Non vérifié
-57583;Richeval;57;eau potable;63220;2024;90,6;1,0;9,6;66,9;conforme;67416;921;23;38;111;Non vérifié
-57584;Rimling;57;eau potable;64040;2024;74,3;2,3;6,7;66,3;conforme;49111;9287;41;125;618;Non vérifié
-57586;Rochonvillers;57;eau potable;63318;2024;79,2;4,3;16,2;68,2;conforme;667038;2552;33;97;215;Non vérifié
-57587;Rodalbe;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;9734;108;152;246;Sans anomalie apparente
-57588;Rodemack;57;eau potable;63331;2024;81,8;2,3;10,5;67,1;conforme;37777;13919;30;83;1277;Non vérifié
-57589;Rohrbach-lès-Bitche;57;eau potable;63224;2024;52,6;7,9;8,8;66,8;non conforme;193195;94003;112;327;2301;Non vérifié
-57590;Rolbing;57;eau potable;63442;2024;52,2;6,0;6,5;66,3;non conforme;23433;8348;88;337;259;Non vérifié
-57591;Rombas;57;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;174638;51;139;9371;Non vérifié
-57592;Romelfing;57;eau potable;63205;2024;95,0;0,1;2,7;65,5;conforme;14600;771;6;14;328;Non vérifié
-57593;Roncourt;57;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;19717;51;139;1058;Non vérifié
-57594;Roppeviller;57;eau potable;63225;2024;86,3;0,8;4,9;66,0;conforme;2126;968;27;59;97;Non vérifié
-57595;Rorbach-lès-Dieuze;57;eau potable;63205;2024;95,0;0,1;2,7;65,5;conforme;14600;113;6;14;48;Non vérifié
-57596;Rosbruck;57;eau potable;63231;2024;91,7;5,3;58,6;76,7;conforme;394290;10499;39;112;740;Non vérifié
-57597;Rosselange;57;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;44428;51;139;2384;Non vérifié
-57598;Rouhling;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;52267;72;167;1981;Non vérifié
-57599;Roupeldange;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;5717;48;130;326;Non vérifié
-57600;Roussy-le-Village;57;eau potable;63333;2024;87,1;1,8;12,4;67,5;conforme;17450;11256;19;53;1592;Non vérifié
-57601;Rozérieulles;57;eau potable : ROZERIEULLES;63610;2024;59,1;10,0;14,4;67,9;non conforme;40916;40916;84;253;1334;Non vérifié
-57602;Rurange-lès-Thionville;57;eau potable;63321;2024;81,4;3,5;15,4;68,1;conforme;146402;20539;24;83;2327;Non vérifié
-57603;Russange;57;eau potable : Russange;63414;2024;70,4;7,3;17,3;68,5;conforme;25766;25766;56;154;1263;Non vérifié
-57604;Rustroff;57;eau potable;63415;2024;92,4;1,4;16,7;68,3;conforme;3567;3567;15;31;641;Non vérifié
-57605;Sailly-Achâtel;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;2395;20;60;324;Non vérifié
-57606;Saint-Avold;57;eau potable : commune de Saint-Avold;63287;2024;72,0;7,7;19,7;68,9;conforme;337260;337260;63;142;14755;Non vérifié
-57607;Sainte-Barbe;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;7989;28;62;786;Non vérifié
-57609;Saint-Epvre;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;3579;55;152;177;Non vérifié
-57610;Saint-François-Lacroix;57;eau potable;63309;2024;74,9;2,9;8,6;66,7;conforme;212970;5283;46;125;317;Non vérifié
-57611;Saint-Georges;57;eau potable;63220;2024;90,6;1,0;9,6;66,9;conforme;67416;1627;23;38;196;Non vérifié
-57612;Saint-Hubert;57;eau potable;63314;2024;86,8;1,7;11,5;67,3;conforme;124100;1563;19;55;229;Non vérifié
-57613;Saint-Jean-de-Bassel;57;eau potable;63205;2024;95,0;0,1;2,7;65,5;conforme;14600;757;6;14;322;Non vérifié
-57614;Saint-Jean-Kourtzerode;57;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;4037;17;48;647;Non vérifié
-57615;Saint-Jean-Rohrbach;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;25329;72;167;960;Non vérifié
-57616;Saint-Julien-lès-Metz;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;36122;28;62;3554;Non vérifié
-57617;Saint-Jure;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;2092;20;60;283;Non vérifié
-57618;Saint-Louis;57;eau potable;63289;2024;86,8;2,0;13,1;67,6;conforme;5110;5110;23;56;617;Non vérifié
-57619;Saint-Louis-lès-Bitche;57;eau potable : PERIMETRE SAINT-LOUIS-LES-BITCHE;63291;2024;70,0;3,4;7,8;66,6;conforme;8824;8824;54;158;445;Non vérifié
-57620;Sainte-Marie-aux-Chênes;57;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;84216;51;139;4519;Non vérifié
-57621;Saint-Médard;57;eau potable;63329;2024;64,5;3,1;5,6;66,1;non conforme;14710;3765;96;201;107;Non vérifié
-57622;Saint-Privat-la-Montagne;57;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;34998;51;139;1878;Non vérifié
-57623;Saint-Quirin;57;eau potable;63292;2021;76,5;6,1;19,6;68,9;conforme;11132;11132;44;113;692;Sans anomalie apparente
-57624;Sainte-Ruffine;57;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;11610;51;139;623;Non vérifié
-57625;Salonnes;57;eau potable;63311;2024;81,0;3,5;14,8;68,0;conforme;133524;5424;84;86;176;Non vérifié
-57626;Sanry-lès-Vigy;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;5153;28;62;507;Non vérifié
-57627;Sanry-sur-Nied;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;8614;55;152;426;Non vérifié
-57628;Sarralbe;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;115140;72;167;4364;Non vérifié
-57629;Sarraltroff;57;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;4922;17;48;789;Non vérifié
-57630;Sarrebourg;57;eau potable;63293;2024;88,2;2,8;21,2;69,2;conforme;131163;131163;30;55;12170;Non vérifié
-57631;Sarreguemines;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;531454;72;167;20143;Non vérifié
-57633;Sarreinsming;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;31080;72;167;1178;Non vérifié
-57634;Saulny;57;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;29631;51;139;1590;Non vérifié
-57635;Schalbach;57;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;2321;17;48;372;Non vérifié
-57636;Schmittviller;57;eau potable;63222;2024;86,0;1,4;8,7;66,7;conforme;13787;3337;27;59;335;Non vérifié
-57637;Schneckenbusch;57;eau potable;63296;2024;97,2;0,4;13,6;67,7;conforme;365;365;3;11;314;Non vérifié
-57638;Schoeneck;57;eau potable;63211;2024;79,4;4,9;18,9;68,8;conforme;838610;29585;33;97;2435;Non vérifié
-57639;Schorbach;57;eau potable : PERIMETRE SCHORBACH;132045;2024;76,0;2,4;7,7;66,5;conforme;6474;6474;32;114;548;Non vérifié
-57640;Schwerdorff;57;eau potable;63309;2024;74,9;2,9;8,6;66,7;conforme;212970;7866;46;125;472;Non vérifié
-57641;Schweyen;57;eau potable;63442;2024;52,2;6,0;6,5;66,3;non conforme;23433;10282;88;337;319;Non vérifié
-57642;Scy-Chazelles;57;eau potable : ancien périmètre MONTIGNY-LES-METZ;63328;2024;74,6;8,6;25,3;70,1;conforme;877037;53819;54;130;2753;Non vérifié
-57643;Secourt;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;1486;20;60;201;Non vérifié
-57644;Seingbouse;57;eau potable;63228;2024;71,1;3,1;7,7;66,5;conforme;67890;24948;40;147;1722;Non vérifié
-57645;Semécourt;57;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;19083;51;139;1024;Non vérifié
-57647;Serémange-Erzange;57;eau potable : Ancien périmètre du SIEA Florange et Seremange-Erzange;63315;2024;72,1;8,7;22,6;69,5;conforme;371819;97053;63;163;4251;Non vérifié
-57648;Servigny-lès-Raville;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;9625;55;152;476;Non vérifié
-57649;Servigny-lès-Sainte-Barbe;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;4696;28;62;462;Non vérifié
-57650;Sierck-les-Bains;57;eau potable;63416;2024;60,6;11,2;17,2;68,4;non conforme;67983;67983;106;253;1765;Non vérifié
-57651;Siersthal;57;eau potable;132079;2024;73,8;2,5;7,0;66,4;conforme;21444;12491;53;131;646;Non vérifié
-57652;Sillegny;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;4857;20;60;657;Non vérifié
-57653;Silly-en-Saulnois;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;259;20;60;35;Non vérifié
-57654;Silly-sur-Nied;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;14538;55;152;719;Non vérifié
-57655;Solgne;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;8375;20;60;1133;Non vérifié
-57656;Sorbey;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;7825;55;152;387;Non vérifié
-57657;Sotzeling;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;1029;108;152;26;Sans anomalie apparente
-57658;Soucht;57;eau potable;63221;2023;82,2;1,8;8,2;66,6;conforme;19710;12115;33;81;1013;Sans anomalie apparente
-57659;Spicheren;57;eau potable;63211;2024;79,4;4,9;18,9;68,8;conforme;838610;38188;33;97;3143;Non vérifié
-57660;Stiring-Wendel;57;eau potable;63211;2024;79,4;4,9;18,9;68,8;conforme;838610;133116;33;97;10956;Non vérifié
-57661;Sturzelbronn;57;eau potable;63298;2024;74,0;2,2;6,3;66,3;conforme;3373;3373;55;127;168;Non vérifié
-57662;Suisse;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;3719;108;152;94;Sans anomalie apparente
-57663;Talange;57;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;151325;51;139;8120;Non vérifié
-57664;Tarquimpol;57;eau potable;63223;2024;92,3;0,6;7,5;66,5;conforme;22995;836;38;35;60;Non vérifié
-57665;Tenteling;57;eau potable;63211;2024;79,4;4,9;18,9;68,8;conforme;838610;12673;33;97;1043;Non vérifié
-57666;Terville;57;eau potable : THIONVILLE;132048;2024;75,7;9,6;30,0;71,0;conforme;1219392;161365;57;120;7801;Non vérifié
-57667;Téterchen;57;eau potable;63309;2024;74,9;2,9;8,6;66,7;conforme;212970;12615;46;125;757;Non vérifié
-57668;Teting-sur-Nied;57;eau potable : commune de Folschviller et Valmont;63210;2024;83,4;4,0;19,9;69,0;conforme;110011;16186;35;85;1258;Non vérifié
-57669;Théding;57;eau potable;63211;2024;79,4;4,9;18,9;68,8;conforme;838610;29257;33;97;2408;Non vérifié
-57670;Thicourt;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;2669;55;152;132;Non vérifié
-57671;Thimonville;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;983;20;60;133;Non vérifié
-57672;Thionville;57;eau potable : THIONVILLE;132048;2024;75,7;9,6;30,0;71,0;conforme;1219392;882389;57;120;42658;Non vérifié
-57673;Thonville;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;1051;55;152;52;Non vérifié
-57674;Tincry;57;eau potable;63307;2024;56,4;4,6;6,0;66,2;non conforme;30222;9747;158;281;169;Non vérifié
-57675;Torcheville;57;eau potable;63335;2024;79,6;2,3;8,8;66,8;conforme;42470;2563;59;95;119;Non vérifié
-57676;Tragny;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;643;20;60;87;Non vérifié
-57677;Trémery;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;9808;28;62;965;Non vérifié
-57678;Tressange;57;eau potable;63318;2024;79,2;4,3;16,2;68,2;conforme;667038;29314;33;97;2470;Non vérifié
-57679;Tritteling-Redlach;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;10292;55;152;509;Non vérifié
-57680;Troisfontaines;57;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;7905;17;48;1267;Non vérifié
-57681;Tromborn;57;eau potable;63309;2024;74,9;2,9;8,6;66,7;conforme;212970;5649;46;125;339;Non vérifié
-57682;Turquestein-Blancrupt;57;eau potable;63220;2024;90,6;1,0;9,6;66,9;conforme;67416;91;23;38;11;Non vérifié
-57683;Uckange;57;eau potable : Commune de FAMECK - UCKANGE;63373;2024;83,9;5,3;27,6;70,5;conforme;177103;57015;22;70;7021;Non vérifié
-57684;Vahl-Ebersing;57;eau potable;63214;2024;79,3;1,5;5,9;66,2;conforme;79388;5661;32;93;487;Non vérifié
-57685;Vahl-lès-Bénestroff;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;5539;108;152;140;Sans anomalie apparente
-57686;Vahl-lès-Faulquemont;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;4934;55;152;244;Non vérifié
-57687;Vallerange;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;8349;108;152;211;Sans anomalie apparente
-57689;Valmestroff;57;eau potable;63314;2024;86,8;1,7;11,5;67,3;conforme;124100;2484;19;55;364;Non vérifié
-57690;Valmont;57;eau potable : commune de Folschviller et Valmont;63210;2024;83,4;4,0;19,9;69,0;conforme;110011;39128;35;85;3041;Non vérifié
-57691;Valmunster;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;1543;48;130;88;Non vérifié
-57692;Vannecourt;57;eau potable;63311;2024;81,0;3,5;14,8;68,0;conforme;133524;2065;84;86;67;Non vérifié
-57693;Vantoux;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;8365;28;62;823;Non vérifié
-57694;Vany;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;4858;28;62;478;Non vérifié
-57695;Varize-Vaudoncourt;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;8909;48;130;508;Non vérifié
-57696;Varsberg;57;eau potable;63336;2024;93,1;1,0;13,6;67,7;conforme;11246;2834;8;27;973;Non vérifié
-57697;Vasperviller;57;eau potable;63300;2023;86,6;0,8;5,1;66,0;conforme;1872;1872;16;57;322;Sans anomalie apparente
-57698;Vatimont;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;6187;55;152;306;Non vérifié
-57700;Vaudreching;57;eau potable;63309;2024;74,9;2,9;8,6;66,7;conforme;212970;8316;46;125;499;Non vérifié
-57701;Vaux;57;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;14760;51;139;792;Non vérifié
-57702;Vaxy;57;eau potable;63311;2024;81,0;3,5;14,8;68,0;conforme;133524;5208;84;86;169;Non vérifié
-57703;Veckersviller;57;eau potable;103990;2024;63,1;3,2;5,5;66,1;non conforme;245280;6357;76;213;230;Non vérifié
-57704;Veckring;57;eau potable : SYNDICAT EAUX DE KIRSCHNAUMEN;63322;2024;72,9;2,5;6,6;66,3;conforme;82536;9882;41;138;659;Non vérifié
-57705;Velving;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;3490;48;130;199;Non vérifié
-57706;Vergaville;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;20931;108;152;529;Sans anomalie apparente
-57707;Vernéville;57;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;13325;51;139;715;Non vérifié
-57708;Verny;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;15198;20;60;2056;Non vérifié
-57709;Vescheim;57;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;1903;17;48;305;Non vérifié
-57711;Vibersviller;57;eau potable;63335;2024;79,6;2,3;8,8;66,8;conforme;42470;8205;59;95;381;Non vérifié
-57712;Vic-sur-Seille;57;eau potable;164165;2024;73,4;2,4;6,5;66,3;conforme;104559;35174;73;146;1317;Non vérifié
-57713;Vieux-Lixheim;57;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;1553;17;48;249;Non vérifié
-57714;Haute-Vigneulles;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;8856;55;152;438;Non vérifié
-57715;Vigny;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;2875;20;60;389;Non vérifié
-57716;Vigy;57;eau potable;63314;2024;86,8;1,7;11,5;67,3;conforme;124100;10387;19;55;1522;Non vérifié
-57717;Viller;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;3559;55;152;176;Non vérifié
-57718;Villers-Stoncourt;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;4549;55;152;225;Non vérifié
-57719;Villers-sur-Nied;57;eau potable;63311;2024;81,0;3,5;14,8;68,0;conforme;133524;2496;84;86;81;Non vérifié
-57720;Villing;57;eau potable;63309;2024;74,9;2,9;8,6;66,7;conforme;212970;8515;46;125;511;Non vérifié
-57721;Vilsberg;57;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;2171;17;48;348;Non vérifié
-57723;Virming;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;11752;108;152;297;Sans anomalie apparente
-57724;Vitry-sur-Orne;57;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;53746;51;139;2884;Non vérifié
-57725;Vittersbourg;57;eau potable;63335;2024;79,6;2,3;8,8;66,8;conforme;42470;7193;59;95;334;Non vérifié
-57726;Vittoncourt;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;7886;55;152;390;Non vérifié
-57727;Viviers;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;2426;55;152;120;Non vérifié
-57728;Voimhaut;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;4994;55;152;247;Non vérifié
-57730;Volmerange-lès-Boulay;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;9610;48;130;548;Non vérifié
-57731;Volmerange-les-Mines;57;eau potable;63421;2024;74,5;6,2;18,1;68,6;conforme;32949;32949;39;125;2289;Non vérifié
-57732;Volmunster;57;eau potable;63229;2024;65,6;2,1;4,0;65,8;non conforme;76650;25034;88;193;777;Non vérifié
-57733;Volstroff;57;eau potable;63314;2024;86,8;1,7;11,5;67,3;conforme;124100;13950;19;55;2044;Non vérifié
-57734;Voyer;57;eau potable;63302;2024;78,8;3,4;12,8;67,6;conforme;4902;4902;30;97;445;Non vérifié
-57736;Vry;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;6413;28;62;631;Non vérifié
-57737;Vulmont;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;627;55;152;31;Non vérifié
-57738;Waldhouse;57;eau potable;63230;2023;94,0;0,3;5,3;66,1;conforme;2738;1299;10;21;347;Sans anomalie apparente
-57739;Waldweistroff;57;eau potable : SYNDICAT EAUX DE KIRSCHNAUMEN;63322;2024;72,9;2,5;6,6;66,3;conforme;82536;7828;41;138;522;Non vérifié
-57740;Waldwisse;57;eau potable : SYNDICAT DES EAUX DU MEINSBERG;63325;2024;86,4;1,3;8,2;66,6;conforme;21827;5648;19;59;804;Non vérifié
-57741;Walschbronn;57;eau potable;63230;2023;94,0;0,3;5,3;66,1;conforme;2738;1438;10;21;384;Sans anomalie apparente
-57742;Walscheid;57;eau potable;63303;2024;80,1;1,7;6,7;66,3;conforme;14892;14892;28;93;1459;Non vérifié
-57743;Waltembourg;57;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;1416;17;48;227;Non vérifié
-57745;Wiesviller;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;24115;72;167;914;Non vérifié
-57746;Willerwald;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;40025;72;167;1517;Non vérifié
-57747;Wintersbourg;57;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;1635;17;48;262;Non vérifié
-57748;Wittring;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;19419;72;167;736;Non vérifié
-57749;Voelfling-lès-Bouzonville;57;eau potable;63309;2024;74,9;2,9;8,6;66,7;conforme;212970;2833;46;125;170;Non vérifié
-57750;Woelfling-lès-Sarreguemines;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;18469;72;167;700;Non vérifié
-57751;Woippy;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;152120;28;62;14967;Non vérifié
-57752;Woustviller;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;73506;72;167;2786;Non vérifié
-57753;Wuisse;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;2453;108;152;62;Sans anomalie apparente
-57754;Xanrey;57;eau potable;164165;2024;73,4;2,4;6,5;66,3;conforme;104559;2938;73;146;110;Non vérifié
-57755;Xocourt;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;2002;55;152;99;Non vérifié
-57756;Xouaxange;57;eau potable;63220;2024;90,6;1,0;9,6;66,9;conforme;67416;2697;23;38;325;Non vérifié
-57757;Yutz;57;eau potable : YUTZ;63422;2024;89,8;2,9;25,9;70,2;conforme;86882;86882;14;41;17391;Non vérifié
-57759;Zarbeling;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;2691;108;152;68;Sans anomalie apparente
-57760;Zetting;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;23086;72;167;875;Non vérifié
-57761;Zilling;57;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;1741;17;48;279;Non vérifié
-57762;Zimming;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;14356;55;152;710;Non vérifié
-57763;Zommange;57;eau potable;63223;2024;92,3;0,6;7,5;66,5;conforme;22995;599;38;35;43;Non vérifié
-57764;Zoufftgen;57;eau potable;132055;2020;82,6;4,5;21,5;69,3;conforme;11498;11498;25;76;1264;Sans anomalie apparente
-57765;Diesen;57;eau potable : Commune de Diesen;132039;2024;86,2;1,9;11,6;67,3;conforme;7386;7386;20;60;1015;Non vérifié
-57767;Stuckange;57;eau potable;63314;2024;86,8;1,7;11,5;67,3;conforme;124100;10339;19;55;1515;Non vérifié
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement);Donnée suspecte (voir LISEZMOI)
+57001;Aboncourt;57;eau potable;63314;2024;86,8;1,7;11,5;67,3;conforme;124100;2184;19;55;320;Non vérifié;non
+57002;Aboncourt-sur-Seille;57;eau potable;164178;2024;76,3;2,5;7,9;66,6;conforme;193450;1141;47;128;67;Non vérifié;non
+57003;Abreschviller;57;eau potable;132038;2024;74,3;2,5;7,3;66,5;conforme;20312;20312;39;125;1428;Non vérifié;non
+57004;Achain;57;eau potable;63311;2024;81,0;3,5;14,8;68,0;conforme;133524;2342;84;86;76;Non vérifié;non
+57006;Achen;57;eau potable;63234;2024;56,3;6,0;7,7;66,5;non conforme;26324;26324;75;285;963;Non vérifié;non
+57007;Adaincourt;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;2730;55;152;135;Non vérifié;non
+57008;Adelange;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;4489;55;152;222;Non vérifié;non
+57009;Ajoncourt;57;eau potable;164178;2024;76,3;2,5;7,9;66,6;conforme;193450;1737;47;128;102;Non vérifié;non
+57010;Alaincourt-la-Côte;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;3559;55;152;176;Non vérifié;non
+57011;Albestroff;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;23978;108;152;606;Sans anomalie apparente;non
+57012;Algrange;57;eau potable;63318;2024;79,2;4,3;16,2;68,2;conforme;667038;68858;33;97;5802;Non vérifié;non
+57013;Alsting;57;eau potable;63211;2024;79,4;4,9;18,9;68,8;conforme;838610;30132;33;97;2480;Non vérifié;non
+57014;Altrippe;57;eau potable;63214;2024;79,3;1,5;5,9;66,2;conforme;79388;4243;32;93;365;Non vérifié;non
+57015;Altviller;57;eau potable;63206;2024;86,5;1,5;9,9;67,0;conforme;44348;2378;12;56;524;Non vérifié;non
+57016;Alzing;57;eau potable;63309;2024;74,9;2,9;8,6;66,7;conforme;212970;6749;46;125;405;Non vérifié;non
+57017;Amanvillers;57;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;40776;51;139;2188;Non vérifié;non
+57018;Amelécourt;57;eau potable;63311;2024;81,0;3,5;14,8;68,0;conforme;133524;3636;84;86;118;Non vérifié;non
+57019;Amnéville;57;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;202667;51;139;10875;Non vérifié;non
+57020;Ancerville;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;6066;55;152;300;Non vérifié;non
+57021;Ancy-Dornot;57;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;27768;51;139;1490;Non vérifié;non
+57022;Angevillers;57;eau potable;63318;2024;79,2;4,3;16,2;68,2;conforme;667038;16663;33;97;1404;Non vérifié;non
+57024;Antilly;57;eau potable;63314;2024;86,8;1,7;11,5;67,3;conforme;124100;1351;19;55;198;Non vérifié;non
+57025;Anzeling;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;8418;48;130;480;Non vérifié;non
+57026;Apach;57;eau potable : SYNDICAT DES EAUX DU MEINSBERG;63325;2024;86,4;1,3;8,2;66,6;conforme;21827;7531;19;59;1072;Non vérifié;non
+57027;Arraincourt;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;2548;55;152;126;Non vérifié;non
+57028;Argancy;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;14036;28;62;1381;Non vérifié;non
+57029;Arriance;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;4307;55;152;213;Non vérifié;non
+57030;Arry;57;eau potable;63348;2024;67,6;5,3;11,1;67,2;conforme;13793;13793;73;174;517;Non vérifié;non
+57031;Ars-Laquenexy;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;9493;28;62;934;Non vérifié;non
+57032;Ars-sur-Moselle;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;46916;28;62;4616;Non vérifié;non
+57033;Arzviller;57;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;3219;17;48;516;Non vérifié;non
+57034;Aspach;57;eau potable;63220;2024;90,6;1,0;9,6;66,9;conforme;67416;332;23;38;40;Non vérifié;non
+57035;Assenoncourt;57;eau potable;63223;2024;92,3;0,6;7,5;66,5;conforme;22995;1602;38;35;115;Non vérifié;non
+57036;Attilloncourt;57;eau potable;132049;2020;100,0;;;;non calculable;;;;;98;Sans anomalie apparente;oui
+57037;Aube;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;5419;55;152;268;Non vérifié;non
+57038;Audun-le-Tiche;57;eau potable : Audun-le-Tiche;132050;2024;69,6;16,4;37,5;72,5;non conforme;211426;211426;79;199;7356;Non vérifié;non
+57039;Augny;57;eau potable : ancien périmètre MONTIGNY-LES-METZ;63328;2024;74,6;8,6;25,3;70,1;conforme;877037;43145;54;130;2207;Non vérifié;non
+57040;Aulnois-sur-Seille;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;6329;55;152;313;Non vérifié;non
+57041;Aumetz;57;eau potable;63318;2024;79,2;4,3;16,2;68,2;conforme;667038;28697;33;97;2418;Non vérifié;non
+57042;Avricourt;57;eau potable;63220;2024;90,6;1,0;9,6;66,9;conforme;67416;4764;23;38;574;Non vérifié;non
+57043;Ay-sur-Moselle;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;16272;28;62;1601;Non vérifié;non
+57044;Azoudange;57;eau potable;63223;2024;92,3;0,6;7,5;66,5;conforme;22995;1240;38;35;89;Non vérifié;non
+57045;Bacourt;57;eau potable;63307;2024;56,4;4,6;6,0;66,2;non conforme;30222;6575;158;281;114;Non vérifié;non
+57046;Baerenthal;57;eau potable : PERIMETRE BAERENTHAL;63236;2024;84,0;0,9;4,9;66,0;conforme;7749;7749;29;69;734;Non vérifié;non
+57047;Bambiderstroff;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;20543;55;152;1016;Non vérifié;non
+57048;Bannay;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;1577;55;152;78;Non vérifié;non
+57049;Le Ban-Saint-Martin;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;47607;28;62;4684;Non vérifié;non
+57050;Barchain;57;eau potable;63220;2024;90,6;1,0;9,6;66,9;conforme;67416;780;23;38;94;Non vérifié;non
+57051;Baronville;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;14600;108;152;369;Sans anomalie apparente;non
+57052;Barst;57;eau potable;63206;2024;86,5;1,5;9,9;67,0;conforme;44348;2587;12;56;570;Non vérifié;non
+57053;Bassing;57;eau potable;63205;2024;95,0;0,1;2,7;65,5;conforme;14600;249;6;14;106;Non vérifié;non
+57054;Baudrecourt;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;3498;55;152;173;Non vérifié;non
+57055;Bazoncourt;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;10636;55;152;526;Non vérifié;non
+57056;Bébing;57;eau potable;63220;2024;90,6;1,0;9,6;66,9;conforme;67416;1569;23;38;189;Non vérifié;non
+57057;Béchy;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;12435;55;152;615;Non vérifié;non
+57058;Behren-lès-Forbach;57;eau potable;63211;2024;79,4;4,9;18,9;68,8;conforme;838610;74917;33;97;6166;Non vérifié;non
+57059;Bellange;57;eau potable;63311;2024;81,0;3,5;14,8;68,0;conforme;133524;1787;84;86;58;Non vérifié;non
+57060;Bénestroff;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;20417;108;152;516;Sans anomalie apparente;non
+57061;Béning-lès-Saint-Avold;57;eau potable;63231;2024;91,7;5,3;58,6;76,7;conforme;394290;15536;39;112;1095;Non vérifié;non
+57062;Berg-sur-Moselle;57;eau potable;63614;2024;85,5;3,3;19,7;68,9;conforme;65597;648;4;62;461;Non vérifié;non
+57063;Bérig-Vintrange;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;8309;108;152;210;Sans anomalie apparente;non
+57064;Berling;57;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;1953;17;48;313;Non vérifié;non
+57065;Bermering;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;7874;108;152;199;Sans anomalie apparente;non
+57066;Berthelming;57;eau potable;63205;2024;95,0;0,1;2,7;65,5;conforme;14600;1196;6;14;509;Non vérifié;non
+57067;Bertrange;57;eau potable;63321;2024;81,4;3,5;15,4;68,1;conforme;146402;25958;24;83;2941;Non vérifié;non
+57069;Berviller-en-Moselle;57;eau potable;63309;2024;74,9;2,9;8,6;66,7;conforme;212970;7732;46;125;464;Non vérifié;non
+57070;Bettange;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;4244;48;130;242;Non vérifié;non
+57071;Bettborn;57;eau potable;63205;2024;95,0;0,1;2,7;65,5;conforme;14600;954;6;14;406;Non vérifié;non
+57072;Bettelainville;57;eau potable;63314;2024;86,8;1,7;11,5;67,3;conforme;124100;4272;19;55;626;Non vérifié;non
+57073;Betting;57;eau potable;63231;2024;91,7;5,3;58,6;76,7;conforme;394290;12173;39;112;858;Non vérifié;non
+57074;Bettviller;57;eau potable;64040;2024;74,3;2,3;6,7;66,3;conforme;49111;12248;41;125;815;Non vérifié;non
+57075;Beux;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;2188;20;60;296;Non vérifié;non
+57076;Beyren-lès-Sierck;57;eau potable;63331;2024;81,8;2,3;10,5;67,1;conforme;37777;6006;30;83;551;Non vérifié;non
+57077;Bezange-la-Petite;57;eau potable;63351;2024;97,6;0,3;14,4;67,9;conforme;189;189;6;8;92;Non vérifié;non
+57079;Bibiche;57;eau potable;63309;2024;74,9;2,9;8,6;66,7;conforme;212970;7082;46;125;425;Non vérifié;non
+57080;Bickenholtz;57;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;537;17;48;86;Non vérifié;non
+57081;Bidestroff;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;4550;108;152;115;Sans anomalie apparente;non
+57082;Biding;57;eau potable;63214;2024;79,3;1,5;5,9;66,2;conforme;79388;3929;32;93;338;Non vérifié;non
+57083;Bining;57;eau potable;63224;2024;52,6;7,9;8,8;66,8;non conforme;193195;47471;112;327;1162;Non vérifié;non
+57084;Bioncourt;57;eau potable;63352;2024;62,0;6,4;10,5;67,1;non conforme;9321;9321;85;222;300;Non vérifié;non
+57085;Bionville-sur-Nied;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;7946;55;152;393;Non vérifié;non
+57086;Belles-Forêts;57;eau potable;63205;2024;95,0;0,1;2,7;65,5;conforme;14600;526;6;14;224;Non vérifié;non
+57087;Bisten-en-Lorraine;57;eau potable;63353;2024;95,6;0,5;11,4;67,3;conforme;438;438;5;16;245;Non vérifié;non
+57088;Bistroff;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;12622;108;152;319;Sans anomalie apparente;non
+57089;Bitche;57;eau potable : PERIMETRE BITCHE;63238;2024;82,0;3,3;15,5;68,1;conforme;48505;48505;27;78;4966;Non vérifié;non
+57090;Blanche-Église;57;eau potable;63329;2024;64,5;3,1;5,6;66,1;non conforme;14710;3589;96;201;102;Non vérifié;non
+57091;Bliesbruck;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;25355;72;167;961;Non vérifié;non
+57092;Blies-Ébersing;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;16279;72;167;617;Non vérifié;non
+57093;Blies-Guersviller;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;17176;72;167;651;Non vérifié;non
+57095;Boucheporn;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;9838;48;130;561;Non vérifié;non
+57096;Boulange;57;eau potable;63318;2024;79,2;4,3;16,2;68,2;conforme;667038;28803;33;97;2427;Non vérifié;non
+57097;Boulay-Moselle;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;95295;48;130;5434;Non vérifié;non
+57098;Bourgaltroff;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;8744;108;152;221;Sans anomalie apparente;non
+57099;Bourdonnay;57;eau potable;63223;2024;92,3;0,6;7,5;66,5;conforme;22995;3454;38;35;248;Non vérifié;non
+57100;Bourscheid;57;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;1079;17;48;173;Non vérifié;non
+57101;Bousbach;57;eau potable;63211;2024;79,4;4,9;18,9;68,8;conforme;838610;14325;33;97;1179;Non vérifié;non
+57102;Bousse;57;eau potable;63321;2024;81,4;3,5;15,4;68,1;conforme;146402;28562;24;83;3236;Non vérifié;non
+57103;Bousseviller;57;eau potable;63213;2024;55,6;3,1;3,9;65,8;non conforme;8746;3324;80;288;114;Non vérifié;non
+57104;Boust;57;eau potable;63355;2023;88,5;1,7;12,9;67,6;conforme;6273;6273;15;48;1157;Sans anomalie apparente;non
+57105;Boustroff;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;3073;55;152;152;Non vérifié;non
+57106;Bouzonville;57;eau potable;63309;2024;74,9;2,9;8,6;66,7;conforme;212970;62008;46;125;3721;Non vérifié;non
+57107;Bréhain;57;eau potable;63311;2024;81,0;3,5;14,8;68,0;conforme;133524;2989;84;86;97;Non vérifié;non
+57108;Breidenbach;57;eau potable;63229;2024;65,6;2,1;4,0;65,8;non conforme;76650;9956;88;193;309;Non vérifié;non
+57109;Breistroff-la-Grande;57;eau potable;63333;2024;87,1;1,8;12,4;67,5;conforme;17450;6194;19;53;876;Non vérifié;non
+57110;Brettnach;57;eau potable;63309;2024;74,9;2,9;8,6;66,7;conforme;212970;7149;46;125;429;Non vérifié;non
+57111;Bronvaux;57;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;9374;51;139;503;Non vérifié;non
+57112;Brouck;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;1403;48;130;80;Non vérifié;non
+57113;Brouderdorff;57;eau potable;63240;2024;83,5;2,9;14,7;67,9;conforme;6467;6467;18;72;987;Non vérifié;non
+57114;Brouviller;57;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;2570;17;48;412;Non vérifié;non
+57115;Brulange;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;2002;55;152;99;Non vérifié;non
+57116;Buchy;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;747;20;60;101;Non vérifié;non
+57117;Buding;57;eau potable;63314;2024;86,8;1,7;11,5;67,3;conforme;124100;3835;19;55;562;Non vérifié;non
+57118;Budling;57;eau potable : SYNDICAT EAUX DE KIRSCHNAUMEN;63322;2024;72,9;2,5;6,6;66,3;conforme;82536;2474;41;138;165;Non vérifié;non
+57119;Buhl-Lorraine;57;eau potable;63242;2024;100,0;0,0;9,7;66,9;conforme;0;0;0;0;1204;Non vérifié;non
+57120;Burlioncourt;57;eau potable;63311;2024;81,0;3,5;14,8;68,0;conforme;133524;4006;84;86;130;Non vérifié;non
+57121;Burtoncourt;57;eau potable : BURTONCOURT;63356;2024;62,5;4,8;7,9;66,6;non conforme;7008;7008;84;221;228;Non vérifié;non
+57122;Cappel;57;eau potable;63206;2024;86,5;1,5;9,9;67,0;conforme;44348;3068;12;56;676;Non vérifié;non
+57123;Carling;57;eau potable;63231;2024;91,7;5,3;58,6;76,7;conforme;394290;46692;39;112;3291;Non vérifié;non
+57124;Cattenom;57;eau potable;63614;2024;85,5;3,3;19,7;68,9;conforme;65597;3624;4;62;2580;Non vérifié;non
+57125;Chailly-lès-Ennery;57;eau potable;63314;2024;86,8;1,7;11,5;67,3;conforme;124100;2689;19;55;394;Non vérifié;non
+57126;Chambrey;57;eau potable;63358;2024;86,0;0,8;5,2;66,0;conforme;2473;2473;21;56;317;Non vérifié;non
+57127;Chanville;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;2972;55;152;147;Non vérifié;non
+57128;Charleville-sous-Bois;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;2886;28;62;284;Non vérifié;non
+57129;Charly-Oradour;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;8233;28;62;810;Non vérifié;non
+57130;Château-Bréhain;57;eau potable;63311;2024;81,0;3,5;14,8;68,0;conforme;133524;2126;84;86;69;Non vérifié;non
+57131;Château-Rouge;57;eau potable;63309;2024;74,9;2,9;8,6;66,7;conforme;212970;4933;46;125;296;Non vérifié;non
+57132;Château-Salins;57;eau potable;63311;2024;81,0;3,5;14,8;68,0;conforme;133524;70753;84;86;2296;Non vérifié;non
+57133;Château-Voué;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;4471;108;152;113;Sans anomalie apparente;non
+57134;Châtel-Saint-Germain;57;eau potable : ancien périmètre MONTIGNY-LES-METZ;63328;2024;74,6;8,6;25,3;70,1;conforme;877037;36753;54;130;1880;Non vérifié;non
+57136;Chémery-les-Deux;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;10469;48;130;597;Non vérifié;non
+57137;Cheminot;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;6158;20;60;833;Non vérifié;non
+57138;Chenois;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;1597;55;152;79;Non vérifié;non
+57139;Chérisey;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;2070;20;60;280;Non vérifié;non
+57140;Chesny;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;4088;20;60;553;Non vérifié;non
+57141;Chicourt;57;eau potable;63311;2024;81,0;3,5;14,8;68,0;conforme;133524;2712;84;86;88;Non vérifié;non
+57142;Chieulles;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;4147;28;62;408;Non vérifié;non
+57143;Clouange;57;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;71264;51;139;3824;Non vérifié;non
+57144;Cocheren;57;eau potable;63231;2024;91,7;5,3;58,6;76,7;conforme;394290;47642;39;112;3358;Non vérifié;non
+57145;Coincy;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;3395;28;62;334;Non vérifié;non
+57146;Coin-lès-Cuvry;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;6091;20;60;824;Non vérifié;non
+57147;Coin-sur-Seille;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;2499;20;60;338;Non vérifié;non
+57148;Colligny-Maizery;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;11404;55;152;564;Non vérifié;non
+57149;Colmen;57;eau potable;63309;2024;74,9;2,9;8,6;66,7;conforme;212970;3450;46;125;207;Non vérifié;non
+57150;Condé-Northen;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;12925;48;130;737;Non vérifié;non
+57151;Conthil;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;5856;108;152;148;Sans anomalie apparente;non
+57152;Contz-les-Bains;57;eau potable;63359;2024;95,4;0,6;11,9;67,4;conforme;1040;1040;5;18;548;Non vérifié;non
+57153;Corny-sur-Moselle;57;eau potable;63361;2024;91,8;1,5;16,7;68,3;conforme;10112;10112;13;34;2168;Non vérifié;non
+57154;Coume;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;10399;48;130;593;Non vérifié;non
+57155;Courcelles-Chaussy;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;60780;55;152;3006;Non vérifié;non
+57156;Courcelles-sur-Nied;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;24142;55;152;1194;Non vérifié;non
+57158;Craincourt;57;eau potable;63363;2024;92,0;0,7;8,2;66,6;conforme;818;818;10;31;226;Non vérifié;non
+57159;Créhange;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;74631;55;152;3691;Non vérifié;non
+57160;Creutzwald;57;eau potable;132052;2024;90,5;2,1;20,0;69,0;conforme;72818;72818;16;39;12254;Non vérifié;non
+57161;Cutting;57;eau potable;63205;2024;95,0;0,1;2,7;65,5;conforme;14600;226;6;14;96;Non vérifié;non
+57162;Cuvry;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;8102;20;60;1096;Non vérifié;non
+57163;Dabo;57;eau potable;63243;2024;77,0;1,4;4,7;65,9;conforme;30660;30660;36;109;2361;Non vérifié;non
+57165;Dalem;57;eau potable;63309;2024;74,9;2,9;8,6;66,7;conforme;212970;11582;46;125;695;Non vérifié;non
+57166;Dalhain;57;eau potable;63311;2024;81,0;3,5;14,8;68,0;conforme;133524;2989;84;86;97;Non vérifié;non
+57167;Dalstein;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;6594;48;130;376;Non vérifié;non
+57168;Danne-et-Quatre-Vents;57;eau potable;63245;2024;95,7;0,3;7,5;66,5;conforme;1312;1312;5;15;670;Non vérifié;non
+57169;Dannelbourg;57;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;3151;17;48;505;Non vérifié;non
+57171;Delme;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;23576;55;152;1166;Non vérifié;non
+57172;Denting;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;4700;48;130;268;Non vérifié;non
+57173;Desseling;57;eau potable;63223;2024;92,3;0,6;7,5;66,5;conforme;22995;1351;38;35;97;Non vérifié;non
+57174;Destry;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;4550;108;152;115;Sans anomalie apparente;non
+57175;Diane-Capelle;57;eau potable;63218;2024;43,6;6,2;4,8;66,0;non conforme;90520;26024;282;469;253;Non vérifié;non
+57176;Diebling;57;eau potable;63211;2024;79,4;4,9;18,9;68,8;conforme;838610;20145;33;97;1658;Non vérifié;non
+57177;Dieuze;57;eau potable;63365;2024;72,6;11,6;30,7;71,1;conforme;106273;106273;105;195;2770;Non vérifié;non
+57178;Diffembach-lès-Hellimer;57;eau potable;63214;2024;79,3;1,5;5,9;66,2;conforme;79388;4173;32;93;359;Non vérifié;non
+57179;Distroff;57;eau potable;63314;2024;86,8;1,7;11,5;67,3;conforme;124100;12476;19;55;1828;Non vérifié;non
+57180;Dolving;57;eau potable;63205;2024;95,0;0,1;2,7;65,5;conforme;14600;808;6;14;344;Non vérifié;non
+57181;Domnom-lès-Dieuze;57;eau potable;63205;2024;95,0;0,1;2,7;65,5;conforme;14600;235;6;14;100;Non vérifié;non
+57182;Donjeux;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;1860;55;152;92;Non vérifié;non
+57183;Donnelay;57;eau potable;63367;2023;54,8;8,0;9,7;66,9;non conforme;29200;29200;415;301;193;Sans anomalie apparente;non
+57186;Ébersviller;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;16888;48;130;963;Non vérifié;non
+57187;Éblange;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;6313;48;130;360;Non vérifié;non
+57188;Éguelshardt;57;eau potable;63247;2024;79,2;1,1;4,1;65,8;conforme;6838;6838;43;99;440;Non vérifié;non
+57189;Eincheville;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;8547;108;152;216;Sans anomalie apparente;non
+57190;Elvange;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;8472;55;152;419;Non vérifié;non
+57191;Elzange;57;eau potable;63314;2024;86,8;1,7;11,5;67,3;conforme;124100;4545;19;55;666;Non vérifié;non
+57192;Enchenberg;57;eau potable;132041;2024;81,3;2,1;8,9;66,8;conforme;11498;11498;26;86;1206;Non vérifié;non
+57193;Ennery;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;23600;28;62;2322;Non vérifié;non
+57194;Entrange;57;eau potable;63369;2024;60,7;2,2;39,0;72,8;non conforme;7620;7620;17;55;1218;Non vérifié;non
+57195;Epping;57;eau potable;63229;2024;65,6;2,1;4,0;65,8;non conforme;76650;18430;88;193;572;Non vérifié;non
+57196;Erching;57;eau potable;64040;2024;74,3;2,3;6,7;66,3;conforme;49111;6282;41;125;418;Non vérifié;non
+57197;Ernestviller;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;13271;72;167;503;Non vérifié;non
+57198;Erstroff;57;eau potable;63214;2024;79,3;1,5;5,9;66,2;conforme;79388;2174;32;93;187;Non vérifié;non
+57199;Escherange;57;eau potable;63318;2024;79,2;4,3;16,2;68,2;conforme;667038;8224;33;97;693;Non vérifié;non
+57200;Les Étangs;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;8512;55;152;421;Non vérifié;non
+57201;Etting;57;eau potable;63217;2024;64,7;5,5;10,1;67,0;non conforme;57214;27453;105;199;714;Non vérifié;non
+57202;Etzling;57;eau potable;63211;2024;79,4;4,9;18,9;68,8;conforme;838610;13802;33;97;1136;Non vérifié;non
+57203;Évrange;57;eau potable;63308;2023;97,5;0,3;11,3;67,3;conforme;1767;376;4;10;246;Sans anomalie apparente;non
+57204;Failly;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;5407;28;62;532;Non vérifié;non
+57205;Falck;57;eau potable;63372;2023;53,2;11,7;13,4;67,7;non conforme;97581;97581;108;320;2482;Sans anomalie apparente;non
+57206;Fameck;57;eau potable : Commune de FAMECK - UCKANGE;63373;2024;83,9;5,3;27,6;70,5;conforme;177103;120088;22;70;14788;Non vérifié;non
+57207;Farébersviller;57;eau potable : principal;63208;2024;87,7;3,4;24,4;69,9;conforme;52110;52110;27;51;5224;Non vérifié;non
+57208;Farschviller;57;eau potable;63228;2024;71,1;3,1;7,7;66,5;conforme;67890;19095;40;147;1318;Non vérifié;non
+57209;Faulquemont;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;103302;55;152;5109;Non vérifié;non
+57210;Fénétrange;57;eau potable;63205;2024;95,0;0,1;2,7;65,5;conforme;14600;1501;6;14;639;Non vérifié;non
+57211;Fèves;57;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;22233;51;139;1193;Non vérifié;non
+57212;Féy;57;eau potable : ancien périmètre MONTIGNY-LES-METZ;63328;2024;74,6;8,6;25,3;70,1;conforme;877037;14740;54;130;754;Non vérifié;non
+57213;Filstroff;57;eau potable;63309;2024;74,9;2,9;8,6;66,7;conforme;212970;12965;46;125;778;Non vérifié;non
+57214;Fixem;57;eau potable;63614;2024;85,5;3,3;19,7;68,9;conforme;65597;558;4;62;397;Non vérifié;non
+57215;Flastroff;57;eau potable;63309;2024;74,9;2,9;8,6;66,7;conforme;212970;6216;46;125;373;Non vérifié;non
+57216;Fleisheim;57;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;842;17;48;135;Non vérifié;non
+57217;Flétrange;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;17692;55;152;875;Non vérifié;non
+57218;Fleury;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;9432;20;60;1276;Non vérifié;non
+57219;Flévy;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;6119;28;62;602;Non vérifié;non
+57220;Flocourt;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;998;20;60;135;Non vérifié;non
+57221;Florange;57;eau potable : Ancien périmètre du SIEA Florange et Seremange-Erzange;63315;2024;72,1;8,7;22,6;69,5;conforme;371819;274766;63;163;12035;Non vérifié;non
+57222;Folkling;57;eau potable;63211;2024;79,4;4,9;18,9;68,8;conforme;838610;17144;33;97;1411;Non vérifié;non
+57224;Folschviller;57;eau potable : commune de Folschviller et Valmont;63210;2024;83,4;4,0;19,9;69,0;conforme;110011;50386;35;85;3916;Non vérifié;non
+57225;Fonteny;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;2891;55;152;143;Non vérifié;non
+57226;Fontoy;57;eau potable;63318;2024;79,2;4,3;16,2;68,2;conforme;667038;37788;33;97;3184;Non vérifié;non
+57227;Forbach;57;eau potable;63211;2024;79,4;4,9;18,9;68,8;conforme;838610;248991;33;97;20493;Non vérifié;non
+57228;Fossieux;57;eau potable;164178;2024;76,3;2,5;7,9;66,6;conforme;193450;3168;47;128;186;Non vérifié;non
+57229;Foulcrey;57;eau potable;63220;2024;90,6;1,0;9,6;66,9;conforme;67416;1344;23;38;162;Non vérifié;non
+57230;Fouligny;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;3882;55;152;192;Non vérifié;non
+57231;Foville;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;2062;55;152;102;Non vérifié;non
+57232;Francaltroff;57;eau potable;63214;2024;79,3;1,5;5,9;66,2;conforme;79388;8718;32;93;750;Non vérifié;non
+57233;Fraquelfing;57;eau potable;63220;2024;90,6;1,0;9,6;66,9;conforme;67416;681;23;38;82;Non vérifié;non
+57234;Frauenberg;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;15910;72;167;603;Non vérifié;non
+57235;Freistroff;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;17537;48;130;1000;Non vérifié;non
+57236;Frémery;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;1759;55;152;87;Non vérifié;non
+57237;Frémestroff;57;eau potable;63214;2024;79,3;1,5;5,9;66,2;conforme;79388;3533;32;93;304;Non vérifié;non
+57238;Fresnes-en-Saulnois;57;eau potable;63311;2024;81,0;3,5;14,8;68,0;conforme;133524;5886;84;86;191;Non vérifié;non
+57239;Freybouse;57;eau potable;63214;2024;79,3;1,5;5,9;66,2;conforme;79388;4905;32;93;422;Non vérifié;non
+57240;Freyming-Merlebach;57;eau potable;63231;2024;91,7;5,3;58,6;76,7;conforme;394290;188214;39;112;13266;Non vérifié;non
+57241;Fribourg;57;eau potable;63223;2024;92,3;0,6;7,5;66,5;conforme;22995;2215;38;35;159;Non vérifié;non
+57242;Gandrange;57;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;56486;51;139;3031;Non vérifié;non
+57244;Garrebourg;57;eau potable;63248;2024;86,2;1,7;10,7;67,1;conforme;3102;3102;18;58;485;Non vérifié;non
+57245;Gavisse;57;eau potable;63614;2024;85,5;3,3;19,7;68,9;conforme;65597;846;4;62;602;Non vérifié;non
+57246;Gelucourt;57;eau potable;63374;2024;81,8;1,6;7,1;66,4;conforme;2628;2628;35;82;204;Non vérifié;non
+57247;Gerbécourt;57;eau potable;63376;2024;76,5;3,9;12,5;67,5;conforme;1566;1566;50;114;85;Non vérifié;non
+57248;Givrycourt;57;eau potable;63335;2024;79,6;2,3;8,8;66,8;conforme;42470;2046;59;95;95;Non vérifié;non
+57249;Glatigny;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;2602;28;62;256;Non vérifié;non
+57250;Goetzenbruck;57;eau potable;63250;2023;86,0;2,2;13,2;67,6;conforme;13490;13490;25;61;1484;Sans anomalie apparente;non
+57251;Goin;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;2632;20;60;356;Non vérifié;non
+57252;Gomelange;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;8347;48;130;476;Non vérifié;non
+57253;Gondrexange;57;eau potable;63220;2024;90,6;1,0;9,6;66,9;conforme;67416;4175;23;38;503;Non vérifié;non
+57254;Gorze;57;eau potable;63377;2024;94,8;4,2;76,3;80,3;conforme;6132;6132;15;20;1120;Non vérifié;non
+57255;Gosselming;57;eau potable;63205;2024;95,0;0,1;2,7;65,5;conforme;14600;1344;6;14;572;Non vérifié;non
+57256;Gravelotte;57;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;15226;51;139;817;Non vérifié;non
+57257;Grémecey;57;eau potable;63379;2024;89,2;3,8;31,6;71,3;conforme;1387;1387;38;44;100;Non vérifié;non
+57258;Gréning;57;eau potable;63214;2024;79,3;1,5;5,9;66,2;conforme;79388;1313;32;93;113;Non vérifié;non
+57259;Grindorff-Bizing;57;eau potable;63381;2024;99,1;0,1;9,3;66,9;conforme;166;166;1;4;314;Non vérifié;non
+57260;Grosbliederstroff;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;88281;72;167;3346;Non vérifié;non
+57261;Gros-Réderching;57;eau potable;63224;2024;52,6;7,9;8,8;66,8;non conforme;193195;51720;112;327;1266;Non vérifié;non
+57262;Grostenquin;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;23899;108;152;604;Sans anomalie apparente;non
+57263;Grundviller;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;17783;72;167;674;Non vérifié;non
+57264;Guebenhouse;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;11002;72;167;417;Non vérifié;non
+57265;Guébestroff;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;2295;108;152;58;Sans anomalie apparente;non
+57266;Guéblange-lès-Dieuze;57;eau potable;63383;2024;73,1;1,5;4,1;65,8;conforme;2190;2190;40;133;150;Non vérifié;non
+57267;Le Val-de-Guéblange;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;20817;72;167;789;Non vérifié;non
+57268;Guébling;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;4946;108;152;125;Sans anomalie apparente;non
+57269;Guénange;57;eau potable;63321;2024;81,4;3,5;15,4;68,1;conforme;146402;71343;24;83;8083;Non vérifié;non
+57270;Val-de-Bride;57;eau potable;63419;2024;28,2;24,1;9,5;66,9;non conforme;68613;68613;368;930;511;Non vérifié;non
+57271;Guenviller;57;eau potable;63206;2024;86,5;1,5;9,9;67,0;conforme;44348;3086;12;56;680;Non vérifié;non
+57272;Guermange;57;eau potable;63223;2024;92,3;0,6;7,5;66,5;conforme;22995;1323;38;35;95;Non vérifié;non
+57273;Guerstling;57;eau potable;63309;2024;74,9;2,9;8,6;66,7;conforme;212970;5999;46;125;360;Non vérifié;non
+57274;Guerting;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;15187;48;130;866;Non vérifié;non
+57275;Guessling-Hémering;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;18703;55;152;925;Non vérifié;non
+57276;Guinglange;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;6511;55;152;322;Non vérifié;non
+57277;Guinkirchen;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;2473;48;130;141;Non vérifié;non
+57278;Guinzeling;57;eau potable;63205;2024;95,0;0,1;2,7;65,5;conforme;14600;143;6;14;61;Non vérifié;non
+57280;Guntzviller;57;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;2202;17;48;353;Non vérifié;non
+57281;Haboudange;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;8903;108;152;225;Sans anomalie apparente;non
+57282;Hagen;57;eau potable;63308;2023;97,5;0,3;11,3;67,3;conforme;1767;591;4;10;387;Sans anomalie apparente;non
+57283;Hagondange;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;94299;28;62;9278;Non vérifié;non
+57284;Hallering;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;2002;55;152;99;Non vérifié;non
+57286;Halstroff;57;eau potable;63385;2024;98,1;0,4;21,0;69,2;conforme;527;527;5;17;288;Non vérifié;non
+57287;Basse-Ham;57;eau potable : THIONVILLE;132048;2024;75,7;9,6;30,0;71,0;conforme;1219392;48590;57;120;2349;Non vérifié;non
+57288;Ham-sous-Varsberg;57;eau potable;63336;2024;93,1;1,0;13,6;67,7;conforme;11246;8412;8;27;2888;Non vérifié;non
+57289;Hambach;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;72978;72;167;2766;Non vérifié;non
+57290;Hampont;57;eau potable;63311;2024;81,0;3,5;14,8;68,0;conforme;133524;5146;84;86;167;Non vérifié;non
+57291;Hangviller;57;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;1578;17;48;253;Non vérifié;non
+57292;Hannocourt;57;eau potable;63307;2024;56,4;4,6;6,0;66,2;non conforme;30222;865;158;281;15;Non vérifié;non
+57293;Han-sur-Nied;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;5035;55;152;249;Non vérifié;non
+57294;Hanviller;57;eau potable;63213;2024;55,6;3,1;3,9;65,8;non conforme;8746;5423;80;288;186;Non vérifié;non
+57295;Haraucourt-sur-Seille;57;eau potable;63324;2024;80,0;2,1;8,5;66,7;conforme;5327;1739;43;90;111;Non vérifié;non
+57296;Hargarten-aux-Mines;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;18817;48;130;1073;Non vérifié;non
+57297;Harprich;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;3700;55;152;183;Non vérifié;non
+57298;Harreberg;57;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;2302;17;48;369;Non vérifié;non
+57299;Hartzviller;57;eau potable;63220;2024;90,6;1,0;9,6;66,9;conforme;67416;7752;23;38;934;Non vérifié;non
+57300;Haselbourg;57;eau potable;63254;2024;100,0;0,0;8,6;66,7;conforme;0;0;0;0;295;Non vérifié;non
+57302;Hattigny;57;eau potable;63220;2024;90,6;1,0;9,6;66,9;conforme;67416;1950;23;38;235;Non vérifié;non
+57303;Hauconcourt;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;5885;28;62;579;Non vérifié;non
+57304;Haut-Clocher;57;eau potable;63256;2024;87,1;0,7;4,7;65,9;conforme;2862;2862;23;54;340;Non vérifié;non
+57305;Havange;57;eau potable;63318;2024;79,2;4,3;16,2;68,2;conforme;667038;5412;33;97;456;Non vérifié;non
+57306;Hayange;57;eau potable;63318;2024;79,2;4,3;16,2;68,2;conforme;667038;187585;33;97;15806;Non vérifié;non
+57307;Hayes;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;2551;28;62;251;Non vérifié;non
+57308;Hazembourg;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;4010;72;167;152;Non vérifié;non
+57309;Heining-lès-Bouzonville;57;eau potable;63309;2024;74,9;2,9;8,6;66,7;conforme;212970;8116;46;125;487;Non vérifié;non
+57310;Hellering-lès-Fénétrange;57;eau potable;103990;2024;63,1;3,2;5,5;66,1;non conforme;245280;5141;76;213;186;Non vérifié;non
+57311;Hellimer;57;eau potable;63214;2024;79,3;1,5;5,9;66,2;conforme;79388;6079;32;93;523;Non vérifié;non
+57312;Helstroff;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;8435;48;130;481;Non vérifié;non
+57313;Hémilly;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;2750;55;152;136;Non vérifié;non
+57314;Héming;57;eau potable;63220;2024;90,6;1,0;9,6;66,9;conforme;67416;4067;23;38;490;Non vérifié;non
+57315;Henridorff;57;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;4405;17;48;706;Non vérifié;non
+57316;Henriville;57;eau potable;63228;2024;71,1;3,1;7,7;66,5;conforme;67890;10750;40;147;742;Non vérifié;non
+57317;Hérange;57;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;649;17;48;104;Non vérifié;non
+57318;Hermelange;57;eau potable;63220;2024;90,6;1,0;9,6;66,9;conforme;67416;1884;23;38;227;Non vérifié;non
+57319;Herny;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;10413;55;152;515;Non vérifié;non
+57320;Hertzing;57;eau potable;63220;2024;90,6;1,0;9,6;66,9;conforme;67416;1436;23;38;173;Non vérifié;non
+57321;Hesse;57;eau potable;63259;2024;91,1;1,1;11,2;67,2;conforme;2008;2008;10;36;549;Non vérifié;non
+57322;Hestroff;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;8453;48;130;482;Non vérifié;non
+57323;Hettange-Grande;57;eau potable;63388;2024;75,5;6,6;20,4;69,1;conforme;125967;125967;44;119;7772;Non vérifié;non
+57324;Hilbesheim;57;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;3849;17;48;617;Non vérifié;non
+57325;Hilsprich;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;22347;72;167;847;Non vérifié;non
+57326;Hinckange;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;5629;48;130;321;Non vérifié;non
+57328;Holacourt;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;1759;55;152;87;Non vérifié;non
+57329;Holling;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;7786;48;130;444;Non vérifié;non
+57330;Holving;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;33455;72;167;1268;Non vérifié;non
+57331;Hombourg-Budange;57;eau potable;63314;2024;86,8;1,7;11,5;67,3;conforme;124100;3835;19;55;562;Non vérifié;non
+57332;Hombourg-Haut;57;eau potable;63260;2024;83,6;2,1;10,8;67,2;conforme;40739;40739;19;71;5976;Non vérifié;non
+57333;Hommarting;57;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;5284;17;48;847;Non vérifié;non
+57334;Hommert;57;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;1903;17;48;305;Non vérifié;non
+57335;Honskirch;57;eau potable;63335;2024;79,6;2,3;8,8;66,8;conforme;42470;4587;59;95;213;Non vérifié;non
+57336;L' Hôpital;57;eau potable;63231;2024;91,7;5,3;58,6;76,7;conforme;394290;73535;39;112;5183;Non vérifié;non
+57337;Hoste;57;eau potable;63206;2024;86,5;1,5;9,9;67,0;conforme;44348;2550;12;56;562;Non vérifié;non
+57338;Hottviller;57;eau potable : PERIMETRE HOTTVILLER;63261;2024;81,0;1,9;8,2;66,6;conforme;7129;7129;39;84;504;Non vérifié;non
+57339;Hultehouse;57;eau potable;63262;2024;83,9;1,9;9,8;67,0;conforme;3148;3148;24;71;360;Non vérifié;non
+57340;Hundling;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;35328;72;167;1339;Non vérifié;non
+57341;Hunting;57;eau potable : SYNDICAT EAUX DE KIRSCHNAUMEN;63322;2024;72,9;2,5;6,6;66,3;conforme;82536;10092;41;138;673;Non vérifié;non
+57342;Ibigny;57;eau potable;63220;2024;90,6;1,0;9,6;66,9;conforme;67416;747;23;38;90;Non vérifié;non
+57343;Illange;57;eau potable : THIONVILLE;132048;2024;75,7;9,6;30,0;71,0;conforme;1219392;36613;57;120;1770;Non vérifié;non
+57344;Imling;57;eau potable;63216;2023;66,8;3,6;7,2;66,4;conforme;21392;16614;66;181;685;Sans anomalie apparente;non
+57345;Inglange;57;eau potable;63314;2024;86,8;1,7;11,5;67,3;conforme;124100;2634;19;55;386;Non vérifié;non
+57346;Insming;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;23938;108;152;605;Sans anomalie apparente;non
+57347;Insviller;57;eau potable;63205;2024;95,0;0,1;2,7;65,5;conforme;14600;395;6;14;168;Non vérifié;non
+57348;Ippling;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;20764;72;167;787;Non vérifié;non
+57349;Jallaucourt;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;2770;55;152;137;Non vérifié;non
+57350;Jouy-aux-Arches;57;eau potable : Régie Jouy-aux-Arches;63390;2024;59,8;14,5;21,5;69,3;non conforme;61816;61816;118;246;1430;Non vérifié;non
+57351;Jury;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;14310;28;62;1408;Non vérifié;non
+57352;Jussy;57;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;8684;51;139;466;Non vérifié;non
+57354;Juville;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;2952;55;152;146;Non vérifié;non
+57355;Kalhausen;57;eau potable;63217;2024;64,7;5,5;10,1;67,0;non conforme;57214;29760;105;199;774;Non vérifié;non
+57356;Kanfen;57;eau potable : THIONVILLE;132048;2024;75,7;9,6;30,0;71,0;conforme;1219392;25546;57;120;1235;Non vérifié;non
+57357;Kappelkinger;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;11213;72;167;425;Non vérifié;non
+57358;Kédange-sur-Canner;57;eau potable;63314;2024;86,8;1,7;11,5;67,3;conforme;124100;7650;19;55;1121;Non vérifié;non
+57359;Kemplich;57;eau potable : SYNDICAT EAUX DE KIRSCHNAUMEN;63322;2024;72,9;2,5;6,6;66,3;conforme;82536;2714;41;138;181;Non vérifié;non
+57360;Kerbach;57;eau potable;63211;2024;79,4;4,9;18,9;68,8;conforme;838610;14872;33;97;1224;Non vérifié;non
+57361;Kerling-lès-Sierck;57;eau potable : SYNDICAT EAUX DE KIRSCHNAUMEN;63322;2024;72,9;2,5;6,6;66,3;conforme;82536;8982;41;138;599;Non vérifié;non
+57362;Kerprich-aux-Bois;57;eau potable;63216;2023;66,8;3,6;7,2;66,4;conforme;21392;4778;66;181;197;Sans anomalie apparente;non
+57364;Kirsch-lès-Sierck;57;eau potable : SYNDICAT DES EAUX DU MEINSBERG;63325;2024;86,4;1,3;8,2;66,6;conforme;21827;2304;19;59;328;Non vérifié;non
+57365;Kirschnaumen;57;eau potable : SYNDICAT EAUX DE KIRSCHNAUMEN;63322;2024;72,9;2,5;6,6;66,3;conforme;82536;7213;41;138;481;Non vérifié;non
+57366;Kirviller;57;eau potable;63335;2024;79,6;2,3;8,8;66,8;conforme;42470;3058;59;95;142;Non vérifié;non
+57367;Klang;57;eau potable;63314;2024;86,8;1,7;11,5;67,3;conforme;124100;1420;19;55;208;Non vérifié;non
+57368;Knutange;57;eau potable;63318;2024;79,2;4,3;16,2;68,2;conforme;667038;37966;33;97;3199;Non vérifié;non
+57370;Koenigsmacker;57;eau potable;63613;2024;78,9;3,5;13,1;67,6;conforme;40101;30700;38;124;2224;Non vérifié;non
+57371;Haute-Kontz;57;eau potable;63387;2023;99,3;0,1;13,9;67,8;conforme;226;226;1;3;532;Sans anomalie apparente;non
+57372;Kuntzig;57;eau potable;63314;2024;86,8;1,7;11,5;67,3;conforme;124100;9275;19;55;1359;Non vérifié;non
+57373;Lachambre;57;eau potable;63206;2024;86,5;1,5;9,9;67,0;conforme;44348;4111;12;56;906;Non vérifié;non
+57374;Lafrimbolle;57;eau potable;63220;2024;90,6;1,0;9,6;66,9;conforme;67416;1751;23;38;211;Non vérifié;non
+57375;Lagarde;57;eau potable;164013;2024;81,3;1,7;7,3;66,5;conforme;59264;3311;51;85;179;Non vérifié;non
+57376;Lambach;57;eau potable;132079;2024;73,8;2,5;7,0;66,4;conforme;21444;8953;53;131;463;Non vérifié;non
+57377;Landange;57;eau potable;63220;2024;90,6;1,0;9,6;66,9;conforme;67416;1984;23;38;239;Non vérifié;non
+57379;Landroff;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;10248;108;152;259;Sans anomalie apparente;non
+57380;Laneuveville-lès-Lorquin;57;eau potable;63220;2024;90,6;1,0;9,6;66,9;conforme;67416;863;23;38;104;Non vérifié;non
+57381;Laneuveville-en-Saulnois;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;5763;55;152;285;Non vérifié;non
+57382;Langatte;57;eau potable;63218;2024;43,6;6,2;4,8;66,0;non conforme;90520;64496;282;469;627;Non vérifié;non
+57383;Languimberg;57;eau potable;63223;2024;92,3;0,6;7,5;66,5;conforme;22995;2159;38;35;155;Non vérifié;non
+57384;Laning;57;eau potable;63214;2024;79,3;1,5;5,9;66,2;conforme;79388;6730;32;93;579;Non vérifié;non
+57385;Laquenexy;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;25376;55;152;1255;Non vérifié;non
+57386;Laudrefang;57;eau potable : commune de Folschviller et Valmont;63210;2024;83,4;4,0;19,9;69,0;conforme;110011;4310;35;85;335;Non vérifié;non
+57387;Laumesfeld;57;eau potable : SYNDICAT EAUX DE KIRSCHNAUMEN;63322;2024;72,9;2,5;6,6;66,3;conforme;82536;4169;41;138;278;Non vérifié;non
+57388;Launstroff;57;eau potable;63323;2024;83,3;1,7;8,5;66,7;conforme;7756;2169;25;73;238;Non vérifié;non
+57389;Lelling;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;9261;55;152;458;Non vérifié;non
+57390;Lemberg;57;eau potable;132043;2024;90,0;0,0;14,9;68,0;conforme;0;0;0;0;1428;Non vérifié;non
+57391;Lemoncourt;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;1153;55;152;57;Non vérifié;non
+57392;Lemud;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;10433;55;152;516;Non vérifié;non
+57393;Lengelsheim;57;eau potable;63229;2024;65,6;2,1;4,0;65,8;non conforme;76650;5993;88;193;186;Non vérifié;non
+57394;Léning;57;eau potable;63214;2024;79,3;1,5;5,9;66,2;conforme;79388;3731;32;93;321;Non vérifié;non
+57395;Lesse;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;4165;55;152;206;Non vérifié;non
+57396;Lessy;57;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;14797;51;139;794;Non vérifié;non
+57397;Ley;57;eau potable;164165;2024;73,4;2,4;6,5;66,3;conforme;104559;2911;73;146;109;Non vérifié;non
+57398;Leyviller;57;eau potable;63214;2024;79,3;1,5;5,9;66,2;conforme;79388;5835;32;93;502;Non vérifié;non
+57401;Lidrezing;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;3165;108;152;80;Sans anomalie apparente;non
+57402;Liederschiedt;57;eau potable;63225;2024;86,3;0,8;4,9;66,0;conforme;2126;1158;27;59;116;Non vérifié;non
+57403;Liéhon;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;961;20;60;130;Non vérifié;non
+57404;Lindre-Basse;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;9259;108;152;234;Sans anomalie apparente;non
+57405;Lindre-Haute;57;eau potable;63396;2024;94,3;0,5;8,3;66,7;conforme;639;639;37;22;47;Non vérifié;non
+57406;Liocourt;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;2790;55;152;138;Non vérifié;non
+57407;Lixheim;57;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;3444;17;48;552;Non vérifié;non
+57408;Lixing-lès-Rouhling;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;21081;72;167;799;Non vérifié;non
+57409;Lixing-lès-Saint-Avold;57;eau potable;63214;2024;79,3;1,5;5,9;66,2;conforme;79388;7823;32;93;673;Non vérifié;non
+57410;Lhor;57;eau potable;63205;2024;95,0;0,1;2,7;65,5;conforme;14600;324;6;14;138;Non vérifié;non
+57411;Lommerange;57;eau potable;63318;2024;79,2;4,3;16,2;68,2;conforme;667038;4510;33;97;380;Non vérifié;non
+57412;Longeville-lès-Metz;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;41691;28;62;4102;Non vérifié;non
+57413;Longeville-lès-Saint-Avold;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;72225;55;152;3572;Non vérifié;non
+57414;Lorquin;57;eau potable;63220;2024;90,6;1,0;9,6;66,9;conforme;67416;9544;23;38;1150;Non vérifié;non
+57415;Lorry-lès-Metz;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;17482;28;62;1720;Non vérifié;non
+57416;Lorry-Mardigny;57;eau potable : LORRY-MARDIGNY;63397;2024;96,2;0,7;17,8;68,6;conforme;2131;2131;9;26;683;Non vérifié;non
+57417;Lostroff;57;eau potable;63205;2024;95,0;0,1;2,7;65,5;conforme;14600;167;6;14;71;Non vérifié;non
+57418;Loudrefing;57;eau potable;63205;2024;95,0;0,1;2,7;65,5;conforme;14600;681;6;14;290;Non vérifié;non
+57419;Loupershouse;57;eau potable;63228;2024;71,1;3,1;7,7;66,5;conforme;67890;13097;40;147;904;Non vérifié;non
+57421;Loutzviller;57;eau potable;63442;2024;52,2;6,0;6,5;66,3;non conforme;23433;4803;88;337;149;Non vérifié;non
+57422;Louvigny;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;6505;20;60;880;Non vérifié;non
+57423;Lubécourt;57;eau potable;63311;2024;81,0;3,5;14,8;68,0;conforme;133524;2034;84;86;66;Non vérifié;non
+57424;Lucy;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;4529;55;152;224;Non vérifié;non
+57425;Luppy;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;4398;20;60;595;Non vérifié;non
+57426;Luttange;57;eau potable;63314;2024;86,8;1,7;11,5;67,3;conforme;124100;6709;19;55;983;Non vérifié;non
+57427;Lutzelbourg;57;eau potable;63269;2024;51,6;7,9;8,4;66,7;non conforme;28172;28172;140;343;551;Non vérifié;non
+57428;Macheren;57;eau potable;63206;2024;86,5;1,5;9,9;67,0;conforme;44348;12769;12;56;2814;Non vérifié;non
+57430;Mainvillers;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;6430;55;152;318;Non vérifié;non
+57431;Maizeroy;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;8290;55;152;410;Non vérifié;non
+57433;Maizières-lès-Metz;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;117696;28;62;11580;Non vérifié;non
+57434;Maizières-lès-Vic;57;eau potable;63223;2024;92,3;0,6;7,5;66,5;conforme;22995;6463;38;35;464;Non vérifié;non
+57436;Malaucourt-sur-Seille;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;2629;55;152;130;Non vérifié;non
+57437;Malling;57;eau potable;63613;2024;78,9;3,5;13,1;67,6;conforme;40101;9401;38;124;681;Non vérifié;non
+57438;Malroy;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;3588;28;62;353;Non vérifié;non
+57439;Manderen-Ritzing;57;eau potable : SYNDICAT DES EAUX DU MEINSBERG;63325;2024;86,4;1,3;8,2;66,6;conforme;21827;4306;19;59;613;Non vérifié;non
+57440;Manhoué;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;2891;55;152;143;Non vérifié;non
+57441;Manom;57;eau potable : THIONVILLE;132048;2024;75,7;9,6;30,0;71,0;conforme;1219392;64889;57;120;3137;Non vérifié;non
+57442;Many;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;5196;55;152;257;Non vérifié;non
+57443;Marange-Silvange;57;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;121861;51;139;6539;Non vérifié;non
+57444;Marange-Zondrange;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;7522;55;152;372;Non vérifié;non
+57445;Marieulles;57;eau potable : ancien périmètre MARIEULLES;63400;2024;94,7;0,7;12,0;67,4;conforme;2059;2059;8;21;700;Non vérifié;non
+57446;Marimont-lès-Bénestroff;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;2216;108;152;56;Sans anomalie apparente;non
+57447;Marly;57;eau potable : ancien périmètre MONTIGNY-LES-METZ;63328;2024;74,6;8,6;25,3;70,1;conforme;877037;201083;54;130;10286;Non vérifié;non
+57448;Marsal;57;eau potable;63324;2024;80,0;2,1;8,5;66,7;conforme;5327;3588;43;90;229;Non vérifié;non
+57449;Marsilly;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;5915;28;62;582;Non vérifié;non
+57451;Marthille;57;eau potable;63311;2024;81,0;3,5;14,8;68,0;conforme;133524;5146;84;86;167;Non vérifié;non
+57452;La Maxe;57;eau potable : ancien périmètre MAXE (LA);63468;2024;94,3;1,0;16,7;68,3;conforme;3365;3365;9;22;1056;Non vérifié;non
+57453;Maxstadt;57;eau potable;63214;2024;79,3;1,5;5,9;66,2;conforme;79388;3452;32;93;297;Non vérifié;non
+57454;Mécleuves;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;8841;20;60;1196;Non vérifié;non
+57455;Mégange;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;2420;48;130;138;Non vérifié;non
+57456;Meisenthal;57;eau potable;63221;2023;82,2;1,8;8,2;66,6;conforme;19710;7595;33;81;635;Sans anomalie apparente;non
+57457;Menskirch;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;2473;48;130;141;Non vérifié;non
+57459;Merschweiller;57;eau potable : SYNDICAT DES EAUX DU MEINSBERG;63325;2024;86,4;1,3;8,2;66,6;conforme;21827;2037;19;59;290;Non vérifié;non
+57460;Merten;57;eau potable;63401;2024;74,1;4,4;12,7;67,5;conforme;20878;20878;40;127;1444;Non vérifié;non
+57461;Métairies-Saint-Quirin;57;eau potable;63220;2024;90,6;1,0;9,6;66,9;conforme;67416;2249;23;38;271;Non vérifié;non
+57462;Metting;57;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;2558;17;48;410;Non vérifié;non
+57463;Metz;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;1245785;28;62;122572;Non vérifié;non
+57464;Metzeresche;57;eau potable;63314;2024;86,8;1,7;11,5;67,3;conforme;124100;6961;19;55;1020;Non vérifié;non
+57465;Metzervisse;57;eau potable;63314;2024;86,8;1,7;11,5;67,3;conforme;124100;15540;19;55;2277;Non vérifié;non
+57466;Metzing;57;eau potable;63211;2024;79,4;4,9;18,9;68,8;conforme;838610;8529;33;97;702;Non vérifié;non
+57467;Mey;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;3141;28;62;309;Non vérifié;non
+57468;Mittelbronn;57;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;3968;17;48;636;Non vérifié;non
+57469;Mittersheim;57;eau potable;63205;2024;95,0;0,1;2,7;65,5;conforme;14600;1370;6;14;583;Non vérifié;non
+57470;Molring;57;eau potable;63205;2024;95,0;0,1;2,7;65,5;conforme;14600;28;6;14;12;Non vérifié;non
+57471;Momerstroff;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;5226;48;130;298;Non vérifié;non
+57472;Moncheux;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;2952;55;152;146;Non vérifié;non
+57473;Moncourt;57;eau potable;63403;2023;100,0;0,0;8,3;66,7;conforme;0;0;0;0;63;Sans anomalie apparente;non
+57474;Mondelange;57;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;106207;51;139;5699;Non vérifié;non
+57475;Mondorff;57;eau potable;63331;2024;81,8;2,3;10,5;67,1;conforme;37777;6638;30;83;609;Non vérifié;non
+57476;Monneren;57;eau potable : SYNDICAT EAUX DE KIRSCHNAUMEN;63322;2024;72,9;2,5;6,6;66,3;conforme;82536;5968;41;138;398;Non vérifié;non
+57477;Montbronn;57;eau potable;63273;2024;57,4;9,8;13,2;67,6;non conforme;53655;53655;93;271;1578;Non vérifié;non
+57478;Montdidier;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;3205;108;152;81;Sans anomalie apparente;non
+57479;Montenach;57;eau potable;63404;2024;97,7;0,2;7,4;66,5;conforme;876;876;5;10;495;Non vérifié;non
+57480;Montigny-lès-Metz;57;eau potable : ancien périmètre MONTIGNY-LES-METZ;63328;2024;74,6;8,6;25,3;70,1;conforme;877037;424570;54;130;21718;Non vérifié;non
+57481;Montois-la-Montagne;57;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;50522;51;139;2711;Non vérifié;non
+57482;Ogy-Montoy-Flanville;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;18356;28;62;1806;Non vérifié;non
+57483;Morhange;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;130889;108;152;3308;Sans anomalie apparente;non
+57484;Morsbach;57;eau potable;63211;2024;79,4;4,9;18,9;68,8;conforme;838610;32015;33;97;2635;Non vérifié;non
+57485;Morville-lès-Vic;57;eau potable;63311;2024;81,0;3,5;14,8;68,0;conforme;133524;3236;84;86;105;Non vérifié;non
+57486;Morville-sur-Nied;57;eau potable;63307;2024;56,4;4,6;6,0;66,2;non conforme;30222;6979;158;281;121;Non vérifié;non
+57487;Moulins-lès-Metz;57;eau potable : ancien périmètre MONTIGNY-LES-METZ;63328;2024;74,6;8,6;25,3;70,1;conforme;877037;102927;54;130;5265;Non vérifié;non
+57488;Moussey;57;eau potable;63274;2022;76,7;3,4;11,2;67,2;conforme;13651;13651;67;111;559;Sans anomalie apparente;non
+57489;Mouterhouse;57;eau potable;63276;2024;75,6;2,1;6,5;66,3;conforme;5910;5910;60;118;270;Non vérifié;non
+57490;Moyenvic;57;eau potable;164165;2024;73,4;2,4;6,5;66,3;conforme;104559;8306;73;146;311;Non vérifié;non
+57491;Moyeuvre-Grande;57;eau potable : MOYEUVRE-GRANDE;63406;2024;72,5;6,7;17,7;68,5;conforme;123424;123424;46;145;7311;Non vérifié;non
+57492;Moyeuvre-Petite;57;eau potable : MOYEUVRE-PETITE;63407;2024;99,1;0,2;18,4;68,7;conforme;174;174;1;4;442;Non vérifié;non
+57493;Mulcey;57;eau potable;63329;2024;64,5;3,1;5,6;66,1;non conforme;14710;7355;96;201;209;Non vérifié;non
+57494;Munster;57;eau potable;63335;2024;79,6;2,3;8,8;66,8;conforme;42470;5104;59;95;237;Non vérifié;non
+57495;Narbéfontaine;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;2017;48;130;115;Non vérifié;non
+57496;Nébing;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;12978;108;152;328;Sans anomalie apparente;non
+57497;Nelling;57;eau potable;63214;2024;79,3;1,5;5,9;66,2;conforme;79388;3092;32;93;266;Non vérifié;non
+57498;Neufchef;57;eau potable;63318;2024;79,2;4,3;16,2;68,2;conforme;667038;31450;33;97;2650;Non vérifié;non
+57499;Neufgrange;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;35988;72;167;1364;Non vérifié;non
+57500;Neufmoulins;57;eau potable;63220;2024;90,6;1,0;9,6;66,9;conforme;67416;282;23;38;34;Non vérifié;non
+57501;Neufvillage;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;1939;108;152;49;Sans anomalie apparente;non
+57502;Neunkirchen-lès-Bouzonville;57;eau potable;63309;2024;74,9;2,9;8,6;66,7;conforme;212970;5416;46;125;325;Non vérifié;non
+57504;Niderhoff;57;eau potable;63220;2024;90,6;1,0;9,6;66,9;conforme;67416;2316;23;38;279;Non vérifié;non
+57505;Niderviller;57;eau potable;63277;2024;68,1;4,5;9,7;66,9;conforme;20975;20975;50;169;1138;Non vérifié;non
+57506;Niederstinzel;57;eau potable;63205;2024;95,0;0,1;2,7;65,5;conforme;14600;552;6;14;235;Non vérifié;non
+57507;Niedervisse;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;4893;48;130;279;Non vérifié;non
+57508;Nilvange;57;eau potable;63318;2024;79,2;4,3;16,2;68,2;conforme;667038;51519;33;97;4341;Non vérifié;non
+57509;Nitting;57;eau potable;63220;2024;90,6;1,0;9,6;66,9;conforme;67416;4390;23;38;529;Non vérifié;non
+57510;Noisseville;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;11272;28;62;1109;Non vérifié;non
+57511;Norroy-le-Veneur;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;10093;28;62;993;Non vérifié;non
+57512;Nouilly;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;7308;28;62;719;Non vérifié;non
+57513;Nousseviller-lès-Bitche;57;eau potable;63229;2024;65,6;2,1;4,0;65,8;non conforme;76650;4833;88;193;150;Non vérifié;non
+57514;Nousseviller-Saint-Nabor;57;eau potable;63211;2024;79,4;4,9;18,9;68,8;conforme;838610;14361;33;97;1182;Non vérifié;non
+57515;Novéant-sur-Moselle;57;eau potable : NOVEANT-SUR-MOSELLE;63408;2024;92,0;1,4;16,5;68,3;conforme;7231;7231;11;31;1844;Non vérifié;non
+57516;Oberdorff;57;eau potable;63309;2024;74,9;2,9;8,6;66,7;conforme;212970;5483;46;125;329;Non vérifié;non
+57517;Obergailbach;57;eau potable;63278;2024;65,7;4,1;7,9;66,6;non conforme;7482;7482;76;190;268;Non vérifié;non
+57518;Oberstinzel;57;eau potable;63205;2024;95,0;0,1;2,7;65,5;conforme;14600;742;6;14;316;Non vérifié;non
+57519;Obervisse;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;2701;48;130;154;Non vérifié;non
+57520;Obreck;57;eau potable;63311;2024;81,0;3,5;14,8;68,0;conforme;133524;1233;84;86;40;Non vérifié;non
+57521;OEting;57;eau potable;63211;2024;79,4;4,9;18,9;68,8;conforme;838610;31578;33;97;2599;Non vérifié;non
+57524;Ommeray;57;eau potable;164165;2024;73,4;2,4;6,5;66,3;conforme;104559;3392;73;146;127;Non vérifié;non
+57525;Oriocourt;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;1112;55;152;55;Non vérifié;non
+57526;Ormersviller;57;eau potable;63229;2024;65,6;2,1;4,0;65,8;non conforme;76650;12404;88;193;385;Non vérifié;non
+57527;Orny;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;3312;20;60;448;Non vérifié;non
+57528;Oron;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;2244;55;152;111;Non vérifié;non
+57529;Ottange;57;eau potable;63318;2024;79,2;4,3;16,2;68,2;conforme;667038;35129;33;97;2960;Non vérifié;non
+57530;Ottonville;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;8137;48;130;464;Non vérifié;non
+57531;Oudrenne;57;eau potable : SYNDICAT EAUX DE KIRSCHNAUMEN;63322;2024;72,9;2,5;6,6;66,3;conforme;82536;10857;41;138;724;Non vérifié;non
+57532;Pagny-lès-Goin;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;1663;20;60;225;Non vérifié;non
+57533;Pange;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;17571;55;152;869;Non vérifié;non
+57534;Peltre;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;18193;28;62;1790;Non vérifié;non
+57535;Petit-Réderching;57;eau potable;64040;2024;74,3;2,3;6,7;66,3;conforme;49111;21294;41;125;1417;Non vérifié;non
+57536;Petit-Tenquin;57;eau potable;63214;2024;79,3;1,5;5,9;66,2;conforme;79388;2522;32;93;217;Non vérifié;non
+57537;Petite-Rosselle;57;eau potable;63211;2024;79,4;4,9;18,9;68,8;conforme;838610;74978;33;97;6171;Non vérifié;non
+57538;Pettoncourt;57;eau potable;63409;2024;84,7;1,6;9,0;66,8;conforme;1635;1635;15;65;296;Non vérifié;non
+57539;Pévange;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;1583;108;152;40;Sans anomalie apparente;non
+57540;Phalsbourg;57;eau potable;63279;2024;80,7;3,9;16,5;68,3;conforme;61751;61751;36;99;4688;Non vérifié;non
+57541;Philippsbourg;57;eau potable;132044;2024;76,5;1,8;5,8;66,2;conforme;10512;10512;47;113;613;Non vérifié;non
+57542;Piblange;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;16537;48;130;943;Non vérifié;non
+57543;Pierrevillers;57;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;26892;51;139;1443;Non vérifié;non
+57544;Plaine-de-Walsch;57;eau potable;63281;2024;77,5;2,3;8,0;66,6;conforme;6716;6716;31;106;601;Non vérifié;non
+57545;Plappeville;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;20602;28;62;2027;Non vérifié;non
+57546;Plesnois;57;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;14387;51;139;772;Non vérifié;non
+57547;Pommérieux;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;5581;20;60;755;Non vérifié;non
+57548;Pontoy;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;4531;20;60;613;Non vérifié;non
+57549;Pontpierre;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;14861;55;152;735;Non vérifié;non
+57550;Porcelette;57;eau potable : commune de Porcelette;63282;2024;96,4;0,5;12,6;67,5;conforme;4006;4006;5;15;2397;Non vérifié;non
+57551;Postroff;57;eau potable;103990;2024;63,1;3,2;5,5;66,1;non conforme;245280;5417;76;213;196;Non vérifié;non
+57552;Pouilly;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;7119;20;60;963;Non vérifié;non
+57553;Pournoy-la-Chétive;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;4509;20;60;610;Non vérifié;non
+57554;Pournoy-la-Grasse;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;5670;20;60;767;Non vérifié;non
+57555;Prévocourt;57;eau potable;63307;2024;56,4;4,6;6,0;66,2;non conforme;30222;6056;158;281;105;Non vérifié;non
+57556;Puttelange-aux-Lacs;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;79574;72;167;3016;Non vérifié;non
+57557;Puttelange-lès-Thionville;57;eau potable;63331;2024;81,8;2,3;10,5;67,1;conforme;37777;11216;30;83;1029;Non vérifié;non
+57558;Puttigny;57;eau potable;63311;2024;81,0;3,5;14,8;68,0;conforme;133524;2311;84;86;75;Non vérifié;non
+57559;Puzieux;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;3377;55;152;167;Non vérifié;non
+57560;Racrange;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;24571;108;152;621;Sans anomalie apparente;non
+57561;Rahling;57;eau potable;63222;2024;86,0;1,4;8,7;66,7;conforme;13787;7043;27;59;707;Non vérifié;non
+57562;Ranguevaux;57;eau potable : Commune de RANGUEVAUX;63410;2024;88,5;8,5;65,0;78,0;conforme;15947;15947;48;186;907;Non vérifié;non
+57563;Raville;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;6672;55;152;330;Non vérifié;non
+57564;Réchicourt-le-Château;57;eau potable;63220;2024;90,6;1,0;9,6;66,9;conforme;67416;4565;23;38;550;Non vérifié;non
+57565;Rédange;57;eau potable : Rédange;63411;2024;39,7;18,1;11,9;67,4;non conforme;62762;62762;170;555;1014;Non vérifié;non
+57566;Réding;57;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;14225;17;48;2280;Non vérifié;non
+57567;Rémelfang;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;2578;48;130;147;Non vérifié;non
+57568;Rémelfing;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;34431;72;167;1305;Non vérifié;non
+57569;Rémeling;57;eau potable : SYNDICAT EAUX DE KIRSCHNAUMEN;63322;2024;72,9;2,5;6,6;66,3;conforme;82536;4934;41;138;329;Non vérifié;non
+57570;Rémering;57;eau potable;63309;2024;74,9;2,9;8,6;66,7;conforme;212970;7016;46;125;421;Non vérifié;non
+57571;Rémering-lès-Puttelange;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;27703;72;167;1050;Non vérifié;non
+57572;Rémilly;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;41855;55;152;2070;Non vérifié;non
+57573;Réning;57;eau potable;63214;2024;79,3;1,5;5,9;66,2;conforme;79388;1476;32;93;127;Non vérifié;non
+57574;Basse-Rentgen;57;eau potable;63308;2023;97,5;0,3;11,3;67,3;conforme;1767;800;4;10;524;Sans anomalie apparente;non
+57575;Retonfey;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;13487;28;62;1327;Non vérifié;non
+57576;Rettel;57;eau potable;63412;2024;97,5;0,4;15,4;68,1;conforme;1178;1178;4;9;869;Non vérifié;non
+57577;Reyersviller;57;eau potable;63284;2021;58,7;4,6;6,5;66,3;non conforme;12089;12089;87;259;380;Sans anomalie apparente;non
+57578;Rezonville-Vionville;57;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;9635;51;139;517;Non vérifié;non
+57579;Rhodes;57;eau potable;63223;2024;92,3;0,6;7,5;66,5;conforme;22995;1755;38;35;126;Non vérifié;non
+57580;Riche;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;7122;108;152;180;Sans anomalie apparente;non
+57581;Richeling;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;9155;72;167;347;Non vérifié;non
+57582;Richemont;57;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;40533;51;139;2175;Non vérifié;non
+57583;Richeval;57;eau potable;63220;2024;90,6;1,0;9,6;66,9;conforme;67416;921;23;38;111;Non vérifié;non
+57584;Rimling;57;eau potable;64040;2024;74,3;2,3;6,7;66,3;conforme;49111;9287;41;125;618;Non vérifié;non
+57586;Rochonvillers;57;eau potable;63318;2024;79,2;4,3;16,2;68,2;conforme;667038;2552;33;97;215;Non vérifié;non
+57587;Rodalbe;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;9734;108;152;246;Sans anomalie apparente;non
+57588;Rodemack;57;eau potable;63331;2024;81,8;2,3;10,5;67,1;conforme;37777;13919;30;83;1277;Non vérifié;non
+57589;Rohrbach-lès-Bitche;57;eau potable;63224;2024;52,6;7,9;8,8;66,8;non conforme;193195;94003;112;327;2301;Non vérifié;non
+57590;Rolbing;57;eau potable;63442;2024;52,2;6,0;6,5;66,3;non conforme;23433;8348;88;337;259;Non vérifié;non
+57591;Rombas;57;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;174638;51;139;9371;Non vérifié;non
+57592;Romelfing;57;eau potable;63205;2024;95,0;0,1;2,7;65,5;conforme;14600;771;6;14;328;Non vérifié;non
+57593;Roncourt;57;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;19717;51;139;1058;Non vérifié;non
+57594;Roppeviller;57;eau potable;63225;2024;86,3;0,8;4,9;66,0;conforme;2126;968;27;59;97;Non vérifié;non
+57595;Rorbach-lès-Dieuze;57;eau potable;63205;2024;95,0;0,1;2,7;65,5;conforme;14600;113;6;14;48;Non vérifié;non
+57596;Rosbruck;57;eau potable;63231;2024;91,7;5,3;58,6;76,7;conforme;394290;10499;39;112;740;Non vérifié;non
+57597;Rosselange;57;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;44428;51;139;2384;Non vérifié;non
+57598;Rouhling;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;52267;72;167;1981;Non vérifié;non
+57599;Roupeldange;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;5717;48;130;326;Non vérifié;non
+57600;Roussy-le-Village;57;eau potable;63333;2024;87,1;1,8;12,4;67,5;conforme;17450;11256;19;53;1592;Non vérifié;non
+57601;Rozérieulles;57;eau potable : ROZERIEULLES;63610;2024;59,1;10,0;14,4;67,9;non conforme;40916;40916;84;253;1334;Non vérifié;non
+57602;Rurange-lès-Thionville;57;eau potable;63321;2024;81,4;3,5;15,4;68,1;conforme;146402;20539;24;83;2327;Non vérifié;non
+57603;Russange;57;eau potable : Russange;63414;2024;70,4;7,3;17,3;68,5;conforme;25766;25766;56;154;1263;Non vérifié;non
+57604;Rustroff;57;eau potable;63415;2024;92,4;1,4;16,7;68,3;conforme;3567;3567;15;31;641;Non vérifié;non
+57605;Sailly-Achâtel;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;2395;20;60;324;Non vérifié;non
+57606;Saint-Avold;57;eau potable : commune de Saint-Avold;63287;2024;72,0;7,7;19,7;68,9;conforme;337260;337260;63;142;14755;Non vérifié;non
+57607;Sainte-Barbe;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;7989;28;62;786;Non vérifié;non
+57609;Saint-Epvre;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;3579;55;152;177;Non vérifié;non
+57610;Saint-François-Lacroix;57;eau potable;63309;2024;74,9;2,9;8,6;66,7;conforme;212970;5283;46;125;317;Non vérifié;non
+57611;Saint-Georges;57;eau potable;63220;2024;90,6;1,0;9,6;66,9;conforme;67416;1627;23;38;196;Non vérifié;non
+57612;Saint-Hubert;57;eau potable;63314;2024;86,8;1,7;11,5;67,3;conforme;124100;1563;19;55;229;Non vérifié;non
+57613;Saint-Jean-de-Bassel;57;eau potable;63205;2024;95,0;0,1;2,7;65,5;conforme;14600;757;6;14;322;Non vérifié;non
+57614;Saint-Jean-Kourtzerode;57;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;4037;17;48;647;Non vérifié;non
+57615;Saint-Jean-Rohrbach;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;25329;72;167;960;Non vérifié;non
+57616;Saint-Julien-lès-Metz;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;36122;28;62;3554;Non vérifié;non
+57617;Saint-Jure;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;2092;20;60;283;Non vérifié;non
+57618;Saint-Louis;57;eau potable;63289;2024;86,8;2,0;13,1;67,6;conforme;5110;5110;23;56;617;Non vérifié;non
+57619;Saint-Louis-lès-Bitche;57;eau potable : PERIMETRE SAINT-LOUIS-LES-BITCHE;63291;2024;70,0;3,4;7,8;66,6;conforme;8824;8824;54;158;445;Non vérifié;non
+57620;Sainte-Marie-aux-Chênes;57;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;84216;51;139;4519;Non vérifié;non
+57621;Saint-Médard;57;eau potable;63329;2024;64,5;3,1;5,6;66,1;non conforme;14710;3765;96;201;107;Non vérifié;non
+57622;Saint-Privat-la-Montagne;57;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;34998;51;139;1878;Non vérifié;non
+57623;Saint-Quirin;57;eau potable;63292;2021;76,5;6,1;19,6;68,9;conforme;11132;11132;44;113;692;Sans anomalie apparente;non
+57624;Sainte-Ruffine;57;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;11610;51;139;623;Non vérifié;non
+57625;Salonnes;57;eau potable;63311;2024;81,0;3,5;14,8;68,0;conforme;133524;5424;84;86;176;Non vérifié;non
+57626;Sanry-lès-Vigy;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;5153;28;62;507;Non vérifié;non
+57627;Sanry-sur-Nied;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;8614;55;152;426;Non vérifié;non
+57628;Sarralbe;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;115140;72;167;4364;Non vérifié;non
+57629;Sarraltroff;57;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;4922;17;48;789;Non vérifié;non
+57630;Sarrebourg;57;eau potable;63293;2024;88,2;2,8;21,2;69,2;conforme;131163;131163;30;55;12170;Non vérifié;non
+57631;Sarreguemines;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;531454;72;167;20143;Non vérifié;non
+57633;Sarreinsming;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;31080;72;167;1178;Non vérifié;non
+57634;Saulny;57;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;29631;51;139;1590;Non vérifié;non
+57635;Schalbach;57;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;2321;17;48;372;Non vérifié;non
+57636;Schmittviller;57;eau potable;63222;2024;86,0;1,4;8,7;66,7;conforme;13787;3337;27;59;335;Non vérifié;non
+57637;Schneckenbusch;57;eau potable;63296;2024;97,2;0,4;13,6;67,7;conforme;365;365;3;11;314;Non vérifié;non
+57638;Schoeneck;57;eau potable;63211;2024;79,4;4,9;18,9;68,8;conforme;838610;29585;33;97;2435;Non vérifié;non
+57639;Schorbach;57;eau potable : PERIMETRE SCHORBACH;132045;2024;76,0;2,4;7,7;66,5;conforme;6474;6474;32;114;548;Non vérifié;non
+57640;Schwerdorff;57;eau potable;63309;2024;74,9;2,9;8,6;66,7;conforme;212970;7866;46;125;472;Non vérifié;non
+57641;Schweyen;57;eau potable;63442;2024;52,2;6,0;6,5;66,3;non conforme;23433;10282;88;337;319;Non vérifié;non
+57642;Scy-Chazelles;57;eau potable : ancien périmètre MONTIGNY-LES-METZ;63328;2024;74,6;8,6;25,3;70,1;conforme;877037;53819;54;130;2753;Non vérifié;non
+57643;Secourt;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;1486;20;60;201;Non vérifié;non
+57644;Seingbouse;57;eau potable;63228;2024;71,1;3,1;7,7;66,5;conforme;67890;24948;40;147;1722;Non vérifié;non
+57645;Semécourt;57;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;19083;51;139;1024;Non vérifié;non
+57647;Serémange-Erzange;57;eau potable : Ancien périmètre du SIEA Florange et Seremange-Erzange;63315;2024;72,1;8,7;22,6;69,5;conforme;371819;97053;63;163;4251;Non vérifié;non
+57648;Servigny-lès-Raville;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;9625;55;152;476;Non vérifié;non
+57649;Servigny-lès-Sainte-Barbe;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;4696;28;62;462;Non vérifié;non
+57650;Sierck-les-Bains;57;eau potable;63416;2024;60,6;11,2;17,2;68,4;non conforme;67983;67983;106;253;1765;Non vérifié;non
+57651;Siersthal;57;eau potable;132079;2024;73,8;2,5;7,0;66,4;conforme;21444;12491;53;131;646;Non vérifié;non
+57652;Sillegny;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;4857;20;60;657;Non vérifié;non
+57653;Silly-en-Saulnois;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;259;20;60;35;Non vérifié;non
+57654;Silly-sur-Nied;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;14538;55;152;719;Non vérifié;non
+57655;Solgne;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;8375;20;60;1133;Non vérifié;non
+57656;Sorbey;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;7825;55;152;387;Non vérifié;non
+57657;Sotzeling;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;1029;108;152;26;Sans anomalie apparente;non
+57658;Soucht;57;eau potable;63221;2023;82,2;1,8;8,2;66,6;conforme;19710;12115;33;81;1013;Sans anomalie apparente;non
+57659;Spicheren;57;eau potable;63211;2024;79,4;4,9;18,9;68,8;conforme;838610;38188;33;97;3143;Non vérifié;non
+57660;Stiring-Wendel;57;eau potable;63211;2024;79,4;4,9;18,9;68,8;conforme;838610;133116;33;97;10956;Non vérifié;non
+57661;Sturzelbronn;57;eau potable;63298;2024;74,0;2,2;6,3;66,3;conforme;3373;3373;55;127;168;Non vérifié;non
+57662;Suisse;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;3719;108;152;94;Sans anomalie apparente;non
+57663;Talange;57;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;151325;51;139;8120;Non vérifié;non
+57664;Tarquimpol;57;eau potable;63223;2024;92,3;0,6;7,5;66,5;conforme;22995;836;38;35;60;Non vérifié;non
+57665;Tenteling;57;eau potable;63211;2024;79,4;4,9;18,9;68,8;conforme;838610;12673;33;97;1043;Non vérifié;non
+57666;Terville;57;eau potable : THIONVILLE;132048;2024;75,7;9,6;30,0;71,0;conforme;1219392;161365;57;120;7801;Non vérifié;non
+57667;Téterchen;57;eau potable;63309;2024;74,9;2,9;8,6;66,7;conforme;212970;12615;46;125;757;Non vérifié;non
+57668;Teting-sur-Nied;57;eau potable : commune de Folschviller et Valmont;63210;2024;83,4;4,0;19,9;69,0;conforme;110011;16186;35;85;1258;Non vérifié;non
+57669;Théding;57;eau potable;63211;2024;79,4;4,9;18,9;68,8;conforme;838610;29257;33;97;2408;Non vérifié;non
+57670;Thicourt;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;2669;55;152;132;Non vérifié;non
+57671;Thimonville;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;983;20;60;133;Non vérifié;non
+57672;Thionville;57;eau potable : THIONVILLE;132048;2024;75,7;9,6;30,0;71,0;conforme;1219392;882389;57;120;42658;Non vérifié;non
+57673;Thonville;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;1051;55;152;52;Non vérifié;non
+57674;Tincry;57;eau potable;63307;2024;56,4;4,6;6,0;66,2;non conforme;30222;9747;158;281;169;Non vérifié;non
+57675;Torcheville;57;eau potable;63335;2024;79,6;2,3;8,8;66,8;conforme;42470;2563;59;95;119;Non vérifié;non
+57676;Tragny;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;643;20;60;87;Non vérifié;non
+57677;Trémery;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;9808;28;62;965;Non vérifié;non
+57678;Tressange;57;eau potable;63318;2024;79,2;4,3;16,2;68,2;conforme;667038;29314;33;97;2470;Non vérifié;non
+57679;Tritteling-Redlach;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;10292;55;152;509;Non vérifié;non
+57680;Troisfontaines;57;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;7905;17;48;1267;Non vérifié;non
+57681;Tromborn;57;eau potable;63309;2024;74,9;2,9;8,6;66,7;conforme;212970;5649;46;125;339;Non vérifié;non
+57682;Turquestein-Blancrupt;57;eau potable;63220;2024;90,6;1,0;9,6;66,9;conforme;67416;91;23;38;11;Non vérifié;non
+57683;Uckange;57;eau potable : Commune de FAMECK - UCKANGE;63373;2024;83,9;5,3;27,6;70,5;conforme;177103;57015;22;70;7021;Non vérifié;non
+57684;Vahl-Ebersing;57;eau potable;63214;2024;79,3;1,5;5,9;66,2;conforme;79388;5661;32;93;487;Non vérifié;non
+57685;Vahl-lès-Bénestroff;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;5539;108;152;140;Sans anomalie apparente;non
+57686;Vahl-lès-Faulquemont;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;4934;55;152;244;Non vérifié;non
+57687;Vallerange;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;8349;108;152;211;Sans anomalie apparente;non
+57689;Valmestroff;57;eau potable;63314;2024;86,8;1,7;11,5;67,3;conforme;124100;2484;19;55;364;Non vérifié;non
+57690;Valmont;57;eau potable : commune de Folschviller et Valmont;63210;2024;83,4;4,0;19,9;69,0;conforme;110011;39128;35;85;3041;Non vérifié;non
+57691;Valmunster;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;1543;48;130;88;Non vérifié;non
+57692;Vannecourt;57;eau potable;63311;2024;81,0;3,5;14,8;68,0;conforme;133524;2065;84;86;67;Non vérifié;non
+57693;Vantoux;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;8365;28;62;823;Non vérifié;non
+57694;Vany;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;4858;28;62;478;Non vérifié;non
+57695;Varize-Vaudoncourt;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;8909;48;130;508;Non vérifié;non
+57696;Varsberg;57;eau potable;63336;2024;93,1;1,0;13,6;67,7;conforme;11246;2834;8;27;973;Non vérifié;non
+57697;Vasperviller;57;eau potable;63300;2023;86,6;0,8;5,1;66,0;conforme;1872;1872;16;57;322;Sans anomalie apparente;non
+57698;Vatimont;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;6187;55;152;306;Non vérifié;non
+57700;Vaudreching;57;eau potable;63309;2024;74,9;2,9;8,6;66,7;conforme;212970;8316;46;125;499;Non vérifié;non
+57701;Vaux;57;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;14760;51;139;792;Non vérifié;non
+57702;Vaxy;57;eau potable;63311;2024;81,0;3,5;14,8;68,0;conforme;133524;5208;84;86;169;Non vérifié;non
+57703;Veckersviller;57;eau potable;103990;2024;63,1;3,2;5,5;66,1;non conforme;245280;6357;76;213;230;Non vérifié;non
+57704;Veckring;57;eau potable : SYNDICAT EAUX DE KIRSCHNAUMEN;63322;2024;72,9;2,5;6,6;66,3;conforme;82536;9882;41;138;659;Non vérifié;non
+57705;Velving;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;3490;48;130;199;Non vérifié;non
+57706;Vergaville;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;20931;108;152;529;Sans anomalie apparente;non
+57707;Vernéville;57;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;13325;51;139;715;Non vérifié;non
+57708;Verny;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;15198;20;60;2056;Non vérifié;non
+57709;Vescheim;57;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;1903;17;48;305;Non vérifié;non
+57711;Vibersviller;57;eau potable;63335;2024;79,6;2,3;8,8;66,8;conforme;42470;8205;59;95;381;Non vérifié;non
+57712;Vic-sur-Seille;57;eau potable;164165;2024;73,4;2,4;6,5;66,3;conforme;104559;35174;73;146;1317;Non vérifié;non
+57713;Vieux-Lixheim;57;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;1553;17;48;249;Non vérifié;non
+57714;Haute-Vigneulles;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;8856;55;152;438;Non vérifié;non
+57715;Vigny;57;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;2875;20;60;389;Non vérifié;non
+57716;Vigy;57;eau potable;63314;2024;86,8;1,7;11,5;67,3;conforme;124100;10387;19;55;1522;Non vérifié;non
+57717;Viller;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;3559;55;152;176;Non vérifié;non
+57718;Villers-Stoncourt;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;4549;55;152;225;Non vérifié;non
+57719;Villers-sur-Nied;57;eau potable;63311;2024;81,0;3,5;14,8;68,0;conforme;133524;2496;84;86;81;Non vérifié;non
+57720;Villing;57;eau potable;63309;2024;74,9;2,9;8,6;66,7;conforme;212970;8515;46;125;511;Non vérifié;non
+57721;Vilsberg;57;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;2171;17;48;348;Non vérifié;non
+57723;Virming;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;11752;108;152;297;Sans anomalie apparente;non
+57724;Vitry-sur-Orne;57;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;53746;51;139;2884;Non vérifié;non
+57725;Vittersbourg;57;eau potable;63335;2024;79,6;2,3;8,8;66,8;conforme;42470;7193;59;95;334;Non vérifié;non
+57726;Vittoncourt;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;7886;55;152;390;Non vérifié;non
+57727;Viviers;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;2426;55;152;120;Non vérifié;non
+57728;Voimhaut;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;4994;55;152;247;Non vérifié;non
+57730;Volmerange-lès-Boulay;57;eau potable;63306;2024;74,1;3,3;9,3;66,9;conforme;356400;9610;48;130;548;Non vérifié;non
+57731;Volmerange-les-Mines;57;eau potable;63421;2024;74,5;6,2;18,1;68,6;conforme;32949;32949;39;125;2289;Non vérifié;non
+57732;Volmunster;57;eau potable;63229;2024;65,6;2,1;4,0;65,8;non conforme;76650;25034;88;193;777;Non vérifié;non
+57733;Volstroff;57;eau potable;63314;2024;86,8;1,7;11,5;67,3;conforme;124100;13950;19;55;2044;Non vérifié;non
+57734;Voyer;57;eau potable;63302;2024;78,8;3,4;12,8;67,6;conforme;4902;4902;30;97;445;Non vérifié;non
+57736;Vry;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;6413;28;62;631;Non vérifié;non
+57737;Vulmont;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;627;55;152;31;Non vérifié;non
+57738;Waldhouse;57;eau potable;63230;2023;94,0;0,3;5,3;66,1;conforme;2738;1299;10;21;347;Sans anomalie apparente;non
+57739;Waldweistroff;57;eau potable : SYNDICAT EAUX DE KIRSCHNAUMEN;63322;2024;72,9;2,5;6,6;66,3;conforme;82536;7828;41;138;522;Non vérifié;non
+57740;Waldwisse;57;eau potable : SYNDICAT DES EAUX DU MEINSBERG;63325;2024;86,4;1,3;8,2;66,6;conforme;21827;5648;19;59;804;Non vérifié;non
+57741;Walschbronn;57;eau potable;63230;2023;94,0;0,3;5,3;66,1;conforme;2738;1438;10;21;384;Sans anomalie apparente;non
+57742;Walscheid;57;eau potable;63303;2024;80,1;1,7;6,7;66,3;conforme;14892;14892;28;93;1459;Non vérifié;non
+57743;Waltembourg;57;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;1416;17;48;227;Non vérifié;non
+57745;Wiesviller;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;24115;72;167;914;Non vérifié;non
+57746;Willerwald;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;40025;72;167;1517;Non vérifié;non
+57747;Wintersbourg;57;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;1635;17;48;262;Non vérifié;non
+57748;Wittring;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;19419;72;167;736;Non vérifié;non
+57749;Voelfling-lès-Bouzonville;57;eau potable;63309;2024;74,9;2,9;8,6;66,7;conforme;212970;2833;46;125;170;Non vérifié;non
+57750;Woelfling-lès-Sarreguemines;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;18469;72;167;700;Non vérifié;non
+57751;Woippy;57;eau potable;63327;2024;87,3;5,5;37,6;72,5;conforme;2105868;152120;28;62;14967;Non vérifié;non
+57752;Woustviller;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;73506;72;167;2786;Non vérifié;non
+57753;Wuisse;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;2453;108;152;62;Sans anomalie apparente;non
+57754;Xanrey;57;eau potable;164165;2024;73,4;2,4;6,5;66,3;conforme;104559;2938;73;146;110;Non vérifié;non
+57755;Xocourt;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;2002;55;152;99;Non vérifié;non
+57756;Xouaxange;57;eau potable;63220;2024;90,6;1,0;9,6;66,9;conforme;67416;2697;23;38;325;Non vérifié;non
+57757;Yutz;57;eau potable : YUTZ;63422;2024;89,8;2,9;25,9;70,2;conforme;86882;86882;14;41;17391;Non vérifié;non
+57759;Zarbeling;57;eau potable;314374;2022;71,1;3,8;9,3;66,9;conforme;461871;2691;108;152;68;Sans anomalie apparente;non
+57760;Zetting;57;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;23086;72;167;875;Non vérifié;non
+57761;Zilling;57;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;1741;17;48;279;Non vérifié;non
+57762;Zimming;57;eau potable;63204;2024;70,6;3,5;8,4;66,7;conforme;923632;14356;55;152;710;Non vérifié;non
+57763;Zommange;57;eau potable;63223;2024;92,3;0,6;7,5;66,5;conforme;22995;599;38;35;43;Non vérifié;non
+57764;Zoufftgen;57;eau potable;132055;2020;82,6;4,5;21,5;69,3;conforme;11498;11498;25;76;1264;Sans anomalie apparente;non
+57765;Diesen;57;eau potable : Commune de Diesen;132039;2024;86,2;1,9;11,6;67,3;conforme;7386;7386;20;60;1015;Non vérifié;non
+57767;Stuckange;57;eau potable;63314;2024;86,8;1,7;11,5;67,3;conforme;124100;10339;19;55;1515;Non vérifié;non

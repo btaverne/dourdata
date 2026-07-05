@@ -7,51 +7,51 @@
 # Méthodologie et code : https://github.com/btaverne/dourdata
 # Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
 # Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
-Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
-94001;Ablon-sur-Seine;94;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;36257;17;43;5988;Non vérifié
-94002;Alfortville;94;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;275687;17;43;45531;Non vérifié
-94003;Arcueil;94;eau potable : Régie Eau Seine et Bièvre (RESB);336634;2024;91,0;10,4;105,1;85,0;conforme;1802720;121122;15;36;22200;Non vérifié
-94004;Boissy-Saint-Léger;94;eau potable : Boissy-Saint-Léger;303655;2024;92,4;13,0;158,6;85,0;conforme;145766;145766;23;62;17325;Non vérifié
-94011;Bonneuil-sur-Marne;94;eau potable : Bonneuil-sur-Marne;303654;2024;70,6;23,2;55,8;76,2;non conforme;430767;430767;65;152;18270;Non vérifié
-94015;Bry-sur-Marne;94;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;112034;17;43;18503;Non vérifié
-94016;Cachan;94;eau potable : Régie Eau Seine et Bièvre (RESB);336634;2024;91,0;10,4;105,1;85,0;conforme;1802720;169696;15;36;31103;Non vérifié
-94017;Champigny-sur-Marne;94;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;472720;17;43;78072;Non vérifié
-94018;Charenton-le-Pont;94;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;174564;17;43;28830;Non vérifié
-94019;Chennevières-sur-Marne;94;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;113288;17;43;18710;Non vérifié
-94021;Chevilly-Larue;94;eau potable : Régie Eau Seine et Bièvre (RESB);336634;2024;91,0;10,4;105,1;85,0;conforme;1802720;108169;15;36;19826;Non vérifié
-94022;Choisy-le-Roi;94;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;278200;17;43;45946;Non vérifié
-94028;Créteil;94;eau potable : Créteil;303674;2024;92,8;8,7;111,9;85,0;conforme;410084;410084;12;30;93397;Non vérifié
-94033;Fontenay-sous-Bois;94;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;325495;17;43;53757;Non vérifié
-94034;Fresnes;94;eau potable : Régie Eau Seine et Bièvre (RESB);336634;2024;91,0;10,4;105,1;85,0;conforme;1802720;161103;15;36;29528;Non vérifié
-94037;Gentilly;94;eau potable : Régie Eau Seine et Bièvre (RESB);336634;2024;91,0;10,4;105,1;85,0;conforme;1802720;108917;15;36;19963;Non vérifié
-94038;L' Haÿ-les-Roses;94;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;188841;17;43;31188;Non vérifié
-94041;Ivry-sur-Seine;94;eau potable : Régie Eau Seine et Bièvre (RESB);336634;2024;91,0;10,4;105,1;85,0;conforme;1802720;354984;15;36;65064;Non vérifié
-94042;Joinville-le-Pont;94;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;124277;17;43;20525;Non vérifié
-94043;Le Kremlin-Bicêtre;94;eau potable : Régie Eau Seine et Bièvre (RESB);336634;2024;91,0;10,4;105,1;85,0;conforme;1802720;131542;15;36;24110;Non vérifié
-94044;Limeil-Brévannes;94;eau potable : Limeil-Brévannes;303694;2024;94,2;20,3;327,0;85,0;conforme;360472;360472;36;104;27406;Non vérifié
-94046;Maisons-Alfort;94;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;343914;17;43;56799;Non vérifié
-94047;Mandres-les-Roses;94;eau potable : Mandres-les-Roses;303714;2024;83,9;5,8;30,3;71,1;conforme;43356;43356;24;70;4922;Non vérifié
-94048;Marolles-en-Brie;94;eau potable : Villecresnes + Marolles-en-Brie;333594;2024;81,1;7,2;30,9;71,2;conforme;188506;54861;31;85;4781;Non vérifié
-94052;Nogent-sur-Marne;94;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;196513;17;43;32455;Non vérifié
-94053;Noiseau;94;eau potable : Noiseau + Ormesson;333614;2024;89,3;3,7;30,8;71,2;conforme;81570;24191;14;45;4628;Non vérifié
-94054;Orly;94;eau potable : Régie Eau Seine et Bièvre (RESB);336634;2024;91,0;10,4;105,1;85,0;conforme;1802720;134532;15;36;24658;Non vérifié
-94055;Ormesson-sur-Marne;94;eau potable : Noiseau + Ormesson;333614;2024;89,3;3,7;30,8;71,2;conforme;81570;57379;14;45;10977;Non vérifié
-94056;Périgny;94;eau potable : Périgny-sur-Yerres;303774;2024;83,9;5,4;28,0;70,6;conforme;22213;22213;22;70;2724;Non vérifié
-94058;Le Perreux-sur-Marne;94;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;213497;17;43;35260;Non vérifié
-94059;Le Plessis-Trévise;94;eau potable : 3 communes;152984;2024;90,2;4,4;40,8;73,2;conforme;367742;107162;14;42;21112;Non vérifié
-94060;La Queue-en-Brie;94;eau potable : 3 communes;152984;2024;90,2;4,4;40,8;73,2;conforme;367742;62134;14;42;12241;Non vérifié
-94065;Rungis;94;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;33974;17;43;5611;Non vérifié
-94067;Saint-Mandé;94;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;127583;17;43;21071;Non vérifié
-94068;Saint-Maur-des-Fossés;94;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;463638;17;43;76572;Non vérifié
-94069;Saint-Maurice;94;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;87833;17;43;14506;Non vérifié
-94070;Santeny;94;eau potable;182964;2024;92,3;9,0;107,2;85,0;conforme;148679;77799;54;116;3913;Non vérifié
-94071;Sucy-en-Brie;94;eau potable : Sucy-en-Brie;303794;2024;83,9;8,0;41,8;73,4;conforme;265603;265603;26;70;27764;Non vérifié
-94073;Thiais;94;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;199316;17;43;32918;Non vérifié
-94074;Valenton;94;eau potable : Valenton;311195;2024;95,4;10,9;224,2;85,0;conforme;107618;107618;20;41;14406;Non vérifié
-94075;Villecresnes;94;eau potable : Villecresnes + Marolles-en-Brie;333594;2024;81,1;7,2;30,9;71,2;conforme;188506;133646;31;85;11647;Non vérifié
-94076;Villejuif;94;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;364404;17;43;60183;Non vérifié
-94077;Villeneuve-le-Roi;94;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;127153;17;43;21000;Non vérifié
-94078;Villeneuve-Saint-Georges;94;eau potable : Régie Seine et Orge (RESO);336654;2024;97,8;1,4;64,2;77,8;conforme;73584;45520;3;8;36221;Non vérifié
-94079;Villiers-sur-Marne;94;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;200793;17;43;33162;Non vérifié
-94080;Vincennes;94;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;291805;17;43;48193;Non vérifié
-94081;Vitry-sur-Seine;94;eau potable : Régie Eau Seine et Bièvre (RESB);336634;2024;91,0;10,4;105,1;85,0;conforme;1802720;512655;15;36;93963;Non vérifié
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement);Donnée suspecte (voir LISEZMOI)
+94001;Ablon-sur-Seine;94;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;36257;17;43;5988;Non vérifié;non
+94002;Alfortville;94;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;275687;17;43;45531;Non vérifié;non
+94003;Arcueil;94;eau potable : Régie Eau Seine et Bièvre (RESB);336634;2024;91,0;10,4;105,1;85,0;conforme;1802720;121122;15;36;22200;Non vérifié;non
+94004;Boissy-Saint-Léger;94;eau potable : Boissy-Saint-Léger;303655;2024;92,4;13,0;158,6;85,0;conforme;145766;145766;23;62;17325;Non vérifié;non
+94011;Bonneuil-sur-Marne;94;eau potable : Bonneuil-sur-Marne;303654;2024;70,6;23,2;55,8;76,2;non conforme;430767;430767;65;152;18270;Non vérifié;non
+94015;Bry-sur-Marne;94;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;112034;17;43;18503;Non vérifié;non
+94016;Cachan;94;eau potable : Régie Eau Seine et Bièvre (RESB);336634;2024;91,0;10,4;105,1;85,0;conforme;1802720;169696;15;36;31103;Non vérifié;non
+94017;Champigny-sur-Marne;94;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;472720;17;43;78072;Non vérifié;non
+94018;Charenton-le-Pont;94;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;174564;17;43;28830;Non vérifié;non
+94019;Chennevières-sur-Marne;94;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;113288;17;43;18710;Non vérifié;non
+94021;Chevilly-Larue;94;eau potable : Régie Eau Seine et Bièvre (RESB);336634;2024;91,0;10,4;105,1;85,0;conforme;1802720;108169;15;36;19826;Non vérifié;non
+94022;Choisy-le-Roi;94;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;278200;17;43;45946;Non vérifié;non
+94028;Créteil;94;eau potable : Créteil;303674;2024;92,8;8,7;111,9;85,0;conforme;410084;410084;12;30;93397;Non vérifié;non
+94033;Fontenay-sous-Bois;94;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;325495;17;43;53757;Non vérifié;non
+94034;Fresnes;94;eau potable : Régie Eau Seine et Bièvre (RESB);336634;2024;91,0;10,4;105,1;85,0;conforme;1802720;161103;15;36;29528;Non vérifié;non
+94037;Gentilly;94;eau potable : Régie Eau Seine et Bièvre (RESB);336634;2024;91,0;10,4;105,1;85,0;conforme;1802720;108917;15;36;19963;Non vérifié;non
+94038;L' Haÿ-les-Roses;94;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;188841;17;43;31188;Non vérifié;non
+94041;Ivry-sur-Seine;94;eau potable : Régie Eau Seine et Bièvre (RESB);336634;2024;91,0;10,4;105,1;85,0;conforme;1802720;354984;15;36;65064;Non vérifié;non
+94042;Joinville-le-Pont;94;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;124277;17;43;20525;Non vérifié;non
+94043;Le Kremlin-Bicêtre;94;eau potable : Régie Eau Seine et Bièvre (RESB);336634;2024;91,0;10,4;105,1;85,0;conforme;1802720;131542;15;36;24110;Non vérifié;non
+94044;Limeil-Brévannes;94;eau potable : Limeil-Brévannes;303694;2024;94,2;20,3;327,0;85,0;conforme;360472;360472;36;104;27406;Non vérifié;non
+94046;Maisons-Alfort;94;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;343914;17;43;56799;Non vérifié;non
+94047;Mandres-les-Roses;94;eau potable : Mandres-les-Roses;303714;2024;83,9;5,8;30,3;71,1;conforme;43356;43356;24;70;4922;Non vérifié;non
+94048;Marolles-en-Brie;94;eau potable : Villecresnes + Marolles-en-Brie;333594;2024;81,1;7,2;30,9;71,2;conforme;188506;54861;31;85;4781;Non vérifié;non
+94052;Nogent-sur-Marne;94;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;196513;17;43;32455;Non vérifié;non
+94053;Noiseau;94;eau potable : Noiseau + Ormesson;333614;2024;89,3;3,7;30,8;71,2;conforme;81570;24191;14;45;4628;Non vérifié;non
+94054;Orly;94;eau potable : Régie Eau Seine et Bièvre (RESB);336634;2024;91,0;10,4;105,1;85,0;conforme;1802720;134532;15;36;24658;Non vérifié;non
+94055;Ormesson-sur-Marne;94;eau potable : Noiseau + Ormesson;333614;2024;89,3;3,7;30,8;71,2;conforme;81570;57379;14;45;10977;Non vérifié;non
+94056;Périgny;94;eau potable : Périgny-sur-Yerres;303774;2024;83,9;5,4;28,0;70,6;conforme;22213;22213;22;70;2724;Non vérifié;non
+94058;Le Perreux-sur-Marne;94;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;213497;17;43;35260;Non vérifié;non
+94059;Le Plessis-Trévise;94;eau potable : 3 communes;152984;2024;90,2;4,4;40,8;73,2;conforme;367742;107162;14;42;21112;Non vérifié;non
+94060;La Queue-en-Brie;94;eau potable : 3 communes;152984;2024;90,2;4,4;40,8;73,2;conforme;367742;62134;14;42;12241;Non vérifié;non
+94065;Rungis;94;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;33974;17;43;5611;Non vérifié;non
+94067;Saint-Mandé;94;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;127583;17;43;21071;Non vérifié;non
+94068;Saint-Maur-des-Fossés;94;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;463638;17;43;76572;Non vérifié;non
+94069;Saint-Maurice;94;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;87833;17;43;14506;Non vérifié;non
+94070;Santeny;94;eau potable;182964;2024;92,3;9,0;107,2;85,0;conforme;148679;77799;54;116;3913;Non vérifié;non
+94071;Sucy-en-Brie;94;eau potable : Sucy-en-Brie;303794;2024;83,9;8,0;41,8;73,4;conforme;265603;265603;26;70;27764;Non vérifié;non
+94073;Thiais;94;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;199316;17;43;32918;Non vérifié;non
+94074;Valenton;94;eau potable : Valenton;311195;2024;95,4;10,9;224,2;85,0;conforme;107618;107618;20;41;14406;Non vérifié;non
+94075;Villecresnes;94;eau potable : Villecresnes + Marolles-en-Brie;333594;2024;81,1;7,2;30,9;71,2;conforme;188506;133646;31;85;11647;Non vérifié;non
+94076;Villejuif;94;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;364404;17;43;60183;Non vérifié;non
+94077;Villeneuve-le-Roi;94;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;127153;17;43;21000;Non vérifié;non
+94078;Villeneuve-Saint-Georges;94;eau potable : Régie Seine et Orge (RESO);336654;2024;97,8;1,4;64,2;77,8;conforme;73584;45520;3;8;36221;Non vérifié;non
+94079;Villiers-sur-Marne;94;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;200793;17;43;33162;Non vérifié;non
+94080;Vincennes;94;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;291805;17;43;48193;Non vérifié;non
+94081;Vitry-sur-Seine;94;eau potable : Régie Eau Seine et Bièvre (RESB);336634;2024;91,0;10,4;105,1;85,0;conforme;1802720;512655;15;36;93963;Non vérifié;non

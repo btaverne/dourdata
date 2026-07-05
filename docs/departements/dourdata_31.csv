@@ -7,570 +7,570 @@
 # Méthodologie et code : https://github.com/btaverne/dourdata
 # Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
 # Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
-Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
-31001;Agassac;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;3142;75;162;115;Non vérifié
-31002;Aignes;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;1578;18;62;242;Non vérifié
-31003;Aigrefeuille;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;10885;22;53;1369;Non vérifié
-31004;Ayguesvives;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;18336;18;62;2812;Non vérifié
-31005;Alan;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;7979;75;162;292;Non vérifié
-31006;Albiac;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;3033;36;193;231;Non vérifié
-31007;Ambax;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;1558;75;162;57;Non vérifié
-31008;Anan;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;7296;75;162;267;Non vérifié
-31009;Antichan-de-Frontignes;31;eau potable;88933;2022;92,0;2,0;22,9;69,6;conforme;2555;2555;44;64;158;Sans anomalie apparente
-31010;Antignac;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;1090;36;193;83;Non vérifié
-31011;Arbas;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;3742;36;193;285;Non vérifié
-31012;Arbon;31;eau potable;89212;2024;76,5;0,9;3,0;65,6;conforme;46647;1187;35;108;93;Non vérifié
-31013;Ardiège;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;5002;36;193;381;Non vérifié
-31014;Arguenos;31;eau potable;89212;2024;76,5;0,9;3,0;65,6;conforme;46647;1149;35;108;90;Non vérifié
-31015;Argut-Dessous;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;276;36;193;21;Non vérifié
-31017;Arlos;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;1392;36;193;106;Non vérifié
-31018;Arnaud-Guilhem;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;6285;75;162;230;Non vérifié
-31019;Artigue;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;473;36;193;36;Non vérifié
-31020;Aspet;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;11908;36;193;907;Non vérifié
-31021;Aspret-Sarrat;31;eau potable;89212;2024;76,5;0,9;3,0;65,6;conforme;46647;1660;35;108;130;Non vérifié
-31022;Aucamville;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;76513;22;53;9623;Non vérifié
-31023;Aulon;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;8553;75;162;313;Non vérifié
-31024;Auragne;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;3130;18;62;480;Non vérifié
-31025;Aureville;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;13759;36;193;1048;Non vérifié
-31026;Auriac-sur-Vendinelle;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;14271;36;193;1087;Non vérifié
-31027;Auribail;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;1258;18;62;193;Non vérifié
-31028;Aurignac;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;33583;75;162;1229;Non vérifié
-31029;Aurin;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;4437;36;193;338;Non vérifié
-31030;Ausseing;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;1195;36;193;91;Non vérifié
-31031;Ausson;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;16286;75;162;596;Non vérifié
-31032;Aussonne;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;63585;22;53;7997;Non vérifié
-31033;Auterive;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;68180;18;62;10456;Non vérifié
-31034;Auzas;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;6066;75;162;222;Non vérifié
-31035;Auzeville-Tolosane;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;61244;36;193;4665;Non vérifié
-31036;Auzielle;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;21465;36;193;1635;Non vérifié
-31037;Avignonet-Lauragais;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;20651;36;193;1573;Non vérifié
-31039;Bachas;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;2459;75;162;90;Non vérifié
-31040;Bachos;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;407;36;193;31;Non vérifié
-31041;Bagiry;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;2869;75;162;105;Non vérifié
-31042;Bagnères-de-Luchon;31;eau potable;188872;2024;85,4;5,2;30,4;71,1;conforme;60110;60110;79;66;2076;Non vérifié
-31043;Balesta;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;4618;75;162;169;Non vérifié
-31044;Balma;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;141306;22;53;17772;Non vérifié
-31045;Barbazan;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;13991;75;162;512;Non vérifié
-31046;Baren;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;118;36;193;9;Non vérifié
-31047;Bax;31;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;1632;44;131;101;Non vérifié
-31048;Baziège;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;47039;36;193;3583;Non vérifié
-31050;Beauchalot;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;18089;75;162;662;Non vérifié
-31051;Beaufort;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;11908;69;144;475;Non vérifié
-31052;Beaumont-sur-Lèze;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;10740;18;62;1647;Non vérifié
-31053;Beaupuy;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;10201;22;53;1283;Non vérifié
-31054;Beauteville;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;1258;18;62;193;Non vérifié
-31055;Beauville;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;2206;36;193;168;Non vérifié
-31056;Beauzelle;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;69277;22;53;8713;Non vérifié
-31057;Belberaud;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;20966;36;193;1597;Non vérifié
-31058;Belbèze-de-Lauragais;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;1641;36;193;125;Non vérifié
-31059;Belbèze-en-Comminges;31;eau potable;89182;2024;73,1;1,5;4,1;65,8;conforme;186150;2214;56;145;108;Non vérifié
-31060;Bélesta-en-Lauragais;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;1497;36;193;114;Non vérifié
-31061;Bellegarde-Sainte-Marie;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;2678;36;193;204;Non vérifié
-31062;Bellesserre;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;1431;36;193;109;Non vérifié
-31063;Benque;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;4837;75;162;177;Non vérifié
-31064;Benque-Dessous-et-Dessus;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;394;36;193;30;Non vérifié
-31065;Bérat;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;77392;69;144;3087;Non vérifié
-31066;Bessières;31;eau potable : SIE DE VILLEMUR SUR TARN;345914;2024;71,7;3,4;8,5;66,7;conforme;212211;67590;43;173;4310;Non vérifié
-31067;Bezins-Garraux;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;604;36;193;46;Non vérifié
-31068;Billière;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;420;36;193;32;Non vérifié
-31069;Blagnac;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;219481;22;53;27604;Non vérifié
-31070;Blajan;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;11641;75;162;426;Non vérifié
-31071;Bois-de-la-Pierre;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;11783;69;144;470;Non vérifié
-31072;Boissède;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;1776;75;162;65;Non vérifié
-31073;Bondigoux;31;eau potable : SIE DE VILLEMUR SUR TARN;345914;2024;71,7;3,4;8,5;66,7;conforme;212211;12013;43;173;766;Non vérifié
-31074;Bonrepos-Riquet;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;4254;36;193;324;Non vérifié
-31075;Bonrepos-sur-Aussonnelle;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;31112;69;144;1241;Non vérifié
-31076;Bordes-de-Rivière;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;12597;75;162;461;Non vérifié
-31077;Le Born;31;eau potable : SIE DE VILLEMUR SUR TARN;345914;2024;71,7;3,4;8,5;66,7;conforme;212211;10225;43;173;652;Non vérifié
-31078;Boudrac;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;4044;75;162;148;Non vérifié
-31079;Bouloc;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;60627;36;193;4618;Non vérifié
-31080;Boulogne-sur-Gesse;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;45715;75;162;1673;Non vérifié
-31081;Bourg-d'Oueil;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;184;36;193;14;Non vérifié
-31082;Bourg-Saint-Bernard;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;14770;36;193;1125;Non vérifié
-31083;Boussan;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;6203;75;162;227;Non vérifié
-31084;Boussens;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;31014;75;162;1135;Non vérifié
-31085;Boutx;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;3269;36;193;249;Non vérifié
-31086;Bouzin;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;2241;75;162;82;Non vérifié
-31087;Bragayrac;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;7797;69;144;311;Non vérifié
-31088;Brax;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;24147;22;53;3037;Non vérifié
-31089;Bretx;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;8835;36;193;673;Non vérifié
-31090;Brignemont;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;4805;36;193;366;Non vérifié
-31091;Bruguières;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;49312;22;53;6202;Non vérifié
-31092;Burgalays;31;eau potable;88964;2024;100,0;0,0;6,4;66,3;conforme;0;0;0;0;124;Non vérifié
-31093;Le Burgaud;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;12393;36;193;944;Non vérifié
-31095;Cabanac-Cazaux;31;eau potable;89212;2024;76,5;0,9;3,0;65,6;conforme;46647;1634;35;108;128;Non vérifié
-31096;Cabanac-Séguenville;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;2547;36;193;194;Non vérifié
-31097;Le Cabanial;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;6197;36;193;472;Non vérifié
-31098;Cadours;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;14993;36;193;1142;Non vérifié
-31099;Caignac;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;2641;18;62;405;Non vérifié
-31100;Calmont;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;16263;18;62;2494;Non vérifié
-31101;Cambernard;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;12510;69;144;499;Non vérifié
-31102;Cambiac;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;3098;36;193;236;Non vérifié
-31103;Canens;31;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;1018;44;131;63;Non vérifié
-31104;Capens;31;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;10292;44;131;637;Non vérifié
-31105;Caragoudes;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;3138;36;193;239;Non vérifié
-31106;Caraman;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;32992;36;193;2513;Non vérifié
-31107;Carbonne;31;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;89881;44;131;5563;Non vérifié
-31108;Cardeilhac;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;7077;75;162;259;Non vérifié
-31109;Cassagnabère-Tournas;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;12788;75;162;468;Non vérifié
-31110;Cassagne;31;eau potable;89182;2024;73,1;1,5;4,1;65,8;conforme;186150;13143;56;145;641;Non vérifié
-31111;Castagnac;31;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;5251;44;131;325;Non vérifié
-31112;Castagnède;31;eau potable;89182;2024;73,1;1,5;4,1;65,8;conforme;186150;3527;56;145;172;Non vérifié
-31113;Castanet-Tolosan;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;201089;36;193;15317;Non vérifié
-31114;Castelbiague;31;eau potable;89182;2024;73,1;1,5;4,1;65,8;conforme;186150;4798;56;145;234;Non vérifié
-31115;Castelgaillard;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;1640;75;162;60;Non vérifié
-31116;Castelginest;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;89616;22;53;11271;Non vérifié
-31117;Castelmaurou;31;eau potable;89192;2024;84,1;4,4;23,5;69,7;conforme;411939;75255;46;135;4524;Non vérifié
-31118;Castelnau-d'Estrétefonds;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;91939;36;193;7003;Non vérifié
-31119;Castelnau-Picampeau;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;5866;69;144;234;Non vérifié
-31120;Le Castéra;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;10529;36;193;802;Non vérifié
-31121;Castéra-Vignoles;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;1749;75;162;64;Non vérifié
-31122;Casties-Labrande;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;2357;69;144;94;Non vérifié
-31124;Castillon-de-Saint-Martory;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;10876;75;162;398;Non vérifié
-31125;Cathervielle;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;368;36;193;28;Non vérifié
-31126;Caubiac;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;5790;36;193;441;Non vérifié
-31127;Caubous;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;39;36;193;3;Non vérifié
-31128;Caujac;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;5666;18;62;869;Non vérifié
-31129;Cazarilh-Laspènes;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;171;36;193;13;Non vérifié
-31130;Cazaril-Tambourès;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;2432;75;162;89;Non vérifié
-31131;Cazaunous;31;eau potable;89212;2024;76,5;0,9;3,0;65,6;conforme;46647;817;35;108;64;Non vérifié
-31132;Cazaux-Layrisse;31;eau potable;88981;2024;34,1;7,9;4,1;65,8;non conforme;4902;4902;228;702;59;Non vérifié
-31133;Cazeaux-de-Larboust;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;1155;36;193;88;Non vérifié
-31134;Cazeneuve-Montaut;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;2241;75;162;82;Non vérifié
-31135;Cazères;31;eau potable : Cazères-Couladère;89190;2024;48,1;22,4;20,8;69,2;non conforme;584584;538541;304;645;4854;Non vérifié
-31136;Cépet;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;31364;36;193;2389;Non vérifié
-31137;Cessales;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;2206;36;193;168;Non vérifié
-31138;Charlas;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;6640;75;162;243;Non vérifié
-31139;Chaum;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;2691;36;193;205;Non vérifié
-31140;Chein-Dessus;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;2744;36;193;209;Non vérifié
-31141;Ciadoux;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;6394;75;162;234;Non vérifié
-31142;Cier-de-Luchon;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;3085;36;193;235;Non vérifié
-31143;Cier-de-Rivière;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;3492;36;193;266;Non vérifié
-31144;Cierp-Gaud;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;9046;36;193;689;Non vérifié
-31145;Cintegabelle;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;19601;18;62;3006;Non vérifié
-31146;Cirès;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;118;36;193;9;Non vérifié
-31147;Clarac;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;18363;75;162;672;Non vérifié
-31148;Clermont-le-Fort;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;6971;36;193;531;Non vérifié
-31149;Colomiers;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;325055;22;53;40882;Non vérifié
-31150;Cornebarrieu;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;71385;22;53;8978;Non vérifié
-31151;Corronsac;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;11829;36;193;901;Non vérifié
-31152;Coueilles;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;2323;75;162;85;Non vérifié
-31153;Couladère;31;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;6705;44;131;415;Non vérifié
-31155;Couret;31;eau potable;89182;2024;73,1;1,5;4,1;65,8;conforme;186150;4777;56;145;233;Non vérifié
-31156;Cox;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;4779;36;193;364;Non vérifié
-31157;Cugnaux;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;164285;22;53;20662;Non vérifié
-31158;Cuguron;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;4399;75;162;161;Non vérifié
-31159;Le Cuing;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;13171;75;162;482;Non vérifié
-31160;Daux;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;34699;36;193;2643;Non vérifié
-31161;Deyme;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;19273;36;193;1468;Non vérifié
-31162;Donneville;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;14953;36;193;1139;Non vérifié
-31163;Drémil-Lafage;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;20736;22;53;2608;Non vérifié
-31164;Drudas;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;2704;36;193;206;Non vérifié
-31165;Eaunes;31;eau potable;89220;2024;82,5;4,6;21,8;69,4;conforme;1028656;94041;39;118;6539;Non vérifié
-31166;Empeaux;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;7872;69;144;314;Non vérifié
-31167;Encausse-les-Thermes;31;eau potable;89212;2024;76,5;0,9;3,0;65,6;conforme;46647;8183;35;108;641;Non vérifié
-31168;Eoux;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;3580;75;162;131;Non vérifié
-31169;Escalquens;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;90902;36;193;6924;Non vérifié
-31170;Escanecrabe;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;5738;75;162;210;Non vérifié
-31171;Espanès;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;3584;36;193;273;Non vérifié
-31172;Esparron;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;1148;75;162;42;Non vérifié
-31173;Esperce;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;1930;18;62;296;Non vérifié
-31174;Estadens;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;6906;36;193;526;Non vérifié
-31175;Estancarbon;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;16723;75;162;612;Non vérifié
-31176;Esténos;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;2508;36;193;191;Non vérifié
-31177;Eup;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;1825;36;193;139;Non vérifié
-31178;Fabas;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;5356;75;162;196;Non vérifié
-31179;Le Faget;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;3899;36;193;297;Non vérifié
-31180;Falga;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;1851;36;193;141;Non vérifié
-31181;Le Fauga;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;65258;69;144;2603;Non vérifié
-31182;Fenouillet;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;45989;22;53;5784;Non vérifié
-31183;Figarol;31;eau potable;89182;2024;73,1;1,5;4,1;65,8;conforme;186150;6377;56;145;311;Non vérifié
-31184;Flourens;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;16570;22;53;2084;Non vérifié
-31185;Folcarde;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;1549;36;193;118;Non vérifié
-31186;Fonbeauzard;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;25475;22;53;3204;Non vérifié
-31187;Fonsorbes;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;324760;69;144;12954;Non vérifié
-31188;Fontenilles;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;148065;69;144;5906;Non vérifié
-31189;Forgues;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;5365;69;144;214;Non vérifié
-31190;Fos;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;3256;36;193;248;Non vérifié
-31191;Fougaron;31;eau potable;89182;2024;73,1;1,5;4,1;65,8;conforme;186150;2235;56;145;109;Non vérifié
-31192;Fourquevaux;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;11172;36;193;851;Non vérifié
-31193;Le Fousseret;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;46706;69;144;1863;Non vérifié
-31194;Francarville;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;2508;36;193;191;Non vérifié
-31196;Francon;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;6449;75;162;236;Non vérifié
-31197;Franquevielle;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;9263;75;162;339;Non vérifié
-31198;Le Fréchet;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;3525;75;162;129;Non vérifié
-31199;Fronsac;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;2429;36;193;185;Non vérifié
-31200;Frontignan-de-Comminges;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;1050;36;193;80;Non vérifié
-31201;Frontignan-Savès;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;1803;75;162;66;Non vérifié
-31202;Fronton;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;87580;36;193;6671;Non vérifié
-31203;Frouzins;31;eau potable;89220;2024;82,5;4,6;21,8;69,4;conforme;1028656;141011;39;118;9805;Non vérifié
-31204;Fustignac;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;1755;69;144;70;Non vérifié
-31205;Gagnac-sur-Garonne;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;25427;22;53;3198;Non vérifié
-31206;Gaillac-Toulza;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;8751;18;62;1342;Non vérifié
-31207;Galié;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;2377;75;162;87;Non vérifié
-31208;Ganties;31;eau potable;89182;2024;73,1;1,5;4,1;65,8;conforme;186150;6192;56;145;302;Non vérifié
-31209;Garac;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;2206;36;193;168;Non vérifié
-31210;Gardouch;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;8933;18;62;1370;Non vérifié
-31211;Gargas;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;10306;36;193;785;Non vérifié
-31213;Garin;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;1917;36;193;146;Non vérifié
-31215;Gauré;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;6092;36;193;464;Non vérifié
-31217;Génos;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;932;36;193;71;Non vérifié
-31218;Gensac-de-Boulogne;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;2978;75;162;109;Non vérifié
-31219;Gensac-sur-Garonne;31;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;7287;44;131;451;Non vérifié
-31220;Gibel;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;2563;18;62;393;Non vérifié
-31221;Gouaux-de-Larboust;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;525;36;193;40;Non vérifié
-31222;Gouaux-de-Luchon;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;565;36;193;43;Non vérifié
-31223;Goudex;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;1093;75;162;40;Non vérifié
-31224;Gourdan-Polignan;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;32162;75;162;1177;Non vérifié
-31225;Goutevernisse;31;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;2989;44;131;185;Non vérifié
-31226;Gouzens;31;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;1309;44;131;81;Non vérifié
-31227;Goyrans;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;11382;36;193;867;Non vérifié
-31228;Gragnague;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;33517;36;193;2553;Non vérifié
-31229;Gratens;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;20182;69;144;805;Non vérifié
-31230;Gratentour;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;39008;22;53;4906;Non vérifié
-31231;Grazac;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;5321;18;62;816;Non vérifié
-31232;Grenade;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;118970;36;193;9062;Non vérifié
-31233;Grépiac;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;6632;18;62;1017;Non vérifié
-31234;Le Grès;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;6078;36;193;463;Non vérifié
-31235;Guran;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;775;36;193;59;Non vérifié
-31236;Herran;31;eau potable;89182;2024;73,1;1,5;4,1;65,8;conforme;186150;1517;56;145;74;Non vérifié
-31237;His;31;eau potable;89182;2024;73,1;1,5;4,1;65,8;conforme;186150;4818;56;145;235;Non vérifié
-31238;Huos;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;13417;75;162;491;Non vérifié
-31239;L' Isle-en-Dodon;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;44103;75;162;1614;Non vérifié
-31240;Issus;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;8599;36;193;655;Non vérifié
-31241;Izaut-de-l'Hôtel;31;eau potable;89212;2024;76,5;0,9;3,0;65,6;conforme;46647;3804;35;108;298;Non vérifié
-31242;Jurvielle;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;302;36;193;23;Non vérifié
-31243;Juzes;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;958;36;193;73;Non vérifié
-31244;Juzet-de-Luchon;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;4805;36;193;366;Non vérifié
-31245;Juzet-d'Izaut;31;eau potable;89212;2024;76,5;0,9;3,0;65,6;conforme;46647;2260;35;108;177;Non vérifié
-31246;Labarthe-Inard;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;23800;75;162;871;Non vérifié
-31247;Labarthe-Rivière;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;17041;36;193;1298;Non vérifié
-31248;Labarthe-sur-Lèze;31;eau potable;89220;2024;82,5;4,6;21,8;69,4;conforme;1028656;94703;39;118;6585;Non vérifié
-31249;Labastide-Beauvoir;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;16463;36;193;1254;Non vérifié
-31250;Labastide-Clermont;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;17298;69;144;690;Non vérifié
-31251;Labastide-Paumès;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;4099;75;162;150;Non vérifié
-31252;Labastide-Saint-Sernin;31;eau potable;89192;2024;84,1;4,4;23,5;69,7;conforme;411939;32022;46;135;1925;Non vérifié
-31253;Labastidette;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;73456;69;144;2930;Non vérifié
-31254;Labège;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;57660;36;193;4392;Non vérifié
-31255;Labroquère;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;8853;75;162;324;Non vérifié
-31256;Labruyère-Dorsa;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;2067;18;62;317;Non vérifié
-31258;Lacaugne;31;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;4072;44;131;252;Non vérifié
-31259;Lacroix-Falgarde;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;26651;36;193;2030;Non vérifié
-31260;Laffite-Toupière;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;2678;75;162;98;Non vérifié
-31261;Lafitte-Vigordane;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;28630;69;144;1142;Non vérifié
-31262;Lagarde;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;2817;18;62;432;Non vérifié
-31263;Lagardelle-sur-Lèze;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;21538;18;62;3303;Non vérifié
-31264;Lagrâce-Dieu;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;3593;18;62;551;Non vérifié
-31265;Lagraulet-Saint-Nicolas;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;3728;36;193;284;Non vérifié
-31266;Lahage;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;5315;69;144;212;Non vérifié
-31267;Lahitère;31;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;840;44;131;52;Non vérifié
-31268;Lalouret-Laffiteau;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;3662;75;162;134;Non vérifié
-31269;Lamasquère;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;42168;69;144;1682;Non vérifié
-31270;Landorthe;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;28145;75;162;1030;Non vérifié
-31271;Lanta;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;29972;36;193;2283;Non vérifié
-31272;Lapeyrère;31;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;937;44;131;58;Non vérifié
-31273;Lapeyrouse-Fossat;31;eau potable;89192;2024;84,1;4,4;23,5;69,7;conforme;411939;50619;46;135;3043;Non vérifié
-31274;Larcan;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;4864;75;162;178;Non vérifié
-31275;Laréole;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;2061;36;193;157;Non vérifié
-31276;Larroque;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;8006;75;162;293;Non vérifié
-31277;Lasserre-Pradère;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;20664;36;193;1574;Non vérifié
-31278;Latoue;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;8471;75;162;310;Non vérifié
-31279;Latour;31;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;1293;44;131;80;Non vérifié
-31280;Latrape;31;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;7174;44;131;444;Non vérifié
-31281;Launac;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;17527;36;193;1335;Non vérifié
-31282;Launaguet;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;72935;22;53;9173;Non vérifié
-31283;Lautignac;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;6217;69;144;248;Non vérifié
-31284;Lauzerville;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;20769;36;193;1582;Non vérifié
-31285;Lavalette;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;10411;36;193;793;Non vérifié
-31286;Lavelanet-de-Comminges;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;8573;36;193;653;Non vérifié
-31287;Lavernose-Lacasse;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;95217;69;144;3798;Non vérifié
-31288;Layrac-sur-Tarn;31;eau potable : SIE DE VILLEMUR SUR TARN;345914;2024;71,7;3,4;8,5;66,7;conforme;212211;5018;43;173;320;Non vérifié
-31289;Lécussan;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;6777;75;162;248;Non vérifié
-31290;Lège;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;420;36;193;32;Non vérifié
-31292;Lescuns;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;2049;75;162;75;Non vérifié
-31293;Lespinasse;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;25849;22;53;3251;Non vérifié
-31294;Lespiteau;31;eau potable;89212;2024;76,5;0,9;3,0;65,6;conforme;46647;996;35;108;78;Non vérifié
-31295;Lespugue;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;2049;75;162;75;Non vérifié
-31296;Lestelle-de-Saint-Martory;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;5645;36;193;430;Non vérifié
-31297;Lévignac;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;28961;36;193;2206;Non vérifié
-31299;Lherm;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;97273;69;144;3880;Non vérifié
-31300;Lieoux;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;3443;75;162;126;Non vérifié
-31301;Lilhac;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;3826;75;162;140;Non vérifié
-31302;Lodes;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;8416;75;162;308;Non vérifié
-31303;Longages;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;85038;69;144;3392;Non vérifié
-31304;Loubens-Lauragais;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;5960;36;193;454;Non vérifié
-31305;Loudet;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;5219;75;162;191;Non vérifié
-31306;Lourde;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;3361;75;162;123;Non vérifié
-31308;Luscan;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;1257;75;162;46;Non vérifié
-31309;Lussan-Adeilhac;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;5917;69;144;236;Non vérifié
-31310;Lux;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;4490;36;193;342;Non vérifié
-31312;Mailholas;31;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;549;44;131;34;Non vérifié
-31313;Malvezie;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;1484;36;193;113;Non vérifié
-31314;Mancioux;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;10548;75;162;386;Non vérifié
-31315;Mane;31;eau potable;89182;2024;73,1;1,5;4,1;65,8;conforme;186150;19868;56;145;969;Non vérifié
-31316;Marignac;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;6223;36;193;474;Non vérifié
-31317;Marignac-Lasclares;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;12009;69;144;479;Non vérifié
-31318;Marignac-Laspeyres;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;5301;75;162;194;Non vérifié
-31319;Marliac;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;841;18;62;129;Non vérifié
-31320;Marquefave;31;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;16012;44;131;991;Non vérifié
-31321;Marsoulas;31;eau potable;89182;2024;73,1;1,5;4,1;65,8;conforme;186150;2932;56;145;143;Non vérifié
-31322;Martisserre;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;1749;75;162;64;Non vérifié
-31323;Martres-de-Rivière;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;5488;36;193;418;Non vérifié
-31324;Martres-Tolosane;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;65226;75;162;2387;Non vérifié
-31325;Mascarville;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;2350;36;193;179;Non vérifié
-31326;Massabrac;31;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;2133;44;131;132;Non vérifié
-31327;Mauran;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;2639;36;193;201;Non vérifié
-31328;Mauremont;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;4582;36;193;349;Non vérifié
-31329;Maurens;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;2718;36;193;207;Non vérifié
-31330;Mauressac;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;3208;18;62;492;Non vérifié
-31331;Maureville;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;3886;36;193;296;Non vérifié
-31332;Mauvaisin;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;1519;18;62;233;Non vérifié
-31333;Mauvezin;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;2241;75;162;82;Non vérifié
-31334;Mauzac;31;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;21828;44;131;1351;Non vérifié
-31335;Mayrègne;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;368;36;193;28;Non vérifié
-31336;Mazères-sur-Salat;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;8245;36;193;628;Non vérifié
-31337;Melles;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;1247;36;193;95;Non vérifié
-31338;Menville;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;10568;36;193;805;Non vérifié
-31339;Mérenvielle;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;6223;36;193;474;Non vérifié
-31340;Mervilla;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;3978;36;193;303;Non vérifié
-31341;Merville;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;88749;36;193;6760;Non vérifié
-31342;Milhas;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;2508;36;193;191;Non vérifié
-31343;Mirambeau;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;1749;75;162;64;Non vérifié
-31344;Miramont-de-Comminges;31;eau potable;89073;2023;86,5;1,2;7,5;66,5;conforme;6132;6132;23;58;736;Sans anomalie apparente
-31345;Miremont;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;18506;18;62;2838;Non vérifié
-31346;Mirepoix-sur-Tarn;31;eau potable : SIE DE VILLEMUR SUR TARN;345914;2024;71,7;3,4;8,5;66,7;conforme;212211;17862;43;173;1139;Non vérifié
-31347;Molas;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;4563;75;162;167;Non vérifié
-31348;Moncaup;31;eau potable;89212;2024;76,5;0,9;3,0;65,6;conforme;46647;472;35;108;37;Non vérifié
-31349;Mondavezan;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;22062;69;144;880;Non vérifié
-31350;Mondilhan;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;2405;75;162;88;Non vérifié
-31351;Mondonville;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;48183;22;53;6060;Non vérifié
-31352;Mondouzil;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;1670;22;53;210;Non vérifié
-31353;Monès;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;2181;69;144;87;Non vérifié
-31354;Monestrol;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;372;18;62;57;Non vérifié
-31355;Mons;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;14797;22;53;1861;Non vérifié
-31356;Montaigut-sur-Save;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;26047;36;193;1984;Non vérifié
-31357;Montastruc-de-Salies;31;eau potable;89182;2024;73,1;1,5;4,1;65,8;conforme;186150;6192;56;145;302;Non vérifié
-31359;Montastruc-Savès;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;1529;69;144;61;Non vérifié
-31360;Montauban-de-Luchon;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;6538;36;193;498;Non vérifié
-31361;Montaut;31;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;9339;44;131;578;Non vérifié
-31362;Montberaud;31;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;3102;44;131;192;Non vérifié
-31363;Montbernard;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;5875;75;162;215;Non vérifié
-31364;Montberon;31;eau potable;89192;2024;84,1;4,4;23,5;69,7;conforme;411939;52532;46;135;3158;Non vérifié
-31365;Montbrun-Bocage;31;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;9565;44;131;592;Non vérifié
-31366;Montbrun-Lauragais;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;9584;36;193;730;Non vérifié
-31367;Montclar-de-Comminges;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;1037;36;193;79;Non vérifié
-31368;Montclar-Lauragais;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;1650;18;62;253;Non vérifié
-31369;Mont-de-Galié;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;656;75;162;24;Non vérifié
-31370;Montégut-Bourjac;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;3234;69;144;129;Non vérifié
-31371;Montégut-Lauragais;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;5251;36;193;400;Non vérifié
-31372;Montespan;31;eau potable;89182;2024;73,1;1,5;4,1;65,8;conforme;186150;9760;56;145;476;Non vérifié
-31373;Montesquieu-Guittaut;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;4673;75;162;171;Non vérifié
-31374;Montesquieu-Lauragais;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;6729;18;62;1032;Non vérifié
-31375;Montesquieu-Volvestre;31;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;49279;44;131;3050;Non vérifié
-31376;Montgaillard-de-Salies;31;eau potable;89182;2024;73,1;1,5;4,1;65,8;conforme;186150;2214;56;145;108;Non vérifié
-31377;Montgaillard-Lauragais;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;8967;36;193;683;Non vérifié
-31378;Montgaillard-sur-Save;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;1803;75;162;66;Non vérifié
-31379;Montgazin;31;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;2650;44;131;164;Non vérifié
-31380;Montgeard;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;3704;18;62;568;Non vérifié
-31381;Montgiscard;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;16869;18;62;2587;Non vérifié
-31382;Montgras;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;2908;69;144;116;Non vérifié
-31384;Montlaur;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;23513;36;193;1791;Non vérifié
-31385;Montmaurin;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;5246;75;162;192;Non vérifié
-31386;Montoulieu-Saint-Bernard;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;6285;75;162;230;Non vérifié
-31387;Montoussin;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;3159;69;144;126;Non vérifié
-31389;Montrabé;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;35565;22;53;4473;Non vérifié
-31390;Montréjeau;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;72358;75;162;2648;Non vérifié
-31391;Montsaunès;31;eau potable;89182;2024;73,1;1,5;4,1;65,8;conforme;186150;9329;56;145;455;Non vérifié
-31392;Mourvilles-Basses;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;1037;36;193;79;Non vérifié
-31393;Mourvilles-Hautes;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;2258;36;193;172;Non vérifié
-31394;Moustajon;31;eau potable;188887;2024;87,1;2,3;15,4;68,1;conforme;2443;2443;53;55;127;Non vérifié
-31395;Muret;31;eau potable;89095;2024;86,5;3,6;23,0;69,6;conforme;269042;269042;28;70;26079;Non vérifié
-31396;Nailloux;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;27459;18;62;4211;Non vérifié
-31397;Nénigan;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;1394;75;162;51;Non vérifié
-31398;Nizan-Gesse;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;2869;75;162;105;Non vérifié
-31399;Noé;31;eau potable;89220;2024;82,5;4,6;21,8;69,4;conforme;1028656;44108;39;118;3067;Non vérifié
-31400;Nogaret;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;1260;36;193;96;Non vérifié
-31401;Noueilles;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;5081;36;193;387;Non vérifié
-31402;Odars;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;12026;36;193;916;Non vérifié
-31403;Ondes;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;10792;36;193;822;Non vérifié
-31405;Ore;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;3279;75;162;120;Non vérifié
-31406;Palaminy;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;9860;36;193;751;Non vérifié
-31408;Payssous;31;eau potable;89212;2024;76,5;0,9;3,0;65,6;conforme;46647;1021;35;108;80;Non vérifié
-31409;Péchabou;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;32152;36;193;2449;Non vérifié
-31410;Pechbonnieu;31;eau potable;89192;2024;84,1;4,4;23,5;69,7;conforme;411939;81875;46;135;4922;Non vérifié
-31411;Pechbusque;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;12800;36;193;975;Non vérifié
-31412;Péguilhan;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;7487;75;162;274;Non vérifié
-31413;Pelleport;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;7155;36;193;545;Non vérifié
-31414;Peyrissas;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;2350;75;162;86;Non vérifié
-31415;Peyrouzet;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;2213;75;162;81;Non vérifié
-31416;Peyssies;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;18126;69;144;723;Non vérifié
-31417;Pibrac;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;71377;22;53;8977;Non vérifié
-31418;Pin-Balma;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;8595;22;53;1081;Non vérifié
-31419;Le Pin-Murelet;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;4086;69;144;163;Non vérifié
-31420;Pinsaguel;31;eau potable;89220;2024;82,5;4,6;21,8;69,4;conforme;1028656;40067;39;118;2786;Non vérifié
-31421;Pins-Justaret;31;eau potable;89220;2024;82,5;4,6;21,8;69,4;conforme;1028656;62963;39;118;4378;Non vérifié
-31422;Plagne;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;2382;69;144;95;Non vérifié
-31423;Plagnole;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;8724;69;144;348;Non vérifié
-31424;Plaisance-du-Touch;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;276736;36;193;21079;Non vérifié
-31425;Le Plan;31;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;7125;44;131;441;Non vérifié
-31426;Pointis-de-Rivière;31;eau potable;89106;2024;85,6;1,5;9,0;66,8;conforme;6532;6532;22;61;825;Non vérifié
-31427;Pointis-Inard;31;eau potable;89182;2024;73,1;1,5;4,1;65,8;conforme;186150;18843;56;145;919;Non vérifié
-31428;Polastron;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;1755;69;144;70;Non vérifié
-31429;Pompertuzat;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;28292;36;193;2155;Non vérifié
-31430;Ponlat-Taillebourg;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;17297;75;162;633;Non vérifié
-31431;Portet-d'Aspet;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;827;36;193;63;Non vérifié
-31432;Portet-de-Luchon;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;486;36;193;37;Non vérifié
-31433;Portet-sur-Garonne;31;eau potable;89220;2024;82,5;4,6;21,8;69,4;conforme;1028656;140681;39;118;9782;Non vérifié
-31434;Poubeau;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;1024;36;193;78;Non vérifié
-31435;Poucharramet;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;24418;69;144;974;Non vérifié
-31436;Pouy-de-Touges;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;10755;69;144;429;Non vérifié
-31437;Pouze;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;1168;36;193;89;Non vérifié
-31439;Préserville;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;10319;36;193;786;Non vérifié
-31440;Proupiary;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;1667;75;162;61;Non vérifié
-31441;Prunet;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;2009;36;193;153;Non vérifié
-31442;Puydaniel;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;3749;18;62;575;Non vérifié
-31443;Puymaurin;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;8444;75;162;309;Non vérifié
-31444;Puysségur;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;1838;36;193;140;Non vérifié
-31445;Quint-Fonsegrives;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;48764;22;53;6133;Non vérifié
-31446;Ramonville-Saint-Agne;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;199002;36;193;15158;Non vérifié
-31447;Razecueillé;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;381;36;193;29;Non vérifié
-31448;Rebigue;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;6630;36;193;505;Non vérifié
-31449;Régades;31;eau potable;89212;2024;76,5;0,9;3,0;65,6;conforme;46647;1749;35;108;137;Non vérifié
-31450;Renneville;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;3736;18;62;573;Non vérifié
-31451;Revel;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;128160;36;193;9762;Non vérifié
-31452;Rieucazé;31;eau potable;89212;2024;76,5;0,9;3,0;65,6;conforme;46647;664;35;108;52;Non vérifié
-31453;Rieumajou;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;1759;36;193;134;Non vérifié
-31454;Rieumes;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;88172;69;144;3517;Non vérifié
-31455;Rieux;31;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;42638;44;131;2639;Non vérifié
-31456;Riolas;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;1558;75;162;57;Non vérifié
-31457;Roquefort-sur-Garonne;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;21888;75;162;801;Non vérifié
-31458;Roques;31;eau potable;89220;2024;82,5;4,6;21,8;69,4;conforme;1028656;78178;39;118;5436;Non vérifié
-31460;Roquettes;31;eau potable;89220;2024;82,5;4,6;21,8;69,4;conforme;1028656;61553;39;118;4280;Non vérifié
-31461;Rouède;31;eau potable;89182;2024;73,1;1,5;4,1;65,8;conforme;186150;5843;56;145;285;Non vérifié
-31462;Rouffiac-Tolosan;31;eau potable;89192;2024;84,1;4,4;23,5;69,7;conforme;411939;39308;46;135;2363;Non vérifié
-31463;Roumens;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;3282;36;193;250;Non vérifié
-31464;Sabonnères;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;8323;69;144;332;Non vérifié
-31465;Saccourvielle;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;289;36;193;22;Non vérifié
-31466;Saiguède;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;19906;69;144;794;Non vérifié
-31467;Saint-Alban;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;51952;22;53;6534;Non vérifié
-31468;Saint-André;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;6531;75;162;239;Non vérifié
-31469;Saint-Araille;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;3361;75;162;123;Non vérifié
-31470;Saint-Aventin;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;906;36;193;69;Non vérifié
-31471;Saint-Béat-Lez;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;5054;36;193;385;Non vérifié
-31472;Saint-Bertrand-de-Comminges;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;6640;75;162;243;Non vérifié
-31473;Saint-Cézert;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;5868;36;193;447;Non vérifié
-31474;Saint-Christaud;31;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;3797;44;131;235;Non vérifié
-31475;Saint-Clar-de-Rivière;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;43121;69;144;1720;Non vérifié
-31476;Saint-Élix-le-Château;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;23391;69;144;933;Non vérifié
-31477;Saint-Élix-Séglan;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;1394;75;162;51;Non vérifié
-31478;Saint-Félix-Lauragais;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;16437;36;193;1252;Non vérifié
-31479;Saint-Ferréol-de-Comminges;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;1612;75;162;59;Non vérifié
-31480;Sainte-Foy-d'Aigrefeuille;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;33819;36;193;2576;Non vérifié
-31481;Sainte-Foy-de-Peyrolières;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;52347;69;144;2088;Non vérifié
-31482;Saint-Frajou;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;5574;75;162;204;Non vérifié
-31483;Saint-Gaudens;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;331703;75;162;12139;Non vérifié
-31484;Saint-Geniès-Bellevue;31;eau potable;89192;2024;84,1;4,4;23,5;69,7;conforme;411939;41503;46;135;2495;Non vérifié
-31485;Saint-Germier;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;1746;36;193;133;Non vérifié
-31486;Saint-Hilaire;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;45302;69;144;1807;Non vérifié
-31487;Saint-Ignan;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;5957;75;162;218;Non vérifié
-31488;Saint-Jean;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;89537;22;53;11261;Non vérifié
-31490;Saint-Jory;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;68872;22;53;8662;Non vérifié
-31491;Saint-Julia;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;5488;36;193;418;Non vérifié
-31492;Saint-Julien-sur-Garonne;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;7208;36;193;549;Non vérifié
-31493;Saint-Lary-Boujean;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;3470;75;162;127;Non vérifié
-31494;Saint-Laurent;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;4864;75;162;178;Non vérifié
-31495;Saint-Léon;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;8249;18;62;1265;Non vérifié
-31496;Sainte-Livrade;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;3348;36;193;255;Non vérifié
-31497;Saint-Loup-Cammas;31;eau potable;89192;2024;84,1;4,4;23,5;69,7;conforme;411939;38825;46;135;2334;Non vérifié
-31498;Saint-Loup-en-Comminges;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;1038;75;162;38;Non vérifié
-31499;Saint-Lys;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;247995;69;144;9892;Non vérifié
-31501;Saint-Marcel-Paulel;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;6341;36;193;483;Non vérifié
-31502;Saint-Marcet;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;10056;75;162;368;Non vérifié
-31503;Saint-Martory;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;28063;75;162;1027;Non vérifié
-31504;Saint-Médard;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;6148;75;162;225;Non vérifié
-31505;Saint-Michel;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;4017;36;193;306;Non vérifié
-31506;Saint-Orens-de-Gameville;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;116451;22;53;14646;Non vérifié
-31507;Saint-Paul-sur-Save;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;23841;36;193;1816;Non vérifié
-31508;Saint-Paul-d'Oueil;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;604;36;193;46;Non vérifié
-31509;Saint-Pé-d'Ardet;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;4536;75;162;166;Non vérifié
-31510;Saint-Pé-Delbosc;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;3880;75;162;142;Non vérifié
-31511;Saint-Pierre;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;3518;36;193;268;Non vérifié
-31512;Saint-Pierre-de-Lages;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;11632;36;193;886;Non vérifié
-31513;Saint-Plancard;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;10876;75;162;398;Non vérifié
-31514;Saint-Rome;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;748;36;193;57;Non vérifié
-31515;Saint-Rustice;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;5763;36;193;439;Non vérifié
-31516;Saint-Sauveur;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;29447;36;193;2243;Non vérifié
-31517;Saint-Sulpice-sur-Lèze;31;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;36789;44;131;2277;Non vérifié
-31518;Saint-Thomas;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;15719;69;144;627;Non vérifié
-31519;Saint-Vincent;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;2823;36;193;215;Non vérifié
-31520;Sajas;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;2607;69;144;104;Non vérifié
-31521;Saleich;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;4398;36;193;335;Non vérifié
-31522;Salherm;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;1803;75;162;66;Non vérifié
-31523;Salies-du-Salat;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;22752;36;193;1733;Non vérifié
-31524;Salles-et-Pratviel;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;1694;36;193;129;Non vérifié
-31525;Salles-sur-Garonne;31;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;9436;44;131;584;Non vérifié
-31526;La Salvetat-Saint-Gilles;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;111737;36;193;8511;Non vérifié
-31527;La Salvetat-Lauragais;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;1982;36;193;151;Non vérifié
-31528;Saman;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;3908;75;162;143;Non vérifié
-31529;Samouillan;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;3006;75;162;110;Non vérifié
-31530;Sana;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;6449;75;162;236;Non vérifié
-31531;Sarrecave;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;1885;75;162;69;Non vérifié
-31532;Sarremezan;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;2432;75;162;89;Non vérifié
-31533;Saubens;31;eau potable;89220;2024;82,5;4,6;21,8;69,4;conforme;1028656;33998;39;118;2364;Non vérifié
-31534;Saussens;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;2849;36;193;217;Non vérifié
-31535;Sauveterre-de-Comminges;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;9216;36;193;702;Non vérifié
-31536;Saux-et-Pomarède;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;6695;75;162;245;Non vérifié
-31537;Savarthès;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;5328;75;162;195;Non vérifié
-31538;Savères;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;5240;69;144;209;Non vérifié
-31539;Sédeilhac;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;1722;75;162;63;Non vérifié
-31540;Ségreville;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;4319;36;193;329;Non vérifié
-31541;Seilh;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;26684;22;53;3356;Non vérifié
-31542;Seilhan;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;5656;75;162;207;Non vérifié
-31543;Sénarens;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;3224;75;162;118;Non vérifié
-31544;Sengouagnet;31;eau potable;89212;2024;76,5;0,9;3,0;65,6;conforme;46647;2911;35;108;228;Non vérifié
-31545;Sepx;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;5766;75;162;211;Non vérifié
-31546;Seyre;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;841;18;62;129;Non vérifié
-31547;Seysses;31;eau potable;89220;2024;82,5;4,6;21,8;69,4;conforme;1028656;151567;39;118;10539;Non vérifié
-31549;Sode;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;236;36;193;18;Non vérifié
-31550;Soueich;31;eau potable;89212;2024;76,5;0,9;3,0;65,6;conforme;46647;6562;35;108;514;Non vérifié
-31551;Tarabel;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;7890;36;193;601;Non vérifié
-31552;Terrebasse;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;3689;75;162;135;Non vérifié
-31553;Thil;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;14914;36;193;1136;Non vérifié
-31554;Touille;31;eau potable;89182;2024;73,1;1,5;4,1;65,8;conforme;186150;5023;56;145;245;Non vérifié
-31555;Toulouse;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;4093350;22;53;514819;Non vérifié
-31556;Les Tourreilles;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;10274;75;162;376;Non vérifié
-31557;Tournefeuille;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;239867;22;53;30168;Non vérifié
-31558;Toutens;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;5645;36;193;430;Non vérifié
-31559;Trébons-de-Luchon;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;105;36;193;8;Non vérifié
-31560;Trébons-sur-la-Grasse;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;6630;36;193;505;Non vérifié
-31561;L' Union;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;100485;22;53;12638;Non vérifié
-31562;Urau;31;eau potable;89182;2024;73,1;1,5;4,1;65,8;conforme;186150;2419;56;145;118;Non vérifié
-31563;Vacquiers;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;19588;36;193;1492;Non vérifié
-31564;Valcabrère;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;4126;75;162;151;Non vérifié
-31565;Valentine;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;23746;75;162;869;Non vérifié
-31566;Vallègue;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;6682;36;193;509;Non vérifié
-31567;Vallesvilles;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;6065;36;193;462;Non vérifié
-31568;Varennes;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;3348;36;193;255;Non vérifié
-31569;Vaudreuille;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;5146;36;193;392;Non vérifié
-31570;Vaux;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;4070;36;193;310;Non vérifié
-31571;Vendine;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;3532;36;193;269;Non vérifié
-31572;Venerque;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;39044;36;193;2974;Non vérifié
-31573;Verfeil;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;51910;36;193;3954;Non vérifié
-31574;Vernet;31;eau potable;89220;2024;82,5;4,6;21,8;69,4;conforme;1028656;48624;39;118;3381;Non vérifié
-31575;Vieille-Toulouse;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;16148;36;193;1230;Non vérifié
-31576;Vieillevigne;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;2243;18;62;344;Non vérifié
-31577;Vignaux;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;2061;36;193;157;Non vérifié
-31578;Vigoulet-Auzil;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;13654;36;193;1040;Non vérifié
-31580;Villate;31;eau potable;89220;2024;82,5;4,6;21,8;69,4;conforme;1028656;17732;39;118;1233;Non vérifié
-31581;Villaudric;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;21701;36;193;1653;Non vérifié
-31582;Villefranche-de-Lauragais;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;66588;36;193;5072;Non vérifié
-31584;Villemur-sur-Tarn;31;eau potable : SIE DE VILLEMUR SUR TARN;345914;2024;71,7;3,4;8,5;66,7;conforme;212211;99503;43;173;6345;Non vérifié
-31585;Villeneuve-de-Rivière;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;47136;75;162;1725;Non vérifié
-31586;Villeneuve-Lécussan;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;14865;75;162;544;Non vérifié
-31587;Villeneuve-lès-Bouloc;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;22148;36;193;1687;Non vérifié
-31588;Villeneuve-Tolosane;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;87811;22;53;11044;Non vérifié
-31589;Villenouvelle;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;19522;36;193;1487;Non vérifié
-31590;Binos;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;525;36;193;40;Non vérifié
-31591;Escoulis;31;eau potable;89182;2024;73,1;1,5;4,1;65,8;conforme;186150;1558;56;145;76;Non vérifié
-31592;Larra;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;29841;36;193;2273;Non vérifié
-31593;Cazac;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;2049;75;162;75;Non vérifié
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement);Donnée suspecte (voir LISEZMOI)
+31001;Agassac;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;3142;75;162;115;Non vérifié;non
+31002;Aignes;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;1578;18;62;242;Non vérifié;non
+31003;Aigrefeuille;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;10885;22;53;1369;Non vérifié;non
+31004;Ayguesvives;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;18336;18;62;2812;Non vérifié;non
+31005;Alan;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;7979;75;162;292;Non vérifié;non
+31006;Albiac;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;3033;36;193;231;Non vérifié;non
+31007;Ambax;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;1558;75;162;57;Non vérifié;non
+31008;Anan;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;7296;75;162;267;Non vérifié;non
+31009;Antichan-de-Frontignes;31;eau potable;88933;2022;92,0;2,0;22,9;69,6;conforme;2555;2555;44;64;158;Sans anomalie apparente;non
+31010;Antignac;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;1090;36;193;83;Non vérifié;non
+31011;Arbas;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;3742;36;193;285;Non vérifié;non
+31012;Arbon;31;eau potable;89212;2024;76,5;0,9;3,0;65,6;conforme;46647;1187;35;108;93;Non vérifié;non
+31013;Ardiège;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;5002;36;193;381;Non vérifié;non
+31014;Arguenos;31;eau potable;89212;2024;76,5;0,9;3,0;65,6;conforme;46647;1149;35;108;90;Non vérifié;non
+31015;Argut-Dessous;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;276;36;193;21;Non vérifié;non
+31017;Arlos;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;1392;36;193;106;Non vérifié;non
+31018;Arnaud-Guilhem;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;6285;75;162;230;Non vérifié;non
+31019;Artigue;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;473;36;193;36;Non vérifié;non
+31020;Aspet;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;11908;36;193;907;Non vérifié;non
+31021;Aspret-Sarrat;31;eau potable;89212;2024;76,5;0,9;3,0;65,6;conforme;46647;1660;35;108;130;Non vérifié;non
+31022;Aucamville;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;76513;22;53;9623;Non vérifié;non
+31023;Aulon;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;8553;75;162;313;Non vérifié;non
+31024;Auragne;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;3130;18;62;480;Non vérifié;non
+31025;Aureville;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;13759;36;193;1048;Non vérifié;non
+31026;Auriac-sur-Vendinelle;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;14271;36;193;1087;Non vérifié;non
+31027;Auribail;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;1258;18;62;193;Non vérifié;non
+31028;Aurignac;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;33583;75;162;1229;Non vérifié;non
+31029;Aurin;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;4437;36;193;338;Non vérifié;non
+31030;Ausseing;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;1195;36;193;91;Non vérifié;non
+31031;Ausson;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;16286;75;162;596;Non vérifié;non
+31032;Aussonne;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;63585;22;53;7997;Non vérifié;non
+31033;Auterive;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;68180;18;62;10456;Non vérifié;non
+31034;Auzas;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;6066;75;162;222;Non vérifié;non
+31035;Auzeville-Tolosane;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;61244;36;193;4665;Non vérifié;non
+31036;Auzielle;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;21465;36;193;1635;Non vérifié;non
+31037;Avignonet-Lauragais;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;20651;36;193;1573;Non vérifié;non
+31039;Bachas;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;2459;75;162;90;Non vérifié;non
+31040;Bachos;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;407;36;193;31;Non vérifié;non
+31041;Bagiry;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;2869;75;162;105;Non vérifié;non
+31042;Bagnères-de-Luchon;31;eau potable;188872;2024;85,4;5,2;30,4;71,1;conforme;60110;60110;79;66;2076;Non vérifié;non
+31043;Balesta;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;4618;75;162;169;Non vérifié;non
+31044;Balma;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;141306;22;53;17772;Non vérifié;non
+31045;Barbazan;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;13991;75;162;512;Non vérifié;non
+31046;Baren;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;118;36;193;9;Non vérifié;non
+31047;Bax;31;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;1632;44;131;101;Non vérifié;non
+31048;Baziège;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;47039;36;193;3583;Non vérifié;non
+31050;Beauchalot;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;18089;75;162;662;Non vérifié;non
+31051;Beaufort;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;11908;69;144;475;Non vérifié;non
+31052;Beaumont-sur-Lèze;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;10740;18;62;1647;Non vérifié;non
+31053;Beaupuy;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;10201;22;53;1283;Non vérifié;non
+31054;Beauteville;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;1258;18;62;193;Non vérifié;non
+31055;Beauville;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;2206;36;193;168;Non vérifié;non
+31056;Beauzelle;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;69277;22;53;8713;Non vérifié;non
+31057;Belberaud;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;20966;36;193;1597;Non vérifié;non
+31058;Belbèze-de-Lauragais;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;1641;36;193;125;Non vérifié;non
+31059;Belbèze-en-Comminges;31;eau potable;89182;2024;73,1;1,5;4,1;65,8;conforme;186150;2214;56;145;108;Non vérifié;non
+31060;Bélesta-en-Lauragais;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;1497;36;193;114;Non vérifié;non
+31061;Bellegarde-Sainte-Marie;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;2678;36;193;204;Non vérifié;non
+31062;Bellesserre;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;1431;36;193;109;Non vérifié;non
+31063;Benque;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;4837;75;162;177;Non vérifié;non
+31064;Benque-Dessous-et-Dessus;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;394;36;193;30;Non vérifié;non
+31065;Bérat;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;77392;69;144;3087;Non vérifié;non
+31066;Bessières;31;eau potable : SIE DE VILLEMUR SUR TARN;345914;2024;71,7;3,4;8,5;66,7;conforme;212211;67590;43;173;4310;Non vérifié;non
+31067;Bezins-Garraux;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;604;36;193;46;Non vérifié;non
+31068;Billière;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;420;36;193;32;Non vérifié;non
+31069;Blagnac;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;219481;22;53;27604;Non vérifié;non
+31070;Blajan;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;11641;75;162;426;Non vérifié;non
+31071;Bois-de-la-Pierre;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;11783;69;144;470;Non vérifié;non
+31072;Boissède;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;1776;75;162;65;Non vérifié;non
+31073;Bondigoux;31;eau potable : SIE DE VILLEMUR SUR TARN;345914;2024;71,7;3,4;8,5;66,7;conforme;212211;12013;43;173;766;Non vérifié;non
+31074;Bonrepos-Riquet;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;4254;36;193;324;Non vérifié;non
+31075;Bonrepos-sur-Aussonnelle;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;31112;69;144;1241;Non vérifié;non
+31076;Bordes-de-Rivière;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;12597;75;162;461;Non vérifié;non
+31077;Le Born;31;eau potable : SIE DE VILLEMUR SUR TARN;345914;2024;71,7;3,4;8,5;66,7;conforme;212211;10225;43;173;652;Non vérifié;non
+31078;Boudrac;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;4044;75;162;148;Non vérifié;non
+31079;Bouloc;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;60627;36;193;4618;Non vérifié;non
+31080;Boulogne-sur-Gesse;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;45715;75;162;1673;Non vérifié;non
+31081;Bourg-d'Oueil;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;184;36;193;14;Non vérifié;non
+31082;Bourg-Saint-Bernard;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;14770;36;193;1125;Non vérifié;non
+31083;Boussan;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;6203;75;162;227;Non vérifié;non
+31084;Boussens;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;31014;75;162;1135;Non vérifié;non
+31085;Boutx;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;3269;36;193;249;Non vérifié;non
+31086;Bouzin;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;2241;75;162;82;Non vérifié;non
+31087;Bragayrac;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;7797;69;144;311;Non vérifié;non
+31088;Brax;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;24147;22;53;3037;Non vérifié;non
+31089;Bretx;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;8835;36;193;673;Non vérifié;non
+31090;Brignemont;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;4805;36;193;366;Non vérifié;non
+31091;Bruguières;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;49312;22;53;6202;Non vérifié;non
+31092;Burgalays;31;eau potable;88964;2024;100,0;0,0;6,4;66,3;conforme;0;0;0;0;124;Non vérifié;non
+31093;Le Burgaud;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;12393;36;193;944;Non vérifié;non
+31095;Cabanac-Cazaux;31;eau potable;89212;2024;76,5;0,9;3,0;65,6;conforme;46647;1634;35;108;128;Non vérifié;non
+31096;Cabanac-Séguenville;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;2547;36;193;194;Non vérifié;non
+31097;Le Cabanial;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;6197;36;193;472;Non vérifié;non
+31098;Cadours;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;14993;36;193;1142;Non vérifié;non
+31099;Caignac;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;2641;18;62;405;Non vérifié;non
+31100;Calmont;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;16263;18;62;2494;Non vérifié;non
+31101;Cambernard;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;12510;69;144;499;Non vérifié;non
+31102;Cambiac;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;3098;36;193;236;Non vérifié;non
+31103;Canens;31;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;1018;44;131;63;Non vérifié;non
+31104;Capens;31;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;10292;44;131;637;Non vérifié;non
+31105;Caragoudes;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;3138;36;193;239;Non vérifié;non
+31106;Caraman;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;32992;36;193;2513;Non vérifié;non
+31107;Carbonne;31;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;89881;44;131;5563;Non vérifié;non
+31108;Cardeilhac;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;7077;75;162;259;Non vérifié;non
+31109;Cassagnabère-Tournas;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;12788;75;162;468;Non vérifié;non
+31110;Cassagne;31;eau potable;89182;2024;73,1;1,5;4,1;65,8;conforme;186150;13143;56;145;641;Non vérifié;non
+31111;Castagnac;31;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;5251;44;131;325;Non vérifié;non
+31112;Castagnède;31;eau potable;89182;2024;73,1;1,5;4,1;65,8;conforme;186150;3527;56;145;172;Non vérifié;non
+31113;Castanet-Tolosan;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;201089;36;193;15317;Non vérifié;non
+31114;Castelbiague;31;eau potable;89182;2024;73,1;1,5;4,1;65,8;conforme;186150;4798;56;145;234;Non vérifié;non
+31115;Castelgaillard;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;1640;75;162;60;Non vérifié;non
+31116;Castelginest;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;89616;22;53;11271;Non vérifié;non
+31117;Castelmaurou;31;eau potable;89192;2024;84,1;4,4;23,5;69,7;conforme;411939;75255;46;135;4524;Non vérifié;non
+31118;Castelnau-d'Estrétefonds;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;91939;36;193;7003;Non vérifié;non
+31119;Castelnau-Picampeau;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;5866;69;144;234;Non vérifié;non
+31120;Le Castéra;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;10529;36;193;802;Non vérifié;non
+31121;Castéra-Vignoles;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;1749;75;162;64;Non vérifié;non
+31122;Casties-Labrande;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;2357;69;144;94;Non vérifié;non
+31124;Castillon-de-Saint-Martory;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;10876;75;162;398;Non vérifié;non
+31125;Cathervielle;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;368;36;193;28;Non vérifié;non
+31126;Caubiac;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;5790;36;193;441;Non vérifié;non
+31127;Caubous;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;39;36;193;3;Non vérifié;non
+31128;Caujac;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;5666;18;62;869;Non vérifié;non
+31129;Cazarilh-Laspènes;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;171;36;193;13;Non vérifié;non
+31130;Cazaril-Tambourès;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;2432;75;162;89;Non vérifié;non
+31131;Cazaunous;31;eau potable;89212;2024;76,5;0,9;3,0;65,6;conforme;46647;817;35;108;64;Non vérifié;non
+31132;Cazaux-Layrisse;31;eau potable;88981;2024;34,1;7,9;4,1;65,8;non conforme;4902;4902;228;702;59;Non vérifié;non
+31133;Cazeaux-de-Larboust;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;1155;36;193;88;Non vérifié;non
+31134;Cazeneuve-Montaut;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;2241;75;162;82;Non vérifié;non
+31135;Cazères;31;eau potable : Cazères-Couladère;89190;2024;48,1;22,4;20,8;69,2;non conforme;584584;538541;304;645;4854;Non vérifié;non
+31136;Cépet;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;31364;36;193;2389;Non vérifié;non
+31137;Cessales;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;2206;36;193;168;Non vérifié;non
+31138;Charlas;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;6640;75;162;243;Non vérifié;non
+31139;Chaum;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;2691;36;193;205;Non vérifié;non
+31140;Chein-Dessus;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;2744;36;193;209;Non vérifié;non
+31141;Ciadoux;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;6394;75;162;234;Non vérifié;non
+31142;Cier-de-Luchon;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;3085;36;193;235;Non vérifié;non
+31143;Cier-de-Rivière;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;3492;36;193;266;Non vérifié;non
+31144;Cierp-Gaud;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;9046;36;193;689;Non vérifié;non
+31145;Cintegabelle;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;19601;18;62;3006;Non vérifié;non
+31146;Cirès;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;118;36;193;9;Non vérifié;non
+31147;Clarac;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;18363;75;162;672;Non vérifié;non
+31148;Clermont-le-Fort;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;6971;36;193;531;Non vérifié;non
+31149;Colomiers;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;325055;22;53;40882;Non vérifié;non
+31150;Cornebarrieu;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;71385;22;53;8978;Non vérifié;non
+31151;Corronsac;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;11829;36;193;901;Non vérifié;non
+31152;Coueilles;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;2323;75;162;85;Non vérifié;non
+31153;Couladère;31;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;6705;44;131;415;Non vérifié;non
+31155;Couret;31;eau potable;89182;2024;73,1;1,5;4,1;65,8;conforme;186150;4777;56;145;233;Non vérifié;non
+31156;Cox;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;4779;36;193;364;Non vérifié;non
+31157;Cugnaux;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;164285;22;53;20662;Non vérifié;non
+31158;Cuguron;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;4399;75;162;161;Non vérifié;non
+31159;Le Cuing;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;13171;75;162;482;Non vérifié;non
+31160;Daux;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;34699;36;193;2643;Non vérifié;non
+31161;Deyme;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;19273;36;193;1468;Non vérifié;non
+31162;Donneville;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;14953;36;193;1139;Non vérifié;non
+31163;Drémil-Lafage;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;20736;22;53;2608;Non vérifié;non
+31164;Drudas;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;2704;36;193;206;Non vérifié;non
+31165;Eaunes;31;eau potable;89220;2024;82,5;4,6;21,8;69,4;conforme;1028656;94041;39;118;6539;Non vérifié;non
+31166;Empeaux;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;7872;69;144;314;Non vérifié;non
+31167;Encausse-les-Thermes;31;eau potable;89212;2024;76,5;0,9;3,0;65,6;conforme;46647;8183;35;108;641;Non vérifié;non
+31168;Eoux;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;3580;75;162;131;Non vérifié;non
+31169;Escalquens;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;90902;36;193;6924;Non vérifié;non
+31170;Escanecrabe;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;5738;75;162;210;Non vérifié;non
+31171;Espanès;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;3584;36;193;273;Non vérifié;non
+31172;Esparron;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;1148;75;162;42;Non vérifié;non
+31173;Esperce;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;1930;18;62;296;Non vérifié;non
+31174;Estadens;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;6906;36;193;526;Non vérifié;non
+31175;Estancarbon;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;16723;75;162;612;Non vérifié;non
+31176;Esténos;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;2508;36;193;191;Non vérifié;non
+31177;Eup;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;1825;36;193;139;Non vérifié;non
+31178;Fabas;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;5356;75;162;196;Non vérifié;non
+31179;Le Faget;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;3899;36;193;297;Non vérifié;non
+31180;Falga;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;1851;36;193;141;Non vérifié;non
+31181;Le Fauga;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;65258;69;144;2603;Non vérifié;non
+31182;Fenouillet;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;45989;22;53;5784;Non vérifié;non
+31183;Figarol;31;eau potable;89182;2024;73,1;1,5;4,1;65,8;conforme;186150;6377;56;145;311;Non vérifié;non
+31184;Flourens;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;16570;22;53;2084;Non vérifié;non
+31185;Folcarde;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;1549;36;193;118;Non vérifié;non
+31186;Fonbeauzard;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;25475;22;53;3204;Non vérifié;non
+31187;Fonsorbes;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;324760;69;144;12954;Non vérifié;non
+31188;Fontenilles;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;148065;69;144;5906;Non vérifié;non
+31189;Forgues;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;5365;69;144;214;Non vérifié;non
+31190;Fos;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;3256;36;193;248;Non vérifié;non
+31191;Fougaron;31;eau potable;89182;2024;73,1;1,5;4,1;65,8;conforme;186150;2235;56;145;109;Non vérifié;non
+31192;Fourquevaux;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;11172;36;193;851;Non vérifié;non
+31193;Le Fousseret;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;46706;69;144;1863;Non vérifié;non
+31194;Francarville;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;2508;36;193;191;Non vérifié;non
+31196;Francon;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;6449;75;162;236;Non vérifié;non
+31197;Franquevielle;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;9263;75;162;339;Non vérifié;non
+31198;Le Fréchet;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;3525;75;162;129;Non vérifié;non
+31199;Fronsac;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;2429;36;193;185;Non vérifié;non
+31200;Frontignan-de-Comminges;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;1050;36;193;80;Non vérifié;non
+31201;Frontignan-Savès;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;1803;75;162;66;Non vérifié;non
+31202;Fronton;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;87580;36;193;6671;Non vérifié;non
+31203;Frouzins;31;eau potable;89220;2024;82,5;4,6;21,8;69,4;conforme;1028656;141011;39;118;9805;Non vérifié;non
+31204;Fustignac;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;1755;69;144;70;Non vérifié;non
+31205;Gagnac-sur-Garonne;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;25427;22;53;3198;Non vérifié;non
+31206;Gaillac-Toulza;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;8751;18;62;1342;Non vérifié;non
+31207;Galié;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;2377;75;162;87;Non vérifié;non
+31208;Ganties;31;eau potable;89182;2024;73,1;1,5;4,1;65,8;conforme;186150;6192;56;145;302;Non vérifié;non
+31209;Garac;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;2206;36;193;168;Non vérifié;non
+31210;Gardouch;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;8933;18;62;1370;Non vérifié;non
+31211;Gargas;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;10306;36;193;785;Non vérifié;non
+31213;Garin;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;1917;36;193;146;Non vérifié;non
+31215;Gauré;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;6092;36;193;464;Non vérifié;non
+31217;Génos;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;932;36;193;71;Non vérifié;non
+31218;Gensac-de-Boulogne;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;2978;75;162;109;Non vérifié;non
+31219;Gensac-sur-Garonne;31;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;7287;44;131;451;Non vérifié;non
+31220;Gibel;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;2563;18;62;393;Non vérifié;non
+31221;Gouaux-de-Larboust;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;525;36;193;40;Non vérifié;non
+31222;Gouaux-de-Luchon;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;565;36;193;43;Non vérifié;non
+31223;Goudex;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;1093;75;162;40;Non vérifié;non
+31224;Gourdan-Polignan;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;32162;75;162;1177;Non vérifié;non
+31225;Goutevernisse;31;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;2989;44;131;185;Non vérifié;non
+31226;Gouzens;31;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;1309;44;131;81;Non vérifié;non
+31227;Goyrans;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;11382;36;193;867;Non vérifié;non
+31228;Gragnague;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;33517;36;193;2553;Non vérifié;non
+31229;Gratens;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;20182;69;144;805;Non vérifié;non
+31230;Gratentour;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;39008;22;53;4906;Non vérifié;non
+31231;Grazac;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;5321;18;62;816;Non vérifié;non
+31232;Grenade;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;118970;36;193;9062;Non vérifié;non
+31233;Grépiac;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;6632;18;62;1017;Non vérifié;non
+31234;Le Grès;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;6078;36;193;463;Non vérifié;non
+31235;Guran;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;775;36;193;59;Non vérifié;non
+31236;Herran;31;eau potable;89182;2024;73,1;1,5;4,1;65,8;conforme;186150;1517;56;145;74;Non vérifié;non
+31237;His;31;eau potable;89182;2024;73,1;1,5;4,1;65,8;conforme;186150;4818;56;145;235;Non vérifié;non
+31238;Huos;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;13417;75;162;491;Non vérifié;non
+31239;L' Isle-en-Dodon;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;44103;75;162;1614;Non vérifié;non
+31240;Issus;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;8599;36;193;655;Non vérifié;non
+31241;Izaut-de-l'Hôtel;31;eau potable;89212;2024;76,5;0,9;3,0;65,6;conforme;46647;3804;35;108;298;Non vérifié;non
+31242;Jurvielle;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;302;36;193;23;Non vérifié;non
+31243;Juzes;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;958;36;193;73;Non vérifié;non
+31244;Juzet-de-Luchon;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;4805;36;193;366;Non vérifié;non
+31245;Juzet-d'Izaut;31;eau potable;89212;2024;76,5;0,9;3,0;65,6;conforme;46647;2260;35;108;177;Non vérifié;non
+31246;Labarthe-Inard;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;23800;75;162;871;Non vérifié;non
+31247;Labarthe-Rivière;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;17041;36;193;1298;Non vérifié;non
+31248;Labarthe-sur-Lèze;31;eau potable;89220;2024;82,5;4,6;21,8;69,4;conforme;1028656;94703;39;118;6585;Non vérifié;non
+31249;Labastide-Beauvoir;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;16463;36;193;1254;Non vérifié;non
+31250;Labastide-Clermont;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;17298;69;144;690;Non vérifié;non
+31251;Labastide-Paumès;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;4099;75;162;150;Non vérifié;non
+31252;Labastide-Saint-Sernin;31;eau potable;89192;2024;84,1;4,4;23,5;69,7;conforme;411939;32022;46;135;1925;Non vérifié;non
+31253;Labastidette;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;73456;69;144;2930;Non vérifié;non
+31254;Labège;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;57660;36;193;4392;Non vérifié;non
+31255;Labroquère;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;8853;75;162;324;Non vérifié;non
+31256;Labruyère-Dorsa;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;2067;18;62;317;Non vérifié;non
+31258;Lacaugne;31;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;4072;44;131;252;Non vérifié;non
+31259;Lacroix-Falgarde;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;26651;36;193;2030;Non vérifié;non
+31260;Laffite-Toupière;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;2678;75;162;98;Non vérifié;non
+31261;Lafitte-Vigordane;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;28630;69;144;1142;Non vérifié;non
+31262;Lagarde;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;2817;18;62;432;Non vérifié;non
+31263;Lagardelle-sur-Lèze;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;21538;18;62;3303;Non vérifié;non
+31264;Lagrâce-Dieu;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;3593;18;62;551;Non vérifié;non
+31265;Lagraulet-Saint-Nicolas;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;3728;36;193;284;Non vérifié;non
+31266;Lahage;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;5315;69;144;212;Non vérifié;non
+31267;Lahitère;31;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;840;44;131;52;Non vérifié;non
+31268;Lalouret-Laffiteau;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;3662;75;162;134;Non vérifié;non
+31269;Lamasquère;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;42168;69;144;1682;Non vérifié;non
+31270;Landorthe;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;28145;75;162;1030;Non vérifié;non
+31271;Lanta;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;29972;36;193;2283;Non vérifié;non
+31272;Lapeyrère;31;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;937;44;131;58;Non vérifié;non
+31273;Lapeyrouse-Fossat;31;eau potable;89192;2024;84,1;4,4;23,5;69,7;conforme;411939;50619;46;135;3043;Non vérifié;non
+31274;Larcan;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;4864;75;162;178;Non vérifié;non
+31275;Laréole;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;2061;36;193;157;Non vérifié;non
+31276;Larroque;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;8006;75;162;293;Non vérifié;non
+31277;Lasserre-Pradère;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;20664;36;193;1574;Non vérifié;non
+31278;Latoue;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;8471;75;162;310;Non vérifié;non
+31279;Latour;31;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;1293;44;131;80;Non vérifié;non
+31280;Latrape;31;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;7174;44;131;444;Non vérifié;non
+31281;Launac;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;17527;36;193;1335;Non vérifié;non
+31282;Launaguet;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;72935;22;53;9173;Non vérifié;non
+31283;Lautignac;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;6217;69;144;248;Non vérifié;non
+31284;Lauzerville;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;20769;36;193;1582;Non vérifié;non
+31285;Lavalette;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;10411;36;193;793;Non vérifié;non
+31286;Lavelanet-de-Comminges;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;8573;36;193;653;Non vérifié;non
+31287;Lavernose-Lacasse;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;95217;69;144;3798;Non vérifié;non
+31288;Layrac-sur-Tarn;31;eau potable : SIE DE VILLEMUR SUR TARN;345914;2024;71,7;3,4;8,5;66,7;conforme;212211;5018;43;173;320;Non vérifié;non
+31289;Lécussan;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;6777;75;162;248;Non vérifié;non
+31290;Lège;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;420;36;193;32;Non vérifié;non
+31292;Lescuns;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;2049;75;162;75;Non vérifié;non
+31293;Lespinasse;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;25849;22;53;3251;Non vérifié;non
+31294;Lespiteau;31;eau potable;89212;2024;76,5;0,9;3,0;65,6;conforme;46647;996;35;108;78;Non vérifié;non
+31295;Lespugue;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;2049;75;162;75;Non vérifié;non
+31296;Lestelle-de-Saint-Martory;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;5645;36;193;430;Non vérifié;non
+31297;Lévignac;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;28961;36;193;2206;Non vérifié;non
+31299;Lherm;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;97273;69;144;3880;Non vérifié;non
+31300;Lieoux;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;3443;75;162;126;Non vérifié;non
+31301;Lilhac;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;3826;75;162;140;Non vérifié;non
+31302;Lodes;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;8416;75;162;308;Non vérifié;non
+31303;Longages;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;85038;69;144;3392;Non vérifié;non
+31304;Loubens-Lauragais;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;5960;36;193;454;Non vérifié;non
+31305;Loudet;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;5219;75;162;191;Non vérifié;non
+31306;Lourde;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;3361;75;162;123;Non vérifié;non
+31308;Luscan;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;1257;75;162;46;Non vérifié;non
+31309;Lussan-Adeilhac;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;5917;69;144;236;Non vérifié;non
+31310;Lux;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;4490;36;193;342;Non vérifié;non
+31312;Mailholas;31;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;549;44;131;34;Non vérifié;non
+31313;Malvezie;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;1484;36;193;113;Non vérifié;non
+31314;Mancioux;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;10548;75;162;386;Non vérifié;non
+31315;Mane;31;eau potable;89182;2024;73,1;1,5;4,1;65,8;conforme;186150;19868;56;145;969;Non vérifié;non
+31316;Marignac;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;6223;36;193;474;Non vérifié;non
+31317;Marignac-Lasclares;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;12009;69;144;479;Non vérifié;non
+31318;Marignac-Laspeyres;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;5301;75;162;194;Non vérifié;non
+31319;Marliac;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;841;18;62;129;Non vérifié;non
+31320;Marquefave;31;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;16012;44;131;991;Non vérifié;non
+31321;Marsoulas;31;eau potable;89182;2024;73,1;1,5;4,1;65,8;conforme;186150;2932;56;145;143;Non vérifié;non
+31322;Martisserre;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;1749;75;162;64;Non vérifié;non
+31323;Martres-de-Rivière;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;5488;36;193;418;Non vérifié;non
+31324;Martres-Tolosane;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;65226;75;162;2387;Non vérifié;non
+31325;Mascarville;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;2350;36;193;179;Non vérifié;non
+31326;Massabrac;31;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;2133;44;131;132;Non vérifié;non
+31327;Mauran;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;2639;36;193;201;Non vérifié;non
+31328;Mauremont;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;4582;36;193;349;Non vérifié;non
+31329;Maurens;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;2718;36;193;207;Non vérifié;non
+31330;Mauressac;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;3208;18;62;492;Non vérifié;non
+31331;Maureville;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;3886;36;193;296;Non vérifié;non
+31332;Mauvaisin;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;1519;18;62;233;Non vérifié;non
+31333;Mauvezin;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;2241;75;162;82;Non vérifié;non
+31334;Mauzac;31;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;21828;44;131;1351;Non vérifié;non
+31335;Mayrègne;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;368;36;193;28;Non vérifié;non
+31336;Mazères-sur-Salat;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;8245;36;193;628;Non vérifié;non
+31337;Melles;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;1247;36;193;95;Non vérifié;non
+31338;Menville;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;10568;36;193;805;Non vérifié;non
+31339;Mérenvielle;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;6223;36;193;474;Non vérifié;non
+31340;Mervilla;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;3978;36;193;303;Non vérifié;non
+31341;Merville;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;88749;36;193;6760;Non vérifié;non
+31342;Milhas;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;2508;36;193;191;Non vérifié;non
+31343;Mirambeau;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;1749;75;162;64;Non vérifié;non
+31344;Miramont-de-Comminges;31;eau potable;89073;2023;86,5;1,2;7,5;66,5;conforme;6132;6132;23;58;736;Sans anomalie apparente;non
+31345;Miremont;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;18506;18;62;2838;Non vérifié;non
+31346;Mirepoix-sur-Tarn;31;eau potable : SIE DE VILLEMUR SUR TARN;345914;2024;71,7;3,4;8,5;66,7;conforme;212211;17862;43;173;1139;Non vérifié;non
+31347;Molas;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;4563;75;162;167;Non vérifié;non
+31348;Moncaup;31;eau potable;89212;2024;76,5;0,9;3,0;65,6;conforme;46647;472;35;108;37;Non vérifié;non
+31349;Mondavezan;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;22062;69;144;880;Non vérifié;non
+31350;Mondilhan;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;2405;75;162;88;Non vérifié;non
+31351;Mondonville;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;48183;22;53;6060;Non vérifié;non
+31352;Mondouzil;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;1670;22;53;210;Non vérifié;non
+31353;Monès;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;2181;69;144;87;Non vérifié;non
+31354;Monestrol;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;372;18;62;57;Non vérifié;non
+31355;Mons;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;14797;22;53;1861;Non vérifié;non
+31356;Montaigut-sur-Save;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;26047;36;193;1984;Non vérifié;non
+31357;Montastruc-de-Salies;31;eau potable;89182;2024;73,1;1,5;4,1;65,8;conforme;186150;6192;56;145;302;Non vérifié;non
+31359;Montastruc-Savès;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;1529;69;144;61;Non vérifié;non
+31360;Montauban-de-Luchon;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;6538;36;193;498;Non vérifié;non
+31361;Montaut;31;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;9339;44;131;578;Non vérifié;non
+31362;Montberaud;31;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;3102;44;131;192;Non vérifié;non
+31363;Montbernard;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;5875;75;162;215;Non vérifié;non
+31364;Montberon;31;eau potable;89192;2024;84,1;4,4;23,5;69,7;conforme;411939;52532;46;135;3158;Non vérifié;non
+31365;Montbrun-Bocage;31;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;9565;44;131;592;Non vérifié;non
+31366;Montbrun-Lauragais;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;9584;36;193;730;Non vérifié;non
+31367;Montclar-de-Comminges;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;1037;36;193;79;Non vérifié;non
+31368;Montclar-Lauragais;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;1650;18;62;253;Non vérifié;non
+31369;Mont-de-Galié;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;656;75;162;24;Non vérifié;non
+31370;Montégut-Bourjac;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;3234;69;144;129;Non vérifié;non
+31371;Montégut-Lauragais;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;5251;36;193;400;Non vérifié;non
+31372;Montespan;31;eau potable;89182;2024;73,1;1,5;4,1;65,8;conforme;186150;9760;56;145;476;Non vérifié;non
+31373;Montesquieu-Guittaut;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;4673;75;162;171;Non vérifié;non
+31374;Montesquieu-Lauragais;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;6729;18;62;1032;Non vérifié;non
+31375;Montesquieu-Volvestre;31;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;49279;44;131;3050;Non vérifié;non
+31376;Montgaillard-de-Salies;31;eau potable;89182;2024;73,1;1,5;4,1;65,8;conforme;186150;2214;56;145;108;Non vérifié;non
+31377;Montgaillard-Lauragais;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;8967;36;193;683;Non vérifié;non
+31378;Montgaillard-sur-Save;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;1803;75;162;66;Non vérifié;non
+31379;Montgazin;31;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;2650;44;131;164;Non vérifié;non
+31380;Montgeard;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;3704;18;62;568;Non vérifié;non
+31381;Montgiscard;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;16869;18;62;2587;Non vérifié;non
+31382;Montgras;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;2908;69;144;116;Non vérifié;non
+31384;Montlaur;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;23513;36;193;1791;Non vérifié;non
+31385;Montmaurin;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;5246;75;162;192;Non vérifié;non
+31386;Montoulieu-Saint-Bernard;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;6285;75;162;230;Non vérifié;non
+31387;Montoussin;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;3159;69;144;126;Non vérifié;non
+31389;Montrabé;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;35565;22;53;4473;Non vérifié;non
+31390;Montréjeau;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;72358;75;162;2648;Non vérifié;non
+31391;Montsaunès;31;eau potable;89182;2024;73,1;1,5;4,1;65,8;conforme;186150;9329;56;145;455;Non vérifié;non
+31392;Mourvilles-Basses;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;1037;36;193;79;Non vérifié;non
+31393;Mourvilles-Hautes;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;2258;36;193;172;Non vérifié;non
+31394;Moustajon;31;eau potable;188887;2024;87,1;2,3;15,4;68,1;conforme;2443;2443;53;55;127;Non vérifié;non
+31395;Muret;31;eau potable;89095;2024;86,5;3,6;23,0;69,6;conforme;269042;269042;28;70;26079;Non vérifié;non
+31396;Nailloux;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;27459;18;62;4211;Non vérifié;non
+31397;Nénigan;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;1394;75;162;51;Non vérifié;non
+31398;Nizan-Gesse;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;2869;75;162;105;Non vérifié;non
+31399;Noé;31;eau potable;89220;2024;82,5;4,6;21,8;69,4;conforme;1028656;44108;39;118;3067;Non vérifié;non
+31400;Nogaret;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;1260;36;193;96;Non vérifié;non
+31401;Noueilles;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;5081;36;193;387;Non vérifié;non
+31402;Odars;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;12026;36;193;916;Non vérifié;non
+31403;Ondes;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;10792;36;193;822;Non vérifié;non
+31405;Ore;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;3279;75;162;120;Non vérifié;non
+31406;Palaminy;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;9860;36;193;751;Non vérifié;non
+31408;Payssous;31;eau potable;89212;2024;76,5;0,9;3,0;65,6;conforme;46647;1021;35;108;80;Non vérifié;non
+31409;Péchabou;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;32152;36;193;2449;Non vérifié;non
+31410;Pechbonnieu;31;eau potable;89192;2024;84,1;4,4;23,5;69,7;conforme;411939;81875;46;135;4922;Non vérifié;non
+31411;Pechbusque;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;12800;36;193;975;Non vérifié;non
+31412;Péguilhan;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;7487;75;162;274;Non vérifié;non
+31413;Pelleport;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;7155;36;193;545;Non vérifié;non
+31414;Peyrissas;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;2350;75;162;86;Non vérifié;non
+31415;Peyrouzet;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;2213;75;162;81;Non vérifié;non
+31416;Peyssies;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;18126;69;144;723;Non vérifié;non
+31417;Pibrac;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;71377;22;53;8977;Non vérifié;non
+31418;Pin-Balma;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;8595;22;53;1081;Non vérifié;non
+31419;Le Pin-Murelet;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;4086;69;144;163;Non vérifié;non
+31420;Pinsaguel;31;eau potable;89220;2024;82,5;4,6;21,8;69,4;conforme;1028656;40067;39;118;2786;Non vérifié;non
+31421;Pins-Justaret;31;eau potable;89220;2024;82,5;4,6;21,8;69,4;conforme;1028656;62963;39;118;4378;Non vérifié;non
+31422;Plagne;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;2382;69;144;95;Non vérifié;non
+31423;Plagnole;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;8724;69;144;348;Non vérifié;non
+31424;Plaisance-du-Touch;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;276736;36;193;21079;Non vérifié;non
+31425;Le Plan;31;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;7125;44;131;441;Non vérifié;non
+31426;Pointis-de-Rivière;31;eau potable;89106;2024;85,6;1,5;9,0;66,8;conforme;6532;6532;22;61;825;Non vérifié;non
+31427;Pointis-Inard;31;eau potable;89182;2024;73,1;1,5;4,1;65,8;conforme;186150;18843;56;145;919;Non vérifié;non
+31428;Polastron;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;1755;69;144;70;Non vérifié;non
+31429;Pompertuzat;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;28292;36;193;2155;Non vérifié;non
+31430;Ponlat-Taillebourg;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;17297;75;162;633;Non vérifié;non
+31431;Portet-d'Aspet;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;827;36;193;63;Non vérifié;non
+31432;Portet-de-Luchon;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;486;36;193;37;Non vérifié;non
+31433;Portet-sur-Garonne;31;eau potable;89220;2024;82,5;4,6;21,8;69,4;conforme;1028656;140681;39;118;9782;Non vérifié;non
+31434;Poubeau;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;1024;36;193;78;Non vérifié;non
+31435;Poucharramet;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;24418;69;144;974;Non vérifié;non
+31436;Pouy-de-Touges;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;10755;69;144;429;Non vérifié;non
+31437;Pouze;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;1168;36;193;89;Non vérifié;non
+31439;Préserville;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;10319;36;193;786;Non vérifié;non
+31440;Proupiary;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;1667;75;162;61;Non vérifié;non
+31441;Prunet;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;2009;36;193;153;Non vérifié;non
+31442;Puydaniel;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;3749;18;62;575;Non vérifié;non
+31443;Puymaurin;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;8444;75;162;309;Non vérifié;non
+31444;Puysségur;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;1838;36;193;140;Non vérifié;non
+31445;Quint-Fonsegrives;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;48764;22;53;6133;Non vérifié;non
+31446;Ramonville-Saint-Agne;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;199002;36;193;15158;Non vérifié;non
+31447;Razecueillé;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;381;36;193;29;Non vérifié;non
+31448;Rebigue;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;6630;36;193;505;Non vérifié;non
+31449;Régades;31;eau potable;89212;2024;76,5;0,9;3,0;65,6;conforme;46647;1749;35;108;137;Non vérifié;non
+31450;Renneville;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;3736;18;62;573;Non vérifié;non
+31451;Revel;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;128160;36;193;9762;Non vérifié;non
+31452;Rieucazé;31;eau potable;89212;2024;76,5;0,9;3,0;65,6;conforme;46647;664;35;108;52;Non vérifié;non
+31453;Rieumajou;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;1759;36;193;134;Non vérifié;non
+31454;Rieumes;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;88172;69;144;3517;Non vérifié;non
+31455;Rieux;31;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;42638;44;131;2639;Non vérifié;non
+31456;Riolas;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;1558;75;162;57;Non vérifié;non
+31457;Roquefort-sur-Garonne;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;21888;75;162;801;Non vérifié;non
+31458;Roques;31;eau potable;89220;2024;82,5;4,6;21,8;69,4;conforme;1028656;78178;39;118;5436;Non vérifié;non
+31460;Roquettes;31;eau potable;89220;2024;82,5;4,6;21,8;69,4;conforme;1028656;61553;39;118;4280;Non vérifié;non
+31461;Rouède;31;eau potable;89182;2024;73,1;1,5;4,1;65,8;conforme;186150;5843;56;145;285;Non vérifié;non
+31462;Rouffiac-Tolosan;31;eau potable;89192;2024;84,1;4,4;23,5;69,7;conforme;411939;39308;46;135;2363;Non vérifié;non
+31463;Roumens;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;3282;36;193;250;Non vérifié;non
+31464;Sabonnères;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;8323;69;144;332;Non vérifié;non
+31465;Saccourvielle;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;289;36;193;22;Non vérifié;non
+31466;Saiguède;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;19906;69;144;794;Non vérifié;non
+31467;Saint-Alban;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;51952;22;53;6534;Non vérifié;non
+31468;Saint-André;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;6531;75;162;239;Non vérifié;non
+31469;Saint-Araille;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;3361;75;162;123;Non vérifié;non
+31470;Saint-Aventin;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;906;36;193;69;Non vérifié;non
+31471;Saint-Béat-Lez;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;5054;36;193;385;Non vérifié;non
+31472;Saint-Bertrand-de-Comminges;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;6640;75;162;243;Non vérifié;non
+31473;Saint-Cézert;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;5868;36;193;447;Non vérifié;non
+31474;Saint-Christaud;31;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;3797;44;131;235;Non vérifié;non
+31475;Saint-Clar-de-Rivière;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;43121;69;144;1720;Non vérifié;non
+31476;Saint-Élix-le-Château;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;23391;69;144;933;Non vérifié;non
+31477;Saint-Élix-Séglan;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;1394;75;162;51;Non vérifié;non
+31478;Saint-Félix-Lauragais;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;16437;36;193;1252;Non vérifié;non
+31479;Saint-Ferréol-de-Comminges;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;1612;75;162;59;Non vérifié;non
+31480;Sainte-Foy-d'Aigrefeuille;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;33819;36;193;2576;Non vérifié;non
+31481;Sainte-Foy-de-Peyrolières;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;52347;69;144;2088;Non vérifié;non
+31482;Saint-Frajou;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;5574;75;162;204;Non vérifié;non
+31483;Saint-Gaudens;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;331703;75;162;12139;Non vérifié;non
+31484;Saint-Geniès-Bellevue;31;eau potable;89192;2024;84,1;4,4;23,5;69,7;conforme;411939;41503;46;135;2495;Non vérifié;non
+31485;Saint-Germier;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;1746;36;193;133;Non vérifié;non
+31486;Saint-Hilaire;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;45302;69;144;1807;Non vérifié;non
+31487;Saint-Ignan;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;5957;75;162;218;Non vérifié;non
+31488;Saint-Jean;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;89537;22;53;11261;Non vérifié;non
+31490;Saint-Jory;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;68872;22;53;8662;Non vérifié;non
+31491;Saint-Julia;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;5488;36;193;418;Non vérifié;non
+31492;Saint-Julien-sur-Garonne;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;7208;36;193;549;Non vérifié;non
+31493;Saint-Lary-Boujean;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;3470;75;162;127;Non vérifié;non
+31494;Saint-Laurent;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;4864;75;162;178;Non vérifié;non
+31495;Saint-Léon;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;8249;18;62;1265;Non vérifié;non
+31496;Sainte-Livrade;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;3348;36;193;255;Non vérifié;non
+31497;Saint-Loup-Cammas;31;eau potable;89192;2024;84,1;4,4;23,5;69,7;conforme;411939;38825;46;135;2334;Non vérifié;non
+31498;Saint-Loup-en-Comminges;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;1038;75;162;38;Non vérifié;non
+31499;Saint-Lys;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;247995;69;144;9892;Non vérifié;non
+31501;Saint-Marcel-Paulel;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;6341;36;193;483;Non vérifié;non
+31502;Saint-Marcet;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;10056;75;162;368;Non vérifié;non
+31503;Saint-Martory;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;28063;75;162;1027;Non vérifié;non
+31504;Saint-Médard;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;6148;75;162;225;Non vérifié;non
+31505;Saint-Michel;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;4017;36;193;306;Non vérifié;non
+31506;Saint-Orens-de-Gameville;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;116451;22;53;14646;Non vérifié;non
+31507;Saint-Paul-sur-Save;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;23841;36;193;1816;Non vérifié;non
+31508;Saint-Paul-d'Oueil;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;604;36;193;46;Non vérifié;non
+31509;Saint-Pé-d'Ardet;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;4536;75;162;166;Non vérifié;non
+31510;Saint-Pé-Delbosc;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;3880;75;162;142;Non vérifié;non
+31511;Saint-Pierre;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;3518;36;193;268;Non vérifié;non
+31512;Saint-Pierre-de-Lages;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;11632;36;193;886;Non vérifié;non
+31513;Saint-Plancard;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;10876;75;162;398;Non vérifié;non
+31514;Saint-Rome;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;748;36;193;57;Non vérifié;non
+31515;Saint-Rustice;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;5763;36;193;439;Non vérifié;non
+31516;Saint-Sauveur;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;29447;36;193;2243;Non vérifié;non
+31517;Saint-Sulpice-sur-Lèze;31;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;36789;44;131;2277;Non vérifié;non
+31518;Saint-Thomas;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;15719;69;144;627;Non vérifié;non
+31519;Saint-Vincent;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;2823;36;193;215;Non vérifié;non
+31520;Sajas;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;2607;69;144;104;Non vérifié;non
+31521;Saleich;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;4398;36;193;335;Non vérifié;non
+31522;Salherm;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;1803;75;162;66;Non vérifié;non
+31523;Salies-du-Salat;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;22752;36;193;1733;Non vérifié;non
+31524;Salles-et-Pratviel;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;1694;36;193;129;Non vérifié;non
+31525;Salles-sur-Garonne;31;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;9436;44;131;584;Non vérifié;non
+31526;La Salvetat-Saint-Gilles;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;111737;36;193;8511;Non vérifié;non
+31527;La Salvetat-Lauragais;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;1982;36;193;151;Non vérifié;non
+31528;Saman;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;3908;75;162;143;Non vérifié;non
+31529;Samouillan;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;3006;75;162;110;Non vérifié;non
+31530;Sana;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;6449;75;162;236;Non vérifié;non
+31531;Sarrecave;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;1885;75;162;69;Non vérifié;non
+31532;Sarremezan;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;2432;75;162;89;Non vérifié;non
+31533;Saubens;31;eau potable;89220;2024;82,5;4,6;21,8;69,4;conforme;1028656;33998;39;118;2364;Non vérifié;non
+31534;Saussens;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;2849;36;193;217;Non vérifié;non
+31535;Sauveterre-de-Comminges;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;9216;36;193;702;Non vérifié;non
+31536;Saux-et-Pomarède;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;6695;75;162;245;Non vérifié;non
+31537;Savarthès;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;5328;75;162;195;Non vérifié;non
+31538;Savères;31;eau potable;89194;2024;71,5;3,5;8,9;66,8;conforme;1922638;5240;69;144;209;Non vérifié;non
+31539;Sédeilhac;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;1722;75;162;63;Non vérifié;non
+31540;Ségreville;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;4319;36;193;329;Non vérifié;non
+31541;Seilh;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;26684;22;53;3356;Non vérifié;non
+31542;Seilhan;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;5656;75;162;207;Non vérifié;non
+31543;Sénarens;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;3224;75;162;118;Non vérifié;non
+31544;Sengouagnet;31;eau potable;89212;2024;76,5;0,9;3,0;65,6;conforme;46647;2911;35;108;228;Non vérifié;non
+31545;Sepx;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;5766;75;162;211;Non vérifié;non
+31546;Seyre;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;841;18;62;129;Non vérifié;non
+31547;Seysses;31;eau potable;89220;2024;82,5;4,6;21,8;69,4;conforme;1028656;151567;39;118;10539;Non vérifié;non
+31549;Sode;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;236;36;193;18;Non vérifié;non
+31550;Soueich;31;eau potable;89212;2024;76,5;0,9;3,0;65,6;conforme;46647;6562;35;108;514;Non vérifié;non
+31551;Tarabel;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;7890;36;193;601;Non vérifié;non
+31552;Terrebasse;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;3689;75;162;135;Non vérifié;non
+31553;Thil;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;14914;36;193;1136;Non vérifié;non
+31554;Touille;31;eau potable;89182;2024;73,1;1,5;4,1;65,8;conforme;186150;5023;56;145;245;Non vérifié;non
+31555;Toulouse;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;4093350;22;53;514819;Non vérifié;non
+31556;Les Tourreilles;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;10274;75;162;376;Non vérifié;non
+31557;Tournefeuille;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;239867;22;53;30168;Non vérifié;non
+31558;Toutens;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;5645;36;193;430;Non vérifié;non
+31559;Trébons-de-Luchon;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;105;36;193;8;Non vérifié;non
+31560;Trébons-sur-la-Grasse;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;6630;36;193;505;Non vérifié;non
+31561;L' Union;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;100485;22;53;12638;Non vérifié;non
+31562;Urau;31;eau potable;89182;2024;73,1;1,5;4,1;65,8;conforme;186150;2419;56;145;118;Non vérifié;non
+31563;Vacquiers;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;19588;36;193;1492;Non vérifié;non
+31564;Valcabrère;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;4126;75;162;151;Non vérifié;non
+31565;Valentine;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;23746;75;162;869;Non vérifié;non
+31566;Vallègue;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;6682;36;193;509;Non vérifié;non
+31567;Vallesvilles;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;6065;36;193;462;Non vérifié;non
+31568;Varennes;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;3348;36;193;255;Non vérifié;non
+31569;Vaudreuille;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;5146;36;193;392;Non vérifié;non
+31570;Vaux;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;4070;36;193;310;Non vérifié;non
+31571;Vendine;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;3532;36;193;269;Non vérifié;non
+31572;Venerque;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;39044;36;193;2974;Non vérifié;non
+31573;Verfeil;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;51910;36;193;3954;Non vérifié;non
+31574;Vernet;31;eau potable;89220;2024;82,5;4,6;21,8;69,4;conforme;1028656;48624;39;118;3381;Non vérifié;non
+31575;Vieille-Toulouse;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;16148;36;193;1230;Non vérifié;non
+31576;Vieillevigne;31;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;2243;18;62;344;Non vérifié;non
+31577;Vignaux;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;2061;36;193;157;Non vérifié;non
+31578;Vigoulet-Auzil;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;13654;36;193;1040;Non vérifié;non
+31580;Villate;31;eau potable;89220;2024;82,5;4,6;21,8;69,4;conforme;1028656;17732;39;118;1233;Non vérifié;non
+31581;Villaudric;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;21701;36;193;1653;Non vérifié;non
+31582;Villefranche-de-Lauragais;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;66588;36;193;5072;Non vérifié;non
+31584;Villemur-sur-Tarn;31;eau potable : SIE DE VILLEMUR SUR TARN;345914;2024;71,7;3,4;8,5;66,7;conforme;212211;99503;43;173;6345;Non vérifié;non
+31585;Villeneuve-de-Rivière;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;47136;75;162;1725;Non vérifié;non
+31586;Villeneuve-Lécussan;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;14865;75;162;544;Non vérifié;non
+31587;Villeneuve-lès-Bouloc;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;22148;36;193;1687;Non vérifié;non
+31588;Villeneuve-Tolosane;31;eau potable : SETOM;301014;2024;88,4;5,5;41,5;73,3;conforme;6690998;87811;22;53;11044;Non vérifié;non
+31589;Villenouvelle;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;19522;36;193;1487;Non vérifié;non
+31590;Binos;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;525;36;193;40;Non vérifié;non
+31591;Escoulis;31;eau potable;89182;2024;73,1;1,5;4,1;65,8;conforme;186150;1558;56;145;76;Non vérifié;non
+31592;Larra;31;eau potable : données agrégées;198558;2024;78,5;3,6;13,1;67,6;conforme;3600360;29841;36;193;2273;Non vérifié;non
+31593;Cazac;31;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;2049;75;162;75;Non vérifié;non

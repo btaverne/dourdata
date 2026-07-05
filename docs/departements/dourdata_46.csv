@@ -7,316 +7,316 @@
 # Méthodologie et code : https://github.com/btaverne/dourdata
 # Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
 # Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
-Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
-46001;Albas;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;19888;103;194;529;Non vérifié
-46002;Albiac;46;eau potable;169924;2024;75,2;0,9;2,6;65,5;conforme;57816;2274;66;128;95;Non vérifié
-46003;Alvignac;46;eau potable;169886;2024;70,7;1,7;4,2;65,8;conforme;41698;22300;87;149;699;Non vérifié
-46004;Anglars;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;7622;96;175;218;Non vérifié
-46005;Anglars-Juillac;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;12406;103;194;330;Non vérifié
-46006;Anglars-Nozac;46;eau potable;169695;2024;86,2;0,5;3,3;65,7;conforme;3811;3811;26;55;400;Non vérifié
-46007;Arcambal;46;eau potable;169906;2024;65,0;1,7;3,2;65,6;non conforme;205305;7591;21;196;1004;Non vérifié
-46008;Les Arques;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;8045;103;194;214;Non vérifié
-46009;Assier;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;24788;96;175;709;Non vérifié
-46010;Aujols;46;eau potable : VEOLIA du 01/07/2013 au 31/12/2025;169899;2024;69,7;1,8;4,1;65,8;conforme;186982;2573;18;162;383;Non vérifié
-46011;Autoire;46;eau potable;169699;2024;71,2;2,1;5,2;66,0;conforme;7665;7665;56;149;376;Non vérifié
-46012;Aynac;46;eau potable;169924;2024;75,2;0,9;2,6;65,5;conforme;57816;13431;66;128;561;Non vérifié
-46013;Bach;46;eau potable : SAUR du 01/01/2020 au 31/12/2029;287614;2024;64,2;1,5;2,8;65,6;non conforme;246337;9036;117;197;211;Non vérifié
-46015;Bagnac-sur-Célé;46;eau potable;169700;2024;67,7;1,8;3,8;65,8;conforme;45990;45990;86;171;1467;Non vérifié
-46016;Baladou;46;eau potable : SAUR du 01/01/2023 au 31/12/2031 (Territoires : Eaux du Doux, Moyenne Vallée de la Dordogne, Floirac, Martel et Ex. Blagour);325594;2024;68,8;1,6;3,4;65,7;conforme;371774;12234;85;185;396;Non vérifié
-46017;Bannes;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;5000;96;175;143;Non vérifié
-46018;Le Bastit;46;eau potable;169896;2024;58,9;1,4;2,0;65,4;non conforme;138445;6124;116;282;145;Non vérifié
-46020;Beauregard;46;eau potable : SAUR du 01/01/2020 au 31/12/2029;287614;2024;64,2;1,5;2,8;65,6;non conforme;246337;10193;117;197;238;Non vérifié
-46021;Béduer;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;26187;96;175;749;Non vérifié
-46022;Bélaye;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;8045;103;194;214;Non vérifié
-46023;Belfort-du-Quercy;46;eau potable : SAUR du 01/01/2016 au 31/12/2027;169890;2024;61,1;1,5;2,4;65,5;non conforme;50622;6958;38;233;504;Non vérifié
-46024;Belmont-Bretenoux;46;eau potable;169891;2024;71,0;2,0;4,8;66,0;conforme;37405;11960;80;154;408;Non vérifié
-46026;Belmont-Sainte-Foi;46;eau potable : SAUR du 01/01/2020 au 31/12/2029;287614;2024;64,2;1,5;2,8;65,6;non conforme;246337;5567;117;197;130;Non vérifié
-46027;Berganty;46;eau potable : SAUR du 01/01/2020 au 31/12/2029;287614;2024;64,2;1,5;2,8;65,6;non conforme;246337;6253;117;197;146;Non vérifié
-46028;Bétaille;46;eau potable;169705;2024;65,0;2,2;4,0;65,8;non conforme;34015;34015;88;200;1058;Non vérifié
-46029;Biars-sur-Cère;46;eau potable;169706;2024;49,8;14,0;13,9;67,8;non conforme;173740;173740;243;400;1957;Non vérifié
-46030;Bio;46;eau potable;169924;2024;75,2;0,9;2,6;65,5;conforme;57816;8379;66;128;350;Non vérifié
-46031;Blars;46;eau potable;169903;2024;52,8;1,8;2,0;65,4;non conforme;168310;6914;138;332;137;Non vérifié
-46032;Boissières;46;eau potable : REGIE (Transfert - Distribution);289055;2024;80,2;1,0;4,0;65,8;conforme;41011;6115;45;107;371;Non vérifié
-46033;Porte-du-Quercy;46;eau potable;169916;2024;61,6;1,6;2,5;65,5;non conforme;553457;8161;42;249;532;Non vérifié
-46034;Le Bourg;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;10419;96;175;298;Non vérifié
-46035;Boussac;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;6468;96;175;185;Non vérifié
-46036;Le Bouyssou;46;eau potable;169709;2024;71,3;1,1;2,7;65,5;conforme;2409;2409;55;149;121;Non vérifié
-46037;Bouziès;46;eau potable : SAUR du 01/01/2020 au 31/12/2029;287614;2024;64,2;1,5;2,8;65,6;non conforme;246337;3983;117;197;93;Non vérifié
-46038;Bretenoux;46;eau potable;169710;2024;72,6;3,1;8,3;66,7;conforme;34386;34386;64;136;1468;Non vérifié
-46039;Brengues;46;eau potable;169896;2024;58,9;1,4;2,0;65,4;non conforme;138445;8236;116;282;195;Non vérifié
-46040;Cabrerets;46;eau potable : SAUR du 01/01/2020 au 31/12/2029;287614;2024;64,2;1,5;2,8;65,6;non conforme;246337;9422;117;197;220;Non vérifié
-46041;Cadrieu;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;6083;96;175;174;Non vérifié
-46042;Cahors;46;eau potable : REGIE (Production - Transfert - Distribution);289054;2024;76,4;6,8;21,9;69,4;conforme;652592;529115;72;184;20050;Non vérifié
-46043;Cahus;46;eau potable;169716;2024;36,1;2,8;1,6;65,3;non conforme;14206;14206;210;644;185;Non vérifié
-46044;Caillac;46;eau potable : REGIE (Production - Transfert - Distribution);289054;2024;76,4;6,8;21,9;69,4;conforme;652592;15332;72;184;581;Non vérifié
-46045;Cajarc;46;eau potable;169719;2024;83,9;1,5;7,6;66,5;conforme;26006;26006;63;112;1136;Non vérifié
-46046;Calamane;46;eau potable;169906;2024;65,0;1,7;3,2;65,6;non conforme;205305;3561;21;196;471;Non vérifié
-46047;Calès;46;eau potable;169914;2024;70,4;1,5;3,6;65,7;conforme;187437;5432;88;154;169;Non vérifié
-46049;Calvignac;46;eau potable : SAUR du 01/01/2020 au 31/12/2029;287614;2024;64,2;1,5;2,8;65,6;non conforme;246337;10492;117;197;245;Non vérifié
-46050;Cambayrac;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;5113;103;194;136;Non vérifié
-46051;Cambes;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;11992;96;175;343;Non vérifié
-46052;Camboulit;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;8566;96;175;245;Non vérifié
-46053;Camburat;46;eau potable;169921;2024;66,3;2,0;4,0;65,8;conforme;21170;892;5;184;455;Non vérifié
-46054;Caniac-du-Causse;46;eau potable;169903;2024;52,8;1,8;2,0;65,4;non conforme;168310;18724;138;332;371;Non vérifié
-46055;Capdenac;46;eau potable : Ex. Syndicat de FAYCELLES - FRONTENAC;169904;2024;71,5;1,5;3,8;65,8;conforme;23625;2098;5;143;1049;Non vérifié
-46056;Carayac;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;3636;96;175;104;Non vérifié
-46057;Cardaillac;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;21782;96;175;623;Non vérifié
-46058;Carennac;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;15069;96;175;431;Non vérifié
-46059;Carlucet;46;eau potable;169896;2024;58,9;1,4;2,0;65,4;non conforme;138445;9714;116;282;230;Non vérifié
-46060;Carnac-Rouffiac;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;8684;103;194;231;Non vérifié
-46061;Cassagnes;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;6466;103;194;172;Non vérifié
-46062;Castelfranc;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;16091;103;194;428;Non vérifié
-46063;Castelnau-Montratier;46;eau potable;169916;2024;61,6;1,6;2,5;65,5;non conforme;553457;28225;42;249;1840;Non vérifié
-46064;Catus;46;eau potable : REGIE (Transfert - Distribution);289055;2024;80,2;1,0;4,0;65,8;conforme;41011;15181;45;107;921;Non vérifié
-46065;Cavagnac;46;eau potable : SAUR du 01/01/2023 au 31/12/2031 (Territoires : Eaux du Doux, Moyenne Vallée de la Dordogne, Floirac, Martel et Ex. Blagour);325594;2024;68,8;1,6;3,4;65,7;conforme;371774;13346;85;185;432;Non vérifié
-46066;Cazals;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;24775;103;194;659;Non vérifié
-46068;Cénevières;46;eau potable : SAUR du 01/01/2020 au 31/12/2029;287614;2024;64,2;1,5;2,8;65,6;non conforme;246337;7923;117;197;185;Non vérifié
-46069;Cézac;46;eau potable;169916;2024;61,6;1,6;2,5;65,5;non conforme;553457;2746;42;249;179;Non vérifié
-46070;Cieurac;46;eau potable : VEOLIA du 01/07/2013 au 31/12/2025;169899;2024;69,7;1,8;4,1;65,8;conforme;186982;4434;18;162;660;Non vérifié
-46072;Concorès;46;eau potable;169915;2024;71,9;0,8;2,1;65,4;conforme;56403;5727;50;140;312;Non vérifié
-46073;Concots;46;eau potable : SAUR du 01/01/2020 au 31/12/2029;287614;2024;64,2;1,5;2,8;65,6;non conforme;246337;17987;117;197;420;Non vérifié
-46074;Condat;46;eau potable : SAUR du 01/01/2023 au 31/12/2031 (Territoires : Eaux du Doux, Moyenne Vallée de la Dordogne, Floirac, Martel et Ex. Blagour);325594;2024;68,8;1,6;3,4;65,7;conforme;371774;12666;85;185;410;Non vérifié
-46075;Corn;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;8321;96;175;238;Non vérifié
-46076;Cornac;46;eau potable;169734;2024;68,0;1,3;2,7;65,5;conforme;8645;8645;65;176;366;Non vérifié
-46078;Couzou;46;eau potable;169896;2024;58,9;1,4;2,0;65,4;non conforme;138445;4012;116;282;95;Non vérifié
-46079;Cras;46;eau potable;169909;2024;59,1;1,3;1,9;65,4;non conforme;103636;1812;51;258;97;Non vérifié
-46080;Crayssac;46;eau potable : REGIE (Transfert - Distribution);289055;2024;80,2;1,0;4,0;65,8;conforme;41011;13912;45;107;844;Non vérifié
-46081;Crégols;46;eau potable : SAUR du 01/01/2020 au 31/12/2029;287614;2024;64,2;1,5;2,8;65,6;non conforme;246337;3726;117;197;87;Non vérifié
-46082;Cremps;46;eau potable : VEOLIA du 01/07/2013 au 31/12/2025;169899;2024;69,7;1,8;4,1;65,8;conforme;186982;2754;18;162;410;Non vérifié
-46083;Cressensac-Sarrazac;46;eau potable;169917;2024;72,8;1,3;3,4;65,7;conforme;40100;25171;59;139;1165;Non vérifié
-46084;Creysse;46;eau potable : SAUR du 01/01/2023 au 31/12/2031 (Territoires : Eaux du Doux, Moyenne Vallée de la Dordogne, Floirac, Martel et Ex. Blagour);325594;2024;68,8;1,6;3,4;65,7;conforme;371774;9670;85;185;313;Non vérifié
-46085;Cuzac;46;eau potable : Cuzac;169738;2024;86,0;0,9;5,8;66,2;conforme;2089;2089;24;57;238;Non vérifié
-46086;Cuzance;46;eau potable : SAUR du 01/01/2023 au 31/12/2031 (Territoires : Eaux du Doux, Moyenne Vallée de la Dordogne, Floirac, Martel et Ex. Blagour);325594;2024;68,8;1,6;3,4;65,7;conforme;371774;20174;85;185;653;Non vérifié
-46087;Dégagnac;46;eau potable;169915;2024;71,9;0,8;2,1;65,4;conforme;56403;11783;50;140;642;Non vérifié
-46088;Douelle;46;eau potable : REGIE (Production - Transfert - Distribution);289054;2024;76,4;6,8;21,9;69,4;conforme;652592;21903;72;184;830;Non vérifié
-46089;Duravel;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;35715;103;194;950;Non vérifié
-46090;Durbans;46;eau potable;169896;2024;58,9;1,4;2,0;65,4;non conforme;138445;6673;116;282;158;Non vérifié
-46091;Escamps;46;eau potable : SAUR du 01/01/2020 au 31/12/2029;287614;2024;64,2;1,5;2,8;65,6;non conforme;246337;8822;117;197;206;Non vérifié
-46092;Esclauzels;46;eau potable : VEOLIA du 01/07/2013 au 31/12/2025;169899;2024;69,7;1,8;4,1;65,8;conforme;186982;1505;18;162;224;Non vérifié
-46093;Espagnac-Sainte-Eulalie;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;3391;96;175;97;Non vérifié
-46094;Espédaillac;46;eau potable;169896;2024;58,9;1,4;2,0;65,4;non conforme;138445;12248;116;282;290;Non vérifié
-46095;Espère;46;eau potable : REGIE (Production - Transfert - Distribution);289054;2024;76,4;6,8;21,9;69,4;conforme;652592;25413;72;184;963;Non vérifié
-46096;Espeyroux;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;3426;96;175;98;Non vérifié
-46097;Estal;46;eau potable;169745;2024;70,4;0,5;1,3;65,3;conforme;1642;1642;46;141;97;Non vérifié
-46098;Fajoles;46;eau potable;169914;2024;70,4;1,5;3,6;65,7;conforme;187437;10254;88;154;319;Non vérifié
-46100;Faycelles;46;eau potable : Ex. Syndicat de FAYCELLES - FRONTENAC;169904;2024;71,5;1,5;3,8;65,8;conforme;23625;1480;5;143;740;Non vérifié
-46101;Felzins;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;16223;96;175;464;Non vérifié
-46102;Figeac;46;eau potable;169921;2024;66,3;2,0;4,0;65,8;conforme;21170;19193;5;184;9793;Non vérifié
-46103;Saint-Paul-Flaugnac;46;eau potable;169916;2024;61,6;1,6;2,5;65,5;non conforme;553457;15278;42;249;996;Non vérifié
-46104;Flaujac-Gare;46;eau potable;169896;2024;58,9;1,4;2,0;65,4;non conforme;138445;3548;116;282;84;Non vérifié
-46105;Flaujac-Poujols;46;eau potable : VEOLIA du 01/07/2013 au 31/12/2025;169899;2024;69,7;1,8;4,1;65,8;conforme;186982;5448;18;162;811;Non vérifié
-46106;Floirac;46;eau potable : SAUR du 01/01/2023 au 31/12/2031 (Territoires : Eaux du Doux, Moyenne Vallée de la Dordogne, Floirac, Martel et Ex. Blagour);325594;2024;68,8;1,6;3,4;65,7;conforme;371774;7662;85;185;248;Non vérifié
-46107;Floressas;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;6617;103;194;176;Non vérifié
-46108;Fons;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;14090;96;175;403;Non vérifié
-46109;Fontanes;46;eau potable : VEOLIA du 01/07/2013 au 31/12/2025;169899;2024;69,7;1,8;4,1;65,8;conforme;186982;3675;18;162;547;Non vérifié
-46111;Fourmagnac;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;6223;96;175;178;Non vérifié
-46112;Francoulès;46;eau potable;169909;2024;59,1;1,3;1,9;65,4;non conforme;103636;4950;51;258;265;Non vérifié
-46113;Frayssinet;46;eau potable;169909;2024;59,1;1,3;1,9;65,4;non conforme;103636;5772;51;258;309;Non vérifié
-46114;Frayssinet-le-Gélat;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;14136;103;194;376;Non vérifié
-46115;Frayssinhes;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;5909;96;175;169;Non vérifié
-46116;Frontenac;46;eau potable : Ex. Syndicat de FAYCELLES - FRONTENAC;169904;2024;71,5;1,5;3,8;65,8;conforme;23625;134;5;143;67;Non vérifié
-46117;Gagnac-sur-Cère;46;eau potable;169761;2024;95,0;0,2;4,5;65,9;conforme;1679;1679;7;16;650;Non vérifié
-46118;Gignac;46;eau potable : SAUR du 01/01/2023 au 31/12/2031 (Territoires : Eaux du Doux, Moyenne Vallée de la Dordogne, Floirac, Martel et Ex. Blagour);325594;2024;68,8;1,6;3,4;65,7;conforme;371774;21348;85;185;691;Non vérifié
-46119;Gigouzac;46;eau potable;169909;2024;59,1;1,3;1,9;65,4;non conforme;103636;5660;51;258;303;Non vérifié
-46120;Gindou;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;13384;103;194;356;Non vérifié
-46121;Ginouillac;46;eau potable;169914;2024;70,4;1,5;3,6;65,7;conforme;187437;4468;88;154;139;Non vérifié
-46122;Gintrac;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;3147;96;175;90;Non vérifié
-46123;Girac;46;eau potable;169764;2024;91,3;0,4;3,9;65,8;conforme;1727;1727;13;38;355;Non vérifié
-46124;Glanes;46;eau potable;169766;2024;69,3;2,6;5,9;66,2;conforme;7545;7545;71;162;292;Non vérifié
-46125;Gorses;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;12062;96;175;345;Non vérifié
-46126;Goujounac;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;8271;103;194;220;Non vérifié
-46127;Gourdon;46;eau potable;169769;2024;60,3;4,5;6,8;66,4;non conforme;213361;213361;139;241;4206;Non vérifié
-46128;Gramat;46;eau potable :;169772;2024;77,6;3,7;12,9;67,6;conforme;137346;137346;107;104;3512;Non vérifié
-46129;Gréalou;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;10908;96;175;312;Non vérifié
-46130;Grézels;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;8835;103;194;235;Non vérifié
-46131;Grèzes;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;5419;96;175;155;Non vérifié
-46132;Issendolus;46;eau potable;169924;2024;75,2;0,9;2,6;65,5;conforme;57816;12664;66;128;529;Non vérifié
-46133;Issepts;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;9300;96;175;266;Non vérifié
-46134;Les Junies;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;9436;103;194;251;Non vérifié
-46135;Labastide-du-Haut-Mont;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;1538;96;175;44;Non vérifié
-46136;Labastide-du-Vert;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;10489;103;194;279;Non vérifié
-46137;Labastide-Marnhac;46;eau potable;169916;2024;61,6;1,6;2,5;65,5;non conforme;553457;20110;42;249;1311;Non vérifié
-46138;Cœur de Causse;46;eau potable;169909;2024;59,1;1,3;1,9;65,4;non conforme;103636;16550;51;258;886;Non vérifié
-46139;Labathude;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;7097;96;175;203;Non vérifié
-46140;Laburgade;46;eau potable : VEOLIA du 01/07/2013 au 31/12/2025;169899;2024;69,7;1,8;4,1;65,8;conforme;186982;2546;18;162;379;Non vérifié
-46142;Lacapelle-Cabanac;46;eau potable;169434;2024;63,5;2,5;4,3;65,9;non conforme;728522;6927;110;217;172;Non vérifié
-46143;Lacapelle-Marival;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;44332;96;175;1268;Non vérifié
-46144;Lacave;46;eau potable;169908;2024;67,1;2,3;4,8;66,0;conforme;86460;26994;273;177;271;Non vérifié
-46145;Lachapelle-Auzac;46;eau potable : SAUR du 01/01/2023 au 31/12/2031 (Territoires : Eaux du Doux, Moyenne Vallée de la Dordogne, Floirac, Martel et Ex. Blagour);325594;2024;68,8;1,6;3,4;65,7;conforme;371774;24560;85;185;795;Non vérifié
-46146;Ladirat;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;3007;96;175;86;Non vérifié
-46147;Lagardelle;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;4511;103;194;120;Non vérifié
-46148;Lalbenque;46;eau potable : VEOLIA du 01/07/2013 au 31/12/2025;169899;2024;69,7;1,8;4,1;65,8;conforme;186982;12757;18;162;1899;Non vérifié
-46149;Lamagdelaine;46;eau potable;169906;2024;65,0;1,7;3,2;65,6;non conforme;205305;5451;21;196;721;Non vérifié
-46151;Lamothe-Cassel;46;eau potable;169909;2024;59,1;1,3;1,9;65,4;non conforme;103636;2167;51;258;116;Non vérifié
-46152;Lamothe-Fénelon;46;eau potable;169914;2024;70,4;1,5;3,6;65,7;conforme;187437;10608;88;154;330;Non vérifié
-46153;Lanzac;46;eau potable :;169785;2024;87,5;0,9;6,2;66,2;conforme;8350;8350;41;53;563;Non vérifié
-46154;Laramière;46;eau potable;132739;2024;79,4;1,4;5,3;66,1;conforme;106733;8857;68;106;356;Non vérifié
-46155;Larnagol;46;eau potable : SAUR du 01/01/2020 au 31/12/2029;287614;2024;64,2;1,5;2,8;65,6;non conforme;246337;5782;117;197;135;Non vérifié
-46156;Bellefont-La Rauze;46;eau potable : REGIE (Production - Transfert - Distribution);289054;2024;76,4;6,8;21,9;69,4;conforme;652592;31219;72;184;1183;Non vérifié
-46157;Larroque-Toirac;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;4405;96;175;126;Non vérifié
-46159;Latouille-Lentillac;46;eau potable;169792;2024;94,9;0,1;2,0;65,4;conforme;319;319;4;18;247;Non vérifié
-46160;Latronquière;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;15628;96;175;447;Non vérifié
-46161;Lauresses;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;8356;96;175;239;Non vérifié
-46162;Lauzès;46;eau potable;169906;2024;65,0;1,7;3,2;65,6;non conforme;205305;1512;21;196;200;Non vérifié
-46163;Laval-de-Cère;46;eau potable;169794;2024;79,9;1,1;4,4;65,9;conforme;4529;4529;42;101;296;Non vérifié
-46164;Lavercantière;46;eau potable;169915;2024;71,9;0,8;2,1;65,4;conforme;56403;4295;50;140;234;Non vérifié
-46165;Lavergne;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;17097;96;175;489;Non vérifié
-46167;Lentillac-du-Causse;46;eau potable;169903;2024;52,8;1,8;2,0;65,4;non conforme;168310;5400;138;332;107;Non vérifié
-46168;Lentillac-Saint-Blaise;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;6678;96;175;191;Non vérifié
-46169;Léobard;46;eau potable;169798;2024;95,0;0,2;4,1;65,8;conforme;1300;1300;15;18;234;Non vérifié
-46170;Leyme;46;eau potable;169800;2024;85,4;0,6;3,7;65,7;conforme;8283;8283;24;59;932;Non vérifié
-46171;Lherm;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;8572;103;194;228;Non vérifié
-46172;Lhospitalet;46;eau potable;169916;2024;61,6;1,6;2,5;65,5;non conforme;553457;14189;42;249;925;Non vérifié
-46173;Limogne-en-Quercy;46;eau potable : SAUR du 01/01/2020 au 31/12/2029;287614;2024;64,2;1,5;2,8;65,6;non conforme;246337;36659;117;197;856;Non vérifié
-46174;Linac;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;8146;96;175;233;Non vérifié
-46175;Lissac-et-Mouret;46;eau potable : production - transfert - distribution - régie;323194;2024;43,0;3,9;2,9;65,6;non conforme;77638;77638;219;487;973;Non vérifié
-46176;Livernon;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;25243;96;175;722;Non vérifié
-46177;Loubressac;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;18635;96;175;533;Non vérifié
-46178;Loupiac;46;eau potable;169914;2024;70,4;1,5;3,6;65,7;conforme;187437;9001;88;154;280;Non vérifié
-46179;Lugagnac;46;eau potable : SAUR du 01/01/2020 au 31/12/2029;287614;2024;64,2;1,5;2,8;65,6;non conforme;246337;5996;117;197;140;Non vérifié
-46180;Lunan;46;eau potable;169893;2024;65,5;2,3;4,3;65,9;non conforme;85956;4295;19;194;625;Non vérifié
-46181;Lunegarde;46;eau potable;169896;2024;58,9;1,4;2,0;65,4;non conforme;138445;3970;116;282;94;Non vérifié
-46182;Luzech;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;65791;103;194;1750;Non vérifié
-46183;Marcilhac-sur-Célé;46;eau potable;169903;2024;52,8;1,8;2,0;65,4;non conforme;168310;8731;138;332;173;Non vérifié
-46184;Marminiac;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;13121;103;194;349;Non vérifié
-46185;Martel;46;eau potable : SAUR du 01/01/2023 au 31/12/2031 (Territoires : Eaux du Doux, Moyenne Vallée de la Dordogne, Floirac, Martel et Ex. Blagour);325594;2024;68,8;1,6;3,4;65,7;conforme;371774;50573;85;185;1637;Non vérifié
-46186;Masclat;46;eau potable;169914;2024;70,4;1,5;3,6;65,7;conforme;187437;11476;88;154;357;Non vérifié
-46187;Mauroux;46;eau potable;169434;2024;63,5;2,5;4,3;65,9;non conforme;728522;23359;110;217;580;Non vérifié
-46188;Maxou;46;eau potable;169909;2024;59,1;1,3;1,9;65,4;non conforme;103636;5361;51;258;287;Non vérifié
-46189;Mayrinhac-Lentour;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;16922;96;175;484;Non vérifié
-46190;Mechmont;46;eau potable;169909;2024;59,1;1,3;1,9;65,4;non conforme;103636;2503;51;258;134;Non vérifié
-46191;Mercuès;46;eau potable : REGIE (Production - Transfert - Distribution);289054;2024;76,4;6,8;21,9;69,4;conforme;652592;29609;72;184;1122;Non vérifié
-46192;Meyronne;46;eau potable : SAUR du 01/01/2023 au 31/12/2031 (Territoires : Eaux du Doux, Moyenne Vallée de la Dordogne, Floirac, Martel et Ex. Blagour);325594;2024;68,8;1,6;3,4;65,7;conforme;371774;8310;85;185;269;Non vérifié
-46193;Miers;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;15558;96;175;445;Non vérifié
-46194;Milhac;46;eau potable;169914;2024;70,4;1,5;3,6;65,7;conforme;187437;6365;88;154;198;Non vérifié
-46196;Montamel;46;eau potable;169909;2024;59,1;1,3;1,9;65,4;non conforme;103636;1681;51;258;90;Non vérifié
-46197;Le Montat;46;eau potable;169916;2024;61,6;1,6;2,5;65,5;non conforme;553457;16981;42;249;1107;Non vérifié
-46198;Montbrun;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;4091;96;175;117;Non vérifié
-46199;Montcabrier;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;12858;103;194;342;Non vérifié
-46200;Montcléra;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;10978;103;194;292;Non vérifié
-46201;Montcuq-en-Quercy-Blanc;46;eau potable;169916;2024;61,6;1,6;2,5;65,5;non conforme;553457;27857;42;249;1816;Non vérifié
-46202;Montdoumerc;46;eau potable : SAUR du 01/01/2016 au 31/12/2027;169890;2024;61,1;1,5;2,4;65,5;non conforme;50622;7965;38;233;577;Non vérifié
-46203;Montet-et-Bouxal;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;7447;96;175;213;Non vérifié
-46204;Montfaucon;46;eau potable;169914;2024;70,4;1,5;3,6;65,7;conforme;187437;18773;88;154;584;Non vérifié
-46205;Montgesty;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;11993;103;194;319;Non vérifié
-46206;Montlauzun;46;eau potable;169916;2024;61,6;1,6;2,5;65,5;non conforme;553457;1856;42;249;121;Non vérifié
-46207;Montredon;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;10489;96;175;300;Non vérifié
-46208;Montvalent;46;eau potable;169886;2024;70,7;1,7;4,2;65,8;conforme;41698;10018;87;149;314;Non vérifié
-46209;Nadaillac-de-Rouge;46;eau potable;169914;2024;70,4;1,5;3,6;65,7;conforme;187437;5786;88;154;180;Non vérifié
-46210;Nadillac;46;eau potable;169909;2024;59,1;1,3;1,9;65,4;non conforme;103636;1401;51;258;75;Non vérifié
-46211;Nuzéjouls;46;eau potable : REGIE (Transfert - Distribution);289055;2024;80,2;1,0;4,0;65,8;conforme;41011;5802;45;107;352;Non vérifié
-46212;Orniac;46;eau potable;169903;2024;52,8;1,8;2,0;65,4;non conforme;168310;3684;138;332;73;Non vérifié
-46213;Padirac;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;6363;96;175;182;Non vérifié
-46214;Parnac;46;eau potable;169819;2024;73,5;3,3;9,0;66,8;conforme;16502;16502;118;133;382;Non vérifié
-46215;Payrac;46;eau potable;169914;2024;70,4;1,5;3,6;65,7;conforme;187437;21505;88;154;669;Non vérifié
-46216;Payrignac;46;eau potable;169821;2024;72,5;1,1;2,8;65,6;conforme;14779;14779;62;143;651;Non vérifié
-46217;Pern;46;eau potable;169916;2024;61,6;1,6;2,5;65,5;non conforme;553457;6719;42;249;438;Non vérifié
-46218;Pescadoires;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;6917;103;194;184;Non vérifié
-46219;Peyrilles;46;eau potable;169915;2024;71,9;0,8;2,1;65,4;conforme;56403;6369;50;140;347;Non vérifié
-46220;Pinsac;46;eau potable;169914;2024;70,4;1,5;3,6;65,7;conforme;187437;24719;88;154;769;Non vérifié
-46221;Planioles;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;19369;96;175;554;Non vérifié
-46222;Pomarède;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;7105;103;194;189;Non vérifié
-46223;Pontcirq;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;6692;103;194;178;Non vérifié
-46224;Pradines;46;eau potable;169916;2024;61,6;1,6;2,5;65,5;non conforme;553457;55484;42;249;3617;Non vérifié
-46225;Prayssac;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;94702;103;194;2519;Non vérifié
-46226;Prendeignes;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;8251;96;175;236;Non vérifié
-46227;Promilhanes;46;eau potable : SAUR du 01/01/2020 au 31/12/2029;287614;2024;64,2;1,5;2,8;65,6;non conforme;246337;9722;117;197;227;Non vérifié
-46228;Prudhomat;46;eau potable;169828;2024;55,2;4,5;5,5;66,1;non conforme;41637;41637;156;298;733;Non vérifié
-46229;Puybrun;46;eau potable;169831;2024;69,3;2,5;5,7;66,1;conforme;25550;25550;71;159;984;Non vérifié
-46230;Puyjourdes;46;eau potable : SAUR du 01/01/2020 au 31/12/2029;287614;2024;64,2;1,5;2,8;65,6;non conforme;246337;3769;117;197;88;Non vérifié
-46231;Puy-l'Évêque;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;69927;103;194;1860;Non vérifié
-46232;Le Vignon-en-Quercy;46;eau potable : SAUR du 01/01/2023 au 31/12/2031 (Territoires : Eaux du Doux, Moyenne Vallée de la Dordogne, Floirac, Martel et Ex. Blagour);325594;2024;68,8;1,6;3,4;65,7;conforme;371774;29503;85;185;955;Non vérifié
-46233;Quissac-en-Quercy;46;eau potable;169896;2024;58,9;1,4;2,0;65,4;non conforme;138445;4519;116;282;107;Non vérifié
-46234;Rampoux;46;eau potable;169915;2024;71,9;0,8;2,1;65,4;conforme;56403;1909;50;140;104;Non vérifié
-46235;Reilhac;46;eau potable;169896;2024;58,9;1,4;2,0;65,4;non conforme;138445;7391;116;282;175;Non vérifié
-46236;Reilhaguet;46;eau potable;169914;2024;70,4;1,5;3,6;65,7;conforme;187437;5015;88;154;156;Non vérifié
-46237;Reyrevignes;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;12971;96;175;371;Non vérifié
-46238;Rignac;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;10279;96;175;294;Non vérifié
-46239;Le Roc;46;eau potable;169914;2024;70,4;1,5;3,6;65,7;conforme;187437;6654;88;154;207;Non vérifié
-46240;Rocamadour;46;eau potable;169908;2024;67,1;2,3;4,8;66,0;conforme;86460;59466;273;177;597;Non vérifié
-46241;Rouffilhac;46;eau potable;169914;2024;70,4;1,5;3,6;65,7;conforme;187437;6525;88;154;203;Non vérifié
-46242;Rudelle;46;eau potable;169924;2024;75,2;0,9;2,6;65,5;conforme;57816;4477;66;128;187;Non vérifié
-46243;Rueyres;46;eau potable;169924;2024;75,2;0,9;2,6;65,5;conforme;57816;4740;66;128;198;Non vérifié
-46244;Sabadel-Latronquière;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;3217;96;175;92;Non vérifié
-46245;Sabadel-Lauzès;46;eau potable;169903;2024;52,8;1,8;2,0;65,4;non conforme;168310;4593;138;332;91;Non vérifié
-46246;Saignes;46;eau potable;169924;2024;75,2;0,9;2,6;65,5;conforme;57816;1772;66;128;74;Non vérifié
-46247;Saillac;46;eau potable : SAUR du 01/01/2020 au 31/12/2029;287614;2024;64,2;1,5;2,8;65,6;non conforme;246337;6338;117;197;148;Non vérifié
-46249;Saint-Bressou;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;4335;96;175;124;Non vérifié
-46250;Saint-Caprais;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;2820;103;194;75;Non vérifié
-46251;Saint-Céré;46;eau potable;169839;2024;53,7;9,9;11,5;67,3;non conforme;216810;216810;173;330;3429;Non vérifié
-46252;Les Pechs du Vers;46;eau potable;169909;2024;59,1;1,3;1,9;65,4;non conforme;103636;5660;51;258;303;Non vérifié
-46253;Saint-Chamarand;46;eau potable;169915;2024;71,9;0,8;2,1;65,4;conforme;56403;3524;50;140;192;Non vérifié
-46254;Saint-Chels;46;eau potable;169896;2024;58,9;1,4;2,0;65,4;non conforme;138445;6251;116;282;148;Non vérifié
-46255;Saint-Cirgues;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;11328;96;175;324;Non vérifié
-46256;Saint-Cirq-Lapopie;46;eau potable : SAUR du 01/01/2020 au 31/12/2029;287614;2024;64,2;1,5;2,8;65,6;non conforme;246337;8608;117;197;201;Non vérifié
-46257;Saint-Cirq-Madelon;46;eau potable;169843;2024;73,7;1,2;6,0;66,2;conforme;2628;2628;47;73;153;Non vérifié
-46258;Saint-Cirq-Souillaguet;46;eau potable;169915;2024;71,9;0,8;2,1;65,4;conforme;56403;3157;50;140;172;Non vérifié
-46259;Saint-Clair;46;eau potable;169915;2024;71,9;0,8;2,1;65,4;conforme;56403;2625;50;140;143;Non vérifié
-46260;Sainte-Colombe;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;8251;96;175;236;Non vérifié
-46262;Lendou-en-Quercy;46;eau potable;169916;2024;61,6;1,6;2,5;65,5;non conforme;553457;9388;42;249;612;Non vérifié
-46263;Barguelonne-en-Quercy;46;eau potable;169916;2024;61,6;1,6;2,5;65,5;non conforme;553457;10799;42;249;704;Non vérifié
-46264;Saint-Denis-Catus;46;eau potable;169909;2024;59,1;1,3;1,9;65,4;non conforme;103636;3699;51;258;198;Non vérifié
-46265;Saint-Denis-lès-Martel;46;eau potable : SAUR du 01/01/2023 au 31/12/2031 (Territoires : Eaux du Doux, Moyenne Vallée de la Dordogne, Floirac, Martel et Ex. Blagour);325594;2024;68,8;1,6;3,4;65,7;conforme;371774;10288;85;185;333;Non vérifié
-46266;Saint-Félix;46;eau potable;169893;2024;65,5;2,3;4,3;65,9;non conforme;85956;3512;19;194;511;Non vérifié
-46267;Saint-Germain-du-Bel-Air;46;eau potable;169915;2024;71,9;0,8;2,1;65,4;conforme;56403;11453;50;140;624;Non vérifié
-46268;Saint Géry-Vers;46;eau potable;169906;2024;65,0;1,7;3,2;65,6;non conforme;205305;6880;21;196;910;Non vérifié
-46269;Saint-Hilaire;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;2273;96;175;65;Non vérifié
-46270;Saint-Jean-de-Laur;46;eau potable : SAUR du 01/01/2020 au 31/12/2029;287614;2024;64,2;1,5;2,8;65,6;non conforme;246337;10749;117;197;251;Non vérifié
-46271;Saint-Jean-Lespinasse;46;eau potable;169851;2024;82,0;1,1;4,8;66,0;conforme;4826;4826;33;84;404;Non vérifié
-46272;Saint-Jean-Mirabel;46;eau potable;169893;2024;65,5;2,3;4,3;65,9;non conforme;85956;2034;19;194;296;Non vérifié
-46273;Saint-Laurent-les-Tours;46;eau potable;169891;2024;71,0;2,0;4,8;66,0;conforme;37405;25445;80;154;868;Non vérifié
-46276;Saint-Martin-Labouval;46;eau potable : SAUR du 01/01/2020 au 31/12/2029;287614;2024;64,2;1,5;2,8;65,6;non conforme;246337;8651;117;197;202;Non vérifié
-46277;Saint-Martin-le-Redon;46;eau potable;169434;2024;63,5;2,5;4,3;65,9;non conforme;728522;7853;110;217;195;Non vérifié
-46279;Saint-Maurice-en-Quercy;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;7062;96;175;202;Non vérifié
-46280;Saint-Médard;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;7444;103;194;198;Non vérifié
-46281;Saint-Médard-de-Presque;46;eau potable;169855;2024;94,9;0,2;4,3;65,9;conforme;542;542;7;17;207;Non vérifié
-46282;Saint-Médard-Nicourby;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;3461;96;175;99;Non vérifié
-46283;Saint-Michel-de-Bannières;46;eau potable : SAUR du 01/01/2023 au 31/12/2031 (Territoires : Eaux du Doux, Moyenne Vallée de la Dordogne, Floirac, Martel et Ex. Blagour);325594;2024;68,8;1,6;3,4;65,7;conforme;371774;10936;85;185;354;Non vérifié
-46284;Saint-Michel-Loubéjou;46;eau potable;169857;2024;38,3;6,3;3,9;65,8;non conforme;34492;34492;226;588;418;Non vérifié
-46286;Saint-Paul-de-Vern;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;5979;96;175;171;Non vérifié
-46288;Saint-Perdoux;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;6853;96;175;196;Non vérifié
-46289;Saint-Pierre-Toirac;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;5769;96;175;165;Non vérifié
-46290;Saint-Projet;46;eau potable;169914;2024;70,4;1,5;3,6;65,7;conforme;187437;11669;88;154;363;Non vérifié
-46292;Saint-Simon;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;6818;96;175;195;Non vérifié
-46293;Saint-Sozy;46;eau potable : SAUR du 01/01/2023 au 31/12/2031 (Territoires : Eaux du Doux, Moyenne Vallée de la Dordogne, Floirac, Martel et Ex. Blagour);325594;2024;68,8;1,6;3,4;65,7;conforme;371774;15138;85;185;490;Non vérifié
-46294;Saint-Sulpice;46;eau potable;169896;2024;58,9;1,4;2,0;65,4;non conforme;138445;5364;116;282;127;Non vérifié
-46295;Saint-Vincent-du-Pendit;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;8041;96;175;230;Non vérifié
-46296;Saint-Vincent-Rive-d'Olt;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;16617;103;194;442;Non vérifié
-46297;Salviac;46;eau potable : Vitrac-Céou;137737;2024;60,7;2,9;4,5;65,9;non conforme;884895;53220;118;237;1231;Non vérifié
-46299;Sauliac-sur-Célé;46;eau potable : SAUR du 01/01/2020 au 31/12/2029;287614;2024;64,2;1,5;2,8;65,6;non conforme;246337;4882;117;197;114;Non vérifié
-46301;Sauzet;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;19963;103;194;531;Non vérifié
-46302;Sénaillac-Latronquière;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;4440;96;175;127;Non vérifié
-46303;Sénaillac-Lauzès;46;eau potable;169903;2024;52,8;1,8;2,0;65,4;non conforme;168310;7318;138;332;145;Non vérifié
-46304;Séniergues;46;eau potable;169914;2024;70,4;1,5;3,6;65,7;conforme;187437;4693;88;154;146;Non vérifié
-46305;Sérignac;46;eau potable;169434;2024;63,5;2,5;4,3;65,9;non conforme;728522;13129;110;217;326;Non vérifié
-46306;Sonac;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;3286;96;175;94;Non vérifié
-46307;Soturac;46;eau potable;169434;2024;63,5;2,5;4,3;65,9;non conforme;728522;25937;110;217;644;Non vérifié
-46308;Soucirac;46;eau potable;169914;2024;70,4;1,5;3,6;65,7;conforme;187437;3279;88;154;102;Non vérifié
-46309;Souillac;46;eau potable : SAUR du 01/01/2023 au 31/12/2031 (Territoires : Eaux du Doux, Moyenne Vallée de la Dordogne, Floirac, Martel et Ex. Blagour);325594;2024;68,8;1,6;3,4;65,7;conforme;371774;98613;85;185;3192;Non vérifié
-46310;Soulomès;46;eau potable;169903;2024;52,8;1,8;2,0;65,4;non conforme;168310;6611;138;332;131;Non vérifié
-46311;Sousceyrac-en-Quercy;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;46430;96;175;1328;Non vérifié
-46312;Strenquels;46;eau potable : SAUR du 01/01/2023 au 31/12/2031 (Territoires : Eaux du Doux, Moyenne Vallée de la Dordogne, Floirac, Martel et Ex. Blagour);325594;2024;68,8;1,6;3,4;65,7;conforme;371774;7971;85;185;258;Non vérifié
-46313;Tauriac;46;eau potable;169869;2024;49,8;6,9;27,0;70,4;non conforme;45610;45610;264;361;473;Non vérifié
-46314;Terrou;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;5979;96;175;171;Non vérifié
-46315;Teyssieu;46;eau potable;169872;2024;97,7;0,1;4,9;66,0;conforme;84;84;1;7;162;Non vérifié
-46316;Thédirac;46;eau potable;169915;2024;71,9;0,8;2,1;65,4;conforme;56403;5561;50;140;303;Non vérifié
-46317;Thégra;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;17376;96;175;497;Non vérifié
-46318;Thémines;46;eau potable;169924;2024;75,2;0,9;2,6;65,5;conforme;57816;5746;66;128;240;Non vérifié
-46319;Théminettes;46;eau potable;169924;2024;75,2;0,9;2,6;65,5;conforme;57816;4333;66;128;181;Non vérifié
-46320;Tour-de-Faure;46;eau potable : SAUR du 01/01/2020 au 31/12/2029;287614;2024;64,2;1,5;2,8;65,6;non conforme;246337;14647;117;197;342;Non vérifié
-46321;Touzac;46;eau potable;169434;2024;63,5;2,5;4,3;65,9;non conforme;728522;14257;110;217;354;Non vérifié
-46322;Trespoux-Rassiels;46;eau potable;169916;2024;61,6;1,6;2,5;65,5;non conforme;553457;12962;42;249;845;Non vérifié
-46323;Ussel;46;eau potable;169909;2024;59,1;1,3;1,9;65,4;non conforme;103636;1756;51;258;94;Non vérifié
-46324;Uzech;46;eau potable;169909;2024;59,1;1,3;1,9;65,4;non conforme;103636;3661;51;258;196;Non vérifié
-46328;Varaire;46;eau potable : SAUR du 01/01/2020 au 31/12/2029;287614;2024;64,2;1,5;2,8;65,6;non conforme;246337;15375;117;197;359;Non vérifié
-46329;Vaylats;46;eau potable : SAUR du 01/01/2020 au 31/12/2029;287614;2024;64,2;1,5;2,8;65,6;non conforme;246337;14004;117;197;327;Non vérifié
-46330;Vayrac;46;eau potable;169877;2024;61,1;3,9;6,2;66,2;non conforme;56940;56940;123;231;1266;Non vérifié
-46332;Viazac;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;12027;96;175;344;Non vérifié
-46333;Vidaillac;46;eau potable : SAUR du 01/01/2020 au 31/12/2029;287614;2024;64,2;1,5;2,8;65,6;non conforme;246337;7752;117;197;181;Non vérifié
-46334;Le Vigan-en-Quercy;46;eau potable;169880;2024;64,5;2,1;3,8;65,8;non conforme;53655;53655;96;202;1535;Non vérifié
-46335;Villesèque;46;eau potable;169916;2024;61,6;1,6;2,5;65,5;non conforme;553457;6274;42;249;409;Non vérifié
-46336;Vire-sur-Lot;46;eau potable;169883;2024;86,7;0,5;3,4;65,7;conforme;4369;4369;34;54;348;Non vérifié
-46337;Mayrac;46;eau potable : SAUR du 01/01/2023 au 31/12/2031 (Territoires : Eaux du Doux, Moyenne Vallée de la Dordogne, Floirac, Martel et Ex. Blagour);325594;2024;68,8;1,6;3,4;65,7;conforme;371774;7847;85;185;254;Non vérifié
-46338;Bessonies;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;2517;96;175;72;Non vérifié
-46339;Saint-Jean-Lagineste;46;eau potable;169884;2024;79,4;0,8;3,0;65,6;conforme;3600;3600;26;98;378;Non vérifié
-46340;Saint-Pierre-Lafeuille;46;eau potable;169906;2024;65,0;1,7;3,2;65,6;non conforme;205305;3168;21;196;419;Non vérifié
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement);Donnée suspecte (voir LISEZMOI)
+46001;Albas;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;19888;103;194;529;Non vérifié;non
+46002;Albiac;46;eau potable;169924;2024;75,2;0,9;2,6;65,5;conforme;57816;2274;66;128;95;Non vérifié;non
+46003;Alvignac;46;eau potable;169886;2024;70,7;1,7;4,2;65,8;conforme;41698;22300;87;149;699;Non vérifié;non
+46004;Anglars;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;7622;96;175;218;Non vérifié;non
+46005;Anglars-Juillac;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;12406;103;194;330;Non vérifié;non
+46006;Anglars-Nozac;46;eau potable;169695;2024;86,2;0,5;3,3;65,7;conforme;3811;3811;26;55;400;Non vérifié;non
+46007;Arcambal;46;eau potable;169906;2024;65,0;1,7;3,2;65,6;non conforme;205305;7591;21;196;1004;Non vérifié;non
+46008;Les Arques;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;8045;103;194;214;Non vérifié;non
+46009;Assier;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;24788;96;175;709;Non vérifié;non
+46010;Aujols;46;eau potable : VEOLIA du 01/07/2013 au 31/12/2025;169899;2024;69,7;1,8;4,1;65,8;conforme;186982;2573;18;162;383;Non vérifié;non
+46011;Autoire;46;eau potable;169699;2024;71,2;2,1;5,2;66,0;conforme;7665;7665;56;149;376;Non vérifié;non
+46012;Aynac;46;eau potable;169924;2024;75,2;0,9;2,6;65,5;conforme;57816;13431;66;128;561;Non vérifié;non
+46013;Bach;46;eau potable : SAUR du 01/01/2020 au 31/12/2029;287614;2024;64,2;1,5;2,8;65,6;non conforme;246337;9036;117;197;211;Non vérifié;non
+46015;Bagnac-sur-Célé;46;eau potable;169700;2024;67,7;1,8;3,8;65,8;conforme;45990;45990;86;171;1467;Non vérifié;non
+46016;Baladou;46;eau potable : SAUR du 01/01/2023 au 31/12/2031 (Territoires : Eaux du Doux, Moyenne Vallée de la Dordogne, Floirac, Martel et Ex. Blagour);325594;2024;68,8;1,6;3,4;65,7;conforme;371774;12234;85;185;396;Non vérifié;non
+46017;Bannes;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;5000;96;175;143;Non vérifié;non
+46018;Le Bastit;46;eau potable;169896;2024;58,9;1,4;2,0;65,4;non conforme;138445;6124;116;282;145;Non vérifié;non
+46020;Beauregard;46;eau potable : SAUR du 01/01/2020 au 31/12/2029;287614;2024;64,2;1,5;2,8;65,6;non conforme;246337;10193;117;197;238;Non vérifié;non
+46021;Béduer;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;26187;96;175;749;Non vérifié;non
+46022;Bélaye;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;8045;103;194;214;Non vérifié;non
+46023;Belfort-du-Quercy;46;eau potable : SAUR du 01/01/2016 au 31/12/2027;169890;2024;61,1;1,5;2,4;65,5;non conforme;50622;6958;38;233;504;Non vérifié;non
+46024;Belmont-Bretenoux;46;eau potable;169891;2024;71,0;2,0;4,8;66,0;conforme;37405;11960;80;154;408;Non vérifié;non
+46026;Belmont-Sainte-Foi;46;eau potable : SAUR du 01/01/2020 au 31/12/2029;287614;2024;64,2;1,5;2,8;65,6;non conforme;246337;5567;117;197;130;Non vérifié;non
+46027;Berganty;46;eau potable : SAUR du 01/01/2020 au 31/12/2029;287614;2024;64,2;1,5;2,8;65,6;non conforme;246337;6253;117;197;146;Non vérifié;non
+46028;Bétaille;46;eau potable;169705;2024;65,0;2,2;4,0;65,8;non conforme;34015;34015;88;200;1058;Non vérifié;non
+46029;Biars-sur-Cère;46;eau potable;169706;2024;49,8;14,0;13,9;67,8;non conforme;173740;173740;243;400;1957;Non vérifié;non
+46030;Bio;46;eau potable;169924;2024;75,2;0,9;2,6;65,5;conforme;57816;8379;66;128;350;Non vérifié;non
+46031;Blars;46;eau potable;169903;2024;52,8;1,8;2,0;65,4;non conforme;168310;6914;138;332;137;Non vérifié;non
+46032;Boissières;46;eau potable : REGIE (Transfert - Distribution);289055;2024;80,2;1,0;4,0;65,8;conforme;41011;6115;45;107;371;Non vérifié;non
+46033;Porte-du-Quercy;46;eau potable;169916;2024;61,6;1,6;2,5;65,5;non conforme;553457;8161;42;249;532;Non vérifié;non
+46034;Le Bourg;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;10419;96;175;298;Non vérifié;non
+46035;Boussac;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;6468;96;175;185;Non vérifié;non
+46036;Le Bouyssou;46;eau potable;169709;2024;71,3;1,1;2,7;65,5;conforme;2409;2409;55;149;121;Non vérifié;non
+46037;Bouziès;46;eau potable : SAUR du 01/01/2020 au 31/12/2029;287614;2024;64,2;1,5;2,8;65,6;non conforme;246337;3983;117;197;93;Non vérifié;non
+46038;Bretenoux;46;eau potable;169710;2024;72,6;3,1;8,3;66,7;conforme;34386;34386;64;136;1468;Non vérifié;non
+46039;Brengues;46;eau potable;169896;2024;58,9;1,4;2,0;65,4;non conforme;138445;8236;116;282;195;Non vérifié;non
+46040;Cabrerets;46;eau potable : SAUR du 01/01/2020 au 31/12/2029;287614;2024;64,2;1,5;2,8;65,6;non conforme;246337;9422;117;197;220;Non vérifié;non
+46041;Cadrieu;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;6083;96;175;174;Non vérifié;non
+46042;Cahors;46;eau potable : REGIE (Production - Transfert - Distribution);289054;2024;76,4;6,8;21,9;69,4;conforme;652592;529115;72;184;20050;Non vérifié;non
+46043;Cahus;46;eau potable;169716;2024;36,1;2,8;1,6;65,3;non conforme;14206;14206;210;644;185;Non vérifié;non
+46044;Caillac;46;eau potable : REGIE (Production - Transfert - Distribution);289054;2024;76,4;6,8;21,9;69,4;conforme;652592;15332;72;184;581;Non vérifié;non
+46045;Cajarc;46;eau potable;169719;2024;83,9;1,5;7,6;66,5;conforme;26006;26006;63;112;1136;Non vérifié;non
+46046;Calamane;46;eau potable;169906;2024;65,0;1,7;3,2;65,6;non conforme;205305;3561;21;196;471;Non vérifié;non
+46047;Calès;46;eau potable;169914;2024;70,4;1,5;3,6;65,7;conforme;187437;5432;88;154;169;Non vérifié;non
+46049;Calvignac;46;eau potable : SAUR du 01/01/2020 au 31/12/2029;287614;2024;64,2;1,5;2,8;65,6;non conforme;246337;10492;117;197;245;Non vérifié;non
+46050;Cambayrac;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;5113;103;194;136;Non vérifié;non
+46051;Cambes;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;11992;96;175;343;Non vérifié;non
+46052;Camboulit;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;8566;96;175;245;Non vérifié;non
+46053;Camburat;46;eau potable;169921;2024;66,3;2,0;4,0;65,8;conforme;21170;892;5;184;455;Non vérifié;non
+46054;Caniac-du-Causse;46;eau potable;169903;2024;52,8;1,8;2,0;65,4;non conforme;168310;18724;138;332;371;Non vérifié;non
+46055;Capdenac;46;eau potable : Ex. Syndicat de FAYCELLES - FRONTENAC;169904;2024;71,5;1,5;3,8;65,8;conforme;23625;2098;5;143;1049;Non vérifié;non
+46056;Carayac;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;3636;96;175;104;Non vérifié;non
+46057;Cardaillac;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;21782;96;175;623;Non vérifié;non
+46058;Carennac;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;15069;96;175;431;Non vérifié;non
+46059;Carlucet;46;eau potable;169896;2024;58,9;1,4;2,0;65,4;non conforme;138445;9714;116;282;230;Non vérifié;non
+46060;Carnac-Rouffiac;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;8684;103;194;231;Non vérifié;non
+46061;Cassagnes;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;6466;103;194;172;Non vérifié;non
+46062;Castelfranc;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;16091;103;194;428;Non vérifié;non
+46063;Castelnau-Montratier;46;eau potable;169916;2024;61,6;1,6;2,5;65,5;non conforme;553457;28225;42;249;1840;Non vérifié;non
+46064;Catus;46;eau potable : REGIE (Transfert - Distribution);289055;2024;80,2;1,0;4,0;65,8;conforme;41011;15181;45;107;921;Non vérifié;non
+46065;Cavagnac;46;eau potable : SAUR du 01/01/2023 au 31/12/2031 (Territoires : Eaux du Doux, Moyenne Vallée de la Dordogne, Floirac, Martel et Ex. Blagour);325594;2024;68,8;1,6;3,4;65,7;conforme;371774;13346;85;185;432;Non vérifié;non
+46066;Cazals;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;24775;103;194;659;Non vérifié;non
+46068;Cénevières;46;eau potable : SAUR du 01/01/2020 au 31/12/2029;287614;2024;64,2;1,5;2,8;65,6;non conforme;246337;7923;117;197;185;Non vérifié;non
+46069;Cézac;46;eau potable;169916;2024;61,6;1,6;2,5;65,5;non conforme;553457;2746;42;249;179;Non vérifié;non
+46070;Cieurac;46;eau potable : VEOLIA du 01/07/2013 au 31/12/2025;169899;2024;69,7;1,8;4,1;65,8;conforme;186982;4434;18;162;660;Non vérifié;non
+46072;Concorès;46;eau potable;169915;2024;71,9;0,8;2,1;65,4;conforme;56403;5727;50;140;312;Non vérifié;non
+46073;Concots;46;eau potable : SAUR du 01/01/2020 au 31/12/2029;287614;2024;64,2;1,5;2,8;65,6;non conforme;246337;17987;117;197;420;Non vérifié;non
+46074;Condat;46;eau potable : SAUR du 01/01/2023 au 31/12/2031 (Territoires : Eaux du Doux, Moyenne Vallée de la Dordogne, Floirac, Martel et Ex. Blagour);325594;2024;68,8;1,6;3,4;65,7;conforme;371774;12666;85;185;410;Non vérifié;non
+46075;Corn;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;8321;96;175;238;Non vérifié;non
+46076;Cornac;46;eau potable;169734;2024;68,0;1,3;2,7;65,5;conforme;8645;8645;65;176;366;Non vérifié;non
+46078;Couzou;46;eau potable;169896;2024;58,9;1,4;2,0;65,4;non conforme;138445;4012;116;282;95;Non vérifié;non
+46079;Cras;46;eau potable;169909;2024;59,1;1,3;1,9;65,4;non conforme;103636;1812;51;258;97;Non vérifié;non
+46080;Crayssac;46;eau potable : REGIE (Transfert - Distribution);289055;2024;80,2;1,0;4,0;65,8;conforme;41011;13912;45;107;844;Non vérifié;non
+46081;Crégols;46;eau potable : SAUR du 01/01/2020 au 31/12/2029;287614;2024;64,2;1,5;2,8;65,6;non conforme;246337;3726;117;197;87;Non vérifié;non
+46082;Cremps;46;eau potable : VEOLIA du 01/07/2013 au 31/12/2025;169899;2024;69,7;1,8;4,1;65,8;conforme;186982;2754;18;162;410;Non vérifié;non
+46083;Cressensac-Sarrazac;46;eau potable;169917;2024;72,8;1,3;3,4;65,7;conforme;40100;25171;59;139;1165;Non vérifié;non
+46084;Creysse;46;eau potable : SAUR du 01/01/2023 au 31/12/2031 (Territoires : Eaux du Doux, Moyenne Vallée de la Dordogne, Floirac, Martel et Ex. Blagour);325594;2024;68,8;1,6;3,4;65,7;conforme;371774;9670;85;185;313;Non vérifié;non
+46085;Cuzac;46;eau potable : Cuzac;169738;2024;86,0;0,9;5,8;66,2;conforme;2089;2089;24;57;238;Non vérifié;non
+46086;Cuzance;46;eau potable : SAUR du 01/01/2023 au 31/12/2031 (Territoires : Eaux du Doux, Moyenne Vallée de la Dordogne, Floirac, Martel et Ex. Blagour);325594;2024;68,8;1,6;3,4;65,7;conforme;371774;20174;85;185;653;Non vérifié;non
+46087;Dégagnac;46;eau potable;169915;2024;71,9;0,8;2,1;65,4;conforme;56403;11783;50;140;642;Non vérifié;non
+46088;Douelle;46;eau potable : REGIE (Production - Transfert - Distribution);289054;2024;76,4;6,8;21,9;69,4;conforme;652592;21903;72;184;830;Non vérifié;non
+46089;Duravel;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;35715;103;194;950;Non vérifié;non
+46090;Durbans;46;eau potable;169896;2024;58,9;1,4;2,0;65,4;non conforme;138445;6673;116;282;158;Non vérifié;non
+46091;Escamps;46;eau potable : SAUR du 01/01/2020 au 31/12/2029;287614;2024;64,2;1,5;2,8;65,6;non conforme;246337;8822;117;197;206;Non vérifié;non
+46092;Esclauzels;46;eau potable : VEOLIA du 01/07/2013 au 31/12/2025;169899;2024;69,7;1,8;4,1;65,8;conforme;186982;1505;18;162;224;Non vérifié;non
+46093;Espagnac-Sainte-Eulalie;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;3391;96;175;97;Non vérifié;non
+46094;Espédaillac;46;eau potable;169896;2024;58,9;1,4;2,0;65,4;non conforme;138445;12248;116;282;290;Non vérifié;non
+46095;Espère;46;eau potable : REGIE (Production - Transfert - Distribution);289054;2024;76,4;6,8;21,9;69,4;conforme;652592;25413;72;184;963;Non vérifié;non
+46096;Espeyroux;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;3426;96;175;98;Non vérifié;non
+46097;Estal;46;eau potable;169745;2024;70,4;0,5;1,3;65,3;conforme;1642;1642;46;141;97;Non vérifié;non
+46098;Fajoles;46;eau potable;169914;2024;70,4;1,5;3,6;65,7;conforme;187437;10254;88;154;319;Non vérifié;non
+46100;Faycelles;46;eau potable : Ex. Syndicat de FAYCELLES - FRONTENAC;169904;2024;71,5;1,5;3,8;65,8;conforme;23625;1480;5;143;740;Non vérifié;non
+46101;Felzins;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;16223;96;175;464;Non vérifié;non
+46102;Figeac;46;eau potable;169921;2024;66,3;2,0;4,0;65,8;conforme;21170;19193;5;184;9793;Non vérifié;non
+46103;Saint-Paul-Flaugnac;46;eau potable;169916;2024;61,6;1,6;2,5;65,5;non conforme;553457;15278;42;249;996;Non vérifié;non
+46104;Flaujac-Gare;46;eau potable;169896;2024;58,9;1,4;2,0;65,4;non conforme;138445;3548;116;282;84;Non vérifié;non
+46105;Flaujac-Poujols;46;eau potable : VEOLIA du 01/07/2013 au 31/12/2025;169899;2024;69,7;1,8;4,1;65,8;conforme;186982;5448;18;162;811;Non vérifié;non
+46106;Floirac;46;eau potable : SAUR du 01/01/2023 au 31/12/2031 (Territoires : Eaux du Doux, Moyenne Vallée de la Dordogne, Floirac, Martel et Ex. Blagour);325594;2024;68,8;1,6;3,4;65,7;conforme;371774;7662;85;185;248;Non vérifié;non
+46107;Floressas;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;6617;103;194;176;Non vérifié;non
+46108;Fons;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;14090;96;175;403;Non vérifié;non
+46109;Fontanes;46;eau potable : VEOLIA du 01/07/2013 au 31/12/2025;169899;2024;69,7;1,8;4,1;65,8;conforme;186982;3675;18;162;547;Non vérifié;non
+46111;Fourmagnac;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;6223;96;175;178;Non vérifié;non
+46112;Francoulès;46;eau potable;169909;2024;59,1;1,3;1,9;65,4;non conforme;103636;4950;51;258;265;Non vérifié;non
+46113;Frayssinet;46;eau potable;169909;2024;59,1;1,3;1,9;65,4;non conforme;103636;5772;51;258;309;Non vérifié;non
+46114;Frayssinet-le-Gélat;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;14136;103;194;376;Non vérifié;non
+46115;Frayssinhes;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;5909;96;175;169;Non vérifié;non
+46116;Frontenac;46;eau potable : Ex. Syndicat de FAYCELLES - FRONTENAC;169904;2024;71,5;1,5;3,8;65,8;conforme;23625;134;5;143;67;Non vérifié;non
+46117;Gagnac-sur-Cère;46;eau potable;169761;2024;95,0;0,2;4,5;65,9;conforme;1679;1679;7;16;650;Non vérifié;non
+46118;Gignac;46;eau potable : SAUR du 01/01/2023 au 31/12/2031 (Territoires : Eaux du Doux, Moyenne Vallée de la Dordogne, Floirac, Martel et Ex. Blagour);325594;2024;68,8;1,6;3,4;65,7;conforme;371774;21348;85;185;691;Non vérifié;non
+46119;Gigouzac;46;eau potable;169909;2024;59,1;1,3;1,9;65,4;non conforme;103636;5660;51;258;303;Non vérifié;non
+46120;Gindou;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;13384;103;194;356;Non vérifié;non
+46121;Ginouillac;46;eau potable;169914;2024;70,4;1,5;3,6;65,7;conforme;187437;4468;88;154;139;Non vérifié;non
+46122;Gintrac;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;3147;96;175;90;Non vérifié;non
+46123;Girac;46;eau potable;169764;2024;91,3;0,4;3,9;65,8;conforme;1727;1727;13;38;355;Non vérifié;non
+46124;Glanes;46;eau potable;169766;2024;69,3;2,6;5,9;66,2;conforme;7545;7545;71;162;292;Non vérifié;non
+46125;Gorses;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;12062;96;175;345;Non vérifié;non
+46126;Goujounac;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;8271;103;194;220;Non vérifié;non
+46127;Gourdon;46;eau potable;169769;2024;60,3;4,5;6,8;66,4;non conforme;213361;213361;139;241;4206;Non vérifié;non
+46128;Gramat;46;eau potable :;169772;2024;77,6;3,7;12,9;67,6;conforme;137346;137346;107;104;3512;Non vérifié;non
+46129;Gréalou;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;10908;96;175;312;Non vérifié;non
+46130;Grézels;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;8835;103;194;235;Non vérifié;non
+46131;Grèzes;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;5419;96;175;155;Non vérifié;non
+46132;Issendolus;46;eau potable;169924;2024;75,2;0,9;2,6;65,5;conforme;57816;12664;66;128;529;Non vérifié;non
+46133;Issepts;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;9300;96;175;266;Non vérifié;non
+46134;Les Junies;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;9436;103;194;251;Non vérifié;non
+46135;Labastide-du-Haut-Mont;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;1538;96;175;44;Non vérifié;non
+46136;Labastide-du-Vert;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;10489;103;194;279;Non vérifié;non
+46137;Labastide-Marnhac;46;eau potable;169916;2024;61,6;1,6;2,5;65,5;non conforme;553457;20110;42;249;1311;Non vérifié;non
+46138;Cœur de Causse;46;eau potable;169909;2024;59,1;1,3;1,9;65,4;non conforme;103636;16550;51;258;886;Non vérifié;non
+46139;Labathude;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;7097;96;175;203;Non vérifié;non
+46140;Laburgade;46;eau potable : VEOLIA du 01/07/2013 au 31/12/2025;169899;2024;69,7;1,8;4,1;65,8;conforme;186982;2546;18;162;379;Non vérifié;non
+46142;Lacapelle-Cabanac;46;eau potable;169434;2024;63,5;2,5;4,3;65,9;non conforme;728522;6927;110;217;172;Non vérifié;non
+46143;Lacapelle-Marival;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;44332;96;175;1268;Non vérifié;non
+46144;Lacave;46;eau potable;169908;2024;67,1;2,3;4,8;66,0;conforme;86460;26994;273;177;271;Non vérifié;non
+46145;Lachapelle-Auzac;46;eau potable : SAUR du 01/01/2023 au 31/12/2031 (Territoires : Eaux du Doux, Moyenne Vallée de la Dordogne, Floirac, Martel et Ex. Blagour);325594;2024;68,8;1,6;3,4;65,7;conforme;371774;24560;85;185;795;Non vérifié;non
+46146;Ladirat;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;3007;96;175;86;Non vérifié;non
+46147;Lagardelle;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;4511;103;194;120;Non vérifié;non
+46148;Lalbenque;46;eau potable : VEOLIA du 01/07/2013 au 31/12/2025;169899;2024;69,7;1,8;4,1;65,8;conforme;186982;12757;18;162;1899;Non vérifié;non
+46149;Lamagdelaine;46;eau potable;169906;2024;65,0;1,7;3,2;65,6;non conforme;205305;5451;21;196;721;Non vérifié;non
+46151;Lamothe-Cassel;46;eau potable;169909;2024;59,1;1,3;1,9;65,4;non conforme;103636;2167;51;258;116;Non vérifié;non
+46152;Lamothe-Fénelon;46;eau potable;169914;2024;70,4;1,5;3,6;65,7;conforme;187437;10608;88;154;330;Non vérifié;non
+46153;Lanzac;46;eau potable :;169785;2024;87,5;0,9;6,2;66,2;conforme;8350;8350;41;53;563;Non vérifié;non
+46154;Laramière;46;eau potable;132739;2024;79,4;1,4;5,3;66,1;conforme;106733;8857;68;106;356;Non vérifié;non
+46155;Larnagol;46;eau potable : SAUR du 01/01/2020 au 31/12/2029;287614;2024;64,2;1,5;2,8;65,6;non conforme;246337;5782;117;197;135;Non vérifié;non
+46156;Bellefont-La Rauze;46;eau potable : REGIE (Production - Transfert - Distribution);289054;2024;76,4;6,8;21,9;69,4;conforme;652592;31219;72;184;1183;Non vérifié;non
+46157;Larroque-Toirac;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;4405;96;175;126;Non vérifié;non
+46159;Latouille-Lentillac;46;eau potable;169792;2024;94,9;0,1;2,0;65,4;conforme;319;319;4;18;247;Non vérifié;non
+46160;Latronquière;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;15628;96;175;447;Non vérifié;non
+46161;Lauresses;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;8356;96;175;239;Non vérifié;non
+46162;Lauzès;46;eau potable;169906;2024;65,0;1,7;3,2;65,6;non conforme;205305;1512;21;196;200;Non vérifié;non
+46163;Laval-de-Cère;46;eau potable;169794;2024;79,9;1,1;4,4;65,9;conforme;4529;4529;42;101;296;Non vérifié;non
+46164;Lavercantière;46;eau potable;169915;2024;71,9;0,8;2,1;65,4;conforme;56403;4295;50;140;234;Non vérifié;non
+46165;Lavergne;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;17097;96;175;489;Non vérifié;non
+46167;Lentillac-du-Causse;46;eau potable;169903;2024;52,8;1,8;2,0;65,4;non conforme;168310;5400;138;332;107;Non vérifié;non
+46168;Lentillac-Saint-Blaise;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;6678;96;175;191;Non vérifié;non
+46169;Léobard;46;eau potable;169798;2024;95,0;0,2;4,1;65,8;conforme;1300;1300;15;18;234;Non vérifié;non
+46170;Leyme;46;eau potable;169800;2024;85,4;0,6;3,7;65,7;conforme;8283;8283;24;59;932;Non vérifié;non
+46171;Lherm;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;8572;103;194;228;Non vérifié;non
+46172;Lhospitalet;46;eau potable;169916;2024;61,6;1,6;2,5;65,5;non conforme;553457;14189;42;249;925;Non vérifié;non
+46173;Limogne-en-Quercy;46;eau potable : SAUR du 01/01/2020 au 31/12/2029;287614;2024;64,2;1,5;2,8;65,6;non conforme;246337;36659;117;197;856;Non vérifié;non
+46174;Linac;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;8146;96;175;233;Non vérifié;non
+46175;Lissac-et-Mouret;46;eau potable : production - transfert - distribution - régie;323194;2024;43,0;3,9;2,9;65,6;non conforme;77638;77638;219;487;973;Non vérifié;non
+46176;Livernon;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;25243;96;175;722;Non vérifié;non
+46177;Loubressac;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;18635;96;175;533;Non vérifié;non
+46178;Loupiac;46;eau potable;169914;2024;70,4;1,5;3,6;65,7;conforme;187437;9001;88;154;280;Non vérifié;non
+46179;Lugagnac;46;eau potable : SAUR du 01/01/2020 au 31/12/2029;287614;2024;64,2;1,5;2,8;65,6;non conforme;246337;5996;117;197;140;Non vérifié;non
+46180;Lunan;46;eau potable;169893;2024;65,5;2,3;4,3;65,9;non conforme;85956;4295;19;194;625;Non vérifié;non
+46181;Lunegarde;46;eau potable;169896;2024;58,9;1,4;2,0;65,4;non conforme;138445;3970;116;282;94;Non vérifié;non
+46182;Luzech;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;65791;103;194;1750;Non vérifié;non
+46183;Marcilhac-sur-Célé;46;eau potable;169903;2024;52,8;1,8;2,0;65,4;non conforme;168310;8731;138;332;173;Non vérifié;non
+46184;Marminiac;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;13121;103;194;349;Non vérifié;non
+46185;Martel;46;eau potable : SAUR du 01/01/2023 au 31/12/2031 (Territoires : Eaux du Doux, Moyenne Vallée de la Dordogne, Floirac, Martel et Ex. Blagour);325594;2024;68,8;1,6;3,4;65,7;conforme;371774;50573;85;185;1637;Non vérifié;non
+46186;Masclat;46;eau potable;169914;2024;70,4;1,5;3,6;65,7;conforme;187437;11476;88;154;357;Non vérifié;non
+46187;Mauroux;46;eau potable;169434;2024;63,5;2,5;4,3;65,9;non conforme;728522;23359;110;217;580;Non vérifié;non
+46188;Maxou;46;eau potable;169909;2024;59,1;1,3;1,9;65,4;non conforme;103636;5361;51;258;287;Non vérifié;non
+46189;Mayrinhac-Lentour;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;16922;96;175;484;Non vérifié;non
+46190;Mechmont;46;eau potable;169909;2024;59,1;1,3;1,9;65,4;non conforme;103636;2503;51;258;134;Non vérifié;non
+46191;Mercuès;46;eau potable : REGIE (Production - Transfert - Distribution);289054;2024;76,4;6,8;21,9;69,4;conforme;652592;29609;72;184;1122;Non vérifié;non
+46192;Meyronne;46;eau potable : SAUR du 01/01/2023 au 31/12/2031 (Territoires : Eaux du Doux, Moyenne Vallée de la Dordogne, Floirac, Martel et Ex. Blagour);325594;2024;68,8;1,6;3,4;65,7;conforme;371774;8310;85;185;269;Non vérifié;non
+46193;Miers;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;15558;96;175;445;Non vérifié;non
+46194;Milhac;46;eau potable;169914;2024;70,4;1,5;3,6;65,7;conforme;187437;6365;88;154;198;Non vérifié;non
+46196;Montamel;46;eau potable;169909;2024;59,1;1,3;1,9;65,4;non conforme;103636;1681;51;258;90;Non vérifié;non
+46197;Le Montat;46;eau potable;169916;2024;61,6;1,6;2,5;65,5;non conforme;553457;16981;42;249;1107;Non vérifié;non
+46198;Montbrun;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;4091;96;175;117;Non vérifié;non
+46199;Montcabrier;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;12858;103;194;342;Non vérifié;non
+46200;Montcléra;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;10978;103;194;292;Non vérifié;non
+46201;Montcuq-en-Quercy-Blanc;46;eau potable;169916;2024;61,6;1,6;2,5;65,5;non conforme;553457;27857;42;249;1816;Non vérifié;non
+46202;Montdoumerc;46;eau potable : SAUR du 01/01/2016 au 31/12/2027;169890;2024;61,1;1,5;2,4;65,5;non conforme;50622;7965;38;233;577;Non vérifié;non
+46203;Montet-et-Bouxal;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;7447;96;175;213;Non vérifié;non
+46204;Montfaucon;46;eau potable;169914;2024;70,4;1,5;3,6;65,7;conforme;187437;18773;88;154;584;Non vérifié;non
+46205;Montgesty;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;11993;103;194;319;Non vérifié;non
+46206;Montlauzun;46;eau potable;169916;2024;61,6;1,6;2,5;65,5;non conforme;553457;1856;42;249;121;Non vérifié;non
+46207;Montredon;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;10489;96;175;300;Non vérifié;non
+46208;Montvalent;46;eau potable;169886;2024;70,7;1,7;4,2;65,8;conforme;41698;10018;87;149;314;Non vérifié;non
+46209;Nadaillac-de-Rouge;46;eau potable;169914;2024;70,4;1,5;3,6;65,7;conforme;187437;5786;88;154;180;Non vérifié;non
+46210;Nadillac;46;eau potable;169909;2024;59,1;1,3;1,9;65,4;non conforme;103636;1401;51;258;75;Non vérifié;non
+46211;Nuzéjouls;46;eau potable : REGIE (Transfert - Distribution);289055;2024;80,2;1,0;4,0;65,8;conforme;41011;5802;45;107;352;Non vérifié;non
+46212;Orniac;46;eau potable;169903;2024;52,8;1,8;2,0;65,4;non conforme;168310;3684;138;332;73;Non vérifié;non
+46213;Padirac;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;6363;96;175;182;Non vérifié;non
+46214;Parnac;46;eau potable;169819;2024;73,5;3,3;9,0;66,8;conforme;16502;16502;118;133;382;Non vérifié;non
+46215;Payrac;46;eau potable;169914;2024;70,4;1,5;3,6;65,7;conforme;187437;21505;88;154;669;Non vérifié;non
+46216;Payrignac;46;eau potable;169821;2024;72,5;1,1;2,8;65,6;conforme;14779;14779;62;143;651;Non vérifié;non
+46217;Pern;46;eau potable;169916;2024;61,6;1,6;2,5;65,5;non conforme;553457;6719;42;249;438;Non vérifié;non
+46218;Pescadoires;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;6917;103;194;184;Non vérifié;non
+46219;Peyrilles;46;eau potable;169915;2024;71,9;0,8;2,1;65,4;conforme;56403;6369;50;140;347;Non vérifié;non
+46220;Pinsac;46;eau potable;169914;2024;70,4;1,5;3,6;65,7;conforme;187437;24719;88;154;769;Non vérifié;non
+46221;Planioles;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;19369;96;175;554;Non vérifié;non
+46222;Pomarède;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;7105;103;194;189;Non vérifié;non
+46223;Pontcirq;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;6692;103;194;178;Non vérifié;non
+46224;Pradines;46;eau potable;169916;2024;61,6;1,6;2,5;65,5;non conforme;553457;55484;42;249;3617;Non vérifié;non
+46225;Prayssac;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;94702;103;194;2519;Non vérifié;non
+46226;Prendeignes;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;8251;96;175;236;Non vérifié;non
+46227;Promilhanes;46;eau potable : SAUR du 01/01/2020 au 31/12/2029;287614;2024;64,2;1,5;2,8;65,6;non conforme;246337;9722;117;197;227;Non vérifié;non
+46228;Prudhomat;46;eau potable;169828;2024;55,2;4,5;5,5;66,1;non conforme;41637;41637;156;298;733;Non vérifié;non
+46229;Puybrun;46;eau potable;169831;2024;69,3;2,5;5,7;66,1;conforme;25550;25550;71;159;984;Non vérifié;non
+46230;Puyjourdes;46;eau potable : SAUR du 01/01/2020 au 31/12/2029;287614;2024;64,2;1,5;2,8;65,6;non conforme;246337;3769;117;197;88;Non vérifié;non
+46231;Puy-l'Évêque;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;69927;103;194;1860;Non vérifié;non
+46232;Le Vignon-en-Quercy;46;eau potable : SAUR du 01/01/2023 au 31/12/2031 (Territoires : Eaux du Doux, Moyenne Vallée de la Dordogne, Floirac, Martel et Ex. Blagour);325594;2024;68,8;1,6;3,4;65,7;conforme;371774;29503;85;185;955;Non vérifié;non
+46233;Quissac-en-Quercy;46;eau potable;169896;2024;58,9;1,4;2,0;65,4;non conforme;138445;4519;116;282;107;Non vérifié;non
+46234;Rampoux;46;eau potable;169915;2024;71,9;0,8;2,1;65,4;conforme;56403;1909;50;140;104;Non vérifié;non
+46235;Reilhac;46;eau potable;169896;2024;58,9;1,4;2,0;65,4;non conforme;138445;7391;116;282;175;Non vérifié;non
+46236;Reilhaguet;46;eau potable;169914;2024;70,4;1,5;3,6;65,7;conforme;187437;5015;88;154;156;Non vérifié;non
+46237;Reyrevignes;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;12971;96;175;371;Non vérifié;non
+46238;Rignac;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;10279;96;175;294;Non vérifié;non
+46239;Le Roc;46;eau potable;169914;2024;70,4;1,5;3,6;65,7;conforme;187437;6654;88;154;207;Non vérifié;non
+46240;Rocamadour;46;eau potable;169908;2024;67,1;2,3;4,8;66,0;conforme;86460;59466;273;177;597;Non vérifié;non
+46241;Rouffilhac;46;eau potable;169914;2024;70,4;1,5;3,6;65,7;conforme;187437;6525;88;154;203;Non vérifié;non
+46242;Rudelle;46;eau potable;169924;2024;75,2;0,9;2,6;65,5;conforme;57816;4477;66;128;187;Non vérifié;non
+46243;Rueyres;46;eau potable;169924;2024;75,2;0,9;2,6;65,5;conforme;57816;4740;66;128;198;Non vérifié;non
+46244;Sabadel-Latronquière;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;3217;96;175;92;Non vérifié;non
+46245;Sabadel-Lauzès;46;eau potable;169903;2024;52,8;1,8;2,0;65,4;non conforme;168310;4593;138;332;91;Non vérifié;non
+46246;Saignes;46;eau potable;169924;2024;75,2;0,9;2,6;65,5;conforme;57816;1772;66;128;74;Non vérifié;non
+46247;Saillac;46;eau potable : SAUR du 01/01/2020 au 31/12/2029;287614;2024;64,2;1,5;2,8;65,6;non conforme;246337;6338;117;197;148;Non vérifié;non
+46249;Saint-Bressou;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;4335;96;175;124;Non vérifié;non
+46250;Saint-Caprais;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;2820;103;194;75;Non vérifié;non
+46251;Saint-Céré;46;eau potable;169839;2024;53,7;9,9;11,5;67,3;non conforme;216810;216810;173;330;3429;Non vérifié;non
+46252;Les Pechs du Vers;46;eau potable;169909;2024;59,1;1,3;1,9;65,4;non conforme;103636;5660;51;258;303;Non vérifié;non
+46253;Saint-Chamarand;46;eau potable;169915;2024;71,9;0,8;2,1;65,4;conforme;56403;3524;50;140;192;Non vérifié;non
+46254;Saint-Chels;46;eau potable;169896;2024;58,9;1,4;2,0;65,4;non conforme;138445;6251;116;282;148;Non vérifié;non
+46255;Saint-Cirgues;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;11328;96;175;324;Non vérifié;non
+46256;Saint-Cirq-Lapopie;46;eau potable : SAUR du 01/01/2020 au 31/12/2029;287614;2024;64,2;1,5;2,8;65,6;non conforme;246337;8608;117;197;201;Non vérifié;non
+46257;Saint-Cirq-Madelon;46;eau potable;169843;2024;73,7;1,2;6,0;66,2;conforme;2628;2628;47;73;153;Non vérifié;non
+46258;Saint-Cirq-Souillaguet;46;eau potable;169915;2024;71,9;0,8;2,1;65,4;conforme;56403;3157;50;140;172;Non vérifié;non
+46259;Saint-Clair;46;eau potable;169915;2024;71,9;0,8;2,1;65,4;conforme;56403;2625;50;140;143;Non vérifié;non
+46260;Sainte-Colombe;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;8251;96;175;236;Non vérifié;non
+46262;Lendou-en-Quercy;46;eau potable;169916;2024;61,6;1,6;2,5;65,5;non conforme;553457;9388;42;249;612;Non vérifié;non
+46263;Barguelonne-en-Quercy;46;eau potable;169916;2024;61,6;1,6;2,5;65,5;non conforme;553457;10799;42;249;704;Non vérifié;non
+46264;Saint-Denis-Catus;46;eau potable;169909;2024;59,1;1,3;1,9;65,4;non conforme;103636;3699;51;258;198;Non vérifié;non
+46265;Saint-Denis-lès-Martel;46;eau potable : SAUR du 01/01/2023 au 31/12/2031 (Territoires : Eaux du Doux, Moyenne Vallée de la Dordogne, Floirac, Martel et Ex. Blagour);325594;2024;68,8;1,6;3,4;65,7;conforme;371774;10288;85;185;333;Non vérifié;non
+46266;Saint-Félix;46;eau potable;169893;2024;65,5;2,3;4,3;65,9;non conforme;85956;3512;19;194;511;Non vérifié;non
+46267;Saint-Germain-du-Bel-Air;46;eau potable;169915;2024;71,9;0,8;2,1;65,4;conforme;56403;11453;50;140;624;Non vérifié;non
+46268;Saint Géry-Vers;46;eau potable;169906;2024;65,0;1,7;3,2;65,6;non conforme;205305;6880;21;196;910;Non vérifié;non
+46269;Saint-Hilaire;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;2273;96;175;65;Non vérifié;non
+46270;Saint-Jean-de-Laur;46;eau potable : SAUR du 01/01/2020 au 31/12/2029;287614;2024;64,2;1,5;2,8;65,6;non conforme;246337;10749;117;197;251;Non vérifié;non
+46271;Saint-Jean-Lespinasse;46;eau potable;169851;2024;82,0;1,1;4,8;66,0;conforme;4826;4826;33;84;404;Non vérifié;non
+46272;Saint-Jean-Mirabel;46;eau potable;169893;2024;65,5;2,3;4,3;65,9;non conforme;85956;2034;19;194;296;Non vérifié;non
+46273;Saint-Laurent-les-Tours;46;eau potable;169891;2024;71,0;2,0;4,8;66,0;conforme;37405;25445;80;154;868;Non vérifié;non
+46276;Saint-Martin-Labouval;46;eau potable : SAUR du 01/01/2020 au 31/12/2029;287614;2024;64,2;1,5;2,8;65,6;non conforme;246337;8651;117;197;202;Non vérifié;non
+46277;Saint-Martin-le-Redon;46;eau potable;169434;2024;63,5;2,5;4,3;65,9;non conforme;728522;7853;110;217;195;Non vérifié;non
+46279;Saint-Maurice-en-Quercy;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;7062;96;175;202;Non vérifié;non
+46280;Saint-Médard;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;7444;103;194;198;Non vérifié;non
+46281;Saint-Médard-de-Presque;46;eau potable;169855;2024;94,9;0,2;4,3;65,9;conforme;542;542;7;17;207;Non vérifié;non
+46282;Saint-Médard-Nicourby;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;3461;96;175;99;Non vérifié;non
+46283;Saint-Michel-de-Bannières;46;eau potable : SAUR du 01/01/2023 au 31/12/2031 (Territoires : Eaux du Doux, Moyenne Vallée de la Dordogne, Floirac, Martel et Ex. Blagour);325594;2024;68,8;1,6;3,4;65,7;conforme;371774;10936;85;185;354;Non vérifié;non
+46284;Saint-Michel-Loubéjou;46;eau potable;169857;2024;38,3;6,3;3,9;65,8;non conforme;34492;34492;226;588;418;Non vérifié;non
+46286;Saint-Paul-de-Vern;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;5979;96;175;171;Non vérifié;non
+46288;Saint-Perdoux;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;6853;96;175;196;Non vérifié;non
+46289;Saint-Pierre-Toirac;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;5769;96;175;165;Non vérifié;non
+46290;Saint-Projet;46;eau potable;169914;2024;70,4;1,5;3,6;65,7;conforme;187437;11669;88;154;363;Non vérifié;non
+46292;Saint-Simon;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;6818;96;175;195;Non vérifié;non
+46293;Saint-Sozy;46;eau potable : SAUR du 01/01/2023 au 31/12/2031 (Territoires : Eaux du Doux, Moyenne Vallée de la Dordogne, Floirac, Martel et Ex. Blagour);325594;2024;68,8;1,6;3,4;65,7;conforme;371774;15138;85;185;490;Non vérifié;non
+46294;Saint-Sulpice;46;eau potable;169896;2024;58,9;1,4;2,0;65,4;non conforme;138445;5364;116;282;127;Non vérifié;non
+46295;Saint-Vincent-du-Pendit;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;8041;96;175;230;Non vérifié;non
+46296;Saint-Vincent-Rive-d'Olt;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;16617;103;194;442;Non vérifié;non
+46297;Salviac;46;eau potable : Vitrac-Céou;137737;2024;60,7;2,9;4,5;65,9;non conforme;884895;53220;118;237;1231;Non vérifié;non
+46299;Sauliac-sur-Célé;46;eau potable : SAUR du 01/01/2020 au 31/12/2029;287614;2024;64,2;1,5;2,8;65,6;non conforme;246337;4882;117;197;114;Non vérifié;non
+46301;Sauzet;46;eau potable;292834;2024;64,9;1,6;3,0;65,6;non conforme;576408;19963;103;194;531;Non vérifié;non
+46302;Sénaillac-Latronquière;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;4440;96;175;127;Non vérifié;non
+46303;Sénaillac-Lauzès;46;eau potable;169903;2024;52,8;1,8;2,0;65,4;non conforme;168310;7318;138;332;145;Non vérifié;non
+46304;Séniergues;46;eau potable;169914;2024;70,4;1,5;3,6;65,7;conforme;187437;4693;88;154;146;Non vérifié;non
+46305;Sérignac;46;eau potable;169434;2024;63,5;2,5;4,3;65,9;non conforme;728522;13129;110;217;326;Non vérifié;non
+46306;Sonac;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;3286;96;175;94;Non vérifié;non
+46307;Soturac;46;eau potable;169434;2024;63,5;2,5;4,3;65,9;non conforme;728522;25937;110;217;644;Non vérifié;non
+46308;Soucirac;46;eau potable;169914;2024;70,4;1,5;3,6;65,7;conforme;187437;3279;88;154;102;Non vérifié;non
+46309;Souillac;46;eau potable : SAUR du 01/01/2023 au 31/12/2031 (Territoires : Eaux du Doux, Moyenne Vallée de la Dordogne, Floirac, Martel et Ex. Blagour);325594;2024;68,8;1,6;3,4;65,7;conforme;371774;98613;85;185;3192;Non vérifié;non
+46310;Soulomès;46;eau potable;169903;2024;52,8;1,8;2,0;65,4;non conforme;168310;6611;138;332;131;Non vérifié;non
+46311;Sousceyrac-en-Quercy;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;46430;96;175;1328;Non vérifié;non
+46312;Strenquels;46;eau potable : SAUR du 01/01/2023 au 31/12/2031 (Territoires : Eaux du Doux, Moyenne Vallée de la Dordogne, Floirac, Martel et Ex. Blagour);325594;2024;68,8;1,6;3,4;65,7;conforme;371774;7971;85;185;258;Non vérifié;non
+46313;Tauriac;46;eau potable;169869;2024;49,8;6,9;27,0;70,4;non conforme;45610;45610;264;361;473;Non vérifié;non
+46314;Terrou;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;5979;96;175;171;Non vérifié;non
+46315;Teyssieu;46;eau potable;169872;2024;97,7;0,1;4,9;66,0;conforme;84;84;1;7;162;Non vérifié;non
+46316;Thédirac;46;eau potable;169915;2024;71,9;0,8;2,1;65,4;conforme;56403;5561;50;140;303;Non vérifié;non
+46317;Thégra;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;17376;96;175;497;Non vérifié;non
+46318;Thémines;46;eau potable;169924;2024;75,2;0,9;2,6;65,5;conforme;57816;5746;66;128;240;Non vérifié;non
+46319;Théminettes;46;eau potable;169924;2024;75,2;0,9;2,6;65,5;conforme;57816;4333;66;128;181;Non vérifié;non
+46320;Tour-de-Faure;46;eau potable : SAUR du 01/01/2020 au 31/12/2029;287614;2024;64,2;1,5;2,8;65,6;non conforme;246337;14647;117;197;342;Non vérifié;non
+46321;Touzac;46;eau potable;169434;2024;63,5;2,5;4,3;65,9;non conforme;728522;14257;110;217;354;Non vérifié;non
+46322;Trespoux-Rassiels;46;eau potable;169916;2024;61,6;1,6;2,5;65,5;non conforme;553457;12962;42;249;845;Non vérifié;non
+46323;Ussel;46;eau potable;169909;2024;59,1;1,3;1,9;65,4;non conforme;103636;1756;51;258;94;Non vérifié;non
+46324;Uzech;46;eau potable;169909;2024;59,1;1,3;1,9;65,4;non conforme;103636;3661;51;258;196;Non vérifié;non
+46328;Varaire;46;eau potable : SAUR du 01/01/2020 au 31/12/2029;287614;2024;64,2;1,5;2,8;65,6;non conforme;246337;15375;117;197;359;Non vérifié;non
+46329;Vaylats;46;eau potable : SAUR du 01/01/2020 au 31/12/2029;287614;2024;64,2;1,5;2,8;65,6;non conforme;246337;14004;117;197;327;Non vérifié;non
+46330;Vayrac;46;eau potable;169877;2024;61,1;3,9;6,2;66,2;non conforme;56940;56940;123;231;1266;Non vérifié;non
+46332;Viazac;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;12027;96;175;344;Non vérifié;non
+46333;Vidaillac;46;eau potable : SAUR du 01/01/2020 au 31/12/2029;287614;2024;64,2;1,5;2,8;65,6;non conforme;246337;7752;117;197;181;Non vérifié;non
+46334;Le Vigan-en-Quercy;46;eau potable;169880;2024;64,5;2,1;3,8;65,8;non conforme;53655;53655;96;202;1535;Non vérifié;non
+46335;Villesèque;46;eau potable;169916;2024;61,6;1,6;2,5;65,5;non conforme;553457;6274;42;249;409;Non vérifié;non
+46336;Vire-sur-Lot;46;eau potable;169883;2024;86,7;0,5;3,4;65,7;conforme;4369;4369;34;54;348;Non vérifié;non
+46337;Mayrac;46;eau potable : SAUR du 01/01/2023 au 31/12/2031 (Territoires : Eaux du Doux, Moyenne Vallée de la Dordogne, Floirac, Martel et Ex. Blagour);325594;2024;68,8;1,6;3,4;65,7;conforme;371774;7847;85;185;254;Non vérifié;non
+46338;Bessonies;46;eau potable : DSP SAUR;343074;2024;69,3;1,3;3,0;65,6;conforme;683375;2517;96;175;72;Non vérifié;non
+46339;Saint-Jean-Lagineste;46;eau potable;169884;2024;79,4;0,8;3,0;65,6;conforme;3600;3600;26;98;378;Non vérifié;non
+46340;Saint-Pierre-Lafeuille;46;eau potable;169906;2024;65,0;1,7;3,2;65,6;non conforme;205305;3168;21;196;419;Non vérifié;non

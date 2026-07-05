@@ -7,189 +7,189 @@
 # Méthodologie et code : https://github.com/btaverne/dourdata
 # Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
 # Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
-Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
-87001;Aixe-sur-Vienne;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;59524;28;74;5890;Non vérifié
-87002;Ambazac;87;eau potable : Ambazac;54170;2024;83,3;1,1;5,6;66,1;conforme;56612;56612;28;77;5556;Non vérifié
-87003;Arnac-la-Poste;87;eau potable;54434;2024;82,3;0,5;2,5;65,5;conforme;29552;1989;6;73;902;Non vérifié
-87004;Augne;87;eau potable;54175;2024;55,2;2,0;2,4;65,5;non conforme;15841;15841;344;651;126;Non vérifié
-87005;Aureil;87;eau potable;54411;2024;84,6;0,6;3,4;65,7;conforme;56940;10616;28;78;1045;Non vérifié
-87006;Azat-le-Ris;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;2457;28;89;241;Non vérifié
-87007;Balledent;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;2059;28;89;202;Non vérifié
-87008;La Bazeuge;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;1447;28;89;142;Non vérifié
-87009;Beaumont-du-Lac;87;eau potable;54178;2024;63,4;1,1;1,8;65,4;non conforme;9636;9636;198;219;133;Non vérifié
-87011;Bellac;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;36053;28;89;3537;Non vérifié
-87012;Berneuil;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;4261;28;89;418;Non vérifié
-87013;Bersac-sur-Rivalier;87;eau potable;54181;2024;36,0;4,5;1,6;65,3;non conforme;67014;67014;301;1013;610;Non vérifié
-87014;Bessines-sur-Gartempe;87;eau potable;54434;2024;82,3;0,5;2,5;65,5;conforme;29552;5974;6;73;2709;Non vérifié
-87015;Beynac;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;7428;28;74;735;Non vérifié
-87016;Les Billanges;87;eau potable : Les Billanges;54185;2024;67,9;0,9;1,9;65,4;conforme;7556;7556;70;173;296;Non vérifié
-87017;Blanzac;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;4770;28;89;468;Non vérifié
-87018;Blond;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;6870;28;89;674;Non vérifié
-87019;Boisseuil;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;30419;28;74;3010;Non vérifié
-87020;Bonnac-la-Côte;87;eau potable;267474;2024;89,8;2,4;20,9;69,2;conforme;1166832;11884;20;51;1631;Non vérifié
-87021;Bosmie-l'Aiguille;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;26953;28;74;2667;Non vérifié
-87022;Breuilaufa;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;1213;28;89;119;Non vérifié
-87023;Le Buis;87;eau potable;54434;2024;82,3;0,5;2,5;65,5;conforme;29552;393;6;73;178;Non vérifié
-87024;Bujaleuf;87;eau potable;54193;2024;56,9;1,5;2,0;65,4;non conforme;33868;33868;107;285;869;Non vérifié
-87025;Burgnac;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;8701;28;74;861;Non vérifié
-87027;Bussière-Galant;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;13118;28;74;1298;Non vérifié
-87028;Val-d'Oire-et-Gartempe;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;17440;28;89;1711;Non vérifié
-87029;Les Cars;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;6185;28;74;612;Non vérifié
-87031;Le Chalard;87;eau potable;54202;2024;67,2;1,3;2,6;65,5;conforme;10914;10914;99;184;302;Non vérifié
-87032;Châlus;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;17008;28;74;1683;Non vérifié
-87033;Chamboret;87;eau potable;190978;2024;87,3;0,9;6,1;66,2;conforme;8574;8574;30;92;782;Non vérifié
-87034;Champagnac-la-Rivière;87;eau potable;253214;2024;82,4;0,4;2,0;65,4;conforme;69277;6287;29;74;603;Non vérifié
-87035;Champnétery;87;eau potable : Distribution;331134;2024;79,7;0,8;3,2;65,6;conforme;66284;6421;34;91;512;Non vérifié
-87036;Champsac;87;eau potable;253214;2024;82,4;0,4;2,0;65,4;conforme;69277;7319;29;74;702;Non vérifié
-87037;La Chapelle-Montbrandeix;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;2658;28;74;263;Non vérifié
-87038;Chaptelat;87;eau potable;267474;2024;89,8;2,4;20,9;69,2;conforme;1166832;15250;20;51;2093;Non vérifié
-87039;Château-Chervix;87;eau potable : Château-Chervix;54212;2024;76,1;0,6;1,8;65,4;conforme;17104;17104;60;124;781;Non vérifié
-87040;Châteauneuf-la-Forêt;87;eau potable;190980;2024;70,0;0,8;2,0;65,4;conforme;125093;35537;63;149;1542;Non vérifié
-87041;Châteauponsac;87;eau potable;54434;2024;82,3;0,5;2,5;65,5;conforme;29552;4485;6;73;2034;Non vérifié
-87042;Le Châtenet-en-Dognon;87;eau potable : Distribution;331134;2024;79,7;0,8;3,2;65,6;conforme;66284;5105;34;91;407;Non vérifié
-87043;Cheissoux;87;eau potable;54216;2024;97,4;0,1;1,7;65,3;conforme;555;555;7;22;231;Non vérifié
-87044;Chéronnac;87;eau potable;253214;2024;82,4;0,4;2,0;65,4;conforme;69277;3274;29;74;314;Non vérifié
-87045;Cieux;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;10224;28;89;1003;Non vérifié
-87046;Cognac-la-Forêt;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;12006;28;74;1188;Non vérifié
-87047;Compreignac;87;eau potable :;54407;2024;75,0;0,8;2,2;65,4;conforme;38623;25804;38;130;1856;Non vérifié
-87048;Condat-sur-Vienne;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;53370;28;74;5281;Non vérifié
-87049;Coussac-Bonneval;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;12754;28;74;1262;Non vérifié
-87050;Couzeix;87;eau potable;267474;2024;89,8;2,4;20,9;69,2;conforme;1166832;74283;20;51;10195;Non vérifié
-87051;La Croisille-sur-Briance;87;eau potable;190980;2024;70,0;0,8;2,0;65,4;conforme;125093;16777;63;149;728;Non vérifié
-87052;La Croix-sur-Gartempe;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;1641;28;89;161;Non vérifié
-87053;Cromac;87;eau potable : ex-S.I.A.E.P. DE LA BENAIZE;54404;2024;84,4;0,3;1,7;65,3;conforme;10950;2771;30;64;249;Non vérifié
-87054;Cussac;87;eau potable;253214;2024;82,4;0,4;2,0;65,4;conforme;69277;12010;29;74;1152;Non vérifié
-87056;Dinsac;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;2467;28;89;242;Non vérifié
-87057;Dompierre-les-Églises;87;eau potable;54434;2024;82,3;0,5;2,5;65,5;conforme;29552;827;6;73;375;Non vérifié
-87058;Domps;87;eau potable : Domps;54233;2024;65,6;0,8;1,5;65,3;conforme;5977;5977;167;195;98;Non vérifié
-87059;Le Dorat;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;15585;28;89;1529;Non vérifié
-87060;Dournazac;87;eau potable;253214;2024;82,4;0,4;2,0;65,4;conforme;69277;7006;29;74;672;Non vérifié
-87061;Droux;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;3853;28;89;378;Non vérifié
-87062;Eybouleuf;87;eau potable;54411;2024;84,6;0,6;3,4;65,7;conforme;56940;4704;28;78;463;Non vérifié
-87063;Eyjeaux;87;eau potable;54411;2024;84,6;0,6;3,4;65,7;conforme;56940;13664;28;78;1345;Non vérifié
-87064;Eymoutiers;87;eau potable;190987;2024;49,3;2,5;2,4;65,5;non conforme;102200;102200;137;372;2042;Non vérifié
-87065;Feytiat;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;62414;28;74;6176;Non vérifié
-87066;Flavignac;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;10692;28;74;1058;Non vérifié
-87067;Folles;87;eau potable;54434;2024;82,3;0,5;2,5;65,5;conforme;29552;968;6;73;439;Non vérifié
-87068;Fromental;87;eau potable;54434;2024;82,3;0,5;2,5;65,5;conforme;29552;1155;6;73;524;Non vérifié
-87069;Gajoubert;87;eau potable;54243;2024;93,4;0,1;1,8;65,4;conforme;579;579;11;21;148;Non vérifié
-87070;La Geneytouse;87;eau potable;54411;2024;84,6;0,6;3,4;65,7;conforme;56940;10017;28;78;986;Non vérifié
-87071;Glandon;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;8186;28;74;810;Non vérifié
-87072;Glanges;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;5215;28;74;516;Non vérifié
-87073;Gorre;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;3921;28;74;388;Non vérifié
-87074;Les Grands-Chézeaux;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;2293;28;89;225;Non vérifié
-87075;Isle;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;80797;28;74;7995;Non vérifié
-87077;Janailhac;87;eau potable : S.I.A.E.P. DE NEXON;54414;2024;80,0;0,8;3,4;65,7;conforme;45032;5737;30;88;524;Non vérifié
-87078;Javerdat;87;eau potable;298234;2024;85,7;1,1;6,5;66,3;conforme;135707;5996;22;62;733;Non vérifié
-87079;La Jonchère-Saint-Maurice;87;eau potable;54256;2024;74,5;1,3;3,7;65,7;conforme;13243;13243;46;127;793;Non vérifié
-87080;Jouac;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;2008;28;89;197;Non vérifié
-87081;Jourgnac;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;11208;28;74;1109;Non vérifié
-87082;Ladignac-le-Long;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;11834;28;74;1171;Non vérifié
-87083;Laurière;87;eau potable : Laurière;54262;2024;77,5;0,8;2,9;65,6;conforme;10395;10395;54;125;525;Non vérifié
-87084;Lavignac;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;1728;28;74;171;Non vérifié
-87085;Limoges;87;eau potable;267474;2024;89,8;2,4;20,9;69,2;conforme;1166832;946751;20;51;129937;Non vérifié
-87086;Linards;87;eau potable;190980;2024;70,0;0,8;2,0;65,4;conforme;125093;23069;63;149;1001;Non vérifié
-87087;Lussac-les-Églises;87;eau potable;54434;2024;82,3;0,5;2,5;65,5;conforme;29552;1019;6;73;462;Non vérifié
-87088;Magnac-Bourg;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;11329;28;74;1121;Non vérifié
-87089;Magnac-Laval;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;17226;28;89;1690;Non vérifié
-87090;Mailhac-sur-Benaize;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;2834;28;89;278;Non vérifié
-87091;Maisonnais-sur-Tardoire;87;eau potable;253214;2024;82,4;0,4;2,0;65,4;conforme;69277;3993;29;74;383;Non vérifié
-87092;Marval;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;5043;28;74;499;Non vérifié
-87093;Masléon;87;eau potable;190980;2024;70,0;0,8;2,0;65,4;conforme;125093;6706;63;149;291;Non vérifié
-87094;Meilhac;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;5346;28;74;529;Non vérifié
-87095;Meuzac;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;7509;28;74;743;Non vérifié
-87096;La Meyze;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;8509;28;74;842;Non vérifié
-87097;Val d'Issoire;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;10968;28;89;1076;Non vérifié
-87099;Moissannes;87;eau potable;54282;2024;71,5;0,7;1,8;65,4;conforme;8176;8176;68;141;328;Non vérifié
-87100;Montrol-Sénard;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;2538;28;89;249;Non vérifié
-87101;Mortemart;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;1305;28;89;128;Non vérifié
-87103;Nantiat;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;16105;28;89;1580;Non vérifié
-87104;Nedde;87;eau potable : Nedde;54288;2024;82,2;0,3;1,6;65,3;conforme;6669;6669;41;68;450;Non vérifié
-87105;Neuvic-Entier;87;eau potable;190980;2024;70,0;0,8;2,0;65,4;conforme;125093;19935;63;149;865;Non vérifié
-87106;Nexon;87;eau potable : S.I.A.E.P. DE NEXON;54414;2024;80,0;0,8;3,4;65,7;conforme;45032;27897;30;88;2548;Non vérifié
-87108;Nouic;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;4312;28;89;423;Non vérifié
-87109;Oradour-Saint-Genest;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;3741;28;89;367;Non vérifié
-87111;Oradour-sur-Vayres;87;eau potable;253214;2024;82,4;0,4;2,0;65,4;conforme;69277;16754;29;74;1607;Non vérifié
-87112;Pageas;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;6508;28;74;644;Non vérifié
-87113;Le Palais-sur-Vienne;87;eau potable;267474;2024;89,8;2,4;20,9;69,2;conforme;1166832;42078;20;51;5775;Non vérifié
-87114;Panazol;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;114622;28;74;11342;Non vérifié
-87115;Pensol;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;1880;28;74;186;Non vérifié
-87116;Peyrat-de-Bellac;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;10794;28;89;1059;Non vérifié
-87117;Peyrat-le-Château;87;eau potable;190993;2024;91,8;0,2;2,7;65,5;conforme;3796;3796;10;28;1025;Non vérifié
-87118;Peyrilhac;87;eau potable;267474;2024;89,8;2,4;20,9;69,2;conforme;1166832;9946;20;51;1365;Non vérifié
-87119;Pierre-Buffière;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;11511;28;74;1139;Non vérifié
-87120;La Porcherie;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;5366;28;74;531;Non vérifié
-87121;Rancon;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;4842;28;89;475;Non vérifié
-87122;Razès;87;eau potable;54434;2024;82,3;0,5;2,5;65,5;conforme;29552;2536;6;73;1150;Non vérifié
-87123;Rempnat;87;eau potable;54305;2024;75,8;2,1;6,5;66,3;conforme;3664;3664;71;117;141;Non vérifié
-87124;Rilhac-Lastours;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;3891;28;74;385;Non vérifié
-87125;Rilhac-Rancon;87;eau potable;267474;2024;89,8;2,4;20,9;69,2;conforme;1166832;35010;20;51;4805;Non vérifié
-87126;Rochechouart;87;eau potable;298234;2024;85,7;1,1;6,5;66,3;conforme;135707;29471;22;62;3603;Non vérifié
-87127;La Roche-l'Abeille;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;5963;28;74;590;Non vérifié
-87128;Saint-Pardoux-le-Lac;87;eau potable;54434;2024;82,3;0,5;2,5;65,5;conforme;29552;3045;6;73;1381;Non vérifié
-87129;Royères;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;9611;28;74;951;Non vérifié
-87130;Roziers-Saint-Georges;87;eau potable;190980;2024;70,0;0,8;2,0;65,4;conforme;125093;3641;63;149;158;Non vérifié
-87131;Saillat-sur-Vienne;87;eau potable;298234;2024;85,7;1,1;6,5;66,3;conforme;135707;6871;22;62;840;Non vérifié
-87132;Saint-Amand-le-Petit;87;eau potable;54317;2024;100,0;0,0;1,7;65,3;conforme;0;0;0;0;115;Non vérifié
-87133;Saint-Amand-Magnazeix;87;eau potable;54434;2024;82,3;0,5;2,5;65,5;conforme;29552;1069;6;73;485;Non vérifié
-87134;Sainte-Anne-Saint-Priest;87;eau potable;54320;2024;100,0;0,0;13,8;67,8;conforme;0;0;0;0;137;Non vérifié
-87135;Saint-Auvent;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;9843;28;74;974;Non vérifié
-87137;Saint-Bazile;87;eau potable;253214;2024;82,4;0,4;2,0;65,4;conforme;69277;1522;29;74;146;Non vérifié
-87138;Saint-Bonnet-Briance;87;eau potable;54411;2024;84,6;0,6;3,4;65,7;conforme;56940;5394;28;78;531;Non vérifié
-87139;Saint-Bonnet-de-Bellac;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;4607;28;89;452;Non vérifié
-87141;Saint-Cyr;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;6832;28;74;676;Non vérifié
-87142;Saint-Denis-des-Murs;87;eau potable;54328;2024;92,3;0,2;2,9;65,6;conforme;2555;2555;13;25;545;Non vérifié
-87143;Saint-Gence;87;eau potable;267474;2024;89,8;2,4;20,9;69,2;conforme;1166832;16059;20;51;2204;Non vérifié
-87144;Saint-Genest-sur-Roselle;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;5457;28;74;540;Non vérifié
-87145;Saint-Georges-les-Landes;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;2365;28;89;232;Non vérifié
-87146;Saint-Germain-les-Belles;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;11622;28;74;1150;Non vérifié
-87147;Saint-Gilles-les-Forêts;87;eau potable;190980;2024;70,0;0,8;2,0;65,4;conforme;125093;1060;63;149;46;Non vérifié
-87148;Saint-Hilaire-Bonneval;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;10207;28;74;1010;Non vérifié
-87149;Saint-Hilaire-la-Treille;87;eau potable;54434;2024;82,3;0,5;2,5;65,5;conforme;29552;796;6;73;361;Non vérifié
-87150;Saint-Hilaire-les-Places;87;eau potable;54337;2024;81,2;0,6;2,8;65,6;conforme;12045;12045;39;79;839;Non vérifié
-87151;Saint-Jean-Ligoure;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;5104;28;74;505;Non vérifié
-87153;Saint-Julien-le-Petit;87;eau potable;54340;2024;69,2;0,9;2,1;65,4;conforme;13153;13153;124;177;290;Non vérifié
-87154;Saint-Junien;87;eau potable;298234;2024;85,7;1,1;6,5;66,3;conforme;135707;93370;22;62;11415;Non vérifié
-87155;Saint-Junien-les-Combes;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;1733;28;89;170;Non vérifié
-87156;Saint-Just-le-Martel;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;26336;28;74;2606;Non vérifié
-87157;Saint-Laurent-les-Églises;87;eau potable;54345;2024;68,4;1,8;3,9;65,8;conforme;22075;22075;70;170;865;Non vérifié
-87158;Saint-Laurent-sur-Gorre;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;13926;28;74;1378;Non vérifié
-87159;Saint-Léger-la-Montagne;87;eau potable : SAINT-LEGER-LA-MONTAGNE;54349;2024;92,9;0,1;1,5;65,3;conforme;777;777;6;25;362;Non vérifié
-87160;Saint-Léger-Magnazeix;87;eau potable;54434;2024;82,3;0,5;2,5;65,5;conforme;29552;1067;6;73;484;Non vérifié
-87161;Saint-Léonard-de-Noblat;87;eau potable : Distribution;331134;2024;79,7;0,8;3,2;65,6;conforme;66284;54758;34;91;4366;Non vérifié
-87162;Sainte-Marie-de-Vaux;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;2112;28;74;209;Non vérifié
-87163;Saint-Martial-sur-Isop;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;1539;28;89;151;Non vérifié
-87165;Saint-Martin-le-Mault;87;eau potable;54434;2024;82,3;0,5;2,5;65,5;conforme;29552;322;6;73;146;Non vérifié
-87166;Saint-Martin-le-Vieux;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;8742;28;74;865;Non vérifié
-87167;Saint-Martin-Terressus;87;eau potable;54361;2024;84,1;0,5;2,8;65,6;conforme;6439;6439;30;66;593;Non vérifié
-87168;Saint-Mathieu;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;10965;28;74;1085;Non vérifié
-87169;Saint-Maurice-les-Brousses;87;eau potable : S.I.A.E.P. DE NEXON;54414;2024;80,0;0,8;3,4;65,7;conforme;45032;11398;30;88;1041;Non vérifié
-87170;Saint-Méard;87;eau potable;190980;2024;70,0;0,8;2,0;65,4;conforme;125093;8435;63;149;366;Non vérifié
-87172;Saint-Ouen-sur-Gartempe;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;2181;28;89;214;Non vérifié
-87174;Saint-Paul;87;eau potable;54411;2024;84,6;0,6;3,4;65,7;conforme;56940;12546;28;78;1235;Non vérifié
-87176;Saint-Priest-Ligoure;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;6993;28;74;692;Non vérifié
-87177;Saint-Priest-sous-Aixe;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;17615;28;74;1743;Non vérifié
-87178;Saint-Priest-Taurion;87;eau potable;54371;2024;74,2;1,9;5,6;66,1;conforme;45078;45078;43;125;2901;Non vérifié
-87179;Saint-Sornin-la-Marche;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;2222;28;89;218;Non vérifié
-87180;Saint-Sornin-Leulac;87;eau potable;54434;2024;82,3;0,5;2,5;65,5;conforme;29552;1244;6;73;564;Non vérifié
-87181;Saint-Sulpice-Laurière;87;eau potable;170767;2024;70,6;0,9;2,1;65,4;conforme;170163;15489;54;156;792;Non vérifié
-87182;Saint-Sulpice-les-Feuilles;87;eau potable;54434;2024;82,3;0,5;2,5;65,5;conforme;29552;2664;6;73;1208;Non vérifié
-87183;Saint-Sylvestre;87;eau potable :;54407;2024;75,0;0,8;2,2;65,4;conforme;38623;12819;38;130;922;Non vérifié
-87186;Saint-Vitte-sur-Briance;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;3193;28;74;316;Non vérifié
-87187;Saint-Yrieix-la-Perche;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;69024;28;74;6830;Non vérifié
-87188;Saint-Yrieix-sous-Aixe;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;4538;28;74;449;Non vérifié
-87189;Les Salles-Lavauguyon;87;eau potable;253214;2024;82,4;0,4;2,0;65,4;conforme;69277;1637;29;74;157;Non vérifié
-87190;Sauviat-sur-Vige;87;eau potable;54385;2020;73,3;0,9;2,4;65,5;conforme;17082;17082;53;137;890;Sans anomalie apparente
-87191;Séreilhac;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;20242;28;74;2003;Non vérifié
-87192;Solignac;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;15684;28;74;1552;Non vérifié
-87193;Surdoux;87;eau potable;190980;2024;70,0;0,8;2,0;65,4;conforme;125093;1360;63;149;59;Non vérifié
-87194;Sussac;87;eau potable;190980;2024;70,0;0,8;2,0;65,4;conforme;125093;8573;63;149;372;Non vérifié
-87195;Tersannes;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;1284;28;89;126;Non vérifié
-87199;Vayres;87;eau potable;253214;2024;82,4;0,4;2,0;65,4;conforme;69277;7329;29;74;703;Non vérifié
-87200;Verneuil-Moustiers;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;1203;28;89;118;Non vérifié
-87201;Verneuil-sur-Vienne;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;49550;28;74;4903;Non vérifié
-87202;Veyrac;87;eau potable;267474;2024;89,8;2,4;20,9;69,2;conforme;1166832;15571;20;51;2137;Non vérifié
-87203;Vicq-sur-Breuilh;87;eau potable : Vicq-sur-Breuilh;54400;2024;100,0;0,0;2,1;65,4;conforme;0;0;0;0;1313;Non vérifié
-87204;Videix;87;eau potable;253214;2024;82,4;0,4;2,0;65,4;conforme;69277;2148;29;74;206;Non vérifié
-87205;Le Vigen;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;23345;28;74;2310;Non vérifié
-87206;Villefavard;87;eau potable : Villefavard;54403;2024;100,0;0,0;2,4;65,5;conforme;0;0;0;0;154;Non vérifié
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement);Donnée suspecte (voir LISEZMOI)
+87001;Aixe-sur-Vienne;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;59524;28;74;5890;Non vérifié;non
+87002;Ambazac;87;eau potable : Ambazac;54170;2024;83,3;1,1;5,6;66,1;conforme;56612;56612;28;77;5556;Non vérifié;non
+87003;Arnac-la-Poste;87;eau potable;54434;2024;82,3;0,5;2,5;65,5;conforme;29552;1989;6;73;902;Non vérifié;non
+87004;Augne;87;eau potable;54175;2024;55,2;2,0;2,4;65,5;non conforme;15841;15841;344;651;126;Non vérifié;non
+87005;Aureil;87;eau potable;54411;2024;84,6;0,6;3,4;65,7;conforme;56940;10616;28;78;1045;Non vérifié;non
+87006;Azat-le-Ris;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;2457;28;89;241;Non vérifié;non
+87007;Balledent;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;2059;28;89;202;Non vérifié;non
+87008;La Bazeuge;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;1447;28;89;142;Non vérifié;non
+87009;Beaumont-du-Lac;87;eau potable;54178;2024;63,4;1,1;1,8;65,4;non conforme;9636;9636;198;219;133;Non vérifié;non
+87011;Bellac;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;36053;28;89;3537;Non vérifié;non
+87012;Berneuil;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;4261;28;89;418;Non vérifié;non
+87013;Bersac-sur-Rivalier;87;eau potable;54181;2024;36,0;4,5;1,6;65,3;non conforme;67014;67014;301;1013;610;Non vérifié;non
+87014;Bessines-sur-Gartempe;87;eau potable;54434;2024;82,3;0,5;2,5;65,5;conforme;29552;5974;6;73;2709;Non vérifié;non
+87015;Beynac;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;7428;28;74;735;Non vérifié;non
+87016;Les Billanges;87;eau potable : Les Billanges;54185;2024;67,9;0,9;1,9;65,4;conforme;7556;7556;70;173;296;Non vérifié;non
+87017;Blanzac;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;4770;28;89;468;Non vérifié;non
+87018;Blond;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;6870;28;89;674;Non vérifié;non
+87019;Boisseuil;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;30419;28;74;3010;Non vérifié;non
+87020;Bonnac-la-Côte;87;eau potable;267474;2024;89,8;2,4;20,9;69,2;conforme;1166832;11884;20;51;1631;Non vérifié;non
+87021;Bosmie-l'Aiguille;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;26953;28;74;2667;Non vérifié;non
+87022;Breuilaufa;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;1213;28;89;119;Non vérifié;non
+87023;Le Buis;87;eau potable;54434;2024;82,3;0,5;2,5;65,5;conforme;29552;393;6;73;178;Non vérifié;non
+87024;Bujaleuf;87;eau potable;54193;2024;56,9;1,5;2,0;65,4;non conforme;33868;33868;107;285;869;Non vérifié;non
+87025;Burgnac;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;8701;28;74;861;Non vérifié;non
+87027;Bussière-Galant;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;13118;28;74;1298;Non vérifié;non
+87028;Val-d'Oire-et-Gartempe;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;17440;28;89;1711;Non vérifié;non
+87029;Les Cars;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;6185;28;74;612;Non vérifié;non
+87031;Le Chalard;87;eau potable;54202;2024;67,2;1,3;2,6;65,5;conforme;10914;10914;99;184;302;Non vérifié;non
+87032;Châlus;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;17008;28;74;1683;Non vérifié;non
+87033;Chamboret;87;eau potable;190978;2024;87,3;0,9;6,1;66,2;conforme;8574;8574;30;92;782;Non vérifié;non
+87034;Champagnac-la-Rivière;87;eau potable;253214;2024;82,4;0,4;2,0;65,4;conforme;69277;6287;29;74;603;Non vérifié;non
+87035;Champnétery;87;eau potable : Distribution;331134;2024;79,7;0,8;3,2;65,6;conforme;66284;6421;34;91;512;Non vérifié;non
+87036;Champsac;87;eau potable;253214;2024;82,4;0,4;2,0;65,4;conforme;69277;7319;29;74;702;Non vérifié;non
+87037;La Chapelle-Montbrandeix;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;2658;28;74;263;Non vérifié;non
+87038;Chaptelat;87;eau potable;267474;2024;89,8;2,4;20,9;69,2;conforme;1166832;15250;20;51;2093;Non vérifié;non
+87039;Château-Chervix;87;eau potable : Château-Chervix;54212;2024;76,1;0,6;1,8;65,4;conforme;17104;17104;60;124;781;Non vérifié;non
+87040;Châteauneuf-la-Forêt;87;eau potable;190980;2024;70,0;0,8;2,0;65,4;conforme;125093;35537;63;149;1542;Non vérifié;non
+87041;Châteauponsac;87;eau potable;54434;2024;82,3;0,5;2,5;65,5;conforme;29552;4485;6;73;2034;Non vérifié;non
+87042;Le Châtenet-en-Dognon;87;eau potable : Distribution;331134;2024;79,7;0,8;3,2;65,6;conforme;66284;5105;34;91;407;Non vérifié;non
+87043;Cheissoux;87;eau potable;54216;2024;97,4;0,1;1,7;65,3;conforme;555;555;7;22;231;Non vérifié;non
+87044;Chéronnac;87;eau potable;253214;2024;82,4;0,4;2,0;65,4;conforme;69277;3274;29;74;314;Non vérifié;non
+87045;Cieux;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;10224;28;89;1003;Non vérifié;non
+87046;Cognac-la-Forêt;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;12006;28;74;1188;Non vérifié;non
+87047;Compreignac;87;eau potable :;54407;2024;75,0;0,8;2,2;65,4;conforme;38623;25804;38;130;1856;Non vérifié;non
+87048;Condat-sur-Vienne;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;53370;28;74;5281;Non vérifié;non
+87049;Coussac-Bonneval;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;12754;28;74;1262;Non vérifié;non
+87050;Couzeix;87;eau potable;267474;2024;89,8;2,4;20,9;69,2;conforme;1166832;74283;20;51;10195;Non vérifié;non
+87051;La Croisille-sur-Briance;87;eau potable;190980;2024;70,0;0,8;2,0;65,4;conforme;125093;16777;63;149;728;Non vérifié;non
+87052;La Croix-sur-Gartempe;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;1641;28;89;161;Non vérifié;non
+87053;Cromac;87;eau potable : ex-S.I.A.E.P. DE LA BENAIZE;54404;2024;84,4;0,3;1,7;65,3;conforme;10950;2771;30;64;249;Non vérifié;non
+87054;Cussac;87;eau potable;253214;2024;82,4;0,4;2,0;65,4;conforme;69277;12010;29;74;1152;Non vérifié;non
+87056;Dinsac;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;2467;28;89;242;Non vérifié;non
+87057;Dompierre-les-Églises;87;eau potable;54434;2024;82,3;0,5;2,5;65,5;conforme;29552;827;6;73;375;Non vérifié;non
+87058;Domps;87;eau potable : Domps;54233;2024;65,6;0,8;1,5;65,3;conforme;5977;5977;167;195;98;Non vérifié;non
+87059;Le Dorat;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;15585;28;89;1529;Non vérifié;non
+87060;Dournazac;87;eau potable;253214;2024;82,4;0,4;2,0;65,4;conforme;69277;7006;29;74;672;Non vérifié;non
+87061;Droux;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;3853;28;89;378;Non vérifié;non
+87062;Eybouleuf;87;eau potable;54411;2024;84,6;0,6;3,4;65,7;conforme;56940;4704;28;78;463;Non vérifié;non
+87063;Eyjeaux;87;eau potable;54411;2024;84,6;0,6;3,4;65,7;conforme;56940;13664;28;78;1345;Non vérifié;non
+87064;Eymoutiers;87;eau potable;190987;2024;49,3;2,5;2,4;65,5;non conforme;102200;102200;137;372;2042;Non vérifié;non
+87065;Feytiat;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;62414;28;74;6176;Non vérifié;non
+87066;Flavignac;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;10692;28;74;1058;Non vérifié;non
+87067;Folles;87;eau potable;54434;2024;82,3;0,5;2,5;65,5;conforme;29552;968;6;73;439;Non vérifié;non
+87068;Fromental;87;eau potable;54434;2024;82,3;0,5;2,5;65,5;conforme;29552;1155;6;73;524;Non vérifié;non
+87069;Gajoubert;87;eau potable;54243;2024;93,4;0,1;1,8;65,4;conforme;579;579;11;21;148;Non vérifié;non
+87070;La Geneytouse;87;eau potable;54411;2024;84,6;0,6;3,4;65,7;conforme;56940;10017;28;78;986;Non vérifié;non
+87071;Glandon;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;8186;28;74;810;Non vérifié;non
+87072;Glanges;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;5215;28;74;516;Non vérifié;non
+87073;Gorre;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;3921;28;74;388;Non vérifié;non
+87074;Les Grands-Chézeaux;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;2293;28;89;225;Non vérifié;non
+87075;Isle;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;80797;28;74;7995;Non vérifié;non
+87077;Janailhac;87;eau potable : S.I.A.E.P. DE NEXON;54414;2024;80,0;0,8;3,4;65,7;conforme;45032;5737;30;88;524;Non vérifié;non
+87078;Javerdat;87;eau potable;298234;2024;85,7;1,1;6,5;66,3;conforme;135707;5996;22;62;733;Non vérifié;non
+87079;La Jonchère-Saint-Maurice;87;eau potable;54256;2024;74,5;1,3;3,7;65,7;conforme;13243;13243;46;127;793;Non vérifié;non
+87080;Jouac;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;2008;28;89;197;Non vérifié;non
+87081;Jourgnac;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;11208;28;74;1109;Non vérifié;non
+87082;Ladignac-le-Long;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;11834;28;74;1171;Non vérifié;non
+87083;Laurière;87;eau potable : Laurière;54262;2024;77,5;0,8;2,9;65,6;conforme;10395;10395;54;125;525;Non vérifié;non
+87084;Lavignac;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;1728;28;74;171;Non vérifié;non
+87085;Limoges;87;eau potable;267474;2024;89,8;2,4;20,9;69,2;conforme;1166832;946751;20;51;129937;Non vérifié;non
+87086;Linards;87;eau potable;190980;2024;70,0;0,8;2,0;65,4;conforme;125093;23069;63;149;1001;Non vérifié;non
+87087;Lussac-les-Églises;87;eau potable;54434;2024;82,3;0,5;2,5;65,5;conforme;29552;1019;6;73;462;Non vérifié;non
+87088;Magnac-Bourg;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;11329;28;74;1121;Non vérifié;non
+87089;Magnac-Laval;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;17226;28;89;1690;Non vérifié;non
+87090;Mailhac-sur-Benaize;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;2834;28;89;278;Non vérifié;non
+87091;Maisonnais-sur-Tardoire;87;eau potable;253214;2024;82,4;0,4;2,0;65,4;conforme;69277;3993;29;74;383;Non vérifié;non
+87092;Marval;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;5043;28;74;499;Non vérifié;non
+87093;Masléon;87;eau potable;190980;2024;70,0;0,8;2,0;65,4;conforme;125093;6706;63;149;291;Non vérifié;non
+87094;Meilhac;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;5346;28;74;529;Non vérifié;non
+87095;Meuzac;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;7509;28;74;743;Non vérifié;non
+87096;La Meyze;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;8509;28;74;842;Non vérifié;non
+87097;Val d'Issoire;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;10968;28;89;1076;Non vérifié;non
+87099;Moissannes;87;eau potable;54282;2024;71,5;0,7;1,8;65,4;conforme;8176;8176;68;141;328;Non vérifié;non
+87100;Montrol-Sénard;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;2538;28;89;249;Non vérifié;non
+87101;Mortemart;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;1305;28;89;128;Non vérifié;non
+87103;Nantiat;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;16105;28;89;1580;Non vérifié;non
+87104;Nedde;87;eau potable : Nedde;54288;2024;82,2;0,3;1,6;65,3;conforme;6669;6669;41;68;450;Non vérifié;non
+87105;Neuvic-Entier;87;eau potable;190980;2024;70,0;0,8;2,0;65,4;conforme;125093;19935;63;149;865;Non vérifié;non
+87106;Nexon;87;eau potable : S.I.A.E.P. DE NEXON;54414;2024;80,0;0,8;3,4;65,7;conforme;45032;27897;30;88;2548;Non vérifié;non
+87108;Nouic;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;4312;28;89;423;Non vérifié;non
+87109;Oradour-Saint-Genest;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;3741;28;89;367;Non vérifié;non
+87111;Oradour-sur-Vayres;87;eau potable;253214;2024;82,4;0,4;2,0;65,4;conforme;69277;16754;29;74;1607;Non vérifié;non
+87112;Pageas;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;6508;28;74;644;Non vérifié;non
+87113;Le Palais-sur-Vienne;87;eau potable;267474;2024;89,8;2,4;20,9;69,2;conforme;1166832;42078;20;51;5775;Non vérifié;non
+87114;Panazol;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;114622;28;74;11342;Non vérifié;non
+87115;Pensol;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;1880;28;74;186;Non vérifié;non
+87116;Peyrat-de-Bellac;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;10794;28;89;1059;Non vérifié;non
+87117;Peyrat-le-Château;87;eau potable;190993;2024;91,8;0,2;2,7;65,5;conforme;3796;3796;10;28;1025;Non vérifié;non
+87118;Peyrilhac;87;eau potable;267474;2024;89,8;2,4;20,9;69,2;conforme;1166832;9946;20;51;1365;Non vérifié;non
+87119;Pierre-Buffière;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;11511;28;74;1139;Non vérifié;non
+87120;La Porcherie;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;5366;28;74;531;Non vérifié;non
+87121;Rancon;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;4842;28;89;475;Non vérifié;non
+87122;Razès;87;eau potable;54434;2024;82,3;0,5;2,5;65,5;conforme;29552;2536;6;73;1150;Non vérifié;non
+87123;Rempnat;87;eau potable;54305;2024;75,8;2,1;6,5;66,3;conforme;3664;3664;71;117;141;Non vérifié;non
+87124;Rilhac-Lastours;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;3891;28;74;385;Non vérifié;non
+87125;Rilhac-Rancon;87;eau potable;267474;2024;89,8;2,4;20,9;69,2;conforme;1166832;35010;20;51;4805;Non vérifié;non
+87126;Rochechouart;87;eau potable;298234;2024;85,7;1,1;6,5;66,3;conforme;135707;29471;22;62;3603;Non vérifié;non
+87127;La Roche-l'Abeille;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;5963;28;74;590;Non vérifié;non
+87128;Saint-Pardoux-le-Lac;87;eau potable;54434;2024;82,3;0,5;2,5;65,5;conforme;29552;3045;6;73;1381;Non vérifié;non
+87129;Royères;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;9611;28;74;951;Non vérifié;non
+87130;Roziers-Saint-Georges;87;eau potable;190980;2024;70,0;0,8;2,0;65,4;conforme;125093;3641;63;149;158;Non vérifié;non
+87131;Saillat-sur-Vienne;87;eau potable;298234;2024;85,7;1,1;6,5;66,3;conforme;135707;6871;22;62;840;Non vérifié;non
+87132;Saint-Amand-le-Petit;87;eau potable;54317;2024;100,0;0,0;1,7;65,3;conforme;0;0;0;0;115;Non vérifié;non
+87133;Saint-Amand-Magnazeix;87;eau potable;54434;2024;82,3;0,5;2,5;65,5;conforme;29552;1069;6;73;485;Non vérifié;non
+87134;Sainte-Anne-Saint-Priest;87;eau potable;54320;2024;100,0;0,0;13,8;67,8;conforme;0;0;0;0;137;Non vérifié;non
+87135;Saint-Auvent;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;9843;28;74;974;Non vérifié;non
+87137;Saint-Bazile;87;eau potable;253214;2024;82,4;0,4;2,0;65,4;conforme;69277;1522;29;74;146;Non vérifié;non
+87138;Saint-Bonnet-Briance;87;eau potable;54411;2024;84,6;0,6;3,4;65,7;conforme;56940;5394;28;78;531;Non vérifié;non
+87139;Saint-Bonnet-de-Bellac;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;4607;28;89;452;Non vérifié;non
+87141;Saint-Cyr;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;6832;28;74;676;Non vérifié;non
+87142;Saint-Denis-des-Murs;87;eau potable;54328;2024;92,3;0,2;2,9;65,6;conforme;2555;2555;13;25;545;Non vérifié;non
+87143;Saint-Gence;87;eau potable;267474;2024;89,8;2,4;20,9;69,2;conforme;1166832;16059;20;51;2204;Non vérifié;non
+87144;Saint-Genest-sur-Roselle;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;5457;28;74;540;Non vérifié;non
+87145;Saint-Georges-les-Landes;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;2365;28;89;232;Non vérifié;non
+87146;Saint-Germain-les-Belles;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;11622;28;74;1150;Non vérifié;non
+87147;Saint-Gilles-les-Forêts;87;eau potable;190980;2024;70,0;0,8;2,0;65,4;conforme;125093;1060;63;149;46;Non vérifié;non
+87148;Saint-Hilaire-Bonneval;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;10207;28;74;1010;Non vérifié;non
+87149;Saint-Hilaire-la-Treille;87;eau potable;54434;2024;82,3;0,5;2,5;65,5;conforme;29552;796;6;73;361;Non vérifié;non
+87150;Saint-Hilaire-les-Places;87;eau potable;54337;2024;81,2;0,6;2,8;65,6;conforme;12045;12045;39;79;839;Non vérifié;non
+87151;Saint-Jean-Ligoure;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;5104;28;74;505;Non vérifié;non
+87153;Saint-Julien-le-Petit;87;eau potable;54340;2024;69,2;0,9;2,1;65,4;conforme;13153;13153;124;177;290;Non vérifié;non
+87154;Saint-Junien;87;eau potable;298234;2024;85,7;1,1;6,5;66,3;conforme;135707;93370;22;62;11415;Non vérifié;non
+87155;Saint-Junien-les-Combes;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;1733;28;89;170;Non vérifié;non
+87156;Saint-Just-le-Martel;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;26336;28;74;2606;Non vérifié;non
+87157;Saint-Laurent-les-Églises;87;eau potable;54345;2024;68,4;1,8;3,9;65,8;conforme;22075;22075;70;170;865;Non vérifié;non
+87158;Saint-Laurent-sur-Gorre;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;13926;28;74;1378;Non vérifié;non
+87159;Saint-Léger-la-Montagne;87;eau potable : SAINT-LEGER-LA-MONTAGNE;54349;2024;92,9;0,1;1,5;65,3;conforme;777;777;6;25;362;Non vérifié;non
+87160;Saint-Léger-Magnazeix;87;eau potable;54434;2024;82,3;0,5;2,5;65,5;conforme;29552;1067;6;73;484;Non vérifié;non
+87161;Saint-Léonard-de-Noblat;87;eau potable : Distribution;331134;2024;79,7;0,8;3,2;65,6;conforme;66284;54758;34;91;4366;Non vérifié;non
+87162;Sainte-Marie-de-Vaux;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;2112;28;74;209;Non vérifié;non
+87163;Saint-Martial-sur-Isop;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;1539;28;89;151;Non vérifié;non
+87165;Saint-Martin-le-Mault;87;eau potable;54434;2024;82,3;0,5;2,5;65,5;conforme;29552;322;6;73;146;Non vérifié;non
+87166;Saint-Martin-le-Vieux;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;8742;28;74;865;Non vérifié;non
+87167;Saint-Martin-Terressus;87;eau potable;54361;2024;84,1;0,5;2,8;65,6;conforme;6439;6439;30;66;593;Non vérifié;non
+87168;Saint-Mathieu;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;10965;28;74;1085;Non vérifié;non
+87169;Saint-Maurice-les-Brousses;87;eau potable : S.I.A.E.P. DE NEXON;54414;2024;80,0;0,8;3,4;65,7;conforme;45032;11398;30;88;1041;Non vérifié;non
+87170;Saint-Méard;87;eau potable;190980;2024;70,0;0,8;2,0;65,4;conforme;125093;8435;63;149;366;Non vérifié;non
+87172;Saint-Ouen-sur-Gartempe;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;2181;28;89;214;Non vérifié;non
+87174;Saint-Paul;87;eau potable;54411;2024;84,6;0,6;3,4;65,7;conforme;56940;12546;28;78;1235;Non vérifié;non
+87176;Saint-Priest-Ligoure;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;6993;28;74;692;Non vérifié;non
+87177;Saint-Priest-sous-Aixe;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;17615;28;74;1743;Non vérifié;non
+87178;Saint-Priest-Taurion;87;eau potable;54371;2024;74,2;1,9;5,6;66,1;conforme;45078;45078;43;125;2901;Non vérifié;non
+87179;Saint-Sornin-la-Marche;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;2222;28;89;218;Non vérifié;non
+87180;Saint-Sornin-Leulac;87;eau potable;54434;2024;82,3;0,5;2,5;65,5;conforme;29552;1244;6;73;564;Non vérifié;non
+87181;Saint-Sulpice-Laurière;87;eau potable;170767;2024;70,6;0,9;2,1;65,4;conforme;170163;15489;54;156;792;Non vérifié;non
+87182;Saint-Sulpice-les-Feuilles;87;eau potable;54434;2024;82,3;0,5;2,5;65,5;conforme;29552;2664;6;73;1208;Non vérifié;non
+87183;Saint-Sylvestre;87;eau potable :;54407;2024;75,0;0,8;2,2;65,4;conforme;38623;12819;38;130;922;Non vérifié;non
+87186;Saint-Vitte-sur-Briance;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;3193;28;74;316;Non vérifié;non
+87187;Saint-Yrieix-la-Perche;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;69024;28;74;6830;Non vérifié;non
+87188;Saint-Yrieix-sous-Aixe;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;4538;28;74;449;Non vérifié;non
+87189;Les Salles-Lavauguyon;87;eau potable;253214;2024;82,4;0,4;2,0;65,4;conforme;69277;1637;29;74;157;Non vérifié;non
+87190;Sauviat-sur-Vige;87;eau potable;54385;2020;73,3;0,9;2,4;65,5;conforme;17082;17082;53;137;890;Sans anomalie apparente;non
+87191;Séreilhac;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;20242;28;74;2003;Non vérifié;non
+87192;Solignac;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;15684;28;74;1552;Non vérifié;non
+87193;Surdoux;87;eau potable;190980;2024;70,0;0,8;2,0;65,4;conforme;125093;1360;63;149;59;Non vérifié;non
+87194;Sussac;87;eau potable;190980;2024;70,0;0,8;2,0;65,4;conforme;125093;8573;63;149;372;Non vérifié;non
+87195;Tersannes;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;1284;28;89;126;Non vérifié;non
+87199;Vayres;87;eau potable;253214;2024;82,4;0,4;2,0;65,4;conforme;69277;7329;29;74;703;Non vérifié;non
+87200;Verneuil-Moustiers;87;eau potable;54409;2024;79,7;0,6;2,5;65,5;conforme;275283;1203;28;89;118;Non vérifié;non
+87201;Verneuil-sur-Vienne;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;49550;28;74;4903;Non vérifié;non
+87202;Veyrac;87;eau potable;267474;2024;89,8;2,4;20,9;69,2;conforme;1166832;15571;20;51;2137;Non vérifié;non
+87203;Vicq-sur-Breuilh;87;eau potable : Vicq-sur-Breuilh;54400;2024;100,0;0,0;2,1;65,4;conforme;0;0;0;0;1313;Non vérifié;non
+87204;Videix;87;eau potable;253214;2024;82,4;0,4;2,0;65,4;conforme;69277;2148;29;74;206;Non vérifié;non
+87205;Le Vigen;87;eau potable;54415;2024;83,4;0,8;4,0;65,8;conforme;964534;23345;28;74;2310;Non vérifié;non
+87206;Villefavard;87;eau potable : Villefavard;54403;2024;100,0;0,0;2,4;65,5;conforme;0;0;0;0;154;Non vérifié;non

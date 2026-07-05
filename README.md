@@ -175,6 +175,12 @@ méthodologie en tête de chaque fichier), pour qu'un fichier transmis à un tie
 
 - **Format** : séparateur `;`, décimale `,`, encodage UTF-8 avec BOM → ouverture directe dans
   Excel FR par double-clic. Les lignes de métadonnées en tête sont préfixées par `#`.
-- Un `LISEZMOI.txt` récapitulant source, licence, format et colonnes accompagne les exports.
+- **Colonne « Donnée suspecte »** : marquée `oui` si le rendement est ≤ 0 % ou > 100 %, si l'avis
+  qualité SISPEA est « Anomalie » / « Présomption d'anomalie », ou si un volume de base manque. Ces
+  lignes ne sont pas supprimées (transparence) mais ne doivent pas être citées comme des mesures
+  fiables. L'avis « Non vérifié » (donnée récente non encore validée) n'est **pas** suspect en soi.
+  Le CSV national est trié par code INSEE : la première ligne n'est jamais une donnée aberrante.
+- Un `LISEZMOI.txt` récapitulant source, licence, format, colonnes et règle « donnée suspecte »
+  accompagne les exports.
 - Les exports (~8 Mo) sont régénérables et non versionnés. Pour un site statique (GitHub Pages),
   ils seraient publiés comme fichiers pré-générés téléchargeables (pas de backend nécessaire).

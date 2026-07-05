@@ -7,330 +7,330 @@
 # Méthodologie et code : https://github.com/btaverne/dourdata
 # Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
 # Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
-Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
-40001;Aire-sur-l'Adour;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;65389;29;63;6211;Non vérifié
-40002;Amou;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;43616;77;115;1550;Non vérifié
-40003;Angoumé;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;6161;65;106;261;Non vérifié
-40004;Angresse;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;23972;29;63;2277;Non vérifié
-40005;Arboucave;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;10956;136;247;220;Non vérifié
-40006;Arengosse;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;7485;29;63;711;Non vérifié
-40007;Argelos;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;7968;136;247;160;Non vérifié
-40008;Argelouse;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;969;29;63;92;Non vérifié
-40011;Arsague;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;9793;77;115;348;Non vérifié
-40012;Artassenx;40;eau potable;280514;2024;72,6;3,5;9,2;66,8;conforme;456068;15510;162;228;262;Non vérifié
-40013;Arthez-d'Armagnac;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;969;29;63;92;Non vérifié
-40014;Arue;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;3748;29;63;356;Non vérifié
-40015;Arx;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;600;29;63;57;Non vérifié
-40016;Aubagnan;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;13795;136;247;277;Non vérifié
-40017;Audignon;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;19223;136;247;386;Non vérifié
-40018;Audon;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;4306;29;63;409;Non vérifié
-40019;Aureilhan;40;eau potable;78228;2024;92,3;0,9;10,4;67,1;conforme;105721;9147;22;31;1146;Non vérifié
-40020;Aurice;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;31524;136;247;633;Non vérifié
-40021;Azur;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;23324;65;106;988;Non vérifié
-40022;Bahus-Soubiran;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;19621;136;247;394;Non vérifié
-40023;Baigts;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;9314;77;115;331;Non vérifié
-40024;Banos;40;eau potable;78235;2024;81,1;0,9;3,7;65,7;conforme;4172;4172;42;90;271;Non vérifié
-40025;Bascons;40;eau potable;280514;2024;72,6;3,5;9,2;66,8;conforme;456068;50615;162;228;855;Non vérifié
-40026;Bas-Mauco;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;20966;136;247;421;Non vérifié
-40027;Bassercles;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;7520;136;247;151;Non vérifié
-40028;Bastennes;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;6669;77;115;237;Non vérifié
-40029;Bats;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;16335;136;247;328;Non vérifié
-40030;Baudignan;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;526;29;63;50;Non vérifié
-40031;Bégaar;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;13170;29;63;1251;Non vérifié
-40032;Belhade;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;2390;29;63;227;Non vérifié
-40033;Bélis;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;1748;29;63;166;Non vérifié
-40034;Bélus;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;14518;65;106;615;Non vérifié
-40035;Bénesse-lès-Dax;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;6296;29;63;598;Non vérifié
-40036;Bénesse-Maremne;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;39796;29;63;3780;Non vérifié
-40037;Benquet;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;20140;29;63;1913;Non vérifié
-40038;Bergouey;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;3095;77;115;110;Non vérifié
-40039;Betbezer-d'Armagnac;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;1305;29;63;124;Non vérifié
-40040;Beylongue;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;4211;29;63;400;Non vérifié
-40041;Beyries;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;3405;77;115;121;Non vérifié
-40042;Biarrotte;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;8192;65;106;347;Non vérifié
-40043;Bias;40;eau potable;78228;2024;92,3;0,9;10,4;67,1;conforme;105721;6457;22;31;809;Non vérifié
-40044;Biaudos;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;24575;65;106;1041;Non vérifié
-40046;Biscarrosse;40;eau potable : cc grands lacs;277994;2024;89,4;1,5;12,6;67,5;conforme;343923;162627;28;44;15836;Non vérifié
-40047;Bonnegarde;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;7147;77;115;254;Non vérifié
-40049;Bordères-et-Lamensans;40;eau potable;280514;2024;72,6;3,5;9,2;66,8;conforme;456068;21252;162;228;359;Non vérifié
-40050;Bostens;40;eau potable;278054;2024;97,1;0,4;13,8;67,8;conforme;86753;399;5;12;206;Non vérifié
-40051;Bougue;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;8770;29;63;833;Non vérifié
-40052;Bourdalat;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;2148;29;63;204;Non vérifié
-40053;Bourriot-Bergonce;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;3432;29;63;326;Non vérifié
-40054;Brassempouy;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;7851;77;115;279;Non vérifié
-40055;Bretagne-de-Marsan;40;eau potable;278054;2024;97,1;0,4;13,8;67,8;conforme;86753;3136;5;12;1618;Non vérifié
-40056;Brocas;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;7591;29;63;721;Non vérifié
-40057;Buanes;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;11753;136;247;236;Non vérifié
-40058;Cachen;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;2453;29;63;233;Non vérifié
-40059;Cagnotte;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;8254;29;63;784;Non vérifié
-40060;Callen;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;1611;29;63;153;Non vérifié
-40061;Campagne;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;11170;29;63;1061;Non vérifié
-40062;Campet-et-Lamolère;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;5327;29;63;506;Non vérifié
-40063;Candresse;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;24538;77;115;872;Non vérifié
-40064;Canenx-et-Réaut;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;1884;29;63;179;Non vérifié
-40065;Capbreton;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;96688;29;63;9184;Non vérifié
-40066;Carcarès-Sainte-Croix;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;5611;29;63;533;Non vérifié
-40067;Carcen-Ponson;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;6612;29;63;628;Non vérifié
-40068;Cassen;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;6569;29;63;624;Non vérifié
-40069;Castaignos-Souslens;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;12044;77;115;428;Non vérifié
-40070;Castandet;40;eau potable;280514;2024;72,6;3,5;9,2;66,8;conforme;456068;25159;162;228;425;Non vérifié
-40071;Castelnau-Chalosse;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;16687;77;115;593;Non vérifié
-40072;Castelnau-Tursan;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;9064;136;247;182;Non vérifié
-40073;Castelner;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;5976;136;247;120;Non vérifié
-40074;Castel-Sarrazin;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;15730;77;115;559;Non vérifié
-40075;Castets;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;26488;29;63;2516;Non vérifié
-40076;Cauna;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;20817;136;247;418;Non vérifié
-40077;Cauneille;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;8464;29;63;804;Non vérifié
-40078;Caupenne;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;11312;77;115;402;Non vérifié
-40079;Cazalis;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;3827;77;115;136;Non vérifié
-40080;Cazères-sur-l'Adour;40;eau potable;280514;2024;72,6;3,5;9,2;66,8;conforme;456068;66776;162;228;1128;Non vérifié
-40081;Cère;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;4422;29;63;420;Non vérifié
-40082;Classun;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;12052;136;247;242;Non vérifié
-40083;Clèdes;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;5727;136;247;115;Non vérifié
-40084;Clermont;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;20711;77;115;736;Non vérifié
-40085;Commensacq;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;4632;29;63;440;Non vérifié
-40086;Coudures;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;28436;136;247;571;Non vérifié
-40087;Créon-d'Armagnac;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;3485;29;63;331;Non vérifié
-40088;Dax;40;eau potable : Grand Dax;298874;2024;83,7;6,0;31,1;71,2;conforme;451140;227422;28;76;22109;Non vérifié
-40089;Doazit;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;41783;136;247;839;Non vérifié
-40090;Donzacq;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;12719;77;115;452;Non vérifié
-40091;Duhort-Bachen;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;34860;136;247;700;Non vérifié
-40092;Dumes;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;13197;136;247;265;Non vérifié
-40093;Escalans;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;2264;29;63;215;Non vérifié
-40094;Escource;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;8675;29;63;824;Non vérifié
-40095;Estibeaux;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;7359;29;63;699;Non vérifié
-40096;Estigarde;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;1053;29;63;100;Non vérifié
-40097;Eugénie-les-Bains;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;24801;136;247;498;Non vérifié
-40098;Eyres-Moncube;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;17181;136;247;345;Non vérifié
-40099;Fargues;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;15637;136;247;314;Non vérifié
-40100;Le Frêche;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;3864;29;63;367;Non vérifié
-40101;Gaas;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;4948;29;63;470;Non vérifié
-40102;Gabarret;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;13507;29;63;1283;Non vérifié
-40103;Gaillères;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;6875;29;63;653;Non vérifié
-40104;Gamarde-les-Bains;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;44545;77;115;1583;Non vérifié
-40105;Garein;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;4464;29;63;424;Non vérifié
-40106;Garrey;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;6050;77;115;215;Non vérifié
-40108;Gastes;40;eau potable : cc grands lacs;277994;2024;89,4;1,5;12,6;67,5;conforme;343923;9499;28;44;925;Non vérifié
-40109;Gaujacq;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;12297;77;115;437;Non vérifié
-40110;Geaune;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;38197;136;247;767;Non vérifié
-40111;Geloux;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;7570;29;63;719;Non vérifié
-40112;Gibret;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;2589;77;115;92;Non vérifié
-40113;Goos;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;14942;77;115;531;Non vérifié
-40114;Gourbera;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;3832;29;63;364;Non vérifié
-40115;Gousse;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;2895;29;63;275;Non vérifié
-40116;Gouts;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;2853;29;63;271;Non vérifié
-40117;Grenade-sur-l'Adour;40;eau potable;280514;2024;72,6;3,5;9,2;66,8;conforme;456068;141959;162;228;2398;Non vérifié
-40118;Habas;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;15676;29;63;1489;Non vérifié
-40119;Hagetmau;40;eau potable;78167;2024;79,5;2,4;9,2;66,8;conforme;97481;93985;56;95;4624;Non vérifié
-40120;Hastingues;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;6412;29;63;609;Non vérifié
-40121;Hauriet;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;13496;136;247;271;Non vérifié
-40122;Haut-Mauco;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;10538;29;63;1001;Non vérifié
-40123;Herm;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;12476;29;63;1185;Non vérifié
-40124;Herré;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;1505;29;63;143;Non vérifié
-40125;Heugas;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;14718;29;63;1398;Non vérifié
-40126;Hinx;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;53296;77;115;1894;Non vérifié
-40127;Hontanx;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;6401;29;63;608;Non vérifié
-40128;Horsarrieu;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;35707;136;247;717;Non vérifié
-40129;Josse;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;24032;65;106;1018;Non vérifié
-40130;Labastide-Chalosse;40;eau potable;78167;2024;79,5;2,4;9,2;66,8;conforme;97481;3496;56;95;172;Non vérifié
-40131;Labastide-d'Armagnac;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;7085;29;63;673;Non vérifié
-40132;Labatut;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;15055;29;63;1430;Non vérifié
-40133;Labenne;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;75622;29;63;7183;Non vérifié
-40134;Labouheyre;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;30594;29;63;2906;Non vérifié
-40135;Labrit;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;8865;29;63;842;Non vérifié
-40136;Lacajunte;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;7171;136;247;144;Non vérifié
-40137;Lacquy;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;3043;29;63;289;Non vérifié
-40138;Lacrabe;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;14293;136;247;287;Non vérifié
-40139;Laglorieuse;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;6590;29;63;626;Non vérifié
-40140;Lagrange;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;1948;29;63;185;Non vérifié
-40141;Lahosse;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;8104;77;115;288;Non vérifié
-40142;Laluque;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;11602;29;63;1102;Non vérifié
-40143;Lamothe;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;3243;29;63;308;Non vérifié
-40144;Larbey;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;6669;77;115;237;Non vérifié
-40145;Larrivière-Saint-Savin;40;eau potable;280514;2024;72,6;3,5;9,2;66,8;conforme;456068;34513;162;228;583;Non vérifié
-40146;Latrille;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;8367;136;247;168;Non vérifié
-40147;Laurède;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;3864;29;63;367;Non vérifié
-40148;Lauret;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;3785;136;247;76;Non vérifié
-40149;Lencouacq;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;3980;29;63;378;Non vérifié
-40150;Léon;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;24277;29;63;2306;Non vérifié
-40151;Lesgor;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;4495;29;63;427;Non vérifié
-40152;Lesperon;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;10981;29;63;1043;Non vérifié
-40153;Le Leuy;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;2369;29;63;225;Non vérifié
-40154;Lévignacq;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;3811;29;63;362;Non vérifié
-40155;Linxe;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;16339;29;63;1552;Non vérifié
-40156;Liposthey;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;6348;29;63;603;Non vérifié
-40157;Lit-et-Mixe;40;eau potable : Lit et Mixe;342674;2024;93,8;0,5;7,4;66,5;conforme;15733;15733;25;25;1719;Non vérifié
-40158;Losse;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;3011;29;63;286;Non vérifié
-40159;Louer;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;3527;29;63;335;Non vérifié
-40160;Lourquen;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;2032;29;63;193;Non vérifié
-40161;Lubbon;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;895;29;63;85;Non vérifié
-40162;Lucbardez-et-Bargues;40;eau potable;278054;2024;97,1;0,4;13,8;67,8;conforme;86753;1087;5;12;561;Non vérifié
-40163;Lüe;40;eau potable : cc grands lacs;277994;2024;89,4;1,5;12,6;67,5;conforme;343923;6377;28;44;621;Non vérifié
-40164;Retjons;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;3169;29;63;301;Non vérifié
-40165;Luglon;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;3927;29;63;373;Non vérifié
-40166;Lussagnet;40;eau potable;280514;2024;72,6;3,5;9,2;66,8;conforme;456068;4736;162;228;80;Non vérifié
-40167;Luxey;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;6885;29;63;654;Non vérifié
-40168;Magescq;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;28404;29;63;2698;Non vérifié
-40169;Maillas;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;1316;29;63;125;Non vérifié
-40170;Maillères;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;2421;29;63;230;Non vérifié
-40171;Mano;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;1569;29;63;149;Non vérifié
-40172;Mant;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;13347;136;247;268;Non vérifié
-40173;Marpaps;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;3630;77;115;129;Non vérifié
-40174;Mauries;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;4183;136;247;84;Non vérifié
-40175;Maurrin;40;eau potable;280514;2024;72,6;3,5;9,2;66,8;conforme;456068;27646;162;228;467;Non vérifié
-40176;Mauvezin-d'Armagnac;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;1105;29;63;105;Non vérifié
-40177;Maylis;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;14641;136;247;294;Non vérifié
-40178;Mazerolles;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;7527;29;63;715;Non vérifié
-40179;Mées;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;21435;29;63;2036;Non vérifié
-40180;Meilhan;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;13023;29;63;1237;Non vérifié
-40181;Messanges;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;25637;65;106;1086;Non vérifié
-40182;Mézos;40;eau potable;78228;2024;92,3;0,9;10,4;67,1;conforme;105721;6928;22;31;868;Non vérifié
-40183;Mimbaste;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;10538;29;63;1001;Non vérifié
-40184;Mimizan;40;eau potable;78228;2024;92,3;0,9;10,4;67,1;conforme;105721;61241;22;31;7673;Non vérifié
-40185;Miramont-Sensacq;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;17032;136;247;342;Non vérifié
-40186;Misson;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;8717;29;63;828;Non vérifié
-40187;Moliets-et-Maa;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;30666;65;106;1299;Non vérifié
-40188;Momuy;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;13704;77;115;487;Non vérifié
-40189;Monget;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;3835;136;247;77;Non vérifié
-40190;Monségur;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;19671;136;247;395;Non vérifié
-40191;Montaut;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;29582;136;247;594;Non vérifié
-40192;Mont-de-Marsan;40;eau potable;278054;2024;97,1;0,4;13,8;67,8;conforme;86753;61241;5;12;31592;Non vérifié
-40193;Montégut;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;832;29;63;79;Non vérifié
-40194;Montfort-en-Chalosse;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;34949;77;115;1242;Non vérifié
-40195;Montgaillard;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;29980;136;247;602;Non vérifié
-40196;Montsoué;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;28187;136;247;566;Non vérifié
-40197;Morcenx-la-Nouvelle;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;52871;29;63;5022;Non vérifié
-40198;Morganx;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;8217;136;247;165;Non vérifié
-40199;Mouscardès;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;2790;29;63;265;Non vérifié
-40200;Moustey;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;8401;29;63;798;Non vérifié
-40201;Mugron;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;14192;29;63;1348;Non vérifié
-40202;Narrosse;40;eau potable : Grand Dax;298874;2024;83,7;6,0;31,1;71,2;conforme;451140;34840;28;76;3387;Non vérifié
-40203;Nassiet;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;9286;77;115;330;Non vérifié
-40204;Nerbis;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;2811;29;63;267;Non vérifié
-40205;Nousse;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;7091;77;115;252;Non vérifié
-40206;Oeyregave;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;3379;29;63;321;Non vérifié
-40207;Oeyreluy;40;eau potable : Grand Dax;298874;2024;83,7;6,0;31,1;71,2;conforme;451140;15358;28;76;1493;Non vérifié
-40208;Onard;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;4011;29;63;381;Non vérifié
-40209;Ondres;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;68779;29;63;6533;Non vérifié
-40210;Onesse-Laharie;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;11360;29;63;1079;Non vérifié
-40211;Orist;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;19216;65;106;814;Non vérifié
-40212;Orthevielle;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;25330;65;106;1073;Non vérifié
-40213;Orx;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;15274;65;106;647;Non vérifié
-40214;Ossages;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;13845;77;115;492;Non vérifié
-40215;Ousse-Suzan;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;3127;29;63;297;Non vérifié
-40216;Ozourt;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;5740;77;115;204;Non vérifié
-40217;Parentis-en-Born;40;eau potable : cc grands lacs;277994;2024;89,4;1,5;12,6;67,5;conforme;343923;77904;28;44;7586;Non vérifié
-40218;Parleboscq;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;4748;29;63;451;Non vérifié
-40219;Payros-Cazautets;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;5229;136;247;105;Non vérifié
-40220;Pécorade;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;6623;136;247;133;Non vérifié
-40221;Perquie;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;3601;29;63;342;Non vérifié
-40222;Pey;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;19783;65;106;838;Non vérifié
-40223;Peyre;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;12002;136;247;241;Non vérifié
-40224;Peyrehorade;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;38953;29;63;3700;Non vérifié
-40225;Philondenx;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;9313;136;247;187;Non vérifié
-40226;Pimbo;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;9711;136;247;195;Non vérifié
-40227;Pissos;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;15845;29;63;1505;Non vérifié
-40228;Pomarez;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;46205;77;115;1642;Non vérifié
-40229;Pontenx-les-Forges;40;eau potable;78228;2024;92,3;0,9;10,4;67,1;conforme;105721;14167;22;31;1775;Non vérifié
-40230;Pontonx-sur-l'Adour;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;31805;29;63;3021;Non vérifié
-40231;Port-de-Lanne;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;29084;65;106;1232;Non vérifié
-40232;Poudenx;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;10906;136;247;219;Non vérifié
-40233;Pouillon;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;32995;29;63;3134;Non vérifié
-40234;Pouydesseaux;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;9149;29;63;869;Non vérifié
-40235;Poyanne;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;7296;29;63;693;Non vérifié
-40236;Poyartin;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;21836;77;115;776;Non vérifié
-40237;Préchacq-les-Bains;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;8507;29;63;808;Non vérifié
-40238;Pujo-le-Plan;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;6748;29;63;641;Non vérifié
-40239;Puyol-Cazalet;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;5229;136;247;105;Non vérifié
-40240;Renung;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;24054;136;247;483;Non vérifié
-40242;Rimbez-et-Baudiets;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;1095;29;63;104;Non vérifié
-40243;Rion-des-Landes;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;33079;29;63;3142;Non vérifié
-40244;Rivière-Saas-et-Gourby;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;34844;65;106;1476;Non vérifié
-40245;Roquefort;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;20951;29;63;1990;Non vérifié
-40246;Sabres;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;12770;29;63;1213;Non vérifié
-40247;Saint-Agnet;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;8914;136;247;179;Non vérifié
-40248;Saint-André-de-Seignanx;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;45916;65;106;1945;Non vérifié
-40249;Saint-Aubin;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;24801;136;247;498;Non vérifié
-40250;Saint-Avit;40;eau potable;278054;2024;97,1;0,4;13,8;67,8;conforme;86753;1326;5;12;684;Non vérifié
-40251;Saint-Barthélemy;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;9726;65;106;412;Non vérifié
-40252;Sainte-Colombe;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;31524;136;247;633;Non vérifié
-40253;Saint-Cricq-Chalosse;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;17278;77;115;614;Non vérifié
-40254;Saint-Cricq-du-Gave;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;4685;29;63;445;Non vérifié
-40255;Saint-Cricq-Villeneuve;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;4969;29;63;472;Non vérifié
-40256;Saint-Étienne-d'Orthe;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;17469;65;106;740;Non vérifié
-40257;Sainte-Eulalie-en-Born;40;eau potable : cc grands lacs;277994;2024;89,4;1,5;12,6;67,5;conforme;343923;14819;28;44;1443;Non vérifié
-40258;Sainte-Foy;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;2643;29;63;251;Non vérifié
-40259;Saint-Gein;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;4306;29;63;409;Non vérifié
-40260;Saint-Geours-d'Auribat;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;4306;29;63;409;Non vérifié
-40261;Saint-Geours-de-Maremne;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;72922;65;106;3089;Non vérifié
-40262;Saint-Gor;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;3243;29;63;308;Non vérifié
-40263;Saint-Jean-de-Lier;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;4264;29;63;405;Non vérifié
-40264;Saint-Jean-de-Marsacq;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;43437;65;106;1840;Non vérifié
-40265;Saint-Julien-d'Armagnac;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;1137;29;63;108;Non vérifié
-40266;Saint-Julien-en-Born;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;18750;29;63;1781;Non vérifié
-40267;Saint-Justin;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;10612;29;63;1008;Non vérifié
-40268;Saint-Laurent-de-Gosse;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;17587;65;106;745;Non vérifié
-40269;Saint-Lon-les-Mines;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;29414;65;106;1246;Non vérifié
-40270;Saint-Loubouer;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;22012;136;247;442;Non vérifié
-40271;Sainte-Marie-de-Gosse;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;29296;65;106;1241;Non vérifié
-40272;Saint-Martin-de-Hinx;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;42682;65;106;1808;Non vérifié
-40273;Saint-Martin-de-Seignanx;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;65673;29;63;6238;Non vérifié
-40274;Saint-Martin-d'Oney;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;14392;29;63;1367;Non vérifié
-40275;Saint-Maurice-sur-Adour;40;eau potable;280514;2024;72,6;3,5;9,2;66,8;conforme;456068;36999;162;228;625;Non vérifié
-40276;Saint-Michel-Escalus;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;3495;29;63;332;Non vérifié
-40277;Saint-Pandelon;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;7885;29;63;749;Non vérifié
-40278;Saint-Paul-en-Born;40;eau potable;78228;2024;92,3;0,9;10,4;67,1;conforme;105721;7782;22;31;975;Non vérifié
-40279;Saint-Paul-lès-Dax;40;eau potable : Grand Dax;298874;2024;83,7;6,0;31,1;71,2;conforme;451140;148957;28;76;14481;Non vérifié
-40281;Saint-Pierre-du-Mont;40;eau potable;278054;2024;97,1;0,4;13,8;67,8;conforme;86753;19563;5;12;10092;Non vérifié
-40282;Saint-Sever;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;251145;136;247;5043;Non vérifié
-40283;Saint-Vincent-de-Paul;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;35816;29;63;3402;Non vérifié
-40284;Saint-Vincent-de-Tyrosse;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;189187;65;106;8014;Non vérifié
-40285;Saint-Yaguen;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;6580;29;63;625;Non vérifié
-40286;Samadet;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;55926;136;247;1123;Non vérifié
-40287;Sanguinet;40;eau potable : cc grands lacs;277994;2024;89,4;1,5;12,6;67,5;conforme;343923;48687;28;44;4741;Non vérifié
-40288;Sarbazan;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;12286;29;63;1167;Non vérifié
-40289;Sarraziet;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;11703;136;247;235;Non vérifié
-40290;Sarron;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;5179;136;247;104;Non vérifié
-40291;Saubion;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;43107;65;106;1826;Non vérifié
-40292;Saubrigues;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;39164;65;106;1659;Non vérifié
-40293;Saubusse;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;25803;65;106;1093;Non vérifié
-40294;Saugnac-et-Cambran;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;16424;29;63;1560;Non vérifié
-40295;Saugnac-et-Muret;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;14550;29;63;1382;Non vérifié
-40296;Seignosse;40;eau potable : Seignosse;342654;2024;87,0;2,3;15,6;68,1;conforme;90414;90414;61;57;4056;Non vérifié
-40297;Le Sen;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;2264;29;63;215;Non vérifié
-40298;Serres-Gaston;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;20169;136;247;405;Non vérifié
-40299;Serreslous-et-Arribans;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;9761;136;247;196;Non vérifié
-40300;Seyresse;40;eau potable : Grand Dax;298874;2024;83,7;6,0;31,1;71,2;conforme;451140;10585;28;76;1029;Non vérifié
-40301;Siest;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;3187;65;106;135;Non vérifié
-40303;Solférino;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;3937;29;63;374;Non vérifié
-40304;Soorts-Hossegor;40;eau potable : Soorts Hossegor;92266;2024;84,0;3,3;17,3;68,5;conforme;112259;112259;81;71;3817;Non vérifié
-40305;Sorbets;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;9861;136;247;198;Non vérifié
-40306;Sorde-l'Abbaye;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;6791;29;63;645;Non vérifié
-40307;Sore;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;12412;29;63;1179;Non vérifié
-40308;Sort-en-Chalosse;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;24903;77;115;885;Non vérifié
-40309;Souprosse;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;12465;29;63;1184;Non vérifié
-40310;Soustons;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;205405;65;106;8701;Non vérifié
-40311;Taller;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;7296;29;63;693;Non vérifié
-40312;Tarnos;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;136410;29;63;12957;Non vérifié
-40313;Tartas;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;33363;29;63;3169;Non vérifié
-40314;Tercis-les-Bains;40;eau potable : Grand Dax;298874;2024;83,7;6,0;31,1;71,2;conforme;451140;13979;28;76;1359;Non vérifié
-40315;Téthieu;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;7980;29;63;758;Non vérifié
-40316;Tilh;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;23412;77;115;832;Non vérifié
-40317;Tosse;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;83947;65;106;3556;Non vérifié
-40318;Toulouzette;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;15388;136;247;309;Non vérifié
-40319;Trensacq;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;2990;29;63;284;Non vérifié
-40320;Uchacq-et-Parentis;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;6590;29;63;626;Non vérifié
-40321;Urgons;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;12151;136;247;244;Non vérifié
-40322;Uza;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;1895;29;63;180;Non vérifié
-40323;Vert;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;2474;29;63;235;Non vérifié
-40324;Vicq-d'Auribat;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;2558;29;63;243;Non vérifié
-40325;Vielle-Tursan;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;14094;136;247;283;Non vérifié
-40326;Vielle-Saint-Girons;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;15981;29;63;1518;Non vérifié
-40327;Vielle-Soubiran;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;2379;29;63;226;Non vérifié
-40328;Vieux-Boucau-les-Bains;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;39778;65;106;1685;Non vérifié
-40329;Le Vignau;40;eau potable;280514;2024;72,6;3,5;9,2;66,8;conforme;456068;30902;162;228;522;Non vérifié
-40330;Villenave;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;3285;29;63;312;Non vérifié
-40331;Villeneuve-de-Marsan;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;26404;29;63;2508;Non vérifié
-40332;Ychoux;40;eau potable : cc grands lacs;277994;2024;89,4;1,5;12,6;67,5;conforme;343923;24010;28;44;2338;Non vérifié
-40333;Ygos-Saint-Saturnin;40;eau potable;78226;2024;69,8;1,2;2,8;65,6;conforme;29232;29232;60;156;1334;Non vérifié
-40334;Yzosse;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;4064;29;63;386;Non vérifié
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement);Donnée suspecte (voir LISEZMOI)
+40001;Aire-sur-l'Adour;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;65389;29;63;6211;Non vérifié;non
+40002;Amou;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;43616;77;115;1550;Non vérifié;non
+40003;Angoumé;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;6161;65;106;261;Non vérifié;non
+40004;Angresse;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;23972;29;63;2277;Non vérifié;non
+40005;Arboucave;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;10956;136;247;220;Non vérifié;non
+40006;Arengosse;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;7485;29;63;711;Non vérifié;non
+40007;Argelos;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;7968;136;247;160;Non vérifié;non
+40008;Argelouse;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;969;29;63;92;Non vérifié;non
+40011;Arsague;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;9793;77;115;348;Non vérifié;non
+40012;Artassenx;40;eau potable;280514;2024;72,6;3,5;9,2;66,8;conforme;456068;15510;162;228;262;Non vérifié;non
+40013;Arthez-d'Armagnac;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;969;29;63;92;Non vérifié;non
+40014;Arue;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;3748;29;63;356;Non vérifié;non
+40015;Arx;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;600;29;63;57;Non vérifié;non
+40016;Aubagnan;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;13795;136;247;277;Non vérifié;non
+40017;Audignon;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;19223;136;247;386;Non vérifié;non
+40018;Audon;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;4306;29;63;409;Non vérifié;non
+40019;Aureilhan;40;eau potable;78228;2024;92,3;0,9;10,4;67,1;conforme;105721;9147;22;31;1146;Non vérifié;non
+40020;Aurice;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;31524;136;247;633;Non vérifié;non
+40021;Azur;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;23324;65;106;988;Non vérifié;non
+40022;Bahus-Soubiran;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;19621;136;247;394;Non vérifié;non
+40023;Baigts;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;9314;77;115;331;Non vérifié;non
+40024;Banos;40;eau potable;78235;2024;81,1;0,9;3,7;65,7;conforme;4172;4172;42;90;271;Non vérifié;non
+40025;Bascons;40;eau potable;280514;2024;72,6;3,5;9,2;66,8;conforme;456068;50615;162;228;855;Non vérifié;non
+40026;Bas-Mauco;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;20966;136;247;421;Non vérifié;non
+40027;Bassercles;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;7520;136;247;151;Non vérifié;non
+40028;Bastennes;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;6669;77;115;237;Non vérifié;non
+40029;Bats;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;16335;136;247;328;Non vérifié;non
+40030;Baudignan;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;526;29;63;50;Non vérifié;non
+40031;Bégaar;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;13170;29;63;1251;Non vérifié;non
+40032;Belhade;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;2390;29;63;227;Non vérifié;non
+40033;Bélis;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;1748;29;63;166;Non vérifié;non
+40034;Bélus;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;14518;65;106;615;Non vérifié;non
+40035;Bénesse-lès-Dax;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;6296;29;63;598;Non vérifié;non
+40036;Bénesse-Maremne;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;39796;29;63;3780;Non vérifié;non
+40037;Benquet;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;20140;29;63;1913;Non vérifié;non
+40038;Bergouey;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;3095;77;115;110;Non vérifié;non
+40039;Betbezer-d'Armagnac;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;1305;29;63;124;Non vérifié;non
+40040;Beylongue;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;4211;29;63;400;Non vérifié;non
+40041;Beyries;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;3405;77;115;121;Non vérifié;non
+40042;Biarrotte;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;8192;65;106;347;Non vérifié;non
+40043;Bias;40;eau potable;78228;2024;92,3;0,9;10,4;67,1;conforme;105721;6457;22;31;809;Non vérifié;non
+40044;Biaudos;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;24575;65;106;1041;Non vérifié;non
+40046;Biscarrosse;40;eau potable : cc grands lacs;277994;2024;89,4;1,5;12,6;67,5;conforme;343923;162627;28;44;15836;Non vérifié;non
+40047;Bonnegarde;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;7147;77;115;254;Non vérifié;non
+40049;Bordères-et-Lamensans;40;eau potable;280514;2024;72,6;3,5;9,2;66,8;conforme;456068;21252;162;228;359;Non vérifié;non
+40050;Bostens;40;eau potable;278054;2024;97,1;0,4;13,8;67,8;conforme;86753;399;5;12;206;Non vérifié;non
+40051;Bougue;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;8770;29;63;833;Non vérifié;non
+40052;Bourdalat;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;2148;29;63;204;Non vérifié;non
+40053;Bourriot-Bergonce;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;3432;29;63;326;Non vérifié;non
+40054;Brassempouy;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;7851;77;115;279;Non vérifié;non
+40055;Bretagne-de-Marsan;40;eau potable;278054;2024;97,1;0,4;13,8;67,8;conforme;86753;3136;5;12;1618;Non vérifié;non
+40056;Brocas;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;7591;29;63;721;Non vérifié;non
+40057;Buanes;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;11753;136;247;236;Non vérifié;non
+40058;Cachen;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;2453;29;63;233;Non vérifié;non
+40059;Cagnotte;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;8254;29;63;784;Non vérifié;non
+40060;Callen;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;1611;29;63;153;Non vérifié;non
+40061;Campagne;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;11170;29;63;1061;Non vérifié;non
+40062;Campet-et-Lamolère;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;5327;29;63;506;Non vérifié;non
+40063;Candresse;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;24538;77;115;872;Non vérifié;non
+40064;Canenx-et-Réaut;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;1884;29;63;179;Non vérifié;non
+40065;Capbreton;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;96688;29;63;9184;Non vérifié;non
+40066;Carcarès-Sainte-Croix;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;5611;29;63;533;Non vérifié;non
+40067;Carcen-Ponson;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;6612;29;63;628;Non vérifié;non
+40068;Cassen;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;6569;29;63;624;Non vérifié;non
+40069;Castaignos-Souslens;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;12044;77;115;428;Non vérifié;non
+40070;Castandet;40;eau potable;280514;2024;72,6;3,5;9,2;66,8;conforme;456068;25159;162;228;425;Non vérifié;non
+40071;Castelnau-Chalosse;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;16687;77;115;593;Non vérifié;non
+40072;Castelnau-Tursan;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;9064;136;247;182;Non vérifié;non
+40073;Castelner;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;5976;136;247;120;Non vérifié;non
+40074;Castel-Sarrazin;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;15730;77;115;559;Non vérifié;non
+40075;Castets;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;26488;29;63;2516;Non vérifié;non
+40076;Cauna;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;20817;136;247;418;Non vérifié;non
+40077;Cauneille;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;8464;29;63;804;Non vérifié;non
+40078;Caupenne;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;11312;77;115;402;Non vérifié;non
+40079;Cazalis;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;3827;77;115;136;Non vérifié;non
+40080;Cazères-sur-l'Adour;40;eau potable;280514;2024;72,6;3,5;9,2;66,8;conforme;456068;66776;162;228;1128;Non vérifié;non
+40081;Cère;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;4422;29;63;420;Non vérifié;non
+40082;Classun;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;12052;136;247;242;Non vérifié;non
+40083;Clèdes;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;5727;136;247;115;Non vérifié;non
+40084;Clermont;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;20711;77;115;736;Non vérifié;non
+40085;Commensacq;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;4632;29;63;440;Non vérifié;non
+40086;Coudures;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;28436;136;247;571;Non vérifié;non
+40087;Créon-d'Armagnac;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;3485;29;63;331;Non vérifié;non
+40088;Dax;40;eau potable : Grand Dax;298874;2024;83,7;6,0;31,1;71,2;conforme;451140;227422;28;76;22109;Non vérifié;non
+40089;Doazit;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;41783;136;247;839;Non vérifié;non
+40090;Donzacq;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;12719;77;115;452;Non vérifié;non
+40091;Duhort-Bachen;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;34860;136;247;700;Non vérifié;non
+40092;Dumes;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;13197;136;247;265;Non vérifié;non
+40093;Escalans;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;2264;29;63;215;Non vérifié;non
+40094;Escource;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;8675;29;63;824;Non vérifié;non
+40095;Estibeaux;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;7359;29;63;699;Non vérifié;non
+40096;Estigarde;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;1053;29;63;100;Non vérifié;non
+40097;Eugénie-les-Bains;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;24801;136;247;498;Non vérifié;non
+40098;Eyres-Moncube;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;17181;136;247;345;Non vérifié;non
+40099;Fargues;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;15637;136;247;314;Non vérifié;non
+40100;Le Frêche;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;3864;29;63;367;Non vérifié;non
+40101;Gaas;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;4948;29;63;470;Non vérifié;non
+40102;Gabarret;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;13507;29;63;1283;Non vérifié;non
+40103;Gaillères;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;6875;29;63;653;Non vérifié;non
+40104;Gamarde-les-Bains;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;44545;77;115;1583;Non vérifié;non
+40105;Garein;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;4464;29;63;424;Non vérifié;non
+40106;Garrey;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;6050;77;115;215;Non vérifié;non
+40108;Gastes;40;eau potable : cc grands lacs;277994;2024;89,4;1,5;12,6;67,5;conforme;343923;9499;28;44;925;Non vérifié;non
+40109;Gaujacq;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;12297;77;115;437;Non vérifié;non
+40110;Geaune;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;38197;136;247;767;Non vérifié;non
+40111;Geloux;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;7570;29;63;719;Non vérifié;non
+40112;Gibret;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;2589;77;115;92;Non vérifié;non
+40113;Goos;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;14942;77;115;531;Non vérifié;non
+40114;Gourbera;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;3832;29;63;364;Non vérifié;non
+40115;Gousse;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;2895;29;63;275;Non vérifié;non
+40116;Gouts;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;2853;29;63;271;Non vérifié;non
+40117;Grenade-sur-l'Adour;40;eau potable;280514;2024;72,6;3,5;9,2;66,8;conforme;456068;141959;162;228;2398;Non vérifié;non
+40118;Habas;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;15676;29;63;1489;Non vérifié;non
+40119;Hagetmau;40;eau potable;78167;2024;79,5;2,4;9,2;66,8;conforme;97481;93985;56;95;4624;Non vérifié;non
+40120;Hastingues;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;6412;29;63;609;Non vérifié;non
+40121;Hauriet;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;13496;136;247;271;Non vérifié;non
+40122;Haut-Mauco;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;10538;29;63;1001;Non vérifié;non
+40123;Herm;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;12476;29;63;1185;Non vérifié;non
+40124;Herré;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;1505;29;63;143;Non vérifié;non
+40125;Heugas;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;14718;29;63;1398;Non vérifié;non
+40126;Hinx;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;53296;77;115;1894;Non vérifié;non
+40127;Hontanx;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;6401;29;63;608;Non vérifié;non
+40128;Horsarrieu;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;35707;136;247;717;Non vérifié;non
+40129;Josse;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;24032;65;106;1018;Non vérifié;non
+40130;Labastide-Chalosse;40;eau potable;78167;2024;79,5;2,4;9,2;66,8;conforme;97481;3496;56;95;172;Non vérifié;non
+40131;Labastide-d'Armagnac;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;7085;29;63;673;Non vérifié;non
+40132;Labatut;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;15055;29;63;1430;Non vérifié;non
+40133;Labenne;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;75622;29;63;7183;Non vérifié;non
+40134;Labouheyre;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;30594;29;63;2906;Non vérifié;non
+40135;Labrit;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;8865;29;63;842;Non vérifié;non
+40136;Lacajunte;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;7171;136;247;144;Non vérifié;non
+40137;Lacquy;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;3043;29;63;289;Non vérifié;non
+40138;Lacrabe;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;14293;136;247;287;Non vérifié;non
+40139;Laglorieuse;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;6590;29;63;626;Non vérifié;non
+40140;Lagrange;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;1948;29;63;185;Non vérifié;non
+40141;Lahosse;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;8104;77;115;288;Non vérifié;non
+40142;Laluque;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;11602;29;63;1102;Non vérifié;non
+40143;Lamothe;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;3243;29;63;308;Non vérifié;non
+40144;Larbey;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;6669;77;115;237;Non vérifié;non
+40145;Larrivière-Saint-Savin;40;eau potable;280514;2024;72,6;3,5;9,2;66,8;conforme;456068;34513;162;228;583;Non vérifié;non
+40146;Latrille;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;8367;136;247;168;Non vérifié;non
+40147;Laurède;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;3864;29;63;367;Non vérifié;non
+40148;Lauret;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;3785;136;247;76;Non vérifié;non
+40149;Lencouacq;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;3980;29;63;378;Non vérifié;non
+40150;Léon;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;24277;29;63;2306;Non vérifié;non
+40151;Lesgor;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;4495;29;63;427;Non vérifié;non
+40152;Lesperon;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;10981;29;63;1043;Non vérifié;non
+40153;Le Leuy;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;2369;29;63;225;Non vérifié;non
+40154;Lévignacq;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;3811;29;63;362;Non vérifié;non
+40155;Linxe;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;16339;29;63;1552;Non vérifié;non
+40156;Liposthey;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;6348;29;63;603;Non vérifié;non
+40157;Lit-et-Mixe;40;eau potable : Lit et Mixe;342674;2024;93,8;0,5;7,4;66,5;conforme;15733;15733;25;25;1719;Non vérifié;non
+40158;Losse;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;3011;29;63;286;Non vérifié;non
+40159;Louer;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;3527;29;63;335;Non vérifié;non
+40160;Lourquen;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;2032;29;63;193;Non vérifié;non
+40161;Lubbon;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;895;29;63;85;Non vérifié;non
+40162;Lucbardez-et-Bargues;40;eau potable;278054;2024;97,1;0,4;13,8;67,8;conforme;86753;1087;5;12;561;Non vérifié;non
+40163;Lüe;40;eau potable : cc grands lacs;277994;2024;89,4;1,5;12,6;67,5;conforme;343923;6377;28;44;621;Non vérifié;non
+40164;Retjons;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;3169;29;63;301;Non vérifié;non
+40165;Luglon;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;3927;29;63;373;Non vérifié;non
+40166;Lussagnet;40;eau potable;280514;2024;72,6;3,5;9,2;66,8;conforme;456068;4736;162;228;80;Non vérifié;non
+40167;Luxey;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;6885;29;63;654;Non vérifié;non
+40168;Magescq;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;28404;29;63;2698;Non vérifié;non
+40169;Maillas;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;1316;29;63;125;Non vérifié;non
+40170;Maillères;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;2421;29;63;230;Non vérifié;non
+40171;Mano;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;1569;29;63;149;Non vérifié;non
+40172;Mant;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;13347;136;247;268;Non vérifié;non
+40173;Marpaps;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;3630;77;115;129;Non vérifié;non
+40174;Mauries;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;4183;136;247;84;Non vérifié;non
+40175;Maurrin;40;eau potable;280514;2024;72,6;3,5;9,2;66,8;conforme;456068;27646;162;228;467;Non vérifié;non
+40176;Mauvezin-d'Armagnac;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;1105;29;63;105;Non vérifié;non
+40177;Maylis;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;14641;136;247;294;Non vérifié;non
+40178;Mazerolles;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;7527;29;63;715;Non vérifié;non
+40179;Mées;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;21435;29;63;2036;Non vérifié;non
+40180;Meilhan;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;13023;29;63;1237;Non vérifié;non
+40181;Messanges;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;25637;65;106;1086;Non vérifié;non
+40182;Mézos;40;eau potable;78228;2024;92,3;0,9;10,4;67,1;conforme;105721;6928;22;31;868;Non vérifié;non
+40183;Mimbaste;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;10538;29;63;1001;Non vérifié;non
+40184;Mimizan;40;eau potable;78228;2024;92,3;0,9;10,4;67,1;conforme;105721;61241;22;31;7673;Non vérifié;non
+40185;Miramont-Sensacq;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;17032;136;247;342;Non vérifié;non
+40186;Misson;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;8717;29;63;828;Non vérifié;non
+40187;Moliets-et-Maa;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;30666;65;106;1299;Non vérifié;non
+40188;Momuy;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;13704;77;115;487;Non vérifié;non
+40189;Monget;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;3835;136;247;77;Non vérifié;non
+40190;Monségur;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;19671;136;247;395;Non vérifié;non
+40191;Montaut;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;29582;136;247;594;Non vérifié;non
+40192;Mont-de-Marsan;40;eau potable;278054;2024;97,1;0,4;13,8;67,8;conforme;86753;61241;5;12;31592;Non vérifié;non
+40193;Montégut;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;832;29;63;79;Non vérifié;non
+40194;Montfort-en-Chalosse;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;34949;77;115;1242;Non vérifié;non
+40195;Montgaillard;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;29980;136;247;602;Non vérifié;non
+40196;Montsoué;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;28187;136;247;566;Non vérifié;non
+40197;Morcenx-la-Nouvelle;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;52871;29;63;5022;Non vérifié;non
+40198;Morganx;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;8217;136;247;165;Non vérifié;non
+40199;Mouscardès;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;2790;29;63;265;Non vérifié;non
+40200;Moustey;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;8401;29;63;798;Non vérifié;non
+40201;Mugron;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;14192;29;63;1348;Non vérifié;non
+40202;Narrosse;40;eau potable : Grand Dax;298874;2024;83,7;6,0;31,1;71,2;conforme;451140;34840;28;76;3387;Non vérifié;non
+40203;Nassiet;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;9286;77;115;330;Non vérifié;non
+40204;Nerbis;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;2811;29;63;267;Non vérifié;non
+40205;Nousse;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;7091;77;115;252;Non vérifié;non
+40206;Oeyregave;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;3379;29;63;321;Non vérifié;non
+40207;Oeyreluy;40;eau potable : Grand Dax;298874;2024;83,7;6,0;31,1;71,2;conforme;451140;15358;28;76;1493;Non vérifié;non
+40208;Onard;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;4011;29;63;381;Non vérifié;non
+40209;Ondres;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;68779;29;63;6533;Non vérifié;non
+40210;Onesse-Laharie;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;11360;29;63;1079;Non vérifié;non
+40211;Orist;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;19216;65;106;814;Non vérifié;non
+40212;Orthevielle;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;25330;65;106;1073;Non vérifié;non
+40213;Orx;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;15274;65;106;647;Non vérifié;non
+40214;Ossages;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;13845;77;115;492;Non vérifié;non
+40215;Ousse-Suzan;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;3127;29;63;297;Non vérifié;non
+40216;Ozourt;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;5740;77;115;204;Non vérifié;non
+40217;Parentis-en-Born;40;eau potable : cc grands lacs;277994;2024;89,4;1,5;12,6;67,5;conforme;343923;77904;28;44;7586;Non vérifié;non
+40218;Parleboscq;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;4748;29;63;451;Non vérifié;non
+40219;Payros-Cazautets;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;5229;136;247;105;Non vérifié;non
+40220;Pécorade;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;6623;136;247;133;Non vérifié;non
+40221;Perquie;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;3601;29;63;342;Non vérifié;non
+40222;Pey;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;19783;65;106;838;Non vérifié;non
+40223;Peyre;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;12002;136;247;241;Non vérifié;non
+40224;Peyrehorade;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;38953;29;63;3700;Non vérifié;non
+40225;Philondenx;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;9313;136;247;187;Non vérifié;non
+40226;Pimbo;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;9711;136;247;195;Non vérifié;non
+40227;Pissos;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;15845;29;63;1505;Non vérifié;non
+40228;Pomarez;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;46205;77;115;1642;Non vérifié;non
+40229;Pontenx-les-Forges;40;eau potable;78228;2024;92,3;0,9;10,4;67,1;conforme;105721;14167;22;31;1775;Non vérifié;non
+40230;Pontonx-sur-l'Adour;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;31805;29;63;3021;Non vérifié;non
+40231;Port-de-Lanne;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;29084;65;106;1232;Non vérifié;non
+40232;Poudenx;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;10906;136;247;219;Non vérifié;non
+40233;Pouillon;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;32995;29;63;3134;Non vérifié;non
+40234;Pouydesseaux;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;9149;29;63;869;Non vérifié;non
+40235;Poyanne;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;7296;29;63;693;Non vérifié;non
+40236;Poyartin;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;21836;77;115;776;Non vérifié;non
+40237;Préchacq-les-Bains;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;8507;29;63;808;Non vérifié;non
+40238;Pujo-le-Plan;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;6748;29;63;641;Non vérifié;non
+40239;Puyol-Cazalet;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;5229;136;247;105;Non vérifié;non
+40240;Renung;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;24054;136;247;483;Non vérifié;non
+40242;Rimbez-et-Baudiets;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;1095;29;63;104;Non vérifié;non
+40243;Rion-des-Landes;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;33079;29;63;3142;Non vérifié;non
+40244;Rivière-Saas-et-Gourby;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;34844;65;106;1476;Non vérifié;non
+40245;Roquefort;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;20951;29;63;1990;Non vérifié;non
+40246;Sabres;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;12770;29;63;1213;Non vérifié;non
+40247;Saint-Agnet;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;8914;136;247;179;Non vérifié;non
+40248;Saint-André-de-Seignanx;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;45916;65;106;1945;Non vérifié;non
+40249;Saint-Aubin;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;24801;136;247;498;Non vérifié;non
+40250;Saint-Avit;40;eau potable;278054;2024;97,1;0,4;13,8;67,8;conforme;86753;1326;5;12;684;Non vérifié;non
+40251;Saint-Barthélemy;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;9726;65;106;412;Non vérifié;non
+40252;Sainte-Colombe;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;31524;136;247;633;Non vérifié;non
+40253;Saint-Cricq-Chalosse;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;17278;77;115;614;Non vérifié;non
+40254;Saint-Cricq-du-Gave;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;4685;29;63;445;Non vérifié;non
+40255;Saint-Cricq-Villeneuve;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;4969;29;63;472;Non vérifié;non
+40256;Saint-Étienne-d'Orthe;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;17469;65;106;740;Non vérifié;non
+40257;Sainte-Eulalie-en-Born;40;eau potable : cc grands lacs;277994;2024;89,4;1,5;12,6;67,5;conforme;343923;14819;28;44;1443;Non vérifié;non
+40258;Sainte-Foy;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;2643;29;63;251;Non vérifié;non
+40259;Saint-Gein;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;4306;29;63;409;Non vérifié;non
+40260;Saint-Geours-d'Auribat;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;4306;29;63;409;Non vérifié;non
+40261;Saint-Geours-de-Maremne;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;72922;65;106;3089;Non vérifié;non
+40262;Saint-Gor;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;3243;29;63;308;Non vérifié;non
+40263;Saint-Jean-de-Lier;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;4264;29;63;405;Non vérifié;non
+40264;Saint-Jean-de-Marsacq;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;43437;65;106;1840;Non vérifié;non
+40265;Saint-Julien-d'Armagnac;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;1137;29;63;108;Non vérifié;non
+40266;Saint-Julien-en-Born;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;18750;29;63;1781;Non vérifié;non
+40267;Saint-Justin;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;10612;29;63;1008;Non vérifié;non
+40268;Saint-Laurent-de-Gosse;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;17587;65;106;745;Non vérifié;non
+40269;Saint-Lon-les-Mines;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;29414;65;106;1246;Non vérifié;non
+40270;Saint-Loubouer;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;22012;136;247;442;Non vérifié;non
+40271;Sainte-Marie-de-Gosse;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;29296;65;106;1241;Non vérifié;non
+40272;Saint-Martin-de-Hinx;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;42682;65;106;1808;Non vérifié;non
+40273;Saint-Martin-de-Seignanx;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;65673;29;63;6238;Non vérifié;non
+40274;Saint-Martin-d'Oney;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;14392;29;63;1367;Non vérifié;non
+40275;Saint-Maurice-sur-Adour;40;eau potable;280514;2024;72,6;3,5;9,2;66,8;conforme;456068;36999;162;228;625;Non vérifié;non
+40276;Saint-Michel-Escalus;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;3495;29;63;332;Non vérifié;non
+40277;Saint-Pandelon;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;7885;29;63;749;Non vérifié;non
+40278;Saint-Paul-en-Born;40;eau potable;78228;2024;92,3;0,9;10,4;67,1;conforme;105721;7782;22;31;975;Non vérifié;non
+40279;Saint-Paul-lès-Dax;40;eau potable : Grand Dax;298874;2024;83,7;6,0;31,1;71,2;conforme;451140;148957;28;76;14481;Non vérifié;non
+40281;Saint-Pierre-du-Mont;40;eau potable;278054;2024;97,1;0,4;13,8;67,8;conforme;86753;19563;5;12;10092;Non vérifié;non
+40282;Saint-Sever;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;251145;136;247;5043;Non vérifié;non
+40283;Saint-Vincent-de-Paul;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;35816;29;63;3402;Non vérifié;non
+40284;Saint-Vincent-de-Tyrosse;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;189187;65;106;8014;Non vérifié;non
+40285;Saint-Yaguen;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;6580;29;63;625;Non vérifié;non
+40286;Samadet;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;55926;136;247;1123;Non vérifié;non
+40287;Sanguinet;40;eau potable : cc grands lacs;277994;2024;89,4;1,5;12,6;67,5;conforme;343923;48687;28;44;4741;Non vérifié;non
+40288;Sarbazan;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;12286;29;63;1167;Non vérifié;non
+40289;Sarraziet;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;11703;136;247;235;Non vérifié;non
+40290;Sarron;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;5179;136;247;104;Non vérifié;non
+40291;Saubion;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;43107;65;106;1826;Non vérifié;non
+40292;Saubrigues;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;39164;65;106;1659;Non vérifié;non
+40293;Saubusse;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;25803;65;106;1093;Non vérifié;non
+40294;Saugnac-et-Cambran;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;16424;29;63;1560;Non vérifié;non
+40295;Saugnac-et-Muret;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;14550;29;63;1382;Non vérifié;non
+40296;Seignosse;40;eau potable : Seignosse;342654;2024;87,0;2,3;15,6;68,1;conforme;90414;90414;61;57;4056;Non vérifié;non
+40297;Le Sen;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;2264;29;63;215;Non vérifié;non
+40298;Serres-Gaston;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;20169;136;247;405;Non vérifié;non
+40299;Serreslous-et-Arribans;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;9761;136;247;196;Non vérifié;non
+40300;Seyresse;40;eau potable : Grand Dax;298874;2024;83,7;6,0;31,1;71,2;conforme;451140;10585;28;76;1029;Non vérifié;non
+40301;Siest;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;3187;65;106;135;Non vérifié;non
+40303;Solférino;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;3937;29;63;374;Non vérifié;non
+40304;Soorts-Hossegor;40;eau potable : Soorts Hossegor;92266;2024;84,0;3,3;17,3;68,5;conforme;112259;112259;81;71;3817;Non vérifié;non
+40305;Sorbets;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;9861;136;247;198;Non vérifié;non
+40306;Sorde-l'Abbaye;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;6791;29;63;645;Non vérifié;non
+40307;Sore;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;12412;29;63;1179;Non vérifié;non
+40308;Sort-en-Chalosse;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;24903;77;115;885;Non vérifié;non
+40309;Souprosse;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;12465;29;63;1184;Non vérifié;non
+40310;Soustons;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;205405;65;106;8701;Non vérifié;non
+40311;Taller;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;7296;29;63;693;Non vérifié;non
+40312;Tarnos;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;136410;29;63;12957;Non vérifié;non
+40313;Tartas;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;33363;29;63;3169;Non vérifié;non
+40314;Tercis-les-Bains;40;eau potable : Grand Dax;298874;2024;83,7;6,0;31,1;71,2;conforme;451140;13979;28;76;1359;Non vérifié;non
+40315;Téthieu;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;7980;29;63;758;Non vérifié;non
+40316;Tilh;40;eau potable;78251;2024;77,9;2,0;7,0;66,4;conforme;606294;23412;77;115;832;Non vérifié;non
+40317;Tosse;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;83947;65;106;3556;Non vérifié;non
+40318;Toulouzette;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;15388;136;247;309;Non vérifié;non
+40319;Trensacq;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;2990;29;63;284;Non vérifié;non
+40320;Uchacq-et-Parentis;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;6590;29;63;626;Non vérifié;non
+40321;Urgons;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;12151;136;247;244;Non vérifié;non
+40322;Uza;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;1895;29;63;180;Non vérifié;non
+40323;Vert;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;2474;29;63;235;Non vérifié;non
+40324;Vicq-d'Auribat;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;2558;29;63;243;Non vérifié;non
+40325;Vielle-Tursan;40;eau potable;258634;2024;77,0;2,6;8,7;66,7;conforme;1254578;14094;136;247;283;Non vérifié;non
+40326;Vielle-Saint-Girons;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;15981;29;63;1518;Non vérifié;non
+40327;Vielle-Soubiran;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;2379;29;63;226;Non vérifié;non
+40328;Vieux-Boucau-les-Bains;40;eau potable;92269;2024;77,7;2,8;9,7;66,9;conforme;1238664;39778;65;106;1685;Non vérifié;non
+40329;Le Vignau;40;eau potable;280514;2024;72,6;3,5;9,2;66,8;conforme;456068;30902;162;228;522;Non vérifié;non
+40330;Villenave;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;3285;29;63;312;Non vérifié;non
+40331;Villeneuve-de-Marsan;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;26404;29;63;2508;Non vérifié;non
+40332;Ychoux;40;eau potable : cc grands lacs;277994;2024;89,4;1,5;12,6;67,5;conforme;343923;24010;28;44;2338;Non vérifié;non
+40333;Ygos-Saint-Saturnin;40;eau potable;78226;2024;69,8;1,2;2,8;65,6;conforme;29232;29232;60;156;1334;Non vérifié;non
+40334;Yzosse;40;eau potable : Régie;78271;2024;87,5;0,9;6,5;66,3;conforme;2038911;4064;29;63;386;Non vérifié;non

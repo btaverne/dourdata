@@ -7,318 +7,318 @@
 # Méthodologie et code : https://github.com/btaverne/dourdata
 # Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
 # Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
-Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
-81001;Aguts;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;1498;17;46;238;Non vérifié
-81002;Aiguefonde;81;eau potable : AEP;287134;2024;71,1;4,2;10,3;67,1;conforme;446594;52817;58;149;2505;Non vérifié
-81003;Alban;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;9731;28;151;964;Non vérifié
-81004;Albi;81;eau potable;287354;2024;79,8;4,8;18,8;68,8;conforme;880380;694987;37;93;51290;Non vérifié
-81005;Albine;81;eau potable;140052;2024;67,9;3,2;6,8;66,4;conforme;14950;14950;80;208;512;Non vérifié
-81006;Algans;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;1403;17;46;223;Non vérifié
-81007;Alos;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;1048;31;129;93;Non vérifié
-81008;Almayrac;81;eau potable : Régie eau potable du Pôle des eaux du Carmausin Ségala;304074;2024;81,3;1,2;5,2;66,0;conforme;348648;3781;35;88;293;Non vérifié
-81009;Amarens;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;687;31;129;61;Non vérifié
-81010;Ambialet;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;4754;28;151;471;Non vérifié
-81011;Ambres;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;6500;17;46;1033;Non vérifié
-81012;Andillac;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;1431;31;129;127;Non vérifié
-81013;Andouque;81;eau potable : Eau potable;281854;2024;84,2;0,5;2,6;65,5;conforme;108962;5648;40;72;383;Non vérifié
-81014;Anglès;81;eau potable;140053;2024;56,9;1,4;1,9;65,4;non conforme;14328;14328;76;274;515;Non vérifié
-81015;Appelle;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;415;17;46;66;Non vérifié
-81016;Arfons;81;eau potable;140054;2023;90,0;;;;non calculable;;;;;188;Sans anomalie apparente
-81017;Arifat;81;eau potable;287874;2024;83,0;0,4;3,2;65,6;conforme;15768;916;20;45;128;Non vérifié
-81018;Arthès;81;eau potable;287354;2024;79,8;4,8;18,8;68,8;conforme;880380;34255;37;93;2528;Non vérifié
-81019;Assac;81;eau potable : Eau potable;281854;2024;84,2;0,5;2,6;65,5;conforme;108962;2227;40;72;151;Non vérifié
-81020;Aussac;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;2574;28;151;255;Non vérifié
-81021;Aussillon;81;eau potable : AEP;287134;2024;71,1;4,2;10,3;67,1;conforme;446594;116535;58;149;5527;Non vérifié
-81022;Bannières;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;1321;17;46;210;Non vérifié
-81023;Barre;81;eau potable;140057;2024;56,2;3,1;3,9;65,8;non conforme;8792;8792;119;289;203;Non vérifié
-81024;Beauvais-sur-Tescou;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;4271;31;129;379;Non vérifié
-81025;Belcastel;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;1359;17;46;216;Non vérifié
-81026;Bellegarde-Marsal;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;6965;28;151;690;Non vérifié
-81027;Belleserre;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;1076;17;46;171;Non vérifié
-81028;Berlats;81;eau potable;140058;2024;75,0;10,0;;;non calculable;45625;45625;1050;1412;119;Non vérifié
-81029;Bernac;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;2096;31;129;186;Non vérifié
-81030;Bertre;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;705;17;46;112;Non vérifié
-81031;Le Bez;81;eau potable;140059;2024;86,8;0,4;2,8;65,6;conforme;7373;7373;22;55;907;Non vérifié
-81032;Blan;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;6878;17;46;1093;Non vérifié
-81033;Blaye-les-Mines;81;eau potable : Régie eau potable du Pôle des eaux du Carmausin Ségala;304074;2024;81,3;1,2;5,2;66,0;conforme;348648;37445;35;88;2902;Non vérifié
-81034;Boissezon;81;eau potable;298354;2024;74,1;2,3;6,7;66,3;conforme;327548;7394;51;138;398;Non vérifié
-81035;Bournazel;81;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;2918;36;98;223;Non vérifié
-81036;Bout-du-Pont-de-Larn;81;eau potable : AEP;287134;2024;71,1;4,2;10,3;67,1;conforme;446594;25829;58;149;1225;Non vérifié
-81037;Brassac;81;eau potable;140062;2024;78,3;2,6;9,3;66,9;conforme;17594;17594;37;102;1289;Non vérifié
-81038;Brens;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;27305;31;129;2423;Non vérifié
-81039;Briatexte;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;19563;28;151;1938;Non vérifié
-81040;Brousse;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;4421;28;151;438;Non vérifié
-81041;Broze;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;1206;31;129;107;Non vérifié
-81042;Burlats;81;eau potable : AEP Burlats;140063;2024;71,6;1,5;3,8;65,8;conforme;34624;34624;47;144;1998;Non vérifié
-81043;Busque;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;8057;31;129;715;Non vérifié
-81044;Cabanès;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;3099;28;151;307;Non vérifié
-81045;Les Cabannes;81;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;4959;36;98;379;Non vérifié
-81046;Cadalen;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;17433;31;129;1547;Non vérifié
-81047;Cadix;81;eau potable : Eau potable;281854;2024;84,2;0,5;2,6;65,5;conforme;108962;3244;40;72;220;Non vérifié
-81048;Cagnac-les-Mines;81;eau potable : Régie eau potable du Pôle des eaux du Carmausin Ségala;304074;2024;81,3;1,2;5,2;66,0;conforme;348648;33820;35;88;2621;Non vérifié
-81049;Cahuzac;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;2240;17;46;356;Non vérifié
-81050;Cambon-lès-Lavaur;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;2278;17;46;362;Non vérifié
-81051;Cahuzac-sur-Vère;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;13962;31;129;1239;Non vérifié
-81052;Cambon;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;21471;28;151;2127;Non vérifié
-81053;Cambounès;81;eau potable;140065;2024;61,5;1,2;1,8;65,4;non conforme;10950;10950;88;237;339;Non vérifié
-81054;Cambounet-sur-le-Sor;81;eau potable;140138;2024;82,4;1,1;5,0;66,0;conforme;204765;11106;31;80;978;Non vérifié
-81055;Les Cammazes;81;eau potable;140066;2024;89,7;0,7;5,8;66,2;conforme;3079;3079;21;44;398;Non vérifié
-81056;Campagnac;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;1769;31;129;157;Non vérifié
-81058;Carbes;81;eau potable;140140;2024;88,6;0,4;2,9;65,6;conforme;56210;1593;18;50;247;Non vérifié
-81059;Carlus;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;6703;28;151;664;Non vérifié
-81060;Carmaux;81;eau potable : Régie eau potable du Pôle des eaux du Carmausin Ségala;304074;2024;81,3;1,2;5,2;66,0;conforme;348648;127382;35;88;9872;Non vérifié
-81061;Castanet;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;2366;31;129;210;Non vérifié
-81062;Fontrieu;81;eau potable;317514;2024;57,8;0,9;1,3;65,3;non conforme;54531;54531;154;273;968;Non vérifié
-81063;Castelnau-de-Lévis;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;18064;31;129;1603;Non vérifié
-81064;Castelnau-de-Montmiral;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;11968;31;129;1062;Non vérifié
-81065;Castres;81;eau potable : AEP Castres;288134;2024;84,0;3,0;15,7;68,1;conforme;478033;478033;31;73;42505;Non vérifié
-81066;Caucalières;81;eau potable : AEP;287134;2024;71,1;4,2;10,3;67,1;conforme;446594;6030;58;149;286;Non vérifié
-81067;Cestayrols;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;5127;31;129;455;Non vérifié
-81068;Combefa;81;eau potable : Régie eau potable du Pôle des eaux du Carmausin Ségala;304074;2024;81,3;1,2;5,2;66,0;conforme;348648;2658;35;88;206;Non vérifié
-81069;Cordes-sur-Ciel;81;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;11502;36;98;879;Non vérifié
-81070;Coufouleux;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;34449;31;129;3057;Non vérifié
-81071;Courris;81;eau potable : Eau potable;281854;2024;84,2;0,5;2,6;65,5;conforme;108962;1180;40;72;80;Non vérifié
-81072;Crespin;81;eau potable : Eau potable;281854;2024;84,2;0,5;2,6;65,5;conforme;108962;1460;40;72;99;Non vérifié
-81073;Crespinet;81;eau potable : Eau potable;281854;2024;84,2;0,5;2,6;65,5;conforme;108962;2684;40;72;182;Non vérifié
-81074;Cunac;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;16413;28;151;1626;Non vérifié
-81075;Cuq;81;eau potable;140140;2024;88,6;0,4;2,9;65,6;conforme;56210;3108;18;50;482;Non vérifié
-81076;Cuq-Toulza;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;4417;17;46;702;Non vérifié
-81077;Curvalle;81;eau potable : Eau potable;281854;2024;84,2;0,5;2,6;65,5;conforme;108962;5869;40;72;398;Non vérifié
-81078;Damiatte;81;eau potable;140140;2024;88,6;0,4;2,9;65,6;conforme;56210;6849;18;50;1062;Non vérifié
-81079;Dénat;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;8722;28;151;864;Non vérifié
-81080;Donnazac;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;631;31;129;56;Non vérifié
-81081;Dourgne;81;eau potable;140138;2024;82,4;1,1;5,0;66,0;conforme;204765;14911;31;80;1313;Non vérifié
-81082;Le Dourn;81;eau potable : Eau potable;281854;2024;84,2;0,5;2,6;65,5;conforme;108962;1711;40;72;116;Non vérifié
-81083;Durfort;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;1623;17;46;258;Non vérifié
-81084;Escoussens;81;eau potable;140138;2024;82,4;1,1;5,0;66,0;conforme;204765;6973;31;80;614;Non vérifié
-81085;Lacapelle-Escroux;81;eau potable;140071;2024;53,4;0,9;1,0;65,2;non conforme;1971;1971;112;320;48;Non vérifié
-81086;Espérausses;81;eau potable;140072;2024;71,0;1,0;2,5;65,5;conforme;6570;6570;123;156;146;Non vérifié
-81087;Fayssac;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;3989;31;129;354;Non vérifié
-81088;Fauch;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;6248;28;151;619;Non vérifié
-81089;Faussergues;81;eau potable : Eau potable;281854;2024;84,2;0,5;2,6;65,5;conforme;108962;2109;40;72;143;Non vérifié
-81090;Fénols;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;2463;28;151;244;Non vérifié
-81092;Fiac;81;eau potable;140140;2024;88,6;0,4;2,9;65,6;conforme;56210;5998;18;50;930;Non vérifié
-81093;Florentin;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;7692;28;151;762;Non vérifié
-81094;Fraissines;81;eau potable : Eau potable;281854;2024;84,2;0,5;2,6;65,5;conforme;108962;1327;40;72;90;Non vérifié
-81095;Frausseilles;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;845;31;129;75;Non vérifié
-81096;Le Fraysse;81;eau potable;140074;2024;88,8;1,1;9,1;66,8;conforme;18031;18031;117;152;421;Non vérifié
-81097;Fréjairolles;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;13637;28;151;1351;Non vérifié
-81098;Fréjeville;81;eau potable;140140;2024;88,6;0,4;2,9;65,6;conforme;56210;4592;18;50;712;Non vérifié
-81099;Gaillac;81;eau potable : AEP DSP Gaillac;288294;2024;80,5;2,5;10,2;67,0;conforme;180000;180000;31;89;16162;Non vérifié
-81100;Garrevaques;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;2504;17;46;398;Non vérifié
-81101;Le Garric;81;eau potable : Régie eau potable du Pôle des eaux du Carmausin Ségala;304074;2024;81,3;1,2;5,2;66,0;conforme;348648;16800;35;88;1302;Non vérifié
-81102;Garrigues;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;2095;17;46;333;Non vérifié
-81103;Gijounet;81;eau potable;140076;2024;66,7;1,0;2,0;65,4;conforme;8030;8030;191;183;115;Non vérifié
-81104;Giroussens;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;17704;31;129;1571;Non vérifié
-81105;Graulhet;81;eau potable : AEP RCEAC;288314;2024;70,5;5,3;12,8;67,6;conforme;193450;193450;40;152;13129;Non vérifié
-81106;Grazac;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;7325;31;129;650;Non vérifié
-81108;Itzac;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;2006;31;129;178;Non vérifié
-81109;Jonquières;81;eau potable;140140;2024;88,6;0,4;2,9;65,6;conforme;56210;2831;18;50;439;Non vérifié
-81110;Jouqueviel;81;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;1309;36;98;100;Non vérifié
-81111;Labarthe-Bleys;81;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;968;36;98;74;Non vérifié
-81112;Labastide-de-Lévis;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;10942;31;129;971;Non vérifié
-81114;Labastide-Gabausse;81;eau potable : Régie eau potable du Pôle des eaux du Carmausin Ségala;304074;2024;81,3;1,2;5,2;66,0;conforme;348648;7058;35;88;547;Non vérifié
-81115;Labastide-Rouairoux;81;eau potable;140078;2024;69,2;5,5;12,3;67,5;conforme;32120;32120;62;163;1420;Non vérifié
-81116;Labastide-Saint-Georges;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;12597;17;46;2002;Non vérifié
-81117;Labessière-Candeil;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;8001;31;129;710;Non vérifié
-81118;Laboulbène;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;1736;28;151;172;Non vérifié
-81119;Laboutarie;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;5259;28;151;521;Non vérifié
-81120;Labruguière;81;eau potable;298354;2024;74,1;2,3;6,7;66,3;conforme;327548;122310;51;138;6584;Non vérifié
-81121;Lacabarède;81;eau potable;140133;2024;84,7;1,0;5,5;66,1;conforme;5522;1839;17;66;288;Non vérifié
-81122;Lacapelle-Pinet;81;eau potable : Eau potable;281854;2024;84,2;0,5;2,6;65,5;conforme;108962;988;40;72;67;Non vérifié
-81123;Lacapelle-Ségalar;81;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;1165;36;98;89;Non vérifié
-81124;Lacaune;81;eau potable;140081;2024;47,1;10,0;8,9;66,8;non conforme;237250;237250;264;411;2464;Non vérifié
-81125;Lacaze;81;eau potable;140148;2024;59,5;1,6;2,3;65,5;non conforme;95776;25855;223;394;318;Non vérifié
-81126;Lacougotte-Cadoul;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;1089;17;46;173;Non vérifié
-81127;Lacroisille;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;617;17;46;98;Non vérifié
-81128;Lacrouzette;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;15545;28;151;1540;Non vérifié
-81129;Lagardiolle;81;eau potable;140138;2024;82,4;1,1;5,0;66,0;conforme;204765;2703;31;80;238;Non vérifié
-81130;Lagarrigue;81;eau potable;298354;2024;74,1;2,3;6,7;66,3;conforme;327548;33141;51;138;1784;Non vérifié
-81131;Lagrave;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;25975;31;129;2305;Non vérifié
-81132;Guitalens-L'Albarède;81;eau potable;140140;2024;88,6;0,4;2,9;65,6;conforme;56210;5617;18;50;871;Non vérifié
-81133;Lamillarié;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;5219;28;151;517;Non vérifié
-81134;Lamontélarié;81;eau potable;140083;2020;61,8;1,1;1,7;65,3;non conforme;2851;2851;135;234;58;Sans anomalie apparente
-81135;Laparrouquial;81;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;1191;36;98;91;Non vérifié
-81136;Larroque;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;1882;31;129;167;Non vérifié
-81137;Lasfaillades;81;eau potable;140084;2024;97,8;0,1;3,7;65,7;conforme;87;87;3;12;84;Non vérifié
-81138;Lasgraisses;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;6299;31;129;559;Non vérifié
-81139;Lautrec;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;16888;28;151;1673;Non vérifié
-81140;Lavaur;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;68996;17;46;10965;Non vérifié
-81141;Lédas-et-Penthiès;81;eau potable : Eau potable;281854;2024;84,2;0,5;2,6;65,5;conforme;108962;2404;40;72;163;Non vérifié
-81142;Lempaut;81;eau potable;140138;2024;82,4;1,1;5,0;66,0;conforme;204765;9971;31;80;878;Non vérifié
-81143;Lescout;81;eau potable;140138;2024;82,4;1,1;5,0;66,0;conforme;204765;8676;31;80;764;Non vérifié
-81144;Lescure-d'Albigeois;81;eau potable;287354;2024;79,8;4,8;18,8;68,8;conforme;880380;62195;37;93;4590;Non vérifié
-81145;Lisle-sur-Tarn;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;55657;31;129;4939;Non vérifié
-81146;Livers-Cazelles;81;eau potable;308054;2024;76,0;0,9;2,8;65,6;conforme;26234;4550;52;124;239;Non vérifié
-81147;Lombers;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;10902;28;151;1080;Non vérifié
-81148;Loubers;81;eau potable;140088;2024;82,0;0,6;2,6;65,5;conforme;920;920;27;85;95;Non vérifié
-81149;Loupiac;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;5015;31;129;445;Non vérifié
-81150;Lugan;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;2637;17;46;419;Non vérifié
-81151;Magrin;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;881;17;46;140;Non vérifié
-81152;Mailhoc;81;eau potable;308054;2024;76,0;0,9;2,8;65,6;conforme;26234;5787;52;124;304;Non vérifié
-81154;Marnaves;81;eau potable;140090;2024;84,5;0,4;2,3;65,5;conforme;1460;1460;53;72;76;Non vérifié
-81156;Marssac-sur-Tarn;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;39644;31;129;3518;Non vérifié
-81157;Marzens;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;1957;17;46;311;Non vérifié
-81158;Le Masnau-Massuguiès;81;eau potable;140148;2024;59,5;1,6;2,3;65,5;non conforme;95776;20163;223;394;248;Non vérifié
-81159;Massac-Séran;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;3291;17;46;523;Non vérifié
-81160;Massaguel;81;eau potable;140138;2024;82,4;1,1;5,0;66,0;conforme;204765;3941;31;80;347;Non vérifié
-81161;Massals;81;eau potable;140092;2024;78,0;0,6;2,1;65,4;conforme;3504;3504;85;107;113;Non vérifié
-81162;Maurens-Scopont;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;849;17;46;135;Non vérifié
-81163;Mazamet;81;eau potable : AEP;287134;2024;71,1;4,2;10,3;67,1;conforme;446594;212638;58;149;10085;Non vérifié
-81164;Mézens;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;6040;31;129;536;Non vérifié
-81165;Milhars;81;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;2957;36;98;226;Non vérifié
-81166;Milhavet;81;eau potable;308054;2024;76,0;0,9;2,8;65,6;conforme;26234;1942;52;124;102;Non vérifié
-81167;Miolles;81;eau potable;140094;2024;86,7;0,1;0,5;65,1;conforme;788;788;20;73;108;Non vérifié
-81168;Mirandol-Bourgnounac;81;eau potable : Régie eau potable du Pôle des eaux du Carmausin Ségala;304074;2024;81,3;1,2;5,2;66,0;conforme;348648;13665;35;88;1059;Non vérifié
-81169;Missècle;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;939;28;151;93;Non vérifié
-81170;Monestiés;81;eau potable : Régie eau potable du Pôle des eaux du Carmausin Ségala;304074;2024;81,3;1,2;5,2;66,0;conforme;348648;17819;35;88;1381;Non vérifié
-81171;Montans;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;17557;31;129;1558;Non vérifié
-81172;Montauriol;81;eau potable : Eau potable;281854;2024;84,2;0,5;2,6;65,5;conforme;108962;811;40;72;55;Non vérifié
-81173;Montcabrier;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;1913;17;46;304;Non vérifié
-81174;Montdragon;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;6198;28;151;614;Non vérifié
-81175;Montdurausse;81;eau potable;155959;2024;77,5;1,0;3,5;65,7;conforme;120600;5451;38;104;396;Non vérifié
-81176;Montels;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;1240;31;129;110;Non vérifié
-81177;Montfa;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;4684;28;151;464;Non vérifié
-81178;Montgaillard;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;4079;31;129;362;Non vérifié
-81179;Montgey;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;1712;17;46;272;Non vérifié
-81180;Montirat;81;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;3442;36;98;263;Non vérifié
-81181;Montpinier;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;1837;28;151;182;Non vérifié
-81182;Montredon-Labessonnié;81;eau potable;287874;2024;83,0;0,4;3,2;65,6;conforme;15768;14852;20;45;2076;Non vérifié
-81183;Mont-Roc;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;1999;28;151;198;Non vérifié
-81184;Montrosier;81;eau potable : siaep saint antonin;155973;2024;66,1;1,3;2,5;65,5;conforme;119531;1278;106;187;33;Non vérifié
-81185;Montvalen;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;2738;31;129;243;Non vérifié
-81186;Moularès;81;eau potable : Régie eau potable du Pôle des eaux du Carmausin Ségala;304074;2024;81,3;1,2;5,2;66,0;conforme;348648;3316;35;88;257;Non vérifié
-81187;Moulayrès;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;2190;28;151;217;Non vérifié
-81188;Moulin-Mage;81;eau potable;140099;2024;82,0;0,6;3,0;65,6;conforme;6351;6351;59;101;295;Non vérifié
-81189;Mouzens;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;698;17;46;111;Non vérifié
-81190;Mouzieys-Teulet;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;4714;28;151;467;Non vérifié
-81191;Mouzieys-Panens;81;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;3350;36;98;256;Non vérifié
-81192;Murat-sur-Vèbre;81;eau potable;140100;2024;63,4;1,9;3,3;65,7;non conforme;24487;24487;81;210;831;Non vérifié
-81193;Nages;81;eau potable;140101;2024;69,3;1,2;2,7;65,5;conforme;21900;21900;170;166;352;Non vérifié
-81195;Navès;81;eau potable;140142;2024;87,1;1,5;9,8;67,0;conforme;45990;2879;11;56;690;Non vérifié
-81196;Noailhac;81;eau potable;298354;2024;74,1;2,3;6,7;66,3;conforme;327548;15382;51;138;828;Non vérifié
-81197;Noailles;81;eau potable;308054;2024;76,0;0,9;2,8;65,6;conforme;26234;3903;52;124;205;Non vérifié
-81198;Orban;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;3543;28;151;351;Non vérifié
-81199;Padiès;81;eau potable : Eau potable;281854;2024;84,2;0,5;2,6;65,5;conforme;108962;2227;40;72;151;Non vérifié
-81200;Palleville;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;2838;17;46;451;Non vérifié
-81201;Pampelonne;81;eau potable : Régie eau potable du Pôle des eaux du Carmausin Ségala;304074;2024;81,3;1,2;5,2;66,0;conforme;348648;12426;35;88;963;Non vérifié
-81202;Parisot;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;11641;31;129;1033;Non vérifié
-81203;Paulinet;81;eau potable;140102;2024;86,2;0,4;2,3;65,5;conforme;12264;12264;67;64;498;Non vérifié
-81204;Payrin-Augmontel;81;eau potable;298354;2024;74,1;2,3;6,7;66,3;conforme;327548;40832;51;138;2198;Non vérifié
-81205;Péchaudier;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;1152;17;46;183;Non vérifié
-81206;Penne;81;eau potable;140103;2024;73,3;0,8;2,3;65,5;conforme;32996;32996;150;217;602;Non vérifié
-81207;Peyregoux;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;868;28;151;86;Non vérifié
-81208;Peyrole;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;6142;31;129;545;Non vérifié
-81209;Pont-de-Larn;81;eau potable;298354;2024;74,1;2,3;6,7;66,3;conforme;327548;54746;51;138;2947;Non vérifié
-81210;Poudis;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;1712;17;46;272;Non vérifié
-81211;Poulan-Pouzols;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;4825;28;151;478;Non vérifié
-81212;Prades;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;774;17;46;123;Non vérifié
-81213;Pratviel;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;573;17;46;91;Non vérifié
-81214;Puéchoursi;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;717;17;46;114;Non vérifié
-81215;Puybegon;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;7449;31;129;661;Non vérifié
-81216;Puycalvel;81;eau potable;140140;2024;88,6;0,4;2,9;65,6;conforme;56210;1399;18;50;217;Non vérifié
-81217;Puycelsi;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;5139;31;129;456;Non vérifié
-81218;Puygouzon;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;35815;28;151;3548;Non vérifié
-81219;Puylaurens;81;eau potable;140138;2024;82,4;1,1;5,0;66,0;conforme;204765;36987;31;80;3257;Non vérifié
-81220;Rabastens;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;66115;31;129;5867;Non vérifié
-81221;Rayssac;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;2362;28;151;234;Non vérifié
-81222;Réalmont;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;35946;28;151;3561;Non vérifié
-81223;Le Rialet;81;eau potable;140106;2024;94,0;0,2;3,1;65,6;conforme;256;256;11;26;63;Non vérifié
-81224;Le Riols;81;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;1282;36;98;98;Non vérifié
-81225;Rivières;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;11956;31;129;1061;Non vérifié
-81227;Roquecourbe;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;21925;28;151;2172;Non vérifié
-81228;Roquemaure;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;5240;31;129;465;Non vérifié
-81229;Roquevidal;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;887;17;46;141;Non vérifié
-81230;Rosières;81;eau potable : Régie eau potable du Pôle des eaux du Carmausin Ségala;304074;2024;81,3;1,2;5,2;66,0;conforme;348648;9239;35;88;716;Non vérifié
-81231;Rouairoux;81;eau potable;140133;2024;84,7;1,0;5,5;66,1;conforme;5522;2484;17;66;389;Non vérifié
-81232;Rouffiac;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;6450;28;151;639;Non vérifié
-81233;Terre-de-Bancalié;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;17413;28;151;1725;Non vérifié
-81234;Roussayrolles;81;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;1060;36;98;81;Non vérifié
-81235;Saint-Affrique-les-Montagnes;81;eau potable;140138;2024;82,4;1,1;5,0;66,0;conforme;204765;8494;31;80;748;Non vérifié
-81236;Saint-Agnan;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;1913;17;46;304;Non vérifié
-81237;Saint-Amancet;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;1070;17;46;170;Non vérifié
-81238;Saint-Amans-Soult;81;eau potable : AEP;287134;2024;71,1;4,2;10,3;67,1;conforme;446594;32744;58;149;1553;Non vérifié
-81239;Saint-Amans-Valtoret;81;eau potable;140112;2024;76,7;1,3;4,2;65,8;conforme;12256;12256;39;113;862;Non vérifié
-81240;Saint-André;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;1030;28;151;102;Non vérifié
-81242;Saint-Avit;81;eau potable;140138;2024;82,4;1,1;5,0;66,0;conforme;204765;3146;31;80;277;Non vérifié
-81243;Saint-Beauzile;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;1409;31;129;125;Non vérifié
-81244;Saint-Benoît-de-Carmaux;81;eau potable : Régie eau potable du Pôle des eaux du Carmausin Ségala;304074;2024;81,3;1,2;5,2;66,0;conforme;348648;26529;35;88;2056;Non vérifié
-81245;Saint-Christophe;81;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;1793;36;98;137;Non vérifié
-81246;Sainte-Cécile-du-Cayrou;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;1420;31;129;126;Non vérifié
-81247;Saint-Cirgue;81;eau potable : Eau potable;281854;2024;84,2;0,5;2,6;65,5;conforme;108962;3303;40;72;224;Non vérifié
-81248;Saint-Gauzens;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;10198;31;129;905;Non vérifié
-81249;Sainte-Gemme;81;eau potable : Régie eau potable du Pôle des eaux du Carmausin Ségala;304074;2024;81,3;1,2;5,2;66,0;conforme;348648;10787;35;88;836;Non vérifié
-81250;Saint-Genest-de-Contest;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;2847;28;151;282;Non vérifié
-81251;Saint-Germain-des-Prés;81;eau potable;140138;2024;82,4;1,1;5,0;66,0;conforme;204765;10539;31;80;928;Non vérifié
-81252;Saint-Germier;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;1706;28;151;169;Non vérifié
-81253;Saint-Grégoire;81;eau potable : Eau potable;281854;2024;84,2;0,5;2,6;65,5;conforme;108962;7049;40;72;478;Non vérifié
-81254;Saint-Jean-de-Marcel;81;eau potable : Eau potable;281854;2024;84,2;0,5;2,6;65,5;conforme;108962;5677;40;72;385;Non vérifié
-81255;Saint-Jean-de-Rives;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;3247;17;46;516;Non vérifié
-81256;Saint-Jean-de-Vals;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;858;28;151;85;Non vérifié
-81257;Saint-Juéry;81;eau potable;287354;2024;79,8;4,8;18,8;68,8;conforme;880380;88943;37;93;6564;Non vérifié
-81258;Saint-Julien-du-Puy;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;4512;28;151;447;Non vérifié
-81259;Saint-Julien-Gaulène;81;eau potable : Eau potable;281854;2024;84,2;0,5;2,6;65,5;conforme;108962;3244;40;72;220;Non vérifié
-81261;Saint-Lieux-lès-Lavaur;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;7985;17;46;1269;Non vérifié
-81262;Saint-Marcel-Campes;81;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;3127;36;98;239;Non vérifié
-81263;Saint-Martin-Laguépie;81;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;5234;36;98;400;Non vérifié
-81264;Saint-Michel-Labadié;81;eau potable : Eau potable;281854;2024;84,2;0,5;2,6;65,5;conforme;108962;1239;40;72;84;Non vérifié
-81265;Saint-Michel-de-Vax;81;eau potable : siaep saint antonin;155973;2024;66,1;1,3;2,5;65,5;conforme;119531;3060;106;187;79;Non vérifié
-81266;Saint-Paul-Cap-de-Joux;81;eau potable;140140;2024;88,6;0,4;2,9;65,6;conforme;56210;6797;18;50;1054;Non vérifié
-81267;Saint-Pierre-de-Trivisy;81;eau potable;140116;2024;52,6;2,1;2,4;65,5;non conforme;44457;44457;197;325;619;Non vérifié
-81268;Saint-Salvi-de-Carcavès;81;eau potable;140148;2024;59,5;1,6;2,3;65,5;non conforme;95776;6830;223;394;84;Non vérifié
-81269;Saint-Salvy-de-la-Balme;81;eau potable;140117;2024;77,6;0,7;2,3;65,5;conforme;7154;7154;36;126;538;Non vérifié
-81270;Saint-Sernin-lès-Lavaur;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;1051;17;46;167;Non vérifié
-81271;Saint-Sulpice-la-Pointe;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;61156;17;46;9719;Non vérifié
-81272;Saint-Urcisse;81;eau potable;155959;2024;77,5;1,0;3,5;65,7;conforme;120600;3166;38;104;230;Non vérifié
-81273;Saïx;81;eau potable;140142;2024;87,1;1,5;9,8;67,0;conforme;45990;15639;11;56;3748;Non vérifié
-81274;Saliès;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;8136;28;151;806;Non vérifié
-81275;Salles;81;eau potable : Régie eau potable du Pôle des eaux du Carmausin Ségala;304074;2024;81,3;1,2;5,2;66,0;conforme;348648;2465;35;88;191;Non vérifié
-81276;Salvagnac;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;13940;31;129;1237;Non vérifié
-81277;Saussenac;81;eau potable : Eau potable;281854;2024;84,2;0,5;2,6;65,5;conforme;108962;9320;40;72;632;Non vérifié
-81278;Sauveterre;81;eau potable;140133;2024;84,7;1,0;5,5;66,1;conforme;5522;1200;17;66;188;Non vérifié
-81279;La Sauzière-Saint-Jean;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;2862;31;129;254;Non vérifié
-81280;Le Ségur;81;eau potable : Régie eau potable du Pôle des eaux du Carmausin Ségala;304074;2024;81,3;1,2;5,2;66,0;conforme;348648;3342;35;88;259;Non vérifié
-81281;Sémalens;81;eau potable;140138;2024;82,4;1,1;5,0;66,0;conforme;204765;22940;31;80;2020;Non vérifié
-81282;Senaux;81;eau potable;140120;2023;25,6;2,1;0,7;65,1;non conforme;2989;2989;210;1078;39;Sans anomalie apparente
-81283;Senouillac;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;12655;31;129;1123;Non vérifié
-81284;Le Sequestre;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;20441;28;151;2025;Non vérifié
-81285;Sérénac;81;eau potable : Eau potable;281854;2024;84,2;0,5;2,6;65,5;conforme;108962;7432;40;72;504;Non vérifié
-81286;Serviès;81;eau potable;140140;2024;88,6;0,4;2,9;65,6;conforme;56210;3766;18;50;584;Non vérifié
-81287;Sieurac;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;2584;28;151;256;Non vérifié
-81288;Sorèze;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;18657;17;46;2965;Non vérifié
-81289;Soual;81;eau potable;140138;2024;82,4;1,1;5,0;66,0;conforme;204765;29946;31;80;2637;Non vérifié
-81290;Souel;81;eau potable;140121;2024;54,5;2,1;2,5;65,5;non conforme;11498;11498;180;304;175;Non vérifié
-81291;Taïx;81;eau potable : Régie eau potable du Pôle des eaux du Carmausin Ségala;304074;2024;81,3;1,2;5,2;66,0;conforme;348648;7136;35;88;553;Non vérifié
-81292;Tanus;81;eau potable : Régie eau potable du Pôle des eaux du Carmausin Ségala;304074;2024;81,3;1,2;5,2;66,0;conforme;348648;7123;35;88;552;Non vérifié
-81293;Tauriac;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;4654;31;129;413;Non vérifié
-81294;Técou;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;12430;31;129;1103;Non vérifié
-81295;Teillet;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;4623;28;151;458;Non vérifié
-81297;Terssac;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;12063;28;151;1195;Non vérifié
-81298;Teulat;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;3115;17;46;495;Non vérifié
-81299;Teyssode;81;eau potable;140140;2024;88,6;0,4;2,9;65,6;conforme;56210;2464;18;50;382;Non vérifié
-81300;Tonnac;81;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;1479;36;98;113;Non vérifié
-81302;Tréban;81;eau potable : Eau potable;281854;2024;84,2;0,5;2,6;65,5;conforme;108962;870;40;72;59;Non vérifié
-81303;Trébas;81;eau potable : Eau potable;281854;2024;84,2;0,5;2,6;65,5;conforme;108962;5913;40;72;401;Non vérifié
-81304;Trévien;81;eau potable : Régie eau potable du Pôle des eaux du Carmausin Ségala;304074;2024;81,3;1,2;5,2;66,0;conforme;348648;2606;35;88;202;Non vérifié
-81305;Vabre;81;eau potable;140123;2024;73,3;0,6;1,6;65,3;conforme;10922;10922;41;133;726;Non vérifié
-81306;Valderiès;81;eau potable : Eau potable;281854;2024;84,2;0,5;2,6;65,5;conforme;108962;12195;40;72;827;Non vérifié
-81307;Valdurenque;81;eau potable;298354;2024;74,1;2,3;6,7;66,3;conforme;327548;16441;51;138;885;Non vérifié
-81308;Valence-d'Albigeois;81;eau potable : Eau potable;281854;2024;84,2;0,5;2,6;65,5;conforme;108962;18831;40;72;1277;Non vérifié
-81309;Vaour;81;eau potable;140124;2024;74,1;1,1;3,1;65,6;conforme;10921;10921;76;131;393;Non vérifié
-81310;Veilhes;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;900;17;46;143;Non vérifié
-81311;Vénès;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;7248;28;151;718;Non vérifié
-81312;Verdalle;81;eau potable;140138;2024;82,4;1,1;5,0;66,0;conforme;204765;11629;31;80;1024;Non vérifié
-81313;Le Verdier;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;2536;31;129;225;Non vérifié
-81314;Viane;81;eau potable;140148;2024;59,5;1,6;2,3;65,5;non conforme;95776;42928;223;394;528;Non vérifié
-81315;Vielmur-sur-Agout;81;eau potable;140140;2024;88,6;0,4;2,9;65,6;conforme;56210;8867;18;50;1375;Non vérifié
-81316;Vieux;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;2592;31;129;230;Non vérifié
-81317;Villefranche-d'Albigeois;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;12355;28;151;1224;Non vérifié
-81318;Villeneuve-lès-Lavaur;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;875;17;46;139;Non vérifié
-81319;Villeneuve-sur-Vère;81;eau potable;308054;2024;76,0;0,9;2,8;65,6;conforme;26234;10052;52;124;528;Non vérifié
-81320;Vindrac-Alayrac;81;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;2081;36;98;159;Non vérifié
-81321;Le Vintrou;81;eau potable;140126;2024;80,5;0,5;1,9;65,4;conforme;1460;1460;44;96;91;Non vérifié
-81322;Virac;81;eau potable : Régie eau potable du Pôle des eaux du Carmausin Ségala;304074;2024;81,3;1,2;5,2;66,0;conforme;348648;3252;35;88;252;Non vérifié
-81323;Viterbe;81;eau potable;140140;2024;88,6;0,4;2,9;65,6;conforme;56210;2328;18;50;361;Non vérifié
-81324;Viviers-lès-Lavaur;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;1686;17;46;268;Non vérifié
-81325;Viviers-lès-Montagnes;81;eau potable;298354;2024;74,1;2,3;6,7;66,3;conforme;327548;37302;51;138;2008;Non vérifié
-81326;Sainte-Croix;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;4699;31;129;417;Non vérifié
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement);Donnée suspecte (voir LISEZMOI)
+81001;Aguts;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;1498;17;46;238;Non vérifié;non
+81002;Aiguefonde;81;eau potable : AEP;287134;2024;71,1;4,2;10,3;67,1;conforme;446594;52817;58;149;2505;Non vérifié;non
+81003;Alban;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;9731;28;151;964;Non vérifié;non
+81004;Albi;81;eau potable;287354;2024;79,8;4,8;18,8;68,8;conforme;880380;694987;37;93;51290;Non vérifié;non
+81005;Albine;81;eau potable;140052;2024;67,9;3,2;6,8;66,4;conforme;14950;14950;80;208;512;Non vérifié;non
+81006;Algans;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;1403;17;46;223;Non vérifié;non
+81007;Alos;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;1048;31;129;93;Non vérifié;non
+81008;Almayrac;81;eau potable : Régie eau potable du Pôle des eaux du Carmausin Ségala;304074;2024;81,3;1,2;5,2;66,0;conforme;348648;3781;35;88;293;Non vérifié;non
+81009;Amarens;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;687;31;129;61;Non vérifié;non
+81010;Ambialet;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;4754;28;151;471;Non vérifié;non
+81011;Ambres;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;6500;17;46;1033;Non vérifié;non
+81012;Andillac;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;1431;31;129;127;Non vérifié;non
+81013;Andouque;81;eau potable : Eau potable;281854;2024;84,2;0,5;2,6;65,5;conforme;108962;5648;40;72;383;Non vérifié;non
+81014;Anglès;81;eau potable;140053;2024;56,9;1,4;1,9;65,4;non conforme;14328;14328;76;274;515;Non vérifié;non
+81015;Appelle;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;415;17;46;66;Non vérifié;non
+81016;Arfons;81;eau potable;140054;2023;90,0;;;;non calculable;;;;;188;Sans anomalie apparente;oui
+81017;Arifat;81;eau potable;287874;2024;83,0;0,4;3,2;65,6;conforme;15768;916;20;45;128;Non vérifié;non
+81018;Arthès;81;eau potable;287354;2024;79,8;4,8;18,8;68,8;conforme;880380;34255;37;93;2528;Non vérifié;non
+81019;Assac;81;eau potable : Eau potable;281854;2024;84,2;0,5;2,6;65,5;conforme;108962;2227;40;72;151;Non vérifié;non
+81020;Aussac;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;2574;28;151;255;Non vérifié;non
+81021;Aussillon;81;eau potable : AEP;287134;2024;71,1;4,2;10,3;67,1;conforme;446594;116535;58;149;5527;Non vérifié;non
+81022;Bannières;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;1321;17;46;210;Non vérifié;non
+81023;Barre;81;eau potable;140057;2024;56,2;3,1;3,9;65,8;non conforme;8792;8792;119;289;203;Non vérifié;non
+81024;Beauvais-sur-Tescou;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;4271;31;129;379;Non vérifié;non
+81025;Belcastel;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;1359;17;46;216;Non vérifié;non
+81026;Bellegarde-Marsal;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;6965;28;151;690;Non vérifié;non
+81027;Belleserre;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;1076;17;46;171;Non vérifié;non
+81028;Berlats;81;eau potable;140058;2024;75,0;10,0;;;non calculable;45625;45625;1050;1412;119;Non vérifié;non
+81029;Bernac;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;2096;31;129;186;Non vérifié;non
+81030;Bertre;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;705;17;46;112;Non vérifié;non
+81031;Le Bez;81;eau potable;140059;2024;86,8;0,4;2,8;65,6;conforme;7373;7373;22;55;907;Non vérifié;non
+81032;Blan;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;6878;17;46;1093;Non vérifié;non
+81033;Blaye-les-Mines;81;eau potable : Régie eau potable du Pôle des eaux du Carmausin Ségala;304074;2024;81,3;1,2;5,2;66,0;conforme;348648;37445;35;88;2902;Non vérifié;non
+81034;Boissezon;81;eau potable;298354;2024;74,1;2,3;6,7;66,3;conforme;327548;7394;51;138;398;Non vérifié;non
+81035;Bournazel;81;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;2918;36;98;223;Non vérifié;non
+81036;Bout-du-Pont-de-Larn;81;eau potable : AEP;287134;2024;71,1;4,2;10,3;67,1;conforme;446594;25829;58;149;1225;Non vérifié;non
+81037;Brassac;81;eau potable;140062;2024;78,3;2,6;9,3;66,9;conforme;17594;17594;37;102;1289;Non vérifié;non
+81038;Brens;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;27305;31;129;2423;Non vérifié;non
+81039;Briatexte;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;19563;28;151;1938;Non vérifié;non
+81040;Brousse;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;4421;28;151;438;Non vérifié;non
+81041;Broze;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;1206;31;129;107;Non vérifié;non
+81042;Burlats;81;eau potable : AEP Burlats;140063;2024;71,6;1,5;3,8;65,8;conforme;34624;34624;47;144;1998;Non vérifié;non
+81043;Busque;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;8057;31;129;715;Non vérifié;non
+81044;Cabanès;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;3099;28;151;307;Non vérifié;non
+81045;Les Cabannes;81;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;4959;36;98;379;Non vérifié;non
+81046;Cadalen;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;17433;31;129;1547;Non vérifié;non
+81047;Cadix;81;eau potable : Eau potable;281854;2024;84,2;0,5;2,6;65,5;conforme;108962;3244;40;72;220;Non vérifié;non
+81048;Cagnac-les-Mines;81;eau potable : Régie eau potable du Pôle des eaux du Carmausin Ségala;304074;2024;81,3;1,2;5,2;66,0;conforme;348648;33820;35;88;2621;Non vérifié;non
+81049;Cahuzac;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;2240;17;46;356;Non vérifié;non
+81050;Cambon-lès-Lavaur;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;2278;17;46;362;Non vérifié;non
+81051;Cahuzac-sur-Vère;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;13962;31;129;1239;Non vérifié;non
+81052;Cambon;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;21471;28;151;2127;Non vérifié;non
+81053;Cambounès;81;eau potable;140065;2024;61,5;1,2;1,8;65,4;non conforme;10950;10950;88;237;339;Non vérifié;non
+81054;Cambounet-sur-le-Sor;81;eau potable;140138;2024;82,4;1,1;5,0;66,0;conforme;204765;11106;31;80;978;Non vérifié;non
+81055;Les Cammazes;81;eau potable;140066;2024;89,7;0,7;5,8;66,2;conforme;3079;3079;21;44;398;Non vérifié;non
+81056;Campagnac;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;1769;31;129;157;Non vérifié;non
+81058;Carbes;81;eau potable;140140;2024;88,6;0,4;2,9;65,6;conforme;56210;1593;18;50;247;Non vérifié;non
+81059;Carlus;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;6703;28;151;664;Non vérifié;non
+81060;Carmaux;81;eau potable : Régie eau potable du Pôle des eaux du Carmausin Ségala;304074;2024;81,3;1,2;5,2;66,0;conforme;348648;127382;35;88;9872;Non vérifié;non
+81061;Castanet;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;2366;31;129;210;Non vérifié;non
+81062;Fontrieu;81;eau potable;317514;2024;57,8;0,9;1,3;65,3;non conforme;54531;54531;154;273;968;Non vérifié;non
+81063;Castelnau-de-Lévis;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;18064;31;129;1603;Non vérifié;non
+81064;Castelnau-de-Montmiral;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;11968;31;129;1062;Non vérifié;non
+81065;Castres;81;eau potable : AEP Castres;288134;2024;84,0;3,0;15,7;68,1;conforme;478033;478033;31;73;42505;Non vérifié;non
+81066;Caucalières;81;eau potable : AEP;287134;2024;71,1;4,2;10,3;67,1;conforme;446594;6030;58;149;286;Non vérifié;non
+81067;Cestayrols;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;5127;31;129;455;Non vérifié;non
+81068;Combefa;81;eau potable : Régie eau potable du Pôle des eaux du Carmausin Ségala;304074;2024;81,3;1,2;5,2;66,0;conforme;348648;2658;35;88;206;Non vérifié;non
+81069;Cordes-sur-Ciel;81;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;11502;36;98;879;Non vérifié;non
+81070;Coufouleux;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;34449;31;129;3057;Non vérifié;non
+81071;Courris;81;eau potable : Eau potable;281854;2024;84,2;0,5;2,6;65,5;conforme;108962;1180;40;72;80;Non vérifié;non
+81072;Crespin;81;eau potable : Eau potable;281854;2024;84,2;0,5;2,6;65,5;conforme;108962;1460;40;72;99;Non vérifié;non
+81073;Crespinet;81;eau potable : Eau potable;281854;2024;84,2;0,5;2,6;65,5;conforme;108962;2684;40;72;182;Non vérifié;non
+81074;Cunac;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;16413;28;151;1626;Non vérifié;non
+81075;Cuq;81;eau potable;140140;2024;88,6;0,4;2,9;65,6;conforme;56210;3108;18;50;482;Non vérifié;non
+81076;Cuq-Toulza;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;4417;17;46;702;Non vérifié;non
+81077;Curvalle;81;eau potable : Eau potable;281854;2024;84,2;0,5;2,6;65,5;conforme;108962;5869;40;72;398;Non vérifié;non
+81078;Damiatte;81;eau potable;140140;2024;88,6;0,4;2,9;65,6;conforme;56210;6849;18;50;1062;Non vérifié;non
+81079;Dénat;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;8722;28;151;864;Non vérifié;non
+81080;Donnazac;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;631;31;129;56;Non vérifié;non
+81081;Dourgne;81;eau potable;140138;2024;82,4;1,1;5,0;66,0;conforme;204765;14911;31;80;1313;Non vérifié;non
+81082;Le Dourn;81;eau potable : Eau potable;281854;2024;84,2;0,5;2,6;65,5;conforme;108962;1711;40;72;116;Non vérifié;non
+81083;Durfort;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;1623;17;46;258;Non vérifié;non
+81084;Escoussens;81;eau potable;140138;2024;82,4;1,1;5,0;66,0;conforme;204765;6973;31;80;614;Non vérifié;non
+81085;Lacapelle-Escroux;81;eau potable;140071;2024;53,4;0,9;1,0;65,2;non conforme;1971;1971;112;320;48;Non vérifié;non
+81086;Espérausses;81;eau potable;140072;2024;71,0;1,0;2,5;65,5;conforme;6570;6570;123;156;146;Non vérifié;non
+81087;Fayssac;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;3989;31;129;354;Non vérifié;non
+81088;Fauch;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;6248;28;151;619;Non vérifié;non
+81089;Faussergues;81;eau potable : Eau potable;281854;2024;84,2;0,5;2,6;65,5;conforme;108962;2109;40;72;143;Non vérifié;non
+81090;Fénols;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;2463;28;151;244;Non vérifié;non
+81092;Fiac;81;eau potable;140140;2024;88,6;0,4;2,9;65,6;conforme;56210;5998;18;50;930;Non vérifié;non
+81093;Florentin;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;7692;28;151;762;Non vérifié;non
+81094;Fraissines;81;eau potable : Eau potable;281854;2024;84,2;0,5;2,6;65,5;conforme;108962;1327;40;72;90;Non vérifié;non
+81095;Frausseilles;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;845;31;129;75;Non vérifié;non
+81096;Le Fraysse;81;eau potable;140074;2024;88,8;1,1;9,1;66,8;conforme;18031;18031;117;152;421;Non vérifié;non
+81097;Fréjairolles;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;13637;28;151;1351;Non vérifié;non
+81098;Fréjeville;81;eau potable;140140;2024;88,6;0,4;2,9;65,6;conforme;56210;4592;18;50;712;Non vérifié;non
+81099;Gaillac;81;eau potable : AEP DSP Gaillac;288294;2024;80,5;2,5;10,2;67,0;conforme;180000;180000;31;89;16162;Non vérifié;non
+81100;Garrevaques;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;2504;17;46;398;Non vérifié;non
+81101;Le Garric;81;eau potable : Régie eau potable du Pôle des eaux du Carmausin Ségala;304074;2024;81,3;1,2;5,2;66,0;conforme;348648;16800;35;88;1302;Non vérifié;non
+81102;Garrigues;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;2095;17;46;333;Non vérifié;non
+81103;Gijounet;81;eau potable;140076;2024;66,7;1,0;2,0;65,4;conforme;8030;8030;191;183;115;Non vérifié;non
+81104;Giroussens;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;17704;31;129;1571;Non vérifié;non
+81105;Graulhet;81;eau potable : AEP RCEAC;288314;2024;70,5;5,3;12,8;67,6;conforme;193450;193450;40;152;13129;Non vérifié;non
+81106;Grazac;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;7325;31;129;650;Non vérifié;non
+81108;Itzac;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;2006;31;129;178;Non vérifié;non
+81109;Jonquières;81;eau potable;140140;2024;88,6;0,4;2,9;65,6;conforme;56210;2831;18;50;439;Non vérifié;non
+81110;Jouqueviel;81;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;1309;36;98;100;Non vérifié;non
+81111;Labarthe-Bleys;81;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;968;36;98;74;Non vérifié;non
+81112;Labastide-de-Lévis;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;10942;31;129;971;Non vérifié;non
+81114;Labastide-Gabausse;81;eau potable : Régie eau potable du Pôle des eaux du Carmausin Ségala;304074;2024;81,3;1,2;5,2;66,0;conforme;348648;7058;35;88;547;Non vérifié;non
+81115;Labastide-Rouairoux;81;eau potable;140078;2024;69,2;5,5;12,3;67,5;conforme;32120;32120;62;163;1420;Non vérifié;non
+81116;Labastide-Saint-Georges;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;12597;17;46;2002;Non vérifié;non
+81117;Labessière-Candeil;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;8001;31;129;710;Non vérifié;non
+81118;Laboulbène;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;1736;28;151;172;Non vérifié;non
+81119;Laboutarie;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;5259;28;151;521;Non vérifié;non
+81120;Labruguière;81;eau potable;298354;2024;74,1;2,3;6,7;66,3;conforme;327548;122310;51;138;6584;Non vérifié;non
+81121;Lacabarède;81;eau potable;140133;2024;84,7;1,0;5,5;66,1;conforme;5522;1839;17;66;288;Non vérifié;non
+81122;Lacapelle-Pinet;81;eau potable : Eau potable;281854;2024;84,2;0,5;2,6;65,5;conforme;108962;988;40;72;67;Non vérifié;non
+81123;Lacapelle-Ségalar;81;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;1165;36;98;89;Non vérifié;non
+81124;Lacaune;81;eau potable;140081;2024;47,1;10,0;8,9;66,8;non conforme;237250;237250;264;411;2464;Non vérifié;non
+81125;Lacaze;81;eau potable;140148;2024;59,5;1,6;2,3;65,5;non conforme;95776;25855;223;394;318;Non vérifié;non
+81126;Lacougotte-Cadoul;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;1089;17;46;173;Non vérifié;non
+81127;Lacroisille;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;617;17;46;98;Non vérifié;non
+81128;Lacrouzette;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;15545;28;151;1540;Non vérifié;non
+81129;Lagardiolle;81;eau potable;140138;2024;82,4;1,1;5,0;66,0;conforme;204765;2703;31;80;238;Non vérifié;non
+81130;Lagarrigue;81;eau potable;298354;2024;74,1;2,3;6,7;66,3;conforme;327548;33141;51;138;1784;Non vérifié;non
+81131;Lagrave;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;25975;31;129;2305;Non vérifié;non
+81132;Guitalens-L'Albarède;81;eau potable;140140;2024;88,6;0,4;2,9;65,6;conforme;56210;5617;18;50;871;Non vérifié;non
+81133;Lamillarié;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;5219;28;151;517;Non vérifié;non
+81134;Lamontélarié;81;eau potable;140083;2020;61,8;1,1;1,7;65,3;non conforme;2851;2851;135;234;58;Sans anomalie apparente;non
+81135;Laparrouquial;81;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;1191;36;98;91;Non vérifié;non
+81136;Larroque;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;1882;31;129;167;Non vérifié;non
+81137;Lasfaillades;81;eau potable;140084;2024;97,8;0,1;3,7;65,7;conforme;87;87;3;12;84;Non vérifié;non
+81138;Lasgraisses;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;6299;31;129;559;Non vérifié;non
+81139;Lautrec;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;16888;28;151;1673;Non vérifié;non
+81140;Lavaur;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;68996;17;46;10965;Non vérifié;non
+81141;Lédas-et-Penthiès;81;eau potable : Eau potable;281854;2024;84,2;0,5;2,6;65,5;conforme;108962;2404;40;72;163;Non vérifié;non
+81142;Lempaut;81;eau potable;140138;2024;82,4;1,1;5,0;66,0;conforme;204765;9971;31;80;878;Non vérifié;non
+81143;Lescout;81;eau potable;140138;2024;82,4;1,1;5,0;66,0;conforme;204765;8676;31;80;764;Non vérifié;non
+81144;Lescure-d'Albigeois;81;eau potable;287354;2024;79,8;4,8;18,8;68,8;conforme;880380;62195;37;93;4590;Non vérifié;non
+81145;Lisle-sur-Tarn;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;55657;31;129;4939;Non vérifié;non
+81146;Livers-Cazelles;81;eau potable;308054;2024;76,0;0,9;2,8;65,6;conforme;26234;4550;52;124;239;Non vérifié;non
+81147;Lombers;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;10902;28;151;1080;Non vérifié;non
+81148;Loubers;81;eau potable;140088;2024;82,0;0,6;2,6;65,5;conforme;920;920;27;85;95;Non vérifié;non
+81149;Loupiac;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;5015;31;129;445;Non vérifié;non
+81150;Lugan;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;2637;17;46;419;Non vérifié;non
+81151;Magrin;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;881;17;46;140;Non vérifié;non
+81152;Mailhoc;81;eau potable;308054;2024;76,0;0,9;2,8;65,6;conforme;26234;5787;52;124;304;Non vérifié;non
+81154;Marnaves;81;eau potable;140090;2024;84,5;0,4;2,3;65,5;conforme;1460;1460;53;72;76;Non vérifié;non
+81156;Marssac-sur-Tarn;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;39644;31;129;3518;Non vérifié;non
+81157;Marzens;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;1957;17;46;311;Non vérifié;non
+81158;Le Masnau-Massuguiès;81;eau potable;140148;2024;59,5;1,6;2,3;65,5;non conforme;95776;20163;223;394;248;Non vérifié;non
+81159;Massac-Séran;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;3291;17;46;523;Non vérifié;non
+81160;Massaguel;81;eau potable;140138;2024;82,4;1,1;5,0;66,0;conforme;204765;3941;31;80;347;Non vérifié;non
+81161;Massals;81;eau potable;140092;2024;78,0;0,6;2,1;65,4;conforme;3504;3504;85;107;113;Non vérifié;non
+81162;Maurens-Scopont;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;849;17;46;135;Non vérifié;non
+81163;Mazamet;81;eau potable : AEP;287134;2024;71,1;4,2;10,3;67,1;conforme;446594;212638;58;149;10085;Non vérifié;non
+81164;Mézens;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;6040;31;129;536;Non vérifié;non
+81165;Milhars;81;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;2957;36;98;226;Non vérifié;non
+81166;Milhavet;81;eau potable;308054;2024;76,0;0,9;2,8;65,6;conforme;26234;1942;52;124;102;Non vérifié;non
+81167;Miolles;81;eau potable;140094;2024;86,7;0,1;0,5;65,1;conforme;788;788;20;73;108;Non vérifié;non
+81168;Mirandol-Bourgnounac;81;eau potable : Régie eau potable du Pôle des eaux du Carmausin Ségala;304074;2024;81,3;1,2;5,2;66,0;conforme;348648;13665;35;88;1059;Non vérifié;non
+81169;Missècle;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;939;28;151;93;Non vérifié;non
+81170;Monestiés;81;eau potable : Régie eau potable du Pôle des eaux du Carmausin Ségala;304074;2024;81,3;1,2;5,2;66,0;conforme;348648;17819;35;88;1381;Non vérifié;non
+81171;Montans;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;17557;31;129;1558;Non vérifié;non
+81172;Montauriol;81;eau potable : Eau potable;281854;2024;84,2;0,5;2,6;65,5;conforme;108962;811;40;72;55;Non vérifié;non
+81173;Montcabrier;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;1913;17;46;304;Non vérifié;non
+81174;Montdragon;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;6198;28;151;614;Non vérifié;non
+81175;Montdurausse;81;eau potable;155959;2024;77,5;1,0;3,5;65,7;conforme;120600;5451;38;104;396;Non vérifié;non
+81176;Montels;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;1240;31;129;110;Non vérifié;non
+81177;Montfa;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;4684;28;151;464;Non vérifié;non
+81178;Montgaillard;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;4079;31;129;362;Non vérifié;non
+81179;Montgey;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;1712;17;46;272;Non vérifié;non
+81180;Montirat;81;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;3442;36;98;263;Non vérifié;non
+81181;Montpinier;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;1837;28;151;182;Non vérifié;non
+81182;Montredon-Labessonnié;81;eau potable;287874;2024;83,0;0,4;3,2;65,6;conforme;15768;14852;20;45;2076;Non vérifié;non
+81183;Mont-Roc;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;1999;28;151;198;Non vérifié;non
+81184;Montrosier;81;eau potable : siaep saint antonin;155973;2024;66,1;1,3;2,5;65,5;conforme;119531;1278;106;187;33;Non vérifié;non
+81185;Montvalen;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;2738;31;129;243;Non vérifié;non
+81186;Moularès;81;eau potable : Régie eau potable du Pôle des eaux du Carmausin Ségala;304074;2024;81,3;1,2;5,2;66,0;conforme;348648;3316;35;88;257;Non vérifié;non
+81187;Moulayrès;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;2190;28;151;217;Non vérifié;non
+81188;Moulin-Mage;81;eau potable;140099;2024;82,0;0,6;3,0;65,6;conforme;6351;6351;59;101;295;Non vérifié;non
+81189;Mouzens;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;698;17;46;111;Non vérifié;non
+81190;Mouzieys-Teulet;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;4714;28;151;467;Non vérifié;non
+81191;Mouzieys-Panens;81;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;3350;36;98;256;Non vérifié;non
+81192;Murat-sur-Vèbre;81;eau potable;140100;2024;63,4;1,9;3,3;65,7;non conforme;24487;24487;81;210;831;Non vérifié;non
+81193;Nages;81;eau potable;140101;2024;69,3;1,2;2,7;65,5;conforme;21900;21900;170;166;352;Non vérifié;non
+81195;Navès;81;eau potable;140142;2024;87,1;1,5;9,8;67,0;conforme;45990;2879;11;56;690;Non vérifié;non
+81196;Noailhac;81;eau potable;298354;2024;74,1;2,3;6,7;66,3;conforme;327548;15382;51;138;828;Non vérifié;non
+81197;Noailles;81;eau potable;308054;2024;76,0;0,9;2,8;65,6;conforme;26234;3903;52;124;205;Non vérifié;non
+81198;Orban;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;3543;28;151;351;Non vérifié;non
+81199;Padiès;81;eau potable : Eau potable;281854;2024;84,2;0,5;2,6;65,5;conforme;108962;2227;40;72;151;Non vérifié;non
+81200;Palleville;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;2838;17;46;451;Non vérifié;non
+81201;Pampelonne;81;eau potable : Régie eau potable du Pôle des eaux du Carmausin Ségala;304074;2024;81,3;1,2;5,2;66,0;conforme;348648;12426;35;88;963;Non vérifié;non
+81202;Parisot;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;11641;31;129;1033;Non vérifié;non
+81203;Paulinet;81;eau potable;140102;2024;86,2;0,4;2,3;65,5;conforme;12264;12264;67;64;498;Non vérifié;non
+81204;Payrin-Augmontel;81;eau potable;298354;2024;74,1;2,3;6,7;66,3;conforme;327548;40832;51;138;2198;Non vérifié;non
+81205;Péchaudier;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;1152;17;46;183;Non vérifié;non
+81206;Penne;81;eau potable;140103;2024;73,3;0,8;2,3;65,5;conforme;32996;32996;150;217;602;Non vérifié;non
+81207;Peyregoux;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;868;28;151;86;Non vérifié;non
+81208;Peyrole;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;6142;31;129;545;Non vérifié;non
+81209;Pont-de-Larn;81;eau potable;298354;2024;74,1;2,3;6,7;66,3;conforme;327548;54746;51;138;2947;Non vérifié;non
+81210;Poudis;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;1712;17;46;272;Non vérifié;non
+81211;Poulan-Pouzols;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;4825;28;151;478;Non vérifié;non
+81212;Prades;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;774;17;46;123;Non vérifié;non
+81213;Pratviel;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;573;17;46;91;Non vérifié;non
+81214;Puéchoursi;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;717;17;46;114;Non vérifié;non
+81215;Puybegon;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;7449;31;129;661;Non vérifié;non
+81216;Puycalvel;81;eau potable;140140;2024;88,6;0,4;2,9;65,6;conforme;56210;1399;18;50;217;Non vérifié;non
+81217;Puycelsi;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;5139;31;129;456;Non vérifié;non
+81218;Puygouzon;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;35815;28;151;3548;Non vérifié;non
+81219;Puylaurens;81;eau potable;140138;2024;82,4;1,1;5,0;66,0;conforme;204765;36987;31;80;3257;Non vérifié;non
+81220;Rabastens;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;66115;31;129;5867;Non vérifié;non
+81221;Rayssac;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;2362;28;151;234;Non vérifié;non
+81222;Réalmont;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;35946;28;151;3561;Non vérifié;non
+81223;Le Rialet;81;eau potable;140106;2024;94,0;0,2;3,1;65,6;conforme;256;256;11;26;63;Non vérifié;non
+81224;Le Riols;81;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;1282;36;98;98;Non vérifié;non
+81225;Rivières;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;11956;31;129;1061;Non vérifié;non
+81227;Roquecourbe;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;21925;28;151;2172;Non vérifié;non
+81228;Roquemaure;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;5240;31;129;465;Non vérifié;non
+81229;Roquevidal;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;887;17;46;141;Non vérifié;non
+81230;Rosières;81;eau potable : Régie eau potable du Pôle des eaux du Carmausin Ségala;304074;2024;81,3;1,2;5,2;66,0;conforme;348648;9239;35;88;716;Non vérifié;non
+81231;Rouairoux;81;eau potable;140133;2024;84,7;1,0;5,5;66,1;conforme;5522;2484;17;66;389;Non vérifié;non
+81232;Rouffiac;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;6450;28;151;639;Non vérifié;non
+81233;Terre-de-Bancalié;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;17413;28;151;1725;Non vérifié;non
+81234;Roussayrolles;81;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;1060;36;98;81;Non vérifié;non
+81235;Saint-Affrique-les-Montagnes;81;eau potable;140138;2024;82,4;1,1;5,0;66,0;conforme;204765;8494;31;80;748;Non vérifié;non
+81236;Saint-Agnan;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;1913;17;46;304;Non vérifié;non
+81237;Saint-Amancet;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;1070;17;46;170;Non vérifié;non
+81238;Saint-Amans-Soult;81;eau potable : AEP;287134;2024;71,1;4,2;10,3;67,1;conforme;446594;32744;58;149;1553;Non vérifié;non
+81239;Saint-Amans-Valtoret;81;eau potable;140112;2024;76,7;1,3;4,2;65,8;conforme;12256;12256;39;113;862;Non vérifié;non
+81240;Saint-André;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;1030;28;151;102;Non vérifié;non
+81242;Saint-Avit;81;eau potable;140138;2024;82,4;1,1;5,0;66,0;conforme;204765;3146;31;80;277;Non vérifié;non
+81243;Saint-Beauzile;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;1409;31;129;125;Non vérifié;non
+81244;Saint-Benoît-de-Carmaux;81;eau potable : Régie eau potable du Pôle des eaux du Carmausin Ségala;304074;2024;81,3;1,2;5,2;66,0;conforme;348648;26529;35;88;2056;Non vérifié;non
+81245;Saint-Christophe;81;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;1793;36;98;137;Non vérifié;non
+81246;Sainte-Cécile-du-Cayrou;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;1420;31;129;126;Non vérifié;non
+81247;Saint-Cirgue;81;eau potable : Eau potable;281854;2024;84,2;0,5;2,6;65,5;conforme;108962;3303;40;72;224;Non vérifié;non
+81248;Saint-Gauzens;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;10198;31;129;905;Non vérifié;non
+81249;Sainte-Gemme;81;eau potable : Régie eau potable du Pôle des eaux du Carmausin Ségala;304074;2024;81,3;1,2;5,2;66,0;conforme;348648;10787;35;88;836;Non vérifié;non
+81250;Saint-Genest-de-Contest;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;2847;28;151;282;Non vérifié;non
+81251;Saint-Germain-des-Prés;81;eau potable;140138;2024;82,4;1,1;5,0;66,0;conforme;204765;10539;31;80;928;Non vérifié;non
+81252;Saint-Germier;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;1706;28;151;169;Non vérifié;non
+81253;Saint-Grégoire;81;eau potable : Eau potable;281854;2024;84,2;0,5;2,6;65,5;conforme;108962;7049;40;72;478;Non vérifié;non
+81254;Saint-Jean-de-Marcel;81;eau potable : Eau potable;281854;2024;84,2;0,5;2,6;65,5;conforme;108962;5677;40;72;385;Non vérifié;non
+81255;Saint-Jean-de-Rives;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;3247;17;46;516;Non vérifié;non
+81256;Saint-Jean-de-Vals;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;858;28;151;85;Non vérifié;non
+81257;Saint-Juéry;81;eau potable;287354;2024;79,8;4,8;18,8;68,8;conforme;880380;88943;37;93;6564;Non vérifié;non
+81258;Saint-Julien-du-Puy;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;4512;28;151;447;Non vérifié;non
+81259;Saint-Julien-Gaulène;81;eau potable : Eau potable;281854;2024;84,2;0,5;2,6;65,5;conforme;108962;3244;40;72;220;Non vérifié;non
+81261;Saint-Lieux-lès-Lavaur;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;7985;17;46;1269;Non vérifié;non
+81262;Saint-Marcel-Campes;81;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;3127;36;98;239;Non vérifié;non
+81263;Saint-Martin-Laguépie;81;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;5234;36;98;400;Non vérifié;non
+81264;Saint-Michel-Labadié;81;eau potable : Eau potable;281854;2024;84,2;0,5;2,6;65,5;conforme;108962;1239;40;72;84;Non vérifié;non
+81265;Saint-Michel-de-Vax;81;eau potable : siaep saint antonin;155973;2024;66,1;1,3;2,5;65,5;conforme;119531;3060;106;187;79;Non vérifié;non
+81266;Saint-Paul-Cap-de-Joux;81;eau potable;140140;2024;88,6;0,4;2,9;65,6;conforme;56210;6797;18;50;1054;Non vérifié;non
+81267;Saint-Pierre-de-Trivisy;81;eau potable;140116;2024;52,6;2,1;2,4;65,5;non conforme;44457;44457;197;325;619;Non vérifié;non
+81268;Saint-Salvi-de-Carcavès;81;eau potable;140148;2024;59,5;1,6;2,3;65,5;non conforme;95776;6830;223;394;84;Non vérifié;non
+81269;Saint-Salvy-de-la-Balme;81;eau potable;140117;2024;77,6;0,7;2,3;65,5;conforme;7154;7154;36;126;538;Non vérifié;non
+81270;Saint-Sernin-lès-Lavaur;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;1051;17;46;167;Non vérifié;non
+81271;Saint-Sulpice-la-Pointe;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;61156;17;46;9719;Non vérifié;non
+81272;Saint-Urcisse;81;eau potable;155959;2024;77,5;1,0;3,5;65,7;conforme;120600;3166;38;104;230;Non vérifié;non
+81273;Saïx;81;eau potable;140142;2024;87,1;1,5;9,8;67,0;conforme;45990;15639;11;56;3748;Non vérifié;non
+81274;Saliès;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;8136;28;151;806;Non vérifié;non
+81275;Salles;81;eau potable : Régie eau potable du Pôle des eaux du Carmausin Ségala;304074;2024;81,3;1,2;5,2;66,0;conforme;348648;2465;35;88;191;Non vérifié;non
+81276;Salvagnac;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;13940;31;129;1237;Non vérifié;non
+81277;Saussenac;81;eau potable : Eau potable;281854;2024;84,2;0,5;2,6;65,5;conforme;108962;9320;40;72;632;Non vérifié;non
+81278;Sauveterre;81;eau potable;140133;2024;84,7;1,0;5,5;66,1;conforme;5522;1200;17;66;188;Non vérifié;non
+81279;La Sauzière-Saint-Jean;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;2862;31;129;254;Non vérifié;non
+81280;Le Ségur;81;eau potable : Régie eau potable du Pôle des eaux du Carmausin Ségala;304074;2024;81,3;1,2;5,2;66,0;conforme;348648;3342;35;88;259;Non vérifié;non
+81281;Sémalens;81;eau potable;140138;2024;82,4;1,1;5,0;66,0;conforme;204765;22940;31;80;2020;Non vérifié;non
+81282;Senaux;81;eau potable;140120;2023;25,6;2,1;0,7;65,1;non conforme;2989;2989;210;1078;39;Sans anomalie apparente;non
+81283;Senouillac;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;12655;31;129;1123;Non vérifié;non
+81284;Le Sequestre;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;20441;28;151;2025;Non vérifié;non
+81285;Sérénac;81;eau potable : Eau potable;281854;2024;84,2;0,5;2,6;65,5;conforme;108962;7432;40;72;504;Non vérifié;non
+81286;Serviès;81;eau potable;140140;2024;88,6;0,4;2,9;65,6;conforme;56210;3766;18;50;584;Non vérifié;non
+81287;Sieurac;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;2584;28;151;256;Non vérifié;non
+81288;Sorèze;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;18657;17;46;2965;Non vérifié;non
+81289;Soual;81;eau potable;140138;2024;82,4;1,1;5,0;66,0;conforme;204765;29946;31;80;2637;Non vérifié;non
+81290;Souel;81;eau potable;140121;2024;54,5;2,1;2,5;65,5;non conforme;11498;11498;180;304;175;Non vérifié;non
+81291;Taïx;81;eau potable : Régie eau potable du Pôle des eaux du Carmausin Ségala;304074;2024;81,3;1,2;5,2;66,0;conforme;348648;7136;35;88;553;Non vérifié;non
+81292;Tanus;81;eau potable : Régie eau potable du Pôle des eaux du Carmausin Ségala;304074;2024;81,3;1,2;5,2;66,0;conforme;348648;7123;35;88;552;Non vérifié;non
+81293;Tauriac;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;4654;31;129;413;Non vérifié;non
+81294;Técou;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;12430;31;129;1103;Non vérifié;non
+81295;Teillet;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;4623;28;151;458;Non vérifié;non
+81297;Terssac;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;12063;28;151;1195;Non vérifié;non
+81298;Teulat;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;3115;17;46;495;Non vérifié;non
+81299;Teyssode;81;eau potable;140140;2024;88,6;0,4;2,9;65,6;conforme;56210;2464;18;50;382;Non vérifié;non
+81300;Tonnac;81;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;1479;36;98;113;Non vérifié;non
+81302;Tréban;81;eau potable : Eau potable;281854;2024;84,2;0,5;2,6;65,5;conforme;108962;870;40;72;59;Non vérifié;non
+81303;Trébas;81;eau potable : Eau potable;281854;2024;84,2;0,5;2,6;65,5;conforme;108962;5913;40;72;401;Non vérifié;non
+81304;Trévien;81;eau potable : Régie eau potable du Pôle des eaux du Carmausin Ségala;304074;2024;81,3;1,2;5,2;66,0;conforme;348648;2606;35;88;202;Non vérifié;non
+81305;Vabre;81;eau potable;140123;2024;73,3;0,6;1,6;65,3;conforme;10922;10922;41;133;726;Non vérifié;non
+81306;Valderiès;81;eau potable : Eau potable;281854;2024;84,2;0,5;2,6;65,5;conforme;108962;12195;40;72;827;Non vérifié;non
+81307;Valdurenque;81;eau potable;298354;2024;74,1;2,3;6,7;66,3;conforme;327548;16441;51;138;885;Non vérifié;non
+81308;Valence-d'Albigeois;81;eau potable : Eau potable;281854;2024;84,2;0,5;2,6;65,5;conforme;108962;18831;40;72;1277;Non vérifié;non
+81309;Vaour;81;eau potable;140124;2024;74,1;1,1;3,1;65,6;conforme;10921;10921;76;131;393;Non vérifié;non
+81310;Veilhes;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;900;17;46;143;Non vérifié;non
+81311;Vénès;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;7248;28;151;718;Non vérifié;non
+81312;Verdalle;81;eau potable;140138;2024;82,4;1,1;5,0;66,0;conforme;204765;11629;31;80;1024;Non vérifié;non
+81313;Le Verdier;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;2536;31;129;225;Non vérifié;non
+81314;Viane;81;eau potable;140148;2024;59,5;1,6;2,3;65,5;non conforme;95776;42928;223;394;528;Non vérifié;non
+81315;Vielmur-sur-Agout;81;eau potable;140140;2024;88,6;0,4;2,9;65,6;conforme;56210;8867;18;50;1375;Non vérifié;non
+81316;Vieux;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;2592;31;129;230;Non vérifié;non
+81317;Villefranche-d'Albigeois;81;eau potable;140127;2024;73,3;1,5;4,2;65,8;conforme;1100475;12355;28;151;1224;Non vérifié;non
+81318;Villeneuve-lès-Lavaur;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;875;17;46;139;Non vérifié;non
+81319;Villeneuve-sur-Vère;81;eau potable;308054;2024;76,0;0,9;2,8;65,6;conforme;26234;10052;52;124;528;Non vérifié;non
+81320;Vindrac-Alayrac;81;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;2081;36;98;159;Non vérifié;non
+81321;Le Vintrou;81;eau potable;140126;2024;80,5;0,5;1,9;65,4;conforme;1460;1460;44;96;91;Non vérifié;non
+81322;Virac;81;eau potable : Régie eau potable du Pôle des eaux du Carmausin Ségala;304074;2024;81,3;1,2;5,2;66,0;conforme;348648;3252;35;88;252;Non vérifié;non
+81323;Viterbe;81;eau potable;140140;2024;88,6;0,4;2,9;65,6;conforme;56210;2328;18;50;361;Non vérifié;non
+81324;Viviers-lès-Lavaur;81;eau potable;140134;2024;89,2;0,6;4,9;66,0;conforme;280539;1686;17;46;268;Non vérifié;non
+81325;Viviers-lès-Montagnes;81;eau potable;298354;2024;74,1;2,3;6,7;66,3;conforme;327548;37302;51;138;2008;Non vérifié;non
+81326;Sainte-Croix;81;eau potable : AEP Régie;140131;2024;74,6;1,2;3,4;65,7;conforme;891330;4699;31;129;417;Non vérifié;non

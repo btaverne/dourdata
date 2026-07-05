@@ -7,389 +7,389 @@
 # Méthodologie et code : https://github.com/btaverne/dourdata
 # Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
 # Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
-Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
-61001;Alençon;61;eau potable : principal;136040;2024;79,6;3,4;13,2;67,6;conforme;704019;388094;42;94;25490;Non vérifié
-61002;Almenêches;61;eau potable : Principal;136031;2024;75,2;1,5;4,5;65,9;conforme;143002;10051;43;123;638;Non vérifié
-61005;Appenai-sous-Bellême;61;eau potable : Régie;228014;2024;67,1;1,3;2,6;65,5;conforme;287253;4534;45;183;275;Non vérifié
-61006;Argentan;61;eau potable : Ex SMAEP de la Région d'Argentan;214784;2024;79,3;2,4;9,0;66,8;conforme;386474;198054;40;112;13527;Non vérifié
-61007;Athis-Val de Rouvre;61;eau potable : Houlme;202408;2024;81,3;0,6;2,5;65,5;conforme;181376;49629;32;109;4201;Non vérifié
-61008;Aube;61;eau potable : Régie;210881;2024;84,8;0,7;3,8;65,8;conforme;84315;8775;19;76;1254;Non vérifié
-61010;Aubry-le-Panthou;61;eau potable : SIAEP DE LA REGION DE GACE;135991;2024;82,1;1,4;6,4;66,3;conforme;166499;2383;49;113;133;Non vérifié
-61011;Aubusson;61;eau potable : Régie;136361;2024;90,6;1,2;11,3;67,3;conforme;206342;2771;19;46;391;Non vérifié
-61012;Auguaise;61;eau potable : Régie;210881;2024;84,8;0,7;3,8;65,8;conforme;84315;1372;19;76;196;Non vérifié
-61013;Aunay-les-Bois;61;eau potable;135988;2024;85,4;1,1;6,6;66,3;conforme;40724;2597;52;138;138;Non vérifié
-61014;Aunou-le-Faucon;61;eau potable : Ex SMAEP de la Région d'Argentan;214784;2024;79,3;2,4;9,0;66,8;conforme;386474;3602;40;112;246;Non vérifié
-61015;Aunou-sur-Orne;61;eau potable : Principal;136031;2024;75,2;1,5;4,5;65,9;conforme;143002;4458;43;123;283;Non vérifié
-61017;Les Authieux-du-Puits;61;eau potable;136002;2024;71,4;1,4;3,5;65,7;conforme;198575;990;33;144;83;Non vérifié
-61018;Avernes-Saint-Gourgon;61;eau potable : principal;136025;2024;82,8;0,6;2,9;65,6;conforme;28113;1052;41;76;71;Non vérifié
-61020;Avoine;61;eau potable : principal;209734;2024;68,7;1,1;2,5;65,5;conforme;104936;3228;40;163;219;Non vérifié
-61021;Avrilly;61;eau potable : du syndicat;135985;2024;90,1;0,7;6,7;66,3;conforme;111531;1001;30;39;92;Non vérifié
-61023;Bailleul;61;eau potable : SIAEP du Meillon;136362;2024;58,4;2,0;2,8;65,6;non conforme;72686;20167;91;258;609;Non vérifié
-61024;Banvou;61;eau potable : Concession ex-SMAEP+;136003;2024;81,4;1,2;5,2;66,0;conforme;179698;8000;35;107;630;Non vérifié
-61026;Barville;61;eau potable;136015;2024;82,6;0,6;3,0;65,6;conforme;28880;1405;20;74;193;Non vérifié
-61028;Bazoches-au-Houlme;61;eau potable : Houlme;202408;2024;81,3;0,6;2,5;65,5;conforme;181376;5304;32;109;449;Non vérifié
-61029;Bazoches-sur-Hoëne;61;eau potable : Territoire du Syndicat;135973;2024;74,6;1,3;3,8;65,8;conforme;71175;31903;106;192;827;Non vérifié
-61030;La Bazoque;61;eau potable : Régie;136361;2024;90,6;1,2;11,3;67,3;conforme;206342;1906;19;46;269;Non vérifié
-61032;Beaufai;61;eau potable : Régie;210881;2024;84,8;0,7;3,8;65,8;conforme;84315;2197;19;76;314;Non vérifié
-61034;Beaulieu;61;eau potable : Régie;210881;2024;84,8;0,7;3,8;65,8;conforme;84315;1484;19;76;212;Non vérifié
-61035;Beauvain;61;eau potable;135998;2024;89,8;0,2;2,2;65,4;conforme;8151;1030;11;34;258;Non vérifié
-61036;Belfonds;61;eau potable : Principal;136031;2024;75,2;1,5;4,5;65,9;conforme;143002;3340;43;123;212;Non vérifié
-61037;Bellavilliers;61;eau potable;136017;2024;75,2;0,7;2,1;65,4;conforme;40581;1599;31;121;142;Non vérifié
-61038;Bellême;61;eau potable : Régie;228014;2024;67,1;1,3;2,6;65,5;conforme;287253;24023;45;183;1457;Non vérifié
-61039;La Bellière;61;eau potable;136028;2024;67,8;1,1;2,3;65,5;conforme;53958;4156;91;178;125;Non vérifié
-61040;Bellou-en-Houlme;61;eau potable : Houlme;202408;2024;81,3;0,6;2,5;65,5;conforme;181376;12097;32;109;1024;Non vérifié
-61041;Bellou-le-Trichard;61;eau potable : Régie;228014;2024;67,1;1,3;2,6;65,5;conforme;287253;3215;45;183;195;Non vérifié
-61043;Berd'huis;61;eau potable : Périmètre Nocé;136009;2024;78,1;0,8;2,7;65,5;conforme;93568;7640;19;108;1097;Non vérifié
-61044;Berjou;61;eau potable : Régie;136361;2024;90,6;1,2;11,3;67,3;conforme;206342;2955;19;46;417;Non vérifié
-61046;Bizou;61;eau potable : principal;135997;2024;80,2;0,6;2,4;65,5;conforme;46386;1749;34;95;142;Non vérifié
-61048;Boëcé;61;eau potable : Territoire du Syndicat;135973;2024;74,6;1,3;3,8;65,8;conforme;71175;4822;106;192;125;Non vérifié
-61049;Boissei-la-Lande;61;eau potable : Principal;136031;2024;75,2;1,5;4,5;65,9;conforme;143002;1701;43;123;108;Non vérifié
-61050;Cour-Maugis sur Huisne;61;eau potable : Régie;228014;2024;67,1;1,3;2,6;65,5;conforme;287253;9612;45;183;583;Non vérifié
-61051;Boitron;61;eau potable;135988;2024;85,4;1,1;6,6;66,3;conforme;40724;6568;52;138;349;Non vérifié
-61052;Bonnefoi;61;eau potable : Régie;210881;2024;84,8;0,7;3,8;65,8;conforme;84315;1309;19;76;187;Non vérifié
-61053;Bonsmoulins;61;eau potable : Régie;210881;2024;84,8;0,7;3,8;65,8;conforme;84315;1623;19;76;232;Non vérifié
-61054;Le Bosc-Renoult;61;eau potable : principal;136025;2024;82,8;0,6;2,9;65,6;conforme;28113;3881;41;76;262;Non vérifié
-61055;Boucé;61;eau potable;136028;2024;67,8;1,1;2,3;65,5;conforme;53958;18950;91;178;570;Non vérifié
-61056;Le Bouillon;61;eau potable : Principal;136031;2024;75,2;1,5;4,5;65,9;conforme;143002;2631;43;123;167;Non vérifié
-61060;Brethel;61;eau potable : Régie;210881;2024;84,8;0,7;3,8;65,8;conforme;84315;931;19;76;133;Non vérifié
-61061;Bretoncelles;61;eau potable : principal;136012;2024;74,2;0,9;2,5;65,5;conforme;56174;15122;28;131;1455;Non vérifié
-61062;Brieux;61;eau potable : SIAEP de la Source de Commeaux - Nécy-Brieux;135977;2024;87,2;0,6;3,8;65,8;conforme;4993;708;22;58;88;Non vérifié
-61063;Briouze;61;eau potable : Houlme;202408;2024;81,3;0,6;2,5;65,5;conforme;181376;17862;32;109;1512;Non vérifié
-61064;Brullemail;61;eau potable;136002;2024;71,4;1,4;3,5;65,7;conforme;198575;1074;33;144;90;Non vérifié
-61066;Buré;61;eau potable : Territoire du Syndicat;135973;2024;74,6;1,3;3,8;65,8;conforme;71175;3781;106;192;98;Non vérifié
-61067;Bures;61;eau potable;136043;2024;73,7;1,2;3,3;65,7;conforme;73939;3075;51;133;166;Non vérifié
-61068;Bursard;61;eau potable;135988;2024;85,4;1,1;6,6;66,3;conforme;40724;3745;52;138;199;Non vérifié
-61069;Cahan;61;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;1546;26;107;161;Non vérifié
-61070;Caligny;61;eau potable : Régie;136361;2024;90,6;1,2;11,3;67,3;conforme;206342;5988;19;46;845;Non vérifié
-61071;Camembert;61;eau potable : principal;208941;2024;63,8;1,8;3,1;65,6;non conforme;116296;6459;105;272;168;Non vérifié
-61072;Canapville;61;eau potable : Canapville;135923;2024;38,2;5,0;3,1;65,6;non conforme;24674;24674;299;587;226;Non vérifié
-61074;Carrouges;61;eau potable;136037;2024;70,1;0,9;2,0;65,4;conforme;81728;7868;35;165;623;Non vérifié
-61075;Ceaucé;61;eau potable;136013;2024;77,9;0,6;2,0;65,4;conforme;81591;21375;50;115;1165;Non vérifié
-61076;Le Cercueil;61;eau potable : Ex SMAEP de la Région d'Argentan;214784;2024;79,3;2,4;9,0;66,8;conforme;386474;2123;40;112;145;Non vérifié
-61077;Cerisé;61;eau potable : principal;136040;2024;79,6;3,4;13,2;67,6;conforme;704019;12850;42;94;844;Non vérifié
-61078;Cerisy-Belle-Étoile;61;eau potable : Régie;136361;2024;90,6;1,2;11,3;67,3;conforme;206342;4911;19;46;693;Non vérifié
-61079;Ceton;61;eau potable : du Syndicat;136360;2024;72,0;1,5;4,0;65,8;conforme;118255;40444;64;140;1734;Non vérifié
-61080;Chahains;61;eau potable;136037;2024;70,1;0,9;2,0;65,4;conforme;81728;1023;35;165;81;Non vérifié
-61081;Chailloué;61;eau potable : Principal;136031;2024;75,2;1,5;4,5;65,9;conforme;143002;14021;43;123;890;Non vérifié
-61082;Le Chalange;61;eau potable : Service principal;135992;2024;75,1;0,8;2,4;65,5;conforme;40705;1315;42;124;86;Non vérifié
-61084;Champcerie;61;eau potable : Houlme;202408;2024;81,3;0,6;2,5;65,5;conforme;181376;2091;32;109;177;Non vérifié
-61085;Le Champ-de-la-Pierre;61;eau potable : principal;209734;2024;68,7;1,1;2,5;65,5;conforme;104936;413;40;163;28;Non vérifié
-61086;Les Champeaux;61;eau potable : principal;208941;2024;63,8;1,8;3,1;65,6;non conforme;116296;3691;105;272;96;Non vérifié
-61087;Champeaux-sur-Sarthe;61;eau potable : Territoire du Syndicat;135973;2024;74,6;1,3;3,8;65,8;conforme;71175;6134;106;192;159;Non vérifié
-61088;Champ-Haut;61;eau potable;136002;2024;71,4;1,4;3,5;65,7;conforme;198575;489;33;144;41;Non vérifié
-61089;Champosoult;61;eau potable : SIAEP CHAMPOSOULT;135982;2024;62,1;1,4;2,3;65,5;non conforme;40844;964;25;231;105;Non vérifié
-61091;Champsecret;61;eau potable : du syndicat;135985;2024;90,1;0,7;6,7;66,3;conforme;111531;10474;30;39;963;Non vérifié
-61092;Chandai;61;eau potable : Délégation;251474;2024;84,5;1,8;9,8;67,0;conforme;161773;8978;37;90;672;Non vérifié
-61093;Chanu;61;eau potable : CDC Tinchebray;218600;2024;83,5;0,6;2,8;65,6;conforme;75108;11422;25;79;1243;Non vérifié
-61094;La Chapelle-au-Moine;61;eau potable : Régie;136361;2024;90,6;1,2;11,3;67,3;conforme;206342;4152;19;46;586;Non vérifié
-61095;La Chapelle-Biche;61;eau potable : Régie;136361;2024;90,6;1,2;11,3;67,3;conforme;206342;3720;19;46;525;Non vérifié
-61096;Rives d'Andaine;61;eau potable;135966;2024;87,5;1,0;6,8;66,4;conforme;89129;23839;23;53;2844;Non vérifié
-61097;La Chapelle-Montligeon;61;eau potable : Nouveau service DSP;136022;2024;84,7;0,6;3,1;65,6;conforme;28472;3062;16;79;509;Non vérifié
-61098;La Chapelle-près-Sées;61;eau potable : Principal;136031;2024;75,2;1,5;4,5;65,9;conforme;143002;7751;43;123;492;Non vérifié
-61099;La Chapelle-Souëf;61;eau potable : Régie;228014;2024;67,1;1,3;2,6;65,5;conforme;287253;4056;45;183;246;Non vérifié
-61100;La Chapelle-Viel;61;eau potable : Régie;210881;2024;84,8;0,7;3,8;65,8;conforme;84315;2022;19;76;289;Non vérifié
-61101;Le Château-d'Almenêches;61;eau potable : Principal;136031;2024;75,2;1,5;4,5;65,9;conforme;143002;2867;43;123;182;Non vérifié
-61102;Le Châtellier;61;eau potable : Concession ex-SMAEP+;136003;2024;81,4;1,2;5,2;66,0;conforme;179698;5092;35;107;401;Non vérifié
-61103;Chaumont;61;eau potable : principal;206024;2024;67,7;1,2;2,5;65,5;conforme;163006;3648;61;178;165;Non vérifié
-61104;La Chaux;61;eau potable : principal;209734;2024;68,7;1,1;2,5;65,5;conforme;104936;781;40;163;53;Non vérifié
-61105;Chemilli;61;eau potable : Régie;228014;2024;67,1;1,3;2,6;65,5;conforme;287253;2803;45;183;170;Non vérifié
-61107;Ciral;61;eau potable;136037;2024;70,1;0,9;2,0;65,4;conforme;81728;5166;35;165;409;Non vérifié
-61108;Cisai-Saint-Aubin;61;eau potable : SIAEP DE LA REGION DE GACE;135991;2024;82,1;1,4;6,4;66,3;conforme;166499;3297;49;113;184;Non vérifié
-61111;Colombiers;61;eau potable : principal;136040;2024;79,6;3,4;13,2;67,6;conforme;704019;5116;42;94;336;Non vérifié
-61113;Comblot;61;eau potable : Nouveau service DSP;136022;2024;84,7;0,6;3,1;65,6;conforme;28472;349;16;79;58;Non vérifié
-61114;Commeaux;61;eau potable : SIAEP de la source de Commeaux;136034;2024;81,1;0,8;3,3;65,7;conforme;28368;640;12;126;146;Non vérifié
-61116;Sablons sur Huisne;61;eau potable : Périmètre Rémalard / Sablons / Cour Maugis-sur-Huisne;227574;2024;77,1;1,0;3,4;65,7;conforme;59959;23715;33;110;1976;Non vérifié
-61117;Condé-sur-Sarthe;61;eau potable : principal;136040;2024;79,6;3,4;13,2;67,6;conforme;704019;37972;42;94;2494;Non vérifié
-61118;Corbon;61;eau potable : ex SMAEP Haut Perche;209644;2024;82,2;1,1;4,9;66,0;conforme;169317;1455;36;89;111;Non vérifié
-61120;Coudehard;61;eau potable : SIAEP CHAMPOSOULT;135982;2024;62,1;1,4;2,3;65,5;non conforme;40844;707;25;231;77;Non vérifié
-61121;Coulimer;61;eau potable;136017;2024;75,2;0,7;2,1;65,4;conforme;40581;3209;31;121;285;Non vérifié
-61122;Coulmer;61;eau potable : SIAEP DE LA REGION DE GACE;135991;2024;82,1;1,4;6,4;66,3;conforme;166499;1451;49;113;81;Non vérifié
-61123;Coulonces;61;eau potable : SIAEP du Meillon;136362;2024;58,4;2,0;2,8;65,6;non conforme;72686;6921;91;258;209;Non vérifié
-61124;La Coulonche;61;eau potable : Concession ex-SMAEP+;136003;2024;81,4;1,2;5,2;66,0;conforme;179698;6311;35;107;497;Non vérifié
-61126;Coulonges-sur-Sarthe;61;eau potable;136043;2024;73,7;1,2;3,3;65,7;conforme;73939;8890;51;133;480;Non vérifié
-61129;Courgeon;61;eau potable : Nouveau service DSP;136022;2024;84,7;0,6;3,1;65,6;conforme;28472;2105;16;79;350;Non vérifié
-61130;Courgeoût;61;eau potable : ex SMAEP Haut Perche;209644;2024;82,2;1,1;4,9;66,0;conforme;169317;6005;36;89;458;Non vérifié
-61133;Courtomer;61;eau potable : Service principal;135992;2024;75,1;0,8;2,4;65,5;conforme;40705;11174;42;124;731;Non vérifié
-61137;Craménil;61;eau potable : Houlme;202408;2024;81,3;0,6;2,5;65,5;conforme;181376;1548;32;109;131;Non vérifié
-61138;Croisilles;61;eau potable : SIAEP DE LA REGION DE GACE;135991;2024;82,1;1,4;6,4;66,3;conforme;166499;3297;49;113;184;Non vérifié
-61139;Crouttes;61;eau potable : principal;208941;2024;63,8;1,8;3,1;65,6;non conforme;116296;11764;105;272;306;Non vérifié
-61140;Crulai;61;eau potable : Délégation;251474;2024;84,5;1,8;9,8;67,0;conforme;161773;10648;37;90;797;Non vérifié
-61141;Cuissai;61;eau potable : principal;136040;2024;79,6;3,4;13,2;67,6;conforme;704019;6638;42;94;436;Non vérifié
-61142;Dame-Marie;61;eau potable : Régie;228014;2024;67,1;1,3;2,6;65,5;conforme;287253;2753;45;183;167;Non vérifié
-61143;Damigny;61;eau potable : principal;136040;2024;79,6;3,4;13,2;67,6;conforme;704019;37241;42;94;2446;Non vérifié
-61145;Domfront en Poiraie;61;eau potable : du syndicat;135985;2024;90,1;0,7;6,7;66,3;conforme;111531;44736;30;39;4113;Non vérifié
-61146;Dompierre;61;eau potable : Concession ex-SMAEP+;136003;2024;81,4;1,2;5,2;66,0;conforme;179698;4825;35;107;380;Non vérifié
-61148;Durcet;61;eau potable : Houlme;202408;2024;81,3;0,6;2,5;65,5;conforme;181376;3379;32;109;286;Non vérifié
-61149;Échalou;61;eau potable : Concession ex-SMAEP+;136003;2024;81,4;1,2;5,2;66,0;conforme;179698;4051;35;107;319;Non vérifié
-61150;Échauffour;61;eau potable;136002;2024;71,4;1,4;3,5;65,7;conforme;198575;8554;33;144;717;Non vérifié
-61151;Écorcei;61;eau potable : Régie;210881;2024;84,8;0,7;3,8;65,8;conforme;84315;2568;19;76;367;Non vérifié
-61152;Écorches;61;eau potable : principal;208941;2024;63,8;1,8;3,1;65,6;non conforme;116296;3883;105;272;101;Non vérifié
-61153;Écouché-les-Vallées;61;eau potable : Ex SMAEP de la Région d'Argentan;214784;2024;79,3;2,4;9,0;66,8;conforme;386474;32109;40;112;2193;Non vérifié
-61156;Essay;61;eau potable;135988;2024;85,4;1,1;6,6;66,3;conforme;40724;10463;52;138;556;Non vérifié
-61158;Faverolles;61;eau potable : principal;209734;2024;68,7;1,1;2,5;65,5;conforme;104936;1916;40;163;130;Non vérifié
-61159;Fay;61;eau potable : SIAEP Moulin la Marche;136007;2024;81,6;1,0;4,5;65,9;conforme;35752;1799;71;155;69;Non vérifié
-61160;Feings;61;eau potable : ex SMAEP Haut Perche;209644;2024;82,2;1,1;4,9;66,0;conforme;169317;2544;36;89;194;Non vérifié
-61162;La Ferrière-au-Doyen;61;eau potable : Régie;210881;2024;84,8;0,7;3,8;65,8;conforme;84315;1099;19;76;157;Non vérifié
-61163;La Ferrière-aux-Étangs;61;eau potable : Concession ex-SMAEP+;136003;2024;81,4;1,2;5,2;66,0;conforme;179698;19123;35;107;1506;Non vérifié
-61164;La Ferrière-Béchet;61;eau potable : Ex SMAEP de la Région d'Argentan;214784;2024;79,3;2,4;9,0;66,8;conforme;386474;3587;40;112;245;Non vérifié
-61165;La Ferrière-Bochard;61;eau potable : principal;136040;2024;79,6;3,4;13,2;67,6;conforme;704019;10795;42;94;709;Non vérifié
-61166;Ferrières-la-Verrerie;61;eau potable : SIAEP Moulin la Marche;136007;2024;81,6;1,0;4,5;65,9;conforme;35752;4198;71;155;161;Non vérifié
-61167;La Ferté-en-Ouche;61;eau potable : Régie;210881;2024;84,8;0,7;3,8;65,8;conforme;84315;20559;19;76;2938;Non vérifié
-61168;La Ferté Macé;61;eau potable : Concession ex-SMAEP+;136003;2024;81,4;1,2;5,2;66,0;conforme;179698;64390;35;107;5071;Non vérifié
-61169;Flers;61;eau potable : Régie;136361;2024;90,6;1,2;11,3;67,3;conforme;206342;102264;19;46;14432;Non vérifié
-61170;Fleuré;61;eau potable : Ex SMAEP de la Région d'Argentan;214784;2024;79,3;2,4;9,0;66,8;conforme;386474;2972;40;112;203;Non vérifié
-61171;Fontaine-les-Bassets;61;eau potable : principal;208941;2024;63,8;1,8;3,1;65,6;non conforme;116296;4383;105;272;114;Non vérifié
-61176;Francheville;61;eau potable;136028;2024;67,8;1,1;2,3;65,5;conforme;53958;4322;91;178;130;Non vérifié
-61178;La Fresnaie-Fayel;61;eau potable : SIAEP DE LA REGION DE GACE;135991;2024;82,1;1,4;6,4;66,3;conforme;166499;896;49;113;50;Non vérifié
-61180;Fresnay-le-Samson;61;eau potable : SIAEP CHAMPOSOULT;135982;2024;62,1;1,4;2,3;65,5;non conforme;40844;991;25;231;108;Non vérifié
-61181;Gacé;61;eau potable : principal;206024;2024;67,7;1,2;2,5;65,5;conforme;163006;39049;61;178;1766;Non vérifié
-61182;Gandelain;61;eau potable;136037;2024;70,1;0,9;2,0;65,4;conforme;81728;5153;35;165;408;Non vérifié
-61183;Gâprée;61;eau potable : Service principal;135992;2024;75,1;0,8;2,4;65,5;conforme;40705;2171;42;124;142;Non vérifié
-61187;Les Genettes;61;eau potable : Régie;210881;2024;84,8;0,7;3,8;65,8;conforme;84315;1120;19;76;160;Non vérifié
-61188;La Genevraie;61;eau potable;136002;2024;71,4;1,4;3,5;65,7;conforme;198575;1133;33;144;95;Non vérifié
-61189;Giel-Courteilles;61;eau potable : SIAEP de la source de Commeaux;136034;2024;81,1;0,8;3,3;65,7;conforme;28368;2141;12;126;488;Non vérifié
-61190;Ginai;61;eau potable : SIAEP DE LA REGION DE GACE;135991;2024;82,1;1,4;6,4;66,3;conforme;166499;1326;49;113;74;Non vérifié
-61192;Godisson;61;eau potable;136002;2024;71,4;1,4;3,5;65,7;conforme;198575;1289;33;144;108;Non vérifié
-61193;La Gonfrière;61;eau potable : principal;206024;2024;67,7;1,2;2,5;65,5;conforme;163006;5992;61;178;271;Non vérifié
-61194;Monts-sur-Orne;61;eau potable : Ex SMAEP de la Région d'Argentan;214784;2024;79,3;2,4;9,0;66,8;conforme;386474;12797;40;112;874;Non vérifié
-61195;Le Grais;61;eau potable : Houlme;202408;2024;81,3;0,6;2,5;65,5;conforme;181376;2457;32;109;208;Non vérifié
-61196;Belforêt-en-Perche;61;eau potable : Régie;228014;2024;67,1;1,3;2,6;65,5;conforme;287253;24303;45;183;1474;Non vérifié
-61197;Guêprei;61;eau potable : SIAEP du Meillon;136362;2024;58,4;2,0;2,8;65,6;non conforme;72686;5067;91;258;153;Non vérifié
-61198;Guerquesalles;61;eau potable : SIAEP DE LA REGION DE GACE;135991;2024;82,1;1,4;6,4;66,3;conforme;166499;2186;49;113;122;Non vérifié
-61199;Habloville;61;eau potable : SIAEP de la source de Commeaux;136034;2024;81,1;0,8;3,3;65,7;conforme;28368;1474;12;126;336;Non vérifié
-61202;Hauterive;61;eau potable;136038;2024;61,3;1,7;2,8;65,6;non conforme;68727;7939;48;224;457;Non vérifié
-61203;Héloup;61;eau potable : principal;136040;2024;79,6;3,4;13,2;67,6;conforme;704019;13688;42;94;899;Non vérifié
-61206;L' Hôme-Chamondot;61;eau potable : Nouveau service DSP;136022;2024;84,7;0,6;3,1;65,6;conforme;28472;1600;16;79;266;Non vérifié
-61207;Igé;61;eau potable : Régie;228014;2024;67,1;1,3;2,6;65,5;conforme;287253;9645;45;183;585;Non vérifié
-61208;Irai;61;eau potable : Régie;210881;2024;84,8;0,7;3,8;65,8;conforme;84315;4220;19;76;603;Non vérifié
-61209;Joué-du-Bois;61;eau potable : principal;209734;2024;68,7;1,1;2,5;65,5;conforme;104936;5631;40;163;382;Non vérifié
-61210;Joué-du-Plain;61;eau potable : principal;209734;2024;68,7;1,1;2,5;65,5;conforme;104936;3434;40;163;233;Non vérifié
-61211;Juvigny Val d'Andaine;61;eau potable : du syndicat;135985;2024;90,1;0,7;6,7;66,3;conforme;111531;22776;30;39;2094;Non vérifié
-61212;Juvigny-sur-Orne;61;eau potable : Ex SMAEP de la Région d'Argentan;214784;2024;79,3;2,4;9,0;66,8;conforme;386474;1552;40;112;106;Non vérifié
-61213;Lalacelle;61;eau potable;136037;2024;70,1;0,9;2,0;65,4;conforme;81728;3322;35;165;263;Non vérifié
-61214;L' Aigle;61;eau potable : Délégation;251474;2024;84,5;1,8;9,8;67,0;conforme;161773;102376;37;90;7663;Non vérifié
-61215;Laleu;61;eau potable;136043;2024;73,7;1,2;3,3;65,7;conforme;73939;6705;51;133;362;Non vérifié
-61216;La Lande-de-Goult;61;eau potable;136028;2024;67,8;1,1;2,3;65,5;conforme;53958;6051;91;178;182;Non vérifié
-61217;La Lande-de-Lougé;61;eau potable : Houlme;202408;2024;81,3;0,6;2,5;65,5;conforme;181376;673;32;109;57;Non vérifié
-61218;La Lande-Patry;61;eau potable : Régie;136361;2024;90,6;1,2;11,3;67,3;conforme;206342;12259;19;46;1730;Non vérifié
-61219;La Lande-Saint-Siméon;61;eau potable : Houlme;202408;2024;81,3;0,6;2,5;65,5;conforme;181376;1961;32;109;166;Non vérifié
-61221;Landigou;61;eau potable : Régie;136361;2024;90,6;1,2;11,3;67,3;conforme;206342;2955;19;46;417;Non vérifié
-61222;Landisacq;61;eau potable : Régie;136361;2024;90,6;1,2;11,3;67,3;conforme;206342;5421;19;46;765;Non vérifié
-61224;Larré;61;eau potable;136038;2024;61,3;1,7;2,8;65,6;non conforme;68727;7974;48;224;459;Non vérifié
-61225;Lignères;61;eau potable;136002;2024;71,4;1,4;3,5;65,7;conforme;198575;382;33;144;32;Non vérifié
-61227;Lignou;61;eau potable : Houlme;202408;2024;81,3;0,6;2,5;65,5;conforme;181376;1607;32;109;136;Non vérifié
-61228;L'Orée-d'Écouves;61;eau potable;136037;2024;70,1;0,9;2,0;65,4;conforme;81728;8955;35;165;709;Non vérifié
-61229;Loisail;61;eau potable : Nouveau service DSP;136022;2024;84,7;0,6;3,1;65,6;conforme;28472;812;16;79;135;Non vérifié
-61230;Longny les Villages;61;eau potable : principal;136012;2024;74,2;0,9;2,5;65,5;conforme;56174;29214;28;131;2811;Non vérifié
-61232;Lonlay-l'Abbaye;61;eau potable : du syndicat;135985;2024;90,1;0,7;6,7;66,3;conforme;111531;12215;30;39;1123;Non vérifié
-61233;Lonlay-le-Tesson;61;eau potable : Houlme;202408;2024;81,3;0,6;2,5;65,5;conforme;181376;2705;32;109;229;Non vérifié
-61234;Lonrai;61;eau potable : principal;136040;2024;79,6;3,4;13,2;67,6;conforme;704019;16169;42;94;1062;Non vérifié
-61237;Lougé-sur-Maire;61;eau potable : principal;209734;2024;68,7;1,1;2,5;65,5;conforme;104936;4599;40;163;312;Non vérifié
-61238;Louvières-en-Auge;61;eau potable : principal;208941;2024;63,8;1,8;3,1;65,6;non conforme;116296;3460;105;272;90;Non vérifié
-61240;Macé;61;eau potable : Principal;136031;2024;75,2;1,5;4,5;65,9;conforme;143002;7247;43;123;460;Non vérifié
-61241;La Madeleine-Bouvet;61;eau potable : principal;136012;2024;74,2;0,9;2,5;65,5;conforme;56174;4157;28;131;400;Non vérifié
-61242;Le Mage;61;eau potable : principal;135997;2024;80,2;0,6;2,4;65,5;conforme;46386;2845;34;95;231;Non vérifié
-61243;Magny-le-Désert;61;eau potable;135998;2024;89,8;0,2;2,2;65,4;conforme;8151;5553;11;34;1391;Non vérifié
-61244;Mahéru;61;eau potable : Régie;210881;2024;84,8;0,7;3,8;65,8;conforme;84315;1945;19;76;278;Non vérifié
-61248;Mantilly;61;eau potable;136013;2024;77,9;0,6;2,0;65,4;conforme;81591;9320;50;115;508;Non vérifié
-61251;Marchemaisons;61;eau potable;136043;2024;73,7;1,2;3,3;65,7;conforme;73939;3001;51;133;162;Non vérifié
-61252;Mardilly;61;eau potable : SIAEP DE LA REGION DE GACE;135991;2024;82,1;1,4;6,4;66,3;conforme;166499;2347;49;113;131;Non vérifié
-61255;Mauves-sur-Huisne;61;eau potable : ex SMAEP Haut Perche;209644;2024;82,2;1,1;4,9;66,0;conforme;169317;6989;36;89;533;Non vérifié
-61256;Médavy;61;eau potable : Principal;136031;2024;75,2;1,5;4,5;65,9;conforme;143002;2395;43;123;152;Non vérifié
-61257;Méhoudin;61;eau potable;135966;2024;87,5;1,0;6,8;66,4;conforme;89129;1014;23;53;121;Non vérifié
-61258;Le Mêle-sur-Sarthe;61;eau potable;136043;2024;73,7;1,2;3,3;65,7;conforme;73939;12206;51;133;659;Non vérifié
-61259;Le Ménil-Bérard;61;eau potable : Régie;210881;2024;84,8;0,7;3,8;65,8;conforme;84315;469;19;76;67;Non vérifié
-61260;Le Ménil-de-Briouze;61;eau potable : Houlme;202408;2024;81,3;0,6;2,5;65,5;conforme;181376;6391;32;109;541;Non vérifié
-61261;Le Ménil-Broût;61;eau potable;136038;2024;61,3;1,7;2,8;65,6;non conforme;68727;3075;48;224;177;Non vérifié
-61262;Le Ménil-Ciboult;61;eau potable : CDC Tinchebray;218600;2024;83,5;0,6;2,8;65,6;conforme;75108;1158;25;79;126;Non vérifié
-61263;Ménil-Erreux;61;eau potable;136038;2024;61,3;1,7;2,8;65,6;non conforme;68727;3544;48;224;204;Non vérifié
-61264;Ménil-Froger;61;eau potable;136002;2024;71,4;1,4;3,5;65,7;conforme;198575;752;33;144;63;Non vérifié
-61265;Ménil-Gondouin;61;eau potable : Houlme;202408;2024;81,3;0,6;2,5;65,5;conforme;181376;1843;32;109;156;Non vérifié
-61266;Le Ménil-Guyon;61;eau potable;135988;2024;85,4;1,1;6,6;66,3;conforme;40724;1581;52;138;84;Non vérifié
-61267;Ménil-Hermei;61;eau potable : Houlme;202408;2024;81,3;0,6;2,5;65,5;conforme;181376;2457;32;109;208;Non vérifié
-61268;Ménil-Hubert-en-Exmes;61;eau potable : SIAEP DE LA REGION DE GACE;135991;2024;82,1;1,4;6,4;66,3;conforme;166499;2257;49;113;126;Non vérifié
-61269;Ménil-Hubert-sur-Orne;61;eau potable : Houlme;202408;2024;81,3;0,6;2,5;65,5;conforme;181376;5576;32;109;472;Non vérifié
-61271;Le Ménil-Scelleur;61;eau potable;136028;2024;67,8;1,1;2,3;65,5;conforme;53958;3059;91;178;92;Non vérifié
-61272;Le Ménil-Vicomte;61;eau potable;136002;2024;71,4;1,4;3,5;65,7;conforme;198575;346;33;144;29;Non vérifié
-61273;Ménil-Vin;61;eau potable : Houlme;202408;2024;81,3;0,6;2,5;65,5;conforme;181376;602;32;109;51;Non vérifié
-61274;Les Menus;61;eau potable : principal;136012;2024;74,2;0,9;2,5;65,5;conforme;56174;2536;28;131;244;Non vérifié
-61275;Le Merlerault;61;eau potable;136002;2024;71,4;1,4;3,5;65,7;conforme;198575;17049;33;144;1429;Non vérifié
-61276;Merri;61;eau potable : SIAEP du Meillon;136362;2024;58,4;2,0;2,8;65,6;non conforme;72686;4934;91;258;149;Non vérifié
-61277;La Mesnière;61;eau potable : Territoire du Syndicat;135973;2024;74,6;1,3;3,8;65,8;conforme;71175;10647;106;192;276;Non vérifié
-61278;Messei;61;eau potable : Concession ex-SMAEP+;136003;2024;81,4;1,2;5,2;66,0;conforme;179698;23199;35;107;1827;Non vérifié
-61279;Mieuxcé;61;eau potable : principal;136040;2024;79,6;3,4;13,2;67,6;conforme;704019;9394;42;94;617;Non vérifié
-61281;Moncy;61;eau potable : CDC Tinchebray;218600;2024;83,5;0,6;2,8;65,6;conforme;75108;2398;25;79;261;Non vérifié
-61283;Montabard;61;eau potable : SIAEP du Meillon;136362;2024;58,4;2,0;2,8;65,6;non conforme;72686;9504;91;258;287;Non vérifié
-61284;Montchevrel;61;eau potable : Service principal;135992;2024;75,1;0,8;2,4;65,5;conforme;40705;3485;42;124;228;Non vérifié
-61286;Montgaudry;61;eau potable;136015;2024;82,6;0,6;3,0;65,6;conforme;28880;786;20;74;108;Non vérifié
-61287;Montilly-sur-Noireau;61;eau potable : Régie;136361;2024;90,6;1,2;11,3;67,3;conforme;206342;5123;19;46;723;Non vérifié
-61288;Montmerrei;61;eau potable : Ex SMAEP de la Région d'Argentan;214784;2024;79,3;2,4;9,0;66,8;conforme;386474;8199;40;112;560;Non vérifié
-61289;Mont-Ormel;61;eau potable : SIAEP CHAMPOSOULT;135982;2024;62,1;1,4;2,3;65,5;non conforme;40844;459;25;231;50;Non vérifié
-61290;Montreuil-au-Houlme;61;eau potable : Houlme;202408;2024;81,3;0,6;2,5;65,5;conforme;181376;1477;32;109;125;Non vérifié
-61291;Montreuil-la-Cambe;61;eau potable : principal;208941;2024;63,8;1,8;3,1;65,6;non conforme;116296;3076;105;272;80;Non vérifié
-61292;Montsecret-Clairefougère;61;eau potable : CDC Tinchebray;218600;2024;83,5;0,6;2,8;65,6;conforme;75108;6129;25;79;667;Non vérifié
-61293;Mortagne-au-Perche;61;eau potable : ex SMAEP Haut Perche;209644;2024;82,2;1,1;4,9;66,0;conforme;169317;51111;36;89;3898;Non vérifié
-61294;Mortrée;61;eau potable : Ex SMAEP de la Région d'Argentan;214784;2024;79,3;2,4;9,0;66,8;conforme;386474;16325;40;112;1115;Non vérifié
-61295;La Motte-Fouquet;61;eau potable;135998;2024;89,8;0,2;2,2;65,4;conforme;8151;623;11;34;156;Non vérifié
-61297;Moulins-la-Marche;61;eau potable : SIAEP Moulin la Marche;136007;2024;81,6;1,0;4,5;65,9;conforme;35752;18515;71;155;710;Non vérifié
-61298;Moulins-sur-Orne;61;eau potable : Ex SMAEP de la Région d'Argentan;214784;2024;79,3;2,4;9,0;66,8;conforme;386474;4480;40;112;306;Non vérifié
-61300;Moutiers-au-Perche;61;eau potable : Périmètre Rémalard / Sablons / Cour Maugis-sur-Huisne;227574;2024;77,1;1,0;3,4;65,7;conforme;59959;4392;33;110;366;Non vérifié
-61301;Neauphe-sous-Essai;61;eau potable : Principal;136031;2024;75,2;1,5;4,5;65,9;conforme;143002;3308;43;123;210;Non vérifié
-61302;Neauphe-sur-Dive;61;eau potable : Neauphe-sur-Dive;135957;2024;86,1;0,4;2,6;65,5;conforme;3212;1150;24;55;131;Non vérifié
-61303;Nécy;61;eau potable : SIAEP de la Source de Commeaux - Nécy-Brieux;135977;2024;87,2;0,6;3,8;65,8;conforme;4993;4286;22;58;533;Non vérifié
-61304;Neuilly-le-Bisson;61;eau potable;136038;2024;61,3;1,7;2,8;65,6;non conforme;68727;4795;48;224;276;Non vérifié
-61307;Neuville-sur-Touques;61;eau potable : principal;206024;2024;67,7;1,2;2,5;65,5;conforme;163006;5064;61;178;229;Non vérifié
-61308;Neuvy-au-Houlme;61;eau potable : Houlme;202408;2024;81,3;0,6;2,5;65,5;conforme;181376;2304;32;109;195;Non vérifié
-61309;Perche en Nocé;61;eau potable : Régie;228014;2024;67,1;1,3;2,6;65,5;conforme;287253;32250;45;183;1956;Non vérifié
-61310;Nonant-le-Pin;61;eau potable;136002;2024;71,4;1,4;3,5;65,7;conforme;198575;5250;33;144;440;Non vérifié
-61314;Occagnes;61;eau potable : SIAEP du Meillon;136362;2024;58,4;2,0;2,8;65,6;non conforme;72686;22220;91;258;671;Non vérifié
-61316;Ommoy;61;eau potable : SIAEP du Meillon;136362;2024;58,4;2,0;2,8;65,6;non conforme;72686;3874;91;258;117;Non vérifié
-61317;Orgères;61;eau potable;136002;2024;71,4;1,4;3,5;65,7;conforme;198575;2148;33;144;180;Non vérifié
-61319;Origny-le-Roux;61;eau potable : Régie;228014;2024;67,1;1,3;2,6;65,5;conforme;287253;4138;45;183;251;Non vérifié
-61321;Pacé;61;eau potable : principal;136040;2024;79,6;3,4;13,2;67,6;conforme;704019;6151;42;94;404;Non vérifié
-61322;Parfondeval;61;eau potable;136017;2024;75,2;0,7;2,1;65,4;conforme;40581;1149;31;121;102;Non vérifié
-61323;Le Pas-Saint-l'Homer;61;eau potable : principal;136012;2024;74,2;0,9;2,5;65,5;conforme;56174;1341;28;131;129;Non vérifié
-61324;Passais Villages;61;eau potable;136013;2024;77,9;0,6;2,0;65,4;conforme;81591;21283;50;115;1160;Non vérifié
-61326;Perrou;61;eau potable : du syndicat;135985;2024;90,1;0,7;6,7;66,3;conforme;111531;3252;30;39;299;Non vérifié
-61327;Pervenchères;61;eau potable;136015;2024;82,6;0,6;3,0;65,6;conforme;28880;2505;20;74;344;Non vérifié
-61328;Le Pin-au-Haras;61;eau potable : Ex SMAEP de la Région d'Argentan;214784;2024;79,3;2,4;9,0;66,8;conforme;386474;3558;40;112;243;Non vérifié
-61329;Le Pin-la-Garenne;61;eau potable;136017;2024;75,2;0,7;2,1;65,4;conforme;40581;6959;31;121;618;Non vérifié
-61330;Planches;61;eau potable;136002;2024;71,4;1,4;3,5;65,7;conforme;198575;2148;33;144;180;Non vérifié
-61331;Le Plantis;61;eau potable : Service principal;135992;2024;75,1;0,8;2,4;65,5;conforme;40705;1911;42;124;125;Non vérifié
-61332;Pointel;61;eau potable : Houlme;202408;2024;81,3;0,6;2,5;65,5;conforme;181376;3556;32;109;301;Non vérifié
-61333;Pontchardon;61;eau potable : principal;136025;2024;82,8;0,6;2,9;65,6;conforme;28113;2844;41;76;192;Non vérifié
-61336;Pouvrai;61;eau potable : Régie;228014;2024;67,1;1,3;2,6;65,5;conforme;287253;1698;45;183;103;Non vérifié
-61339;Putanges-le-Lac;61;eau potable : Houlme;202408;2024;81,3;0,6;2,5;65,5;conforme;181376;24726;32;109;2093;Non vérifié
-61341;Écouves;61;eau potable : principal;136040;2024;79,6;3,4;13,2;67,6;conforme;704019;25320;42;94;1663;Non vérifié
-61342;Rai;61;eau potable : Régie;210881;2024;84,8;0,7;3,8;65,8;conforme;84315;10007;19;76;1430;Non vérifié
-61344;Rânes;61;eau potable : principal;209734;2024;68,7;1,1;2,5;65,5;conforme;104936;15271;40;163;1036;Non vérifié
-61345;Rémalard en Perche;61;eau potable : Périmètre Rémalard / Sablons / Cour Maugis-sur-Huisne;227574;2024;77,1;1,0;3,4;65,7;conforme;59959;22394;33;110;1866;Non vérifié
-61346;Le Renouard;61;eau potable : principal;208941;2024;63,8;1,8;3,1;65,6;non conforme;116296;7804;105;272;203;Non vérifié
-61347;Résenlieu;61;eau potable : SIAEP DE LA REGION DE GACE;135991;2024;82,1;1,4;6,4;66,3;conforme;166499;3064;49;113;171;Non vérifié
-61348;Réveillon;61;eau potable : Nouveau service DSP;136022;2024;84,7;0,6;3,1;65,6;conforme;28472;2099;16;79;349;Non vérifié
-61349;Ri;61;eau potable : SIAEP de la source de Commeaux;136034;2024;81,1;0,8;3,3;65,7;conforme;28368;680;12;126;155;Non vérifié
-61350;La Roche-Mabile;61;eau potable;136037;2024;70,1;0,9;2,0;65,4;conforme;81728;2071;35;165;164;Non vérifié
-61351;Roiville;61;eau potable : SIAEP DE LA REGION DE GACE;135991;2024;82,1;1,4;6,4;66,3;conforme;166499;2383;49;113;133;Non vérifié
-61352;Rônai;61;eau potable : SIAEP de la source de Commeaux;136034;2024;81,1;0,8;3,3;65,7;conforme;28368;798;12;126;182;Non vérifié
-61357;Rouperroux;61;eau potable;136037;2024;70,1;0,9;2,0;65,4;conforme;81728;2198;35;165;174;Non vérifié
-61358;Sai;61;eau potable : Ex SMAEP de la Région d'Argentan;214784;2024;79,3;2,4;9,0;66,8;conforme;386474;3368;40;112;230;Non vérifié
-61360;Saint-Agnan-sur-Sarthe;61;eau potable : SIAEP Moulin la Marche;136007;2024;81,6;1,0;4,5;65,9;conforme;35752;2269;71;155;87;Non vérifié
-61361;Saint-André-de-Briouze;61;eau potable : Houlme;202408;2024;81,3;0,6;2,5;65,5;conforme;181376;2103;32;109;178;Non vérifié
-61362;Saint-André-de-Messei;61;eau potable : Concession ex-SMAEP+;136003;2024;81,4;1,2;5,2;66,0;conforme;179698;6577;35;107;518;Non vérifié
-61363;Saint-Aquilin-de-Corbion;61;eau potable : Régie;210881;2024;84,8;0,7;3,8;65,8;conforme;84315;420;19;76;60;Non vérifié
-61365;Saint-Aubin-d'Appenai;61;eau potable;136043;2024;73,7;1,2;3,3;65,7;conforme;73939;8168;51;133;441;Non vérifié
-61366;Saint-Aubin-de-Bonneval;61;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;1762;37;129;131;Non vérifié
-61367;Saint-Aubin-de-Courteraie;61;eau potable : Territoire du Syndicat;135973;2024;74,6;1,3;3,8;65,8;conforme;71175;4976;106;192;129;Non vérifié
-61369;Saint-Bômer-les-Forges;61;eau potable : du syndicat;135985;2024;90,1;0,7;6,7;66,3;conforme;111531;11127;30;39;1023;Non vérifié
-61370;Saint-Brice;61;eau potable : du syndicat;135985;2024;90,1;0,7;6,7;66,3;conforme;111531;1632;30;39;150;Non vérifié
-61371;Saint-Brice-sous-Rânes;61;eau potable : principal;209734;2024;68,7;1,1;2,5;65,5;conforme;104936;2093;40;163;142;Non vérifié
-61372;Saint-Céneri-le-Gérei;61;eau potable : principal;136040;2024;79,6;3,4;13,2;67,6;conforme;704019;1675;42;94;110;Non vérifié
-61373;Sainte-Céronne-lès-Mortagne;61;eau potable : ex SMAEP Haut Perche;209644;2024;82,2;1,1;4,9;66,0;conforme;169317;3291;36;89;251;Non vérifié
-61374;Saint-Christophe-de-Chaulieu;61;eau potable : CDC Tinchebray;218600;2024;83,5;0,6;2,8;65,6;conforme;75108;772;25;79;84;Non vérifié
-61375;Boischampré;61;eau potable : Ex SMAEP de la Région d'Argentan;214784;2024;79,3;2,4;9,0;66,8;conforme;386474;17116;40;112;1169;Non vérifié
-61376;Saint-Clair-de-Halouze;61;eau potable : Régie;136361;2024;90,6;1,2;11,3;67,3;conforme;206342;5754;19;46;812;Non vérifié
-61379;Saint-Cyr-la-Rosière;61;eau potable : Régie;228014;2024;67,1;1,3;2,6;65,5;conforme;287253;3809;45;183;231;Non vérifié
-61381;Saint-Denis-sur-Huisne;61;eau potable;136017;2024;75,2;0,7;2,1;65,4;conforme;40581;664;31;121;59;Non vérifié
-61382;Saint-Denis-sur-Sarthon;61;eau potable : principal;136040;2024;79,6;3,4;13,2;67,6;conforme;704019;16063;42;94;1055;Non vérifié
-61384;Saint-Ellier-les-Bois;61;eau potable;136037;2024;70,1;0,9;2,0;65,4;conforme;81728;3208;35;165;254;Non vérifié
-61385;Saint-Evroult-de-Montfort;61;eau potable : principal;206024;2024;67,7;1,2;2,5;65,5;conforme;163006;8181;61;178;370;Non vérifié
-61386;Saint-Evroult-Notre-Dame-du-Bois;61;eau potable : principal;206024;2024;67,7;1,2;2,5;65,5;conforme;163006;9729;61;178;440;Non vérifié
-61387;Saint-Fraimbault;61;eau potable;136013;2024;77,9;0,6;2,0;65,4;conforme;81591;9999;50;115;545;Non vérifié
-61388;Saint-Fulgent-des-Ormes;61;eau potable : Régie;228014;2024;67,1;1,3;2,6;65,5;conforme;287253;2836;45;183;172;Non vérifié
-61389;Sainte-Gauburge-Sainte-Colombe;61;eau potable;136002;2024;71,4;1,4;3,5;65,7;conforme;198575;12002;33;144;1006;Non vérifié
-61390;Saint-Georges-d'Annebecq;61;eau potable : principal;209734;2024;68,7;1,1;2,5;65,5;conforme;104936;2403;40;163;163;Non vérifié
-61391;Saint-Georges-des-Groseillers;61;eau potable : Régie;136361;2024;90,6;1,2;11,3;67,3;conforme;206342;22484;19;46;3173;Non vérifié
-61392;Saint-Germain-d'Aunay;61;eau potable : principal;136025;2024;82,8;0,6;2,9;65,6;conforme;28113;1718;41;76;116;Non vérifié
-61393;Saint-Germain-de-Clairefeuille;61;eau potable;136002;2024;71,4;1,4;3,5;65,7;conforme;198575;1575;33;144;132;Non vérifié
-61394;Saint-Germain-de-la-Coudre;61;eau potable : Régie;228014;2024;67,1;1,3;2,6;65,5;conforme;287253;13701;45;183;831;Non vérifié
-61395;Saint-Germain-des-Grois;61;eau potable : Périmètre Nocé;136009;2024;78,1;0,8;2,7;65,5;conforme;93568;1414;19;108;203;Non vérifié
-61396;Saint-Germain-de-Martigny;61;eau potable : Territoire du Syndicat;135973;2024;74,6;1,3;3,8;65,8;conforme;71175;3009;106;192;78;Non vérifié
-61397;Saint-Germain-du-Corbéis;61;eau potable : principal;136040;2024;79,6;3,4;13,2;67,6;conforme;704019;55359;42;94;3636;Non vérifié
-61398;Saint-Germain-le-Vieux;61;eau potable : Service principal;135992;2024;75,1;0,8;2,4;65,5;conforme;40705;948;42;124;62;Non vérifié
-61399;Saint-Gervais-des-Sablons;61;eau potable : principal;208941;2024;63,8;1,8;3,1;65,6;non conforme;116296;2691;105;272;70;Non vérifié
-61400;Saint-Gervais-du-Perron;61;eau potable;136038;2024;61,3;1,7;2,8;65,6;non conforme;68727;5924;48;224;341;Non vérifié
-61401;Saint-Gilles-des-Marais;61;eau potable : du syndicat;135985;2024;90,1;0,7;6,7;66,3;conforme;111531;1153;30;39;106;Non vérifié
-61402;Saint-Hilaire-de-Briouze;61;eau potable : Houlme;202408;2024;81,3;0,6;2,5;65,5;conforme;181376;3450;32;109;292;Non vérifié
-61404;Saint-Hilaire-le-Châtel;61;eau potable : ex SMAEP Haut Perche;209644;2024;82,2;1,1;4,9;66,0;conforme;169317;8746;36;89;667;Non vérifié
-61405;Saint-Hilaire-sur-Erre;61;eau potable : Périmètre Nocé;136009;2024;78,1;0,8;2,7;65,5;conforme;93568;3371;19;108;484;Non vérifié
-61406;Saint-Hilaire-sur-Risle;61;eau potable;136002;2024;71,4;1,4;3,5;65,7;conforme;198575;3448;33;144;289;Non vérifié
-61407;Sainte-Honorine-la-Chardonne;61;eau potable : Houlme;202408;2024;81,3;0,6;2,5;65,5;conforme;181376;8081;32;109;684;Non vérifié
-61408;Sainte-Honorine-la-Guillaume;61;eau potable : Houlme;202408;2024;81,3;0,6;2,5;65,5;conforme;181376;4123;32;109;349;Non vérifié
-61411;Saint-Jouin-de-Blavou;61;eau potable;136017;2024;75,2;0,7;2,1;65,4;conforme;40581;3502;31;121;311;Non vérifié
-61412;Saint-Julien-sur-Sarthe;61;eau potable;136043;2024;73,7;1,2;3,3;65,7;conforme;73939;12447;51;133;672;Non vérifié
-61413;Saint-Lambert-sur-Dive;61;eau potable : Neauphe-sur-Dive;135957;2024;86,1;0,4;2,6;65,5;conforme;3212;1176;24;55;134;Non vérifié
-61414;Saint-Langis-lès-Mortagne;61;eau potable : ex SMAEP Haut Perche;209644;2024;82,2;1,1;4,9;66,0;conforme;169317;11499;36;89;877;Non vérifié
-61415;Saint-Léger-sur-Sarthe;61;eau potable;136043;2024;73,7;1,2;3,3;65,7;conforme;73939;5927;51;133;320;Non vérifié
-61416;Saint-Léonard-des-Parcs;61;eau potable;136002;2024;71,4;1,4;3,5;65,7;conforme;198575;895;33;144;75;Non vérifié
-61418;Saint-Mard-de-Réno;61;eau potable : ex SMAEP Haut Perche;209644;2024;82,2;1,1;4,9;66,0;conforme;169317;5061;36;89;386;Non vérifié
-61419;Sainte-Marguerite-de-Carrouges;61;eau potable;136037;2024;70,1;0,9;2,0;65,4;conforme;81728;2652;35;165;210;Non vérifié
-61420;Sainte-Marie-la-Robert;61;eau potable;136028;2024;67,8;1,1;2,3;65,5;conforme;53958;2859;91;178;86;Non vérifié
-61421;Saint-Mars-d'Égrenne;61;eau potable;136013;2024;77,9;0,6;2,0;65,4;conforme;81591;11559;50;115;630;Non vérifié
-61422;Les Aspres;61;eau potable : Régie;210881;2024;84,8;0,7;3,8;65,8;conforme;84315;4374;19;76;625;Non vérifié
-61423;Saint-Martin-d'Écublei;61;eau potable : principal;202457;2024;80,2;1,0;4,2;65,8;conforme;106522;8899;39;86;625;Non vérifié
-61424;Saint-Martin-des-Landes;61;eau potable;136037;2024;70,1;0,9;2,0;65,4;conforme;81728;2324;35;165;184;Non vérifié
-61425;Saint-Martin-des-Pézerits;61;eau potable : régie;135996;2024;63,1;1,4;2,5;65,5;non conforme;71182;1709;40;207;117;Non vérifié
-61426;Saint-Martin-du-Vieux-Bellême;61;eau potable : Régie;228014;2024;67,1;1,3;2,6;65,5;conforme;287253;8871;45;183;538;Non vérifié
-61427;Saint-Martin-l'Aiguillon;61;eau potable : principal;209734;2024;68,7;1,1;2,5;65,5;conforme;104936;2742;40;163;186;Non vérifié
-61429;Charencey;61;eau potable : ex SMAEP Haut Perche;209644;2024;82,2;1,1;4,9;66,0;conforme;169317;9887;36;89;754;Non vérifié
-61432;Saint-Michel-Tuboeuf;61;eau potable : Délégation;251474;2024;84,5;1,8;9,8;67,0;conforme;161773;7588;37;90;568;Non vérifié
-61433;Saint-Nicolas-des-Bois;61;eau potable : principal;136040;2024;79,6;3,4;13,2;67,6;conforme;704019;4339;42;94;285;Non vérifié
-61435;Saint-Nicolas-de-Sommaire;61;eau potable : Régie;210881;2024;84,8;0,7;3,8;65,8;conforme;84315;1826;19;76;261;Non vérifié
-61436;Sainte-Opportune;61;eau potable : Houlme;202408;2024;81,3;0,6;2,5;65,5;conforme;181376;2883;32;109;244;Non vérifié
-61438;Saint-Ouen-de-Sécherouvre;61;eau potable : régie;135996;2024;63,1;1,4;2,5;65,5;non conforme;71182;2235;40;207;153;Non vérifié
-61439;Saint-Ouen-le-Brisoult;61;eau potable;135966;2024;87,5;1,0;6,8;66,4;conforme;89129;1073;23;53;128;Non vérifié
-61440;Saint-Ouen-sur-Iton;61;eau potable : Délégation;251474;2024;84,5;1,8;9,8;67,0;conforme;161773;11035;37;90;826;Non vérifié
-61442;Saint-Patrice-du-Désert;61;eau potable;135998;2024;89,8;0,2;2,2;65,4;conforme;8151;946;11;34;237;Non vérifié
-61443;Saint-Paul;61;eau potable : Régie;136361;2024;90,6;1,2;11,3;67,3;conforme;206342;4471;19;46;631;Non vérifié
-61444;Saint-Philbert-sur-Orne;61;eau potable : Houlme;202408;2024;81,3;0,6;2,5;65,5;conforme;181376;1311;32;109;111;Non vérifié
-61445;Saint-Pierre-d'Entremont;61;eau potable : CDC Tinchebray;218600;2024;83,5;0,6;2,8;65,6;conforme;75108;6046;25;79;658;Non vérifié
-61446;Saint-Pierre-des-Loges;61;eau potable;136002;2024;71,4;1,4;3,5;65,7;conforme;198575;1933;33;144;162;Non vérifié
-61447;Saint-Pierre-du-Regard;61;eau potable : Régie;136361;2024;90,6;1,2;11,3;67,3;conforme;206342;9360;19;46;1321;Non vérifié
-61448;Saint-Pierre-la-Bruyère;61;eau potable : Périmètre Nocé;136009;2024;78,1;0,8;2,7;65,5;conforme;93568;2946;19;108;423;Non vérifié
-61450;Saint-Quentin-de-Blavou;61;eau potable;136017;2024;75,2;0,7;2,1;65,4;conforme;40581;901;31;121;80;Non vérifié
-61451;Saint-Quentin-les-Chardonnets;61;eau potable : CDC Tinchebray;218600;2024;83,5;0,6;2,8;65,6;conforme;75108;2959;25;79;322;Non vérifié
-61452;Saint-Roch-sur-Égrenne;61;eau potable;136013;2024;77,9;0,6;2,0;65,4;conforme;81591;2715;50;115;148;Non vérifié
-61453;Saint-Sauveur-de-Carrouges;61;eau potable;136028;2024;67,8;1,1;2,3;65,5;conforme;53958;7846;91;178;236;Non vérifié
-61454;Sainte-Scolasse-sur-Sarthe;61;eau potable;136043;2024;73,7;1,2;3,3;65,7;conforme;73939;10780;51;133;582;Non vérifié
-61456;Saint-Sulpice-sur-Risle;61;eau potable : Délégation;251474;2024;84,5;1,8;9,8;67,0;conforme;161773;21148;37;90;1583;Non vérifié
-61457;Saint-Symphorien-des-Bruyères;61;eau potable : Régie;210881;2024;84,8;0,7;3,8;65,8;conforme;84315;3457;19;76;494;Non vérifié
-61459;Saires-la-Verrerie;61;eau potable : Concession ex-SMAEP+;136003;2024;81,4;1,2;5,2;66,0;conforme;179698;3746;35;107;295;Non vérifié
-61460;Sap-en-Auge;61;eau potable : principal;206024;2024;67,7;1,2;2,5;65,5;conforme;163006;20475;61;178;926;Non vérifié
-61461;Le Sap-André;61;eau potable : principal;206024;2024;67,7;1,2;2,5;65,5;conforme;163006;2764;61;178;125;Non vérifié
-61462;Sarceaux;61;eau potable : Ex SMAEP de la Région d'Argentan;214784;2024;79,3;2,4;9,0;66,8;conforme;386474;15564;40;112;1063;Non vérifié
-61463;Les Monts d'Andaine;61;eau potable : Concession ex-SMAEP+;136003;2024;81,4;1,2;5,2;66,0;conforme;179698;21383;35;107;1684;Non vérifié
-61464;Sées;61;eau potable : Principal;136031;2024;75,2;1,5;4,5;65,9;conforme;143002;65664;43;123;4168;Non vérifié
-61466;La Selle-la-Forge;61;eau potable : Régie;136361;2024;90,6;1,2;11,3;67,3;conforme;206342;9849;19;46;1390;Non vérifié
-61467;Semallé;61;eau potable;136038;2024;61,3;1,7;2,8;65,6;non conforme;68727;6584;48;224;379;Non vérifié
-61472;Sévigny;61;eau potable : Ex SMAEP de la Région d'Argentan;214784;2024;79,3;2,4;9,0;66,8;conforme;386474;4510;40;112;308;Non vérifié
-61473;Sevrai;61;eau potable : principal;209734;2024;68,7;1,1;2,5;65,5;conforme;104936;4304;40;163;292;Non vérifié
-61474;Gouffern en Auge;61;eau potable : Ex SMAEP de la Région d'Argentan;214784;2024;79,3;2,4;9,0;66,8;conforme;386474;53236;40;112;3636;Non vérifié
-61475;Soligny-la-Trappe;61;eau potable : régie;135996;2024;63,1;1,4;2,5;65,5;non conforme;71182;9159;40;207;627;Non vérifié
-61476;Suré;61;eau potable : Régie;228014;2024;67,1;1,3;2,6;65,5;conforme;287253;4567;45;183;277;Non vérifié
-61479;Tanques;61;eau potable : principal;209734;2024;68,7;1,1;2,5;65,5;conforme;104936;2314;40;163;157;Non vérifié
-61480;Tanville;61;eau potable : Ex SMAEP de la Région d'Argentan;214784;2024;79,3;2,4;9,0;66,8;conforme;386474;3324;40;112;227;Non vérifié
-61481;Tellières-le-Plessis;61;eau potable : SIAEP Moulin la Marche;136007;2024;81,6;1,0;4,5;65,9;conforme;35752;1721;71;155;66;Non vérifié
-61482;Tessé-Froulay;61;eau potable;135966;2024;87,5;1,0;6,8;66,4;conforme;89129;3143;23;53;375;Non vérifié
-61483;Bagnoles de l'Orne Normandie;61;eau potable (BAGNOLES-DE-L'ORNE-NORMANDIE);135971;2024;91,5;1,1;11,7;67,3;conforme;23046;23046;23;34;2699;Non vérifié
-61484;Val-au-Perche;61;eau potable : Régie;228014;2024;67,1;1,3;2,6;65,5;conforme;287253;55004;45;183;3336;Non vérifié
-61485;Ticheville;61;eau potable : principal;136025;2024;82,8;0,6;2,9;65,6;conforme;28113;2962;41;76;200;Non vérifié
-61486;Tinchebray-Bocage;61;eau potable : CDC Tinchebray;218600;2024;83,5;0,6;2,8;65,6;conforme;75108;44225;25;79;4813;Non vérifié
-61487;Torchamp;61;eau potable;136013;2024;77,9;0,6;2,0;65,4;conforme;81591;5339;50;115;291;Non vérifié
-61488;Touquettes;61;eau potable : principal;206024;2024;67,7;1,2;2,5;65,5;conforme;163006;1658;61;178;75;Non vérifié
-61490;Tournai-sur-Dive;61;eau potable : Tournai-sur-Dive;135903;2024;61,4;1,5;2,4;65,5;non conforme;7610;7610;71;223;295;Non vérifié
-61491;Tourouvre au Perche;61;eau potable : ex SMAEP Haut Perche;209644;2024;82,2;1,1;4,9;66,0;conforme;169317;38746;36;89;2955;Non vérifié
-61492;Trémont;61;eau potable : Service principal;135992;2024;75,1;0,8;2,4;65,5;conforme;40705;1865;42;124;122;Non vérifié
-61493;La Trinité-des-Laitiers;61;eau potable : principal;206024;2024;67,7;1,2;2,5;65,5;conforme;163006;1481;61;178;67;Non vérifié
-61494;Trun;61;eau potable : principal;208941;2024;63,8;1,8;3,1;65,6;non conforme;116296;44788;105;272;1165;Non vérifié
-61497;Valframbert;61;eau potable : principal;136040;2024;79,6;3,4;13,2;67,6;conforme;704019;25548;42;94;1678;Non vérifié
-61498;Vaunoise;61;eau potable : Régie;228014;2024;67,1;1,3;2,6;65,5;conforme;287253;1599;45;183;97;Non vérifié
-61499;Les Ventes-de-Bourse;61;eau potable;136043;2024;73,7;1,2;3,3;65,7;conforme;73939;2741;51;133;148;Non vérifié
-61500;La Ventrouze;61;eau potable : ex SMAEP Haut Perche;209644;2024;82,2;1,1;4,9;66,0;conforme;169317;1573;36;89;120;Non vérifié
-61501;Verrières;61;eau potable : Périmètre Nocé;136009;2024;78,1;0,8;2,7;65,5;conforme;93568;2842;19;108;408;Non vérifié
-61502;Vidai;61;eau potable;136015;2024;82,6;0,6;3,0;65,6;conforme;28880;524;20;74;72;Non vérifié
-61503;Vieux-Pont;61;eau potable;136028;2024;67,8;1,1;2,3;65,5;conforme;53958;6716;91;178;202;Non vérifié
-61505;Villedieu-lès-Bailleul;61;eau potable : Villedieu-lès-Bailleul;135907;2024;89,4;0,6;4,7;65,9;conforme;999;492;7;47;203;Non vérifié
-61507;Villiers-sous-Mortagne;61;eau potable : ex SMAEP Haut Perche;209644;2024;82,2;1,1;4,9;66,0;conforme;169317;3081;36;89;235;Non vérifié
-61508;Vimoutiers;61;eau potable : Vimoutiers;135911;2024;80,3;4,1;16,8;68,4;conforme;109484;105175;97;143;2978;Non vérifié
-61510;Vitrai-sous-Laigle;61;eau potable : Régie;210881;2024;84,8;0,7;3,8;65,8;conforme;84315;1463;19;76;209;Non vérifié
-61512;Les Yveteaux;61;eau potable : Houlme;202408;2024;81,3;0,6;2,5;65,5;conforme;181376;1193;32;109;101;Non vérifié
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement);Donnée suspecte (voir LISEZMOI)
+61001;Alençon;61;eau potable : principal;136040;2024;79,6;3,4;13,2;67,6;conforme;704019;388094;42;94;25490;Non vérifié;non
+61002;Almenêches;61;eau potable : Principal;136031;2024;75,2;1,5;4,5;65,9;conforme;143002;10051;43;123;638;Non vérifié;non
+61005;Appenai-sous-Bellême;61;eau potable : Régie;228014;2024;67,1;1,3;2,6;65,5;conforme;287253;4534;45;183;275;Non vérifié;non
+61006;Argentan;61;eau potable : Ex SMAEP de la Région d'Argentan;214784;2024;79,3;2,4;9,0;66,8;conforme;386474;198054;40;112;13527;Non vérifié;non
+61007;Athis-Val de Rouvre;61;eau potable : Houlme;202408;2024;81,3;0,6;2,5;65,5;conforme;181376;49629;32;109;4201;Non vérifié;non
+61008;Aube;61;eau potable : Régie;210881;2024;84,8;0,7;3,8;65,8;conforme;84315;8775;19;76;1254;Non vérifié;non
+61010;Aubry-le-Panthou;61;eau potable : SIAEP DE LA REGION DE GACE;135991;2024;82,1;1,4;6,4;66,3;conforme;166499;2383;49;113;133;Non vérifié;non
+61011;Aubusson;61;eau potable : Régie;136361;2024;90,6;1,2;11,3;67,3;conforme;206342;2771;19;46;391;Non vérifié;non
+61012;Auguaise;61;eau potable : Régie;210881;2024;84,8;0,7;3,8;65,8;conforme;84315;1372;19;76;196;Non vérifié;non
+61013;Aunay-les-Bois;61;eau potable;135988;2024;85,4;1,1;6,6;66,3;conforme;40724;2597;52;138;138;Non vérifié;non
+61014;Aunou-le-Faucon;61;eau potable : Ex SMAEP de la Région d'Argentan;214784;2024;79,3;2,4;9,0;66,8;conforme;386474;3602;40;112;246;Non vérifié;non
+61015;Aunou-sur-Orne;61;eau potable : Principal;136031;2024;75,2;1,5;4,5;65,9;conforme;143002;4458;43;123;283;Non vérifié;non
+61017;Les Authieux-du-Puits;61;eau potable;136002;2024;71,4;1,4;3,5;65,7;conforme;198575;990;33;144;83;Non vérifié;non
+61018;Avernes-Saint-Gourgon;61;eau potable : principal;136025;2024;82,8;0,6;2,9;65,6;conforme;28113;1052;41;76;71;Non vérifié;non
+61020;Avoine;61;eau potable : principal;209734;2024;68,7;1,1;2,5;65,5;conforme;104936;3228;40;163;219;Non vérifié;non
+61021;Avrilly;61;eau potable : du syndicat;135985;2024;90,1;0,7;6,7;66,3;conforme;111531;1001;30;39;92;Non vérifié;non
+61023;Bailleul;61;eau potable : SIAEP du Meillon;136362;2024;58,4;2,0;2,8;65,6;non conforme;72686;20167;91;258;609;Non vérifié;non
+61024;Banvou;61;eau potable : Concession ex-SMAEP+;136003;2024;81,4;1,2;5,2;66,0;conforme;179698;8000;35;107;630;Non vérifié;non
+61026;Barville;61;eau potable;136015;2024;82,6;0,6;3,0;65,6;conforme;28880;1405;20;74;193;Non vérifié;non
+61028;Bazoches-au-Houlme;61;eau potable : Houlme;202408;2024;81,3;0,6;2,5;65,5;conforme;181376;5304;32;109;449;Non vérifié;non
+61029;Bazoches-sur-Hoëne;61;eau potable : Territoire du Syndicat;135973;2024;74,6;1,3;3,8;65,8;conforme;71175;31903;106;192;827;Non vérifié;non
+61030;La Bazoque;61;eau potable : Régie;136361;2024;90,6;1,2;11,3;67,3;conforme;206342;1906;19;46;269;Non vérifié;non
+61032;Beaufai;61;eau potable : Régie;210881;2024;84,8;0,7;3,8;65,8;conforme;84315;2197;19;76;314;Non vérifié;non
+61034;Beaulieu;61;eau potable : Régie;210881;2024;84,8;0,7;3,8;65,8;conforme;84315;1484;19;76;212;Non vérifié;non
+61035;Beauvain;61;eau potable;135998;2024;89,8;0,2;2,2;65,4;conforme;8151;1030;11;34;258;Non vérifié;non
+61036;Belfonds;61;eau potable : Principal;136031;2024;75,2;1,5;4,5;65,9;conforme;143002;3340;43;123;212;Non vérifié;non
+61037;Bellavilliers;61;eau potable;136017;2024;75,2;0,7;2,1;65,4;conforme;40581;1599;31;121;142;Non vérifié;non
+61038;Bellême;61;eau potable : Régie;228014;2024;67,1;1,3;2,6;65,5;conforme;287253;24023;45;183;1457;Non vérifié;non
+61039;La Bellière;61;eau potable;136028;2024;67,8;1,1;2,3;65,5;conforme;53958;4156;91;178;125;Non vérifié;non
+61040;Bellou-en-Houlme;61;eau potable : Houlme;202408;2024;81,3;0,6;2,5;65,5;conforme;181376;12097;32;109;1024;Non vérifié;non
+61041;Bellou-le-Trichard;61;eau potable : Régie;228014;2024;67,1;1,3;2,6;65,5;conforme;287253;3215;45;183;195;Non vérifié;non
+61043;Berd'huis;61;eau potable : Périmètre Nocé;136009;2024;78,1;0,8;2,7;65,5;conforme;93568;7640;19;108;1097;Non vérifié;non
+61044;Berjou;61;eau potable : Régie;136361;2024;90,6;1,2;11,3;67,3;conforme;206342;2955;19;46;417;Non vérifié;non
+61046;Bizou;61;eau potable : principal;135997;2024;80,2;0,6;2,4;65,5;conforme;46386;1749;34;95;142;Non vérifié;non
+61048;Boëcé;61;eau potable : Territoire du Syndicat;135973;2024;74,6;1,3;3,8;65,8;conforme;71175;4822;106;192;125;Non vérifié;non
+61049;Boissei-la-Lande;61;eau potable : Principal;136031;2024;75,2;1,5;4,5;65,9;conforme;143002;1701;43;123;108;Non vérifié;non
+61050;Cour-Maugis sur Huisne;61;eau potable : Régie;228014;2024;67,1;1,3;2,6;65,5;conforme;287253;9612;45;183;583;Non vérifié;non
+61051;Boitron;61;eau potable;135988;2024;85,4;1,1;6,6;66,3;conforme;40724;6568;52;138;349;Non vérifié;non
+61052;Bonnefoi;61;eau potable : Régie;210881;2024;84,8;0,7;3,8;65,8;conforme;84315;1309;19;76;187;Non vérifié;non
+61053;Bonsmoulins;61;eau potable : Régie;210881;2024;84,8;0,7;3,8;65,8;conforme;84315;1623;19;76;232;Non vérifié;non
+61054;Le Bosc-Renoult;61;eau potable : principal;136025;2024;82,8;0,6;2,9;65,6;conforme;28113;3881;41;76;262;Non vérifié;non
+61055;Boucé;61;eau potable;136028;2024;67,8;1,1;2,3;65,5;conforme;53958;18950;91;178;570;Non vérifié;non
+61056;Le Bouillon;61;eau potable : Principal;136031;2024;75,2;1,5;4,5;65,9;conforme;143002;2631;43;123;167;Non vérifié;non
+61060;Brethel;61;eau potable : Régie;210881;2024;84,8;0,7;3,8;65,8;conforme;84315;931;19;76;133;Non vérifié;non
+61061;Bretoncelles;61;eau potable : principal;136012;2024;74,2;0,9;2,5;65,5;conforme;56174;15122;28;131;1455;Non vérifié;non
+61062;Brieux;61;eau potable : SIAEP de la Source de Commeaux - Nécy-Brieux;135977;2024;87,2;0,6;3,8;65,8;conforme;4993;708;22;58;88;Non vérifié;non
+61063;Briouze;61;eau potable : Houlme;202408;2024;81,3;0,6;2,5;65,5;conforme;181376;17862;32;109;1512;Non vérifié;non
+61064;Brullemail;61;eau potable;136002;2024;71,4;1,4;3,5;65,7;conforme;198575;1074;33;144;90;Non vérifié;non
+61066;Buré;61;eau potable : Territoire du Syndicat;135973;2024;74,6;1,3;3,8;65,8;conforme;71175;3781;106;192;98;Non vérifié;non
+61067;Bures;61;eau potable;136043;2024;73,7;1,2;3,3;65,7;conforme;73939;3075;51;133;166;Non vérifié;non
+61068;Bursard;61;eau potable;135988;2024;85,4;1,1;6,6;66,3;conforme;40724;3745;52;138;199;Non vérifié;non
+61069;Cahan;61;eau potable : EAUX SUD CALVADOS (Principal);271374;2024;87,2;1,3;8,7;66,7;conforme;530035;1546;26;107;161;Non vérifié;non
+61070;Caligny;61;eau potable : Régie;136361;2024;90,6;1,2;11,3;67,3;conforme;206342;5988;19;46;845;Non vérifié;non
+61071;Camembert;61;eau potable : principal;208941;2024;63,8;1,8;3,1;65,6;non conforme;116296;6459;105;272;168;Non vérifié;non
+61072;Canapville;61;eau potable : Canapville;135923;2024;38,2;5,0;3,1;65,6;non conforme;24674;24674;299;587;226;Non vérifié;non
+61074;Carrouges;61;eau potable;136037;2024;70,1;0,9;2,0;65,4;conforme;81728;7868;35;165;623;Non vérifié;non
+61075;Ceaucé;61;eau potable;136013;2024;77,9;0,6;2,0;65,4;conforme;81591;21375;50;115;1165;Non vérifié;non
+61076;Le Cercueil;61;eau potable : Ex SMAEP de la Région d'Argentan;214784;2024;79,3;2,4;9,0;66,8;conforme;386474;2123;40;112;145;Non vérifié;non
+61077;Cerisé;61;eau potable : principal;136040;2024;79,6;3,4;13,2;67,6;conforme;704019;12850;42;94;844;Non vérifié;non
+61078;Cerisy-Belle-Étoile;61;eau potable : Régie;136361;2024;90,6;1,2;11,3;67,3;conforme;206342;4911;19;46;693;Non vérifié;non
+61079;Ceton;61;eau potable : du Syndicat;136360;2024;72,0;1,5;4,0;65,8;conforme;118255;40444;64;140;1734;Non vérifié;non
+61080;Chahains;61;eau potable;136037;2024;70,1;0,9;2,0;65,4;conforme;81728;1023;35;165;81;Non vérifié;non
+61081;Chailloué;61;eau potable : Principal;136031;2024;75,2;1,5;4,5;65,9;conforme;143002;14021;43;123;890;Non vérifié;non
+61082;Le Chalange;61;eau potable : Service principal;135992;2024;75,1;0,8;2,4;65,5;conforme;40705;1315;42;124;86;Non vérifié;non
+61084;Champcerie;61;eau potable : Houlme;202408;2024;81,3;0,6;2,5;65,5;conforme;181376;2091;32;109;177;Non vérifié;non
+61085;Le Champ-de-la-Pierre;61;eau potable : principal;209734;2024;68,7;1,1;2,5;65,5;conforme;104936;413;40;163;28;Non vérifié;non
+61086;Les Champeaux;61;eau potable : principal;208941;2024;63,8;1,8;3,1;65,6;non conforme;116296;3691;105;272;96;Non vérifié;non
+61087;Champeaux-sur-Sarthe;61;eau potable : Territoire du Syndicat;135973;2024;74,6;1,3;3,8;65,8;conforme;71175;6134;106;192;159;Non vérifié;non
+61088;Champ-Haut;61;eau potable;136002;2024;71,4;1,4;3,5;65,7;conforme;198575;489;33;144;41;Non vérifié;non
+61089;Champosoult;61;eau potable : SIAEP CHAMPOSOULT;135982;2024;62,1;1,4;2,3;65,5;non conforme;40844;964;25;231;105;Non vérifié;non
+61091;Champsecret;61;eau potable : du syndicat;135985;2024;90,1;0,7;6,7;66,3;conforme;111531;10474;30;39;963;Non vérifié;non
+61092;Chandai;61;eau potable : Délégation;251474;2024;84,5;1,8;9,8;67,0;conforme;161773;8978;37;90;672;Non vérifié;non
+61093;Chanu;61;eau potable : CDC Tinchebray;218600;2024;83,5;0,6;2,8;65,6;conforme;75108;11422;25;79;1243;Non vérifié;non
+61094;La Chapelle-au-Moine;61;eau potable : Régie;136361;2024;90,6;1,2;11,3;67,3;conforme;206342;4152;19;46;586;Non vérifié;non
+61095;La Chapelle-Biche;61;eau potable : Régie;136361;2024;90,6;1,2;11,3;67,3;conforme;206342;3720;19;46;525;Non vérifié;non
+61096;Rives d'Andaine;61;eau potable;135966;2024;87,5;1,0;6,8;66,4;conforme;89129;23839;23;53;2844;Non vérifié;non
+61097;La Chapelle-Montligeon;61;eau potable : Nouveau service DSP;136022;2024;84,7;0,6;3,1;65,6;conforme;28472;3062;16;79;509;Non vérifié;non
+61098;La Chapelle-près-Sées;61;eau potable : Principal;136031;2024;75,2;1,5;4,5;65,9;conforme;143002;7751;43;123;492;Non vérifié;non
+61099;La Chapelle-Souëf;61;eau potable : Régie;228014;2024;67,1;1,3;2,6;65,5;conforme;287253;4056;45;183;246;Non vérifié;non
+61100;La Chapelle-Viel;61;eau potable : Régie;210881;2024;84,8;0,7;3,8;65,8;conforme;84315;2022;19;76;289;Non vérifié;non
+61101;Le Château-d'Almenêches;61;eau potable : Principal;136031;2024;75,2;1,5;4,5;65,9;conforme;143002;2867;43;123;182;Non vérifié;non
+61102;Le Châtellier;61;eau potable : Concession ex-SMAEP+;136003;2024;81,4;1,2;5,2;66,0;conforme;179698;5092;35;107;401;Non vérifié;non
+61103;Chaumont;61;eau potable : principal;206024;2024;67,7;1,2;2,5;65,5;conforme;163006;3648;61;178;165;Non vérifié;non
+61104;La Chaux;61;eau potable : principal;209734;2024;68,7;1,1;2,5;65,5;conforme;104936;781;40;163;53;Non vérifié;non
+61105;Chemilli;61;eau potable : Régie;228014;2024;67,1;1,3;2,6;65,5;conforme;287253;2803;45;183;170;Non vérifié;non
+61107;Ciral;61;eau potable;136037;2024;70,1;0,9;2,0;65,4;conforme;81728;5166;35;165;409;Non vérifié;non
+61108;Cisai-Saint-Aubin;61;eau potable : SIAEP DE LA REGION DE GACE;135991;2024;82,1;1,4;6,4;66,3;conforme;166499;3297;49;113;184;Non vérifié;non
+61111;Colombiers;61;eau potable : principal;136040;2024;79,6;3,4;13,2;67,6;conforme;704019;5116;42;94;336;Non vérifié;non
+61113;Comblot;61;eau potable : Nouveau service DSP;136022;2024;84,7;0,6;3,1;65,6;conforme;28472;349;16;79;58;Non vérifié;non
+61114;Commeaux;61;eau potable : SIAEP de la source de Commeaux;136034;2024;81,1;0,8;3,3;65,7;conforme;28368;640;12;126;146;Non vérifié;non
+61116;Sablons sur Huisne;61;eau potable : Périmètre Rémalard / Sablons / Cour Maugis-sur-Huisne;227574;2024;77,1;1,0;3,4;65,7;conforme;59959;23715;33;110;1976;Non vérifié;non
+61117;Condé-sur-Sarthe;61;eau potable : principal;136040;2024;79,6;3,4;13,2;67,6;conforme;704019;37972;42;94;2494;Non vérifié;non
+61118;Corbon;61;eau potable : ex SMAEP Haut Perche;209644;2024;82,2;1,1;4,9;66,0;conforme;169317;1455;36;89;111;Non vérifié;non
+61120;Coudehard;61;eau potable : SIAEP CHAMPOSOULT;135982;2024;62,1;1,4;2,3;65,5;non conforme;40844;707;25;231;77;Non vérifié;non
+61121;Coulimer;61;eau potable;136017;2024;75,2;0,7;2,1;65,4;conforme;40581;3209;31;121;285;Non vérifié;non
+61122;Coulmer;61;eau potable : SIAEP DE LA REGION DE GACE;135991;2024;82,1;1,4;6,4;66,3;conforme;166499;1451;49;113;81;Non vérifié;non
+61123;Coulonces;61;eau potable : SIAEP du Meillon;136362;2024;58,4;2,0;2,8;65,6;non conforme;72686;6921;91;258;209;Non vérifié;non
+61124;La Coulonche;61;eau potable : Concession ex-SMAEP+;136003;2024;81,4;1,2;5,2;66,0;conforme;179698;6311;35;107;497;Non vérifié;non
+61126;Coulonges-sur-Sarthe;61;eau potable;136043;2024;73,7;1,2;3,3;65,7;conforme;73939;8890;51;133;480;Non vérifié;non
+61129;Courgeon;61;eau potable : Nouveau service DSP;136022;2024;84,7;0,6;3,1;65,6;conforme;28472;2105;16;79;350;Non vérifié;non
+61130;Courgeoût;61;eau potable : ex SMAEP Haut Perche;209644;2024;82,2;1,1;4,9;66,0;conforme;169317;6005;36;89;458;Non vérifié;non
+61133;Courtomer;61;eau potable : Service principal;135992;2024;75,1;0,8;2,4;65,5;conforme;40705;11174;42;124;731;Non vérifié;non
+61137;Craménil;61;eau potable : Houlme;202408;2024;81,3;0,6;2,5;65,5;conforme;181376;1548;32;109;131;Non vérifié;non
+61138;Croisilles;61;eau potable : SIAEP DE LA REGION DE GACE;135991;2024;82,1;1,4;6,4;66,3;conforme;166499;3297;49;113;184;Non vérifié;non
+61139;Crouttes;61;eau potable : principal;208941;2024;63,8;1,8;3,1;65,6;non conforme;116296;11764;105;272;306;Non vérifié;non
+61140;Crulai;61;eau potable : Délégation;251474;2024;84,5;1,8;9,8;67,0;conforme;161773;10648;37;90;797;Non vérifié;non
+61141;Cuissai;61;eau potable : principal;136040;2024;79,6;3,4;13,2;67,6;conforme;704019;6638;42;94;436;Non vérifié;non
+61142;Dame-Marie;61;eau potable : Régie;228014;2024;67,1;1,3;2,6;65,5;conforme;287253;2753;45;183;167;Non vérifié;non
+61143;Damigny;61;eau potable : principal;136040;2024;79,6;3,4;13,2;67,6;conforme;704019;37241;42;94;2446;Non vérifié;non
+61145;Domfront en Poiraie;61;eau potable : du syndicat;135985;2024;90,1;0,7;6,7;66,3;conforme;111531;44736;30;39;4113;Non vérifié;non
+61146;Dompierre;61;eau potable : Concession ex-SMAEP+;136003;2024;81,4;1,2;5,2;66,0;conforme;179698;4825;35;107;380;Non vérifié;non
+61148;Durcet;61;eau potable : Houlme;202408;2024;81,3;0,6;2,5;65,5;conforme;181376;3379;32;109;286;Non vérifié;non
+61149;Échalou;61;eau potable : Concession ex-SMAEP+;136003;2024;81,4;1,2;5,2;66,0;conforme;179698;4051;35;107;319;Non vérifié;non
+61150;Échauffour;61;eau potable;136002;2024;71,4;1,4;3,5;65,7;conforme;198575;8554;33;144;717;Non vérifié;non
+61151;Écorcei;61;eau potable : Régie;210881;2024;84,8;0,7;3,8;65,8;conforme;84315;2568;19;76;367;Non vérifié;non
+61152;Écorches;61;eau potable : principal;208941;2024;63,8;1,8;3,1;65,6;non conforme;116296;3883;105;272;101;Non vérifié;non
+61153;Écouché-les-Vallées;61;eau potable : Ex SMAEP de la Région d'Argentan;214784;2024;79,3;2,4;9,0;66,8;conforme;386474;32109;40;112;2193;Non vérifié;non
+61156;Essay;61;eau potable;135988;2024;85,4;1,1;6,6;66,3;conforme;40724;10463;52;138;556;Non vérifié;non
+61158;Faverolles;61;eau potable : principal;209734;2024;68,7;1,1;2,5;65,5;conforme;104936;1916;40;163;130;Non vérifié;non
+61159;Fay;61;eau potable : SIAEP Moulin la Marche;136007;2024;81,6;1,0;4,5;65,9;conforme;35752;1799;71;155;69;Non vérifié;non
+61160;Feings;61;eau potable : ex SMAEP Haut Perche;209644;2024;82,2;1,1;4,9;66,0;conforme;169317;2544;36;89;194;Non vérifié;non
+61162;La Ferrière-au-Doyen;61;eau potable : Régie;210881;2024;84,8;0,7;3,8;65,8;conforme;84315;1099;19;76;157;Non vérifié;non
+61163;La Ferrière-aux-Étangs;61;eau potable : Concession ex-SMAEP+;136003;2024;81,4;1,2;5,2;66,0;conforme;179698;19123;35;107;1506;Non vérifié;non
+61164;La Ferrière-Béchet;61;eau potable : Ex SMAEP de la Région d'Argentan;214784;2024;79,3;2,4;9,0;66,8;conforme;386474;3587;40;112;245;Non vérifié;non
+61165;La Ferrière-Bochard;61;eau potable : principal;136040;2024;79,6;3,4;13,2;67,6;conforme;704019;10795;42;94;709;Non vérifié;non
+61166;Ferrières-la-Verrerie;61;eau potable : SIAEP Moulin la Marche;136007;2024;81,6;1,0;4,5;65,9;conforme;35752;4198;71;155;161;Non vérifié;non
+61167;La Ferté-en-Ouche;61;eau potable : Régie;210881;2024;84,8;0,7;3,8;65,8;conforme;84315;20559;19;76;2938;Non vérifié;non
+61168;La Ferté Macé;61;eau potable : Concession ex-SMAEP+;136003;2024;81,4;1,2;5,2;66,0;conforme;179698;64390;35;107;5071;Non vérifié;non
+61169;Flers;61;eau potable : Régie;136361;2024;90,6;1,2;11,3;67,3;conforme;206342;102264;19;46;14432;Non vérifié;non
+61170;Fleuré;61;eau potable : Ex SMAEP de la Région d'Argentan;214784;2024;79,3;2,4;9,0;66,8;conforme;386474;2972;40;112;203;Non vérifié;non
+61171;Fontaine-les-Bassets;61;eau potable : principal;208941;2024;63,8;1,8;3,1;65,6;non conforme;116296;4383;105;272;114;Non vérifié;non
+61176;Francheville;61;eau potable;136028;2024;67,8;1,1;2,3;65,5;conforme;53958;4322;91;178;130;Non vérifié;non
+61178;La Fresnaie-Fayel;61;eau potable : SIAEP DE LA REGION DE GACE;135991;2024;82,1;1,4;6,4;66,3;conforme;166499;896;49;113;50;Non vérifié;non
+61180;Fresnay-le-Samson;61;eau potable : SIAEP CHAMPOSOULT;135982;2024;62,1;1,4;2,3;65,5;non conforme;40844;991;25;231;108;Non vérifié;non
+61181;Gacé;61;eau potable : principal;206024;2024;67,7;1,2;2,5;65,5;conforme;163006;39049;61;178;1766;Non vérifié;non
+61182;Gandelain;61;eau potable;136037;2024;70,1;0,9;2,0;65,4;conforme;81728;5153;35;165;408;Non vérifié;non
+61183;Gâprée;61;eau potable : Service principal;135992;2024;75,1;0,8;2,4;65,5;conforme;40705;2171;42;124;142;Non vérifié;non
+61187;Les Genettes;61;eau potable : Régie;210881;2024;84,8;0,7;3,8;65,8;conforme;84315;1120;19;76;160;Non vérifié;non
+61188;La Genevraie;61;eau potable;136002;2024;71,4;1,4;3,5;65,7;conforme;198575;1133;33;144;95;Non vérifié;non
+61189;Giel-Courteilles;61;eau potable : SIAEP de la source de Commeaux;136034;2024;81,1;0,8;3,3;65,7;conforme;28368;2141;12;126;488;Non vérifié;non
+61190;Ginai;61;eau potable : SIAEP DE LA REGION DE GACE;135991;2024;82,1;1,4;6,4;66,3;conforme;166499;1326;49;113;74;Non vérifié;non
+61192;Godisson;61;eau potable;136002;2024;71,4;1,4;3,5;65,7;conforme;198575;1289;33;144;108;Non vérifié;non
+61193;La Gonfrière;61;eau potable : principal;206024;2024;67,7;1,2;2,5;65,5;conforme;163006;5992;61;178;271;Non vérifié;non
+61194;Monts-sur-Orne;61;eau potable : Ex SMAEP de la Région d'Argentan;214784;2024;79,3;2,4;9,0;66,8;conforme;386474;12797;40;112;874;Non vérifié;non
+61195;Le Grais;61;eau potable : Houlme;202408;2024;81,3;0,6;2,5;65,5;conforme;181376;2457;32;109;208;Non vérifié;non
+61196;Belforêt-en-Perche;61;eau potable : Régie;228014;2024;67,1;1,3;2,6;65,5;conforme;287253;24303;45;183;1474;Non vérifié;non
+61197;Guêprei;61;eau potable : SIAEP du Meillon;136362;2024;58,4;2,0;2,8;65,6;non conforme;72686;5067;91;258;153;Non vérifié;non
+61198;Guerquesalles;61;eau potable : SIAEP DE LA REGION DE GACE;135991;2024;82,1;1,4;6,4;66,3;conforme;166499;2186;49;113;122;Non vérifié;non
+61199;Habloville;61;eau potable : SIAEP de la source de Commeaux;136034;2024;81,1;0,8;3,3;65,7;conforme;28368;1474;12;126;336;Non vérifié;non
+61202;Hauterive;61;eau potable;136038;2024;61,3;1,7;2,8;65,6;non conforme;68727;7939;48;224;457;Non vérifié;non
+61203;Héloup;61;eau potable : principal;136040;2024;79,6;3,4;13,2;67,6;conforme;704019;13688;42;94;899;Non vérifié;non
+61206;L' Hôme-Chamondot;61;eau potable : Nouveau service DSP;136022;2024;84,7;0,6;3,1;65,6;conforme;28472;1600;16;79;266;Non vérifié;non
+61207;Igé;61;eau potable : Régie;228014;2024;67,1;1,3;2,6;65,5;conforme;287253;9645;45;183;585;Non vérifié;non
+61208;Irai;61;eau potable : Régie;210881;2024;84,8;0,7;3,8;65,8;conforme;84315;4220;19;76;603;Non vérifié;non
+61209;Joué-du-Bois;61;eau potable : principal;209734;2024;68,7;1,1;2,5;65,5;conforme;104936;5631;40;163;382;Non vérifié;non
+61210;Joué-du-Plain;61;eau potable : principal;209734;2024;68,7;1,1;2,5;65,5;conforme;104936;3434;40;163;233;Non vérifié;non
+61211;Juvigny Val d'Andaine;61;eau potable : du syndicat;135985;2024;90,1;0,7;6,7;66,3;conforme;111531;22776;30;39;2094;Non vérifié;non
+61212;Juvigny-sur-Orne;61;eau potable : Ex SMAEP de la Région d'Argentan;214784;2024;79,3;2,4;9,0;66,8;conforme;386474;1552;40;112;106;Non vérifié;non
+61213;Lalacelle;61;eau potable;136037;2024;70,1;0,9;2,0;65,4;conforme;81728;3322;35;165;263;Non vérifié;non
+61214;L' Aigle;61;eau potable : Délégation;251474;2024;84,5;1,8;9,8;67,0;conforme;161773;102376;37;90;7663;Non vérifié;non
+61215;Laleu;61;eau potable;136043;2024;73,7;1,2;3,3;65,7;conforme;73939;6705;51;133;362;Non vérifié;non
+61216;La Lande-de-Goult;61;eau potable;136028;2024;67,8;1,1;2,3;65,5;conforme;53958;6051;91;178;182;Non vérifié;non
+61217;La Lande-de-Lougé;61;eau potable : Houlme;202408;2024;81,3;0,6;2,5;65,5;conforme;181376;673;32;109;57;Non vérifié;non
+61218;La Lande-Patry;61;eau potable : Régie;136361;2024;90,6;1,2;11,3;67,3;conforme;206342;12259;19;46;1730;Non vérifié;non
+61219;La Lande-Saint-Siméon;61;eau potable : Houlme;202408;2024;81,3;0,6;2,5;65,5;conforme;181376;1961;32;109;166;Non vérifié;non
+61221;Landigou;61;eau potable : Régie;136361;2024;90,6;1,2;11,3;67,3;conforme;206342;2955;19;46;417;Non vérifié;non
+61222;Landisacq;61;eau potable : Régie;136361;2024;90,6;1,2;11,3;67,3;conforme;206342;5421;19;46;765;Non vérifié;non
+61224;Larré;61;eau potable;136038;2024;61,3;1,7;2,8;65,6;non conforme;68727;7974;48;224;459;Non vérifié;non
+61225;Lignères;61;eau potable;136002;2024;71,4;1,4;3,5;65,7;conforme;198575;382;33;144;32;Non vérifié;non
+61227;Lignou;61;eau potable : Houlme;202408;2024;81,3;0,6;2,5;65,5;conforme;181376;1607;32;109;136;Non vérifié;non
+61228;L'Orée-d'Écouves;61;eau potable;136037;2024;70,1;0,9;2,0;65,4;conforme;81728;8955;35;165;709;Non vérifié;non
+61229;Loisail;61;eau potable : Nouveau service DSP;136022;2024;84,7;0,6;3,1;65,6;conforme;28472;812;16;79;135;Non vérifié;non
+61230;Longny les Villages;61;eau potable : principal;136012;2024;74,2;0,9;2,5;65,5;conforme;56174;29214;28;131;2811;Non vérifié;non
+61232;Lonlay-l'Abbaye;61;eau potable : du syndicat;135985;2024;90,1;0,7;6,7;66,3;conforme;111531;12215;30;39;1123;Non vérifié;non
+61233;Lonlay-le-Tesson;61;eau potable : Houlme;202408;2024;81,3;0,6;2,5;65,5;conforme;181376;2705;32;109;229;Non vérifié;non
+61234;Lonrai;61;eau potable : principal;136040;2024;79,6;3,4;13,2;67,6;conforme;704019;16169;42;94;1062;Non vérifié;non
+61237;Lougé-sur-Maire;61;eau potable : principal;209734;2024;68,7;1,1;2,5;65,5;conforme;104936;4599;40;163;312;Non vérifié;non
+61238;Louvières-en-Auge;61;eau potable : principal;208941;2024;63,8;1,8;3,1;65,6;non conforme;116296;3460;105;272;90;Non vérifié;non
+61240;Macé;61;eau potable : Principal;136031;2024;75,2;1,5;4,5;65,9;conforme;143002;7247;43;123;460;Non vérifié;non
+61241;La Madeleine-Bouvet;61;eau potable : principal;136012;2024;74,2;0,9;2,5;65,5;conforme;56174;4157;28;131;400;Non vérifié;non
+61242;Le Mage;61;eau potable : principal;135997;2024;80,2;0,6;2,4;65,5;conforme;46386;2845;34;95;231;Non vérifié;non
+61243;Magny-le-Désert;61;eau potable;135998;2024;89,8;0,2;2,2;65,4;conforme;8151;5553;11;34;1391;Non vérifié;non
+61244;Mahéru;61;eau potable : Régie;210881;2024;84,8;0,7;3,8;65,8;conforme;84315;1945;19;76;278;Non vérifié;non
+61248;Mantilly;61;eau potable;136013;2024;77,9;0,6;2,0;65,4;conforme;81591;9320;50;115;508;Non vérifié;non
+61251;Marchemaisons;61;eau potable;136043;2024;73,7;1,2;3,3;65,7;conforme;73939;3001;51;133;162;Non vérifié;non
+61252;Mardilly;61;eau potable : SIAEP DE LA REGION DE GACE;135991;2024;82,1;1,4;6,4;66,3;conforme;166499;2347;49;113;131;Non vérifié;non
+61255;Mauves-sur-Huisne;61;eau potable : ex SMAEP Haut Perche;209644;2024;82,2;1,1;4,9;66,0;conforme;169317;6989;36;89;533;Non vérifié;non
+61256;Médavy;61;eau potable : Principal;136031;2024;75,2;1,5;4,5;65,9;conforme;143002;2395;43;123;152;Non vérifié;non
+61257;Méhoudin;61;eau potable;135966;2024;87,5;1,0;6,8;66,4;conforme;89129;1014;23;53;121;Non vérifié;non
+61258;Le Mêle-sur-Sarthe;61;eau potable;136043;2024;73,7;1,2;3,3;65,7;conforme;73939;12206;51;133;659;Non vérifié;non
+61259;Le Ménil-Bérard;61;eau potable : Régie;210881;2024;84,8;0,7;3,8;65,8;conforme;84315;469;19;76;67;Non vérifié;non
+61260;Le Ménil-de-Briouze;61;eau potable : Houlme;202408;2024;81,3;0,6;2,5;65,5;conforme;181376;6391;32;109;541;Non vérifié;non
+61261;Le Ménil-Broût;61;eau potable;136038;2024;61,3;1,7;2,8;65,6;non conforme;68727;3075;48;224;177;Non vérifié;non
+61262;Le Ménil-Ciboult;61;eau potable : CDC Tinchebray;218600;2024;83,5;0,6;2,8;65,6;conforme;75108;1158;25;79;126;Non vérifié;non
+61263;Ménil-Erreux;61;eau potable;136038;2024;61,3;1,7;2,8;65,6;non conforme;68727;3544;48;224;204;Non vérifié;non
+61264;Ménil-Froger;61;eau potable;136002;2024;71,4;1,4;3,5;65,7;conforme;198575;752;33;144;63;Non vérifié;non
+61265;Ménil-Gondouin;61;eau potable : Houlme;202408;2024;81,3;0,6;2,5;65,5;conforme;181376;1843;32;109;156;Non vérifié;non
+61266;Le Ménil-Guyon;61;eau potable;135988;2024;85,4;1,1;6,6;66,3;conforme;40724;1581;52;138;84;Non vérifié;non
+61267;Ménil-Hermei;61;eau potable : Houlme;202408;2024;81,3;0,6;2,5;65,5;conforme;181376;2457;32;109;208;Non vérifié;non
+61268;Ménil-Hubert-en-Exmes;61;eau potable : SIAEP DE LA REGION DE GACE;135991;2024;82,1;1,4;6,4;66,3;conforme;166499;2257;49;113;126;Non vérifié;non
+61269;Ménil-Hubert-sur-Orne;61;eau potable : Houlme;202408;2024;81,3;0,6;2,5;65,5;conforme;181376;5576;32;109;472;Non vérifié;non
+61271;Le Ménil-Scelleur;61;eau potable;136028;2024;67,8;1,1;2,3;65,5;conforme;53958;3059;91;178;92;Non vérifié;non
+61272;Le Ménil-Vicomte;61;eau potable;136002;2024;71,4;1,4;3,5;65,7;conforme;198575;346;33;144;29;Non vérifié;non
+61273;Ménil-Vin;61;eau potable : Houlme;202408;2024;81,3;0,6;2,5;65,5;conforme;181376;602;32;109;51;Non vérifié;non
+61274;Les Menus;61;eau potable : principal;136012;2024;74,2;0,9;2,5;65,5;conforme;56174;2536;28;131;244;Non vérifié;non
+61275;Le Merlerault;61;eau potable;136002;2024;71,4;1,4;3,5;65,7;conforme;198575;17049;33;144;1429;Non vérifié;non
+61276;Merri;61;eau potable : SIAEP du Meillon;136362;2024;58,4;2,0;2,8;65,6;non conforme;72686;4934;91;258;149;Non vérifié;non
+61277;La Mesnière;61;eau potable : Territoire du Syndicat;135973;2024;74,6;1,3;3,8;65,8;conforme;71175;10647;106;192;276;Non vérifié;non
+61278;Messei;61;eau potable : Concession ex-SMAEP+;136003;2024;81,4;1,2;5,2;66,0;conforme;179698;23199;35;107;1827;Non vérifié;non
+61279;Mieuxcé;61;eau potable : principal;136040;2024;79,6;3,4;13,2;67,6;conforme;704019;9394;42;94;617;Non vérifié;non
+61281;Moncy;61;eau potable : CDC Tinchebray;218600;2024;83,5;0,6;2,8;65,6;conforme;75108;2398;25;79;261;Non vérifié;non
+61283;Montabard;61;eau potable : SIAEP du Meillon;136362;2024;58,4;2,0;2,8;65,6;non conforme;72686;9504;91;258;287;Non vérifié;non
+61284;Montchevrel;61;eau potable : Service principal;135992;2024;75,1;0,8;2,4;65,5;conforme;40705;3485;42;124;228;Non vérifié;non
+61286;Montgaudry;61;eau potable;136015;2024;82,6;0,6;3,0;65,6;conforme;28880;786;20;74;108;Non vérifié;non
+61287;Montilly-sur-Noireau;61;eau potable : Régie;136361;2024;90,6;1,2;11,3;67,3;conforme;206342;5123;19;46;723;Non vérifié;non
+61288;Montmerrei;61;eau potable : Ex SMAEP de la Région d'Argentan;214784;2024;79,3;2,4;9,0;66,8;conforme;386474;8199;40;112;560;Non vérifié;non
+61289;Mont-Ormel;61;eau potable : SIAEP CHAMPOSOULT;135982;2024;62,1;1,4;2,3;65,5;non conforme;40844;459;25;231;50;Non vérifié;non
+61290;Montreuil-au-Houlme;61;eau potable : Houlme;202408;2024;81,3;0,6;2,5;65,5;conforme;181376;1477;32;109;125;Non vérifié;non
+61291;Montreuil-la-Cambe;61;eau potable : principal;208941;2024;63,8;1,8;3,1;65,6;non conforme;116296;3076;105;272;80;Non vérifié;non
+61292;Montsecret-Clairefougère;61;eau potable : CDC Tinchebray;218600;2024;83,5;0,6;2,8;65,6;conforme;75108;6129;25;79;667;Non vérifié;non
+61293;Mortagne-au-Perche;61;eau potable : ex SMAEP Haut Perche;209644;2024;82,2;1,1;4,9;66,0;conforme;169317;51111;36;89;3898;Non vérifié;non
+61294;Mortrée;61;eau potable : Ex SMAEP de la Région d'Argentan;214784;2024;79,3;2,4;9,0;66,8;conforme;386474;16325;40;112;1115;Non vérifié;non
+61295;La Motte-Fouquet;61;eau potable;135998;2024;89,8;0,2;2,2;65,4;conforme;8151;623;11;34;156;Non vérifié;non
+61297;Moulins-la-Marche;61;eau potable : SIAEP Moulin la Marche;136007;2024;81,6;1,0;4,5;65,9;conforme;35752;18515;71;155;710;Non vérifié;non
+61298;Moulins-sur-Orne;61;eau potable : Ex SMAEP de la Région d'Argentan;214784;2024;79,3;2,4;9,0;66,8;conforme;386474;4480;40;112;306;Non vérifié;non
+61300;Moutiers-au-Perche;61;eau potable : Périmètre Rémalard / Sablons / Cour Maugis-sur-Huisne;227574;2024;77,1;1,0;3,4;65,7;conforme;59959;4392;33;110;366;Non vérifié;non
+61301;Neauphe-sous-Essai;61;eau potable : Principal;136031;2024;75,2;1,5;4,5;65,9;conforme;143002;3308;43;123;210;Non vérifié;non
+61302;Neauphe-sur-Dive;61;eau potable : Neauphe-sur-Dive;135957;2024;86,1;0,4;2,6;65,5;conforme;3212;1150;24;55;131;Non vérifié;non
+61303;Nécy;61;eau potable : SIAEP de la Source de Commeaux - Nécy-Brieux;135977;2024;87,2;0,6;3,8;65,8;conforme;4993;4286;22;58;533;Non vérifié;non
+61304;Neuilly-le-Bisson;61;eau potable;136038;2024;61,3;1,7;2,8;65,6;non conforme;68727;4795;48;224;276;Non vérifié;non
+61307;Neuville-sur-Touques;61;eau potable : principal;206024;2024;67,7;1,2;2,5;65,5;conforme;163006;5064;61;178;229;Non vérifié;non
+61308;Neuvy-au-Houlme;61;eau potable : Houlme;202408;2024;81,3;0,6;2,5;65,5;conforme;181376;2304;32;109;195;Non vérifié;non
+61309;Perche en Nocé;61;eau potable : Régie;228014;2024;67,1;1,3;2,6;65,5;conforme;287253;32250;45;183;1956;Non vérifié;non
+61310;Nonant-le-Pin;61;eau potable;136002;2024;71,4;1,4;3,5;65,7;conforme;198575;5250;33;144;440;Non vérifié;non
+61314;Occagnes;61;eau potable : SIAEP du Meillon;136362;2024;58,4;2,0;2,8;65,6;non conforme;72686;22220;91;258;671;Non vérifié;non
+61316;Ommoy;61;eau potable : SIAEP du Meillon;136362;2024;58,4;2,0;2,8;65,6;non conforme;72686;3874;91;258;117;Non vérifié;non
+61317;Orgères;61;eau potable;136002;2024;71,4;1,4;3,5;65,7;conforme;198575;2148;33;144;180;Non vérifié;non
+61319;Origny-le-Roux;61;eau potable : Régie;228014;2024;67,1;1,3;2,6;65,5;conforme;287253;4138;45;183;251;Non vérifié;non
+61321;Pacé;61;eau potable : principal;136040;2024;79,6;3,4;13,2;67,6;conforme;704019;6151;42;94;404;Non vérifié;non
+61322;Parfondeval;61;eau potable;136017;2024;75,2;0,7;2,1;65,4;conforme;40581;1149;31;121;102;Non vérifié;non
+61323;Le Pas-Saint-l'Homer;61;eau potable : principal;136012;2024;74,2;0,9;2,5;65,5;conforme;56174;1341;28;131;129;Non vérifié;non
+61324;Passais Villages;61;eau potable;136013;2024;77,9;0,6;2,0;65,4;conforme;81591;21283;50;115;1160;Non vérifié;non
+61326;Perrou;61;eau potable : du syndicat;135985;2024;90,1;0,7;6,7;66,3;conforme;111531;3252;30;39;299;Non vérifié;non
+61327;Pervenchères;61;eau potable;136015;2024;82,6;0,6;3,0;65,6;conforme;28880;2505;20;74;344;Non vérifié;non
+61328;Le Pin-au-Haras;61;eau potable : Ex SMAEP de la Région d'Argentan;214784;2024;79,3;2,4;9,0;66,8;conforme;386474;3558;40;112;243;Non vérifié;non
+61329;Le Pin-la-Garenne;61;eau potable;136017;2024;75,2;0,7;2,1;65,4;conforme;40581;6959;31;121;618;Non vérifié;non
+61330;Planches;61;eau potable;136002;2024;71,4;1,4;3,5;65,7;conforme;198575;2148;33;144;180;Non vérifié;non
+61331;Le Plantis;61;eau potable : Service principal;135992;2024;75,1;0,8;2,4;65,5;conforme;40705;1911;42;124;125;Non vérifié;non
+61332;Pointel;61;eau potable : Houlme;202408;2024;81,3;0,6;2,5;65,5;conforme;181376;3556;32;109;301;Non vérifié;non
+61333;Pontchardon;61;eau potable : principal;136025;2024;82,8;0,6;2,9;65,6;conforme;28113;2844;41;76;192;Non vérifié;non
+61336;Pouvrai;61;eau potable : Régie;228014;2024;67,1;1,3;2,6;65,5;conforme;287253;1698;45;183;103;Non vérifié;non
+61339;Putanges-le-Lac;61;eau potable : Houlme;202408;2024;81,3;0,6;2,5;65,5;conforme;181376;24726;32;109;2093;Non vérifié;non
+61341;Écouves;61;eau potable : principal;136040;2024;79,6;3,4;13,2;67,6;conforme;704019;25320;42;94;1663;Non vérifié;non
+61342;Rai;61;eau potable : Régie;210881;2024;84,8;0,7;3,8;65,8;conforme;84315;10007;19;76;1430;Non vérifié;non
+61344;Rânes;61;eau potable : principal;209734;2024;68,7;1,1;2,5;65,5;conforme;104936;15271;40;163;1036;Non vérifié;non
+61345;Rémalard en Perche;61;eau potable : Périmètre Rémalard / Sablons / Cour Maugis-sur-Huisne;227574;2024;77,1;1,0;3,4;65,7;conforme;59959;22394;33;110;1866;Non vérifié;non
+61346;Le Renouard;61;eau potable : principal;208941;2024;63,8;1,8;3,1;65,6;non conforme;116296;7804;105;272;203;Non vérifié;non
+61347;Résenlieu;61;eau potable : SIAEP DE LA REGION DE GACE;135991;2024;82,1;1,4;6,4;66,3;conforme;166499;3064;49;113;171;Non vérifié;non
+61348;Réveillon;61;eau potable : Nouveau service DSP;136022;2024;84,7;0,6;3,1;65,6;conforme;28472;2099;16;79;349;Non vérifié;non
+61349;Ri;61;eau potable : SIAEP de la source de Commeaux;136034;2024;81,1;0,8;3,3;65,7;conforme;28368;680;12;126;155;Non vérifié;non
+61350;La Roche-Mabile;61;eau potable;136037;2024;70,1;0,9;2,0;65,4;conforme;81728;2071;35;165;164;Non vérifié;non
+61351;Roiville;61;eau potable : SIAEP DE LA REGION DE GACE;135991;2024;82,1;1,4;6,4;66,3;conforme;166499;2383;49;113;133;Non vérifié;non
+61352;Rônai;61;eau potable : SIAEP de la source de Commeaux;136034;2024;81,1;0,8;3,3;65,7;conforme;28368;798;12;126;182;Non vérifié;non
+61357;Rouperroux;61;eau potable;136037;2024;70,1;0,9;2,0;65,4;conforme;81728;2198;35;165;174;Non vérifié;non
+61358;Sai;61;eau potable : Ex SMAEP de la Région d'Argentan;214784;2024;79,3;2,4;9,0;66,8;conforme;386474;3368;40;112;230;Non vérifié;non
+61360;Saint-Agnan-sur-Sarthe;61;eau potable : SIAEP Moulin la Marche;136007;2024;81,6;1,0;4,5;65,9;conforme;35752;2269;71;155;87;Non vérifié;non
+61361;Saint-André-de-Briouze;61;eau potable : Houlme;202408;2024;81,3;0,6;2,5;65,5;conforme;181376;2103;32;109;178;Non vérifié;non
+61362;Saint-André-de-Messei;61;eau potable : Concession ex-SMAEP+;136003;2024;81,4;1,2;5,2;66,0;conforme;179698;6577;35;107;518;Non vérifié;non
+61363;Saint-Aquilin-de-Corbion;61;eau potable : Régie;210881;2024;84,8;0,7;3,8;65,8;conforme;84315;420;19;76;60;Non vérifié;non
+61365;Saint-Aubin-d'Appenai;61;eau potable;136043;2024;73,7;1,2;3,3;65,7;conforme;73939;8168;51;133;441;Non vérifié;non
+61366;Saint-Aubin-de-Bonneval;61;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;1762;37;129;131;Non vérifié;non
+61367;Saint-Aubin-de-Courteraie;61;eau potable : Territoire du Syndicat;135973;2024;74,6;1,3;3,8;65,8;conforme;71175;4976;106;192;129;Non vérifié;non
+61369;Saint-Bômer-les-Forges;61;eau potable : du syndicat;135985;2024;90,1;0,7;6,7;66,3;conforme;111531;11127;30;39;1023;Non vérifié;non
+61370;Saint-Brice;61;eau potable : du syndicat;135985;2024;90,1;0,7;6,7;66,3;conforme;111531;1632;30;39;150;Non vérifié;non
+61371;Saint-Brice-sous-Rânes;61;eau potable : principal;209734;2024;68,7;1,1;2,5;65,5;conforme;104936;2093;40;163;142;Non vérifié;non
+61372;Saint-Céneri-le-Gérei;61;eau potable : principal;136040;2024;79,6;3,4;13,2;67,6;conforme;704019;1675;42;94;110;Non vérifié;non
+61373;Sainte-Céronne-lès-Mortagne;61;eau potable : ex SMAEP Haut Perche;209644;2024;82,2;1,1;4,9;66,0;conforme;169317;3291;36;89;251;Non vérifié;non
+61374;Saint-Christophe-de-Chaulieu;61;eau potable : CDC Tinchebray;218600;2024;83,5;0,6;2,8;65,6;conforme;75108;772;25;79;84;Non vérifié;non
+61375;Boischampré;61;eau potable : Ex SMAEP de la Région d'Argentan;214784;2024;79,3;2,4;9,0;66,8;conforme;386474;17116;40;112;1169;Non vérifié;non
+61376;Saint-Clair-de-Halouze;61;eau potable : Régie;136361;2024;90,6;1,2;11,3;67,3;conforme;206342;5754;19;46;812;Non vérifié;non
+61379;Saint-Cyr-la-Rosière;61;eau potable : Régie;228014;2024;67,1;1,3;2,6;65,5;conforme;287253;3809;45;183;231;Non vérifié;non
+61381;Saint-Denis-sur-Huisne;61;eau potable;136017;2024;75,2;0,7;2,1;65,4;conforme;40581;664;31;121;59;Non vérifié;non
+61382;Saint-Denis-sur-Sarthon;61;eau potable : principal;136040;2024;79,6;3,4;13,2;67,6;conforme;704019;16063;42;94;1055;Non vérifié;non
+61384;Saint-Ellier-les-Bois;61;eau potable;136037;2024;70,1;0,9;2,0;65,4;conforme;81728;3208;35;165;254;Non vérifié;non
+61385;Saint-Evroult-de-Montfort;61;eau potable : principal;206024;2024;67,7;1,2;2,5;65,5;conforme;163006;8181;61;178;370;Non vérifié;non
+61386;Saint-Evroult-Notre-Dame-du-Bois;61;eau potable : principal;206024;2024;67,7;1,2;2,5;65,5;conforme;163006;9729;61;178;440;Non vérifié;non
+61387;Saint-Fraimbault;61;eau potable;136013;2024;77,9;0,6;2,0;65,4;conforme;81591;9999;50;115;545;Non vérifié;non
+61388;Saint-Fulgent-des-Ormes;61;eau potable : Régie;228014;2024;67,1;1,3;2,6;65,5;conforme;287253;2836;45;183;172;Non vérifié;non
+61389;Sainte-Gauburge-Sainte-Colombe;61;eau potable;136002;2024;71,4;1,4;3,5;65,7;conforme;198575;12002;33;144;1006;Non vérifié;non
+61390;Saint-Georges-d'Annebecq;61;eau potable : principal;209734;2024;68,7;1,1;2,5;65,5;conforme;104936;2403;40;163;163;Non vérifié;non
+61391;Saint-Georges-des-Groseillers;61;eau potable : Régie;136361;2024;90,6;1,2;11,3;67,3;conforme;206342;22484;19;46;3173;Non vérifié;non
+61392;Saint-Germain-d'Aunay;61;eau potable : principal;136025;2024;82,8;0,6;2,9;65,6;conforme;28113;1718;41;76;116;Non vérifié;non
+61393;Saint-Germain-de-Clairefeuille;61;eau potable;136002;2024;71,4;1,4;3,5;65,7;conforme;198575;1575;33;144;132;Non vérifié;non
+61394;Saint-Germain-de-la-Coudre;61;eau potable : Régie;228014;2024;67,1;1,3;2,6;65,5;conforme;287253;13701;45;183;831;Non vérifié;non
+61395;Saint-Germain-des-Grois;61;eau potable : Périmètre Nocé;136009;2024;78,1;0,8;2,7;65,5;conforme;93568;1414;19;108;203;Non vérifié;non
+61396;Saint-Germain-de-Martigny;61;eau potable : Territoire du Syndicat;135973;2024;74,6;1,3;3,8;65,8;conforme;71175;3009;106;192;78;Non vérifié;non
+61397;Saint-Germain-du-Corbéis;61;eau potable : principal;136040;2024;79,6;3,4;13,2;67,6;conforme;704019;55359;42;94;3636;Non vérifié;non
+61398;Saint-Germain-le-Vieux;61;eau potable : Service principal;135992;2024;75,1;0,8;2,4;65,5;conforme;40705;948;42;124;62;Non vérifié;non
+61399;Saint-Gervais-des-Sablons;61;eau potable : principal;208941;2024;63,8;1,8;3,1;65,6;non conforme;116296;2691;105;272;70;Non vérifié;non
+61400;Saint-Gervais-du-Perron;61;eau potable;136038;2024;61,3;1,7;2,8;65,6;non conforme;68727;5924;48;224;341;Non vérifié;non
+61401;Saint-Gilles-des-Marais;61;eau potable : du syndicat;135985;2024;90,1;0,7;6,7;66,3;conforme;111531;1153;30;39;106;Non vérifié;non
+61402;Saint-Hilaire-de-Briouze;61;eau potable : Houlme;202408;2024;81,3;0,6;2,5;65,5;conforme;181376;3450;32;109;292;Non vérifié;non
+61404;Saint-Hilaire-le-Châtel;61;eau potable : ex SMAEP Haut Perche;209644;2024;82,2;1,1;4,9;66,0;conforme;169317;8746;36;89;667;Non vérifié;non
+61405;Saint-Hilaire-sur-Erre;61;eau potable : Périmètre Nocé;136009;2024;78,1;0,8;2,7;65,5;conforme;93568;3371;19;108;484;Non vérifié;non
+61406;Saint-Hilaire-sur-Risle;61;eau potable;136002;2024;71,4;1,4;3,5;65,7;conforme;198575;3448;33;144;289;Non vérifié;non
+61407;Sainte-Honorine-la-Chardonne;61;eau potable : Houlme;202408;2024;81,3;0,6;2,5;65,5;conforme;181376;8081;32;109;684;Non vérifié;non
+61408;Sainte-Honorine-la-Guillaume;61;eau potable : Houlme;202408;2024;81,3;0,6;2,5;65,5;conforme;181376;4123;32;109;349;Non vérifié;non
+61411;Saint-Jouin-de-Blavou;61;eau potable;136017;2024;75,2;0,7;2,1;65,4;conforme;40581;3502;31;121;311;Non vérifié;non
+61412;Saint-Julien-sur-Sarthe;61;eau potable;136043;2024;73,7;1,2;3,3;65,7;conforme;73939;12447;51;133;672;Non vérifié;non
+61413;Saint-Lambert-sur-Dive;61;eau potable : Neauphe-sur-Dive;135957;2024;86,1;0,4;2,6;65,5;conforme;3212;1176;24;55;134;Non vérifié;non
+61414;Saint-Langis-lès-Mortagne;61;eau potable : ex SMAEP Haut Perche;209644;2024;82,2;1,1;4,9;66,0;conforme;169317;11499;36;89;877;Non vérifié;non
+61415;Saint-Léger-sur-Sarthe;61;eau potable;136043;2024;73,7;1,2;3,3;65,7;conforme;73939;5927;51;133;320;Non vérifié;non
+61416;Saint-Léonard-des-Parcs;61;eau potable;136002;2024;71,4;1,4;3,5;65,7;conforme;198575;895;33;144;75;Non vérifié;non
+61418;Saint-Mard-de-Réno;61;eau potable : ex SMAEP Haut Perche;209644;2024;82,2;1,1;4,9;66,0;conforme;169317;5061;36;89;386;Non vérifié;non
+61419;Sainte-Marguerite-de-Carrouges;61;eau potable;136037;2024;70,1;0,9;2,0;65,4;conforme;81728;2652;35;165;210;Non vérifié;non
+61420;Sainte-Marie-la-Robert;61;eau potable;136028;2024;67,8;1,1;2,3;65,5;conforme;53958;2859;91;178;86;Non vérifié;non
+61421;Saint-Mars-d'Égrenne;61;eau potable;136013;2024;77,9;0,6;2,0;65,4;conforme;81591;11559;50;115;630;Non vérifié;non
+61422;Les Aspres;61;eau potable : Régie;210881;2024;84,8;0,7;3,8;65,8;conforme;84315;4374;19;76;625;Non vérifié;non
+61423;Saint-Martin-d'Écublei;61;eau potable : principal;202457;2024;80,2;1,0;4,2;65,8;conforme;106522;8899;39;86;625;Non vérifié;non
+61424;Saint-Martin-des-Landes;61;eau potable;136037;2024;70,1;0,9;2,0;65,4;conforme;81728;2324;35;165;184;Non vérifié;non
+61425;Saint-Martin-des-Pézerits;61;eau potable : régie;135996;2024;63,1;1,4;2,5;65,5;non conforme;71182;1709;40;207;117;Non vérifié;non
+61426;Saint-Martin-du-Vieux-Bellême;61;eau potable : Régie;228014;2024;67,1;1,3;2,6;65,5;conforme;287253;8871;45;183;538;Non vérifié;non
+61427;Saint-Martin-l'Aiguillon;61;eau potable : principal;209734;2024;68,7;1,1;2,5;65,5;conforme;104936;2742;40;163;186;Non vérifié;non
+61429;Charencey;61;eau potable : ex SMAEP Haut Perche;209644;2024;82,2;1,1;4,9;66,0;conforme;169317;9887;36;89;754;Non vérifié;non
+61432;Saint-Michel-Tuboeuf;61;eau potable : Délégation;251474;2024;84,5;1,8;9,8;67,0;conforme;161773;7588;37;90;568;Non vérifié;non
+61433;Saint-Nicolas-des-Bois;61;eau potable : principal;136040;2024;79,6;3,4;13,2;67,6;conforme;704019;4339;42;94;285;Non vérifié;non
+61435;Saint-Nicolas-de-Sommaire;61;eau potable : Régie;210881;2024;84,8;0,7;3,8;65,8;conforme;84315;1826;19;76;261;Non vérifié;non
+61436;Sainte-Opportune;61;eau potable : Houlme;202408;2024;81,3;0,6;2,5;65,5;conforme;181376;2883;32;109;244;Non vérifié;non
+61438;Saint-Ouen-de-Sécherouvre;61;eau potable : régie;135996;2024;63,1;1,4;2,5;65,5;non conforme;71182;2235;40;207;153;Non vérifié;non
+61439;Saint-Ouen-le-Brisoult;61;eau potable;135966;2024;87,5;1,0;6,8;66,4;conforme;89129;1073;23;53;128;Non vérifié;non
+61440;Saint-Ouen-sur-Iton;61;eau potable : Délégation;251474;2024;84,5;1,8;9,8;67,0;conforme;161773;11035;37;90;826;Non vérifié;non
+61442;Saint-Patrice-du-Désert;61;eau potable;135998;2024;89,8;0,2;2,2;65,4;conforme;8151;946;11;34;237;Non vérifié;non
+61443;Saint-Paul;61;eau potable : Régie;136361;2024;90,6;1,2;11,3;67,3;conforme;206342;4471;19;46;631;Non vérifié;non
+61444;Saint-Philbert-sur-Orne;61;eau potable : Houlme;202408;2024;81,3;0,6;2,5;65,5;conforme;181376;1311;32;109;111;Non vérifié;non
+61445;Saint-Pierre-d'Entremont;61;eau potable : CDC Tinchebray;218600;2024;83,5;0,6;2,8;65,6;conforme;75108;6046;25;79;658;Non vérifié;non
+61446;Saint-Pierre-des-Loges;61;eau potable;136002;2024;71,4;1,4;3,5;65,7;conforme;198575;1933;33;144;162;Non vérifié;non
+61447;Saint-Pierre-du-Regard;61;eau potable : Régie;136361;2024;90,6;1,2;11,3;67,3;conforme;206342;9360;19;46;1321;Non vérifié;non
+61448;Saint-Pierre-la-Bruyère;61;eau potable : Périmètre Nocé;136009;2024;78,1;0,8;2,7;65,5;conforme;93568;2946;19;108;423;Non vérifié;non
+61450;Saint-Quentin-de-Blavou;61;eau potable;136017;2024;75,2;0,7;2,1;65,4;conforme;40581;901;31;121;80;Non vérifié;non
+61451;Saint-Quentin-les-Chardonnets;61;eau potable : CDC Tinchebray;218600;2024;83,5;0,6;2,8;65,6;conforme;75108;2959;25;79;322;Non vérifié;non
+61452;Saint-Roch-sur-Égrenne;61;eau potable;136013;2024;77,9;0,6;2,0;65,4;conforme;81591;2715;50;115;148;Non vérifié;non
+61453;Saint-Sauveur-de-Carrouges;61;eau potable;136028;2024;67,8;1,1;2,3;65,5;conforme;53958;7846;91;178;236;Non vérifié;non
+61454;Sainte-Scolasse-sur-Sarthe;61;eau potable;136043;2024;73,7;1,2;3,3;65,7;conforme;73939;10780;51;133;582;Non vérifié;non
+61456;Saint-Sulpice-sur-Risle;61;eau potable : Délégation;251474;2024;84,5;1,8;9,8;67,0;conforme;161773;21148;37;90;1583;Non vérifié;non
+61457;Saint-Symphorien-des-Bruyères;61;eau potable : Régie;210881;2024;84,8;0,7;3,8;65,8;conforme;84315;3457;19;76;494;Non vérifié;non
+61459;Saires-la-Verrerie;61;eau potable : Concession ex-SMAEP+;136003;2024;81,4;1,2;5,2;66,0;conforme;179698;3746;35;107;295;Non vérifié;non
+61460;Sap-en-Auge;61;eau potable : principal;206024;2024;67,7;1,2;2,5;65,5;conforme;163006;20475;61;178;926;Non vérifié;non
+61461;Le Sap-André;61;eau potable : principal;206024;2024;67,7;1,2;2,5;65,5;conforme;163006;2764;61;178;125;Non vérifié;non
+61462;Sarceaux;61;eau potable : Ex SMAEP de la Région d'Argentan;214784;2024;79,3;2,4;9,0;66,8;conforme;386474;15564;40;112;1063;Non vérifié;non
+61463;Les Monts d'Andaine;61;eau potable : Concession ex-SMAEP+;136003;2024;81,4;1,2;5,2;66,0;conforme;179698;21383;35;107;1684;Non vérifié;non
+61464;Sées;61;eau potable : Principal;136031;2024;75,2;1,5;4,5;65,9;conforme;143002;65664;43;123;4168;Non vérifié;non
+61466;La Selle-la-Forge;61;eau potable : Régie;136361;2024;90,6;1,2;11,3;67,3;conforme;206342;9849;19;46;1390;Non vérifié;non
+61467;Semallé;61;eau potable;136038;2024;61,3;1,7;2,8;65,6;non conforme;68727;6584;48;224;379;Non vérifié;non
+61472;Sévigny;61;eau potable : Ex SMAEP de la Région d'Argentan;214784;2024;79,3;2,4;9,0;66,8;conforme;386474;4510;40;112;308;Non vérifié;non
+61473;Sevrai;61;eau potable : principal;209734;2024;68,7;1,1;2,5;65,5;conforme;104936;4304;40;163;292;Non vérifié;non
+61474;Gouffern en Auge;61;eau potable : Ex SMAEP de la Région d'Argentan;214784;2024;79,3;2,4;9,0;66,8;conforme;386474;53236;40;112;3636;Non vérifié;non
+61475;Soligny-la-Trappe;61;eau potable : régie;135996;2024;63,1;1,4;2,5;65,5;non conforme;71182;9159;40;207;627;Non vérifié;non
+61476;Suré;61;eau potable : Régie;228014;2024;67,1;1,3;2,6;65,5;conforme;287253;4567;45;183;277;Non vérifié;non
+61479;Tanques;61;eau potable : principal;209734;2024;68,7;1,1;2,5;65,5;conforme;104936;2314;40;163;157;Non vérifié;non
+61480;Tanville;61;eau potable : Ex SMAEP de la Région d'Argentan;214784;2024;79,3;2,4;9,0;66,8;conforme;386474;3324;40;112;227;Non vérifié;non
+61481;Tellières-le-Plessis;61;eau potable : SIAEP Moulin la Marche;136007;2024;81,6;1,0;4,5;65,9;conforme;35752;1721;71;155;66;Non vérifié;non
+61482;Tessé-Froulay;61;eau potable;135966;2024;87,5;1,0;6,8;66,4;conforme;89129;3143;23;53;375;Non vérifié;non
+61483;Bagnoles de l'Orne Normandie;61;eau potable (BAGNOLES-DE-L'ORNE-NORMANDIE);135971;2024;91,5;1,1;11,7;67,3;conforme;23046;23046;23;34;2699;Non vérifié;non
+61484;Val-au-Perche;61;eau potable : Régie;228014;2024;67,1;1,3;2,6;65,5;conforme;287253;55004;45;183;3336;Non vérifié;non
+61485;Ticheville;61;eau potable : principal;136025;2024;82,8;0,6;2,9;65,6;conforme;28113;2962;41;76;200;Non vérifié;non
+61486;Tinchebray-Bocage;61;eau potable : CDC Tinchebray;218600;2024;83,5;0,6;2,8;65,6;conforme;75108;44225;25;79;4813;Non vérifié;non
+61487;Torchamp;61;eau potable;136013;2024;77,9;0,6;2,0;65,4;conforme;81591;5339;50;115;291;Non vérifié;non
+61488;Touquettes;61;eau potable : principal;206024;2024;67,7;1,2;2,5;65,5;conforme;163006;1658;61;178;75;Non vérifié;non
+61490;Tournai-sur-Dive;61;eau potable : Tournai-sur-Dive;135903;2024;61,4;1,5;2,4;65,5;non conforme;7610;7610;71;223;295;Non vérifié;non
+61491;Tourouvre au Perche;61;eau potable : ex SMAEP Haut Perche;209644;2024;82,2;1,1;4,9;66,0;conforme;169317;38746;36;89;2955;Non vérifié;non
+61492;Trémont;61;eau potable : Service principal;135992;2024;75,1;0,8;2,4;65,5;conforme;40705;1865;42;124;122;Non vérifié;non
+61493;La Trinité-des-Laitiers;61;eau potable : principal;206024;2024;67,7;1,2;2,5;65,5;conforme;163006;1481;61;178;67;Non vérifié;non
+61494;Trun;61;eau potable : principal;208941;2024;63,8;1,8;3,1;65,6;non conforme;116296;44788;105;272;1165;Non vérifié;non
+61497;Valframbert;61;eau potable : principal;136040;2024;79,6;3,4;13,2;67,6;conforme;704019;25548;42;94;1678;Non vérifié;non
+61498;Vaunoise;61;eau potable : Régie;228014;2024;67,1;1,3;2,6;65,5;conforme;287253;1599;45;183;97;Non vérifié;non
+61499;Les Ventes-de-Bourse;61;eau potable;136043;2024;73,7;1,2;3,3;65,7;conforme;73939;2741;51;133;148;Non vérifié;non
+61500;La Ventrouze;61;eau potable : ex SMAEP Haut Perche;209644;2024;82,2;1,1;4,9;66,0;conforme;169317;1573;36;89;120;Non vérifié;non
+61501;Verrières;61;eau potable : Périmètre Nocé;136009;2024;78,1;0,8;2,7;65,5;conforme;93568;2842;19;108;408;Non vérifié;non
+61502;Vidai;61;eau potable;136015;2024;82,6;0,6;3,0;65,6;conforme;28880;524;20;74;72;Non vérifié;non
+61503;Vieux-Pont;61;eau potable;136028;2024;67,8;1,1;2,3;65,5;conforme;53958;6716;91;178;202;Non vérifié;non
+61505;Villedieu-lès-Bailleul;61;eau potable : Villedieu-lès-Bailleul;135907;2024;89,4;0,6;4,7;65,9;conforme;999;492;7;47;203;Non vérifié;non
+61507;Villiers-sous-Mortagne;61;eau potable : ex SMAEP Haut Perche;209644;2024;82,2;1,1;4,9;66,0;conforme;169317;3081;36;89;235;Non vérifié;non
+61508;Vimoutiers;61;eau potable : Vimoutiers;135911;2024;80,3;4,1;16,8;68,4;conforme;109484;105175;97;143;2978;Non vérifié;non
+61510;Vitrai-sous-Laigle;61;eau potable : Régie;210881;2024;84,8;0,7;3,8;65,8;conforme;84315;1463;19;76;209;Non vérifié;non
+61512;Les Yveteaux;61;eau potable : Houlme;202408;2024;81,3;0,6;2,5;65,5;conforme;181376;1193;32;109;101;Non vérifié;non

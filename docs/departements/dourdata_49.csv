@@ -7,181 +7,181 @@
 # Méthodologie et code : https://github.com/btaverne/dourdata
 # Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
 # Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
-Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
-49002;Allonnes;49;eau potable : Régie;259954;2024;86,8;0,6;3,8;65,8;conforme;182427;23639;22;57;2911;Non vérifié
-49003;Tuffalun;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;14457;23;60;1746;Non vérifié
-49007;Angers;49;eau potable : CU Angers Loire Métropole;72459;2024;91,5;1,9;20,6;69,1;conforme;1680350;854774;15;37;159022;Non vérifié
-49008;Angrie;49;eau potable : Secteur Nord-Ouest;72436;2024;83,2;1,0;4,9;66,0;conforme;520271;11239;34;74;913;Non vérifié
-49009;Antoigné;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;3652;23;60;441;Non vérifié
-49010;Armaillé;49;eau potable : Secteur Nord-Ouest;72436;2024;83,2;1,0;4,9;66,0;conforme;520271;3939;34;74;320;Non vérifié
-49011;Artannes-sur-Thouet;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;3353;23;60;405;Non vérifié
-49012;Aubigné-sur-Layon;49;eau potable : Secteur Sud-Est;301154;2024;90,4;0,9;8,5;66,7;conforme;222342;2618;21;59;347;Non vérifié
-49015;Avrillé;49;eau potable : CU Angers Loire Métropole;72459;2024;91,5;1,9;20,6;69,1;conforme;1680350;81977;15;37;15251;Non vérifié
-49017;Baracé;49;eau potable : Secteur Nord Est;301134;2024;89,2;0,7;5,5;66,1;conforme;318430;5036;22;54;636;Non vérifié
-49018;Baugé-en-Anjou;49;eau potable : CC Baugeois Vallée;301934;2023;91,3;0,4;4,7;65,9;conforme;197830;67029;16;41;11712;Sans anomalie apparente
-49020;Beaucouzé;49;eau potable : CU Angers Loire Métropole;72459;2024;91,5;1,9;20,6;69,1;conforme;1680350;30811;15;37;5732;Non vérifié
-49021;Beaufort-en-Anjou;49;eau potable : CC Baugeois Vallée;301934;2023;91,3;0,4;4,7;65,9;conforme;197830;39495;16;41;6901;Sans anomalie apparente
-49022;Beaulieu-sur-Layon;49;eau potable : ex-SIAEP du Layon;72446;2024;84,8;1,2;7,0;66,4;conforme;125049;10138;21;92;1345;Non vérifié
-49023;Beaupréau-en-Mauges;49;eau potable : CA Mauges Communauté;306054;2024;83,9;1,3;7,0;66,4;conforme;1380600;268768;31;87;23989;Non vérifié
-49026;Bécon-les-Granits;49;eau potable : Régie;208775;2024;87,7;1,0;6,9;66,4;conforme;342662;30082;29;78;2811;Non vérifié
-49027;Bégrolles-en-Mauges;49;eau potable : AdC - Eau de Cholet;302074;2024;92,1;0,8;9,8;67,0;conforme;508609;10200;13;33;2110;Non vérifié
-49028;Béhuard;49;eau potable : CU Angers Loire Métropole;72459;2024;91,5;1,9;20,6;69,1;conforme;1680350;618;15;37;115;Non vérifié
-49029;Blaison-Saint-Sulpice;49;eau potable : Secteur Sud-Est;301154;2024;90,4;0,9;8,5;66,7;conforme;222342;10089;21;59;1337;Non vérifié
-49030;Blou;49;eau potable : Régie;259954;2024;86,8;0,6;3,8;65,8;conforme;182427;7544;22;57;929;Non vérifié
-49035;Bouchemaine;49;eau potable : CU Angers Loire Métropole;72459;2024;91,5;1,9;20,6;69,1;conforme;1680350;35369;15;37;6580;Non vérifié
-49036;Bouillé-Ménard;49;eau potable : Secteur Nord-Ouest;72436;2024;83,2;1,0;4,9;66,0;conforme;520271;9663;34;74;785;Non vérifié
-49038;Bourg-l'Évêque;49;eau potable : Secteur Nord-Ouest;72436;2024;83,2;1,0;4,9;66,0;conforme;520271;2905;34;74;236;Non vérifié
-49041;Brain-sur-Allonnes;49;eau potable : Régie;259954;2024;86,8;0,6;3,8;65,8;conforme;182427;16696;22;57;2056;Non vérifié
-49045;La Breille-les-Pins;49;eau potable : Régie;259954;2024;86,8;0,6;3,8;65,8;conforme;182427;5067;22;57;624;Non vérifié
-49048;Briollay;49;eau potable : CU Angers Loire Métropole;72459;2024;91,5;1,9;20,6;69,1;conforme;1680350;17335;15;37;3225;Non vérifié
-49050;Brissac Loire Aubance;49;eau potable : Secteur Sud-Est;301154;2024;90,4;0,9;8,5;66,7;conforme;222342;82082;21;59;10878;Non vérifié
-49053;Brossay;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;2815;23;60;340;Non vérifié
-49054;Candé;49;eau potable : Secteur Nord-Ouest;72436;2024;83,2;1,0;4,9;66,0;conforme;520271;34479;34;74;2801;Non vérifié
-49055;Cantenay-Épinard;49;eau potable : CU Angers Loire Métropole;72459;2024;91,5;1,9;20,6;69,1;conforme;1680350;12981;15;37;2415;Non vérifié
-49056;Carbay;49;eau potable : Secteur Nord-Ouest;72436;2024;83,2;1,0;4,9;66,0;conforme;520271;3410;34;74;277;Non vérifié
-49057;Cernusson;49;eau potable : AdC - Eau de Cholet;302074;2024;92,1;0,8;9,8;67,0;conforme;508609;1590;13;33;329;Non vérifié
-49058;Les Cerqueux;49;eau potable : AdC - Eau de Cholet;302074;2024;92,1;0,8;9,8;67,0;conforme;508609;4336;13;33;897;Non vérifié
-49060;Bellevigne-les-Châteaux;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;28442;23;60;3435;Non vérifié
-49061;Challain-la-Potherie;49;eau potable : Secteur Nord-Ouest;72436;2024;83,2;1,0;4,9;66,0;conforme;520271;10180;34;74;827;Non vérifié
-49063;Chalonnes-sur-Loire;49;eau potable : Régie;208775;2024;87,7;1,0;6,9;66,4;conforme;342662;71261;29;78;6659;Non vérifié
-49064;Chambellay;49;eau potable : secteur de Bierné;258454;2024;87,0;0,6;4,2;65,8;conforme;88476;1266;8;61;411;Non vérifié
-49067;Chenillé-Champteussé;49;eau potable : secteur de Bierné;258454;2024;87,0;0,6;4,2;65,8;conforme;88476;1035;8;61;336;Non vérifié
-49068;Champtocé-sur-Loire;49;eau potable : Régie;208775;2024;87,7;1,0;6,9;66,4;conforme;342662;19573;29;78;1829;Non vérifié
-49069;Orée d'Anjou;49;eau potable : CA Mauges Communauté;306054;2024;83,9;1,3;7,0;66,4;conforme;1380600;190689;31;87;17020;Non vérifié
-49070;Chanteloup-les-Bois;49;eau potable : AdC - Eau de Cholet;302074;2024;92,1;0,8;9,8;67,0;conforme;508609;3548;13;33;734;Non vérifié
-49076;La Chapelle-Saint-Laud;49;eau potable : Secteur Nord Est;301134;2024;89,2;0,7;5,5;66,1;conforme;318430;6628;22;54;837;Non vérifié
-49080;Les Hauts-d'Anjou;49;eau potable : Secteur Nord Est;301134;2024;89,2;0,7;5,5;66,1;conforme;318430;69297;22;54;8751;Non vérifié
-49082;Chaudefonds-sur-Layon;49;eau potable : Régie;208775;2024;87,7;1,0;6,9;66,4;conforme;342662;10156;29;78;949;Non vérifié
-49086;Terranjou;49;eau potable : Secteur Sud-Est;301154;2024;90,4;0,9;8,5;66,7;conforme;222342;29209;21;59;3871;Non vérifié
-49089;Chazé-sur-Argos;49;eau potable : Secteur Nord-Ouest;72436;2024;83,2;1,0;4,9;66,0;conforme;520271;13368;34;74;1086;Non vérifié
-49090;Cheffes;49;eau potable : Secteur Nord Est;301134;2024;89,2;0,7;5,5;66,1;conforme;318430;8267;22;54;1044;Non vérifié
-49092;Chemillé-en-Anjou;49;eau potable : CA Mauges Communauté;306054;2024;83,9;1,3;7,0;66,4;conforme;1380600;246473;31;87;21999;Non vérifié
-49099;Cholet;49;eau potable : AdC - Eau de Cholet;302074;2024;92,1;0,8;9,8;67,0;conforme;508609;263006;13;33;54404;Non vérifié
-49100;Cizay-la-Madeleine;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;3916;23;60;473;Non vérifié
-49102;Cléré-sur-Layon;49;eau potable : AdC - Eau de Cholet;302074;2024;92,1;0,8;9,8;67,0;conforme;508609;1682;13;33;348;Non vérifié
-49107;Cornillé-les-Caves;49;eau potable : Secteur Nord Est;301134;2024;89,2;0,7;5,5;66,1;conforme;318430;3833;22;54;484;Non vérifié
-49109;Coron;49;eau potable : AdC - Eau de Cholet;302074;2024;92,1;0,8;9,8;67,0;conforme;508609;7749;13;33;1603;Non vérifié
-49110;Corzé;49;eau potable : Secteur Nord Est;301134;2024;89,2;0,7;5,5;66,1;conforme;318430;15766;22;54;1991;Non vérifié
-49112;Le Coudray-Macouard;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;7601;23;60;918;Non vérifié
-49113;Courchamps;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;4413;23;60;533;Non vérifié
-49114;Courléon;49;eau potable : Régie;259954;2024;86,8;0,6;3,8;65,8;conforme;182427;1153;22;57;142;Non vérifié
-49120;Denée;49;eau potable : ex-SIAEP du Layon;72446;2024;84,8;1,2;7,0;66,4;conforme;125049;10922;21;92;1449;Non vérifié
-49121;Dénezé-sous-Doué;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;3676;23;60;444;Non vérifié
-49123;Distré;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;14954;23;60;1806;Non vérifié
-49125;Doué-en-Anjou;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;91321;23;60;11029;Non vérifié
-49127;Durtal;49;eau potable : Secteur Nord Est;301134;2024;89,2;0,7;5,5;66,1;conforme;318430;26813;22;54;3386;Non vérifié
-49129;Écouflant;49;eau potable : CU Angers Loire Métropole;72459;2024;91,5;1,9;20,6;69,1;conforme;1680350;25527;15;37;4749;Non vérifié
-49130;Écuillé;49;eau potable : CU Angers Loire Métropole;72459;2024;91,5;1,9;20,6;69,1;conforme;1680350;3521;15;37;655;Non vérifié
-49131;Épieds;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;5887;23;60;711;Non vérifié
-49132;Étriché;49;eau potable : Secteur Nord Est;301134;2024;89,2;0,7;5,5;66,1;conforme;318430;12670;22;54;1600;Non vérifié
-49135;Feneu;49;eau potable : CU Angers Loire Métropole;72459;2024;91,5;1,9;20,6;69,1;conforme;1680350;11890;15;37;2212;Non vérifié
-49138;Les Bois d'Anjou;49;eau potable : CC Baugeois Vallée;301934;2023;91,3;0,4;4,7;65,9;conforme;197830;14451;16;41;2525;Sans anomalie apparente
-49140;Fontevraud-l'Abbaye;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;12031;23;60;1453;Non vérifié
-49155;Grez-Neuville;49;eau potable : Secteur Nord-Ouest;72436;2024;83,2;1,0;4,9;66,0;conforme;520271;17812;34;74;1447;Non vérifié
-49160;Ingrandes-le-Fresne-sur-Loire;49;eau potable : Pays d'Ancenis;129067;2024;86,3;1,4;8,9;66,8;conforme;738906;36848;33;67;3071;Non vérifié
-49161;La Jaille-Yvon;49;eau potable : secteur de Bierné;258454;2024;87,0;0,6;4,2;65,8;conforme;88476;1056;8;61;343;Non vérifié
-49163;Jarzé Villages;49;eau potable : Secteur Nord Est;301134;2024;89,2;0,7;5,5;66,1;conforme;318430;22157;22;54;2798;Non vérifié
-49167;Les Garennes sur Loire;49;eau potable : Secteur Sud-Est;301154;2024;90,4;0,9;8,5;66,7;conforme;222342;35186;21;59;4663;Non vérifié
-49170;Juvardeil;49;eau potable : Secteur Nord Est;301134;2024;89,2;0,7;5,5;66,1;conforme;318430;6596;22;54;833;Non vérifié
-49171;La Lande-Chasles;49;eau potable : Régie;259954;2024;86,8;0,6;3,8;65,8;conforme;182427;942;22;57;116;Non vérifié
-49174;Huillé-Lézigné;49;eau potable : Secteur Nord Est;301134;2024;89,2;0,7;5,5;66,1;conforme;318430;10279;22;54;1298;Non vérifié
-49176;Le Lion-d'Angers;49;eau potable : Secteur Nord-Ouest;72436;2024;83,2;1,0;4,9;66,0;conforme;520271;66348;34;74;5390;Non vérifié
-49178;Loiré;49;eau potable : Secteur Nord-Ouest;72436;2024;83,2;1,0;4,9;66,0;conforme;520271;11079;34;74;900;Non vérifié
-49180;Longué-Jumelles;49;eau potable : Régie;259954;2024;86,8;0,6;3,8;65,8;conforme;182427;53303;22;57;6564;Non vérifié
-49182;Louresse-Rochemenier;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;7419;23;60;896;Non vérifié
-49183;Val d'Erdre-Auxence;49;eau potable : Régie;208775;2024;87,7;1,0;6,9;66,4;conforme;342662;53304;29;78;4981;Non vérifié
-49188;Marcé;49;eau potable : Secteur Nord Est;301134;2024;89,2;0,7;5,5;66,1;conforme;318430;6676;22;54;843;Non vérifié
-49192;Maulévrier;49;eau potable : AdC - Eau de Cholet;302074;2024;92,1;0,8;9,8;67,0;conforme;508609;15334;13;33;3172;Non vérifié
-49193;Le May-sur-Èvre;49;eau potable : AdC - Eau de Cholet;302074;2024;92,1;0,8;9,8;67,0;conforme;508609;18951;13;33;3920;Non vérifié
-49194;Mazé-Milon;49;eau potable : CC Baugeois Vallée;301934;2023;91,3;0,4;4,7;65,9;conforme;197830;32971;16;41;5761;Sans anomalie apparente
-49195;Mazières-en-Mauges;49;eau potable : AdC - Eau de Cholet;302074;2024;92,1;0,8;9,8;67,0;conforme;508609;5995;13;33;1240;Non vérifié
-49200;Longuenée-en-Anjou;49;eau potable : CU Angers Loire Métropole;72459;2024;91,5;1,9;20,6;69,1;conforme;1680350;35320;15;37;6571;Non vérifié
-49201;La Ménitré;49;eau potable : CC Baugeois Vallée;301934;2023;91,3;0,4;4,7;65,9;conforme;197830;11898;16;41;2079;Sans anomalie apparente
-49205;Miré;49;eau potable : Secteur Nord Est;301134;2024;89,2;0,7;5,5;66,1;conforme;318430;8394;22;54;1060;Non vérifié
-49209;Montigné-lès-Rairies;49;eau potable : Secteur Nord Est;301134;2024;89,2;0,7;5,5;66,1;conforme;318430;3310;22;54;418;Non vérifié
-49211;Montilliers;49;eau potable : AdC - Eau de Cholet;302074;2024;92,1;0,8;9,8;67,0;conforme;508609;5908;13;33;1222;Non vérifié
-49214;Montreuil-Juigné;49;eau potable : CU Angers Loire Métropole;72459;2024;91,5;1,9;20,6;69,1;conforme;1680350;41970;15;37;7808;Non vérifié
-49215;Montreuil-Bellay;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;31017;23;60;3746;Non vérifié
-49216;Montreuil-sur-Loir;49;eau potable : Secteur Nord Est;301134;2024;89,2;0,7;5,5;66,1;conforme;318430;4530;22;54;572;Non vérifié
-49217;Montreuil-sur-Maine;49;eau potable : Secteur Nord-Ouest;72436;2024;83,2;1,0;4,9;66,0;conforme;520271;9897;34;74;804;Non vérifié
-49218;Montrevault-sur-Èvre;49;eau potable : CA Mauges Communauté;306054;2024;83,9;1,3;7,0;66,4;conforme;1380600;176191;31;87;15726;Non vérifié
-49219;Montsoreau;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;3378;23;60;408;Non vérifié
-49220;Morannes sur Sarthe-Daumeray;49;eau potable : Secteur Nord Est;301134;2024;89,2;0,7;5,5;66,1;conforme;318430;29197;22;54;3687;Non vérifié
-49221;Mouliherne;49;eau potable : Régie;259954;2024;86,8;0,6;3,8;65,8;conforme;182427;6789;22;57;836;Non vérifié
-49222;Mozé-sur-Louet;49;eau potable : ex-SIAEP du Layon;72446;2024;84,8;1,2;7,0;66,4;conforme;125049;15309;21;92;2031;Non vérifié
-49223;Mûrs-Erigné;49;eau potable : CU Angers Loire Métropole;72459;2024;91,5;1,9;20,6;69,1;conforme;1680350;34444;15;37;6408;Non vérifié
-49224;Neuillé;49;eau potable : Régie;259954;2024;86,8;0,6;3,8;65,8;conforme;182427;8348;22;57;1028;Non vérifié
-49228;Noyant-Villages;49;eau potable : CC Baugeois Vallée;301934;2023;91,3;0,4;4,7;65,9;conforme;197830;31179;16;41;5448;Sans anomalie apparente
-49231;Nuaillé;49;eau potable : AdC - Eau de Cholet;302074;2024;92,1;0,8;9,8;67,0;conforme;508609;7053;13;33;1459;Non vérifié
-49235;Parnay;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;3088;23;60;373;Non vérifié
-49236;Passavant-sur-Layon;49;eau potable : AdC - Eau de Cholet;302074;2024;92,1;0,8;9,8;67,0;conforme;508609;609;13;33;126;Non vérifié
-49237;La Pellerine;49;eau potable : CC Baugeois Vallée;301934;2023;91,3;0,4;4,7;65,9;conforme;197830;807;16;41;141;Sans anomalie apparente
-49240;La Plaine;49;eau potable : AdC - Eau de Cholet;302074;2024;92,1;0,8;9,8;67,0;conforme;508609;4921;13;33;1018;Non vérifié
-49241;Le Plessis-Grammoire;49;eau potable : CU Angers Loire Métropole;72459;2024;91,5;1,9;20,6;69,1;conforme;1680350;14320;15;37;2664;Non vérifié
-49244;Mauges-sur-Loire;49;eau potable : CA Mauges Communauté;306054;2024;83,9;1,3;7,0;66,4;conforme;1380600;209455;31;87;18695;Non vérifié
-49246;Les Ponts-de-Cé;49;eau potable : CU Angers Loire Métropole;72459;2024;91,5;1,9;20,6;69,1;conforme;1680350;70678;15;37;13149;Non vérifié
-49247;La Possonnière;49;eau potable : Régie;208775;2024;87,7;1,0;6,9;66,4;conforme;342662;26764;29;78;2501;Non vérifié
-49248;Ombrée d'Anjou;49;eau potable : Secteur Nord-Ouest;72436;2024;83,2;1,0;4,9;66,0;conforme;520271;108483;34;74;8813;Non vérifié
-49253;Le Puy-Notre-Dame;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;8976;23;60;1084;Non vérifié
-49257;Les Rairies;49;eau potable : Secteur Nord Est;301134;2024;89,2;0,7;5,5;66,1;conforme;318430;8243;22;54;1041;Non vérifié
-49259;Rochefort-sur-Loire;49;eau potable : ex-SIAEP du Layon;72446;2024;84,8;1,2;7,0;66,4;conforme;125049;17585;21;92;2333;Non vérifié
-49260;La Romagne;49;eau potable : AdC - Eau de Cholet;302074;2024;92,1;0,8;9,8;67,0;conforme;508609;9804;13;33;2028;Non vérifié
-49261;Gennes-Val-de-Loire;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;69793;23;60;8429;Non vérifié
-49262;Rou-Marson;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;5283;23;60;638;Non vérifié
-49266;Saint-Augustin-des-Bois;49;eau potable : Régie;208775;2024;87,7;1,0;6,9;66,4;conforme;342662;13858;29;78;1295;Non vérifié
-49267;Saint-Barthélemy-d'Anjou;49;eau potable : CU Angers Loire Métropole;72459;2024;91,5;1,9;20,6;69,1;conforme;1680350;52247;15;37;9720;Non vérifié
-49269;Saint-Christophe-du-Bois;49;eau potable : AdC - Eau de Cholet;302074;2024;92,1;0,8;9,8;67,0;conforme;508609;13671;13;33;2828;Non vérifié
-49271;Saint-Clément-de-la-Place;49;eau potable : CU Angers Loire Métropole;72459;2024;91,5;1,9;20,6;69,1;conforme;1680350;11653;15;37;2168;Non vérifié
-49272;Saint-Clément-des-Levées;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;9340;23;60;1128;Non vérifié
-49278;Sainte-Gemmes-sur-Loire;49;eau potable : CU Angers Loire Métropole;72459;2024;91,5;1,9;20,6;69,1;conforme;1680350;19808;15;37;3685;Non vérifié
-49283;Saint-Georges-sur-Loire;49;eau potable : Régie;208775;2024;87,7;1,0;6,9;66,4;conforme;342662;41051;29;78;3836;Non vérifié
-49284;Saint-Germain-des-Prés;49;eau potable : Régie;208775;2024;87,7;1,0;6,9;66,4;conforme;342662;14854;29;78;1388;Non vérifié
-49288;Saint-Jean-de-la-Croix;49;eau potable : Secteur Sud-Est;301154;2024;90,4;0,9;8,5;66,7;conforme;222342;1751;21;59;232;Non vérifié
-49291;Saint-Just-sur-Dive;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;3088;23;60;373;Non vérifié
-49292;Val-du-Layon;49;eau potable : ex-SIAEP du Layon;72446;2024;84,8;1,2;7,0;66,4;conforme;125049;26457;21;92;3510;Non vérifié
-49294;Saint-Lambert-la-Potherie;49;eau potable : CU Angers Loire Métropole;72459;2024;91,5;1,9;20,6;69,1;conforme;1680350;15986;15;37;2974;Non vérifié
-49298;Saint-Léger-de-Linières;49;eau potable : CU Angers Loire Métropole;72459;2024;91,5;1,9;20,6;69,1;conforme;1680350;20781;15;37;3866;Non vérifié
-49299;Saint-Léger-sous-Cholet;49;eau potable : AdC - Eau de Cholet;302074;2024;92,1;0,8;9,8;67,0;conforme;508609;15015;13;33;3106;Non vérifié
-49301;Sèvremoine;49;eau potable : CA Mauges Communauté;306054;2024;83,9;1,3;7,0;66,4;conforme;1380600;289025;31;87;25797;Non vérifié
-49302;Saint-Macaire-du-Bois;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;3635;23;60;439;Non vérifié
-49306;Saint-Martin-du-Fouilloux;49;eau potable : CU Angers Loire Métropole;72459;2024;91,5;1,9;20,6;69,1;conforme;1680350;9165;15;37;1705;Non vérifié
-49307;Loire-Authion;49;eau potable : CU Angers Loire Métropole;72459;2024;91,5;1,9;20,6;69,1;conforme;1680350;90115;15;37;16765;Non vérifié
-49308;Saint-Melaine-sur-Aubance;49;eau potable : Secteur Sud-Est;301154;2024;90,4;0,9;8,5;66,7;conforme;222342;16721;21;59;2216;Non vérifié
-49310;Saint-Paul-du-Bois;49;eau potable : AdC - Eau de Cholet;302074;2024;92,1;0,8;9,8;67,0;conforme;508609;2891;13;33;598;Non vérifié
-49311;Saint-Philbert-du-Peuple;49;eau potable : Régie;259954;2024;86,8;0,6;3,8;65,8;conforme;182427;10613;22;57;1307;Non vérifié
-49321;Saint-Sigismond;49;eau potable : Régie;208775;2023;88,5;0,9;6,6;66,3;conforme;315590;3875;27;70;398;Sans anomalie apparente
-49323;Verrières-en-Anjou;49;eau potable : CU Angers Loire Métropole;72459;2024;91,5;1,9;20,6;69,1;conforme;1680350;43625;15;37;8116;Non vérifié
-49326;Sarrigné;49;eau potable : CU Angers Loire Métropole;72459;2024;91,5;1,9;20,6;69,1;conforme;1680350;5026;15;37;935;Non vérifié
-49328;Saumur;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;217278;23;60;26241;Non vérifié
-49329;Savennières;49;eau potable : CU Angers Loire Métropole;72459;2024;91,5;1,9;20,6;69,1;conforme;1680350;7251;15;37;1349;Non vérifié
-49330;Sceaux-d'Anjou;49;eau potable : Secteur Nord Est;301134;2024;89,2;0,7;5,5;66,1;conforme;318430;9146;22;54;1155;Non vérifié
-49331;Segré-en-Anjou Bleu;49;eau potable : secteur de Bierné;258454;2024;87,0;0,6;4,2;65,8;conforme;88476;54405;8;61;17667;Non vérifié
-49332;La Séguinière;49;eau potable : AdC - Eau de Cholet;302074;2024;92,1;0,8;9,8;67,0;conforme;508609;20536;13;33;4248;Non vérifié
-49333;Seiches-sur-le-Loir;49;eau potable : Secteur Nord Est;301134;2024;89,2;0,7;5,5;66,1;conforme;318430;22521;22;54;2844;Non vérifié
-49334;Sermaise;49;eau potable : Secteur Nord Est;301134;2024;89,2;0,7;5,5;66,1;conforme;318430;2732;22;54;345;Non vérifié
-49336;Somloire;49;eau potable : AdC - Eau de Cholet;302074;2024;92,1;0,8;9,8;67,0;conforme;508609;4274;13;33;884;Non vérifié
-49338;Soulaines-sur-Aubance;49;eau potable : CU Angers Loire Métropole;72459;2024;91,5;1,9;20,6;69,1;conforme;1680350;7144;15;37;1329;Non vérifié
-49339;Soulaire-et-Bourg;49;eau potable : CU Angers Loire Métropole;72459;2024;91,5;1,9;20,6;69,1;conforme;1680350;7885;15;37;1467;Non vérifié
-49341;Souzay-Champigny;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;5680;23;60;686;Non vérifié
-49343;La Tessoualle;49;eau potable : AdC - Eau de Cholet;302074;2024;92,1;0,8;9,8;67,0;conforme;508609;15310;13;33;3167;Non vérifié
-49344;Thorigné-d'Anjou;49;eau potable : secteur de Bierné;258454;2024;87,0;0,6;4,2;65,8;conforme;88476;3766;8;61;1223;Non vérifié
-49345;Bellevigne-en-Layon;49;eau potable : Secteur Sud-Est;301154;2024;90,4;0,9;8,5;66,7;conforme;222342;44686;21;59;5922;Non vérifié
-49347;Tiercé;49;eau potable : Secteur Nord Est;301134;2024;89,2;0,7;5,5;66,1;conforme;318430;36339;22;54;4589;Non vérifié
-49352;Toutlemonde;49;eau potable : AdC - Eau de Cholet;302074;2024;92,1;0,8;9,8;67,0;conforme;508609;6309;13;33;1305;Non vérifié
-49353;Trélazé;49;eau potable : CU Angers Loire Métropole;72459;2024;91,5;1,9;20,6;69,1;conforme;1680350;87793;15;37;16333;Non vérifié
-49355;Trémentines;49;eau potable : AdC - Eau de Cholet;302074;2024;92,1;0,8;9,8;67,0;conforme;508609;14991;13;33;3101;Non vérifié
-49358;Turquant;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;4687;23;60;566;Non vérifié
-49359;Les Ulmes;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;4504;23;60;544;Non vérifié
-49361;Varennes-sur-Loire;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;15914;23;60;1922;Non vérifié
-49362;Varrains;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;10863;23;60;1312;Non vérifié
-49364;Vaudelnay;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;9290;23;60;1122;Non vérifié
-49367;Erdre-en-Anjou;49;eau potable : Régie;208775;2024;87,7;1,0;6,9;66,4;conforme;342662;61758;29;78;5771;Non vérifié
-49368;Vernantes;49;eau potable : Régie;259954;2024;86,8;0,6;3,8;65,8;conforme;182427;16273;22;57;2004;Non vérifié
-49369;Vernoil-le-Fourrier;49;eau potable : Régie;259954;2024;86,8;0,6;3,8;65,8;conforme;182427;11093;22;57;1366;Non vérifié
-49370;Verrie;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;3792;23;60;458;Non vérifié
-49371;Vezins;49;eau potable : AdC - Eau de Cholet;302074;2024;92,1;0,8;9,8;67,0;conforme;508609;8499;13;33;1758;Non vérifié
-49373;Lys-Haut-Layon;49;eau potable : AdC - Eau de Cholet;302074;2024;92,1;0,8;9,8;67,0;conforme;508609;37456;13;33;7748;Non vérifié
-49374;Villebernier;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;11932;23;60;1441;Non vérifié
-49377;Rives-du-Loir-en-Anjou;49;eau potable : CU Angers Loire Métropole;72459;2024;91,5;1,9;20,6;69,1;conforme;1680350;30338;15;37;5644;Non vérifié
-49378;Vivy;49;eau potable : Régie;259954;2024;86,8;0,6;3,8;65,8;conforme;182427;20967;22;57;2582;Non vérifié
-49381;Yzernay;49;eau potable : AdC - Eau de Cholet;302074;2024;92,1;0,8;9,8;67,0;conforme;508609;8968;13;33;1855;Non vérifié
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement);Donnée suspecte (voir LISEZMOI)
+49002;Allonnes;49;eau potable : Régie;259954;2024;86,8;0,6;3,8;65,8;conforme;182427;23639;22;57;2911;Non vérifié;non
+49003;Tuffalun;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;14457;23;60;1746;Non vérifié;non
+49007;Angers;49;eau potable : CU Angers Loire Métropole;72459;2024;91,5;1,9;20,6;69,1;conforme;1680350;854774;15;37;159022;Non vérifié;non
+49008;Angrie;49;eau potable : Secteur Nord-Ouest;72436;2024;83,2;1,0;4,9;66,0;conforme;520271;11239;34;74;913;Non vérifié;non
+49009;Antoigné;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;3652;23;60;441;Non vérifié;non
+49010;Armaillé;49;eau potable : Secteur Nord-Ouest;72436;2024;83,2;1,0;4,9;66,0;conforme;520271;3939;34;74;320;Non vérifié;non
+49011;Artannes-sur-Thouet;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;3353;23;60;405;Non vérifié;non
+49012;Aubigné-sur-Layon;49;eau potable : Secteur Sud-Est;301154;2024;90,4;0,9;8,5;66,7;conforme;222342;2618;21;59;347;Non vérifié;non
+49015;Avrillé;49;eau potable : CU Angers Loire Métropole;72459;2024;91,5;1,9;20,6;69,1;conforme;1680350;81977;15;37;15251;Non vérifié;non
+49017;Baracé;49;eau potable : Secteur Nord Est;301134;2024;89,2;0,7;5,5;66,1;conforme;318430;5036;22;54;636;Non vérifié;non
+49018;Baugé-en-Anjou;49;eau potable : CC Baugeois Vallée;301934;2023;91,3;0,4;4,7;65,9;conforme;197830;67029;16;41;11712;Sans anomalie apparente;non
+49020;Beaucouzé;49;eau potable : CU Angers Loire Métropole;72459;2024;91,5;1,9;20,6;69,1;conforme;1680350;30811;15;37;5732;Non vérifié;non
+49021;Beaufort-en-Anjou;49;eau potable : CC Baugeois Vallée;301934;2023;91,3;0,4;4,7;65,9;conforme;197830;39495;16;41;6901;Sans anomalie apparente;non
+49022;Beaulieu-sur-Layon;49;eau potable : ex-SIAEP du Layon;72446;2024;84,8;1,2;7,0;66,4;conforme;125049;10138;21;92;1345;Non vérifié;non
+49023;Beaupréau-en-Mauges;49;eau potable : CA Mauges Communauté;306054;2024;83,9;1,3;7,0;66,4;conforme;1380600;268768;31;87;23989;Non vérifié;non
+49026;Bécon-les-Granits;49;eau potable : Régie;208775;2024;87,7;1,0;6,9;66,4;conforme;342662;30082;29;78;2811;Non vérifié;non
+49027;Bégrolles-en-Mauges;49;eau potable : AdC - Eau de Cholet;302074;2024;92,1;0,8;9,8;67,0;conforme;508609;10200;13;33;2110;Non vérifié;non
+49028;Béhuard;49;eau potable : CU Angers Loire Métropole;72459;2024;91,5;1,9;20,6;69,1;conforme;1680350;618;15;37;115;Non vérifié;non
+49029;Blaison-Saint-Sulpice;49;eau potable : Secteur Sud-Est;301154;2024;90,4;0,9;8,5;66,7;conforme;222342;10089;21;59;1337;Non vérifié;non
+49030;Blou;49;eau potable : Régie;259954;2024;86,8;0,6;3,8;65,8;conforme;182427;7544;22;57;929;Non vérifié;non
+49035;Bouchemaine;49;eau potable : CU Angers Loire Métropole;72459;2024;91,5;1,9;20,6;69,1;conforme;1680350;35369;15;37;6580;Non vérifié;non
+49036;Bouillé-Ménard;49;eau potable : Secteur Nord-Ouest;72436;2024;83,2;1,0;4,9;66,0;conforme;520271;9663;34;74;785;Non vérifié;non
+49038;Bourg-l'Évêque;49;eau potable : Secteur Nord-Ouest;72436;2024;83,2;1,0;4,9;66,0;conforme;520271;2905;34;74;236;Non vérifié;non
+49041;Brain-sur-Allonnes;49;eau potable : Régie;259954;2024;86,8;0,6;3,8;65,8;conforme;182427;16696;22;57;2056;Non vérifié;non
+49045;La Breille-les-Pins;49;eau potable : Régie;259954;2024;86,8;0,6;3,8;65,8;conforme;182427;5067;22;57;624;Non vérifié;non
+49048;Briollay;49;eau potable : CU Angers Loire Métropole;72459;2024;91,5;1,9;20,6;69,1;conforme;1680350;17335;15;37;3225;Non vérifié;non
+49050;Brissac Loire Aubance;49;eau potable : Secteur Sud-Est;301154;2024;90,4;0,9;8,5;66,7;conforme;222342;82082;21;59;10878;Non vérifié;non
+49053;Brossay;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;2815;23;60;340;Non vérifié;non
+49054;Candé;49;eau potable : Secteur Nord-Ouest;72436;2024;83,2;1,0;4,9;66,0;conforme;520271;34479;34;74;2801;Non vérifié;non
+49055;Cantenay-Épinard;49;eau potable : CU Angers Loire Métropole;72459;2024;91,5;1,9;20,6;69,1;conforme;1680350;12981;15;37;2415;Non vérifié;non
+49056;Carbay;49;eau potable : Secteur Nord-Ouest;72436;2024;83,2;1,0;4,9;66,0;conforme;520271;3410;34;74;277;Non vérifié;non
+49057;Cernusson;49;eau potable : AdC - Eau de Cholet;302074;2024;92,1;0,8;9,8;67,0;conforme;508609;1590;13;33;329;Non vérifié;non
+49058;Les Cerqueux;49;eau potable : AdC - Eau de Cholet;302074;2024;92,1;0,8;9,8;67,0;conforme;508609;4336;13;33;897;Non vérifié;non
+49060;Bellevigne-les-Châteaux;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;28442;23;60;3435;Non vérifié;non
+49061;Challain-la-Potherie;49;eau potable : Secteur Nord-Ouest;72436;2024;83,2;1,0;4,9;66,0;conforme;520271;10180;34;74;827;Non vérifié;non
+49063;Chalonnes-sur-Loire;49;eau potable : Régie;208775;2024;87,7;1,0;6,9;66,4;conforme;342662;71261;29;78;6659;Non vérifié;non
+49064;Chambellay;49;eau potable : secteur de Bierné;258454;2024;87,0;0,6;4,2;65,8;conforme;88476;1266;8;61;411;Non vérifié;non
+49067;Chenillé-Champteussé;49;eau potable : secteur de Bierné;258454;2024;87,0;0,6;4,2;65,8;conforme;88476;1035;8;61;336;Non vérifié;non
+49068;Champtocé-sur-Loire;49;eau potable : Régie;208775;2024;87,7;1,0;6,9;66,4;conforme;342662;19573;29;78;1829;Non vérifié;non
+49069;Orée d'Anjou;49;eau potable : CA Mauges Communauté;306054;2024;83,9;1,3;7,0;66,4;conforme;1380600;190689;31;87;17020;Non vérifié;non
+49070;Chanteloup-les-Bois;49;eau potable : AdC - Eau de Cholet;302074;2024;92,1;0,8;9,8;67,0;conforme;508609;3548;13;33;734;Non vérifié;non
+49076;La Chapelle-Saint-Laud;49;eau potable : Secteur Nord Est;301134;2024;89,2;0,7;5,5;66,1;conforme;318430;6628;22;54;837;Non vérifié;non
+49080;Les Hauts-d'Anjou;49;eau potable : Secteur Nord Est;301134;2024;89,2;0,7;5,5;66,1;conforme;318430;69297;22;54;8751;Non vérifié;non
+49082;Chaudefonds-sur-Layon;49;eau potable : Régie;208775;2024;87,7;1,0;6,9;66,4;conforme;342662;10156;29;78;949;Non vérifié;non
+49086;Terranjou;49;eau potable : Secteur Sud-Est;301154;2024;90,4;0,9;8,5;66,7;conforme;222342;29209;21;59;3871;Non vérifié;non
+49089;Chazé-sur-Argos;49;eau potable : Secteur Nord-Ouest;72436;2024;83,2;1,0;4,9;66,0;conforme;520271;13368;34;74;1086;Non vérifié;non
+49090;Cheffes;49;eau potable : Secteur Nord Est;301134;2024;89,2;0,7;5,5;66,1;conforme;318430;8267;22;54;1044;Non vérifié;non
+49092;Chemillé-en-Anjou;49;eau potable : CA Mauges Communauté;306054;2024;83,9;1,3;7,0;66,4;conforme;1380600;246473;31;87;21999;Non vérifié;non
+49099;Cholet;49;eau potable : AdC - Eau de Cholet;302074;2024;92,1;0,8;9,8;67,0;conforme;508609;263006;13;33;54404;Non vérifié;non
+49100;Cizay-la-Madeleine;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;3916;23;60;473;Non vérifié;non
+49102;Cléré-sur-Layon;49;eau potable : AdC - Eau de Cholet;302074;2024;92,1;0,8;9,8;67,0;conforme;508609;1682;13;33;348;Non vérifié;non
+49107;Cornillé-les-Caves;49;eau potable : Secteur Nord Est;301134;2024;89,2;0,7;5,5;66,1;conforme;318430;3833;22;54;484;Non vérifié;non
+49109;Coron;49;eau potable : AdC - Eau de Cholet;302074;2024;92,1;0,8;9,8;67,0;conforme;508609;7749;13;33;1603;Non vérifié;non
+49110;Corzé;49;eau potable : Secteur Nord Est;301134;2024;89,2;0,7;5,5;66,1;conforme;318430;15766;22;54;1991;Non vérifié;non
+49112;Le Coudray-Macouard;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;7601;23;60;918;Non vérifié;non
+49113;Courchamps;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;4413;23;60;533;Non vérifié;non
+49114;Courléon;49;eau potable : Régie;259954;2024;86,8;0,6;3,8;65,8;conforme;182427;1153;22;57;142;Non vérifié;non
+49120;Denée;49;eau potable : ex-SIAEP du Layon;72446;2024;84,8;1,2;7,0;66,4;conforme;125049;10922;21;92;1449;Non vérifié;non
+49121;Dénezé-sous-Doué;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;3676;23;60;444;Non vérifié;non
+49123;Distré;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;14954;23;60;1806;Non vérifié;non
+49125;Doué-en-Anjou;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;91321;23;60;11029;Non vérifié;non
+49127;Durtal;49;eau potable : Secteur Nord Est;301134;2024;89,2;0,7;5,5;66,1;conforme;318430;26813;22;54;3386;Non vérifié;non
+49129;Écouflant;49;eau potable : CU Angers Loire Métropole;72459;2024;91,5;1,9;20,6;69,1;conforme;1680350;25527;15;37;4749;Non vérifié;non
+49130;Écuillé;49;eau potable : CU Angers Loire Métropole;72459;2024;91,5;1,9;20,6;69,1;conforme;1680350;3521;15;37;655;Non vérifié;non
+49131;Épieds;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;5887;23;60;711;Non vérifié;non
+49132;Étriché;49;eau potable : Secteur Nord Est;301134;2024;89,2;0,7;5,5;66,1;conforme;318430;12670;22;54;1600;Non vérifié;non
+49135;Feneu;49;eau potable : CU Angers Loire Métropole;72459;2024;91,5;1,9;20,6;69,1;conforme;1680350;11890;15;37;2212;Non vérifié;non
+49138;Les Bois d'Anjou;49;eau potable : CC Baugeois Vallée;301934;2023;91,3;0,4;4,7;65,9;conforme;197830;14451;16;41;2525;Sans anomalie apparente;non
+49140;Fontevraud-l'Abbaye;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;12031;23;60;1453;Non vérifié;non
+49155;Grez-Neuville;49;eau potable : Secteur Nord-Ouest;72436;2024;83,2;1,0;4,9;66,0;conforme;520271;17812;34;74;1447;Non vérifié;non
+49160;Ingrandes-le-Fresne-sur-Loire;49;eau potable : Pays d'Ancenis;129067;2024;86,3;1,4;8,9;66,8;conforme;738906;36848;33;67;3071;Non vérifié;non
+49161;La Jaille-Yvon;49;eau potable : secteur de Bierné;258454;2024;87,0;0,6;4,2;65,8;conforme;88476;1056;8;61;343;Non vérifié;non
+49163;Jarzé Villages;49;eau potable : Secteur Nord Est;301134;2024;89,2;0,7;5,5;66,1;conforme;318430;22157;22;54;2798;Non vérifié;non
+49167;Les Garennes sur Loire;49;eau potable : Secteur Sud-Est;301154;2024;90,4;0,9;8,5;66,7;conforme;222342;35186;21;59;4663;Non vérifié;non
+49170;Juvardeil;49;eau potable : Secteur Nord Est;301134;2024;89,2;0,7;5,5;66,1;conforme;318430;6596;22;54;833;Non vérifié;non
+49171;La Lande-Chasles;49;eau potable : Régie;259954;2024;86,8;0,6;3,8;65,8;conforme;182427;942;22;57;116;Non vérifié;non
+49174;Huillé-Lézigné;49;eau potable : Secteur Nord Est;301134;2024;89,2;0,7;5,5;66,1;conforme;318430;10279;22;54;1298;Non vérifié;non
+49176;Le Lion-d'Angers;49;eau potable : Secteur Nord-Ouest;72436;2024;83,2;1,0;4,9;66,0;conforme;520271;66348;34;74;5390;Non vérifié;non
+49178;Loiré;49;eau potable : Secteur Nord-Ouest;72436;2024;83,2;1,0;4,9;66,0;conforme;520271;11079;34;74;900;Non vérifié;non
+49180;Longué-Jumelles;49;eau potable : Régie;259954;2024;86,8;0,6;3,8;65,8;conforme;182427;53303;22;57;6564;Non vérifié;non
+49182;Louresse-Rochemenier;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;7419;23;60;896;Non vérifié;non
+49183;Val d'Erdre-Auxence;49;eau potable : Régie;208775;2024;87,7;1,0;6,9;66,4;conforme;342662;53304;29;78;4981;Non vérifié;non
+49188;Marcé;49;eau potable : Secteur Nord Est;301134;2024;89,2;0,7;5,5;66,1;conforme;318430;6676;22;54;843;Non vérifié;non
+49192;Maulévrier;49;eau potable : AdC - Eau de Cholet;302074;2024;92,1;0,8;9,8;67,0;conforme;508609;15334;13;33;3172;Non vérifié;non
+49193;Le May-sur-Èvre;49;eau potable : AdC - Eau de Cholet;302074;2024;92,1;0,8;9,8;67,0;conforme;508609;18951;13;33;3920;Non vérifié;non
+49194;Mazé-Milon;49;eau potable : CC Baugeois Vallée;301934;2023;91,3;0,4;4,7;65,9;conforme;197830;32971;16;41;5761;Sans anomalie apparente;non
+49195;Mazières-en-Mauges;49;eau potable : AdC - Eau de Cholet;302074;2024;92,1;0,8;9,8;67,0;conforme;508609;5995;13;33;1240;Non vérifié;non
+49200;Longuenée-en-Anjou;49;eau potable : CU Angers Loire Métropole;72459;2024;91,5;1,9;20,6;69,1;conforme;1680350;35320;15;37;6571;Non vérifié;non
+49201;La Ménitré;49;eau potable : CC Baugeois Vallée;301934;2023;91,3;0,4;4,7;65,9;conforme;197830;11898;16;41;2079;Sans anomalie apparente;non
+49205;Miré;49;eau potable : Secteur Nord Est;301134;2024;89,2;0,7;5,5;66,1;conforme;318430;8394;22;54;1060;Non vérifié;non
+49209;Montigné-lès-Rairies;49;eau potable : Secteur Nord Est;301134;2024;89,2;0,7;5,5;66,1;conforme;318430;3310;22;54;418;Non vérifié;non
+49211;Montilliers;49;eau potable : AdC - Eau de Cholet;302074;2024;92,1;0,8;9,8;67,0;conforme;508609;5908;13;33;1222;Non vérifié;non
+49214;Montreuil-Juigné;49;eau potable : CU Angers Loire Métropole;72459;2024;91,5;1,9;20,6;69,1;conforme;1680350;41970;15;37;7808;Non vérifié;non
+49215;Montreuil-Bellay;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;31017;23;60;3746;Non vérifié;non
+49216;Montreuil-sur-Loir;49;eau potable : Secteur Nord Est;301134;2024;89,2;0,7;5,5;66,1;conforme;318430;4530;22;54;572;Non vérifié;non
+49217;Montreuil-sur-Maine;49;eau potable : Secteur Nord-Ouest;72436;2024;83,2;1,0;4,9;66,0;conforme;520271;9897;34;74;804;Non vérifié;non
+49218;Montrevault-sur-Èvre;49;eau potable : CA Mauges Communauté;306054;2024;83,9;1,3;7,0;66,4;conforme;1380600;176191;31;87;15726;Non vérifié;non
+49219;Montsoreau;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;3378;23;60;408;Non vérifié;non
+49220;Morannes sur Sarthe-Daumeray;49;eau potable : Secteur Nord Est;301134;2024;89,2;0,7;5,5;66,1;conforme;318430;29197;22;54;3687;Non vérifié;non
+49221;Mouliherne;49;eau potable : Régie;259954;2024;86,8;0,6;3,8;65,8;conforme;182427;6789;22;57;836;Non vérifié;non
+49222;Mozé-sur-Louet;49;eau potable : ex-SIAEP du Layon;72446;2024;84,8;1,2;7,0;66,4;conforme;125049;15309;21;92;2031;Non vérifié;non
+49223;Mûrs-Erigné;49;eau potable : CU Angers Loire Métropole;72459;2024;91,5;1,9;20,6;69,1;conforme;1680350;34444;15;37;6408;Non vérifié;non
+49224;Neuillé;49;eau potable : Régie;259954;2024;86,8;0,6;3,8;65,8;conforme;182427;8348;22;57;1028;Non vérifié;non
+49228;Noyant-Villages;49;eau potable : CC Baugeois Vallée;301934;2023;91,3;0,4;4,7;65,9;conforme;197830;31179;16;41;5448;Sans anomalie apparente;non
+49231;Nuaillé;49;eau potable : AdC - Eau de Cholet;302074;2024;92,1;0,8;9,8;67,0;conforme;508609;7053;13;33;1459;Non vérifié;non
+49235;Parnay;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;3088;23;60;373;Non vérifié;non
+49236;Passavant-sur-Layon;49;eau potable : AdC - Eau de Cholet;302074;2024;92,1;0,8;9,8;67,0;conforme;508609;609;13;33;126;Non vérifié;non
+49237;La Pellerine;49;eau potable : CC Baugeois Vallée;301934;2023;91,3;0,4;4,7;65,9;conforme;197830;807;16;41;141;Sans anomalie apparente;non
+49240;La Plaine;49;eau potable : AdC - Eau de Cholet;302074;2024;92,1;0,8;9,8;67,0;conforme;508609;4921;13;33;1018;Non vérifié;non
+49241;Le Plessis-Grammoire;49;eau potable : CU Angers Loire Métropole;72459;2024;91,5;1,9;20,6;69,1;conforme;1680350;14320;15;37;2664;Non vérifié;non
+49244;Mauges-sur-Loire;49;eau potable : CA Mauges Communauté;306054;2024;83,9;1,3;7,0;66,4;conforme;1380600;209455;31;87;18695;Non vérifié;non
+49246;Les Ponts-de-Cé;49;eau potable : CU Angers Loire Métropole;72459;2024;91,5;1,9;20,6;69,1;conforme;1680350;70678;15;37;13149;Non vérifié;non
+49247;La Possonnière;49;eau potable : Régie;208775;2024;87,7;1,0;6,9;66,4;conforme;342662;26764;29;78;2501;Non vérifié;non
+49248;Ombrée d'Anjou;49;eau potable : Secteur Nord-Ouest;72436;2024;83,2;1,0;4,9;66,0;conforme;520271;108483;34;74;8813;Non vérifié;non
+49253;Le Puy-Notre-Dame;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;8976;23;60;1084;Non vérifié;non
+49257;Les Rairies;49;eau potable : Secteur Nord Est;301134;2024;89,2;0,7;5,5;66,1;conforme;318430;8243;22;54;1041;Non vérifié;non
+49259;Rochefort-sur-Loire;49;eau potable : ex-SIAEP du Layon;72446;2024;84,8;1,2;7,0;66,4;conforme;125049;17585;21;92;2333;Non vérifié;non
+49260;La Romagne;49;eau potable : AdC - Eau de Cholet;302074;2024;92,1;0,8;9,8;67,0;conforme;508609;9804;13;33;2028;Non vérifié;non
+49261;Gennes-Val-de-Loire;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;69793;23;60;8429;Non vérifié;non
+49262;Rou-Marson;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;5283;23;60;638;Non vérifié;non
+49266;Saint-Augustin-des-Bois;49;eau potable : Régie;208775;2024;87,7;1,0;6,9;66,4;conforme;342662;13858;29;78;1295;Non vérifié;non
+49267;Saint-Barthélemy-d'Anjou;49;eau potable : CU Angers Loire Métropole;72459;2024;91,5;1,9;20,6;69,1;conforme;1680350;52247;15;37;9720;Non vérifié;non
+49269;Saint-Christophe-du-Bois;49;eau potable : AdC - Eau de Cholet;302074;2024;92,1;0,8;9,8;67,0;conforme;508609;13671;13;33;2828;Non vérifié;non
+49271;Saint-Clément-de-la-Place;49;eau potable : CU Angers Loire Métropole;72459;2024;91,5;1,9;20,6;69,1;conforme;1680350;11653;15;37;2168;Non vérifié;non
+49272;Saint-Clément-des-Levées;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;9340;23;60;1128;Non vérifié;non
+49278;Sainte-Gemmes-sur-Loire;49;eau potable : CU Angers Loire Métropole;72459;2024;91,5;1,9;20,6;69,1;conforme;1680350;19808;15;37;3685;Non vérifié;non
+49283;Saint-Georges-sur-Loire;49;eau potable : Régie;208775;2024;87,7;1,0;6,9;66,4;conforme;342662;41051;29;78;3836;Non vérifié;non
+49284;Saint-Germain-des-Prés;49;eau potable : Régie;208775;2024;87,7;1,0;6,9;66,4;conforme;342662;14854;29;78;1388;Non vérifié;non
+49288;Saint-Jean-de-la-Croix;49;eau potable : Secteur Sud-Est;301154;2024;90,4;0,9;8,5;66,7;conforme;222342;1751;21;59;232;Non vérifié;non
+49291;Saint-Just-sur-Dive;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;3088;23;60;373;Non vérifié;non
+49292;Val-du-Layon;49;eau potable : ex-SIAEP du Layon;72446;2024;84,8;1,2;7,0;66,4;conforme;125049;26457;21;92;3510;Non vérifié;non
+49294;Saint-Lambert-la-Potherie;49;eau potable : CU Angers Loire Métropole;72459;2024;91,5;1,9;20,6;69,1;conforme;1680350;15986;15;37;2974;Non vérifié;non
+49298;Saint-Léger-de-Linières;49;eau potable : CU Angers Loire Métropole;72459;2024;91,5;1,9;20,6;69,1;conforme;1680350;20781;15;37;3866;Non vérifié;non
+49299;Saint-Léger-sous-Cholet;49;eau potable : AdC - Eau de Cholet;302074;2024;92,1;0,8;9,8;67,0;conforme;508609;15015;13;33;3106;Non vérifié;non
+49301;Sèvremoine;49;eau potable : CA Mauges Communauté;306054;2024;83,9;1,3;7,0;66,4;conforme;1380600;289025;31;87;25797;Non vérifié;non
+49302;Saint-Macaire-du-Bois;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;3635;23;60;439;Non vérifié;non
+49306;Saint-Martin-du-Fouilloux;49;eau potable : CU Angers Loire Métropole;72459;2024;91,5;1,9;20,6;69,1;conforme;1680350;9165;15;37;1705;Non vérifié;non
+49307;Loire-Authion;49;eau potable : CU Angers Loire Métropole;72459;2024;91,5;1,9;20,6;69,1;conforme;1680350;90115;15;37;16765;Non vérifié;non
+49308;Saint-Melaine-sur-Aubance;49;eau potable : Secteur Sud-Est;301154;2024;90,4;0,9;8,5;66,7;conforme;222342;16721;21;59;2216;Non vérifié;non
+49310;Saint-Paul-du-Bois;49;eau potable : AdC - Eau de Cholet;302074;2024;92,1;0,8;9,8;67,0;conforme;508609;2891;13;33;598;Non vérifié;non
+49311;Saint-Philbert-du-Peuple;49;eau potable : Régie;259954;2024;86,8;0,6;3,8;65,8;conforme;182427;10613;22;57;1307;Non vérifié;non
+49321;Saint-Sigismond;49;eau potable : Régie;208775;2023;88,5;0,9;6,6;66,3;conforme;315590;3875;27;70;398;Sans anomalie apparente;non
+49323;Verrières-en-Anjou;49;eau potable : CU Angers Loire Métropole;72459;2024;91,5;1,9;20,6;69,1;conforme;1680350;43625;15;37;8116;Non vérifié;non
+49326;Sarrigné;49;eau potable : CU Angers Loire Métropole;72459;2024;91,5;1,9;20,6;69,1;conforme;1680350;5026;15;37;935;Non vérifié;non
+49328;Saumur;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;217278;23;60;26241;Non vérifié;non
+49329;Savennières;49;eau potable : CU Angers Loire Métropole;72459;2024;91,5;1,9;20,6;69,1;conforme;1680350;7251;15;37;1349;Non vérifié;non
+49330;Sceaux-d'Anjou;49;eau potable : Secteur Nord Est;301134;2024;89,2;0,7;5,5;66,1;conforme;318430;9146;22;54;1155;Non vérifié;non
+49331;Segré-en-Anjou Bleu;49;eau potable : secteur de Bierné;258454;2024;87,0;0,6;4,2;65,8;conforme;88476;54405;8;61;17667;Non vérifié;non
+49332;La Séguinière;49;eau potable : AdC - Eau de Cholet;302074;2024;92,1;0,8;9,8;67,0;conforme;508609;20536;13;33;4248;Non vérifié;non
+49333;Seiches-sur-le-Loir;49;eau potable : Secteur Nord Est;301134;2024;89,2;0,7;5,5;66,1;conforme;318430;22521;22;54;2844;Non vérifié;non
+49334;Sermaise;49;eau potable : Secteur Nord Est;301134;2024;89,2;0,7;5,5;66,1;conforme;318430;2732;22;54;345;Non vérifié;non
+49336;Somloire;49;eau potable : AdC - Eau de Cholet;302074;2024;92,1;0,8;9,8;67,0;conforme;508609;4274;13;33;884;Non vérifié;non
+49338;Soulaines-sur-Aubance;49;eau potable : CU Angers Loire Métropole;72459;2024;91,5;1,9;20,6;69,1;conforme;1680350;7144;15;37;1329;Non vérifié;non
+49339;Soulaire-et-Bourg;49;eau potable : CU Angers Loire Métropole;72459;2024;91,5;1,9;20,6;69,1;conforme;1680350;7885;15;37;1467;Non vérifié;non
+49341;Souzay-Champigny;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;5680;23;60;686;Non vérifié;non
+49343;La Tessoualle;49;eau potable : AdC - Eau de Cholet;302074;2024;92,1;0,8;9,8;67,0;conforme;508609;15310;13;33;3167;Non vérifié;non
+49344;Thorigné-d'Anjou;49;eau potable : secteur de Bierné;258454;2024;87,0;0,6;4,2;65,8;conforme;88476;3766;8;61;1223;Non vérifié;non
+49345;Bellevigne-en-Layon;49;eau potable : Secteur Sud-Est;301154;2024;90,4;0,9;8,5;66,7;conforme;222342;44686;21;59;5922;Non vérifié;non
+49347;Tiercé;49;eau potable : Secteur Nord Est;301134;2024;89,2;0,7;5,5;66,1;conforme;318430;36339;22;54;4589;Non vérifié;non
+49352;Toutlemonde;49;eau potable : AdC - Eau de Cholet;302074;2024;92,1;0,8;9,8;67,0;conforme;508609;6309;13;33;1305;Non vérifié;non
+49353;Trélazé;49;eau potable : CU Angers Loire Métropole;72459;2024;91,5;1,9;20,6;69,1;conforme;1680350;87793;15;37;16333;Non vérifié;non
+49355;Trémentines;49;eau potable : AdC - Eau de Cholet;302074;2024;92,1;0,8;9,8;67,0;conforme;508609;14991;13;33;3101;Non vérifié;non
+49358;Turquant;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;4687;23;60;566;Non vérifié;non
+49359;Les Ulmes;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;4504;23;60;544;Non vérifié;non
+49361;Varennes-sur-Loire;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;15914;23;60;1922;Non vérifié;non
+49362;Varrains;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;10863;23;60;1312;Non vérifié;non
+49364;Vaudelnay;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;9290;23;60;1122;Non vérifié;non
+49367;Erdre-en-Anjou;49;eau potable : Régie;208775;2024;87,7;1,0;6,9;66,4;conforme;342662;61758;29;78;5771;Non vérifié;non
+49368;Vernantes;49;eau potable : Régie;259954;2024;86,8;0,6;3,8;65,8;conforme;182427;16273;22;57;2004;Non vérifié;non
+49369;Vernoil-le-Fourrier;49;eau potable : Régie;259954;2024;86,8;0,6;3,8;65,8;conforme;182427;11093;22;57;1366;Non vérifié;non
+49370;Verrie;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;3792;23;60;458;Non vérifié;non
+49371;Vezins;49;eau potable : AdC - Eau de Cholet;302074;2024;92,1;0,8;9,8;67,0;conforme;508609;8499;13;33;1758;Non vérifié;non
+49373;Lys-Haut-Layon;49;eau potable : AdC - Eau de Cholet;302074;2024;92,1;0,8;9,8;67,0;conforme;508609;37456;13;33;7748;Non vérifié;non
+49374;Villebernier;49;eau potable : DSP;296454;2024;86,6;1,2;7,7;66,5;conforme;625477;11932;23;60;1441;Non vérifié;non
+49377;Rives-du-Loir-en-Anjou;49;eau potable : CU Angers Loire Métropole;72459;2024;91,5;1,9;20,6;69,1;conforme;1680350;30338;15;37;5644;Non vérifié;non
+49378;Vivy;49;eau potable : Régie;259954;2024;86,8;0,6;3,8;65,8;conforme;182427;20967;22;57;2582;Non vérifié;non
+49381;Yzernay;49;eau potable : AdC - Eau de Cholet;302074;2024;92,1;0,8;9,8;67,0;conforme;508609;8968;13;33;1855;Non vérifié;non

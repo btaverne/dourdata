@@ -7,271 +7,271 @@
 # Méthodologie et code : https://github.com/btaverne/dourdata
 # Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
 # Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
-Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
-41001;Ambloy;41;eau potable : CATV:Gondre (ex-SIAEP);87785;2024;79,7;0,7;2,6;65,5;conforme;19341;2778;41;109;187;Non vérifié
-41002;Angé;41;eau potable : SIAEP Val-de-Cher;87956;2024;91,3;0,6;5,9;66,2;conforme;70956;4233;15;38;795;Non vérifié
-41003;Areines;41;eau potable : CATV:TéA (dsp VEND'Ô);88045;2024;87,4;2,3;16,0;68,2;conforme;163409;4579;22;53;572;Non vérifié
-41004;Artins;41;eau potable : CATV: Couture-sur-Loir (ex-SIAEP);87893;2024;81,9;0,6;2,6;65,5;conforme;22469;4648;48;84;266;Non vérifié
-41006;Autainville;41;eau potable;87959;2024;92,5;0,1;3,6;65,7;conforme;1885;557;4;10;421;Non vérifié
-41007;Authon;41;eau potable : CATV:Prunay-Cassereau (ex-SIAEPA);87924;2024;85,9;0,5;3,2;65,6;conforme;22101;5935;22;100;753;Non vérifié
-41008;Avaray;41;eau potable;87762;2024;83,1;1,7;8,2;66,6;conforme;117895;7750;32;76;672;Non vérifié
-41009;Averdon;41;eau potable : ex-SIAEP Averdon-Villerbon;87807;2024;79,8;1,3;5,1;66,0;conforme;24399;7792;32;105;677;Non vérifié
-41010;Azé;41;eau potable : CATV:Danzé (ex-SIAEP);88006;2024;82,2;0,6;2,9;65,6;conforme;24659;12330;35;75;971;Non vérifié
-41012;Baillou;41;eau potable;87987;2024;98,0;0,0;1,7;65,3;conforme;0;0;0;0;210;Non vérifié
-41013;Bauzy;41;eau potable : AEP;306094;2024;89,3;0,8;6,3;66,3;conforme;105412;1927;20;47;270;Non vérifié
-41014;Beauchêne;41;eau potable : SIAEP de SAINT MARC-DU-COR;87905;2023;87,6;0,9;6,6;66,3;conforme;22565;7610;121;142;172;Sans anomalie apparente
-41016;Billy;41;eau potable : SIAEPA Billy, Gy_en-Sologne;87932;2024;95,1;0,2;3,0;65,6;conforme;5694;3471;9;29;1118;Non vérifié
-41017;Binas;41;eau potable;87959;2024;92,5;0,1;3,6;65,7;conforme;1885;892;4;10;674;Non vérifié
-41018;Blois;41;eau potable : Agglopolys:Blois;110624;2024;79,6;9,8;38,4;72,7;conforme;917966;917966;53;106;47219;Non vérifié
-41019;Boisseau;41;eau potable;87880;2024;79,4;0,9;3,6;65,7;conforme;37781;1402;35;102;110;Non vérifié
-41020;Bonneveau;41;eau potable : CATV:Bonneveau;88025;2024;54,0;2,7;3,2;65,6;non conforme;20203;20203;122;312;454;Non vérifié
-41022;Bouffry;41;eau potable : SIAEP de FONTAINE-RAOUL;88014;2024;71,4;0,6;1,6;65,3;conforme;22723;4348;87;137;137;Non vérifié
-41024;Boursay;41;eau potable;88016;2024;80,9;1,3;5,4;66,1;conforme;45519;11791;180;259;179;Non vérifié
-41025;Bracieux;41;eau potable : AEP;306094;2024;89,3;0,8;6,3;66,3;conforme;105412;9584;20;47;1343;Non vérifié
-41026;Brévainville;41;eau potable;87916;2024;64,2;1,3;2,3;65,5;non conforme;32404;1268;22;203;159;Non vérifié
-41027;Briou;41;eau potable;87873;2024;74,5;1,7;5,1;66,0;conforme;11095;3160;61;172;143;Non vérifié
-41028;Busloup;41;eau potable;87986;2024;83,1;1,0;4,8;66,0;conforme;18586;5420;30;80;494;Non vérifié
-41029;Candé-sur-Beuvron;41;eau potable : ex-SIAEP Chailles;87952;2024;70,5;3,3;8,0;66,6;conforme;86640;27154;51;151;1463;Non vérifié
-41030;Cellé;41;eau potable : CATV:Cellé;87992;2024;89,1;0,7;5,9;66,2;conforme;4451;4451;54;74;225;Non vérifié
-41031;Cellettes;41;eau potable : Agglopolys:ex-SIAEP Cellettes-Chitenay-Cormeray;87808;2024;87,9;0,9;6,3;66,3;conforme;39581;19882;20;52;2715;Non vérifié
-41032;Chailles;41;eau potable : ex-SIAEP Chailles;87952;2024;70,5;3,3;8,0;66,6;conforme;86640;50595;51;151;2726;Non vérifié
-41034;Chambord;41;eau potable : AEP;306094;2024;89,3;0,8;6,3;66,3;conforme;105412;728;20;47;102;Non vérifié
-41035;Champigny-en-Beauce;41;eau potable : Agglopolys:Champigny;87889;2024;69,9;2,7;6,2;66,2;conforme;11402;11402;53;159;594;Non vérifié
-41036;Chaon;41;eau potable;87928;2023;68,1;1,9;4,1;65,8;conforme;26353;12326;78;168;435;Sans anomalie apparente
-41037;La Chapelle-Enchérie;41;eau potable;88046;2024;75,3;1,1;3,3;65,7;conforme;29265;2983;39;123;212;Non vérifié
-41038;La Chapelle-Montmartin;41;eau potable : (SIVOM) du canton de Mennetou-sur-Cher;87829;2024;79,6;0,9;3,4;65,7;conforme;87200;4948;33;97;407;Non vérifié
-41039;La Chapelle-Saint-Martin-en-Plaine;41;eau potable;87762;2024;83,1;1,7;8,2;66,6;conforme;117895;7923;32;76;687;Non vérifié
-41040;La Chapelle-Vendômoise;41;eau potable;275594;2024;84,3;1,2;6,2;66,2;conforme;32272;7728;27;121;795;Sans anomalie apparente
-41041;La Chapelle-Vicomtesse;41;eau potable;87989;2024;53,4;1,7;2,0;65,4;non conforme;15512;15512;259;317;164;Non vérifié
-41042;Châteauvieux;41;eau potable : SIAEPA Saint-Aignan-Seigy;88009;2024;90,0;1,4;12,2;67,4;conforme;47600;5724;31;42;514;Non vérifié
-41043;Châtillon-sur-Cher;41;eau potable : Châtillon-sur-Cher;88011;2024;94,2;0,4;6,0;66,2;conforme;7789;7789;13;24;1700;Non vérifié
-41044;Châtres-sur-Cher;41;eau potable : (SIVOM) du canton de Mennetou-sur-Cher;87829;2024;79,6;0,9;3,4;65,7;conforme;87200;13761;33;97;1132;Non vérifié
-41045;Chaumont-sur-Loire;41;eau potable : Agglopolys:ex-SIAEP Rilly-sur-Loire;87875;2024;84,6;1,0;5,4;66,1;conforme;16801;11949;30;76;1096;Non vérifié
-41046;Chaumont-sur-Tharonne;41;eau potable : Chaumont-sur-Tharonne;87767;2023;86,1;1,1;6,6;66,3;conforme;9074;9074;24;61;1042;Sans anomalie apparente
-41047;La Chaussée-Saint-Victor;41;eau potable : Saint-Denis-sur-Loire & Chaussée-saint-Victor;110621;2024;84,4;3,9;21,1;69,2;conforme;78278;65113;40;67;4471;Non vérifié
-41048;Chauvigny-du-Perche;41;eau potable : SIAEP de FONTAINE-RAOUL;88014;2024;71,4;0,6;1,6;65,3;conforme;22723;7299;87;137;230;Non vérifié
-41049;Chémery;41;eau potable : SIAEPA Chémery-Mehers;87967;2024;84,0;0,5;2,4;65,5;conforme;13684;10307;31;75;925;Non vérifié
-41050;Cheverny;41;eau potable : UDI Cour Cheverny - Cheverny;87953;2024;92,5;0,4;5,0;66,0;conforme;18381;3018;9;29;910;Non vérifié
-41051;Chissay-en-Touraine;41;eau potable : SIAEP Val-de-Cher;87956;2024;91,3;0,6;5,9;66,2;conforme;70956;5858;15;38;1100;Non vérifié
-41052;Chitenay;41;eau potable : Agglopolys:ex-SIAEP Cellettes-Chitenay-Cormeray;87808;2024;87,9;0,9;6,3;66,3;conforme;39581;8290;20;52;1132;Non vérifié
-41053;Choue;41;eau potable;88016;2024;80,9;1,3;5,4;66,1;conforme;45519;33727;180;259;512;Non vérifié
-41054;Choussy;41;eau potable : SIAEP de Sassay - Couddes - Oisly - Choussy;87911;2024;78,3;1,0;3,6;65,7;conforme;31277;4546;35;100;351;Non vérifié
-41055;Valloire-sur-Cisse;41;eau potable;87870;2024;84,7;1,0;5,6;66,1;conforme;103269;21264;24;65;2385;Non vérifié
-41057;Conan;41;eau potable;87880;2024;79,4;0,9;3,6;65,7;conforme;37781;2026;35;102;159;Non vérifié
-41058;Concriers;41;eau potable;87762;2024;83,1;1,7;8,2;66,6;conforme;117895;2122;32;76;184;Non vérifié
-41059;Le Controis-en-Sologne;41;eau potable : SIAEP de la Vigne aux Champs;275634;2024;75,4;1,5;4,5;65,9;conforme;149468;69951;28;123;6860;Non vérifié
-41060;Cormenon;41;eau potable;88038;2024;88,1;1,8;13,4;67,7;conforme;22903;7870;32;71;679;Non vérifié
-41061;Cormeray;41;eau potable : Agglopolys:ex-SIAEP Cellettes-Chitenay-Cormeray;87808;2024;87,9;0,9;6,3;66,3;conforme;39581;11409;20;52;1558;Non vérifié
-41062;Couddes;41;eau potable : SIAEP de Sassay - Couddes - Oisly - Choussy;87911;2024;78,3;1,0;3,6;65,7;conforme;31277;6864;35;100;530;Non vérifié
-41063;Couffy;41;eau potable : secteur SIE Villentrois;78941;2024;85,7;0,4;2,3;65,5;conforme;21623;4107;22;63;506;Non vérifié
-41065;Coulommiers-la-Tour;41;eau potable : CATV:Villetrun (ex-SIAEP);87815;2024;64,1;2,0;3,6;65,7;non conforme;30806;13369;64;209;575;Non vérifié
-41066;Courbouzon;41;eau potable;87762;2024;83,1;1,7;8,2;66,6;conforme;117895;4844;32;76;420;Non vérifié
-41067;Cour-Cheverny;41;eau potable : UDI Cour Cheverny - Cheverny;87953;2024;92,5;0,4;5,0;66,0;conforme;18381;9390;9;29;2831;Non vérifié
-41068;Courmemin;41;eau potable;87931;2024;88,5;0,0;2,4;65,5;conforme;0;0;0;0;502;Non vérifié
-41069;Cour-sur-Loire;41;eau potable;87970;2024;96,5;0,2;6,3;66,3;conforme;3789;404;4;12;259;Non vérifié
-41070;Vallée-de-Ronsard;41;eau potable : CATV: Couture-sur-Loir (ex-SIAEP);87893;2024;81,9;0,6;2,6;65,5;conforme;22469;9278;48;84;531;Non vérifié
-41071;Crouy-sur-Cosson;41;eau potable : AEP;306094;2024;89,3;0,8;6,3;66,3;conforme;105412;3618;20;47;507;Non vérifié
-41072;Crucheray;41;eau potable : CATV:Crucheray (ex-SIAEP);87786;2024;77,0;0,7;2,5;65,5;conforme;14027;5843;37;103;427;Non vérifié
-41073;Danzé;41;eau potable : CATV:Danzé (ex-SIAEP);88006;2024;82,2;0,6;2,9;65,6;conforme;24659;8520;35;75;671;Non vérifié
-41074;Dhuizon;41;eau potable;88017;2024;97,4;0,1;3,1;65,6;conforme;1898;1898;4;12;1195;Non vérifié
-41075;Droué;41;eau potable;88019;2024;86,8;2,4;16,0;68,2;conforme;25404;25404;70;55;999;Sans anomalie apparente
-41077;Épiais;41;eau potable;88044;2023;89,0;0,3;2,6;65,5;conforme;1642;108;3;42;115;Sans anomalie apparente
-41078;Épuisay;41;eau potable : CATV:Epuisay;87993;2024;80,5;0,9;3,6;65,7;conforme;12220;12220;43;91;787;Non vérifié
-41079;Les Essarts;41;eau potable : CATV: Couture-sur-Loir (ex-SIAEP);87893;2024;81,9;0,6;2,6;65,5;conforme;22469;1887;48;84;108;Non vérifié
-41080;Faverolles-sur-Cher;41;eau potable : SIAEP Val-de-Cher;87956;2024;91,3;0,6;5,9;66,2;conforme;70956;7498;15;38;1408;Non vérifié
-41081;Faye;41;eau potable : CATV:Villetrun (ex-SIAEP);87815;2024;64,1;2,0;3,6;65,7;non conforme;30806;5022;64;209;216;Non vérifié
-41083;La Ferté-Beauharnais;41;eau potable;87941;2024;96,4;0,8;21,0;69,2;conforme;864;279;1;14;561;Non vérifié
-41084;La Ferté-Imbault;41;eau potable;87789;2024;85,1;0,9;5,0;66,0;conforme;37022;15370;44;113;947;Non vérifié
-41085;La Ferté-Saint-Cyr;41;eau potable : AEP;306094;2024;89,3;0,8;6,3;66,3;conforme;105412;7800;20;47;1093;Non vérifié
-41086;Fontaines-en-Sologne;41;eau potable : AEP;306094;2024;89,3;0,8;6,3;66,3;conforme;105412;4717;20;47;661;Non vérifié
-41087;Fontaine-les-Coteaux;41;eau potable : CATV:Montoire Les Roches Lavardin Saint-Arnoult;88040;2024;87,1;1,0;7,0;66,4;conforme;28616;1705;14;52;342;Non vérifié
-41088;Fontaine-Raoul;41;eau potable : SIAEP de FONTAINE-RAOUL;88014;2024;71,4;0,6;1,6;65,3;conforme;22723;7331;87;137;231;Non vérifié
-41089;La Fontenelle;41;eau potable;88057;2024;73,5;0,7;2,0;65,4;conforme;70773;4338;58;130;204;Non vérifié
-41090;Fortan;41;eau potable : CATV:Fortan;87901;2024;81,0;0,8;3,3;65,7;conforme;3270;546;6;89;255;Non vérifié
-41091;Fossé;41;eau potable : Agglopolys:ex-SIAEP Fossé;87838;2024;78,4;2,5;9,2;66,8;conforme;51748;17090;37;110;1254;Non vérifié
-41093;Françay;41;eau potable : ex-SIAEP Herbault-Françay;87840;2024;87,1;0,6;4,0;65,8;conforme;9805;1892;19;55;271;Non vérifié
-41094;Fresnes;41;eau potable : Fresnes;87962;2024;68,0;4,2;9,0;66,8;conforme;18856;18856;43;170;1200;Non vérifié
-41095;Fréteval;41;eau potable;87793;2024;70,7;2,0;4,7;65,9;conforme;33580;20814;54;154;1063;Non vérifié
-41096;Gault-du-Perche;41;eau potable;88057;2024;73,5;0,7;2,0;65,4;conforme;70773;6805;58;130;320;Non vérifié
-41097;Gièvres;41;eau potable : (SIAEP) de Gièvres, Pruniers-en-Sologne;87935;2024;82,6;0,9;4,4;65,9;conforme;45530;22169;27;75;2268;Non vérifié
-41098;Gombergean;41;eau potable : CATV:Saint-Gourgon (SIAEP);87787;2024;93,3;0,1;1,3;65,3;conforme;1489;608;10;29;167;Non vérifié
-41099;Gy-en-Sologne;41;eau potable : SIAEPA Billy, Gy_en-Sologne;87932;2024;95,1;0,2;3,0;65,6;conforme;5694;1475;9;29;475;Non vérifié
-41100;Les Hayes;41;eau potable : CATV:Les Hayes (ex-SIAEP);87897;2024;72,1;1,3;3,2;65,6;conforme;37879;10214;160;293;175;Non vérifié
-41101;Herbault;41;eau potable : ex-SIAEP Herbault-Françay;87840;2024;87,1;0,6;4,0;65,8;conforme;9805;7912;19;55;1133;Non vérifié
-41102;Houssay;41;eau potable : CATV:Gondre (ex-SIAEP);87785;2024;79,7;0,7;2,6;65,5;conforme;19341;5422;41;109;365;Non vérifié
-41103;Huisseau-en-Beauce;41;eau potable : CATV:Saint-Amand-Longpré (ex-SIAEP du Plessis);88043;2024;93,8;0,3;4,8;66,0;conforme;5311;1328;9;30;406;Non vérifié
-41104;Huisseau-sur-Cosson;41;eau potable;88055;2024;94,2;1,1;18,4;68,7;conforme;58218;11002;13;36;2290;Non vérifié
-41105;Josnes;41;eau potable;87854;2024;79,0;2,6;9,6;66,9;conforme;21163;21163;66;217;878;Non vérifié
-41106;Lamotte-Beuvron;41;eau potable : Lamotte-Beuvron;88004;2024;99,8;0,0;18,7;68,7;conforme;0;0;0;0;4504;Non vérifié
-41107;Lancé;41;eau potable : CATV:Crucheray (ex-SIAEP);87786;2024;77,0;0,7;2,5;65,5;conforme;14027;6446;37;103;471;Non vérifié
-41108;Lancôme;41;eau potable;275594;2024;84,3;1,2;6,2;66,2;conforme;32272;1196;27;121;123;Sans anomalie apparente
-41109;Landes-le-Gaulois;41;eau potable;275594;2024;84,3;1,2;6,2;66,2;conforme;32272;7008;27;121;721;Sans anomalie apparente
-41110;Langon-sur-Cher;41;eau potable : (SIVOM) du canton de Mennetou-sur-Cher;87829;2024;79,6;0,9;3,4;65,7;conforme;87200;9981;33;97;821;Non vérifié
-41112;Lassay-sur-Croisne;41;eau potable : SIAEPA Billy, Gy_en-Sologne;87932;2024;95,1;0,2;3,0;65,6;conforme;5694;748;9;29;241;Non vérifié
-41113;Lavardin;41;eau potable : CATV:Montoire Les Roches Lavardin Saint-Arnoult;88040;2024;87,1;1,0;7,0;66,4;conforme;28616;893;14;52;179;Non vérifié
-41114;Lestiou;41;eau potable;87762;2024;83,1;1,7;8,2;66,6;conforme;117895;3356;32;76;291;Non vérifié
-41115;Lignières;41;eau potable;88046;2024;75,3;1,1;3,3;65,7;conforme;29265;5797;39;123;412;Non vérifié
-41116;Lisle;41;eau potable;88046;2024;75,3;1,1;3,3;65,7;conforme;29265;2547;39;123;181;Non vérifié
-41118;Loreux;41;eau potable : (SIAEP) Loreux, Villeherviers;88002;2024;96,6;0,1;1,5;65,3;conforme;1904;701;8;24;238;Non vérifié
-41119;Lorges;41;eau potable;87873;2024;74,5;1,7;5,1;66,0;conforme;11095;7934;61;172;359;Non vérifié
-41120;Lunay;41;eau potable : CATV:Montoire Les Roches Lavardin Saint-Arnoult;88040;2024;87,1;1,0;7,0;66,4;conforme;28616;6342;14;52;1272;Non vérifié
-41121;La Madeleine-Villefrouin;41;eau potable;203795;2024;100,0;0,0;9,6;66,9;conforme;0;0;0;0;33;Non vérifié
-41122;Maray;41;eau potable : (SIVOM) du canton de Mennetou-sur-Cher;87829;2024;79,6;0,9;3,4;65,7;conforme;87200;2687;33;97;221;Non vérifié
-41123;Marchenoir;41;eau potable;87841;2024;55,9;8,6;10,9;67,2;non conforme;34843;32137;130;309;677;Non vérifié
-41124;Marcilly-en-Beauce;41;eau potable : CATV: Naveil (ex:SIAEP);87985;2024;56,0;5,4;6,8;66,4;non conforme;138956;11909;102;297;319;Non vérifié
-41125;Marcilly-en-Gault;41;eau potable;87836;2024;80,6;0,4;1,8;65,4;conforme;9490;9490;34;81;754;Non vérifié
-41126;Mareuil-sur-Cher;41;eau potable : SIAEP Val-de-Cher;87956;2024;91,3;0,6;5,9;66,2;conforme;70956;6124;15;38;1150;Non vérifié
-41127;La Marolle-en-Sologne;41;eau potable;88029;2024;95,5;0,1;3,1;65,6;conforme;657;657;5;12;379;Non vérifié
-41128;Marolles;41;eau potable : Agglopolys:ex-SIAEP Fossé;87838;2024;78,4;2,5;9,2;66,8;conforme;51748;9731;37;110;714;Non vérifié
-41129;Maslives;41;eau potable;88047;2024;95,0;0,4;14,4;67,9;conforme;7525;1593;7;13;649;Non vérifié
-41130;Maves;41;eau potable;87762;2024;83,1;1,7;8,2;66,6;conforme;117895;7738;32;76;671;Non vérifié
-41131;Mazangé;41;eau potable : CATV:Lunay-Mazangé (ex-SIAEP);88037;2024;72,7;1,4;3,8;65,8;conforme;46854;18215;62;161;809;Non vérifié
-41132;Méhers;41;eau potable : SIAEPA Chémery-Mehers;87967;2024;84,0;0,5;2,4;65,5;conforme;13684;3376;31;75;303;Non vérifié
-41134;Menars;41;eau potable;87970;2024;96,5;0,2;6,3;66,3;conforme;3789;949;4;12;609;Non vérifié
-41135;Mennetou-sur-Cher;41;eau potable : (SIVOM) du canton de Mennetou-sur-Cher;87829;2024;79,6;0,9;3,4;65,7;conforme;87200;9944;33;97;818;Non vérifié
-41136;Mer;41;eau potable;87762;2024;83,1;1,7;8,2;66,6;conforme;117895;72077;32;76;6250;Non vérifié
-41137;Mesland;41;eau potable;87870;2024;84,7;1,0;5,6;66,1;conforme;103269;4806;24;65;539;Non vérifié
-41138;Meslay;41;eau potable : CATV:TéA (dsp VEND'Ô);88045;2024;87,4;2,3;16,0;68,2;conforme;163409;2378;22;53;297;Non vérifié
-41139;Meusnes;41;eau potable : Meusnes;87946;2024;80,8;1,2;5,1;66,0;conforme;10687;10687;29;86;1013;Non vérifié
-41140;Millançay;41;eau potable;87918;2024;70,2;0,8;1,8;65,4;conforme;19179;19179;73;182;716;Non vérifié
-41141;Moisy;41;eau potable;87916;2024;64,2;1,3;2,3;65,5;non conforme;32404;2688;22;203;337;Non vérifié
-41142;Valencisse;41;eau potable;87870;2024;84,7;1,0;5,6;66,1;conforme;103269;20720;24;65;2324;Non vérifié
-41143;Mondoubleau;41;eau potable;88038;2024;88,1;1,8;13,4;67,7;conforme;22903;15033;32;71;1297;Non vérifié
-41144;Monteaux;41;eau potable;87870;2024;84,7;1,0;5,6;66,1;conforme;103269;6499;24;65;729;Non vérifié
-41145;Monthou-sur-Bièvre;41;eau potable : ex-SMAEP Monthou-sur-Bièvre - Ouchamps - Valaire;87810;2024;74,5;1,3;3,8;65,8;conforme;28835;2955;10;127;793;Non vérifié
-41146;Monthou-sur-Cher;41;eau potable : SIAEP de la Vigne aux Champs;275634;2024;75,4;1,5;4,5;65,9;conforme;149468;10054;28;123;986;Non vérifié
-41147;Les Montils;41;eau potable : Agglopolys:Les Montils;110622;2024;84,9;1,8;10,1;67,0;conforme;13810;13810;19;65;1945;Non vérifié
-41148;Montlivault;41;eau potable : AEP;306094;2024;89,3;0,8;6,3;66,3;conforme;105412;9227;20;47;1293;Non vérifié
-41149;Montoire-sur-le-Loir;41;eau potable : CATV:Montoire Les Roches Lavardin Saint-Arnoult;88040;2024;87,1;1,0;7,0;66,4;conforme;28616;18180;14;52;3646;Non vérifié
-41150;Mont-près-Chambord;41;eau potable : AEP;306094;2024;89,3;0,8;6,3;66,3;conforme;105412;24162;20;47;3386;Non vérifié
-41151;Montrichard Val de Cher;41;eau potable : SIAEP Val-de-Cher;87956;2024;91,3;0,6;5,9;66,2;conforme;70956;19229;15;38;3611;Non vérifié
-41152;Montrieux-en-Sologne;41;eau potable;88031;2024;62,4;2,9;4,9;66,0;non conforme;35989;35989;155;331;638;Non vérifié
-41153;Montrouveau;41;eau potable : CATV:Les Hayes (ex-SIAEP);87897;2024;72,1;1,3;3,2;65,6;conforme;37879;8346;160;293;143;Non vérifié
-41154;Morée;41;eau potable;87917;2024;79,7;1,2;4,5;65,9;conforme;30270;20607;52;100;1077;Non vérifié
-41155;Muides-sur-Loire;41;eau potable;88047;2024;95,0;0,4;14,4;67,9;conforme;7525;3102;7;13;1264;Non vérifié
-41156;Mulsans;41;eau potable;87762;2024;83,1;1,7;8,2;66,6;conforme;117895;5858;32;76;508;Non vérifié
-41157;Mur-de-Sologne;41;eau potable : Mur-de-Sologne;87882;2024;93,2;0,2;3,1;65,6;conforme;6789;6789;12;36;1518;Non vérifié
-41158;Naveil;41;eau potable : CATV: Naveil (ex:SIAEP);87985;2024;56,0;5,4;6,8;66,4;non conforme;138956;91169;102;297;2442;Non vérifié
-41159;Neung-sur-Beuvron;41;eau potable;87942;2024;93,4;0,2;3,0;65,6;conforme;4473;4473;10;24;1259;Non vérifié
-41160;Neuvy;41;eau potable : AEP;306094;2024;89,3;0,8;6,3;66,3;conforme;105412;2219;20;47;311;Non vérifié
-41161;Nouan-le-Fuzelier;41;eau potable;87974;2024;76,6;1,3;4,1;65,8;conforme;18980;10727;13;116;2272;Non vérifié
-41163;Nourray;41;eau potable : CATV:Crucheray (ex-SIAEP);87786;2024;77,0;0,7;2,5;65,5;conforme;14027;1738;37;103;127;Non vérifié
-41164;Noyers-sur-Cher;41;eau potable : SIAEP de la Vigne aux Champs;275634;2024;75,4;1,5;4,5;65,9;conforme;149468;26828;28;123;2631;Non vérifié
-41166;Oisly;41;eau potable : SIAEP de Sassay - Couddes - Oisly - Choussy;87911;2024;78,3;1,0;3,6;65,7;conforme;31277;5077;35;100;392;Non vérifié
-41167;Veuzain-sur-Loire;41;eau potable;87870;2024;84,7;1,0;5,6;66,1;conforme;103269;29716;24;65;3333;Non vérifié
-41168;Orçay;41;eau potable;87879;2024;89,3;0,4;3,2;65,6;conforme;14241;2004;27;45;206;Non vérifié
-41171;Oucques La Nouvelle;41;eau potable;87880;2024;79,4;0,9;3,6;65,7;conforme;37781;20872;35;102;1638;Non vérifié
-41172;Ouzouer-le-Doyen;41;eau potable;87916;2024;64,2;1,3;2,3;65,5;non conforme;32404;1802;22;203;226;Non vérifié
-41173;Beauce la Romaine;41;eau potable;88042;2024;84,1;0,9;4,8;66,0;conforme;43556;36841;30;69;3341;Non vérifié
-41174;Périgny;41;eau potable;87925;2024;85,3;0,8;4,8;66,0;conforme;24090;2165;36;82;166;Non vérifié
-41175;Pezou;41;eau potable;88046;2024;75,3;1,1;3,3;65,7;conforme;29265;15491;39;123;1101;Non vérifié
-41176;Pierrefitte-sur-Sauldre;41;eau potable;87974;2024;76,6;1,3;4,1;65,8;conforme;18980;3536;13;116;749;Non vérifié
-41177;Le Plessis-Dorin;41;eau potable : SIAEP de la Région de l'Est Sarthois;313354;2024;78,1;1,0;3,4;65,7;conforme;95148;900;17;112;145;Non vérifié
-41178;Le Plessis-l'Échelle;41;eau potable;87843;2024;100,0;0,0;1,0;65,2;conforme;0;0;0;0;57;Non vérifié
-41179;Le Poislay;41;eau potable;88057;2024;73,5;0,7;2,0;65,4;conforme;70773;4274;58;130;201;Non vérifié
-41180;Pontlevoy;41;eau potable : SIAEP de la Vigne aux Champs;275634;2024;75,4;1,5;4,5;65,9;conforme;149468;15867;28;123;1556;Non vérifié
-41181;Pouillé;41;eau potable : SIAEP Val-de-Cher;87956;2024;91,3;0,6;5,9;66,2;conforme;70956;4122;15;38;774;Non vérifié
-41182;Pray;41;eau potable;275594;2024;84,3;1,2;6,2;66,2;conforme;32272;2702;27;121;278;Sans anomalie apparente
-41184;Prunay-Cassereau;41;eau potable : CATV:Prunay-Cassereau (ex-SIAEPA);87924;2024;85,9;0,5;3,2;65,6;conforme;22101;4548;22;100;577;Non vérifié
-41185;Pruniers-en-Sologne;41;eau potable : (SIAEP) de Gièvres, Pruniers-en-Sologne;87935;2024;82,6;0,9;4,4;65,9;conforme;45530;21944;27;75;2245;Non vérifié
-41186;Rahart;41;eau potable : CATV:Danzé (ex-SIAEP);88006;2024;82,2;0,6;2,9;65,6;conforme;24659;3809;35;75;300;Non vérifié
-41187;Renay;41;eau potable;88046;2024;75,3;1,1;3,3;65,7;conforme;29265;2448;39;123;174;Non vérifié
-41188;Rhodon;41;eau potable;87880;2024;79,4;0,9;3,6;65,7;conforme;37781;1440;35;102;113;Non vérifié
-41189;Rilly-sur-Loire;41;eau potable : Agglopolys:ex-SIAEP Rilly-sur-Loire;87875;2024;84,6;1,0;5,4;66,1;conforme;16801;4852;30;76;445;Non vérifié
-41190;Rocé;41;eau potable : CATV:Villetrun (ex-SIAEP);87815;2024;64,1;2,0;3,6;65,7;non conforme;30806;5068;64;209;218;Non vérifié
-41191;Roches;41;eau potable;87762;2024;83,1;1,7;8,2;66,6;conforme;117895;727;32;76;63;Non vérifié
-41192;Les Roches-l'Évêque;41;eau potable : CATV:Montoire Les Roches Lavardin Saint-Arnoult;88040;2024;87,1;1,0;7,0;66,4;conforme;28616;1496;14;52;300;Non vérifié
-41193;Romilly;41;eau potable : SIAEP de SAINT MARC-DU-COR;87905;2023;87,6;0,9;6,6;66,3;conforme;22565;6858;121;142;155;Sans anomalie apparente
-41194;Romorantin-Lanthenay;41;eau potable : Romorantin-Lanthenay (Veolia);87938;2024;95,1;0,9;16,8;68,4;conforme;51151;51151;8;20;18373;Non vérifié
-41195;Rougeou;41;eau potable : SIAEPA Rougeou, Soings-en-Sologne;87790;2024;76,0;1,2;3,7;65,7;conforme;40817;3610;66;170;150;Non vérifié
-41196;Ruan-sur-Egvonne;41;eau potable;88033;2024;95,2;0,1;1,5;65,3;conforme;357;357;12;24;80;Non vérifié
-41198;Saint-Aignan;41;eau potable : SIAEPA Saint-Aignan-Seigy;88009;2024;90,0;1,4;12,2;67,4;conforme;47600;31061;31;42;2789;Non vérifié
-41199;Saint-Amand-Longpré;41;eau potable : CATV:Saint-Amand-Longpré (ex-SIAEP du Plessis);88043;2024;93,8;0,3;4,8;66,0;conforme;5311;3983;9;30;1218;Non vérifié
-41200;Sainte-Anne;41;eau potable : CATV: Naveil (ex:SIAEP);87985;2024;56,0;5,4;6,8;66,4;non conforme;138956;17771;102;297;476;Non vérifié
-41201;Saint-Arnoult;41;eau potable : CATV:Saint-Arnoult;87795;2024;89,1;0,3;2,2;65,4;conforme;2245;2245;20;49;302;Non vérifié
-41203;Saint-Bohaire;41;eau potable;275594;2024;84,3;1,2;6,2;66,2;conforme;32272;4860;27;121;500;Sans anomalie apparente
-41204;Saint-Claude-de-Diray;41;eau potable;88055;2024;94,2;1,1;18,4;68,7;conforme;58218;8475;13;36;1764;Non vérifié
-41205;Saint-Cyr-du-Gault;41;eau potable : Territoire général;58689;2024;79,7;0,7;2,9;65,6;conforme;24508;3475;55;139;173;Non vérifié
-41206;Saint-Denis-sur-Loire;41;eau potable : Saint-Denis-sur-Loire & Chaussée-saint-Victor;110621;2024;84,4;3,9;21,1;69,2;conforme;78278;13165;40;67;904;Non vérifié
-41207;Saint-Dyé-sur-Loire;41;eau potable;88047;2024;95,0;0,4;14,4;67,9;conforme;7525;2830;7;13;1153;Non vérifié
-41208;Saint-Étienne-des-Guérets;41;eau potable : Territoire général;58689;2024;79,7;0,7;2,9;65,6;conforme;24508;2310;55;139;115;Non vérifié
-41209;Saint-Firmin-des-Prés;41;eau potable : CATV:TéA (dsp VEND'Ô);88045;2024;87,4;2,3;16,0;68,2;conforme;163409;5956;22;53;744;Non vérifié
-41211;Saint-Georges-sur-Cher;41;eau potable : SIAEP Val-de-Cher;87956;2024;91,3;0,6;5,9;66,2;conforme;70956;14431;15;38;2710;Non vérifié
-41212;Saint-Gervais-la-Forêt;41;eau potable : Agglopolys:Saint-Gervais;87964;2024;77,4;4,1;14,0;67,8;conforme;51689;51689;45;107;3180;Non vérifié
-41213;Saint-Gourgon;41;eau potable : CATV:Saint-Gourgon (SIAEP);87787;2024;93,3;0,1;1,3;65,3;conforme;1489;350;10;29;96;Non vérifié
-41214;Saint-Hilaire-la-Gravelle;41;eau potable;87793;2024;70,7;2,0;4,7;65,9;conforme;33580;12766;54;154;652;Non vérifié
-41215;Saint-Jacques-des-Guérets;41;eau potable : CATV:Trôo (ex-SIAEPA);87858;2024;68,2;2,1;4,5;65,9;conforme;48366;935;26;296;99;Non vérifié
-41216;Saint-Jean-Froidmentel;41;eau potable;87917;2024;79,7;1,2;4,5;65,9;conforme;30270;9663;52;100;505;Non vérifié
-41217;Saint-Julien-de-Chédon;41;eau potable : SIAEP Val-de-Cher;87956;2024;91,3;0,6;5,9;66,2;conforme;70956;4212;15;38;791;Non vérifié
-41218;Saint-Julien-sur-Cher;41;eau potable : (SIVOM) du canton de Mennetou-sur-Cher;87829;2024;79,6;0,9;3,4;65,7;conforme;87200;9020;33;97;742;Non vérifié
-41219;Saint-Laurent-des-Bois;41;eau potable;87959;2024;92,5;0,1;3,6;65,7;conforme;1885;437;4;10;330;Non vérifié
-41220;Saint-Laurent-Nouan;41;eau potable : AEP;306094;2024;89,3;0,8;6,3;66,3;conforme;105412;30228;20;47;4236;Non vérifié
-41221;Saint-Léonard-en-Beauce;41;eau potable;87871;2024;73,8;3,2;8,9;66,8;conforme;36792;36792;159;427;634;Non vérifié
-41222;Saint-Loup;41;eau potable : (SIVOM) du canton de Mennetou-sur-Cher;87829;2024;79,6;0,9;3,4;65,7;conforme;87200;4303;33;97;354;Non vérifié
-41223;Saint-Lubin-en-Vergonnois;41;eau potable;275594;2024;84,3;1,2;6,2;66,2;conforme;32272;7524;27;121;774;Sans anomalie apparente
-41224;Saint-Marc-du-Cor;41;eau potable : SIAEP de SAINT MARC-DU-COR;87905;2023;87,6;0,9;6,6;66,3;conforme;22565;8097;121;142;183;Sans anomalie apparente
-41225;Saint-Martin-des-Bois;41;eau potable : CATV:Trôo (ex-SIAEPA);87858;2024;68,2;2,1;4,5;65,9;conforme;48366;5498;26;296;582;Non vérifié
-41226;Saint-Ouen;41;eau potable : CATV:TéA (dsp VEND'Ô);88045;2024;87,4;2,3;16,0;68,2;conforme;163409;24345;22;53;3041;Non vérifié
-41228;Saint-Rimay;41;eau potable : CATV:Gondre (ex-SIAEP);87785;2024;79,7;0,7;2,6;65,5;conforme;19341;4367;41;109;294;Non vérifié
-41229;Saint-Romain-sur-Cher;41;eau potable : SIAEP de la Vigne aux Champs;275634;2024;75,4;1,5;4,5;65,9;conforme;149468;15020;28;123;1473;Non vérifié
-41230;Saint-Sulpice-de-Pommeray;41;eau potable : Agglopolys:ex-SIAEP Fossé;87838;2024;78,4;2,5;9,2;66,8;conforme;51748;24927;37;110;1829;Non vérifié
-41231;Saint-Viâtre;41;eau potable;87941;2024;96,4;0,8;21,0;69,2;conforme;864;586;1;14;1180;Non vérifié
-41232;Salbris;41;eau potable : SALBRIS;87944;2024;86,2;1,5;9,3;66,9;conforme;39420;39420;22;59;4809;Non vérifié
-41233;Sambin;41;eau potable;87968;2023;79,7;0,9;3,6;65,7;conforme;27502;27502;87;91;862;Sans anomalie apparente
-41234;Santenay;41;eau potable : Agglopolys:ex-SIAEP Orchaise-Molineuf-Santenay;87820;2024;81,2;0,8;3,5;65,7;conforme;24183;2732;25;91;296;Non vérifié
-41235;Sargé-sur-Braye;41;eau potable;88056;2024;84,5;0,5;2,6;65,5;conforme;18750;15906;46;72;945;Non vérifié
-41236;Sasnières;41;eau potable : CATV:Gondre (ex-SIAEP);87785;2024;79,7;0,7;2,6;65,5;conforme;19341;1307;41;109;88;Non vérifié
-41237;Sassay;41;eau potable : SIAEP de Sassay - Couddes - Oisly - Choussy;87911;2024;78,3;1,0;3,6;65,7;conforme;31277;14790;35;100;1142;Non vérifié
-41238;Savigny-sur-Braye;41;eau potable : CATV:Savigny-sur-Braye;87776;2024;72,2;1,2;3,2;65,6;conforme;49056;49056;69;135;1962;Non vérifié
-41239;Seigy;41;eau potable : SIAEPA Saint-Aignan-Seigy;88009;2024;90,0;1,4;12,2;67,4;conforme;47600;10814;31;42;971;Non vérifié
-41241;Selles-Saint-Denis;41;eau potable;87789;2024;85,1;0,9;5,0;66,0;conforme;37022;21652;44;113;1334;Non vérifié
-41242;Selles-sur-Cher;41;eau potable : Selles-sur-Cher;87971;2024;87,3;1,5;10,0;67,0;conforme;37723;37723;25;62;4184;Non vérifié
-41243;Selommes;41;eau potable;87925;2024;85,3;0,8;4,8;66,0;conforme;24090;10239;36;82;785;Non vérifié
-41245;Séris;41;eau potable;88000;2024;98,8;0,1;7,6;66,5;conforme;219;219;2;5;388;Non vérifié
-41246;Seur;41;eau potable : ex-SIAEP Chailles;87952;2024;70,5;3,3;8,0;66,6;conforme;86640;8890;51;151;479;Non vérifié
-41247;Soings-en-Sologne;41;eau potable : SIAEPA Rougeou, Soings-en-Sologne;87790;2024;76,0;1,2;3,7;65,7;conforme;40817;37207;66;170;1546;Non vérifié
-41248;Couëtron-au-Perche;41;eau potable;88057;2024;73,5;0,7;2,0;65,4;conforme;70773;22181;58;130;1043;Non vérifié
-41249;Souesmes;41;eau potable;87974;2024;76,6;1,3;4,1;65,8;conforme;18980;4717;13;116;999;Non vérifié
-41250;Sougé;41;eau potable : SMAEP de la Région Loir Braye et Dême;313434;2024;77,4;1,3;4,3;65,9;conforme;164652;10440;59;111;484;Non vérifié
-41251;Souvigny-en-Sologne;41;eau potable;87928;2023;68,1;1,9;4,1;65,8;conforme;26353;14027;78;168;495;Sans anomalie apparente
-41252;Suèvres;41;eau potable;87970;2024;96,5;0,2;6,3;66,3;conforme;3789;2437;4;12;1564;Non vérifié
-41253;Talcy;41;eau potable;87762;2024;83,1;1,7;8,2;66,6;conforme;117895;3218;32;76;279;Non vérifié
-41254;Le Temple;41;eau potable;88056;2024;84,5;0,5;2,6;65,5;conforme;18750;2844;46;72;169;Non vérifié
-41255;Ternay;41;eau potable : CATV:Les Hayes (ex-SIAEP);87897;2024;72,1;1,3;3,2;65,6;conforme;37879;19319;160;293;331;Non vérifié
-41256;Theillay;41;eau potable;87879;2024;89,3;0,4;3,2;65,6;conforme;14241;12237;27;45;1258;Non vérifié
-41258;Thésée;41;eau potable : SIAEP de la Vigne aux Champs;275634;2024;75,4;1,5;4,5;65,9;conforme;149468;11747;28;123;1152;Non vérifié
-41259;Thoré-la-Rochette;41;eau potable : CATV:Thoré-la-Rochette;88022;2024;73,8;1,9;5,4;66,1;conforme;16852;16852;57;128;810;Non vérifié
-41260;Thoury;41;eau potable : AEP;306094;2024;89,3;0,8;6,3;66,3;conforme;105412;3068;20;47;430;Non vérifié
-41261;Tourailles;41;eau potable;275594;2024;84,3;1,2;6,2;66,2;conforme;32272;1254;27;121;129;Sans anomalie apparente
-41262;Tour-en-Sologne;41;eau potable : AEP;306094;2024;89,3;0,8;6,3;66,3;conforme;105412;8135;20;47;1140;Non vérifié
-41265;Troo;41;eau potable : CATV:Trôo (ex-SIAEPA);87858;2024;68,2;2,1;4,5;65,9;conforme;48366;2919;26;296;309;Non vérifié
-41266;Valaire;41;eau potable : ex-SMAEP Monthou-sur-Bièvre - Ouchamps - Valaire;87810;2024;74,5;1,3;3,8;65,8;conforme;28835;317;10;127;85;Non vérifié
-41267;Vallières-les-Grandes;41;eau potable : Vallières-les-Grandes;87766;2024;83,9;0,6;3,2;65,6;conforme;11835;11835;34;68;943;Non vérifié
-41268;Veilleins;41;eau potable : (SIAEP) de Gièvres, Pruniers-en-Sologne;87935;2024;82,6;0,9;4,4;65,9;conforme;45530;1417;27;75;145;Non vérifié
-41269;Vendôme;41;eau potable : CATV:TéA (dsp VEND'Ô);88045;2024;87,4;2,3;16,0;68,2;conforme;163409;126151;22;53;15758;Non vérifié
-41271;Vernou-en-Sologne;41;eau potable;87931;2024;88,5;0,0;2,4;65,5;conforme;0;0;0;0;550;Non vérifié
-41273;Vievy-le-Rayé;41;eau potable;87880;2024;79,4;0,9;3,6;65,7;conforme;37781;5989;35;102;470;Non vérifié
-41274;Villavard;41;eau potable : CATV:Gondre (ex-SIAEP);87785;2024;79,7;0,7;2,6;65,5;conforme;19341;1812;41;109;122;Non vérifié
-41275;La Ville-aux-Clercs;41;eau potable;87986;2024;83,1;1,0;4,8;66,0;conforme;18586;13166;30;80;1200;Non vérifié
-41276;Villebarou;41;eau potable : Agglopolys:Villebarou;110619;2024;99,6;0,1;21,4;69,3;conforme;876;876;1;3;2584;Non vérifié
-41277;Villebout;41;eau potable : SIAEP de FONTAINE-RAOUL;88014;2024;71,4;0,6;1,6;65,3;conforme;22723;3745;87;137;118;Non vérifié
-41278;Villechauve;41;eau potable : CATV:Prunay-Cassereau (ex-SIAEPA);87924;2024;85,9;0,5;3,2;65,6;conforme;22101;2018;22;100;256;Non vérifié
-41279;Villedieu-le-Château;41;eau potable : CATV: Couture-sur-Loir (ex-SIAEP);87893;2024;81,9;0,6;2,6;65,5;conforme;22469;6657;48;84;381;Non vérifié
-41280;Villefranche-sur-Cher;41;eau potable : (SIVOM) du canton de Mennetou-sur-Cher;87829;2024;79,6;0,9;3,4;65,7;conforme;87200;32556;33;97;2678;Non vérifié
-41281;Villefrancoeur;41;eau potable;87925;2024;85,3;0,8;4,8;66,0;conforme;24090;5426;36;82;416;Non vérifié
-41282;Villeherviers;41;eau potable : (SIAEP) Loreux, Villeherviers;88002;2024;96,6;0,1;1,5;65,3;conforme;1904;1202;8;24;408;Non vérifié
-41283;Villemardy;41;eau potable;87925;2024;85,3;0,8;4,8;66,0;conforme;24090;3443;36;82;264;Non vérifié
-41284;Villeneuve-Frouville;41;eau potable;87880;2024;79,4;0,9;3,6;65,7;conforme;37781;803;35;102;63;Non vérifié
-41285;Villeny;41;eau potable;87825;2024;89,9;0,2;1,8;65,4;conforme;2555;2555;14;40;487;Non vérifié
-41286;Villeporcher;41;eau potable : CATV:Saint-Gourgon (SIAEP);87787;2024;93,3;0,1;1,3;65,3;conforme;1489;532;10;29;146;Non vérifié
-41287;Villerable;41;eau potable : CATV: Naveil (ex:SIAEP);87985;2024;56,0;5,4;6,8;66,4;non conforme;138956;18107;102;297;485;Non vérifié
-41288;Villerbon;41;eau potable : ex-SIAEP Averdon-Villerbon;87807;2024;79,8;1,3;5,1;66,0;conforme;24399;9771;32;105;849;Non vérifié
-41289;Villermain;41;eau potable;87775;2024;100,0;0,0;7,2;66,4;conforme;0;0;0;0;390;Non vérifié
-41290;Villeromain;41;eau potable;87925;2024;85,3;0,8;4,8;66,0;conforme;24090;2817;36;82;216;Non vérifié
-41291;Villetrun;41;eau potable : CATV:Villetrun (ex-SIAEP);87815;2024;64,1;2,0;3,6;65,7;non conforme;30806;7347;64;209;316;Non vérifié
-41292;Villexanton;41;eau potable;87762;2024;83,1;1,7;8,2;66,6;conforme;117895;2283;32;76;198;Non vérifié
-41293;Villiersfaux;41;eau potable : CATV:Gondre (ex-SIAEP);87785;2024;79,7;0,7;2,6;65,5;conforme;19341;3654;41;109;246;Non vérifié
-41294;Villiers-sur-Loir;41;eau potable : CATV:Villiers-sur-Loir;87980;2024;82,9;1,5;7,4;66,5;conforme;12592;3923;10;76;1105;Non vérifié
-41295;Vineuil;41;eau potable;88055;2024;94,2;1,1;18,4;68,7;conforme;58218;38741;13;36;8064;Non vérifié
-41296;Vouzon;41;eau potable : Vouzon;87844;2024;80,6;1,0;4,0;65,8;conforme;16790;16790;33;91;1414;Non vérifié
-41297;Yvoy-le-Marron;41;eau potable;88035;2024;82,2;2,4;11,2;67,2;conforme;6132;6132;23;79;746;Non vérifié
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement);Donnée suspecte (voir LISEZMOI)
+41001;Ambloy;41;eau potable : CATV:Gondre (ex-SIAEP);87785;2024;79,7;0,7;2,6;65,5;conforme;19341;2778;41;109;187;Non vérifié;non
+41002;Angé;41;eau potable : SIAEP Val-de-Cher;87956;2024;91,3;0,6;5,9;66,2;conforme;70956;4233;15;38;795;Non vérifié;non
+41003;Areines;41;eau potable : CATV:TéA (dsp VEND'Ô);88045;2024;87,4;2,3;16,0;68,2;conforme;163409;4579;22;53;572;Non vérifié;non
+41004;Artins;41;eau potable : CATV: Couture-sur-Loir (ex-SIAEP);87893;2024;81,9;0,6;2,6;65,5;conforme;22469;4648;48;84;266;Non vérifié;non
+41006;Autainville;41;eau potable;87959;2024;92,5;0,1;3,6;65,7;conforme;1885;557;4;10;421;Non vérifié;non
+41007;Authon;41;eau potable : CATV:Prunay-Cassereau (ex-SIAEPA);87924;2024;85,9;0,5;3,2;65,6;conforme;22101;5935;22;100;753;Non vérifié;non
+41008;Avaray;41;eau potable;87762;2024;83,1;1,7;8,2;66,6;conforme;117895;7750;32;76;672;Non vérifié;non
+41009;Averdon;41;eau potable : ex-SIAEP Averdon-Villerbon;87807;2024;79,8;1,3;5,1;66,0;conforme;24399;7792;32;105;677;Non vérifié;non
+41010;Azé;41;eau potable : CATV:Danzé (ex-SIAEP);88006;2024;82,2;0,6;2,9;65,6;conforme;24659;12330;35;75;971;Non vérifié;non
+41012;Baillou;41;eau potable;87987;2024;98,0;0,0;1,7;65,3;conforme;0;0;0;0;210;Non vérifié;non
+41013;Bauzy;41;eau potable : AEP;306094;2024;89,3;0,8;6,3;66,3;conforme;105412;1927;20;47;270;Non vérifié;non
+41014;Beauchêne;41;eau potable : SIAEP de SAINT MARC-DU-COR;87905;2023;87,6;0,9;6,6;66,3;conforme;22565;7610;121;142;172;Sans anomalie apparente;non
+41016;Billy;41;eau potable : SIAEPA Billy, Gy_en-Sologne;87932;2024;95,1;0,2;3,0;65,6;conforme;5694;3471;9;29;1118;Non vérifié;non
+41017;Binas;41;eau potable;87959;2024;92,5;0,1;3,6;65,7;conforme;1885;892;4;10;674;Non vérifié;non
+41018;Blois;41;eau potable : Agglopolys:Blois;110624;2024;79,6;9,8;38,4;72,7;conforme;917966;917966;53;106;47219;Non vérifié;non
+41019;Boisseau;41;eau potable;87880;2024;79,4;0,9;3,6;65,7;conforme;37781;1402;35;102;110;Non vérifié;non
+41020;Bonneveau;41;eau potable : CATV:Bonneveau;88025;2024;54,0;2,7;3,2;65,6;non conforme;20203;20203;122;312;454;Non vérifié;non
+41022;Bouffry;41;eau potable : SIAEP de FONTAINE-RAOUL;88014;2024;71,4;0,6;1,6;65,3;conforme;22723;4348;87;137;137;Non vérifié;non
+41024;Boursay;41;eau potable;88016;2024;80,9;1,3;5,4;66,1;conforme;45519;11791;180;259;179;Non vérifié;non
+41025;Bracieux;41;eau potable : AEP;306094;2024;89,3;0,8;6,3;66,3;conforme;105412;9584;20;47;1343;Non vérifié;non
+41026;Brévainville;41;eau potable;87916;2024;64,2;1,3;2,3;65,5;non conforme;32404;1268;22;203;159;Non vérifié;non
+41027;Briou;41;eau potable;87873;2024;74,5;1,7;5,1;66,0;conforme;11095;3160;61;172;143;Non vérifié;non
+41028;Busloup;41;eau potable;87986;2024;83,1;1,0;4,8;66,0;conforme;18586;5420;30;80;494;Non vérifié;non
+41029;Candé-sur-Beuvron;41;eau potable : ex-SIAEP Chailles;87952;2024;70,5;3,3;8,0;66,6;conforme;86640;27154;51;151;1463;Non vérifié;non
+41030;Cellé;41;eau potable : CATV:Cellé;87992;2024;89,1;0,7;5,9;66,2;conforme;4451;4451;54;74;225;Non vérifié;non
+41031;Cellettes;41;eau potable : Agglopolys:ex-SIAEP Cellettes-Chitenay-Cormeray;87808;2024;87,9;0,9;6,3;66,3;conforme;39581;19882;20;52;2715;Non vérifié;non
+41032;Chailles;41;eau potable : ex-SIAEP Chailles;87952;2024;70,5;3,3;8,0;66,6;conforme;86640;50595;51;151;2726;Non vérifié;non
+41034;Chambord;41;eau potable : AEP;306094;2024;89,3;0,8;6,3;66,3;conforme;105412;728;20;47;102;Non vérifié;non
+41035;Champigny-en-Beauce;41;eau potable : Agglopolys:Champigny;87889;2024;69,9;2,7;6,2;66,2;conforme;11402;11402;53;159;594;Non vérifié;non
+41036;Chaon;41;eau potable;87928;2023;68,1;1,9;4,1;65,8;conforme;26353;12326;78;168;435;Sans anomalie apparente;non
+41037;La Chapelle-Enchérie;41;eau potable;88046;2024;75,3;1,1;3,3;65,7;conforme;29265;2983;39;123;212;Non vérifié;non
+41038;La Chapelle-Montmartin;41;eau potable : (SIVOM) du canton de Mennetou-sur-Cher;87829;2024;79,6;0,9;3,4;65,7;conforme;87200;4948;33;97;407;Non vérifié;non
+41039;La Chapelle-Saint-Martin-en-Plaine;41;eau potable;87762;2024;83,1;1,7;8,2;66,6;conforme;117895;7923;32;76;687;Non vérifié;non
+41040;La Chapelle-Vendômoise;41;eau potable;275594;2024;84,3;1,2;6,2;66,2;conforme;32272;7728;27;121;795;Sans anomalie apparente;non
+41041;La Chapelle-Vicomtesse;41;eau potable;87989;2024;53,4;1,7;2,0;65,4;non conforme;15512;15512;259;317;164;Non vérifié;non
+41042;Châteauvieux;41;eau potable : SIAEPA Saint-Aignan-Seigy;88009;2024;90,0;1,4;12,2;67,4;conforme;47600;5724;31;42;514;Non vérifié;non
+41043;Châtillon-sur-Cher;41;eau potable : Châtillon-sur-Cher;88011;2024;94,2;0,4;6,0;66,2;conforme;7789;7789;13;24;1700;Non vérifié;non
+41044;Châtres-sur-Cher;41;eau potable : (SIVOM) du canton de Mennetou-sur-Cher;87829;2024;79,6;0,9;3,4;65,7;conforme;87200;13761;33;97;1132;Non vérifié;non
+41045;Chaumont-sur-Loire;41;eau potable : Agglopolys:ex-SIAEP Rilly-sur-Loire;87875;2024;84,6;1,0;5,4;66,1;conforme;16801;11949;30;76;1096;Non vérifié;non
+41046;Chaumont-sur-Tharonne;41;eau potable : Chaumont-sur-Tharonne;87767;2023;86,1;1,1;6,6;66,3;conforme;9074;9074;24;61;1042;Sans anomalie apparente;non
+41047;La Chaussée-Saint-Victor;41;eau potable : Saint-Denis-sur-Loire & Chaussée-saint-Victor;110621;2024;84,4;3,9;21,1;69,2;conforme;78278;65113;40;67;4471;Non vérifié;non
+41048;Chauvigny-du-Perche;41;eau potable : SIAEP de FONTAINE-RAOUL;88014;2024;71,4;0,6;1,6;65,3;conforme;22723;7299;87;137;230;Non vérifié;non
+41049;Chémery;41;eau potable : SIAEPA Chémery-Mehers;87967;2024;84,0;0,5;2,4;65,5;conforme;13684;10307;31;75;925;Non vérifié;non
+41050;Cheverny;41;eau potable : UDI Cour Cheverny - Cheverny;87953;2024;92,5;0,4;5,0;66,0;conforme;18381;3018;9;29;910;Non vérifié;non
+41051;Chissay-en-Touraine;41;eau potable : SIAEP Val-de-Cher;87956;2024;91,3;0,6;5,9;66,2;conforme;70956;5858;15;38;1100;Non vérifié;non
+41052;Chitenay;41;eau potable : Agglopolys:ex-SIAEP Cellettes-Chitenay-Cormeray;87808;2024;87,9;0,9;6,3;66,3;conforme;39581;8290;20;52;1132;Non vérifié;non
+41053;Choue;41;eau potable;88016;2024;80,9;1,3;5,4;66,1;conforme;45519;33727;180;259;512;Non vérifié;non
+41054;Choussy;41;eau potable : SIAEP de Sassay - Couddes - Oisly - Choussy;87911;2024;78,3;1,0;3,6;65,7;conforme;31277;4546;35;100;351;Non vérifié;non
+41055;Valloire-sur-Cisse;41;eau potable;87870;2024;84,7;1,0;5,6;66,1;conforme;103269;21264;24;65;2385;Non vérifié;non
+41057;Conan;41;eau potable;87880;2024;79,4;0,9;3,6;65,7;conforme;37781;2026;35;102;159;Non vérifié;non
+41058;Concriers;41;eau potable;87762;2024;83,1;1,7;8,2;66,6;conforme;117895;2122;32;76;184;Non vérifié;non
+41059;Le Controis-en-Sologne;41;eau potable : SIAEP de la Vigne aux Champs;275634;2024;75,4;1,5;4,5;65,9;conforme;149468;69951;28;123;6860;Non vérifié;non
+41060;Cormenon;41;eau potable;88038;2024;88,1;1,8;13,4;67,7;conforme;22903;7870;32;71;679;Non vérifié;non
+41061;Cormeray;41;eau potable : Agglopolys:ex-SIAEP Cellettes-Chitenay-Cormeray;87808;2024;87,9;0,9;6,3;66,3;conforme;39581;11409;20;52;1558;Non vérifié;non
+41062;Couddes;41;eau potable : SIAEP de Sassay - Couddes - Oisly - Choussy;87911;2024;78,3;1,0;3,6;65,7;conforme;31277;6864;35;100;530;Non vérifié;non
+41063;Couffy;41;eau potable : secteur SIE Villentrois;78941;2024;85,7;0,4;2,3;65,5;conforme;21623;4107;22;63;506;Non vérifié;non
+41065;Coulommiers-la-Tour;41;eau potable : CATV:Villetrun (ex-SIAEP);87815;2024;64,1;2,0;3,6;65,7;non conforme;30806;13369;64;209;575;Non vérifié;non
+41066;Courbouzon;41;eau potable;87762;2024;83,1;1,7;8,2;66,6;conforme;117895;4844;32;76;420;Non vérifié;non
+41067;Cour-Cheverny;41;eau potable : UDI Cour Cheverny - Cheverny;87953;2024;92,5;0,4;5,0;66,0;conforme;18381;9390;9;29;2831;Non vérifié;non
+41068;Courmemin;41;eau potable;87931;2024;88,5;0,0;2,4;65,5;conforme;0;0;0;0;502;Non vérifié;non
+41069;Cour-sur-Loire;41;eau potable;87970;2024;96,5;0,2;6,3;66,3;conforme;3789;404;4;12;259;Non vérifié;non
+41070;Vallée-de-Ronsard;41;eau potable : CATV: Couture-sur-Loir (ex-SIAEP);87893;2024;81,9;0,6;2,6;65,5;conforme;22469;9278;48;84;531;Non vérifié;non
+41071;Crouy-sur-Cosson;41;eau potable : AEP;306094;2024;89,3;0,8;6,3;66,3;conforme;105412;3618;20;47;507;Non vérifié;non
+41072;Crucheray;41;eau potable : CATV:Crucheray (ex-SIAEP);87786;2024;77,0;0,7;2,5;65,5;conforme;14027;5843;37;103;427;Non vérifié;non
+41073;Danzé;41;eau potable : CATV:Danzé (ex-SIAEP);88006;2024;82,2;0,6;2,9;65,6;conforme;24659;8520;35;75;671;Non vérifié;non
+41074;Dhuizon;41;eau potable;88017;2024;97,4;0,1;3,1;65,6;conforme;1898;1898;4;12;1195;Non vérifié;non
+41075;Droué;41;eau potable;88019;2024;86,8;2,4;16,0;68,2;conforme;25404;25404;70;55;999;Sans anomalie apparente;non
+41077;Épiais;41;eau potable;88044;2023;89,0;0,3;2,6;65,5;conforme;1642;108;3;42;115;Sans anomalie apparente;non
+41078;Épuisay;41;eau potable : CATV:Epuisay;87993;2024;80,5;0,9;3,6;65,7;conforme;12220;12220;43;91;787;Non vérifié;non
+41079;Les Essarts;41;eau potable : CATV: Couture-sur-Loir (ex-SIAEP);87893;2024;81,9;0,6;2,6;65,5;conforme;22469;1887;48;84;108;Non vérifié;non
+41080;Faverolles-sur-Cher;41;eau potable : SIAEP Val-de-Cher;87956;2024;91,3;0,6;5,9;66,2;conforme;70956;7498;15;38;1408;Non vérifié;non
+41081;Faye;41;eau potable : CATV:Villetrun (ex-SIAEP);87815;2024;64,1;2,0;3,6;65,7;non conforme;30806;5022;64;209;216;Non vérifié;non
+41083;La Ferté-Beauharnais;41;eau potable;87941;2024;96,4;0,8;21,0;69,2;conforme;864;279;1;14;561;Non vérifié;non
+41084;La Ferté-Imbault;41;eau potable;87789;2024;85,1;0,9;5,0;66,0;conforme;37022;15370;44;113;947;Non vérifié;non
+41085;La Ferté-Saint-Cyr;41;eau potable : AEP;306094;2024;89,3;0,8;6,3;66,3;conforme;105412;7800;20;47;1093;Non vérifié;non
+41086;Fontaines-en-Sologne;41;eau potable : AEP;306094;2024;89,3;0,8;6,3;66,3;conforme;105412;4717;20;47;661;Non vérifié;non
+41087;Fontaine-les-Coteaux;41;eau potable : CATV:Montoire Les Roches Lavardin Saint-Arnoult;88040;2024;87,1;1,0;7,0;66,4;conforme;28616;1705;14;52;342;Non vérifié;non
+41088;Fontaine-Raoul;41;eau potable : SIAEP de FONTAINE-RAOUL;88014;2024;71,4;0,6;1,6;65,3;conforme;22723;7331;87;137;231;Non vérifié;non
+41089;La Fontenelle;41;eau potable;88057;2024;73,5;0,7;2,0;65,4;conforme;70773;4338;58;130;204;Non vérifié;non
+41090;Fortan;41;eau potable : CATV:Fortan;87901;2024;81,0;0,8;3,3;65,7;conforme;3270;546;6;89;255;Non vérifié;non
+41091;Fossé;41;eau potable : Agglopolys:ex-SIAEP Fossé;87838;2024;78,4;2,5;9,2;66,8;conforme;51748;17090;37;110;1254;Non vérifié;non
+41093;Françay;41;eau potable : ex-SIAEP Herbault-Françay;87840;2024;87,1;0,6;4,0;65,8;conforme;9805;1892;19;55;271;Non vérifié;non
+41094;Fresnes;41;eau potable : Fresnes;87962;2024;68,0;4,2;9,0;66,8;conforme;18856;18856;43;170;1200;Non vérifié;non
+41095;Fréteval;41;eau potable;87793;2024;70,7;2,0;4,7;65,9;conforme;33580;20814;54;154;1063;Non vérifié;non
+41096;Gault-du-Perche;41;eau potable;88057;2024;73,5;0,7;2,0;65,4;conforme;70773;6805;58;130;320;Non vérifié;non
+41097;Gièvres;41;eau potable : (SIAEP) de Gièvres, Pruniers-en-Sologne;87935;2024;82,6;0,9;4,4;65,9;conforme;45530;22169;27;75;2268;Non vérifié;non
+41098;Gombergean;41;eau potable : CATV:Saint-Gourgon (SIAEP);87787;2024;93,3;0,1;1,3;65,3;conforme;1489;608;10;29;167;Non vérifié;non
+41099;Gy-en-Sologne;41;eau potable : SIAEPA Billy, Gy_en-Sologne;87932;2024;95,1;0,2;3,0;65,6;conforme;5694;1475;9;29;475;Non vérifié;non
+41100;Les Hayes;41;eau potable : CATV:Les Hayes (ex-SIAEP);87897;2024;72,1;1,3;3,2;65,6;conforme;37879;10214;160;293;175;Non vérifié;non
+41101;Herbault;41;eau potable : ex-SIAEP Herbault-Françay;87840;2024;87,1;0,6;4,0;65,8;conforme;9805;7912;19;55;1133;Non vérifié;non
+41102;Houssay;41;eau potable : CATV:Gondre (ex-SIAEP);87785;2024;79,7;0,7;2,6;65,5;conforme;19341;5422;41;109;365;Non vérifié;non
+41103;Huisseau-en-Beauce;41;eau potable : CATV:Saint-Amand-Longpré (ex-SIAEP du Plessis);88043;2024;93,8;0,3;4,8;66,0;conforme;5311;1328;9;30;406;Non vérifié;non
+41104;Huisseau-sur-Cosson;41;eau potable;88055;2024;94,2;1,1;18,4;68,7;conforme;58218;11002;13;36;2290;Non vérifié;non
+41105;Josnes;41;eau potable;87854;2024;79,0;2,6;9,6;66,9;conforme;21163;21163;66;217;878;Non vérifié;non
+41106;Lamotte-Beuvron;41;eau potable : Lamotte-Beuvron;88004;2024;99,8;0,0;18,7;68,7;conforme;0;0;0;0;4504;Non vérifié;non
+41107;Lancé;41;eau potable : CATV:Crucheray (ex-SIAEP);87786;2024;77,0;0,7;2,5;65,5;conforme;14027;6446;37;103;471;Non vérifié;non
+41108;Lancôme;41;eau potable;275594;2024;84,3;1,2;6,2;66,2;conforme;32272;1196;27;121;123;Sans anomalie apparente;non
+41109;Landes-le-Gaulois;41;eau potable;275594;2024;84,3;1,2;6,2;66,2;conforme;32272;7008;27;121;721;Sans anomalie apparente;non
+41110;Langon-sur-Cher;41;eau potable : (SIVOM) du canton de Mennetou-sur-Cher;87829;2024;79,6;0,9;3,4;65,7;conforme;87200;9981;33;97;821;Non vérifié;non
+41112;Lassay-sur-Croisne;41;eau potable : SIAEPA Billy, Gy_en-Sologne;87932;2024;95,1;0,2;3,0;65,6;conforme;5694;748;9;29;241;Non vérifié;non
+41113;Lavardin;41;eau potable : CATV:Montoire Les Roches Lavardin Saint-Arnoult;88040;2024;87,1;1,0;7,0;66,4;conforme;28616;893;14;52;179;Non vérifié;non
+41114;Lestiou;41;eau potable;87762;2024;83,1;1,7;8,2;66,6;conforme;117895;3356;32;76;291;Non vérifié;non
+41115;Lignières;41;eau potable;88046;2024;75,3;1,1;3,3;65,7;conforme;29265;5797;39;123;412;Non vérifié;non
+41116;Lisle;41;eau potable;88046;2024;75,3;1,1;3,3;65,7;conforme;29265;2547;39;123;181;Non vérifié;non
+41118;Loreux;41;eau potable : (SIAEP) Loreux, Villeherviers;88002;2024;96,6;0,1;1,5;65,3;conforme;1904;701;8;24;238;Non vérifié;non
+41119;Lorges;41;eau potable;87873;2024;74,5;1,7;5,1;66,0;conforme;11095;7934;61;172;359;Non vérifié;non
+41120;Lunay;41;eau potable : CATV:Montoire Les Roches Lavardin Saint-Arnoult;88040;2024;87,1;1,0;7,0;66,4;conforme;28616;6342;14;52;1272;Non vérifié;non
+41121;La Madeleine-Villefrouin;41;eau potable;203795;2024;100,0;0,0;9,6;66,9;conforme;0;0;0;0;33;Non vérifié;non
+41122;Maray;41;eau potable : (SIVOM) du canton de Mennetou-sur-Cher;87829;2024;79,6;0,9;3,4;65,7;conforme;87200;2687;33;97;221;Non vérifié;non
+41123;Marchenoir;41;eau potable;87841;2024;55,9;8,6;10,9;67,2;non conforme;34843;32137;130;309;677;Non vérifié;non
+41124;Marcilly-en-Beauce;41;eau potable : CATV: Naveil (ex:SIAEP);87985;2024;56,0;5,4;6,8;66,4;non conforme;138956;11909;102;297;319;Non vérifié;non
+41125;Marcilly-en-Gault;41;eau potable;87836;2024;80,6;0,4;1,8;65,4;conforme;9490;9490;34;81;754;Non vérifié;non
+41126;Mareuil-sur-Cher;41;eau potable : SIAEP Val-de-Cher;87956;2024;91,3;0,6;5,9;66,2;conforme;70956;6124;15;38;1150;Non vérifié;non
+41127;La Marolle-en-Sologne;41;eau potable;88029;2024;95,5;0,1;3,1;65,6;conforme;657;657;5;12;379;Non vérifié;non
+41128;Marolles;41;eau potable : Agglopolys:ex-SIAEP Fossé;87838;2024;78,4;2,5;9,2;66,8;conforme;51748;9731;37;110;714;Non vérifié;non
+41129;Maslives;41;eau potable;88047;2024;95,0;0,4;14,4;67,9;conforme;7525;1593;7;13;649;Non vérifié;non
+41130;Maves;41;eau potable;87762;2024;83,1;1,7;8,2;66,6;conforme;117895;7738;32;76;671;Non vérifié;non
+41131;Mazangé;41;eau potable : CATV:Lunay-Mazangé (ex-SIAEP);88037;2024;72,7;1,4;3,8;65,8;conforme;46854;18215;62;161;809;Non vérifié;non
+41132;Méhers;41;eau potable : SIAEPA Chémery-Mehers;87967;2024;84,0;0,5;2,4;65,5;conforme;13684;3376;31;75;303;Non vérifié;non
+41134;Menars;41;eau potable;87970;2024;96,5;0,2;6,3;66,3;conforme;3789;949;4;12;609;Non vérifié;non
+41135;Mennetou-sur-Cher;41;eau potable : (SIVOM) du canton de Mennetou-sur-Cher;87829;2024;79,6;0,9;3,4;65,7;conforme;87200;9944;33;97;818;Non vérifié;non
+41136;Mer;41;eau potable;87762;2024;83,1;1,7;8,2;66,6;conforme;117895;72077;32;76;6250;Non vérifié;non
+41137;Mesland;41;eau potable;87870;2024;84,7;1,0;5,6;66,1;conforme;103269;4806;24;65;539;Non vérifié;non
+41138;Meslay;41;eau potable : CATV:TéA (dsp VEND'Ô);88045;2024;87,4;2,3;16,0;68,2;conforme;163409;2378;22;53;297;Non vérifié;non
+41139;Meusnes;41;eau potable : Meusnes;87946;2024;80,8;1,2;5,1;66,0;conforme;10687;10687;29;86;1013;Non vérifié;non
+41140;Millançay;41;eau potable;87918;2024;70,2;0,8;1,8;65,4;conforme;19179;19179;73;182;716;Non vérifié;non
+41141;Moisy;41;eau potable;87916;2024;64,2;1,3;2,3;65,5;non conforme;32404;2688;22;203;337;Non vérifié;non
+41142;Valencisse;41;eau potable;87870;2024;84,7;1,0;5,6;66,1;conforme;103269;20720;24;65;2324;Non vérifié;non
+41143;Mondoubleau;41;eau potable;88038;2024;88,1;1,8;13,4;67,7;conforme;22903;15033;32;71;1297;Non vérifié;non
+41144;Monteaux;41;eau potable;87870;2024;84,7;1,0;5,6;66,1;conforme;103269;6499;24;65;729;Non vérifié;non
+41145;Monthou-sur-Bièvre;41;eau potable : ex-SMAEP Monthou-sur-Bièvre - Ouchamps - Valaire;87810;2024;74,5;1,3;3,8;65,8;conforme;28835;2955;10;127;793;Non vérifié;non
+41146;Monthou-sur-Cher;41;eau potable : SIAEP de la Vigne aux Champs;275634;2024;75,4;1,5;4,5;65,9;conforme;149468;10054;28;123;986;Non vérifié;non
+41147;Les Montils;41;eau potable : Agglopolys:Les Montils;110622;2024;84,9;1,8;10,1;67,0;conforme;13810;13810;19;65;1945;Non vérifié;non
+41148;Montlivault;41;eau potable : AEP;306094;2024;89,3;0,8;6,3;66,3;conforme;105412;9227;20;47;1293;Non vérifié;non
+41149;Montoire-sur-le-Loir;41;eau potable : CATV:Montoire Les Roches Lavardin Saint-Arnoult;88040;2024;87,1;1,0;7,0;66,4;conforme;28616;18180;14;52;3646;Non vérifié;non
+41150;Mont-près-Chambord;41;eau potable : AEP;306094;2024;89,3;0,8;6,3;66,3;conforme;105412;24162;20;47;3386;Non vérifié;non
+41151;Montrichard Val de Cher;41;eau potable : SIAEP Val-de-Cher;87956;2024;91,3;0,6;5,9;66,2;conforme;70956;19229;15;38;3611;Non vérifié;non
+41152;Montrieux-en-Sologne;41;eau potable;88031;2024;62,4;2,9;4,9;66,0;non conforme;35989;35989;155;331;638;Non vérifié;non
+41153;Montrouveau;41;eau potable : CATV:Les Hayes (ex-SIAEP);87897;2024;72,1;1,3;3,2;65,6;conforme;37879;8346;160;293;143;Non vérifié;non
+41154;Morée;41;eau potable;87917;2024;79,7;1,2;4,5;65,9;conforme;30270;20607;52;100;1077;Non vérifié;non
+41155;Muides-sur-Loire;41;eau potable;88047;2024;95,0;0,4;14,4;67,9;conforme;7525;3102;7;13;1264;Non vérifié;non
+41156;Mulsans;41;eau potable;87762;2024;83,1;1,7;8,2;66,6;conforme;117895;5858;32;76;508;Non vérifié;non
+41157;Mur-de-Sologne;41;eau potable : Mur-de-Sologne;87882;2024;93,2;0,2;3,1;65,6;conforme;6789;6789;12;36;1518;Non vérifié;non
+41158;Naveil;41;eau potable : CATV: Naveil (ex:SIAEP);87985;2024;56,0;5,4;6,8;66,4;non conforme;138956;91169;102;297;2442;Non vérifié;non
+41159;Neung-sur-Beuvron;41;eau potable;87942;2024;93,4;0,2;3,0;65,6;conforme;4473;4473;10;24;1259;Non vérifié;non
+41160;Neuvy;41;eau potable : AEP;306094;2024;89,3;0,8;6,3;66,3;conforme;105412;2219;20;47;311;Non vérifié;non
+41161;Nouan-le-Fuzelier;41;eau potable;87974;2024;76,6;1,3;4,1;65,8;conforme;18980;10727;13;116;2272;Non vérifié;non
+41163;Nourray;41;eau potable : CATV:Crucheray (ex-SIAEP);87786;2024;77,0;0,7;2,5;65,5;conforme;14027;1738;37;103;127;Non vérifié;non
+41164;Noyers-sur-Cher;41;eau potable : SIAEP de la Vigne aux Champs;275634;2024;75,4;1,5;4,5;65,9;conforme;149468;26828;28;123;2631;Non vérifié;non
+41166;Oisly;41;eau potable : SIAEP de Sassay - Couddes - Oisly - Choussy;87911;2024;78,3;1,0;3,6;65,7;conforme;31277;5077;35;100;392;Non vérifié;non
+41167;Veuzain-sur-Loire;41;eau potable;87870;2024;84,7;1,0;5,6;66,1;conforme;103269;29716;24;65;3333;Non vérifié;non
+41168;Orçay;41;eau potable;87879;2024;89,3;0,4;3,2;65,6;conforme;14241;2004;27;45;206;Non vérifié;non
+41171;Oucques La Nouvelle;41;eau potable;87880;2024;79,4;0,9;3,6;65,7;conforme;37781;20872;35;102;1638;Non vérifié;non
+41172;Ouzouer-le-Doyen;41;eau potable;87916;2024;64,2;1,3;2,3;65,5;non conforme;32404;1802;22;203;226;Non vérifié;non
+41173;Beauce la Romaine;41;eau potable;88042;2024;84,1;0,9;4,8;66,0;conforme;43556;36841;30;69;3341;Non vérifié;non
+41174;Périgny;41;eau potable;87925;2024;85,3;0,8;4,8;66,0;conforme;24090;2165;36;82;166;Non vérifié;non
+41175;Pezou;41;eau potable;88046;2024;75,3;1,1;3,3;65,7;conforme;29265;15491;39;123;1101;Non vérifié;non
+41176;Pierrefitte-sur-Sauldre;41;eau potable;87974;2024;76,6;1,3;4,1;65,8;conforme;18980;3536;13;116;749;Non vérifié;non
+41177;Le Plessis-Dorin;41;eau potable : SIAEP de la Région de l'Est Sarthois;313354;2024;78,1;1,0;3,4;65,7;conforme;95148;900;17;112;145;Non vérifié;non
+41178;Le Plessis-l'Échelle;41;eau potable;87843;2024;100,0;0,0;1,0;65,2;conforme;0;0;0;0;57;Non vérifié;non
+41179;Le Poislay;41;eau potable;88057;2024;73,5;0,7;2,0;65,4;conforme;70773;4274;58;130;201;Non vérifié;non
+41180;Pontlevoy;41;eau potable : SIAEP de la Vigne aux Champs;275634;2024;75,4;1,5;4,5;65,9;conforme;149468;15867;28;123;1556;Non vérifié;non
+41181;Pouillé;41;eau potable : SIAEP Val-de-Cher;87956;2024;91,3;0,6;5,9;66,2;conforme;70956;4122;15;38;774;Non vérifié;non
+41182;Pray;41;eau potable;275594;2024;84,3;1,2;6,2;66,2;conforme;32272;2702;27;121;278;Sans anomalie apparente;non
+41184;Prunay-Cassereau;41;eau potable : CATV:Prunay-Cassereau (ex-SIAEPA);87924;2024;85,9;0,5;3,2;65,6;conforme;22101;4548;22;100;577;Non vérifié;non
+41185;Pruniers-en-Sologne;41;eau potable : (SIAEP) de Gièvres, Pruniers-en-Sologne;87935;2024;82,6;0,9;4,4;65,9;conforme;45530;21944;27;75;2245;Non vérifié;non
+41186;Rahart;41;eau potable : CATV:Danzé (ex-SIAEP);88006;2024;82,2;0,6;2,9;65,6;conforme;24659;3809;35;75;300;Non vérifié;non
+41187;Renay;41;eau potable;88046;2024;75,3;1,1;3,3;65,7;conforme;29265;2448;39;123;174;Non vérifié;non
+41188;Rhodon;41;eau potable;87880;2024;79,4;0,9;3,6;65,7;conforme;37781;1440;35;102;113;Non vérifié;non
+41189;Rilly-sur-Loire;41;eau potable : Agglopolys:ex-SIAEP Rilly-sur-Loire;87875;2024;84,6;1,0;5,4;66,1;conforme;16801;4852;30;76;445;Non vérifié;non
+41190;Rocé;41;eau potable : CATV:Villetrun (ex-SIAEP);87815;2024;64,1;2,0;3,6;65,7;non conforme;30806;5068;64;209;218;Non vérifié;non
+41191;Roches;41;eau potable;87762;2024;83,1;1,7;8,2;66,6;conforme;117895;727;32;76;63;Non vérifié;non
+41192;Les Roches-l'Évêque;41;eau potable : CATV:Montoire Les Roches Lavardin Saint-Arnoult;88040;2024;87,1;1,0;7,0;66,4;conforme;28616;1496;14;52;300;Non vérifié;non
+41193;Romilly;41;eau potable : SIAEP de SAINT MARC-DU-COR;87905;2023;87,6;0,9;6,6;66,3;conforme;22565;6858;121;142;155;Sans anomalie apparente;non
+41194;Romorantin-Lanthenay;41;eau potable : Romorantin-Lanthenay (Veolia);87938;2024;95,1;0,9;16,8;68,4;conforme;51151;51151;8;20;18373;Non vérifié;non
+41195;Rougeou;41;eau potable : SIAEPA Rougeou, Soings-en-Sologne;87790;2024;76,0;1,2;3,7;65,7;conforme;40817;3610;66;170;150;Non vérifié;non
+41196;Ruan-sur-Egvonne;41;eau potable;88033;2024;95,2;0,1;1,5;65,3;conforme;357;357;12;24;80;Non vérifié;non
+41198;Saint-Aignan;41;eau potable : SIAEPA Saint-Aignan-Seigy;88009;2024;90,0;1,4;12,2;67,4;conforme;47600;31061;31;42;2789;Non vérifié;non
+41199;Saint-Amand-Longpré;41;eau potable : CATV:Saint-Amand-Longpré (ex-SIAEP du Plessis);88043;2024;93,8;0,3;4,8;66,0;conforme;5311;3983;9;30;1218;Non vérifié;non
+41200;Sainte-Anne;41;eau potable : CATV: Naveil (ex:SIAEP);87985;2024;56,0;5,4;6,8;66,4;non conforme;138956;17771;102;297;476;Non vérifié;non
+41201;Saint-Arnoult;41;eau potable : CATV:Saint-Arnoult;87795;2024;89,1;0,3;2,2;65,4;conforme;2245;2245;20;49;302;Non vérifié;non
+41203;Saint-Bohaire;41;eau potable;275594;2024;84,3;1,2;6,2;66,2;conforme;32272;4860;27;121;500;Sans anomalie apparente;non
+41204;Saint-Claude-de-Diray;41;eau potable;88055;2024;94,2;1,1;18,4;68,7;conforme;58218;8475;13;36;1764;Non vérifié;non
+41205;Saint-Cyr-du-Gault;41;eau potable : Territoire général;58689;2024;79,7;0,7;2,9;65,6;conforme;24508;3475;55;139;173;Non vérifié;non
+41206;Saint-Denis-sur-Loire;41;eau potable : Saint-Denis-sur-Loire & Chaussée-saint-Victor;110621;2024;84,4;3,9;21,1;69,2;conforme;78278;13165;40;67;904;Non vérifié;non
+41207;Saint-Dyé-sur-Loire;41;eau potable;88047;2024;95,0;0,4;14,4;67,9;conforme;7525;2830;7;13;1153;Non vérifié;non
+41208;Saint-Étienne-des-Guérets;41;eau potable : Territoire général;58689;2024;79,7;0,7;2,9;65,6;conforme;24508;2310;55;139;115;Non vérifié;non
+41209;Saint-Firmin-des-Prés;41;eau potable : CATV:TéA (dsp VEND'Ô);88045;2024;87,4;2,3;16,0;68,2;conforme;163409;5956;22;53;744;Non vérifié;non
+41211;Saint-Georges-sur-Cher;41;eau potable : SIAEP Val-de-Cher;87956;2024;91,3;0,6;5,9;66,2;conforme;70956;14431;15;38;2710;Non vérifié;non
+41212;Saint-Gervais-la-Forêt;41;eau potable : Agglopolys:Saint-Gervais;87964;2024;77,4;4,1;14,0;67,8;conforme;51689;51689;45;107;3180;Non vérifié;non
+41213;Saint-Gourgon;41;eau potable : CATV:Saint-Gourgon (SIAEP);87787;2024;93,3;0,1;1,3;65,3;conforme;1489;350;10;29;96;Non vérifié;non
+41214;Saint-Hilaire-la-Gravelle;41;eau potable;87793;2024;70,7;2,0;4,7;65,9;conforme;33580;12766;54;154;652;Non vérifié;non
+41215;Saint-Jacques-des-Guérets;41;eau potable : CATV:Trôo (ex-SIAEPA);87858;2024;68,2;2,1;4,5;65,9;conforme;48366;935;26;296;99;Non vérifié;non
+41216;Saint-Jean-Froidmentel;41;eau potable;87917;2024;79,7;1,2;4,5;65,9;conforme;30270;9663;52;100;505;Non vérifié;non
+41217;Saint-Julien-de-Chédon;41;eau potable : SIAEP Val-de-Cher;87956;2024;91,3;0,6;5,9;66,2;conforme;70956;4212;15;38;791;Non vérifié;non
+41218;Saint-Julien-sur-Cher;41;eau potable : (SIVOM) du canton de Mennetou-sur-Cher;87829;2024;79,6;0,9;3,4;65,7;conforme;87200;9020;33;97;742;Non vérifié;non
+41219;Saint-Laurent-des-Bois;41;eau potable;87959;2024;92,5;0,1;3,6;65,7;conforme;1885;437;4;10;330;Non vérifié;non
+41220;Saint-Laurent-Nouan;41;eau potable : AEP;306094;2024;89,3;0,8;6,3;66,3;conforme;105412;30228;20;47;4236;Non vérifié;non
+41221;Saint-Léonard-en-Beauce;41;eau potable;87871;2024;73,8;3,2;8,9;66,8;conforme;36792;36792;159;427;634;Non vérifié;non
+41222;Saint-Loup;41;eau potable : (SIVOM) du canton de Mennetou-sur-Cher;87829;2024;79,6;0,9;3,4;65,7;conforme;87200;4303;33;97;354;Non vérifié;non
+41223;Saint-Lubin-en-Vergonnois;41;eau potable;275594;2024;84,3;1,2;6,2;66,2;conforme;32272;7524;27;121;774;Sans anomalie apparente;non
+41224;Saint-Marc-du-Cor;41;eau potable : SIAEP de SAINT MARC-DU-COR;87905;2023;87,6;0,9;6,6;66,3;conforme;22565;8097;121;142;183;Sans anomalie apparente;non
+41225;Saint-Martin-des-Bois;41;eau potable : CATV:Trôo (ex-SIAEPA);87858;2024;68,2;2,1;4,5;65,9;conforme;48366;5498;26;296;582;Non vérifié;non
+41226;Saint-Ouen;41;eau potable : CATV:TéA (dsp VEND'Ô);88045;2024;87,4;2,3;16,0;68,2;conforme;163409;24345;22;53;3041;Non vérifié;non
+41228;Saint-Rimay;41;eau potable : CATV:Gondre (ex-SIAEP);87785;2024;79,7;0,7;2,6;65,5;conforme;19341;4367;41;109;294;Non vérifié;non
+41229;Saint-Romain-sur-Cher;41;eau potable : SIAEP de la Vigne aux Champs;275634;2024;75,4;1,5;4,5;65,9;conforme;149468;15020;28;123;1473;Non vérifié;non
+41230;Saint-Sulpice-de-Pommeray;41;eau potable : Agglopolys:ex-SIAEP Fossé;87838;2024;78,4;2,5;9,2;66,8;conforme;51748;24927;37;110;1829;Non vérifié;non
+41231;Saint-Viâtre;41;eau potable;87941;2024;96,4;0,8;21,0;69,2;conforme;864;586;1;14;1180;Non vérifié;non
+41232;Salbris;41;eau potable : SALBRIS;87944;2024;86,2;1,5;9,3;66,9;conforme;39420;39420;22;59;4809;Non vérifié;non
+41233;Sambin;41;eau potable;87968;2023;79,7;0,9;3,6;65,7;conforme;27502;27502;87;91;862;Sans anomalie apparente;non
+41234;Santenay;41;eau potable : Agglopolys:ex-SIAEP Orchaise-Molineuf-Santenay;87820;2024;81,2;0,8;3,5;65,7;conforme;24183;2732;25;91;296;Non vérifié;non
+41235;Sargé-sur-Braye;41;eau potable;88056;2024;84,5;0,5;2,6;65,5;conforme;18750;15906;46;72;945;Non vérifié;non
+41236;Sasnières;41;eau potable : CATV:Gondre (ex-SIAEP);87785;2024;79,7;0,7;2,6;65,5;conforme;19341;1307;41;109;88;Non vérifié;non
+41237;Sassay;41;eau potable : SIAEP de Sassay - Couddes - Oisly - Choussy;87911;2024;78,3;1,0;3,6;65,7;conforme;31277;14790;35;100;1142;Non vérifié;non
+41238;Savigny-sur-Braye;41;eau potable : CATV:Savigny-sur-Braye;87776;2024;72,2;1,2;3,2;65,6;conforme;49056;49056;69;135;1962;Non vérifié;non
+41239;Seigy;41;eau potable : SIAEPA Saint-Aignan-Seigy;88009;2024;90,0;1,4;12,2;67,4;conforme;47600;10814;31;42;971;Non vérifié;non
+41241;Selles-Saint-Denis;41;eau potable;87789;2024;85,1;0,9;5,0;66,0;conforme;37022;21652;44;113;1334;Non vérifié;non
+41242;Selles-sur-Cher;41;eau potable : Selles-sur-Cher;87971;2024;87,3;1,5;10,0;67,0;conforme;37723;37723;25;62;4184;Non vérifié;non
+41243;Selommes;41;eau potable;87925;2024;85,3;0,8;4,8;66,0;conforme;24090;10239;36;82;785;Non vérifié;non
+41245;Séris;41;eau potable;88000;2024;98,8;0,1;7,6;66,5;conforme;219;219;2;5;388;Non vérifié;non
+41246;Seur;41;eau potable : ex-SIAEP Chailles;87952;2024;70,5;3,3;8,0;66,6;conforme;86640;8890;51;151;479;Non vérifié;non
+41247;Soings-en-Sologne;41;eau potable : SIAEPA Rougeou, Soings-en-Sologne;87790;2024;76,0;1,2;3,7;65,7;conforme;40817;37207;66;170;1546;Non vérifié;non
+41248;Couëtron-au-Perche;41;eau potable;88057;2024;73,5;0,7;2,0;65,4;conforme;70773;22181;58;130;1043;Non vérifié;non
+41249;Souesmes;41;eau potable;87974;2024;76,6;1,3;4,1;65,8;conforme;18980;4717;13;116;999;Non vérifié;non
+41250;Sougé;41;eau potable : SMAEP de la Région Loir Braye et Dême;313434;2024;77,4;1,3;4,3;65,9;conforme;164652;10440;59;111;484;Non vérifié;non
+41251;Souvigny-en-Sologne;41;eau potable;87928;2023;68,1;1,9;4,1;65,8;conforme;26353;14027;78;168;495;Sans anomalie apparente;non
+41252;Suèvres;41;eau potable;87970;2024;96,5;0,2;6,3;66,3;conforme;3789;2437;4;12;1564;Non vérifié;non
+41253;Talcy;41;eau potable;87762;2024;83,1;1,7;8,2;66,6;conforme;117895;3218;32;76;279;Non vérifié;non
+41254;Le Temple;41;eau potable;88056;2024;84,5;0,5;2,6;65,5;conforme;18750;2844;46;72;169;Non vérifié;non
+41255;Ternay;41;eau potable : CATV:Les Hayes (ex-SIAEP);87897;2024;72,1;1,3;3,2;65,6;conforme;37879;19319;160;293;331;Non vérifié;non
+41256;Theillay;41;eau potable;87879;2024;89,3;0,4;3,2;65,6;conforme;14241;12237;27;45;1258;Non vérifié;non
+41258;Thésée;41;eau potable : SIAEP de la Vigne aux Champs;275634;2024;75,4;1,5;4,5;65,9;conforme;149468;11747;28;123;1152;Non vérifié;non
+41259;Thoré-la-Rochette;41;eau potable : CATV:Thoré-la-Rochette;88022;2024;73,8;1,9;5,4;66,1;conforme;16852;16852;57;128;810;Non vérifié;non
+41260;Thoury;41;eau potable : AEP;306094;2024;89,3;0,8;6,3;66,3;conforme;105412;3068;20;47;430;Non vérifié;non
+41261;Tourailles;41;eau potable;275594;2024;84,3;1,2;6,2;66,2;conforme;32272;1254;27;121;129;Sans anomalie apparente;non
+41262;Tour-en-Sologne;41;eau potable : AEP;306094;2024;89,3;0,8;6,3;66,3;conforme;105412;8135;20;47;1140;Non vérifié;non
+41265;Troo;41;eau potable : CATV:Trôo (ex-SIAEPA);87858;2024;68,2;2,1;4,5;65,9;conforme;48366;2919;26;296;309;Non vérifié;non
+41266;Valaire;41;eau potable : ex-SMAEP Monthou-sur-Bièvre - Ouchamps - Valaire;87810;2024;74,5;1,3;3,8;65,8;conforme;28835;317;10;127;85;Non vérifié;non
+41267;Vallières-les-Grandes;41;eau potable : Vallières-les-Grandes;87766;2024;83,9;0,6;3,2;65,6;conforme;11835;11835;34;68;943;Non vérifié;non
+41268;Veilleins;41;eau potable : (SIAEP) de Gièvres, Pruniers-en-Sologne;87935;2024;82,6;0,9;4,4;65,9;conforme;45530;1417;27;75;145;Non vérifié;non
+41269;Vendôme;41;eau potable : CATV:TéA (dsp VEND'Ô);88045;2024;87,4;2,3;16,0;68,2;conforme;163409;126151;22;53;15758;Non vérifié;non
+41271;Vernou-en-Sologne;41;eau potable;87931;2024;88,5;0,0;2,4;65,5;conforme;0;0;0;0;550;Non vérifié;non
+41273;Vievy-le-Rayé;41;eau potable;87880;2024;79,4;0,9;3,6;65,7;conforme;37781;5989;35;102;470;Non vérifié;non
+41274;Villavard;41;eau potable : CATV:Gondre (ex-SIAEP);87785;2024;79,7;0,7;2,6;65,5;conforme;19341;1812;41;109;122;Non vérifié;non
+41275;La Ville-aux-Clercs;41;eau potable;87986;2024;83,1;1,0;4,8;66,0;conforme;18586;13166;30;80;1200;Non vérifié;non
+41276;Villebarou;41;eau potable : Agglopolys:Villebarou;110619;2024;99,6;0,1;21,4;69,3;conforme;876;876;1;3;2584;Non vérifié;non
+41277;Villebout;41;eau potable : SIAEP de FONTAINE-RAOUL;88014;2024;71,4;0,6;1,6;65,3;conforme;22723;3745;87;137;118;Non vérifié;non
+41278;Villechauve;41;eau potable : CATV:Prunay-Cassereau (ex-SIAEPA);87924;2024;85,9;0,5;3,2;65,6;conforme;22101;2018;22;100;256;Non vérifié;non
+41279;Villedieu-le-Château;41;eau potable : CATV: Couture-sur-Loir (ex-SIAEP);87893;2024;81,9;0,6;2,6;65,5;conforme;22469;6657;48;84;381;Non vérifié;non
+41280;Villefranche-sur-Cher;41;eau potable : (SIVOM) du canton de Mennetou-sur-Cher;87829;2024;79,6;0,9;3,4;65,7;conforme;87200;32556;33;97;2678;Non vérifié;non
+41281;Villefrancoeur;41;eau potable;87925;2024;85,3;0,8;4,8;66,0;conforme;24090;5426;36;82;416;Non vérifié;non
+41282;Villeherviers;41;eau potable : (SIAEP) Loreux, Villeherviers;88002;2024;96,6;0,1;1,5;65,3;conforme;1904;1202;8;24;408;Non vérifié;non
+41283;Villemardy;41;eau potable;87925;2024;85,3;0,8;4,8;66,0;conforme;24090;3443;36;82;264;Non vérifié;non
+41284;Villeneuve-Frouville;41;eau potable;87880;2024;79,4;0,9;3,6;65,7;conforme;37781;803;35;102;63;Non vérifié;non
+41285;Villeny;41;eau potable;87825;2024;89,9;0,2;1,8;65,4;conforme;2555;2555;14;40;487;Non vérifié;non
+41286;Villeporcher;41;eau potable : CATV:Saint-Gourgon (SIAEP);87787;2024;93,3;0,1;1,3;65,3;conforme;1489;532;10;29;146;Non vérifié;non
+41287;Villerable;41;eau potable : CATV: Naveil (ex:SIAEP);87985;2024;56,0;5,4;6,8;66,4;non conforme;138956;18107;102;297;485;Non vérifié;non
+41288;Villerbon;41;eau potable : ex-SIAEP Averdon-Villerbon;87807;2024;79,8;1,3;5,1;66,0;conforme;24399;9771;32;105;849;Non vérifié;non
+41289;Villermain;41;eau potable;87775;2024;100,0;0,0;7,2;66,4;conforme;0;0;0;0;390;Non vérifié;non
+41290;Villeromain;41;eau potable;87925;2024;85,3;0,8;4,8;66,0;conforme;24090;2817;36;82;216;Non vérifié;non
+41291;Villetrun;41;eau potable : CATV:Villetrun (ex-SIAEP);87815;2024;64,1;2,0;3,6;65,7;non conforme;30806;7347;64;209;316;Non vérifié;non
+41292;Villexanton;41;eau potable;87762;2024;83,1;1,7;8,2;66,6;conforme;117895;2283;32;76;198;Non vérifié;non
+41293;Villiersfaux;41;eau potable : CATV:Gondre (ex-SIAEP);87785;2024;79,7;0,7;2,6;65,5;conforme;19341;3654;41;109;246;Non vérifié;non
+41294;Villiers-sur-Loir;41;eau potable : CATV:Villiers-sur-Loir;87980;2024;82,9;1,5;7,4;66,5;conforme;12592;3923;10;76;1105;Non vérifié;non
+41295;Vineuil;41;eau potable;88055;2024;94,2;1,1;18,4;68,7;conforme;58218;38741;13;36;8064;Non vérifié;non
+41296;Vouzon;41;eau potable : Vouzon;87844;2024;80,6;1,0;4,0;65,8;conforme;16790;16790;33;91;1414;Non vérifié;non
+41297;Yvoy-le-Marron;41;eau potable;88035;2024;82,2;2,4;11,2;67,2;conforme;6132;6132;23;79;746;Non vérifié;non

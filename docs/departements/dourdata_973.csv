@@ -7,18 +7,18 @@
 # Méthodologie et code : https://github.com/btaverne/dourdata
 # Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
 # Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
-Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
-97305;Macouria;973;eau potable : SGDE;207331;2024;76,6;8,7;28,5;70,7;conforme;3031777;652364;94;112;19020;Non vérifié
-97306;Mana;973;eau potable;207304;2024;79,9;4,3;16,9;68,4;conforme;80044;70964;16;115;11886;Non vérifié
-97307;Matoury;973;eau potable : SGDE;207331;2024;76,6;8,7;28,5;70,7;conforme;3031777;1200151;94;112;34991;Non vérifié
-97308;Saint-Georges;973;eau potable;207307;2024;86,7;2,5;16,5;68,3;conforme;24090;24090;14;55;4566;Non vérifié
-97309;Remire-Montjoly;973;eau potable : SGDE;207331;2024;76,6;8,7;28,5;70,7;conforme;3031777;946785;94;112;27604;Non vérifié
-97310;Roura;973;eau potable : SGDE;207331;2024;76,6;8,7;28,5;70,7;conforme;3031777;118777;94;112;3463;Non vérifié
-97311;Saint-Laurent-du-Maroni;973;eau potable : Principal;207312;2024;85,0;6,8;38,7;72,7;conforme;379250;379250;21;64;50537;Non vérifié
-97312;Sinnamary;973;eau potable;207314;2024;69,7;7,0;19,2;68,8;conforme;83881;83881;80;133;2876;Non vérifié
-97313;Montsinéry-Tonnegrande;973;eau potable : SGDE;207331;2024;76,6;8,7;28,5;70,7;conforme;3031777;113701;94;112;3315;Non vérifié
-97353;Maripasoula;973;eau potable : Principal;207318;2024;73,2;6,1;16,7;68,3;conforme;72361;72361;21;133;9316;Non vérifié
-97357;Grand-Santi;973;eau potable : Principal;207322;2024;76,8;4,4;14,6;67,9;conforme;26001;26001;8;110;9126;Non vérifié
-97360;Apatou;973;eau potable : Principal - Maïman;207325;2024;92,0;1,1;13,1;67,6;conforme;10985;10985;3;31;9839;Non vérifié
-97361;Awala-Yalimapo;973;eau potable;207304;2024;79,9;4,3;16,9;68,4;conforme;80044;9081;16;115;1521;Non vérifié
-97362;Papaichton;973;eau potable;207330;2024;38,0;131,7;99,9;85,0;non conforme;122099;122099;59;26993;5623;Non vérifié
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement);Donnée suspecte (voir LISEZMOI)
+97305;Macouria;973;eau potable : SGDE;207331;2024;76,6;8,7;28,5;70,7;conforme;3031777;652364;94;112;19020;Non vérifié;non
+97306;Mana;973;eau potable;207304;2024;79,9;4,3;16,9;68,4;conforme;80044;70964;16;115;11886;Non vérifié;non
+97307;Matoury;973;eau potable : SGDE;207331;2024;76,6;8,7;28,5;70,7;conforme;3031777;1200151;94;112;34991;Non vérifié;non
+97308;Saint-Georges;973;eau potable;207307;2024;86,7;2,5;16,5;68,3;conforme;24090;24090;14;55;4566;Non vérifié;non
+97309;Remire-Montjoly;973;eau potable : SGDE;207331;2024;76,6;8,7;28,5;70,7;conforme;3031777;946785;94;112;27604;Non vérifié;non
+97310;Roura;973;eau potable : SGDE;207331;2024;76,6;8,7;28,5;70,7;conforme;3031777;118777;94;112;3463;Non vérifié;non
+97311;Saint-Laurent-du-Maroni;973;eau potable : Principal;207312;2024;85,0;6,8;38,7;72,7;conforme;379250;379250;21;64;50537;Non vérifié;non
+97312;Sinnamary;973;eau potable;207314;2024;69,7;7,0;19,2;68,8;conforme;83881;83881;80;133;2876;Non vérifié;non
+97313;Montsinéry-Tonnegrande;973;eau potable : SGDE;207331;2024;76,6;8,7;28,5;70,7;conforme;3031777;113701;94;112;3315;Non vérifié;non
+97353;Maripasoula;973;eau potable : Principal;207318;2024;73,2;6,1;16,7;68,3;conforme;72361;72361;21;133;9316;Non vérifié;non
+97357;Grand-Santi;973;eau potable : Principal;207322;2024;76,8;4,4;14,6;67,9;conforme;26001;26001;8;110;9126;Non vérifié;non
+97360;Apatou;973;eau potable : Principal - Maïman;207325;2024;92,0;1,1;13,1;67,6;conforme;10985;10985;3;31;9839;Non vérifié;non
+97361;Awala-Yalimapo;973;eau potable;207304;2024;79,9;4,3;16,9;68,4;conforme;80044;9081;16;115;1521;Non vérifié;non
+97362;Papaichton;973;eau potable;207330;2024;38,0;131,7;99,9;85,0;non conforme;122099;122099;59;26993;5623;Non vérifié;non

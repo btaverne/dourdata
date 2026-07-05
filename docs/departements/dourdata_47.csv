@@ -7,321 +7,321 @@
 # Méthodologie et code : https://github.com/btaverne/dourdata
 # Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
 # Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
-Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
-47001;Agen;47;eau potable : UD Rouquet Lacapelette;267374;2024;75,3;4,3;13,2;67,6;conforme;1307189;568579;47;119;32801;Non vérifié
-47002;Agmé;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;1273;32;123;108;Non vérifié
-47003;Agnac;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;7314;42;81;482;Non vérifié
-47004;Aiguillon;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;147572;102;232;3968;Non vérifié
-47005;Allemans-du-Dropt;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;7436;42;81;490;Non vérifié
-47006;Allez-et-Cazeneuve;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;22649;102;232;609;Non vérifié
-47007;Allons;47;eau potable : Porte des Landes;169429;2024;84,4;0,6;3,4;65,7;conforme;133678;2334;39;64;163;Non vérifié
-47008;Ambrus;47;eau potable : Porte des Landes;169429;2024;84,4;0,6;3,4;65,7;conforme;133678;1575;39;64;110;Non vérifié
-47009;Andiran;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;7523;79;175;260;Non vérifié
-47010;Antagnac;47;eau potable;169431;2024;80,5;1,1;4,7;65,9;conforme;171573;4770;59;116;223;Non vérifié
-47011;Anthé;47;eau potable : Lot Amont (Tournon d'Agenais);325954;2024;97,4;0,1;2,8;65,6;conforme;4344;658;9;13;194;Non vérifié
-47012;Anzex;47;eau potable : Porte des Landes;169429;2024;84,4;0,6;3,4;65,7;conforme;133678;4754;39;64;332;Non vérifié
-47013;Argenton;47;eau potable;169431;2024;80,5;1,1;4,7;65,9;conforme;171573;7080;59;116;331;Non vérifié
-47014;Armillac;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;2464;32;123;209;Non vérifié
-47015;Astaffort;47;eau potable : UD Sivoizac Sérignac;222778;2024;62,4;4,8;8,0;66,6;non conforme;1127832;100234;139;252;1972;Non vérifié
-47016;Aubiac;47;eau potable : UD Sivoizac Sérignac;222778;2024;62,4;4,8;8,0;66,6;non conforme;1127832;59673;139;252;1174;Non vérifié
-47017;Auradou;47;eau potable : Lot Amont 47 (SAUR);305754;2024;72,2;1,3;3,5;65,7;conforme;136741;8617;58;137;405;Non vérifié
-47018;Auriac-sur-Dropt;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;1888;30;126;175;Non vérifié
-47019;Bajamont;47;eau potable : UD Rouquet Lacapelette;267374;2024;75,3;4,3;13,2;67,6;conforme;1307189;17924;47;119;1034;Non vérifié
-47020;Baleyssagues;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;2028;30;126;188;Non vérifié
-47021;Barbaste;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;43055;79;175;1488;Non vérifié
-47022;Bazens;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;18372;102;232;494;Non vérifié
-47023;Beaugas;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;3796;32;123;322;Non vérifié
-47024;Beaupuy;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;18467;30;126;1712;Non vérifié
-47025;Beauville;47;eau potable : UDI de Cauzac;322074;2024;54,3;4,6;5,4;66,1;non conforme;840860;64313;320;740;551;Non vérifié
-47026;Beauziac;47;eau potable : Porte des Landes;169429;2024;84,4;0,6;3,4;65,7;conforme;133678;3451;39;64;241;Non vérifié
-47027;Bias;47;eau potable : Villeneuvois (Eau47);169424;2024;85,1;3,0;16,8;68,4;conforme;275611;32396;30;84;2977;Non vérifié
-47028;Birac-sur-Trec;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;9572;32;123;812;Non vérifié
-47029;Blanquefort-sur-Briolance;47;eau potable;169434;2024;63,5;2,5;4,3;65,9;non conforme;728522;20862;110;217;518;Non vérifié
-47030;Blaymont;47;eau potable : UDI de Cauzac;322074;2024;54,3;4,6;5,4;66,1;non conforme;840860;25212;320;740;216;Non vérifié
-47031;Boé;47;eau potable : UD Rouquet Lacapelette;267374;2024;75,3;4,3;13,2;67,6;conforme;1307189;101336;47;119;5846;Non vérifié
-47032;Bon-Encontre;47;eau potable : UD Rouquet Lacapelette;267374;2024;75,3;4,3;13,2;67,6;conforme;1307189;113192;47;119;6530;Non vérifié
-47033;Boudy-de-Beauregard;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;4621;32;123;392;Non vérifié
-47034;Bouglon;47;eau potable;169431;2024;80,5;1,1;4,7;65,9;conforme;171573;13476;59;116;630;Non vérifié
-47035;Bourgougnague;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;4325;42;81;285;Non vérifié
-47036;Bourlens;47;eau potable;169434;2024;63,5;2,5;4,3;65,9;non conforme;728522;14982;110;217;372;Non vérifié
-47037;Bournel;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;3748;42;81;247;Non vérifié
-47038;Bourran;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;22686;102;232;610;Non vérifié
-47040;Brax;47;eau potable : UD Sivoizac Sérignac;222778;2024;62,4;4,8;8,0;66,6;non conforme;1127832;106638;139;252;2098;Non vérifié
-47041;Bruch;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;19907;79;175;688;Non vérifié
-47042;Brugnac;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;2122;32;123;180;Non vérifié
-47043;Buzet-sur-Baïse;47;eau potable : Porte des Landes / Landes / Buzet;299014;2024;74,4;1,3;3,9;65,8;conforme;99028;30838;68;130;1245;Non vérifié
-47044;Cahuzac;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;4674;42;81;308;Non vérifié
-47045;Calignac;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;14323;79;175;495;Non vérifié
-47046;Calonges;47;eau potable : Garonne (Mas d’Agenais);298974;2024;77,2;0,9;3,2;65,6;conforme;52823;8616;41;103;581;Non vérifié
-47047;Cambes;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;1834;30;126;170;Non vérifié
-47048;Cancon;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;16256;32;123;1379;Non vérifié
-47049;Casseneuil;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;27679;32;123;2348;Non vérifié
-47050;Cassignas;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;4723;102;232;127;Non vérifié
-47051;Castelculier;47;eau potable : UD Rouquet Lacapelette;267374;2024;75,3;4,3;13,2;67,6;conforme;1307189;41290;47;119;2382;Non vérifié
-47052;Casteljaloux;47;eau potable : Porte des Landes;169429;2024;84,4;0,6;3,4;65,7;conforme;133678;68092;39;64;4755;Non vérifié
-47053;Castella;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;13761;102;232;370;Non vérifié
-47054;Castelmoron-sur-Lot;47;eau potable : Nord du Lot - Véolia;325914;2024;79,8;1,6;6,2;66,2;conforme;121647;42183;63;95;1842;Non vérifié
-47055;Castelnaud-de-Gratecambe;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;6059;32;123;514;Non vérifié
-47056;Castelnau-sur-Gupie;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;9891;30;126;917;Non vérifié
-47057;Castillonnès;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;20425;42;81;1346;Non vérifié
-47058;Caubeyres;47;eau potable : Porte des Landes / Landes / Buzet;299014;2024;74,4;1,3;3,9;65,8;conforme;99028;6861;68;130;277;Non vérifié
-47059;Caubon-Saint-Sauveur;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;2815;30;126;261;Non vérifié
-47060;Caudecoste;47;eau potable : UD Sivoizac Sérignac;222778;2024;62,4;4,8;8,0;66,6;non conforme;1127832;57284;139;252;1127;Non vérifié
-47061;Caumont-sur-Garonne;47;eau potable : Garonne (Sud de Marmande);169435;2024;74,7;1,1;3,4;65,7;conforme;46574;1907;6;118;823;Non vérifié
-47062;Cauzac;47;eau potable : UDI de Cauzac;322074;2024;54,3;4,6;5,4;66,1;non conforme;840860;49023;320;740;420;Non vérifié
-47063;Cavarc;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;2352;42;81;155;Non vérifié
-47064;Cazideroque;47;eau potable : Lot Amont (Tournon d'Agenais);325954;2024;97,4;0,1;2,8;65,6;conforme;4344;845;9;13;249;Non vérifié
-47065;Clairac;47;eau potable : Nord du Lot - Véolia;325914;2024;79,8;1,6;6,2;66,2;conforme;121647;59679;63;95;2606;Non vérifié
-47066;Clermont-Dessous;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;29678;102;232;798;Non vérifié
-47067;Clermont-Soubiran;47;eau potable : principal;215221;2024;70,0;1,5;3,6;65,7;conforme;432525;5557;39;152;395;Non vérifié
-47068;Cocumont;47;eau potable;169431;2024;80,5;1,1;4,7;65,9;conforme;171573;24235;59;116;1133;Non vérifié
-47069;Colayrac-Saint-Cirq;47;eau potable : UD Rouquet Lacapelette;267374;2024;75,3;4,3;13,2;67,6;conforme;1307189;53649;47;119;3095;Non vérifié
-47070;Condezaygues;47;eau potable;169434;2024;63,5;2,5;4,3;65,9;non conforme;728522;33790;110;217;839;Non vérifié
-47071;Coulx;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;3018;32;123;256;Non vérifié
-47072;Courbiac;47;eau potable : Lot Amont (Tournon d'Agenais);325954;2024;97,4;0,1;2,8;65,6;conforme;4344;360;9;13;106;Non vérifié
-47073;Cours;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;7252;102;232;195;Non vérifié
-47074;Couthures-sur-Garonne;47;eau potable;169431;2024;80,5;1,1;4,7;65,9;conforme;171573;7808;59;116;365;Non vérifié
-47075;La Croix-Blanche;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;39980;102;232;1075;Non vérifié
-47076;Cuq;47;eau potable : UD Sivoizac Sérignac;222778;2024;62,4;4,8;8,0;66,6;non conforme;1127832;14130;139;252;278;Non vérifié
-47077;Cuzorn;47;eau potable;169434;2024;63,5;2,5;4,3;65,9;non conforme;728522;34032;110;217;845;Non vérifié
-47078;Damazan;47;eau potable : Porte des Landes / Landes / Buzet;299014;2024;74,4;1,3;3,9;65,8;conforme;99028;33637;68;130;1358;Non vérifié
-47079;Dausse;47;eau potable : Lot Amont 47 (SAUR);305754;2024;72,2;1,3;3,5;65,7;conforme;136741;11191;58;137;526;Non vérifié
-47080;Dévillac;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;2382;42;81;157;Non vérifié
-47081;Dolmayrac;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;26740;102;232;719;Non vérifié
-47082;Dondas;47;eau potable : UDI de Cauzac;322074;2024;54,3;4,6;5,4;66,1;non conforme;840860;25562;320;740;219;Non vérifié
-47083;Doudrac;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;1593;42;81;105;Non vérifié
-47084;Douzains;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;3870;42;81;255;Non vérifié
-47085;Durance;47;eau potable;169402;2020;78,6;0,6;2,2;65,4;conforme;5125;5125;55;99;255;Sans anomalie apparente
-47086;Duras;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;13030;30;126;1208;Non vérifié
-47087;Engayrac;47;eau potable : UDI de Cauzac;322074;2024;54,3;4,6;5,4;66,1;non conforme;840860;18675;320;740;160;Non vérifié
-47088;Escassefort;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;7356;30;126;682;Non vérifié
-47089;Esclottes;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;1834;30;126;170;Non vérifié
-47090;Espiens;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;10359;79;175;358;Non vérifié
-47091;Estillac;47;eau potable : UD Sivoizac Sérignac;222778;2024;62,4;4,8;8,0;66,6;non conforme;1127832;125190;139;252;2463;Non vérifié
-47092;Fals;47;eau potable : UD Sivoizac Sérignac;222778;2024;62,4;4,8;8,0;66,6;non conforme;1127832;20484;139;252;403;Non vérifié
-47093;Fargues-sur-Ourbise;47;eau potable : Porte des Landes / Landes / Buzet;299014;2024;74,4;1,3;3,9;65,8;conforme;99028;8372;68;130;338;Non vérifié
-47094;Fauguerolles;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;9690;32;123;822;Non vérifié
-47095;Fauillet;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;10185;32;123;864;Non vérifié
-47096;Ferrensac;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;3111;42;81;205;Non vérifié
-47097;Feugarolles;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;29369;79;175;1015;Non vérifié
-47098;Fieux;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;9346;79;175;323;Non vérifié
-47099;Fongrave;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;7415;32;123;629;Non vérifié
-47100;Foulayronnes;47;eau potable : UD Rouquet Lacapelette;267374;2024;75,3;4,3;13,2;67,6;conforme;1307189;94922;47;119;5476;Non vérifié
-47101;Fourques-sur-Garonne;47;eau potable : Garonne (Sud de Marmande);169435;2024;74,7;1,1;3,4;65,7;conforme;46574;2996;6;118;1293;Non vérifié
-47102;Francescas;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;21701;79;175;750;Non vérifié
-47103;Fréchou;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;6366;79;175;220;Non vérifié
-47104;Frégimont;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;10079;102;232;271;Non vérifié
-47105;Frespech;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;10376;102;232;279;Non vérifié
-47106;Fumel;47;eau potable;169434;2024;63,5;2,5;4,3;65,9;non conforme;728522;188886;110;217;4690;Non vérifié
-47107;Galapian;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;12384;102;232;333;Non vérifié
-47108;Gaujac;47;eau potable;169431;2024;80,5;1,1;4,7;65,9;conforme;171573;5155;59;116;241;Non vérifié
-47109;Gavaudun;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;3560;32;123;302;Non vérifié
-47110;Gontaud-de-Nogaret;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;19309;32;123;1638;Non vérifié
-47111;Granges-sur-Lot;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;21942;102;232;590;Non vérifié
-47112;Grateloup-Saint-Gayrand;47;eau potable : Nord du Lot - Véolia;325914;2024;79,8;1,6;6,2;66,2;conforme;121647;10740;63;95;469;Non vérifié
-47113;Grayssas;47;eau potable : principal;215221;2024;70,0;1,5;3,6;65,7;conforme;432525;2110;39;152;150;Non vérifié
-47114;Grézet-Cavagnan;47;eau potable : Porte des Landes;169429;2024;84,4;0,6;3,4;65,7;conforme;133678;5857;39;64;409;Non vérifié
-47115;Guérin;47;eau potable;169431;2024;80,5;1,1;4,7;65,9;conforme;171573;5262;59;116;246;Non vérifié
-47117;Hautefage-la-Tour;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;38269;102;232;1029;Non vérifié
-47118;Hautesvignes;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;1922;32;123;163;Non vérifié
-47120;Jusix;47;eau potable;326214;2024;69,1;1,6;3,6;65,7;conforme;309286;2113;60;164;96;Non vérifié
-47121;Labastide-Castel-Amouroux;47;eau potable : Porte des Landes;169429;2024;84,4;0,6;3,4;65,7;conforme;133678;4539;39;64;317;Non vérifié
-47122;Labretonie;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;1969;32;123;167;Non vérifié
-47123;Lacapelle-Biron;47;eau potable;169434;2024;63,5;2,5;4,3;65,9;non conforme;728522;15747;110;217;391;Non vérifié
-47124;Lacaussade;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;2476;32;123;210;Non vérifié
-47125;Lacépède;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;11901;102;232;320;Non vérifié
-47126;Lachapelle;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;1036;30;126;96;Non vérifié
-47127;Lafitte-sur-Lot;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;30943;102;232;832;Non vérifié
-47128;Lafox;47;eau potable : UD Rouquet Lacapelette;267374;2024;75,3;4,3;13,2;67,6;conforme;1307189;19033;47;119;1098;Non vérifié
-47129;Lagarrigue;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;10116;102;232;272;Non vérifié
-47130;Lagruère;47;eau potable : Garonne (Mas d’Agenais);298974;2024;77,2;0,9;3,2;65,6;conforme;52823;5205;41;103;351;Non vérifié
-47131;Lagupie;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;7335;30;126;680;Non vérifié
-47132;Lalandusse;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;3323;42;81;219;Non vérifié
-47133;Lamontjoie;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;16001;79;175;553;Non vérifié
-47134;Lannes;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;10388;79;175;359;Non vérifié
-47135;Laparade;47;eau potable : Nord du Lot - Véolia;325914;2024;79,8;1,6;6,2;66,2;conforme;121647;9046;63;95;395;Non vérifié
-47136;Laperche;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;1662;32;123;141;Non vérifié
-47137;Laplume;47;eau potable : UD Sivoizac Sérignac;222778;2024;62,4;4,8;8,0;66,6;non conforme;1127832;67602;139;252;1330;Non vérifié
-47138;Laroque-Timbaut;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;59096;102;232;1589;Non vérifié
-47139;Lasserre;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;2865;79;175;99;Non vérifié
-47140;Laugnac;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;25104;102;232;675;Non vérifié
-47141;Laussou;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;3348;32;123;284;Non vérifié
-47142;Lauzun;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;11154;42;81;735;Non vérifié
-47143;Lavardac;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;66753;79;175;2307;Non vérifié
-47144;Lavergne;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;8407;42;81;554;Non vérifié
-47145;Layrac;47;eau potable : UD Sivoizac Sérignac;222778;2024;62,4;4,8;8,0;66,6;non conforme;1127832;203822;139;252;4010;Non vérifié
-47146;Lédat;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;16869;32;123;1431;Non vérifié
-47147;Lévignac-de-Guyenne;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;7270;30;126;674;Non vérifié
-47148;Leyritz-Moncassin;47;eau potable : Porte des Landes;169429;2024;84,4;0,6;3,4;65,7;conforme;133678;2950;39;64;206;Non vérifié
-47150;Longueville;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;4432;32;123;376;Non vérifié
-47151;Loubès-Bernac;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;4390;30;126;407;Non vérifié
-47152;Lougratte;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;4963;32;123;421;Non vérifié
-47154;Lusignan-Petit;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;13128;102;232;353;Non vérifié
-47155;Madaillan;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;24099;102;232;648;Non vérifié
-47156;Marcellus;47;eau potable;169431;2024;80,5;1,1;4,7;65,9;conforme;171573;19080;59;116;892;Non vérifié
-47157;Marmande;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;186911;30;126;17328;Non vérifié
-47158;Marmont-Pachas;47;eau potable : UD Sivoizac Sérignac;222778;2024;62,4;4,8;8,0;66,6;non conforme;1127832;7980;139;252;157;Non vérifié
-47159;Le Mas-d'Agenais;47;eau potable : Garonne (Mas d’Agenais);298974;2024;77,2;0,9;3,2;65,6;conforme;52823;21592;41;103;1456;Non vérifié
-47160;Masquières;47;eau potable;169434;2024;63,5;2,5;4,3;65,9;non conforme;728522;6887;110;217;171;Non vérifié
-47161;Massels;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;4463;102;232;120;Non vérifié
-47162;Massoulès;47;eau potable : Lot Amont 47 (SAUR);305754;2024;72,2;1,3;3,5;65,7;conforme;136741;4128;58;137;194;Non vérifié
-47163;Mauvezin-sur-Gupie;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;6612;30;126;613;Non vérifié
-47164;Mazières-Naresse;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;1457;42;81;96;Non vérifié
-47165;Meilhan-sur-Garonne;47;eau potable;169431;2024;80,5;1,1;4,7;65,9;conforme;171573;28364;59;116;1326;Non vérifié
-47167;Mézin;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;41464;79;175;1433;Non vérifié
-47168;Miramont-de-Guyenne;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;46754;42;81;3081;Non vérifié
-47169;Moirax;47;eau potable : UD Sivoizac Sérignac;222778;2024;62,4;4,8;8,0;66,6;non conforme;1127832;60842;139;252;1197;Non vérifié
-47170;Monbahus;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;7380;32;123;626;Non vérifié
-47171;Monbalen;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;16773;102;232;451;Non vérifié
-47172;Moncaut;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;17043;79;175;589;Non vérifié
-47173;Monclar;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;10610;32;123;900;Non vérifié
-47174;Moncrabeau;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;21557;79;175;745;Non vérifié
-47175;Monflanquin;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;27609;32;123;2342;Non vérifié
-47176;Montgaillard-en-Albret;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;4832;79;175;167;Non vérifié
-47177;Monheurt;47;eau potable : Garonne (Mas d’Agenais);298974;2024;77,2;0,9;3,2;65,6;conforme;52823;2818;41;103;190;Non vérifié
-47178;Monségur;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;4680;32;123;397;Non vérifié
-47179;Monsempron-Libos;47;eau potable;169434;2024;63,5;2,5;4,3;65,9;non conforme;728522;85462;110;217;2122;Non vérifié
-47180;Montagnac-sur-Auvignon;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;18547;79;175;641;Non vérifié
-47181;Montagnac-sur-Lède;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;3195;32;123;271;Non vérifié
-47182;Montastruc;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;2735;32;123;232;Non vérifié
-47183;Montauriol;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;3430;42;81;226;Non vérifié
-47184;Montaut;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;3839;42;81;253;Non vérifié
-47185;Montayral;47;eau potable;169434;2024;63,5;2,5;4,3;65,9;non conforme;728522;106888;110;217;2654;Non vérifié
-47186;Montesquieu;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;21209;79;175;733;Non vérifié
-47187;Monteton;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;3484;30;126;323;Non vérifié
-47188;Montignac-de-Lauzun;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;3371;32;123;286;Non vérifié
-47189;Montignac-Toupinerie;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;1615;32;123;137;Non vérifié
-47190;Montpezat;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;21050;102;232;566;Non vérifié
-47191;Montpouillan;47;eau potable;169431;2024;80,5;1,1;4,7;65,9;conforme;171573;17262;59;116;807;Non vérifié
-47192;Monviel;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;896;32;123;76;Non vérifié
-47193;Moulinet;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;2299;32;123;195;Non vérifié
-47194;Moustier;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;4917;42;81;324;Non vérifié
-47195;Nérac;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;202313;79;175;6992;Non vérifié
-47196;Nicole;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;8814;102;232;237;Non vérifié
-47197;Nomdieu;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;7407;79;175;256;Non vérifié
-47198;Pailloles;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;3713;32;123;315;Non vérifié
-47199;Pardaillan;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;3603;30;126;334;Non vérifié
-47200;Parranquet;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;1715;42;81;113;Non vérifié
-47201;Le Passage;47;eau potable : UD Rouquet Lacapelette;267374;2024;75,3;4,3;13,2;67,6;conforme;1307189;161659;47;119;9326;Non vérifié
-47202;Paulhiac;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;3584;32;123;304;Non vérifié
-47203;Penne-d'Agenais;47;eau potable : Lot Amont 47 (SAUR);305754;2024;72,2;1,3;3,5;65,7;conforme;136741;53105;58;137;2496;Non vérifié
-47204;Peyrière;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;4446;42;81;293;Non vérifié
-47205;Pindères;47;eau potable : Porte des Landes;169429;2024;84,4;0,6;3,4;65,7;conforme;133678;2706;39;64;189;Non vérifié
-47206;Pinel-Hauterive;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;6649;32;123;564;Non vérifié
-47207;Pompiey;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;6481;79;175;224;Non vérifié
-47208;Pompogne;47;eau potable : Porte des Landes;169429;2024;84,4;0,6;3,4;65,7;conforme;133678;2749;39;64;192;Non vérifié
-47209;Pont-du-Casse;47;eau potable : UD Rouquet Lacapelette;267374;2024;75,3;4,3;13,2;67,6;conforme;1307189;72648;47;119;4191;Non vérifié
-47210;Port-Sainte-Marie;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;70179;102;232;1887;Non vérifié
-47211;Poudenas;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;5671;79;175;196;Non vérifié
-47212;Poussignac;47;eau potable;169431;2024;80,5;1,1;4,7;65,9;conforme;171573;6610;59;116;309;Non vérifié
-47213;Prayssas;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;36930;102;232;993;Non vérifié
-47214;Puch-d'Agenais;47;eau potable : Porte des Landes;169429;2024;84,4;0,6;3,4;65,7;conforme;133678;10282;39;64;718;Non vérifié
-47215;Pujols;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;140171;102;232;3769;Non vérifié
-47216;Puymiclan;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;8264;32;123;701;Non vérifié
-47217;Puymirol;47;eau potable : UDI de Cauzac;322074;2024;54,3;4,6;5,4;66,1;non conforme;840860;104932;320;740;899;Non vérifié
-47218;Puysserampion;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;4021;42;81;265;Non vérifié
-47219;Rayet;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;2610;42;81;172;Non vérifié
-47220;Razimet;47;eau potable : Garonne (Mas d’Agenais);298974;2024;77,2;0,9;3,2;65,6;conforme;52823;4582;41;103;309;Non vérifié
-47221;Réaup-Lisse;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;17101;79;175;591;Non vérifié
-47222;La Réunion;47;eau potable : Porte des Landes;169429;2024;84,4;0,6;3,4;65,7;conforme;133678;7504;39;64;524;Non vérifié
-47223;Rives;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;2944;42;81;194;Non vérifié
-47224;Romestaing;47;eau potable;169431;2024;80,5;1,1;4,7;65,9;conforme;171573;3487;59;116;163;Non vérifié
-47225;Roquefort;47;eau potable : UD Sivoizac Sérignac;222778;2024;62,4;4,8;8,0;66,6;non conforme;1127832;105622;139;252;2078;Non vérifié
-47226;Roumagne;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;8179;42;81;539;Non vérifié
-47227;Ruffiac;47;eau potable;169431;2024;80,5;1,1;4,7;65,9;conforme;171573;3829;59;116;179;Non vérifié
-47228;Saint-Antoine-de-Ficalba;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;26814;102;232;721;Non vérifié
-47229;Saint-Astier;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;2190;30;126;203;Non vérifié
-47230;Saint-Aubin;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;4633;32;123;393;Non vérifié
-47231;Saint-Avit;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;1996;30;126;185;Non vérifié
-47232;Saint-Barthélemy-d'Agenais;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;6472;32;123;549;Non vérifié
-47233;Sainte-Bazeille;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;34204;30;126;3171;Non vérifié
-47234;Saint-Caprais-de-Lerm;47;eau potable : UDI de Cauzac;322074;2024;54,3;4,6;5,4;66,1;non conforme;840860;83222;320;740;713;Non vérifié
-47235;Saint-Colomb-de-Lauzun;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;7178;42;81;473;Non vérifié
-47236;Sainte-Colombe-de-Duras;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;1057;30;126;98;Non vérifié
-47237;Sainte-Colombe-de-Villeneuve;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;18447;102;232;496;Non vérifié
-47238;Sainte-Colombe-en-Bruilhois;47;eau potable : UD Sivoizac Sérignac;222778;2024;62,4;4,8;8,0;66,6;non conforme;1127832;78581;139;252;1546;Non vérifié
-47239;Saint-Étienne-de-Fougères;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;10079;32;123;855;Non vérifié
-47240;Saint-Étienne-de-Villeréal;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;3961;42;81;261;Non vérifié
-47241;Saint-Eutrope-de-Born;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;8134;32;123;690;Non vérifié
-47242;Saint-Front-sur-Lémance;47;eau potable;169434;2024;63,5;2,5;4,3;65,9;non conforme;728522;19815;110;217;492;Non vérifié
-47244;Sainte-Gemme-Martaillac;47;eau potable : Porte des Landes;169429;2024;84,4;0,6;3,4;65,7;conforme;133678;5399;39;64;377;Non vérifié
-47245;Saint-Géraud;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;917;30;126;85;Non vérifié
-47246;Saint-Hilaire-de-Lusignan;47;eau potable : UD Rouquet Lacapelette;267374;2024;75,3;4,3;13,2;67,6;conforme;1307189;26019;47;119;1501;Non vérifié
-47247;Saint-Jean-de-Duras;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;2805;30;126;260;Non vérifié
-47248;Saint-Jean-de-Thurac;47;eau potable : UDI de Cauzac;322074;2024;54,3;4,6;5,4;66,1;non conforme;840860;65714;320;740;563;Non vérifié
-47249;Saint-Laurent;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;16029;102;232;431;Non vérifié
-47250;Saint-Léger;47;eau potable : Porte des Landes / Landes / Buzet;299014;2024;74,4;1,3;3,9;65,8;conforme;99028;4384;68;130;177;Non vérifié
-47251;Saint-Léon;47;eau potable : Porte des Landes / Landes / Buzet;299014;2024;74,4;1,3;3,9;65,8;conforme;99028;8149;68;130;329;Non vérifié
-47252;Sainte-Livrade-sur-Lot;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;77108;32;123;6541;Non vérifié
-47253;Sainte-Marthe;47;eau potable : Garonne (Sud de Marmande);169435;2024;74,7;1,1;3,4;65,7;conforme;46574;1525;6;118;658;Non vérifié
-47254;Saint-Martin-Curton;47;eau potable : Porte des Landes;169429;2024;84,4;0,6;3,4;65,7;conforme;133678;4325;39;64;302;Non vérifié
-47255;Saint-Martin-de-Beauville;47;eau potable : UDI de Cauzac;322074;2024;54,3;4,6;5,4;66,1;non conforme;840860;17975;320;740;154;Non vérifié
-47256;Saint-Martin-de-Villeréal;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;1563;42;81;103;Non vérifié
-47257;Saint-Martin-Petit;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;6688;30;126;620;Non vérifié
-47258;Sainte-Maure-de-Peyriac;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;8825;79;175;305;Non vérifié
-47259;Saint-Maurice-de-Lestapel;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;1297;32;123;110;Non vérifié
-47260;Saint-Maurin;47;eau potable : UDI de Cauzac;322074;2024;54,3;4,6;5,4;66,1;non conforme;840860;44004;320;740;377;Non vérifié
-47262;Saint-Nicolas-de-la-Balerme;47;eau potable : UD Sivoizac Sérignac;222778;2024;62,4;4,8;8,0;66,6;non conforme;1127832;21551;139;252;424;Non vérifié
-47263;Saint-Pardoux-du-Breuil;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;6828;30;126;633;Non vérifié
-47264;Saint-Pardoux-Isaac;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;16859;42;81;1111;Non vérifié
-47265;Saint-Pastour;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;4468;32;123;379;Non vérifié
-47266;Saint-Pé-Saint-Simon;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;5266;79;175;182;Non vérifié
-47267;Saint-Pierre-de-Buzet;47;eau potable : Porte des Landes / Landes / Buzet;299014;2024;74,4;1,3;3,9;65,8;conforme;99028;6787;68;130;274;Non vérifié
-47269;Saint-Pierre-de-Clairac;47;eau potable : UDI de Cauzac;322074;2024;54,3;4,6;5,4;66,1;non conforme;840860;104932;320;740;899;Non vérifié
-47271;Saint-Pierre-sur-Dropt;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;3872;30;126;359;Non vérifié
-47272;Saint-Quentin-du-Dropt;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;2731;42;81;180;Non vérifié
-47273;Saint-Robert;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;7066;102;232;190;Non vérifié
-47274;Saint-Romain-le-Noble;47;eau potable : UDI de Cauzac;322074;2024;54,3;4,6;5,4;66,1;non conforme;840860;48089;320;740;412;Non vérifié
-47275;Saint-Salvy;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;7438;102;232;200;Non vérifié
-47276;Saint-Sardos;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;10748;102;232;289;Non vérifié
-47277;Saint-Sauveur-de-Meilhan;47;eau potable;169431;2024;80,5;1,1;4,7;65,9;conforme;171573;7294;59;116;341;Non vérifié
-47278;Saint-Sernin;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;4897;30;126;454;Non vérifié
-47279;Saint-Sixte;47;eau potable : UD Sivoizac Sérignac;222778;2024;62,4;4,8;8,0;66,6;non conforme;1127832;18451;139;252;363;Non vérifié
-47280;Saint-Sylvestre-sur-Lot;47;eau potable : Lot Amont 47 (SAUR);305754;2024;72,2;1,3;3,5;65,7;conforme;136741;50999;58;137;2397;Non vérifié
-47281;Saint-Urcisse;47;eau potable : UDI de Cauzac;322074;2024;54,3;4,6;5,4;66,1;non conforme;840860;28247;320;740;242;Non vérifié
-47282;Saint-Vincent-de-Lamontjoie;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;6452;79;175;223;Non vérifié
-47283;Saint-Vite;47;eau potable;169434;2024;63,5;2,5;4,3;65,9;non conforme;728522;48007;110;217;1192;Non vérifié
-47284;Salles;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;3395;32;123;288;Non vérifié
-47285;Samazan;47;eau potable;169431;2024;80,5;1,1;4,7;65,9;conforme;171573;17861;59;116;835;Non vérifié
-47286;Sauméjan;47;eau potable : Porte des Landes;169429;2024;84,4;0,6;3,4;65,7;conforme;133678;1217;39;64;85;Non vérifié
-47287;Saumont;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;6944;79;175;240;Non vérifié
-47288;Sauvagnas;47;eau potable : UDI de Cauzac;322074;2024;54,3;4,6;5,4;66,1;non conforme;840860;60578;320;740;519;Non vérifié
-47289;La Sauvetat-de-Savères;47;eau potable : UDI de Cauzac;322074;2024;54,3;4,6;5,4;66,1;non conforme;840860;55909;320;740;479;Non vérifié
-47290;La Sauvetat-du-Dropt;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;8604;42;81;567;Non vérifié
-47291;La Sauvetat-sur-Lède;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;7580;32;123;643;Non vérifié
-47292;Sauveterre-la-Lémance;47;eau potable;169434;2024;63,5;2,5;4,3;65,9;non conforme;728522;22674;110;217;563;Non vérifié
-47293;Sauveterre-Saint-Denis;47;eau potable : UD Sivoizac Sérignac;222778;2024;62,4;4,8;8,0;66,6;non conforme;1127832;19671;139;252;387;Non vérifié
-47294;Savignac-de-Duras;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;2362;30;126;219;Non vérifié
-47295;Savignac-sur-Leyze;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;3784;32;123;321;Non vérifié
-47296;Ségalas;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;1827;32;123;155;Non vérifié
-47297;Sembas;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;5281;102;232;142;Non vérifié
-47298;Sénestis;47;eau potable : Garonne (Mas d’Agenais);298974;2024;77,2;0,9;3,2;65,6;conforme;52823;2966;41;103;200;Non vérifié
-47299;Sérignac-Péboudou;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;2701;42;81;178;Non vérifié
-47300;Sérignac-sur-Garonne;47;eau potable : UD Sivoizac Sérignac;222778;2024;62,4;4,8;8,0;66,6;non conforme;1127832;60079;139;252;1182;Non vérifié
-47301;Seyches;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;16131;42;81;1063;Non vérifié
-47302;Sos;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;19010;79;175;657;Non vérifié
-47303;Soumensac;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;2416;30;126;224;Non vérifié
-47304;Taillebourg;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;790;32;123;67;Non vérifié
-47305;Tayrac;47;eau potable : UDI de Cauzac;322074;2024;54,3;4,6;5,4;66,1;non conforme;840860;44471;320;740;381;Non vérifié
-47306;Le Temple-sur-Lot;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;41579;102;232;1118;Non vérifié
-47307;Thézac;47;eau potable;169434;2024;63,5;2,5;4,3;65,9;non conforme;728522;8498;110;217;211;Non vérifié
-47308;Thouars-sur-Garonne;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;6597;79;175;228;Non vérifié
-47309;Tombeboeuf;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;5222;32;123;443;Non vérifié
-47310;Tonneins;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;111507;32;123;9459;Non vérifié
-47311;Tourliac;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;2079;42;81;137;Non vérifié
-47312;Tournon-d'Agenais;47;eau potable : Lot Amont (Tournon d'Agenais);325954;2024;97,4;0,1;2,8;65,6;conforme;4344;2481;9;13;731;Non vérifié
-47313;Tourtrès;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;1650;32;123;140;Non vérifié
-47314;Trémons;47;eau potable : Lot Amont 47 (SAUR);305754;2024;72,2;1,3;3,5;65,7;conforme;136741;8702;58;137;409;Non vérifié
-47315;Trentels;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;9938;32;123;843;Non vérifié
-47316;Varès;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;7721;32;123;655;Non vérifié
-47317;Verteuil-d'Agenais;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;6354;32;123;539;Non vérifié
-47318;Vianne;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;28327;79;175;979;Non vérifié
-47319;Villebramar;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;1285;32;123;109;Non vérifié
-47320;Villefranche-du-Queyran;47;eau potable : Porte des Landes;169429;2024;84,4;0,6;3,4;65,7;conforme;133678;5943;39;64;415;Non vérifié
-47321;Villeneuve-de-Duras;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;3398;30;126;315;Non vérifié
-47323;Villeneuve-sur-Lot;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;263472;32;123;22350;Non vérifié
-47324;Villeréal;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;19135;42;81;1261;Non vérifié
-47325;Villeton;47;eau potable : Garonne (Mas d’Agenais);298974;2024;77,2;0,9;3,2;65,6;conforme;52823;7044;41;103;475;Non vérifié
-47326;Virazeil;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;18499;30;126;1715;Non vérifié
-47327;Xaintrailles;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;10937;79;175;378;Non vérifié
-47328;Saint-Georges;47;eau potable;169434;2024;63,5;2,5;4,3;65,9;non conforme;728522;19815;110;217;492;Non vérifié
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement);Donnée suspecte (voir LISEZMOI)
+47001;Agen;47;eau potable : UD Rouquet Lacapelette;267374;2024;75,3;4,3;13,2;67,6;conforme;1307189;568579;47;119;32801;Non vérifié;non
+47002;Agmé;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;1273;32;123;108;Non vérifié;non
+47003;Agnac;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;7314;42;81;482;Non vérifié;non
+47004;Aiguillon;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;147572;102;232;3968;Non vérifié;non
+47005;Allemans-du-Dropt;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;7436;42;81;490;Non vérifié;non
+47006;Allez-et-Cazeneuve;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;22649;102;232;609;Non vérifié;non
+47007;Allons;47;eau potable : Porte des Landes;169429;2024;84,4;0,6;3,4;65,7;conforme;133678;2334;39;64;163;Non vérifié;non
+47008;Ambrus;47;eau potable : Porte des Landes;169429;2024;84,4;0,6;3,4;65,7;conforme;133678;1575;39;64;110;Non vérifié;non
+47009;Andiran;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;7523;79;175;260;Non vérifié;non
+47010;Antagnac;47;eau potable;169431;2024;80,5;1,1;4,7;65,9;conforme;171573;4770;59;116;223;Non vérifié;non
+47011;Anthé;47;eau potable : Lot Amont (Tournon d'Agenais);325954;2024;97,4;0,1;2,8;65,6;conforme;4344;658;9;13;194;Non vérifié;non
+47012;Anzex;47;eau potable : Porte des Landes;169429;2024;84,4;0,6;3,4;65,7;conforme;133678;4754;39;64;332;Non vérifié;non
+47013;Argenton;47;eau potable;169431;2024;80,5;1,1;4,7;65,9;conforme;171573;7080;59;116;331;Non vérifié;non
+47014;Armillac;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;2464;32;123;209;Non vérifié;non
+47015;Astaffort;47;eau potable : UD Sivoizac Sérignac;222778;2024;62,4;4,8;8,0;66,6;non conforme;1127832;100234;139;252;1972;Non vérifié;non
+47016;Aubiac;47;eau potable : UD Sivoizac Sérignac;222778;2024;62,4;4,8;8,0;66,6;non conforme;1127832;59673;139;252;1174;Non vérifié;non
+47017;Auradou;47;eau potable : Lot Amont 47 (SAUR);305754;2024;72,2;1,3;3,5;65,7;conforme;136741;8617;58;137;405;Non vérifié;non
+47018;Auriac-sur-Dropt;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;1888;30;126;175;Non vérifié;non
+47019;Bajamont;47;eau potable : UD Rouquet Lacapelette;267374;2024;75,3;4,3;13,2;67,6;conforme;1307189;17924;47;119;1034;Non vérifié;non
+47020;Baleyssagues;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;2028;30;126;188;Non vérifié;non
+47021;Barbaste;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;43055;79;175;1488;Non vérifié;non
+47022;Bazens;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;18372;102;232;494;Non vérifié;non
+47023;Beaugas;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;3796;32;123;322;Non vérifié;non
+47024;Beaupuy;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;18467;30;126;1712;Non vérifié;non
+47025;Beauville;47;eau potable : UDI de Cauzac;322074;2024;54,3;4,6;5,4;66,1;non conforme;840860;64313;320;740;551;Non vérifié;non
+47026;Beauziac;47;eau potable : Porte des Landes;169429;2024;84,4;0,6;3,4;65,7;conforme;133678;3451;39;64;241;Non vérifié;non
+47027;Bias;47;eau potable : Villeneuvois (Eau47);169424;2024;85,1;3,0;16,8;68,4;conforme;275611;32396;30;84;2977;Non vérifié;non
+47028;Birac-sur-Trec;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;9572;32;123;812;Non vérifié;non
+47029;Blanquefort-sur-Briolance;47;eau potable;169434;2024;63,5;2,5;4,3;65,9;non conforme;728522;20862;110;217;518;Non vérifié;non
+47030;Blaymont;47;eau potable : UDI de Cauzac;322074;2024;54,3;4,6;5,4;66,1;non conforme;840860;25212;320;740;216;Non vérifié;non
+47031;Boé;47;eau potable : UD Rouquet Lacapelette;267374;2024;75,3;4,3;13,2;67,6;conforme;1307189;101336;47;119;5846;Non vérifié;non
+47032;Bon-Encontre;47;eau potable : UD Rouquet Lacapelette;267374;2024;75,3;4,3;13,2;67,6;conforme;1307189;113192;47;119;6530;Non vérifié;non
+47033;Boudy-de-Beauregard;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;4621;32;123;392;Non vérifié;non
+47034;Bouglon;47;eau potable;169431;2024;80,5;1,1;4,7;65,9;conforme;171573;13476;59;116;630;Non vérifié;non
+47035;Bourgougnague;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;4325;42;81;285;Non vérifié;non
+47036;Bourlens;47;eau potable;169434;2024;63,5;2,5;4,3;65,9;non conforme;728522;14982;110;217;372;Non vérifié;non
+47037;Bournel;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;3748;42;81;247;Non vérifié;non
+47038;Bourran;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;22686;102;232;610;Non vérifié;non
+47040;Brax;47;eau potable : UD Sivoizac Sérignac;222778;2024;62,4;4,8;8,0;66,6;non conforme;1127832;106638;139;252;2098;Non vérifié;non
+47041;Bruch;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;19907;79;175;688;Non vérifié;non
+47042;Brugnac;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;2122;32;123;180;Non vérifié;non
+47043;Buzet-sur-Baïse;47;eau potable : Porte des Landes / Landes / Buzet;299014;2024;74,4;1,3;3,9;65,8;conforme;99028;30838;68;130;1245;Non vérifié;non
+47044;Cahuzac;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;4674;42;81;308;Non vérifié;non
+47045;Calignac;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;14323;79;175;495;Non vérifié;non
+47046;Calonges;47;eau potable : Garonne (Mas d’Agenais);298974;2024;77,2;0,9;3,2;65,6;conforme;52823;8616;41;103;581;Non vérifié;non
+47047;Cambes;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;1834;30;126;170;Non vérifié;non
+47048;Cancon;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;16256;32;123;1379;Non vérifié;non
+47049;Casseneuil;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;27679;32;123;2348;Non vérifié;non
+47050;Cassignas;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;4723;102;232;127;Non vérifié;non
+47051;Castelculier;47;eau potable : UD Rouquet Lacapelette;267374;2024;75,3;4,3;13,2;67,6;conforme;1307189;41290;47;119;2382;Non vérifié;non
+47052;Casteljaloux;47;eau potable : Porte des Landes;169429;2024;84,4;0,6;3,4;65,7;conforme;133678;68092;39;64;4755;Non vérifié;non
+47053;Castella;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;13761;102;232;370;Non vérifié;non
+47054;Castelmoron-sur-Lot;47;eau potable : Nord du Lot - Véolia;325914;2024;79,8;1,6;6,2;66,2;conforme;121647;42183;63;95;1842;Non vérifié;non
+47055;Castelnaud-de-Gratecambe;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;6059;32;123;514;Non vérifié;non
+47056;Castelnau-sur-Gupie;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;9891;30;126;917;Non vérifié;non
+47057;Castillonnès;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;20425;42;81;1346;Non vérifié;non
+47058;Caubeyres;47;eau potable : Porte des Landes / Landes / Buzet;299014;2024;74,4;1,3;3,9;65,8;conforme;99028;6861;68;130;277;Non vérifié;non
+47059;Caubon-Saint-Sauveur;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;2815;30;126;261;Non vérifié;non
+47060;Caudecoste;47;eau potable : UD Sivoizac Sérignac;222778;2024;62,4;4,8;8,0;66,6;non conforme;1127832;57284;139;252;1127;Non vérifié;non
+47061;Caumont-sur-Garonne;47;eau potable : Garonne (Sud de Marmande);169435;2024;74,7;1,1;3,4;65,7;conforme;46574;1907;6;118;823;Non vérifié;non
+47062;Cauzac;47;eau potable : UDI de Cauzac;322074;2024;54,3;4,6;5,4;66,1;non conforme;840860;49023;320;740;420;Non vérifié;non
+47063;Cavarc;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;2352;42;81;155;Non vérifié;non
+47064;Cazideroque;47;eau potable : Lot Amont (Tournon d'Agenais);325954;2024;97,4;0,1;2,8;65,6;conforme;4344;845;9;13;249;Non vérifié;non
+47065;Clairac;47;eau potable : Nord du Lot - Véolia;325914;2024;79,8;1,6;6,2;66,2;conforme;121647;59679;63;95;2606;Non vérifié;non
+47066;Clermont-Dessous;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;29678;102;232;798;Non vérifié;non
+47067;Clermont-Soubiran;47;eau potable : principal;215221;2024;70,0;1,5;3,6;65,7;conforme;432525;5557;39;152;395;Non vérifié;non
+47068;Cocumont;47;eau potable;169431;2024;80,5;1,1;4,7;65,9;conforme;171573;24235;59;116;1133;Non vérifié;non
+47069;Colayrac-Saint-Cirq;47;eau potable : UD Rouquet Lacapelette;267374;2024;75,3;4,3;13,2;67,6;conforme;1307189;53649;47;119;3095;Non vérifié;non
+47070;Condezaygues;47;eau potable;169434;2024;63,5;2,5;4,3;65,9;non conforme;728522;33790;110;217;839;Non vérifié;non
+47071;Coulx;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;3018;32;123;256;Non vérifié;non
+47072;Courbiac;47;eau potable : Lot Amont (Tournon d'Agenais);325954;2024;97,4;0,1;2,8;65,6;conforme;4344;360;9;13;106;Non vérifié;non
+47073;Cours;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;7252;102;232;195;Non vérifié;non
+47074;Couthures-sur-Garonne;47;eau potable;169431;2024;80,5;1,1;4,7;65,9;conforme;171573;7808;59;116;365;Non vérifié;non
+47075;La Croix-Blanche;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;39980;102;232;1075;Non vérifié;non
+47076;Cuq;47;eau potable : UD Sivoizac Sérignac;222778;2024;62,4;4,8;8,0;66,6;non conforme;1127832;14130;139;252;278;Non vérifié;non
+47077;Cuzorn;47;eau potable;169434;2024;63,5;2,5;4,3;65,9;non conforme;728522;34032;110;217;845;Non vérifié;non
+47078;Damazan;47;eau potable : Porte des Landes / Landes / Buzet;299014;2024;74,4;1,3;3,9;65,8;conforme;99028;33637;68;130;1358;Non vérifié;non
+47079;Dausse;47;eau potable : Lot Amont 47 (SAUR);305754;2024;72,2;1,3;3,5;65,7;conforme;136741;11191;58;137;526;Non vérifié;non
+47080;Dévillac;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;2382;42;81;157;Non vérifié;non
+47081;Dolmayrac;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;26740;102;232;719;Non vérifié;non
+47082;Dondas;47;eau potable : UDI de Cauzac;322074;2024;54,3;4,6;5,4;66,1;non conforme;840860;25562;320;740;219;Non vérifié;non
+47083;Doudrac;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;1593;42;81;105;Non vérifié;non
+47084;Douzains;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;3870;42;81;255;Non vérifié;non
+47085;Durance;47;eau potable;169402;2020;78,6;0,6;2,2;65,4;conforme;5125;5125;55;99;255;Sans anomalie apparente;non
+47086;Duras;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;13030;30;126;1208;Non vérifié;non
+47087;Engayrac;47;eau potable : UDI de Cauzac;322074;2024;54,3;4,6;5,4;66,1;non conforme;840860;18675;320;740;160;Non vérifié;non
+47088;Escassefort;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;7356;30;126;682;Non vérifié;non
+47089;Esclottes;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;1834;30;126;170;Non vérifié;non
+47090;Espiens;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;10359;79;175;358;Non vérifié;non
+47091;Estillac;47;eau potable : UD Sivoizac Sérignac;222778;2024;62,4;4,8;8,0;66,6;non conforme;1127832;125190;139;252;2463;Non vérifié;non
+47092;Fals;47;eau potable : UD Sivoizac Sérignac;222778;2024;62,4;4,8;8,0;66,6;non conforme;1127832;20484;139;252;403;Non vérifié;non
+47093;Fargues-sur-Ourbise;47;eau potable : Porte des Landes / Landes / Buzet;299014;2024;74,4;1,3;3,9;65,8;conforme;99028;8372;68;130;338;Non vérifié;non
+47094;Fauguerolles;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;9690;32;123;822;Non vérifié;non
+47095;Fauillet;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;10185;32;123;864;Non vérifié;non
+47096;Ferrensac;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;3111;42;81;205;Non vérifié;non
+47097;Feugarolles;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;29369;79;175;1015;Non vérifié;non
+47098;Fieux;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;9346;79;175;323;Non vérifié;non
+47099;Fongrave;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;7415;32;123;629;Non vérifié;non
+47100;Foulayronnes;47;eau potable : UD Rouquet Lacapelette;267374;2024;75,3;4,3;13,2;67,6;conforme;1307189;94922;47;119;5476;Non vérifié;non
+47101;Fourques-sur-Garonne;47;eau potable : Garonne (Sud de Marmande);169435;2024;74,7;1,1;3,4;65,7;conforme;46574;2996;6;118;1293;Non vérifié;non
+47102;Francescas;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;21701;79;175;750;Non vérifié;non
+47103;Fréchou;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;6366;79;175;220;Non vérifié;non
+47104;Frégimont;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;10079;102;232;271;Non vérifié;non
+47105;Frespech;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;10376;102;232;279;Non vérifié;non
+47106;Fumel;47;eau potable;169434;2024;63,5;2,5;4,3;65,9;non conforme;728522;188886;110;217;4690;Non vérifié;non
+47107;Galapian;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;12384;102;232;333;Non vérifié;non
+47108;Gaujac;47;eau potable;169431;2024;80,5;1,1;4,7;65,9;conforme;171573;5155;59;116;241;Non vérifié;non
+47109;Gavaudun;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;3560;32;123;302;Non vérifié;non
+47110;Gontaud-de-Nogaret;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;19309;32;123;1638;Non vérifié;non
+47111;Granges-sur-Lot;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;21942;102;232;590;Non vérifié;non
+47112;Grateloup-Saint-Gayrand;47;eau potable : Nord du Lot - Véolia;325914;2024;79,8;1,6;6,2;66,2;conforme;121647;10740;63;95;469;Non vérifié;non
+47113;Grayssas;47;eau potable : principal;215221;2024;70,0;1,5;3,6;65,7;conforme;432525;2110;39;152;150;Non vérifié;non
+47114;Grézet-Cavagnan;47;eau potable : Porte des Landes;169429;2024;84,4;0,6;3,4;65,7;conforme;133678;5857;39;64;409;Non vérifié;non
+47115;Guérin;47;eau potable;169431;2024;80,5;1,1;4,7;65,9;conforme;171573;5262;59;116;246;Non vérifié;non
+47117;Hautefage-la-Tour;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;38269;102;232;1029;Non vérifié;non
+47118;Hautesvignes;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;1922;32;123;163;Non vérifié;non
+47120;Jusix;47;eau potable;326214;2024;69,1;1,6;3,6;65,7;conforme;309286;2113;60;164;96;Non vérifié;non
+47121;Labastide-Castel-Amouroux;47;eau potable : Porte des Landes;169429;2024;84,4;0,6;3,4;65,7;conforme;133678;4539;39;64;317;Non vérifié;non
+47122;Labretonie;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;1969;32;123;167;Non vérifié;non
+47123;Lacapelle-Biron;47;eau potable;169434;2024;63,5;2,5;4,3;65,9;non conforme;728522;15747;110;217;391;Non vérifié;non
+47124;Lacaussade;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;2476;32;123;210;Non vérifié;non
+47125;Lacépède;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;11901;102;232;320;Non vérifié;non
+47126;Lachapelle;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;1036;30;126;96;Non vérifié;non
+47127;Lafitte-sur-Lot;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;30943;102;232;832;Non vérifié;non
+47128;Lafox;47;eau potable : UD Rouquet Lacapelette;267374;2024;75,3;4,3;13,2;67,6;conforme;1307189;19033;47;119;1098;Non vérifié;non
+47129;Lagarrigue;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;10116;102;232;272;Non vérifié;non
+47130;Lagruère;47;eau potable : Garonne (Mas d’Agenais);298974;2024;77,2;0,9;3,2;65,6;conforme;52823;5205;41;103;351;Non vérifié;non
+47131;Lagupie;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;7335;30;126;680;Non vérifié;non
+47132;Lalandusse;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;3323;42;81;219;Non vérifié;non
+47133;Lamontjoie;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;16001;79;175;553;Non vérifié;non
+47134;Lannes;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;10388;79;175;359;Non vérifié;non
+47135;Laparade;47;eau potable : Nord du Lot - Véolia;325914;2024;79,8;1,6;6,2;66,2;conforme;121647;9046;63;95;395;Non vérifié;non
+47136;Laperche;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;1662;32;123;141;Non vérifié;non
+47137;Laplume;47;eau potable : UD Sivoizac Sérignac;222778;2024;62,4;4,8;8,0;66,6;non conforme;1127832;67602;139;252;1330;Non vérifié;non
+47138;Laroque-Timbaut;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;59096;102;232;1589;Non vérifié;non
+47139;Lasserre;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;2865;79;175;99;Non vérifié;non
+47140;Laugnac;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;25104;102;232;675;Non vérifié;non
+47141;Laussou;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;3348;32;123;284;Non vérifié;non
+47142;Lauzun;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;11154;42;81;735;Non vérifié;non
+47143;Lavardac;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;66753;79;175;2307;Non vérifié;non
+47144;Lavergne;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;8407;42;81;554;Non vérifié;non
+47145;Layrac;47;eau potable : UD Sivoizac Sérignac;222778;2024;62,4;4,8;8,0;66,6;non conforme;1127832;203822;139;252;4010;Non vérifié;non
+47146;Lédat;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;16869;32;123;1431;Non vérifié;non
+47147;Lévignac-de-Guyenne;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;7270;30;126;674;Non vérifié;non
+47148;Leyritz-Moncassin;47;eau potable : Porte des Landes;169429;2024;84,4;0,6;3,4;65,7;conforme;133678;2950;39;64;206;Non vérifié;non
+47150;Longueville;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;4432;32;123;376;Non vérifié;non
+47151;Loubès-Bernac;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;4390;30;126;407;Non vérifié;non
+47152;Lougratte;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;4963;32;123;421;Non vérifié;non
+47154;Lusignan-Petit;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;13128;102;232;353;Non vérifié;non
+47155;Madaillan;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;24099;102;232;648;Non vérifié;non
+47156;Marcellus;47;eau potable;169431;2024;80,5;1,1;4,7;65,9;conforme;171573;19080;59;116;892;Non vérifié;non
+47157;Marmande;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;186911;30;126;17328;Non vérifié;non
+47158;Marmont-Pachas;47;eau potable : UD Sivoizac Sérignac;222778;2024;62,4;4,8;8,0;66,6;non conforme;1127832;7980;139;252;157;Non vérifié;non
+47159;Le Mas-d'Agenais;47;eau potable : Garonne (Mas d’Agenais);298974;2024;77,2;0,9;3,2;65,6;conforme;52823;21592;41;103;1456;Non vérifié;non
+47160;Masquières;47;eau potable;169434;2024;63,5;2,5;4,3;65,9;non conforme;728522;6887;110;217;171;Non vérifié;non
+47161;Massels;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;4463;102;232;120;Non vérifié;non
+47162;Massoulès;47;eau potable : Lot Amont 47 (SAUR);305754;2024;72,2;1,3;3,5;65,7;conforme;136741;4128;58;137;194;Non vérifié;non
+47163;Mauvezin-sur-Gupie;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;6612;30;126;613;Non vérifié;non
+47164;Mazières-Naresse;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;1457;42;81;96;Non vérifié;non
+47165;Meilhan-sur-Garonne;47;eau potable;169431;2024;80,5;1,1;4,7;65,9;conforme;171573;28364;59;116;1326;Non vérifié;non
+47167;Mézin;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;41464;79;175;1433;Non vérifié;non
+47168;Miramont-de-Guyenne;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;46754;42;81;3081;Non vérifié;non
+47169;Moirax;47;eau potable : UD Sivoizac Sérignac;222778;2024;62,4;4,8;8,0;66,6;non conforme;1127832;60842;139;252;1197;Non vérifié;non
+47170;Monbahus;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;7380;32;123;626;Non vérifié;non
+47171;Monbalen;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;16773;102;232;451;Non vérifié;non
+47172;Moncaut;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;17043;79;175;589;Non vérifié;non
+47173;Monclar;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;10610;32;123;900;Non vérifié;non
+47174;Moncrabeau;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;21557;79;175;745;Non vérifié;non
+47175;Monflanquin;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;27609;32;123;2342;Non vérifié;non
+47176;Montgaillard-en-Albret;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;4832;79;175;167;Non vérifié;non
+47177;Monheurt;47;eau potable : Garonne (Mas d’Agenais);298974;2024;77,2;0,9;3,2;65,6;conforme;52823;2818;41;103;190;Non vérifié;non
+47178;Monségur;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;4680;32;123;397;Non vérifié;non
+47179;Monsempron-Libos;47;eau potable;169434;2024;63,5;2,5;4,3;65,9;non conforme;728522;85462;110;217;2122;Non vérifié;non
+47180;Montagnac-sur-Auvignon;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;18547;79;175;641;Non vérifié;non
+47181;Montagnac-sur-Lède;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;3195;32;123;271;Non vérifié;non
+47182;Montastruc;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;2735;32;123;232;Non vérifié;non
+47183;Montauriol;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;3430;42;81;226;Non vérifié;non
+47184;Montaut;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;3839;42;81;253;Non vérifié;non
+47185;Montayral;47;eau potable;169434;2024;63,5;2,5;4,3;65,9;non conforme;728522;106888;110;217;2654;Non vérifié;non
+47186;Montesquieu;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;21209;79;175;733;Non vérifié;non
+47187;Monteton;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;3484;30;126;323;Non vérifié;non
+47188;Montignac-de-Lauzun;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;3371;32;123;286;Non vérifié;non
+47189;Montignac-Toupinerie;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;1615;32;123;137;Non vérifié;non
+47190;Montpezat;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;21050;102;232;566;Non vérifié;non
+47191;Montpouillan;47;eau potable;169431;2024;80,5;1,1;4,7;65,9;conforme;171573;17262;59;116;807;Non vérifié;non
+47192;Monviel;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;896;32;123;76;Non vérifié;non
+47193;Moulinet;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;2299;32;123;195;Non vérifié;non
+47194;Moustier;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;4917;42;81;324;Non vérifié;non
+47195;Nérac;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;202313;79;175;6992;Non vérifié;non
+47196;Nicole;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;8814;102;232;237;Non vérifié;non
+47197;Nomdieu;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;7407;79;175;256;Non vérifié;non
+47198;Pailloles;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;3713;32;123;315;Non vérifié;non
+47199;Pardaillan;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;3603;30;126;334;Non vérifié;non
+47200;Parranquet;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;1715;42;81;113;Non vérifié;non
+47201;Le Passage;47;eau potable : UD Rouquet Lacapelette;267374;2024;75,3;4,3;13,2;67,6;conforme;1307189;161659;47;119;9326;Non vérifié;non
+47202;Paulhiac;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;3584;32;123;304;Non vérifié;non
+47203;Penne-d'Agenais;47;eau potable : Lot Amont 47 (SAUR);305754;2024;72,2;1,3;3,5;65,7;conforme;136741;53105;58;137;2496;Non vérifié;non
+47204;Peyrière;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;4446;42;81;293;Non vérifié;non
+47205;Pindères;47;eau potable : Porte des Landes;169429;2024;84,4;0,6;3,4;65,7;conforme;133678;2706;39;64;189;Non vérifié;non
+47206;Pinel-Hauterive;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;6649;32;123;564;Non vérifié;non
+47207;Pompiey;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;6481;79;175;224;Non vérifié;non
+47208;Pompogne;47;eau potable : Porte des Landes;169429;2024;84,4;0,6;3,4;65,7;conforme;133678;2749;39;64;192;Non vérifié;non
+47209;Pont-du-Casse;47;eau potable : UD Rouquet Lacapelette;267374;2024;75,3;4,3;13,2;67,6;conforme;1307189;72648;47;119;4191;Non vérifié;non
+47210;Port-Sainte-Marie;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;70179;102;232;1887;Non vérifié;non
+47211;Poudenas;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;5671;79;175;196;Non vérifié;non
+47212;Poussignac;47;eau potable;169431;2024;80,5;1,1;4,7;65,9;conforme;171573;6610;59;116;309;Non vérifié;non
+47213;Prayssas;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;36930;102;232;993;Non vérifié;non
+47214;Puch-d'Agenais;47;eau potable : Porte des Landes;169429;2024;84,4;0,6;3,4;65,7;conforme;133678;10282;39;64;718;Non vérifié;non
+47215;Pujols;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;140171;102;232;3769;Non vérifié;non
+47216;Puymiclan;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;8264;32;123;701;Non vérifié;non
+47217;Puymirol;47;eau potable : UDI de Cauzac;322074;2024;54,3;4,6;5,4;66,1;non conforme;840860;104932;320;740;899;Non vérifié;non
+47218;Puysserampion;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;4021;42;81;265;Non vérifié;non
+47219;Rayet;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;2610;42;81;172;Non vérifié;non
+47220;Razimet;47;eau potable : Garonne (Mas d’Agenais);298974;2024;77,2;0,9;3,2;65,6;conforme;52823;4582;41;103;309;Non vérifié;non
+47221;Réaup-Lisse;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;17101;79;175;591;Non vérifié;non
+47222;La Réunion;47;eau potable : Porte des Landes;169429;2024;84,4;0,6;3,4;65,7;conforme;133678;7504;39;64;524;Non vérifié;non
+47223;Rives;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;2944;42;81;194;Non vérifié;non
+47224;Romestaing;47;eau potable;169431;2024;80,5;1,1;4,7;65,9;conforme;171573;3487;59;116;163;Non vérifié;non
+47225;Roquefort;47;eau potable : UD Sivoizac Sérignac;222778;2024;62,4;4,8;8,0;66,6;non conforme;1127832;105622;139;252;2078;Non vérifié;non
+47226;Roumagne;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;8179;42;81;539;Non vérifié;non
+47227;Ruffiac;47;eau potable;169431;2024;80,5;1,1;4,7;65,9;conforme;171573;3829;59;116;179;Non vérifié;non
+47228;Saint-Antoine-de-Ficalba;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;26814;102;232;721;Non vérifié;non
+47229;Saint-Astier;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;2190;30;126;203;Non vérifié;non
+47230;Saint-Aubin;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;4633;32;123;393;Non vérifié;non
+47231;Saint-Avit;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;1996;30;126;185;Non vérifié;non
+47232;Saint-Barthélemy-d'Agenais;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;6472;32;123;549;Non vérifié;non
+47233;Sainte-Bazeille;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;34204;30;126;3171;Non vérifié;non
+47234;Saint-Caprais-de-Lerm;47;eau potable : UDI de Cauzac;322074;2024;54,3;4,6;5,4;66,1;non conforme;840860;83222;320;740;713;Non vérifié;non
+47235;Saint-Colomb-de-Lauzun;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;7178;42;81;473;Non vérifié;non
+47236;Sainte-Colombe-de-Duras;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;1057;30;126;98;Non vérifié;non
+47237;Sainte-Colombe-de-Villeneuve;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;18447;102;232;496;Non vérifié;non
+47238;Sainte-Colombe-en-Bruilhois;47;eau potable : UD Sivoizac Sérignac;222778;2024;62,4;4,8;8,0;66,6;non conforme;1127832;78581;139;252;1546;Non vérifié;non
+47239;Saint-Étienne-de-Fougères;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;10079;32;123;855;Non vérifié;non
+47240;Saint-Étienne-de-Villeréal;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;3961;42;81;261;Non vérifié;non
+47241;Saint-Eutrope-de-Born;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;8134;32;123;690;Non vérifié;non
+47242;Saint-Front-sur-Lémance;47;eau potable;169434;2024;63,5;2,5;4,3;65,9;non conforme;728522;19815;110;217;492;Non vérifié;non
+47244;Sainte-Gemme-Martaillac;47;eau potable : Porte des Landes;169429;2024;84,4;0,6;3,4;65,7;conforme;133678;5399;39;64;377;Non vérifié;non
+47245;Saint-Géraud;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;917;30;126;85;Non vérifié;non
+47246;Saint-Hilaire-de-Lusignan;47;eau potable : UD Rouquet Lacapelette;267374;2024;75,3;4,3;13,2;67,6;conforme;1307189;26019;47;119;1501;Non vérifié;non
+47247;Saint-Jean-de-Duras;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;2805;30;126;260;Non vérifié;non
+47248;Saint-Jean-de-Thurac;47;eau potable : UDI de Cauzac;322074;2024;54,3;4,6;5,4;66,1;non conforme;840860;65714;320;740;563;Non vérifié;non
+47249;Saint-Laurent;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;16029;102;232;431;Non vérifié;non
+47250;Saint-Léger;47;eau potable : Porte des Landes / Landes / Buzet;299014;2024;74,4;1,3;3,9;65,8;conforme;99028;4384;68;130;177;Non vérifié;non
+47251;Saint-Léon;47;eau potable : Porte des Landes / Landes / Buzet;299014;2024;74,4;1,3;3,9;65,8;conforme;99028;8149;68;130;329;Non vérifié;non
+47252;Sainte-Livrade-sur-Lot;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;77108;32;123;6541;Non vérifié;non
+47253;Sainte-Marthe;47;eau potable : Garonne (Sud de Marmande);169435;2024;74,7;1,1;3,4;65,7;conforme;46574;1525;6;118;658;Non vérifié;non
+47254;Saint-Martin-Curton;47;eau potable : Porte des Landes;169429;2024;84,4;0,6;3,4;65,7;conforme;133678;4325;39;64;302;Non vérifié;non
+47255;Saint-Martin-de-Beauville;47;eau potable : UDI de Cauzac;322074;2024;54,3;4,6;5,4;66,1;non conforme;840860;17975;320;740;154;Non vérifié;non
+47256;Saint-Martin-de-Villeréal;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;1563;42;81;103;Non vérifié;non
+47257;Saint-Martin-Petit;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;6688;30;126;620;Non vérifié;non
+47258;Sainte-Maure-de-Peyriac;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;8825;79;175;305;Non vérifié;non
+47259;Saint-Maurice-de-Lestapel;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;1297;32;123;110;Non vérifié;non
+47260;Saint-Maurin;47;eau potable : UDI de Cauzac;322074;2024;54,3;4,6;5,4;66,1;non conforme;840860;44004;320;740;377;Non vérifié;non
+47262;Saint-Nicolas-de-la-Balerme;47;eau potable : UD Sivoizac Sérignac;222778;2024;62,4;4,8;8,0;66,6;non conforme;1127832;21551;139;252;424;Non vérifié;non
+47263;Saint-Pardoux-du-Breuil;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;6828;30;126;633;Non vérifié;non
+47264;Saint-Pardoux-Isaac;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;16859;42;81;1111;Non vérifié;non
+47265;Saint-Pastour;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;4468;32;123;379;Non vérifié;non
+47266;Saint-Pé-Saint-Simon;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;5266;79;175;182;Non vérifié;non
+47267;Saint-Pierre-de-Buzet;47;eau potable : Porte des Landes / Landes / Buzet;299014;2024;74,4;1,3;3,9;65,8;conforme;99028;6787;68;130;274;Non vérifié;non
+47269;Saint-Pierre-de-Clairac;47;eau potable : UDI de Cauzac;322074;2024;54,3;4,6;5,4;66,1;non conforme;840860;104932;320;740;899;Non vérifié;non
+47271;Saint-Pierre-sur-Dropt;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;3872;30;126;359;Non vérifié;non
+47272;Saint-Quentin-du-Dropt;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;2731;42;81;180;Non vérifié;non
+47273;Saint-Robert;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;7066;102;232;190;Non vérifié;non
+47274;Saint-Romain-le-Noble;47;eau potable : UDI de Cauzac;322074;2024;54,3;4,6;5,4;66,1;non conforme;840860;48089;320;740;412;Non vérifié;non
+47275;Saint-Salvy;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;7438;102;232;200;Non vérifié;non
+47276;Saint-Sardos;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;10748;102;232;289;Non vérifié;non
+47277;Saint-Sauveur-de-Meilhan;47;eau potable;169431;2024;80,5;1,1;4,7;65,9;conforme;171573;7294;59;116;341;Non vérifié;non
+47278;Saint-Sernin;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;4897;30;126;454;Non vérifié;non
+47279;Saint-Sixte;47;eau potable : UD Sivoizac Sérignac;222778;2024;62,4;4,8;8,0;66,6;non conforme;1127832;18451;139;252;363;Non vérifié;non
+47280;Saint-Sylvestre-sur-Lot;47;eau potable : Lot Amont 47 (SAUR);305754;2024;72,2;1,3;3,5;65,7;conforme;136741;50999;58;137;2397;Non vérifié;non
+47281;Saint-Urcisse;47;eau potable : UDI de Cauzac;322074;2024;54,3;4,6;5,4;66,1;non conforme;840860;28247;320;740;242;Non vérifié;non
+47282;Saint-Vincent-de-Lamontjoie;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;6452;79;175;223;Non vérifié;non
+47283;Saint-Vite;47;eau potable;169434;2024;63,5;2,5;4,3;65,9;non conforme;728522;48007;110;217;1192;Non vérifié;non
+47284;Salles;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;3395;32;123;288;Non vérifié;non
+47285;Samazan;47;eau potable;169431;2024;80,5;1,1;4,7;65,9;conforme;171573;17861;59;116;835;Non vérifié;non
+47286;Sauméjan;47;eau potable : Porte des Landes;169429;2024;84,4;0,6;3,4;65,7;conforme;133678;1217;39;64;85;Non vérifié;non
+47287;Saumont;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;6944;79;175;240;Non vérifié;non
+47288;Sauvagnas;47;eau potable : UDI de Cauzac;322074;2024;54,3;4,6;5,4;66,1;non conforme;840860;60578;320;740;519;Non vérifié;non
+47289;La Sauvetat-de-Savères;47;eau potable : UDI de Cauzac;322074;2024;54,3;4,6;5,4;66,1;non conforme;840860;55909;320;740;479;Non vérifié;non
+47290;La Sauvetat-du-Dropt;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;8604;42;81;567;Non vérifié;non
+47291;La Sauvetat-sur-Lède;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;7580;32;123;643;Non vérifié;non
+47292;Sauveterre-la-Lémance;47;eau potable;169434;2024;63,5;2,5;4,3;65,9;non conforme;728522;22674;110;217;563;Non vérifié;non
+47293;Sauveterre-Saint-Denis;47;eau potable : UD Sivoizac Sérignac;222778;2024;62,4;4,8;8,0;66,6;non conforme;1127832;19671;139;252;387;Non vérifié;non
+47294;Savignac-de-Duras;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;2362;30;126;219;Non vérifié;non
+47295;Savignac-sur-Leyze;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;3784;32;123;321;Non vérifié;non
+47296;Ségalas;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;1827;32;123;155;Non vérifié;non
+47297;Sembas;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;5281;102;232;142;Non vérifié;non
+47298;Sénestis;47;eau potable : Garonne (Mas d’Agenais);298974;2024;77,2;0,9;3,2;65,6;conforme;52823;2966;41;103;200;Non vérifié;non
+47299;Sérignac-Péboudou;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;2701;42;81;178;Non vérifié;non
+47300;Sérignac-sur-Garonne;47;eau potable : UD Sivoizac Sérignac;222778;2024;62,4;4,8;8,0;66,6;non conforme;1127832;60079;139;252;1182;Non vérifié;non
+47301;Seyches;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;16131;42;81;1063;Non vérifié;non
+47302;Sos;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;19010;79;175;657;Non vérifié;non
+47303;Soumensac;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;2416;30;126;224;Non vérifié;non
+47304;Taillebourg;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;790;32;123;67;Non vérifié;non
+47305;Tayrac;47;eau potable : UDI de Cauzac;322074;2024;54,3;4,6;5,4;66,1;non conforme;840860;44471;320;740;381;Non vérifié;non
+47306;Le Temple-sur-Lot;47;eau potable : SUD LOT;169470;2024;66,9;2,4;4,9;66,0;conforme;1047696;41579;102;232;1118;Non vérifié;non
+47307;Thézac;47;eau potable;169434;2024;63,5;2,5;4,3;65,9;non conforme;728522;8498;110;217;211;Non vérifié;non
+47308;Thouars-sur-Garonne;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;6597;79;175;228;Non vérifié;non
+47309;Tombeboeuf;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;5222;32;123;443;Non vérifié;non
+47310;Tonneins;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;111507;32;123;9459;Non vérifié;non
+47311;Tourliac;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;2079;42;81;137;Non vérifié;non
+47312;Tournon-d'Agenais;47;eau potable : Lot Amont (Tournon d'Agenais);325954;2024;97,4;0,1;2,8;65,6;conforme;4344;2481;9;13;731;Non vérifié;non
+47313;Tourtrès;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;1650;32;123;140;Non vérifié;non
+47314;Trémons;47;eau potable : Lot Amont 47 (SAUR);305754;2024;72,2;1,3;3,5;65,7;conforme;136741;8702;58;137;409;Non vérifié;non
+47315;Trentels;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;9938;32;123;843;Non vérifié;non
+47316;Varès;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;7721;32;123;655;Non vérifié;non
+47317;Verteuil-d'Agenais;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;6354;32;123;539;Non vérifié;non
+47318;Vianne;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;28327;79;175;979;Non vérifié;non
+47319;Villebramar;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;1285;32;123;109;Non vérifié;non
+47320;Villefranche-du-Queyran;47;eau potable : Porte des Landes;169429;2024;84,4;0,6;3,4;65,7;conforme;133678;5943;39;64;415;Non vérifié;non
+47321;Villeneuve-de-Duras;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;3398;30;126;315;Non vérifié;non
+47323;Villeneuve-sur-Lot;47;eau potable : NORD du LOT - SAUR;169436;2024;77,5;1,0;3,3;65,7;conforme;818695;263472;32;123;22350;Non vérifié;non
+47324;Villeréal;47;eau potable : LA BRAME;169427;2024;81,5;0,7;3,2;65,6;conforme;249368;19135;42;81;1261;Non vérifié;non
+47325;Villeton;47;eau potable : Garonne (Mas d’Agenais);298974;2024;77,2;0,9;3,2;65,6;conforme;52823;7044;41;103;475;Non vérifié;non
+47326;Virazeil;47;eau potable : NORD MARMANDE;169438;2024;75,8;1,3;4,0;65,8;conforme;371913;18499;30;126;1715;Non vérifié;non
+47327;Xaintrailles;47;eau potable : Albret;298454;2024;74,4;1,5;4,4;65,9;conforme;713940;10937;79;175;378;Non vérifié;non
+47328;Saint-Georges;47;eau potable;169434;2024;63,5;2,5;4,3;65,9;non conforme;728522;19815;110;217;492;Non vérifié;non

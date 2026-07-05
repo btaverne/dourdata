@@ -7,286 +7,286 @@
 # Méthodologie et code : https://github.com/btaverne/dourdata
 # Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
 # Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
-Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
-12001;Agen-d'Aveyron;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;14604;36;98;1116;Non vérifié
-12002;Aguessac;12;eau potable;132744;2024;73,4;1,9;5,2;66,0;conforme;69295;18022;53;134;929;Non vérifié
-12003;Les Albres;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;6312;50;95;346;Non vérifié
-12004;Almont-les-Junies;12;eau potable;223137;2024;82,4;1,1;5,3;66,1;conforme;274722;6855;43;81;437;Non vérifié
-12006;Alrance;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;4384;36;98;335;Non vérifié
-12007;Ambeyrac;12;eau potable;132731;2024;78,1;0,8;3,0;65,6;conforme;109500;1810;27;100;184;Non vérifié
-12008;Anglars-Saint-Félix;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;16965;50;95;930;Non vérifié
-12009;Arnac-sur-Dourdou;12;eau potable;132402;2024;0,0;3,0;0,0;65,0;non conforme;5475;5475;319;113;47;Non vérifié
-12010;Arques;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;2081;36;98;159;Non vérifié
-12011;Arvieu;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;10128;36;98;774;Non vérifié
-12012;Asprières;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;13736;50;95;753;Non vérifié
-12013;Aubin;12;eau potable;223137;2024;82,4;1,1;5,3;66,1;conforme;274722;54025;43;81;3444;Non vérifié
-12015;Auriac-Lagast;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;2984;36;98;228;Non vérifié
-12016;Auzits;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;15031;50;95;824;Non vérifié
-12017;Ayssènes;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;2944;36;98;225;Non vérifié
-12018;Balaguier-d'Olt;12;eau potable;132731;2024;78,1;0,8;3,0;65,6;conforme;109500;1761;27;100;179;Non vérifié
-12019;Balaguier-sur-Rance;12;eau potable;132729;2024;72,3;1,0;2,4;65,5;conforme;348210;2921;89;165;90;Non vérifié
-12021;Le Bas Ségala;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;21042;36;98;1608;Non vérifié
-12022;La Bastide-Pradines;12;eau potable;132730;2024;72,3;1,3;3,3;65,7;conforme;166550;665;15;142;122;Non vérifié
-12023;La Bastide-Solages;12;eau potable;132729;2024;72,3;1,0;2,4;65,5;conforme;348210;3798;89;165;117;Non vérifié
-12024;Belcastel;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;3448;50;95;189;Non vérifié
-12025;Belmont-sur-Rance;12;eau potable;132729;2024;72,3;1,0;2,4;65,5;conforme;348210;32494;89;165;1001;Non vérifié
-12026;Bertholène;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;19026;50;95;1043;Non vérifié
-12027;Bessuéjouls;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;4050;50;95;222;Non vérifié
-12028;Boisse-Penchot;12;eau potable;223137;2024;82,4;1,1;5,3;66,1;conforme;274722;8063;43;81;514;Non vérifié
-12029;Bor-et-Bar;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;2696;36;98;206;Non vérifié
-12030;Bouillac;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;6841;50;95;375;Non vérifié
-12031;Bournazel;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;5965;50;95;327;Non vérifié
-12032;Boussac;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;7995;36;98;611;Non vérifié
-12033;Bozouls;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;54743;50;95;3001;Non vérifié
-12034;Brandonnet;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;5235;50;95;287;Non vérifié
-12035;Brasc;12;eau potable;132729;2024;72,3;1,0;2,4;65,5;conforme;348210;5518;89;165;170;Non vérifié
-12036;Brommat;12;eau potable : ex CC du Carladez;132734;2024;78,4;0,8;2,9;65,6;conforme;72159;16127;70;123;628;Non vérifié
-12037;Broquiès;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;8021;36;98;613;Non vérifié
-12038;Brousse-le-Château;12;eau potable;132729;2024;72,3;1,0;2,4;65,5;conforme;348210;5324;89;165;164;Non vérifié
-12039;Brusque;12;eau potable;132435;2024;24,2;8,3;2,6;65,5;non conforme;57561;57561;611;1150;258;Non vérifié
-12041;Cabanès;12;eau potable;132741;2024;76,1;1,0;3,2;65,6;conforme;66561;3981;38;115;284;Non vérifié
-12042;Calmels-et-le-Viala;12;eau potable;132729;2024;72,3;1,0;2,4;65,5;conforme;348210;5908;89;165;182;Non vérifié
-12043;Calmont;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;28684;36;98;2192;Non vérifié
-12044;Camarès;12;eau potable;132441;2024;50,6;4,9;5,0;66,0;non conforme;57429;57429;153;357;1030;Non vérifié
-12045;Camboulazet;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;5391;36;98;412;Non vérifié
-12046;Camjac;12;eau potable;132737;2024;82,5;1,2;5,6;66,1;conforme;80250;6604;31;105;576;Non vérifié
-12047;Campagnac;12;eau potable;132738;2024;68,2;1,5;3,2;65,6;conforme;89138;10936;70;173;431;Non vérifié
-12048;Campouriez;12;eau potable;132728;2024;68,2;1,2;2,5;65,5;conforme;345525;9082;77;178;322;Non vérifié
-12049;Campuac;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;8190;50;95;449;Non vérifié
-12050;Canet-de-Salars;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;5902;36;98;451;Non vérifié
-12051;Cantoin;12;eau potable : Régie des Eaux ACL ex Cantoin-Ste-Geneviève;281554;2024;66,6;1,9;3,8;65,8;conforme;125524;20689;182;185;312;Non vérifié
-12052;Capdenac-Gare;12;eau potable;132731;2024;78,1;0,8;3,0;65,6;conforme;109500;43678;27;100;4440;Non vérifié
-12053;La Capelle-Balaguier;12;eau potable;132731;2024;78,1;0,8;3,0;65,6;conforme;109500;3404;27;100;346;Non vérifié
-12054;La Capelle-Bleys;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;4789;36;98;366;Non vérifié
-12055;La Capelle-Bonance;12;eau potable;132738;2024;68,2;1,5;3,2;65,6;conforme;89138;2411;70;173;95;Non vérifié
-12056;Baraqueville;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;41521;36;98;3173;Non vérifié
-12057;Cassagnes-Bégonhès;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;12457;36;98;952;Non vérifié
-12058;Cassuéjouls;12;eau potable : Régie des Eaux ACL: ex Cassuéjouls;281514;2024;93,8;0,3;4,1;65,8;conforme;307;307;8;27;107;Non vérifié
-12059;Castanet;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;6975;36;98;533;Non vérifié
-12060;Castelmary;12;eau potable;132737;2024;82,5;1,2;5,6;66,1;conforme;80250;1387;31;105;121;Non vérifié
-12061;Castelnau-de-Mandailles;12;eau potable;132458;2024;59,5;1,1;1,7;65,3;non conforme;24090;24090;117;243;565;Non vérifié
-12062;Castelnau-Pégayrols;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;4501;36;98;344;Non vérifié
-12063;La Cavalerie;12;eau potable;132730;2024;72,3;1,3;3,3;65,7;conforme;166550;12113;15;142;2223;Non vérifié
-12064;Le Cayrol;12;eau potable;132728;2024;68,2;1,2;2,5;65,5;conforme;345525;6854;77;178;243;Non vérifié
-12065;Centrès;12;eau potable;132737;2024;82,5;1,2;5,6;66,1;conforme;80250;5297;31;105;462;Non vérifié
-12066;Clairvaux-d'Aveyron;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;21124;50;95;1158;Non vérifié
-12067;Le Clapier;12;eau potable;132730;2024;72,3;1,3;3,3;65,7;conforme;166550;523;15;142;96;Non vérifié
-12068;Colombiès;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;11568;36;98;884;Non vérifié
-12069;Combret;12;eau potable;132729;2024;72,3;1,0;2,4;65,5;conforme;348210;8537;89;165;263;Non vérifié
-12070;Compeyre;12;eau potable;132744;2024;73,4;1,9;5,2;66,0;conforme;69295;10204;53;134;526;Non vérifié
-12071;Compolibat;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;6111;50;95;335;Non vérifié
-12072;Comprégnac;12;eau potable;132468;2024;55,2;3,1;3,9;65,8;non conforme;9844;9844;119;293;227;Non vérifié
-12073;Comps-la-Grand-Ville;12;eau potable;132471;2024;70,7;1,6;3,8;65,8;conforme;17345;17345;75;154;636;Non vérifié
-12074;Condom-d'Aubrac;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;5199;50;95;285;Non vérifié
-12075;Connac;12;eau potable;132729;2024;72,3;1,0;2,4;65,5;conforme;348210;3214;89;165;99;Non vérifié
-12076;Conques-en-Rouergue;12;eau potable : Conques - Muret-Le-Chateau;205993;2024;79,0;0,7;2,7;65,5;conforme;103104;26401;44;93;1627;Non vérifié
-12077;Cornus;12;eau potable;132730;2024;72,3;1,3;3,3;65,7;conforme;166550;2790;15;142;512;Non vérifié
-12078;Les Costes-Gozon;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;2133;36;98;163;Non vérifié
-12079;Coubisou;12;eau potable;132728;2024;68,2;1,2;2,5;65,5;conforme;345525;13030;77;178;462;Non vérifié
-12080;Coupiac;12;eau potable;132729;2024;72,3;1,0;2,4;65,5;conforme;348210;11459;89;165;353;Non vérifié
-12082;La Couvertoirade;12;eau potable;132730;2024;72,3;1,3;3,3;65,7;conforme;166550;1144;15;142;210;Non vérifié
-12083;Cransac-les-Thermes;12;eau potable;223137;2024;82,4;1,1;5,3;66,1;conforme;274722;23248;43;81;1482;Non vérifié
-12084;Creissels;12;eau potable;132730;2024;72,3;1,3;3,3;65,7;conforme;166550;8544;15;142;1568;Non vérifié
-12085;Crespin;12;eau potable;132737;2024;82,5;1,2;5,6;66,1;conforme;80250;3658;31;105;319;Non vérifié
-12086;La Cresse;12;eau potable;132744;2024;73,4;1,9;5,2;66,0;conforme;69295;6460;53;134;333;Non vérifié
-12088;Curières;12;eau potable;132728;2024;68,2;1,2;2,5;65,5;conforme;345525;6064;77;178;215;Non vérifié
-12089;Decazeville;12;eau potable;223137;2024;82,4;1,1;5,3;66,1;conforme;274722;78748;43;81;5020;Non vérifié
-12090;Druelle Balsac;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;58136;50;95;3187;Non vérifié
-12091;Drulhe;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;8172;50;95;448;Non vérifié
-12092;Durenque;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;6739;36;98;515;Non vérifié
-12093;Le Fel;12;eau potable;132728;2024;68,2;1,2;2,5;65,5;conforme;345525;5500;77;178;195;Non vérifié
-12094;Entraygues-sur-Truyère;12;eau potable;132728;2024;68,2;1,2;2,5;65,5;conforme;345525;27188;77;178;964;Non vérifié
-12095;Escandolières;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;3867;50;95;212;Non vérifié
-12096;Espalion;12;eau potable;132728;2024;68,2;1,2;2,5;65,5;conforme;345525;129879;77;178;4605;Non vérifié
-12097;Espeyrac;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;4506;50;95;247;Non vérifié
-12098;Estaing;12;eau potable;132728;2024;68,2;1,2;2,5;65,5;conforme;345525;14158;77;178;502;Non vérifié
-12099;Fayet;12;eau potable;132498;2024;91,3;0,4;4,2;65,8;conforme;2482;2482;29;35;235;Non vérifié
-12100;Firmi;12;eau potable;223137;2024;82,4;1,1;5,3;66,1;conforme;274722;36362;43;81;2318;Non vérifié
-12101;Flagnac;12;eau potable;223137;2024;82,4;1,1;5,3;66,1;conforme;274722;17004;43;81;1084;Non vérifié
-12102;Flavin;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;31301;36;98;2392;Non vérifié
-12103;Florentin-la-Capelle;12;eau potable;132728;2024;68,2;1,2;2,5;65,5;conforme;345525;8066;77;178;286;Non vérifié
-12104;Foissac;12;eau potable;132731;2024;78,1;0,8;3,0;65,6;conforme;109500;4466;27;100;454;Non vérifié
-12105;La Fouillade;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;14761;36;98;1128;Non vérifié
-12106;Gabriac;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;10234;50;95;561;Non vérifié
-12107;Gaillac-d'Aveyron;12;eau potable;132733;2024;70,7;2,2;5,2;66,0;conforme;179824;7459;63;167;322;Non vérifié
-12108;Galgan;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;6622;50;95;363;Non vérifié
-12109;Gissac;12;eau potable;132509;2024;93,3;0,2;3,1;65,6;conforme;1241;1241;35;24;98;Non vérifié
-12110;Golinhac;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;6749;50;95;370;Non vérifié
-12111;Goutrens;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;8975;50;95;492;Non vérifié
-12113;Gramond;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;7210;36;98;551;Non vérifié
-12115;L' Hospitalet-du-Larzac;12;eau potable;132730;2024;72,3;1,3;3,3;65,7;conforme;166550;1896;15;142;348;Non vérifié
-12116;Huparlac;12;eau potable;132728;2024;68,2;1,2;2,5;65,5;conforme;345525;7051;77;178;250;Non vérifié
-12118;Lacroix-Barrez;12;eau potable : ex CC du Carladez;132734;2024;78,4;0,8;2,9;65,6;conforme;72159;13636;70;123;531;Non vérifié
-12119;Laguiole;12;eau potable : Régie des Eaux ACL ex Laguiole;281574;2024;91,4;3,1;33,1;71,6;conforme;62232;62232;141;157;1207;Non vérifié
-12120;Laissac-Sévérac l'Église;12;eau potable;132733;2024;70,7;2,2;5,2;66,0;conforme;179824;49595;63;167;2141;Non vérifié
-12121;Lanuéjouls;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;14210;50;95;779;Non vérifié
-12122;Lapanouse-de-Cernon;12;eau potable;132730;2024;72,3;1,3;3,3;65,7;conforme;166550;648;15;142;119;Non vérifié
-12124;Lassouts;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;5801;50;95;318;Non vérifié
-12125;Laval-Roquecezière;12;eau potable;132529;2024;93,0;0,1;1,6;65,3;conforme;1752;1752;16;23;303;Non vérifié
-12127;Lédergues;12;eau potable;132729;2024;72,3;1,0;2,4;65,5;conforme;348210;21976;89;165;677;Non vérifié
-12128;Lescure-Jaoul;12;eau potable;132741;2024;76,1;1,0;3,2;65,6;conforme;66561;3210;38;115;229;Non vérifié
-12129;Lestrade-et-Thouels;12;eau potable;132729;2024;72,3;1,0;2,4;65,5;conforme;348210;14283;89;165;440;Non vérifié
-12130;Livinhac-le-Haut;12;eau potable;223137;2024;82,4;1,1;5,3;66,1;conforme;274722;17114;43;81;1091;Non vérifié
-12131;La Loubière;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;28694;50;95;1573;Non vérifié
-12133;Luc-la-Primaube;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;110289;50;95;6046;Non vérifié
-12134;Lugan;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;6494;50;95;356;Non vérifié
-12135;Lunac;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;5692;36;98;435;Non vérifié
-12136;Maleville;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;17640;50;95;967;Non vérifié
-12137;Manhac;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;11476;36;98;877;Non vérifié
-12138;Marcillac-Vallon;12;eau potable : Conques - Muret-Le-Chateau;205993;2024;79,0;0,7;2,7;65,5;conforme;103104;27764;44;93;1711;Non vérifié
-12139;Marnhagues-et-Latour;12;eau potable;132541;2024;68,2;0,7;1,6;65,3;conforme;3832;3832;71;164;147;Non vérifié
-12140;Martiel;12;eau potable;132739;2024;79,4;1,4;5,3;66,1;conforme;106733;25078;68;106;1008;Non vérifié
-12141;Martrin;12;eau potable;132729;2024;72,3;1,0;2,4;65,5;conforme;348210;7823;89;165;241;Non vérifié
-12142;Mayran;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;11146;50;95;611;Non vérifié
-12144;Meljac;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;1845;36;98;141;Non vérifié
-12145;Millau;12;eau potable;132743;2024;81,2;0,3;1,2;65,2;conforme;17082;15595;2;93;22044;Non vérifié
-12146;Le Monastère;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;41864;50;95;2295;Non vérifié
-12147;Montagnol;12;eau potable;132550;2024;63,2;0,8;1,4;65,3;non conforme;8760;8760;161;204;149;Non vérifié
-12148;Montbazens;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;26377;50;95;1446;Non vérifié
-12149;Montclar;12;eau potable;132729;2024;72,3;1,0;2,4;65,5;conforme;348210;4317;89;165;133;Non vérifié
-12150;Monteils;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;6032;36;98;461;Non vérifié
-12151;Montézic;12;eau potable;132728;2024;68,2;1,2;2,5;65,5;conforme;345525;6374;77;178;226;Non vérifié
-12152;Montfranc;12;eau potable;132557;2024;93,6;0,2;2,8;65,6;conforme;414;414;9;26;130;Non vérifié
-12153;Montjaux;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;5705;36;98;436;Non vérifié
-12154;Montlaur;12;eau potable;132729;2024;72,3;1,0;2,4;65,5;conforme;348210;21522;89;165;663;Non vérifié
-12155;Fondamente;12;eau potable;132560;2024;46,2;18,4;15,8;68,2;non conforme;33849;33849;292;424;318;Non vérifié
-12156;Montpeyroux;12;eau potable;132728;2024;68,2;1,2;2,5;65,5;conforme;345525;14610;77;178;518;Non vérifié
-12157;Montrozier;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;31321;50;95;1717;Non vérifié
-12158;Montsalès;12;eau potable;132731;2024;78,1;0,8;3,0;65,6;conforme;109500;3138;27;100;319;Non vérifié
-12159;Morlhon-le-Haut;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;7262;36;98;555;Non vérifié
-12160;Mostuéjouls;12;eau potable;143361;2024;92,1;0,4;4,7;65,9;conforme;46282;1532;13;32;333;Non vérifié
-12161;Mouret;12;eau potable : Conques - Muret-Le-Chateau;205993;2024;79,0;0,7;2,7;65,5;conforme;103104;9087;44;93;560;Non vérifié
-12162;Moyrazès;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;14329;36;98;1095;Non vérifié
-12163;Murasson;12;eau potable;132729;2024;72,3;1,0;2,4;65,5;conforme;348210;6622;89;165;204;Non vérifié
-12164;Mur-de-Barrez;12;eau potable : ex CC du Carladez;132734;2024;78,4;0,8;2,9;65,6;conforme;72159;17796;70;123;693;Non vérifié
-12165;Muret-le-Château;12;eau potable : Conques - Muret-Le-Chateau;205993;2024;79,0;0,7;2,7;65,5;conforme;103104;5679;44;93;350;Non vérifié
-12166;Murols;12;eau potable : ex CC du Carladez;132734;2024;78,4;0,8;2,9;65,6;conforme;72159;2491;70;123;97;Non vérifié
-12167;Najac;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;10089;36;98;771;Non vérifié
-12168;Nant;12;eau potable;132730;2024;72,3;1,3;3,3;65,7;conforme;166550;5591;15;142;1026;Non vérifié
-12169;Naucelle;12;eau potable;132737;2024;82,5;1,2;5,6;66,1;conforme;80250;23070;31;105;2012;Non vérifié
-12170;Naussac;12;eau potable;132731;2024;78,1;0,8;3,0;65,6;conforme;109500;4269;27;100;434;Non vérifié
-12171;Nauviale;12;eau potable : Conques - Muret-Le-Chateau;205993;2024;79,0;0,7;2,7;65,5;conforme;103104;9363;44;93;577;Non vérifié
-12172;Le Nayrac;12;eau potable;132728;2024;68,2;1,2;2,5;65,5;conforme;345525;15653;77;178;555;Non vérifié
-12174;Olemps;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;64922;50;95;3559;Non vérifié
-12175;Ols-et-Rinhodes;12;eau potable;132731;2024;78,1;0,8;3,0;65,6;conforme;109500;1554;27;100;158;Non vérifié
-12176;Onet-le-Château;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;220358;50;95;12080;Non vérifié
-12177;Palmas d'Aveyron;12;eau potable;132738;2024;68,2;1,5;3,2;65,6;conforme;89138;26034;70;173;1026;Non vérifié
-12178;Paulhe;12;eau potable;132744;2024;73,4;1,9;5,2;66,0;conforme;69295;6945;53;134;358;Non vérifié
-12180;Peyreleau;12;eau potable;132743;2024;81,2;0,3;1,2;65,2;conforme;17082;49;2;93;69;Non vérifié
-12181;Peyrusse-le-Roc;12;eau potable;132731;2024;78,1;0,8;3,0;65,6;conforme;109500;1938;27;100;197;Non vérifié
-12182;Pierrefiche;12;eau potable;132738;2024;68,2;1,5;3,2;65,6;conforme;89138;7688;70;173;303;Non vérifié
-12183;Plaisance;12;eau potable;132729;2024;72,3;1,0;2,4;65,5;conforme;348210;7109;89;165;219;Non vérifié
-12184;Pomayrols;12;eau potable;132586;2024;82,1;0,5;2,2;65,4;conforme;912;912;22;83;116;Non vérifié
-12185;Pont-de-Salars;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;21238;36;98;1623;Non vérifié
-12186;Pousthomy;12;eau potable;132729;2024;72,3;1,0;2,4;65,5;conforme;348210;6882;89;165;212;Non vérifié
-12187;Prades-d'Aubrac;12;eau potable;132590;2024;76,2;0,5;1,6;65,3;conforme;6752;6752;67;112;278;Non vérifié
-12188;Prades-Salars;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;4070;36;98;311;Non vérifié
-12189;Pradinas;12;eau potable;132741;2024;76,1;1,0;3,2;65,6;conforme;66561;5173;38;115;369;Non vérifié
-12190;Prévinquières;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;3520;36;98;269;Non vérifié
-12191;Privezac;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;6385;50;95;350;Non vérifié
-12192;Mounes-Prohencoux;12;eau potable;132729;2024;72,3;1,0;2,4;65,5;conforme;348210;6265;89;165;193;Non vérifié
-12193;Pruines;12;eau potable : Conques - Muret-Le-Chateau;205993;2024;79,0;0,7;2,7;65,5;conforme;103104;4690;44;93;289;Non vérifié
-12194;Quins;12;eau potable;132737;2024;82,5;1,2;5,6;66,1;conforme;80250;10411;31;105;908;Non vérifié
-12195;Rebourguil;12;eau potable;132729;2024;72,3;1,0;2,4;65,5;conforme;348210;9608;89;165;296;Non vérifié
-12197;Réquista;12;eau potable;132729;2024;72,3;1,0;2,4;65,5;conforme;348210;62455;89;165;1924;Non vérifié
-12198;Rieupeyroux;12;eau potable;132741;2024;76,1;1,0;3,2;65,6;conforme;66561;27547;38;115;1965;Non vérifié
-12199;Rignac;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;36483;50;95;2000;Non vérifié
-12200;Rivière-sur-Tarn;12;eau potable;132744;2024;73,4;1,9;5,2;66,0;conforme;69295;20738;53;134;1069;Non vérifié
-12201;Rodelle;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;20467;50;95;1122;Non vérifié
-12202;Rodez;12;eau potable : ancienne Régie Eau de Rodez;132603;2024;94,5;2,1;35,3;72,1;conforme;103317;103317;12;22;23981;Non vérifié
-12203;Roquefort-sur-Soulzon;12;eau potable;132604;2024;61,5;8,7;13,9;67,8;non conforme;69131;69131;399;228;475;Non vérifié
-12204;La Roque-Sainte-Marguerite;12;eau potable;132743;2024;81,2;0,3;1,2;65,2;conforme;17082;129;2;93;182;Non vérifié
-12205;La Rouquette;12;eau potable;132739;2024;79,4;1,4;5,3;66,1;conforme;106733;19331;68;106;777;Non vérifié
-12206;Roussennac;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;11273;50;95;618;Non vérifié
-12207;Rullac-Saint-Cirq;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;4449;36;98;340;Non vérifié
-12208;Saint-Affrique;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;103913;36;98;7941;Non vérifié
-12209;Saint-Amans-des-Cots;12;eau potable;132728;2024;68,2;1,2;2,5;65,5;conforme;345525;19997;77;178;709;Non vérifié
-12210;Saint-André-de-Najac;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;5967;36;98;456;Non vérifié
-12211;Saint-André-de-Vézines;12;eau potable;132743;2024;81,2;0,3;1,2;65,2;conforme;17082;92;2;93;130;Non vérifié
-12212;Saint-Beaulize;12;eau potable;132616;2024;47,1;2,4;2,2;65,4;non conforme;10004;10004;256;407;107;Non vérifié
-12213;Saint-Beauzély;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;7197;36;98;550;Non vérifié
-12214;Saint-Chély-d'Aubrac;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;9431;50;95;517;Non vérifié
-12215;Saint-Christophe-Vallon;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;21635;50;95;1186;Non vérifié
-12216;Saint-Côme-d'Olt;12;eau potable : Saint-Côme-d'Olt;221595;2023;80,0;2,2;5,6;66,1;conforme;32923;32923;62;152;1449;Anomalie
-12217;Sainte-Croix;12;eau potable;132731;2024;78,1;0,8;3,0;65,6;conforme;109500;7221;27;100;734;Non vérifié
-12219;Sainte-Eulalie-d'Olt;12;eau potable;132738;2024;68,2;1,5;3,2;65,6;conforme;89138;9312;70;173;367;Non vérifié
-12220;Sainte-Eulalie-de-Cernon;12;eau potable;132730;2024;72,3;1,3;3,3;65,7;conforme;166550;1771;15;142;325;Non vérifié
-12221;Saint-Félix-de-Lunel;12;eau potable : Conques - Muret-Le-Chateau;205993;2024;79,0;0,7;2,7;65,5;conforme;103104;6280;44;93;387;Non vérifié
-12222;Saint-Félix-de-Sorgues;12;eau potable;132629;2024;1,8;3,5;0,1;65,0;non conforme;10986;10986;148;20050;204;Non vérifié
-12223;Argences en Aubrac;12;eau potable : Régie des Eaux ACL ex Cantoin-Ste-Geneviève;281554;2024;66,6;1,9;3,8;65,8;conforme;125524;104835;182;185;1581;Non vérifié
-12224;Saint Geniez d'Olt et d'Aubrac;12;eau potable : Saint Geniez d'Olt et d'Aubrac;224194;2024;77,7;2,4;8,3;66,7;conforme;53436;53436;68;114;2142;Non vérifié
-12225;Saint-Georges-de-Luzençon;12;eau potable;132730;2024;72,3;1,3;3,3;65,7;conforme;166550;8528;15;142;1565;Non vérifié
-12226;Saint-Hippolyte;12;eau potable;132636;2023;70,5;0,6;1,5;65,3;conforme;13738;13738;88;143;428;Sans anomalie apparente
-12227;Saint-Igest;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;3429;50;95;188;Non vérifié
-12228;Saint-Izaire;12;eau potable;132729;2024;72,3;1,0;2,4;65,5;conforme;348210;10193;89;165;314;Non vérifié
-12229;Saint-Jean-d'Alcapiès;12;eau potable;132641;2024;54,4;6,8;8,1;66,6;non conforme;17002;17002;213;306;219;Non vérifié
-12230;Saint-Jean-Delnous;12;eau potable;132729;2024;72,3;1,0;2,4;65,5;conforme;348210;12692;89;165;391;Non vérifié
-12231;Saint-Jean-du-Bruel;12;eau potable;132644;2024;1,0;0,0;6,6;66,3;non conforme;0;0;0;0;639;Non vérifié
-12232;Saint-Jean-et-Saint-Paul;12;eau potable;132646;2023;46,4;5,5;4,8;66,0;non conforme;7428;7428;72;420;282;Sans anomalie apparente
-12233;Saint-Juéry;12;eau potable;132729;2024;72,3;1,0;2,4;65,5;conforme;348210;8310;89;165;256;Non vérifié
-12234;Sainte-Juliette-sur-Viaur;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;8440;36;98;645;Non vérifié
-12235;Saint-Just-sur-Viaur;12;eau potable;132737;2024;82,5;1,2;5,6;66,1;conforme;80250;2477;31;105;216;Non vérifié
-12236;Saint-Laurent-de-Lévézou;12;eau potable;132651;2024;96,8;0,1;2,6;65,5;conforme;334;334;6;16;161;Non vérifié
-12237;Saint-Laurent-d'Olt;12;eau potable;132738;2024;68,2;1,5;3,2;65,6;conforme;89138;15808;70;173;623;Non vérifié
-12238;Saint-Léons;12;eau potable;132654;2024;78,3;0,8;3,0;65,6;conforme;16644;16644;108;127;424;Non vérifié
-12239;Saint-Martin-de-Lenne;12;eau potable;132738;2024;68,2;1,5;3,2;65,6;conforme;89138;8627;70;173;340;Non vérifié
-12240;Saint-Parthem;12;eau potable;223137;2024;82,4;1,1;5,3;66,1;conforme;274722;6259;43;81;399;Non vérifié
-12241;Sainte-Radegonde;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;23462;36;98;1793;Non vérifié
-12242;Saint-Rémy;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;5655;50;95;310;Non vérifié
-12243;Saint-Rome-de-Cernon;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;12601;36;98;963;Non vérifié
-12244;Saint-Rome-de-Tarn;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;11829;36;98;904;Non vérifié
-12246;Saint-Santin;12;eau potable;223137;2024;82,4;1,1;5,3;66,1;conforme;274722;8063;43;81;514;Non vérifié
-12247;Saint-Saturnin-de-Lenne;12;eau potable;132738;2024;68,2;1,5;3,2;65,6;conforme;89138;8323;70;173;328;Non vérifié
-12248;Saint-Sernin-sur-Rance;12;eau potable;132729;2024;72,3;1,0;2,4;65,5;conforme;348210;18827;89;165;580;Non vérifié
-12249;Saint-Sever-du-Moustier;12;eau potable;132664;2024;96,6;0,2;5,8;66,2;conforme;161;161;2;13;179;Non vérifié
-12250;Saint-Symphorien-de-Thénières;12;eau potable;132728;2024;68,2;1,2;2,5;65,5;conforme;345525;6148;77;178;218;Non vérifié
-12251;Saint-Victor-et-Melvieu;12;eau potable;132667;2024;57,0;2,1;2,7;65,5;non conforme;14180;14180;136;279;286;Non vérifié
-12252;Salles-Courbatiès;12;eau potable;132731;2024;78,1;0,8;3,0;65,6;conforme;109500;4722;27;100;480;Non vérifié
-12253;Salles-Curan;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;13648;36;98;1043;Non vérifié
-12254;Salles-la-Source;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;42558;50;95;2333;Non vérifié
-12255;Salmiech;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;9906;36;98;757;Non vérifié
-12256;Salvagnac-Cajarc;12;eau potable;132731;2024;78,1;0,8;3,0;65,6;conforme;109500;3660;27;100;372;Non vérifié
-12257;Causse-et-Diège;12;eau potable;132731;2024;78,1;0,8;3,0;65,6;conforme;109500;7476;27;100;760;Non vérifié
-12258;La Salvetat-Peyralès;12;eau potable;132741;2024;76,1;1,0;3,2;65,6;conforme;66561;14075;38;115;1004;Non vérifié
-12259;Sanvensa;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;8414;36;98;643;Non vérifié
-12260;Sauclières;12;eau potable;132730;2024;72,3;1,3;3,3;65,7;conforme;166550;1024;15;142;188;Non vérifié
-12261;Saujac;12;eau potable;132731;2024;78,1;0,8;3,0;65,6;conforme;109500;1240;27;100;126;Non vérifié
-12262;Sauveterre-de-Rouergue;12;eau potable;132741;2024;76,1;1,0;3,2;65,6;conforme;66561;9939;38;115;709;Non vérifié
-12263;Savignac;12;eau potable;132739;2024;79,4;1,4;5,3;66,1;conforme;106733;18560;68;106;746;Non vérifié
-12264;Sébazac-Concourès;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;58993;50;95;3234;Non vérifié
-12265;Sébrazac;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;9814;50;95;538;Non vérifié
-12266;Ségur;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;6988;36;98;534;Non vérifié
-12267;La Selve;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;7354;36;98;562;Non vérifié
-12268;Sénergues;12;eau potable : Conques - Muret-Le-Chateau;205993;2024;79,0;0,7;2,7;65,5;conforme;103104;6864;44;93;423;Non vérifié
-12269;La Serre;12;eau potable;132729;2024;72,3;1,0;2,4;65,5;conforme;348210;4025;89;165;124;Non vérifié
-12270;Sévérac d'Aveyron;12;eau potable;143361;2024;92,1;0,4;4,7;65,9;conforme;46282;18526;13;32;4026;Non vérifié
-12272;Sonnac;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;9467;50;95;519;Non vérifié
-12273;Soulages-Bonneval;12;eau potable;132728;2024;68,2;1,2;2,5;65,5;conforme;345525;8264;77;178;293;Non vérifié
-12274;Sylvanès;12;eau potable;132688;2024;78,0;1,4;4,9;66,0;conforme;4088;4088;97;104;116;Non vérifié
-12275;Tauriac-de-Camarès;12;eau potable;132691;2024;63,5;0,2;0,3;65,1;non conforme;876;876;69;226;35;Non vérifié
-12276;Tauriac-de-Naucelle;12;eau potable;132737;2024;82,5;1,2;5,6;66,1;conforme;80250;4563;31;105;398;Non vérifié
-12277;Taussac;12;eau potable : ex CC du Carladez;132734;2024;78,4;0,8;2,9;65,6;conforme;72159;12942;70;123;504;Non vérifié
-12278;Tayrac;12;eau potable;132741;2024;76,1;1,0;3,2;65,6;conforme;66561;2636;38;115;188;Non vérifié
-12280;Thérondels;12;eau potable : ex CC du Carladez;132734;2024;78,4;0,8;2,9;65,6;conforme;72159;9168;70;123;357;Non vérifié
-12281;Toulonjac;12;eau potable;132739;2024;79,4;1,4;5,3;66,1;conforme;106733;18784;68;106;755;Non vérifié
-12282;Tournemire;12;eau potable;132699;2024;81,8;2,4;11,0;67,2;conforme;5168;5168;34;80;413;Non vérifié
-12283;Trémouilles;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;6189;36;98;473;Non vérifié
-12284;Le Truel;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;4580;36;98;350;Non vérifié
-12286;Vabres-l'Abbaye;12;eau potable;132729;2024;72,3;1,0;2,4;65,5;conforme;348210;39116;89;165;1205;Non vérifié
-12287;Vailhourles;12;eau potable;132739;2024;79,4;1,4;5,3;66,1;conforme;106733;16122;68;106;648;Non vérifié
-12288;Valady;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;29369;50;95;1610;Non vérifié
-12289;Valzergues;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;3776;50;95;207;Non vérifié
-12290;Vaureilles;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;8847;50;95;485;Non vérifié
-12291;Verrières;12;eau potable;143361;2024;92,1;0,4;4,7;65,9;conforme;46282;1643;13;32;357;Non vérifié
-12292;Versols-et-Lapeyre;12;eau potable;132709;2024;76,2;1,9;6,2;66,2;conforme;10056;10056;65;111;421;Non vérifié
-12293;Veyreau;12;eau potable;132743;2024;81,2;0,3;1,2;65,2;conforme;17082;88;2;93;124;Non vérifié
-12294;Vézins-de-Lévézou;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;8584;36;98;656;Non vérifié
-12295;Viala-du-Pas-de-Jaux;12;eau potable;132714;2024;89,1;0,5;3,8;65,8;conforme;1953;1953;64;48;84;Non vérifié
-12297;Le Vibal;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;6791;36;98;519;Non vérifié
-12298;Villecomtal;12;eau potable : Conques - Muret-Le-Chateau;205993;2024;79,0;0,7;2,7;65,5;conforme;103104;6977;44;93;430;Non vérifié
-12299;Villefranche-de-Panat;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;8859;36;98;677;Non vérifié
-12300;Villefranche-de-Rouergue;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;147488;36;98;11271;Non vérifié
-12301;Villeneuve;12;eau potable;132731;2024;78,1;0,8;3,0;65,6;conforme;109500;19163;27;100;1948;Non vérifié
-12303;Vimenet;12;eau potable;132733;2024;70,7;2,2;5,2;66,0;conforme;179824;5745;63;167;248;Non vérifié
-12305;Viviez;12;eau potable;223137;2024;82,4;1,1;5,3;66,1;conforme;274722;18981;43;81;1210;Non vérifié
-12307;Curan;12;eau potable;132724;2024;67,4;1,4;2,8;65,6;conforme;10338;10338;92;179;307;Non vérifié
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement);Donnée suspecte (voir LISEZMOI)
+12001;Agen-d'Aveyron;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;14604;36;98;1116;Non vérifié;non
+12002;Aguessac;12;eau potable;132744;2024;73,4;1,9;5,2;66,0;conforme;69295;18022;53;134;929;Non vérifié;non
+12003;Les Albres;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;6312;50;95;346;Non vérifié;non
+12004;Almont-les-Junies;12;eau potable;223137;2024;82,4;1,1;5,3;66,1;conforme;274722;6855;43;81;437;Non vérifié;non
+12006;Alrance;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;4384;36;98;335;Non vérifié;non
+12007;Ambeyrac;12;eau potable;132731;2024;78,1;0,8;3,0;65,6;conforme;109500;1810;27;100;184;Non vérifié;non
+12008;Anglars-Saint-Félix;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;16965;50;95;930;Non vérifié;non
+12009;Arnac-sur-Dourdou;12;eau potable;132402;2024;0,0;3,0;0,0;65,0;non conforme;5475;5475;319;113;47;Non vérifié;oui
+12010;Arques;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;2081;36;98;159;Non vérifié;non
+12011;Arvieu;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;10128;36;98;774;Non vérifié;non
+12012;Asprières;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;13736;50;95;753;Non vérifié;non
+12013;Aubin;12;eau potable;223137;2024;82,4;1,1;5,3;66,1;conforme;274722;54025;43;81;3444;Non vérifié;non
+12015;Auriac-Lagast;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;2984;36;98;228;Non vérifié;non
+12016;Auzits;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;15031;50;95;824;Non vérifié;non
+12017;Ayssènes;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;2944;36;98;225;Non vérifié;non
+12018;Balaguier-d'Olt;12;eau potable;132731;2024;78,1;0,8;3,0;65,6;conforme;109500;1761;27;100;179;Non vérifié;non
+12019;Balaguier-sur-Rance;12;eau potable;132729;2024;72,3;1,0;2,4;65,5;conforme;348210;2921;89;165;90;Non vérifié;non
+12021;Le Bas Ségala;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;21042;36;98;1608;Non vérifié;non
+12022;La Bastide-Pradines;12;eau potable;132730;2024;72,3;1,3;3,3;65,7;conforme;166550;665;15;142;122;Non vérifié;non
+12023;La Bastide-Solages;12;eau potable;132729;2024;72,3;1,0;2,4;65,5;conforme;348210;3798;89;165;117;Non vérifié;non
+12024;Belcastel;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;3448;50;95;189;Non vérifié;non
+12025;Belmont-sur-Rance;12;eau potable;132729;2024;72,3;1,0;2,4;65,5;conforme;348210;32494;89;165;1001;Non vérifié;non
+12026;Bertholène;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;19026;50;95;1043;Non vérifié;non
+12027;Bessuéjouls;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;4050;50;95;222;Non vérifié;non
+12028;Boisse-Penchot;12;eau potable;223137;2024;82,4;1,1;5,3;66,1;conforme;274722;8063;43;81;514;Non vérifié;non
+12029;Bor-et-Bar;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;2696;36;98;206;Non vérifié;non
+12030;Bouillac;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;6841;50;95;375;Non vérifié;non
+12031;Bournazel;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;5965;50;95;327;Non vérifié;non
+12032;Boussac;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;7995;36;98;611;Non vérifié;non
+12033;Bozouls;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;54743;50;95;3001;Non vérifié;non
+12034;Brandonnet;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;5235;50;95;287;Non vérifié;non
+12035;Brasc;12;eau potable;132729;2024;72,3;1,0;2,4;65,5;conforme;348210;5518;89;165;170;Non vérifié;non
+12036;Brommat;12;eau potable : ex CC du Carladez;132734;2024;78,4;0,8;2,9;65,6;conforme;72159;16127;70;123;628;Non vérifié;non
+12037;Broquiès;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;8021;36;98;613;Non vérifié;non
+12038;Brousse-le-Château;12;eau potable;132729;2024;72,3;1,0;2,4;65,5;conforme;348210;5324;89;165;164;Non vérifié;non
+12039;Brusque;12;eau potable;132435;2024;24,2;8,3;2,6;65,5;non conforme;57561;57561;611;1150;258;Non vérifié;non
+12041;Cabanès;12;eau potable;132741;2024;76,1;1,0;3,2;65,6;conforme;66561;3981;38;115;284;Non vérifié;non
+12042;Calmels-et-le-Viala;12;eau potable;132729;2024;72,3;1,0;2,4;65,5;conforme;348210;5908;89;165;182;Non vérifié;non
+12043;Calmont;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;28684;36;98;2192;Non vérifié;non
+12044;Camarès;12;eau potable;132441;2024;50,6;4,9;5,0;66,0;non conforme;57429;57429;153;357;1030;Non vérifié;non
+12045;Camboulazet;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;5391;36;98;412;Non vérifié;non
+12046;Camjac;12;eau potable;132737;2024;82,5;1,2;5,6;66,1;conforme;80250;6604;31;105;576;Non vérifié;non
+12047;Campagnac;12;eau potable;132738;2024;68,2;1,5;3,2;65,6;conforme;89138;10936;70;173;431;Non vérifié;non
+12048;Campouriez;12;eau potable;132728;2024;68,2;1,2;2,5;65,5;conforme;345525;9082;77;178;322;Non vérifié;non
+12049;Campuac;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;8190;50;95;449;Non vérifié;non
+12050;Canet-de-Salars;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;5902;36;98;451;Non vérifié;non
+12051;Cantoin;12;eau potable : Régie des Eaux ACL ex Cantoin-Ste-Geneviève;281554;2024;66,6;1,9;3,8;65,8;conforme;125524;20689;182;185;312;Non vérifié;non
+12052;Capdenac-Gare;12;eau potable;132731;2024;78,1;0,8;3,0;65,6;conforme;109500;43678;27;100;4440;Non vérifié;non
+12053;La Capelle-Balaguier;12;eau potable;132731;2024;78,1;0,8;3,0;65,6;conforme;109500;3404;27;100;346;Non vérifié;non
+12054;La Capelle-Bleys;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;4789;36;98;366;Non vérifié;non
+12055;La Capelle-Bonance;12;eau potable;132738;2024;68,2;1,5;3,2;65,6;conforme;89138;2411;70;173;95;Non vérifié;non
+12056;Baraqueville;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;41521;36;98;3173;Non vérifié;non
+12057;Cassagnes-Bégonhès;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;12457;36;98;952;Non vérifié;non
+12058;Cassuéjouls;12;eau potable : Régie des Eaux ACL: ex Cassuéjouls;281514;2024;93,8;0,3;4,1;65,8;conforme;307;307;8;27;107;Non vérifié;non
+12059;Castanet;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;6975;36;98;533;Non vérifié;non
+12060;Castelmary;12;eau potable;132737;2024;82,5;1,2;5,6;66,1;conforme;80250;1387;31;105;121;Non vérifié;non
+12061;Castelnau-de-Mandailles;12;eau potable;132458;2024;59,5;1,1;1,7;65,3;non conforme;24090;24090;117;243;565;Non vérifié;non
+12062;Castelnau-Pégayrols;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;4501;36;98;344;Non vérifié;non
+12063;La Cavalerie;12;eau potable;132730;2024;72,3;1,3;3,3;65,7;conforme;166550;12113;15;142;2223;Non vérifié;non
+12064;Le Cayrol;12;eau potable;132728;2024;68,2;1,2;2,5;65,5;conforme;345525;6854;77;178;243;Non vérifié;non
+12065;Centrès;12;eau potable;132737;2024;82,5;1,2;5,6;66,1;conforme;80250;5297;31;105;462;Non vérifié;non
+12066;Clairvaux-d'Aveyron;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;21124;50;95;1158;Non vérifié;non
+12067;Le Clapier;12;eau potable;132730;2024;72,3;1,3;3,3;65,7;conforme;166550;523;15;142;96;Non vérifié;non
+12068;Colombiès;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;11568;36;98;884;Non vérifié;non
+12069;Combret;12;eau potable;132729;2024;72,3;1,0;2,4;65,5;conforme;348210;8537;89;165;263;Non vérifié;non
+12070;Compeyre;12;eau potable;132744;2024;73,4;1,9;5,2;66,0;conforme;69295;10204;53;134;526;Non vérifié;non
+12071;Compolibat;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;6111;50;95;335;Non vérifié;non
+12072;Comprégnac;12;eau potable;132468;2024;55,2;3,1;3,9;65,8;non conforme;9844;9844;119;293;227;Non vérifié;non
+12073;Comps-la-Grand-Ville;12;eau potable;132471;2024;70,7;1,6;3,8;65,8;conforme;17345;17345;75;154;636;Non vérifié;non
+12074;Condom-d'Aubrac;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;5199;50;95;285;Non vérifié;non
+12075;Connac;12;eau potable;132729;2024;72,3;1,0;2,4;65,5;conforme;348210;3214;89;165;99;Non vérifié;non
+12076;Conques-en-Rouergue;12;eau potable : Conques - Muret-Le-Chateau;205993;2024;79,0;0,7;2,7;65,5;conforme;103104;26401;44;93;1627;Non vérifié;non
+12077;Cornus;12;eau potable;132730;2024;72,3;1,3;3,3;65,7;conforme;166550;2790;15;142;512;Non vérifié;non
+12078;Les Costes-Gozon;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;2133;36;98;163;Non vérifié;non
+12079;Coubisou;12;eau potable;132728;2024;68,2;1,2;2,5;65,5;conforme;345525;13030;77;178;462;Non vérifié;non
+12080;Coupiac;12;eau potable;132729;2024;72,3;1,0;2,4;65,5;conforme;348210;11459;89;165;353;Non vérifié;non
+12082;La Couvertoirade;12;eau potable;132730;2024;72,3;1,3;3,3;65,7;conforme;166550;1144;15;142;210;Non vérifié;non
+12083;Cransac-les-Thermes;12;eau potable;223137;2024;82,4;1,1;5,3;66,1;conforme;274722;23248;43;81;1482;Non vérifié;non
+12084;Creissels;12;eau potable;132730;2024;72,3;1,3;3,3;65,7;conforme;166550;8544;15;142;1568;Non vérifié;non
+12085;Crespin;12;eau potable;132737;2024;82,5;1,2;5,6;66,1;conforme;80250;3658;31;105;319;Non vérifié;non
+12086;La Cresse;12;eau potable;132744;2024;73,4;1,9;5,2;66,0;conforme;69295;6460;53;134;333;Non vérifié;non
+12088;Curières;12;eau potable;132728;2024;68,2;1,2;2,5;65,5;conforme;345525;6064;77;178;215;Non vérifié;non
+12089;Decazeville;12;eau potable;223137;2024;82,4;1,1;5,3;66,1;conforme;274722;78748;43;81;5020;Non vérifié;non
+12090;Druelle Balsac;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;58136;50;95;3187;Non vérifié;non
+12091;Drulhe;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;8172;50;95;448;Non vérifié;non
+12092;Durenque;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;6739;36;98;515;Non vérifié;non
+12093;Le Fel;12;eau potable;132728;2024;68,2;1,2;2,5;65,5;conforme;345525;5500;77;178;195;Non vérifié;non
+12094;Entraygues-sur-Truyère;12;eau potable;132728;2024;68,2;1,2;2,5;65,5;conforme;345525;27188;77;178;964;Non vérifié;non
+12095;Escandolières;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;3867;50;95;212;Non vérifié;non
+12096;Espalion;12;eau potable;132728;2024;68,2;1,2;2,5;65,5;conforme;345525;129879;77;178;4605;Non vérifié;non
+12097;Espeyrac;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;4506;50;95;247;Non vérifié;non
+12098;Estaing;12;eau potable;132728;2024;68,2;1,2;2,5;65,5;conforme;345525;14158;77;178;502;Non vérifié;non
+12099;Fayet;12;eau potable;132498;2024;91,3;0,4;4,2;65,8;conforme;2482;2482;29;35;235;Non vérifié;non
+12100;Firmi;12;eau potable;223137;2024;82,4;1,1;5,3;66,1;conforme;274722;36362;43;81;2318;Non vérifié;non
+12101;Flagnac;12;eau potable;223137;2024;82,4;1,1;5,3;66,1;conforme;274722;17004;43;81;1084;Non vérifié;non
+12102;Flavin;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;31301;36;98;2392;Non vérifié;non
+12103;Florentin-la-Capelle;12;eau potable;132728;2024;68,2;1,2;2,5;65,5;conforme;345525;8066;77;178;286;Non vérifié;non
+12104;Foissac;12;eau potable;132731;2024;78,1;0,8;3,0;65,6;conforme;109500;4466;27;100;454;Non vérifié;non
+12105;La Fouillade;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;14761;36;98;1128;Non vérifié;non
+12106;Gabriac;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;10234;50;95;561;Non vérifié;non
+12107;Gaillac-d'Aveyron;12;eau potable;132733;2024;70,7;2,2;5,2;66,0;conforme;179824;7459;63;167;322;Non vérifié;non
+12108;Galgan;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;6622;50;95;363;Non vérifié;non
+12109;Gissac;12;eau potable;132509;2024;93,3;0,2;3,1;65,6;conforme;1241;1241;35;24;98;Non vérifié;non
+12110;Golinhac;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;6749;50;95;370;Non vérifié;non
+12111;Goutrens;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;8975;50;95;492;Non vérifié;non
+12113;Gramond;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;7210;36;98;551;Non vérifié;non
+12115;L' Hospitalet-du-Larzac;12;eau potable;132730;2024;72,3;1,3;3,3;65,7;conforme;166550;1896;15;142;348;Non vérifié;non
+12116;Huparlac;12;eau potable;132728;2024;68,2;1,2;2,5;65,5;conforme;345525;7051;77;178;250;Non vérifié;non
+12118;Lacroix-Barrez;12;eau potable : ex CC du Carladez;132734;2024;78,4;0,8;2,9;65,6;conforme;72159;13636;70;123;531;Non vérifié;non
+12119;Laguiole;12;eau potable : Régie des Eaux ACL ex Laguiole;281574;2024;91,4;3,1;33,1;71,6;conforme;62232;62232;141;157;1207;Non vérifié;non
+12120;Laissac-Sévérac l'Église;12;eau potable;132733;2024;70,7;2,2;5,2;66,0;conforme;179824;49595;63;167;2141;Non vérifié;non
+12121;Lanuéjouls;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;14210;50;95;779;Non vérifié;non
+12122;Lapanouse-de-Cernon;12;eau potable;132730;2024;72,3;1,3;3,3;65,7;conforme;166550;648;15;142;119;Non vérifié;non
+12124;Lassouts;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;5801;50;95;318;Non vérifié;non
+12125;Laval-Roquecezière;12;eau potable;132529;2024;93,0;0,1;1,6;65,3;conforme;1752;1752;16;23;303;Non vérifié;non
+12127;Lédergues;12;eau potable;132729;2024;72,3;1,0;2,4;65,5;conforme;348210;21976;89;165;677;Non vérifié;non
+12128;Lescure-Jaoul;12;eau potable;132741;2024;76,1;1,0;3,2;65,6;conforme;66561;3210;38;115;229;Non vérifié;non
+12129;Lestrade-et-Thouels;12;eau potable;132729;2024;72,3;1,0;2,4;65,5;conforme;348210;14283;89;165;440;Non vérifié;non
+12130;Livinhac-le-Haut;12;eau potable;223137;2024;82,4;1,1;5,3;66,1;conforme;274722;17114;43;81;1091;Non vérifié;non
+12131;La Loubière;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;28694;50;95;1573;Non vérifié;non
+12133;Luc-la-Primaube;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;110289;50;95;6046;Non vérifié;non
+12134;Lugan;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;6494;50;95;356;Non vérifié;non
+12135;Lunac;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;5692;36;98;435;Non vérifié;non
+12136;Maleville;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;17640;50;95;967;Non vérifié;non
+12137;Manhac;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;11476;36;98;877;Non vérifié;non
+12138;Marcillac-Vallon;12;eau potable : Conques - Muret-Le-Chateau;205993;2024;79,0;0,7;2,7;65,5;conforme;103104;27764;44;93;1711;Non vérifié;non
+12139;Marnhagues-et-Latour;12;eau potable;132541;2024;68,2;0,7;1,6;65,3;conforme;3832;3832;71;164;147;Non vérifié;non
+12140;Martiel;12;eau potable;132739;2024;79,4;1,4;5,3;66,1;conforme;106733;25078;68;106;1008;Non vérifié;non
+12141;Martrin;12;eau potable;132729;2024;72,3;1,0;2,4;65,5;conforme;348210;7823;89;165;241;Non vérifié;non
+12142;Mayran;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;11146;50;95;611;Non vérifié;non
+12144;Meljac;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;1845;36;98;141;Non vérifié;non
+12145;Millau;12;eau potable;132743;2024;81,2;0,3;1,2;65,2;conforme;17082;15595;2;93;22044;Non vérifié;non
+12146;Le Monastère;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;41864;50;95;2295;Non vérifié;non
+12147;Montagnol;12;eau potable;132550;2024;63,2;0,8;1,4;65,3;non conforme;8760;8760;161;204;149;Non vérifié;non
+12148;Montbazens;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;26377;50;95;1446;Non vérifié;non
+12149;Montclar;12;eau potable;132729;2024;72,3;1,0;2,4;65,5;conforme;348210;4317;89;165;133;Non vérifié;non
+12150;Monteils;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;6032;36;98;461;Non vérifié;non
+12151;Montézic;12;eau potable;132728;2024;68,2;1,2;2,5;65,5;conforme;345525;6374;77;178;226;Non vérifié;non
+12152;Montfranc;12;eau potable;132557;2024;93,6;0,2;2,8;65,6;conforme;414;414;9;26;130;Non vérifié;non
+12153;Montjaux;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;5705;36;98;436;Non vérifié;non
+12154;Montlaur;12;eau potable;132729;2024;72,3;1,0;2,4;65,5;conforme;348210;21522;89;165;663;Non vérifié;non
+12155;Fondamente;12;eau potable;132560;2024;46,2;18,4;15,8;68,2;non conforme;33849;33849;292;424;318;Non vérifié;non
+12156;Montpeyroux;12;eau potable;132728;2024;68,2;1,2;2,5;65,5;conforme;345525;14610;77;178;518;Non vérifié;non
+12157;Montrozier;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;31321;50;95;1717;Non vérifié;non
+12158;Montsalès;12;eau potable;132731;2024;78,1;0,8;3,0;65,6;conforme;109500;3138;27;100;319;Non vérifié;non
+12159;Morlhon-le-Haut;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;7262;36;98;555;Non vérifié;non
+12160;Mostuéjouls;12;eau potable;143361;2024;92,1;0,4;4,7;65,9;conforme;46282;1532;13;32;333;Non vérifié;non
+12161;Mouret;12;eau potable : Conques - Muret-Le-Chateau;205993;2024;79,0;0,7;2,7;65,5;conforme;103104;9087;44;93;560;Non vérifié;non
+12162;Moyrazès;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;14329;36;98;1095;Non vérifié;non
+12163;Murasson;12;eau potable;132729;2024;72,3;1,0;2,4;65,5;conforme;348210;6622;89;165;204;Non vérifié;non
+12164;Mur-de-Barrez;12;eau potable : ex CC du Carladez;132734;2024;78,4;0,8;2,9;65,6;conforme;72159;17796;70;123;693;Non vérifié;non
+12165;Muret-le-Château;12;eau potable : Conques - Muret-Le-Chateau;205993;2024;79,0;0,7;2,7;65,5;conforme;103104;5679;44;93;350;Non vérifié;non
+12166;Murols;12;eau potable : ex CC du Carladez;132734;2024;78,4;0,8;2,9;65,6;conforme;72159;2491;70;123;97;Non vérifié;non
+12167;Najac;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;10089;36;98;771;Non vérifié;non
+12168;Nant;12;eau potable;132730;2024;72,3;1,3;3,3;65,7;conforme;166550;5591;15;142;1026;Non vérifié;non
+12169;Naucelle;12;eau potable;132737;2024;82,5;1,2;5,6;66,1;conforme;80250;23070;31;105;2012;Non vérifié;non
+12170;Naussac;12;eau potable;132731;2024;78,1;0,8;3,0;65,6;conforme;109500;4269;27;100;434;Non vérifié;non
+12171;Nauviale;12;eau potable : Conques - Muret-Le-Chateau;205993;2024;79,0;0,7;2,7;65,5;conforme;103104;9363;44;93;577;Non vérifié;non
+12172;Le Nayrac;12;eau potable;132728;2024;68,2;1,2;2,5;65,5;conforme;345525;15653;77;178;555;Non vérifié;non
+12174;Olemps;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;64922;50;95;3559;Non vérifié;non
+12175;Ols-et-Rinhodes;12;eau potable;132731;2024;78,1;0,8;3,0;65,6;conforme;109500;1554;27;100;158;Non vérifié;non
+12176;Onet-le-Château;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;220358;50;95;12080;Non vérifié;non
+12177;Palmas d'Aveyron;12;eau potable;132738;2024;68,2;1,5;3,2;65,6;conforme;89138;26034;70;173;1026;Non vérifié;non
+12178;Paulhe;12;eau potable;132744;2024;73,4;1,9;5,2;66,0;conforme;69295;6945;53;134;358;Non vérifié;non
+12180;Peyreleau;12;eau potable;132743;2024;81,2;0,3;1,2;65,2;conforme;17082;49;2;93;69;Non vérifié;non
+12181;Peyrusse-le-Roc;12;eau potable;132731;2024;78,1;0,8;3,0;65,6;conforme;109500;1938;27;100;197;Non vérifié;non
+12182;Pierrefiche;12;eau potable;132738;2024;68,2;1,5;3,2;65,6;conforme;89138;7688;70;173;303;Non vérifié;non
+12183;Plaisance;12;eau potable;132729;2024;72,3;1,0;2,4;65,5;conforme;348210;7109;89;165;219;Non vérifié;non
+12184;Pomayrols;12;eau potable;132586;2024;82,1;0,5;2,2;65,4;conforme;912;912;22;83;116;Non vérifié;non
+12185;Pont-de-Salars;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;21238;36;98;1623;Non vérifié;non
+12186;Pousthomy;12;eau potable;132729;2024;72,3;1,0;2,4;65,5;conforme;348210;6882;89;165;212;Non vérifié;non
+12187;Prades-d'Aubrac;12;eau potable;132590;2024;76,2;0,5;1,6;65,3;conforme;6752;6752;67;112;278;Non vérifié;non
+12188;Prades-Salars;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;4070;36;98;311;Non vérifié;non
+12189;Pradinas;12;eau potable;132741;2024;76,1;1,0;3,2;65,6;conforme;66561;5173;38;115;369;Non vérifié;non
+12190;Prévinquières;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;3520;36;98;269;Non vérifié;non
+12191;Privezac;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;6385;50;95;350;Non vérifié;non
+12192;Mounes-Prohencoux;12;eau potable;132729;2024;72,3;1,0;2,4;65,5;conforme;348210;6265;89;165;193;Non vérifié;non
+12193;Pruines;12;eau potable : Conques - Muret-Le-Chateau;205993;2024;79,0;0,7;2,7;65,5;conforme;103104;4690;44;93;289;Non vérifié;non
+12194;Quins;12;eau potable;132737;2024;82,5;1,2;5,6;66,1;conforme;80250;10411;31;105;908;Non vérifié;non
+12195;Rebourguil;12;eau potable;132729;2024;72,3;1,0;2,4;65,5;conforme;348210;9608;89;165;296;Non vérifié;non
+12197;Réquista;12;eau potable;132729;2024;72,3;1,0;2,4;65,5;conforme;348210;62455;89;165;1924;Non vérifié;non
+12198;Rieupeyroux;12;eau potable;132741;2024;76,1;1,0;3,2;65,6;conforme;66561;27547;38;115;1965;Non vérifié;non
+12199;Rignac;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;36483;50;95;2000;Non vérifié;non
+12200;Rivière-sur-Tarn;12;eau potable;132744;2024;73,4;1,9;5,2;66,0;conforme;69295;20738;53;134;1069;Non vérifié;non
+12201;Rodelle;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;20467;50;95;1122;Non vérifié;non
+12202;Rodez;12;eau potable : ancienne Régie Eau de Rodez;132603;2024;94,5;2,1;35,3;72,1;conforme;103317;103317;12;22;23981;Non vérifié;non
+12203;Roquefort-sur-Soulzon;12;eau potable;132604;2024;61,5;8,7;13,9;67,8;non conforme;69131;69131;399;228;475;Non vérifié;non
+12204;La Roque-Sainte-Marguerite;12;eau potable;132743;2024;81,2;0,3;1,2;65,2;conforme;17082;129;2;93;182;Non vérifié;non
+12205;La Rouquette;12;eau potable;132739;2024;79,4;1,4;5,3;66,1;conforme;106733;19331;68;106;777;Non vérifié;non
+12206;Roussennac;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;11273;50;95;618;Non vérifié;non
+12207;Rullac-Saint-Cirq;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;4449;36;98;340;Non vérifié;non
+12208;Saint-Affrique;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;103913;36;98;7941;Non vérifié;non
+12209;Saint-Amans-des-Cots;12;eau potable;132728;2024;68,2;1,2;2,5;65,5;conforme;345525;19997;77;178;709;Non vérifié;non
+12210;Saint-André-de-Najac;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;5967;36;98;456;Non vérifié;non
+12211;Saint-André-de-Vézines;12;eau potable;132743;2024;81,2;0,3;1,2;65,2;conforme;17082;92;2;93;130;Non vérifié;non
+12212;Saint-Beaulize;12;eau potable;132616;2024;47,1;2,4;2,2;65,4;non conforme;10004;10004;256;407;107;Non vérifié;non
+12213;Saint-Beauzély;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;7197;36;98;550;Non vérifié;non
+12214;Saint-Chély-d'Aubrac;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;9431;50;95;517;Non vérifié;non
+12215;Saint-Christophe-Vallon;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;21635;50;95;1186;Non vérifié;non
+12216;Saint-Côme-d'Olt;12;eau potable : Saint-Côme-d'Olt;221595;2023;80,0;2,2;5,6;66,1;conforme;32923;32923;62;152;1449;Anomalie;oui
+12217;Sainte-Croix;12;eau potable;132731;2024;78,1;0,8;3,0;65,6;conforme;109500;7221;27;100;734;Non vérifié;non
+12219;Sainte-Eulalie-d'Olt;12;eau potable;132738;2024;68,2;1,5;3,2;65,6;conforme;89138;9312;70;173;367;Non vérifié;non
+12220;Sainte-Eulalie-de-Cernon;12;eau potable;132730;2024;72,3;1,3;3,3;65,7;conforme;166550;1771;15;142;325;Non vérifié;non
+12221;Saint-Félix-de-Lunel;12;eau potable : Conques - Muret-Le-Chateau;205993;2024;79,0;0,7;2,7;65,5;conforme;103104;6280;44;93;387;Non vérifié;non
+12222;Saint-Félix-de-Sorgues;12;eau potable;132629;2024;1,8;3,5;0,1;65,0;non conforme;10986;10986;148;20050;204;Non vérifié;non
+12223;Argences en Aubrac;12;eau potable : Régie des Eaux ACL ex Cantoin-Ste-Geneviève;281554;2024;66,6;1,9;3,8;65,8;conforme;125524;104835;182;185;1581;Non vérifié;non
+12224;Saint Geniez d'Olt et d'Aubrac;12;eau potable : Saint Geniez d'Olt et d'Aubrac;224194;2024;77,7;2,4;8,3;66,7;conforme;53436;53436;68;114;2142;Non vérifié;non
+12225;Saint-Georges-de-Luzençon;12;eau potable;132730;2024;72,3;1,3;3,3;65,7;conforme;166550;8528;15;142;1565;Non vérifié;non
+12226;Saint-Hippolyte;12;eau potable;132636;2023;70,5;0,6;1,5;65,3;conforme;13738;13738;88;143;428;Sans anomalie apparente;non
+12227;Saint-Igest;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;3429;50;95;188;Non vérifié;non
+12228;Saint-Izaire;12;eau potable;132729;2024;72,3;1,0;2,4;65,5;conforme;348210;10193;89;165;314;Non vérifié;non
+12229;Saint-Jean-d'Alcapiès;12;eau potable;132641;2024;54,4;6,8;8,1;66,6;non conforme;17002;17002;213;306;219;Non vérifié;non
+12230;Saint-Jean-Delnous;12;eau potable;132729;2024;72,3;1,0;2,4;65,5;conforme;348210;12692;89;165;391;Non vérifié;non
+12231;Saint-Jean-du-Bruel;12;eau potable;132644;2024;1,0;0,0;6,6;66,3;non conforme;0;0;0;0;639;Non vérifié;non
+12232;Saint-Jean-et-Saint-Paul;12;eau potable;132646;2023;46,4;5,5;4,8;66,0;non conforme;7428;7428;72;420;282;Sans anomalie apparente;non
+12233;Saint-Juéry;12;eau potable;132729;2024;72,3;1,0;2,4;65,5;conforme;348210;8310;89;165;256;Non vérifié;non
+12234;Sainte-Juliette-sur-Viaur;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;8440;36;98;645;Non vérifié;non
+12235;Saint-Just-sur-Viaur;12;eau potable;132737;2024;82,5;1,2;5,6;66,1;conforme;80250;2477;31;105;216;Non vérifié;non
+12236;Saint-Laurent-de-Lévézou;12;eau potable;132651;2024;96,8;0,1;2,6;65,5;conforme;334;334;6;16;161;Non vérifié;non
+12237;Saint-Laurent-d'Olt;12;eau potable;132738;2024;68,2;1,5;3,2;65,6;conforme;89138;15808;70;173;623;Non vérifié;non
+12238;Saint-Léons;12;eau potable;132654;2024;78,3;0,8;3,0;65,6;conforme;16644;16644;108;127;424;Non vérifié;non
+12239;Saint-Martin-de-Lenne;12;eau potable;132738;2024;68,2;1,5;3,2;65,6;conforme;89138;8627;70;173;340;Non vérifié;non
+12240;Saint-Parthem;12;eau potable;223137;2024;82,4;1,1;5,3;66,1;conforme;274722;6259;43;81;399;Non vérifié;non
+12241;Sainte-Radegonde;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;23462;36;98;1793;Non vérifié;non
+12242;Saint-Rémy;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;5655;50;95;310;Non vérifié;non
+12243;Saint-Rome-de-Cernon;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;12601;36;98;963;Non vérifié;non
+12244;Saint-Rome-de-Tarn;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;11829;36;98;904;Non vérifié;non
+12246;Saint-Santin;12;eau potable;223137;2024;82,4;1,1;5,3;66,1;conforme;274722;8063;43;81;514;Non vérifié;non
+12247;Saint-Saturnin-de-Lenne;12;eau potable;132738;2024;68,2;1,5;3,2;65,6;conforme;89138;8323;70;173;328;Non vérifié;non
+12248;Saint-Sernin-sur-Rance;12;eau potable;132729;2024;72,3;1,0;2,4;65,5;conforme;348210;18827;89;165;580;Non vérifié;non
+12249;Saint-Sever-du-Moustier;12;eau potable;132664;2024;96,6;0,2;5,8;66,2;conforme;161;161;2;13;179;Non vérifié;non
+12250;Saint-Symphorien-de-Thénières;12;eau potable;132728;2024;68,2;1,2;2,5;65,5;conforme;345525;6148;77;178;218;Non vérifié;non
+12251;Saint-Victor-et-Melvieu;12;eau potable;132667;2024;57,0;2,1;2,7;65,5;non conforme;14180;14180;136;279;286;Non vérifié;non
+12252;Salles-Courbatiès;12;eau potable;132731;2024;78,1;0,8;3,0;65,6;conforme;109500;4722;27;100;480;Non vérifié;non
+12253;Salles-Curan;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;13648;36;98;1043;Non vérifié;non
+12254;Salles-la-Source;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;42558;50;95;2333;Non vérifié;non
+12255;Salmiech;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;9906;36;98;757;Non vérifié;non
+12256;Salvagnac-Cajarc;12;eau potable;132731;2024;78,1;0,8;3,0;65,6;conforme;109500;3660;27;100;372;Non vérifié;non
+12257;Causse-et-Diège;12;eau potable;132731;2024;78,1;0,8;3,0;65,6;conforme;109500;7476;27;100;760;Non vérifié;non
+12258;La Salvetat-Peyralès;12;eau potable;132741;2024;76,1;1,0;3,2;65,6;conforme;66561;14075;38;115;1004;Non vérifié;non
+12259;Sanvensa;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;8414;36;98;643;Non vérifié;non
+12260;Sauclières;12;eau potable;132730;2024;72,3;1,3;3,3;65,7;conforme;166550;1024;15;142;188;Non vérifié;non
+12261;Saujac;12;eau potable;132731;2024;78,1;0,8;3,0;65,6;conforme;109500;1240;27;100;126;Non vérifié;non
+12262;Sauveterre-de-Rouergue;12;eau potable;132741;2024;76,1;1,0;3,2;65,6;conforme;66561;9939;38;115;709;Non vérifié;non
+12263;Savignac;12;eau potable;132739;2024;79,4;1,4;5,3;66,1;conforme;106733;18560;68;106;746;Non vérifié;non
+12264;Sébazac-Concourès;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;58993;50;95;3234;Non vérifié;non
+12265;Sébrazac;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;9814;50;95;538;Non vérifié;non
+12266;Ségur;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;6988;36;98;534;Non vérifié;non
+12267;La Selve;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;7354;36;98;562;Non vérifié;non
+12268;Sénergues;12;eau potable : Conques - Muret-Le-Chateau;205993;2024;79,0;0,7;2,7;65,5;conforme;103104;6864;44;93;423;Non vérifié;non
+12269;La Serre;12;eau potable;132729;2024;72,3;1,0;2,4;65,5;conforme;348210;4025;89;165;124;Non vérifié;non
+12270;Sévérac d'Aveyron;12;eau potable;143361;2024;92,1;0,4;4,7;65,9;conforme;46282;18526;13;32;4026;Non vérifié;non
+12272;Sonnac;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;9467;50;95;519;Non vérifié;non
+12273;Soulages-Bonneval;12;eau potable;132728;2024;68,2;1,2;2,5;65,5;conforme;345525;8264;77;178;293;Non vérifié;non
+12274;Sylvanès;12;eau potable;132688;2024;78,0;1,4;4,9;66,0;conforme;4088;4088;97;104;116;Non vérifié;non
+12275;Tauriac-de-Camarès;12;eau potable;132691;2024;63,5;0,2;0,3;65,1;non conforme;876;876;69;226;35;Non vérifié;non
+12276;Tauriac-de-Naucelle;12;eau potable;132737;2024;82,5;1,2;5,6;66,1;conforme;80250;4563;31;105;398;Non vérifié;non
+12277;Taussac;12;eau potable : ex CC du Carladez;132734;2024;78,4;0,8;2,9;65,6;conforme;72159;12942;70;123;504;Non vérifié;non
+12278;Tayrac;12;eau potable;132741;2024;76,1;1,0;3,2;65,6;conforme;66561;2636;38;115;188;Non vérifié;non
+12280;Thérondels;12;eau potable : ex CC du Carladez;132734;2024;78,4;0,8;2,9;65,6;conforme;72159;9168;70;123;357;Non vérifié;non
+12281;Toulonjac;12;eau potable;132739;2024;79,4;1,4;5,3;66,1;conforme;106733;18784;68;106;755;Non vérifié;non
+12282;Tournemire;12;eau potable;132699;2024;81,8;2,4;11,0;67,2;conforme;5168;5168;34;80;413;Non vérifié;non
+12283;Trémouilles;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;6189;36;98;473;Non vérifié;non
+12284;Le Truel;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;4580;36;98;350;Non vérifié;non
+12286;Vabres-l'Abbaye;12;eau potable;132729;2024;72,3;1,0;2,4;65,5;conforme;348210;39116;89;165;1205;Non vérifié;non
+12287;Vailhourles;12;eau potable;132739;2024;79,4;1,4;5,3;66,1;conforme;106733;16122;68;106;648;Non vérifié;non
+12288;Valady;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;29369;50;95;1610;Non vérifié;non
+12289;Valzergues;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;3776;50;95;207;Non vérifié;non
+12290;Vaureilles;12;eau potable : Montbazens-Rignac;132726;2024;80,6;1,4;5,8;66,2;conforme;1225378;8847;50;95;485;Non vérifié;non
+12291;Verrières;12;eau potable;143361;2024;92,1;0,4;4,7;65,9;conforme;46282;1643;13;32;357;Non vérifié;non
+12292;Versols-et-Lapeyre;12;eau potable;132709;2024;76,2;1,9;6,2;66,2;conforme;10056;10056;65;111;421;Non vérifié;non
+12293;Veyreau;12;eau potable;132743;2024;81,2;0,3;1,2;65,2;conforme;17082;88;2;93;124;Non vérifié;non
+12294;Vézins-de-Lévézou;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;8584;36;98;656;Non vérifié;non
+12295;Viala-du-Pas-de-Jaux;12;eau potable;132714;2024;89,1;0,5;3,8;65,8;conforme;1953;1953;64;48;84;Non vérifié;non
+12297;Le Vibal;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;6791;36;98;519;Non vérifié;non
+12298;Villecomtal;12;eau potable : Conques - Muret-Le-Chateau;205993;2024;79,0;0,7;2,7;65,5;conforme;103104;6977;44;93;430;Non vérifié;non
+12299;Villefranche-de-Panat;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;8859;36;98;677;Non vérifié;non
+12300;Villefranche-de-Rouergue;12;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;147488;36;98;11271;Non vérifié;non
+12301;Villeneuve;12;eau potable;132731;2024;78,1;0,8;3,0;65,6;conforme;109500;19163;27;100;1948;Non vérifié;non
+12303;Vimenet;12;eau potable;132733;2024;70,7;2,2;5,2;66,0;conforme;179824;5745;63;167;248;Non vérifié;non
+12305;Viviez;12;eau potable;223137;2024;82,4;1,1;5,3;66,1;conforme;274722;18981;43;81;1210;Non vérifié;non
+12307;Curan;12;eau potable;132724;2024;67,4;1,4;2,8;65,6;conforme;10338;10338;92;179;307;Non vérifié;non

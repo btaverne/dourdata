@@ -94,6 +94,7 @@ COLONNES = [
     ("jours_conso_commune",             "Jours de consommation équivalents",             0),
     ("population_insee",                "Population INSEE",                               0),
     ("avis_qualite_sispea",             "Avis qualité SISPEA (rendement)",               None),
+    ("donnee_suspecte",                 "Donnée suspecte (voir LISEZMOI)",               None),
 ]
 
 
@@ -102,9 +103,33 @@ def dep_of(insee: str) -> str:
     return insee[:3] if insee[:2] in ("97", "98") else insee[:2]
 
 
+def flag_suspecte(df: pd.DataFrame) -> pd.Series:
+    """Marque les lignes dont la donnée est probablement aberrante, à ne pas
+    citer telle quelle. Règles (transparentes) — « oui » si AU MOINS une :
+      - rendement <= 0 % ou > 100 % (physiquement impossible : erreur de saisie) ;
+      - avis qualité SISPEA « Anomalie » ou « Présomption d'anomalie » ;
+      - volume de pertes du service manquant (données de base incomplètes).
+
+    NB : l'avis « Non vérifié » (donnée récente pas encore validée par les
+    services de l'État) n'est PAS traité comme suspect — il concerne ~98 % du
+    dernier millésime et reste signalé dans la colonne « Avis qualité SISPEA ».
+    """
+    rend = df["rendement_reseau_pct"]
+    avis = df["avis_qualite_sispea"].fillna("").str.strip()
+    vol = df["volume_pertes_service_m3_an"]
+    suspecte = (
+        rend.isna() | (rend <= 0) | (rend > 100)
+        | (avis == "Anomalie")
+        | avis.str.contains("résomption|resomption", case=False, regex=True)
+        | vol.isna()
+    )
+    return suspecte.map({True: "oui", False: "non"})
+
+
 def load_source() -> pd.DataFrame:
     df = pd.read_csv(SOURCE_CSV, dtype={"code_commune_insee": str, "codes_service": str})
     df["departement"] = df["code_commune_insee"].map(dep_of)
+    df["donnee_suspecte"] = flag_suspecte(df)
     return df
 
 
@@ -185,7 +210,20 @@ def write_lisezmoi(path: Path, df: pd.DataFrame):
     ]
     for _, libelle, _ in COLONNES:
         lignes.append(f"- {libelle}")
+    n_susp = int((df["donnee_suspecte"] == "oui").sum())
     lignes += [
+        "",
+        "Colonne « Donnée suspecte » — à lire avant de citer un chiffre",
+        "-" * 74,
+        "Une ligne est marquée « oui » si AU MOINS un de ces cas est vrai :",
+        "  - rendement <= 0 % ou > 100 % (physiquement impossible : erreur de saisie) ;",
+        "  - avis qualité SISPEA « Anomalie » ou « Présomption d'anomalie » ;",
+        "  - volume de pertes du service manquant (données de base incomplètes).",
+        f"Concerne {n_susp} communes sur {len(df)}. Ces lignes NE sont PAS supprimées",
+        "(transparence) : elles restent dans le fichier mais ne doivent pas être",
+        "citées comme des mesures fiables. À l'inverse, l'avis « Non vérifié » n'est",
+        "PAS considéré comme suspect : c'est l'état normal d'une donnée récente pas",
+        "encore validée par les services de l'État, pas une anomalie.",
         "",
         "Avertissements de lecture",
         "-" * 74,
@@ -282,7 +320,10 @@ def write_index_html(outdir: Path, df: pd.DataFrame):
 
 def run_all(df: pd.DataFrame, outdir: Path, site: bool = False):
     mil = millesime_str(df)
-    write_csv(build_export(df), outdir / "dourdata_national.csv", mil, "France entière")
+    # Tri neutre par code INSEE : la première ligne n'est jamais une donnée
+    # aberrante (l'ancien tri par rendement mettait les 0 % artificiels en tête).
+    national = df.sort_values("code_commune_insee")
+    write_csv(build_export(national), outdir / "dourdata_national.csv", mil, "France entière")
     dep_dir = outdir / "departements"
     for dep, sub in df.groupby("departement"):
         write_csv(build_export(sub.sort_values("code_commune_insee")),

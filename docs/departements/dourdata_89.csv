@@ -7,416 +7,416 @@
 # Méthodologie et code : https://github.com/btaverne/dourdata
 # Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
 # Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
-Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
-89002;Aigremont;89;eau potable;120058;2024;82,2;0,7;3,3;65,7;conforme;4599;846;34;77;69;Non vérifié
-89003;Montholon;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;71170;72;160;2709;Non vérifié
-89004;Aisy-sur-Armançon;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;10598;125;304;232;Non vérifié
-89005;Ancy-le-Franc;89;eau potable;199926;2024;84,7;1,7;9,2;66,8;conforme;8811;8811;29;67;834;Non vérifié
-89006;Ancy-le-Libre;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;6258;125;304;137;Non vérifié
-89007;Andryes;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;11822;72;160;450;Non vérifié
-89008;Angely;89;eau potable;119683;2024;71,5;1,5;3,8;65,8;conforme;200385;4414;80;162;152;Non vérifié
-89009;Annay-la-Côte;89;eau potable;120105;2023;81,2;1,2;5,2;66,0;conforme;4818;3594;30;84;329;Sans anomalie apparente
-89010;Annay-sur-Serein;89;eau potable;120058;2024;82,2;0,7;3,3;65,7;conforme;4599;2514;34;77;205;Non vérifié
-89011;Annéot;89;eau potable;120105;2023;81,2;1,2;5,2;66,0;conforme;4818;1224;30;84;112;Sans anomalie apparente
-89012;Annoux;89;eau potable : DSP-Chatel-Gérard;120069;2024;81,7;0,6;2,8;65,6;conforme;12465;1591;51;107;85;Non vérifié
-89013;Appoigny;89;eau potable : Principal;240714;2024;80,0;3,6;14,6;67,9;conforme;983135;45771;40;94;3114;Non vérifié
-89014;Arces-Dilo;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;8817;39;120;615;Non vérifié
-89015;Arcy-sur-Cure;89;eau potable : Arcy-sur-Cure;119742;2024;56,7;3,1;4,1;65,8;non conforme;12922;12922;73;275;486;Non vérifié
-89016;Argentenay;89;eau potable;119744;2024;62,1;2,4;3,9;65,8;non conforme;2278;2278;76;223;82;Non vérifié
-89017;Argenteuil-sur-Armançon;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;10004;125;304;219;Non vérifié
-89018;Armeau;89;eau potable;199937;2024;73,4;5,6;15,3;68,1;conforme;1113980;17058;62;158;753;Non vérifié
-89019;Arthonnay;89;eau potable : COPE DE CHANNES / ARTHONNAY;148885;2024;66,9;2,3;4,6;65,9;conforme;8605;5003;91;183;150;Non vérifié
-89020;Asnières-sous-Bois;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;2969;72;160;113;Non vérifié
-89022;Athie;89;eau potable;119683;2024;71,5;1,5;3,8;65,8;conforme;200385;3921;80;162;135;Non vérifié
-89023;Augy;89;eau potable : Principal;240714;2024;80,0;3,6;14,6;67,9;conforme;983135;14022;40;94;954;Non vérifié
-89024;Auxerre;89;eau potable : Principal;240714;2024;80,0;3,6;14,6;67,9;conforme;983135;515871;40;94;35097;Non vérifié
-89025;Avallon;89;eau potable;119752;2024;83,9;3,0;15,6;68,1;conforme;88947;88947;39;87;6305;Non vérifié
-89027;Bagneaux;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;2810;39;120;196;Non vérifié
-89028;Baon;89;eau potable;119754;2024;47,7;1,8;1,6;65,3;non conforme;2628;2628;124;412;58;Non vérifié
-89029;Bassou;89;eau potable;120061;2024;71,2;4,9;12,0;67,4;conforme;39347;19231;61;149;869;Non vérifié
-89030;Bazarnes;89;eau potable : Bazarnes;119755;2024;76,0;1,8;5,7;66,1;conforme;7411;7411;48;115;422;Non vérifié
-89031;Beaumont;89;eau potable : SIAEP CHEMILLY BEAUMONT;119639;2024;83,8;2,4;12,3;67,5;conforme;16907;6942;31;71;618;Non vérifié
-89032;Beauvilliers;89;eau potable;119683;2024;71,5;1,5;3,8;65,8;conforme;200385;2178;80;162;75;Non vérifié
-89033;Beauvoir;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;10141;72;160;386;Non vérifié
-89034;Beine;89;eau potable : COPE DE BEINES;187430;2024;82,0;1,4;6,2;66,2;conforme;5667;5667;36;82;437;Non vérifié
-89035;Bellechaume;89;eau potable : Bellechaume;119758;2024;58,3;6,2;8,7;66,7;non conforme;17561;17561;110;261;436;Non vérifié
-89036;La Belliole;89;eau potable : principal;119715;2024;68,1;3,0;6,4;66,3;conforme;479840;7424;94;173;216;Non vérifié
-89037;Béon;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;13635;72;160;519;Non vérifié
-89038;Bernouil;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;4979;125;304;109;Non vérifié
-89039;Béru;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;3426;125;304;75;Non vérifié
-89040;Bessy-sur-Cure;89;eau potable : Bessy-sur-Cure;119762;2024;56,2;5,7;7,3;66,5;non conforme;7427;7427;111;286;184;Non vérifié
-89041;Beugnon;89;eau potable : SIAEP REGION ST FLORENTIN;120081;2024;57,9;4,1;5,7;66,1;non conforme;179580;10541;104;263;279;Non vérifié
-89042;Bierry-les-Belles-Fontaines;89;eau potable;119609;2024;78,4;0,8;2,8;65,6;conforme;9986;1493;25;118;163;Non vérifié
-89043;Blacy;89;eau potable;119686;2024;98,4;0,1;5,4;66,1;conforme;598;131;4;7;99;Non vérifié
-89044;Blannay;89;eau potable;119763;2024;94,0;0,4;6,6;66,3;conforme;321;321;8;22;105;Non vérifié
-89045;Bleigny-le-Carreau;89;eau potable : Principal;240714;2024;80,0;3,6;14,6;67,9;conforme;983135;4101;40;94;279;Non vérifié
-89046;Bléneau;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;30291;72;160;1153;Non vérifié
-89048;Boeurs-en-Othe;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;4788;39;120;334;Non vérifié
-89049;Bois-d'Arcy;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;631;72;160;24;Non vérifié
-89050;Bonnard;89;eau potable;120061;2024;71,2;4,9;12,0;67,4;conforme;39347;20116;61;149;909;Non vérifié
-89051;Les Bordes;89;eau potable;199937;2024;73,4;5,6;15,3;68,1;conforme;1113980;12482;62;158;551;Non vérifié
-89053;Branches;89;eau potable : Principal;240714;2024;80,0;3,6;14,6;67,9;conforme;983135;6379;40;94;434;Non vérifié
-89054;Brannay;89;eau potable : principal;119715;2024;68,1;3,0;6,4;66,3;conforme;479840;26570;94;173;773;Non vérifié
-89055;Brienon-sur-Armançon;89;eau potable : Brienon-sur-Armançon;119769;2024;37,9;20,0;12,2;67,4;non conforme;192428;192428;174;597;3032;Non vérifié
-89056;Brion;89;eau potable;119770;2024;65,7;3,3;6,4;66,3;non conforme;13249;13249;59;189;612;Non vérifié
-89057;Brosses;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;6962;72;160;265;Non vérifié
-89058;Bussières;89;eau potable;119683;2024;71,5;1,5;3,8;65,8;conforme;200385;3253;80;162;112;Non vérifié
-89059;Bussy-en-Othe;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;10007;39;120;698;Non vérifié
-89061;Butteaux;89;eau potable : COPE DE VILLIERS-VINEUX;120087;2024;58,4;4,1;5,7;66,1;non conforme;69587;13236;137;261;264;Non vérifié
-89062;Carisey;89;eau potable : COPE DE VILLIERS-VINEUX;120087;2024;58,4;4,1;5,7;66,1;non conforme;69587;18901;137;261;377;Non vérifié
-89063;La Celle-Saint-Cyr;89;eau potable;120084;2024;72,8;0,9;2,4;65,5;conforme;25340;5217;17;140;840;Non vérifié
-89064;Censy;89;eau potable : DSP-Chatel-Gérard;120069;2024;81,7;0,6;2,8;65,6;conforme;12465;955;51;107;51;Non vérifié
-89065;Cérilly;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;731;39;120;51;Non vérifié
-89066;Cerisiers;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;14164;39;120;988;Non vérifié
-89067;Cézy;89;eau potable;119776;2024;69,7;4,5;10,4;67,1;conforme;30386;30386;78;157;1070;Non vérifié
-89068;Chablis;89;eau potable : COPE DE CHABLIS;119612;2024;82,7;3,3;15,6;68,1;conforme;42037;37940;49;84;2139;Non vérifié
-89069;Chailley;89;eau potable : Chailley;119777;2024;66,4;4,2;8,3;66,7;non conforme;19776;19776;102;186;533;Non vérifié
-89071;Chamoux;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;2470;72;160;94;Non vérifié
-89072;Champcevrais;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;8118;72;160;309;Non vérifié
-89073;Champignelles;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;23776;72;160;905;Non vérifié
-89074;Champigny;89;eau potable;119695;2024;100,0;0,0;6,4;66,3;conforme;0;0;0;0;2128;Non vérifié
-89075;Champlay;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;19257;72;160;733;Non vérifié
-89076;Champlost;89;eau potable : Champlost;342394;2024;40,9;9,0;6,2;66,2;non conforme;78117;78117;279;560;767;Non vérifié
-89077;Champs-sur-Yonne;89;eau potable : Principal;240714;2024;80,0;3,6;14,6;67,9;conforme;983135;22239;40;94;1513;Non vérifié
-89079;Chamvres;89;eau potable;120066;2024;74,8;3,6;10,6;67,1;conforme;12365;8411;35;124;651;Non vérifié
-89080;La Chapelle-sur-Oreuse;89;eau potable;119784;2024;70,2;4,1;9,7;66,9;conforme;17958;17958;74;187;667;Non vérifié
-89081;La Chapelle-Vaupelteigne;89;eau potable : COPE DU MOULIN DES FEES;266675;2024;64,1;3,5;6,2;66,2;non conforme;136182;2737;85;207;88;Non vérifié
-89083;Charbuy;89;eau potable : Principal;240714;2024;80,0;3,6;14,6;67,9;conforme;983135;27457;40;94;1868;Non vérifié
-89084;Charentenay;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;7566;72;160;288;Non vérifié
-89085;Charmoy;89;eau potable;119789;2024;70,4;4,2;9,9;67,0;conforme;20696;20696;51;154;1104;Non vérifié
-89086;Charny Orée de Puisaye;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;128731;72;160;4900;Non vérifié
-89087;Chassignelles;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;13202;125;304;289;Non vérifié
-89088;Chassy;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;12400;72;160;472;Non vérifié
-89089;Chastellux-sur-Cure;89;eau potable;119683;2024;71,5;1,5;3,8;65,8;conforme;200385;3746;80;162;129;Non vérifié
-89091;Châtel-Censoir;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;14738;72;160;561;Non vérifié
-89092;Châtel-Gérard;89;eau potable : DSP-Chatel-Gérard;120069;2024;81,7;0,6;2,8;65,6;conforme;12465;3725;51;107;199;Non vérifié
-89093;Chaumont;89;eau potable;119793;2024;89,8;0,7;6,6;66,3;conforme;3125;3125;13;40;645;Non vérifié
-89095;Chemilly-sur-Serein;89;eau potable;119794;2024;78,4;1,3;4,8;66,0;conforme;2975;2975;61;99;134;Non vérifié
-89096;Chemilly-sur-Yonne;89;eau potable : SIAEP CHEMILLY BEAUMONT;119639;2024;83,8;2,4;12,3;67,5;conforme;16907;9964;31;71;887;Non vérifié
-89098;Cheney;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;10735;125;304;235;Non vérifié
-89099;Cheny;89;eau potable;119796;2024;69,8;7,4;17,2;68,4;conforme;36382;36382;45;157;2206;Non vérifié
-89100;Chéroy;89;eau potable : principal;119715;2024;68,1;3,0;6,4;66,3;conforme;479840;60496;94;173;1760;Non vérifié
-89101;Chéu;89;eau potable : SIAEP REGION ST FLORENTIN;120081;2024;57,9;4,1;5,7;66,1;non conforme;179580;19722;104;263;522;Non vérifié
-89102;Chevannes;89;eau potable : Principal;240714;2024;80,0;3,6;14,6;67,9;conforme;983135;31411;40;94;2137;Non vérifié
-89104;Chichée;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;13567;125;304;297;Non vérifié
-89105;Chichery;89;eau potable;119802;2023;83,8;2,9;15,0;68,0;conforme;4255;4255;27;71;426;Sans anomalie apparente
-89108;Chitry;89;eau potable : Principal;240714;2024;80,0;3,6;14,6;67,9;conforme;983135;5086;40;94;346;Non vérifié
-89111;Les Clérimois;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;4272;39;120;298;Non vérifié
-89112;Collan;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;7081;125;304;155;Non vérifié
-89113;Collemiers;89;eau potable;199937;2024;73,4;5,6;15,3;68,1;conforme;1113980;15019;62;158;663;Non vérifié
-89115;Compigny;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;2552;39;120;178;Non vérifié
-89116;Cornant;89;eau potable;201016;2024;80,2;1,8;7,3;66,5;conforme;37449;7863;59;148;367;Non vérifié
-89117;Coulangeron;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;5570;72;160;212;Non vérifié
-89118;Coulanges-la-Vineuse;89;eau potable : Principal;240714;2024;80,0;3,6;14,6;67,9;conforme;983135;11509;40;94;783;Non vérifié
-89119;Coulanges-sur-Yonne;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;13609;72;160;518;Non vérifié
-89120;Coulours;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;2021;39;120;141;Non vérifié
-89122;Courgenay;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;8086;39;120;564;Non vérifié
-89123;Courgis;89;eau potable : COPE DE COURGIS;119814;2024;74,4;1,5;4,3;65,9;conforme;4172;4172;49;129;231;Non vérifié
-89124;Courlon-sur-Yonne;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;16960;39;120;1183;Non vérifié
-89125;Courson-les-Carrières;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;23645;72;160;900;Non vérifié
-89126;Courtoin;89;eau potable : principal;119715;2024;68,1;3,0;6,4;66,3;conforme;479840;1341;94;173;39;Non vérifié
-89127;Courtois-sur-Yonne;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;11225;39;120;783;Non vérifié
-89128;Coutarnoux;89;eau potable;119683;2024;71,5;1,5;3,8;65,8;conforme;200385;3601;80;162;124;Non vérifié
-89129;Crain;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;10771;72;160;410;Non vérifié
-89130;Deux Rivières;89;eau potable (CRAVANT);119822;2024;59,9;4,1;6,1;66,2;non conforme;23480;23480;52;244;1245;Non vérifié
-89131;Cruzy-le-Châtel;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;10141;125;304;222;Non vérifié
-89132;Cry;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;7172;125;304;157;Non vérifié
-89133;Cudot;89;eau potable;119827;2024;52,8;4,5;5,0;66,0;non conforme;19710;19710;137;328;395;Non vérifié
-89134;Cussy-les-Forges;89;eau potable;119683;2024;71,5;1,5;3,8;65,8;conforme;200385;9351;80;162;322;Non vérifié
-89136;Cuy;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;12343;39;120;861;Non vérifié
-89137;Dannemoine;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;20648;125;304;452;Non vérifié
-89139;Diges;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;27638;72;160;1052;Non vérifié
-89141;Dissangis;89;eau potable;119683;2024;71,5;1,5;3,8;65,8;conforme;200385;3456;80;162;119;Non vérifié
-89142;Dixmont;89;eau potable;199937;2024;73,4;5,6;15,3;68,1;conforme;1113980;20094;62;158;887;Non vérifié
-89143;Dollot;89;eau potable : principal;119715;2024;68,1;3,0;6,4;66,3;conforme;479840;11240;94;173;327;Non vérifié
-89144;Domats;89;eau potable : principal;119715;2024;68,1;3,0;6,4;66,3;conforme;479840;26776;94;173;779;Non vérifié
-89145;Domecy-sur-Cure;89;eau potable;119832;2024;98,4;0,2;10,5;67,1;conforme;493;493;3;7;403;Non vérifié
-89146;Domecy-sur-le-Vault;89;eau potable;119833;2024;82,7;1,7;8,0;66,6;conforme;2048;2048;68;78;83;Non vérifié
-89147;Dracy;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;6200;72;160;236;Non vérifié
-89148;Druyes-les-Belles-Fontaines;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;6962;72;160;265;Non vérifié
-89149;Dyé;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;8497;125;304;186;Non vérifié
-89150;Égleny;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;12006;72;160;457;Non vérifié
-89151;Égriselles-le-Bocage;89;eau potable;201016;2024;80,2;1,8;7,3;66,5;conforme;37449;29586;59;148;1381;Non vérifié
-89153;Épineuil;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;23206;125;304;508;Non vérifié
-89154;Escamps;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;21963;72;160;836;Non vérifié
-89155;Escolives-Sainte-Camille;89;eau potable : Principal;240714;2024;80,0;3,6;14,6;67,9;conforme;983135;10568;40;94;719;Non vérifié
-89156;Esnon;89;eau potable : Esnon;119841;2024;71,1;2,2;5,5;66,1;conforme;7388;7388;54;146;375;Non vérifié
-89158;Étais-la-Sauvin;89;eau potable : Étais-la-Sauvin;119842;2024;45,2;4,6;3,8;65,8;non conforme;67026;67026;291;446;631;Non vérifié
-89159;Étaule;89;eau potable;119844;2024;0,0;0,0;0,0;65,0;non conforme;0;0;0;146;382;Non vérifié
-89160;Étigny;89;eau potable;199937;2024;73,4;5,6;15,3;68,1;conforme;1113980;16922;62;158;747;Non vérifié
-89161;Étivey;89;eau potable;119848;2024;50,1;1,8;1,8;65,4;non conforme;9198;9198;139;358;181;Non vérifié
-89162;Évry;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;5763;39;120;402;Non vérifié
-89163;La Ferté-Loupière;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;14686;72;160;559;Non vérifié
-89164;Festigny;89;eau potable;119851;2024;62,6;1,8;3,0;65,6;non conforme;2431;2431;72;217;92;Non vérifié
-89165;Flacy;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;1763;39;120;123;Non vérifié
-89167;Fleury-la-Vallée;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;26456;72;160;1007;Non vérifié
-89168;Fleys;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;7492;125;304;164;Non vérifié
-89169;Flogny-la-Chapelle;89;eau potable : COPE DE FLOGNY-LA-CHAPELLE;119856;2024;84,8;4,4;24,7;69,9;conforme;38785;38785;114;336;935;Non vérifié
-89170;Foissy-lès-Vézelay;89;eau potable;119859;2024;75,9;2,5;7,8;66,6;conforme;4015;4015;96;235;115;Non vérifié
-89171;Foissy-sur-Vanne;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;4272;39;120;298;Non vérifié
-89172;Fontaine-la-Gaillarde;89;eau potable;199937;2024;73,4;5,6;15,3;68,1;conforme;1113980;11916;62;158;526;Non vérifié
-89173;Fontaines;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;12059;72;160;459;Non vérifié
-89175;Fontenay-près-Chablis;89;eau potable : COPE DU MOULIN DES FEES;266675;2024;64,1;3,5;6,2;66,2;non conforme;136182;4168;85;207;134;Non vérifié
-89176;Fontenay-près-Vézelay;89;eau potable;120080;2024;69,5;1,7;3,8;65,8;conforme;18615;9172;186;324;135;Non vérifié
-89177;Fontenay-sous-Fouronnes;89;eau potable;119863;2024;77,4;2,1;7,2;66,4;conforme;1648;1648;50;107;90;Non vérifié
-89179;Fontenoy;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;8013;72;160;305;Non vérifié
-89180;Fouchères;89;eau potable : principal;119715;2024;68,1;3,0;6,4;66,3;conforme;479840;15193;94;173;442;Non vérifié
-89181;Fournaudin;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;1950;39;120;136;Non vérifié
-89182;Fouronnes;89;eau potable;119864;2024;57,6;2,5;3,5;65,7;non conforme;8030;8030;120;264;183;Non vérifié
-89183;Fresnes;89;eau potable;119865;2024;95,1;0,4;7,7;66,5;conforme;187;187;8;19;61;Non vérifié
-89184;Fulvy;89;eau potable;120086;2024;84,4;0,9;4,7;65,9;conforme;5420;639;14;70;128;Non vérifié
-89186;Germigny;89;eau potable : SIAEP REGION ST FLORENTIN;120081;2024;57,9;4,1;5,7;66,1;non conforme;179580;20025;104;263;530;Non vérifié
-89187;Gigny;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;3792;125;304;83;Non vérifié
-89188;Girolles;89;eau potable;120074;2024;89,1;0,5;4,2;65,8;conforme;1679;1073;15;43;200;Non vérifié
-89189;Gisy-les-Nobles;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;7813;39;120;545;Non vérifié
-89190;Givry;89;eau potable;119868;2024;77,9;1,1;4,0;65,8;conforme;2268;2268;34;100;181;Non vérifié
-89191;Gland;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;1645;125;304;36;Non vérifié
-89194;Grimault;89;eau potable : DSP-Chatel-Gérard;120069;2024;81,7;0,6;2,8;65,6;conforme;12465;2152;51;107;115;Non vérifié
-89195;Gron;89;eau potable;199937;2024;73,4;5,6;15,3;68,1;conforme;1113980;29178;62;158;1288;Non vérifié
-89196;Valravillon;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;46737;72;160;1779;Non vérifié
-89197;Guillon-Terre-Plaine;89;eau potable;119683;2024;71,5;1,5;3,8;65,8;conforme;200385;20416;80;162;703;Non vérifié
-89198;Gurgy;89;eau potable : Principal;240714;2024;80,0;3,6;14,6;67,9;conforme;983135;25325;40;94;1723;Non vérifié
-89199;Gy-l'Évêque;89;eau potable : Principal;240714;2024;80,0;3,6;14,6;67,9;conforme;983135;6497;40;94;442;Non vérifié
-89200;Hauterive;89;eau potable : hauterive;119649;2024;83,5;0,6;3,1;65,6;conforme;2919;2919;21;70;390;Non vérifié
-89201;Héry;89;eau potable : Héry;119652;2024;69,4;4,1;9,3;66,9;conforme;32953;32953;51;160;1784;Non vérifié
-89202;Irancy;89;eau potable : Principal;240714;2024;80,0;3,6;14,6;67,9;conforme;983135;3631;40;94;247;Non vérifié
-89203;Island;89;eau potable;119876;2024;99,1;0,0;2,2;65,4;conforme;0;0;0;0;187;Non vérifié
-89204;L' Isle-sur-Serein;89;eau potable;119654;2024;84,0;1,6;8,5;66,7;conforme;6482;6482;27;69;666;Non vérifié
-89205;Jaulges;89;eau potable : SIAEP REGION ST FLORENTIN;120081;2024;57,9;4,1;5,7;66,1;non conforme;179580;15793;104;263;418;Non vérifié
-89206;Joigny;89;eau potable;119878;2024;42,4;31,3;23,1;69,6;non conforme;819936;819936;249;495;9016;Non vérifié
-89207;Jouancy;89;eau potable : DSP-Chatel-Gérard;120069;2024;81,7;0,6;2,8;65,6;conforme;12465;543;51;107;29;Non vérifié
-89208;Joux-la-Ville;89;eau potable;119666;2024;74,6;2,3;6,8;66,4;conforme;38323;27796;65;124;1175;Non vérifié
-89209;Jouy;89;eau potable : principal;119715;2024;68,1;3,0;6,4;66,3;conforme;479840;17530;94;173;510;Non vérifié
-89210;Jully;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;5802;125;304;127;Non vérifié
-89211;Junay;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;2787;125;304;61;Non vérifié
-89212;Jussy;89;eau potable : Principal;240714;2024;80,0;3,6;14,6;67,9;conforme;983135;5159;40;94;351;Non vérifié
-89214;Lailly;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;2853;39;120;199;Non vérifié
-89215;Lain;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;4519;72;160;172;Non vérifié
-89216;Lainsecq;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;8617;72;160;328;Non vérifié
-89217;Lalande;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;3231;72;160;123;Non vérifié
-89218;Laroche-Saint-Cydroine;89;eau potable;119886;2024;59,5;4,2;6,2;66,2;non conforme;41391;41391;96;248;1185;Non vérifié
-89219;Lasson;89;eau potable : Lasson;119887;2024;91,7;0,6;7,0;66,4;conforme;740;740;14;31;141;Non vérifié
-89220;Lavau;89;eau potable;119888;2023;66,5;1,2;2,3;65,5;conforme;23402;23402;164;190;392;Sans anomalie apparente
-89221;Leugny;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;8276;72;160;315;Non vérifié
-89222;Levis;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;5859;72;160;223;Non vérifié
-89223;Lézinnes;89;eau potable;119892;2024;52,3;4,7;5,1;66,0;non conforme;29164;29164;120;335;666;Non vérifié
-89225;Lichères-sur-Yonne;89;eau potable;119894;2024;62,0;1,1;1,7;65,3;non conforme;1947;1947;109;234;49;Non vérifié
-89226;Lignorelles;89;eau potable : COPE DU MOULIN DES FEES;266675;2024;64,1;3,5;6,2;66,2;non conforme;136182;5755;85;207;185;Non vérifié
-89227;Ligny-le-Châtel;89;eau potable : COPE DU MOULIN DES FEES;266675;2024;64,1;3,5;6,2;66,2;non conforme;136182;37327;85;207;1200;Non vérifié
-89228;Lindry;89;eau potable : Principal;240714;2024;80,0;3,6;14,6;67,9;conforme;983135;19490;40;94;1326;Non vérifié
-89229;Lixy;89;eau potable : principal;119715;2024;68,1;3,0;6,4;66,3;conforme;479840;16499;94;173;480;Non vérifié
-89230;Looze;89;eau potable;120055;2024;79,5;3,0;11,8;67,4;conforme;5147;5147;32;93;443;Non vérifié
-89232;Lucy-le-Bois;89;eau potable;119683;2024;71,5;1,5;3,8;65,8;conforme;200385;9467;80;162;326;Non vérifié
-89233;Lucy-sur-Cure;89;eau potable : Lucy-sur-Cure;119897;2024;31,4;5,1;2,3;65,5;non conforme;10071;10071;131;798;210;Non vérifié
-89234;Lucy-sur-Yonne;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;3310;72;160;126;Non vérifié
-89235;Magny;89;eau potable;119683;2024;71,5;1,5;3,8;65,8;conforme;200385;25266;80;162;870;Non vérifié
-89236;Maillot;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;18178;39;120;1268;Non vérifié
-89237;Mailly-la-Ville;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;12952;72;160;493;Non vérifié
-89238;Mailly-le-Château;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;13504;72;160;514;Non vérifié
-89239;Malay-le-Grand;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;23368;39;120;1630;Non vérifié
-89240;Malay-le-Petit;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;4373;39;120;305;Non vérifié
-89242;Maligny;89;eau potable : COPE DU MOULIN DES FEES;266675;2024;64,1;3,5;6,2;66,2;non conforme;136182;24138;85;207;776;Non vérifié
-89244;Marmeaux;89;eau potable;119686;2024;98,4;0,1;5,4;66,1;conforme;598;111;4;7;84;Non vérifié
-89245;Marsangy;89;eau potable;199937;2024;73,4;5,6;15,3;68,1;conforme;1113980;19709;62;158;870;Non vérifié
-89246;Massangis;89;eau potable;119901;2024;71,5;2,2;5,4;66,1;conforme;8833;8833;73;148;332;Non vérifié
-89247;Mélisey;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;10187;125;304;223;Non vérifié
-89248;Menades;89;eau potable;120080;2024;69,5;1,7;3,8;65,8;conforme;18615;2446;186;324;36;Non vérifié
-89249;Mercy;89;eau potable : Mercy;342414;2024;31,6;6,1;2,8;65,6;non conforme;6679;6679;238;791;77;Non vérifié
-89250;Méré;89;eau potable : COPE DU MOULIN DES FEES;266675;2024;64,1;3,5;6,2;66,2;non conforme;136182;4946;85;207;159;Non vérifié
-89251;Merry-la-Vallée;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;9405;72;160;358;Non vérifié
-89252;Merry-Sec;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;4519;72;160;172;Non vérifié
-89253;Merry-sur-Yonne;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;4913;72;160;187;Non vérifié
-89254;Mézilles;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;13661;72;160;520;Non vérifié
-89255;Michery;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;15454;39;120;1078;Non vérifié
-89256;Migé;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;10088;72;160;384;Non vérifié
-89257;Migennes;89;eau potable;119910;2024;87,3;3,6;24,9;70,0;conforme;91231;91231;37;63;6688;Non vérifié
-89259;Môlay;89;eau potable;120058;2024;82,2;0,7;3,3;65,7;conforme;4599;1239;34;77;101;Non vérifié
-89261;Molinons;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;3914;39;120;273;Non vérifié
-89262;Molosmes;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;7081;125;304;155;Non vérifié
-89263;Monéteau;89;eau potable : Principal;240714;2024;80,0;3,6;14,6;67,9;conforme;983135;60469;40;94;4114;Non vérifié
-89264;Montacher-Villegardin;89;eau potable : principal;119715;2024;68,1;3,0;6,4;66,3;conforme;479840;24714;94;173;719;Non vérifié
-89265;Montigny-la-Resle;89;eau potable : Principal;240714;2024;80,0;3,6;14,6;67,9;conforme;983135;8408;40;94;572;Non vérifié
-89266;Montillot;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;6489;72;160;247;Non vérifié
-89267;Montréal;89;eau potable;119683;2024;71,5;1,5;3,8;65,8;conforme;200385;4676;80;162;161;Non vérifié
-89268;Mont-Saint-Sulpice;89;eau potable : Mont-Saint-Sulpice;119917;2024;64,4;4,2;7,7;66,5;non conforme;21508;21508;75;200;781;Non vérifié
-89270;Mouffy;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;3599;72;160;137;Non vérifié
-89271;Moulins-en-Tonnerrois;89;eau potable;120079;2024;68,5;1,3;2,9;65,6;conforme;15848;6491;160;163;111;Non vérifié
-89272;Moulins-sur-Ouanne;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;7146;72;160;272;Non vérifié
-89273;Moutiers-en-Puisaye;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;7041;72;160;268;Non vérifié
-89274;Nailly;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;18393;39;120;1283;Non vérifié
-89276;Neuvy-Sautour;89;eau potable : Neuvy-Sautour;209855;2024;65,7;5,2;10,0;67,0;non conforme;17765;17765;56;190;873;Non vérifié
-89277;Nitry;89;eau potable : COPE DE NITRY;119925;2024;79,6;1,7;6,7;66,3;conforme;10244;10244;75;92;372;Non vérifié
-89278;Noé;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;8014;39;120;559;Non vérifié
-89279;Noyers;89;eau potable;119928;2024;63,5;2,6;4,6;65,9;non conforme;25566;25566;119;221;587;Non vérifié
-89280;Nuits;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;16537;125;304;362;Non vérifié
-89281;Les Ormes;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;7382;72;160;281;Non vérifié
-89282;Ormoy;89;eau potable : Ormoy;119932;2024;59,6;3,4;5,0;66,0;non conforme;19310;19310;83;248;638;Non vérifié
-89283;Ouanne;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;15185;72;160;578;Non vérifié
-89284;Pacy-sur-Armançon;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;8131;125;304;178;Non vérifié
-89285;Pailly;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;4000;39;120;279;Non vérifié
-89286;Parly;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;21464;72;160;817;Non vérifié
-89287;Paron;89;eau potable;199937;2024;73,4;5,6;15,3;68,1;conforme;1113980;109509;62;158;4834;Non vérifié
-89288;Paroy-en-Othe;89;eau potable : Paroy-en-Othe;120108;2024;86,4;1,1;7,2;66,4;conforme;923;923;17;56;150;Non vérifié
-89289;Paroy-sur-Tholon;89;eau potable;120066;2024;74,8;3,6;10,6;67,1;conforme;12365;3954;35;124;306;Non vérifié
-89290;Pasilly;89;eau potable : DSP-Chatel-Gérard;120069;2024;81,7;0,6;2,8;65,6;conforme;12465;1011;51;107;54;Non vérifié
-89291;Passy;89;eau potable;199937;2024;73,4;5,6;15,3;68,1;conforme;1113980;7340;62;158;324;Non vérifié
-89292;Percey;89;eau potable : COPE DE VILLIERS-VINEUX;120087;2024;58,4;4,1;5,7;66,1;non conforme;69587;12433;137;261;248;Non vérifié
-89295;Perrigny;89;eau potable : Principal;240714;2024;80,0;3,6;14,6;67,9;conforme;983135;18329;40;94;1247;Non vérifié
-89296;Perrigny-sur-Armançon;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;5619;125;304;123;Non vérifié
-89297;Pierre-Perthuis;89;eau potable;120080;2024;69,5;1,7;3,8;65,8;conforme;18615;6998;186;324;103;Non vérifié
-89299;Pimelles;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;2787;125;304;61;Non vérifié
-89300;Pisy;89;eau potable;119609;2024;78,4;0,8;2,8;65,6;conforme;9986;733;25;118;80;Non vérifié
-89303;Poilly-sur-Serein;89;eau potable;119658;2024;100,0;0,1;8,4;66,7;conforme;256;256;3;4;240;Non vérifié
-89304;Poilly-sur-Tholon;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;17497;72;160;666;Non vérifié
-89306;Pontaubert;89;eau potable;119948;2024;74,1;2,0;0,0;65,0;conforme;5441420;5441420;41994;89529;355;Non vérifié
-89307;Pontigny;89;eau potable : COPE DU MOULIN DES FEES;266675;2024;64,1;3,5;6,2;66,2;non conforme;136182;23392;85;207;752;Non vérifié
-89308;Pont-sur-Vanne;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;3097;39;120;216;Non vérifié
-89309;Pont-sur-Yonne;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;48614;39;120;3391;Non vérifié
-89310;La Postolle;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;2279;39;120;159;Non vérifié
-89311;Pourrain;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;33365;72;160;1270;Non vérifié
-89312;Précy-le-Sec;89;eau potable;119666;2024;74,6;2,3;6,8;66,4;conforme;38323;5512;65;124;233;Non vérifié
-89313;Précy-sur-Vrin;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;11218;72;160;427;Non vérifié
-89314;Prégilbert;89;eau potable : Prégilbert;119952;2024;98,6;0,1;7,4;66,5;conforme;112;112;2;5;180;Non vérifié
-89315;Préhy;89;eau potable : COPE DE CHANTEMERLE;119659;2024;88,5;0,8;6,4;66,3;conforme;4088;1064;19;46;157;Non vérifié
-89316;Provency;89;eau potable;119683;2024;71,5;1,5;3,8;65,8;conforme;200385;7260;80;162;250;Non vérifié
-89318;Quarré-les-Tombes;89;eau potable;119683;2024;71,5;1,5;3,8;65,8;conforme;200385;17977;80;162;619;Non vérifié
-89319;Quenne;89;eau potable : Principal;240714;2024;80,0;3,6;14,6;67,9;conforme;983135;7041;40;94;479;Non vérifié
-89320;Quincerot;89;eau potable : COPE DU LANDION;148855;2024;88,3;0,4;3,3;65,7;conforme;4085;504;30;44;46;Non vérifié
-89323;Roffey;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;6761;125;304;148;Non vérifié
-89324;Rogny-les-Sept-Écluses;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;18390;72;160;700;Non vérifié
-89325;Ronchères;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;2259;72;160;86;Non vérifié
-89326;Rosoy;89;eau potable;199937;2024;73,4;5,6;15,3;68,1;conforme;1113980;24285;62;158;1072;Non vérifié
-89327;Rousson;89;eau potable;199937;2024;73,4;5,6;15,3;68,1;conforme;1113980;8744;62;158;386;Non vérifié
-89328;Rouvray;89;eau potable : COPE DU MOULIN DES FEES;266675;2024;64,1;3,5;6,2;66,2;non conforme;136182;11447;85;207;368;Non vérifié
-89329;Rugny;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;3563;125;304;78;Non vérifié
-89331;Sainpuits;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;7356;72;160;280;Non vérifié
-89332;Saint-Agnan;89;eau potable : principal;119715;2024;68,1;3,0;6,4;66,3;conforme;479840;31382;94;173;913;Non vérifié
-89333;Saint-André-en-Terre-Plaine;89;eau potable;119683;2024;71,5;1,5;3,8;65,8;conforme;200385;4763;80;162;164;Non vérifié
-89334;Le Val d'Ocre;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;14791;72;160;563;Non vérifié
-89335;Saint-Aubin-sur-Yonne;89;eau potable;119966;2024;46,4;6,2;5,4;66,1;non conforme;18873;18873;119;420;434;Non vérifié
-89337;Saint-Bris-le-Vineux;89;eau potable : Principal;240714;2024;80,0;3,6;14,6;67,9;conforme;983135;15051;40;94;1024;Non vérifié
-89338;Saint-Clément;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;40844;39;120;2849;Non vérifié
-89339;Sainte-Colombe;89;eau potable;119683;2024;71,5;1,5;3,8;65,8;conforme;200385;5344;80;162;184;Non vérifié
-89341;Saint-Cyr-les-Colons;89;eau potable : COPE DE LA REGION DE VERMENTON;120085;2024;67,0;2,2;4,5;65,9;conforme;30851;7867;48;179;446;Non vérifié
-89342;Saint-Denis-lès-Sens;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;9003;39;120;628;Non vérifié
-89344;Saint-Fargeau;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;37805;72;160;1439;Non vérifié
-89345;Saint-Florentin;89;eau potable : Saint-Florentin;119970;2024;71,1;5,5;13,5;67,7;conforme;150562;150562;99;212;4164;Non vérifié
-89346;Saint-Georges-sur-Baulche;89;eau potable : Principal;240714;2024;80,0;3,6;14,6;67,9;conforme;983135;46315;40;94;3151;Non vérifié
-89347;Saint-Germain-des-Champs;89;eau potable;119683;2024;71,5;1,5;3,8;65,8;conforme;200385;9932;80;162;342;Non vérifié
-89348;Saint-Julien-du-Sault;89;eau potable;120084;2024;72,8;0,9;2,4;65,5;conforme;25340;13496;17;140;2173;Non vérifié
-89349;Saint-Léger-Vauban;89;eau potable;119683;2024;71,5;1,5;3,8;65,8;conforme;200385;10339;80;162;356;Non vérifié
-89350;Saint-Loup-d'Ordon;89;eau potable;120084;2024;72,8;0,9;2,4;65,5;conforme;25340;1503;17;140;242;Non vérifié
-89351;Sainte-Magnance;89;eau potable;119683;2024;71,5;1,5;3,8;65,8;conforme;200385;13853;80;162;477;Non vérifié
-89352;Saint-Martin-des-Champs;89;eau potable;119973;2024;93,7;0,2;2,3;65,5;conforme;2070;2070;22;32;258;Non vérifié
-89353;Saint-Martin-d'Ordon;89;eau potable;120084;2024;72,8;0,9;2,4;65,5;conforme;25340;2602;17;140;419;Non vérifié
-89354;Saint-Martin-du-Tertre;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;22020;39;120;1536;Non vérifié
-89355;Saint-Martin-sur-Armançon;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;6304;125;304;138;Non vérifié
-89359;Saint-Maurice-aux-Riches-Hommes;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;5835;39;120;407;Non vérifié
-89360;Saint-Maurice-le-Vieil;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;9721;72;160;370;Non vérifié
-89361;Saint-Maurice-Thizouaille;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;6726;72;160;256;Non vérifié
-89362;Saint-Moré;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;4624;72;160;176;Non vérifié
-89363;Sainte-Pallaye;89;eau potable : Sainte-Pallaye;119981;2024;42,3;8,4;6,2;66,2;non conforme;5335;5335;151;496;97;Non vérifié
-89364;Saint-Père;89;eau potable;119662;2024;68,9;2,8;6,1;66,2;conforme;14482;11789;112;166;289;Non vérifié
-89365;Saint-Privé;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;13530;72;160;515;Non vérifié
-89367;Saints-en-Puisaye;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;14397;72;160;548;Non vérifié
-89368;Saint-Sauveur-en-Puisaye;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;23776;72;160;905;Non vérifié
-89369;Saint-Sérotin;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;8544;39;120;596;Non vérifié
-89370;Saint-Valérien;89;eau potable : principal;119715;2024;68,1;3,0;6,4;66,3;conforme;479840;62661;94;173;1823;Non vérifié
-89371;Sainte-Vertu;89;eau potable;119984;2023;83,9;0,3;1,7;65,3;conforme;876;876;36;64;66;Sans anomalie apparente
-89373;Saligny;89;eau potable;199937;2024;73,4;5,6;15,3;68,1;conforme;1113980;14657;62;158;647;Non vérifié
-89374;Sambourg;89;eau potable;120079;2024;68,5;1,3;2,9;65,6;conforme;15848;3684;160;163;63;Non vérifié
-89375;Santigny;89;eau potable;119609;2024;78,4;0,8;2,8;65,6;conforme;9986;760;25;118;83;Non vérifié
-89376;Sarry;89;eau potable : DSP-Chatel-Gérard;120069;2024;81,7;0,6;2,8;65,6;conforme;12465;2489;51;107;133;Non vérifié
-89377;Sauvigny-le-Beuréal;89;eau potable;119683;2024;71,5;1,5;3,8;65,8;conforme;200385;1946;80;162;67;Non vérifié
-89378;Sauvigny-le-Bois;89;eau potable;119683;2024;71,5;1,5;3,8;65,8;conforme;200385;21549;80;162;742;Non vérifié
-89379;Savigny-en-Terre-Plaine;89;eau potable;119683;2024;71,5;1,5;3,8;65,8;conforme;200385;3979;80;162;137;Non vérifié
-89380;Savigny-sur-Clairis;89;eau potable : principal;119715;2024;68,1;3,0;6,4;66,3;conforme;479840;15468;94;173;450;Non vérifié
-89382;Seignelay;89;eau potable : Seignelay;119693;2024;67,7;5,0;10,6;67,1;conforme;35642;35642;66;227;1476;Non vérifié
-89383;Sementron;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;2811;72;160;107;Non vérifié
-89384;Senan;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;17655;72;160;672;Non vérifié
-89385;Sennevoy-le-Bas;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;3426;125;304;75;Non vérifié
-89386;Sennevoy-le-Haut;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;5527;125;304;121;Non vérifié
-89387;Sens;89;eau potable;199937;2024;73,4;5,6;15,3;68,1;conforme;1113980;614055;62;158;27106;Non vérifié
-89388;Sépeaux-Saint Romain;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;13293;72;160;506;Non vérifié
-89390;Serbonnes;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;10265;39;120;716;Non vérifié
-89391;Sergines;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;17533;39;120;1223;Non vérifié
-89392;Sermizelles;89;eau potable;120056;2024;86,6;1,5;9,6;66,9;conforme;2847;2847;31;57;248;Non vérifié
-89393;Serrigny;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;5116;125;304;112;Non vérifié
-89394;Sery;89;eau potable : Sery;119991;2024;46,0;8,7;7,4;66,5;non conforme;8510;8510;295;426;79;Non vérifié
-89395;Les Sièges;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;6294;39;120;439;Non vérifié
-89397;Sommecaise;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;10193;72;160;388;Non vérifié
-89398;Sormery;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2023;71,4;2,3;5,6;66,1;conforme;723649;7961;58;171;374;Sans anomalie apparente
-89399;Soucy;89;eau potable;199937;2024;73,4;5,6;15,3;68,1;conforme;1113980;34796;62;158;1536;Non vérifié
-89400;Sougères-en-Puisaye;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;7593;72;160;289;Non vérifié
-89402;Soumaintrain;89;eau potable : COPE DE VILLIERS-VINEUX;120087;2024;58,4;4,1;5,7;66,1;non conforme;69587;10578;137;261;211;Non vérifié
-89403;Stigny;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;4066;125;304;89;Non vérifié
-89404;Subligny;89;eau potable : principal;119715;2024;68,1;3,0;6,4;66,3;conforme;479840;17461;94;173;508;Non vérifié
-89405;Les Hauts de Forterre;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;12138;72;160;462;Non vérifié
-89406;Talcy;89;eau potable;119686;2024;98,4;0,1;5,4;66,1;conforme;598;110;4;7;83;Non vérifié
-89407;Tanlay;89;eau potable;119996;2024;51,8;6,4;6,8;66,4;non conforme;37703;37703;115;342;897;Non vérifié
-89408;Tannerre-en-Puisaye;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;7067;72;160;269;Non vérifié
-89409;Tharoiseau;89;eau potable;119662;2024;68,9;2,8;6,1;66,2;conforme;14482;2692;112;166;66;Non vérifié
-89410;Tharot;89;eau potable;120074;2024;89,1;0,5;4,2;65,8;conforme;1679;606;15;43;113;Non vérifié
-89411;Les Vallées de la Vanne;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;14637;39;120;1021;Non vérifié
-89412;Thizy;89;eau potable;119686;2024;98,4;0,1;5,4;66,1;conforme;598;246;4;7;186;Non vérifié
-89414;Thorigny-sur-Oreuse;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;20013;39;120;1396;Non vérifié
-89415;Thory;89;eau potable;119683;2024;71,5;1,5;3,8;65,8;conforme;200385;5547;80;162;191;Non vérifié
-89416;Thury;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;10982;72;160;418;Non vérifié
-89417;Tissey;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;4934;125;304;108;Non vérifié
-89418;Tonnerre;89;eau potable : DSP-Tonnerre;201014;2024;76,3;4,4;14,3;67,9;conforme;116419;116419;75;155;4261;Non vérifié
-89419;Toucy;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;67545;72;160;2571;Non vérifié
-89420;Treigny-Perreuse-Sainte-Colombe;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;28452;72;160;1083;Non vérifié
-89422;Trichey;89;eau potable : COPE DU LANDION;148855;2024;88,3;0,4;3,3;65,7;conforme;4085;460;30;44;42;Non vérifié
-89423;Tronchoy;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;5436;125;304;119;Non vérifié
-89424;Trucy-sur-Yonne;89;eau potable : Trucy-sur-Yonne;120010;2024;54,8;2,2;2,7;65,5;non conforme;4818;4818;100;300;132;Non vérifié
-89425;Turny;89;eau potable : SIAEP REGION ST FLORENTIN;120081;2024;57,9;4,1;5,7;66,1;non conforme;179580;24370;104;263;645;Non vérifié
-89426;Val-de-Mercy;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;9537;72;160;363;Non vérifié
-89427;Vallan;89;eau potable : Principal;240714;2024;80,0;3,6;14,6;67,9;conforme;983135;9907;40;94;674;Non vérifié
-89428;Vallery;89;eau potable : principal;119715;2024;68,1;3,0;6,4;66,3;conforme;479840;19764;94;173;575;Non vérifié
-89430;Varennes;89;eau potable : COPE DU MOULIN DES FEES;266675;2024;64,1;3,5;6,2;66,2;non conforme;136182;10296;85;207;331;Non vérifié
-89431;Vassy-sous-Pisy;89;eau potable;119609;2024;78,4;0,8;2,8;65,6;conforme;9986;559;25;118;61;Non vérifié
-89432;Vaudeurs;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;6724;39;120;469;Non vérifié
-89433;Vault-de-Lugny;89;eau potable;120015;2023;67,8;5,6;11,8;67,4;conforme;12203;12203;123;173;271;Sans anomalie apparente
-89434;Vaumort;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;4903;39;120;342;Non vérifié
-89436;Venizy;89;eau potable : Venizy;120016;2024;35,8;7,2;4,0;65,8;non conforme;69826;69826;232;654;824;Non vérifié
-89437;Venouse;89;eau potable : COPE DU MOULIN DES FEES;266675;2024;64,1;3,5;6,2;66,2;non conforme;136182;8958;85;207;288;Non vérifié
-89438;Venoy;89;eau potable : Principal;240714;2024;80,0;3,6;14,6;67,9;conforme;983135;25590;40;94;1741;Non vérifié
-89439;Vergigny;89;eau potable : SIAEP REGION ST FLORENTIN;120081;2024;57,9;4,1;5,7;66,1;non conforme;179580;56145;104;263;1486;Non vérifié
-89440;Verlin;89;eau potable;120084;2024;72,8;0,9;2,4;65,5;conforme;25340;2522;17;140;406;Non vérifié
-89441;Vermenton;89;eau potable : COPE DE LA REGION DE VERMENTON;120085;2024;67,0;2,2;4,5;65,9;conforme;30851;22984;48;179;1303;Non vérifié
-89442;Vernoy;89;eau potable : principal;119715;2024;68,1;3,0;6,4;66,3;conforme;479840;8387;94;173;244;Non vérifié
-89443;Véron;89;eau potable;199937;2024;73,4;5,6;15,3;68,1;conforme;1113980;41887;62;158;1849;Non vérifié
-89445;Vézannes;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;2375;125;304;52;Non vérifié
-89447;Vézinnes;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;7218;125;304;158;Non vérifié
-89449;Villeblevin;89;eau potable;120026;2024;90,9;1,2;12,1;67,4;conforme;9198;9198;14;36;1795;Non vérifié
-89450;Villebougis;89;eau potable : principal;119715;2024;68,1;3,0;6,4;66,3;conforme;479840;21723;94;173;632;Non vérifié
-89451;Villechétive;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;3727;39;120;260;Non vérifié
-89452;Villecien;89;eau potable;120027;2024;56,1;5,8;7,4;66,5;non conforme;13125;13125;107;285;335;Non vérifié
-89453;Villefargeau;89;eau potable : Principal;240714;2024;80,0;3,6;14,6;67,9;conforme;983135;16139;40;94;1098;Non vérifié
-89456;Villemanoche;89;eau potable;120029;2024;41,5;18,3;13,0;67,6;non conforme;43150;43150;177;515;667;Non vérifié
-89458;Villenavotte;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;2322;39;120;162;Non vérifié
-89459;Villeneuve-la-Dondagre;89;eau potable : principal;119715;2024;68,1;3,0;6,4;66,3;conforme;479840;11480;94;173;334;Non vérifié
-89460;Villeneuve-la-Guyard;89;eau potable;120034;2024;57,3;10,1;13,6;67,7;non conforme;114761;114761;91;271;3455;Non vérifié
-89461;Villeneuve-l'Archevêque;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;15942;39;120;1112;Non vérifié
-89462;Villeneuve-les-Genêts;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;8197;72;160;312;Non vérifié
-89463;Villeneuve-Saint-Salves;89;eau potable : Principal;240714;2024;80,0;3,6;14,6;67,9;conforme;983135;3763;40;94;256;Non vérifié
-89464;Villeneuve-sur-Yonne;89;eau potable;199937;2024;73,4;5,6;15,3;68,1;conforme;1113980;116327;62;158;5135;Non vérifié
-89465;Villeperrot;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;4043;39;120;282;Non vérifié
-89466;Villeroy;89;eau potable : principal;119715;2024;68,1;3,0;6,4;66,3;conforme;479840;13199;94;173;384;Non vérifié
-89467;Villethierry;89;eau potable : principal;119715;2024;68,1;3,0;6,4;66,3;conforme;479840;27120;94;173;789;Non vérifié
-89468;Villevallier;89;eau potable;120038;2024;52,6;5,1;5,7;66,1;non conforme;19546;19546;129;328;416;Non vérifié
-89469;Perceneige;89;eau potable;120040;2024;84,9;1,1;6,2;66,2;conforme;12446;12446;36;69;940;Non vérifié
-89470;Villiers-les-Hauts;89;eau potable;120086;2024;84,4;0,9;4,7;65,9;conforme;5420;619;14;70;124;Non vérifié
-89471;Villiers-Louis;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;6466;39;120;451;Non vérifié
-89472;Villiers-Saint-Benoît;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;11218;72;160;427;Non vérifié
-89474;Villiers-Vineux;89;eau potable : COPE DE VILLIERS-VINEUX;120087;2024;58,4;4,1;5,7;66,1;non conforme;69587;14439;137;261;288;Non vérifié
-89475;Villon;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;5116;125;304;112;Non vérifié
-89477;Villy;89;eau potable : COPE DU MOULIN DES FEES;266675;2024;64,1;3,5;6,2;66,2;non conforme;136182;3017;85;207;97;Non vérifié
-89478;Vincelles;89;eau potable : Principal;240714;2024;80,0;3,6;14,6;67,9;conforme;983135;13420;40;94;913;Non vérifié
-89479;Vincelottes;89;eau potable : Principal;240714;2024;80,0;3,6;14,6;67,9;conforme;983135;4189;40;94;285;Non vérifié
-89480;Vinneuf;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;22020;39;120;1536;Non vérifié
-89481;Vireaux;89;eau potable;120079;2024;68,5;1,3;2,9;65,6;conforme;15848;5673;160;163;97;Non vérifié
-89482;Viviers;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;4842;125;304;106;Non vérifié
-89483;Voisines;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;7498;39;120;523;Non vérifié
-89485;Voutenay-sur-Cure;89;eau potable;120052;2024;74,6;2,3;6,8;66,4;conforme;38323;38323;495;124;212;Non vérifié
-89486;Yrouerre;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;6578;125;304;144;Non vérifié
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement);Donnée suspecte (voir LISEZMOI)
+89002;Aigremont;89;eau potable;120058;2024;82,2;0,7;3,3;65,7;conforme;4599;846;34;77;69;Non vérifié;non
+89003;Montholon;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;71170;72;160;2709;Non vérifié;non
+89004;Aisy-sur-Armançon;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;10598;125;304;232;Non vérifié;non
+89005;Ancy-le-Franc;89;eau potable;199926;2024;84,7;1,7;9,2;66,8;conforme;8811;8811;29;67;834;Non vérifié;non
+89006;Ancy-le-Libre;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;6258;125;304;137;Non vérifié;non
+89007;Andryes;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;11822;72;160;450;Non vérifié;non
+89008;Angely;89;eau potable;119683;2024;71,5;1,5;3,8;65,8;conforme;200385;4414;80;162;152;Non vérifié;non
+89009;Annay-la-Côte;89;eau potable;120105;2023;81,2;1,2;5,2;66,0;conforme;4818;3594;30;84;329;Sans anomalie apparente;non
+89010;Annay-sur-Serein;89;eau potable;120058;2024;82,2;0,7;3,3;65,7;conforme;4599;2514;34;77;205;Non vérifié;non
+89011;Annéot;89;eau potable;120105;2023;81,2;1,2;5,2;66,0;conforme;4818;1224;30;84;112;Sans anomalie apparente;non
+89012;Annoux;89;eau potable : DSP-Chatel-Gérard;120069;2024;81,7;0,6;2,8;65,6;conforme;12465;1591;51;107;85;Non vérifié;non
+89013;Appoigny;89;eau potable : Principal;240714;2024;80,0;3,6;14,6;67,9;conforme;983135;45771;40;94;3114;Non vérifié;non
+89014;Arces-Dilo;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;8817;39;120;615;Non vérifié;non
+89015;Arcy-sur-Cure;89;eau potable : Arcy-sur-Cure;119742;2024;56,7;3,1;4,1;65,8;non conforme;12922;12922;73;275;486;Non vérifié;non
+89016;Argentenay;89;eau potable;119744;2024;62,1;2,4;3,9;65,8;non conforme;2278;2278;76;223;82;Non vérifié;non
+89017;Argenteuil-sur-Armançon;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;10004;125;304;219;Non vérifié;non
+89018;Armeau;89;eau potable;199937;2024;73,4;5,6;15,3;68,1;conforme;1113980;17058;62;158;753;Non vérifié;non
+89019;Arthonnay;89;eau potable : COPE DE CHANNES / ARTHONNAY;148885;2024;66,9;2,3;4,6;65,9;conforme;8605;5003;91;183;150;Non vérifié;non
+89020;Asnières-sous-Bois;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;2969;72;160;113;Non vérifié;non
+89022;Athie;89;eau potable;119683;2024;71,5;1,5;3,8;65,8;conforme;200385;3921;80;162;135;Non vérifié;non
+89023;Augy;89;eau potable : Principal;240714;2024;80,0;3,6;14,6;67,9;conforme;983135;14022;40;94;954;Non vérifié;non
+89024;Auxerre;89;eau potable : Principal;240714;2024;80,0;3,6;14,6;67,9;conforme;983135;515871;40;94;35097;Non vérifié;non
+89025;Avallon;89;eau potable;119752;2024;83,9;3,0;15,6;68,1;conforme;88947;88947;39;87;6305;Non vérifié;non
+89027;Bagneaux;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;2810;39;120;196;Non vérifié;non
+89028;Baon;89;eau potable;119754;2024;47,7;1,8;1,6;65,3;non conforme;2628;2628;124;412;58;Non vérifié;non
+89029;Bassou;89;eau potable;120061;2024;71,2;4,9;12,0;67,4;conforme;39347;19231;61;149;869;Non vérifié;non
+89030;Bazarnes;89;eau potable : Bazarnes;119755;2024;76,0;1,8;5,7;66,1;conforme;7411;7411;48;115;422;Non vérifié;non
+89031;Beaumont;89;eau potable : SIAEP CHEMILLY BEAUMONT;119639;2024;83,8;2,4;12,3;67,5;conforme;16907;6942;31;71;618;Non vérifié;non
+89032;Beauvilliers;89;eau potable;119683;2024;71,5;1,5;3,8;65,8;conforme;200385;2178;80;162;75;Non vérifié;non
+89033;Beauvoir;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;10141;72;160;386;Non vérifié;non
+89034;Beine;89;eau potable : COPE DE BEINES;187430;2024;82,0;1,4;6,2;66,2;conforme;5667;5667;36;82;437;Non vérifié;non
+89035;Bellechaume;89;eau potable : Bellechaume;119758;2024;58,3;6,2;8,7;66,7;non conforme;17561;17561;110;261;436;Non vérifié;non
+89036;La Belliole;89;eau potable : principal;119715;2024;68,1;3,0;6,4;66,3;conforme;479840;7424;94;173;216;Non vérifié;non
+89037;Béon;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;13635;72;160;519;Non vérifié;non
+89038;Bernouil;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;4979;125;304;109;Non vérifié;non
+89039;Béru;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;3426;125;304;75;Non vérifié;non
+89040;Bessy-sur-Cure;89;eau potable : Bessy-sur-Cure;119762;2024;56,2;5,7;7,3;66,5;non conforme;7427;7427;111;286;184;Non vérifié;non
+89041;Beugnon;89;eau potable : SIAEP REGION ST FLORENTIN;120081;2024;57,9;4,1;5,7;66,1;non conforme;179580;10541;104;263;279;Non vérifié;non
+89042;Bierry-les-Belles-Fontaines;89;eau potable;119609;2024;78,4;0,8;2,8;65,6;conforme;9986;1493;25;118;163;Non vérifié;non
+89043;Blacy;89;eau potable;119686;2024;98,4;0,1;5,4;66,1;conforme;598;131;4;7;99;Non vérifié;non
+89044;Blannay;89;eau potable;119763;2024;94,0;0,4;6,6;66,3;conforme;321;321;8;22;105;Non vérifié;non
+89045;Bleigny-le-Carreau;89;eau potable : Principal;240714;2024;80,0;3,6;14,6;67,9;conforme;983135;4101;40;94;279;Non vérifié;non
+89046;Bléneau;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;30291;72;160;1153;Non vérifié;non
+89048;Boeurs-en-Othe;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;4788;39;120;334;Non vérifié;non
+89049;Bois-d'Arcy;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;631;72;160;24;Non vérifié;non
+89050;Bonnard;89;eau potable;120061;2024;71,2;4,9;12,0;67,4;conforme;39347;20116;61;149;909;Non vérifié;non
+89051;Les Bordes;89;eau potable;199937;2024;73,4;5,6;15,3;68,1;conforme;1113980;12482;62;158;551;Non vérifié;non
+89053;Branches;89;eau potable : Principal;240714;2024;80,0;3,6;14,6;67,9;conforme;983135;6379;40;94;434;Non vérifié;non
+89054;Brannay;89;eau potable : principal;119715;2024;68,1;3,0;6,4;66,3;conforme;479840;26570;94;173;773;Non vérifié;non
+89055;Brienon-sur-Armançon;89;eau potable : Brienon-sur-Armançon;119769;2024;37,9;20,0;12,2;67,4;non conforme;192428;192428;174;597;3032;Non vérifié;non
+89056;Brion;89;eau potable;119770;2024;65,7;3,3;6,4;66,3;non conforme;13249;13249;59;189;612;Non vérifié;non
+89057;Brosses;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;6962;72;160;265;Non vérifié;non
+89058;Bussières;89;eau potable;119683;2024;71,5;1,5;3,8;65,8;conforme;200385;3253;80;162;112;Non vérifié;non
+89059;Bussy-en-Othe;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;10007;39;120;698;Non vérifié;non
+89061;Butteaux;89;eau potable : COPE DE VILLIERS-VINEUX;120087;2024;58,4;4,1;5,7;66,1;non conforme;69587;13236;137;261;264;Non vérifié;non
+89062;Carisey;89;eau potable : COPE DE VILLIERS-VINEUX;120087;2024;58,4;4,1;5,7;66,1;non conforme;69587;18901;137;261;377;Non vérifié;non
+89063;La Celle-Saint-Cyr;89;eau potable;120084;2024;72,8;0,9;2,4;65,5;conforme;25340;5217;17;140;840;Non vérifié;non
+89064;Censy;89;eau potable : DSP-Chatel-Gérard;120069;2024;81,7;0,6;2,8;65,6;conforme;12465;955;51;107;51;Non vérifié;non
+89065;Cérilly;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;731;39;120;51;Non vérifié;non
+89066;Cerisiers;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;14164;39;120;988;Non vérifié;non
+89067;Cézy;89;eau potable;119776;2024;69,7;4,5;10,4;67,1;conforme;30386;30386;78;157;1070;Non vérifié;non
+89068;Chablis;89;eau potable : COPE DE CHABLIS;119612;2024;82,7;3,3;15,6;68,1;conforme;42037;37940;49;84;2139;Non vérifié;non
+89069;Chailley;89;eau potable : Chailley;119777;2024;66,4;4,2;8,3;66,7;non conforme;19776;19776;102;186;533;Non vérifié;non
+89071;Chamoux;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;2470;72;160;94;Non vérifié;non
+89072;Champcevrais;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;8118;72;160;309;Non vérifié;non
+89073;Champignelles;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;23776;72;160;905;Non vérifié;non
+89074;Champigny;89;eau potable;119695;2024;100,0;0,0;6,4;66,3;conforme;0;0;0;0;2128;Non vérifié;non
+89075;Champlay;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;19257;72;160;733;Non vérifié;non
+89076;Champlost;89;eau potable : Champlost;342394;2024;40,9;9,0;6,2;66,2;non conforme;78117;78117;279;560;767;Non vérifié;non
+89077;Champs-sur-Yonne;89;eau potable : Principal;240714;2024;80,0;3,6;14,6;67,9;conforme;983135;22239;40;94;1513;Non vérifié;non
+89079;Chamvres;89;eau potable;120066;2024;74,8;3,6;10,6;67,1;conforme;12365;8411;35;124;651;Non vérifié;non
+89080;La Chapelle-sur-Oreuse;89;eau potable;119784;2024;70,2;4,1;9,7;66,9;conforme;17958;17958;74;187;667;Non vérifié;non
+89081;La Chapelle-Vaupelteigne;89;eau potable : COPE DU MOULIN DES FEES;266675;2024;64,1;3,5;6,2;66,2;non conforme;136182;2737;85;207;88;Non vérifié;non
+89083;Charbuy;89;eau potable : Principal;240714;2024;80,0;3,6;14,6;67,9;conforme;983135;27457;40;94;1868;Non vérifié;non
+89084;Charentenay;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;7566;72;160;288;Non vérifié;non
+89085;Charmoy;89;eau potable;119789;2024;70,4;4,2;9,9;67,0;conforme;20696;20696;51;154;1104;Non vérifié;non
+89086;Charny Orée de Puisaye;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;128731;72;160;4900;Non vérifié;non
+89087;Chassignelles;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;13202;125;304;289;Non vérifié;non
+89088;Chassy;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;12400;72;160;472;Non vérifié;non
+89089;Chastellux-sur-Cure;89;eau potable;119683;2024;71,5;1,5;3,8;65,8;conforme;200385;3746;80;162;129;Non vérifié;non
+89091;Châtel-Censoir;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;14738;72;160;561;Non vérifié;non
+89092;Châtel-Gérard;89;eau potable : DSP-Chatel-Gérard;120069;2024;81,7;0,6;2,8;65,6;conforme;12465;3725;51;107;199;Non vérifié;non
+89093;Chaumont;89;eau potable;119793;2024;89,8;0,7;6,6;66,3;conforme;3125;3125;13;40;645;Non vérifié;non
+89095;Chemilly-sur-Serein;89;eau potable;119794;2024;78,4;1,3;4,8;66,0;conforme;2975;2975;61;99;134;Non vérifié;non
+89096;Chemilly-sur-Yonne;89;eau potable : SIAEP CHEMILLY BEAUMONT;119639;2024;83,8;2,4;12,3;67,5;conforme;16907;9964;31;71;887;Non vérifié;non
+89098;Cheney;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;10735;125;304;235;Non vérifié;non
+89099;Cheny;89;eau potable;119796;2024;69,8;7,4;17,2;68,4;conforme;36382;36382;45;157;2206;Non vérifié;non
+89100;Chéroy;89;eau potable : principal;119715;2024;68,1;3,0;6,4;66,3;conforme;479840;60496;94;173;1760;Non vérifié;non
+89101;Chéu;89;eau potable : SIAEP REGION ST FLORENTIN;120081;2024;57,9;4,1;5,7;66,1;non conforme;179580;19722;104;263;522;Non vérifié;non
+89102;Chevannes;89;eau potable : Principal;240714;2024;80,0;3,6;14,6;67,9;conforme;983135;31411;40;94;2137;Non vérifié;non
+89104;Chichée;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;13567;125;304;297;Non vérifié;non
+89105;Chichery;89;eau potable;119802;2023;83,8;2,9;15,0;68,0;conforme;4255;4255;27;71;426;Sans anomalie apparente;non
+89108;Chitry;89;eau potable : Principal;240714;2024;80,0;3,6;14,6;67,9;conforme;983135;5086;40;94;346;Non vérifié;non
+89111;Les Clérimois;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;4272;39;120;298;Non vérifié;non
+89112;Collan;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;7081;125;304;155;Non vérifié;non
+89113;Collemiers;89;eau potable;199937;2024;73,4;5,6;15,3;68,1;conforme;1113980;15019;62;158;663;Non vérifié;non
+89115;Compigny;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;2552;39;120;178;Non vérifié;non
+89116;Cornant;89;eau potable;201016;2024;80,2;1,8;7,3;66,5;conforme;37449;7863;59;148;367;Non vérifié;non
+89117;Coulangeron;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;5570;72;160;212;Non vérifié;non
+89118;Coulanges-la-Vineuse;89;eau potable : Principal;240714;2024;80,0;3,6;14,6;67,9;conforme;983135;11509;40;94;783;Non vérifié;non
+89119;Coulanges-sur-Yonne;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;13609;72;160;518;Non vérifié;non
+89120;Coulours;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;2021;39;120;141;Non vérifié;non
+89122;Courgenay;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;8086;39;120;564;Non vérifié;non
+89123;Courgis;89;eau potable : COPE DE COURGIS;119814;2024;74,4;1,5;4,3;65,9;conforme;4172;4172;49;129;231;Non vérifié;non
+89124;Courlon-sur-Yonne;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;16960;39;120;1183;Non vérifié;non
+89125;Courson-les-Carrières;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;23645;72;160;900;Non vérifié;non
+89126;Courtoin;89;eau potable : principal;119715;2024;68,1;3,0;6,4;66,3;conforme;479840;1341;94;173;39;Non vérifié;non
+89127;Courtois-sur-Yonne;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;11225;39;120;783;Non vérifié;non
+89128;Coutarnoux;89;eau potable;119683;2024;71,5;1,5;3,8;65,8;conforme;200385;3601;80;162;124;Non vérifié;non
+89129;Crain;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;10771;72;160;410;Non vérifié;non
+89130;Deux Rivières;89;eau potable (CRAVANT);119822;2024;59,9;4,1;6,1;66,2;non conforme;23480;23480;52;244;1245;Non vérifié;non
+89131;Cruzy-le-Châtel;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;10141;125;304;222;Non vérifié;non
+89132;Cry;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;7172;125;304;157;Non vérifié;non
+89133;Cudot;89;eau potable;119827;2024;52,8;4,5;5,0;66,0;non conforme;19710;19710;137;328;395;Non vérifié;non
+89134;Cussy-les-Forges;89;eau potable;119683;2024;71,5;1,5;3,8;65,8;conforme;200385;9351;80;162;322;Non vérifié;non
+89136;Cuy;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;12343;39;120;861;Non vérifié;non
+89137;Dannemoine;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;20648;125;304;452;Non vérifié;non
+89139;Diges;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;27638;72;160;1052;Non vérifié;non
+89141;Dissangis;89;eau potable;119683;2024;71,5;1,5;3,8;65,8;conforme;200385;3456;80;162;119;Non vérifié;non
+89142;Dixmont;89;eau potable;199937;2024;73,4;5,6;15,3;68,1;conforme;1113980;20094;62;158;887;Non vérifié;non
+89143;Dollot;89;eau potable : principal;119715;2024;68,1;3,0;6,4;66,3;conforme;479840;11240;94;173;327;Non vérifié;non
+89144;Domats;89;eau potable : principal;119715;2024;68,1;3,0;6,4;66,3;conforme;479840;26776;94;173;779;Non vérifié;non
+89145;Domecy-sur-Cure;89;eau potable;119832;2024;98,4;0,2;10,5;67,1;conforme;493;493;3;7;403;Non vérifié;non
+89146;Domecy-sur-le-Vault;89;eau potable;119833;2024;82,7;1,7;8,0;66,6;conforme;2048;2048;68;78;83;Non vérifié;non
+89147;Dracy;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;6200;72;160;236;Non vérifié;non
+89148;Druyes-les-Belles-Fontaines;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;6962;72;160;265;Non vérifié;non
+89149;Dyé;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;8497;125;304;186;Non vérifié;non
+89150;Égleny;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;12006;72;160;457;Non vérifié;non
+89151;Égriselles-le-Bocage;89;eau potable;201016;2024;80,2;1,8;7,3;66,5;conforme;37449;29586;59;148;1381;Non vérifié;non
+89153;Épineuil;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;23206;125;304;508;Non vérifié;non
+89154;Escamps;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;21963;72;160;836;Non vérifié;non
+89155;Escolives-Sainte-Camille;89;eau potable : Principal;240714;2024;80,0;3,6;14,6;67,9;conforme;983135;10568;40;94;719;Non vérifié;non
+89156;Esnon;89;eau potable : Esnon;119841;2024;71,1;2,2;5,5;66,1;conforme;7388;7388;54;146;375;Non vérifié;non
+89158;Étais-la-Sauvin;89;eau potable : Étais-la-Sauvin;119842;2024;45,2;4,6;3,8;65,8;non conforme;67026;67026;291;446;631;Non vérifié;non
+89159;Étaule;89;eau potable;119844;2024;0,0;0,0;0,0;65,0;non conforme;0;0;0;146;382;Non vérifié;oui
+89160;Étigny;89;eau potable;199937;2024;73,4;5,6;15,3;68,1;conforme;1113980;16922;62;158;747;Non vérifié;non
+89161;Étivey;89;eau potable;119848;2024;50,1;1,8;1,8;65,4;non conforme;9198;9198;139;358;181;Non vérifié;non
+89162;Évry;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;5763;39;120;402;Non vérifié;non
+89163;La Ferté-Loupière;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;14686;72;160;559;Non vérifié;non
+89164;Festigny;89;eau potable;119851;2024;62,6;1,8;3,0;65,6;non conforme;2431;2431;72;217;92;Non vérifié;non
+89165;Flacy;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;1763;39;120;123;Non vérifié;non
+89167;Fleury-la-Vallée;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;26456;72;160;1007;Non vérifié;non
+89168;Fleys;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;7492;125;304;164;Non vérifié;non
+89169;Flogny-la-Chapelle;89;eau potable : COPE DE FLOGNY-LA-CHAPELLE;119856;2024;84,8;4,4;24,7;69,9;conforme;38785;38785;114;336;935;Non vérifié;non
+89170;Foissy-lès-Vézelay;89;eau potable;119859;2024;75,9;2,5;7,8;66,6;conforme;4015;4015;96;235;115;Non vérifié;non
+89171;Foissy-sur-Vanne;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;4272;39;120;298;Non vérifié;non
+89172;Fontaine-la-Gaillarde;89;eau potable;199937;2024;73,4;5,6;15,3;68,1;conforme;1113980;11916;62;158;526;Non vérifié;non
+89173;Fontaines;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;12059;72;160;459;Non vérifié;non
+89175;Fontenay-près-Chablis;89;eau potable : COPE DU MOULIN DES FEES;266675;2024;64,1;3,5;6,2;66,2;non conforme;136182;4168;85;207;134;Non vérifié;non
+89176;Fontenay-près-Vézelay;89;eau potable;120080;2024;69,5;1,7;3,8;65,8;conforme;18615;9172;186;324;135;Non vérifié;non
+89177;Fontenay-sous-Fouronnes;89;eau potable;119863;2024;77,4;2,1;7,2;66,4;conforme;1648;1648;50;107;90;Non vérifié;non
+89179;Fontenoy;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;8013;72;160;305;Non vérifié;non
+89180;Fouchères;89;eau potable : principal;119715;2024;68,1;3,0;6,4;66,3;conforme;479840;15193;94;173;442;Non vérifié;non
+89181;Fournaudin;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;1950;39;120;136;Non vérifié;non
+89182;Fouronnes;89;eau potable;119864;2024;57,6;2,5;3,5;65,7;non conforme;8030;8030;120;264;183;Non vérifié;non
+89183;Fresnes;89;eau potable;119865;2024;95,1;0,4;7,7;66,5;conforme;187;187;8;19;61;Non vérifié;non
+89184;Fulvy;89;eau potable;120086;2024;84,4;0,9;4,7;65,9;conforme;5420;639;14;70;128;Non vérifié;non
+89186;Germigny;89;eau potable : SIAEP REGION ST FLORENTIN;120081;2024;57,9;4,1;5,7;66,1;non conforme;179580;20025;104;263;530;Non vérifié;non
+89187;Gigny;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;3792;125;304;83;Non vérifié;non
+89188;Girolles;89;eau potable;120074;2024;89,1;0,5;4,2;65,8;conforme;1679;1073;15;43;200;Non vérifié;non
+89189;Gisy-les-Nobles;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;7813;39;120;545;Non vérifié;non
+89190;Givry;89;eau potable;119868;2024;77,9;1,1;4,0;65,8;conforme;2268;2268;34;100;181;Non vérifié;non
+89191;Gland;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;1645;125;304;36;Non vérifié;non
+89194;Grimault;89;eau potable : DSP-Chatel-Gérard;120069;2024;81,7;0,6;2,8;65,6;conforme;12465;2152;51;107;115;Non vérifié;non
+89195;Gron;89;eau potable;199937;2024;73,4;5,6;15,3;68,1;conforme;1113980;29178;62;158;1288;Non vérifié;non
+89196;Valravillon;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;46737;72;160;1779;Non vérifié;non
+89197;Guillon-Terre-Plaine;89;eau potable;119683;2024;71,5;1,5;3,8;65,8;conforme;200385;20416;80;162;703;Non vérifié;non
+89198;Gurgy;89;eau potable : Principal;240714;2024;80,0;3,6;14,6;67,9;conforme;983135;25325;40;94;1723;Non vérifié;non
+89199;Gy-l'Évêque;89;eau potable : Principal;240714;2024;80,0;3,6;14,6;67,9;conforme;983135;6497;40;94;442;Non vérifié;non
+89200;Hauterive;89;eau potable : hauterive;119649;2024;83,5;0,6;3,1;65,6;conforme;2919;2919;21;70;390;Non vérifié;non
+89201;Héry;89;eau potable : Héry;119652;2024;69,4;4,1;9,3;66,9;conforme;32953;32953;51;160;1784;Non vérifié;non
+89202;Irancy;89;eau potable : Principal;240714;2024;80,0;3,6;14,6;67,9;conforme;983135;3631;40;94;247;Non vérifié;non
+89203;Island;89;eau potable;119876;2024;99,1;0,0;2,2;65,4;conforme;0;0;0;0;187;Non vérifié;non
+89204;L' Isle-sur-Serein;89;eau potable;119654;2024;84,0;1,6;8,5;66,7;conforme;6482;6482;27;69;666;Non vérifié;non
+89205;Jaulges;89;eau potable : SIAEP REGION ST FLORENTIN;120081;2024;57,9;4,1;5,7;66,1;non conforme;179580;15793;104;263;418;Non vérifié;non
+89206;Joigny;89;eau potable;119878;2024;42,4;31,3;23,1;69,6;non conforme;819936;819936;249;495;9016;Non vérifié;non
+89207;Jouancy;89;eau potable : DSP-Chatel-Gérard;120069;2024;81,7;0,6;2,8;65,6;conforme;12465;543;51;107;29;Non vérifié;non
+89208;Joux-la-Ville;89;eau potable;119666;2024;74,6;2,3;6,8;66,4;conforme;38323;27796;65;124;1175;Non vérifié;non
+89209;Jouy;89;eau potable : principal;119715;2024;68,1;3,0;6,4;66,3;conforme;479840;17530;94;173;510;Non vérifié;non
+89210;Jully;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;5802;125;304;127;Non vérifié;non
+89211;Junay;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;2787;125;304;61;Non vérifié;non
+89212;Jussy;89;eau potable : Principal;240714;2024;80,0;3,6;14,6;67,9;conforme;983135;5159;40;94;351;Non vérifié;non
+89214;Lailly;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;2853;39;120;199;Non vérifié;non
+89215;Lain;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;4519;72;160;172;Non vérifié;non
+89216;Lainsecq;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;8617;72;160;328;Non vérifié;non
+89217;Lalande;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;3231;72;160;123;Non vérifié;non
+89218;Laroche-Saint-Cydroine;89;eau potable;119886;2024;59,5;4,2;6,2;66,2;non conforme;41391;41391;96;248;1185;Non vérifié;non
+89219;Lasson;89;eau potable : Lasson;119887;2024;91,7;0,6;7,0;66,4;conforme;740;740;14;31;141;Non vérifié;non
+89220;Lavau;89;eau potable;119888;2023;66,5;1,2;2,3;65,5;conforme;23402;23402;164;190;392;Sans anomalie apparente;non
+89221;Leugny;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;8276;72;160;315;Non vérifié;non
+89222;Levis;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;5859;72;160;223;Non vérifié;non
+89223;Lézinnes;89;eau potable;119892;2024;52,3;4,7;5,1;66,0;non conforme;29164;29164;120;335;666;Non vérifié;non
+89225;Lichères-sur-Yonne;89;eau potable;119894;2024;62,0;1,1;1,7;65,3;non conforme;1947;1947;109;234;49;Non vérifié;non
+89226;Lignorelles;89;eau potable : COPE DU MOULIN DES FEES;266675;2024;64,1;3,5;6,2;66,2;non conforme;136182;5755;85;207;185;Non vérifié;non
+89227;Ligny-le-Châtel;89;eau potable : COPE DU MOULIN DES FEES;266675;2024;64,1;3,5;6,2;66,2;non conforme;136182;37327;85;207;1200;Non vérifié;non
+89228;Lindry;89;eau potable : Principal;240714;2024;80,0;3,6;14,6;67,9;conforme;983135;19490;40;94;1326;Non vérifié;non
+89229;Lixy;89;eau potable : principal;119715;2024;68,1;3,0;6,4;66,3;conforme;479840;16499;94;173;480;Non vérifié;non
+89230;Looze;89;eau potable;120055;2024;79,5;3,0;11,8;67,4;conforme;5147;5147;32;93;443;Non vérifié;non
+89232;Lucy-le-Bois;89;eau potable;119683;2024;71,5;1,5;3,8;65,8;conforme;200385;9467;80;162;326;Non vérifié;non
+89233;Lucy-sur-Cure;89;eau potable : Lucy-sur-Cure;119897;2024;31,4;5,1;2,3;65,5;non conforme;10071;10071;131;798;210;Non vérifié;non
+89234;Lucy-sur-Yonne;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;3310;72;160;126;Non vérifié;non
+89235;Magny;89;eau potable;119683;2024;71,5;1,5;3,8;65,8;conforme;200385;25266;80;162;870;Non vérifié;non
+89236;Maillot;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;18178;39;120;1268;Non vérifié;non
+89237;Mailly-la-Ville;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;12952;72;160;493;Non vérifié;non
+89238;Mailly-le-Château;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;13504;72;160;514;Non vérifié;non
+89239;Malay-le-Grand;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;23368;39;120;1630;Non vérifié;non
+89240;Malay-le-Petit;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;4373;39;120;305;Non vérifié;non
+89242;Maligny;89;eau potable : COPE DU MOULIN DES FEES;266675;2024;64,1;3,5;6,2;66,2;non conforme;136182;24138;85;207;776;Non vérifié;non
+89244;Marmeaux;89;eau potable;119686;2024;98,4;0,1;5,4;66,1;conforme;598;111;4;7;84;Non vérifié;non
+89245;Marsangy;89;eau potable;199937;2024;73,4;5,6;15,3;68,1;conforme;1113980;19709;62;158;870;Non vérifié;non
+89246;Massangis;89;eau potable;119901;2024;71,5;2,2;5,4;66,1;conforme;8833;8833;73;148;332;Non vérifié;non
+89247;Mélisey;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;10187;125;304;223;Non vérifié;non
+89248;Menades;89;eau potable;120080;2024;69,5;1,7;3,8;65,8;conforme;18615;2446;186;324;36;Non vérifié;non
+89249;Mercy;89;eau potable : Mercy;342414;2024;31,6;6,1;2,8;65,6;non conforme;6679;6679;238;791;77;Non vérifié;non
+89250;Méré;89;eau potable : COPE DU MOULIN DES FEES;266675;2024;64,1;3,5;6,2;66,2;non conforme;136182;4946;85;207;159;Non vérifié;non
+89251;Merry-la-Vallée;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;9405;72;160;358;Non vérifié;non
+89252;Merry-Sec;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;4519;72;160;172;Non vérifié;non
+89253;Merry-sur-Yonne;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;4913;72;160;187;Non vérifié;non
+89254;Mézilles;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;13661;72;160;520;Non vérifié;non
+89255;Michery;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;15454;39;120;1078;Non vérifié;non
+89256;Migé;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;10088;72;160;384;Non vérifié;non
+89257;Migennes;89;eau potable;119910;2024;87,3;3,6;24,9;70,0;conforme;91231;91231;37;63;6688;Non vérifié;non
+89259;Môlay;89;eau potable;120058;2024;82,2;0,7;3,3;65,7;conforme;4599;1239;34;77;101;Non vérifié;non
+89261;Molinons;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;3914;39;120;273;Non vérifié;non
+89262;Molosmes;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;7081;125;304;155;Non vérifié;non
+89263;Monéteau;89;eau potable : Principal;240714;2024;80,0;3,6;14,6;67,9;conforme;983135;60469;40;94;4114;Non vérifié;non
+89264;Montacher-Villegardin;89;eau potable : principal;119715;2024;68,1;3,0;6,4;66,3;conforme;479840;24714;94;173;719;Non vérifié;non
+89265;Montigny-la-Resle;89;eau potable : Principal;240714;2024;80,0;3,6;14,6;67,9;conforme;983135;8408;40;94;572;Non vérifié;non
+89266;Montillot;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;6489;72;160;247;Non vérifié;non
+89267;Montréal;89;eau potable;119683;2024;71,5;1,5;3,8;65,8;conforme;200385;4676;80;162;161;Non vérifié;non
+89268;Mont-Saint-Sulpice;89;eau potable : Mont-Saint-Sulpice;119917;2024;64,4;4,2;7,7;66,5;non conforme;21508;21508;75;200;781;Non vérifié;non
+89270;Mouffy;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;3599;72;160;137;Non vérifié;non
+89271;Moulins-en-Tonnerrois;89;eau potable;120079;2024;68,5;1,3;2,9;65,6;conforme;15848;6491;160;163;111;Non vérifié;non
+89272;Moulins-sur-Ouanne;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;7146;72;160;272;Non vérifié;non
+89273;Moutiers-en-Puisaye;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;7041;72;160;268;Non vérifié;non
+89274;Nailly;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;18393;39;120;1283;Non vérifié;non
+89276;Neuvy-Sautour;89;eau potable : Neuvy-Sautour;209855;2024;65,7;5,2;10,0;67,0;non conforme;17765;17765;56;190;873;Non vérifié;non
+89277;Nitry;89;eau potable : COPE DE NITRY;119925;2024;79,6;1,7;6,7;66,3;conforme;10244;10244;75;92;372;Non vérifié;non
+89278;Noé;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;8014;39;120;559;Non vérifié;non
+89279;Noyers;89;eau potable;119928;2024;63,5;2,6;4,6;65,9;non conforme;25566;25566;119;221;587;Non vérifié;non
+89280;Nuits;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;16537;125;304;362;Non vérifié;non
+89281;Les Ormes;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;7382;72;160;281;Non vérifié;non
+89282;Ormoy;89;eau potable : Ormoy;119932;2024;59,6;3,4;5,0;66,0;non conforme;19310;19310;83;248;638;Non vérifié;non
+89283;Ouanne;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;15185;72;160;578;Non vérifié;non
+89284;Pacy-sur-Armançon;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;8131;125;304;178;Non vérifié;non
+89285;Pailly;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;4000;39;120;279;Non vérifié;non
+89286;Parly;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;21464;72;160;817;Non vérifié;non
+89287;Paron;89;eau potable;199937;2024;73,4;5,6;15,3;68,1;conforme;1113980;109509;62;158;4834;Non vérifié;non
+89288;Paroy-en-Othe;89;eau potable : Paroy-en-Othe;120108;2024;86,4;1,1;7,2;66,4;conforme;923;923;17;56;150;Non vérifié;non
+89289;Paroy-sur-Tholon;89;eau potable;120066;2024;74,8;3,6;10,6;67,1;conforme;12365;3954;35;124;306;Non vérifié;non
+89290;Pasilly;89;eau potable : DSP-Chatel-Gérard;120069;2024;81,7;0,6;2,8;65,6;conforme;12465;1011;51;107;54;Non vérifié;non
+89291;Passy;89;eau potable;199937;2024;73,4;5,6;15,3;68,1;conforme;1113980;7340;62;158;324;Non vérifié;non
+89292;Percey;89;eau potable : COPE DE VILLIERS-VINEUX;120087;2024;58,4;4,1;5,7;66,1;non conforme;69587;12433;137;261;248;Non vérifié;non
+89295;Perrigny;89;eau potable : Principal;240714;2024;80,0;3,6;14,6;67,9;conforme;983135;18329;40;94;1247;Non vérifié;non
+89296;Perrigny-sur-Armançon;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;5619;125;304;123;Non vérifié;non
+89297;Pierre-Perthuis;89;eau potable;120080;2024;69,5;1,7;3,8;65,8;conforme;18615;6998;186;324;103;Non vérifié;non
+89299;Pimelles;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;2787;125;304;61;Non vérifié;non
+89300;Pisy;89;eau potable;119609;2024;78,4;0,8;2,8;65,6;conforme;9986;733;25;118;80;Non vérifié;non
+89303;Poilly-sur-Serein;89;eau potable;119658;2024;100,0;0,1;8,4;66,7;conforme;256;256;3;4;240;Non vérifié;non
+89304;Poilly-sur-Tholon;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;17497;72;160;666;Non vérifié;non
+89306;Pontaubert;89;eau potable;119948;2024;74,1;2,0;0,0;65,0;conforme;5441420;5441420;41994;89529;355;Non vérifié;non
+89307;Pontigny;89;eau potable : COPE DU MOULIN DES FEES;266675;2024;64,1;3,5;6,2;66,2;non conforme;136182;23392;85;207;752;Non vérifié;non
+89308;Pont-sur-Vanne;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;3097;39;120;216;Non vérifié;non
+89309;Pont-sur-Yonne;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;48614;39;120;3391;Non vérifié;non
+89310;La Postolle;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;2279;39;120;159;Non vérifié;non
+89311;Pourrain;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;33365;72;160;1270;Non vérifié;non
+89312;Précy-le-Sec;89;eau potable;119666;2024;74,6;2,3;6,8;66,4;conforme;38323;5512;65;124;233;Non vérifié;non
+89313;Précy-sur-Vrin;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;11218;72;160;427;Non vérifié;non
+89314;Prégilbert;89;eau potable : Prégilbert;119952;2024;98,6;0,1;7,4;66,5;conforme;112;112;2;5;180;Non vérifié;non
+89315;Préhy;89;eau potable : COPE DE CHANTEMERLE;119659;2024;88,5;0,8;6,4;66,3;conforme;4088;1064;19;46;157;Non vérifié;non
+89316;Provency;89;eau potable;119683;2024;71,5;1,5;3,8;65,8;conforme;200385;7260;80;162;250;Non vérifié;non
+89318;Quarré-les-Tombes;89;eau potable;119683;2024;71,5;1,5;3,8;65,8;conforme;200385;17977;80;162;619;Non vérifié;non
+89319;Quenne;89;eau potable : Principal;240714;2024;80,0;3,6;14,6;67,9;conforme;983135;7041;40;94;479;Non vérifié;non
+89320;Quincerot;89;eau potable : COPE DU LANDION;148855;2024;88,3;0,4;3,3;65,7;conforme;4085;504;30;44;46;Non vérifié;non
+89323;Roffey;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;6761;125;304;148;Non vérifié;non
+89324;Rogny-les-Sept-Écluses;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;18390;72;160;700;Non vérifié;non
+89325;Ronchères;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;2259;72;160;86;Non vérifié;non
+89326;Rosoy;89;eau potable;199937;2024;73,4;5,6;15,3;68,1;conforme;1113980;24285;62;158;1072;Non vérifié;non
+89327;Rousson;89;eau potable;199937;2024;73,4;5,6;15,3;68,1;conforme;1113980;8744;62;158;386;Non vérifié;non
+89328;Rouvray;89;eau potable : COPE DU MOULIN DES FEES;266675;2024;64,1;3,5;6,2;66,2;non conforme;136182;11447;85;207;368;Non vérifié;non
+89329;Rugny;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;3563;125;304;78;Non vérifié;non
+89331;Sainpuits;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;7356;72;160;280;Non vérifié;non
+89332;Saint-Agnan;89;eau potable : principal;119715;2024;68,1;3,0;6,4;66,3;conforme;479840;31382;94;173;913;Non vérifié;non
+89333;Saint-André-en-Terre-Plaine;89;eau potable;119683;2024;71,5;1,5;3,8;65,8;conforme;200385;4763;80;162;164;Non vérifié;non
+89334;Le Val d'Ocre;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;14791;72;160;563;Non vérifié;non
+89335;Saint-Aubin-sur-Yonne;89;eau potable;119966;2024;46,4;6,2;5,4;66,1;non conforme;18873;18873;119;420;434;Non vérifié;non
+89337;Saint-Bris-le-Vineux;89;eau potable : Principal;240714;2024;80,0;3,6;14,6;67,9;conforme;983135;15051;40;94;1024;Non vérifié;non
+89338;Saint-Clément;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;40844;39;120;2849;Non vérifié;non
+89339;Sainte-Colombe;89;eau potable;119683;2024;71,5;1,5;3,8;65,8;conforme;200385;5344;80;162;184;Non vérifié;non
+89341;Saint-Cyr-les-Colons;89;eau potable : COPE DE LA REGION DE VERMENTON;120085;2024;67,0;2,2;4,5;65,9;conforme;30851;7867;48;179;446;Non vérifié;non
+89342;Saint-Denis-lès-Sens;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;9003;39;120;628;Non vérifié;non
+89344;Saint-Fargeau;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;37805;72;160;1439;Non vérifié;non
+89345;Saint-Florentin;89;eau potable : Saint-Florentin;119970;2024;71,1;5,5;13,5;67,7;conforme;150562;150562;99;212;4164;Non vérifié;non
+89346;Saint-Georges-sur-Baulche;89;eau potable : Principal;240714;2024;80,0;3,6;14,6;67,9;conforme;983135;46315;40;94;3151;Non vérifié;non
+89347;Saint-Germain-des-Champs;89;eau potable;119683;2024;71,5;1,5;3,8;65,8;conforme;200385;9932;80;162;342;Non vérifié;non
+89348;Saint-Julien-du-Sault;89;eau potable;120084;2024;72,8;0,9;2,4;65,5;conforme;25340;13496;17;140;2173;Non vérifié;non
+89349;Saint-Léger-Vauban;89;eau potable;119683;2024;71,5;1,5;3,8;65,8;conforme;200385;10339;80;162;356;Non vérifié;non
+89350;Saint-Loup-d'Ordon;89;eau potable;120084;2024;72,8;0,9;2,4;65,5;conforme;25340;1503;17;140;242;Non vérifié;non
+89351;Sainte-Magnance;89;eau potable;119683;2024;71,5;1,5;3,8;65,8;conforme;200385;13853;80;162;477;Non vérifié;non
+89352;Saint-Martin-des-Champs;89;eau potable;119973;2024;93,7;0,2;2,3;65,5;conforme;2070;2070;22;32;258;Non vérifié;non
+89353;Saint-Martin-d'Ordon;89;eau potable;120084;2024;72,8;0,9;2,4;65,5;conforme;25340;2602;17;140;419;Non vérifié;non
+89354;Saint-Martin-du-Tertre;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;22020;39;120;1536;Non vérifié;non
+89355;Saint-Martin-sur-Armançon;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;6304;125;304;138;Non vérifié;non
+89359;Saint-Maurice-aux-Riches-Hommes;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;5835;39;120;407;Non vérifié;non
+89360;Saint-Maurice-le-Vieil;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;9721;72;160;370;Non vérifié;non
+89361;Saint-Maurice-Thizouaille;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;6726;72;160;256;Non vérifié;non
+89362;Saint-Moré;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;4624;72;160;176;Non vérifié;non
+89363;Sainte-Pallaye;89;eau potable : Sainte-Pallaye;119981;2024;42,3;8,4;6,2;66,2;non conforme;5335;5335;151;496;97;Non vérifié;non
+89364;Saint-Père;89;eau potable;119662;2024;68,9;2,8;6,1;66,2;conforme;14482;11789;112;166;289;Non vérifié;non
+89365;Saint-Privé;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;13530;72;160;515;Non vérifié;non
+89367;Saints-en-Puisaye;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;14397;72;160;548;Non vérifié;non
+89368;Saint-Sauveur-en-Puisaye;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;23776;72;160;905;Non vérifié;non
+89369;Saint-Sérotin;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;8544;39;120;596;Non vérifié;non
+89370;Saint-Valérien;89;eau potable : principal;119715;2024;68,1;3,0;6,4;66,3;conforme;479840;62661;94;173;1823;Non vérifié;non
+89371;Sainte-Vertu;89;eau potable;119984;2023;83,9;0,3;1,7;65,3;conforme;876;876;36;64;66;Sans anomalie apparente;non
+89373;Saligny;89;eau potable;199937;2024;73,4;5,6;15,3;68,1;conforme;1113980;14657;62;158;647;Non vérifié;non
+89374;Sambourg;89;eau potable;120079;2024;68,5;1,3;2,9;65,6;conforme;15848;3684;160;163;63;Non vérifié;non
+89375;Santigny;89;eau potable;119609;2024;78,4;0,8;2,8;65,6;conforme;9986;760;25;118;83;Non vérifié;non
+89376;Sarry;89;eau potable : DSP-Chatel-Gérard;120069;2024;81,7;0,6;2,8;65,6;conforme;12465;2489;51;107;133;Non vérifié;non
+89377;Sauvigny-le-Beuréal;89;eau potable;119683;2024;71,5;1,5;3,8;65,8;conforme;200385;1946;80;162;67;Non vérifié;non
+89378;Sauvigny-le-Bois;89;eau potable;119683;2024;71,5;1,5;3,8;65,8;conforme;200385;21549;80;162;742;Non vérifié;non
+89379;Savigny-en-Terre-Plaine;89;eau potable;119683;2024;71,5;1,5;3,8;65,8;conforme;200385;3979;80;162;137;Non vérifié;non
+89380;Savigny-sur-Clairis;89;eau potable : principal;119715;2024;68,1;3,0;6,4;66,3;conforme;479840;15468;94;173;450;Non vérifié;non
+89382;Seignelay;89;eau potable : Seignelay;119693;2024;67,7;5,0;10,6;67,1;conforme;35642;35642;66;227;1476;Non vérifié;non
+89383;Sementron;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;2811;72;160;107;Non vérifié;non
+89384;Senan;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;17655;72;160;672;Non vérifié;non
+89385;Sennevoy-le-Bas;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;3426;125;304;75;Non vérifié;non
+89386;Sennevoy-le-Haut;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;5527;125;304;121;Non vérifié;non
+89387;Sens;89;eau potable;199937;2024;73,4;5,6;15,3;68,1;conforme;1113980;614055;62;158;27106;Non vérifié;non
+89388;Sépeaux-Saint Romain;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;13293;72;160;506;Non vérifié;non
+89390;Serbonnes;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;10265;39;120;716;Non vérifié;non
+89391;Sergines;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;17533;39;120;1223;Non vérifié;non
+89392;Sermizelles;89;eau potable;120056;2024;86,6;1,5;9,6;66,9;conforme;2847;2847;31;57;248;Non vérifié;non
+89393;Serrigny;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;5116;125;304;112;Non vérifié;non
+89394;Sery;89;eau potable : Sery;119991;2024;46,0;8,7;7,4;66,5;non conforme;8510;8510;295;426;79;Non vérifié;non
+89395;Les Sièges;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;6294;39;120;439;Non vérifié;non
+89397;Sommecaise;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;10193;72;160;388;Non vérifié;non
+89398;Sormery;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2023;71,4;2,3;5,6;66,1;conforme;723649;7961;58;171;374;Sans anomalie apparente;non
+89399;Soucy;89;eau potable;199937;2024;73,4;5,6;15,3;68,1;conforme;1113980;34796;62;158;1536;Non vérifié;non
+89400;Sougères-en-Puisaye;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;7593;72;160;289;Non vérifié;non
+89402;Soumaintrain;89;eau potable : COPE DE VILLIERS-VINEUX;120087;2024;58,4;4,1;5,7;66,1;non conforme;69587;10578;137;261;211;Non vérifié;non
+89403;Stigny;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;4066;125;304;89;Non vérifié;non
+89404;Subligny;89;eau potable : principal;119715;2024;68,1;3,0;6,4;66,3;conforme;479840;17461;94;173;508;Non vérifié;non
+89405;Les Hauts de Forterre;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;12138;72;160;462;Non vérifié;non
+89406;Talcy;89;eau potable;119686;2024;98,4;0,1;5,4;66,1;conforme;598;110;4;7;83;Non vérifié;non
+89407;Tanlay;89;eau potable;119996;2024;51,8;6,4;6,8;66,4;non conforme;37703;37703;115;342;897;Non vérifié;non
+89408;Tannerre-en-Puisaye;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;7067;72;160;269;Non vérifié;non
+89409;Tharoiseau;89;eau potable;119662;2024;68,9;2,8;6,1;66,2;conforme;14482;2692;112;166;66;Non vérifié;non
+89410;Tharot;89;eau potable;120074;2024;89,1;0,5;4,2;65,8;conforme;1679;606;15;43;113;Non vérifié;non
+89411;Les Vallées de la Vanne;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;14637;39;120;1021;Non vérifié;non
+89412;Thizy;89;eau potable;119686;2024;98,4;0,1;5,4;66,1;conforme;598;246;4;7;186;Non vérifié;non
+89414;Thorigny-sur-Oreuse;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;20013;39;120;1396;Non vérifié;non
+89415;Thory;89;eau potable;119683;2024;71,5;1,5;3,8;65,8;conforme;200385;5547;80;162;191;Non vérifié;non
+89416;Thury;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;10982;72;160;418;Non vérifié;non
+89417;Tissey;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;4934;125;304;108;Non vérifié;non
+89418;Tonnerre;89;eau potable : DSP-Tonnerre;201014;2024;76,3;4,4;14,3;67,9;conforme;116419;116419;75;155;4261;Non vérifié;non
+89419;Toucy;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;67545;72;160;2571;Non vérifié;non
+89420;Treigny-Perreuse-Sainte-Colombe;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;28452;72;160;1083;Non vérifié;non
+89422;Trichey;89;eau potable : COPE DU LANDION;148855;2024;88,3;0,4;3,3;65,7;conforme;4085;460;30;44;42;Non vérifié;non
+89423;Tronchoy;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;5436;125;304;119;Non vérifié;non
+89424;Trucy-sur-Yonne;89;eau potable : Trucy-sur-Yonne;120010;2024;54,8;2,2;2,7;65,5;non conforme;4818;4818;100;300;132;Non vérifié;non
+89425;Turny;89;eau potable : SIAEP REGION ST FLORENTIN;120081;2024;57,9;4,1;5,7;66,1;non conforme;179580;24370;104;263;645;Non vérifié;non
+89426;Val-de-Mercy;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;9537;72;160;363;Non vérifié;non
+89427;Vallan;89;eau potable : Principal;240714;2024;80,0;3,6;14,6;67,9;conforme;983135;9907;40;94;674;Non vérifié;non
+89428;Vallery;89;eau potable : principal;119715;2024;68,1;3,0;6,4;66,3;conforme;479840;19764;94;173;575;Non vérifié;non
+89430;Varennes;89;eau potable : COPE DU MOULIN DES FEES;266675;2024;64,1;3,5;6,2;66,2;non conforme;136182;10296;85;207;331;Non vérifié;non
+89431;Vassy-sous-Pisy;89;eau potable;119609;2024;78,4;0,8;2,8;65,6;conforme;9986;559;25;118;61;Non vérifié;non
+89432;Vaudeurs;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;6724;39;120;469;Non vérifié;non
+89433;Vault-de-Lugny;89;eau potable;120015;2023;67,8;5,6;11,8;67,4;conforme;12203;12203;123;173;271;Sans anomalie apparente;non
+89434;Vaumort;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;4903;39;120;342;Non vérifié;non
+89436;Venizy;89;eau potable : Venizy;120016;2024;35,8;7,2;4,0;65,8;non conforme;69826;69826;232;654;824;Non vérifié;non
+89437;Venouse;89;eau potable : COPE DU MOULIN DES FEES;266675;2024;64,1;3,5;6,2;66,2;non conforme;136182;8958;85;207;288;Non vérifié;non
+89438;Venoy;89;eau potable : Principal;240714;2024;80,0;3,6;14,6;67,9;conforme;983135;25590;40;94;1741;Non vérifié;non
+89439;Vergigny;89;eau potable : SIAEP REGION ST FLORENTIN;120081;2024;57,9;4,1;5,7;66,1;non conforme;179580;56145;104;263;1486;Non vérifié;non
+89440;Verlin;89;eau potable;120084;2024;72,8;0,9;2,4;65,5;conforme;25340;2522;17;140;406;Non vérifié;non
+89441;Vermenton;89;eau potable : COPE DE LA REGION DE VERMENTON;120085;2024;67,0;2,2;4,5;65,9;conforme;30851;22984;48;179;1303;Non vérifié;non
+89442;Vernoy;89;eau potable : principal;119715;2024;68,1;3,0;6,4;66,3;conforme;479840;8387;94;173;244;Non vérifié;non
+89443;Véron;89;eau potable;199937;2024;73,4;5,6;15,3;68,1;conforme;1113980;41887;62;158;1849;Non vérifié;non
+89445;Vézannes;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;2375;125;304;52;Non vérifié;non
+89447;Vézinnes;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;7218;125;304;158;Non vérifié;non
+89449;Villeblevin;89;eau potable;120026;2024;90,9;1,2;12,1;67,4;conforme;9198;9198;14;36;1795;Non vérifié;non
+89450;Villebougis;89;eau potable : principal;119715;2024;68,1;3,0;6,4;66,3;conforme;479840;21723;94;173;632;Non vérifié;non
+89451;Villechétive;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;3727;39;120;260;Non vérifié;non
+89452;Villecien;89;eau potable;120027;2024;56,1;5,8;7,4;66,5;non conforme;13125;13125;107;285;335;Non vérifié;non
+89453;Villefargeau;89;eau potable : Principal;240714;2024;80,0;3,6;14,6;67,9;conforme;983135;16139;40;94;1098;Non vérifié;non
+89456;Villemanoche;89;eau potable;120029;2024;41,5;18,3;13,0;67,6;non conforme;43150;43150;177;515;667;Non vérifié;non
+89458;Villenavotte;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;2322;39;120;162;Non vérifié;non
+89459;Villeneuve-la-Dondagre;89;eau potable : principal;119715;2024;68,1;3,0;6,4;66,3;conforme;479840;11480;94;173;334;Non vérifié;non
+89460;Villeneuve-la-Guyard;89;eau potable;120034;2024;57,3;10,1;13,6;67,7;non conforme;114761;114761;91;271;3455;Non vérifié;non
+89461;Villeneuve-l'Archevêque;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;15942;39;120;1112;Non vérifié;non
+89462;Villeneuve-les-Genêts;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;8197;72;160;312;Non vérifié;non
+89463;Villeneuve-Saint-Salves;89;eau potable : Principal;240714;2024;80,0;3,6;14,6;67,9;conforme;983135;3763;40;94;256;Non vérifié;non
+89464;Villeneuve-sur-Yonne;89;eau potable;199937;2024;73,4;5,6;15,3;68,1;conforme;1113980;116327;62;158;5135;Non vérifié;non
+89465;Villeperrot;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;4043;39;120;282;Non vérifié;non
+89466;Villeroy;89;eau potable : principal;119715;2024;68,1;3,0;6,4;66,3;conforme;479840;13199;94;173;384;Non vérifié;non
+89467;Villethierry;89;eau potable : principal;119715;2024;68,1;3,0;6,4;66,3;conforme;479840;27120;94;173;789;Non vérifié;non
+89468;Villevallier;89;eau potable;120038;2024;52,6;5,1;5,7;66,1;non conforme;19546;19546;129;328;416;Non vérifié;non
+89469;Perceneige;89;eau potable;120040;2024;84,9;1,1;6,2;66,2;conforme;12446;12446;36;69;940;Non vérifié;non
+89470;Villiers-les-Hauts;89;eau potable;120086;2024;84,4;0,9;4,7;65,9;conforme;5420;619;14;70;124;Non vérifié;non
+89471;Villiers-Louis;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;6466;39;120;451;Non vérifié;non
+89472;Villiers-Saint-Benoît;89;eau potable : principal (régie);223754;2024;71,5;1,4;3,4;65,7;conforme;1234980;11218;72;160;427;Non vérifié;non
+89474;Villiers-Vineux;89;eau potable : COPE DE VILLIERS-VINEUX;120087;2024;58,4;4,1;5,7;66,1;non conforme;69587;14439;137;261;288;Non vérifié;non
+89475;Villon;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;5116;125;304;112;Non vérifié;non
+89477;Villy;89;eau potable : COPE DU MOULIN DES FEES;266675;2024;64,1;3,5;6,2;66,2;non conforme;136182;3017;85;207;97;Non vérifié;non
+89478;Vincelles;89;eau potable : Principal;240714;2024;80,0;3,6;14,6;67,9;conforme;983135;13420;40;94;913;Non vérifié;non
+89479;Vincelottes;89;eau potable : Principal;240714;2024;80,0;3,6;14,6;67,9;conforme;983135;4189;40;94;285;Non vérifié;non
+89480;Vinneuf;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;22020;39;120;1536;Non vérifié;non
+89481;Vireaux;89;eau potable;120079;2024;68,5;1,3;2,9;65,6;conforme;15848;5673;160;163;97;Non vérifié;non
+89482;Viviers;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;4842;125;304;106;Non vérifié;non
+89483;Voisines;89;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;7498;39;120;523;Non vérifié;non
+89485;Voutenay-sur-Cure;89;eau potable;120052;2024;74,6;2,3;6,8;66,4;conforme;38323;38323;495;124;212;Non vérifié;non
+89486;Yrouerre;89;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;6578;125;304;144;Non vérifié;non

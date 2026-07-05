@@ -7,211 +7,211 @@
 # Méthodologie et code : https://github.com/btaverne/dourdata
 # Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
 # Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
-Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
-44001;Abbaretz;44;eau potable : Nort-sur-Erdre;129071;2024;85,8;1,4;8,5;66,7;conforme;830697;19309;26;82;2073;Non vérifié
-44002;Aigrefeuille-sur-Maine;44;eau potable : Grandlieu;320034;2024;85,6;1,2;7,2;66,4;conforme;100376;31972;21;62;4156;Non vérifié
-44003;Ancenis-Saint-Géréon;44;eau potable : Pays d'Ancenis;129067;2024;86,3;1,4;8,9;66,8;conforme;738906;139183;33;67;11600;Non vérifié
-44005;Chaumes-en-Retz;44;eau potable : Pays de Retz;296034;2024;90,3;0,9;8,4;66,7;conforme;316674;48503;18;54;7440;Non vérifié
-44006;Assérac;44;eau potable : SEPIG Eau;129108;2024;91,7;1,5;16,1;68,2;conforme;691328;16624;24;38;1890;Non vérifié
-44007;Avessac;44;eau potable : Guéméné Penfao Pontchateau - Saint Gildas des Bois;305454;2024;83,3;1,2;6,0;66,2;conforme;576846;23342;26;75;2452;Non vérifié
-44009;Basse-Goulaine;44;eau potable : Nantes Métropole;129083;2024;87,4;5,0;34,5;71,9;conforme;5869200;82395;23;66;9679;Non vérifié
-44010;Batz-sur-Mer;44;eau potable : SEPIG Eau;129108;2024;91,7;1,5;16,1;68,2;conforme;691328;25437;24;38;2892;Non vérifié
-44012;La Bernerie-en-Retz;44;eau potable : Val Saint-Martin;129075;2024;89,1;1,8;14,8;68,0;conforme;387630;38058;29;63;3536;Non vérifié
-44013;Besné;44;eau potable : CARENE;129094;2024;92,0;3,7;42,7;73,5;conforme;1423427;35445;29;49;3322;Non vérifié
-44014;Le Bignon;44;eau potable : Grandlieu;129096;2024;88,1;1,1;8,3;66,7;conforme;390258;25223;17;53;3976;Non vérifié
-44015;Blain;44;eau potable : Nort-sur-Erdre;129071;2024;85,8;1,4;8,5;66,7;conforme;830697;96650;26;82;10376;Non vérifié
-44016;La Boissière-du-Doré;44;eau potable : Vignoble;129095;2024;84,9;1,6;9,1;66,8;conforme;442088;9732;24;72;1106;Non vérifié
-44018;Bouaye;44;eau potable : Nantes Métropole;129083;2024;87,4;5,0;34,5;71,9;conforme;5869200;71022;23;66;8343;Non vérifié
-44019;Bouée;44;eau potable : Campbon Sillon;295534;2024;91,6;0,9;10,1;67,0;conforme;355766;5661;14;37;1097;Non vérifié
-44020;Bouguenais;44;eau potable : Nantes Métropole;129083;2024;87,4;5,0;34,5;71,9;conforme;5869200;174768;23;66;20530;Non vérifié
-44021;Villeneuve-en-Retz;44;eau potable : Pays de Retz;296034;2024;90,3;0,9;8,4;66,7;conforme;316674;33379;18;54;5120;Non vérifié
-44022;Boussay;44;eau potable : Vignoble;313174;2024;93,4;0,9;12,1;67,4;conforme;181818;11737;11;34;2884;Non vérifié
-44023;Bouvron;44;eau potable : Campbon Sillon;295534;2024;91,6;0,9;10,1;67,0;conforme;355766;16269;14;37;3153;Non vérifié
-44024;Brains;44;eau potable : Nantes Métropole;129083;2024;87,4;5,0;34,5;71,9;conforme;5869200;23061;23;66;2709;Non vérifié
-44025;Campbon;44;eau potable : Campbon Sillon;295534;2024;91,6;0,9;10,1;67,0;conforme;355766;20939;14;37;4058;Non vérifié
-44026;Carquefou;44;eau potable : Nantes Métropole;129083;2024;87,4;5,0;34,5;71,9;conforme;5869200;178096;23;66;20921;Non vérifié
-44027;Casson;44;eau potable : Nort-sur-Erdre;129071;2024;85,8;1,4;8,5;66,7;conforme;830697;24265;26;82;2605;Non vérifié
-44028;Le Cellier;44;eau potable : Pays d'Ancenis;129067;2024;86,3;1,4;8,9;66,8;conforme;738906;48606;33;67;4051;Non vérifié
-44029;Divatte-sur-Loire;44;eau potable : Vignoble;129095;2024;84,9;1,6;9,1;66,8;conforme;442088;63814;24;72;7252;Non vérifié
-44030;La Chapelle-des-Marais;44;eau potable : CARENE;129094;2024;92,0;3,7;42,7;73,5;conforme;1423427;47928;29;49;4492;Non vérifié
-44031;La Chapelle-Glain;44;eau potable : Pays d'Ancenis;129067;2024;86,3;1,4;8,9;66,8;conforme;738906;9707;33;67;809;Non vérifié
-44032;La Chapelle-Heulin;44;eau potable : Vignoble;129095;2024;84,9;1,6;9,1;66,8;conforme;442088;30508;24;72;3467;Non vérifié
-44033;La Chapelle-Launay;44;eau potable : Campbon Sillon;295534;2024;91,6;0,9;10,1;67,0;conforme;355766;16873;14;37;3270;Non vérifié
-44035;La Chapelle-sur-Erdre;44;eau potable : Nantes Métropole;129083;2024;87,4;5,0;34,5;71,9;conforme;5869200;176130;23;66;20690;Non vérifié
-44036;Châteaubriant;44;eau potable : Pays de la Mee;129104;2024;79,3;1,5;5,8;66,2;conforme;630720;206192;46;112;12260;Non vérifié
-44037;Château-Thébaud;44;eau potable : Vignoble;313174;2024;93,4;0,9;12,1;67,4;conforme;181818;12734;11;34;3129;Non vérifié
-44038;Chauvé;44;eau potable : Pays de Retz;296034;2024;90,3;0,9;8,4;66,7;conforme;316674;20014;18;54;3070;Non vérifié
-44039;Cheix-en-Retz;44;eau potable : Pays de Retz;296034;2024;90,3;0,9;8,4;66,7;conforme;316674;7706;18;54;1182;Non vérifié
-44041;La Chevrolière;44;eau potable : Grandlieu;129096;2024;88,1;1,1;8,3;66,7;conforme;390258;41483;17;53;6539;Non vérifié
-44043;Clisson;44;eau potable : Vignoble;313174;2024;93,4;0,9;12,1;67,4;conforme;181818;30326;11;34;7452;Non vérifié
-44044;Conquereuil;44;eau potable : Guéméné Penfao Pontchateau - Saint Gildas des Bois;305454;2024;83,3;1,2;6,0;66,2;conforme;576846;10100;26;75;1061;Non vérifié
-44045;Cordemais;44;eau potable : Campbon Sillon;295534;2024;91,6;0,9;10,1;67,0;conforme;355766;20702;14;37;4012;Non vérifié
-44046;Corsept;44;eau potable : CC Sud-Estuaire;129074;2024;88,2;1,3;9,5;66,9;conforme;239622;19852;21;50;2594;Non vérifié
-44047;Couëron;44;eau potable : Nantes Métropole;129083;2024;87,4;5,0;34,5;71,9;conforme;5869200;205184;23;66;24103;Non vérifié
-44048;Couffé;44;eau potable : Pays d'Ancenis;129067;2024;86,3;1,4;8,9;66,8;conforme;738906;30416;33;67;2535;Non vérifié
-44049;Le Croisic;44;eau potable : SEPIG Eau;129108;2024;91,7;1,5;16,1;68,2;conforme;691328;35676;24;38;4056;Non vérifié
-44050;Crossac;44;eau potable : Guéméné Penfao Pontchateau - Saint Gildas des Bois;305454;2024;83,3;1,2;6,0;66,2;conforme;576846;28311;26;75;2974;Non vérifié
-44051;Derval;44;eau potable : Guéméné Penfao Pontchateau - Saint Gildas des Bois;305454;2024;83,3;1,2;6,0;66,2;conforme;576846;34279;26;75;3601;Non vérifié
-44052;Donges;44;eau potable : CARENE;129094;2024;92,0;3,7;42,7;73,5;conforme;1423427;87694;29;49;8219;Non vérifié
-44053;Drefféac;44;eau potable : Guéméné Penfao Pontchateau - Saint Gildas des Bois;305454;2024;83,3;1,2;6,0;66,2;conforme;576846;21780;26;75;2288;Non vérifié
-44054;Erbray;44;eau potable : Pays de la Mee;129104;2024;79,3;1,5;5,8;66,2;conforme;630720;51666;46;112;3072;Non vérifié
-44055;La Baule-Escoublac;44;eau potable : SEPIG Eau;129108;2024;91,7;1,5;16,1;68,2;conforme;691328;148754;24;38;16912;Non vérifié
-44056;Fay-de-Bretagne;44;eau potable : Campbon Sillon;295534;2024;91,6;0,9;10,1;67,0;conforme;355766;20759;14;37;4023;Non vérifié
-44057;Fégréac;44;eau potable : Guéméné Penfao Pontchateau - Saint Gildas des Bois;305454;2024;83,3;1,2;6,0;66,2;conforme;576846;21352;26;75;2243;Non vérifié
-44058;Fercé;44;eau potable : Pays de la Mee;129104;2024;79,3;1,5;5,8;66,2;conforme;630720;8695;46;112;517;Non vérifié
-44061;Frossay;44;eau potable : CC Sud-Estuaire;129074;2024;88,2;1,3;9,5;66,9;conforme;239622;25309;21;50;3307;Non vérifié
-44062;Le Gâvre;44;eau potable : Nort-sur-Erdre;129071;2024;85,8;1,4;8,5;66,7;conforme;830697;17605;26;82;1890;Non vérifié
-44063;Gétigné;44;eau potable : Vignoble;313174;2024;93,4;0,9;12,1;67,4;conforme;181818;15802;11;34;3883;Non vérifié
-44064;Gorges;44;eau potable : Vignoble;313174;2024;93,4;0,9;12,1;67,4;conforme;181818;21174;11;34;5203;Non vérifié
-44065;Grand-Auverné;44;eau potable : Pays de la Mee;129104;2024;79,3;1,5;5,8;66,2;conforme;630720;13017;46;112;774;Non vérifié
-44066;Grandchamp-des-Fontaines;44;eau potable : Nort-sur-Erdre;129071;2024;85,8;1,4;8,5;66,7;conforme;830697;65781;26;82;7062;Non vérifié
-44067;Guémené-Penfao;44;eau potable : Guéméné Penfao Pontchateau - Saint Gildas des Bois;305454;2024;83,3;1,2;6,0;66,2;conforme;576846;49910;26;75;5243;Non vérifié
-44068;Guenrouet;44;eau potable : Guéméné Penfao Pontchateau - Saint Gildas des Bois;305454;2024;83,3;1,2;6,0;66,2;conforme;576846;34965;26;75;3673;Non vérifié
-44069;Guérande;44;eau potable : SEPIG Eau;129108;2024;91,7;1,5;16,1;68,2;conforme;691328;147804;24;38;16804;Non vérifié
-44070;La Haie-Fouassière;44;eau potable : Vignoble;313174;2024;93,4;0,9;12,1;67,4;conforme;181818;19432;11;34;4775;Non vérifié
-44071;Haute-Goulaine;44;eau potable : Vignoble;313174;2024;93,4;0,9;12,1;67,4;conforme;181818;24804;11;34;6095;Non vérifié
-44072;Herbignac;44;eau potable : SEPIG Eau;129108;2024;91,7;1,5;16,1;68,2;conforme;691328;63540;24;38;7224;Non vérifié
-44073;Héric;44;eau potable : Nort-sur-Erdre;129071;2024;85,8;1,4;8,5;66,7;conforme;830697;61337;26;82;6585;Non vérifié
-44074;Indre;44;eau potable : Nantes Métropole;129083;2024;87,4;5,0;34,5;71,9;conforme;5869200;35413;23;66;4160;Non vérifié
-44075;Issé;44;eau potable : Pays de la Mee;129104;2024;79,3;1,5;5,8;66,2;conforme;630720;31215;46;112;1856;Non vérifié
-44076;Jans;44;eau potable : Nort-sur-Erdre;129071;2024;85,8;1,4;8,5;66,7;conforme;830697;12705;26;82;1364;Non vérifié
-44077;Joué-sur-Erdre;44;eau potable : Nort-sur-Erdre;129071;2024;85,8;1,4;8,5;66,7;conforme;830697;26053;26;82;2797;Non vérifié
-44078;Juigné-des-Moutiers;44;eau potable : Pays de la Mee;129104;2024;79,3;1,5;5,8;66,2;conforme;630720;5617;46;112;334;Non vérifié
-44079;Le Landreau;44;eau potable : Vignoble;129095;2024;84,9;1,6;9,1;66,8;conforme;442088;28748;24;72;3267;Non vérifié
-44080;Lavau-sur-Loire;44;eau potable : Campbon Sillon;295534;2024;91,6;0,9;10,1;67,0;conforme;355766;3989;14;37;773;Non vérifié
-44081;Legé;44;eau potable : Grandlieu;129096;2024;88,1;1,1;8,3;66,7;conforme;390258;30559;17;53;4817;Non vérifié
-44082;Ligné;44;eau potable : Nort-sur-Erdre;129071;2024;85,8;1,4;8,5;66,7;conforme;830697;53029;26;82;5693;Non vérifié
-44083;La Limouzinière;44;eau potable : Grandlieu;129096;2024;88,1;1,1;8,3;66,7;conforme;390258;15600;17;53;2459;Non vérifié
-44084;Le Loroux-Bottereau;44;eau potable : Vignoble;129095;2024;84,9;1,6;9,1;66,8;conforme;442088;75254;24;72;8552;Non vérifié
-44085;Louisfert;44;eau potable : Pays de la Mee;129104;2024;79,3;1,5;5,8;66,2;conforme;630720;15893;46;112;945;Non vérifié
-44086;Lusanger;44;eau potable : Pays de la Mee;129104;2024;79,3;1,5;5,8;66,2;conforme;630720;18063;46;112;1074;Non vérifié
-44087;Machecoul-Saint-Même;44;eau potable : Pays de Retz;296034;2024;90,3;0,9;8,4;66,7;conforme;316674;50127;18;54;7689;Non vérifié
-44088;Maisdon-sur-Sèvre;44;eau potable : Vignoble;313174;2024;93,4;0,9;12,1;67,4;conforme;181818;12595;11;34;3095;Non vérifié
-44089;Malville;44;eau potable : Campbon Sillon;295534;2024;91,6;0,9;10,1;67,0;conforme;355766;19360;14;37;3752;Non vérifié
-44090;La Marne;44;eau potable : Pays de Retz;296034;2024;90,3;0,9;8,4;66,7;conforme;316674;10340;18;54;1586;Non vérifié
-44091;Marsac-sur-Don;44;eau potable : Guéméné Penfao Pontchateau - Saint Gildas des Bois;305454;2024;83,3;1,2;6,0;66,2;conforme;576846;14508;26;75;1524;Non vérifié
-44092;Massérac;44;eau potable : Guéméné Penfao Pontchateau - Saint Gildas des Bois;305454;2024;83,3;1,2;6,0;66,2;conforme;576846;6330;26;75;665;Non vérifié
-44094;Mauves-sur-Loire;44;eau potable : Nantes Métropole;129083;2024;87,4;5,0;34,5;71,9;conforme;5869200;29020;23;66;3409;Non vérifié
-44095;La Meilleraye-de-Bretagne;44;eau potable : Pays de la Mee;129104;2024;79,3;1,5;5,8;66,2;conforme;630720;27010;46;112;1606;Non vérifié
-44096;Mésanger;44;eau potable : Pays d'Ancenis;129067;2024;86,3;1,4;8,9;66,8;conforme;738906;56681;33;67;4724;Non vérifié
-44097;Mesquer;44;eau potable : SEPIG Eau;129108;2024;91,7;1,5;16,1;68,2;conforme;691328;19096;24;38;2171;Non vérifié
-44098;Missillac;44;eau potable : Guéméné Penfao Pontchateau - Saint Gildas des Bois;305454;2024;83,3;1,2;6,0;66,2;conforme;576846;54346;26;75;5709;Non vérifié
-44099;Moisdon-la-Rivière;44;eau potable : Pays de la Mee;129104;2024;79,3;1,5;5,8;66,2;conforme;630720;33468;46;112;1990;Non vérifié
-44100;Monnières;44;eau potable : Vignoble;313174;2024;93,4;0,9;12,1;67,4;conforme;181818;9718;11;34;2388;Non vérifié
-44101;La Montagne;44;eau potable : Nantes Métropole;129083;2024;87,4;5,0;34,5;71,9;conforme;5869200;55376;23;66;6505;Non vérifié
-44102;Montbert;44;eau potable : Grandlieu;129096;2024;88,1;1,1;8,3;66,7;conforme;390258;21493;17;53;3388;Non vérifié
-44103;Montoir-de-Bretagne;44;eau potable : CARENE;129094;2024;92,0;3,7;42,7;73,5;conforme;1423427;77697;29;49;7282;Non vérifié
-44104;Montrelais;44;eau potable : Pays d'Ancenis;129067;2024;86,3;1,4;8,9;66,8;conforme;738906;10307;33;67;859;Non vérifié
-44105;Mouais;44;eau potable : Pays de la Mee;129104;2024;79,3;1,5;5,8;66,2;conforme;630720;5920;46;112;352;Non vérifié
-44106;Les Moutiers-en-Retz;44;eau potable : Val Saint-Martin;129075;2024;89,1;1,8;14,8;68,0;conforme;387630;20869;29;63;1939;Non vérifié
-44107;Mouzeil;44;eau potable : Pays d'Ancenis;129067;2024;86,3;1,4;8,9;66,8;conforme;738906;24201;33;67;2017;Non vérifié
-44108;Mouzillon;44;eau potable : Vignoble;129095;2024;84,9;1,6;9,1;66,8;conforme;442088;25457;24;72;2893;Non vérifié
-44109;Nantes;44;eau potable : Nantes Métropole;129083;2024;87,4;5,0;34,5;71,9;conforme;5869200;2789934;23;66;327734;Non vérifié
-44110;Nort-sur-Erdre;44;eau potable : Nort-sur-Erdre;129071;2024;85,8;1,4;8,5;66,7;conforme;830697;89142;26;82;9570;Non vérifié
-44111;Notre-Dame-des-Landes;44;eau potable : Nort-sur-Erdre;129071;2024;85,8;1,4;8,5;66,7;conforme;830697;21983;26;82;2360;Non vérifié
-44112;Noyal-sur-Brutz;44;eau potable : Pays de la Mee;129104;2024;79,3;1,5;5,8;66,2;conforme;630720;9671;46;112;575;Non vérifié
-44113;Nozay;44;eau potable : Nort-sur-Erdre;129071;2024;85,8;1,4;8,5;66,7;conforme;830697;39979;26;82;4292;Non vérifié
-44114;Orvault;44;eau potable : Nantes Métropole;129083;2024;87,4;5,0;34,5;71,9;conforme;5869200;242904;23;66;28534;Non vérifié
-44115;Oudon;44;eau potable : Pays d'Ancenis;129067;2024;86,3;1,4;8,9;66,8;conforme;738906;46842;33;67;3904;Non vérifié
-44116;Paimboeuf;44;eau potable : CC Sud-Estuaire;129074;2024;88,2;1,3;9,5;66,9;conforme;239622;23304;21;50;3045;Non vérifié
-44117;Le Pallet;44;eau potable : Vignoble;129095;2024;84,9;1,6;9,1;66,8;conforme;442088;30033;24;72;3413;Non vérifié
-44118;Pannecé;44;eau potable : Pays d'Ancenis;129067;2024;86,3;1,4;8,9;66,8;conforme;738906;17266;33;67;1439;Non vérifié
-44119;Paulx;44;eau potable : Pays de Retz;296034;2024;90,3;0,9;8,4;66,7;conforme;316674;13391;18;54;2054;Non vérifié
-44120;Le Pellerin;44;eau potable : Nantes Métropole;129083;2024;87,4;5,0;34,5;71,9;conforme;5869200;45280;23;66;5319;Non vérifié
-44121;Petit-Auverné;44;eau potable : Pays de la Mee;129104;2024;79,3;1,5;5,8;66,2;conforme;630720;7299;46;112;434;Non vérifié
-44122;Petit-Mars;44;eau potable : Nort-sur-Erdre;129071;2024;85,8;1,4;8,5;66,7;conforme;830697;36216;26;82;3888;Non vérifié
-44123;Pierric;44;eau potable : Guéméné Penfao Pontchateau - Saint Gildas des Bois;305454;2024;83,3;1,2;6,0;66,2;conforme;576846;9615;26;75;1010;Non vérifié
-44124;Le Pin;44;eau potable : Pays d'Ancenis;129067;2024;86,3;1,4;8,9;66,8;conforme;738906;10415;33;67;868;Non vérifié
-44125;Piriac-sur-Mer;44;eau potable : SEPIG Eau;129108;2024;91,7;1,5;16,1;68,2;conforme;691328;23617;24;38;2685;Non vérifié
-44126;La Plaine-sur-Mer;44;eau potable : Val Saint-Martin;129075;2024;89,1;1,8;14,8;68,0;conforme;387630;51232;29;63;4760;Non vérifié
-44127;La Planche;44;eau potable : Grandlieu;320034;2024;85,6;1,2;7,2;66,4;conforme;100376;21617;21;62;2810;Non vérifié
-44128;Plessé;44;eau potable : Guéméné Penfao Pontchateau - Saint Gildas des Bois;305454;2024;83,3;1,2;6,0;66,2;conforme;576846;50786;26;75;5335;Non vérifié
-44129;Pontchâteau;44;eau potable : Guéméné Penfao Pontchateau - Saint Gildas des Bois;305454;2024;83,3;1,2;6,0;66,2;conforme;576846;109225;26;75;11474;Non vérifié
-44130;Pont-Saint-Martin;44;eau potable : Grandlieu;129096;2024;88,1;1,1;8,3;66,7;conforme;390258;44997;17;53;7093;Non vérifié
-44131;Pornic;44;eau potable : Val Saint-Martin;129075;2024;89,1;1,8;14,8;68,0;conforme;387630;201753;29;63;18745;Non vérifié
-44132;Pornichet;44;eau potable : CARENE;129094;2024;92,0;3,7;42,7;73,5;conforme;1423427;136573;29;49;12800;Non vérifié
-44133;Port-Saint-Père;44;eau potable : Pays de Retz;296034;2024;90,3;0,9;8,4;66,7;conforme;316674;19942;18;54;3059;Non vérifié
-44134;Pouillé-les-Côteaux;44;eau potable : Pays d'Ancenis;129067;2024;86,3;1,4;8,9;66,8;conforme;738906;12394;33;67;1033;Non vérifié
-44135;Le Pouliguen;44;eau potable : SEPIG Eau;129108;2024;91,7;1,5;16,1;68,2;conforme;691328;36705;24;38;4173;Non vérifié
-44136;Préfailles;44;eau potable : Val Saint-Martin;129075;2024;89,1;1,8;14,8;68,0;conforme;387630;14218;29;63;1321;Non vérifié
-44137;Prinquiau;44;eau potable : Campbon Sillon;295534;2024;91,6;0,9;10,1;67,0;conforme;355766;18530;14;37;3591;Non vérifié
-44138;Puceul;44;eau potable : Nort-sur-Erdre;129071;2024;85,8;1,4;8,5;66,7;conforme;830697;10637;26;82;1142;Non vérifié
-44139;Quilly;44;eau potable : Campbon Sillon;295534;2024;91,6;0,9;10,1;67,0;conforme;355766;8075;14;37;1565;Non vérifié
-44140;La Regrippière;44;eau potable : Vignoble;129095;2024;84,9;1,6;9,1;66,8;conforme;442088;14158;24;72;1609;Non vérifié
-44141;La Remaudière;44;eau potable : Vignoble;129095;2024;84,9;1,6;9,1;66,8;conforme;442088;11466;24;72;1303;Non vérifié
-44142;Remouillé;44;eau potable : Grandlieu;320034;2024;85,6;1,2;7,2;66,4;conforme;100376;14863;21;62;1932;Non vérifié
-44143;Rezé;44;eau potable : Nantes Métropole;129083;2024;87,4;5,0;34,5;71,9;conforme;5869200;370783;23;66;43556;Non vérifié
-44144;Riaillé;44;eau potable : Pays d'Ancenis;129067;2024;86,3;1,4;8,9;66,8;conforme;738906;28377;33;67;2365;Non vérifié
-44145;Rouans;44;eau potable : Pays de Retz;296034;2024;90,3;0,9;8,4;66,7;conforme;316674;21520;18;54;3301;Non vérifié
-44146;Rougé;44;eau potable : Pays de la Mee;129104;2024;79,3;1,5;5,8;66,2;conforme;630720;36092;46;112;2146;Non vérifié
-44148;Ruffigné;44;eau potable : Pays de la Mee;129104;2024;79,3;1,5;5,8;66,2;conforme;630720;11806;46;112;702;Non vérifié
-44149;Saffré;44;eau potable : Nort-sur-Erdre;129071;2024;85,8;1,4;8,5;66,7;conforme;830697;38330;26;82;4115;Non vérifié
-44150;Saint-Aignan-Grandlieu;44;eau potable : Nantes Métropole;129083;2024;87,4;5,0;34,5;71,9;conforme;5869200;34017;23;66;3996;Non vérifié
-44151;Saint-André-des-Eaux;44;eau potable : CARENE;129094;2024;92,0;3,7;42,7;73,5;conforme;1423427;74827;29;49;7013;Non vérifié
-44152;Sainte-Anne-sur-Brivet;44;eau potable : Campbon Sillon;295534;2024;91,6;0,9;10,1;67,0;conforme;355766;15805;14;37;3063;Non vérifié
-44153;Saint-Aubin-des-Châteaux;44;eau potable : Pays de la Mee;129104;2024;79,3;1,5;5,8;66,2;conforme;630720;29331;46;112;1744;Non vérifié
-44154;Saint-Brevin-les-Pins;44;eau potable : CC Sud-Estuaire;129074;2024;88,2;1,3;9,5;66,9;conforme;239622;111286;21;50;14541;Non vérifié
-44155;Saint-Colomban;44;eau potable : Grandlieu;129096;2024;88,1;1,1;8,3;66,7;conforme;390258;22204;17;53;3500;Non vérifié
-44156;Corcoué-sur-Logne;44;eau potable : Grandlieu;129096;2024;88,1;1,1;8,3;66,7;conforme;390258;20713;17;53;3265;Non vérifié
-44157;Saint-Étienne-de-Mer-Morte;44;eau potable : Grandlieu;129096;2024;88,1;1,1;8,3;66,7;conforme;390258;11305;17;53;1782;Non vérifié
-44158;Saint-Étienne-de-Montluc;44;eau potable : Campbon Sillon;295534;2024;91,6;0,9;10,1;67,0;conforme;355766;40145;14;37;7780;Non vérifié
-44159;Saint-Fiacre-sur-Maine;44;eau potable : Vignoble;313174;2024;93,4;0,9;12,1;67,4;conforme;181818;5091;11;34;1251;Non vérifié
-44161;Saint-Gildas-des-Bois;44;eau potable : Guéméné Penfao Pontchateau - Saint Gildas des Bois;305454;2024;83,3;1,2;6,0;66,2;conforme;576846;36745;26;75;3860;Non vérifié
-44162;Saint-Herblain;44;eau potable : Nantes Métropole;129083;2024;87,4;5,0;34,5;71,9;conforme;5869200;433923;23;66;50973;Non vérifié
-44163;Vair-sur-Loire;44;eau potable : Pays d'Ancenis;129067;2024;86,3;1,4;8,9;66,8;conforme;738906;59321;33;67;4944;Non vérifié
-44164;Saint-Hilaire-de-Chaléons;44;eau potable : Pays de Retz;296034;2024;90,3;0,9;8,4;66,7;conforme;316674;15790;18;54;2422;Non vérifié
-44165;Saint-Hilaire-de-Clisson;44;eau potable : Vignoble;313174;2024;93,4;0,9;12,1;67,4;conforme;181818;9860;11;34;2423;Non vérifié
-44166;Saint-Jean-de-Boiseau;44;eau potable : Nantes Métropole;129083;2024;87,4;5,0;34,5;71,9;conforme;5869200;51647;23;66;6067;Non vérifié
-44168;Saint-Joachim;44;eau potable : CARENE;129094;2024;92,0;3,7;42,7;73,5;conforme;1423427;43874;29;49;4112;Non vérifié
-44169;Saint-Julien-de-Concelles;44;eau potable : Vignoble;129095;2024;84,9;1,6;9,1;66,8;conforme;442088;69367;24;72;7883;Non vérifié
-44170;Saint-Julien-de-Vouvantes;44;eau potable : Pays de la Mee;129104;2024;79,3;1,5;5,8;66,2;conforme;630720;16162;46;112;961;Non vérifié
-44171;Saint-Léger-les-Vignes;44;eau potable : Nantes Métropole;129083;2024;87,4;5,0;34,5;71,9;conforme;5869200;18481;23;66;2171;Non vérifié
-44172;Sainte-Luce-sur-Loire;44;eau potable : Nantes Métropole;129083;2024;87,4;5,0;34,5;71,9;conforme;5869200;139610;23;66;16400;Non vérifié
-44173;Saint-Lumine-de-Clisson;44;eau potable : Vignoble;313174;2024;93,4;0,9;12,1;67,4;conforme;181818;8546;11;34;2100;Non vérifié
-44174;Saint-Lumine-de-Coutais;44;eau potable : Grandlieu;129096;2024;88,1;1,1;8,3;66,7;conforme;390258;15200;17;53;2396;Non vérifié
-44175;Saint-Lyphard;44;eau potable : SEPIG Eau;129108;2024;91,7;1,5;16,1;68,2;conforme;691328;46653;24;38;5304;Non vérifié
-44176;Saint-Malo-de-Guersac;44;eau potable : CARENE;129094;2024;92,0;3,7;42,7;73,5;conforme;1423427;34175;29;49;3203;Non vérifié
-44178;Saint-Mars-de-Coutais;44;eau potable : Pays de Retz;296034;2024;90,3;0,9;8,4;66,7;conforme;316674;17589;18;54;2698;Non vérifié
-44179;Saint-Mars-du-Désert;44;eau potable : Nort-sur-Erdre;129071;2024;85,8;1,4;8,5;66,7;conforme;830697;51445;26;82;5523;Non vérifié
-44180;Vallons-de-l'Erdre;44;eau potable : Pays d'Ancenis;129067;2024;86,3;1,4;8,9;66,8;conforme;738906;80294;33;67;6692;Non vérifié
-44182;Saint-Michel-Chef-Chef;44;eau potable : Val Saint-Martin;129075;2024;89,1;1,8;14,8;68,0;conforme;387630;61500;29;63;5714;Non vérifié
-44183;Saint-Molf;44;eau potable : SEPIG Eau;129108;2024;91,7;1,5;16,1;68,2;conforme;691328;25244;24;38;2870;Non vérifié
-44184;Saint-Nazaire;44;eau potable : CARENE;129094;2024;92,0;3,7;42,7;73,5;conforme;1423427;795620;29;49;74568;Non vérifié
-44185;Saint-Nicolas-de-Redon;44;eau potable : Guéméné Penfao Pontchateau - Saint Gildas des Bois;305454;2024;83,3;1,2;6,0;66,2;conforme;576846;31519;26;75;3311;Non vérifié
-44186;Sainte-Pazanne;44;eau potable : Pays de Retz;296034;2024;90,3;0,9;8,4;66,7;conforme;316674;46945;18;54;7201;Non vérifié
-44187;Saint-Père-en-Retz;44;eau potable : CC Sud-Estuaire;129074;2024;88,2;1,3;9,5;66,9;conforme;239622;37455;21;50;4894;Non vérifié
-44188;Saint-Philbert-de-Grand-Lieu;44;eau potable : Grandlieu;129096;2024;88,1;1,1;8,3;66,7;conforme;390258;59633;17;53;9400;Non vérifié
-44189;Sainte-Reine-de-Bretagne;44;eau potable : Guéméné Penfao Pontchateau - Saint Gildas des Bois;305454;2024;83,3;1,2;6,0;66,2;conforme;576846;23646;26;75;2484;Non vérifié
-44190;Saint-Sébastien-sur-Loire;44;eau potable : Nantes Métropole;129083;2024;87,4;5,0;34,5;71,9;conforme;5869200;243432;23;66;28596;Non vérifié
-44192;Saint-Viaud;44;eau potable : CC Sud-Estuaire;129074;2024;88,2;1,3;9,5;66,9;conforme;239622;22416;21;50;2929;Non vérifié
-44193;Saint-Vincent-des-Landes;44;eau potable : Pays de la Mee;129104;2024;79,3;1,5;5,8;66,2;conforme;630720;25648;46;112;1525;Non vérifié
-44194;Sautron;44;eau potable : Nantes Métropole;129083;2024;87,4;5,0;34,5;71,9;conforme;5869200;72827;23;66;8555;Non vérifié
-44195;Savenay;44;eau potable : Campbon Sillon;295534;2024;91,6;0,9;10,1;67,0;conforme;355766;49242;14;37;9543;Non vérifié
-44196;Sévérac;44;eau potable : Guéméné Penfao Pontchateau - Saint Gildas des Bois;305454;2024;83,3;1,2;6,0;66,2;conforme;576846;16088;26;75;1690;Non vérifié
-44197;Sion-les-Mines;44;eau potable : Pays de la Mee;129104;2024;79,3;1,5;5,8;66,2;conforme;630720;27885;46;112;1658;Non vérifié
-44198;Les Sorinières;44;eau potable : Nantes Métropole;129083;2024;87,4;5,0;34,5;71,9;conforme;5869200;78956;23;66;9275;Non vérifié
-44199;Soudan;44;eau potable : Pays de la Mee;129104;2024;79,3;1,5;5,8;66,2;conforme;630720;32947;46;112;1959;Non vérifié
-44200;Soulvache;44;eau potable : Pays de la Mee;129104;2024;79,3;1,5;5,8;66,2;conforme;630720;5685;46;112;338;Non vérifié
-44201;Sucé-sur-Erdre;44;eau potable : Nort-sur-Erdre;129071;2024;85,8;1,4;8,5;66,7;conforme;830697;70224;26;82;7539;Non vérifié
-44202;Teillé;44;eau potable : Pays d'Ancenis;129067;2024;86,3;1,4;8,9;66,8;conforme;738906;21885;33;67;1824;Non vérifié
-44203;Le Temple-de-Bretagne;44;eau potable : Campbon Sillon;295534;2024;91,6;0,9;10,1;67,0;conforme;355766;10191;14;37;1975;Non vérifié
-44204;Thouaré-sur-Loire;44;eau potable : Nantes Métropole;129083;2024;87,4;5,0;34,5;71,9;conforme;5869200;93675;23;66;11004;Non vérifié
-44205;Les Touches;44;eau potable : Nort-sur-Erdre;129071;2024;85,8;1,4;8,5;66,7;conforme;830697;24572;26;82;2638;Non vérifié
-44206;Touvois;44;eau potable : Grandlieu;129096;2024;88,1;1,1;8,3;66,7;conforme;390258;12497;17;53;1970;Non vérifié
-44207;Trans-sur-Erdre;44;eau potable : Nort-sur-Erdre;129071;2024;85,8;1,4;8,5;66,7;conforme;830697;10768;26;82;1156;Non vérifié
-44208;Treffieux;44;eau potable : Nort-sur-Erdre;129071;2024;85,8;1,4;8,5;66,7;conforme;830697;9277;26;82;996;Non vérifié
-44209;Treillières;44;eau potable : Campbon Sillon;295534;2024;91,6;0,9;10,1;67,0;conforme;355766;54696;14;37;10600;Non vérifié
-44210;Trignac;44;eau potable : CARENE;129094;2024;92,0;3,7;42,7;73,5;conforme;1423427;89594;29;49;8397;Non vérifié
-44211;La Turballe;44;eau potable : SEPIG Eau;129108;2024;91,7;1,5;16,1;68,2;conforme;691328;42659;24;38;4850;Non vérifié
-44212;Vallet;44;eau potable : Vignoble;129095;2024;84,9;1,6;9,1;66,8;conforme;442088;83551;24;72;9495;Non vérifié
-44213;Loireauxence;44;eau potable : Pays d'Ancenis;129067;2024;86,3;1,4;8,9;66,8;conforme;738906;91033;33;67;7587;Non vérifié
-44214;Vay;44;eau potable : Nort-sur-Erdre;129071;2024;85,8;1,4;8,5;66,7;conforme;830697;19747;26;82;2120;Non vérifié
-44215;Vertou;44;eau potable : Nantes Métropole;129083;2024;87,4;5,0;34,5;71,9;conforme;5869200;223265;23;66;26227;Non vérifié
-44216;Vieillevigne;44;eau potable : Grandlieu;320034;2024;85,6;1,2;7,2;66,4;conforme;100376;31925;21;62;4150;Non vérifié
-44217;Vigneux-de-Bretagne;44;eau potable : Campbon Sillon;295534;2024;91,6;0,9;10,1;67,0;conforme;355766;34531;14;37;6692;Non vérifié
-44218;Villepot;44;eau potable : Pays de la Mee;129104;2024;79,3;1,5;5,8;66,2;conforme;630720;11436;46;112;680;Non vérifié
-44220;Vue;44;eau potable : Pays de Retz;296034;2024;90,3;0,9;8,4;66,7;conforme;316674;11428;18;54;1753;Non vérifié
-44221;La Chevallerais;44;eau potable : Nort-sur-Erdre;129071;2024;85,8;1,4;8,5;66,7;conforme;830697;14615;26;82;1569;Non vérifié
-44222;La Roche-Blanche;44;eau potable : Pays d'Ancenis;129067;2024;86,3;1,4;8,9;66,8;conforme;738906;15130;33;67;1261;Non vérifié
-44223;Geneston;44;eau potable : Grandlieu;129096;2024;88,1;1,1;8,3;66,7;conforme;390258;23377;17;53;3685;Non vérifié
-44224;La Grigonnais;44;eau potable : Nort-sur-Erdre;129071;2024;85,8;1,4;8,5;66,7;conforme;830697;17027;26;82;1828;Non vérifié
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement);Donnée suspecte (voir LISEZMOI)
+44001;Abbaretz;44;eau potable : Nort-sur-Erdre;129071;2024;85,8;1,4;8,5;66,7;conforme;830697;19309;26;82;2073;Non vérifié;non
+44002;Aigrefeuille-sur-Maine;44;eau potable : Grandlieu;320034;2024;85,6;1,2;7,2;66,4;conforme;100376;31972;21;62;4156;Non vérifié;non
+44003;Ancenis-Saint-Géréon;44;eau potable : Pays d'Ancenis;129067;2024;86,3;1,4;8,9;66,8;conforme;738906;139183;33;67;11600;Non vérifié;non
+44005;Chaumes-en-Retz;44;eau potable : Pays de Retz;296034;2024;90,3;0,9;8,4;66,7;conforme;316674;48503;18;54;7440;Non vérifié;non
+44006;Assérac;44;eau potable : SEPIG Eau;129108;2024;91,7;1,5;16,1;68,2;conforme;691328;16624;24;38;1890;Non vérifié;non
+44007;Avessac;44;eau potable : Guéméné Penfao Pontchateau - Saint Gildas des Bois;305454;2024;83,3;1,2;6,0;66,2;conforme;576846;23342;26;75;2452;Non vérifié;non
+44009;Basse-Goulaine;44;eau potable : Nantes Métropole;129083;2024;87,4;5,0;34,5;71,9;conforme;5869200;82395;23;66;9679;Non vérifié;non
+44010;Batz-sur-Mer;44;eau potable : SEPIG Eau;129108;2024;91,7;1,5;16,1;68,2;conforme;691328;25437;24;38;2892;Non vérifié;non
+44012;La Bernerie-en-Retz;44;eau potable : Val Saint-Martin;129075;2024;89,1;1,8;14,8;68,0;conforme;387630;38058;29;63;3536;Non vérifié;non
+44013;Besné;44;eau potable : CARENE;129094;2024;92,0;3,7;42,7;73,5;conforme;1423427;35445;29;49;3322;Non vérifié;non
+44014;Le Bignon;44;eau potable : Grandlieu;129096;2024;88,1;1,1;8,3;66,7;conforme;390258;25223;17;53;3976;Non vérifié;non
+44015;Blain;44;eau potable : Nort-sur-Erdre;129071;2024;85,8;1,4;8,5;66,7;conforme;830697;96650;26;82;10376;Non vérifié;non
+44016;La Boissière-du-Doré;44;eau potable : Vignoble;129095;2024;84,9;1,6;9,1;66,8;conforme;442088;9732;24;72;1106;Non vérifié;non
+44018;Bouaye;44;eau potable : Nantes Métropole;129083;2024;87,4;5,0;34,5;71,9;conforme;5869200;71022;23;66;8343;Non vérifié;non
+44019;Bouée;44;eau potable : Campbon Sillon;295534;2024;91,6;0,9;10,1;67,0;conforme;355766;5661;14;37;1097;Non vérifié;non
+44020;Bouguenais;44;eau potable : Nantes Métropole;129083;2024;87,4;5,0;34,5;71,9;conforme;5869200;174768;23;66;20530;Non vérifié;non
+44021;Villeneuve-en-Retz;44;eau potable : Pays de Retz;296034;2024;90,3;0,9;8,4;66,7;conforme;316674;33379;18;54;5120;Non vérifié;non
+44022;Boussay;44;eau potable : Vignoble;313174;2024;93,4;0,9;12,1;67,4;conforme;181818;11737;11;34;2884;Non vérifié;non
+44023;Bouvron;44;eau potable : Campbon Sillon;295534;2024;91,6;0,9;10,1;67,0;conforme;355766;16269;14;37;3153;Non vérifié;non
+44024;Brains;44;eau potable : Nantes Métropole;129083;2024;87,4;5,0;34,5;71,9;conforme;5869200;23061;23;66;2709;Non vérifié;non
+44025;Campbon;44;eau potable : Campbon Sillon;295534;2024;91,6;0,9;10,1;67,0;conforme;355766;20939;14;37;4058;Non vérifié;non
+44026;Carquefou;44;eau potable : Nantes Métropole;129083;2024;87,4;5,0;34,5;71,9;conforme;5869200;178096;23;66;20921;Non vérifié;non
+44027;Casson;44;eau potable : Nort-sur-Erdre;129071;2024;85,8;1,4;8,5;66,7;conforme;830697;24265;26;82;2605;Non vérifié;non
+44028;Le Cellier;44;eau potable : Pays d'Ancenis;129067;2024;86,3;1,4;8,9;66,8;conforme;738906;48606;33;67;4051;Non vérifié;non
+44029;Divatte-sur-Loire;44;eau potable : Vignoble;129095;2024;84,9;1,6;9,1;66,8;conforme;442088;63814;24;72;7252;Non vérifié;non
+44030;La Chapelle-des-Marais;44;eau potable : CARENE;129094;2024;92,0;3,7;42,7;73,5;conforme;1423427;47928;29;49;4492;Non vérifié;non
+44031;La Chapelle-Glain;44;eau potable : Pays d'Ancenis;129067;2024;86,3;1,4;8,9;66,8;conforme;738906;9707;33;67;809;Non vérifié;non
+44032;La Chapelle-Heulin;44;eau potable : Vignoble;129095;2024;84,9;1,6;9,1;66,8;conforme;442088;30508;24;72;3467;Non vérifié;non
+44033;La Chapelle-Launay;44;eau potable : Campbon Sillon;295534;2024;91,6;0,9;10,1;67,0;conforme;355766;16873;14;37;3270;Non vérifié;non
+44035;La Chapelle-sur-Erdre;44;eau potable : Nantes Métropole;129083;2024;87,4;5,0;34,5;71,9;conforme;5869200;176130;23;66;20690;Non vérifié;non
+44036;Châteaubriant;44;eau potable : Pays de la Mee;129104;2024;79,3;1,5;5,8;66,2;conforme;630720;206192;46;112;12260;Non vérifié;non
+44037;Château-Thébaud;44;eau potable : Vignoble;313174;2024;93,4;0,9;12,1;67,4;conforme;181818;12734;11;34;3129;Non vérifié;non
+44038;Chauvé;44;eau potable : Pays de Retz;296034;2024;90,3;0,9;8,4;66,7;conforme;316674;20014;18;54;3070;Non vérifié;non
+44039;Cheix-en-Retz;44;eau potable : Pays de Retz;296034;2024;90,3;0,9;8,4;66,7;conforme;316674;7706;18;54;1182;Non vérifié;non
+44041;La Chevrolière;44;eau potable : Grandlieu;129096;2024;88,1;1,1;8,3;66,7;conforme;390258;41483;17;53;6539;Non vérifié;non
+44043;Clisson;44;eau potable : Vignoble;313174;2024;93,4;0,9;12,1;67,4;conforme;181818;30326;11;34;7452;Non vérifié;non
+44044;Conquereuil;44;eau potable : Guéméné Penfao Pontchateau - Saint Gildas des Bois;305454;2024;83,3;1,2;6,0;66,2;conforme;576846;10100;26;75;1061;Non vérifié;non
+44045;Cordemais;44;eau potable : Campbon Sillon;295534;2024;91,6;0,9;10,1;67,0;conforme;355766;20702;14;37;4012;Non vérifié;non
+44046;Corsept;44;eau potable : CC Sud-Estuaire;129074;2024;88,2;1,3;9,5;66,9;conforme;239622;19852;21;50;2594;Non vérifié;non
+44047;Couëron;44;eau potable : Nantes Métropole;129083;2024;87,4;5,0;34,5;71,9;conforme;5869200;205184;23;66;24103;Non vérifié;non
+44048;Couffé;44;eau potable : Pays d'Ancenis;129067;2024;86,3;1,4;8,9;66,8;conforme;738906;30416;33;67;2535;Non vérifié;non
+44049;Le Croisic;44;eau potable : SEPIG Eau;129108;2024;91,7;1,5;16,1;68,2;conforme;691328;35676;24;38;4056;Non vérifié;non
+44050;Crossac;44;eau potable : Guéméné Penfao Pontchateau - Saint Gildas des Bois;305454;2024;83,3;1,2;6,0;66,2;conforme;576846;28311;26;75;2974;Non vérifié;non
+44051;Derval;44;eau potable : Guéméné Penfao Pontchateau - Saint Gildas des Bois;305454;2024;83,3;1,2;6,0;66,2;conforme;576846;34279;26;75;3601;Non vérifié;non
+44052;Donges;44;eau potable : CARENE;129094;2024;92,0;3,7;42,7;73,5;conforme;1423427;87694;29;49;8219;Non vérifié;non
+44053;Drefféac;44;eau potable : Guéméné Penfao Pontchateau - Saint Gildas des Bois;305454;2024;83,3;1,2;6,0;66,2;conforme;576846;21780;26;75;2288;Non vérifié;non
+44054;Erbray;44;eau potable : Pays de la Mee;129104;2024;79,3;1,5;5,8;66,2;conforme;630720;51666;46;112;3072;Non vérifié;non
+44055;La Baule-Escoublac;44;eau potable : SEPIG Eau;129108;2024;91,7;1,5;16,1;68,2;conforme;691328;148754;24;38;16912;Non vérifié;non
+44056;Fay-de-Bretagne;44;eau potable : Campbon Sillon;295534;2024;91,6;0,9;10,1;67,0;conforme;355766;20759;14;37;4023;Non vérifié;non
+44057;Fégréac;44;eau potable : Guéméné Penfao Pontchateau - Saint Gildas des Bois;305454;2024;83,3;1,2;6,0;66,2;conforme;576846;21352;26;75;2243;Non vérifié;non
+44058;Fercé;44;eau potable : Pays de la Mee;129104;2024;79,3;1,5;5,8;66,2;conforme;630720;8695;46;112;517;Non vérifié;non
+44061;Frossay;44;eau potable : CC Sud-Estuaire;129074;2024;88,2;1,3;9,5;66,9;conforme;239622;25309;21;50;3307;Non vérifié;non
+44062;Le Gâvre;44;eau potable : Nort-sur-Erdre;129071;2024;85,8;1,4;8,5;66,7;conforme;830697;17605;26;82;1890;Non vérifié;non
+44063;Gétigné;44;eau potable : Vignoble;313174;2024;93,4;0,9;12,1;67,4;conforme;181818;15802;11;34;3883;Non vérifié;non
+44064;Gorges;44;eau potable : Vignoble;313174;2024;93,4;0,9;12,1;67,4;conforme;181818;21174;11;34;5203;Non vérifié;non
+44065;Grand-Auverné;44;eau potable : Pays de la Mee;129104;2024;79,3;1,5;5,8;66,2;conforme;630720;13017;46;112;774;Non vérifié;non
+44066;Grandchamp-des-Fontaines;44;eau potable : Nort-sur-Erdre;129071;2024;85,8;1,4;8,5;66,7;conforme;830697;65781;26;82;7062;Non vérifié;non
+44067;Guémené-Penfao;44;eau potable : Guéméné Penfao Pontchateau - Saint Gildas des Bois;305454;2024;83,3;1,2;6,0;66,2;conforme;576846;49910;26;75;5243;Non vérifié;non
+44068;Guenrouet;44;eau potable : Guéméné Penfao Pontchateau - Saint Gildas des Bois;305454;2024;83,3;1,2;6,0;66,2;conforme;576846;34965;26;75;3673;Non vérifié;non
+44069;Guérande;44;eau potable : SEPIG Eau;129108;2024;91,7;1,5;16,1;68,2;conforme;691328;147804;24;38;16804;Non vérifié;non
+44070;La Haie-Fouassière;44;eau potable : Vignoble;313174;2024;93,4;0,9;12,1;67,4;conforme;181818;19432;11;34;4775;Non vérifié;non
+44071;Haute-Goulaine;44;eau potable : Vignoble;313174;2024;93,4;0,9;12,1;67,4;conforme;181818;24804;11;34;6095;Non vérifié;non
+44072;Herbignac;44;eau potable : SEPIG Eau;129108;2024;91,7;1,5;16,1;68,2;conforme;691328;63540;24;38;7224;Non vérifié;non
+44073;Héric;44;eau potable : Nort-sur-Erdre;129071;2024;85,8;1,4;8,5;66,7;conforme;830697;61337;26;82;6585;Non vérifié;non
+44074;Indre;44;eau potable : Nantes Métropole;129083;2024;87,4;5,0;34,5;71,9;conforme;5869200;35413;23;66;4160;Non vérifié;non
+44075;Issé;44;eau potable : Pays de la Mee;129104;2024;79,3;1,5;5,8;66,2;conforme;630720;31215;46;112;1856;Non vérifié;non
+44076;Jans;44;eau potable : Nort-sur-Erdre;129071;2024;85,8;1,4;8,5;66,7;conforme;830697;12705;26;82;1364;Non vérifié;non
+44077;Joué-sur-Erdre;44;eau potable : Nort-sur-Erdre;129071;2024;85,8;1,4;8,5;66,7;conforme;830697;26053;26;82;2797;Non vérifié;non
+44078;Juigné-des-Moutiers;44;eau potable : Pays de la Mee;129104;2024;79,3;1,5;5,8;66,2;conforme;630720;5617;46;112;334;Non vérifié;non
+44079;Le Landreau;44;eau potable : Vignoble;129095;2024;84,9;1,6;9,1;66,8;conforme;442088;28748;24;72;3267;Non vérifié;non
+44080;Lavau-sur-Loire;44;eau potable : Campbon Sillon;295534;2024;91,6;0,9;10,1;67,0;conforme;355766;3989;14;37;773;Non vérifié;non
+44081;Legé;44;eau potable : Grandlieu;129096;2024;88,1;1,1;8,3;66,7;conforme;390258;30559;17;53;4817;Non vérifié;non
+44082;Ligné;44;eau potable : Nort-sur-Erdre;129071;2024;85,8;1,4;8,5;66,7;conforme;830697;53029;26;82;5693;Non vérifié;non
+44083;La Limouzinière;44;eau potable : Grandlieu;129096;2024;88,1;1,1;8,3;66,7;conforme;390258;15600;17;53;2459;Non vérifié;non
+44084;Le Loroux-Bottereau;44;eau potable : Vignoble;129095;2024;84,9;1,6;9,1;66,8;conforme;442088;75254;24;72;8552;Non vérifié;non
+44085;Louisfert;44;eau potable : Pays de la Mee;129104;2024;79,3;1,5;5,8;66,2;conforme;630720;15893;46;112;945;Non vérifié;non
+44086;Lusanger;44;eau potable : Pays de la Mee;129104;2024;79,3;1,5;5,8;66,2;conforme;630720;18063;46;112;1074;Non vérifié;non
+44087;Machecoul-Saint-Même;44;eau potable : Pays de Retz;296034;2024;90,3;0,9;8,4;66,7;conforme;316674;50127;18;54;7689;Non vérifié;non
+44088;Maisdon-sur-Sèvre;44;eau potable : Vignoble;313174;2024;93,4;0,9;12,1;67,4;conforme;181818;12595;11;34;3095;Non vérifié;non
+44089;Malville;44;eau potable : Campbon Sillon;295534;2024;91,6;0,9;10,1;67,0;conforme;355766;19360;14;37;3752;Non vérifié;non
+44090;La Marne;44;eau potable : Pays de Retz;296034;2024;90,3;0,9;8,4;66,7;conforme;316674;10340;18;54;1586;Non vérifié;non
+44091;Marsac-sur-Don;44;eau potable : Guéméné Penfao Pontchateau - Saint Gildas des Bois;305454;2024;83,3;1,2;6,0;66,2;conforme;576846;14508;26;75;1524;Non vérifié;non
+44092;Massérac;44;eau potable : Guéméné Penfao Pontchateau - Saint Gildas des Bois;305454;2024;83,3;1,2;6,0;66,2;conforme;576846;6330;26;75;665;Non vérifié;non
+44094;Mauves-sur-Loire;44;eau potable : Nantes Métropole;129083;2024;87,4;5,0;34,5;71,9;conforme;5869200;29020;23;66;3409;Non vérifié;non
+44095;La Meilleraye-de-Bretagne;44;eau potable : Pays de la Mee;129104;2024;79,3;1,5;5,8;66,2;conforme;630720;27010;46;112;1606;Non vérifié;non
+44096;Mésanger;44;eau potable : Pays d'Ancenis;129067;2024;86,3;1,4;8,9;66,8;conforme;738906;56681;33;67;4724;Non vérifié;non
+44097;Mesquer;44;eau potable : SEPIG Eau;129108;2024;91,7;1,5;16,1;68,2;conforme;691328;19096;24;38;2171;Non vérifié;non
+44098;Missillac;44;eau potable : Guéméné Penfao Pontchateau - Saint Gildas des Bois;305454;2024;83,3;1,2;6,0;66,2;conforme;576846;54346;26;75;5709;Non vérifié;non
+44099;Moisdon-la-Rivière;44;eau potable : Pays de la Mee;129104;2024;79,3;1,5;5,8;66,2;conforme;630720;33468;46;112;1990;Non vérifié;non
+44100;Monnières;44;eau potable : Vignoble;313174;2024;93,4;0,9;12,1;67,4;conforme;181818;9718;11;34;2388;Non vérifié;non
+44101;La Montagne;44;eau potable : Nantes Métropole;129083;2024;87,4;5,0;34,5;71,9;conforme;5869200;55376;23;66;6505;Non vérifié;non
+44102;Montbert;44;eau potable : Grandlieu;129096;2024;88,1;1,1;8,3;66,7;conforme;390258;21493;17;53;3388;Non vérifié;non
+44103;Montoir-de-Bretagne;44;eau potable : CARENE;129094;2024;92,0;3,7;42,7;73,5;conforme;1423427;77697;29;49;7282;Non vérifié;non
+44104;Montrelais;44;eau potable : Pays d'Ancenis;129067;2024;86,3;1,4;8,9;66,8;conforme;738906;10307;33;67;859;Non vérifié;non
+44105;Mouais;44;eau potable : Pays de la Mee;129104;2024;79,3;1,5;5,8;66,2;conforme;630720;5920;46;112;352;Non vérifié;non
+44106;Les Moutiers-en-Retz;44;eau potable : Val Saint-Martin;129075;2024;89,1;1,8;14,8;68,0;conforme;387630;20869;29;63;1939;Non vérifié;non
+44107;Mouzeil;44;eau potable : Pays d'Ancenis;129067;2024;86,3;1,4;8,9;66,8;conforme;738906;24201;33;67;2017;Non vérifié;non
+44108;Mouzillon;44;eau potable : Vignoble;129095;2024;84,9;1,6;9,1;66,8;conforme;442088;25457;24;72;2893;Non vérifié;non
+44109;Nantes;44;eau potable : Nantes Métropole;129083;2024;87,4;5,0;34,5;71,9;conforme;5869200;2789934;23;66;327734;Non vérifié;non
+44110;Nort-sur-Erdre;44;eau potable : Nort-sur-Erdre;129071;2024;85,8;1,4;8,5;66,7;conforme;830697;89142;26;82;9570;Non vérifié;non
+44111;Notre-Dame-des-Landes;44;eau potable : Nort-sur-Erdre;129071;2024;85,8;1,4;8,5;66,7;conforme;830697;21983;26;82;2360;Non vérifié;non
+44112;Noyal-sur-Brutz;44;eau potable : Pays de la Mee;129104;2024;79,3;1,5;5,8;66,2;conforme;630720;9671;46;112;575;Non vérifié;non
+44113;Nozay;44;eau potable : Nort-sur-Erdre;129071;2024;85,8;1,4;8,5;66,7;conforme;830697;39979;26;82;4292;Non vérifié;non
+44114;Orvault;44;eau potable : Nantes Métropole;129083;2024;87,4;5,0;34,5;71,9;conforme;5869200;242904;23;66;28534;Non vérifié;non
+44115;Oudon;44;eau potable : Pays d'Ancenis;129067;2024;86,3;1,4;8,9;66,8;conforme;738906;46842;33;67;3904;Non vérifié;non
+44116;Paimboeuf;44;eau potable : CC Sud-Estuaire;129074;2024;88,2;1,3;9,5;66,9;conforme;239622;23304;21;50;3045;Non vérifié;non
+44117;Le Pallet;44;eau potable : Vignoble;129095;2024;84,9;1,6;9,1;66,8;conforme;442088;30033;24;72;3413;Non vérifié;non
+44118;Pannecé;44;eau potable : Pays d'Ancenis;129067;2024;86,3;1,4;8,9;66,8;conforme;738906;17266;33;67;1439;Non vérifié;non
+44119;Paulx;44;eau potable : Pays de Retz;296034;2024;90,3;0,9;8,4;66,7;conforme;316674;13391;18;54;2054;Non vérifié;non
+44120;Le Pellerin;44;eau potable : Nantes Métropole;129083;2024;87,4;5,0;34,5;71,9;conforme;5869200;45280;23;66;5319;Non vérifié;non
+44121;Petit-Auverné;44;eau potable : Pays de la Mee;129104;2024;79,3;1,5;5,8;66,2;conforme;630720;7299;46;112;434;Non vérifié;non
+44122;Petit-Mars;44;eau potable : Nort-sur-Erdre;129071;2024;85,8;1,4;8,5;66,7;conforme;830697;36216;26;82;3888;Non vérifié;non
+44123;Pierric;44;eau potable : Guéméné Penfao Pontchateau - Saint Gildas des Bois;305454;2024;83,3;1,2;6,0;66,2;conforme;576846;9615;26;75;1010;Non vérifié;non
+44124;Le Pin;44;eau potable : Pays d'Ancenis;129067;2024;86,3;1,4;8,9;66,8;conforme;738906;10415;33;67;868;Non vérifié;non
+44125;Piriac-sur-Mer;44;eau potable : SEPIG Eau;129108;2024;91,7;1,5;16,1;68,2;conforme;691328;23617;24;38;2685;Non vérifié;non
+44126;La Plaine-sur-Mer;44;eau potable : Val Saint-Martin;129075;2024;89,1;1,8;14,8;68,0;conforme;387630;51232;29;63;4760;Non vérifié;non
+44127;La Planche;44;eau potable : Grandlieu;320034;2024;85,6;1,2;7,2;66,4;conforme;100376;21617;21;62;2810;Non vérifié;non
+44128;Plessé;44;eau potable : Guéméné Penfao Pontchateau - Saint Gildas des Bois;305454;2024;83,3;1,2;6,0;66,2;conforme;576846;50786;26;75;5335;Non vérifié;non
+44129;Pontchâteau;44;eau potable : Guéméné Penfao Pontchateau - Saint Gildas des Bois;305454;2024;83,3;1,2;6,0;66,2;conforme;576846;109225;26;75;11474;Non vérifié;non
+44130;Pont-Saint-Martin;44;eau potable : Grandlieu;129096;2024;88,1;1,1;8,3;66,7;conforme;390258;44997;17;53;7093;Non vérifié;non
+44131;Pornic;44;eau potable : Val Saint-Martin;129075;2024;89,1;1,8;14,8;68,0;conforme;387630;201753;29;63;18745;Non vérifié;non
+44132;Pornichet;44;eau potable : CARENE;129094;2024;92,0;3,7;42,7;73,5;conforme;1423427;136573;29;49;12800;Non vérifié;non
+44133;Port-Saint-Père;44;eau potable : Pays de Retz;296034;2024;90,3;0,9;8,4;66,7;conforme;316674;19942;18;54;3059;Non vérifié;non
+44134;Pouillé-les-Côteaux;44;eau potable : Pays d'Ancenis;129067;2024;86,3;1,4;8,9;66,8;conforme;738906;12394;33;67;1033;Non vérifié;non
+44135;Le Pouliguen;44;eau potable : SEPIG Eau;129108;2024;91,7;1,5;16,1;68,2;conforme;691328;36705;24;38;4173;Non vérifié;non
+44136;Préfailles;44;eau potable : Val Saint-Martin;129075;2024;89,1;1,8;14,8;68,0;conforme;387630;14218;29;63;1321;Non vérifié;non
+44137;Prinquiau;44;eau potable : Campbon Sillon;295534;2024;91,6;0,9;10,1;67,0;conforme;355766;18530;14;37;3591;Non vérifié;non
+44138;Puceul;44;eau potable : Nort-sur-Erdre;129071;2024;85,8;1,4;8,5;66,7;conforme;830697;10637;26;82;1142;Non vérifié;non
+44139;Quilly;44;eau potable : Campbon Sillon;295534;2024;91,6;0,9;10,1;67,0;conforme;355766;8075;14;37;1565;Non vérifié;non
+44140;La Regrippière;44;eau potable : Vignoble;129095;2024;84,9;1,6;9,1;66,8;conforme;442088;14158;24;72;1609;Non vérifié;non
+44141;La Remaudière;44;eau potable : Vignoble;129095;2024;84,9;1,6;9,1;66,8;conforme;442088;11466;24;72;1303;Non vérifié;non
+44142;Remouillé;44;eau potable : Grandlieu;320034;2024;85,6;1,2;7,2;66,4;conforme;100376;14863;21;62;1932;Non vérifié;non
+44143;Rezé;44;eau potable : Nantes Métropole;129083;2024;87,4;5,0;34,5;71,9;conforme;5869200;370783;23;66;43556;Non vérifié;non
+44144;Riaillé;44;eau potable : Pays d'Ancenis;129067;2024;86,3;1,4;8,9;66,8;conforme;738906;28377;33;67;2365;Non vérifié;non
+44145;Rouans;44;eau potable : Pays de Retz;296034;2024;90,3;0,9;8,4;66,7;conforme;316674;21520;18;54;3301;Non vérifié;non
+44146;Rougé;44;eau potable : Pays de la Mee;129104;2024;79,3;1,5;5,8;66,2;conforme;630720;36092;46;112;2146;Non vérifié;non
+44148;Ruffigné;44;eau potable : Pays de la Mee;129104;2024;79,3;1,5;5,8;66,2;conforme;630720;11806;46;112;702;Non vérifié;non
+44149;Saffré;44;eau potable : Nort-sur-Erdre;129071;2024;85,8;1,4;8,5;66,7;conforme;830697;38330;26;82;4115;Non vérifié;non
+44150;Saint-Aignan-Grandlieu;44;eau potable : Nantes Métropole;129083;2024;87,4;5,0;34,5;71,9;conforme;5869200;34017;23;66;3996;Non vérifié;non
+44151;Saint-André-des-Eaux;44;eau potable : CARENE;129094;2024;92,0;3,7;42,7;73,5;conforme;1423427;74827;29;49;7013;Non vérifié;non
+44152;Sainte-Anne-sur-Brivet;44;eau potable : Campbon Sillon;295534;2024;91,6;0,9;10,1;67,0;conforme;355766;15805;14;37;3063;Non vérifié;non
+44153;Saint-Aubin-des-Châteaux;44;eau potable : Pays de la Mee;129104;2024;79,3;1,5;5,8;66,2;conforme;630720;29331;46;112;1744;Non vérifié;non
+44154;Saint-Brevin-les-Pins;44;eau potable : CC Sud-Estuaire;129074;2024;88,2;1,3;9,5;66,9;conforme;239622;111286;21;50;14541;Non vérifié;non
+44155;Saint-Colomban;44;eau potable : Grandlieu;129096;2024;88,1;1,1;8,3;66,7;conforme;390258;22204;17;53;3500;Non vérifié;non
+44156;Corcoué-sur-Logne;44;eau potable : Grandlieu;129096;2024;88,1;1,1;8,3;66,7;conforme;390258;20713;17;53;3265;Non vérifié;non
+44157;Saint-Étienne-de-Mer-Morte;44;eau potable : Grandlieu;129096;2024;88,1;1,1;8,3;66,7;conforme;390258;11305;17;53;1782;Non vérifié;non
+44158;Saint-Étienne-de-Montluc;44;eau potable : Campbon Sillon;295534;2024;91,6;0,9;10,1;67,0;conforme;355766;40145;14;37;7780;Non vérifié;non
+44159;Saint-Fiacre-sur-Maine;44;eau potable : Vignoble;313174;2024;93,4;0,9;12,1;67,4;conforme;181818;5091;11;34;1251;Non vérifié;non
+44161;Saint-Gildas-des-Bois;44;eau potable : Guéméné Penfao Pontchateau - Saint Gildas des Bois;305454;2024;83,3;1,2;6,0;66,2;conforme;576846;36745;26;75;3860;Non vérifié;non
+44162;Saint-Herblain;44;eau potable : Nantes Métropole;129083;2024;87,4;5,0;34,5;71,9;conforme;5869200;433923;23;66;50973;Non vérifié;non
+44163;Vair-sur-Loire;44;eau potable : Pays d'Ancenis;129067;2024;86,3;1,4;8,9;66,8;conforme;738906;59321;33;67;4944;Non vérifié;non
+44164;Saint-Hilaire-de-Chaléons;44;eau potable : Pays de Retz;296034;2024;90,3;0,9;8,4;66,7;conforme;316674;15790;18;54;2422;Non vérifié;non
+44165;Saint-Hilaire-de-Clisson;44;eau potable : Vignoble;313174;2024;93,4;0,9;12,1;67,4;conforme;181818;9860;11;34;2423;Non vérifié;non
+44166;Saint-Jean-de-Boiseau;44;eau potable : Nantes Métropole;129083;2024;87,4;5,0;34,5;71,9;conforme;5869200;51647;23;66;6067;Non vérifié;non
+44168;Saint-Joachim;44;eau potable : CARENE;129094;2024;92,0;3,7;42,7;73,5;conforme;1423427;43874;29;49;4112;Non vérifié;non
+44169;Saint-Julien-de-Concelles;44;eau potable : Vignoble;129095;2024;84,9;1,6;9,1;66,8;conforme;442088;69367;24;72;7883;Non vérifié;non
+44170;Saint-Julien-de-Vouvantes;44;eau potable : Pays de la Mee;129104;2024;79,3;1,5;5,8;66,2;conforme;630720;16162;46;112;961;Non vérifié;non
+44171;Saint-Léger-les-Vignes;44;eau potable : Nantes Métropole;129083;2024;87,4;5,0;34,5;71,9;conforme;5869200;18481;23;66;2171;Non vérifié;non
+44172;Sainte-Luce-sur-Loire;44;eau potable : Nantes Métropole;129083;2024;87,4;5,0;34,5;71,9;conforme;5869200;139610;23;66;16400;Non vérifié;non
+44173;Saint-Lumine-de-Clisson;44;eau potable : Vignoble;313174;2024;93,4;0,9;12,1;67,4;conforme;181818;8546;11;34;2100;Non vérifié;non
+44174;Saint-Lumine-de-Coutais;44;eau potable : Grandlieu;129096;2024;88,1;1,1;8,3;66,7;conforme;390258;15200;17;53;2396;Non vérifié;non
+44175;Saint-Lyphard;44;eau potable : SEPIG Eau;129108;2024;91,7;1,5;16,1;68,2;conforme;691328;46653;24;38;5304;Non vérifié;non
+44176;Saint-Malo-de-Guersac;44;eau potable : CARENE;129094;2024;92,0;3,7;42,7;73,5;conforme;1423427;34175;29;49;3203;Non vérifié;non
+44178;Saint-Mars-de-Coutais;44;eau potable : Pays de Retz;296034;2024;90,3;0,9;8,4;66,7;conforme;316674;17589;18;54;2698;Non vérifié;non
+44179;Saint-Mars-du-Désert;44;eau potable : Nort-sur-Erdre;129071;2024;85,8;1,4;8,5;66,7;conforme;830697;51445;26;82;5523;Non vérifié;non
+44180;Vallons-de-l'Erdre;44;eau potable : Pays d'Ancenis;129067;2024;86,3;1,4;8,9;66,8;conforme;738906;80294;33;67;6692;Non vérifié;non
+44182;Saint-Michel-Chef-Chef;44;eau potable : Val Saint-Martin;129075;2024;89,1;1,8;14,8;68,0;conforme;387630;61500;29;63;5714;Non vérifié;non
+44183;Saint-Molf;44;eau potable : SEPIG Eau;129108;2024;91,7;1,5;16,1;68,2;conforme;691328;25244;24;38;2870;Non vérifié;non
+44184;Saint-Nazaire;44;eau potable : CARENE;129094;2024;92,0;3,7;42,7;73,5;conforme;1423427;795620;29;49;74568;Non vérifié;non
+44185;Saint-Nicolas-de-Redon;44;eau potable : Guéméné Penfao Pontchateau - Saint Gildas des Bois;305454;2024;83,3;1,2;6,0;66,2;conforme;576846;31519;26;75;3311;Non vérifié;non
+44186;Sainte-Pazanne;44;eau potable : Pays de Retz;296034;2024;90,3;0,9;8,4;66,7;conforme;316674;46945;18;54;7201;Non vérifié;non
+44187;Saint-Père-en-Retz;44;eau potable : CC Sud-Estuaire;129074;2024;88,2;1,3;9,5;66,9;conforme;239622;37455;21;50;4894;Non vérifié;non
+44188;Saint-Philbert-de-Grand-Lieu;44;eau potable : Grandlieu;129096;2024;88,1;1,1;8,3;66,7;conforme;390258;59633;17;53;9400;Non vérifié;non
+44189;Sainte-Reine-de-Bretagne;44;eau potable : Guéméné Penfao Pontchateau - Saint Gildas des Bois;305454;2024;83,3;1,2;6,0;66,2;conforme;576846;23646;26;75;2484;Non vérifié;non
+44190;Saint-Sébastien-sur-Loire;44;eau potable : Nantes Métropole;129083;2024;87,4;5,0;34,5;71,9;conforme;5869200;243432;23;66;28596;Non vérifié;non
+44192;Saint-Viaud;44;eau potable : CC Sud-Estuaire;129074;2024;88,2;1,3;9,5;66,9;conforme;239622;22416;21;50;2929;Non vérifié;non
+44193;Saint-Vincent-des-Landes;44;eau potable : Pays de la Mee;129104;2024;79,3;1,5;5,8;66,2;conforme;630720;25648;46;112;1525;Non vérifié;non
+44194;Sautron;44;eau potable : Nantes Métropole;129083;2024;87,4;5,0;34,5;71,9;conforme;5869200;72827;23;66;8555;Non vérifié;non
+44195;Savenay;44;eau potable : Campbon Sillon;295534;2024;91,6;0,9;10,1;67,0;conforme;355766;49242;14;37;9543;Non vérifié;non
+44196;Sévérac;44;eau potable : Guéméné Penfao Pontchateau - Saint Gildas des Bois;305454;2024;83,3;1,2;6,0;66,2;conforme;576846;16088;26;75;1690;Non vérifié;non
+44197;Sion-les-Mines;44;eau potable : Pays de la Mee;129104;2024;79,3;1,5;5,8;66,2;conforme;630720;27885;46;112;1658;Non vérifié;non
+44198;Les Sorinières;44;eau potable : Nantes Métropole;129083;2024;87,4;5,0;34,5;71,9;conforme;5869200;78956;23;66;9275;Non vérifié;non
+44199;Soudan;44;eau potable : Pays de la Mee;129104;2024;79,3;1,5;5,8;66,2;conforme;630720;32947;46;112;1959;Non vérifié;non
+44200;Soulvache;44;eau potable : Pays de la Mee;129104;2024;79,3;1,5;5,8;66,2;conforme;630720;5685;46;112;338;Non vérifié;non
+44201;Sucé-sur-Erdre;44;eau potable : Nort-sur-Erdre;129071;2024;85,8;1,4;8,5;66,7;conforme;830697;70224;26;82;7539;Non vérifié;non
+44202;Teillé;44;eau potable : Pays d'Ancenis;129067;2024;86,3;1,4;8,9;66,8;conforme;738906;21885;33;67;1824;Non vérifié;non
+44203;Le Temple-de-Bretagne;44;eau potable : Campbon Sillon;295534;2024;91,6;0,9;10,1;67,0;conforme;355766;10191;14;37;1975;Non vérifié;non
+44204;Thouaré-sur-Loire;44;eau potable : Nantes Métropole;129083;2024;87,4;5,0;34,5;71,9;conforme;5869200;93675;23;66;11004;Non vérifié;non
+44205;Les Touches;44;eau potable : Nort-sur-Erdre;129071;2024;85,8;1,4;8,5;66,7;conforme;830697;24572;26;82;2638;Non vérifié;non
+44206;Touvois;44;eau potable : Grandlieu;129096;2024;88,1;1,1;8,3;66,7;conforme;390258;12497;17;53;1970;Non vérifié;non
+44207;Trans-sur-Erdre;44;eau potable : Nort-sur-Erdre;129071;2024;85,8;1,4;8,5;66,7;conforme;830697;10768;26;82;1156;Non vérifié;non
+44208;Treffieux;44;eau potable : Nort-sur-Erdre;129071;2024;85,8;1,4;8,5;66,7;conforme;830697;9277;26;82;996;Non vérifié;non
+44209;Treillières;44;eau potable : Campbon Sillon;295534;2024;91,6;0,9;10,1;67,0;conforme;355766;54696;14;37;10600;Non vérifié;non
+44210;Trignac;44;eau potable : CARENE;129094;2024;92,0;3,7;42,7;73,5;conforme;1423427;89594;29;49;8397;Non vérifié;non
+44211;La Turballe;44;eau potable : SEPIG Eau;129108;2024;91,7;1,5;16,1;68,2;conforme;691328;42659;24;38;4850;Non vérifié;non
+44212;Vallet;44;eau potable : Vignoble;129095;2024;84,9;1,6;9,1;66,8;conforme;442088;83551;24;72;9495;Non vérifié;non
+44213;Loireauxence;44;eau potable : Pays d'Ancenis;129067;2024;86,3;1,4;8,9;66,8;conforme;738906;91033;33;67;7587;Non vérifié;non
+44214;Vay;44;eau potable : Nort-sur-Erdre;129071;2024;85,8;1,4;8,5;66,7;conforme;830697;19747;26;82;2120;Non vérifié;non
+44215;Vertou;44;eau potable : Nantes Métropole;129083;2024;87,4;5,0;34,5;71,9;conforme;5869200;223265;23;66;26227;Non vérifié;non
+44216;Vieillevigne;44;eau potable : Grandlieu;320034;2024;85,6;1,2;7,2;66,4;conforme;100376;31925;21;62;4150;Non vérifié;non
+44217;Vigneux-de-Bretagne;44;eau potable : Campbon Sillon;295534;2024;91,6;0,9;10,1;67,0;conforme;355766;34531;14;37;6692;Non vérifié;non
+44218;Villepot;44;eau potable : Pays de la Mee;129104;2024;79,3;1,5;5,8;66,2;conforme;630720;11436;46;112;680;Non vérifié;non
+44220;Vue;44;eau potable : Pays de Retz;296034;2024;90,3;0,9;8,4;66,7;conforme;316674;11428;18;54;1753;Non vérifié;non
+44221;La Chevallerais;44;eau potable : Nort-sur-Erdre;129071;2024;85,8;1,4;8,5;66,7;conforme;830697;14615;26;82;1569;Non vérifié;non
+44222;La Roche-Blanche;44;eau potable : Pays d'Ancenis;129067;2024;86,3;1,4;8,9;66,8;conforme;738906;15130;33;67;1261;Non vérifié;non
+44223;Geneston;44;eau potable : Grandlieu;129096;2024;88,1;1,1;8,3;66,7;conforme;390258;23377;17;53;3685;Non vérifié;non
+44224;La Grigonnais;44;eau potable : Nort-sur-Erdre;129071;2024;85,8;1,4;8,5;66,7;conforme;830697;17027;26;82;1828;Non vérifié;non

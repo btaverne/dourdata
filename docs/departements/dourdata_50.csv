@@ -7,450 +7,450 @@
 # Méthodologie et code : https://github.com/btaverne/dourdata
 # Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
 # Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
-Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
-50002;Agneaux;50;eau potable : Secteur SAINT-LÔ;90319;2024;84,7;2,7;14,8;68,0;conforme;331473;49079;31;89;4286;Non vérifié
-50003;Agon-Coutainville;50;eau potable : Distribution Centre Manche Littoral;339714;2024;91,3;1,7;18,4;68,7;conforme;74038;42204;38;35;3020;Non vérifié
-50004;Airel;50;eau potable : Secteur  St Clair sur Elle;90308;2024;79,3;1,1;4,2;65,8;conforme;195298;5750;31;120;515;Non vérifié
-50006;Amigny;50;eau potable : Secteur  ST JEAN de DAYE;90342;2024;75,0;1,5;4,4;65,9;conforme;64660;1865;34;166;151;Non vérifié
-50008;Anctoville-sur-Boscq;50;eau potable : distribution Granville Avranches;252954;2024;92,4;1,2;14,5;67,9;conforme;168972;1901;12;32;435;Non vérifié
-50013;Anneville-en-Saire;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;9639;71;177;370;Non vérifié
-50015;Annoville;50;eau potable : 14-Montmartin;90331;2022;73,2;1,7;4,5;65,9;conforme;153661;10637;44;143;664;Sans anomalie apparente
-50016;Appeville;50;eau potable;90304;2024;93,0;0,6;7,7;66,5;conforme;75555;1296;18;29;200;Non vérifié
-50019;Aucey-la-Plaine;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;2478;16;62;412;Non vérifié
-50021;Audouville-la-Hubert;50;eau potable : Distribution;221357;2024;83,8;1,4;7,4;66,5;conforme;83533;444;16;76;78;Non vérifié
-50022;Aumeville-Lestre;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;2388;50;127;132;Non vérifié
-50023;Auvers;50;eau potable;90299;2024;91,8;0,5;5,8;66,2;conforme;8486;4355;17;32;683;Non vérifié
-50024;Auxais;50;eau potable : 07-Sainteny;90352;2024;92,2;0,7;7,8;66,6;conforme;26700;2053;32;33;176;Non vérifié
-50025;Avranches;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;61016;16;62;10143;Non vérifié
-50026;Azeville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;1429;50;127;79;Non vérifié
-50027;Bacilly;50;eau potable : Sartilly sud;90353;2024;78,0;1,0;3,6;65,7;conforme;47939;7971;24;107;921;Non vérifié
-50028;La Baleine;50;eau potable : 17-Villedieu-Ouest;90360;2024;82,4;1,5;7,1;66,4;conforme;128153;2468;64;85;105;Non vérifié
-50029;Barenton;50;eau potable : 27-Barenton;90379;2024;83,8;0,3;1,7;65,3;conforme;24359;4277;10;68;1161;Non vérifié
-50030;Barfleur;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;14120;71;177;542;Non vérifié
-50031;Barneville-Carteret;50;eau potable : AEP - SAUR;323374;2024;67,5;1,8;3,6;65,7;conforme;633046;69197;85;183;2223;Non vérifié
-50032;La Barre-de-Semilly;50;eau potable : Secteur  St Clair sur Elle;90308;2024;79,3;1,1;4,2;65,8;conforme;195298;11489;31;120;1029;Non vérifié
-50033;Baubigny;50;eau potable : AEP - SAUR;323374;2024;67,5;1,8;3,6;65,7;conforme;633046;4109;85;183;132;Non vérifié
-50034;Baudre;50;eau potable : Secteur SAINT-LÔ;90319;2024;84,7;2,7;14,8;68,0;conforme;331473;7019;31;89;613;Non vérifié
-50036;Baupte;50;eau potable;90304;2024;93,0;0,6;7,7;66,5;conforme;75555;2826;18;29;436;Non vérifié
-50038;Beauchamps;50;eau potable;90326;2024;66,0;1,5;3,0;65,6;conforme;139065;4895;30;200;441;Non vérifié
-50039;Beaucoudray;50;eau potable : Distribution Centre Manche Bocage;339494;2024;66,3;1,2;2,4;65,5;conforme;278275;2238;45;186;136;Non vérifié
-50040;Beauficel;50;eau potable : 33-Sourdeval;90355;2024;94,5;0,1;2,1;65,4;conforme;8176;250;6;17;122;Non vérifié
-50041;La Hague;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;207718;50;127;11484;Non vérifié
-50042;Beauvoir;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;2521;16;62;419;Non vérifié
-50044;Belval;50;eau potable : Distribution Centre Manche Bocage;339494;2024;66,3;1,2;2,4;65,5;conforme;278275;5480;45;186;333;Non vérifié
-50045;Benoîtville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;11576;50;127;640;Non vérifié
-50046;Bérigny;50;eau potable : Secteur  St Clair sur Elle;90308;2024;79,3;1,1;4,2;65,8;conforme;195298;4935;31;120;442;Non vérifié
-50048;Beslon;50;eau potable;90310;2021;62,9;1,1;1,9;65,4;non conforme;38946;5716;28;214;562;Sans anomalie apparente
-50049;Besneville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;11956;50;127;661;Non vérifié
-50050;Beuvrigny;50;eau potable : Secteur La CHAPELLE sur VIRE;90309;2024;76,1;1,1;3,5;65,7;conforme;310231;1889;40;116;131;Non vérifié
-50052;Beuzeville-la-Bastille;50;eau potable;90304;2024;93,0;0,6;7,7;66,5;conforme;75555;959;18;29;148;Non vérifié
-50054;Biéville;50;eau potable;98301;2024;69,5;1,1;2,6;65,5;conforme;123188;2195;30;160;198;Non vérifié
-50055;Biniville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;2134;50;127;118;Non vérifié
-50058;Blainville-sur-Mer;50;eau potable : 42-saint-Malo-de-la-Lande;90343;2024;76,2;1,5;4,8;66,0;conforme;164502;12845;22;117;1600;Non vérifié
-50059;Blosville;50;eau potable;90346;2024;81,0;1,4;6,1;66,2;conforme;76440;3637;32;83;310;Non vérifié
-50060;La Bloutière;50;eau potable : 17-Villedieu-Ouest;90360;2024;82,4;1,5;7,1;66,4;conforme;128153;9943;64;85;423;Non vérifié
-50062;Boisyvon;50;eau potable;90349;2024;66,1;1,7;3,3;65,7;conforme;154089;4787;131;384;100;Non vérifié
-50064;La Bonneville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;3129;50;127;173;Non vérifié
-50066;Jullouville;50;eau potable : distribution Granville Avranches;252954;2024;92,4;1,2;14,5;67,9;conforme;168972;10464;12;32;2394;Non vérifié
-50069;Bourguenolles;50;eau potable : 18-Villedieu-Sud;90361;2024;71,5;0,8;2,0;65,4;conforme;36322;2225;17;149;349;Non vérifié
-50070;Boutteville;50;eau potable : Distribution;221357;2024;83,8;1,4;7,4;66,5;conforme;83533;325;16;76;57;Non vérifié
-50072;Brainville;50;eau potable : 42-saint-Malo-de-la-Lande;90343;2024;76,2;1,5;4,8;66,0;conforme;164502;1718;22;117;214;Non vérifié
-50074;Brécey;50;eau potable : 37-Brécey;90362;2024;73,8;1,3;3,6;65,7;conforme;52252;40649;51;133;2172;Non vérifié
-50076;Bréhal;50;eau potable : 16-Bréhal;90114;2024;94,3;0,5;7,9;66,6;conforme;11132;11132;9;23;3487;Non vérifié
-50077;Bretteville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;18576;50;127;1027;Non vérifié
-50078;Bretteville-sur-Ay;50;eau potable : Distibution;221354;2024;79,2;1,0;3,8;65,8;conforme;87337;4511;28;98;444;Non vérifié
-50079;Breuville;50;eau potable : AEP - SAUR;323374;2024;67,5;1,8;3,6;65,7;conforme;633046;12638;85;183;406;Non vérifié
-50081;Bréville-sur-Mer;50;eau potable : distribution La Bergerie;211344;2024;82,6;1,2;5,7;66,1;conforme;25522;8717;30;77;791;Non vérifié
-50082;Bricquebec-en-Cotentin;50;eau potable : AEP - SAUR;323374;2024;67,5;1,8;3,6;65,7;conforme;633046;183436;85;183;5893;Non vérifié
-50083;Bricquebosq;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;11540;50;127;638;Non vérifié
-50084;Bricqueville-la-Blouette;50;eau potable : 42-saint-Malo-de-la-Lande;90343;2024;76,2;1,5;4,8;66,0;conforme;164502;4255;22;117;530;Non vérifié
-50085;Bricqueville-sur-Mer;50;eau potable : 15-Cérences;90306;2024;76,6;1,7;5,5;66,1;conforme;206124;25953;56;168;1261;Non vérifié
-50086;Brillevast;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;8284;71;177;318;Non vérifié
-50087;Brix;50;eau potable : AEP - SAUR;323374;2024;67,5;1,8;3,6;65,7;conforme;633046;67392;85;183;2165;Non vérifié
-50088;Brouains;50;eau potable : 33-Sourdeval;90355;2024;94,5;0,1;2,1;65,4;conforme;8176;287;6;17;140;Non vérifié
-50090;Buais-Les-Monts;50;eau potable : 23-St Hilaire du Harcouët;294454;2024;87,1;0,4;2,8;65,6;conforme;131750;3518;16;66;611;Non vérifié
-50092;Cambernon;50;eau potable : 08-St Sauveur-St Martin;227194;2024;68,9;1,4;3,1;65,6;conforme;196173;13450;54;176;677;Non vérifié
-50093;Cametours;50;eau potable : Distribution Centre Manche Bocage;339494;2024;66,3;1,2;2,4;65,5;conforme;278275;7142;45;186;434;Non vérifié
-50094;Camprond;50;eau potable : 08-St Sauveur-St Martin;227194;2024;68,9;1,4;3,1;65,6;conforme;196173;7430;54;176;374;Non vérifié
-50095;Canisy;50;eau potable : Secteur La CHAPELLE sur VIRE;90309;2024;76,1;1,1;3,5;65,7;conforme;310231;24617;40;116;1707;Non vérifié
-50096;Canteloup;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;5731;71;177;220;Non vérifié
-50097;Canville-la-Rocque;50;eau potable : AEP - SAUR;323374;2024;67,5;1,8;3,6;65,7;conforme;633046;3891;85;183;125;Non vérifié
-50098;Carantilly;50;eau potable : Distribution Centre Manche Bocage;339494;2024;66,3;1,2;2,4;65,5;conforme;278275;10186;45;186;619;Non vérifié
-50099;Carentan-les-Marais;50;eau potable : Distribution;221357;2024;83,8;1,4;7,4;66,5;conforme;83533;58187;16;76;10218;Non vérifié
-50101;Carneville;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;6252;71;177;240;Non vérifié
-50102;Carolles;50;eau potable : distribution Granville Avranches;252954;2024;92,4;1,2;14,5;67,9;conforme;168972;3383;12;32;774;Non vérifié
-50105;Catteville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;1917;50;127;106;Non vérifié
-50106;Cavigny;50;eau potable : Secteur  ST JEAN de DAYE;90342;2024;75,0;1,5;4,4;65,9;conforme;64660;3322;34;166;269;Non vérifié
-50108;Céaux;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;2490;16;62;414;Non vérifié
-50109;Cérences;50;eau potable : 15-Cérences;90306;2024;76,6;1,7;5,5;66,1;conforme;206124;38117;56;168;1852;Non vérifié
-50110;Cerisy-la-Forêt;50;eau potable : Secteur  St Clair sur Elle;90308;2024;79,3;1,1;4,2;65,8;conforme;195298;11210;31;120;1004;Non vérifié
-50111;Cerisy-la-Salle;50;eau potable : Distribution Centre Manche Bocage;339494;2024;66,3;1,2;2,4;65,5;conforme;278275;16538;45;186;1005;Non vérifié
-50112;La Chaise-Baudouin;50;eau potable : 32-La Chaise Baudouin;90171;2024;44,5;2,3;1,8;65,4;non conforme;23917;23917;151;453;435;Non vérifié
-50115;Le Grippon;50;eau potable;90326;2024;66,0;1,5;3,0;65,6;conforme;139065;4340;30;200;391;Non vérifié
-50117;Champeaux;50;eau potable : distribution Champeaux;90307;2024;88,4;0,7;5,2;66,0;conforme;17527;935;7;73;349;Non vérifié
-50118;Champrepus;50;eau potable : 17-Villedieu-Ouest;90360;2024;82,4;1,5;7,1;66,4;conforme;128153;7569;64;85;322;Non vérifié
-50120;Chanteloup;50;eau potable : 15-Cérences;90306;2024;76,6;1,7;5,5;66,1;conforme;206124;8377;56;168;407;Non vérifié
-50121;La Chapelle-Cécelin;50;eau potable;90349;2024;66,1;1,7;3,3;65,7;conforme;154089;11728;131;384;245;Non vérifié
-50124;La Chapelle-Urée;50;eau potable : 41-Reffuveille;90338;2024;84,9;0,3;1,7;65,3;conforme;20408;592;9;67;172;Non vérifié
-50126;Chavoy;50;eau potable : distribution Avranches Nord;226054;2024;77,1;0,6;2,2;65,4;conforme;40839;1461;32;101;126;Non vérifié
-50129;Cherbourg-en-Cotentin;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;1415499;50;127;78258;Non vérifié
-50130;Chérencé-le-Héron;50;eau potable : 18-Villedieu-Sud;90361;2024;71,5;0,8;2,0;65,4;conforme;36322;2779;17;149;436;Non vérifié
-50135;Clitourps;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;5861;71;177;225;Non vérifié
-50137;La Colombe;50;eau potable;90310;2021;62,9;1,1;1,9;65,4;non conforme;38946;6367;28;214;626;Sans anomalie apparente
-50138;Colomby;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;14823;71;177;569;Non vérifié
-50139;Condé-sur-Vire;50;eau potable : Secteur La CHAPELLE sur VIRE;90309;2024;76,1;1,1;3,5;65,7;conforme;310231;59661;40;116;4137;Non vérifié
-50142;Vicq-sur-Mer;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;28474;71;177;1093;Non vérifié
-50143;Coudeville-sur-Mer;50;eau potable : distribution La Bergerie;211344;2024;82,6;1,2;5,7;66,1;conforme;25522;9775;30;77;887;Non vérifié
-50144;Coulouvray-Boisbenâtre;50;eau potable;90349;2024;66,1;1,7;3,3;65,7;conforme;154089;25418;131;384;531;Non vérifié
-50145;Courcy;50;eau potable : Distribution Centre Manche Bocage;339494;2024;66,3;1,2;2,4;65,5;conforme;278275;10516;45;186;639;Non vérifié
-50146;Courtils;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;1263;16;62;210;Non vérifié
-50147;Coutances;50;eau potable : 42-saint-Malo-de-la-Lande;90343;2024;76,2;1,5;4,8;66,0;conforme;164502;66801;22;117;8321;Non vérifié
-50148;Couvains;50;eau potable : Secteur  St Clair sur Elle;90308;2024;79,3;1,1;4,2;65,8;conforme;195298;6275;31;120;562;Non vérifié
-50149;Couville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;22591;50;127;1249;Non vérifié
-50150;Crasville;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;5809;71;177;223;Non vérifié
-50151;Créances;50;eau potable : 05-Créances-Pirou;90312;2024;73,9;1,9;5,3;66,1;conforme;70043;40430;54;131;2067;Non vérifié
-50152;Les Cresnays;50;eau potable : 41-Reffuveille;90338;2024;84,9;0,3;1,7;65,3;conforme;20408;782;9;67;227;Non vérifié
-50155;Crollon;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;1811;16;62;301;Non vérifié
-50156;Crosville-sur-Douve;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;1121;50;127;62;Non vérifié
-50158;Cuves;50;eau potable;90349;2024;66,1;1,7;3,3;65,7;conforme;154089;12254;131;384;256;Non vérifié
-50159;Dangy;50;eau potable : Secteur La CHAPELLE sur VIRE;90309;2024;76,1;1,1;3,5;65,7;conforme;310231;9345;40;116;648;Non vérifié
-50161;Le Dézert;50;eau potable : Secteur  ST JEAN de DAYE;90342;2024;75,0;1,5;4,4;65,9;conforme;64660;7422;34;166;601;Non vérifié
-50162;Digosville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;30405;50;127;1681;Non vérifié
-50164;Domjean;50;eau potable : Secteur La CHAPELLE sur VIRE;90309;2024;76,1;1,1;3,5;65,7;conforme;310231;14407;40;116;999;Non vérifié
-50165;Donville-les-Bains;50;eau potable : distribution Granville Avranches;252954;2024;92,4;1,2;14,5;67,9;conforme;168972;13751;12;32;3146;Non vérifié
-50166;Doville;50;eau potable : Distibution;221354;2024;79,2;1,0;3,8;65,8;conforme;87337;3261;28;98;321;Non vérifié
-50167;Dragey-Ronthon;50;eau potable : Service Saint-Jean-Le-Thomas - Distribution;309534;2024;87,2;0,8;5,8;66,2;conforme;4859;3216;11;51;785;Non vérifié
-50168;Ducey-Les Chéris;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;16747;16;62;2784;Non vérifié
-50169;Écausseville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;2026;50;127;112;Non vérifié
-50172;Émondeville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;6168;50;127;341;Non vérifié
-50174;Équilly;50;eau potable;90326;2024;66,0;1,5;3,0;65,6;conforme;139065;2153;30;200;194;Non vérifié
-50175;Éroudeville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;3509;50;127;194;Non vérifié
-50176;L' Étang-Bertrand;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;9118;71;177;350;Non vérifié
-50177;Étienville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;6656;50;127;368;Non vérifié
-50178;Fermanville;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;33423;71;177;1283;Non vérifié
-50181;Feugères;50;eau potable : 08-St Sauveur-St Martin;227194;2024;68,9;1,4;3,1;65,6;conforme;196173;7073;54;176;356;Non vérifié
-50182;La Feuillie;50;eau potable : 08-St Sauveur-St Martin;227194;2024;68,9;1,4;3,1;65,6;conforme;196173;6000;54;176;302;Non vérifié
-50183;Fierville-les-Mines;50;eau potable : AEP - SAUR;323374;2024;67,5;1,8;3,6;65,7;conforme;633046;10832;85;183;348;Non vérifié
-50184;Flamanville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;29646;50;127;1639;Non vérifié
-50185;Fleury;50;eau potable : 17-Villedieu-Ouest;90360;2024;82,4;1,5;7,1;66,4;conforme;128153;25880;64;85;1101;Non vérifié
-50186;Flottemanville;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;5992;71;177;230;Non vérifié
-50188;Folligny;50;eau potable;90326;2024;66,0;1,5;3,0;65,6;conforme;139065;12421;30;200;1119;Non vérifié
-50190;Fontenay-sur-Mer;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;2912;50;127;161;Non vérifié
-50192;Fourneaux;50;eau potable : Secteur La CHAPELLE sur VIRE;90309;2024;76,1;1,1;3,5;65,7;conforme;310231;1889;40;116;131;Non vérifié
-50193;Le Fresne-Poret;50;eau potable : 33-Sourdeval;90355;2024;94,5;0,1;2,1;65,4;conforme;8176;463;6;17;226;Non vérifié
-50194;Fresville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;6747;50;127;373;Non vérifié
-50195;Gathemo;50;eau potable : 20-Gathemo;90149;2024;72,7;0,6;1,6;65,3;conforme;6088;6088;63;138;265;Non vérifié
-50196;Gatteville-le-Phare;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;12114;71;177;465;Non vérifié
-50197;Gavray-sur-Sienne;50;eau potable : 17-Villedieu-Ouest;90360;2024;82,4;1,5;7,1;66,4;conforme;128153;48116;64;85;2047;Non vérifié
-50198;Geffosses;50;eau potable : 42-saint-Malo-de-la-Lande;90343;2024;76,2;1,5;4,8;66,0;conforme;164502;4022;22;117;501;Non vérifié
-50199;Genêts;50;eau potable : Sartilly sud;90353;2024;78,0;1,0;3,6;65,7;conforme;47939;3903;24;107;451;Non vérifié
-50200;Ger;50;eau potable : 27-Barenton;90379;2024;83,8;0,3;1,7;65,3;conforme;24359;3035;10;68;824;Non vérifié
-50205;La Godefroy;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;1811;16;62;301;Non vérifié
-50207;Golleville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;2948;50;127;163;Non vérifié
-50208;Gonfreville;50;eau potable;90304;2024;93,0;0,6;7,7;66,5;conforme;75555;1063;18;29;164;Non vérifié
-50209;Gonneville-Le Theil;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;39415;71;177;1513;Non vérifié
-50210;Gorges;50;eau potable;90304;2024;93,0;0,6;7,7;66,5;conforme;75555;2269;18;29;350;Non vérifié
-50214;Gouvets;50;eau potable : 19-Montbray;90328;2024;58,6;1,4;1,9;65,4;non conforme;60645;16147;150;321;295;Non vérifié
-50215;Gouville-sur-Mer;50;eau potable : 42-saint-Malo-de-la-Lande;90343;2024;76,2;1,5;4,8;66,0;conforme;164502;26284;22;117;3274;Non vérifié
-50216;Graignes-Mesnil-Angot;50;eau potable : Secteur  ST JEAN de DAYE;90342;2024;75,0;1,5;4,4;65,9;conforme;64660;9842;34;166;797;Non vérifié
-50217;Le Grand-Celland;50;eau potable : 41-Reffuveille;90338;2024;84,9;0,3;1,7;65,3;conforme;20408;2038;9;67;592;Non vérifié
-50218;Granville;50;eau potable : distribution Granville Avranches;252954;2024;92,4;1,2;14,5;67,9;conforme;168972;54682;12;32;12510;Non vérifié
-50219;Gratot;50;eau potable : 42-saint-Malo-de-la-Lande;90343;2024;76,2;1,5;4,8;66,0;conforme;164502;5451;22;117;679;Non vérifié
-50221;Grimesnil;50;eau potable : 15-Cérences;90306;2024;76,6;1,7;5,5;66,1;conforme;206124;1461;56;168;71;Non vérifié
-50222;Grosville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;14633;50;127;809;Non vérifié
-50225;Le Guislain;50;eau potable : Distribution Centre Manche Bocage;339494;2024;66,3;1,2;2,4;65,5;conforme;278275;2222;45;186;135;Non vérifié
-50227;Le Ham;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;5589;50;127;309;Non vérifié
-50228;Hambye;50;eau potable : Distribution Centre Manche Bocage;339494;2024;66,3;1,2;2,4;65,5;conforme;278275;17641;45;186;1072;Non vérifié
-50229;Hamelin;50;eau potable : 23-St Hilaire du Harcouët;294454;2024;87,1;0,4;2,8;65,6;conforme;131750;639;16;66;111;Non vérifié
-50230;Hardinvast;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;16785;50;127;928;Non vérifié
-50231;Hauteville-sur-Mer;50;eau potable : 14-Montmartin;90331;2024;79,4;1,2;4,7;65,9;conforme;108466;8589;33;102;707;Non vérifié
-50232;Hauteville-la-Guichard;50;eau potable : 08-St Sauveur-St Martin;227194;2024;68,9;1,4;3,1;65,6;conforme;196173;8742;54;176;440;Non vérifié
-50233;Hautteville-Bocage;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;2749;50;127;152;Non vérifié
-50234;La Haye-Bellefond;50;eau potable : Distribution Centre Manche Bocage;339494;2024;66,3;1,2;2,4;65,5;conforme;278275;1037;45;186;63;Non vérifié
-50235;La Haye-d'Ectot;50;eau potable : AEP - SAUR;323374;2024;67,5;1,8;3,6;65,7;conforme;633046;8871;85;183;285;Non vérifié
-50236;La Haye;50;eau potable : Distibution;221354;2024;79,2;1,0;3,8;65,8;conforme;87337;40936;28;98;4029;Non vérifié
-50237;La Haye-Pesnel;50;eau potable;90326;2024;66,0;1,5;3,0;65,6;conforme;139065;14453;30;200;1302;Non vérifié
-50238;Héauville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;8248;50;127;456;Non vérifié
-50239;Thèreval;50;eau potable : Secteur MARIGNY;216217;2024;82,8;0,9;4,1;65,8;conforme;57225;15918;25;80;1775;Non vérifié
-50240;Helleville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;10256;50;127;567;Non vérifié
-50241;Hémevez;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;4924;71;177;189;Non vérifié
-50243;Heugueville-sur-Sienne;50;eau potable : 42-saint-Malo-de-la-Lande;90343;2024;76,2;1,5;4,8;66,0;conforme;164502;3677;22;117;458;Non vérifié
-50246;Hiesville;50;eau potable : Distribution;221357;2024;83,8;1,4;7,4;66,5;conforme;83533;410;16;76;72;Non vérifié
-50247;Hocquigny;50;eau potable;90326;2024;66,0;1,5;3,0;65,6;conforme;139065;2176;30;200;196;Non vérifié
-50251;Huberville;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;9404;71;177;361;Non vérifié
-50252;Hudimesnil;50;eau potable : 15-Cérences;90306;2024;76,6;1,7;5,5;66,1;conforme;206124;19100;56;168;928;Non vérifié
-50253;Huisnes-sur-Mer;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;1017;16;62;169;Non vérifié
-50256;Isigny-le-Buat;50;eau potable : 23-St Hilaire du Harcouët;294454;2024;87,1;0,4;2,8;65,6;conforme;131750;18326;16;66;3183;Non vérifié
-50258;Joganville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;1519;50;127;84;Non vérifié
-50259;Juilley;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;4157;16;62;691;Non vérifié
-50260;Juvigny les Vallées;50;eau potable : 23-St Hilaire du Harcouët;294454;2024;87,1;0,4;2,8;65,6;conforme;131750;9638;16;66;1674;Non vérifié
-50261;Lamberville;50;eau potable;98301;2024;69,5;1,1;2,6;65,5;conforme;123188;1851;30;160;167;Non vérifié
-50262;La Lande-d'Airou;50;eau potable : 18-Villedieu-Sud;90361;2024;71,5;0,8;2,0;65,4;conforme;36322;3410;17;149;535;Non vérifié
-50263;Lapenty;50;eau potable : 23-St Hilaire du Harcouët;294454;2024;87,1;0,4;2,8;65,6;conforme;131750;2194;16;66;381;Non vérifié
-50265;Laulne;50;eau potable;90304;2024;93,0;0,6;7,7;66,5;conforme;75555;1206;18;29;186;Non vérifié
-50266;Lengronne;50;eau potable : 15-Cérences;90306;2024;76,6;1,7;5,5;66,1;conforme;206124;9612;56;168;467;Non vérifié
-50267;Lessay;50;eau potable : Distribution Centre Manche Littoral;339714;2024;91,3;1,7;18,4;68,7;conforme;74038;31834;38;35;2278;Non vérifié
-50268;Lestre;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;4377;50;127;242;Non vérifié
-50269;Liesville-sur-Douve;50;eau potable : Distribution;221357;2024;83,8;1,4;7,4;66,5;conforme;83533;1241;16;76;218;Non vérifié
-50270;Lieusaint;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;10629;71;177;408;Non vérifié
-50271;Lingeard;50;eau potable;90349;2024;66,1;1,7;3,3;65,7;conforme;154089;3829;131;384;80;Non vérifié
-50272;Tourneville-sur-Mer;50;eau potable : 14-Montmartin;90331;2024;79,4;1,2;4,7;65,9;conforme;108466;20240;33;102;1666;Non vérifié
-50273;Montsenelle;50;eau potable;90304;2024;93,0;0,6;7,7;66,5;conforme;75555;9398;18;29;1450;Non vérifié
-50274;Les Loges-Marchis;50;eau potable : 23-St Hilaire du Harcouët;294454;2024;87,1;0,4;2,8;65,6;conforme;131750;6051;16;66;1051;Non vérifié
-50275;Les Loges-sur-Brécey;50;eau potable;90349;2024;66,1;1,7;3,3;65,7;conforme;154089;5505;131;384;115;Non vérifié
-50276;Lolif;50;eau potable : Sartilly sud;90353;2024;78,0;1,0;3,6;65,7;conforme;47939;5228;24;107;604;Non vérifié
-50277;Longueville;50;eau potable : distribution La Bergerie;211344;2024;82,6;1,2;5,7;66,1;conforme;25522;7031;30;77;638;Non vérifié
-50278;Le Loreur;50;eau potable : 15-Cérences;90306;2024;76,6;1,7;5,5;66,1;conforme;206124;5310;56;168;258;Non vérifié
-50279;Le Lorey;50;eau potable : 08-St Sauveur-St Martin;227194;2024;68,9;1,4;3,1;65,6;conforme;196173;11027;54;176;555;Non vérifié
-50281;La Lucerne-d'Outremer;50;eau potable;90326;2024;66,0;1,5;3,0;65,6;conforme;139065;9768;30;200;880;Non vérifié
-50282;Le Luot;50;eau potable : distribution Avranches Nord;226054;2024;77,1;0,6;2,2;65,4;conforme;40839;3189;32;101;275;Non vérifié
-50283;La Luzerne;50;eau potable : Secteur  St Clair sur Elle;90308;2024;79,3;1,1;4,2;65,8;conforme;195298;971;31;120;87;Non vérifié
-50285;Magneville;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;8362;71;177;321;Non vérifié
-50288;Marcey-les-Grèves;50;eau potable : distribution Marcey les Grèves;211339;2024;98,0;0,2;9,2;66,8;conforme;1854;1854;4;16;1275;Non vérifié
-50289;Marchésieux;50;eau potable : 08-St Sauveur-St Martin;227194;2024;68,9;1,4;3,1;65,6;conforme;196173;13212;54;176;665;Non vérifié
-50290;Marcilly;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;2136;16;62;355;Non vérifié
-50291;Margueray;50;eau potable : 19-Montbray;90328;2024;58,6;1,4;1,9;65,4;non conforme;60645;6513;150;321;119;Non vérifié
-50292;Marigny-Le-Lozon;50;eau potable : Secteur MARIGNY;216217;2024;82,8;0,9;4,1;65,8;conforme;57225;24761;25;80;2761;Non vérifié
-50294;Martinvast;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;24382;50;127;1348;Non vérifié
-50295;Maupertuis;50;eau potable : Distribution Centre Manche Bocage;339494;2024;66,3;1,2;2,4;65,5;conforme;278275;2386;45;186;145;Non vérifié
-50296;Maupertus-sur-Mer;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;6200;71;177;238;Non vérifié
-50297;La Meauffe;50;eau potable : Secteur SAINT-LÔ;90319;2024;84,7;2,7;14,8;68,0;conforme;331473;11371;31;89;993;Non vérifié
-50298;Méautis;50;eau potable;90299;2024;91,8;0,5;5,8;66,2;conforme;8486;4132;17;32;648;Non vérifié
-50299;Le Mesnil;50;eau potable : AEP - SAUR;323374;2024;67,5;1,8;3,6;65,7;conforme;633046;5883;85;183;189;Non vérifié
-50300;Le Mesnil-Adelée;50;eau potable : 23-bis-Juvigny;90327;2024;73,7;0,6;1,6;65,3;conforme;18265;1566;27;136;157;Non vérifié
-50302;Le Mesnil-Amey;50;eau potable : Secteur MARIGNY;216217;2024;82,8;0,9;4,1;65,8;conforme;57225;2583;25;80;288;Non vérifié
-50304;Le Mesnil-Aubert;50;eau potable : 15-Cérences;90306;2024;76,6;1,7;5,5;66,1;conforme;206124;4055;56;168;197;Non vérifié
-50305;Le Mesnil-au-Val;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;13186;50;127;729;Non vérifié
-50310;Le Mesnil-Eury;50;eau potable : Secteur MARIGNY;216217;2024;82,8;0,9;4,1;65,8;conforme;57225;1686;25;80;188;Non vérifié
-50311;Le Mesnil-Garnier;50;eau potable : 17-Villedieu-Ouest;90360;2024;82,4;1,5;7,1;66,4;conforme;128153;5171;64;85;220;Non vérifié
-50312;Le Mesnil-Gilbert;50;eau potable;90349;2024;66,1;1,7;3,3;65,7;conforme;154089;6989;131;384;146;Non vérifié
-50315;Le Mesnillard;50;eau potable : 23-St Hilaire du Harcouët;294454;2024;87,1;0,4;2,8;65,6;conforme;131750;1480;16;66;257;Non vérifié
-50317;Le Mesnil-Ozenne;50;eau potable : 41-Reffuveille;90338;2024;84,9;0,3;1,7;65,3;conforme;20408;912;9;67;265;Non vérifié
-50321;Le Mesnil-Rouxelin;50;eau potable : Secteur SAINT-LÔ;90319;2024;84,7;2,7;14,8;68,0;conforme;331473;5371;31;89;469;Non vérifié
-50324;Le Mesnil-Véneron;50;eau potable : Secteur  ST JEAN de DAYE;90342;2024;75,0;1,5;4,4;65,9;conforme;64660;1321;34;166;107;Non vérifié
-50326;Le Mesnil-Villeman;50;eau potable : 17-Villedieu-Ouest;90360;2024;82,4;1,5;7,1;66,4;conforme;128153;5594;64;85;238;Non vérifié
-50327;La Meurdraquière;50;eau potable;90326;2024;66,0;1,5;3,0;65,6;conforme;139065;2165;30;200;195;Non vérifié
-50328;Millières;50;eau potable : 08-St Sauveur-St Martin;227194;2024;68,9;1,4;3,1;65,6;conforme;196173;15080;54;176;759;Non vérifié
-50332;Les Moitiers-d'Allonne;50;eau potable : AEP - SAUR;323374;2024;67,5;1,8;3,6;65,7;conforme;633046;23097;85;183;742;Non vérifié
-50334;Montabot;50;eau potable : Distribution Centre Manche Bocage;339494;2024;66,3;1,2;2,4;65,5;conforme;278275;4460;45;186;271;Non vérifié
-50335;Montaigu-la-Brisette;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;12895;71;177;495;Non vérifié
-50336;Montaigu-les-Bois;50;eau potable : 17-Villedieu-Ouest;90360;2024;82,4;1,5;7,1;66,4;conforme;128153;4795;64;85;204;Non vérifié
-50338;Montbray;50;eau potable : 19-Montbray;90328;2024;58,6;1,4;1,9;65,4;non conforme;60645;18610;150;321;340;Non vérifié
-50340;Montcuit;50;eau potable : 08-St Sauveur-St Martin;227194;2024;68,9;1,4;3,1;65,6;conforme;196173;3576;54;176;180;Non vérifié
-50341;Montebourg;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;34819;50;127;1925;Non vérifié
-50342;Montfarville;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;20789;71;177;798;Non vérifié
-50345;Monthuchon;50;eau potable : 08-St Sauveur-St Martin;227194;2024;68,9;1,4;3,1;65,6;conforme;196173;14007;54;176;705;Non vérifié
-50347;Montjoie-Saint-Martin;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;1504;16;62;250;Non vérifié
-50349;Montmartin-sur-Mer;50;eau potable : 14-Montmartin;90331;2024;79,4;1,2;4,7;65,9;conforme;108466;17312;33;102;1425;Non vérifié
-50350;Montpinchon;50;eau potable : Distribution Centre Manche Bocage;339494;2024;66,3;1,2;2,4;65,5;conforme;278275;8936;45;186;543;Non vérifié
-50351;Montrabot;50;eau potable;98301;2024;69,5;1,1;2,6;65,5;conforme;123188;776;30;160;70;Non vérifié
-50352;Montreuil-sur-Lozon;50;eau potable : Secteur MARIGNY;216217;2024;82,8;0,9;4,1;65,8;conforme;57225;3040;25;80;339;Non vérifié
-50353;Le Mont-Saint-Michel;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;138;16;62;23;Non vérifié
-50356;Moon-sur-Elle;50;eau potable : Secteur  St Clair sur Elle;90308;2024;79,3;1,1;4,2;65,8;conforme;195298;8720;31;120;781;Non vérifié
-50357;Morigny;50;eau potable : 19-Montbray;90328;2024;58,6;1,4;1,9;65,4;non conforme;60645;3831;150;321;70;Non vérifié
-50359;Mortain-Bocage;50;eau potable : 23-St Hilaire du Harcouët;294454;2024;87,1;0,4;2,8;65,6;conforme;131750;17047;16;66;2961;Non vérifié
-50360;Morville;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;7216;71;177;277;Non vérifié
-50361;La Mouche;50;eau potable;90326;2024;66,0;1,5;3,0;65,6;conforme;139065;2764;30;200;249;Non vérifié
-50362;Moulines;50;eau potable : 23-St Hilaire du Harcouët;294454;2024;87,1;0,4;2,8;65,6;conforme;131750;1612;16;66;280;Non vérifié
-50363;Moyon Villages;50;eau potable : Distribution Centre Manche Bocage;339494;2024;66,3;1,2;2,4;65,5;conforme;278275;24503;45;186;1489;Non vérifié
-50364;Muneville-le-Bingard;50;eau potable : 08-St Sauveur-St Martin;227194;2024;68,9;1,4;3,1;65,6;conforme;196173;14404;54;176;725;Non vérifié
-50365;Muneville-sur-Mer;50;eau potable : 15-Cérences;90306;2024;76,6;1,7;5,5;66,1;conforme;206124;10106;56;168;491;Non vérifié
-50368;Nay;50;eau potable : 07-Sainteny;90352;2024;92,2;0,7;7,8;66,6;conforme;26700;817;32;33;70;Non vérifié
-50369;Négreville;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;22013;71;177;845;Non vérifié
-50370;Néhou;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;11015;50;127;609;Non vérifié
-50371;Le Neufbourg;50;eau potable : 29-St Barthélémy-Le Neufbourg;90339;2024;77,7;0,7;2,6;65,5;conforme;8176;4392;30;105;397;Non vérifié
-50372;Neufmesnil;50;eau potable : Distibution;221354;2024;79,2;1,0;3,8;65,8;conforme;87337;1788;28;98;176;Non vérifié
-50373;Neuville-au-Plain;50;eau potable;90346;2024;81,0;1,4;6,1;66,2;conforme;76440;950;32;83;81;Non vérifié
-50374;Neuville-en-Beaumont;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;488;50;127;27;Non vérifié
-50376;Nicorps;50;eau potable : Distribution Centre Manche Bocage;339494;2024;66,3;1,2;2,4;65,5;conforme;278275;5825;45;186;354;Non vérifié
-50378;Notre-Dame-de-Cenilly;50;eau potable : Distribution Centre Manche Bocage;339494;2024;66,3;1,2;2,4;65,5;conforme;278275;10483;45;186;637;Non vérifié
-50379;Notre-Dame-de-Livoye;50;eau potable : 37-Brécey;90362;2024;73,8;1,3;3,6;65,7;conforme;52252;3069;51;133;164;Non vérifié
-50382;Nouainville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;10979;50;127;607;Non vérifié
-50384;Octeville-l'Avenel;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;6122;71;177;235;Non vérifié
-50387;Orglandes;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;6258;50;127;346;Non vérifié
-50388;Orval sur Sienne;50;eau potable : 14-Montmartin;90331;2024;79,4;1,2;4,7;65,9;conforme;108466;14980;33;102;1233;Non vérifié
-50389;Ouville;50;eau potable : Distribution Centre Manche Bocage;339494;2024;66,3;1,2;2,4;65,5;conforme;278275;7224;45;186;439;Non vérifié
-50390;Ozeville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;2876;50;127;159;Non vérifié
-50391;Grandparigny;50;eau potable : 23-St Hilaire du Harcouët;294454;2024;87,1;0,4;2,8;65,6;conforme;131750;14998;16;66;2605;Non vérifié
-50393;Percy-en-Normandie;50;eau potable : Distribution Centre Manche Bocage;339494;2024;66,3;1,2;2,4;65,5;conforme;278275;43461;45;186;2641;Non vérifié
-50394;Périers;50;eau potable;90213;2024;75,8;2,2;6,8;66,4;conforme;31823;31823;37;119;2376;Non vérifié
-50395;La Pernelle;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;7451;71;177;286;Non vérifié
-50397;Perriers-en-Beauficel;50;eau potable : 33-Sourdeval;90355;2024;94,5;0,1;2,1;65,4;conforme;8176;424;6;17;207;Non vérifié
-50398;Le Perron;50;eau potable;98301;2024;69,5;1,1;2,6;65,5;conforme;123188;2084;30;160;188;Non vérifié
-50399;Le Petit-Celland;50;eau potable : 41-Reffuveille;90338;2024;84,9;0,3;1,7;65,3;conforme;20408;606;9;67;176;Non vérifié
-50400;Picauville;50;eau potable;90346;2024;81,0;1,4;6,1;66,2;conforme;76440;37874;32;83;3228;Non vérifié
-50401;Pierreville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;13692;50;127;757;Non vérifié
-50402;Les Pieux;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;58767;50;127;3249;Non vérifié
-50403;Pirou;50;eau potable : 05-Créances-Pirou;90312;2024;73,9;1,9;5,3;66,1;conforme;70043;29613;54;131;1514;Non vérifié
-50405;Le Plessis-Lastelle;50;eau potable;90304;2024;93,0;0,6;7,7;66,5;conforme;75555;1536;18;29;237;Non vérifié
-50407;Poilley;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;5829;16;62;969;Non vérifié
-50408;Pontaubault;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;3483;16;62;579;Non vérifié
-50409;Pont-Hébert;50;eau potable : Secteur  ST JEAN de DAYE;90342;2024;75,0;1,5;4,4;65,9;conforme;64660;23426;34;166;1897;Non vérifié
-50410;Pontorson;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;25747;16;62;4280;Non vérifié
-50411;Ponts;50;eau potable : distribution Avranches Nord;226054;2024;77,1;0,6;2,2;65,4;conforme;40839;8210;32;101;708;Non vérifié
-50412;Port-Bail-sur-Mer;50;eau potable : AEP - SAUR;323374;2024;67,5;1,8;3,6;65,7;conforme;633046;78442;85;183;2520;Non vérifié
-50413;Précey;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;3363;16;62;559;Non vérifié
-50417;Quettehou;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;47178;71;177;1811;Non vérifié
-50419;Quettreville-sur-Sienne;50;eau potable : Distribution Centre Manche Bocage;339494;2024;66,3;1,2;2,4;65,5;conforme;278275;52117;45;186;3167;Non vérifié
-50420;Quibou;50;eau potable : Secteur La CHAPELLE sur VIRE;90309;2024;76,1;1,1;3,5;65,7;conforme;310231;12373;40;116;858;Non vérifié
-50421;Quinéville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;4667;50;127;258;Non vérifié
-50422;Raids;50;eau potable : 07-Sainteny;90352;2024;92,2;0,7;7,8;66,6;conforme;26700;2520;32;33;216;Non vérifié
-50423;Rampan;50;eau potable : Secteur SAINT-LÔ;90319;2024;84,7;2,7;14,8;68,0;conforme;331473;2634;31;89;230;Non vérifié
-50425;Rauville-la-Bigot;50;eau potable : AEP - SAUR;323374;2024;67,5;1,8;3,6;65,7;conforme;633046;33680;85;183;1082;Non vérifié
-50426;Rauville-la-Place;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;7217;50;127;399;Non vérifié
-50428;Reffuveille;50;eau potable : 41-Reffuveille;90338;2024;84,9;0,3;1,7;65,3;conforme;20408;1894;9;67;550;Non vérifié
-50429;Regnéville-sur-Mer;50;eau potable : 14-Montmartin;90331;2024;79,4;1,2;4,7;65,9;conforme;108466;8869;33;102;730;Non vérifié
-50430;Reigneville-Bocage;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;615;50;127;34;Non vérifié
-50431;Remilly Les Marais;50;eau potable : 09-Tribehou;90165;2024;77,8;0,9;3,2;65,6;conforme;31142;14686;38;102;1062;Non vérifié
-50433;Réville;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;27093;71;177;1040;Non vérifié
-50435;Rocheville;50;eau potable : AEP - SAUR;323374;2024;67,5;1,8;3,6;65,7;conforme;633046;19299;85;183;620;Non vérifié
-50436;Romagny Fontenay;50;eau potable : 23-St Hilaire du Harcouët;294454;2024;87,1;0,4;2,8;65,6;conforme;131750;7156;16;66;1243;Non vérifié
-50437;Roncey;50;eau potable : Distribution Centre Manche Bocage;339494;2024;66,3;1,2;2,4;65,5;conforme;278275;12671;45;186;770;Non vérifié
-50442;Le Rozel;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;4667;50;127;258;Non vérifié
-50443;Sacey;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;3056;16;62;508;Non vérifié
-50444;Saint-Amand-Villages;50;eau potable;98301;2024;69,5;1,1;2,6;65,5;conforme;123188;27990;30;160;2525;Non vérifié
-50445;Saint-André-de-Bohon;50;eau potable : 07-Sainteny;90352;2024;92,2;0,7;7,8;66,6;conforme;26700;4374;32;33;375;Non vérifié
-50446;Saint-André-de-l'Épine;50;eau potable : Secteur  St Clair sur Elle;90308;2024;79,3;1,1;4,2;65,8;conforme;195298;6197;31;120;555;Non vérifié
-50447;Saint-Aubin-des-Préaux;50;eau potable : distribution Granville Avranches;252954;2024;92,4;1,2;14,5;67,9;conforme;168972;2133;12;32;488;Non vérifié
-50448;Saint-Aubin-de-Terregatte;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;3880;16;62;645;Non vérifié
-50450;Saint-Barthélemy;50;eau potable : 29-St Barthélémy-Le Neufbourg;90339;2024;77,7;0,7;2,6;65,5;conforme;8176;3784;30;105;342;Non vérifié
-50451;Saint-Brice;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;842;16;62;140;Non vérifié
-50452;Saint-Brice-de-Landelles;50;eau potable : 23-St Hilaire du Harcouët;294454;2024;87,1;0,4;2,8;65,6;conforme;131750;3754;16;66;652;Non vérifié
-50453;Sainte-Cécile;50;eau potable : 17-Villedieu-Ouest;90360;2024;82,4;1,5;7,1;66,4;conforme;128153;18617;64;85;792;Non vérifié
-50454;Saint-Christophe-du-Foc;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;7398;50;127;409;Non vérifié
-50455;Saint-Clair-sur-l'Elle;50;eau potable : Secteur  St Clair sur Elle;90308;2024;79,3;1,1;4,2;65,8;conforme;195298;10708;31;120;959;Non vérifié
-50456;Saint-Clément-Rancoudray;50;eau potable : 30-St-Clément-Rancoudray;90234;2024;71,6;0,6;1,5;65,3;conforme;13797;13797;68;170;555;Non vérifié
-50457;Sainte-Colombe;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;3274;50;127;181;Non vérifié
-50461;Saint-Cyr-Bocage;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;5549;71;177;213;Non vérifié
-50462;Saint-Cyr-du-Bailleul;50;eau potable : 26-Teilleul;90356;2024;77,5;0,4;1,4;65,3;conforme;26630;4480;36;101;345;Non vérifié
-50463;Saint-Denis-le-Gast;50;eau potable : 15-Cérences;90306;2024;76,6;1,7;5,5;66,1;conforme;206124;10908;56;168;530;Non vérifié
-50464;Saint-Denis-le-Vêtu;50;eau potable : Distribution Centre Manche Bocage;339494;2024;66,3;1,2;2,4;65,5;conforme;278275;9709;45;186;590;Non vérifié
-50467;Saint-Floxel;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;8845;50;127;489;Non vérifié
-50468;Saint-Fromond;50;eau potable : Secteur  ST JEAN de DAYE;90342;2024;75,0;1,5;4,4;65,9;conforme;64660;9361;34;166;758;Non vérifié
-50469;Sainte-Geneviève;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;7789;71;177;299;Non vérifié
-50471;Saint-Georges-de-la-Rivière;50;eau potable : AEP - SAUR;323374;2024;67,5;1,8;3,6;65,7;conforme;633046;7782;85;183;250;Non vérifié
-50472;Saint-Georges-de-Livoye;50;eau potable : 37-Brécey;90362;2024;73,8;1,3;3,6;65,7;conforme;52252;3818;51;133;204;Non vérifié
-50473;Saint-Georges-d'Elle;50;eau potable : Secteur  St Clair sur Elle;90308;2024;79,3;1,1;4,2;65,8;conforme;195298;4243;31;120;380;Non vérifié
-50474;Saint-Georges-de-Rouelley;50;eau potable : 27-Barenton;90379;2024;83,8;0,3;1,7;65,3;conforme;24359;1897;10;68;515;Non vérifié
-50475;Saint-Georges-Montcocq;50;eau potable : Secteur SAINT-LÔ;90319;2024;84,7;2,7;14,8;68,0;conforme;331473;11314;31;89;988;Non vérifié
-50476;Saint-Germain-d'Elle;50;eau potable : Secteur  St Clair sur Elle;90308;2024;79,3;1,1;4,2;65,8;conforme;195298;2334;31;120;209;Non vérifié
-50478;Saint-Germain-de-Tournebut;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;10889;71;177;418;Non vérifié
-50479;Saint-Germain-de-Varreville;50;eau potable : Distribution;221357;2024;83,8;1,4;7,4;66,5;conforme;83533;621;16;76;109;Non vérifié
-50480;Saint-Germain-le-Gaillard;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;14488;50;127;801;Non vérifié
-50481;Saint-Germain-sur-Ay;50;eau potable : Distibution;221354;2024;79,2;1,0;3,8;65,8;conforme;87337;9408;28;98;926;Non vérifié
-50482;Saint-Germain-sur-Sèves;50;eau potable : 07-Sainteny;90352;2024;92,2;0,7;7,8;66,6;conforme;26700;2111;32;33;181;Non vérifié
-50483;Saint-Gilles;50;eau potable : Secteur MARIGNY;216217;2024;82,8;0,9;4,1;65,8;conforme;57225;9237;25;80;1030;Non vérifié
-50484;Saint-Hilaire-du-Harcouët;50;eau potable : 23-St Hilaire du Harcouët;294454;2024;87,1;0,4;2,8;65,6;conforme;131750;33220;16;66;5770;Non vérifié
-50486;Saint-Jacques-de-Néhou;50;eau potable : AEP - SAUR;323374;2024;67,5;1,8;3,6;65,7;conforme;633046;19455;85;183;625;Non vérifié
-50487;Saint-James;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;30186;16;62;5018;Non vérifié
-50488;Saint-Jean-de-Daye;50;eau potable : Secteur  ST JEAN de DAYE;90342;2024;75,0;1,5;4,4;65,9;conforme;64660;8101;34;166;656;Non vérifié
-50489;Saint-Jean-de-la-Haize;50;eau potable : distribution Avranches Nord;226054;2024;77,1;0,6;2,2;65,4;conforme;40839;6204;32;101;535;Non vérifié
-50490;Saint-Jean-de-la-Rivière;50;eau potable : AEP - SAUR;323374;2024;67,5;1,8;3,6;65,7;conforme;633046;11299;85;183;363;Non vérifié
-50491;Saint-Jean-de-Savigny;50;eau potable : Secteur  St Clair sur Elle;90308;2024;79,3;1,1;4,2;65,8;conforme;195298;4645;31;120;416;Non vérifié
-50492;Saint-Jean-d'Elle;50;eau potable;98301;2024;69,5;1,1;2,6;65,5;conforme;123188;27890;30;160;2516;Non vérifié
-50493;Saint-Jean-des-Champs;50;eau potable : distribution Granville Avranches;252954;2024;92,4;1,2;14,5;67,9;conforme;168972;6705;12;32;1534;Non vérifié
-50495;Saint-Jean-du-Corail-des-Bois;50;eau potable : 18-Villedieu-Sud;90361;2024;71,5;0,8;2,0;65,4;conforme;36322;446;17;149;70;Non vérifié
-50496;Saint-Jean-le-Thomas;50;eau potable : Service Saint-Jean-Le-Thomas - Distribution;309534;2024;87,2;0,8;5,8;66,2;conforme;4859;1643;11;51;401;Non vérifié
-50498;Saint-Joseph;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;21414;71;177;822;Non vérifié
-50499;Saint-Laurent-de-Cuves;50;eau potable;90349;2024;66,1;1,7;3,3;65,7;conforme;154089;23743;131;384;496;Non vérifié
-50500;Saint-Laurent-de-Terregatte;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;3832;16;62;637;Non vérifié
-50502;Saint-Lô;50;eau potable : Secteur SAINT-LÔ;90319;2024;84,7;2,7;14,8;68,0;conforme;331473;222963;31;89;19471;Non vérifié
-50504;Saint-Louet-sur-Vire;50;eau potable : Secteur La CHAPELLE sur VIRE;90309;2024;76,1;1,1;3,5;65,7;conforme;310231;3028;40;116;210;Non vérifié
-50505;Saint-Loup;50;eau potable : 40-saint-Loup;90257;2024;72,2;2,0;5,2;66,0;conforme;13812;13812;55;180;686;Non vérifié
-50506;Saint-Malo-de-la-Lande;50;eau potable : 42-saint-Malo-de-la-Lande;90343;2024;76,2;1,5;4,8;66,0;conforme;164502;3693;22;117;460;Non vérifié
-50507;Saint-Marcouf;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;6421;50;127;355;Non vérifié
-50509;Sainte-Marie-du-Mont;50;eau potable : Distribution;221357;2024;83,8;1,4;7,4;66,5;conforme;83533;3901;16;76;685;Non vérifié
-50510;Saint-Martin-d'Aubigny;50;eau potable : 08-St Sauveur-St Martin;227194;2024;68,9;1,4;3,1;65,6;conforme;196173;12040;54;176;606;Non vérifié
-50511;Saint-Martin-d'Audouville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;2858;50;127;158;Non vérifié
-50512;Saint-Martin-de-Bonfossé;50;eau potable : Secteur La CHAPELLE sur VIRE;90309;2024;76,1;1,1;3,5;65,7;conforme;310231;7643;40;116;530;Non vérifié
-50513;Saint-Martin-de-Cenilly;50;eau potable : Distribution Centre Manche Bocage;339494;2024;66,3;1,2;2,4;65,5;conforme;278275;3423;45;186;208;Non vérifié
-50514;Chaulieu;50;eau potable : 33-Sourdeval;90355;2024;94,5;0,1;2,1;65,4;conforme;8176;561;6;17;274;Non vérifié
-50517;Saint-Martin-de-Varreville;50;eau potable : Distribution;221357;2024;83,8;1,4;7,4;66,5;conforme;83533;985;16;76;173;Non vérifié
-50518;Saint-Martin-le-Bouillant;50;eau potable;90349;2024;66,1;1,7;3,3;65,7;conforme;154089;14408;131;384;301;Non vérifié
-50519;Saint-Martin-le-Gréard;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;10961;50;127;606;Non vérifié
-50521;Saint-Maur-des-Bois;50;eau potable;90349;2024;66,1;1,7;3,3;65,7;conforme;154089;7324;131;384;153;Non vérifié
-50522;Saint-Maurice-en-Cotentin;50;eau potable : AEP - SAUR;323374;2024;67,5;1,8;3,6;65,7;conforme;633046;7875;85;183;253;Non vérifié
-50523;Sainte-Mère-Église;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;52382;50;127;2896;Non vérifié
-50525;Saint-Michel-de-Montjoie;50;eau potable;90349;2024;66,1;1,7;3,3;65,7;conforme;154089;16371;131;384;342;Non vérifié
-50528;Saint-Nicolas-de-Pierrepont;50;eau potable : Distibution;221354;2024;79,2;1,0;3,8;65,8;conforme;87337;3007;28;98;296;Non vérifié
-50529;Saint-Nicolas-des-Bois;50;eau potable : 37-Brécey;90362;2024;73,8;1,3;3,6;65,7;conforme;52252;1834;51;133;98;Non vérifié
-50531;Saint-Ovin;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;4584;16;62;762;Non vérifié
-50532;Saint-Pair-sur-Mer;50;eau potable : distribution Granville Avranches;252954;2024;92,4;1,2;14,5;67,9;conforme;168972;19700;12;32;4507;Non vérifié
-50533;Saint-Patrice-de-Claids;50;eau potable;90304;2024;93,0;0,6;7,7;66,5;conforme;75555;1167;18;29;180;Non vérifié
-50535;Le Parc;50;eau potable : distribution Avranches Nord;226054;2024;77,1;0,6;2,2;65,4;conforme;40839;10679;32;101;921;Non vérifié
-50536;Saint-Pierre-d'Arthéglise;50;eau potable : AEP - SAUR;323374;2024;67,5;1,8;3,6;65,7;conforme;633046;5354;85;183;172;Non vérifié
-50537;Saint-Pierre-de-Coutances;50;eau potable : 43-Saint-Pierre-de-Coutances;90263;2024;80,1;1,1;4,3;65,9;conforme;3614;3614;26;93;387;Non vérifié
-50538;Saint-Pierre-de-Semilly;50;eau potable : Secteur  St Clair sur Elle;90308;2024;79,3;1,1;4,2;65,8;conforme;195298;4701;31;120;421;Non vérifié
-50539;Saint-Pierre-Église;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;45980;71;177;1765;Non vérifié
-50540;Saint-Pierre-Langers;50;eau potable : distribution Champeaux;90307;2024;88,4;0,7;5,2;66,0;conforme;17527;1654;7;73;617;Non vérifié
-50541;Saint-Planchers;50;eau potable : distribution Granville Avranches;252954;2024;92,4;1,2;14,5;67,9;conforme;168972;6495;12;32;1486;Non vérifié
-50542;Saint-Pois;50;eau potable;90349;2024;66,1;1,7;3,3;65,7;conforme;154089;21732;131;384;454;Non vérifié
-50543;Saint-Quentin-sur-le-Homme;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;8049;16;62;1338;Non vérifié
-50546;Bourgvallées;50;eau potable : Secteur La CHAPELLE sur VIRE;90309;2024;76,1;1,1;3,5;65,7;conforme;310231;47965;40;116;3326;Non vérifié
-50548;Saint-Sauveur-de-Pierrepont;50;eau potable : Distibution;221354;2024;79,2;1,0;3,8;65,8;conforme;87337;1280;28;98;126;Non vérifié
-50549;Saint-Sauveur-la-Pommeraye;50;eau potable;90326;2024;66,0;1,5;3,0;65,6;conforme;139065;4407;30;200;397;Non vérifié
-50550;Saint-Sauveur-Villages;50;eau potable : 08-St Sauveur-St Martin;227194;2024;68,9;1,4;3,1;65,6;conforme;196173;63735;54;176;3208;Non vérifié
-50551;Saint-Sauveur-le-Vicomte;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;38237;50;127;2114;Non vérifié
-50552;Saint-Sébastien-de-Raids;50;eau potable : 08-St Sauveur-St Martin;227194;2024;68,9;1,4;3,1;65,6;conforme;196173;6397;54;176;322;Non vérifié
-50553;Saint-Senier-de-Beuvron;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;1949;16;62;324;Non vérifié
-50554;Saint-Senier-sous-Avranches;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;8729;16;62;1451;Non vérifié
-50556;Sainte-Suzanne-sur-Vire;50;eau potable : Secteur La CHAPELLE sur VIRE;90309;2024;76,1;1,1;3,5;65,7;conforme;310231;9879;40;116;685;Non vérifié
-50562;Saint-Vaast-la-Hougue;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;42932;71;177;1648;Non vérifié
-50563;Saint-Vigor-des-Monts;50;eau potable : 19-Montbray;90328;2024;58,6;1,4;1,9;65,4;non conforme;60645;15545;150;321;284;Non vérifié
-50564;Terre-et-Marais;50;eau potable : 07-Sainteny;90352;2024;92,2;0,7;7,8;66,6;conforme;26700;14825;32;33;1271;Non vérifié
-50565;Sartilly-Baie-Bocage;50;eau potable : distribution Sartilly;211341;2024;84,2;0,9;4,8;66,0;conforme;12457;12457;12;68;2778;Non vérifié
-50567;Saussemesnil;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;24149;71;177;927;Non vérifié
-50568;Saussey;50;eau potable : Distribution Centre Manche Bocage;339494;2024;66,3;1,2;2,4;65,5;conforme;278275;7619;45;186;463;Non vérifié
-50569;Savigny;50;eau potable : Distribution Centre Manche Bocage;339494;2024;66,3;1,2;2,4;65,5;conforme;278275;7076;45;186;430;Non vérifié
-50570;Savigny-le-Vieux;50;eau potable : 23-St Hilaire du Harcouët;294454;2024;87,1;0,4;2,8;65,6;conforme;131750;2297;16;66;399;Non vérifié
-50571;Sébeville;50;eau potable : Distribution;221357;2024;83,8;1,4;7,4;66,5;conforme;83533;194;16;76;34;Non vérifié
-50572;Sénoville;50;eau potable : AEP - SAUR;323374;2024;67,5;1,8;3,6;65,7;conforme;633046;5852;85;183;188;Non vérifié
-50574;Servon;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;1516;16;62;252;Non vérifié
-50575;Sideville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;15483;50;127;856;Non vérifié
-50576;Siouville-Hague;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;16840;50;127;931;Non vérifié
-50577;Sortosville-en-Beaumont;50;eau potable : AEP - SAUR;323374;2024;67,5;1,8;3,6;65,7;conforme;633046;9245;85;183;297;Non vérifié
-50578;Sortosville;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;2084;71;177;80;Non vérifié
-50579;Sottevast;50;eau potable : AEP - SAUR;323374;2024;67,5;1,8;3,6;65,7;conforme;633046;45415;85;183;1459;Non vérifié
-50580;Sotteville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;8772;50;127;485;Non vérifié
-50582;Sourdeval;50;eau potable : 33-Sourdeval;90355;2024;94,5;0,1;2,1;65,4;conforme;8176;6193;6;17;3026;Non vérifié
-50584;Subligny;50;eau potable;90326;2024;66,0;1,5;3,0;65,6;conforme;139065;4163;30;200;375;Non vérifié
-50585;Surtainville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;21090;50;127;1166;Non vérifié
-50587;Taillepied;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;326;50;127;18;Non vérifié
-50588;Tamerville;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;18001;71;177;691;Non vérifié
-50589;Tanis;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;1612;16;62;268;Non vérifié
-50590;Le Tanu;50;eau potable;90326;2024;66,0;1,5;3,0;65,6;conforme;139065;4773;30;200;430;Non vérifié
-50591;Le Teilleul;50;eau potable : 23-St Hilaire du Harcouët;294454;2024;87,1;0,4;2,8;65,6;conforme;131750;9822;16;66;1706;Non vérifié
-50592;Tessy-Bocage;50;eau potable : Secteur La CHAPELLE sur VIRE;90309;2024;76,1;1,1;3,5;65,7;conforme;310231;31972;40;116;2217;Non vérifié
-50593;Teurthéville-Bocage;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;15474;71;177;594;Non vérifié
-50594;Teurthéville-Hague;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;18757;50;127;1037;Non vérifié
-50596;Théville;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;8076;71;177;310;Non vérifié
-50597;Tirepied-sur-Sée;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;5757;16;62;957;Non vérifié
-50598;Tocqueville;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;6721;71;177;258;Non vérifié
-50599;Tollevast;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;29917;50;127;1654;Non vérifié
-50601;Torigny-les-Villes;50;eau potable : Secteur La CHAPELLE sur VIRE;90309;2024;76,1;1,1;3,5;65,7;conforme;310231;64088;40;116;4444;Non vérifié
-50603;Tourville-sur-Sienne;50;eau potable : 42-saint-Malo-de-la-Lande;90343;2024;76,2;1,5;4,8;66,0;conforme;164502;6318;22;117;787;Non vérifié
-50604;Tréauville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;13005;50;127;719;Non vérifié
-50606;Tribehou;50;eau potable : 09-Tribehou;90165;2024;77,8;0,9;3,2;65,6;conforme;31142;7260;38;102;525;Non vérifié
-50607;La Trinité;50;eau potable : 18-Villedieu-Sud;90361;2024;71,5;0,8;2,0;65,4;conforme;36322;2582;17;149;405;Non vérifié
-50609;Turqueville;50;eau potable : Distribution;221357;2024;83,8;1,4;7,4;66,5;conforme;83533;735;16;76;129;Non vérifié
-50610;Urville;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;4950;71;177;190;Non vérifié
-50612;Vains;50;eau potable : distribution Vains;211342;2024;98,4;0,1;5,1;66,0;conforme;753;753;3;7;743;Non vérifié
-50613;Valcanville;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;10134;71;177;389;Non vérifié
-50615;Valognes;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;126052;50;127;6969;Non vérifié
-50616;Le Val-Saint-Père;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;11418;16;62;1898;Non vérifié
-50617;Varenguebec;50;eau potable;90304;2024;93,0;0,6;7,7;66,5;conforme;75555;2081;18;29;321;Non vérifié
-50618;Varouville;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;5627;71;177;216;Non vérifié
-50619;Le Vast;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;8362;71;177;321;Non vérifié
-50621;Vaudreville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;1393;50;127;77;Non vérifié
-50624;La Vendelée;50;eau potable : 42-saint-Malo-de-la-Lande;90343;2024;76,2;1,5;4,8;66,0;conforme;164502;3685;22;117;459;Non vérifié
-50626;Ver;50;eau potable : 15-Cérences;90306;2024;76,6;1,7;5,5;66,1;conforme;206124;7944;56;168;386;Non vérifié
-50628;Vernix;50;eau potable : 37-Brécey;90362;2024;73,8;1,3;3,6;65,7;conforme;52252;2882;51;133;154;Non vérifié
-50629;Vesly;50;eau potable;90304;2024;93,0;0,6;7,7;66,5;conforme;75555;4719;18;29;728;Non vérifié
-50633;Le Vicel;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;3100;71;177;119;Non vérifié
-50634;Videcosville;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;2423;71;177;93;Non vérifié
-50637;Villebaudon;50;eau potable : Distribution Centre Manche Bocage;339494;2024;66,3;1,2;2,4;65,5;conforme;278275;5381;45;186;327;Non vérifié
-50639;Villedieu-les-Poêles-Rouffigny;50;eau potable : 18-Villedieu-Sud;90361;2024;71,5;0,8;2,0;65,4;conforme;36322;24880;17;149;3903;Non vérifié
-50641;Villiers-Fossard;50;eau potable : Secteur  St Clair sur Elle;90308;2024;79,3;1,1;4,2;65,8;conforme;195298;7213;31;120;646;Non vérifié
-50643;Virandeville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;14759;50;127;816;Non vérifié
-50647;Yquelon;50;eau potable : distribution Granville Avranches;252954;2024;92,4;1,2;14,5;67,9;conforme;168972;5420;12;32;1240;Non vérifié
-50648;Yvetot-Bocage;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;31574;71;177;1212;Non vérifié
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement);Donnée suspecte (voir LISEZMOI)
+50002;Agneaux;50;eau potable : Secteur SAINT-LÔ;90319;2024;84,7;2,7;14,8;68,0;conforme;331473;49079;31;89;4286;Non vérifié;non
+50003;Agon-Coutainville;50;eau potable : Distribution Centre Manche Littoral;339714;2024;91,3;1,7;18,4;68,7;conforme;74038;42204;38;35;3020;Non vérifié;non
+50004;Airel;50;eau potable : Secteur  St Clair sur Elle;90308;2024;79,3;1,1;4,2;65,8;conforme;195298;5750;31;120;515;Non vérifié;non
+50006;Amigny;50;eau potable : Secteur  ST JEAN de DAYE;90342;2024;75,0;1,5;4,4;65,9;conforme;64660;1865;34;166;151;Non vérifié;non
+50008;Anctoville-sur-Boscq;50;eau potable : distribution Granville Avranches;252954;2024;92,4;1,2;14,5;67,9;conforme;168972;1901;12;32;435;Non vérifié;non
+50013;Anneville-en-Saire;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;9639;71;177;370;Non vérifié;non
+50015;Annoville;50;eau potable : 14-Montmartin;90331;2022;73,2;1,7;4,5;65,9;conforme;153661;10637;44;143;664;Sans anomalie apparente;non
+50016;Appeville;50;eau potable;90304;2024;93,0;0,6;7,7;66,5;conforme;75555;1296;18;29;200;Non vérifié;non
+50019;Aucey-la-Plaine;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;2478;16;62;412;Non vérifié;non
+50021;Audouville-la-Hubert;50;eau potable : Distribution;221357;2024;83,8;1,4;7,4;66,5;conforme;83533;444;16;76;78;Non vérifié;non
+50022;Aumeville-Lestre;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;2388;50;127;132;Non vérifié;non
+50023;Auvers;50;eau potable;90299;2024;91,8;0,5;5,8;66,2;conforme;8486;4355;17;32;683;Non vérifié;non
+50024;Auxais;50;eau potable : 07-Sainteny;90352;2024;92,2;0,7;7,8;66,6;conforme;26700;2053;32;33;176;Non vérifié;non
+50025;Avranches;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;61016;16;62;10143;Non vérifié;non
+50026;Azeville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;1429;50;127;79;Non vérifié;non
+50027;Bacilly;50;eau potable : Sartilly sud;90353;2024;78,0;1,0;3,6;65,7;conforme;47939;7971;24;107;921;Non vérifié;non
+50028;La Baleine;50;eau potable : 17-Villedieu-Ouest;90360;2024;82,4;1,5;7,1;66,4;conforme;128153;2468;64;85;105;Non vérifié;non
+50029;Barenton;50;eau potable : 27-Barenton;90379;2024;83,8;0,3;1,7;65,3;conforme;24359;4277;10;68;1161;Non vérifié;non
+50030;Barfleur;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;14120;71;177;542;Non vérifié;non
+50031;Barneville-Carteret;50;eau potable : AEP - SAUR;323374;2024;67,5;1,8;3,6;65,7;conforme;633046;69197;85;183;2223;Non vérifié;non
+50032;La Barre-de-Semilly;50;eau potable : Secteur  St Clair sur Elle;90308;2024;79,3;1,1;4,2;65,8;conforme;195298;11489;31;120;1029;Non vérifié;non
+50033;Baubigny;50;eau potable : AEP - SAUR;323374;2024;67,5;1,8;3,6;65,7;conforme;633046;4109;85;183;132;Non vérifié;non
+50034;Baudre;50;eau potable : Secteur SAINT-LÔ;90319;2024;84,7;2,7;14,8;68,0;conforme;331473;7019;31;89;613;Non vérifié;non
+50036;Baupte;50;eau potable;90304;2024;93,0;0,6;7,7;66,5;conforme;75555;2826;18;29;436;Non vérifié;non
+50038;Beauchamps;50;eau potable;90326;2024;66,0;1,5;3,0;65,6;conforme;139065;4895;30;200;441;Non vérifié;non
+50039;Beaucoudray;50;eau potable : Distribution Centre Manche Bocage;339494;2024;66,3;1,2;2,4;65,5;conforme;278275;2238;45;186;136;Non vérifié;non
+50040;Beauficel;50;eau potable : 33-Sourdeval;90355;2024;94,5;0,1;2,1;65,4;conforme;8176;250;6;17;122;Non vérifié;non
+50041;La Hague;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;207718;50;127;11484;Non vérifié;non
+50042;Beauvoir;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;2521;16;62;419;Non vérifié;non
+50044;Belval;50;eau potable : Distribution Centre Manche Bocage;339494;2024;66,3;1,2;2,4;65,5;conforme;278275;5480;45;186;333;Non vérifié;non
+50045;Benoîtville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;11576;50;127;640;Non vérifié;non
+50046;Bérigny;50;eau potable : Secteur  St Clair sur Elle;90308;2024;79,3;1,1;4,2;65,8;conforme;195298;4935;31;120;442;Non vérifié;non
+50048;Beslon;50;eau potable;90310;2021;62,9;1,1;1,9;65,4;non conforme;38946;5716;28;214;562;Sans anomalie apparente;non
+50049;Besneville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;11956;50;127;661;Non vérifié;non
+50050;Beuvrigny;50;eau potable : Secteur La CHAPELLE sur VIRE;90309;2024;76,1;1,1;3,5;65,7;conforme;310231;1889;40;116;131;Non vérifié;non
+50052;Beuzeville-la-Bastille;50;eau potable;90304;2024;93,0;0,6;7,7;66,5;conforme;75555;959;18;29;148;Non vérifié;non
+50054;Biéville;50;eau potable;98301;2024;69,5;1,1;2,6;65,5;conforme;123188;2195;30;160;198;Non vérifié;non
+50055;Biniville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;2134;50;127;118;Non vérifié;non
+50058;Blainville-sur-Mer;50;eau potable : 42-saint-Malo-de-la-Lande;90343;2024;76,2;1,5;4,8;66,0;conforme;164502;12845;22;117;1600;Non vérifié;non
+50059;Blosville;50;eau potable;90346;2024;81,0;1,4;6,1;66,2;conforme;76440;3637;32;83;310;Non vérifié;non
+50060;La Bloutière;50;eau potable : 17-Villedieu-Ouest;90360;2024;82,4;1,5;7,1;66,4;conforme;128153;9943;64;85;423;Non vérifié;non
+50062;Boisyvon;50;eau potable;90349;2024;66,1;1,7;3,3;65,7;conforme;154089;4787;131;384;100;Non vérifié;non
+50064;La Bonneville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;3129;50;127;173;Non vérifié;non
+50066;Jullouville;50;eau potable : distribution Granville Avranches;252954;2024;92,4;1,2;14,5;67,9;conforme;168972;10464;12;32;2394;Non vérifié;non
+50069;Bourguenolles;50;eau potable : 18-Villedieu-Sud;90361;2024;71,5;0,8;2,0;65,4;conforme;36322;2225;17;149;349;Non vérifié;non
+50070;Boutteville;50;eau potable : Distribution;221357;2024;83,8;1,4;7,4;66,5;conforme;83533;325;16;76;57;Non vérifié;non
+50072;Brainville;50;eau potable : 42-saint-Malo-de-la-Lande;90343;2024;76,2;1,5;4,8;66,0;conforme;164502;1718;22;117;214;Non vérifié;non
+50074;Brécey;50;eau potable : 37-Brécey;90362;2024;73,8;1,3;3,6;65,7;conforme;52252;40649;51;133;2172;Non vérifié;non
+50076;Bréhal;50;eau potable : 16-Bréhal;90114;2024;94,3;0,5;7,9;66,6;conforme;11132;11132;9;23;3487;Non vérifié;non
+50077;Bretteville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;18576;50;127;1027;Non vérifié;non
+50078;Bretteville-sur-Ay;50;eau potable : Distibution;221354;2024;79,2;1,0;3,8;65,8;conforme;87337;4511;28;98;444;Non vérifié;non
+50079;Breuville;50;eau potable : AEP - SAUR;323374;2024;67,5;1,8;3,6;65,7;conforme;633046;12638;85;183;406;Non vérifié;non
+50081;Bréville-sur-Mer;50;eau potable : distribution La Bergerie;211344;2024;82,6;1,2;5,7;66,1;conforme;25522;8717;30;77;791;Non vérifié;non
+50082;Bricquebec-en-Cotentin;50;eau potable : AEP - SAUR;323374;2024;67,5;1,8;3,6;65,7;conforme;633046;183436;85;183;5893;Non vérifié;non
+50083;Bricquebosq;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;11540;50;127;638;Non vérifié;non
+50084;Bricqueville-la-Blouette;50;eau potable : 42-saint-Malo-de-la-Lande;90343;2024;76,2;1,5;4,8;66,0;conforme;164502;4255;22;117;530;Non vérifié;non
+50085;Bricqueville-sur-Mer;50;eau potable : 15-Cérences;90306;2024;76,6;1,7;5,5;66,1;conforme;206124;25953;56;168;1261;Non vérifié;non
+50086;Brillevast;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;8284;71;177;318;Non vérifié;non
+50087;Brix;50;eau potable : AEP - SAUR;323374;2024;67,5;1,8;3,6;65,7;conforme;633046;67392;85;183;2165;Non vérifié;non
+50088;Brouains;50;eau potable : 33-Sourdeval;90355;2024;94,5;0,1;2,1;65,4;conforme;8176;287;6;17;140;Non vérifié;non
+50090;Buais-Les-Monts;50;eau potable : 23-St Hilaire du Harcouët;294454;2024;87,1;0,4;2,8;65,6;conforme;131750;3518;16;66;611;Non vérifié;non
+50092;Cambernon;50;eau potable : 08-St Sauveur-St Martin;227194;2024;68,9;1,4;3,1;65,6;conforme;196173;13450;54;176;677;Non vérifié;non
+50093;Cametours;50;eau potable : Distribution Centre Manche Bocage;339494;2024;66,3;1,2;2,4;65,5;conforme;278275;7142;45;186;434;Non vérifié;non
+50094;Camprond;50;eau potable : 08-St Sauveur-St Martin;227194;2024;68,9;1,4;3,1;65,6;conforme;196173;7430;54;176;374;Non vérifié;non
+50095;Canisy;50;eau potable : Secteur La CHAPELLE sur VIRE;90309;2024;76,1;1,1;3,5;65,7;conforme;310231;24617;40;116;1707;Non vérifié;non
+50096;Canteloup;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;5731;71;177;220;Non vérifié;non
+50097;Canville-la-Rocque;50;eau potable : AEP - SAUR;323374;2024;67,5;1,8;3,6;65,7;conforme;633046;3891;85;183;125;Non vérifié;non
+50098;Carantilly;50;eau potable : Distribution Centre Manche Bocage;339494;2024;66,3;1,2;2,4;65,5;conforme;278275;10186;45;186;619;Non vérifié;non
+50099;Carentan-les-Marais;50;eau potable : Distribution;221357;2024;83,8;1,4;7,4;66,5;conforme;83533;58187;16;76;10218;Non vérifié;non
+50101;Carneville;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;6252;71;177;240;Non vérifié;non
+50102;Carolles;50;eau potable : distribution Granville Avranches;252954;2024;92,4;1,2;14,5;67,9;conforme;168972;3383;12;32;774;Non vérifié;non
+50105;Catteville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;1917;50;127;106;Non vérifié;non
+50106;Cavigny;50;eau potable : Secteur  ST JEAN de DAYE;90342;2024;75,0;1,5;4,4;65,9;conforme;64660;3322;34;166;269;Non vérifié;non
+50108;Céaux;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;2490;16;62;414;Non vérifié;non
+50109;Cérences;50;eau potable : 15-Cérences;90306;2024;76,6;1,7;5,5;66,1;conforme;206124;38117;56;168;1852;Non vérifié;non
+50110;Cerisy-la-Forêt;50;eau potable : Secteur  St Clair sur Elle;90308;2024;79,3;1,1;4,2;65,8;conforme;195298;11210;31;120;1004;Non vérifié;non
+50111;Cerisy-la-Salle;50;eau potable : Distribution Centre Manche Bocage;339494;2024;66,3;1,2;2,4;65,5;conforme;278275;16538;45;186;1005;Non vérifié;non
+50112;La Chaise-Baudouin;50;eau potable : 32-La Chaise Baudouin;90171;2024;44,5;2,3;1,8;65,4;non conforme;23917;23917;151;453;435;Non vérifié;non
+50115;Le Grippon;50;eau potable;90326;2024;66,0;1,5;3,0;65,6;conforme;139065;4340;30;200;391;Non vérifié;non
+50117;Champeaux;50;eau potable : distribution Champeaux;90307;2024;88,4;0,7;5,2;66,0;conforme;17527;935;7;73;349;Non vérifié;non
+50118;Champrepus;50;eau potable : 17-Villedieu-Ouest;90360;2024;82,4;1,5;7,1;66,4;conforme;128153;7569;64;85;322;Non vérifié;non
+50120;Chanteloup;50;eau potable : 15-Cérences;90306;2024;76,6;1,7;5,5;66,1;conforme;206124;8377;56;168;407;Non vérifié;non
+50121;La Chapelle-Cécelin;50;eau potable;90349;2024;66,1;1,7;3,3;65,7;conforme;154089;11728;131;384;245;Non vérifié;non
+50124;La Chapelle-Urée;50;eau potable : 41-Reffuveille;90338;2024;84,9;0,3;1,7;65,3;conforme;20408;592;9;67;172;Non vérifié;non
+50126;Chavoy;50;eau potable : distribution Avranches Nord;226054;2024;77,1;0,6;2,2;65,4;conforme;40839;1461;32;101;126;Non vérifié;non
+50129;Cherbourg-en-Cotentin;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;1415499;50;127;78258;Non vérifié;non
+50130;Chérencé-le-Héron;50;eau potable : 18-Villedieu-Sud;90361;2024;71,5;0,8;2,0;65,4;conforme;36322;2779;17;149;436;Non vérifié;non
+50135;Clitourps;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;5861;71;177;225;Non vérifié;non
+50137;La Colombe;50;eau potable;90310;2021;62,9;1,1;1,9;65,4;non conforme;38946;6367;28;214;626;Sans anomalie apparente;non
+50138;Colomby;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;14823;71;177;569;Non vérifié;non
+50139;Condé-sur-Vire;50;eau potable : Secteur La CHAPELLE sur VIRE;90309;2024;76,1;1,1;3,5;65,7;conforme;310231;59661;40;116;4137;Non vérifié;non
+50142;Vicq-sur-Mer;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;28474;71;177;1093;Non vérifié;non
+50143;Coudeville-sur-Mer;50;eau potable : distribution La Bergerie;211344;2024;82,6;1,2;5,7;66,1;conforme;25522;9775;30;77;887;Non vérifié;non
+50144;Coulouvray-Boisbenâtre;50;eau potable;90349;2024;66,1;1,7;3,3;65,7;conforme;154089;25418;131;384;531;Non vérifié;non
+50145;Courcy;50;eau potable : Distribution Centre Manche Bocage;339494;2024;66,3;1,2;2,4;65,5;conforme;278275;10516;45;186;639;Non vérifié;non
+50146;Courtils;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;1263;16;62;210;Non vérifié;non
+50147;Coutances;50;eau potable : 42-saint-Malo-de-la-Lande;90343;2024;76,2;1,5;4,8;66,0;conforme;164502;66801;22;117;8321;Non vérifié;non
+50148;Couvains;50;eau potable : Secteur  St Clair sur Elle;90308;2024;79,3;1,1;4,2;65,8;conforme;195298;6275;31;120;562;Non vérifié;non
+50149;Couville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;22591;50;127;1249;Non vérifié;non
+50150;Crasville;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;5809;71;177;223;Non vérifié;non
+50151;Créances;50;eau potable : 05-Créances-Pirou;90312;2024;73,9;1,9;5,3;66,1;conforme;70043;40430;54;131;2067;Non vérifié;non
+50152;Les Cresnays;50;eau potable : 41-Reffuveille;90338;2024;84,9;0,3;1,7;65,3;conforme;20408;782;9;67;227;Non vérifié;non
+50155;Crollon;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;1811;16;62;301;Non vérifié;non
+50156;Crosville-sur-Douve;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;1121;50;127;62;Non vérifié;non
+50158;Cuves;50;eau potable;90349;2024;66,1;1,7;3,3;65,7;conforme;154089;12254;131;384;256;Non vérifié;non
+50159;Dangy;50;eau potable : Secteur La CHAPELLE sur VIRE;90309;2024;76,1;1,1;3,5;65,7;conforme;310231;9345;40;116;648;Non vérifié;non
+50161;Le Dézert;50;eau potable : Secteur  ST JEAN de DAYE;90342;2024;75,0;1,5;4,4;65,9;conforme;64660;7422;34;166;601;Non vérifié;non
+50162;Digosville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;30405;50;127;1681;Non vérifié;non
+50164;Domjean;50;eau potable : Secteur La CHAPELLE sur VIRE;90309;2024;76,1;1,1;3,5;65,7;conforme;310231;14407;40;116;999;Non vérifié;non
+50165;Donville-les-Bains;50;eau potable : distribution Granville Avranches;252954;2024;92,4;1,2;14,5;67,9;conforme;168972;13751;12;32;3146;Non vérifié;non
+50166;Doville;50;eau potable : Distibution;221354;2024;79,2;1,0;3,8;65,8;conforme;87337;3261;28;98;321;Non vérifié;non
+50167;Dragey-Ronthon;50;eau potable : Service Saint-Jean-Le-Thomas - Distribution;309534;2024;87,2;0,8;5,8;66,2;conforme;4859;3216;11;51;785;Non vérifié;non
+50168;Ducey-Les Chéris;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;16747;16;62;2784;Non vérifié;non
+50169;Écausseville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;2026;50;127;112;Non vérifié;non
+50172;Émondeville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;6168;50;127;341;Non vérifié;non
+50174;Équilly;50;eau potable;90326;2024;66,0;1,5;3,0;65,6;conforme;139065;2153;30;200;194;Non vérifié;non
+50175;Éroudeville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;3509;50;127;194;Non vérifié;non
+50176;L' Étang-Bertrand;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;9118;71;177;350;Non vérifié;non
+50177;Étienville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;6656;50;127;368;Non vérifié;non
+50178;Fermanville;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;33423;71;177;1283;Non vérifié;non
+50181;Feugères;50;eau potable : 08-St Sauveur-St Martin;227194;2024;68,9;1,4;3,1;65,6;conforme;196173;7073;54;176;356;Non vérifié;non
+50182;La Feuillie;50;eau potable : 08-St Sauveur-St Martin;227194;2024;68,9;1,4;3,1;65,6;conforme;196173;6000;54;176;302;Non vérifié;non
+50183;Fierville-les-Mines;50;eau potable : AEP - SAUR;323374;2024;67,5;1,8;3,6;65,7;conforme;633046;10832;85;183;348;Non vérifié;non
+50184;Flamanville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;29646;50;127;1639;Non vérifié;non
+50185;Fleury;50;eau potable : 17-Villedieu-Ouest;90360;2024;82,4;1,5;7,1;66,4;conforme;128153;25880;64;85;1101;Non vérifié;non
+50186;Flottemanville;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;5992;71;177;230;Non vérifié;non
+50188;Folligny;50;eau potable;90326;2024;66,0;1,5;3,0;65,6;conforme;139065;12421;30;200;1119;Non vérifié;non
+50190;Fontenay-sur-Mer;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;2912;50;127;161;Non vérifié;non
+50192;Fourneaux;50;eau potable : Secteur La CHAPELLE sur VIRE;90309;2024;76,1;1,1;3,5;65,7;conforme;310231;1889;40;116;131;Non vérifié;non
+50193;Le Fresne-Poret;50;eau potable : 33-Sourdeval;90355;2024;94,5;0,1;2,1;65,4;conforme;8176;463;6;17;226;Non vérifié;non
+50194;Fresville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;6747;50;127;373;Non vérifié;non
+50195;Gathemo;50;eau potable : 20-Gathemo;90149;2024;72,7;0,6;1,6;65,3;conforme;6088;6088;63;138;265;Non vérifié;non
+50196;Gatteville-le-Phare;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;12114;71;177;465;Non vérifié;non
+50197;Gavray-sur-Sienne;50;eau potable : 17-Villedieu-Ouest;90360;2024;82,4;1,5;7,1;66,4;conforme;128153;48116;64;85;2047;Non vérifié;non
+50198;Geffosses;50;eau potable : 42-saint-Malo-de-la-Lande;90343;2024;76,2;1,5;4,8;66,0;conforme;164502;4022;22;117;501;Non vérifié;non
+50199;Genêts;50;eau potable : Sartilly sud;90353;2024;78,0;1,0;3,6;65,7;conforme;47939;3903;24;107;451;Non vérifié;non
+50200;Ger;50;eau potable : 27-Barenton;90379;2024;83,8;0,3;1,7;65,3;conforme;24359;3035;10;68;824;Non vérifié;non
+50205;La Godefroy;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;1811;16;62;301;Non vérifié;non
+50207;Golleville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;2948;50;127;163;Non vérifié;non
+50208;Gonfreville;50;eau potable;90304;2024;93,0;0,6;7,7;66,5;conforme;75555;1063;18;29;164;Non vérifié;non
+50209;Gonneville-Le Theil;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;39415;71;177;1513;Non vérifié;non
+50210;Gorges;50;eau potable;90304;2024;93,0;0,6;7,7;66,5;conforme;75555;2269;18;29;350;Non vérifié;non
+50214;Gouvets;50;eau potable : 19-Montbray;90328;2024;58,6;1,4;1,9;65,4;non conforme;60645;16147;150;321;295;Non vérifié;non
+50215;Gouville-sur-Mer;50;eau potable : 42-saint-Malo-de-la-Lande;90343;2024;76,2;1,5;4,8;66,0;conforme;164502;26284;22;117;3274;Non vérifié;non
+50216;Graignes-Mesnil-Angot;50;eau potable : Secteur  ST JEAN de DAYE;90342;2024;75,0;1,5;4,4;65,9;conforme;64660;9842;34;166;797;Non vérifié;non
+50217;Le Grand-Celland;50;eau potable : 41-Reffuveille;90338;2024;84,9;0,3;1,7;65,3;conforme;20408;2038;9;67;592;Non vérifié;non
+50218;Granville;50;eau potable : distribution Granville Avranches;252954;2024;92,4;1,2;14,5;67,9;conforme;168972;54682;12;32;12510;Non vérifié;non
+50219;Gratot;50;eau potable : 42-saint-Malo-de-la-Lande;90343;2024;76,2;1,5;4,8;66,0;conforme;164502;5451;22;117;679;Non vérifié;non
+50221;Grimesnil;50;eau potable : 15-Cérences;90306;2024;76,6;1,7;5,5;66,1;conforme;206124;1461;56;168;71;Non vérifié;non
+50222;Grosville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;14633;50;127;809;Non vérifié;non
+50225;Le Guislain;50;eau potable : Distribution Centre Manche Bocage;339494;2024;66,3;1,2;2,4;65,5;conforme;278275;2222;45;186;135;Non vérifié;non
+50227;Le Ham;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;5589;50;127;309;Non vérifié;non
+50228;Hambye;50;eau potable : Distribution Centre Manche Bocage;339494;2024;66,3;1,2;2,4;65,5;conforme;278275;17641;45;186;1072;Non vérifié;non
+50229;Hamelin;50;eau potable : 23-St Hilaire du Harcouët;294454;2024;87,1;0,4;2,8;65,6;conforme;131750;639;16;66;111;Non vérifié;non
+50230;Hardinvast;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;16785;50;127;928;Non vérifié;non
+50231;Hauteville-sur-Mer;50;eau potable : 14-Montmartin;90331;2024;79,4;1,2;4,7;65,9;conforme;108466;8589;33;102;707;Non vérifié;non
+50232;Hauteville-la-Guichard;50;eau potable : 08-St Sauveur-St Martin;227194;2024;68,9;1,4;3,1;65,6;conforme;196173;8742;54;176;440;Non vérifié;non
+50233;Hautteville-Bocage;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;2749;50;127;152;Non vérifié;non
+50234;La Haye-Bellefond;50;eau potable : Distribution Centre Manche Bocage;339494;2024;66,3;1,2;2,4;65,5;conforme;278275;1037;45;186;63;Non vérifié;non
+50235;La Haye-d'Ectot;50;eau potable : AEP - SAUR;323374;2024;67,5;1,8;3,6;65,7;conforme;633046;8871;85;183;285;Non vérifié;non
+50236;La Haye;50;eau potable : Distibution;221354;2024;79,2;1,0;3,8;65,8;conforme;87337;40936;28;98;4029;Non vérifié;non
+50237;La Haye-Pesnel;50;eau potable;90326;2024;66,0;1,5;3,0;65,6;conforme;139065;14453;30;200;1302;Non vérifié;non
+50238;Héauville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;8248;50;127;456;Non vérifié;non
+50239;Thèreval;50;eau potable : Secteur MARIGNY;216217;2024;82,8;0,9;4,1;65,8;conforme;57225;15918;25;80;1775;Non vérifié;non
+50240;Helleville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;10256;50;127;567;Non vérifié;non
+50241;Hémevez;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;4924;71;177;189;Non vérifié;non
+50243;Heugueville-sur-Sienne;50;eau potable : 42-saint-Malo-de-la-Lande;90343;2024;76,2;1,5;4,8;66,0;conforme;164502;3677;22;117;458;Non vérifié;non
+50246;Hiesville;50;eau potable : Distribution;221357;2024;83,8;1,4;7,4;66,5;conforme;83533;410;16;76;72;Non vérifié;non
+50247;Hocquigny;50;eau potable;90326;2024;66,0;1,5;3,0;65,6;conforme;139065;2176;30;200;196;Non vérifié;non
+50251;Huberville;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;9404;71;177;361;Non vérifié;non
+50252;Hudimesnil;50;eau potable : 15-Cérences;90306;2024;76,6;1,7;5,5;66,1;conforme;206124;19100;56;168;928;Non vérifié;non
+50253;Huisnes-sur-Mer;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;1017;16;62;169;Non vérifié;non
+50256;Isigny-le-Buat;50;eau potable : 23-St Hilaire du Harcouët;294454;2024;87,1;0,4;2,8;65,6;conforme;131750;18326;16;66;3183;Non vérifié;non
+50258;Joganville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;1519;50;127;84;Non vérifié;non
+50259;Juilley;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;4157;16;62;691;Non vérifié;non
+50260;Juvigny les Vallées;50;eau potable : 23-St Hilaire du Harcouët;294454;2024;87,1;0,4;2,8;65,6;conforme;131750;9638;16;66;1674;Non vérifié;non
+50261;Lamberville;50;eau potable;98301;2024;69,5;1,1;2,6;65,5;conforme;123188;1851;30;160;167;Non vérifié;non
+50262;La Lande-d'Airou;50;eau potable : 18-Villedieu-Sud;90361;2024;71,5;0,8;2,0;65,4;conforme;36322;3410;17;149;535;Non vérifié;non
+50263;Lapenty;50;eau potable : 23-St Hilaire du Harcouët;294454;2024;87,1;0,4;2,8;65,6;conforme;131750;2194;16;66;381;Non vérifié;non
+50265;Laulne;50;eau potable;90304;2024;93,0;0,6;7,7;66,5;conforme;75555;1206;18;29;186;Non vérifié;non
+50266;Lengronne;50;eau potable : 15-Cérences;90306;2024;76,6;1,7;5,5;66,1;conforme;206124;9612;56;168;467;Non vérifié;non
+50267;Lessay;50;eau potable : Distribution Centre Manche Littoral;339714;2024;91,3;1,7;18,4;68,7;conforme;74038;31834;38;35;2278;Non vérifié;non
+50268;Lestre;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;4377;50;127;242;Non vérifié;non
+50269;Liesville-sur-Douve;50;eau potable : Distribution;221357;2024;83,8;1,4;7,4;66,5;conforme;83533;1241;16;76;218;Non vérifié;non
+50270;Lieusaint;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;10629;71;177;408;Non vérifié;non
+50271;Lingeard;50;eau potable;90349;2024;66,1;1,7;3,3;65,7;conforme;154089;3829;131;384;80;Non vérifié;non
+50272;Tourneville-sur-Mer;50;eau potable : 14-Montmartin;90331;2024;79,4;1,2;4,7;65,9;conforme;108466;20240;33;102;1666;Non vérifié;non
+50273;Montsenelle;50;eau potable;90304;2024;93,0;0,6;7,7;66,5;conforme;75555;9398;18;29;1450;Non vérifié;non
+50274;Les Loges-Marchis;50;eau potable : 23-St Hilaire du Harcouët;294454;2024;87,1;0,4;2,8;65,6;conforme;131750;6051;16;66;1051;Non vérifié;non
+50275;Les Loges-sur-Brécey;50;eau potable;90349;2024;66,1;1,7;3,3;65,7;conforme;154089;5505;131;384;115;Non vérifié;non
+50276;Lolif;50;eau potable : Sartilly sud;90353;2024;78,0;1,0;3,6;65,7;conforme;47939;5228;24;107;604;Non vérifié;non
+50277;Longueville;50;eau potable : distribution La Bergerie;211344;2024;82,6;1,2;5,7;66,1;conforme;25522;7031;30;77;638;Non vérifié;non
+50278;Le Loreur;50;eau potable : 15-Cérences;90306;2024;76,6;1,7;5,5;66,1;conforme;206124;5310;56;168;258;Non vérifié;non
+50279;Le Lorey;50;eau potable : 08-St Sauveur-St Martin;227194;2024;68,9;1,4;3,1;65,6;conforme;196173;11027;54;176;555;Non vérifié;non
+50281;La Lucerne-d'Outremer;50;eau potable;90326;2024;66,0;1,5;3,0;65,6;conforme;139065;9768;30;200;880;Non vérifié;non
+50282;Le Luot;50;eau potable : distribution Avranches Nord;226054;2024;77,1;0,6;2,2;65,4;conforme;40839;3189;32;101;275;Non vérifié;non
+50283;La Luzerne;50;eau potable : Secteur  St Clair sur Elle;90308;2024;79,3;1,1;4,2;65,8;conforme;195298;971;31;120;87;Non vérifié;non
+50285;Magneville;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;8362;71;177;321;Non vérifié;non
+50288;Marcey-les-Grèves;50;eau potable : distribution Marcey les Grèves;211339;2024;98,0;0,2;9,2;66,8;conforme;1854;1854;4;16;1275;Non vérifié;non
+50289;Marchésieux;50;eau potable : 08-St Sauveur-St Martin;227194;2024;68,9;1,4;3,1;65,6;conforme;196173;13212;54;176;665;Non vérifié;non
+50290;Marcilly;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;2136;16;62;355;Non vérifié;non
+50291;Margueray;50;eau potable : 19-Montbray;90328;2024;58,6;1,4;1,9;65,4;non conforme;60645;6513;150;321;119;Non vérifié;non
+50292;Marigny-Le-Lozon;50;eau potable : Secteur MARIGNY;216217;2024;82,8;0,9;4,1;65,8;conforme;57225;24761;25;80;2761;Non vérifié;non
+50294;Martinvast;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;24382;50;127;1348;Non vérifié;non
+50295;Maupertuis;50;eau potable : Distribution Centre Manche Bocage;339494;2024;66,3;1,2;2,4;65,5;conforme;278275;2386;45;186;145;Non vérifié;non
+50296;Maupertus-sur-Mer;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;6200;71;177;238;Non vérifié;non
+50297;La Meauffe;50;eau potable : Secteur SAINT-LÔ;90319;2024;84,7;2,7;14,8;68,0;conforme;331473;11371;31;89;993;Non vérifié;non
+50298;Méautis;50;eau potable;90299;2024;91,8;0,5;5,8;66,2;conforme;8486;4132;17;32;648;Non vérifié;non
+50299;Le Mesnil;50;eau potable : AEP - SAUR;323374;2024;67,5;1,8;3,6;65,7;conforme;633046;5883;85;183;189;Non vérifié;non
+50300;Le Mesnil-Adelée;50;eau potable : 23-bis-Juvigny;90327;2024;73,7;0,6;1,6;65,3;conforme;18265;1566;27;136;157;Non vérifié;non
+50302;Le Mesnil-Amey;50;eau potable : Secteur MARIGNY;216217;2024;82,8;0,9;4,1;65,8;conforme;57225;2583;25;80;288;Non vérifié;non
+50304;Le Mesnil-Aubert;50;eau potable : 15-Cérences;90306;2024;76,6;1,7;5,5;66,1;conforme;206124;4055;56;168;197;Non vérifié;non
+50305;Le Mesnil-au-Val;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;13186;50;127;729;Non vérifié;non
+50310;Le Mesnil-Eury;50;eau potable : Secteur MARIGNY;216217;2024;82,8;0,9;4,1;65,8;conforme;57225;1686;25;80;188;Non vérifié;non
+50311;Le Mesnil-Garnier;50;eau potable : 17-Villedieu-Ouest;90360;2024;82,4;1,5;7,1;66,4;conforme;128153;5171;64;85;220;Non vérifié;non
+50312;Le Mesnil-Gilbert;50;eau potable;90349;2024;66,1;1,7;3,3;65,7;conforme;154089;6989;131;384;146;Non vérifié;non
+50315;Le Mesnillard;50;eau potable : 23-St Hilaire du Harcouët;294454;2024;87,1;0,4;2,8;65,6;conforme;131750;1480;16;66;257;Non vérifié;non
+50317;Le Mesnil-Ozenne;50;eau potable : 41-Reffuveille;90338;2024;84,9;0,3;1,7;65,3;conforme;20408;912;9;67;265;Non vérifié;non
+50321;Le Mesnil-Rouxelin;50;eau potable : Secteur SAINT-LÔ;90319;2024;84,7;2,7;14,8;68,0;conforme;331473;5371;31;89;469;Non vérifié;non
+50324;Le Mesnil-Véneron;50;eau potable : Secteur  ST JEAN de DAYE;90342;2024;75,0;1,5;4,4;65,9;conforme;64660;1321;34;166;107;Non vérifié;non
+50326;Le Mesnil-Villeman;50;eau potable : 17-Villedieu-Ouest;90360;2024;82,4;1,5;7,1;66,4;conforme;128153;5594;64;85;238;Non vérifié;non
+50327;La Meurdraquière;50;eau potable;90326;2024;66,0;1,5;3,0;65,6;conforme;139065;2165;30;200;195;Non vérifié;non
+50328;Millières;50;eau potable : 08-St Sauveur-St Martin;227194;2024;68,9;1,4;3,1;65,6;conforme;196173;15080;54;176;759;Non vérifié;non
+50332;Les Moitiers-d'Allonne;50;eau potable : AEP - SAUR;323374;2024;67,5;1,8;3,6;65,7;conforme;633046;23097;85;183;742;Non vérifié;non
+50334;Montabot;50;eau potable : Distribution Centre Manche Bocage;339494;2024;66,3;1,2;2,4;65,5;conforme;278275;4460;45;186;271;Non vérifié;non
+50335;Montaigu-la-Brisette;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;12895;71;177;495;Non vérifié;non
+50336;Montaigu-les-Bois;50;eau potable : 17-Villedieu-Ouest;90360;2024;82,4;1,5;7,1;66,4;conforme;128153;4795;64;85;204;Non vérifié;non
+50338;Montbray;50;eau potable : 19-Montbray;90328;2024;58,6;1,4;1,9;65,4;non conforme;60645;18610;150;321;340;Non vérifié;non
+50340;Montcuit;50;eau potable : 08-St Sauveur-St Martin;227194;2024;68,9;1,4;3,1;65,6;conforme;196173;3576;54;176;180;Non vérifié;non
+50341;Montebourg;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;34819;50;127;1925;Non vérifié;non
+50342;Montfarville;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;20789;71;177;798;Non vérifié;non
+50345;Monthuchon;50;eau potable : 08-St Sauveur-St Martin;227194;2024;68,9;1,4;3,1;65,6;conforme;196173;14007;54;176;705;Non vérifié;non
+50347;Montjoie-Saint-Martin;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;1504;16;62;250;Non vérifié;non
+50349;Montmartin-sur-Mer;50;eau potable : 14-Montmartin;90331;2024;79,4;1,2;4,7;65,9;conforme;108466;17312;33;102;1425;Non vérifié;non
+50350;Montpinchon;50;eau potable : Distribution Centre Manche Bocage;339494;2024;66,3;1,2;2,4;65,5;conforme;278275;8936;45;186;543;Non vérifié;non
+50351;Montrabot;50;eau potable;98301;2024;69,5;1,1;2,6;65,5;conforme;123188;776;30;160;70;Non vérifié;non
+50352;Montreuil-sur-Lozon;50;eau potable : Secteur MARIGNY;216217;2024;82,8;0,9;4,1;65,8;conforme;57225;3040;25;80;339;Non vérifié;non
+50353;Le Mont-Saint-Michel;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;138;16;62;23;Non vérifié;non
+50356;Moon-sur-Elle;50;eau potable : Secteur  St Clair sur Elle;90308;2024;79,3;1,1;4,2;65,8;conforme;195298;8720;31;120;781;Non vérifié;non
+50357;Morigny;50;eau potable : 19-Montbray;90328;2024;58,6;1,4;1,9;65,4;non conforme;60645;3831;150;321;70;Non vérifié;non
+50359;Mortain-Bocage;50;eau potable : 23-St Hilaire du Harcouët;294454;2024;87,1;0,4;2,8;65,6;conforme;131750;17047;16;66;2961;Non vérifié;non
+50360;Morville;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;7216;71;177;277;Non vérifié;non
+50361;La Mouche;50;eau potable;90326;2024;66,0;1,5;3,0;65,6;conforme;139065;2764;30;200;249;Non vérifié;non
+50362;Moulines;50;eau potable : 23-St Hilaire du Harcouët;294454;2024;87,1;0,4;2,8;65,6;conforme;131750;1612;16;66;280;Non vérifié;non
+50363;Moyon Villages;50;eau potable : Distribution Centre Manche Bocage;339494;2024;66,3;1,2;2,4;65,5;conforme;278275;24503;45;186;1489;Non vérifié;non
+50364;Muneville-le-Bingard;50;eau potable : 08-St Sauveur-St Martin;227194;2024;68,9;1,4;3,1;65,6;conforme;196173;14404;54;176;725;Non vérifié;non
+50365;Muneville-sur-Mer;50;eau potable : 15-Cérences;90306;2024;76,6;1,7;5,5;66,1;conforme;206124;10106;56;168;491;Non vérifié;non
+50368;Nay;50;eau potable : 07-Sainteny;90352;2024;92,2;0,7;7,8;66,6;conforme;26700;817;32;33;70;Non vérifié;non
+50369;Négreville;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;22013;71;177;845;Non vérifié;non
+50370;Néhou;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;11015;50;127;609;Non vérifié;non
+50371;Le Neufbourg;50;eau potable : 29-St Barthélémy-Le Neufbourg;90339;2024;77,7;0,7;2,6;65,5;conforme;8176;4392;30;105;397;Non vérifié;non
+50372;Neufmesnil;50;eau potable : Distibution;221354;2024;79,2;1,0;3,8;65,8;conforme;87337;1788;28;98;176;Non vérifié;non
+50373;Neuville-au-Plain;50;eau potable;90346;2024;81,0;1,4;6,1;66,2;conforme;76440;950;32;83;81;Non vérifié;non
+50374;Neuville-en-Beaumont;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;488;50;127;27;Non vérifié;non
+50376;Nicorps;50;eau potable : Distribution Centre Manche Bocage;339494;2024;66,3;1,2;2,4;65,5;conforme;278275;5825;45;186;354;Non vérifié;non
+50378;Notre-Dame-de-Cenilly;50;eau potable : Distribution Centre Manche Bocage;339494;2024;66,3;1,2;2,4;65,5;conforme;278275;10483;45;186;637;Non vérifié;non
+50379;Notre-Dame-de-Livoye;50;eau potable : 37-Brécey;90362;2024;73,8;1,3;3,6;65,7;conforme;52252;3069;51;133;164;Non vérifié;non
+50382;Nouainville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;10979;50;127;607;Non vérifié;non
+50384;Octeville-l'Avenel;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;6122;71;177;235;Non vérifié;non
+50387;Orglandes;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;6258;50;127;346;Non vérifié;non
+50388;Orval sur Sienne;50;eau potable : 14-Montmartin;90331;2024;79,4;1,2;4,7;65,9;conforme;108466;14980;33;102;1233;Non vérifié;non
+50389;Ouville;50;eau potable : Distribution Centre Manche Bocage;339494;2024;66,3;1,2;2,4;65,5;conforme;278275;7224;45;186;439;Non vérifié;non
+50390;Ozeville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;2876;50;127;159;Non vérifié;non
+50391;Grandparigny;50;eau potable : 23-St Hilaire du Harcouët;294454;2024;87,1;0,4;2,8;65,6;conforme;131750;14998;16;66;2605;Non vérifié;non
+50393;Percy-en-Normandie;50;eau potable : Distribution Centre Manche Bocage;339494;2024;66,3;1,2;2,4;65,5;conforme;278275;43461;45;186;2641;Non vérifié;non
+50394;Périers;50;eau potable;90213;2024;75,8;2,2;6,8;66,4;conforme;31823;31823;37;119;2376;Non vérifié;non
+50395;La Pernelle;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;7451;71;177;286;Non vérifié;non
+50397;Perriers-en-Beauficel;50;eau potable : 33-Sourdeval;90355;2024;94,5;0,1;2,1;65,4;conforme;8176;424;6;17;207;Non vérifié;non
+50398;Le Perron;50;eau potable;98301;2024;69,5;1,1;2,6;65,5;conforme;123188;2084;30;160;188;Non vérifié;non
+50399;Le Petit-Celland;50;eau potable : 41-Reffuveille;90338;2024;84,9;0,3;1,7;65,3;conforme;20408;606;9;67;176;Non vérifié;non
+50400;Picauville;50;eau potable;90346;2024;81,0;1,4;6,1;66,2;conforme;76440;37874;32;83;3228;Non vérifié;non
+50401;Pierreville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;13692;50;127;757;Non vérifié;non
+50402;Les Pieux;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;58767;50;127;3249;Non vérifié;non
+50403;Pirou;50;eau potable : 05-Créances-Pirou;90312;2024;73,9;1,9;5,3;66,1;conforme;70043;29613;54;131;1514;Non vérifié;non
+50405;Le Plessis-Lastelle;50;eau potable;90304;2024;93,0;0,6;7,7;66,5;conforme;75555;1536;18;29;237;Non vérifié;non
+50407;Poilley;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;5829;16;62;969;Non vérifié;non
+50408;Pontaubault;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;3483;16;62;579;Non vérifié;non
+50409;Pont-Hébert;50;eau potable : Secteur  ST JEAN de DAYE;90342;2024;75,0;1,5;4,4;65,9;conforme;64660;23426;34;166;1897;Non vérifié;non
+50410;Pontorson;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;25747;16;62;4280;Non vérifié;non
+50411;Ponts;50;eau potable : distribution Avranches Nord;226054;2024;77,1;0,6;2,2;65,4;conforme;40839;8210;32;101;708;Non vérifié;non
+50412;Port-Bail-sur-Mer;50;eau potable : AEP - SAUR;323374;2024;67,5;1,8;3,6;65,7;conforme;633046;78442;85;183;2520;Non vérifié;non
+50413;Précey;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;3363;16;62;559;Non vérifié;non
+50417;Quettehou;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;47178;71;177;1811;Non vérifié;non
+50419;Quettreville-sur-Sienne;50;eau potable : Distribution Centre Manche Bocage;339494;2024;66,3;1,2;2,4;65,5;conforme;278275;52117;45;186;3167;Non vérifié;non
+50420;Quibou;50;eau potable : Secteur La CHAPELLE sur VIRE;90309;2024;76,1;1,1;3,5;65,7;conforme;310231;12373;40;116;858;Non vérifié;non
+50421;Quinéville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;4667;50;127;258;Non vérifié;non
+50422;Raids;50;eau potable : 07-Sainteny;90352;2024;92,2;0,7;7,8;66,6;conforme;26700;2520;32;33;216;Non vérifié;non
+50423;Rampan;50;eau potable : Secteur SAINT-LÔ;90319;2024;84,7;2,7;14,8;68,0;conforme;331473;2634;31;89;230;Non vérifié;non
+50425;Rauville-la-Bigot;50;eau potable : AEP - SAUR;323374;2024;67,5;1,8;3,6;65,7;conforme;633046;33680;85;183;1082;Non vérifié;non
+50426;Rauville-la-Place;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;7217;50;127;399;Non vérifié;non
+50428;Reffuveille;50;eau potable : 41-Reffuveille;90338;2024;84,9;0,3;1,7;65,3;conforme;20408;1894;9;67;550;Non vérifié;non
+50429;Regnéville-sur-Mer;50;eau potable : 14-Montmartin;90331;2024;79,4;1,2;4,7;65,9;conforme;108466;8869;33;102;730;Non vérifié;non
+50430;Reigneville-Bocage;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;615;50;127;34;Non vérifié;non
+50431;Remilly Les Marais;50;eau potable : 09-Tribehou;90165;2024;77,8;0,9;3,2;65,6;conforme;31142;14686;38;102;1062;Non vérifié;non
+50433;Réville;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;27093;71;177;1040;Non vérifié;non
+50435;Rocheville;50;eau potable : AEP - SAUR;323374;2024;67,5;1,8;3,6;65,7;conforme;633046;19299;85;183;620;Non vérifié;non
+50436;Romagny Fontenay;50;eau potable : 23-St Hilaire du Harcouët;294454;2024;87,1;0,4;2,8;65,6;conforme;131750;7156;16;66;1243;Non vérifié;non
+50437;Roncey;50;eau potable : Distribution Centre Manche Bocage;339494;2024;66,3;1,2;2,4;65,5;conforme;278275;12671;45;186;770;Non vérifié;non
+50442;Le Rozel;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;4667;50;127;258;Non vérifié;non
+50443;Sacey;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;3056;16;62;508;Non vérifié;non
+50444;Saint-Amand-Villages;50;eau potable;98301;2024;69,5;1,1;2,6;65,5;conforme;123188;27990;30;160;2525;Non vérifié;non
+50445;Saint-André-de-Bohon;50;eau potable : 07-Sainteny;90352;2024;92,2;0,7;7,8;66,6;conforme;26700;4374;32;33;375;Non vérifié;non
+50446;Saint-André-de-l'Épine;50;eau potable : Secteur  St Clair sur Elle;90308;2024;79,3;1,1;4,2;65,8;conforme;195298;6197;31;120;555;Non vérifié;non
+50447;Saint-Aubin-des-Préaux;50;eau potable : distribution Granville Avranches;252954;2024;92,4;1,2;14,5;67,9;conforme;168972;2133;12;32;488;Non vérifié;non
+50448;Saint-Aubin-de-Terregatte;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;3880;16;62;645;Non vérifié;non
+50450;Saint-Barthélemy;50;eau potable : 29-St Barthélémy-Le Neufbourg;90339;2024;77,7;0,7;2,6;65,5;conforme;8176;3784;30;105;342;Non vérifié;non
+50451;Saint-Brice;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;842;16;62;140;Non vérifié;non
+50452;Saint-Brice-de-Landelles;50;eau potable : 23-St Hilaire du Harcouët;294454;2024;87,1;0,4;2,8;65,6;conforme;131750;3754;16;66;652;Non vérifié;non
+50453;Sainte-Cécile;50;eau potable : 17-Villedieu-Ouest;90360;2024;82,4;1,5;7,1;66,4;conforme;128153;18617;64;85;792;Non vérifié;non
+50454;Saint-Christophe-du-Foc;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;7398;50;127;409;Non vérifié;non
+50455;Saint-Clair-sur-l'Elle;50;eau potable : Secteur  St Clair sur Elle;90308;2024;79,3;1,1;4,2;65,8;conforme;195298;10708;31;120;959;Non vérifié;non
+50456;Saint-Clément-Rancoudray;50;eau potable : 30-St-Clément-Rancoudray;90234;2024;71,6;0,6;1,5;65,3;conforme;13797;13797;68;170;555;Non vérifié;non
+50457;Sainte-Colombe;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;3274;50;127;181;Non vérifié;non
+50461;Saint-Cyr-Bocage;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;5549;71;177;213;Non vérifié;non
+50462;Saint-Cyr-du-Bailleul;50;eau potable : 26-Teilleul;90356;2024;77,5;0,4;1,4;65,3;conforme;26630;4480;36;101;345;Non vérifié;non
+50463;Saint-Denis-le-Gast;50;eau potable : 15-Cérences;90306;2024;76,6;1,7;5,5;66,1;conforme;206124;10908;56;168;530;Non vérifié;non
+50464;Saint-Denis-le-Vêtu;50;eau potable : Distribution Centre Manche Bocage;339494;2024;66,3;1,2;2,4;65,5;conforme;278275;9709;45;186;590;Non vérifié;non
+50467;Saint-Floxel;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;8845;50;127;489;Non vérifié;non
+50468;Saint-Fromond;50;eau potable : Secteur  ST JEAN de DAYE;90342;2024;75,0;1,5;4,4;65,9;conforme;64660;9361;34;166;758;Non vérifié;non
+50469;Sainte-Geneviève;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;7789;71;177;299;Non vérifié;non
+50471;Saint-Georges-de-la-Rivière;50;eau potable : AEP - SAUR;323374;2024;67,5;1,8;3,6;65,7;conforme;633046;7782;85;183;250;Non vérifié;non
+50472;Saint-Georges-de-Livoye;50;eau potable : 37-Brécey;90362;2024;73,8;1,3;3,6;65,7;conforme;52252;3818;51;133;204;Non vérifié;non
+50473;Saint-Georges-d'Elle;50;eau potable : Secteur  St Clair sur Elle;90308;2024;79,3;1,1;4,2;65,8;conforme;195298;4243;31;120;380;Non vérifié;non
+50474;Saint-Georges-de-Rouelley;50;eau potable : 27-Barenton;90379;2024;83,8;0,3;1,7;65,3;conforme;24359;1897;10;68;515;Non vérifié;non
+50475;Saint-Georges-Montcocq;50;eau potable : Secteur SAINT-LÔ;90319;2024;84,7;2,7;14,8;68,0;conforme;331473;11314;31;89;988;Non vérifié;non
+50476;Saint-Germain-d'Elle;50;eau potable : Secteur  St Clair sur Elle;90308;2024;79,3;1,1;4,2;65,8;conforme;195298;2334;31;120;209;Non vérifié;non
+50478;Saint-Germain-de-Tournebut;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;10889;71;177;418;Non vérifié;non
+50479;Saint-Germain-de-Varreville;50;eau potable : Distribution;221357;2024;83,8;1,4;7,4;66,5;conforme;83533;621;16;76;109;Non vérifié;non
+50480;Saint-Germain-le-Gaillard;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;14488;50;127;801;Non vérifié;non
+50481;Saint-Germain-sur-Ay;50;eau potable : Distibution;221354;2024;79,2;1,0;3,8;65,8;conforme;87337;9408;28;98;926;Non vérifié;non
+50482;Saint-Germain-sur-Sèves;50;eau potable : 07-Sainteny;90352;2024;92,2;0,7;7,8;66,6;conforme;26700;2111;32;33;181;Non vérifié;non
+50483;Saint-Gilles;50;eau potable : Secteur MARIGNY;216217;2024;82,8;0,9;4,1;65,8;conforme;57225;9237;25;80;1030;Non vérifié;non
+50484;Saint-Hilaire-du-Harcouët;50;eau potable : 23-St Hilaire du Harcouët;294454;2024;87,1;0,4;2,8;65,6;conforme;131750;33220;16;66;5770;Non vérifié;non
+50486;Saint-Jacques-de-Néhou;50;eau potable : AEP - SAUR;323374;2024;67,5;1,8;3,6;65,7;conforme;633046;19455;85;183;625;Non vérifié;non
+50487;Saint-James;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;30186;16;62;5018;Non vérifié;non
+50488;Saint-Jean-de-Daye;50;eau potable : Secteur  ST JEAN de DAYE;90342;2024;75,0;1,5;4,4;65,9;conforme;64660;8101;34;166;656;Non vérifié;non
+50489;Saint-Jean-de-la-Haize;50;eau potable : distribution Avranches Nord;226054;2024;77,1;0,6;2,2;65,4;conforme;40839;6204;32;101;535;Non vérifié;non
+50490;Saint-Jean-de-la-Rivière;50;eau potable : AEP - SAUR;323374;2024;67,5;1,8;3,6;65,7;conforme;633046;11299;85;183;363;Non vérifié;non
+50491;Saint-Jean-de-Savigny;50;eau potable : Secteur  St Clair sur Elle;90308;2024;79,3;1,1;4,2;65,8;conforme;195298;4645;31;120;416;Non vérifié;non
+50492;Saint-Jean-d'Elle;50;eau potable;98301;2024;69,5;1,1;2,6;65,5;conforme;123188;27890;30;160;2516;Non vérifié;non
+50493;Saint-Jean-des-Champs;50;eau potable : distribution Granville Avranches;252954;2024;92,4;1,2;14,5;67,9;conforme;168972;6705;12;32;1534;Non vérifié;non
+50495;Saint-Jean-du-Corail-des-Bois;50;eau potable : 18-Villedieu-Sud;90361;2024;71,5;0,8;2,0;65,4;conforme;36322;446;17;149;70;Non vérifié;non
+50496;Saint-Jean-le-Thomas;50;eau potable : Service Saint-Jean-Le-Thomas - Distribution;309534;2024;87,2;0,8;5,8;66,2;conforme;4859;1643;11;51;401;Non vérifié;non
+50498;Saint-Joseph;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;21414;71;177;822;Non vérifié;non
+50499;Saint-Laurent-de-Cuves;50;eau potable;90349;2024;66,1;1,7;3,3;65,7;conforme;154089;23743;131;384;496;Non vérifié;non
+50500;Saint-Laurent-de-Terregatte;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;3832;16;62;637;Non vérifié;non
+50502;Saint-Lô;50;eau potable : Secteur SAINT-LÔ;90319;2024;84,7;2,7;14,8;68,0;conforme;331473;222963;31;89;19471;Non vérifié;non
+50504;Saint-Louet-sur-Vire;50;eau potable : Secteur La CHAPELLE sur VIRE;90309;2024;76,1;1,1;3,5;65,7;conforme;310231;3028;40;116;210;Non vérifié;non
+50505;Saint-Loup;50;eau potable : 40-saint-Loup;90257;2024;72,2;2,0;5,2;66,0;conforme;13812;13812;55;180;686;Non vérifié;non
+50506;Saint-Malo-de-la-Lande;50;eau potable : 42-saint-Malo-de-la-Lande;90343;2024;76,2;1,5;4,8;66,0;conforme;164502;3693;22;117;460;Non vérifié;non
+50507;Saint-Marcouf;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;6421;50;127;355;Non vérifié;non
+50509;Sainte-Marie-du-Mont;50;eau potable : Distribution;221357;2024;83,8;1,4;7,4;66,5;conforme;83533;3901;16;76;685;Non vérifié;non
+50510;Saint-Martin-d'Aubigny;50;eau potable : 08-St Sauveur-St Martin;227194;2024;68,9;1,4;3,1;65,6;conforme;196173;12040;54;176;606;Non vérifié;non
+50511;Saint-Martin-d'Audouville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;2858;50;127;158;Non vérifié;non
+50512;Saint-Martin-de-Bonfossé;50;eau potable : Secteur La CHAPELLE sur VIRE;90309;2024;76,1;1,1;3,5;65,7;conforme;310231;7643;40;116;530;Non vérifié;non
+50513;Saint-Martin-de-Cenilly;50;eau potable : Distribution Centre Manche Bocage;339494;2024;66,3;1,2;2,4;65,5;conforme;278275;3423;45;186;208;Non vérifié;non
+50514;Chaulieu;50;eau potable : 33-Sourdeval;90355;2024;94,5;0,1;2,1;65,4;conforme;8176;561;6;17;274;Non vérifié;non
+50517;Saint-Martin-de-Varreville;50;eau potable : Distribution;221357;2024;83,8;1,4;7,4;66,5;conforme;83533;985;16;76;173;Non vérifié;non
+50518;Saint-Martin-le-Bouillant;50;eau potable;90349;2024;66,1;1,7;3,3;65,7;conforme;154089;14408;131;384;301;Non vérifié;non
+50519;Saint-Martin-le-Gréard;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;10961;50;127;606;Non vérifié;non
+50521;Saint-Maur-des-Bois;50;eau potable;90349;2024;66,1;1,7;3,3;65,7;conforme;154089;7324;131;384;153;Non vérifié;non
+50522;Saint-Maurice-en-Cotentin;50;eau potable : AEP - SAUR;323374;2024;67,5;1,8;3,6;65,7;conforme;633046;7875;85;183;253;Non vérifié;non
+50523;Sainte-Mère-Église;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;52382;50;127;2896;Non vérifié;non
+50525;Saint-Michel-de-Montjoie;50;eau potable;90349;2024;66,1;1,7;3,3;65,7;conforme;154089;16371;131;384;342;Non vérifié;non
+50528;Saint-Nicolas-de-Pierrepont;50;eau potable : Distibution;221354;2024;79,2;1,0;3,8;65,8;conforme;87337;3007;28;98;296;Non vérifié;non
+50529;Saint-Nicolas-des-Bois;50;eau potable : 37-Brécey;90362;2024;73,8;1,3;3,6;65,7;conforme;52252;1834;51;133;98;Non vérifié;non
+50531;Saint-Ovin;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;4584;16;62;762;Non vérifié;non
+50532;Saint-Pair-sur-Mer;50;eau potable : distribution Granville Avranches;252954;2024;92,4;1,2;14,5;67,9;conforme;168972;19700;12;32;4507;Non vérifié;non
+50533;Saint-Patrice-de-Claids;50;eau potable;90304;2024;93,0;0,6;7,7;66,5;conforme;75555;1167;18;29;180;Non vérifié;non
+50535;Le Parc;50;eau potable : distribution Avranches Nord;226054;2024;77,1;0,6;2,2;65,4;conforme;40839;10679;32;101;921;Non vérifié;non
+50536;Saint-Pierre-d'Arthéglise;50;eau potable : AEP - SAUR;323374;2024;67,5;1,8;3,6;65,7;conforme;633046;5354;85;183;172;Non vérifié;non
+50537;Saint-Pierre-de-Coutances;50;eau potable : 43-Saint-Pierre-de-Coutances;90263;2024;80,1;1,1;4,3;65,9;conforme;3614;3614;26;93;387;Non vérifié;non
+50538;Saint-Pierre-de-Semilly;50;eau potable : Secteur  St Clair sur Elle;90308;2024;79,3;1,1;4,2;65,8;conforme;195298;4701;31;120;421;Non vérifié;non
+50539;Saint-Pierre-Église;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;45980;71;177;1765;Non vérifié;non
+50540;Saint-Pierre-Langers;50;eau potable : distribution Champeaux;90307;2024;88,4;0,7;5,2;66,0;conforme;17527;1654;7;73;617;Non vérifié;non
+50541;Saint-Planchers;50;eau potable : distribution Granville Avranches;252954;2024;92,4;1,2;14,5;67,9;conforme;168972;6495;12;32;1486;Non vérifié;non
+50542;Saint-Pois;50;eau potable;90349;2024;66,1;1,7;3,3;65,7;conforme;154089;21732;131;384;454;Non vérifié;non
+50543;Saint-Quentin-sur-le-Homme;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;8049;16;62;1338;Non vérifié;non
+50546;Bourgvallées;50;eau potable : Secteur La CHAPELLE sur VIRE;90309;2024;76,1;1,1;3,5;65,7;conforme;310231;47965;40;116;3326;Non vérifié;non
+50548;Saint-Sauveur-de-Pierrepont;50;eau potable : Distibution;221354;2024;79,2;1,0;3,8;65,8;conforme;87337;1280;28;98;126;Non vérifié;non
+50549;Saint-Sauveur-la-Pommeraye;50;eau potable;90326;2024;66,0;1,5;3,0;65,6;conforme;139065;4407;30;200;397;Non vérifié;non
+50550;Saint-Sauveur-Villages;50;eau potable : 08-St Sauveur-St Martin;227194;2024;68,9;1,4;3,1;65,6;conforme;196173;63735;54;176;3208;Non vérifié;non
+50551;Saint-Sauveur-le-Vicomte;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;38237;50;127;2114;Non vérifié;non
+50552;Saint-Sébastien-de-Raids;50;eau potable : 08-St Sauveur-St Martin;227194;2024;68,9;1,4;3,1;65,6;conforme;196173;6397;54;176;322;Non vérifié;non
+50553;Saint-Senier-de-Beuvron;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;1949;16;62;324;Non vérifié;non
+50554;Saint-Senier-sous-Avranches;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;8729;16;62;1451;Non vérifié;non
+50556;Sainte-Suzanne-sur-Vire;50;eau potable : Secteur La CHAPELLE sur VIRE;90309;2024;76,1;1,1;3,5;65,7;conforme;310231;9879;40;116;685;Non vérifié;non
+50562;Saint-Vaast-la-Hougue;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;42932;71;177;1648;Non vérifié;non
+50563;Saint-Vigor-des-Monts;50;eau potable : 19-Montbray;90328;2024;58,6;1,4;1,9;65,4;non conforme;60645;15545;150;321;284;Non vérifié;non
+50564;Terre-et-Marais;50;eau potable : 07-Sainteny;90352;2024;92,2;0,7;7,8;66,6;conforme;26700;14825;32;33;1271;Non vérifié;non
+50565;Sartilly-Baie-Bocage;50;eau potable : distribution Sartilly;211341;2024;84,2;0,9;4,8;66,0;conforme;12457;12457;12;68;2778;Non vérifié;non
+50567;Saussemesnil;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;24149;71;177;927;Non vérifié;non
+50568;Saussey;50;eau potable : Distribution Centre Manche Bocage;339494;2024;66,3;1,2;2,4;65,5;conforme;278275;7619;45;186;463;Non vérifié;non
+50569;Savigny;50;eau potable : Distribution Centre Manche Bocage;339494;2024;66,3;1,2;2,4;65,5;conforme;278275;7076;45;186;430;Non vérifié;non
+50570;Savigny-le-Vieux;50;eau potable : 23-St Hilaire du Harcouët;294454;2024;87,1;0,4;2,8;65,6;conforme;131750;2297;16;66;399;Non vérifié;non
+50571;Sébeville;50;eau potable : Distribution;221357;2024;83,8;1,4;7,4;66,5;conforme;83533;194;16;76;34;Non vérifié;non
+50572;Sénoville;50;eau potable : AEP - SAUR;323374;2024;67,5;1,8;3,6;65,7;conforme;633046;5852;85;183;188;Non vérifié;non
+50574;Servon;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;1516;16;62;252;Non vérifié;non
+50575;Sideville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;15483;50;127;856;Non vérifié;non
+50576;Siouville-Hague;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;16840;50;127;931;Non vérifié;non
+50577;Sortosville-en-Beaumont;50;eau potable : AEP - SAUR;323374;2024;67,5;1,8;3,6;65,7;conforme;633046;9245;85;183;297;Non vérifié;non
+50578;Sortosville;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;2084;71;177;80;Non vérifié;non
+50579;Sottevast;50;eau potable : AEP - SAUR;323374;2024;67,5;1,8;3,6;65,7;conforme;633046;45415;85;183;1459;Non vérifié;non
+50580;Sotteville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;8772;50;127;485;Non vérifié;non
+50582;Sourdeval;50;eau potable : 33-Sourdeval;90355;2024;94,5;0,1;2,1;65,4;conforme;8176;6193;6;17;3026;Non vérifié;non
+50584;Subligny;50;eau potable;90326;2024;66,0;1,5;3,0;65,6;conforme;139065;4163;30;200;375;Non vérifié;non
+50585;Surtainville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;21090;50;127;1166;Non vérifié;non
+50587;Taillepied;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;326;50;127;18;Non vérifié;non
+50588;Tamerville;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;18001;71;177;691;Non vérifié;non
+50589;Tanis;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;1612;16;62;268;Non vérifié;non
+50590;Le Tanu;50;eau potable;90326;2024;66,0;1,5;3,0;65,6;conforme;139065;4773;30;200;430;Non vérifié;non
+50591;Le Teilleul;50;eau potable : 23-St Hilaire du Harcouët;294454;2024;87,1;0,4;2,8;65,6;conforme;131750;9822;16;66;1706;Non vérifié;non
+50592;Tessy-Bocage;50;eau potable : Secteur La CHAPELLE sur VIRE;90309;2024;76,1;1,1;3,5;65,7;conforme;310231;31972;40;116;2217;Non vérifié;non
+50593;Teurthéville-Bocage;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;15474;71;177;594;Non vérifié;non
+50594;Teurthéville-Hague;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;18757;50;127;1037;Non vérifié;non
+50596;Théville;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;8076;71;177;310;Non vérifié;non
+50597;Tirepied-sur-Sée;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;5757;16;62;957;Non vérifié;non
+50598;Tocqueville;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;6721;71;177;258;Non vérifié;non
+50599;Tollevast;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;29917;50;127;1654;Non vérifié;non
+50601;Torigny-les-Villes;50;eau potable : Secteur La CHAPELLE sur VIRE;90309;2024;76,1;1,1;3,5;65,7;conforme;310231;64088;40;116;4444;Non vérifié;non
+50603;Tourville-sur-Sienne;50;eau potable : 42-saint-Malo-de-la-Lande;90343;2024;76,2;1,5;4,8;66,0;conforme;164502;6318;22;117;787;Non vérifié;non
+50604;Tréauville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;13005;50;127;719;Non vérifié;non
+50606;Tribehou;50;eau potable : 09-Tribehou;90165;2024;77,8;0,9;3,2;65,6;conforme;31142;7260;38;102;525;Non vérifié;non
+50607;La Trinité;50;eau potable : 18-Villedieu-Sud;90361;2024;71,5;0,8;2,0;65,4;conforme;36322;2582;17;149;405;Non vérifié;non
+50609;Turqueville;50;eau potable : Distribution;221357;2024;83,8;1,4;7,4;66,5;conforme;83533;735;16;76;129;Non vérifié;non
+50610;Urville;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;4950;71;177;190;Non vérifié;non
+50612;Vains;50;eau potable : distribution Vains;211342;2024;98,4;0,1;5,1;66,0;conforme;753;753;3;7;743;Non vérifié;non
+50613;Valcanville;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;10134;71;177;389;Non vérifié;non
+50615;Valognes;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;126052;50;127;6969;Non vérifié;non
+50616;Le Val-Saint-Père;50;eau potable : 21et 22 Baie et Bocage-Prod-Dist;293514;2024;88,7;0,7;5,7;66,1;conforme;242066;11418;16;62;1898;Non vérifié;non
+50617;Varenguebec;50;eau potable;90304;2024;93,0;0,6;7,7;66,5;conforme;75555;2081;18;29;321;Non vérifié;non
+50618;Varouville;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;5627;71;177;216;Non vérifié;non
+50619;Le Vast;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;8362;71;177;321;Non vérifié;non
+50621;Vaudreville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;1393;50;127;77;Non vérifié;non
+50624;La Vendelée;50;eau potable : 42-saint-Malo-de-la-Lande;90343;2024;76,2;1,5;4,8;66,0;conforme;164502;3685;22;117;459;Non vérifié;non
+50626;Ver;50;eau potable : 15-Cérences;90306;2024;76,6;1,7;5,5;66,1;conforme;206124;7944;56;168;386;Non vérifié;non
+50628;Vernix;50;eau potable : 37-Brécey;90362;2024;73,8;1,3;3,6;65,7;conforme;52252;2882;51;133;154;Non vérifié;non
+50629;Vesly;50;eau potable;90304;2024;93,0;0,6;7,7;66,5;conforme;75555;4719;18;29;728;Non vérifié;non
+50633;Le Vicel;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;3100;71;177;119;Non vérifié;non
+50634;Videcosville;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;2423;71;177;93;Non vérifié;non
+50637;Villebaudon;50;eau potable : Distribution Centre Manche Bocage;339494;2024;66,3;1,2;2,4;65,5;conforme;278275;5381;45;186;327;Non vérifié;non
+50639;Villedieu-les-Poêles-Rouffigny;50;eau potable : 18-Villedieu-Sud;90361;2024;71,5;0,8;2,0;65,4;conforme;36322;24880;17;149;3903;Non vérifié;non
+50641;Villiers-Fossard;50;eau potable : Secteur  St Clair sur Elle;90308;2024;79,3;1,1;4,2;65,8;conforme;195298;7213;31;120;646;Non vérifié;non
+50643;Virandeville;50;eau potable : AEP-Régie;320874;2024;74,2;3,3;9,5;66,9;conforme;2471634;14759;50;127;816;Non vérifié;non
+50647;Yquelon;50;eau potable : distribution Granville Avranches;252954;2024;92,4;1,2;14,5;67,9;conforme;168972;5420;12;32;1240;Non vérifié;non
+50648;Yvetot-Bocage;50;eau potable : AEP - VEOLIA;323354;2024;68,0;2,1;4,4;65,9;conforme;664556;31574;71;177;1212;Non vérifié;non

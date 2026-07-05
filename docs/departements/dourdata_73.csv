@@ -7,272 +7,272 @@
 # Méthodologie et code : https://github.com/btaverne/dourdata
 # Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
 # Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
-Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
-73001;Aiguebelette-le-Lac;73;eau potable : EP (depuis 2018);240654;2024;70,1;2,1;4,8;66,0;conforme;638495;8382;90;163;255;Non vérifié
-73003;Grand-Aigueblanche;73;eau potable : Principal;198100;2024;79,3;3,4;13,0;67,6;conforme;247294;132742;96;96;3780;Non vérifié
-73004;Aillon-le-Jeune;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;9275;59;152;430;Non vérifié
-73005;Aillon-le-Vieux;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;4767;59;152;221;Non vérifié
-73006;Aime-la-Plagne;73;eau potable;161161;2024;95,8;2,3;52,5;75,5;conforme;21953;11709;7;16;4385;Non vérifié
-73007;Aiton;73;eau potable;161159;2024;63,6;4,5;7,9;66,6;non conforme;406453;67080;98;208;1874;Non vérifié
-73008;Aix-les-Bains;73;eau potable : EP  Grand Lac - Régie;221205;2024;70,7;6,7;16,2;68,2;conforme;2240078;946268;80;186;32406;Non vérifié
-73010;Entrelacs;73;eau potable : EP  Grand Lac - Régie;221205;2024;70,7;6,7;16,2;68,2;conforme;2240078;188664;80;186;6461;Non vérifié
-73011;Albertville;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;589033;81;178;19978;Non vérifié
-73012;Albiez-le-Jeune;73;eau potable : Regie communautaire 3CMA;161187;2024;73,5;3,8;10,6;67,1;conforme;119448;5263;104;130;139;Non vérifié
-73013;Albiez-Montrond;73;eau potable : Regie communautaire 3CMA;161187;2024;73,5;3,8;10,6;67,1;conforme;119448;13251;104;130;350;Non vérifié
-73014;Allondaz;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;8786;81;178;298;Non vérifié
-73015;Les Allues;73;eau potable : exploitation déléguée;160800;2024;88,6;1,8;13,8;67,8;conforme;69642;69642;110;48;1736;Non vérifié
-73017;Apremont;73;eau potable;160801;2024;79,8;1,4;5,5;66,1;conforme;14339;14339;40;94;979;Non vérifié
-73018;Arbin;73;eau potable;160803;2024;72,0;5,4;13,9;67,8;conforme;15965;15965;52;142;841;Non vérifié
-73019;Argentine;73;eau potable;160806;2024;59,1;3,4;4,9;66,0;non conforme;38471;38471;110;255;959;Non vérifié
-73020;Arith;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;9836;59;152;456;Non vérifié
-73021;Arvillard;73;eau potable;161168;2024;74,2;3,2;9,0;66,8;conforme;190384;16915;54;136;861;Non vérifié
-73022;Attignat-Oncin;73;eau potable : EP (depuis 2018);240654;2024;70,1;2,1;4,8;66,0;conforme;638495;18868;90;163;574;Non vérifié
-73023;Aussois;73;eau potable;160811;2024;90,2;6,0;54,9;76,0;conforme;31755;31755;129;40;676;Non vérifié
-73024;Les Avanchers-Valmorel;73;eau potable : Principal;198100;2024;79,3;3,4;13,0;67,6;conforme;247294;25425;96;96;724;Non vérifié
-73025;Avressieux;73;eau potable : EP (depuis 2018);240654;2024;70,1;2,1;4,8;66,0;conforme;638495;17882;90;163;544;Non vérifié
-73026;Avrieux;73;eau potable;160813;2024;93,9;1,2;18,0;68,6;conforme;2190;2190;16;24;386;Non vérifié
-73027;Ayn;73;eau potable : EP (depuis 2018);240654;2024;70,1;2,1;4,8;66,0;conforme;638495;12886;90;163;392;Non vérifié
-73028;La Balme;73;eau potable;161172;2024;89,1;0,8;6,6;66,3;conforme;61612;2808;21;48;360;Non vérifié
-73029;Barberaz;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;114448;59;152;5306;Non vérifié
-73030;Barby;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;81360;59;152;3772;Non vérifié
-73031;Bassens;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;111622;59;152;5175;Non vérifié
-73032;La Bâthie;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;64157;81;178;2176;Non vérifié
-73033;La Bauche;73;eau potable : EP (depuis 2018);240654;2024;70,1;2,1;4,8;66,0;conforme;638495;17816;90;163;542;Non vérifié
-73034;Beaufort;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;58644;81;178;1989;Non vérifié
-73036;Bellecombe-en-Bauges;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;17105;59;152;793;Non vérifié
-73039;Belmont-Tramonet;73;eau potable : EP (depuis 2018);240654;2024;70,1;2,1;4,8;66,0;conforme;638495;16600;90;163;505;Non vérifié
-73040;Bessans;73;eau potable;160826;2024;91,7;2,3;24,9;70,0;conforme;8781;8781;71;34;341;Non vérifié
-73041;Betton-Bettonet;73;eau potable;161159;2024;63,6;4,5;7,9;66,6;non conforme;406453;10953;98;208;306;Non vérifié
-73042;Billième;73;eau potable;161172;2024;89,1;0,8;6,6;66,3;conforme;61612;2129;21;48;273;Non vérifié
-73043;La Biolle;73;eau potable : DSP VEOLIA  La Biolle;160827;2022;76,0;3,3;10,5;67,1;conforme;40531;40531;38;114;2948;Sans anomalie apparente
-73047;Bonneval-sur-Arc;73;eau potable;160831;2024;93,3;2,2;31,2;71,2;conforme;2529;2529;24;26;285;Non vérifié
-73048;Bonvillard;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;10349;81;178;351;Non vérifié
-73049;Bonvillaret;73;eau potable;206356;2024;32,0;15,6;7,3;66,5;non conforme;645187;24035;428;834;154;Non vérifié
-73050;Bourdeau;73;eau potable : EP  Grand Lac - Régie;221205;2024;70,7;6,7;16,2;68,2;conforme;2240078;16703;80;186;572;Non vérifié
-73051;Le Bourget-du-Lac;73;eau potable : EP  Grand Lac - Régie;221205;2024;70,7;6,7;16,2;68,2;conforme;2240078;152309;80;186;5216;Non vérifié
-73052;Bourget-en-Huile;73;eau potable;161168;2024;74,2;3,2;9,0;66,8;conforme;190384;2790;54;136;142;Non vérifié
-73053;Bourgneuf;73;eau potable;161159;2024;63,6;4,5;7,9;66,6;non conforme;406453;23482;98;208;656;Non vérifié
-73054;Bourg-Saint-Maurice;73;eau potable : Bourg-Saint-Maurice;160839;2023;87,9;4,3;31,0;71,2;conforme;153513;153513;58;51;7270;Sans anomalie apparente
-73055;Bozel;73;eau potable : régie;319534;2024;60,6;10,4;16,0;68,2;non conforme;409968;186900;244;238;2098;Non vérifié
-73057;Brides-les-Bains;73;eau potable : Régie SEMT;225654;2024;67,3;6,5;13,4;67,7;non conforme;273905;11359;70;177;442;Non vérifié
-73058;La Bridoire;73;eau potable : EP (depuis 2018);240654;2024;70,1;2,1;4,8;66,0;conforme;638495;39511;90;163;1202;Non vérifié
-73059;Brison-Saint-Innocent;73;eau potable : EP  Grand Lac - Régie;221205;2024;70,7;6,7;16,2;68,2;conforme;2240078;71395;80;186;2445;Non vérifié
-73061;Césarches;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;13002;81;178;441;Non vérifié
-73063;Cevins;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;20816;81;178;706;Non vérifié
-73064;Challes-les-Eaux;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;121437;59;152;5630;Non vérifié
-73065;Chambéry;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;1293397;59;152;59964;Non vérifié
-73067;La Chambre;73;eau potable;161152;2024;82,7;1,9;9,3;66,9;conforme;32733;13815;31;74;1221;Non vérifié
-73068;Chamousset;73;eau potable;161159;2024;63,6;4,5;7,9;66,6;non conforme;406453;22229;98;208;621;Non vérifié
-73069;Chamoux-sur-Gelon;73;eau potable;161159;2024;63,6;4,5;7,9;66,6;non conforme;406453;34578;98;208;966;Non vérifié
-73070;Champagneux;73;eau potable : EP (depuis 2018);240654;2024;70,1;2,1;4,8;66,0;conforme;638495;22188;90;163;675;Non vérifié
-73071;Champagny-en-Vanoise;73;eau potable : régie;319534;2024;60,6;10,4;16,0;68,2;non conforme;409968;48106;244;238;540;Non vérifié
-73072;Champ-Laurent;73;eau potable;161159;2024;63,6;4,5;7,9;66,6;non conforme;406453;1110;98;208;31;Non vérifié
-73073;Chanaz;73;eau potable : EP  Grand Lac - Régie;221205;2024;70,7;6,7;16,2;68,2;conforme;2240078;16089;80;186;551;Non vérifié
-73074;La Chapelle;73;eau potable;160857;2024;61,7;4,6;7,4;66,5;non conforme;21575;21575;181;226;326;Non vérifié
-73075;La Chapelle-Blanche;73;eau potable;161168;2024;74,2;3,2;9,0;66,8;conforme;190384;11709;54;136;596;Non vérifié
-73076;La Chapelle-du-Mont-du-Chat;73;eau potable : EP  Grand Lac - Régie;221205;2024;70,7;6,7;16,2;68,2;conforme;2240078;7855;80;186;269;Non vérifié
-73077;Les Chapelles;73;eau potable : Les Chapelles;160860;2023;85,0;2,5;14,3;67,9;conforme;7300;7300;35;64;568;Sans anomalie apparente
-73078;La Chapelle-Saint-Martin;73;eau potable;161172;2024;89,1;0,8;6,6;66,3;conforme;61612;1170;21;48;150;Non vérifié
-73079;Châteauneuf;73;eau potable;161159;2024;63,6;4,5;7,9;66,6;non conforme;406453;32251;98;208;901;Non vérifié
-73081;Le Châtelard;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;14797;59;152;686;Non vérifié
-73082;La Chavanne;73;eau potable;161159;2024;63,6;4,5;7,9;66,6;non conforme;406453;25772;98;208;720;Non vérifié
-73083;Les Chavannes-en-Maurienne;73;eau potable;160869;2024;81,7;0,8;3,6;65,7;conforme;2894;2894;36;80;220;Non vérifié
-73084;Chignin;73;eau potable;160870;2024;84,5;1,2;6,5;66,3;conforme;9351;9351;28;67;923;Non vérifié
-73085;Chindrieux;73;eau potable : EP  Grand Lac - Régie;221205;2024;70,7;6,7;16,2;68,2;conforme;2240078;44706;80;186;1531;Non vérifié
-73086;Cléry;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;10821;81;178;367;Non vérifié
-73087;Cognin;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;149995;59;152;6954;Non vérifié
-73088;Cohennoz;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;4039;81;178;137;Non vérifié
-73089;Coise-Saint-Jean-Pied-Gauthier;73;eau potable;161159;2024;63,6;4,5;7,9;66,6;non conforme;406453;46713;98;208;1305;Non vérifié
-73090;La Compôte;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;5888;59;152;273;Non vérifié
-73091;Conjux;73;eau potable : EP  Grand Lac - Régie;221205;2024;70,7;6,7;16,2;68,2;conforme;2240078;6366;80;186;218;Non vérifié
-73092;Corbel;73;eau potable : EP (depuis 2018);240654;2024;70,1;2,1;4,8;66,0;conforme;638495;5292;90;163;161;Non vérifié
-73094;Crest-Voland;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;10201;81;178;346;Non vérifié
-73095;La Croix-de-la-Rochette;73;eau potable;161168;2024;74,2;3,2;9,0;66,8;conforme;190384;7465;54;136;380;Non vérifié
-73096;Cruet;73;eau potable : cruet;217706;2024;69,4;4,0;9,1;66,8;conforme;28032;28032;73;160;1056;Non vérifié
-73097;Curienne;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;15185;59;152;704;Non vérifié
-73098;Les Déserts;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;18226;59;152;845;Non vérifié
-73099;Détrier;73;eau potable;161168;2024;74,2;3,2;9,0;66,8;conforme;190384;8389;54;136;427;Non vérifié
-73100;Domessin;73;eau potable : EP (depuis 2018);240654;2024;70,1;2,1;4,8;66,0;conforme;638495;65907;90;163;2005;Non vérifié
-73101;Doucy-en-Bauges;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;2028;59;152;94;Non vérifié
-73103;Drumettaz-Clarafond;73;eau potable : EP  Grand Lac - Régie;221205;2024;70,7;6,7;16,2;68,2;conforme;2240078;87952;80;186;3012;Non vérifié
-73104;Dullin;73;eau potable : EP (depuis 2018);240654;2024;70,1;2,1;4,8;66,0;conforme;638495;16337;90;163;497;Non vérifié
-73105;Les Échelles;73;eau potable;160890;2024;82,2;2,5;11,4;67,3;conforme;19071;19071;41;81;1286;Non vérifié
-73106;École;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;6579;59;152;305;Non vérifié
-73107;Entremont-le-Vieux;73;eau potable : EP (depuis 2018);240654;2024;70,1;2,1;4,8;66,0;conforme;638495;21301;90;163;648;Non vérifié
-73109;Épierre;73;eau potable;206356;2024;32,0;15,6;7,3;66,5;non conforme;645187;118144;428;834;757;Non vérifié
-73110;Esserts-Blay;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;22260;81;178;755;Non vérifié
-73113;Feissons-sur-Salins;73;eau potable : régie;319534;2024;60,6;10,4;16,0;68,2;non conforme;409968;15590;244;238;175;Non vérifié
-73114;Flumet;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;23558;81;178;799;Non vérifié
-73116;Fontcouverte-la-Toussuire;73;eau potable : DSP - CC ARVAN;215975;2024;84,0;2,2;11,7;67,3;conforme;50059;23702;137;69;473;Non vérifié
-73117;Fourneaux;73;eau potable;160907;2024;69,5;9,8;22,3;69,5;conforme;17527;17527;69;160;701;Non vérifié
-73120;Fréterive;73;eau potable;161159;2024;63,6;4,5;7,9;66,6;non conforme;406453;22909;98;208;640;Non vérifié
-73121;Frontenex;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;56374;81;178;1912;Non vérifié
-73122;Gerbaix;73;eau potable;161172;2024;89,1;0,8;6,6;66,3;conforme;61612;3595;21;48;461;Non vérifié
-73123;La Giettaz;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;11233;81;178;381;Non vérifié
-73124;Gilly-sur-Isère;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;92845;81;178;3149;Non vérifié
-73128;Grésy-sur-Aix;73;eau potable : EP  Grand Lac - Régie;221205;2024;70,7;6,7;16,2;68,2;conforme;2240078;138410;80;186;4740;Non vérifié
-73129;Grésy-sur-Isère;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;35233;81;178;1195;Non vérifié
-73130;Grignon;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;61887;81;178;2099;Non vérifié
-73131;Hautecour;73;eau potable;160923;2024;85,9;0,6;3,4;65,7;conforme;2716;2716;25;64;298;Non vérifié
-73132;Hauteluce;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;21641;81;178;734;Non vérifié
-73133;Hauteville;73;eau potable;161159;2024;63,6;4,5;7,9;66,6;non conforme;406453;12528;98;208;350;Non vérifié
-73135;La Tour-en-Maurienne;73;eau potable : eau potable Pontamafrey;316034;2024;80,5;2,8;11,4;67,3;conforme;4292;4292;11;90;1087;Non vérifié
-73137;Jacob-Bellecombette;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;97041;59;152;4499;Non vérifié
-73138;Jarrier;73;eau potable : Regie communautaire 3CMA;161187;2024;73,5;3,8;10,6;67,1;conforme;119448;19157;104;130;506;Non vérifié
-73139;Jarsy;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;5500;59;152;255;Non vérifié
-73140;Jongieux;73;eau potable;161172;2024;89,1;0,8;6,6;66,3;conforme;61612;2254;21;48;289;Non vérifié
-73141;Laissaud;73;eau potable;161168;2024;74,2;3,2;9,0;66,8;conforme;190384;15284;54;136;778;Non vérifié
-73142;Landry;73;eau potable : Landry;160933;2024;71,8;9,0;22,9;69,6;conforme;44676;44676;151;143;813;Non vérifié
-73145;Lépin-le-Lac;73;eau potable;160937;2024;67,6;3,6;7,6;66,5;conforme;17463;17463;103;173;466;Non vérifié
-73146;Lescheraines;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;17320;59;152;803;Non vérifié
-73147;Loisieux;73;eau potable;161172;2024;89,1;0,8;6,6;66,3;conforme;61612;1841;21;48;236;Non vérifié
-73149;Lucey;73;eau potable;161172;2024;89,1;0,8;6,6;66,3;conforme;61612;2231;21;48;286;Non vérifié
-73150;La Plagne Tarentaise;73;eau potable : Regie communale;221162;2024;76,5;2,5;8,2;66,6;conforme;147697;147697;105;112;3836;Non vérifié
-73151;Porte-de-Savoie;73;eau potable (Les Marches);160943;2024;73,0;3,0;8,0;66,6;conforme;50556;50556;35;136;3974;Non vérifié
-73152;Marcieux;73;eau potable : EP (depuis 2018);240654;2024;70,1;2,1;4,8;66,0;conforme;638495;7889;90;163;240;Non vérifié
-73153;Marthod;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;39686;81;178;1346;Non vérifié
-73154;Mercury;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;103047;81;178;3495;Non vérifié
-73155;Méry;73;eau potable : EP  Grand Lac - Régie;221205;2024;70,7;6,7;16,2;68,2;conforme;2240078;62781;80;186;2150;Non vérifié
-73156;Meyrieux-Trouet;73;eau potable;161172;2024;89,1;0,8;6,6;66,3;conforme;61612;2761;21;48;354;Non vérifié
-73157;Modane;73;eau potable;160949;2024;88,4;2,8;21,1;69,2;conforme;33716;33716;32;48;2849;Non vérifié
-73159;Les Mollettes;73;eau potable;161168;2024;74,2;3,2;9,0;66,8;conforme;190384;17092;54;136;870;Non vérifié
-73160;Montagnole;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;22389;59;152;1038;Non vérifié
-73161;Montagny;73;eau potable : régie;319534;2024;60,6;10,4;16,0;68,2;non conforme;409968;58618;244;238;658;Non vérifié
-73162;Montailleur;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;19784;81;178;671;Non vérifié
-73164;Montcel;73;eau potable : EP  Grand Lac - Régie;221205;2024;70,7;6,7;16,2;68,2;conforme;2240078;32442;80;186;1111;Non vérifié
-73166;Montendry;73;eau potable;161159;2024;63,6;4,5;7,9;66,6;non conforme;406453;1754;98;208;49;Non vérifié
-73168;Montgilbert;73;eau potable;206356;2024;32,0;15,6;7,3;66,5;non conforme;645187;17792;428;834;114;Non vérifié
-73170;Monthion;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;15332;81;178;520;Non vérifié
-73171;Montmélian;73;eau potable;160965;2024;87,7;3,1;22,2;69,4;conforme;29408;29408;20;51;4024;Non vérifié
-73173;Montricher-Albanne;73;eau potable;160968;2024;91,7;1,9;21,2;69,2;conforme;11789;11789;68;33;476;Non vérifié
-73175;Montsapey;73;eau potable;206356;2024;32,0;15,6;7,3;66,5;non conforme;645187;13266;428;834;85;Non vérifié
-73176;Montvalezan;73;eau potable;160972;2024;88,6;3,6;28,2;70,6;conforme;36266;36266;135;47;734;Non vérifié
-73177;Montvernier;73;eau potable;160973;2024;85,0;0,6;5,4;66,1;conforme;1642;1642;19;41;240;Non vérifié
-73178;La Motte-en-Bauges;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;11626;59;152;539;Non vérifié
-73179;La Motte-Servolex;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;260280;59;152;12067;Non vérifié
-73180;Motz;73;eau potable : EP  Grand Lac - Régie;221205;2024;70,7;6,7;16,2;68,2;conforme;2240078;14075;80;186;482;Non vérifié
-73181;Moûtiers;73;eau potable : Régie SEMT;225654;2024;67,3;6,5;13,4;67,7;non conforme;273905;89614;70;177;3487;Non vérifié
-73182;Mouxy;73;eau potable : EP  Grand Lac - Régie;221205;2024;70,7;6,7;16,2;68,2;conforme;2240078;67482;80;186;2311;Non vérifié
-73183;Myans;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;28429;59;152;1318;Non vérifié
-73184;Nances;73;eau potable : EP (depuis 2018);240654;2024;70,1;2,1;4,8;66,0;conforme;638495;18211;90;163;554;Non vérifié
-73186;Notre-Dame-de-Bellecombe;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;13651;81;178;463;Non vérifié
-73187;La Léchère;73;eau potable : Principal;198100;2024;79,3;3,4;13,0;67,6;conforme;247294;89127;96;96;2538;Non vérifié
-73188;Notre-Dame-des-Millières;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;29130;81;178;988;Non vérifié
-73189;Notre-Dame-du-Cruet;73;eau potable;161152;2024;82,7;1,9;9,3;66,9;conforme;32733;2512;31;74;222;Non vérifié
-73190;Notre-Dame-du-Pré;73;eau potable;160987;2024;70,0;5,2;12,2;67,4;conforme;14235;14235;151;155;258;Non vérifié
-73192;Le Noyer;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;4961;59;152;230;Non vérifié
-73193;Ontex;73;eau potable : EP  Grand Lac - Régie;221205;2024;70,7;6,7;16,2;68,2;conforme;2240078;2453;80;186;84;Non vérifié
-73194;Orelle;73;eau potable;160992;2024;0,0;4,3;0,2;65,0;non conforme;25112;25112;212;6261;324;Non vérifié
-73196;Pallud;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;23116;81;178;784;Non vérifié
-73197;Peisey-Nancroix;73;eau potable : Peisey;160995;2024;66,8;9,8;19,7;68,9;non conforme;67105;67105;291;181;632;Non vérifié
-73200;Planaise;73;eau potable;161159;2024;63,6;4,5;7,9;66,6;non conforme;406453;20045;98;208;560;Non vérifié
-73201;Planay;73;eau potable : régie;319534;2024;60,6;10,4;16,0;68,2;non conforme;409968;39375;244;238;442;Non vérifié
-73202;Plancherine;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;13887;81;178;471;Non vérifié
-73204;Le Pont-de-Beauvoisin;73;eau potable : EP (depuis 2018);240654;2024;70,1;2,1;4,8;66,0;conforme;638495;69819;90;163;2124;Non vérifié
-73205;Le Pontet;73;eau potable;161168;2024;74,2;3,2;9,0;66,8;conforme;190384;2613;54;136;133;Non vérifié
-73206;Pralognan-la-Vanoise;73;eau potable : régie;319534;2024;60,6;10,4;16,0;68,2;non conforme;409968;61379;244;238;689;Non vérifié
-73207;Presle;73;eau potable;161168;2024;74,2;3,2;9,0;66,8;conforme;190384;8330;54;136;424;Non vérifié
-73208;Pugny-Chatenod;73;eau potable : EP  Grand Lac - Régie;221205;2024;70,7;6,7;16,2;68,2;conforme;2240078;31274;80;186;1071;Non vérifié
-73210;Puygros;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;8757;59;152;406;Non vérifié
-73211;Queige;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;26654;81;178;904;Non vérifié
-73212;Val-d'Arc;73;eau potable;206356;2024;32,0;15,6;7,3;66,5;non conforme;645187;316195;428;834;2026;Non vérifié
-73213;La Ravoire;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;201287;59;152;9332;Non vérifié
-73214;Rochefort;73;eau potable : EP (depuis 2018);240654;2024;70,1;2,1;4,8;66,0;conforme;638495;8316;90;163;253;Non vérifié
-73215;Valgelon-La Rochette;73;eau potable;161168;2024;74,2;3,2;9,0;66,8;conforme;190384;82648;54;136;4207;Non vérifié
-73216;Rognaix;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;14123;81;178;479;Non vérifié
-73217;Rotherens;73;eau potable;161168;2024;74,2;3,2;9,0;66,8;conforme;190384;7288;54;136;371;Non vérifié
-73218;Ruffieux;73;eau potable : EP  Grand Lac - Régie;221205;2024;70,7;6,7;16,2;68,2;conforme;2240078;23915;80;186;819;Non vérifié
-73219;Saint-Alban-de-Montbel;73;eau potable : EP (depuis 2018);240654;2024;70,1;2,1;4,8;66,0;conforme;638495;22616;90;163;688;Non vérifié
-73220;Saint-Alban-d'Hurtières;73;eau potable;206356;2024;32,0;15,6;7,3;66,5;non conforme;645187;63052;428;834;404;Non vérifié
-73222;Saint-Alban-Leysse;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;145249;59;152;6734;Non vérifié
-73224;Saint-Avre;73;eau potable;161152;2024;82,7;1,9;9,3;66,9;conforme;32733;10466;31;74;925;Non vérifié
-73225;Saint-Baldoph;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;63609;59;152;2949;Non vérifié
-73226;Saint-Béron;73;eau potable : EP (depuis 2018);240654;2024;70,1;2,1;4,8;66,0;conforme;638495;56309;90;163;1713;Non vérifié
-73227;Courchevel;73;eau potable : Régie SEMT;225654;2024;67,3;6,5;13,4;67,7;non conforme;273905;58852;70;177;2290;Non vérifié
-73228;Saint-Cassin;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;22562;59;152;1046;Non vérifié
-73229;Saint-Christophe;73;eau potable;161024;2024;55,1;4,4;5,4;66,1;non conforme;19433;19433;98;299;545;Non vérifié
-73231;Saint-Etienne-de-Cuines;73;eau potable;161029;2024;13,8;31,0;5,0;66,0;non conforme;287401;287401;664;2283;1186;Non vérifié
-73232;Sainte-Foy-Tarentaise;73;eau potable : Sainte-Foy-Tarentaise;161031;2024;89,7;3,0;26,6;70,3;conforme;28404;28404;113;41;686;Non vérifié
-73233;Saint-Franc;73;eau potable : EP (depuis 2018);240654;2024;70,1;2,1;4,8;66,0;conforme;638495;5095;90;163;155;Non vérifié
-73234;Saint-François-de-Sales;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;4098;59;152;190;Non vérifié
-73235;Saint François Longchamp;73;eau potable (MONTGELLAFREY);160959;2024;23,0;2,6;0,8;65,2;non conforme;17082;17082;108;2485;433;Non vérifié
-73236;Saint-Genix-les-Villages;73;eau potable : EP (depuis 2018);240654;2024;70,1;2,1;4,8;66,0;conforme;638495;101737;90;163;3095;Non vérifié
-73237;Saint-Georges-d'Hurtières;73;eau potable;206356;2024;32,0;15,6;7,3;66,5;non conforme;645187;63988;428;834;410;Non vérifié
-73240;Sainte-Hélène-du-Lac;73;eau potable;161159;2024;63,6;4,5;7,9;66,6;non conforme;406453;30605;98;208;855;Non vérifié
-73241;Sainte-Hélène-sur-Isère;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;36796;81;178;1248;Non vérifié
-73242;Saint-Jean-d'Arves;73;eau potable : DSP - CC ARVAN;215975;2024;84,0;2,2;11,7;67,3;conforme;50059;13680;137;69;273;Non vérifié
-73243;Saint-Jean-d'Arvey;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;37121;59;152;1721;Non vérifié
-73245;Saint-Jean-de-Chevelu;73;eau potable;161172;2024;89,1;0,8;6,6;66,3;conforme;61612;6504;21;48;834;Non vérifié
-73246;Saint-Jean-de-Couz;73;eau potable : EP (depuis 2018);240654;2024;70,1;2,1;4,8;66,0;conforme;638495;9993;90;163;304;Non vérifié
-73247;Saint-Jean-de-la-Porte;73;eau potable : Suez;213596;2024;80,3;3,1;12,6;67,5;conforme;74985;14245;39;89;989;Non vérifié
-73248;Saint-Jean-de-Maurienne;73;eau potable;161051;2024;64,9;12,8;23,6;69,7;non conforme;262566;262566;96;198;7524;Non vérifié
-73249;Saint-Jeoire-Prieuré;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;43118;59;152;1999;Non vérifié
-73250;Saint-Julien-Mont-Denis;73;eau potable : Regie communautaire 3CMA;161187;2024;73,5;3,8;10,6;67,1;conforme;119448;57017;104;130;1506;Non vérifié
-73252;Saint-Léger;73;eau potable;161055;2023;60,5;3,1;4,8;66,0;non conforme;10976;10976;117;235;257;Sans anomalie apparente
-73253;Saint-Marcel;73;eau potable;161058;2024;75,9;2,5;7,8;66,6;conforme;20686;20686;93;117;611;Non vérifié
-73254;Sainte-Marie-d'Alvey;73;eau potable : EP (depuis 2018);240654;2024;70,1;2,1;4,8;66,0;conforme;638495;4372;90;163;133;Non vérifié
-73255;Sainte-Marie-de-Cuines;73;eau potable;161061;2024;82,0;1,9;8,8;66,8;conforme;12552;12552;41;79;847;Non vérifié
-73256;Saint-Martin-d'Arc;73;eau potable;161062;2024;87,4;0,7;4,9;66,0;conforme;2627;2627;24;52;298;Non vérifié
-73257;Les Belleville;73;eau potable : Régie SEMT;225654;2024;67,3;6,5;13,4;67,7;non conforme;273905;89897;70;177;3498;Non vérifié
-73258;Saint-Martin-de-la-Porte;73;eau potable;161070;2024;93,2;0,6;8,2;66,6;conforme;3143;3143;12;27;698;Non vérifié
-73259;Saint-Martin-sur-la-Chambre;73;eau potable;161152;2024;82,7;1,9;9,3;66,9;conforme;32733;5940;31;74;525;Non vérifié
-73261;Saint-Michel-de-Maurienne;73;eau potable;161072;2024;82,4;1,4;6,6;66,3;conforme;26332;26332;30;78;2395;Non vérifié
-73262;Saint-Nicolas-la-Chapelle;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;14801;81;178;502;Non vérifié
-73263;Saint-Offenge;73;eau potable : EP  Grand Lac - Régie;221205;2024;70,7;6,7;16,2;68,2;conforme;2240078;34427;80;186;1179;Non vérifié
-73265;Saint-Ours;73;eau potable : EP  Grand Lac - Régie;221205;2024;70,7;6,7;16,2;68,2;conforme;2240078;22630;80;186;775;Non vérifié
-73267;Saint-Pancrace;73;eau potable : Regie communautaire 3CMA;161187;2024;73,5;3,8;10,6;67,1;conforme;119448;11623;104;130;307;Non vérifié
-73268;Saint-Paul-sur-Isère;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;16010;81;178;543;Non vérifié
-73269;Saint-Paul-sur-Yenne;73;eau potable;161172;2024;89,1;0,8;6,6;66,3;conforme;61612;5826;21;48;747;Non vérifié
-73270;Saint-Pierre-d'Albigny;73;eau potable : Suez;213596;2024;80,3;3,1;12,6;67,5;conforme;74985;60739;39;89;4217;Non vérifié
-73271;Saint-Pierre-d'Alvey;73;eau potable;161172;2024;89,1;0,8;6,6;66,3;conforme;61612;2379;21;48;305;Non vérifié
-73272;Saint-Pierre-de-Belleville;73;eau potable;206356;2024;32,0;15,6;7,3;66,5;non conforme;645187;28717;428;834;184;Non vérifié
-73273;Saint-Pierre-de-Curtille;73;eau potable : DSP VEOLIA Saint Pierre de Curtille;248694;2022;89,1;1,0;8,5;66,7;conforme;3650;3650;21;52;472;Sans anomalie apparente
-73274;Saint-Pierre-d'Entremont;73;eau potable : EP (depuis 2018);240654;2024;70,1;2,1;4,8;66,0;conforme;638495;12590;90;163;383;Non vérifié
-73275;Saint-Pierre-de-Genebroz;73;eau potable : EP (depuis 2018);240654;2024;70,1;2,1;4,8;66,0;conforme;638495;10979;90;163;334;Non vérifié
-73276;Saint-Pierre-de-Soucy;73;eau potable;161159;2024;63,6;4,5;7,9;66,6;non conforme;406453;15642;98;208;437;Non vérifié
-73277;Sainte-Reine;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;3818;59;152;177;Non vérifié
-73278;Saint-Rémy-de-Maurienne;73;eau potable;161090;2024;51,2;9,2;9,7;66,9;non conforme;84286;84286;179;347;1289;Non vérifié
-73280;Saint-Sorlin-d'Arves;73;eau potable : Regie communautaire 3CMA;161187;2024;73,5;3,8;10,6;67,1;conforme;119448;13137;104;130;347;Non vérifié
-73281;Saint-Sulpice;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;17709;59;152;821;Non vérifié
-73282;Saint-Thibaud-de-Couz;73;eau potable : EP (depuis 2018);240654;2024;70,1;2,1;4,8;66,0;conforme;638495;36389;90;163;1107;Non vérifié
-73283;Saint-Vital;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;22614;81;178;767;Non vérifié
-73284;Salins-Fontaine;73;eau potable : Régie SEMT;225654;2024;67,3;6,5;13,4;67,7;non conforme;273905;24183;70;177;941;Non vérifié
-73285;Séez;73;eau potable : Séez;161099;2023;43,8;16,4;12,8;67,6;non conforme;137678;137678;153;467;2459;Sans anomalie apparente
-73286;Serrières-en-Chautagne;73;eau potable : EP  Grand Lac - Régie;221205;2024;70,7;6,7;16,2;68,2;conforme;2240078;33756;80;186;1156;Non vérifié
-73288;Sonnaz;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;45943;59;152;2130;Non vérifié
-73289;La Table;73;eau potable;161103;2024;83,5;1,0;5,2;66,0;conforme;6570;6570;40;70;445;Non vérifié
-73290;Val-Cenis;73;eau potable;161104;2024;79,7;6,0;23,5;69,7;conforme;101857;101857;132;93;2112;Non vérifié
-73292;Thénésol;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;9612;81;178;326;Non vérifié
-73293;Thoiry;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;9836;59;152;456;Non vérifié
-73294;La Thuile;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;7614;59;152;353;Non vérifié
-73296;Tignes;73;eau potable : Tignes;161106;2023;89,9;3,9;34,4;71,9;conforme;79716;79716;114;41;1919;Sans anomalie apparente
-73297;Tournon;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;16776;81;178;569;Non vérifié
-73298;Tours-en-Savoie;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;27862;81;178;945;Non vérifié
-73299;Traize;73;eau potable;161172;2024;89,1;0,8;6,6;66,3;conforme;61612;2613;21;48;335;Non vérifié
-73300;Tresserve;73;eau potable : EP  Grand Lac - Régie;221205;2024;70,7;6,7;16,2;68,2;conforme;2240078;84944;80;186;2909;Non vérifié
-73301;Trévignin;73;eau potable : EP  Grand Lac - Régie;221205;2024;70,7;6,7;16,2;68,2;conforme;2240078;25404;80;186;870;Non vérifié
-73302;La Trinité;73;eau potable;161159;2024;63,6;4,5;7,9;66,6;non conforme;406453;13638;98;208;381;Non vérifié
-73303;Ugine;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;210929;81;178;7154;Non vérifié
-73304;Val-d'Isère;73;eau potable : Val-d'Isère;161117;2024;20,7;98,9;25,9;70,2;non conforme;815104;815104;1425;1396;1567;Non vérifié
-73306;Valloire;73;eau potable;161121;2024;57,8;13,4;18,4;68,7;non conforme;194662;194662;501;266;1064;Non vérifié
-73307;Valmeinier;73;eau potable;161124;2024;70,9;10,7;26,1;70,2;conforme;46085;46085;213;151;593;Non vérifié
-73308;Venthon;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;17867;81;178;606;Non vérifié
-73309;Verel-de-Montbel;73;eau potable : EP (depuis 2018);240654;2024;70,1;2,1;4,8;66,0;conforme;638495;11209;90;163;341;Non vérifié
-73310;Verel-Pragondran;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;13805;59;152;640;Non vérifié
-73311;Le Verneil;73;eau potable;161128;2024;100,0;0,0;80,1;81,0;conforme;0;0;0;0;88;Non vérifié
-73312;Verrens-Arvey;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;28275;81;178;959;Non vérifié
-73313;Verthemex;73;eau potable;161172;2024;89,1;0,8;6,6;66,3;conforme;61612;1903;21;48;244;Non vérifié
-73314;Villard-d'Héry;73;eau potable;161159;2024;63,6;4,5;7,9;66,6;non conforme;406453;9665;98;208;270;Non vérifié
-73315;Villard-Léger;73;eau potable;161159;2024;63,6;4,5;7,9;66,6;non conforme;406453;15499;98;208;433;Non vérifié
-73316;Villard-Sallet;73;eau potable;161168;2024;74,2;3,2;9,0;66,8;conforme;190384;6090;54;136;310;Non vérifié
-73317;Villard-sur-Doron;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;20698;81;178;702;Non vérifié
-73318;Villarembert;73;eau potable : DSP - CC ARVAN;215975;2024;84,0;2,2;11,7;67,3;conforme;50059;12678;137;69;253;Non vérifié
-73320;Villargondran;73;eau potable;161135;2024;68,2;2,7;5,8;66,2;conforme;19710;19710;68;169;790;Non vérifié
-73322;Villarodin-Bourget;73;eau potable;161139;2024;71,2;5,8;14,2;67,8;conforme;27944;27944;153;149;499;Non vérifié
-73323;Villaroger;73;eau potable : Villaroger;161142;2023;81,5;8,0;35,1;72,0;conforme;30105;30105;232;83;355;Sans anomalie apparente
-73324;Villaroux;73;eau potable;161168;2024;74,2;3,2;9,0;66,8;conforme;190384;3772;54;136;192;Non vérifié
-73326;Vimines;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;51163;59;152;2372;Non vérifié
-73327;Vions;73;eau potable : DSP VEOLIA  Vions;248634;2022;87,9;0,8;5,6;66,1;conforme;2409;2409;16;52;425;Sans anomalie apparente
-73328;Viviers-du-Lac;73;eau potable : EP  Grand Lac - Régie;221205;2024;70,7;6,7;16,2;68,2;conforme;2240078;68767;80;186;2355;Non vérifié
-73329;Voglans;73;eau potable : EP  Grand Lac - Régie;221205;2024;70,7;6,7;16,2;68,2;conforme;2240078;59014;80;186;2021;Non vérifié
-73330;Yenne;73;eau potable;161172;2024;89,1;0,8;6,6;66,3;conforme;61612;23600;21;48;3026;Non vérifié
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement);Donnée suspecte (voir LISEZMOI)
+73001;Aiguebelette-le-Lac;73;eau potable : EP (depuis 2018);240654;2024;70,1;2,1;4,8;66,0;conforme;638495;8382;90;163;255;Non vérifié;non
+73003;Grand-Aigueblanche;73;eau potable : Principal;198100;2024;79,3;3,4;13,0;67,6;conforme;247294;132742;96;96;3780;Non vérifié;non
+73004;Aillon-le-Jeune;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;9275;59;152;430;Non vérifié;non
+73005;Aillon-le-Vieux;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;4767;59;152;221;Non vérifié;non
+73006;Aime-la-Plagne;73;eau potable;161161;2024;95,8;2,3;52,5;75,5;conforme;21953;11709;7;16;4385;Non vérifié;non
+73007;Aiton;73;eau potable;161159;2024;63,6;4,5;7,9;66,6;non conforme;406453;67080;98;208;1874;Non vérifié;non
+73008;Aix-les-Bains;73;eau potable : EP  Grand Lac - Régie;221205;2024;70,7;6,7;16,2;68,2;conforme;2240078;946268;80;186;32406;Non vérifié;non
+73010;Entrelacs;73;eau potable : EP  Grand Lac - Régie;221205;2024;70,7;6,7;16,2;68,2;conforme;2240078;188664;80;186;6461;Non vérifié;non
+73011;Albertville;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;589033;81;178;19978;Non vérifié;non
+73012;Albiez-le-Jeune;73;eau potable : Regie communautaire 3CMA;161187;2024;73,5;3,8;10,6;67,1;conforme;119448;5263;104;130;139;Non vérifié;non
+73013;Albiez-Montrond;73;eau potable : Regie communautaire 3CMA;161187;2024;73,5;3,8;10,6;67,1;conforme;119448;13251;104;130;350;Non vérifié;non
+73014;Allondaz;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;8786;81;178;298;Non vérifié;non
+73015;Les Allues;73;eau potable : exploitation déléguée;160800;2024;88,6;1,8;13,8;67,8;conforme;69642;69642;110;48;1736;Non vérifié;non
+73017;Apremont;73;eau potable;160801;2024;79,8;1,4;5,5;66,1;conforme;14339;14339;40;94;979;Non vérifié;non
+73018;Arbin;73;eau potable;160803;2024;72,0;5,4;13,9;67,8;conforme;15965;15965;52;142;841;Non vérifié;non
+73019;Argentine;73;eau potable;160806;2024;59,1;3,4;4,9;66,0;non conforme;38471;38471;110;255;959;Non vérifié;non
+73020;Arith;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;9836;59;152;456;Non vérifié;non
+73021;Arvillard;73;eau potable;161168;2024;74,2;3,2;9,0;66,8;conforme;190384;16915;54;136;861;Non vérifié;non
+73022;Attignat-Oncin;73;eau potable : EP (depuis 2018);240654;2024;70,1;2,1;4,8;66,0;conforme;638495;18868;90;163;574;Non vérifié;non
+73023;Aussois;73;eau potable;160811;2024;90,2;6,0;54,9;76,0;conforme;31755;31755;129;40;676;Non vérifié;non
+73024;Les Avanchers-Valmorel;73;eau potable : Principal;198100;2024;79,3;3,4;13,0;67,6;conforme;247294;25425;96;96;724;Non vérifié;non
+73025;Avressieux;73;eau potable : EP (depuis 2018);240654;2024;70,1;2,1;4,8;66,0;conforme;638495;17882;90;163;544;Non vérifié;non
+73026;Avrieux;73;eau potable;160813;2024;93,9;1,2;18,0;68,6;conforme;2190;2190;16;24;386;Non vérifié;non
+73027;Ayn;73;eau potable : EP (depuis 2018);240654;2024;70,1;2,1;4,8;66,0;conforme;638495;12886;90;163;392;Non vérifié;non
+73028;La Balme;73;eau potable;161172;2024;89,1;0,8;6,6;66,3;conforme;61612;2808;21;48;360;Non vérifié;non
+73029;Barberaz;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;114448;59;152;5306;Non vérifié;non
+73030;Barby;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;81360;59;152;3772;Non vérifié;non
+73031;Bassens;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;111622;59;152;5175;Non vérifié;non
+73032;La Bâthie;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;64157;81;178;2176;Non vérifié;non
+73033;La Bauche;73;eau potable : EP (depuis 2018);240654;2024;70,1;2,1;4,8;66,0;conforme;638495;17816;90;163;542;Non vérifié;non
+73034;Beaufort;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;58644;81;178;1989;Non vérifié;non
+73036;Bellecombe-en-Bauges;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;17105;59;152;793;Non vérifié;non
+73039;Belmont-Tramonet;73;eau potable : EP (depuis 2018);240654;2024;70,1;2,1;4,8;66,0;conforme;638495;16600;90;163;505;Non vérifié;non
+73040;Bessans;73;eau potable;160826;2024;91,7;2,3;24,9;70,0;conforme;8781;8781;71;34;341;Non vérifié;non
+73041;Betton-Bettonet;73;eau potable;161159;2024;63,6;4,5;7,9;66,6;non conforme;406453;10953;98;208;306;Non vérifié;non
+73042;Billième;73;eau potable;161172;2024;89,1;0,8;6,6;66,3;conforme;61612;2129;21;48;273;Non vérifié;non
+73043;La Biolle;73;eau potable : DSP VEOLIA  La Biolle;160827;2022;76,0;3,3;10,5;67,1;conforme;40531;40531;38;114;2948;Sans anomalie apparente;non
+73047;Bonneval-sur-Arc;73;eau potable;160831;2024;93,3;2,2;31,2;71,2;conforme;2529;2529;24;26;285;Non vérifié;non
+73048;Bonvillard;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;10349;81;178;351;Non vérifié;non
+73049;Bonvillaret;73;eau potable;206356;2024;32,0;15,6;7,3;66,5;non conforme;645187;24035;428;834;154;Non vérifié;non
+73050;Bourdeau;73;eau potable : EP  Grand Lac - Régie;221205;2024;70,7;6,7;16,2;68,2;conforme;2240078;16703;80;186;572;Non vérifié;non
+73051;Le Bourget-du-Lac;73;eau potable : EP  Grand Lac - Régie;221205;2024;70,7;6,7;16,2;68,2;conforme;2240078;152309;80;186;5216;Non vérifié;non
+73052;Bourget-en-Huile;73;eau potable;161168;2024;74,2;3,2;9,0;66,8;conforme;190384;2790;54;136;142;Non vérifié;non
+73053;Bourgneuf;73;eau potable;161159;2024;63,6;4,5;7,9;66,6;non conforme;406453;23482;98;208;656;Non vérifié;non
+73054;Bourg-Saint-Maurice;73;eau potable : Bourg-Saint-Maurice;160839;2023;87,9;4,3;31,0;71,2;conforme;153513;153513;58;51;7270;Sans anomalie apparente;non
+73055;Bozel;73;eau potable : régie;319534;2024;60,6;10,4;16,0;68,2;non conforme;409968;186900;244;238;2098;Non vérifié;non
+73057;Brides-les-Bains;73;eau potable : Régie SEMT;225654;2024;67,3;6,5;13,4;67,7;non conforme;273905;11359;70;177;442;Non vérifié;non
+73058;La Bridoire;73;eau potable : EP (depuis 2018);240654;2024;70,1;2,1;4,8;66,0;conforme;638495;39511;90;163;1202;Non vérifié;non
+73059;Brison-Saint-Innocent;73;eau potable : EP  Grand Lac - Régie;221205;2024;70,7;6,7;16,2;68,2;conforme;2240078;71395;80;186;2445;Non vérifié;non
+73061;Césarches;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;13002;81;178;441;Non vérifié;non
+73063;Cevins;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;20816;81;178;706;Non vérifié;non
+73064;Challes-les-Eaux;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;121437;59;152;5630;Non vérifié;non
+73065;Chambéry;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;1293397;59;152;59964;Non vérifié;non
+73067;La Chambre;73;eau potable;161152;2024;82,7;1,9;9,3;66,9;conforme;32733;13815;31;74;1221;Non vérifié;non
+73068;Chamousset;73;eau potable;161159;2024;63,6;4,5;7,9;66,6;non conforme;406453;22229;98;208;621;Non vérifié;non
+73069;Chamoux-sur-Gelon;73;eau potable;161159;2024;63,6;4,5;7,9;66,6;non conforme;406453;34578;98;208;966;Non vérifié;non
+73070;Champagneux;73;eau potable : EP (depuis 2018);240654;2024;70,1;2,1;4,8;66,0;conforme;638495;22188;90;163;675;Non vérifié;non
+73071;Champagny-en-Vanoise;73;eau potable : régie;319534;2024;60,6;10,4;16,0;68,2;non conforme;409968;48106;244;238;540;Non vérifié;non
+73072;Champ-Laurent;73;eau potable;161159;2024;63,6;4,5;7,9;66,6;non conforme;406453;1110;98;208;31;Non vérifié;non
+73073;Chanaz;73;eau potable : EP  Grand Lac - Régie;221205;2024;70,7;6,7;16,2;68,2;conforme;2240078;16089;80;186;551;Non vérifié;non
+73074;La Chapelle;73;eau potable;160857;2024;61,7;4,6;7,4;66,5;non conforme;21575;21575;181;226;326;Non vérifié;non
+73075;La Chapelle-Blanche;73;eau potable;161168;2024;74,2;3,2;9,0;66,8;conforme;190384;11709;54;136;596;Non vérifié;non
+73076;La Chapelle-du-Mont-du-Chat;73;eau potable : EP  Grand Lac - Régie;221205;2024;70,7;6,7;16,2;68,2;conforme;2240078;7855;80;186;269;Non vérifié;non
+73077;Les Chapelles;73;eau potable : Les Chapelles;160860;2023;85,0;2,5;14,3;67,9;conforme;7300;7300;35;64;568;Sans anomalie apparente;non
+73078;La Chapelle-Saint-Martin;73;eau potable;161172;2024;89,1;0,8;6,6;66,3;conforme;61612;1170;21;48;150;Non vérifié;non
+73079;Châteauneuf;73;eau potable;161159;2024;63,6;4,5;7,9;66,6;non conforme;406453;32251;98;208;901;Non vérifié;non
+73081;Le Châtelard;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;14797;59;152;686;Non vérifié;non
+73082;La Chavanne;73;eau potable;161159;2024;63,6;4,5;7,9;66,6;non conforme;406453;25772;98;208;720;Non vérifié;non
+73083;Les Chavannes-en-Maurienne;73;eau potable;160869;2024;81,7;0,8;3,6;65,7;conforme;2894;2894;36;80;220;Non vérifié;non
+73084;Chignin;73;eau potable;160870;2024;84,5;1,2;6,5;66,3;conforme;9351;9351;28;67;923;Non vérifié;non
+73085;Chindrieux;73;eau potable : EP  Grand Lac - Régie;221205;2024;70,7;6,7;16,2;68,2;conforme;2240078;44706;80;186;1531;Non vérifié;non
+73086;Cléry;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;10821;81;178;367;Non vérifié;non
+73087;Cognin;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;149995;59;152;6954;Non vérifié;non
+73088;Cohennoz;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;4039;81;178;137;Non vérifié;non
+73089;Coise-Saint-Jean-Pied-Gauthier;73;eau potable;161159;2024;63,6;4,5;7,9;66,6;non conforme;406453;46713;98;208;1305;Non vérifié;non
+73090;La Compôte;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;5888;59;152;273;Non vérifié;non
+73091;Conjux;73;eau potable : EP  Grand Lac - Régie;221205;2024;70,7;6,7;16,2;68,2;conforme;2240078;6366;80;186;218;Non vérifié;non
+73092;Corbel;73;eau potable : EP (depuis 2018);240654;2024;70,1;2,1;4,8;66,0;conforme;638495;5292;90;163;161;Non vérifié;non
+73094;Crest-Voland;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;10201;81;178;346;Non vérifié;non
+73095;La Croix-de-la-Rochette;73;eau potable;161168;2024;74,2;3,2;9,0;66,8;conforme;190384;7465;54;136;380;Non vérifié;non
+73096;Cruet;73;eau potable : cruet;217706;2024;69,4;4,0;9,1;66,8;conforme;28032;28032;73;160;1056;Non vérifié;non
+73097;Curienne;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;15185;59;152;704;Non vérifié;non
+73098;Les Déserts;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;18226;59;152;845;Non vérifié;non
+73099;Détrier;73;eau potable;161168;2024;74,2;3,2;9,0;66,8;conforme;190384;8389;54;136;427;Non vérifié;non
+73100;Domessin;73;eau potable : EP (depuis 2018);240654;2024;70,1;2,1;4,8;66,0;conforme;638495;65907;90;163;2005;Non vérifié;non
+73101;Doucy-en-Bauges;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;2028;59;152;94;Non vérifié;non
+73103;Drumettaz-Clarafond;73;eau potable : EP  Grand Lac - Régie;221205;2024;70,7;6,7;16,2;68,2;conforme;2240078;87952;80;186;3012;Non vérifié;non
+73104;Dullin;73;eau potable : EP (depuis 2018);240654;2024;70,1;2,1;4,8;66,0;conforme;638495;16337;90;163;497;Non vérifié;non
+73105;Les Échelles;73;eau potable;160890;2024;82,2;2,5;11,4;67,3;conforme;19071;19071;41;81;1286;Non vérifié;non
+73106;École;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;6579;59;152;305;Non vérifié;non
+73107;Entremont-le-Vieux;73;eau potable : EP (depuis 2018);240654;2024;70,1;2,1;4,8;66,0;conforme;638495;21301;90;163;648;Non vérifié;non
+73109;Épierre;73;eau potable;206356;2024;32,0;15,6;7,3;66,5;non conforme;645187;118144;428;834;757;Non vérifié;non
+73110;Esserts-Blay;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;22260;81;178;755;Non vérifié;non
+73113;Feissons-sur-Salins;73;eau potable : régie;319534;2024;60,6;10,4;16,0;68,2;non conforme;409968;15590;244;238;175;Non vérifié;non
+73114;Flumet;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;23558;81;178;799;Non vérifié;non
+73116;Fontcouverte-la-Toussuire;73;eau potable : DSP - CC ARVAN;215975;2024;84,0;2,2;11,7;67,3;conforme;50059;23702;137;69;473;Non vérifié;non
+73117;Fourneaux;73;eau potable;160907;2024;69,5;9,8;22,3;69,5;conforme;17527;17527;69;160;701;Non vérifié;non
+73120;Fréterive;73;eau potable;161159;2024;63,6;4,5;7,9;66,6;non conforme;406453;22909;98;208;640;Non vérifié;non
+73121;Frontenex;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;56374;81;178;1912;Non vérifié;non
+73122;Gerbaix;73;eau potable;161172;2024;89,1;0,8;6,6;66,3;conforme;61612;3595;21;48;461;Non vérifié;non
+73123;La Giettaz;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;11233;81;178;381;Non vérifié;non
+73124;Gilly-sur-Isère;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;92845;81;178;3149;Non vérifié;non
+73128;Grésy-sur-Aix;73;eau potable : EP  Grand Lac - Régie;221205;2024;70,7;6,7;16,2;68,2;conforme;2240078;138410;80;186;4740;Non vérifié;non
+73129;Grésy-sur-Isère;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;35233;81;178;1195;Non vérifié;non
+73130;Grignon;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;61887;81;178;2099;Non vérifié;non
+73131;Hautecour;73;eau potable;160923;2024;85,9;0,6;3,4;65,7;conforme;2716;2716;25;64;298;Non vérifié;non
+73132;Hauteluce;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;21641;81;178;734;Non vérifié;non
+73133;Hauteville;73;eau potable;161159;2024;63,6;4,5;7,9;66,6;non conforme;406453;12528;98;208;350;Non vérifié;non
+73135;La Tour-en-Maurienne;73;eau potable : eau potable Pontamafrey;316034;2024;80,5;2,8;11,4;67,3;conforme;4292;4292;11;90;1087;Non vérifié;non
+73137;Jacob-Bellecombette;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;97041;59;152;4499;Non vérifié;non
+73138;Jarrier;73;eau potable : Regie communautaire 3CMA;161187;2024;73,5;3,8;10,6;67,1;conforme;119448;19157;104;130;506;Non vérifié;non
+73139;Jarsy;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;5500;59;152;255;Non vérifié;non
+73140;Jongieux;73;eau potable;161172;2024;89,1;0,8;6,6;66,3;conforme;61612;2254;21;48;289;Non vérifié;non
+73141;Laissaud;73;eau potable;161168;2024;74,2;3,2;9,0;66,8;conforme;190384;15284;54;136;778;Non vérifié;non
+73142;Landry;73;eau potable : Landry;160933;2024;71,8;9,0;22,9;69,6;conforme;44676;44676;151;143;813;Non vérifié;non
+73145;Lépin-le-Lac;73;eau potable;160937;2024;67,6;3,6;7,6;66,5;conforme;17463;17463;103;173;466;Non vérifié;non
+73146;Lescheraines;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;17320;59;152;803;Non vérifié;non
+73147;Loisieux;73;eau potable;161172;2024;89,1;0,8;6,6;66,3;conforme;61612;1841;21;48;236;Non vérifié;non
+73149;Lucey;73;eau potable;161172;2024;89,1;0,8;6,6;66,3;conforme;61612;2231;21;48;286;Non vérifié;non
+73150;La Plagne Tarentaise;73;eau potable : Regie communale;221162;2024;76,5;2,5;8,2;66,6;conforme;147697;147697;105;112;3836;Non vérifié;non
+73151;Porte-de-Savoie;73;eau potable (Les Marches);160943;2024;73,0;3,0;8,0;66,6;conforme;50556;50556;35;136;3974;Non vérifié;non
+73152;Marcieux;73;eau potable : EP (depuis 2018);240654;2024;70,1;2,1;4,8;66,0;conforme;638495;7889;90;163;240;Non vérifié;non
+73153;Marthod;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;39686;81;178;1346;Non vérifié;non
+73154;Mercury;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;103047;81;178;3495;Non vérifié;non
+73155;Méry;73;eau potable : EP  Grand Lac - Régie;221205;2024;70,7;6,7;16,2;68,2;conforme;2240078;62781;80;186;2150;Non vérifié;non
+73156;Meyrieux-Trouet;73;eau potable;161172;2024;89,1;0,8;6,6;66,3;conforme;61612;2761;21;48;354;Non vérifié;non
+73157;Modane;73;eau potable;160949;2024;88,4;2,8;21,1;69,2;conforme;33716;33716;32;48;2849;Non vérifié;non
+73159;Les Mollettes;73;eau potable;161168;2024;74,2;3,2;9,0;66,8;conforme;190384;17092;54;136;870;Non vérifié;non
+73160;Montagnole;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;22389;59;152;1038;Non vérifié;non
+73161;Montagny;73;eau potable : régie;319534;2024;60,6;10,4;16,0;68,2;non conforme;409968;58618;244;238;658;Non vérifié;non
+73162;Montailleur;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;19784;81;178;671;Non vérifié;non
+73164;Montcel;73;eau potable : EP  Grand Lac - Régie;221205;2024;70,7;6,7;16,2;68,2;conforme;2240078;32442;80;186;1111;Non vérifié;non
+73166;Montendry;73;eau potable;161159;2024;63,6;4,5;7,9;66,6;non conforme;406453;1754;98;208;49;Non vérifié;non
+73168;Montgilbert;73;eau potable;206356;2024;32,0;15,6;7,3;66,5;non conforme;645187;17792;428;834;114;Non vérifié;non
+73170;Monthion;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;15332;81;178;520;Non vérifié;non
+73171;Montmélian;73;eau potable;160965;2024;87,7;3,1;22,2;69,4;conforme;29408;29408;20;51;4024;Non vérifié;non
+73173;Montricher-Albanne;73;eau potable;160968;2024;91,7;1,9;21,2;69,2;conforme;11789;11789;68;33;476;Non vérifié;non
+73175;Montsapey;73;eau potable;206356;2024;32,0;15,6;7,3;66,5;non conforme;645187;13266;428;834;85;Non vérifié;non
+73176;Montvalezan;73;eau potable;160972;2024;88,6;3,6;28,2;70,6;conforme;36266;36266;135;47;734;Non vérifié;non
+73177;Montvernier;73;eau potable;160973;2024;85,0;0,6;5,4;66,1;conforme;1642;1642;19;41;240;Non vérifié;non
+73178;La Motte-en-Bauges;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;11626;59;152;539;Non vérifié;non
+73179;La Motte-Servolex;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;260280;59;152;12067;Non vérifié;non
+73180;Motz;73;eau potable : EP  Grand Lac - Régie;221205;2024;70,7;6,7;16,2;68,2;conforme;2240078;14075;80;186;482;Non vérifié;non
+73181;Moûtiers;73;eau potable : Régie SEMT;225654;2024;67,3;6,5;13,4;67,7;non conforme;273905;89614;70;177;3487;Non vérifié;non
+73182;Mouxy;73;eau potable : EP  Grand Lac - Régie;221205;2024;70,7;6,7;16,2;68,2;conforme;2240078;67482;80;186;2311;Non vérifié;non
+73183;Myans;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;28429;59;152;1318;Non vérifié;non
+73184;Nances;73;eau potable : EP (depuis 2018);240654;2024;70,1;2,1;4,8;66,0;conforme;638495;18211;90;163;554;Non vérifié;non
+73186;Notre-Dame-de-Bellecombe;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;13651;81;178;463;Non vérifié;non
+73187;La Léchère;73;eau potable : Principal;198100;2024;79,3;3,4;13,0;67,6;conforme;247294;89127;96;96;2538;Non vérifié;non
+73188;Notre-Dame-des-Millières;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;29130;81;178;988;Non vérifié;non
+73189;Notre-Dame-du-Cruet;73;eau potable;161152;2024;82,7;1,9;9,3;66,9;conforme;32733;2512;31;74;222;Non vérifié;non
+73190;Notre-Dame-du-Pré;73;eau potable;160987;2024;70,0;5,2;12,2;67,4;conforme;14235;14235;151;155;258;Non vérifié;non
+73192;Le Noyer;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;4961;59;152;230;Non vérifié;non
+73193;Ontex;73;eau potable : EP  Grand Lac - Régie;221205;2024;70,7;6,7;16,2;68,2;conforme;2240078;2453;80;186;84;Non vérifié;non
+73194;Orelle;73;eau potable;160992;2024;0,0;4,3;0,2;65,0;non conforme;25112;25112;212;6261;324;Non vérifié;oui
+73196;Pallud;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;23116;81;178;784;Non vérifié;non
+73197;Peisey-Nancroix;73;eau potable : Peisey;160995;2024;66,8;9,8;19,7;68,9;non conforme;67105;67105;291;181;632;Non vérifié;non
+73200;Planaise;73;eau potable;161159;2024;63,6;4,5;7,9;66,6;non conforme;406453;20045;98;208;560;Non vérifié;non
+73201;Planay;73;eau potable : régie;319534;2024;60,6;10,4;16,0;68,2;non conforme;409968;39375;244;238;442;Non vérifié;non
+73202;Plancherine;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;13887;81;178;471;Non vérifié;non
+73204;Le Pont-de-Beauvoisin;73;eau potable : EP (depuis 2018);240654;2024;70,1;2,1;4,8;66,0;conforme;638495;69819;90;163;2124;Non vérifié;non
+73205;Le Pontet;73;eau potable;161168;2024;74,2;3,2;9,0;66,8;conforme;190384;2613;54;136;133;Non vérifié;non
+73206;Pralognan-la-Vanoise;73;eau potable : régie;319534;2024;60,6;10,4;16,0;68,2;non conforme;409968;61379;244;238;689;Non vérifié;non
+73207;Presle;73;eau potable;161168;2024;74,2;3,2;9,0;66,8;conforme;190384;8330;54;136;424;Non vérifié;non
+73208;Pugny-Chatenod;73;eau potable : EP  Grand Lac - Régie;221205;2024;70,7;6,7;16,2;68,2;conforme;2240078;31274;80;186;1071;Non vérifié;non
+73210;Puygros;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;8757;59;152;406;Non vérifié;non
+73211;Queige;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;26654;81;178;904;Non vérifié;non
+73212;Val-d'Arc;73;eau potable;206356;2024;32,0;15,6;7,3;66,5;non conforme;645187;316195;428;834;2026;Non vérifié;non
+73213;La Ravoire;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;201287;59;152;9332;Non vérifié;non
+73214;Rochefort;73;eau potable : EP (depuis 2018);240654;2024;70,1;2,1;4,8;66,0;conforme;638495;8316;90;163;253;Non vérifié;non
+73215;Valgelon-La Rochette;73;eau potable;161168;2024;74,2;3,2;9,0;66,8;conforme;190384;82648;54;136;4207;Non vérifié;non
+73216;Rognaix;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;14123;81;178;479;Non vérifié;non
+73217;Rotherens;73;eau potable;161168;2024;74,2;3,2;9,0;66,8;conforme;190384;7288;54;136;371;Non vérifié;non
+73218;Ruffieux;73;eau potable : EP  Grand Lac - Régie;221205;2024;70,7;6,7;16,2;68,2;conforme;2240078;23915;80;186;819;Non vérifié;non
+73219;Saint-Alban-de-Montbel;73;eau potable : EP (depuis 2018);240654;2024;70,1;2,1;4,8;66,0;conforme;638495;22616;90;163;688;Non vérifié;non
+73220;Saint-Alban-d'Hurtières;73;eau potable;206356;2024;32,0;15,6;7,3;66,5;non conforme;645187;63052;428;834;404;Non vérifié;non
+73222;Saint-Alban-Leysse;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;145249;59;152;6734;Non vérifié;non
+73224;Saint-Avre;73;eau potable;161152;2024;82,7;1,9;9,3;66,9;conforme;32733;10466;31;74;925;Non vérifié;non
+73225;Saint-Baldoph;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;63609;59;152;2949;Non vérifié;non
+73226;Saint-Béron;73;eau potable : EP (depuis 2018);240654;2024;70,1;2,1;4,8;66,0;conforme;638495;56309;90;163;1713;Non vérifié;non
+73227;Courchevel;73;eau potable : Régie SEMT;225654;2024;67,3;6,5;13,4;67,7;non conforme;273905;58852;70;177;2290;Non vérifié;non
+73228;Saint-Cassin;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;22562;59;152;1046;Non vérifié;non
+73229;Saint-Christophe;73;eau potable;161024;2024;55,1;4,4;5,4;66,1;non conforme;19433;19433;98;299;545;Non vérifié;non
+73231;Saint-Etienne-de-Cuines;73;eau potable;161029;2024;13,8;31,0;5,0;66,0;non conforme;287401;287401;664;2283;1186;Non vérifié;non
+73232;Sainte-Foy-Tarentaise;73;eau potable : Sainte-Foy-Tarentaise;161031;2024;89,7;3,0;26,6;70,3;conforme;28404;28404;113;41;686;Non vérifié;non
+73233;Saint-Franc;73;eau potable : EP (depuis 2018);240654;2024;70,1;2,1;4,8;66,0;conforme;638495;5095;90;163;155;Non vérifié;non
+73234;Saint-François-de-Sales;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;4098;59;152;190;Non vérifié;non
+73235;Saint François Longchamp;73;eau potable (MONTGELLAFREY);160959;2024;23,0;2,6;0,8;65,2;non conforme;17082;17082;108;2485;433;Non vérifié;non
+73236;Saint-Genix-les-Villages;73;eau potable : EP (depuis 2018);240654;2024;70,1;2,1;4,8;66,0;conforme;638495;101737;90;163;3095;Non vérifié;non
+73237;Saint-Georges-d'Hurtières;73;eau potable;206356;2024;32,0;15,6;7,3;66,5;non conforme;645187;63988;428;834;410;Non vérifié;non
+73240;Sainte-Hélène-du-Lac;73;eau potable;161159;2024;63,6;4,5;7,9;66,6;non conforme;406453;30605;98;208;855;Non vérifié;non
+73241;Sainte-Hélène-sur-Isère;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;36796;81;178;1248;Non vérifié;non
+73242;Saint-Jean-d'Arves;73;eau potable : DSP - CC ARVAN;215975;2024;84,0;2,2;11,7;67,3;conforme;50059;13680;137;69;273;Non vérifié;non
+73243;Saint-Jean-d'Arvey;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;37121;59;152;1721;Non vérifié;non
+73245;Saint-Jean-de-Chevelu;73;eau potable;161172;2024;89,1;0,8;6,6;66,3;conforme;61612;6504;21;48;834;Non vérifié;non
+73246;Saint-Jean-de-Couz;73;eau potable : EP (depuis 2018);240654;2024;70,1;2,1;4,8;66,0;conforme;638495;9993;90;163;304;Non vérifié;non
+73247;Saint-Jean-de-la-Porte;73;eau potable : Suez;213596;2024;80,3;3,1;12,6;67,5;conforme;74985;14245;39;89;989;Non vérifié;non
+73248;Saint-Jean-de-Maurienne;73;eau potable;161051;2024;64,9;12,8;23,6;69,7;non conforme;262566;262566;96;198;7524;Non vérifié;non
+73249;Saint-Jeoire-Prieuré;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;43118;59;152;1999;Non vérifié;non
+73250;Saint-Julien-Mont-Denis;73;eau potable : Regie communautaire 3CMA;161187;2024;73,5;3,8;10,6;67,1;conforme;119448;57017;104;130;1506;Non vérifié;non
+73252;Saint-Léger;73;eau potable;161055;2023;60,5;3,1;4,8;66,0;non conforme;10976;10976;117;235;257;Sans anomalie apparente;non
+73253;Saint-Marcel;73;eau potable;161058;2024;75,9;2,5;7,8;66,6;conforme;20686;20686;93;117;611;Non vérifié;non
+73254;Sainte-Marie-d'Alvey;73;eau potable : EP (depuis 2018);240654;2024;70,1;2,1;4,8;66,0;conforme;638495;4372;90;163;133;Non vérifié;non
+73255;Sainte-Marie-de-Cuines;73;eau potable;161061;2024;82,0;1,9;8,8;66,8;conforme;12552;12552;41;79;847;Non vérifié;non
+73256;Saint-Martin-d'Arc;73;eau potable;161062;2024;87,4;0,7;4,9;66,0;conforme;2627;2627;24;52;298;Non vérifié;non
+73257;Les Belleville;73;eau potable : Régie SEMT;225654;2024;67,3;6,5;13,4;67,7;non conforme;273905;89897;70;177;3498;Non vérifié;non
+73258;Saint-Martin-de-la-Porte;73;eau potable;161070;2024;93,2;0,6;8,2;66,6;conforme;3143;3143;12;27;698;Non vérifié;non
+73259;Saint-Martin-sur-la-Chambre;73;eau potable;161152;2024;82,7;1,9;9,3;66,9;conforme;32733;5940;31;74;525;Non vérifié;non
+73261;Saint-Michel-de-Maurienne;73;eau potable;161072;2024;82,4;1,4;6,6;66,3;conforme;26332;26332;30;78;2395;Non vérifié;non
+73262;Saint-Nicolas-la-Chapelle;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;14801;81;178;502;Non vérifié;non
+73263;Saint-Offenge;73;eau potable : EP  Grand Lac - Régie;221205;2024;70,7;6,7;16,2;68,2;conforme;2240078;34427;80;186;1179;Non vérifié;non
+73265;Saint-Ours;73;eau potable : EP  Grand Lac - Régie;221205;2024;70,7;6,7;16,2;68,2;conforme;2240078;22630;80;186;775;Non vérifié;non
+73267;Saint-Pancrace;73;eau potable : Regie communautaire 3CMA;161187;2024;73,5;3,8;10,6;67,1;conforme;119448;11623;104;130;307;Non vérifié;non
+73268;Saint-Paul-sur-Isère;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;16010;81;178;543;Non vérifié;non
+73269;Saint-Paul-sur-Yenne;73;eau potable;161172;2024;89,1;0,8;6,6;66,3;conforme;61612;5826;21;48;747;Non vérifié;non
+73270;Saint-Pierre-d'Albigny;73;eau potable : Suez;213596;2024;80,3;3,1;12,6;67,5;conforme;74985;60739;39;89;4217;Non vérifié;non
+73271;Saint-Pierre-d'Alvey;73;eau potable;161172;2024;89,1;0,8;6,6;66,3;conforme;61612;2379;21;48;305;Non vérifié;non
+73272;Saint-Pierre-de-Belleville;73;eau potable;206356;2024;32,0;15,6;7,3;66,5;non conforme;645187;28717;428;834;184;Non vérifié;non
+73273;Saint-Pierre-de-Curtille;73;eau potable : DSP VEOLIA Saint Pierre de Curtille;248694;2022;89,1;1,0;8,5;66,7;conforme;3650;3650;21;52;472;Sans anomalie apparente;non
+73274;Saint-Pierre-d'Entremont;73;eau potable : EP (depuis 2018);240654;2024;70,1;2,1;4,8;66,0;conforme;638495;12590;90;163;383;Non vérifié;non
+73275;Saint-Pierre-de-Genebroz;73;eau potable : EP (depuis 2018);240654;2024;70,1;2,1;4,8;66,0;conforme;638495;10979;90;163;334;Non vérifié;non
+73276;Saint-Pierre-de-Soucy;73;eau potable;161159;2024;63,6;4,5;7,9;66,6;non conforme;406453;15642;98;208;437;Non vérifié;non
+73277;Sainte-Reine;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;3818;59;152;177;Non vérifié;non
+73278;Saint-Rémy-de-Maurienne;73;eau potable;161090;2024;51,2;9,2;9,7;66,9;non conforme;84286;84286;179;347;1289;Non vérifié;non
+73280;Saint-Sorlin-d'Arves;73;eau potable : Regie communautaire 3CMA;161187;2024;73,5;3,8;10,6;67,1;conforme;119448;13137;104;130;347;Non vérifié;non
+73281;Saint-Sulpice;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;17709;59;152;821;Non vérifié;non
+73282;Saint-Thibaud-de-Couz;73;eau potable : EP (depuis 2018);240654;2024;70,1;2,1;4,8;66,0;conforme;638495;36389;90;163;1107;Non vérifié;non
+73283;Saint-Vital;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;22614;81;178;767;Non vérifié;non
+73284;Salins-Fontaine;73;eau potable : Régie SEMT;225654;2024;67,3;6,5;13,4;67,7;non conforme;273905;24183;70;177;941;Non vérifié;non
+73285;Séez;73;eau potable : Séez;161099;2023;43,8;16,4;12,8;67,6;non conforme;137678;137678;153;467;2459;Sans anomalie apparente;non
+73286;Serrières-en-Chautagne;73;eau potable : EP  Grand Lac - Régie;221205;2024;70,7;6,7;16,2;68,2;conforme;2240078;33756;80;186;1156;Non vérifié;non
+73288;Sonnaz;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;45943;59;152;2130;Non vérifié;non
+73289;La Table;73;eau potable;161103;2024;83,5;1,0;5,2;66,0;conforme;6570;6570;40;70;445;Non vérifié;non
+73290;Val-Cenis;73;eau potable;161104;2024;79,7;6,0;23,5;69,7;conforme;101857;101857;132;93;2112;Non vérifié;non
+73292;Thénésol;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;9612;81;178;326;Non vérifié;non
+73293;Thoiry;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;9836;59;152;456;Non vérifié;non
+73294;La Thuile;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;7614;59;152;353;Non vérifié;non
+73296;Tignes;73;eau potable : Tignes;161106;2023;89,9;3,9;34,4;71,9;conforme;79716;79716;114;41;1919;Sans anomalie apparente;non
+73297;Tournon;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;16776;81;178;569;Non vérifié;non
+73298;Tours-en-Savoie;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;27862;81;178;945;Non vérifié;non
+73299;Traize;73;eau potable;161172;2024;89,1;0,8;6,6;66,3;conforme;61612;2613;21;48;335;Non vérifié;non
+73300;Tresserve;73;eau potable : EP  Grand Lac - Régie;221205;2024;70,7;6,7;16,2;68,2;conforme;2240078;84944;80;186;2909;Non vérifié;non
+73301;Trévignin;73;eau potable : EP  Grand Lac - Régie;221205;2024;70,7;6,7;16,2;68,2;conforme;2240078;25404;80;186;870;Non vérifié;non
+73302;La Trinité;73;eau potable;161159;2024;63,6;4,5;7,9;66,6;non conforme;406453;13638;98;208;381;Non vérifié;non
+73303;Ugine;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;210929;81;178;7154;Non vérifié;non
+73304;Val-d'Isère;73;eau potable : Val-d'Isère;161117;2024;20,7;98,9;25,9;70,2;non conforme;815104;815104;1425;1396;1567;Non vérifié;non
+73306;Valloire;73;eau potable;161121;2024;57,8;13,4;18,4;68,7;non conforme;194662;194662;501;266;1064;Non vérifié;non
+73307;Valmeinier;73;eau potable;161124;2024;70,9;10,7;26,1;70,2;conforme;46085;46085;213;151;593;Non vérifié;non
+73308;Venthon;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;17867;81;178;606;Non vérifié;non
+73309;Verel-de-Montbel;73;eau potable : EP (depuis 2018);240654;2024;70,1;2,1;4,8;66,0;conforme;638495;11209;90;163;341;Non vérifié;non
+73310;Verel-Pragondran;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;13805;59;152;640;Non vérifié;non
+73311;Le Verneil;73;eau potable;161128;2024;100,0;0,0;80,1;81,0;conforme;0;0;0;0;88;Non vérifié;non
+73312;Verrens-Arvey;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;28275;81;178;959;Non vérifié;non
+73313;Verthemex;73;eau potable;161172;2024;89,1;0,8;6,6;66,3;conforme;61612;1903;21;48;244;Non vérifié;non
+73314;Villard-d'Héry;73;eau potable;161159;2024;63,6;4,5;7,9;66,6;non conforme;406453;9665;98;208;270;Non vérifié;non
+73315;Villard-Léger;73;eau potable;161159;2024;63,6;4,5;7,9;66,6;non conforme;406453;15499;98;208;433;Non vérifié;non
+73316;Villard-Sallet;73;eau potable;161168;2024;74,2;3,2;9,0;66,8;conforme;190384;6090;54;136;310;Non vérifié;non
+73317;Villard-sur-Doron;73;eau potable : EP REGIE + prestations;293614;2024;67,1;5,1;10,5;67,1;conforme;1835532;20698;81;178;702;Non vérifié;non
+73318;Villarembert;73;eau potable : DSP - CC ARVAN;215975;2024;84,0;2,2;11,7;67,3;conforme;50059;12678;137;69;253;Non vérifié;non
+73320;Villargondran;73;eau potable;161135;2024;68,2;2,7;5,8;66,2;conforme;19710;19710;68;169;790;Non vérifié;non
+73322;Villarodin-Bourget;73;eau potable;161139;2024;71,2;5,8;14,2;67,8;conforme;27944;27944;153;149;499;Non vérifié;non
+73323;Villaroger;73;eau potable : Villaroger;161142;2023;81,5;8,0;35,1;72,0;conforme;30105;30105;232;83;355;Sans anomalie apparente;non
+73324;Villaroux;73;eau potable;161168;2024;74,2;3,2;9,0;66,8;conforme;190384;3772;54;136;192;Non vérifié;non
+73326;Vimines;73;eau potable : EP Grand Chambéry;289654;2024;71,1;8,3;20,4;69,1;conforme;3099179;51163;59;152;2372;Non vérifié;non
+73327;Vions;73;eau potable : DSP VEOLIA  Vions;248634;2022;87,9;0,8;5,6;66,1;conforme;2409;2409;16;52;425;Sans anomalie apparente;non
+73328;Viviers-du-Lac;73;eau potable : EP  Grand Lac - Régie;221205;2024;70,7;6,7;16,2;68,2;conforme;2240078;68767;80;186;2355;Non vérifié;non
+73329;Voglans;73;eau potable : EP  Grand Lac - Régie;221205;2024;70,7;6,7;16,2;68,2;conforme;2240078;59014;80;186;2021;Non vérifié;non
+73330;Yenne;73;eau potable;161172;2024;89,1;0,8;6,6;66,3;conforme;61612;23600;21;48;3026;Non vérifié;non

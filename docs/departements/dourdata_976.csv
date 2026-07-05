@@ -7,21 +7,21 @@
 # Méthodologie et code : https://github.com/btaverne/dourdata
 # Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
 # Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
-Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
-97601;Acoua;976;eau potable;203415;2024;73,1;12,4;33,5;71,7;conforme;3693216;91456;54;135;4624;Non vérifié
-97602;Bandraboua;976;eau potable;203415;2024;73,1;12,4;33,5;71,7;conforme;3693216;178382;54;135;9019;Non vérifié
-97603;Bandrele;976;eau potable;203415;2024;73,1;12,4;33,5;71,7;conforme;3693216;135344;54;135;6843;Non vérifié
-97604;Bouéni;976;eau potable;203415;2024;73,1;12,4;33,5;71,7;conforme;3693216;104786;54;135;5298;Non vérifié
-97605;Chiconi;976;eau potable;203415;2024;73,1;12,4;33,5;71,7;conforme;3693216;126820;54;135;6412;Non vérifié
-97606;Chirongui;976;eau potable;203415;2024;73,1;12,4;33,5;71,7;conforme;3693216;130795;54;135;6613;Non vérifié
-97607;Dembeni;976;eau potable;203415;2024;73,1;12,4;33,5;71,7;conforme;3693216;200574;54;135;10141;Non vérifié
-97608;Dzaoudzi;976;eau potable;203415;2024;73,1;12,4;33,5;71,7;conforme;3693216;303679;54;135;15354;Non vérifié
-97609;Kani-Kéli;976;eau potable;203415;2024;73,1;12,4;33,5;71,7;conforme;3693216;89557;54;135;4528;Non vérifié
-97610;Koungou;976;eau potable;203415;2024;73,1;12,4;33,5;71,7;conforme;3693216;392464;54;135;19843;Non vérifié
-97611;Mamoudzou;976;eau potable;203415;2024;73,1;12,4;33,5;71,7;conforme;3693216;1050672;54;135;53122;Non vérifié
-97612;Mtsamboro;976;eau potable;203415;2024;73,1;12,4;33,5;71,7;conforme;3693216;136828;54;135;6918;Non vérifié
-97613;M'Tsangamouji;976;eau potable;203415;2024;73,1;12,4;33,5;71,7;conforme;3693216;99525;54;135;5032;Non vérifié
-97614;Ouangani;976;eau potable;203415;2024;73,1;12,4;33,5;71,7;conforme;3693216;130518;54;135;6599;Non vérifié
-97615;Pamandzi;976;eau potable;203415;2024;73,1;12,4;33,5;71,7;conforme;3693216;179727;54;135;9087;Non vérifié
-97616;Sada;976;eau potable;203415;2024;73,1;12,4;33,5;71,7;conforme;3693216;158485;54;135;8013;Non vérifié
-97617;Tsingoni;976;eau potable;203415;2024;73,1;12,4;33,5;71,7;conforme;3693216;183604;54;135;9283;Non vérifié
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement);Donnée suspecte (voir LISEZMOI)
+97601;Acoua;976;eau potable;203415;2024;73,1;12,4;33,5;71,7;conforme;3693216;91456;54;135;4624;Non vérifié;non
+97602;Bandraboua;976;eau potable;203415;2024;73,1;12,4;33,5;71,7;conforme;3693216;178382;54;135;9019;Non vérifié;non
+97603;Bandrele;976;eau potable;203415;2024;73,1;12,4;33,5;71,7;conforme;3693216;135344;54;135;6843;Non vérifié;non
+97604;Bouéni;976;eau potable;203415;2024;73,1;12,4;33,5;71,7;conforme;3693216;104786;54;135;5298;Non vérifié;non
+97605;Chiconi;976;eau potable;203415;2024;73,1;12,4;33,5;71,7;conforme;3693216;126820;54;135;6412;Non vérifié;non
+97606;Chirongui;976;eau potable;203415;2024;73,1;12,4;33,5;71,7;conforme;3693216;130795;54;135;6613;Non vérifié;non
+97607;Dembeni;976;eau potable;203415;2024;73,1;12,4;33,5;71,7;conforme;3693216;200574;54;135;10141;Non vérifié;non
+97608;Dzaoudzi;976;eau potable;203415;2024;73,1;12,4;33,5;71,7;conforme;3693216;303679;54;135;15354;Non vérifié;non
+97609;Kani-Kéli;976;eau potable;203415;2024;73,1;12,4;33,5;71,7;conforme;3693216;89557;54;135;4528;Non vérifié;non
+97610;Koungou;976;eau potable;203415;2024;73,1;12,4;33,5;71,7;conforme;3693216;392464;54;135;19843;Non vérifié;non
+97611;Mamoudzou;976;eau potable;203415;2024;73,1;12,4;33,5;71,7;conforme;3693216;1050672;54;135;53122;Non vérifié;non
+97612;Mtsamboro;976;eau potable;203415;2024;73,1;12,4;33,5;71,7;conforme;3693216;136828;54;135;6918;Non vérifié;non
+97613;M'Tsangamouji;976;eau potable;203415;2024;73,1;12,4;33,5;71,7;conforme;3693216;99525;54;135;5032;Non vérifié;non
+97614;Ouangani;976;eau potable;203415;2024;73,1;12,4;33,5;71,7;conforme;3693216;130518;54;135;6599;Non vérifié;non
+97615;Pamandzi;976;eau potable;203415;2024;73,1;12,4;33,5;71,7;conforme;3693216;179727;54;135;9087;Non vérifié;non
+97616;Sada;976;eau potable;203415;2024;73,1;12,4;33,5;71,7;conforme;3693216;158485;54;135;8013;Non vérifié;non
+97617;Tsingoni;976;eau potable;203415;2024;73,1;12,4;33,5;71,7;conforme;3693216;183604;54;135;9283;Non vérifié;non

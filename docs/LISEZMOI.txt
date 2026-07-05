@@ -38,6 +38,19 @@ Colonnes
 - Jours de consommation équivalents
 - Population INSEE
 - Avis qualité SISPEA (rendement)
+- Donnée suspecte (voir LISEZMOI)
+
+Colonne « Donnée suspecte » — à lire avant de citer un chiffre
+--------------------------------------------------------------------------
+Une ligne est marquée « oui » si AU MOINS un de ces cas est vrai :
+  - rendement <= 0 % ou > 100 % (physiquement impossible : erreur de saisie) ;
+  - avis qualité SISPEA « Anomalie » ou « Présomption d'anomalie » ;
+  - volume de pertes du service manquant (données de base incomplètes).
+Concerne 115 communes sur 34198. Ces lignes NE sont PAS supprimées
+(transparence) : elles restent dans le fichier mais ne doivent pas être
+citées comme des mesures fiables. À l'inverse, l'avis « Non vérifié » n'est
+PAS considéré comme suspect : c'est l'état normal d'une donnée récente pas
+encore validée par les services de l'État, pas une anomalie.
 
 Avertissements de lecture
 --------------------------------------------------------------------------
