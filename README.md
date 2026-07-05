@@ -156,8 +156,28 @@ couvre la métropole (Corse comprise) mais pas les DOM, dont les communes resten
 CSV sans apparaître sur la carte. Le fichier de contours est mis en cache dans `.cache/` après le
 premier téléchargement.
 
-Les fichiers CSV et HTML générés ne sont pas versionnés (voir `.gitignore`) : ce sont des données
-téléchargées ou dérivées, pas du code source.
+Cette carte folium est pratique en local mais lourde (~30 Mo, tout le GeoJSON embarqué dans le
+HTML) — trop pour une mise en ligne.
+
+### 2 bis. Carte web légère (publiable)
+
+```bash
+npm install -g mapshaper   # prérequis (Node.js)
+source .venv/bin/activate
+python carte_web.py        # -> docs/carte/communes.topojson + data.json
+```
+
+Pour la publication, `carte_web.py` produit une carte optimisée : géométrie **simplifiée**
+(Mapshaper, Visvalingam, topologie préservée) et encodée en **TopoJSON** (frontières partagées
+stockées une fois), plus un `data.json` compact séparé (meilleur cache, moins de poids). La page
+`docs/carte/index.html` (Leaflet + topojson-client) charge les deux.
+
+Poids : ~7 Mo bruts mais **~2 Mo réellement transférés** (GitHub Pages sert en gzip), contre 30 Mo
+pour la version folium. La géométrie a un plancher incompressible (~5 Mo bruts / 1,3 Mo gzip) car
+les 34 000 communes sont toutes préservées (aucune supprimée par la simplification).
+
+Les fichiers CSV et HTML générés localement ne sont pas versionnés (voir `.gitignore`), à
+l'exception du site `docs/` publié pour GitHub Pages.
 
 ### 3. Exporter des CSV réutilisables
 
