@@ -1,0 +1,276 @@
+﻿# DourData — eau perdue par les réseaux d'eau potable (indicateurs SISPEA)
+# Périmètre : Département 69
+# Source : SISPEA — Système d'Information des Services Publics d'Eau et d'Assainissement, via data.gouv.fr / services.eaufrance.fr
+# Licence : Licence Ouverte 2.0 (Etalab)
+# Millésime des données : 2023–2024 (année la plus récente disponible par commune)
+# Date de génération de l'export : 2026-07-05
+# Méthodologie et code : https://github.com/btaverne/dourdata
+# Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
+# Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
+69001;Affoux;69;eau potable : principal;176006;2024;74,3;1,9;5,5;66,1;conforme;1506976;6582;45;153;398;Non vérifié
+69002;Aigueperse;69;eau potable;176015;2024;72,2;1,0;2,7;65,5;conforme;85136;5582;65;144;235;Non vérifié
+69003;Albigny-sur-Saône;69;eau potable : Territoire n°1 (Eau publique du Grand Lyon);176016;2024;87,2;7,5;51,0;75,2;non calculable;11007488;23461;21;59;3057;Non vérifié
+69004;Alix;69;eau potable;176014;2024;86,8;2,2;14,4;67,9;conforme;451286;6655;23;71;777;Non vérifié
+69005;Ambérieux;69;eau potable;175999;2024;85,1;2,9;16,7;68,3;conforme;94926;4937;21;64;651;Non vérifié
+69006;Amplepuis;69;eau potable : Rhône-Loire-Nord;176013;2024;83,2;1,0;4,9;66,0;conforme;543120;58456;33;95;4876;Non vérifié
+69007;Ampuis;69;eau potable : Secteur Ampuis / Saint-Cyr-sur-le-Rhône;299434;2024;82,1;5,9;27,2;70,4;conforme;75006;51219;51;111;2769;Non vérifié
+69008;Ancy;69;eau potable;176012;2024;86,6;1,4;8,9;66,8;conforme;235704;5697;23;61;671;Non vérifié
+69009;Anse;69;eau potable;176014;2024;86,8;2,2;14,4;67,9;conforme;451286;70284;23;71;8206;Non vérifié
+69010;L' Arbresle;69;eau potable;175883;2024;92,9;4,1;54,4;75,9;conforme;52378;52378;22;28;6537;Non vérifié
+69012;Les Ardillats;69;eau potable;176003;2024;83,2;1,2;6,0;66,2;conforme;175480;3916;17;80;628;Non vérifié
+69013;Arnas;69;eau potable;259095;2024;88,2;3,8;28,0;70,6;conforme;481012;37620;22;61;4601;Non vérifié
+69014;Aveize;69;eau potable : principal;176006;2024;74,3;1,9;5,5;66,1;conforme;1506976;18356;45;153;1110;Non vérifié
+69016;Azolette;69;eau potable;176015;2024;72,2;1,0;2,7;65,5;conforme;85136;2851;65;144;120;Non vérifié
+69017;Bagnols;69;eau potable;176000;2024;85,5;1,0;6,2;66,2;conforme;101357;5330;19;59;765;Non vérifié
+69018;Beaujeu;69;eau potable;176003;2024;83,2;1,2;6,0;66,2;conforme;175480;12983;17;80;2082;Non vérifié
+69019;Belleville-en-Beaujolais;69;eau potable;176003;2024;83,2;1,2;6,0;66,2;conforme;175480;87400;17;80;14016;Non vérifié
+69020;Belmont-d'Azergues;69;eau potable;176014;2024;86,8;2,2;14,4;67,9;conforme;451286;6167;23;71;720;Non vérifié
+69021;Bessenay;69;eau potable;176007;2024;81,6;2,2;9,7;66,9;conforme;66400;11596;14;83;2331;Non vérifié
+69022;Bibost;69;eau potable : principal;176006;2024;74,3;1,9;5,5;66,1;conforme;1506976;8897;45;153;538;Non vérifié
+69023;Blacé;69;eau potable;176004;2024;76,2;2,4;7,8;66,6;conforme;296649;21609;35;112;1715;Non vérifié
+69024;Val d'Oingt;69;eau potable;176000;2024;85,5;1,0;6,2;66,2;conforme;101357;28685;19;59;4117;Non vérifié
+69026;Le Breuil;69;eau potable;176012;2024;86,6;1,4;8,9;66,8;conforme;235704;4525;23;61;533;Non vérifié
+69027;Brignais;69;eau potable;176005;2024;76,5;4,4;14,4;67,9;conforme;1086780;223061;49;134;12503;Non vérifié
+69028;Brindas;69;eau potable;176005;2024;76,5;4,4;14,4;67,9;conforme;1086780;120870;49;134;6775;Non vérifié
+69029;Bron;69;eau potable : Territoire n°1 (Eau publique du Grand Lyon);176016;2024;87,2;7,5;51,0;75,2;non calculable;11007488;329871;21;59;42982;Non vérifié
+69030;Brullioles;69;eau potable : principal;176006;2024;74,3;1,9;5,5;66,1;conforme;1506976;13577;45;153;821;Non vérifié
+69031;Brussieu;69;eau potable : principal;176006;2024;74,3;1,9;5,5;66,1;conforme;1506976;22854;45;153;1382;Non vérifié
+69032;Bully;69;eau potable;176014;2024;86,8;2,2;14,4;67,9;conforme;451286;18954;23;71;2213;Non vérifié
+69033;Cailloux-sur-Fontaines;69;eau potable : Territoire n°1 (Eau publique du Grand Lyon);176016;2024;87,2;7,5;51,0;75,2;non calculable;11007488;22939;21;59;2989;Non vérifié
+69034;Caluire-et-Cuire;69;eau potable : Territoire n°1 (Eau publique du Grand Lyon);176016;2024;87,2;7,5;51,0;75,2;non calculable;11007488;334591;21;59;43597;Non vérifié
+69035;Cenves;69;eau potable;76206;2024;87,3;2,1;14,6;67,9;conforme;231422;2057;14;119;409;Non vérifié
+69036;Cercié;69;eau potable;176003;2024;83,2;1,2;6,0;66,2;conforme;175480;7053;17;80;1131;Non vérifié
+69037;Chambost-Allières;69;eau potable;176009;2024;70,0;1,6;3,8;65,8;conforme;92984;14742;49;152;816;Non vérifié
+69038;Chambost-Longessaigne;69;eau potable : principal;176006;2024;74,3;1,9;5,5;66,1;conforme;1506976;15379;45;153;930;Non vérifié
+69039;Chamelet;69;eau potable;176009;2024;70,0;1,6;3,8;65,8;conforme;92984;12754;49;152;706;Non vérifié
+69040;Champagne-au-Mont-d'Or;69;eau potable : Territoire n°1 (Eau publique du Grand Lyon);176016;2024;87,2;7,5;51,0;75,2;non calculable;11007488;48435;21;59;6311;Non vérifié
+69042;La Chapelle-sur-Coise;69;eau potable : principal;176006;2024;74,3;1,9;5,5;66,1;conforme;1506976;9343;45;153;565;Non vérifié
+69043;Chaponost;69;eau potable;176005;2024;76,5;4,4;14,4;67,9;conforme;1086780;167381;49;134;9382;Non vérifié
+69044;Charbonnières-les-Bains;69;eau potable : Territoire n°1 (Eau publique du Grand Lyon);176016;2024;87,2;7,5;51,0;75,2;non calculable;11007488;41313;21;59;5383;Non vérifié
+69045;Charentay;69;eau potable;176004;2024;76,2;2,4;7,8;66,6;conforme;296649;16040;35;112;1273;Non vérifié
+69046;Charly;69;eau potable : Territoire n°1 (Eau publique du Grand Lyon);176016;2024;87,2;7,5;51,0;75,2;non calculable;11007488;36923;21;59;4811;Non vérifié
+69047;Charnay;69;eau potable;176014;2024;86,8;2,2;14,4;67,9;conforme;451286;8762;23;71;1023;Non vérifié
+69049;Chasselay;69;eau potable;176014;2024;86,8;2,2;14,4;67,9;conforme;451286;25464;23;71;2973;Non vérifié
+69050;Châtillon;69;eau potable;176014;2024;86,8;2,2;14,4;67,9;conforme;451286;19288;23;71;2252;Non vérifié
+69051;Chaussan;69;eau potable;176010;2024;88,2;1,8;13,6;67,7;conforme;190530;7426;17;49;1218;Non vérifié
+69052;Chazay-d'Azergues;69;eau potable;176014;2024;86,8;2,2;14,4;67,9;conforme;451286;37771;23;71;4410;Non vérifié
+69053;Chénas;69;eau potable;176008;2024;79,8;1,4;5,6;66,1;conforme;95664;7754;40;107;533;Non vérifié
+69054;Chénelette;69;eau potable;176003;2024;83,2;1,2;6,0;66,2;conforme;175480;2301;17;80;369;Non vérifié
+69055;Les Chères;69;eau potable;176014;2024;86,8;2,2;14,4;67,9;conforme;451286;12873;23;71;1503;Non vérifié
+69057;Chevinay;69;eau potable;176007;2024;81,6;2,2;9,7;66,9;conforme;66400;2885;14;83;580;Non vérifié
+69058;Chiroubles;69;eau potable;176008;2024;79,8;1,4;5,6;66,1;conforme;95664;6314;40;107;434;Non vérifié
+69059;Civrieux-d'Azergues;69;eau potable;176014;2024;86,8;2,2;14,4;67,9;conforme;451286;14346;23;71;1675;Non vérifié
+69060;Claveisolles;69;eau potable;176009;2024;70,0;1,6;3,8;65,8;conforme;92984;10424;49;152;577;Non vérifié
+69061;Cogny;69;eau potable;259095;2024;88,2;3,8;28,0;70,6;conforme;481012;9902;22;61;1211;Non vérifié
+69062;Coise;69;eau potable : principal;176006;2024;74,3;1,9;5,5;66,1;conforme;1506976;13230;45;153;800;Non vérifié
+69063;Collonges-au-Mont-d'Or;69;eau potable : Territoire n°1 (Eau publique du Grand Lyon);176016;2024;87,2;7,5;51,0;75,2;non calculable;11007488;35833;21;59;4669;Non vérifié
+69064;Condrieu;69;eau potable : Secteur Condrieu;299474;2024;82,5;3,8;17,7;68,5;conforme;33760;28978;20;78;3957;Non vérifié
+69065;Corcelles-en-Beaujolais;69;eau potable;176008;2024;79,8;1,4;5,6;66,1;conforme;95664;14562;40;107;1001;Non vérifié
+69066;Cours;69;eau potable : Rhône-Loire-Nord;176013;2024;83,2;1,0;4,9;66,0;conforme;543120;51623;33;95;4306;Non vérifié
+69067;Courzieu;69;eau potable;176005;2024;76,5;4,4;14,4;67,9;conforme;1086780;21105;49;134;1183;Non vérifié
+69068;Couzon-au-Mont-d'Or;69;eau potable : Territoire n°1 (Eau publique du Grand Lyon);176016;2024;87,2;7,5;51,0;75,2;non calculable;11007488;20100;21;59;2619;Non vérifié
+69069;Craponne;69;eau potable : Territoire n°1 (Eau publique du Grand Lyon);176016;2024;87,2;7,5;51,0;75,2;non calculable;11007488;92740;21;59;12084;Non vérifié
+69070;Cublize;69;eau potable : Rhône-Loire-Nord;176013;2024;83,2;1,0;4,9;66,0;conforme;543120;16305;33;95;1360;Non vérifié
+69071;Curis-au-Mont-d'Or;69;eau potable : Territoire n°1 (Eau publique du Grand Lyon);176016;2024;87,2;7,5;51,0;75,2;non calculable;11007488;9171;21;59;1195;Non vérifié
+69072;Dardilly;69;eau potable : Territoire n°1 (Eau publique du Grand Lyon);176016;2024;87,2;7,5;51,0;75,2;non calculable;11007488;70768;21;59;9221;Non vérifié
+69074;Denicé;69;eau potable;259095;2024;88,2;3,8;28,0;70,6;conforme;481012;12845;22;61;1571;Non vérifié
+69075;Dième;69;eau potable;176012;2024;86,6;1,4;8,9;66,8;conforme;235704;1690;23;61;199;Non vérifié
+69076;Dommartin;69;eau potable;176014;2024;86,8;2,2;14,4;67,9;conforme;451286;23014;23;71;2687;Non vérifié
+69077;Dracé;69;eau potable;176003;2024;83,2;1,2;6,0;66,2;conforme;175480;7558;17;80;1212;Non vérifié
+69078;Duerne;69;eau potable : principal;176006;2024;74,3;1,9;5,5;66,1;conforme;1506976;13908;45;153;841;Non vérifié
+69080;Échalas;69;eau potable : principal;176006;2024;74,3;1,9;5,5;66,1;conforme;1506976;32975;45;153;1994;Non vérifié
+69081;Écully;69;eau potable : Territoire n°1 (Eau publique du Grand Lyon);176016;2024;87,2;7,5;51,0;75,2;non calculable;11007488;137714;21;59;17944;Non vérifié
+69082;Émeringes;69;eau potable;176008;2024;79,8;1,4;5,6;66,1;conforme;95664;4001;40;107;275;Non vérifié
+69083;Éveux;69;eau potable;176014;2024;86,8;2,2;14,4;67,9;conforme;451286;9935;23;71;1160;Non vérifié
+69084;Fleurie;69;eau potable;176008;2024;79,8;1,4;5,6;66,1;conforme;95664;20105;40;107;1382;Non vérifié
+69085;Fleurieu-sur-Saône;69;eau potable : Territoire n°1 (Eau publique du Grand Lyon);176016;2024;87,2;7,5;51,0;75,2;non calculable;11007488;12256;21;59;1597;Non vérifié
+69086;Fleurieux-sur-l'Arbresle;69;eau potable;176014;2024;86,8;2,2;14,4;67,9;conforme;451286;20222;23;71;2361;Non vérifié
+69087;Fontaines-Saint-Martin;69;eau potable : Territoire n°1 (Eau publique du Grand Lyon);176016;2024;87,2;7,5;51,0;75,2;non calculable;11007488;23776;21;59;3098;Non vérifié
+69088;Fontaines-sur-Saône;69;eau potable : Territoire n°1 (Eau publique du Grand Lyon);176016;2024;87,2;7,5;51,0;75,2;non calculable;11007488;53392;21;59;6957;Non vérifié
+69089;Francheville;69;eau potable : Territoire n°1 (Eau publique du Grand Lyon);176016;2024;87,2;7,5;51,0;75,2;non calculable;11007488;119755;21;59;15604;Non vérifié
+69090;Frontenas;69;eau potable;176000;2024;85,5;1,0;6,2;66,2;conforme;101357;6375;19;59;915;Non vérifié
+69091;Givors;69;eau potable : Territoire n°1 (Eau publique du Grand Lyon);176016;2024;87,2;7,5;51,0;75,2;non calculable;11007488;164076;21;59;21379;Non vérifié
+69092;Gleizé;69;eau potable;259095;2024;88,2;3,8;28,0;70,6;conforme;481012;65698;22;61;8035;Non vérifié
+69093;Grandris;69;eau potable;176009;2024;70,0;1,6;3,8;65,8;conforme;92984;22149;49;152;1226;Non vérifié
+69094;Grézieu-la-Varenne;69;eau potable;176005;2024;76,5;4,4;14,4;67,9;conforme;1086780;115465;49;134;6472;Non vérifié
+69095;Grézieu-le-Marché;69;eau potable : principal;176006;2024;74,3;1,9;5,5;66,1;conforme;1506976;13792;45;153;834;Non vérifié
+69096;Grigny-sur-Rhône;69;eau potable : Territoire n°1 (Eau publique du Grand Lyon);176016;2024;87,2;7,5;51,0;75,2;non calculable;11007488;76977;21;59;10030;Non vérifié
+69097;Les Haies;69;eau potable : principal;176006;2024;74,3;1,9;5,5;66,1;conforme;1506976;11956;45;153;723;Non vérifié
+69098;Les Halles;69;eau potable : principal;176006;2024;74,3;1,9;5,5;66,1;conforme;1506976;7806;45;153;472;Non vérifié
+69099;Haute-Rivoire;69;eau potable : principal;176006;2024;74,3;1,9;5,5;66,1;conforme;1506976;23648;45;153;1430;Non vérifié
+69100;Irigny;69;eau potable : Territoire n°1 (Eau publique du Grand Lyon);176016;2024;87,2;7,5;51,0;75,2;non calculable;11007488;69333;21;59;9034;Non vérifié
+69102;Joux;69;eau potable;176012;2024;86,6;1,4;8,9;66,8;conforme;235704;6385;23;61;752;Non vérifié
+69103;Juliénas;69;eau potable : SM des Eaux de Mâconnais-Beaujolais;76237;2024;85,1;2,6;14,7;67,9;conforme;219333;13329;41;107;880;Non vérifié
+69104;Jullié;69;eau potable;176008;2024;79,8;1,4;5,6;66,1;conforme;95664;7157;40;107;492;Non vérifié
+69105;Lacenas;69;eau potable;259095;2024;88,2;3,8;28,0;70,6;conforme;481012;8798;22;61;1076;Non vérifié
+69106;Lachassagne;69;eau potable;176014;2024;86,8;2,2;14,4;67,9;conforme;451286;11408;23;71;1332;Non vérifié
+69107;Lamure-sur-Azergues;69;eau potable;176009;2024;70,0;1,6;3,8;65,8;conforme;92984;18933;49;152;1048;Non vérifié
+69108;Lancié;69;eau potable : SM des Eaux de Mâconnais-Beaujolais;76237;2024;85,1;2,6;14,7;67,9;conforme;219333;16676;41;107;1101;Non vérifié
+69109;Lantignié;69;eau potable;176003;2024;83,2;1,2;6,0;66,2;conforme;175480;5294;17;80;849;Non vérifié
+69110;Larajasse;69;eau potable : principal;176006;2024;74,3;1,9;5,5;66,1;conforme;1506976;29833;45;153;1804;Non vérifié
+69111;Légny;69;eau potable;176012;2024;86,6;1,4;8,9;66,8;conforme;235704;5816;23;61;685;Non vérifié
+69112;Lentilly;69;eau potable;176014;2024;86,8;2,2;14,4;67,9;conforme;451286;56726;23;71;6623;Non vérifié
+69113;Létra;69;eau potable;176000;2024;85,5;1,0;6,2;66,2;conforme;101357;6278;19;59;901;Non vérifié
+69115;Limas;69;eau potable;259095;2024;88,2;3,8;28,0;70,6;conforme;481012;38838;22;61;4750;Non vérifié
+69116;Limonest;69;eau potable : Territoire n°1 (Eau publique du Grand Lyon);176016;2024;87,2;7,5;51,0;75,2;non calculable;11007488;30791;21;59;4012;Non vérifié
+69117;Lissieu;69;eau potable : Territoire n°4 (Lissieu - La Tour de Salvagny - Quincieux);201942;2024;86,8;2,5;16,5;68,3;non calculable;93732;25907;22;53;3181;Non vérifié
+69118;Loire-sur-Rhône;69;eau potable : Secteur Loire-sur-Rhône;299435;2024;92,4;1,0;12,3;67,5;conforme;9026;9026;9;30;2746;Non vérifié
+69119;Longes;69;eau potable : principal;176006;2024;74,3;1,9;5,5;66,1;conforme;1506976;15512;45;153;938;Non vérifié
+69120;Longessaigne;69;eau potable : principal;176006;2024;74,3;1,9;5,5;66,1;conforme;1506976;9740;45;153;589;Non vérifié
+69121;Lozanne;69;eau potable;176014;2024;86,8;2,2;14,4;67,9;conforme;451286;27254;23;71;3182;Non vérifié
+69122;Lucenay;69;eau potable;175999;2024;85,1;2,9;16,7;68,3;conforme;94926;15698;21;64;2070;Non vérifié
+69123;Lyon;69;eau potable : Territoire n°1 (Eau publique du Grand Lyon);176016;2024;87,2;7,5;51,0;75,2;non calculable;11007488;4056430;21;59;528550;Non vérifié
+69124;Marchampt;69;eau potable;176003;2024;83,2;1,2;6,0;66,2;conforme;175480;2806;17;80;450;Non vérifié
+69125;Marcilly-d'Azergues;69;eau potable;176014;2024;86,8;2,2;14,4;67,9;conforme;451286;9130;23;71;1066;Non vérifié
+69126;Marcy;69;eau potable;176014;2024;86,8;2,2;14,4;67,9;conforme;451286;7845;23;71;916;Non vérifié
+69127;Marcy-l'Étoile;69;eau potable : Territoire n°1 (Eau publique du Grand Lyon);176016;2024;87,2;7,5;51,0;75,2;non calculable;11007488;28995;21;59;3778;Non vérifié
+69130;Meaux-la-Montagne;69;eau potable : Rhône-Loire-Nord;176013;2024;83,2;1,0;4,9;66,0;conforme;543120;2673;33;95;223;Non vérifié
+69131;Messimy;69;eau potable;176005;2024;76,5;4,4;14,4;67,9;conforme;1086780;63263;49;134;3546;Non vérifié
+69132;Meys;69;eau potable : principal;176006;2024;74,3;1,9;5,5;66,1;conforme;1506976;14238;45;153;861;Non vérifié
+69133;Millery;69;eau potable;176010;2024;88,2;1,8;13,6;67,7;conforme;190530;26210;17;49;4299;Non vérifié
+69134;Moiré;69;eau potable;176000;2024;85,5;1,0;6,2;66,2;conforme;101357;1672;19;59;240;Non vérifié
+69135;Deux-Grosnes;69;eau potable;176015;2024;72,2;1,0;2,7;65,5;conforme;85136;46226;65;144;1946;Non vérifié
+69136;Montagny;69;eau potable;176010;2024;88,2;1,8;13,6;67,7;conforme;190530;19619;17;49;3218;Non vérifié
+69137;Montmelas-Saint-Sorlin;69;eau potable;176004;2024;76,2;2,4;7,8;66,6;conforme;296649;6653;35;112;528;Non vérifié
+69138;Montromant;69;eau potable : principal;176006;2024;74,3;1,9;5,5;66,1;conforme;1506976;7541;45;153;456;Non vérifié
+69139;Montrottier;69;eau potable : principal;176006;2024;74,3;1,9;5,5;66,1;conforme;1506976;23152;45;153;1400;Non vérifié
+69140;Morancé;69;eau potable;176014;2024;86,8;2,2;14,4;67,9;conforme;451286;19365;23;71;2261;Non vérifié
+69141;Mornant;69;eau potable;176010;2024;88,2;1,8;13,6;67,7;conforme;190530;38300;17;49;6282;Non vérifié
+69142;La Mulatière;69;eau potable : Territoire n°1 (Eau publique du Grand Lyon);176016;2024;87,2;7,5;51,0;75,2;non calculable;11007488;50146;21;59;6534;Non vérifié
+69143;Neuville-sur-Saône;69;eau potable : Territoire n°1 (Eau publique du Grand Lyon);176016;2024;87,2;7,5;51,0;75,2;non calculable;11007488;59954;21;59;7812;Non vérifié
+69145;Odenas;69;eau potable;176004;2024;76,2;2,4;7,8;66,6;conforme;296649;11819;35;112;938;Non vérifié
+69148;Orliénas;69;eau potable;176010;2024;88,2;1,8;13,6;67,7;conforme;190530;16309;17;49;2675;Non vérifié
+69149;Oullins-Pierre-Bénite;69;eau potable : Territoire n°1 (Eau publique du Grand Lyon);176016;2024;87,2;7,5;51,0;75,2;non calculable;11007488;292926;21;59;38168;Non vérifié
+69151;Le Perréon;69;eau potable;176004;2024;76,2;2,4;7,8;66,6;conforme;296649;18900;35;112;1500;Non vérifié
+69152;Pierre-Bénite;69;eau potable : Territoire n°1 (Eau publique du Grand Lyon);176016;2023;86,5;7,9;51,0;75,2;non calculable;11822350;86362;22;59;10555;Sans anomalie apparente
+69153;Poleymieux-au-Mont-d'Or;69;eau potable : Territoire n°1 (Eau publique du Grand Lyon);176016;2024;87,2;7,5;51,0;75,2;non calculable;11007488;10837;21;59;1412;Non vérifié
+69154;Pollionnay;69;eau potable;176005;2024;76,5;4,4;14,4;67,9;conforme;1086780;52773;49;134;2958;Non vérifié
+69155;Pomeys;69;eau potable : principal;176006;2024;74,3;1,9;5,5;66,1;conforme;1506976;18621;45;153;1126;Non vérifié
+69156;Pommiers;69;eau potable;176014;2024;86,8;2,2;14,4;67,9;conforme;451286;22423;23;71;2618;Non vérifié
+69157;Vindry-sur-Turdine;69;eau potable;176012;2024;86,6;1,4;8,9;66,8;conforme;235704;45040;23;61;5305;Non vérifié
+69159;Porte des Pierres Dorées;69;eau potable;176000;2024;85,5;1,0;6,2;66,2;conforme;101357;28337;19;59;4067;Non vérifié
+69160;Poule-les-Écharmeaux;69;eau potable : Poule-les-Echarmeaux;176046;2024;84,0;0,6;3,0;65,6;conforme;7980;7980;21;72;1023;Non vérifié
+69161;Propières;69;eau potable;176015;2024;72,2;1,0;2,7;65,5;conforme;85136;11497;65;144;484;Non vérifié
+69162;Quincié-en-Beaujolais;69;eau potable;176003;2024;83,2;1,2;6,0;66,2;conforme;175480;8780;17;80;1408;Non vérifié
+69163;Quincieux;69;eau potable : Territoire n°4 (Lissieu - La Tour de Salvagny - Quincieux);201942;2024;86,8;2,5;16,5;68,3;non calculable;93732;29963;22;53;3679;Non vérifié
+69164;Ranchal;69;eau potable : Rhône-Loire-Nord;176013;2024;83,2;1,0;4,9;66,0;conforme;543120;3645;33;95;304;Non vérifié
+69165;Régnié-Durette;69;eau potable;176003;2024;83,2;1,2;6,0;66,2;conforme;175480;7177;17;80;1151;Non vérifié
+69166;Riverie;69;eau potable : principal;176006;2024;74,3;1,9;5,5;66,1;conforme;1506976;4845;45;153;293;Non vérifié
+69167;Rivolet;69;eau potable;259095;2024;88,2;3,8;28,0;70,6;conforme;481012;4783;22;61;585;Non vérifié
+69168;Rochetaillée-sur-Saône;69;eau potable : Territoire n°1 (Eau publique du Grand Lyon);176016;2024;87,2;7,5;51,0;75,2;non calculable;11007488;11903;21;59;1551;Non vérifié
+69169;Ronno;69;eau potable : Rhône-Loire-Nord;176013;2024;83,2;1,0;4,9;66,0;conforme;543120;7889;33;95;658;Non vérifié
+69170;Rontalon;69;eau potable;176010;2024;88,2;1,8;13,6;67,7;conforme;190530;7133;17;49;1170;Non vérifié
+69171;Sain-Bel;69;eau potable;176007;2024;81,6;2,2;9,7;66,9;conforme;66400;12765;14;83;2566;Non vérifié
+69172;Salles-Arbuissonnas-en-Beaujolais;69;eau potable;176004;2024;76,2;2,4;7,8;66,6;conforme;296649;10269;35;112;815;Non vérifié
+69173;Sarcey;69;eau potable;176012;2024;86,6;1,4;8,9;66,8;conforme;235704;8320;23;61;980;Non vérifié
+69174;Les Sauvages;69;eau potable : Rhône-Loire-Nord;176013;2024;83,2;1,0;4,9;66,0;conforme;543120;7505;33;95;626;Non vérifié
+69175;Savigny;69;eau potable;176012;2024;86,6;1,4;8,9;66,8;conforme;235704;16938;23;61;1995;Non vérifié
+69176;Soucieu-en-Jarrest;69;eau potable;176005;2024;76,5;4,4;14,4;67,9;conforme;1086780;83137;49;134;4660;Non vérifié
+69177;Sourcieux-les-Mines;69;eau potable;176007;2024;81,6;2,2;9,7;66,9;conforme;66400;10447;14;83;2100;Non vérifié
+69178;Souzy;69;eau potable : principal;176006;2024;74,3;1,9;5,5;66,1;conforme;1506976;12618;45;153;763;Non vérifié
+69179;Beauvallon;69;eau potable;176010;2024;88,2;1,8;13,6;67,7;conforme;190530;25972;17;49;4260;Non vérifié
+69180;Saint-André-la-Côte;69;eau potable : principal;176006;2024;74,3;1,9;5,5;66,1;conforme;1506976;4448;45;153;269;Non vérifié
+69181;Saint-Appolinaire;69;eau potable : Rhône-Loire-Nord;176013;2024;83,2;1,0;4,9;66,0;conforme;543120;2829;33;95;236;Non vérifié
+69182;Saint-Bonnet-des-Bruyères;69;eau potable;175959;2024;86,0;0,3;1,8;65,4;conforme;2363;2363;18;60;368;Non vérifié
+69183;Saint-Bonnet-le-Troncy;69;eau potable : Rhône-Loire-Nord;176013;2024;83,2;1,0;4,9;66,0;conforme;543120;3681;33;95;307;Non vérifié
+69184;Sainte-Catherine;69;eau potable : principal;176006;2024;74,3;1,9;5,5;66,1;conforme;1506976;16024;45;153;969;Non vérifié
+69186;Saint-Clément-de-Vers;69;eau potable;176015;2024;72,2;1,0;2,7;65,5;conforme;85136;4893;65;144;206;Non vérifié
+69187;Saint-Clément-les-Places;69;eau potable : principal;176006;2024;74,3;1,9;5,5;66,1;conforme;1506976;11311;45;153;684;Non vérifié
+69188;Saint-Clément-sur-Valsonne;69;eau potable;176012;2024;86,6;1,4;8,9;66,8;conforme;235704;7641;23;61;900;Non vérifié
+69189;Sainte-Colombe;69;eau potable : Secteur Saint-Romain/Sainte-Colombe;299436;2024;79,9;6,0;23,8;69,8;conforme;53655;27060;36;92;2036;Non vérifié
+69190;Sainte-Consorce;69;eau potable;176005;2024;76,5;4,4;14,4;67,9;conforme;1086780;38429;49;134;2154;Non vérifié
+69191;Saint-Cyr-au-Mont-d'Or;69;eau potable : Territoire n°1 (Eau publique du Grand Lyon);176016;2024;87,2;7,5;51,0;75,2;non calculable;11007488;48557;21;59;6327;Non vérifié
+69192;Saint-Cyr-le-Chatoux;69;eau potable;176004;2024;76,2;2,4;7,8;66,6;conforme;296649;1940;35;112;154;Non vérifié
+69193;Saint-Cyr-sur-le-Rhône;69;eau potable : Secteur Ampuis / Saint-Cyr-sur-le-Rhône;299434;2024;82,1;5,9;27,2;70,4;conforme;75006;23787;51;111;1286;Non vérifié
+69194;Saint-Didier-au-Mont-d'Or;69;eau potable : Territoire n°1 (Eau publique du Grand Lyon);176016;2024;87,2;7,5;51,0;75,2;non calculable;11007488;57061;21;59;7435;Non vérifié
+69196;Saint-Didier-sur-Beaujeu;69;eau potable;176003;2024;83,2;1,2;6,0;66,2;conforme;175480;3760;17;80;603;Non vérifié
+69197;Saint-Étienne-des-Oullières;69;eau potable;176004;2024;76,2;2,4;7,8;66,6;conforme;296649;28527;35;112;2264;Non vérifié
+69198;Saint-Étienne-la-Varenne;69;eau potable;176004;2024;76,2;2,4;7,8;66,6;conforme;296649;9879;35;112;784;Non vérifié
+69199;Saint-Fons;69;eau potable : Territoire n°1 (Eau publique du Grand Lyon);176016;2024;87,2;7,5;51,0;75,2;non calculable;11007488;148005;21;59;19285;Non vérifié
+69200;Saint-Forgeux;69;eau potable;176012;2024;86,6;1,4;8,9;66,8;conforme;235704;13109;23;61;1544;Non vérifié
+69201;Sainte-Foy-l'Argentière;69;eau potable : principal;176006;2024;74,3;1,9;5,5;66,1;conforme;1506976;21697;45;153;1312;Non vérifié
+69202;Sainte-Foy-lès-Lyon;69;eau potable : Territoire n°1 (Eau publique du Grand Lyon);176016;2024;87,2;7,5;51,0;75,2;non calculable;11007488;166478;21;59;21692;Non vérifié
+69203;Saint-Genis-l'Argentière;69;eau potable : principal;176006;2024;74,3;1,9;5,5;66,1;conforme;1506976;16306;45;153;986;Non vérifié
+69204;Saint-Genis-Laval;69;eau potable : Territoire n°1 (Eau publique du Grand Lyon);176016;2024;87,2;7,5;51,0;75,2;non calculable;11007488;162794;21;59;21212;Non vérifié
+69205;Saint-Genis-les-Ollières;69;eau potable : Territoire n°1 (Eau publique du Grand Lyon);176016;2024;87,2;7,5;51,0;75,2;non calculable;11007488;41742;21;59;5439;Non vérifié
+69206;Saint-Georges-de-Reneins;69;eau potable;176004;2024;76,2;2,4;7,8;66,6;conforme;296649;58932;35;112;4677;Non vérifié
+69207;Saint-Germain-au-Mont-d'Or;69;eau potable : Territoire n°1 (Eau publique du Grand Lyon);176016;2024;87,2;7,5;51,0;75,2;non calculable;11007488;23976;21;59;3124;Non vérifié
+69208;Saint-Germain-Nuelles;69;eau potable;176014;2024;86,8;2,2;14,4;67,9;conforme;451286;19237;23;71;2246;Non vérifié
+69209;Saint-Igny-de-Vers;69;eau potable;176015;2024;72,2;1,0;2,7;65,5;conforme;85136;14086;65;144;593;Non vérifié
+69212;Saint-Jean-des-Vignes;69;eau potable;176014;2024;86,8;2,2;14,4;67,9;conforme;451286;4163;23;71;486;Non vérifié
+69214;Saint-Jean-la-Bussière;69;eau potable : Rhône-Loire-Nord;176013;2024;83,2;1,0;4,9;66,0;conforme;543120;13943;33;95;1163;Non vérifié
+69215;Saint-Julien;69;eau potable;176004;2024;76,2;2,4;7,8;66,6;conforme;296649;12210;35;112;969;Non vérifié
+69216;Saint-Julien-sur-Bibost;69;eau potable : principal;176006;2024;74,3;1,9;5,5;66,1;conforme;1506976;10286;45;153;622;Non vérifié
+69217;Saint-Just-d'Avray;69;eau potable : Rhône-Loire-Nord;176013;2024;83,2;1,0;4,9;66,0;conforme;543120;8884;33;95;741;Non vérifié
+69218;Saint-Lager;69;eau potable;176003;2024;83,2;1,2;6,0;66,2;conforme;175480;6585;17;80;1056;Non vérifié
+69219;Saint-Laurent-d'Agny;69;eau potable;176010;2024;88,2;1,8;13,6;67,7;conforme;190530;12870;17;49;2111;Non vérifié
+69220;Saint-Laurent-de-Chamousset;69;eau potable : principal;176006;2024;74,3;1,9;5,5;66,1;conforme;1506976;33355;45;153;2017;Non vérifié
+69225;Saint-Marcel-l'Éclairé;69;eau potable;176012;2024;86,6;1,4;8,9;66,8;conforme;235704;4882;23;61;575;Non vérifié
+69227;Saint-Martin-en-Haut;69;eau potable : principal;176006;2024;74,3;1,9;5,5;66,1;conforme;1506976;65189;45;153;3942;Non vérifié
+69228;Chabanière;69;eau potable : principal;176006;2024;74,3;1,9;5,5;66,1;conforme;1506976;71490;45;153;4323;Non vérifié
+69229;Saint-Nizier-d'Azergues;69;eau potable;176009;2024;70,0;1,6;3,8;65,8;conforme;92984;13983;49;152;774;Non vérifié
+69230;Sainte-Paule;69;eau potable;176000;2024;85,5;1,0;6,2;66,2;conforme;101357;2355;19;59;338;Non vérifié
+69231;Saint-Pierre-la-Palud;69;eau potable;176007;2024;81,6;2,2;9,7;66,9;conforme;66400;13013;14;83;2616;Non vérifié
+69233;Saint-Romain-au-Mont-d'Or;69;eau potable : Territoire n°1 (Eau publique du Grand Lyon);176016;2024;87,2;7,5;51,0;75,2;non calculable;11007488;9570;21;59;1247;Non vérifié
+69234;Saint-Romain-de-Popey;69;eau potable;176012;2024;86,6;1,4;8,9;66,8;conforme;235704;14646;23;61;1725;Non vérifié
+69235;Saint-Romain-en-Gal;69;eau potable : Secteur Saint-Romain/Sainte-Colombe;299436;2024;79,9;6,0;23,8;69,8;conforme;53655;26595;36;92;2001;Non vérifié
+69236;Saint-Romain-en-Gier;69;eau potable : principal;176006;2024;74,3;1,9;5,5;66,1;conforme;1506976;9922;45;153;600;Non vérifié
+69238;Saint-Symphorien-sur-Coise;69;eau potable : principal;176006;2024;74,3;1,9;5,5;66,1;conforme;1506976;62593;45;153;3785;Non vérifié
+69239;Saint-Vérand;69;eau potable;176000;2024;85,5;1,0;6,2;66,2;conforme;101357;8110;19;59;1164;Non vérifié
+69240;Saint-Vincent-de-Reins;69;eau potable : Rhône-Loire-Nord;176013;2024;83,2;1,0;4,9;66,0;conforme;543120;7613;33;95;635;Non vérifié
+69241;Taluyers;69;eau potable;176010;2024;88,2;1,8;13,6;67,7;conforme;190530;16376;17;49;2686;Non vérifié
+69242;Taponas;69;eau potable;176003;2024;83,2;1,2;6,0;66,2;conforme;175480;5699;17;80;914;Non vérifié
+69243;Tarare;69;eau potable;176012;2024;86,6;1,4;8,9;66,8;conforme;235704;92483;23;61;10893;Non vérifié
+69244;Tassin-la-Demi-Lune;69;eau potable : Territoire n°1 (Eau publique du Grand Lyon);176016;2024;87,2;7,5;51,0;75,2;non calculable;11007488;178052;21;59;23200;Non vérifié
+69245;Ternand;69;eau potable;176000;2024;85,5;1,0;6,2;66,2;conforme;101357;5309;19;59;762;Non vérifié
+69246;Theizé;69;eau potable;176000;2024;85,5;1,0;6,2;66,2;conforme;101357;8905;19;59;1278;Non vérifié
+69248;Thizy-les-Bourgs;69;eau potable : Rhône-Loire-Nord;176013;2024;83,2;1,0;4,9;66,0;conforme;543120;69186;33;95;5771;Non vérifié
+69249;Thurins;69;eau potable;176005;2024;76,5;4,4;14,4;67,9;conforme;1086780;60730;49;134;3404;Non vérifié
+69250;La Tour-de-Salvagny;69;eau potable : Territoire n°4 (Lissieu - La Tour de Salvagny - Quincieux);201942;2024;86,8;2,5;16,5;68,3;non calculable;93732;37863;22;53;4649;Non vérifié
+69252;Trèves;69;eau potable : principal;176006;2024;74,3;1,9;5,5;66,1;conforme;1506976;11774;45;153;712;Non vérifié
+69253;Tupin-et-Semons;69;eau potable : Secteur Condrieu;299474;2024;82,5;3,8;17,7;68,5;conforme;33760;4782;20;78;653;Non vérifié
+69254;Valsonne;69;eau potable;176012;2024;86,6;1,4;8,9;66,8;conforme;235704;8533;23;61;1005;Non vérifié
+69255;Vaugneray;69;eau potable;176005;2024;76,5;4,4;14,4;67,9;conforme;1086780;112467;49;134;6304;Non vérifié
+69256;Vaulx-en-Velin;69;eau potable : Territoire n°1 (Eau publique du Grand Lyon);176016;2024;87,2;7,5;51,0;75,2;non calculable;11007488;407285;21;59;53069;Non vérifié
+69257;Vaux-en-Beaujolais;69;eau potable;176004;2024;76,2;2,4;7,8;66,6;conforme;296649;14730;35;112;1169;Non vérifié
+69258;Vauxrenard;69;eau potable;176008;2024;79,8;1,4;5,6;66,1;conforme;95664;4524;40;107;311;Non vérifié
+69259;Vénissieux;69;eau potable : Territoire n°1 (Eau publique du Grand Lyon);176016;2024;87,2;7,5;51,0;75,2;non calculable;11007488;502704;21;59;65502;Non vérifié
+69260;Vernaison;69;eau potable : Territoire n°1 (Eau publique du Grand Lyon);176016;2024;87,2;7,5;51,0;75,2;non calculable;11007488;39985;21;59;5210;Non vérifié
+69261;Vernay;69;eau potable;176003;2024;83,2;1,2;6,0;66,2;conforme;175480;773;17;80;124;Non vérifié
+69263;Villechenève;69;eau potable : principal;176006;2024;74,3;1,9;5,5;66,1;conforme;1506976;15247;45;153;922;Non vérifié
+69264;Villefranche-sur-Saône;69;eau potable;259095;2024;88,2;3,8;28,0;70,6;conforme;481012;295758;22;61;36172;Non vérifié
+69265;Ville-sur-Jarnioux;69;eau potable;259095;2024;88,2;3,8;28,0;70,6;conforme;481012;6770;22;61;828;Non vérifié
+69266;Villeurbanne;69;eau potable : Territoire n°1 (Eau publique du Grand Lyon);176016;2024;87,2;7,5;51,0;75,2;non calculable;11007488;1256215;21;59;163684;Non vérifié
+69267;Villié-Morgon;69;eau potable;176008;2024;79,8;1,4;5,6;66,1;conforme;95664;31248;40;107;2148;Non vérifié
+69268;Vourles;69;eau potable;176010;2024;88,2;1,8;13,6;67,7;conforme;190530;20314;17;49;3332;Non vérifié
+69269;Yzeron;69;eau potable;176005;2024;76,5;4,4;14,4;67,9;conforme;1086780;17751;49;134;995;Non vérifié
+69270;Chaponnay;69;eau potable;201782;2024;73,4;2,5;7,0;66,4;conforme;158310;52987;32;131;4548;Non vérifié
+69271;Chassieu;69;eau potable : Territoire n°1 (Eau publique du Grand Lyon);176016;2024;87,2;7,5;51,0;75,2;non calculable;11007488;86017;21;59;11208;Non vérifié
+69272;Communay;69;eau potable;176001;2024;82,8;3,8;18,3;68,7;conforme;244251;51883;31;91;4540;Non vérifié
+69273;Corbas;69;eau potable : Territoire n°1 (Eau publique du Grand Lyon);176016;2024;87,2;7,5;51,0;75,2;non calculable;11007488;86839;21;59;11315;Non vérifié
+69275;Décines-Charpieu;69;eau potable : Territoire n°1 (Eau publique du Grand Lyon);176016;2024;87,2;7,5;51,0;75,2;non calculable;11007488;229295;21;59;29877;Non vérifié
+69276;Feyzin;69;eau potable : Territoire n°1 (Eau publique du Grand Lyon);176016;2024;87,2;7,5;51,0;75,2;non calculable;11007488;79079;21;59;10304;Non vérifié
+69277;Genas;69;eau potable;187017;2024;80,1;5,2;21,0;69,2;conforme;178811;178811;37;90;13421;Non vérifié
+69278;Genay;69;eau potable : Territoire n°1 (Eau publique du Grand Lyon);176016;2024;87,2;7,5;51,0;75,2;non calculable;11007488;42863;21;59;5585;Non vérifié
+69279;Jonage;69;eau potable : Territoire n°1 (Eau publique du Grand Lyon);176016;2024;87,2;7,5;51,0;75,2;non calculable;11007488;47153;21;59;6144;Non vérifié
+69280;Jons;69;eau potable;187027;2024;85,7;3,0;18,1;68,6;conforme;12428;12428;21;60;1647;Non vérifié
+69281;Marennes;69;eau potable;176050;2024;77,7;3,9;13,4;67,7;conforme;106122;32323;44;106;1992;Non vérifié
+69282;Meyzieu;69;eau potable : Territoire n°1 (Eau publique du Grand Lyon);176016;2024;87,2;7,5;51,0;75,2;non calculable;11007488;281559;21;59;36687;Non vérifié
+69283;Mions;69;eau potable : Territoire n°1 (Eau publique du Grand Lyon);176016;2024;87,2;7,5;51,0;75,2;non calculable;11007488;106240;21;59;13843;Non vérifié
+69284;Montanay;69;eau potable : Territoire n°1 (Eau publique du Grand Lyon);176016;2024;87,2;7,5;51,0;75,2;non calculable;11007488;25388;21;59;3308;Non vérifié
+69285;Pusignan;69;eau potable;187020;2024;86,9;3,0;19,6;68,9;conforme;40964;40964;27;57;4119;Non vérifié
+69286;Rillieux-la-Pape;69;eau potable : Territoire n°1 (Eau publique du Grand Lyon);176016;2024;87,2;7,5;51,0;75,2;non calculable;11007488;240899;21;59;31389;Non vérifié
+69287;Saint-Bonnet-de-Mure;69;eau potable;187028;2024;74,3;6,4;18,6;68,7;conforme;125023;125023;49;126;6984;Non vérifié
+69288;Saint-Laurent-de-Mure;69;eau potable;187023;2024;80,8;4,4;18,5;68,7;conforme;77281;77281;37;88;5791;Non vérifié
+69289;Saint-Pierre-de-Chandieu;69;eau potable;176049;2024;66,3;5,8;11,4;67,3;non conforme;130217;130217;77;185;4616;Non vérifié
+69290;Saint-Priest;69;eau potable : Territoire n°1 (Eau publique du Grand Lyon);176016;2024;87,2;7,5;51,0;75,2;non calculable;11007488;377815;21;59;49229;Non vérifié
+69291;Saint-Symphorien-d'Ozon;69;eau potable;176001;2024;82,8;3,8;18,3;68,7;conforme;244251;70694;31;91;6186;Non vérifié
+69292;Sathonay-Camp;69;eau potable : Territoire n°1 (Eau publique du Grand Lyon);176016;2024;87,2;7,5;51,0;75,2;non calculable;11007488;53868;21;59;7019;Non vérifié
+69293;Sathonay-Village;69;eau potable : Territoire n°1 (Eau publique du Grand Lyon);176016;2024;87,2;7,5;51,0;75,2;non calculable;11007488;18511;21;59;2412;Non vérifié
+69294;Sérézin-du-Rhône;69;eau potable;176001;2024;82,8;3,8;18,3;68,7;conforme;244251;35804;31;91;3133;Non vérifié
+69295;Simandres;69;eau potable;176001;2024;82,8;3,8;18,3;68,7;conforme;244251;21919;31;91;1918;Non vérifié
+69296;Solaize;69;eau potable : Territoire n°1 (Eau publique du Grand Lyon);176016;2024;87,2;7,5;51,0;75,2;non calculable;11007488;24129;21;59;3144;Non vérifié
+69297;Ternay;69;eau potable;176001;2024;82,8;3,8;18,3;68,7;conforme;244251;63951;31;91;5596;Non vérifié
+69298;Toussieu;69;eau potable;175997;2024;79,6;5,1;20,0;69,0;conforme;39669;39669;34;93;3177;Non vérifié
+69299;Colombier-Saugnieu;69;eau potable;187029;2024;92,4;1,0;11,6;67,3;conforme;13322;13322;13;31;2874;Non vérifié

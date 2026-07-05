@@ -1,0 +1,656 @@
+﻿# DourData — eau perdue par les réseaux d'eau potable (indicateurs SISPEA)
+# Périmètre : Département 59
+# Source : SISPEA — Système d'Information des Services Publics d'Eau et d'Assainissement, via data.gouv.fr / services.eaufrance.fr
+# Licence : Licence Ouverte 2.0 (Etalab)
+# Millésime des données : 2021–2024 (année la plus récente disponible par commune)
+# Date de génération de l'export : 2026-07-05
+# Méthodologie et code : https://github.com/btaverne/dourdata
+# Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
+# Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
+59001;Abancourt;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;5149;32;96;441;Non vérifié
+59002;Abscon;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;47962;32;96;4108;Non vérifié
+59003;Aibes;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;4086;32;96;350;Non vérifié
+59004;Aix-en-Pévèle;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;15621;32;96;1338;Non vérifié
+59005;Allennes-les-Marais;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;26175;20;58;3545;Non vérifié
+59006;Amfroipret;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;7227;32;96;619;Non vérifié
+59007;Anhiers;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;10368;32;96;888;Non vérifié
+59008;Aniche;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;116320;32;96;9963;Non vérifié
+59009;Villeneuve-d'Ascq;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;464192;20;58;62868;Non vérifié
+59010;Anneux;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;3012;32;96;258;Non vérifié
+59011;Annoeullin;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;80090;20;58;10847;Non vérifié
+59012;Anor;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;36181;32;96;3099;Non vérifié
+59013;Anstaing;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;12043;20;58;1631;Non vérifié
+59014;Anzin;59;eau potable : Secteur Centre Valenciennes;138442;2024;81,5;5,9;25,9;70,2;conforme;2018756;172985;36;105;13183;Non vérifié
+59015;Arleux;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;36485;32;96;3125;Non vérifié
+59016;Armbouts-Cappel;59;eau potable;138440;2024;90,2;2,3;21,1;69,2;conforme;1343628;13440;18;41;2077;Non vérifié
+59017;Armentières;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;199342;20;58;26998;Non vérifié
+59018;Arnèke;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;18610;32;96;1594;Non vérifié
+59019;Artres;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;12633;32;96;1082;Non vérifié
+59021;Assevent;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;20653;32;96;1769;Non vérifié
+59022;Attiches;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;26211;32;96;2245;Non vérifié
+59023;Aubencheul-au-Bac;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;6410;32;96;549;Non vérifié
+59024;Auberchicourt;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;54009;32;96;4626;Non vérifié
+59025;Aubers;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;20420;32;96;1749;Non vérifié
+59026;Aubigny-au-Bac;59;eau potable : Aubigny-au-Bac;138374;2024;92,8;1,4;17,9;68,6;conforme;6444;6444;15;49;1143;Non vérifié
+59027;Aubry-du-Hainaut;59;eau potable : Secteur Centre Valenciennes;138442;2024;81,5;5,9;25,9;70,2;conforme;2018756;22373;36;105;1705;Non vérifié
+59028;Auby;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;82695;32;96;7083;Non vérifié
+59029;Auchy-lez-Orchies;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;18669;32;96;1599;Non vérifié
+59031;Audignies;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;4191;32;96;359;Non vérifié
+59032;Aulnoy-lez-Valenciennes;59;eau potable : Secteur Centre Valenciennes;138442;2024;81,5;5,9;25,9;70,2;conforme;2018756;92903;36;105;7080;Non vérifié
+59033;Aulnoye-Aymeries;59;eau potable;202396;2024;85,8;3,2;19,6;68,9;conforme;840142;70275;22;64;8612;Non vérifié
+59034;Avelin;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;29900;32;96;2561;Non vérifié
+59035;Avesnelles;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;26059;32;96;2232;Non vérifié
+59036;Avesnes-sur-Helpe;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;46841;32;96;4012;Non vérifié
+59037;Avesnes-les-Aubert;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;41587;32;96;3562;Non vérifié
+59038;Avesnes-le-Sec;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;17022;32;96;1458;Non vérifié
+59039;Awoingt;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;8838;32;96;757;Non vérifié
+59041;Bachant;59;eau potable;202396;2024;85,8;3,2;19,6;68,9;conforme;840142;18197;22;64;2230;Non vérifié
+59042;Bachy;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;22160;32;96;1898;Non vérifié
+59043;Bailleul;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;171999;32;96;14732;Non vérifié
+59044;Baisieux;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;64739;32;96;5545;Non vérifié
+59045;Baives;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;1845;32;96;158;Non vérifié
+59046;Bambecque;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;9866;32;96;845;Non vérifié
+59047;Banteux;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;3958;32;96;339;Non vérifié
+59048;Bantigny;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;5768;32;96;494;Non vérifié
+59049;Bantouzelle;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;5149;32;96;441;Non vérifié
+59050;Bas-Lieu;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;4063;32;96;348;Non vérifié
+59051;La Bassée;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;49101;20;58;6650;Non vérifié
+59052;Bauvin;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;38757;20;58;5249;Non vérifié
+59053;Bavay;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;37933;32;96;3249;Non vérifié
+59054;Bavinchove;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;12201;32;96;1045;Non vérifié
+59055;Bazuel;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;6433;32;96;551;Non vérifié
+59056;Beaucamps-Ligny;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;6239;20;58;845;Non vérifié
+59057;Beaudignies;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;6702;32;96;574;Non vérifié
+59058;Beaufort;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;11617;32;96;995;Non vérifié
+59059;Beaumont-en-Cambrésis;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;5347;32;96;458;Non vérifié
+59060;Beaurain;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;2732;32;96;234;Non vérifié
+59061;Beaurepaire-sur-Sambre;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;3176;32;96;272;Non vérifié
+59062;Beaurieux;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;1973;32;96;169;Non vérifié
+59063;Beauvois-en-Cambrésis;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;22568;32;96;1933;Non vérifié
+59064;Bellaing;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;15189;32;96;1301;Non vérifié
+59065;Bellignies;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;9457;32;96;810;Non vérifié
+59066;Bérelles;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;1903;32;96;163;Non vérifié
+59067;Bergues;59;eau potable;138440;2024;90,2;2,3;21,1;69,2;conforme;1343628;22810;18;41;3525;Non vérifié
+59068;Berlaimont;59;eau potable;202396;2024;85,8;3,2;19,6;68,9;conforme;840142;25778;22;64;3159;Non vérifié
+59069;Bermerain;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;9083;32;96;778;Non vérifié
+59070;Bermeries;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;4448;32;96;381;Non vérifié
+59071;Bersée;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;27063;32;96;2318;Non vérifié
+59072;Bersillies;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;2767;32;96;237;Non vérifié
+59073;Berthen;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;7320;32;96;627;Non vérifié
+59074;Bertry;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;24985;32;96;2140;Non vérifié
+59075;Béthencourt;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;8044;32;96;689;Non vérifié
+59076;Bettignies;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;4005;32;96;343;Non vérifié
+59077;Bettrechies;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;2954;32;96;253;Non vérifié
+59078;Beugnies;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;6993;32;96;599;Non vérifié
+59079;Beuvrages;59;eau potable : Secteur Centre Valenciennes;138442;2024;81,5;5,9;25,9;70,2;conforme;2018756;89176;36;105;6796;Non vérifié
+59080;Beuvry-la-Forêt;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;33403;32;96;2861;Non vérifié
+59081;Bévillers;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;6176;32;96;529;Non vérifié
+59082;Bierne;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;20035;32;96;1716;Non vérifié
+59083;Bissezeele;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;2790;32;96;239;Non vérifié
+59084;Blaringhem;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;23444;32;96;2008;Non vérifié
+59085;Blécourt;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;3654;32;96;313;Non vérifié
+59086;Boeschepe;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;26199;32;96;2244;Non vérifié
+59087;Boëseghem;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;8943;32;96;766;Non vérifié
+59088;Bois-Grenier;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;20723;32;96;1775;Non vérifié
+59089;Bollezeele;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;16871;32;96;1445;Non vérifié
+59090;Bondues;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;71968;20;58;9747;Non vérifié
+59091;Borre;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;6456;32;96;553;Non vérifié
+59092;Bouchain;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;48020;32;96;4113;Non vérifié
+59093;Boulogne-sur-Helpe;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;3397;32;96;291;Non vérifié
+59094;Bourbourg;59;eau potable;138440;2024;90,2;2,3;21,1;69,2;conforme;1343628;44849;18;41;6931;Non vérifié
+59096;Bourghelles;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;19638;32;96;1682;Non vérifié
+59097;Boursies;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;4203;32;96;360;Non vérifié
+59098;Bousbecque;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;36756;20;58;4978;Non vérifié
+59100;Bousignies;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;3958;32;96;339;Non vérifié
+59101;Bousignies-sur-Roc;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;4308;32;96;369;Non vérifié
+59102;Boussières-en-Cambrésis;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;5090;32;96;436;Non vérifié
+59103;Boussières-sur-Sambre;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;6094;32;96;522;Non vérifié
+59104;Boussois;59;eau potable;202396;2024;85,8;3,2;19,6;68,9;conforme;840142;25484;22;64;3123;Non vérifié
+59105;Bouvignies;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;18447;32;96;1580;Non vérifié
+59106;Bouvines;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;8943;32;96;766;Non vérifié
+59107;Bray-Dunes;59;eau potable;138440;2024;90,2;2,3;21,1;69,2;conforme;1343628;27106;18;41;4189;Non vérifié
+59108;Briastre;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;8044;32;96;689;Non vérifié
+59109;Brillon;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;9002;32;96;771;Non vérifié
+59110;Brouckerque;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;16952;32;96;1452;Non vérifié
+59111;Broxeele;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;4962;32;96;425;Non vérifié
+59112;Bruay-sur-l'Escaut;59;eau potable : Secteur Centre Valenciennes;138442;2024;81,5;5,9;25,9;70,2;conforme;2018756;152791;36;105;11644;Non vérifié
+59113;Bruille-lez-Marchiennes;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;15645;32;96;1340;Non vérifié
+59114;Bruille-Saint-Amand;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;19824;32;96;1698;Non vérifié
+59115;Brunémont;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;8219;32;96;704;Non vérifié
+59116;Bry;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;4553;32;96;390;Non vérifié
+59117;Bugnicourt;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;12784;32;96;1095;Non vérifié
+59118;Busigny;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;28429;32;96;2435;Non vérifié
+59119;Buysscheure;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;6795;32;96;582;Non vérifié
+59120;Caëstre;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;22778;32;96;1951;Non vérifié
+59121;Cagnoncles;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;7741;32;96;663;Non vérifié
+59122;Cambrai;59;eau potable : Cambrai;138383;2024;91,7;3,7;40,0;73,0;conforme;249316;249316;22;53;31134;Non vérifié
+59123;Camphin-en-Carembault;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;20280;32;96;1737;Non vérifié
+59124;Camphin-en-Pévèle;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;29398;32;96;2518;Non vérifié
+59126;Cantin;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;20327;32;96;1741;Non vérifié
+59127;Capelle;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;1576;32;96;135;Non vérifié
+59128;Capinghem;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;20142;20;58;2728;Non vérifié
+59129;Cappelle-en-Pévèle;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;26351;32;96;2257;Non vérifié
+59130;Cappelle-Brouck;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;13648;32;96;1169;Non vérifié
+59131;Cappelle-la-Grande;59;eau potable;138440;2024;90,2;2,3;21,1;69,2;conforme;1343628;50725;18;41;7839;Non vérifié
+59132;Carnières;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;11477;32;96;983;Non vérifié
+59133;Carnin;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;12901;32;96;1105;Non vérifié
+59134;Cartignies;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;14115;32;96;1209;Non vérifié
+59135;Cassel;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;25662;32;96;2198;Non vérifié
+59136;Le Cateau-Cambrésis;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;78971;32;96;6764;Non vérifié
+59137;Catillon-sur-Sambre;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;9118;32;96;781;Non vérifié
+59138;Cattenières;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;8044;32;96;689;Non vérifié
+59139;Caudry;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;161503;32;96;13833;Non vérifié
+59140;Caullery;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;5452;32;96;467;Non vérifié
+59141;Cauroir;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;6760;32;96;579;Non vérifié
+59142;Cerfontaine;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;7542;32;96;646;Non vérifié
+59143;La Chapelle-d'Armentières;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;64636;20;58;8754;Non vérifié
+59144;Château-l'Abbaye;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;10706;32;96;917;Non vérifié
+59145;Chemy;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;8943;32;96;766;Non vérifié
+59146;Chéreng;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;35936;32;96;3078;Non vérifié
+59147;Choisies;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;502;32;96;43;Non vérifié
+59148;Clairfayts;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;4168;32;96;357;Non vérifié
+59149;Clary;59;eau potable : Contrat 4 : CLARY;344934;2024;68,3;5,2;11,1;67,2;conforme;16721;16721;42;171;1088;Non vérifié
+59150;Cobrieux;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;6573;32;96;563;Non vérifié
+59151;Colleret;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;17991;32;96;1541;Non vérifié
+59152;Comines;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;94001;20;58;12731;Non vérifié
+59153;Condé-sur-l'Escaut;59;eau potable : Secteur Nord Condé;138441;2024;83,1;3,0;14,8;68,0;conforme;232370;67821;20;79;9253;Non vérifié
+59155;Coudekerque-Branche;59;eau potable;138440;2024;90,2;2,3;21,1;69,2;conforme;1343628;134508;18;41;20787;Non vérifié
+59156;Courchelettes;59;eau potable : principal;138502;2024;90,6;2,8;26,4;70,3;conforme;292844;14985;14;40;2855;Non vérifié
+59157;Cousolre;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;25137;32;96;2153;Non vérifié
+59158;Coutiches;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;40116;32;96;3436;Non vérifié
+59159;Craywick;59;eau potable;138440;2024;90,2;2,3;21,1;69,2;conforme;1343628;5118;18;41;791;Non vérifié
+59160;Crespin;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;52912;32;96;4532;Non vérifié
+59161;Crèvecoeur-sur-l'Escaut;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;8359;32;96;716;Non vérifié
+59162;Crochte;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;7694;32;96;659;Non vérifié
+59163;Croix;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;151851;20;58;20566;Non vérifié
+59164;Croix-Caluyau;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;2779;32;96;238;Non vérifié
+59165;Cuincy;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;75504;32;96;6467;Non vérifié
+59166;Curgies;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;15563;32;96;1333;Non vérifié
+59167;Cuvillers;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;2067;32;96;177;Non vérifié
+59168;Cysoing;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;56496;32;96;4839;Non vérifié
+59169;Damousies;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;2393;32;96;205;Non vérifié
+59170;Dechy;59;eau potable : Dechy;138500;2024;98,0;2,2;104,6;85,0;conforme;26523;26523;14;36;5338;Non vérifié
+59171;Dehéries;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;502;32;96;43;Non vérifié
+59172;Denain;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;241268;32;96;20665;Non vérifié
+59173;Deûlémont;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;20759;32;96;1778;Non vérifié
+59174;Dimechaux;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;3818;32;96;327;Non vérifié
+59175;Dimont;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;3374;32;96;289;Non vérifié
+59176;Doignies;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;3794;32;96;325;Non vérifié
+59177;Dompierre-sur-Helpe;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;9515;32;96;815;Non vérifié
+59178;Douai;59;eau potable : principal;138502;2024;90,6;2,8;26,4;70,3;conforme;292844;211255;14;40;40250;Non vérifié
+59179;Douchy-les-Mines;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;118025;32;96;10109;Non vérifié
+59180;Le Doulieu;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;16766;32;96;1436;Non vérifié
+59181;Dourlers;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;6258;32;96;536;Non vérifié
+59182;Drincham;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;3281;32;96;281;Non vérifié
+59183;Dunkerque;59;eau potable;138440;2024;90,2;2,3;21,1;69,2;conforme;1343628;558190;18;41;86263;Non vérifié
+59184;Ebblinghem;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;7706;32;96;660;Non vérifié
+59185;Écaillon;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;21821;32;96;1869;Non vérifié
+59186;Eccles;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;1097;32;96;94;Non vérifié
+59187;Éclaibes;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;3141;32;96;269;Non vérifié
+59188;Écuélin;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;1693;32;96;145;Non vérifié
+59189;Eecke;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;14162;32;96;1213;Non vérifié
+59190;Élesmes;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;11827;32;96;1013;Non vérifié
+59191;Élincourt;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;7075;32;96;606;Non vérifié
+59192;Émerchicourt;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;9387;32;96;804;Non vérifié
+59193;Emmerin;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;35329;32;96;3026;Non vérifié
+59194;Englefontaine;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;15073;32;96;1291;Non vérifié
+59195;Englos;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;4563;20;58;618;Non vérifié
+59196;Ennetières-en-Weppes;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;9451;20;58;1280;Non vérifié
+59197;Ennevelin;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;28207;32;96;2416;Non vérifié
+59198;Eppe-Sauvage;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;2767;32;96;237;Non vérifié
+59199;Erchin;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;7822;32;96;670;Non vérifié
+59200;Eringhem;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;5394;32;96;462;Non vérifié
+59201;Erquinghem-le-Sec;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;4578;20;58;620;Non vérifié
+59202;Erquinghem-Lys;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;62357;32;96;5341;Non vérifié
+59203;Erre;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;18517;32;96;1586;Non vérifié
+59204;Escarmain;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;5592;32;96;479;Non vérifié
+59205;Escaudain;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;105532;32;96;9039;Non vérifié
+59206;Escaudoeuvres;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;37022;32;96;3171;Non vérifié
+59207;Escautpont;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;49059;32;96;4202;Non vérifié
+59208;Escobecques;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;3526;32;96;302;Non vérifié
+59209;Esnes;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;7659;32;96;656;Non vérifié
+59210;Esquelbecq;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;24950;32;96;2137;Non vérifié
+59211;Esquerchin;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;10426;32;96;893;Non vérifié
+59212;Estaires;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;76181;32;96;6525;Non vérifié
+59213;Estourmel;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;5546;32;96;475;Non vérifié
+59214;Estrées;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;13240;32;96;1134;Non vérifié
+59215;Estreux;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;10940;32;96;937;Non vérifié
+59216;Eswars;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;4238;32;96;363;Non vérifié
+59217;Eth;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;3829;32;96;328;Non vérifié
+59218;Étroeungt;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;14396;32;96;1233;Non vérifié
+59219;Estrun;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;8465;32;96;725;Non vérifié
+59220;Faches-Thumesnil;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;137475;20;58;18619;Non vérifié
+59221;Famars;59;eau potable : Secteur Centre Valenciennes;138442;2024;81,5;5,9;25,9;70,2;conforme;2018756;32463;36;105;2474;Non vérifié
+59222;Faumont;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;26596;32;96;2278;Non vérifié
+59223;Le Favril;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;5908;32;96;506;Non vérifié
+59224;Féchain;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;19089;32;96;1635;Non vérifié
+59225;Feignies;59;eau potable;202396;2024;85,8;3,2;19,6;68,9;conforme;840142;54697;22;64;6703;Non vérifié
+59226;Felleries;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;16731;32;96;1433;Non vérifié
+59227;Fenain;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;63525;32;96;5441;Non vérifié
+59228;Férin;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;16719;32;96;1432;Non vérifié
+59229;Féron;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;6001;32;96;514;Non vérifié
+59230;Ferrière-la-Grande;59;eau potable;202396;2024;85,8;3,2;19,6;68,9;conforme;840142;41870;22;64;5131;Non vérifié
+59231;Ferrière-la-Petite;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;11955;32;96;1024;Non vérifié
+59232;La Flamengrie;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;5032;32;96;431;Non vérifié
+59233;Flaumont-Waudrechies;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;3993;32;96;342;Non vérifié
+59234;Flers-en-Escrebieux;59;eau potable : principal;138502;2024;90,6;2,8;26,4;70,3;conforme;292844;28468;14;40;5424;Non vérifié
+59236;Flesquières;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;3222;32;96;276;Non vérifié
+59237;Flêtre;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;10776;32;96;923;Non vérifié
+59238;Flines-lès-Mortagne;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;19673;32;96;1685;Non vérifié
+59239;Flines-lez-Raches;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;67074;32;96;5745;Non vérifié
+59240;Floursies;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;1529;32;96;131;Non vérifié
+59241;Floyon;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;5896;32;96;505;Non vérifié
+59242;Fontaine-au-Bois;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;8021;32;96;687;Non vérifié
+59243;Fontaine-au-Pire;59;eau potable : eau potable;288074;2024;81,9;2,6;12,0;67,4;conforme;15374;10902;25;79;1214;Non vérifié
+59244;Fontaine-Notre-Dame;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;20478;32;96;1754;Non vérifié
+59246;Forest-en-Cambrésis;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;6410;32;96;549;Non vérifié
+59247;Forest-sur-Marque;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;12272;20;58;1662;Non vérifié
+59249;Fourmies;59;eau potable;138396;2024;82,5;3,6;17,1;68,4;conforme;105606;105606;25;77;11449;Non vérifié
+59250;Fournes-en-Weppes;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;16089;20;58;2179;Non vérifié
+59251;Frasnoy;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;4542;32;96;389;Non vérifié
+59252;Frelinghien;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;30461;32;96;2609;Non vérifié
+59253;Fresnes-sur-Escaut;59;eau potable : Secteur Nord Condé;138441;2024;83,1;3,0;14,8;68,0;conforme;232370;53902;20;79;7354;Non vérifié
+59254;Fressain;59;eau potable : Fressain;138397;2024;93,3;0,7;9,4;66,9;conforme;2394;2394;7;27;919;Non vérifié
+59255;Fressies;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;6667;32;96;571;Non vérifié
+59256;Fretin;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;23731;20;58;3214;Non vérifié
+59257;Fromelles;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;13555;32;96;1161;Non vérifié
+59258;Genech;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;32726;32;96;2803;Non vérifié
+59259;Ghissignies;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;5896;32;96;505;Non vérifié
+59260;Ghyvelde;59;eau potable;138440;2024;90,2;2,3;21,1;69,2;conforme;1343628;26744;18;41;4133;Non vérifié
+59261;Glageon;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;19836;32;96;1699;Non vérifié
+59262;Godewaersvelde;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;23631;32;96;2024;Non vérifié
+59263;Goeulzin;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;12492;32;96;1070;Non vérifié
+59264;Gognies-Chaussée;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;8441;32;96;723;Non vérifié
+59265;Gommegnies;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;26433;32;96;2264;Non vérifié
+59266;Gondecourt;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;48429;32;96;4148;Non vérifié
+59267;Gonnelieu;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;3257;32;96;279;Non vérifié
+59268;La Gorgue;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;65568;32;96;5616;Non vérifié
+59269;Gouzeaucourt;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;16497;32;96;1413;Non vérifié
+59270;Grand-Fayt;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;5522;32;96;473;Non vérifié
+59271;Grande-Synthe;59;eau potable;138440;2024;90,2;2,3;21,1;69,2;conforme;1343628;130962;18;41;20239;Non vérifié
+59272;Grand-Fort-Philippe;59;eau potable;138440;2024;90,2;2,3;21,1;69,2;conforme;1343628;31623;18;41;4887;Non vérifié
+59273;Gravelines;59;eau potable;138440;2024;90,2;2,3;21,1;69,2;conforme;1343628;73961;18;41;11430;Non vérifié
+59274;La Groise;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;5417;32;96;464;Non vérifié
+59275;Gruson;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;8912;20;58;1207;Non vérifié
+59276;Guesnain;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;54115;32;96;4635;Non vérifié
+59277;Gussignies;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;4121;32;96;353;Non vérifié
+59278;Hallennes-lez-Haubourdin;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;34577;20;58;4683;Non vérifié
+59279;Halluin;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;152951;20;58;20715;Non vérifié
+59280;Hamel;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;9305;32;96;797;Non vérifié
+59281;Hantay;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;14524;32;96;1244;Non vérifié
+59282;Hardifort;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;4495;32;96;385;Non vérifié
+59283;Hargnies;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;6993;32;96;599;Non vérifié
+59284;Hasnon;59;eau potable : Contrat 2 Ex_SEV-SIRVAEP;344914;2024;81,5;5,9;25,9;70,2;conforme;2018756;240914;171;105;3849;Non vérifié
+59285;Haspres;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;30659;32;96;2626;Non vérifié
+59286;Haubourdin;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;111300;20;58;15074;Non vérifié
+59287;Haucourt-en-Cambrésis;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;2253;32;96;193;Non vérifié
+59288;Haulchin;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;26631;32;96;2281;Non vérifié
+59289;Haussy;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;16941;32;96;1451;Non vérifié
+59290;Haut-Lieu;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;4215;32;96;361;Non vérifié
+59291;Hautmont;59;eau potable;202396;2024;85,8;3,2;19,6;68,9;conforme;840142;115482;22;64;14152;Non vérifié
+59292;Haveluy;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;37618;32;96;3222;Non vérifié
+59293;Haverskerque;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;16065;32;96;1376;Non vérifié
+59294;Haynecourt;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;3584;32;96;307;Non vérifié
+59295;Hazebrouck;59;eau potable;138401;2024;76,7;7,5;24,7;69,9;conforme;462638;462638;58;172;21912;Non vérifié
+59296;Hecq;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;4121;32;96;353;Non vérifié
+59297;Hélesmes;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;22265;32;96;1907;Non vérifié
+59299;Hem;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;137202;20;58;18582;Non vérifié
+59300;Hem-Lenglet;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;6596;32;96;565;Non vérifié
+59301;Hergnies;59;eau potable : Secteur Nord Condé;138441;2024;83,1;3,0;14,8;68,0;conforme;232370;32829;20;79;4479;Non vérifié
+59302;Hérin;59;eau potable : Contrat 2 Ex_SEV-SIRVAEP;344914;2024;81,5;5,9;25,9;70,2;conforme;2018756;260943;171;105;4169;Non vérifié
+59303;Herlies;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;26468;32;96;2267;Non vérifié
+59304;Herrin;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;4962;32;96;425;Non vérifié
+59305;Herzeele;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;19124;32;96;1638;Non vérifié
+59306;Hestrud;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;3362;32;96;288;Non vérifié
+59307;Holque;59;eau potable;138440;2024;90,2;2,3;21,1;69,2;conforme;1343628;5416;18;41;837;Non vérifié
+59308;Hondeghem;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;10694;32;96;916;Non vérifié
+59309;Hondschoote;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;46199;32;96;3957;Non vérifié
+59310;Hon-Hergies;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;10122;32;96;867;Non vérifié
+59311;Honnechy;59;eau potable : Contrat 3 - Ex SI des Eaux d'Honnechy Maurois;344915;2024;68,2;4,1;8,8;66,8;conforme;16087;9200;47;190;541;Non vérifié
+59312;Honnecourt-sur-Escaut;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;8289;32;96;710;Non vérifié
+59313;Hordain;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;16882;32;96;1446;Non vérifié
+59314;Hornaing;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;40817;32;96;3496;Non vérifié
+59315;Houdain-lez-Bavay;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;10531;32;96;902;Non vérifié
+59316;Houplin-Ancoisne;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;38832;32;96;3326;Non vérifié
+59317;Houplines;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;58486;20;58;7921;Non vérifié
+59318;Houtkerque;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;11418;32;96;978;Non vérifié
+59319;Hoymille;59;eau potable;138440;2024;90,2;2,3;21,1;69,2;conforme;1343628;21088;18;41;3259;Non vérifié
+59320;Illies;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;19988;32;96;1712;Non vérifié
+59321;Inchy;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;7227;32;96;619;Non vérifié
+59322;Iwuy;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;39731;32;96;3403;Non vérifié
+59323;Jenlain;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;13018;32;96;1115;Non vérifié
+59324;Jeumont;59;eau potable;202396;2024;85,8;3,2;19,6;68,9;conforme;840142;82907;22;64;10160;Non vérifié
+59325;Jolimetz;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;9994;32;96;856;Non vérifié
+59326;Killem;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;13590;32;96;1164;Non vérifié
+59327;Lallaing;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;73402;32;96;6287;Non vérifié
+59328;Lambersart;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;200022;20;58;27090;Non vérifié
+59329;Lambres-lez-Douai;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;57010;32;96;4883;Non vérifié
+59330;Landas;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;29398;32;96;2518;Non vérifié
+59331;Landrecies;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;39777;32;96;3407;Non vérifié
+59332;Lannoy;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;13379;20;58;1812;Non vérifié
+59333;Larouillies;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;2697;32;96;231;Non vérifié
+59334;Lauwin-Planque;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;18774;32;96;1608;Non vérifié
+59335;Lecelles;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;35563;32;96;3046;Non vérifié
+59336;Lécluse;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;15715;32;96;1346;Non vérifié
+59337;Lederzeele;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;8208;32;96;703;Non vérifié
+59338;Ledringhem;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;7134;32;96;611;Non vérifié
+59339;Leers;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;70299;20;58;9521;Non vérifié
+59340;Leffrinckoucke;59;eau potable;138440;2024;90,2;2,3;21,1;69,2;conforme;1343628;26388;18;41;4078;Non vérifié
+59341;Lesdain;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;5044;32;96;432;Non vérifié
+59342;Lez-Fontaine;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;2755;32;96;236;Non vérifié
+59343;Lesquin;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;70883;20;58;9600;Non vérifié
+59344;Leval;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;28884;32;96;2474;Non vérifié
+59345;Lewarde;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;27472;32;96;2353;Non vérifié
+59346;Lezennes;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;21988;20;58;2978;Non vérifié
+59347;Liessies;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;6153;32;96;527;Non vérifié
+59348;Lieu-Saint-Amand;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;17069;32;96;1462;Non vérifié
+59349;Ligny-en-Cambrésis;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;21564;32;96;1847;Non vérifié
+59350;Lille;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;1759113;20;58;238246;Non vérifié
+59351;Limont-Fontaine;59;eau potable;202396;2024;85,8;3,2;19,6;68,9;conforme;840142;4284;22;64;525;Non vérifié
+59352;Linselles;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;60258;20;58;8161;Non vérifié
+59353;Locquignol;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;3514;32;96;301;Non vérifié
+59354;Loffre;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;8313;32;96;712;Non vérifié
+59356;Lompret;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;15912;20;58;2155;Non vérifié
+59357;La Longueville;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;24016;32;96;2057;Non vérifié
+59358;Looberghe;59;eau potable;138440;2024;90,2;2,3;21,1;69,2;conforme;1343628;7946;18;41;1228;Non vérifié
+59359;Loon-Plage;59;eau potable;138440;2024;90,2;2,3;21,1;69,2;conforme;1343628;38514;18;41;5952;Non vérifié
+59360;Loos;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;166626;20;58;22567;Non vérifié
+59361;Lourches;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;43595;32;96;3734;Non vérifié
+59363;Louvignies-Quesnoy;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;10496;32;96;899;Non vérifié
+59364;Louvil;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;10765;32;96;922;Non vérifié
+59365;Louvroil;59;eau potable;202396;2024;85,8;3,2;19,6;68,9;conforme;840142;51360;22;64;6294;Non vérifié
+59366;Lynde;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;9142;32;96;783;Non vérifié
+59367;Lys-lez-Lannoy;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;103740;20;58;14050;Non vérifié
+59368;La Madeleine;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;160889;20;58;21790;Non vérifié
+59369;Maing;59;eau potable : SIDEN SIAN Noréade Eau;138373;2021;80,5;2,7;11,1;67,2;conforme;10476850;44569;31;95;3954;Sans anomalie apparente
+59370;Mairieux;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;8161;32;96;699;Non vérifié
+59371;Le Maisnil;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;7332;32;96;628;Non vérifié
+59372;Malincourt;59;eau potable : eau potable;288074;2024;81,9;2,6;12,0;67,4;conforme;15374;4472;25;79;498;Non vérifié
+59374;Marbaix;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;5382;32;96;461;Non vérifié
+59375;Marchiennes;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;52620;32;96;4507;Non vérifié
+59377;Marcoing;59;eau potable : MARCOING - EAU POTABLE;291754;2024;87,9;1,2;8,7;66,7;conforme;8572;8572;13;50;1841;Non vérifié
+59378;Marcq-en-Baroeul;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;296703;20;58;40184;Non vérifié
+59379;Marcq-en-Ostrevent;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;8651;32;96;741;Non vérifié
+59381;Maresches;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;9434;32;96;808;Non vérifié
+59382;Maretz;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;16369;32;96;1402;Non vérifié
+59383;Marly;59;eau potable : Secteur Centre Valenciennes;138442;2024;81,5;5,9;25,9;70,2;conforme;2018756;157396;36;105;11995;Non vérifié
+59384;Maroilles;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;16976;32;96;1454;Non vérifié
+59385;Marpent;59;eau potable;202396;2024;85,8;3,2;19,6;68,9;conforme;840142;21649;22;64;2653;Non vérifié
+59386;Marquette-lez-Lille;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;93196;20;58;12622;Non vérifié
+59387;Marquette-en-Ostrevant;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;22685;32;96;1943;Non vérifié
+59388;Marquillies;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;22895;32;96;1961;Non vérifié
+59389;Masnières;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;31395;32;96;2689;Non vérifié
+59390;Masny;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;46689;32;96;3999;Non vérifié
+59391;Mastaing;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;10636;32;96;911;Non vérifié
+59392;Maubeuge;59;eau potable;202396;2024;85,8;3,2;19,6;68,9;conforme;840142;234742;22;64;28767;Non vérifié
+59393;Maulde;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;11080;32;96;949;Non vérifié
+59394;Maurois;59;eau potable : Contrat 3 - Ex SI des Eaux d'Honnechy Maurois;344915;2024;68,2;4,1;8,8;66,8;conforme;16087;6887;47;190;405;Non vérifié
+59395;Mazinghien;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;3257;32;96;279;Non vérifié
+59396;Mecquignies;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;8114;32;96;695;Non vérifié
+59397;Merckeghem;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;7180;32;96;615;Non vérifié
+59398;Mérignies;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;41178;32;96;3527;Non vérifié
+59399;Merris;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;12913;32;96;1106;Non vérifié
+59400;Merville;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;114510;32;96;9808;Non vérifié
+59401;Méteren;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;26047;32;96;2231;Non vérifié
+59402;Millam;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;9784;32;96;838;Non vérifié
+59403;Millonfosse;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;8231;32;96;705;Non vérifié
+59405;Moeuvres;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;5721;32;96;490;Non vérifié
+59406;Monceau-Saint-Waast;59;eau potable;202396;2024;85,8;3,2;19,6;68,9;conforme;840142;3419;22;64;419;Non vérifié
+59407;Monchaux-sur-Écaillon;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;7192;32;96;616;Non vérifié
+59408;Moncheaux;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;19416;32;96;1663;Non vérifié
+59409;Monchecourt;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;29375;32;96;2516;Non vérifié
+59410;Mons-en-Baroeul;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;155831;20;58;21105;Non vérifié
+59411;Mons-en-Pévèle;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;24226;32;96;2075;Non vérifié
+59412;Montay;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;3222;32;96;276;Non vérifié
+59413;Montigny-en-Cambrésis;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;6445;32;96;552;Non vérifié
+59414;Montigny-en-Ostrevent;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;52480;32;96;4495;Non vérifié
+59415;Montrécourt;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;2662;32;96;228;Non vérifié
+59416;Morbecque;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;30040;32;96;2573;Non vérifié
+59418;Mortagne-du-Nord;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;18669;32;96;1599;Non vérifié
+59419;Mouchin;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;17408;32;96;1491;Non vérifié
+59420;Moustier-en-Fagne;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;712;32;96;61;Non vérifié
+59421;Mouvaux;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;98711;20;58;13369;Non vérifié
+59422;Naves;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;7239;32;96;620;Non vérifié
+59423;Neuf-Berquin;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;16544;32;96;1417;Non vérifié
+59424;Neuf-Mesnil;59;eau potable;202396;2024;85,8;3,2;19,6;68,9;conforme;840142;10494;22;64;1286;Non vérifié
+59425;Neuville-en-Avesnois;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;3479;32;96;298;Non vérifié
+59426;Neuville-en-Ferrain;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;73851;20;58;10002;Non vérifié
+59427;La Neuville;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;6923;32;96;593;Non vérifié
+59428;Neuville-Saint-Rémy;59;eau potable : Neuville Saint Rémy;138413;2024;85,6;5,4;31,7;71,3;conforme;46161;46161;32;119;4012;Non vérifié
+59429;Neuville-sur-Escaut;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;33870;32;96;2901;Non vérifié
+59430;Neuvilly;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;12878;32;96;1103;Non vérifié
+59431;Nieppe;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;90646;32;96;7764;Non vérifié
+59432;Niergnies;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;5943;32;96;509;Non vérifié
+59433;Nieurlet;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;10601;32;96;908;Non vérifié
+59434;Nivelle;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;16415;32;96;1406;Non vérifié
+59435;Nomain;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;30951;32;96;2651;Non vérifié
+59436;Noordpeene;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;9632;32;96;825;Non vérifié
+59437;Noyelles-lès-Seclin;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;9784;32;96;838;Non vérifié
+59438;Noyelles-sur-Escaut;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;9527;32;96;816;Non vérifié
+59439;Noyelles-sur-Sambre;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;3304;32;96;283;Non vérifié
+59440;Noyelles-sur-Selle;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;7671;32;96;657;Non vérifié
+59441;Obies;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;7706;32;96;660;Non vérifié
+59442;Obrechies;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;3304;32;96;283;Non vérifié
+59443;Ochtezeele;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;4098;32;96;351;Non vérifié
+59444;Odomez;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;11033;32;96;945;Non vérifié
+59445;Ohain;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;13672;32;96;1171;Non vérifié
+59446;Oisy;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;8161;32;96;699;Non vérifié
+59447;Onnaing;59;eau potable : Secteur Centre Valenciennes;138442;2024;81,5;5,9;25,9;70,2;conforme;2018756;111260;36;105;8479;Non vérifié
+59448;Oost-Cappel;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;5406;32;96;463;Non vérifié
+59449;Orchies;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;98025;32;96;8396;Non vérifié
+59450;Ors;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;7519;32;96;644;Non vérifié
+59451;Orsinval;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;6585;32;96;564;Non vérifié
+59452;Ostricourt;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;71184;32;96;6097;Non vérifié
+59453;Oudezeele;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;8056;32;96;690;Non vérifié
+59454;Oxelaëre;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;6305;32;96;540;Non vérifié
+59455;Paillencourt;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;12025;32;96;1030;Non vérifié
+59456;Pecquencourt;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;71125;32;96;6092;Non vérifié
+59457;Pérenchies;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;62428;20;58;8455;Non vérifié
+59458;Péronne-en-Mélantois;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;11967;32;96;1025;Non vérifié
+59459;Petite-Forêt;59;eau potable : Secteur Centre Valenciennes;138442;2024;81,5;5,9;25,9;70,2;conforme;2018756;66318;36;105;5054;Non vérifié
+59461;Petit-Fayt;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;3339;32;96;286;Non vérifié
+59462;Phalempin;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;56590;32;96;4847;Non vérifié
+59463;Pitgam;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;11757;32;96;1007;Non vérifié
+59464;Poix-du-Nord;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;24821;32;96;2126;Non vérifié
+59465;Pommereuil;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;8932;32;96;765;Non vérifié
+59466;Pont-à-Marcq;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;35212;32;96;3016;Non vérifié
+59467;Pont-sur-Sambre;59;eau potable;202396;2024;85,8;3,2;19,6;68,9;conforme;840142;19348;22;64;2371;Non vérifié
+59468;Potelle;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;5125;32;96;439;Non vérifié
+59469;Pradelles;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;4658;32;96;399;Non vérifié
+59470;Prémesques;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;14996;20;58;2031;Non vérifié
+59471;Préseau;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;24518;32;96;2100;Non vérifié
+59472;Preux-au-Bois;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;9714;32;96;832;Non vérifié
+59473;Preux-au-Sart;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;3503;32;96;300;Non vérifié
+59474;Prisches;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;11675;32;96;1000;Non vérifié
+59475;Prouvy;59;eau potable : Secteur Centre Valenciennes;138442;2024;81,5;5,9;25,9;70,2;conforme;2018756;28579;36;105;2178;Non vérifié
+59476;Proville;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;37431;32;96;3206;Non vérifié
+59477;Provin;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;32695;20;58;4428;Non vérifié
+59478;Quaëdypre;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;12936;32;96;1108;Non vérifié
+59479;Quarouble;59;eau potable : Secteur Centre Valenciennes;138442;2024;81,5;5,9;25,9;70,2;conforme;2018756;41268;36;105;3145;Non vérifié
+59480;Quérénaing;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;10099;32;96;865;Non vérifié
+59481;Le Quesnoy;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;56952;32;96;4878;Non vérifié
+59482;Quesnoy-sur-Deûle;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;50245;20;58;6805;Non vérifié
+59483;Quiévelon;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;1576;32;96;135;Non vérifié
+59484;Quiévrechain;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;69456;32;96;5949;Non vérifié
+59485;Quiévy;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;21050;32;96;1803;Non vérifié
+59486;Râches;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;31196;32;96;2672;Non vérifié
+59487;Radinghem-en-Weppes;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;16462;32;96;1410;Non vérifié
+59488;Raillencourt-Sainte-Olle;59;eau potable : Raillencourt Sainte Olle;138417;2024;78,3;14,6;52,7;75,5;conforme;145269;145269;187;150;2127;Non vérifié
+59489;Raimbeaucourt;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;46701;32;96;4000;Non vérifié
+59490;Rainsars;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;2300;32;96;197;Non vérifié
+59491;Raismes;59;eau potable : Contrat 2 Ex_SEV-SIRVAEP;344914;2024;81,5;5,9;25,9;70,2;conforme;2018756;763551;171;105;12199;Non vérifié
+59492;Ramillies;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;6760;32;96;579;Non vérifié
+59493;Ramousies;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;2569;32;96;220;Non vérifié
+59494;Raucourt-au-Bois;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;1751;32;96;150;Non vérifié
+59495;Recquignies;59;eau potable;202396;2024;85,8;3,2;19,6;68,9;conforme;840142;19078;22;64;2338;Non vérifié
+59496;Rejet-de-Beaulieu;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;2814;32;96;241;Non vérifié
+59497;Renescure;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;24670;32;96;2113;Non vérifié
+59498;Reumont;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;3935;32;96;337;Non vérifié
+59499;Rexpoëde;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;23070;32;96;1976;Non vérifié
+59500;Ribécourt-la-Tour;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;4437;32;96;380;Non vérifié
+59501;Rieulay;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;14722;32;96;1261;Non vérifié
+59502;Rieux-en-Cambrésis;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;16637;32;96;1425;Non vérifié
+59503;Robersart;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;2347;32;96;201;Non vérifié
+59504;Roeulx;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;43700;32;96;3743;Non vérifié
+59505;Rombies-et-Marchipont;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;8651;32;96;741;Non vérifié
+59506;Romeries;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;5499;32;96;471;Non vérifié
+59507;Ronchin;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;146099;20;58;19787;Non vérifié
+59508;Roncq;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;103924;20;58;14075;Non vérifié
+59509;Roost-Warendin;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;69538;32;96;5956;Non vérifié
+59511;Rosult;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;23607;32;96;2022;Non vérifié
+59512;Roubaix;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;725705;20;58;98286;Non vérifié
+59513;Roucourt;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;5324;32;96;456;Non vérifié
+59514;Rousies;59;eau potable;202396;2024;85,8;3,2;19,6;68,9;conforme;840142;32477;22;64;3980;Non vérifié
+59515;Rouvignies;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;7647;32;96;655;Non vérifié
+59516;Rubrouck;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;10496;32;96;899;Non vérifié
+59517;Les Rues-des-Vignes;59;eau potable : Les Rues-des-Vignes;138420;2024;87,3;2,6;18,0;68,6;conforme;12641;12641;47;53;737;Non vérifié
+59518;Ruesnes;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;5230;32;96;448;Non vérifié
+59519;Rumegies;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;20105;32;96;1722;Non vérifié
+59520;Rumilly-en-Cambrésis;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;16707;32;96;1431;Non vérifié
+59521;Sailly-lez-Cambrai;59;eau potable : Sailly Lez Cambrai;138424;2024;53,2;7,8;8,9;66,8;non conforme;13666;13666;92;320;409;Non vérifié
+59522;Sailly-lez-Lannoy;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;22451;32;96;1923;Non vérifié
+59523;Sainghin-en-Mélantois;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;33158;32;96;2840;Non vérifié
+59524;Sainghin-en-Weppes;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;41629;20;58;5638;Non vérifié
+59525;Sains-du-Nord;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;32165;32;96;2755;Non vérifié
+59526;Saint-Amand-les-Eaux;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;186500;32;96;15974;Non vérifié
+59527;Saint-André-lez-Lille;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;97707;20;58;13233;Non vérifié
+59528;Saint-Aubert;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;18330;32;96;1570;Non vérifié
+59529;Saint-Aubin;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;3829;32;96;328;Non vérifié
+59530;Saint-Aybert;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;3829;32;96;328;Non vérifié
+59531;Saint-Benin;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;4005;32;96;343;Non vérifié
+59532;Saint-Georges-sur-l'Aa;59;eau potable;138440;2024;90,2;2,3;21,1;69,2;conforme;1343628;1857;18;41;287;Non vérifié
+59533;Saint-Hilaire-lez-Cambrai;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;18190;32;96;1558;Non vérifié
+59534;Saint-Hilaire-sur-Helpe;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;8558;32;96;733;Non vérifié
+59535;Saint-Jans-Cappel;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;18657;32;96;1598;Non vérifié
+59536;Sainte-Marie-Cappel;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;9632;32;96;825;Non vérifié
+59537;Saint-Martin-sur-Écaillon;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;5639;32;96;483;Non vérifié
+59538;Saint-Momelin;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;4787;32;96;410;Non vérifié
+59539;Saint-Pierre-Brouck;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;11547;32;96;989;Non vérifié
+59541;Saint-Python;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;11418;32;96;978;Non vérifié
+59542;Saint-Remy-Chaussée;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;5476;32;96;469;Non vérifié
+59543;Saint-Remy-du-Nord;59;eau potable;202396;2024;85,8;3,2;19,6;68,9;conforme;840142;8601;22;64;1054;Non vérifié
+59544;Saint-Saulve;59;eau potable : Secteur Centre Valenciennes;138442;2024;81,5;5,9;25,9;70,2;conforme;2018756;143645;36;105;10947;Non vérifié
+59545;Saint-Souplet;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;13905;32;96;1191;Non vérifié
+59546;Saint-Sylvestre-Cappel;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;13356;32;96;1144;Non vérifié
+59547;Saint-Vaast-en-Cambrésis;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;10169;32;96;871;Non vérifié
+59548;Saint-Waast;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;8009;32;96;686;Non vérifié
+59549;Salesches;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;3818;32;96;327;Non vérifié
+59550;Salomé;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;37150;32;96;3182;Non vérifié
+59551;Saméon;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;19895;32;96;1704;Non vérifié
+59552;Sancourt;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;2218;32;96;190;Non vérifié
+59553;Santes;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;41732;20;58;5652;Non vérifié
+59554;Sars-et-Rosières;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;7239;32;96;620;Non vérifié
+59555;Sars-Poteries;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;16369;32;96;1402;Non vérifié
+59556;Sassegnies;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;3036;32;96;260;Non vérifié
+59557;Saultain;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;29176;32;96;2499;Non vérifié
+59558;Saulzoir;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;19521;32;96;1672;Non vérifié
+59559;Sebourg;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;22965;32;96;1967;Non vérifié
+59560;Seclin;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;97914;20;58;13261;Non vérifié
+59562;Sémeries;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;6071;32;96;520;Non vérifié
+59563;Semousies;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;2650;32;96;227;Non vérifié
+59564;La Sentinelle;59;eau potable : Contrat 2 Ex_SEV-SIRVAEP;344914;2024;81,5;5,9;25,9;70,2;conforme;2018756;194221;171;105;3103;Non vérifié
+59565;Sepmeries;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;7472;32;96;640;Non vérifié
+59566;Sequedin;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;34518;20;58;4675;Non vérifié
+59567;Séranvillers-Forenville;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;4857;32;96;416;Non vérifié
+59568;Sercus;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;5674;32;96;486;Non vérifié
+59569;Sin-le-Noble;59;eau potable : Sin-le-Noble;138503;2024;94,4;1,7;29,6;70,9;conforme;75205;75205;13;40;16076;Non vérifié
+59570;Socx;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;10146;32;96;869;Non vérifié
+59571;Solesmes;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;48359;32;96;4142;Non vérifié
+59572;Solre-le-Château;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;20969;32;96;1796;Non vérifié
+59573;Solrinnes;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;1658;32;96;142;Non vérifié
+59574;Somain;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;137370;32;96;11766;Non vérifié
+59575;Sommaing;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;4635;32;96;397;Non vérifié
+59576;Spycker;59;eau potable;138440;2024;90,2;2,3;21,1;69,2;conforme;1343628;11117;18;41;1718;Non vérifié
+59577;Staple;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;8826;32;96;756;Non vérifié
+59578;Steenbecque;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;18704;32;96;1602;Non vérifié
+59579;Steene;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;16404;32;96;1405;Non vérifié
+59580;Steenvoorde;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;50577;32;96;4332;Non vérifié
+59581;Steenwerck;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;40279;32;96;3450;Non vérifié
+59582;Strazeele;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;10998;32;96;942;Non vérifié
+59583;Taisnières-en-Thiérache;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;5546;32;96;475;Non vérifié
+59584;Taisnières-sur-Hon;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;11243;32;96;963;Non vérifié
+59585;Templemars;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;27090;20;58;3669;Non vérifié
+59586;Templeuve-en-Pévèle;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;84085;32;96;7202;Non vérifié
+59587;Terdeghem;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;6059;32;96;519;Non vérifié
+59588;Téteghem-Coudekerque-Village;59;eau potable;138440;2024;90,2;2,3;21,1;69,2;conforme;1343628;53365;18;41;8247;Non vérifié
+59589;Thiant;59;eau potable : Contrat 2 Ex_SEV-SIRVAEP;344914;2024;81,5;5,9;25,9;70,2;conforme;2018756;182391;171;105;2914;Non vérifié
+59590;Thiennes;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;10741;32;96;920;Non vérifié
+59591;Thivencelle;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;9539;32;96;817;Non vérifié
+59592;Thumeries;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;48686;32;96;4170;Non vérifié
+59593;Thun-l'Évêque;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;9200;32;96;788;Non vérifié
+59594;Thun-Saint-Amand;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;12913;32;96;1106;Non vérifié
+59595;Thun-Saint-Martin;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;6340;32;96;543;Non vérifié
+59596;Tilloy-lez-Marchiennes;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;6258;32;96;536;Non vérifié
+59597;Tilloy-lez-Cambrai;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;8114;32;96;695;Non vérifié
+59598;Toufflers;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;29217;20;58;3957;Non vérifié
+59599;Tourcoing;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;729293;20;58;98772;Non vérifié
+59600;Tourmignies;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;10928;32;96;936;Non vérifié
+59601;Trélon;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;30402;32;96;2604;Non vérifié
+59602;Tressin;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;10234;20;58;1386;Non vérifié
+59603;Trith-Saint-Léger;59;eau potable : Contrat 2 Ex_SEV-SIRVAEP;344914;2024;81,5;5,9;25,9;70,2;conforme;2018756;376737;171;105;6019;Non vérifié
+59604;Troisvilles;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;9399;32;96;805;Non vérifié
+59605;Uxem;59;eau potable;138440;2024;90,2;2,3;21,1;69,2;conforme;1343628;9823;18;41;1518;Non vérifié
+59606;Valenciennes;59;eau potable : Secteur Centre Valenciennes;138442;2024;81,5;5,9;25,9;70,2;conforme;2018756;570380;36;105;43468;Non vérifié
+59607;Vendegies-au-Bois;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;5627;32;96;482;Non vérifié
+59608;Vendegies-sur-Écaillon;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;13111;32;96;1123;Non vérifié
+59609;Vendeville;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;19311;32;96;1654;Non vérifié
+59610;Verchain-Maugré;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;12878;32;96;1103;Non vérifié
+59611;Verlinghem;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;31313;32;96;2682;Non vérifié
+59612;Vertain;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;6246;32;96;535;Non vérifié
+59613;Vicq;59;eau potable : Secteur Centre Valenciennes;138442;2024;81,5;5,9;25,9;70,2;conforme;2018756;19210;36;105;1464;Non vérifié
+59614;Viesly;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;15925;32;96;1364;Non vérifié
+59615;Vieux-Berquin;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;30682;32;96;2628;Non vérifié
+59616;Vieux-Condé;59;eau potable : Secteur Nord Condé;138441;2024;83,1;3,0;14,8;68,0;conforme;232370;77818;20;79;10617;Non vérifié
+59617;Vieux-Mesnil;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;7484;32;96;641;Non vérifié
+59618;Vieux-Reng;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;10951;32;96;938;Non vérifié
+59619;Villereau;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;12656;32;96;1084;Non vérifié
+59620;Villers-au-Tertre;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;7822;32;96;670;Non vérifié
+59622;Villers-en-Cauchies;59;eau potable : Villers en Cauchies;138433;2024;76,2;3,8;12,0;67,4;conforme;10513;10513;25;115;1151;Non vérifié
+59623;Villers-Guislain;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;7986;32;96;684;Non vérifié
+59624;Villers-Outréaux;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;24716;32;96;2117;Non vérifié
+59625;Villers-Plouich;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;4553;32;96;390;Non vérifié
+59626;Villers-Pol;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;13975;32;96;1197;Non vérifié
+59627;Villers-Sire-Nicole;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;11780;32;96;1009;Non vérifié
+59628;Volckerinckhove;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;6690;32;96;573;Non vérifié
+59629;Vred;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;15201;32;96;1302;Non vérifié
+59630;Wahagnies;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;30507;32;96;2613;Non vérifié
+59631;Walincourt-Selvigny;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;24296;32;96;2081;Non vérifié
+59632;Wallers;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;65766;32;96;5633;Non vérifié
+59633;Wallers-en-Fagne;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;3316;32;96;284;Non vérifié
+59634;Wallon-Cappel;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;9434;32;96;808;Non vérifié
+59635;Wambaix;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;4448;32;96;381;Non vérifié
+59636;Wambrechies;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;81308;20;58;11012;Non vérifié
+59637;Wandignies-Hamage;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;15189;32;96;1301;Non vérifié
+59638;Wannehain;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;15621;32;96;1338;Non vérifié
+59639;Wargnies-le-Grand;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;13135;32;96;1125;Non vérifié
+59640;Wargnies-le-Petit;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;9002;32;96;771;Non vérifié
+59641;Warhem;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;23584;32;96;2020;Non vérifié
+59642;Warlaing;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;7040;32;96;603;Non vérifié
+59643;Warneton;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;2697;32;96;231;Non vérifié
+59645;Wasnes-au-Bac;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;7052;32;96;604;Non vérifié
+59646;Wasquehal;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;153033;20;58;20726;Non vérifié
+59647;Watten;59;eau potable;138440;2024;90,2;2,3;21,1;69,2;conforme;1343628;16591;18;41;2564;Non vérifié
+59648;Wattignies;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;114630;20;58;15525;Non vérifié
+59649;Wattignies-la-Victoire;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;2802;32;96;240;Non vérifié
+59650;Wattrelos;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;301598;20;58;40847;Non vérifié
+59651;Wavrechain-sous-Denain;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;18669;32;96;1599;Non vérifié
+59652;Wavrechain-sous-Faulx;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;5137;32;96;440;Non vérifié
+59653;Wavrin;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;57282;20;58;7758;Non vérifié
+59654;Waziers;59;eau potable : principal;138502;2024;90,6;2,8;26,4;70,3;conforme;292844;38136;14;40;7266;Non vérifié
+59655;Wemaers-Cappel;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;2627;32;96;225;Non vérifié
+59656;Wervicq-Sud;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;40063;20;58;5426;Non vérifié
+59657;West-Cappel;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;7519;32;96;644;Non vérifié
+59658;Wicres;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;6783;32;96;581;Non vérifié
+59659;Wignehies;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;32737;32;96;2804;Non vérifié
+59660;Willems;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;34337;32;96;2941;Non vérifié
+59661;Willies;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;1494;32;96;128;Non vérifié
+59662;Winnezeele;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;14722;32;96;1261;Non vérifié
+59663;Wormhout;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;65194;32;96;5584;Non vérifié
+59664;Wulverdinghe;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;3900;32;96;334;Non vérifié
+59665;Wylder;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;3479;32;96;298;Non vérifié
+59666;Zegerscappel;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;18237;32;96;1562;Non vérifié
+59667;Zermezeele;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;2942;32;96;252;Non vérifié
+59668;Zuydcoote;59;eau potable;138440;2024;90,2;2,3;21,1;69,2;conforme;1343628;10547;18;41;1630;Non vérifié
+59669;Zuytpeene;59;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;6503;32;96;557;Non vérifié
+59670;Don;59;eau potable : Iléo - Véolia;217814;2024;87,1;5,3;35,8;72,2;conforme;8391861;10241;20;58;1387;Non vérifié

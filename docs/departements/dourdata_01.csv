@@ -1,0 +1,396 @@
+﻿# DourData — eau perdue par les réseaux d'eau potable (indicateurs SISPEA)
+# Périmètre : Département 01
+# Source : SISPEA — Système d'Information des Services Publics d'Eau et d'Assainissement, via data.gouv.fr / services.eaufrance.fr
+# Licence : Licence Ouverte 2.0 (Etalab)
+# Millésime des données : 2020–2024 (année la plus récente disponible par commune)
+# Date de génération de l'export : 2026-07-05
+# Méthodologie et code : https://github.com/btaverne/dourdata
+# Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
+# Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
+01001;L' Abergement-Clémenciat;01;eau potable : Perimetre Ex Veyle Chalaronne;182741;2024;76,6;2,1;6,8;66,4;conforme;243479;13017;41;113;860;Non vérifié
+01002;L' Abergement-de-Varey;01;eau potable;182248;2024;98,4;0,7;44,2;73,8;conforme;1576;1576;16;69;270;Non vérifié
+01004;Ambérieu-en-Bugey;01;eau potable;182755;2024;71,0;7,0;17,1;68,4;conforme;549325;341925;59;149;15934;Non vérifié
+01005;Ambérieux-en-Dombes;01;eau potable : Perimetre Ex SIE Dombes Saone;182726;2024;67,2;4,9;10,0;67,0;conforme;1279153;46171;66;180;1906;Non vérifié
+01006;Ambléon;01;eau potable : Régie;315474;2024;73,3;3,2;8,8;66,8;conforme;873664;2907;69;133;115;Non vérifié
+01007;Ambronay;01;eau potable;182755;2024;71,0;7,0;17,1;68,4;conforme;549325;60965;59;149;2841;Non vérifié
+01008;Ambutrix;01;eau potable;182755;2024;71,0;7,0;17,1;68,4;conforme;549325;16309;59;149;760;Non vérifié
+01009;Andert-et-Condon;01;eau potable : Régie;315474;2024;73,3;3,2;8,8;66,8;conforme;873664;8796;69;133;348;Non vérifié
+01010;Anglefort;01;eau potable;182257;2024;56,6;3,4;4,4;65,9;non conforme;40953;40953;96;283;1174;Non vérifié
+01011;Apremont;01;eau potable : Nantua-Ex Sivom Lac Sylans DSP;312654;2024;65,6;4,6;8,8;66,8;non conforme;134840;11555;76;192;415;Non vérifié
+01012;Aranc;01;eau potable;182727;2024;61,6;3,2;5,1;66,0;non conforme;34304;19083;158;240;331;Non vérifié
+01014;Arbent;01;eau potable : Régie (toutes communes sauf DSP);259234;2024;54,3;9,6;11,4;67,3;non conforme;2320349;148799;115;309;3555;Non vérifié
+01015;Arboys en Bugey;01;eau potable : Régie;315474;2024;73,3;3,2;8,8;66,8;conforme;873664;17945;69;133;710;Non vérifié
+01016;Arbigny;01;eau potable : Périmetre Ex SIE Basse Reyssouze;182724;2024;86,7;1,0;6,8;66,4;conforme;178087;4740;28;54;462;Non vérifié
+01019;Armix;01;eau potable : Régie;315474;2024;73,3;3,2;8,8;66,8;conforme;873664;632;69;133;25;Non vérifié
+01021;Ars-sur-Formans;01;eau potable : Perimetre Ex SIE Dombes Saone;182726;2024;67,2;4,9;10,0;67,0;conforme;1279153;37014;66;180;1528;Non vérifié
+01022;Artemare;01;eau potable : Régie;315474;2024;73,3;3,2;8,8;66,8;conforme;873664;28789;69;133;1139;Non vérifié
+01023;Asnières-sur-Saône;01;eau potable : Périmetre Ex SIE Basse Reyssouze;182724;2024;86,7;1,0;6,8;66,4;conforme;178087;800;28;54;78;Non vérifié
+01024;Attignat;01;eau potable;182742;2024;75,4;2,8;8,6;66,7;conforme;803394;65650;53;121;3409;Non vérifié
+01025;Bâgé-Dommartin;01;eau potable : SIE Saône Veyle;182738;2024;83,5;1,7;8,8;66,8;conforme;229715;44172;30;71;4050;Non vérifié
+01026;Bâgé-le-Châtel;01;eau potable : SIE Saône Veyle;182738;2024;83,5;1,7;8,8;66,8;conforme;229715;10590;30;71;971;Non vérifié
+01027;Balan;01;eau potable;182803;2024;63,7;11,0;19,3;68,9;non conforme;819060;103958;93;222;3077;Non vérifié
+01028;Baneins;01;eau potable : ex : SIE Montmerle et Environs;270354;2024;83,1;1,7;8,6;66,7;conforme;118999;5685;25;72;621;Non vérifié
+01029;Beaupont;01;eau potable : Bresse Revermont;271114;2024;84,2;1,1;5,6;66,1;conforme;133178;9976;37;72;734;Non vérifié
+01030;Beauregard;01;eau potable;182730;2024;84,9;2,5;14,2;67,8;conforme;98660;7032;22;64;872;Non vérifié
+01031;Bellignat;01;eau potable : Régie (toutes communes sauf DSP);259234;2024;54,3;9,6;11,4;67,3;non conforme;2320349;147544;115;309;3525;Non vérifié
+01032;Béligneux;01;eau potable;182803;2024;63,7;11,0;19,3;68,9;non conforme;819060;119431;93;222;3535;Non vérifié
+01033;Valserhône;01;eau potable;282334;2024;76,6;4,2;13,7;67,7;conforme;365620;274803;45;112;16712;Non vérifié
+01034;Belley;01;eau potable : Régie;315474;2024;73,3;3,2;8,8;66,8;conforme;873664;237284;69;133;9388;Non vérifié
+01035;Belleydoux;01;eau potable : Régie (toutes communes sauf DSP);259234;2024;54,3;9,6;11,4;67,3;non conforme;2320349;12808;115;309;306;Non vérifié
+01036;Valromey-sur-Séran;01;eau potable : Régie;315474;2024;73,3;3,2;8,8;66,8;conforme;873664;34147;69;133;1351;Non vérifié
+01037;Bénonces;01;eau potable;182288;2024;84,9;1,3;7,5;66,5;conforme;3559;3559;31;63;311;Non vérifié
+01038;Bény;01;eau potable : Bresse Revermont;271114;2024;84,2;1,1;5,6;66,1;conforme;133178;10560;37;72;777;Non vérifié
+01040;Béréziat;01;eau potable : Périmetre Ex SIE Basse Reyssouze;182724;2024;86,7;1,0;6,8;66,4;conforme;178087;4873;28;54;475;Non vérifié
+01041;Bettant;01;eau potable;182755;2024;71,0;7,0;17,1;68,4;conforme;549325;16609;59;149;774;Non vérifié
+01042;Bey;01;eau potable : Perimetre Ex Veyle Chalaronne;182741;2024;76,6;2,1;6,8;66,4;conforme;243479;4329;41;113;286;Non vérifié
+01043;Beynost;01;eau potable;270234;2024;80,2;5,1;20,9;69,2;conforme;315580;73408;39;90;5198;Non vérifié
+01044;Billiat;01;eau potable;282334;2024;76,6;4,2;13,7;67,7;conforme;365620;11724;45;112;713;Non vérifié
+01045;Birieux;01;eau potable : ex : SIE Faramans Rignieux le Franc-St Eloi;270474;2024;98,2;0,1;4,7;65,9;conforme;5409;343;3;8;275;Non vérifié
+01046;Biziat;01;eau potable : Perimetre Ex SIE Renom Veyle;182736;2024;89,7;0,8;6,9;66,4;conforme;68997;6640;20;42;889;Non vérifié
+01047;Blyes;01;eau potable;182744;2024;92,4;6,4;78,5;80,7;conforme;92833;14567;28;98;1401;Non vérifié
+01049;La Boisse;01;eau potable;182803;2024;63,7;11,0;19,3;68,9;non conforme;819060;116526;93;222;3449;Non vérifié
+01050;Boissey;01;eau potable : Périmetre Ex SIE Basse Reyssouze;182724;2024;86,7;1,0;6,8;66,4;conforme;178087;4063;28;54;396;Non vérifié
+01051;Bolozon;01;eau potable : Régie (toutes communes sauf DSP);259234;2024;54,3;9,6;11,4;67,3;non conforme;2320349;4311;115;309;103;Non vérifié
+01052;Bouligneux;01;eau potable : Perimetre Ex SIE Renom Chalaronne;182735;2024;83,3;0,7;3,6;65,7;conforme;66356;4188;36;72;318;Non vérifié
+01053;Bourg-en-Bresse;01;eau potable : Régie;271014;2024;83,1;7,0;34,2;71,8;conforme;644141;548416;35;75;42372;Non vérifié
+01054;Bourg-Saint-Christophe;01;eau potable : ex : SIE MEXIMIEUX ET COTIÈRE;270514;2024;91,0;2,0;19,8;69,0;conforme;86739;9005;16;40;1562;Non vérifié
+01056;Boyeux-Saint-Jérôme;01;eau potable : Boyeux-Saint-Jérôme;182310;2024;32,5;6,4;3,1;65,6;non conforme;32704;32704;244;758;367;Non vérifié
+01057;Boz;01;eau potable : Périmetre Ex SIE Basse Reyssouze;182724;2024;86,7;1,0;6,8;66,4;conforme;178087;5263;28;54;513;Non vérifié
+01058;Brégnier-Cordon;01;eau potable : Régie;315474;2024;73,3;3,2;8,8;66,8;conforme;873664;20321;69;133;804;Non vérifié
+01060;Brénod;01;eau potable : Régie (toutes communes sauf DSP);259234;2024;54,3;9,6;11,4;67,3;non conforme;2320349;24109;115;309;576;Non vérifié
+01061;Brens;01;eau potable : Régie;315474;2024;73,3;3,2;8,8;66,8;conforme;873664;28384;69;133;1123;Non vérifié
+01062;Bressolles;01;eau potable;182803;2024;63,7;11,0;19,3;68,9;non conforme;819060;34731;93;222;1028;Non vérifié
+01063;Brion;01;eau potable : Régie (toutes communes sauf DSP);259234;2024;54,3;9,6;11,4;67,3;non conforme;2320349;24779;115;309;592;Non vérifié
+01065;Buellas;01;eau potable;182742;2024;75,4;2,8;8,6;66,7;conforme;803394;36570;53;121;1899;Non vérifié
+01066;La Burbanche;01;eau potable : Régie;315474;2024;73,3;3,2;8,8;66,8;conforme;873664;2477;69;133;98;Non vérifié
+01067;Ceignes;01;eau potable : Régie (toutes communes sauf DSP);259234;2024;54,3;9,6;11,4;67,3;non conforme;2320349;10757;115;309;257;Non vérifié
+01068;Cerdon;01;eau potable : Cerdon;182331;2024;73,7;8,6;24,0;69,8;conforme;34090;34090;125;131;747;Non vérifié
+01069;Certines;01;eau potable;182721;2024;83,0;1,3;6,2;66,2;conforme;200011;16849;30;77;1531;Non vérifié
+01071;Cessy;01;eau potable;182719;2024;89,6;2,7;23,1;69,6;conforme;761092;41448;19;43;5832;Non vérifié
+01072;Ceyzériat;01;eau potable : Ain Suran Revermont;271054;2024;74,4;4,4;12,7;67,5;conforme;633535;127550;105;236;3328;Non vérifié
+01073;Ceyzérieu;01;eau potable : Régie;315474;2024;73,3;3,2;8,8;66,8;conforme;873664;26893;69;133;1064;Non vérifié
+01074;Chalamont;01;eau potable;182743;2024;80,3;0,6;2,5;65,5;conforme;30487;10149;11;87;2533;Non vérifié
+01075;Chaleins;01;eau potable : Perimetre Ex SIE Dombes Saone;182726;2024;67,2;4,9;10,0;67,0;conforme;1279153;36457;66;180;1505;Non vérifié
+01076;Chaley;01;eau potable;182338;2024;54,2;5,2;6,2;66,2;non conforme;5694;5694;121;308;129;Non vérifié
+01077;Challes-la-Montagne;01;eau potable : Challes la Montagne;182340;2022;85,1;1,2;7,1;66,4;conforme;2908;2908;43;62;184;Sans anomalie apparente
+01078;Challex;01;eau potable;182719;2024;89,6;2,7;23,1;69,6;conforme;761092;11599;19;43;1632;Non vérifié
+01079;Champagne-en-Valromey;01;eau potable : Régie;315474;2024;73,3;3,2;8,8;66,8;conforme;873664;21004;69;133;831;Non vérifié
+01080;Champdor-Corcelles;01;eau potable : Régie (toutes communes sauf DSP);259234;2024;54,3;9,6;11,4;67,3;non conforme;2320349;27834;115;309;665;Non vérifié
+01081;Champfromier;01;eau potable;282334;2024;76,6;4,2;13,7;67,7;conforme;365620;11922;45;112;725;Non vérifié
+01082;Chanay;01;eau potable;282334;2024;76,6;4,2;13,7;67,7;conforme;365620;9439;45;112;574;Non vérifié
+01083;Chaneins;01;eau potable : ex : SIE Montmerle et Environs;270354;2024;83,1;1,7;8,6;66,7;conforme;118999;9576;25;72;1046;Non vérifié
+01084;Chanoz-Châtenay;01;eau potable : Perimetre Ex SIE Renom Veyle;182736;2024;89,7;0,8;6,9;66,4;conforme;68997;7387;20;42;989;Non vérifié
+01085;La Chapelle-du-Châtelard;01;eau potable : Perimetre Ex SIE Renom Chalaronne;182735;2024;83,3;0,7;3,6;65,7;conforme;66356;5110;36;72;388;Non vérifié
+01087;Charix;01;eau potable : Nantua-Ex Sivom Lac Sylans DSP;312654;2024;65,6;4,6;8,8;66,8;non conforme;134840;7796;76;192;280;Non vérifié
+01088;Charnoz-sur-Ain;01;eau potable;182352;2024;80,4;4,8;19,7;68,9;conforme;20148;20148;58;89;951;Non vérifié
+01089;Château-Gaillard;01;eau potable;182354;2024;91,4;2,0;20,7;69,1;conforme;12410;12410;14;35;2443;Non vérifié
+01090;Châtenay;01;eau potable;182721;2024;83,0;1,3;6,2;66,2;conforme;200011;4105;30;77;373;Non vérifié
+01092;Châtillon-la-Palud;01;eau potable;182743;2024;80,3;0,6;2,5;65,5;conforme;30487;6803;11;87;1698;Non vérifié
+01093;Châtillon-sur-Chalaronne;01;eau potable;182361;2024;82,2;2,7;12,4;67,5;conforme;69409;69409;36;79;5250;Non vérifié
+01094;Chavannes-sur-Reyssouze;01;eau potable : Périmetre Ex SIE Basse Reyssouze;182724;2024;86,7;1,0;6,8;66,4;conforme;178087;7449;28;54;726;Non vérifié
+01095;Nivigne et Suran;01;eau potable : Ain Suran Revermont;271054;2024;74,4;4,4;12,7;67,5;conforme;633535;31428;105;236;820;Non vérifié
+01096;Chaveyriat;01;eau potable : Perimetre Ex SIE Renom Veyle;182736;2024;89,7;0,8;6,9;66,4;conforme;68997;8052;20;42;1078;Non vérifié
+01098;Chazey-Bons;01;eau potable : Régie;315474;2024;73,3;3,2;8,8;66,8;conforme;873664;28864;69;133;1142;Non vérifié
+01099;Chazey-sur-Ain;01;eau potable;182744;2024;92,4;6,4;78,5;80,7;conforme;92833;16969;28;98;1632;Non vérifié
+01100;Cheignieu-la-Balme;01;eau potable : Régie;315474;2024;73,3;3,2;8,8;66,8;conforme;873664;3311;69;133;131;Non vérifié
+01101;Chevillard;01;eau potable : Régie (toutes communes sauf DSP);259234;2024;54,3;9,6;11,4;67,3;non conforme;2320349;6237;115;309;149;Non vérifié
+01102;Chevroux;01;eau potable : Périmetre Ex SIE Basse Reyssouze;182724;2024;86,7;1,0;6,8;66,4;conforme;178087;10157;28;54;990;Non vérifié
+01103;Chevry;01;eau potable;182719;2024;89,6;2,7;23,1;69,6;conforme;761092;16858;19;43;2372;Non vérifié
+01104;Chézery-Forens;01;eau potable;182719;2024;89,6;2,7;23,1;69,6;conforme;761092;3077;19;43;433;Non vérifié
+01105;Civrieux;01;eau potable : Perimetre Ex SIE Dombes Saone;182726;2024;67,2;4,9;10,0;67,0;conforme;1279153;48836;66;180;2016;Non vérifié
+01106;Cize;01;eau potable : Cize;271034;2024;79,1;1,3;5,0;66,0;conforme;2164;2164;35;95;168;Non vérifié
+01107;Cleyzieu;01;eau potable;182376;2024;48,7;3,8;3,6;65,7;non conforme;4965;4965;95;383;143;Non vérifié
+01108;Coligny;01;eau potable : Saint Amour-Coligny;159742;2024;76,2;2,4;7,8;66,6;conforme;220822;40600;82;145;1360;Non vérifié
+01109;Collonges;01;eau potable;182719;2024;89,6;2,7;23,1;69,6;conforme;761092;17042;19;43;2398;Non vérifié
+01110;Colomieu;01;eau potable : Régie;315474;2024;73,3;3,2;8,8;66,8;conforme;873664;4019;69;133;159;Non vérifié
+01111;Conand;01;eau potable;182380;2024;57,2;2,1;2,8;65,6;non conforme;4599;4599;94;275;134;Non vérifié
+01112;Condamine;01;eau potable : Régie (toutes communes sauf DSP);259234;2024;54,3;9,6;11,4;67,3;non conforme;2320349;20091;115;309;480;Non vérifié
+01113;Condeissiat;01;eau potable;182742;2024;75,4;2,8;8,6;66,7;conforme;803394;16157;53;121;839;Non vérifié
+01114;Confort;01;eau potable;282334;2024;76,6;4,2;13,7;67,7;conforme;365620;10984;45;112;668;Non vérifié
+01115;Confrançon;01;eau potable;182742;2024;75,4;2,8;8,6;66,7;conforme;803394;26113;53;121;1356;Non vérifié
+01116;Contrevoz;01;eau potable : Régie;315474;2024;73,3;3,2;8,8;66,8;conforme;873664;12486;69;133;494;Non vérifié
+01117;Conzieu;01;eau potable : Régie;315474;2024;73,3;3,2;8,8;66,8;conforme;873664;3918;69;133;155;Non vérifié
+01118;Corbonod;01;eau potable;182390;2024;82,7;2,0;9,5;66,9;conforme;18097;18097;37;77;1333;Non vérifié
+01121;Corlier;01;eau potable : Régie (toutes communes sauf DSP);259234;2024;54,3;9,6;11,4;67,3;non conforme;2320349;4855;115;309;116;Non vérifié
+01123;Cormoranche-sur-Saône;01;eau potable : Perimetre Ex Veyle Chalaronne;182741;2024;76,6;2,1;6,8;66,4;conforme;243479;17845;41;113;1179;Non vérifié
+01124;Cormoz;01;eau potable : Bresse Revermont;271114;2024;84,2;1,1;5,6;66,1;conforme;133178;9554;37;72;703;Non vérifié
+01125;Corveissiat;01;eau potable : Ain Suran Revermont;271054;2024;74,4;4,4;12,7;67,5;conforme;633535;23034;105;236;601;Non vérifié
+01127;Courmangoux;01;eau potable : Bresse Revermont;271114;2024;84,2;1,1;5,6;66,1;conforme;133178;7094;37;72;522;Non vérifié
+01128;Courtes;01;eau potable : Périmetre Ex SIE Basse Reyssouze;182724;2024;86,7;1,0;6,8;66,4;conforme;178087;2965;28;54;289;Non vérifié
+01129;Crans;01;eau potable : ex : SIE Faramans Rignieux le Franc-St Eloi;270474;2024;98,2;0,1;4,7;65,9;conforme;5409;407;3;8;326;Non vérifié
+01130;Bresse Vallons;01;eau potable : Moyenne Reyssouze;271094;2024;90,3;0,8;7,8;66,6;conforme;51687;17414;20;37;2388;Non vérifié
+01133;Cressin-Rochefort;01;eau potable : Régie;315474;2024;73,3;3,2;8,8;66,8;conforme;873664;9605;69;133;380;Non vérifié
+01134;Crottet;01;eau potable : SIE Saône Veyle;182738;2024;83,5;1,7;8,8;66,8;conforme;229715;20145;30;71;1847;Non vérifié
+01135;Crozet;01;eau potable;182719;2024;89,6;2,7;23,1;69,6;conforme;761092;17170;19;43;2416;Non vérifié
+01136;Cruzilles-lès-Mépillat;01;eau potable : Perimetre Ex Veyle Chalaronne;182741;2024;76,6;2,1;6,8;66,4;conforme;243479;14894;41;113;984;Non vérifié
+01138;Culoz-Béon;01;eau potable : Régie;315474;2024;73,3;3,2;8,8;66,8;conforme;873664;87275;69;133;3453;Non vérifié
+01139;Curciat-Dongalon;01;eau potable : Périmetre Ex SIE Basse Reyssouze;182724;2024;86,7;1,0;6,8;66,4;conforme;178087;4843;28;54;472;Non vérifié
+01140;Curtafond;01;eau potable;182742;2024;75,4;2,8;8,6;66,7;conforme;803394;15888;53;121;825;Non vérifié
+01141;Cuzieu;01;eau potable : Régie;315474;2024;73,3;3,2;8,8;66,8;conforme;873664;10717;69;133;424;Non vérifié
+01142;Dagneux;01;eau potable;182803;2024;63,7;11,0;19,3;68,9;non conforme;819060;161427;93;222;4778;Non vérifié
+01143;Divonne-les-Bains;01;eau potable;182719;2024;89,6;2,7;23,1;69,6;conforme;761092;74367;19;43;10464;Non vérifié
+01145;Dompierre-sur-Veyle;01;eau potable;182721;2024;83,0;1,3;6,2;66,2;conforme;200011;13702;30;77;1245;Non vérifié
+01146;Dompierre-sur-Chalaronne;01;eau potable : Perimetre Ex Veyle Chalaronne;182741;2024;76,6;2,1;6,8;66,4;conforme;243479;6902;41;113;456;Non vérifié
+01147;Domsure;01;eau potable : Bresse Revermont;271114;2024;84,2;1,1;5,6;66,1;conforme;133178;7529;37;72;554;Non vérifié
+01148;Dortan;01;eau potable : Régie (toutes communes sauf DSP);259234;2024;54,3;9,6;11,4;67,3;non conforme;2320349;86810;115;309;2074;Non vérifié
+01149;Douvres;01;eau potable;182755;2024;71,0;7,0;17,1;68,4;conforme;549325;23691;59;149;1104;Non vérifié
+01150;Drom;01;eau potable : Ain Suran Revermont;271054;2024;74,4;4,4;12,7;67,5;conforme;633535;8240;105;236;215;Non vérifié
+01151;Druillat;01;eau potable;182721;2024;83,0;1,3;6,2;66,2;conforme;200011;12425;30;77;1129;Non vérifié
+01152;Échallon;01;eau potable : Régie (toutes communes sauf DSP);259234;2024;54,3;9,6;11,4;67,3;non conforme;2320349;32815;115;309;784;Non vérifié
+01153;Échenevex;01;eau potable;182719;2024;89,6;2,7;23,1;69,6;conforme;761092;16545;19;43;2328;Non vérifié
+01155;Évosges;01;eau potable;182727;2024;61,6;3,2;5,1;66,0;non conforme;34304;8187;158;240;142;Non vérifié
+01156;Faramans;01;eau potable : ex : SIE Faramans Rignieux le Franc-St Eloi;270474;2024;98,2;0,1;4,7;65,9;conforme;5409;1165;3;8;934;Non vérifié
+01157;Fareins;01;eau potable;182730;2024;84,9;2,5;14,2;67,8;conforme;98660;20427;22;64;2533;Non vérifié
+01158;Farges;01;eau potable;182719;2024;89,6;2,7;23,1;69,6;conforme;761092;7690;19;43;1082;Non vérifié
+01159;Feillens;01;eau potable : SIE Saône Veyle;182738;2024;83,5;1,7;8,8;66,8;conforme;229715;37202;30;71;3411;Non vérifié
+01160;Ferney-Voltaire;01;eau potable;182719;2024;89,6;2,7;23,1;69,6;conforme;761092;85952;19;43;12094;Non vérifié
+01162;Flaxieu;01;eau potable : Régie;315474;2024;73,3;3,2;8,8;66,8;conforme;873664;1795;69;133;71;Non vérifié
+01163;Foissiat;01;eau potable : Moyenne Reyssouze;271094;2024;90,3;0,8;7,8;66,6;conforme;51687;14832;20;37;2034;Non vérifié
+01165;Francheleins;01;eau potable : ex : SIE Montmerle et Environs;270354;2024;83,1;1,7;8,6;66,7;conforme;118999;14621;25;72;1597;Non vérifié
+01166;Frans;01;eau potable;182730;2024;84,9;2,5;14,2;67,8;conforme;98660;20822;22;64;2582;Non vérifié
+01167;Garnerans;01;eau potable : Perimetre Ex Veyle Chalaronne;182741;2024;76,6;2,1;6,8;66,4;conforme;243479;10762;41;113;711;Non vérifié
+01169;Genouilleux;01;eau potable : ex : SIE Montmerle et Environs;270354;2024;83,1;1,7;8,6;66,7;conforme;118999;6418;25;72;701;Non vérifié
+01170;Béard-Géovreissiat;01;eau potable : Régie (toutes communes sauf DSP);259234;2024;54,3;9,6;11,4;67,3;non conforme;2320349;43865;115;309;1048;Non vérifié
+01171;Géovreisset;01;eau potable : Régie (toutes communes sauf DSP);259234;2024;54,3;9,6;11,4;67,3;non conforme;2320349;35662;115;309;852;Non vérifié
+01173;Gex;01;eau potable;182719;2024;89,6;2,7;23,1;69,6;conforme;761092;96847;19;43;13627;Non vérifié
+01174;Giron;01;eau potable;282334;2024;76,6;4,2;13,7;67,7;conforme;365620;2861;45;112;174;Non vérifié
+01175;Gorrevod;01;eau potable : Périmetre Ex SIE Basse Reyssouze;182724;2024;86,7;1,0;6,8;66,4;conforme;178087;8362;28;54;815;Non vérifié
+01177;Grand-Corent;01;eau potable : Ain Suran Revermont;271054;2024;74,4;4,4;12,7;67,5;conforme;633535;7014;105;236;183;Non vérifié
+01179;Grièges;01;eau potable : Perimetre Ex Veyle Chalaronne;182741;2024;76,6;2,1;6,8;66,4;conforme;243479;28910;41;113;1910;Non vérifié
+01180;Grilly;01;eau potable;182719;2024;89,6;2,7;23,1;69,6;conforme;761092;6318;19;43;889;Non vérifié
+01181;Groissiat;01;eau potable : Régie (toutes communes sauf DSP);259234;2024;54,3;9,6;11,4;67,3;non conforme;2320349;50437;115;309;1205;Non vérifié
+01183;Guéreins;01;eau potable : ex : SIE Montmerle et Environs;270354;2024;83,1;1,7;8,6;66,7;conforme;118999;13843;25;72;1512;Non vérifié
+01184;Hautecourt-Romanèche;01;eau potable : Ain Suran Revermont;271054;2024;74,4;4,4;12,7;67,5;conforme;633535;28668;105;236;748;Non vérifié
+01185;Plateau d'Hauteville;01;eau potable : Hostiaz DSP;280074;2024;63,4;6,5;11,3;67,3;non conforme;7165;7165;4;210;4857;Non vérifié
+01187;Haut Valromey (avant 2025);01;eau potable : Régie;315474;2024;73,3;3,2;8,8;66,8;conforme;873664;20245;69;133;801;Non vérifié
+01188;Illiat;01;eau potable : Perimetre Ex Veyle Chalaronne;182741;2024;76,6;2,1;6,8;66,4;conforme;243479;10626;41;113;702;Non vérifié
+01189;Injoux-Génissiat;01;eau potable;282334;2024;76,6;4,2;13,7;67,7;conforme;365620;18334;45;112;1115;Non vérifié
+01190;Innimond;01;eau potable;182450;2024;82,0;1,1;5,1;66,0;conforme;1606;1606;46;78;95;Non vérifié
+01191;Izenave;01;eau potable : Régie (toutes communes sauf DSP);259234;2024;54,3;9,6;11,4;67,3;non conforme;2320349;6781;115;309;162;Non vérifié
+01192;Izernore;01;eau potable : Régie (toutes communes sauf DSP);259234;2024;54,3;9,6;11,4;67,3;non conforme;2320349;96228;115;309;2299;Non vérifié
+01193;Izieu;01;eau potable : Régie;315474;2024;73,3;3,2;8,8;66,8;conforme;873664;5687;69;133;225;Non vérifié
+01194;Jassans-Riottier;01;eau potable;182730;2024;84,9;2,5;14,2;67,8;conforme;98660;50378;22;64;6247;Non vérifié
+01195;Jasseron;01;eau potable : Ain Suran Revermont;271054;2024;74,4;4,4;12,7;67,5;conforme;633535;73472;105;236;1917;Non vérifié
+01196;Jayat;01;eau potable : Moyenne Reyssouze;271094;2024;90,3;0,8;7,8;66,6;conforme;51687;9195;20;37;1261;Non vérifié
+01197;Journans;01;eau potable;182721;2024;83,0;1,3;6,2;66,2;conforme;200011;4259;30;77;387;Non vérifié
+01198;Joyeux;01;eau potable : ex : SIE Faramans Rignieux le Franc-St Eloi;270474;2024;98,2;0,1;4,7;65,9;conforme;5409;327;3;8;262;Non vérifié
+01199;Jujurieux;01;eau potable : Jujurieux;182461;2024;33,2;22,0;11,0;67,2;non conforme;184690;184690;224;734;2260;Non vérifié
+01202;Lagnieu;01;eau potable;182464;2024;77,3;6,4;21,9;69,4;conforme;127195;127195;47;107;7411;Non vérifié
+01203;Laiz;01;eau potable : Perimetre Ex Veyle Chalaronne;182741;2024;76,6;2,1;6,8;66,4;conforme;243479;19571;41;113;1293;Non vérifié
+01204;Le Poizat-Lalleyriat;01;eau potable : Nantua-Ex Sivom Lac Sylans DSP;312654;2024;65,6;4,6;8,8;66,8;non conforme;134840;20381;76;192;732;Non vérifié
+01206;Lantenay;01;eau potable : Régie (toutes communes sauf DSP);259234;2024;54,3;9,6;11,4;67,3;non conforme;2320349;10883;115;309;260;Non vérifié
+01207;Lapeyrouse;01;eau potable : Perimetre Ex SIE Dombes Saone;182726;2024;67,2;4,9;10,0;67,0;conforme;1279153;8430;66;180;348;Non vérifié
+01208;Lavours;01;eau potable : Régie;315474;2024;73,3;3,2;8,8;66,8;conforme;873664;3488;69;133;138;Non vérifié
+01209;Léaz;01;eau potable;182719;2024;89,6;2,7;23,1;69,6;conforme;761092;6482;19;43;912;Non vérifié
+01210;Lélex;01;eau potable;182719;2024;89,6;2,7;23,1;69,6;conforme;761092;1713;19;43;241;Non vérifié
+01211;Lent;01;eau potable;182721;2024;83,0;1,3;6,2;66,2;conforme;200011;16640;30;77;1512;Non vérifié
+01212;Lescheroux;01;eau potable : Moyenne Reyssouze;271094;2024;90,3;0,8;7,8;66,6;conforme;51687;5294;20;37;726;Non vérifié
+01213;Leyment;01;eau potable;182476;2020;69,0;5,9;13,1;67,6;conforme;29869;29869;57;164;1441;Sans anomalie apparente
+01214;Leyssard;01;eau potable : Régie (toutes communes sauf DSP);259234;2024;54,3;9,6;11,4;67,3;non conforme;2320349;6864;115;309;164;Non vérifié
+01215;Surjoux-Lhopital;01;eau potable;282334;2024;76,6;4,2;13,7;67,7;conforme;365620;2269;45;112;138;Non vérifié
+01216;Lhuis;01;eau potable;182482;2024;50,8;5,8;6,0;66,2;non conforme;46574;46574;144;356;886;Non vérifié
+01219;Lompnas;01;eau potable;182485;2024;92,5;0,9;10,7;67,1;conforme;1084;1084;17;31;171;Non vérifié
+01224;Loyettes;01;eau potable;182744;2024;92,4;6,4;78,5;80,7;conforme;92833;36954;28;98;3554;Non vérifié
+01225;Lurcy;01;eau potable : ex : SIE Montmerle et Environs;270354;2024;83,1;1,7;8,6;66,7;conforme;118999;3717;25;72;406;Non vérifié
+01227;Magnieu;01;eau potable : Régie;315474;2024;73,3;3,2;8,8;66,8;conforme;873664;16454;69;133;651;Non vérifié
+01228;Maillat;01;eau potable : Maillat DSP;182493;2024;71,9;3,0;7,7;66,5;conforme;13184;13184;54;142;669;Non vérifié
+01229;Malafretaz;01;eau potable;182742;2024;75,4;2,8;8,6;66,7;conforme;803394;24207;53;121;1257;Non vérifié
+01230;Mantenay-Montlin;01;eau potable : Périmetre Ex SIE Basse Reyssouze;182724;2024;86,7;1,0;6,8;66,4;conforme;178087;3396;28;54;331;Non vérifié
+01231;Manziat;01;eau potable : Périmetre Ex SIE Basse Reyssouze;182724;2024;86,7;1,0;6,8;66,4;conforme;178087;20704;28;54;2018;Non vérifié
+01232;Marboz;01;eau potable : Bresse Revermont;271114;2024;84,2;1,1;5,6;66,1;conforme;133178;30770;37;72;2264;Non vérifié
+01233;Marchamp;01;eau potable;182498;2024;77,9;0,9;3,0;65,6;conforme;3351;3351;67;109;137;Non vérifié
+01234;Marignieu;01;eau potable : Régie;315474;2024;73,3;3,2;8,8;66,8;conforme;873664;4095;69;133;162;Non vérifié
+01235;Marlieux;01;eau potable : Perimetre Ex SIE Renom Chalaronne;182735;2024;83,3;0,7;3,6;65,7;conforme;66356;15608;36;72;1185;Non vérifié
+01236;Marsonnas;01;eau potable;182742;2024;75,4;2,8;8,6;66,7;conforme;803394;20009;53;121;1039;Non vérifié
+01237;Martignat;01;eau potable : Régie (toutes communes sauf DSP);259234;2024;54,3;9,6;11,4;67,3;non conforme;2320349;69649;115;309;1664;Non vérifié
+01238;Massieux;01;eau potable : Perimetre Ex SIE Dombes Saone;182726;2024;67,2;4,9;10,0;67,0;conforme;1279153;68869;66;180;2843;Non vérifié
+01239;Massignieu-de-Rives;01;eau potable : Régie;315474;2024;73,3;3,2;8,8;66,8;conforme;873664;16429;69;133;650;Non vérifié
+01240;Matafelon-Granges;01;eau potable : Régie (toutes communes sauf DSP);259234;2024;54,3;9,6;11,4;67,3;non conforme;2320349;26077;115;309;623;Non vérifié
+01241;Meillonnas;01;eau potable : Ain Suran Revermont;271054;2024;74,4;4,4;12,7;67,5;conforme;633535;54653;105;236;1426;Non vérifié
+01242;Mérignat;01;eau potable : Merignat;182510;2024;50,8;2,7;2,7;65,5;non conforme;5223;5223;111;360;129;Non vérifié
+01243;Messimy-sur-Saône;01;eau potable : ex : SIE Montmerle et Environs;270354;2024;83,1;1,7;8,6;66,7;conforme;118999;12250;25;72;1338;Non vérifié
+01244;Meximieux;01;eau potable : ex : SIE MEXIMIEUX ET COTIÈRE;270514;2024;91,0;2,0;19,8;69,0;conforme;86739;47546;16;40;8247;Non vérifié
+01245;Bohas-Meyriat-Rignat;01;eau potable : Ain Suran Revermont;271054;2024;74,4;4,4;12,7;67,5;conforme;633535;35950;105;236;938;Non vérifié
+01246;Mézériat;01;eau potable;182742;2024;75,4;2,8;8,6;66,7;conforme;803394;41828;53;121;2172;Non vérifié
+01247;Mijoux;01;eau potable;182719;2024;89,6;2,7;23,1;69,6;conforme;761092;2125;19;43;299;Non vérifié
+01248;Mionnay;01;eau potable : Perimetre Ex SIE Dombes Saone;182726;2024;67,2;4,9;10,0;67,0;conforme;1279153;55570;66;180;2294;Non vérifié
+01249;Miribel;01;eau potable;270234;2024;80,2;5,1;20,9;69,2;conforme;315580;146803;39;90;10395;Non vérifié
+01250;Misérieux;01;eau potable : Perimetre Ex SIE Dombes Saone;182726;2024;67,2;4,9;10,0;67,0;conforme;1279153;48642;66;180;2008;Non vérifié
+01252;Mogneneins;01;eau potable : Perimetre Ex Veyle Chalaronne;182741;2024;76,6;2,1;6,8;66,4;conforme;243479;12729;41;113;841;Non vérifié
+01254;Montagnat;01;eau potable;182721;2024;83,0;1,3;6,2;66,2;conforme;200011;24058;30;77;2186;Non vérifié
+01255;Montagnieu;01;eau potable;182518;2021;90,9;1,3;12,9;67,6;conforme;5599;5599;23;46;668;Sans anomalie apparente
+01257;Montanges;01;eau potable;282334;2024;76,6;4,2;13,7;67,7;conforme;365620;6068;45;112;369;Non vérifié
+01258;Montceaux;01;eau potable : ex : SIE Montmerle et Environs;270354;2024;83,1;1,7;8,6;66,7;conforme;118999;10950;25;72;1196;Non vérifié
+01259;Montcet;01;eau potable;182742;2024;75,4;2,8;8,6;66,7;conforme;803394;13654;53;121;709;Non vérifié
+01260;Le Montellier;01;eau potable : ex : SIE Faramans Rignieux le Franc-St Eloi;270474;2024;98,2;0,1;4,7;65,9;conforme;5409;419;3;8;336;Non vérifié
+01261;Monthieux;01;eau potable : Perimetre Ex SIE Dombes Saone;182726;2024;67,2;4,9;10,0;67,0;conforme;1279153;16085;66;180;664;Non vérifié
+01262;Montluel;01;eau potable;182803;2024;63,7;11,0;19,3;68,9;non conforme;819060;232950;93;222;6895;Non vérifié
+01263;Montmerle-sur-Saône;01;eau potable : ex : SIE Montmerle et Environs;270354;2024;83,1;1,7;8,6;66,7;conforme;118999;34781;25;72;3799;Non vérifié
+01264;Montracol;01;eau potable;182742;2024;75,4;2,8;8,6;66,7;conforme;803394;19604;53;121;1018;Non vérifié
+01265;Montréal-la-Cluse;01;eau potable : Régie (toutes communes sauf DSP);259234;2024;54,3;9,6;11,4;67,3;non conforme;2320349;149343;115;309;3568;Non vérifié
+01266;Montrevel-en-Bresse;01;eau potable;182742;2024;75,4;2,8;8,6;66,7;conforme;803394;52824;53;121;2743;Non vérifié
+01267;Nurieux-Volognat;01;eau potable : Régie (toutes communes sauf DSP);259234;2024;54,3;9,6;11,4;67,3;non conforme;2320349;40391;115;309;965;Non vérifié
+01268;Murs-et-Gélignieux;01;eau potable : Régie;315474;2024;73,3;3,2;8,8;66,8;conforme;873664;6041;69;133;239;Non vérifié
+01269;Nantua;01;eau potable : Nantua-Ex Sivom Lac Sylans DSP;312654;2024;65,6;4,6;8,8;66,8;non conforme;134840;95109;76;192;3416;Non vérifié
+01272;Neuville-les-Dames;01;eau potable : Perimetre Ex SIE Renom Veyle;182736;2024;89,7;0,8;6,9;66,4;conforme;68997;11690;20;42;1565;Non vérifié
+01273;Neuville-sur-Ain;01;eau potable : Neuville sur Ain;182532;2024;67,2;3,7;7,7;66,5;conforme;38705;38705;59;176;1794;Non vérifié
+01274;Les Neyrolles;01;eau potable : Régie (toutes communes sauf DSP);259234;2022;62,9;7,1;12,0;67,4;non conforme;1731899;19400;85;216;628;Sans anomalie apparente
+01275;Neyron;01;eau potable;270234;2024;80,2;5,1;20,9;69,2;conforme;315580;34190;39;90;2421;Non vérifié
+01276;Niévroz;01;eau potable;182739;2024;89,8;1,8;16,1;68,2;conforme;19684;11192;18;45;1662;Non vérifié
+01277;Nivollet-Montgriffon;01;eau potable;182727;2024;61,6;3,2;5,1;66,0;non conforme;34304;7034;158;240;122;Non vérifié
+01279;Oncieu;01;eau potable;182538;2024;67,9;2,1;4,4;65,9;conforme;1226;1226;47;173;72;Non vérifié
+01280;Ordonnaz;01;eau potable;182540;2024;60,0;2,5;3,7;65,7;non conforme;10676;10676;194;250;151;Non vérifié
+01281;Ornex;01;eau potable;182719;2024;89,6;2,7;23,1;69,6;conforme;761092;36118;19;43;5082;Non vérifié
+01282;Outriaz;01;eau potable : Régie (toutes communes sauf DSP);259234;2024;54,3;9,6;11,4;67,3;non conforme;2320349;11008;115;309;263;Non vérifié
+01283;Oyonnax;01;eau potable : Régie (toutes communes sauf DSP);259234;2024;54,3;9,6;11,4;67,3;non conforme;2320349;940931;115;309;22480;Non vérifié
+01284;Ozan;01;eau potable : Périmetre Ex SIE Basse Reyssouze;182724;2024;86,7;1,0;6,8;66,4;conforme;178087;7510;28;54;732;Non vérifié
+01285;Parcieux;01;eau potable : Perimetre Ex SIE Dombes Saone;182726;2024;67,2;4,9;10,0;67,0;conforme;1279153;31855;66;180;1315;Non vérifié
+01286;Parves et Nattages;01;eau potable : Régie;315474;2024;73,3;3,2;8,8;66,8;conforme;873664;24315;69;133;962;Non vérifié
+01288;Péron;01;eau potable;182719;2024;89,6;2,7;23,1;69,6;conforme;761092;20724;19;43;2916;Non vérifié
+01289;Péronnas;01;eau potable : Régie;271014;2024;83,1;7,0;34,2;71,8;conforme;644141;83404;35;75;6444;Non vérifié
+01290;Pérouges;01;eau potable : ex : SIE MEXIMIEUX ET COTIÈRE;270514;2024;91,0;2,0;19,8;69,0;conforme;86739;7996;16;40;1387;Non vérifié
+01291;Perrex;01;eau potable : SIE Saône Veyle;182738;2024;83,5;1,7;8,8;66,8;conforme;229715;9478;30;71;869;Non vérifié
+01293;Peyriat;01;eau potable : Régie (toutes communes sauf DSP);259234;2024;54,3;9,6;11,4;67,3;non conforme;2320349;6404;115;309;153;Non vérifié
+01294;Peyrieu;01;eau potable : Régie;315474;2024;73,3;3,2;8,8;66,8;conforme;873664;23759;69;133;940;Non vérifié
+01295;Peyzieux-sur-Saône;01;eau potable : ex : SIE Montmerle et Environs;270354;2024;83,1;1,7;8,6;66,7;conforme;118999;5988;25;72;654;Non vérifié
+01296;Pirajoux;01;eau potable : Bresse Revermont;271114;2024;84,2;1,1;5,6;66,1;conforme;133178;5396;37;72;397;Non vérifié
+01297;Pizay;01;eau potable;182803;2024;63,7;11,0;19,3;68,9;non conforme;819060;31657;93;222;937;Non vérifié
+01298;Plagne;01;eau potable;282334;2024;76,6;4,2;13,7;67,7;conforme;365620;2615;45;112;159;Non vérifié
+01299;Le Plantay;01;eau potable : Perimetre Ex SIE Renom Chalaronne;182735;2024;83,3;0,7;3,6;65,7;conforme;66356;7363;36;72;559;Non vérifié
+01301;Polliat;01;eau potable;182742;2024;75,4;2,8;8,6;66,7;conforme;803394;52785;53;121;2741;Non vérifié
+01302;Pollieu;01;eau potable : Régie;315474;2024;73,3;3,2;8,8;66,8;conforme;873664;4221;69;133;167;Non vérifié
+01303;Poncin;01;eau potable : Poncin;182564;2024;71,6;4,4;11,2;67,2;conforme;44277;44277;67;171;1803;Non vérifié
+01304;Pont-d'Ain;01;eau potable;182721;2024;83,0;1,3;6,2;66,2;conforme;200011;31288;30;77;2843;Non vérifié
+01305;Pont-de-Vaux;01;eau potable : Périmetre Ex SIE Basse Reyssouze;182724;2024;86,7;1,0;6,8;66,4;conforme;178087;22612;28;54;2204;Non vérifié
+01306;Pont-de-Veyle;01;eau potable : SIE Saône Veyle;182738;2024;83,5;1,7;8,8;66,8;conforme;229715;17385;30;71;1594;Non vérifié
+01307;Port;01;eau potable : Port DSP;259214;2024;85,7;2,0;11,8;67,4;conforme;6891;6891;23;62;832;Non vérifié
+01308;Pougny;01;eau potable;182719;2024;89,6;2,7;23,1;69,6;conforme;761092;6190;19;43;871;Non vérifié
+01309;Pouillat;01;eau potable : Pouillat;281054;2024;44,5;5,4;4,3;65,9;non conforme;5834;5834;208;457;77;Non vérifié
+01310;Prémeyzel;01;eau potable : Régie;315474;2024;73,3;3,2;8,8;66,8;conforme;873664;6167;69;133;244;Non vérifié
+01311;Prémillieu;01;eau potable : Régie (toutes communes sauf DSP);259234;2024;54,3;9,6;11,4;67,3;non conforme;2320349;2051;115;309;49;Non vérifié
+01313;Prévessin-Moëns;01;eau potable;182719;2024;89,6;2,7;23,1;69,6;conforme;761092;65050;19;43;9153;Non vérifié
+01314;Priay;01;eau potable;182743;2024;80,3;0,6;2,5;65,5;conforme;30487;7380;11;87;1842;Non vérifié
+01317;Ramasse;01;eau potable : Ain Suran Revermont;271054;2024;74,4;4,4;12,7;67,5;conforme;633535;12878;105;236;336;Non vérifié
+01318;Rancé;01;eau potable : Perimetre Ex SIE Dombes Saone;182726;2024;67,2;4,9;10,0;67,0;conforme;1279153;18774;66;180;775;Non vérifié
+01319;Relevant;01;eau potable : Perimetre Ex SIE Renom Chalaronne;182735;2024;83,3;0,7;3,6;65,7;conforme;66356;6125;36;72;465;Non vérifié
+01320;Replonges;01;eau potable : SIE Saône Veyle;182738;2024;83,5;1,7;8,8;66,8;conforme;229715;43147;30;71;3956;Non vérifié
+01321;Revonnas;01;eau potable : Ain Suran Revermont;271054;2024;74,4;4,4;12,7;67,5;conforme;633535;35069;105;236;915;Non vérifié
+01322;Reyrieux;01;eau potable : Perimetre Ex SIE Dombes Saone;182726;2024;67,2;4,9;10,0;67,0;conforme;1279153;129793;66;180;5358;Non vérifié
+01323;Reyssouze;01;eau potable : Périmetre Ex SIE Basse Reyssouze;182724;2024;86,7;1,0;6,8;66,4;conforme;178087;10219;28;54;996;Non vérifié
+01325;Rignieux-le-Franc;01;eau potable : ex : SIE Faramans Rignieux le Franc-St Eloi;270474;2024;98,2;0,1;4,7;65,9;conforme;5409;1472;3;8;1180;Non vérifié
+01328;Romans;01;eau potable : Perimetre Ex SIE Renom Chalaronne;182735;2024;83,3;0,7;3,6;65,7;conforme;66356;8429;36;72;640;Non vérifié
+01329;Rossillon;01;eau potable : Régie;315474;2024;73,3;3,2;8,8;66,8;conforme;873664;4196;69;133;166;Non vérifié
+01330;Ruffieu;01;eau potable : Régie;315474;2024;73,3;3,2;8,8;66,8;conforme;873664;4651;69;133;184;Non vérifié
+01332;Saint-André-de-Bâgé;01;eau potable : SIE Saône Veyle;182738;2024;83,5;1,7;8,8;66,8;conforme;229715;9172;30;71;841;Non vérifié
+01333;Saint-André-de-Corcy;01;eau potable : Perimetre Ex SIE Dombes Saone;182726;2024;67,2;4,9;10,0;67,0;conforme;1279153;81635;66;180;3370;Non vérifié
+01334;Saint-André-d'Huiriat;01;eau potable : Perimetre Ex Veyle Chalaronne;182741;2024;76,6;2,1;6,8;66,4;conforme;243479;10096;41;113;667;Non vérifié
+01335;Saint-André-le-Bouchoux;01;eau potable : Perimetre Ex SIE Renom Chalaronne;182735;2024;83,3;0,7;3,6;65,7;conforme;66356;5387;36;72;409;Non vérifié
+01336;Saint-André-sur-Vieux-Jonc;01;eau potable;182742;2024;75,4;2,8;8,6;66,7;conforme;803394;23668;53;121;1229;Non vérifié
+01337;Saint-Bénigne;01;eau potable : Périmetre Ex SIE Basse Reyssouze;182724;2024;86,7;1,0;6,8;66,4;conforme;178087;13943;28;54;1359;Non vérifié
+01338;Groslée-Saint-Benoit;01;eau potable : Régie;315474;2024;73,3;3,2;8,8;66,8;conforme;873664;31013;69;133;1227;Non vérifié
+01339;Saint-Bernard;01;eau potable;175999;2024;85,1;2,9;16,7;68,3;conforme;94926;12058;21;64;1590;Non vérifié
+01342;Sainte-Croix;01;eau potable;182803;2024;63,7;11,0;19,3;68,9;non conforme;819060;18379;93;222;544;Non vérifié
+01343;Saint-Cyr-sur-Menthon;01;eau potable : SIE Saône Veyle;182738;2024;83,5;1,7;8,8;66,8;conforme;229715;20614;30;71;1890;Non vérifié
+01344;Saint-Denis-lès-Bourg;01;eau potable;182742;2024;75,4;2,8;8,6;66,7;conforme;803394;118628;53;121;6160;Non vérifié
+01345;Saint-Denis-en-Bugey;01;eau potable;182755;2024;71,0;7,0;17,1;68,4;conforme;549325;48197;59;149;2246;Non vérifié
+01346;Saint-Didier-d'Aussiat;01;eau potable;182742;2024;75,4;2,8;8,6;66,7;conforme;803394;16234;53;121;843;Non vérifié
+01347;Saint-Didier-de-Formans;01;eau potable : Perimetre Ex SIE Dombes Saone;182726;2024;67,2;4,9;10,0;67,0;conforme;1279153;53366;66;180;2203;Non vérifié
+01348;Saint-Didier-sur-Chalaronne;01;eau potable : Perimetre Ex Veyle Chalaronne;182741;2024;76,6;2,1;6,8;66,4;conforme;243479;44409;41;113;2934;Non vérifié
+01349;Saint-Éloi;01;eau potable : ex : SIE Faramans Rignieux le Franc-St Eloi;270474;2024;98,2;0,1;4,7;65,9;conforme;5409;655;3;8;525;Non vérifié
+01350;Saint-Étienne-du-Bois;01;eau potable : Bresse Revermont;271114;2024;84,2;1,1;5,6;66,1;conforme;133178;35119;37;72;2584;Non vérifié
+01351;Saint-Étienne-sur-Chalaronne;01;eau potable : Perimetre Ex Veyle Chalaronne;182741;2024;76,6;2,1;6,8;66,4;conforme;243479;24778;41;113;1637;Non vérifié
+01352;Saint-Étienne-sur-Reyssouze;01;eau potable : Périmetre Ex SIE Basse Reyssouze;182724;2024;86,7;1,0;6,8;66,4;conforme;178087;5869;28;54;572;Non vérifié
+01353;Sainte-Euphémie;01;eau potable : Perimetre Ex SIE Dombes Saone;182726;2024;67,2;4,9;10,0;67,0;conforme;1279153;42562;66;180;1757;Non vérifié
+01354;Saint-Genis-Pouilly;01;eau potable;182719;2024;89,6;2,7;23,1;69,6;conforme;761092;102568;19;43;14432;Non vérifié
+01355;Saint-Genis-sur-Menthon;01;eau potable : SIE Saône Veyle;182738;2024;83,5;1,7;8,8;66,8;conforme;229715;5344;30;71;490;Non vérifié
+01356;Saint-Georges-sur-Renon;01;eau potable : Perimetre Ex SIE Renom Chalaronne;182735;2024;83,3;0,7;3,6;65,7;conforme;66356;3003;36;72;228;Non vérifié
+01357;Saint-Germain-de-Joux;01;eau potable;282334;2024;76,6;4,2;13,7;67,7;conforme;365620;8337;45;112;507;Non vérifié
+01358;Saint-Germain-les-Paroisses;01;eau potable : Régie;315474;2024;73,3;3,2;8,8;66,8;conforme;873664;10666;69;133;422;Non vérifié
+01359;Saint-Germain-sur-Renon;01;eau potable : Perimetre Ex SIE Renom Chalaronne;182735;2024;83,3;0,7;3,6;65,7;conforme;66356;3477;36;72;264;Non vérifié
+01360;Saint-Jean-de-Gonville;01;eau potable;182719;2024;89,6;2,7;23,1;69,6;conforme;761092;14896;19;43;2096;Non vérifié
+01361;Saint-Jean-de-Niost;01;eau potable;182612;2024;94,6;0,8;13,7;67,7;conforme;5405;5405;8;21;1866;Non vérifié
+01362;Saint-Jean-de-Thurigneux;01;eau potable : Perimetre Ex SIE Dombes Saone;182726;2024;67,2;4,9;10,0;67,0;conforme;1279153;20905;66;180;863;Non vérifié
+01363;Saint-Jean-le-Vieux;01;eau potable : Saint-Jean-le-Vieux;182614;2024;57,1;4,9;6,5;66,3;non conforme;57769;57769;86;275;1839;Non vérifié
+01364;Saint-Jean-sur-Reyssouze;01;eau potable : Périmetre Ex SIE Basse Reyssouze;182724;2024;86,7;1,0;6,8;66,4;conforme;178087;7818;28;54;762;Non vérifié
+01365;Saint-Jean-sur-Veyle;01;eau potable : SIE Saône Veyle;182738;2024;83,5;1,7;8,8;66,8;conforme;229715;12466;30;71;1143;Non vérifié
+01366;Sainte-Julie;01;eau potable;182744;2024;92,4;6,4;78,5;80,7;conforme;92833;11375;28;98;1094;Non vérifié
+01367;Saint-Julien-sur-Reyssouze;01;eau potable : Moyenne Reyssouze;271094;2024;90,3;0,8;7,8;66,6;conforme;51687;4951;20;37;679;Non vérifié
+01368;Saint-Julien-sur-Veyle;01;eau potable : Perimetre Ex SIE Renom Veyle;182736;2024;89,7;0,8;6,9;66,4;conforme;68997;6416;20;42;859;Non vérifié
+01369;Saint-Just;01;eau potable : Régie;271014;2024;83,1;7,0;34,2;71,8;conforme;644141;12322;35;75;952;Non vérifié
+01370;Saint-Laurent-sur-Saône;01;eau potable : SME;76203;2024;88,3;1,9;14,6;67,9;conforme;107361;3892;6;48;1810;Non vérifié
+01371;Saint-Marcel;01;eau potable : Perimetre Ex SIE Dombes Saone;182726;2024;67,2;4,9;10,0;67,0;conforme;1279153;32460;66;180;1340;Non vérifié
+01372;Saint-Martin-de-Bavel;01;eau potable : Régie;315474;2024;73,3;3,2;8,8;66,8;conforme;873664;10818;69;133;428;Non vérifié
+01373;Saint-Martin-du-Frêne;01;eau potable : ST Martin du Frene DSP;182627;2024;66,3;5,6;11,1;67,2;non conforme;28023;28023;75;184;1023;Non vérifié
+01374;Saint-Martin-du-Mont;01;eau potable;182721;2024;83,0;1,3;6,2;66,2;conforme;200011;22264;30;77;2023;Non vérifié
+01375;Saint-Martin-le-Châtel;01;eau potable;182742;2024;75,4;2,8;8,6;66,7;conforme;803394;15329;53;121;796;Non vérifié
+01376;Saint-Maurice-de-Beynost;01;eau potable;270234;2024;80,2;5,1;20,9;69,2;conforme;315580;61178;39;90;4332;Non vérifié
+01378;Saint-Maurice-de-Gourdans;01;eau potable;182630;2024;91,9;1,3;15,0;68,0;conforme;12617;12617;12;32;2903;Non vérifié
+01379;Saint-Maurice-de-Rémens;01;eau potable;182743;2024;80,3;0,6;2,5;65,5;conforme;30487;3029;11;87;756;Non vérifié
+01380;Saint-Nizier-le-Bouchoux;01;eau potable : Périmetre Ex SIE Basse Reyssouze;182724;2024;86,7;1,0;6,8;66,4;conforme;178087;5951;28;54;580;Non vérifié
+01381;Saint-Nizier-le-Désert;01;eau potable;182721;2024;83,0;1,3;6,2;66,2;conforme;200011;10136;30;77;921;Non vérifié
+01382;Sainte-Olive;01;eau potable : Perimetre Ex SIE Dombes Saone;182726;2024;67,2;4,9;10,0;67,0;conforme;1279153;8648;66;180;357;Non vérifié
+01383;Saint-Paul-de-Varax;01;eau potable;182721;2024;83,0;1,3;6,2;66,2;conforme;200011;17983;30;77;1634;Non vérifié
+01384;Saint-Rambert-en-Bugey;01;eau potable;182637;2024;70,0;3,4;7,8;66,6;conforme;52259;52259;65;158;2190;Non vérifié
+01385;Saint-Rémy;01;eau potable;182742;2024;75,4;2,8;8,6;66,7;conforme;803394;17621;53;121;915;Non vérifié
+01386;Saint-Sorlin-en-Bugey;01;eau potable;182640;2024;78,3;3,9;14,0;67,8;conforme;15559;15559;37;102;1152;Non vérifié
+01387;Saint-Sulpice;01;eau potable;182742;2024;75,4;2,8;8,6;66,7;conforme;803394;5007;53;121;260;Non vérifié
+01388;Saint-Trivier-de-Courtes;01;eau potable : Périmetre Ex SIE Basse Reyssouze;182724;2024;86,7;1,0;6,8;66,4;conforme;178087;11542;28;54;1125;Non vérifié
+01389;Saint-Trivier-sur-Moignans;01;eau potable : Perimetre Ex SIE Dombes Saone;182726;2024;67,2;4,9;10,0;67,0;conforme;1279153;47552;66;180;1963;Non vérifié
+01390;Saint-Vulbas;01;eau potable;182774;2024;77,7;14,4;50,2;75,0;conforme;96921;96921;213;105;1247;Non vérifié
+01391;Salavre;01;eau potable : Bresse Revermont;271114;2024;84,2;1,1;5,6;66,1;conforme;133178;4159;37;72;306;Non vérifié
+01392;Samognat;01;eau potable : Régie (toutes communes sauf DSP);259234;2024;54,3;9,6;11,4;67,3;non conforme;2320349;26370;115;309;630;Non vérifié
+01393;Sandrans;01;eau potable : Perimetre Ex SIE Renom Chalaronne;182735;2024;83,3;0,7;3,6;65,7;conforme;66356;7666;36;72;582;Non vérifié
+01397;Sauverny;01;eau potable;182719;2024;89,6;2,7;23,1;69,6;conforme;761092;7263;19;43;1022;Non vérifié
+01398;Savigneux;01;eau potable : Perimetre Ex SIE Dombes Saone;182726;2024;67,2;4,9;10,0;67,0;conforme;1279153;35585;66;180;1469;Non vérifié
+01399;Ségny;01;eau potable;182719;2024;89,6;2,7;23,1;69,6;conforme;761092;20902;19;43;2941;Non vérifié
+01400;Seillonnaz;01;eau potable;182653;2024;96,1;0,1;2,4;65,5;conforme;292;292;6;15;134;Non vérifié
+01401;Sergy;01;eau potable;182719;2024;89,6;2,7;23,1;69,6;conforme;761092;16261;19;43;2288;Non vérifié
+01402;Sermoyer;01;eau potable : Périmetre Ex SIE Basse Reyssouze;182724;2024;86,7;1,0;6,8;66,4;conforme;178087;6874;28;54;670;Non vérifié
+01403;Serrières-de-Briord;01;eau potable;182656;2024;80,2;3,9;15,8;68,2;conforme;18449;18449;38;90;1317;Non vérifié
+01404;Serrières-sur-Ain;01;eau potable : Serrieres sur Ain;182658;2024;84,3;0,4;2,3;65,5;conforme;1358;1358;28;62;135;Non vérifié
+01405;Servas;01;eau potable;182742;2024;75,4;2,8;8,6;66,7;conforme;803394;24765;53;121;1286;Non vérifié
+01406;Servignat;01;eau potable : Périmetre Ex SIE Basse Reyssouze;182724;2024;86,7;1,0;6,8;66,4;conforme;178087;1908;28;54;186;Non vérifié
+01407;Seyssel;01;eau potable;182662;2024;72,9;3,5;9,4;66,9;conforme;20363;20363;55;136;1008;Non vérifié
+01408;Simandre-sur-Suran;01;eau potable : Ain Suran Revermont;271054;2024;74,4;4,4;12,7;67,5;conforme;633535;25794;105;236;673;Non vérifié
+01410;Sonthonnax-la-Montagne;01;eau potable : Régie (toutes communes sauf DSP);259234;2024;54,3;9,6;11,4;67,3;non conforme;2320349;12264;115;309;293;Non vérifié
+01411;Souclin;01;eau potable;182668;2024;92,2;0,7;8,5;66,7;conforme;945;945;10;30;262;Non vérifié
+01412;Sulignat;01;eau potable : Perimetre Ex SIE Renom Veyle;182736;2024;89,7;0,8;6,9;66,4;conforme;68997;4497;20;42;602;Non vérifié
+01415;Talissieu;01;eau potable : Régie;315474;2024;73,3;3,2;8,8;66,8;conforme;873664;12840;69;133;508;Non vérifié
+01416;Tenay;01;eau potable;182785;2024;82,0;2,1;9,5;66,9;conforme;10064;10064;27;80;1030;Non vérifié
+01418;Thil;01;eau potable;182739;2024;89,8;1,8;16,1;68,2;conforme;19684;8492;18;45;1261;Non vérifié
+01419;Thoiry;01;eau potable;182719;2024;89,6;2,7;23,1;69,6;conforme;761092;46686;19;43;6569;Non vérifié
+01420;Thoissey;01;eau potable : Perimetre Ex Veyle Chalaronne;182741;2024;76,6;2,1;6,8;66,4;conforme;243479;24611;41;113;1626;Non vérifié
+01421;Torcieu;01;eau potable;182755;2024;71,0;7,0;17,1;68,4;conforme;549325;15858;59;149;739;Non vérifié
+01422;Tossiat;01;eau potable;182721;2024;83,0;1,3;6,2;66,2;conforme;200011;15683;30;77;1425;Non vérifié
+01423;Toussieux;01;eau potable : Perimetre Ex SIE Dombes Saone;182726;2024;67,2;4,9;10,0;67,0;conforme;1279153;30450;66;180;1257;Non vérifié
+01424;Tramoyes;01;eau potable : Perimetre Ex SIE Dombes Saone;182726;2024;67,2;4,9;10,0;67,0;conforme;1279153;44863;66;180;1852;Non vérifié
+01425;La Tranclière;01;eau potable;182721;2024;83,0;1,3;6,2;66,2;conforme;200011;3192;30;77;290;Non vérifié
+01426;Val-Revermont;01;eau potable : Ain Suran Revermont;271054;2024;74,4;4,4;12,7;67,5;conforme;633535;95356;105;236;2488;Non vérifié
+01427;Trévoux;01;eau potable : Perimetre Ex SIE Dombes Saone;182726;2024;67,2;4,9;10,0;67,0;conforme;1279153;169884;66;180;7013;Non vérifié
+01428;Valeins;01;eau potable : ex : SIE Montmerle et Environs;270354;2024;83,1;1,7;8,6;66,7;conforme;118999;1172;25;72;128;Non vérifié
+01429;Vandeins;01;eau potable;182742;2024;75,4;2,8;8,6;66,7;conforme;803394;14097;53;121;732;Non vérifié
+01430;Varambon;01;eau potable;182721;2024;83,0;1,3;6,2;66,2;conforme;200011;7429;30;77;675;Non vérifié
+01431;Vaux-en-Bugey;01;eau potable;182755;2024;71,0;7,0;17,1;68,4;conforme;549325;25772;59;149;1201;Non vérifié
+01432;Verjon;01;eau potable : Bresse Revermont;271114;2024;84,2;1,1;5,6;66,1;conforme;133178;4702;37;72;346;Non vérifié
+01433;Vernoux;01;eau potable : Périmetre Ex SIE Basse Reyssouze;182724;2024;86,7;1,0;6,8;66,4;conforme;178087;2975;28;54;290;Non vérifié
+01434;Versailleux;01;eau potable : ex : SIE Faramans Rignieux le Franc-St Eloi;270474;2024;98,2;0,1;4,7;65,9;conforme;5409;620;3;8;497;Non vérifié
+01435;Versonnex;01;eau potable;182719;2024;89,6;2,7;23,1;69,6;conforme;761092;15507;19;43;2182;Non vérifié
+01436;Vesancy;01;eau potable;182719;2024;89,6;2,7;23,1;69,6;conforme;761092;3696;19;43;520;Non vérifié
+01437;Vescours;01;eau potable : Périmetre Ex SIE Basse Reyssouze;182724;2024;86,7;1,0;6,8;66,4;conforme;178087;2267;28;54;221;Non vérifié
+01439;Vésines;01;eau potable : Périmetre Ex SIE Basse Reyssouze;182724;2024;86,7;1,0;6,8;66,4;conforme;178087;985;28;54;96;Non vérifié
+01441;Vieu-d'Izenave;01;eau potable : Régie (toutes communes sauf DSP);259234;2024;54,3;9,6;11,4;67,3;non conforme;2320349;30095;115;309;719;Non vérifié
+01443;Villars-les-Dombes;01;eau potable : Perimetre Ex SIE Dombes Saone;182726;2024;67,2;4,9;10,0;67,0;conforme;1279153;125069;66;180;5163;Non vérifié
+01444;Villebois;01;eau potable;182700;2024;89,4;1,6;13,9;67,8;conforme;7569;7569;17;42;1206;Non vérifié
+01445;Villemotier;01;eau potable : Bresse Revermont;271114;2024;84,2;1,1;5,6;66,1;conforme;133178;8318;37;72;612;Non vérifié
+01446;Villeneuve;01;eau potable : Perimetre Ex SIE Dombes Saone;182726;2024;67,2;4,9;10,0;67,0;conforme;1279153;39679;66;180;1638;Non vérifié
+01447;Villereversure;01;eau potable : Ain Suran Revermont;271054;2024;74,4;4,4;12,7;67,5;conforme;633535;54423;105;236;1420;Non vérifié
+01448;Villes;01;eau potable;282334;2024;76,6;4,2;13,7;67,7;conforme;365620;6265;45;112;381;Non vérifié
+01449;Villette-sur-Ain;01;eau potable;182743;2024;80,3;0,6;2,5;65,5;conforme;30487;3125;11;87;780;Non vérifié
+01450;Villieu-Loyes-Mollon;01;eau potable : ex : SIE MEXIMIEUX ET COTIÈRE;270514;2024;91,0;2,0;19,8;69,0;conforme;86739;22191;16;40;3849;Non vérifié
+01451;Viriat;01;eau potable;182742;2024;75,4;2,8;8,6;66,7;conforme;803394;136768;53;121;7102;Non vérifié
+01452;Virieu-le-Grand;01;eau potable : Régie;315474;2024;73,3;3,2;8,8;66,8;conforme;873664;28081;69;133;1111;Non vérifié
+01453;Arvière-en-Valromey;01;eau potable : Régie;315474;2024;73,3;3,2;8,8;66,8;conforme;873664;18122;69;133;717;Non vérifié
+01454;Virignin;01;eau potable : Régie;315474;2024;73,3;3,2;8,8;66,8;conforme;873664;28915;69;133;1144;Non vérifié
+01456;Vongnes;01;eau potable : Régie;315474;2024;73,3;3,2;8,8;66,8;conforme;873664;1896;69;133;75;Non vérifié
+01457;Vonnas;01;eau potable : Perimetre Ex SIE Renom Veyle;182736;2024;89,7;0,8;6,9;66,4;conforme;68997;24314;20;42;3255;Non vérifié

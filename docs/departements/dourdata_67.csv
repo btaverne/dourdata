@@ -1,0 +1,524 @@
+﻿# DourData — eau perdue par les réseaux d'eau potable (indicateurs SISPEA)
+# Périmètre : Département 67
+# Source : SISPEA — Système d'Information des Services Publics d'Eau et d'Assainissement, via data.gouv.fr / services.eaufrance.fr
+# Licence : Licence Ouverte 2.0 (Etalab)
+# Millésime des données : 2020–2024 (année la plus récente disponible par commune)
+# Date de génération de l'export : 2026-07-05
+# Méthodologie et code : https://github.com/btaverne/dourdata
+# Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
+# Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
+67001;Achenheim;67;eau potable;103986;2024;90,1;6,1;55,1;76,0;conforme;3386506;17088;18;40;2637;Non vérifié
+67002;Adamswiller;67;eau potable;103990;2024;63,1;3,2;5,5;66,1;non conforme;245280;11250;76;213;407;Non vérifié
+67003;Albé;67;eau potable : PERIMETRE VALLEE DE VILLE;222315;2024;74,0;3,0;8,7;66,7;conforme;169298;7405;43;125;473;Non vérifié
+67004;Sommerau;67;eau potable : PERIMETRE SAVERNE-MARMOUTIER;222346;2024;82,0;3,5;15,8;68,2;conforme;510016;20615;37;81;1523;Non vérifié
+67005;Alteckendorf;67;eau potable : PERIMETRE HOCHFELDEN ET ENVIRONS;222347;2024;89,0;1,9;15,6;68,1;conforme;270541;5452;17;45;857;Non vérifié
+67006;Altenheim;67;eau potable : PERIMETRE SAVERNE-MARMOUTIER;222346;2024;82,0;3,5;15,8;68,2;conforme;510016;3100;37;81;229;Non vérifié
+67008;Altorf;67;eau potable;104033;2024;82,5;4,4;20,7;69,1;conforme;554070;23501;44;82;1447;Non vérifié
+67009;Altwiller;67;eau potable;63335;2024;79,6;2,3;8,8;66,8;conforme;42470;8033;59;95;373;Non vérifié
+67010;Andlau;67;eau potable : PERIMETRE STOTZHEIM ET ENVIRONS;222353;2024;85,0;2,7;14,9;68,0;conforme;98156;16554;26;67;1757;Non vérifié
+67011;Artolsheim;67;eau potable : PERIMETRE RIED DE MARCKOLSHEIM;222343;2024;85,0;2,4;13,3;67,7;conforme;165617;7251;20;66;1005;Non vérifié
+67012;Aschbach;67;eau potable;103999;2024;95,7;0,6;13,2;67,6;conforme;27813;1628;7;17;633;Non vérifié
+67013;Asswiller;67;eau potable;103990;2024;63,1;3,2;5,5;66,1;non conforme;245280;7408;76;213;268;Non vérifié
+67016;Avolsheim;67;eau potable;104033;2024;82,5;4,4;20,7;69,1;conforme;554070;12100;44;82;745;Non vérifié
+67017;Baerendorf;67;eau potable;103990;2024;63,1;3,2;5,5;66,1;non conforme;245280;8403;76;213;304;Non vérifié
+67018;Balbronn;67;eau potable : PERIMETRE KRONTHAL;222348;2024;83,0;3,3;14,4;67,9;conforme;154694;7503;30;86;681;Non vérifié
+67019;Baldenheim;67;eau potable : PERIMETRE BALDENHEIM-MUSSIG;222349;2024;86,0;2,4;15,4;68,1;conforme;16434;8714;19;57;1254;Non vérifié
+67020;Barembach;67;eau potable;103759;2022;71,8;7,1;18,0;68,6;conforme;15549;15549;53;144;810;Sans anomalie apparente
+67021;Barr;67;eau potable : BARR;103760;2024;77,0;7,9;26,9;70,4;conforme;123039;123039;48;131;7057;Non vérifié
+67022;Bassemberg;67;eau potable : PERIMETRE VALLEE DE VILLE;222315;2024;74,0;3,0;8,7;66,7;conforme;169298;3476;43;125;222;Non vérifié
+67023;Batzendorf;67;eau potable : PERIMETRE HOCHFELDEN ET ENVIRONS;222347;2024;89,0;1,9;15,6;68,1;conforme;270541;6202;17;45;975;Non vérifié
+67025;Beinheim;67;eau potable : PERIMETRE ROESCHWOOG ET ENVIRONS;222344;2024;91,0;1,2;13,0;67,6;conforme;40143;7416;11;34;1883;Non vérifié
+67026;Bellefosse;67;eau potable;103762;2024;74,0;4,8;13,8;67,8;conforme;8217;8217;132;127;170;Non vérifié
+67027;Belmont;67;eau potable;103764;2024;94,7;0,5;9,2;66,8;conforme;821;821;13;20;169;Non vérifié
+67028;Benfeld;67;eau potable : PERIMETRE BENFELD-ERSTEIN SUD;222345;2024;87,0;3,0;19,4;68,9;conforme;166385;44807;21;63;5973;Non vérifié
+67029;Berg;67;eau potable;103990;2024;63,1;3,2;5,5;66,1;non conforme;245280;9591;76;213;347;Non vérifié
+67030;Bergbieten;67;eau potable : PERIMETRE KRONTHAL;222348;2024;83,0;3,3;14,4;67,9;conforme;154694;7911;30;86;718;Non vérifié
+67031;Bernardswiller;67;eau potable;104012;2024;82,3;5,1;23,5;69,7;conforme;276582;20448;38;81;1473;Non vérifié
+67032;Bernardvillé;67;eau potable : PERIMETRE L'ILL AU VIGNOBLE;222341;2024;78,0;3,8;13,5;67,7;conforme;264931;2828;39;121;197;Non vérifié
+67033;Bernolsheim;67;eau potable : PERIMETRE HOCHFELDEN ET ENVIRONS;222347;2024;89,0;1,9;15,6;68,1;conforme;270541;4173;17;45;656;Non vérifié
+67034;Berstett;67;eau potable : PERIMETRE KOCHERSBERG-SOUFFEL;222655;2024;91,0;2,5;24,0;69,8;conforme;343684;23600;26;66;2517;Non vérifié
+67035;Berstheim;67;eau potable : PERIMETRE HOCHFELDEN ET ENVIRONS;222347;2024;89,0;1,9;15,6;68,1;conforme;270541;3263;17;45;513;Non vérifié
+67036;Bettwiller;67;eau potable;103990;2024;63,1;3,2;5,5;66,1;non conforme;245280;8264;76;213;299;Non vérifié
+67037;Biblisheim;67;eau potable : PERIMETRE WOERTH;261914;2024;89,0;1,5;11,8;67,4;conforme;78216;1779;14;48;349;Non vérifié
+67038;Bietlenheim;67;eau potable : CDC DE LA BASSE ZORN;103989;2024;96,0;0,8;17,0;68,4;conforme;35186;732;6;17;314;Non vérifié
+67039;Bilwisheim;67;eau potable : PERIMETRE HOCHFELDEN ET ENVIRONS;222347;2024;89,0;1,9;15,6;68,1;conforme;270541;3403;17;45;535;Non vérifié
+67040;Bindernheim;67;eau potable : PERIMETRE RIED DE MARCKOLSHEIM;222343;2024;85,0;2,4;13,3;67,7;conforme;165617;7611;20;66;1055;Non vérifié
+67043;Bischheim;67;eau potable;103986;2024;90,1;6,1;55,1;76,0;conforme;3386506;120259;18;40;18558;Non vérifié
+67044;Bischholtz;67;eau potable;103996;2024;85,6;2,1;12,3;67,5;conforme;40218;2169;24;62;251;Non vérifié
+67045;Bischoffsheim;67;eau potable : Bischoffsheim;103766;2024;81,0;3,4;14,6;67,9;conforme;40010;40010;33;85;3342;Non vérifié
+67046;Bischwiller;67;eau potable;323874;2024;88,6;3,0;23,6;69,7;conforme;447428;84915;19;47;12242;Non vérifié
+67047;Bissert;67;eau potable : PERIMETRE REGION DE SARRE-UNION ET ENVIRONS;222351;2024;92,0;1,0;11,5;67,3;conforme;19075;697;12;35;153;Non vérifié
+67048;Bitschhoffen;67;eau potable;103996;2024;85,6;2,1;12,3;67,5;conforme;40218;3992;24;62;462;Non vérifié
+67049;Blaesheim;67;eau potable;103986;2024;90,1;6,1;55,1;76,0;conforme;3386506;9468;18;40;1461;Non vérifié
+67050;Blancherupt;67;eau potable;103768;2024;46,4;4,4;3,8;65,8;non conforme;2248;2248;212;421;29;Non vérifié
+67051;Blienschwiller;67;eau potable : PERIMETRE L'ILL AU VIGNOBLE;222341;2024;78,0;3,8;13,5;67,7;conforme;264931;4307;39;121;300;Non vérifié
+67052;Boersch;67;eau potable : BOERSCH;103770;2024;70,0;5,7;13,3;67,7;conforme;52907;52907;59;157;2459;Non vérifié
+67053;Boesenbiesen;67;eau potable : PERIMETRE RIED DE MARCKOLSHEIM;222343;2024;85,0;2,4;13,3;67,7;conforme;165617;2265;20;66;314;Non vérifié
+67054;Bolsenheim;67;eau potable : PERIMETRE BENFELD-ERSTEIN SUD;222345;2024;87,0;3,0;19,4;68,9;conforme;166385;4328;21;63;577;Non vérifié
+67055;Boofzheim;67;eau potable : PERIMETRE RHIN;222352;2024;91,0;1,4;14,4;67,9;conforme;44861;5796;12;35;1379;Non vérifié
+67056;Bootzheim;67;eau potable : PERIMETRE RIED DE MARCKOLSHEIM;222343;2024;85,0;2,4;13,3;67,7;conforme;165617;5736;20;66;795;Non vérifié
+67057;Bosselshausen;67;eau potable : PERIMETRE HOCHFELDEN ET ENVIRONS;222347;2024;89,0;1,9;15,6;68,1;conforme;270541;1145;17;45;180;Non vérifié
+67058;Bossendorf;67;eau potable : PERIMETRE HOCHFELDEN ET ENVIRONS;222347;2024;89,0;1,9;15,6;68,1;conforme;270541;2411;17;45;379;Non vérifié
+67059;Bourg-Bruche;67;eau potable;103771;2024;95,9;0,2;4,5;65,9;conforme;996;996;7;16;378;Non vérifié
+67060;Bourgheim;67;eau potable : PERIMETRE STOTZHEIM ET ENVIRONS;222353;2024;85,0;2,7;14,9;68,0;conforme;98156;6124;26;67;650;Non vérifié
+67061;Bouxwiller;67;eau potable;103773;2024;83,8;3,2;16,4;68,3;conforme;45552;45552;33;71;3754;Non vérifié
+67062;Breitenau;67;eau potable : PERIMETRE VALLEE DE VILLE;222315;2024;74,0;3,0;8,7;66,7;conforme;169298;5339;43;125;341;Non vérifié
+67063;Breitenbach;67;eau potable : PERIMETRE VALLEE DE VILLE;222315;2024;74,0;3,0;8,7;66,7;conforme;169298;10740;43;125;686;Non vérifié
+67065;Breuschwickersheim;67;eau potable;103986;2024;90,1;6,1;55,1;76,0;conforme;3386506;8709;18;40;1344;Non vérifié
+67066;La Broque;67;eau potable : SYNDICAT DE LA SOURCE DES MINIERES;104053;2024;64,0;9,2;16,4;68,3;non conforme;144394;74628;78;205;2625;Non vérifié
+67067;Brumath;67;eau potable : PERIMETRE BRUMATH;324294;2024;85,0;3,9;22,0;69,4;conforme;93823;93823;24;66;10499;Non vérifié
+67068;Buswiller;67;eau potable : PERIMETRE HOCHFELDEN ET ENVIRONS;222347;2024;89,0;1,9;15,6;68,1;conforme;270541;1787;17;45;281;Non vérifié
+67069;Buhl;67;eau potable;103999;2024;95,7;0,6;13,2;67,6;conforme;27813;1301;7;17;506;Non vérifié
+67070;Burbach;67;eau potable;103990;2024;63,1;3,2;5,5;66,1;non conforme;245280;7739;76;213;280;Non vérifié
+67071;Bust;67;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;2832;17;48;454;Non vérifié
+67072;Butten;67;eau potable : PERIMETRE SIVOM DE DIEMERINGEN;290054;2024;80,0;1,9;7,8;66,6;conforme;57928;7268;31;94;640;Non vérifié
+67073;Châtenois;67;eau potable : PERIMETRE L'ILL AU VIGNOBLE;222341;2024;78,0;3,8;13,5;67,7;conforme;264931;61653;39;121;4294;Non vérifié
+67074;Cleebourg;67;eau potable;208852;2024;96,0;0,3;6,7;66,3;conforme;9668;1312;6;16;626;Non vérifié
+67075;Climbach;67;eau potable;208852;2024;96,0;0,3;6,7;66,3;conforme;9668;1004;6;16;479;Non vérifié
+67076;Colroy-la-Roche;67;eau potable : PERIMETRE COLROY LA ROCHE;313814;2024;87,0;2,6;15,9;68,2;conforme;7478;7478;43;60;473;Non vérifié
+67077;Cosswiller;67;eau potable : PERIMETRE KOCHERSBERG-SOUFFEL;222655;2024;91,0;2,5;24,0;69,8;conforme;343684;5719;26;66;610;Non vérifié
+67078;Crastatt;67;eau potable : PERIMETRE SAVERNE-MARMOUTIER;222346;2024;82,0;3,5;15,8;68,2;conforme;510016;4020;37;81;297;Non vérifié
+67079;Croettwiller;67;eau potable;103995;2024;93,9;0,8;11,9;67,4;conforme;45844;576;9;25;174;Non vérifié
+67080;Dachstein;67;eau potable;104033;2024;82,5;4,4;20,7;69,1;conforme;554070;28211;44;82;1737;Non vérifié
+67081;Dahlenheim;67;eau potable : PERIMETRE KRONTHAL;222348;2024;83,0;3,3;14,4;67,9;conforme;154694;8396;30;86;762;Non vérifié
+67082;Dalhunden;67;eau potable : EAU, ARGILE ET MODER;339994;2024;79,0;3,9;15,0;68,0;conforme;197027;13665;31;95;1215;Non vérifié
+67083;Dambach;67;eau potable : DAMBACH;103784;2024;66,0;2,7;5,3;66,1;non conforme;15078;15078;55;186;757;Non vérifié
+67084;Dambach-la-Ville;67;eau potable : PERIMETRE L'ILL AU VIGNOBLE;222341;2024;78,0;3,8;13,5;67,7;conforme;264931;31085;39;121;2165;Non vérifié
+67085;Dangolsheim;67;eau potable : PERIMETRE KRONTHAL;222348;2024;83,0;3,3;14,4;67,9;conforme;154694;7503;30;86;681;Non vérifié
+67086;Daubensand;67;eau potable : PERIMETRE RHIN;222352;2024;91,0;1,4;14,4;67,9;conforme;44861;1631;12;35;388;Non vérifié
+67087;Dauendorf;67;eau potable : PERIMETRE HOCHFELDEN ET ENVIRONS;222347;2024;89,0;1,9;15,6;68,1;conforme;270541;9020;17;45;1418;Non vérifié
+67088;Dehlingen;67;eau potable;63222;2024;86,0;1,4;8,7;66,7;conforme;13787;3407;27;59;342;Non vérifié
+67089;Dettwiller;67;eau potable : PERIMETRE SAVERNE-MARMOUTIER;222346;2024;82,0;3,5;15,8;68,2;conforme;510016;34625;37;81;2558;Non vérifié
+67090;Diebolsheim;67;eau potable : PERIMETRE RHIN;222352;2024;91,0;1,4;14,4;67,9;conforme;44861;2837;12;35;675;Non vérifié
+67091;Diedendorf;67;eau potable;63205;2024;95,0;0,1;2,7;65,5;conforme;14600;738;6;14;314;Non vérifié
+67092;Dieffenbach-au-Val;67;eau potable : PERIMETRE VALLEE DE VILLE;222315;2024;74,0;3,0;8,7;66,7;conforme;169298;10051;43;125;642;Non vérifié
+67093;Dieffenbach-lès-Woerth;67;eau potable : PERIMETRE WOERTH;261914;2024;89,0;1,5;11,8;67,4;conforme;78216;1641;14;48;322;Non vérifié
+67094;Dieffenthal;67;eau potable : PERIMETRE L'ILL AU VIGNOBLE;222341;2024;78,0;3,8;13,5;67,7;conforme;264931;4049;39;121;282;Non vérifié
+67095;Diemeringen;67;eau potable : PERIMETRE SIVOM DE DIEMERINGEN;290054;2024;80,0;1,9;7,8;66,6;conforme;57928;17931;31;94;1579;Non vérifié
+67096;Dimbsthal;67;eau potable : PERIMETRE SAVERNE-MARMOUTIER;222346;2024;82,0;3,5;15,8;68,2;conforme;510016;4413;37;81;326;Non vérifié
+67097;Dingsheim;67;eau potable : PERIMETRE KOCHERSBERG-SOUFFEL;222655;2024;91,0;2,5;24,0;69,8;conforme;343684;11598;26;66;1237;Non vérifié
+67098;Dinsheim-sur-Bruche;67;eau potable;104033;2024;82,5;4,4;20,7;69,1;conforme;554070;23907;44;82;1472;Non vérifié
+67099;Domfessel;67;eau potable : PERIMETRE DOMFESSEL;313854;2024;93,0;0,8;10,5;67,1;conforme;896;896;9;28;273;Non vérifié
+67100;Donnenheim;67;eau potable : PERIMETRE HOCHFELDEN ET ENVIRONS;222347;2024;89,0;1,9;15,6;68,1;conforme;270541;2335;17;45;367;Non vérifié
+67101;Dorlisheim;67;eau potable;104033;2024;82,5;4,4;20,7;69,1;conforme;554070;42812;44;82;2636;Non vérifié
+67102;Dossenheim-Kochersberg;67;eau potable : PERIMETRE KOCHERSBERG-SOUFFEL;222655;2024;91,0;2,5;24,0;69,8;conforme;343684;3019;26;66;322;Non vérifié
+67103;Dossenheim-sur-Zinsel;67;eau potable : PERIMETRE SAVERNE-MARMOUTIER;222346;2024;82,0;3,5;15,8;68,2;conforme;510016;14334;37;81;1059;Non vérifié
+67104;Drachenbronn-Birlenbach;67;eau potable : PERIMETRE DRACHENBRONN-BIRLENBACH;222355;2024;82,0;2,1;9,6;66,9;conforme;7558;7558;36;80;581;Non vérifié
+67105;Drulingen;67;eau potable;103990;2024;63,1;3,2;5,5;66,1;non conforme;245280;38613;76;213;1397;Non vérifié
+67106;Drusenheim;67;eau potable : EAU, ARGILE ET MODER;339994;2024;79,0;3,9;15,0;68,0;conforme;197027;60599;31;95;5388;Non vérifié
+67107;Duntzenheim;67;eau potable : PERIMETRE HOCHFELDEN ET ENVIRONS;222347;2024;89,0;1,9;15,6;68,1;conforme;270541;4198;17;45;660;Non vérifié
+67108;Duppigheim;67;eau potable : PERIMETRE BRUCHE-SCHEER;222654;2020;90,0;6,0;;;non calculable;;;;;1906;Sans anomalie apparente
+67109;Durningen;67;eau potable : PERIMETRE KOCHERSBERG-SOUFFEL;222655;2024;91,0;2,5;24,0;69,8;conforme;343684;6441;26;66;687;Non vérifié
+67110;Durrenbach;67;eau potable : PERIMETRE WOERTH;261914;2024;89,0;1,5;11,8;67,4;conforme;78216;5612;14;48;1101;Non vérifié
+67111;Durstel;67;eau potable;103990;2024;63,1;3,2;5,5;66,1;non conforme;245280;11554;76;213;418;Non vérifié
+67112;Duttlenheim;67;eau potable : PERIMETRE BRUCHE-SCHEER;222654;2020;90,0;6,0;;;non calculable;;;;;3011;Sans anomalie apparente
+67113;Eberbach-Seltz;67;eau potable;103995;2024;93,9;0,8;11,9;67,4;conforme;45844;1443;9;25;436;Non vérifié
+67115;Ebersheim;67;eau potable : PERIMETRE L'ILL AU VIGNOBLE;222341;2024;78,0;3,8;13,5;67,7;conforme;264931;32793;39;121;2284;Non vérifié
+67116;Ebersmunster;67;eau potable : PERIMETRE L'ILL AU VIGNOBLE;222341;2024;78,0;3,8;13,5;67,7;conforme;264931;8241;39;121;574;Non vérifié
+67117;Eckartswiller;67;eau potable : PERIMETRE SAVERNE-MARMOUTIER;222346;2024;82,0;3,5;15,8;68,2;conforme;510016;5685;37;81;420;Non vérifié
+67118;Eckbolsheim;67;eau potable;103986;2024;90,1;6,1;55,1;76,0;conforme;3386506;46379;18;40;7157;Non vérifié
+67119;Eckwersheim;67;eau potable;103986;2024;90,1;6,1;55,1;76,0;conforme;3386506;9195;18;40;1419;Non vérifié
+67120;Eichhoffen;67;eau potable : PERIMETRE STOTZHEIM ET ENVIRONS;222353;2024;85,0;2,7;14,9;68,0;conforme;98156;4607;26;67;489;Non vérifié
+67121;Elsenheim;67;eau potable : PERIMETRE RIED DE MARCKOLSHEIM;222343;2024;85,0;2,4;13,3;67,7;conforme;165617;5793;20;66;803;Non vérifié
+67122;Wangenbourg-Engenthal;67;eau potable : PERIMETRE WANGENBOURG-ENGENTHAL;279054;2024;76,0;1,7;5,6;66,1;conforme;18026;18026;37;110;1327;Non vérifié
+67123;Engwiller;67;eau potable;103996;2024;85,6;2,1;12,3;67,5;conforme;40218;4018;24;62;465;Non vérifié
+67124;Entzheim;67;eau potable;103986;2024;90,1;6,1;55,1;76,0;conforme;3386506;16486;18;40;2544;Non vérifié
+67125;Epfig;67;eau potable : PERIMETRE L'ILL AU VIGNOBLE;222341;2024;78,0;3,8;13,5;67,7;conforme;264931;32492;39;121;2263;Non vérifié
+67126;Erckartswiller;67;eau potable : Erckartswiller;103796;2024;96,0;0,4;8,8;66,8;conforme;656;656;6;17;285;Non vérifié
+67127;Ergersheim;67;eau potable;104033;2024;82,5;4,4;20,7;69,1;conforme;554070;24021;44;82;1479;Non vérifié
+67128;Ernolsheim-Bruche;67;eau potable : PERIMETRE BRUCHE-SCHEER;222654;2020;90,0;6,0;;;non calculable;;;;;1936;Sans anomalie apparente
+67129;Ernolsheim-lès-Saverne;67;eau potable : PERIMETRE SAVERNE-MARMOUTIER;222346;2024;82,0;3,5;15,8;68,2;conforme;510016;8135;37;81;601;Non vérifié
+67130;Erstein;67;eau potable : PERIMETRE ERSTEIN;290154;2024;99,0;0,3;30,6;71,1;conforme;13960;9290;2;6;10790;Non vérifié
+67131;Eschau;67;eau potable;103986;2024;90,1;6,1;55,1;76,0;conforme;3386506;38090;18;40;5878;Non vérifié
+67132;Eschbach;67;eau potable : PERIMETRE WOERTH;261914;2024;89,0;1,5;11,8;67,4;conforme;78216;4868;14;48;955;Non vérifié
+67133;Eschbourg;67;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;2839;17;48;455;Non vérifié
+67134;Eschwiller;67;eau potable;103990;2024;63,1;3,2;5,5;66,1;non conforme;245280;4782;76;213;173;Non vérifié
+67135;Ettendorf;67;eau potable : PERIMETRE HOCHFELDEN ET ENVIRONS;222347;2024;89,0;1,9;15,6;68,1;conforme;270541;4669;17;45;734;Non vérifié
+67136;Eywiller;67;eau potable;103990;2024;63,1;3,2;5,5;66,1;non conforme;245280;7573;76;213;274;Non vérifié
+67137;Fegersheim;67;eau potable;103986;2024;90,1;6,1;55,1;76,0;conforme;3386506;37455;18;40;5780;Non vérifié
+67138;Fessenheim-le-Bas;67;eau potable : PERIMETRE KOCHERSBERG-SOUFFEL;222655;2024;91,0;2,5;24,0;69,8;conforme;343684;5344;26;66;570;Non vérifié
+67139;Flexbourg;67;eau potable : PERIMETRE KRONTHAL;222348;2024;83,0;3,3;14,4;67,9;conforme;154694;5344;30;86;485;Non vérifié
+67140;Forstfeld;67;eau potable : PERIMETRE ROESCHWOOG ET ENVIRONS;222344;2024;91,0;1,2;13,0;67,6;conforme;40143;3143;11;34;798;Non vérifié
+67141;Forstheim;67;eau potable : PERIMETRE WOERTH;261914;2024;89,0;1,5;11,8;67,4;conforme;78216;3053;14;48;599;Non vérifié
+67142;Fort-Louis;67;eau potable : PERIMETRE ROESCHWOOG ET ENVIRONS;222344;2024;91,0;1,2;13,0;67,6;conforme;40143;1122;11;34;285;Non vérifié
+67143;Fouchy;67;eau potable : PERIMETRE VALLEE DE VILLE;222315;2024;74,0;3,0;8,7;66,7;conforme;169298;9941;43;125;635;Non vérifié
+67144;Fouday;67;eau potable;103804;2024;83,9;2,5;12,9;67,6;conforme;5639;5639;46;71;333;Non vérifié
+67145;Friedolsheim;67;eau potable : PERIMETRE HOCHFELDEN ET ENVIRONS;222347;2024;89,0;1,9;15,6;68,1;conforme;270541;1673;17;45;263;Non vérifié
+67146;Friesenheim;67;eau potable : PERIMETRE RHIN;222352;2024;91,0;1,4;14,4;67,9;conforme;44861;2585;12;35;615;Non vérifié
+67147;Froeschwiller;67;eau potable : PERIMETRE WOERTH;261914;2024;89,0;1,5;11,8;67,4;conforme;78216;2457;14;48;482;Non vérifié
+67148;Frohmuhl;67;eau potable;104010;2024;84,8;1,1;5,9;66,2;conforme;44165;1252;22;71;156;Non vérifié
+67149;Furchhausen;67;eau potable : PERIMETRE SAVERNE-MARMOUTIER;222346;2024;82,0;3,5;15,8;68,2;conforme;510016;5089;37;81;376;Non vérifié
+67150;Furdenheim;67;eau potable : PERIMETRE KOCHERSBERG-SOUFFEL;222655;2024;91,0;2,5;24,0;69,8;conforme;343684;15189;26;66;1620;Non vérifié
+67151;Gambsheim;67;eau potable : PERIMETRE GAMBSHEIM-KILSTETT;222358;2024;84,0;3,8;19,8;69,0;conforme;72388;48557;25;84;5312;Non vérifié
+67152;Geispolsheim;67;eau potable;103986;2024;90,1;6,1;55,1;76,0;conforme;3386506;51316;18;40;7919;Non vérifié
+67153;Geiswiller-Zœbersdorf;67;eau potable : PERIMETRE HOCHFELDEN ET ENVIRONS;222347;2024;89,0;1,9;15,6;68,1;conforme;270541;2436;17;45;383;Non vérifié
+67154;Gerstheim;67;eau potable : PERIMETRE RHIN;222352;2024;91,0;1,4;14,4;67,9;conforme;44861;14669;12;35;3490;Non vérifié
+67155;Gertwiller;67;eau potable : PERIMETRE STOTZHEIM ET ENVIRONS;222353;2024;85,0;2,7;14,9;68,0;conforme;98156;12079;26;67;1282;Non vérifié
+67156;Geudertheim;67;eau potable : CDC DE LA BASSE ZORN;103989;2024;96,0;0,8;17,0;68,4;conforme;35186;6361;6;17;2727;Non vérifié
+67159;Goerlingen;67;eau potable;103990;2024;63,1;3,2;5,5;66,1;non conforme;245280;5804;76;213;210;Non vérifié
+67160;Goersdorf;67;eau potable : PERIMETRE WOERTH;261914;2024;89,0;1,5;11,8;67,4;conforme;78216;5296;14;48;1039;Non vérifié
+67161;Gottenhouse;67;eau potable : PERIMETRE SAVERNE-MARMOUTIER;222346;2024;82,0;3,5;15,8;68,2;conforme;510016;4954;37;81;366;Non vérifié
+67162;Gottesheim;67;eau potable : PERIMETRE HOCHFELDEN ET ENVIRONS;222347;2024;89,0;1,9;15,6;68,1;conforme;270541;2277;17;45;358;Non vérifié
+67163;Gougenheim;67;eau potable : PERIMETRE KOCHERSBERG-SOUFFEL;222655;2024;91,0;2,5;24,0;69,8;conforme;343684;4979;26;66;531;Non vérifié
+67164;Goxwiller;67;eau potable : PERIMETRE STOTZHEIM ET ENVIRONS;222353;2024;85,0;2,7;14,9;68,0;conforme;98156;7745;26;67;822;Non vérifié
+67165;Grandfontaine;67;eau potable : SYNDICAT DE LA SOURCE DES MINIERES;104053;2024;64,0;9,2;16,4;68,3;non conforme;144394;11315;78;205;398;Non vérifié
+67166;Grassendorf;67;eau potable : PERIMETRE HOCHFELDEN ET ENVIRONS;222347;2024;89,0;1,9;15,6;68,1;conforme;270541;1679;17;45;264;Non vérifié
+67167;Grendelbruch;67;eau potable : Grendelbruch;103815;2024;86,0;2,2;12,6;67,5;conforme;12149;12149;28;88;1195;Non vérifié
+67168;Gresswiller;67;eau potable;104033;2024;82,5;4,4;20,7;69,1;conforme;554070;27529;44;82;1695;Non vérifié
+67169;Gries;67;eau potable;323874;2024;88,6;3,0;23,6;69,7;conforme;447428;19893;19;47;2868;Non vérifié
+67172;Griesheim-près-Molsheim;67;eau potable : PERIMETRE GRIESHEIM-PRES-MOLSHEIM;234694;2024;80,0;5,1;20,8;69,2;conforme;24460;24460;29;90;2351;Non vérifié
+67173;Griesheim-sur-Souffel;67;eau potable : PERIMETRE KOCHERSBERG-SOUFFEL;222655;2024;91,0;2,5;24,0;69,8;conforme;343684;11401;26;66;1216;Non vérifié
+67174;Gumbrechtshoffen;67;eau potable : SDE DE REICHSHOFFEN ET ENVIRONS;103997;2024;87,2;1,7;11,8;67,4;conforme;107154;8180;20;55;1113;Non vérifié
+67176;Gundershoffen;67;eau potable : PERIMETRE WOERTH;261914;2024;89,0;1,5;11,8;67,4;conforme;78216;19544;14;48;3834;Non vérifié
+67177;Gunstett;67;eau potable : PERIMETRE WOERTH;261914;2024;89,0;1,5;11,8;67,4;conforme;78216;3227;14;48;633;Non vérifié
+67178;Gungwiller;67;eau potable;103990;2024;63,1;3,2;5,5;66,1;non conforme;245280;7850;76;213;284;Non vérifié
+67179;Haegen;67;eau potable : PERIMETRE SAVERNE-MARMOUTIER;222346;2024;82,0;3,5;15,8;68,2;conforme;510016;9083;37;81;671;Non vérifié
+67180;Haguenau;67;eau potable;323874;2024;88,6;3,0;23,6;69,7;conforme;447428;252420;19;47;36391;Non vérifié
+67181;Handschuheim;67;eau potable : PERIMETRE KOCHERSBERG-SOUFFEL;222655;2024;91,0;2,5;24,0;69,8;conforme;343684;2635;26;66;281;Non vérifié
+67182;Hangenbieten;67;eau potable;103986;2024;90,1;6,1;55,1;76,0;conforme;3386506;11807;18;40;1822;Non vérifié
+67183;Harskirchen;67;eau potable : PERIMETRE REGION DE SARRE-UNION ET ENVIRONS;222351;2024;92,0;1,0;11,5;67,3;conforme;19075;4078;12;35;895;Non vérifié
+67184;Hatten;67;eau potable;103999;2024;95,7;0,6;13,2;67,6;conforme;27813;4916;7;17;1912;Non vérifié
+67185;Hattmatt;67;eau potable : PERIMETRE SAVERNE-MARMOUTIER;222346;2024;82,0;3,5;15,8;68,2;conforme;510016;8379;37;81;619;Non vérifié
+67186;Hegeney;67;eau potable : PERIMETRE WOERTH;261914;2024;89,0;1,5;11,8;67,4;conforme;78216;2228;14;48;437;Non vérifié
+67187;Heidolsheim;67;eau potable : PERIMETRE RIED DE MARCKOLSHEIM;222343;2024;85,0;2,4;13,3;67,7;conforme;165617;4199;20;66;582;Non vérifié
+67188;Heiligenberg;67;eau potable;104033;2024;82,5;4,4;20,7;69,1;conforme;554070;11158;44;82;687;Non vérifié
+67189;Heiligenstein;67;eau potable : PERIMETRE STOTZHEIM ET ENVIRONS;222353;2024;85,0;2,7;14,9;68,0;conforme;98156;8715;26;67;925;Non vérifié
+67190;Hengwiller;67;eau potable : PERIMETRE SAVERNE-MARMOUTIER;222346;2024;82,0;3,5;15,8;68,2;conforme;510016;2680;37;81;198;Non vérifié
+67191;Herbitzheim;67;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;48256;72;167;1829;Non vérifié
+67192;Herbsheim;67;eau potable : PERIMETRE BENFELD-ERSTEIN SUD;222345;2024;87,0;3,0;19,4;68,9;conforme;166385;7224;21;63;963;Non vérifié
+67194;Herrlisheim;67;eau potable : PERIMETRE HERRLISHEIM-OFFENDORF;222356;2024;92,0;1,4;14,9;68,0;conforme;27400;17918;10;34;4694;Non vérifié
+67195;Hessenheim;67;eau potable : PERIMETRE RIED DE MARCKOLSHEIM;222343;2024;85,0;2,4;13,3;67,7;conforme;165617;4430;20;66;614;Non vérifié
+67196;Hilsenheim;67;eau potable : PERIMETRE RIED DE MARCKOLSHEIM;222343;2024;85,0;2,4;13,3;67,7;conforme;165617;18787;20;66;2604;Non vérifié
+67197;Hindisheim;67;eau potable : PERIMETRE ERSTEIN;290154;2024;99,0;0,3;30,6;71,1;conforme;13960;1347;2;6;1565;Non vérifié
+67198;Hinsbourg;67;eau potable;104010;2024;84,8;1,1;5,9;66,2;conforme;44165;979;22;71;122;Non vérifié
+67199;Hinsingen;67;eau potable;63335;2024;79,6;2,3;8,8;66,8;conforme;42470;1680;59;95;78;Non vérifié
+67200;Hipsheim;67;eau potable : PERIMETRE ERSTEIN;290154;2024;99,0;0,3;30,6;71,1;conforme;13960;886;2;6;1029;Non vérifié
+67201;Hirschland;67;eau potable;103990;2024;63,1;3,2;5,5;66,1;non conforme;245280;8375;76;213;303;Non vérifié
+67202;Hochfelden;67;eau potable : PERIMETRE HOCHFELDEN ET ENVIRONS;222347;2024;89,0;1,9;15,6;68,1;conforme;270541;25686;17;45;4038;Non vérifié
+67203;Hochstett;67;eau potable : PERIMETRE HOCHFELDEN ET ENVIRONS;222347;2024;89,0;1,9;15,6;68,1;conforme;270541;2684;17;45;422;Non vérifié
+67204;Hoenheim;67;eau potable;103986;2024;90,1;6,1;55,1;76,0;conforme;3386506;76090;18;40;11742;Non vérifié
+67205;Hoerdt;67;eau potable : CDC DE LA BASSE ZORN;103989;2024;96,0;0,8;17,0;68,4;conforme;35186;10660;6;17;4570;Non vérifié
+67206;Hoffen;67;eau potable : SIAEP du Canton de Soultz-sous-Forêts;104001;2024;85,0;2,2;12,0;67,4;conforme;115857;9878;23;83;1160;Non vérifié
+67208;Hohengoeft;67;eau potable : PERIMETRE KOCHERSBERG-SOUFFEL;222655;2024;91,0;2,5;24,0;69,8;conforme;343684;5054;26;66;539;Non vérifié
+67209;Hohfrankenheim;67;eau potable : PERIMETRE HOCHFELDEN ET ENVIRONS;222347;2024;89,0;1,9;15,6;68,1;conforme;270541;1737;17;45;273;Non vérifié
+67210;Le Hohwald;67;eau potable : LE HOHWALD;103839;2024;57,0;3,9;5,2;66,0;non conforme;24285;24285;128;274;521;Non vérifié
+67212;Holtzheim;67;eau potable;103986;2024;90,1;6,1;55,1;76,0;conforme;3386506;24949;18;40;3850;Non vérifié
+67213;Hunspach;67;eau potable;208852;2024;96,0;0,3;6,7;66,3;conforme;9668;1316;6;16;628;Non vérifié
+67214;Hurtigheim;67;eau potable : PERIMETRE KOCHERSBERG-SOUFFEL;222655;2024;91,0;2,5;24,0;69,8;conforme;343684;9264;26;66;988;Non vérifié
+67215;Huttendorf;67;eau potable : PERIMETRE HOCHFELDEN ET ENVIRONS;222347;2024;89,0;1,9;15,6;68,1;conforme;270541;3193;17;45;502;Non vérifié
+67216;Huttenheim;67;eau potable : PERIMETRE BENFELD-ERSTEIN SUD;222345;2024;87,0;3,0;19,4;68,9;conforme;166385;20517;21;63;2735;Non vérifié
+67217;Ichtratzheim;67;eau potable : PERIMETRE ERSTEIN;290154;2024;99,0;0,3;30,6;71,1;conforme;13960;341;2;6;396;Non vérifié
+67218;Illkirch-Graffenstaden;67;eau potable;103986;2024;90,1;6,1;55,1;76,0;conforme;3386506;180615;18;40;27872;Non vérifié
+67220;Ingenheim;67;eau potable : PERIMETRE HOCHFELDEN ET ENVIRONS;222347;2024;89,0;1,9;15,6;68,1;conforme;270541;2392;17;45;376;Non vérifié
+67221;Ingolsheim;67;eau potable;208852;2024;96,0;0,3;6,7;66,3;conforme;9668;740;6;16;353;Non vérifié
+67222;Ingwiller;67;eau potable : Ingwiller;103841;2024;85,0;3,7;21,5;69,3;conforme;44418;44418;30;71;3995;Non vérifié
+67223;Innenheim;67;eau potable;104012;2024;82,3;5,1;23,5;69,7;conforme;276582;17880;38;81;1288;Non vérifié
+67225;Issenhausen;67;eau potable : PERIMETRE HOCHFELDEN ET ENVIRONS;222347;2024;89,0;1,9;15,6;68,1;conforme;270541;674;17;45;106;Non vérifié
+67226;Ittenheim;67;eau potable : PERIMETRE KOCHERSBERG-SOUFFEL;222655;2024;91,0;2,5;24,0;69,8;conforme;343684;19765;26;66;2108;Non vérifié
+67227;Itterswiller;67;eau potable : PERIMETRE L'ILL AU VIGNOBLE;222341;2024;78,0;3,8;13,5;67,7;conforme;264931;3087;39;121;215;Non vérifié
+67228;Neugartheim-Ittlenheim;67;eau potable : PERIMETRE KOCHERSBERG-SOUFFEL;222655;2024;91,0;2,5;24,0;69,8;conforme;343684;7351;26;66;784;Non vérifié
+67229;Jetterswiller;67;eau potable : PERIMETRE SAVERNE-MARMOUTIER;222346;2024;82,0;3,5;15,8;68,2;conforme;510016;2436;37;81;180;Non vérifié
+67230;Kaltenhouse;67;eau potable;323874;2024;88,6;3,0;23,6;69,7;conforme;447428;16730;19;47;2412;Non vérifié
+67231;Kauffenheim;67;eau potable : PERIMETRE ROESCHWOOG ET ENVIRONS;222344;2024;91,0;1,2;13,0;67,6;conforme;40143;874;11;34;222;Non vérifié
+67232;Keffenach;67;eau potable : SIAEP du Canton de Soultz-sous-Forêts;104001;2024;85,0;2,2;12,0;67,4;conforme;115857;1686;23;83;198;Non vérifié
+67233;Kertzfeld;67;eau potable : PERIMETRE BENFELD-ERSTEIN SUD;222345;2024;87,0;3,0;19,4;68,9;conforme;166385;9414;21;63;1255;Non vérifié
+67234;Keskastel;67;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;39233;72;167;1487;Non vérifié
+67235;Kesseldorf;67;eau potable : PERIMETRE ROESCHWOOG ET ENVIRONS;222344;2024;91,0;1,2;13,0;67,6;conforme;40143;1780;11;34;452;Non vérifié
+67236;Kienheim;67;eau potable : PERIMETRE KOCHERSBERG-SOUFFEL;222655;2024;91,0;2,5;24,0;69,8;conforme;343684;5035;26;66;537;Non vérifié
+67237;Kilstett;67;eau potable : PERIMETRE GAMBSHEIM-KILSTETT;222358;2024;84,0;3,8;19,8;69,0;conforme;72388;23831;25;84;2607;Non vérifié
+67238;Kindwiller;67;eau potable;103996;2024;85,6;2,1;12,3;67,5;conforme;40218;5642;24;62;653;Non vérifié
+67239;Kintzheim;67;eau potable : PERIMETRE KINTZHEIM;222374;2024;81,0;3,7;15,1;68,0;conforme;20757;20757;34;89;1684;Non vérifié
+67240;Kirchheim;67;eau potable : PERIMETRE KRONTHAL;222348;2024;83,0;3,3;14,4;67,9;conforme;154694;7625;30;86;692;Non vérifié
+67241;Kirrberg;67;eau potable;103990;2024;63,1;3,2;5,5;66,1;non conforme;245280;4616;76;213;167;Non vérifié
+67242;Kirrwiller;67;eau potable : PERIMETRE HOCHFELDEN ET ENVIRONS;222347;2024;89,0;1,9;15,6;68,1;conforme;270541;3391;17;45;533;Non vérifié
+67244;Kleingoeft;67;eau potable : PERIMETRE SAVERNE-MARMOUTIER;222346;2024;82,0;3,5;15,8;68,2;conforme;510016;2288;37;81;169;Non vérifié
+67245;Knoersheim;67;eau potable : PERIMETRE SAVERNE-MARMOUTIER;222346;2024;82,0;3,5;15,8;68,2;conforme;510016;2545;37;81;188;Non vérifié
+67246;Kogenheim;67;eau potable : PERIMETRE BENFELD-ERSTEIN SUD;222345;2024;87,0;3,0;19,4;68,9;conforme;166385;8792;21;63;1172;Non vérifié
+67247;Kolbsheim;67;eau potable;103986;2024;90,1;6,1;55,1;76,0;conforme;3386506;6623;18;40;1022;Non vérifié
+67248;Krautergersheim;67;eau potable;104012;2024;82,3;5,1;23,5;69,7;conforme;276582;24724;38;81;1781;Non vérifié
+67249;Krautwiller;67;eau potable : PERIMETRE HOCHFELDEN ET ENVIRONS;222347;2024;89,0;1,9;15,6;68,1;conforme;270541;1399;17;45;220;Non vérifié
+67250;Kriegsheim;67;eau potable : PERIMETRE HOCHFELDEN ET ENVIRONS;222347;2024;89,0;1,9;15,6;68,1;conforme;270541;4866;17;45;765;Non vérifié
+67252;Kurtzenhouse;67;eau potable : CDC DE LA BASSE ZORN;103989;2024;96,0;0,8;17,0;68,4;conforme;35186;2550;6;17;1093;Non vérifié
+67253;Kuttolsheim;67;eau potable : PERIMETRE KOCHERSBERG-SOUFFEL;222655;2024;91,0;2,5;24,0;69,8;conforme;343684;6104;26;66;651;Non vérifié
+67254;Kutzenhausen;67;eau potable : PERIMETRE KUTZENHAUSEN ET MERKWILLER-PECHELBRONN;279134;2024;80,0;2,8;11,3;67,3;conforme;23322;11667;34;90;928;Non vérifié
+67255;Lalaye;67;eau potable : PERIMETRE VALLEE DE VILLE;222315;2024;74,0;3,0;8,7;66,7;conforme;169298;7530;43;125;481;Non vérifié
+67256;Lampertheim;67;eau potable;103986;2024;90,1;6,1;55,1;76,0;conforme;3386506;22402;18;40;3457;Non vérifié
+67257;Lampertsloch;67;eau potable : PERIMETRE WOERTH;261914;2024;89,0;1,5;11,8;67,4;conforme;78216;3548;14;48;696;Non vérifié
+67258;Landersheim;67;eau potable : PERIMETRE KOCHERSBERG-SOUFFEL;222655;2024;91,0;2,5;24,0;69,8;conforme;343684;1800;26;66;192;Non vérifié
+67259;Langensoultzbach;67;eau potable : PERIMETRE LANGENSOULTZBACH;222359;2024;99,9;0,0;11,7;67,3;conforme;0;0;0;0;904;Non vérifié
+67260;Laubach;67;eau potable : PERIMETRE WOERTH;261914;2024;89,0;1,5;11,8;67,4;conforme;78216;1585;14;48;311;Non vérifié
+67261;Lauterbourg;67;eau potable;103995;2024;93,9;0,8;11,9;67,4;conforme;45844;7691;9;25;2324;Non vérifié
+67263;Lembach;67;eau potable : PERIMETRE LEMBACH;261374;2024;88,0;1,1;7,6;66,5;conforme;11949;11949;22;54;1490;Non vérifié
+67264;Leutenheim;67;eau potable : PERIMETRE ROESCHWOOG ET ENVIRONS;222344;2024;91,0;1,2;13,0;67,6;conforme;40143;3285;11;34;834;Non vérifié
+67265;Lichtenberg;67;eau potable;104010;2024;84,8;1,1;5,9;66,2;conforme;44165;4228;22;71;527;Non vérifié
+67266;Limersheim;67;eau potable : PERIMETRE ERSTEIN;290154;2024;99,0;0,3;30,6;71,1;conforme;13960;586;2;6;681;Non vérifié
+67267;Lingolsheim;67;eau potable;103986;2024;90,1;6,1;55,1;76,0;conforme;3386506;134956;18;40;20826;Non vérifié
+67268;Lipsheim;67;eau potable;103986;2024;90,1;6,1;55,1;76,0;conforme;3386506;17509;18;40;2702;Non vérifié
+67269;Littenheim;67;eau potable : PERIMETRE SAVERNE-MARMOUTIER;222346;2024;82,0;3,5;15,8;68,2;conforme;510016;4020;37;81;297;Non vérifié
+67270;Lixhausen;67;eau potable : PERIMETRE HOCHFELDEN ET ENVIRONS;222347;2024;89,0;1,9;15,6;68,1;conforme;270541;2315;17;45;364;Non vérifié
+67271;Lobsann;67;eau potable : PERIMETRE LOBSANN;261614;2024;71,0;2,8;6,7;66,3;conforme;10792;10792;45;153;663;Non vérifié
+67272;Lochwiller;67;eau potable : PERIMETRE SAVERNE-MARMOUTIER;222346;2024;82,0;3,5;15,8;68,2;conforme;510016;5022;37;81;371;Non vérifié
+67273;Lohr;67;eau potable;103990;2024;63,1;3,2;5,5;66,1;non conforme;245280;12272;76;213;444;Non vérifié
+67274;Lorentzen;67;eau potable : PERIMETRE SIVOM DE DIEMERINGEN;290054;2024;80,0;1,9;7,8;66,6;conforme;57928;2612;31;94;230;Non vérifié
+67275;Lupstein;67;eau potable : PERIMETRE SAVERNE-MARMOUTIER;222346;2024;82,0;3,5;15,8;68,2;conforme;510016;11235;37;81;830;Non vérifié
+67276;Lutzelhouse;67;eau potable;103856;2024;79,1;3,0;11,4;67,3;conforme;23181;23181;32;101;1959;Non vérifié
+67277;Mackenheim;67;eau potable : PERIMETRE RIED DE MARCKOLSHEIM;222343;2024;85,0;2,4;13,3;67,7;conforme;165617;5541;20;66;768;Non vérifié
+67278;Mackwiller;67;eau potable : PERIMETRE SIVOM DE DIEMERINGEN;290054;2024;80,0;1,9;7,8;66,6;conforme;57928;5962;31;94;525;Non vérifié
+67279;Maennolsheim;67;eau potable : PERIMETRE SAVERNE-MARMOUTIER;222346;2024;82,0;3,5;15,8;68,2;conforme;510016;3208;37;81;237;Non vérifié
+67280;Maisonsgoutte;67;eau potable : PERIMETRE VALLEE DE VILLE;222315;2024;74,0;3,0;8,7;66,7;conforme;169298;12368;43;125;790;Non vérifié
+67281;Marckolsheim;67;eau potable : PERIMETRE RIED DE MARCKOLSHEIM;222343;2024;85,0;2,4;13,3;67,7;conforme;165617;31729;20;66;4398;Non vérifié
+67282;Marlenheim;67;eau potable : PERIMETRE KRONTHAL;222348;2024;83,0;3,3;14,4;67,9;conforme;154694;46111;30;86;4185;Non vérifié
+67283;Marmoutier;67;eau potable : PERIMETRE SAVERNE-MARMOUTIER;222346;2024;82,0;3,5;15,8;68,2;conforme;510016;36533;37;81;2699;Non vérifié
+67285;Matzenheim;67;eau potable : PERIMETRE BENFELD-ERSTEIN SUD;222345;2024;87,0;3,0;19,4;68,9;conforme;166385;11207;21;63;1494;Non vérifié
+67286;Meistratzheim;67;eau potable;104012;2024;82,3;5,1;23,5;69,7;conforme;276582;21794;38;81;1570;Non vérifié
+67287;Melsheim;67;eau potable : PERIMETRE HOCHFELDEN ET ENVIRONS;222347;2024;89,0;1,9;15,6;68,1;conforme;270541;3524;17;45;554;Non vérifié
+67288;Memmelshoffen;67;eau potable : SIAEP du Canton de Soultz-sous-Forêts;104001;2024;85,0;2,2;12,0;67,4;conforme;115857;2674;23;83;314;Non vérifié
+67289;Menchhoffen;67;eau potable : PERIMETRE LA MODER;222361;2024;83,0;2,8;13,5;67,7;conforme;95199;6171;28;81;598;Non vérifié
+67290;Merkwiller-Pechelbronn;67;eau potable : PERIMETRE KUTZENHAUSEN ET MERKWILLER-PECHELBRONN;279134;2024;80,0;2,8;11,3;67,3;conforme;23322;11655;34;90;927;Non vérifié
+67291;Mertzwiller;67;eau potable : SDE DE REICHSHOFFEN ET ENVIRONS;103997;2024;87,2;1,7;11,8;67,4;conforme;107154;24571;20;55;3343;Non vérifié
+67292;Mietesheim;67;eau potable : SDE DE REICHSHOFFEN ET ENVIRONS;103997;2024;87,2;1,7;11,8;67,4;conforme;107154;4858;20;55;661;Non vérifié
+67293;Minversheim;67;eau potable : PERIMETRE HOCHFELDEN ET ENVIRONS;222347;2024;89,0;1,9;15,6;68,1;conforme;270541;4586;17;45;721;Non vérifié
+67295;Mittelbergheim;67;eau potable : PERIMETRE STOTZHEIM ET ENVIRONS;222353;2024;85,0;2,7;14,9;68,0;conforme;98156;5587;26;67;593;Non vérifié
+67296;Mittelhausbergen;67;eau potable;103986;2024;90,1;6,1;55,1;76,0;conforme;3386506;14179;18;40;2188;Non vérifié
+67298;Mittelschaeffolsheim;67;eau potable : PERIMETRE KOCHERSBERG-SOUFFEL;222655;2024;91,0;2,5;24,0;69,8;conforme;343684;5251;26;66;560;Non vérifié
+67299;Mollkirch;67;eau potable : PERIMETRE MOLLKIRCH;222362;2024;94,0;0,8;9,5;66,9;conforme;3022;3022;9;31;874;Non vérifié
+67300;Molsheim;67;eau potable;104033;2024;82,5;4,4;20,7;69,1;conforme;554070;151336;44;82;9318;Non vérifié
+67301;Mommenheim;67;eau potable : PERIMETRE HOCHFELDEN ET ENVIRONS;222347;2024;89,0;1,9;15,6;68,1;conforme;270541;14885;17;45;2340;Non vérifié
+67302;Monswiller;67;eau potable : PERIMETRE SAVERNE-MARMOUTIER;222346;2024;82,0;3,5;15,8;68,2;conforme;510016;27004;37;81;1995;Non vérifié
+67303;Morsbronn-les-Bains;67;eau potable : PERIMETRE WOERTH;261914;2024;89,0;1,5;11,8;67,4;conforme;78216;3497;14;48;686;Non vérifié
+67304;Morschwiller;67;eau potable : PERIMETRE HOCHFELDEN ET ENVIRONS;222347;2024;89,0;1,9;15,6;68,1;conforme;270541;3887;17;45;611;Non vérifié
+67305;Mothern;67;eau potable;103995;2024;93,9;0,8;11,9;67,4;conforme;45844;6417;9;25;1939;Non vérifié
+67306;Muhlbach-sur-Bruche;67;eau potable;103868;2024;68,5;4,4;9,6;66,9;conforme;10873;10873;44;166;683;Non vérifié
+67307;Mulhausen;67;eau potable;103996;2024;85,6;2,1;12,3;67,5;conforme;40218;3758;24;62;435;Non vérifié
+67308;Munchhausen;67;eau potable;103995;2024;93,9;0,8;11,9;67,4;conforme;45844;2565;9;25;775;Non vérifié
+67309;Mundolsheim;67;eau potable;103986;2024;90,1;6,1;55,1;76,0;conforme;3386506;34487;18;40;5322;Non vérifié
+67310;Mussig;67;eau potable : PERIMETRE BALDENHEIM-MUSSIG;222349;2024;86,0;2,4;15,4;68,1;conforme;16434;7720;19;57;1111;Non vérifié
+67311;Muttersholtz;67;eau potable : PERIMETRE RIED DE MARCKOLSHEIM;222343;2024;85,0;2,4;13,3;67,7;conforme;165617;16521;20;66;2290;Non vérifié
+67312;Mutzenhouse;67;eau potable : PERIMETRE HOCHFELDEN ET ENVIRONS;222347;2024;89,0;1,9;15,6;68,1;conforme;270541;2863;17;45;450;Non vérifié
+67313;Mutzig;67;eau potable;104033;2024;82,5;4,4;20,7;69,1;conforme;554070;98860;44;82;6087;Non vérifié
+67314;Natzwiller;67;eau potable;103871;2024;90,9;1,2;11,9;67,4;conforme;2234;2234;12;37;521;Non vérifié
+67315;Neewiller-près-Lauterbourg;67;eau potable;103995;2024;93,9;0,8;11,9;67,4;conforme;45844;2135;9;25;645;Non vérifié
+67317;Neubois;67;eau potable : PERIMETRE VALLEE DE VILLE;222315;2024;74,0;3,0;8,7;66,7;conforme;169298;10113;43;125;646;Non vérifié
+67319;Neuhaeusel;67;eau potable : PERIMETRE ROESCHWOOG ET ENVIRONS;222344;2024;91,0;1,2;13,0;67,6;conforme;40143;1528;11;34;388;Non vérifié
+67320;Neuve-Église;67;eau potable : PERIMETRE VALLEE DE VILLE;222315;2024;74,0;3,0;8,7;66,7;conforme;169298;9597;43;125;613;Non vérifié
+67321;Neuviller-la-Roche;67;eau potable;103874;2024;91,8;0,9;10,4;67,1;conforme;2759;2759;23;32;333;Non vérifié
+67322;Neuwiller-lès-Saverne;67;eau potable : PERIMETRE SAVERNE-MARMOUTIER;222346;2024;82,0;3,5;15,8;68,2;conforme;510016;14605;37;81;1079;Non vérifié
+67324;Niederbronn-les-Bains;67;eau potable : PERIMETRE NIEDERBRONN-LES-BAINS;222363;2024;81,0;4,1;17,9;68,6;conforme;58827;58827;37;84;4347;Non vérifié
+67325;Niederhaslach;67;eau potable;104033;2024;82,5;4,4;20,7;69,1;conforme;554070;22462;44;82;1383;Non vérifié
+67326;Niederhausbergen;67;eau potable;103986;2024;90,1;6,1;55,1;76,0;conforme;3386506;11152;18;40;1721;Non vérifié
+67327;Niederlauterbach;67;eau potable;103995;2024;93,9;0,8;11,9;67,4;conforme;45844;3114;9;25;941;Non vérifié
+67328;Niedermodern;67;eau potable : PERIMETRE LA MODER;222361;2024;83,0;2,8;13,5;67,7;conforme;95199;9421;28;81;913;Non vérifié
+67329;Niedernai;67;eau potable;104012;2024;82,3;5,1;23,5;69,7;conforme;276582;17005;38;81;1225;Non vérifié
+67330;Niederroedern;67;eau potable;103999;2024;95,7;0,6;13,2;67,6;conforme;27813;2278;7;17;886;Non vérifié
+67331;Niederschaeffolsheim;67;eau potable : PERIMETRE HOCHFELDEN ET ENVIRONS;222347;2024;89,0;1,9;15,6;68,1;conforme;270541;8429;17;45;1325;Non vérifié
+67333;Niedersoultzbach;67;eau potable : PERIMETRE LA MODER;222361;2024;83,0;2,8;13,5;67,7;conforme;95199;3085;28;81;299;Non vérifié
+67334;Niedersteinbach;67;eau potable : PERIMETRE NIEDERSTEINBACH;261514;2024;87,0;1,0;6,7;66,3;conforme;1920;1920;42;54;124;Non vérifié
+67335;Nordheim;67;eau potable : PERIMETRE KRONTHAL;222348;2024;83,0;3,3;14,4;67,9;conforme;154694;10412;30;86;945;Non vérifié
+67336;Nordhouse;67;eau potable : PERIMETRE ERSTEIN;290154;2024;99,0;0,3;30,6;71,1;conforme;13960;1509;2;6;1753;Non vérifié
+67337;Nothalten;67;eau potable : PERIMETRE L'ILL AU VIGNOBLE;222341;2024;78,0;3,8;13,5;67,7;conforme;264931;5872;39;121;409;Non vérifié
+67338;Obenheim;67;eau potable : PERIMETRE RHIN;222352;2024;91,0;1,4;14,4;67,9;conforme;44861;5897;12;35;1403;Non vérifié
+67339;Betschdorf;67;eau potable : SIAEP du Canton de Soultz-sous-Forêts;104001;2024;85,0;2,2;12,0;67,4;conforme;115857;36028;23;83;4231;Non vérifié
+67340;Oberbronn;67;eau potable : Oberbronn;103881;2024;99,0;0,1;9,5;66,9;conforme;577;577;1;4;1404;Non vérifié
+67341;Oberdorf-Spachbach;67;eau potable : PERIMETRE WOERTH;261914;2024;89,0;1,5;11,8;67,4;conforme;78216;2192;14;48;430;Non vérifié
+67342;Oberhaslach;67;eau potable;104033;2024;82,5;4,4;20,7;69,1;conforme;554070;28146;44;82;1733;Non vérifié
+67343;Oberhausbergen;67;eau potable;103986;2024;90,1;6,1;55,1;76,0;conforme;3386506;37954;18;40;5857;Non vérifié
+67344;Oberhoffen-lès-Wissembourg;67;eau potable;208852;2024;96,0;0,3;6,7;66,3;conforme;9668;647;6;16;309;Non vérifié
+67345;Oberhoffen-sur-Moder;67;eau potable;323874;2024;88,6;3,0;23,6;69,7;conforme;447428;27690;19;47;3992;Non vérifié
+67346;Oberlauterbach;67;eau potable;103995;2024;93,9;0,8;11,9;67,4;conforme;45844;1814;9;25;548;Non vérifié
+67347;Obermodern-Zutzendorf;67;eau potable : PERIMETRE LA MODER;222361;2024;83,0;2,8;13,5;67,7;conforme;95199;18305;28;81;1774;Non vérifié
+67348;Obernai;67;eau potable;104012;2024;82,3;5,1;23,5;69,7;conforme;276582;174731;38;81;12587;Non vérifié
+67349;Oberroedern;67;eau potable;103999;2024;95,7;0,6;13,2;67,6;conforme;27813;1306;7;17;508;Non vérifié
+67350;Oberschaeffolsheim;67;eau potable;103986;2024;90,1;6,1;55,1;76,0;conforme;3386506;16829;18;40;2597;Non vérifié
+67351;Seebach;67;eau potable;103995;2024;93,9;0,8;11,9;67,4;conforme;45844;5348;9;25;1616;Non vérifié
+67352;Obersoultzbach;67;eau potable : PERIMETRE LA MODER;222361;2024;83,0;2,8;13,5;67,7;conforme;95199;3983;28;81;386;Non vérifié
+67353;Obersteinbach;67;eau potable : PERIMETRE OBERSTEINBACH;222375;2024;91,0;0,9;8,8;66,8;conforme;1426;1426;17;38;234;Non vérifié
+67354;Odratzheim;67;eau potable : PERIMETRE KRONTHAL;222348;2024;83,0;3,3;14,4;67,9;conforme;154694;5707;30;86;518;Non vérifié
+67355;Oermingen;67;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;28653;72;167;1086;Non vérifié
+67356;Offendorf;67;eau potable : PERIMETRE HERRLISHEIM-OFFENDORF;222356;2024;92,0;1,4;14,9;68,0;conforme;27400;9482;10;34;2484;Non vérifié
+67358;Offwiller;67;eau potable;103996;2024;85,6;2,1;12,3;67,5;conforme;40218;6972;24;62;807;Non vérifié
+67359;Ohlungen;67;eau potable;323874;2024;88,6;3,0;23,6;69,7;conforme;447428;9836;19;47;1418;Non vérifié
+67360;Ohnenheim;67;eau potable : PERIMETRE RIED DE MARCKOLSHEIM;222343;2024;85,0;2,4;13,3;67,7;conforme;165617;8398;20;66;1164;Non vérifié
+67361;Olwisheim;67;eau potable : PERIMETRE KOCHERSBERG-SOUFFEL;222655;2024;91,0;2,5;24,0;69,8;conforme;343684;4538;26;66;484;Non vérifié
+67362;Orschwiller;67;eau potable : PERIMETRE ORSCHWILLER;222376;2024;79,0;2,3;8,8;66,8;conforme;13180;13180;57;96;635;Non vérifié
+67363;Osthoffen;67;eau potable;103986;2024;90,1;6,1;55,1;76,0;conforme;3386506;5281;18;40;815;Non vérifié
+67364;Osthouse;67;eau potable : PERIMETRE BENFELD-ERSTEIN SUD;222345;2024;87,0;3,0;19,4;68,9;conforme;166385;7314;21;63;975;Non vérifié
+67365;Ostwald;67;eau potable;103986;2024;90,1;6,1;55,1;76,0;conforme;3386506;90372;18;40;13946;Non vérifié
+67366;Ottersthal;67;eau potable : PERIMETRE SAVERNE-MARMOUTIER;222346;2024;82,0;3,5;15,8;68,2;conforme;510016;10896;37;81;805;Non vérifié
+67367;Otterswiller;67;eau potable : PERIMETRE SAVERNE-MARMOUTIER;222346;2024;82,0;3,5;15,8;68,2;conforme;510016;17718;37;81;1309;Non vérifié
+67368;Ottrott;67;eau potable : Ottrott;103896;2024;89,0;2,1;17,2;68,4;conforme;11697;11697;20;45;1620;Non vérifié
+67369;Ottwiller;67;eau potable;103990;2024;63,1;3,2;5,5;66,1;non conforme;245280;6800;76;213;246;Non vérifié
+67370;Petersbach;67;eau potable;103990;2024;63,1;3,2;5,5;66,1;non conforme;245280;18353;76;213;664;Non vérifié
+67371;La Petite-Pierre;67;eau potable : PERIMETRE LA PETITE PIERRE;222360;2024;82,0;2,3;10,5;67,1;conforme;10049;10049;47;80;586;Non vérifié
+67372;Val-de-Moder;67;eau potable : PERIMETRE LA MODER;222361;2024;83,0;2,8;13,5;67,7;conforme;95199;52645;28;81;5102;Non vérifié
+67373;Pfalzweyer;67;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;2053;17;48;329;Non vérifié
+67375;Pfulgriesheim;67;eau potable : PERIMETRE KOCHERSBERG-SOUFFEL;222655;2024;91,0;2,5;24,0;69,8;conforme;343684;12020;26;66;1282;Non vérifié
+67377;Plaine;67;eau potable : PERIMETRE PLAINE;290074;2024;79,0;2,1;8,1;66,6;conforme;22236;22236;62;94;983;Non vérifié
+67378;Plobsheim;67;eau potable;103986;2024;90,1;6,1;55,1;76,0;conforme;3386506;29109;18;40;4492;Non vérifié
+67379;Preuschdorf;67;eau potable : PERIMETRE WOERTH;261914;2024;89,0;1,5;11,8;67,4;conforme;78216;4516;14;48;886;Non vérifié
+67380;Printzheim;67;eau potable : PERIMETRE HOCHFELDEN ET ENVIRONS;222347;2024;89,0;1,9;15,6;68,1;conforme;270541;1329;17;45;209;Non vérifié
+67381;Puberg;67;eau potable;104010;2024;84,8;1,1;5,9;66,2;conforme;44165;2559;22;71;319;Non vérifié
+67382;Quatzenheim;67;eau potable : PERIMETRE KOCHERSBERG-SOUFFEL;222655;2024;91,0;2,5;24,0;69,8;conforme;343684;7332;26;66;782;Non vérifié
+67383;Rangen;67;eau potable : PERIMETRE KOCHERSBERG-SOUFFEL;222655;2024;91,0;2,5;24,0;69,8;conforme;343684;2035;26;66;217;Non vérifié
+67384;Ranrupt;67;eau potable;103901;2024;66,0;3,1;6,0;66,2;non conforme;12379;12379;109;190;312;Non vérifié
+67385;Ratzwiller;67;eau potable : PERIMETRE SIVOM DE DIEMERINGEN;290054;2024;80,0;1,9;7,8;66,6;conforme;57928;2646;31;94;233;Non vérifié
+67386;Rauwiller;67;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;1447;17;48;232;Non vérifié
+67387;Reichsfeld;67;eau potable : PERIMETRE L'ILL AU VIGNOBLE;222341;2024;78,0;3,8;13,5;67,7;conforme;264931;4078;39;121;284;Non vérifié
+67388;Reichshoffen;67;eau potable : SDE DE REICHSHOFFEN ET ENVIRONS;103997;2024;87,2;1,7;11,8;67,4;conforme;107154;39822;20;55;5418;Non vérifié
+67389;Reichstett;67;eau potable;103986;2024;90,1;6,1;55,1;76,0;conforme;3386506;30664;18;40;4732;Non vérifié
+67391;Reinhardsmunster;67;eau potable : PERIMETRE SAVERNE-MARMOUTIER;222346;2024;82,0;3,5;15,8;68,2;conforme;510016;5820;37;81;430;Non vérifié
+67392;Reipertswiller;67;eau potable;104010;2024;84,8;1,1;5,9;66,2;conforme;44165;6755;22;71;842;Non vérifié
+67394;Retschwiller;67;eau potable : SIAEP du Canton de Soultz-sous-Forêts;104001;2024;85,0;2,2;12,0;67,4;conforme;115857;2333;23;83;274;Non vérifié
+67395;Reutenbourg;67;eau potable : PERIMETRE SAVERNE-MARMOUTIER;222346;2024;82,0;3,5;15,8;68,2;conforme;510016;5252;37;81;388;Non vérifié
+67396;Rexingen;67;eau potable;103990;2024;63,1;3,2;5,5;66,1;non conforme;245280;5583;76;213;202;Non vérifié
+67397;Rhinau;67;eau potable : PERIMETRE RHIN;222352;2024;91,0;1,4;14,4;67,9;conforme;44861;11445;12;35;2723;Non vérifié
+67398;Richtolsheim;67;eau potable : PERIMETRE RIED DE MARCKOLSHEIM;222343;2024;85,0;2,4;13,3;67,7;conforme;165617;2763;20;66;383;Non vérifié
+67400;Riedseltz;67;eau potable;208852;2024;96,0;0,3;6,7;66,3;conforme;9668;2395;6;16;1143;Non vérifié
+67401;Rimsdorf;67;eau potable;103990;2024;63,1;3,2;5,5;66,1;non conforme;245280;7933;76;213;287;Non vérifié
+67403;Ringendorf;67;eau potable : PERIMETRE HOCHFELDEN ET ENVIRONS;222347;2024;89,0;1,9;15,6;68,1;conforme;270541;2907;17;45;457;Non vérifié
+67404;Rittershoffen;67;eau potable;103999;2024;95,7;0,6;13,2;67,6;conforme;27813;2386;7;17;928;Non vérifié
+67405;Roeschwoog;67;eau potable : PERIMETRE ROESCHWOOG ET ENVIRONS;222344;2024;91,0;1,2;13,0;67,6;conforme;40143;8960;11;34;2275;Non vérifié
+67406;Rohr;67;eau potable : PERIMETRE KOCHERSBERG-SOUFFEL;222655;2024;91,0;2,5;24,0;69,8;conforme;343684;3535;26;66;377;Non vérifié
+67407;Rohrwiller;67;eau potable;323874;2023;88,7;3,2;25,4;70,1;conforme;461372;11269;19;47;1615;Sans anomalie apparente
+67408;Romanswiller;67;eau potable : PERIMETRE KOCHERSBERG-SOUFFEL;222655;2024;91,0;2,5;24,0;69,8;conforme;343684;11064;26;66;1180;Non vérifié
+67409;Roppenheim;67;eau potable : PERIMETRE ROESCHWOOG ET ENVIRONS;222344;2024;91,0;1,2;13,0;67,6;conforme;40143;4060;11;34;1031;Non vérifié
+67410;Rosenwiller;67;eau potable : PERIMETRE ROSENWILLER;222395;2024;79,0;2,4;9,3;66,9;conforme;6868;6868;29;94;654;Non vérifié
+67411;Rosheim;67;eau potable : ROSHEIM;103910;2024;83,0;3,8;19,1;68,8;conforme;60640;60640;30;82;5457;Non vérifié
+67412;Rossfeld;67;eau potable : PERIMETRE BENFELD-ERSTEIN SUD;222345;2024;87,0;3,0;19,4;68,9;conforme;166385;7824;21;63;1043;Non vérifié
+67413;Rosteig;67;eau potable;104010;2024;84,8;1,1;5,9;66,2;conforme;44165;3723;22;71;464;Non vérifié
+67414;Rothau;67;eau potable;103911;2024;78,6;5,1;18,9;68,8;conforme;14892;14892;28;99;1471;Non vérifié
+67415;Rothbach;67;eau potable;103996;2024;85,6;2,1;12,3;67,5;conforme;40218;4026;24;62;466;Non vérifié
+67416;Rott;67;eau potable;208852;2024;96,0;0,3;6,7;66,3;conforme;9668;968;6;16;462;Non vérifié
+67417;Rottelsheim;67;eau potable : PERIMETRE HOCHFELDEN ET ENVIRONS;222347;2024;89,0;1,9;15,6;68,1;conforme;270541;1915;17;45;301;Non vérifié
+67418;Rountzenheim-Auenheim;67;eau potable : PERIMETRE ROESCHWOOG ET ENVIRONS;222344;2024;91,0;1,2;13,0;67,6;conforme;40143;7975;11;34;2025;Non vérifié
+67420;Russ;67;eau potable;103913;2024;58,0;5,2;10,3;67,1;non calculable;28850;28850;64;185;1228;Non vérifié
+67421;Saales;67;eau potable;103914;2024;87,3;2,9;19,7;68,9;conforme;14713;14713;49;55;826;Non vérifié
+67422;Saasenheim;67;eau potable : PERIMETRE RIED DE MARCKOLSHEIM;222343;2024;85,0;2,4;13,3;67,7;conforme;165617;4134;20;66;573;Non vérifié
+67423;Saessolsheim;67;eau potable : PERIMETRE HOCHFELDEN ET ENVIRONS;222347;2024;89,0;1,9;15,6;68,1;conforme;270541;3842;17;45;604;Non vérifié
+67424;Saint-Blaise-la-Roche;67;eau potable;103916;2024;88,3;1,3;10,1;67,0;conforme;1267;1267;15;47;239;Non vérifié
+67425;Saint-Jean-Saverne;67;eau potable : PERIMETRE SAVERNE-MARMOUTIER;222346;2024;82,0;3,5;15,8;68,2;conforme;510016;7336;37;81;542;Non vérifié
+67426;Saint-Martin;67;eau potable : PERIMETRE VALLEE DE VILLE;222315;2024;74,0;3,0;8,7;66,7;conforme;169298;5855;43;125;374;Non vérifié
+67427;Saint-Maurice;67;eau potable : PERIMETRE VALLEE DE VILLE;222315;2024;74,0;3,0;8,7;66,7;conforme;169298;5198;43;125;332;Non vérifié
+67428;Saint-Nabor;67;eau potable : SAINT-NABOR;217074;2024;87,4;2,4;12,6;67,5;conforme;4459;4459;24;70;512;Non vérifié
+67429;Saint-Pierre;67;eau potable : PERIMETRE STOTZHEIM ET ENVIRONS;222353;2024;85,0;2,7;14,9;68,0;conforme;98156;5785;26;67;614;Non vérifié
+67430;Saint-Pierre-Bois;67;eau potable : PERIMETRE VALLEE DE VILLE;222315;2024;74,0;3,0;8,7;66,7;conforme;169298;12587;43;125;804;Non vérifié
+67432;Salmbach;67;eau potable;103995;2024;93,9;0,8;11,9;67,4;conforme;45844;1936;9;25;585;Non vérifié
+67433;Sand;67;eau potable : PERIMETRE BENFELD-ERSTEIN SUD;222345;2024;87,0;3,0;19,4;68,9;conforme;166385;10630;21;63;1417;Non vérifié
+67434;Sarre-Union;67;eau potable : PERIMETRE REGION DE SARRE-UNION ET ENVIRONS;222351;2024;92,0;1,0;11,5;67,3;conforme;19075;12445;12;35;2731;Non vérifié
+67435;Sarrewerden;67;eau potable : PERIMETRE SARREWERDEN;283934;2024;59,0;6,0;8,7;66,7;non conforme;32806;32806;110;251;816;Non vérifié
+67436;Saulxures;67;eau potable : SAULXURES;103929;2024;69,0;2,7;4,0;65,8;conforme;13925;13925;75;245;508;Non vérifié
+67437;Saverne;67;eau potable : PERIMETRE SAVERNE-MARMOUTIER;222346;2024;82,0;3,5;15,8;68,2;conforme;510016;155121;37;81;11460;Non vérifié
+67438;Schaeffersheim;67;eau potable : PERIMETRE BENFELD-ERSTEIN SUD;222345;2024;87,0;3,0;19,4;68,9;conforme;166385;6586;21;63;878;Non vérifié
+67440;Schaffhouse-près-Seltz;67;eau potable;103999;2024;95,7;0,6;13,2;67,6;conforme;27813;1432;7;17;557;Non vérifié
+67441;Schalkendorf;67;eau potable : PERIMETRE HOCHFELDEN ET ENVIRONS;222347;2024;89,0;1,9;15,6;68,1;conforme;270541;2131;17;45;335;Non vérifié
+67442;Scharrachbergheim-Irmstett;67;eau potable : PERIMETRE KRONTHAL;222348;2024;83,0;3,3;14,4;67,9;conforme;154694;14974;30;86;1359;Non vérifié
+67443;Scheibenhard;67;eau potable;103995;2024;93,9;0,8;11,9;67,4;conforme;45844;2882;9;25;871;Non vérifié
+67444;Scherlenheim;67;eau potable : PERIMETRE HOCHFELDEN ET ENVIRONS;222347;2024;89,0;1,9;15,6;68,1;conforme;270541;712;17;45;112;Non vérifié
+67445;Scherwiller;67;eau potable : PERIMETRE L'ILL AU VIGNOBLE;222341;2024;78,0;3,8;13,5;67,7;conforme;264931;44495;39;121;3099;Non vérifié
+67446;Schillersdorf;67;eau potable;103996;2024;85,6;2,1;12,3;67,5;conforme;40218;3516;24;62;407;Non vérifié
+67447;Schiltigheim;67;eau potable;103986;2024;90,1;6,1;55,1;76,0;conforme;3386506;224913;18;40;34708;Non vérifié
+67448;Schirmeck;67;eau potable : SYNDICAT DE LA SOURCE DES MINIERES;104053;2024;64,0;9,2;16,4;68,3;non conforme;144394;58451;78;205;2056;Non vérifié
+67449;Schirrhein;67;eau potable : EAU, ARGILE ET MODER;339994;2024;79,0;3,9;15,0;68,0;conforme;197027;25317;31;95;2251;Non vérifié
+67450;Schirrhoffen;67;eau potable : EAU, ARGILE ET MODER;339994;2024;79,0;3,9;15,0;68,0;conforme;197027;9425;31;95;838;Non vérifié
+67451;Schleithal;67;eau potable;103995;2024;93,9;0,8;11,9;67,4;conforme;45844;4573;9;25;1382;Non vérifié
+67452;Schnersheim;67;eau potable : PERIMETRE KOCHERSBERG-SOUFFEL;222655;2024;91,0;2,5;24,0;69,8;conforme;343684;17374;26;66;1853;Non vérifié
+67453;Schoenau;67;eau potable : PERIMETRE RIED DE MARCKOLSHEIM;222343;2024;85,0;2,4;13,3;67,7;conforme;165617;4235;20;66;587;Non vérifié
+67454;Schoenbourg;67;eau potable;63232;2024;88,6;1,1;8,4;66,7;conforme;100776;2283;17;48;366;Non vérifié
+67455;Schoenenbourg;67;eau potable : SIAEP du Canton de Soultz-sous-Forêts;104001;2024;85,0;2,2;12,0;67,4;conforme;115857;6131;23;83;720;Non vérifié
+67456;Schopperten;67;eau potable : PERIMETRE REGION DE SARRE-UNION ET ENVIRONS;222351;2024;92,0;1,0;11,5;67,3;conforme;19075;1855;12;35;407;Non vérifié
+67458;Schweighouse-sur-Moder;67;eau potable;323874;2024;88,6;3,0;23,6;69,7;conforme;447428;35944;19;47;5182;Non vérifié
+67459;Schwenheim;67;eau potable : PERIMETRE SAVERNE-MARMOUTIER;222346;2024;82,0;3,5;15,8;68,2;conforme;510016;10044;37;81;742;Non vérifié
+67460;Schwindratzheim;67;eau potable : PERIMETRE HOCHFELDEN ET ENVIRONS;222347;2024;89,0;1,9;15,6;68,1;conforme;270541;11247;17;45;1768;Non vérifié
+67461;Schwobsheim;67;eau potable : PERIMETRE RIED DE MARCKOLSHEIM;222343;2024;85,0;2,4;13,3;67,7;conforme;165617;2330;20;66;323;Non vérifié
+67462;Sélestat;67;eau potable : PERIMETRE VILLE DE SELESTAT;261354;2024;81,0;7,6;32,7;71,5;conforme;288080;288080;40;94;19589;Non vérifié
+67463;Seltz;67;eau potable;103999;2024;95,7;0,6;13,2;67,6;conforme;27813;8238;7;17;3204;Non vérifié
+67464;Sermersheim;67;eau potable : PERIMETRE BENFELD-ERSTEIN SUD;222345;2024;87,0;3,0;19,4;68,9;conforme;166385;7164;21;63;955;Non vérifié
+67465;Sessenheim;67;eau potable : EAU, ARGILE ET MODER;339994;2024;79,0;3,9;15,0;68,0;conforme;197027;26341;31;95;2342;Non vérifié
+67466;Siegen;67;eau potable;103995;2024;93,9;0,8;11,9;67,4;conforme;45844;1718;9;25;519;Non vérifié
+67467;Siewiller;67;eau potable;103990;2024;63,1;3,2;5,5;66,1;non conforme;245280;10503;76;213;380;Non vérifié
+67468;Siltzheim;67;eau potable;337594;2024;69,5;6,9;15,8;68,2;conforme;1720136;16200;72;167;614;Non vérifié
+67470;Solbach;67;eau potable;103944;2024;90,9;0,5;5,1;66,0;conforme;529;529;13;36;111;Non vérifié
+67471;Souffelweyersheim;67;eau potable;103986;2024;90,1;6,1;55,1;76,0;conforme;3386506;53390;18;40;8239;Non vérifié
+67472;Soufflenheim;67;eau potable : EAU, ARGILE ET MODER;339994;2024;79,0;3,9;15,0;68,0;conforme;197027;53311;31;95;4740;Non vérifié
+67473;Soultz-les-Bains;67;eau potable;104033;2024;82,5;4,4;20,7;69,1;conforme;554070;15299;44;82;942;Non vérifié
+67474;Soultz-sous-Forêts;67;eau potable : SIAEP du Canton de Soultz-sous-Forêts;104001;2024;85,0;2,2;12,0;67,4;conforme;115857;26576;23;83;3121;Non vérifié
+67475;Sparsbach;67;eau potable : PERIMETRE SPARSBACH;222399;2024;62,0;5,3;8,6;66,7;non conforme;6229;6229;72;226;238;Non vérifié
+67476;Stattmatten;67;eau potable : EAU, ARGILE ET MODER;339994;2024;79,0;3,9;15,0;68,0;conforme;197027;8368;31;95;744;Non vérifié
+67477;Steige;67;eau potable : PERIMETRE VALLEE DE VILLE;222315;2024;74,0;3,0;8,7;66,7;conforme;169298;9753;43;125;623;Non vérifié
+67478;Steinbourg;67;eau potable : PERIMETRE SAVERNE-MARMOUTIER;222346;2024;82,0;3,5;15,8;68,2;conforme;510016;25677;37;81;1897;Non vérifié
+67479;Steinseltz;67;eau potable;208852;2024;96,0;0,3;6,7;66,3;conforme;9668;1287;6;16;614;Non vérifié
+67480;Still;67;eau potable;104033;2024;82,5;4,4;20,7;69,1;conforme;554070;29121;44;82;1793;Non vérifié
+67481;Stotzheim;67;eau potable : PERIMETRE STOTZHEIM ET ENVIRONS;222353;2024;85,0;2,7;14,9;68,0;conforme;98156;10562;26;67;1121;Non vérifié
+67482;Strasbourg;67;eau potable;103986;2024;90,1;6,1;55,1;76,0;conforme;3386506;1903684;18;40;293771;Non vérifié
+67483;Struth;67;eau potable;103990;2024;63,1;3,2;5,5;66,1;non conforme;245280;5887;76;213;213;Non vérifié
+67484;Stundwiller;67;eau potable;103999;2024;95,7;0,6;13,2;67,6;conforme;27813;1345;7;17;523;Non vérifié
+67485;Stutzheim-Offenheim;67;eau potable : PERIMETRE KOCHERSBERG-SOUFFEL;222655;2024;91,0;2,5;24,0;69,8;conforme;343684;15068;26;66;1607;Non vérifié
+67486;Sundhouse;67;eau potable : PERIMETRE RIED DE MARCKOLSHEIM;222343;2024;85,0;2,4;13,3;67,7;conforme;165617;13044;20;66;1808;Non vérifié
+67487;Surbourg;67;eau potable : SIAEP du Canton de Soultz-sous-Forêts;104001;2024;85,0;2,2;12,0;67,4;conforme;115857;14757;23;83;1733;Non vérifié
+67488;Thal-Drulingen;67;eau potable;103990;2024;63,1;3,2;5,5;66,1;non conforme;245280;5141;76;213;186;Non vérifié
+67489;Thal-Marmoutier;67;eau potable : PERIMETRE SAVERNE-MARMOUTIER;222346;2024;82,0;3,5;15,8;68,2;conforme;510016;11181;37;81;826;Non vérifié
+67490;Thanvillé;67;eau potable : PERIMETRE VALLEE DE VILLE;222315;2024;74,0;3,0;8,7;66,7;conforme;169298;9753;43;125;623;Non vérifié
+67491;Tieffenbach;67;eau potable;104010;2024;84,8;1,1;5,9;66,2;conforme;44165;1950;22;71;243;Non vérifié
+67492;Traenheim;67;eau potable : PERIMETRE KRONTHAL;222348;2024;83,0;3,3;14,4;67,9;conforme;154694;7217;30;86;655;Non vérifié
+67493;Triembach-au-Val;67;eau potable : PERIMETRE VALLEE DE VILLE;222315;2024;74,0;3,0;8,7;66,7;conforme;169298;6591;43;125;421;Non vérifié
+67494;Trimbach;67;eau potable;103995;2024;93,9;0,8;11,9;67,4;conforme;45844;1873;9;25;566;Non vérifié
+67495;Truchtersheim;67;eau potable : PERIMETRE KOCHERSBERG-SOUFFEL;222655;2024;91,0;2,5;24,0;69,8;conforme;343684;41236;26;66;4398;Non vérifié
+67497;Uhlwiller;67;eau potable : PERIMETRE HOCHFELDEN ET ENVIRONS;222347;2024;89,0;1,9;15,6;68,1;conforme;270541;4230;17;45;665;Non vérifié
+67498;Uhrwiller;67;eau potable;103996;2024;85,6;2,1;12,3;67,5;conforme;40218;6126;24;62;709;Non vérifié
+67499;Urbeis;67;eau potable : PERIMETRE VALLEE DE VILLE;222315;2024;74,0;3,0;8,7;66,7;conforme;169298;4838;43;125;309;Non vérifié
+67500;Urmatt;67;eau potable : PERIMETRE URMATT;306974;2024;86,0;2,8;13,6;67,7;conforme;16863;16863;31;75;1505;Non vérifié
+67501;Uttenheim;67;eau potable : PERIMETRE BENFELD-ERSTEIN SUD;222345;2024;87,0;3,0;19,4;68,9;conforme;166385;4471;21;63;596;Non vérifié
+67502;Uttenhoffen;67;eau potable : SDE DE REICHSHOFFEN ET ENVIRONS;103997;2024;87,2;1,7;11,8;67,4;conforme;107154;1543;20;55;210;Non vérifié
+67503;Uttwiller;67;eau potable : PERIMETRE LA MODER;222361;2024;83,0;2,8;13,5;67,7;conforme;95199;1589;28;81;154;Non vérifié
+67504;Valff;67;eau potable : PERIMETRE STOTZHEIM ET ENVIRONS;222353;2024;85,0;2,7;14,9;68,0;conforme;98156;12785;26;67;1357;Non vérifié
+67505;La Vancelle;67;eau potable : PERIMETRE L'ILL AU VIGNOBLE;222341;2024;78,0;3,8;13,5;67,7;conforme;264931;5772;39;121;402;Non vérifié
+67506;Vendenheim;67;eau potable;103986;2024;90,1;6,1;55,1;76,0;conforme;3386506;39769;18;40;6137;Non vérifié
+67507;Villé;67;eau potable : PERIMETRE VALLEE DE VILLE;222315;2024;74,0;3,0;8,7;66,7;conforme;169298;28164;43;125;1799;Non vérifié
+67508;Voellerdingen;67;eau potable : PERIMETRE SIVOM DE DIEMERINGEN;290054;2024;80,0;1,9;7,8;66,6;conforme;57928;4747;31;94;418;Non vérifié
+67509;Volksberg;67;eau potable : PERIMETRE SIVOM DE DIEMERINGEN;290054;2024;80,0;1,9;7,8;66,6;conforme;57928;4009;31;94;353;Non vérifié
+67510;Wahlenheim;67;eau potable : PERIMETRE HOCHFELDEN ET ENVIRONS;222347;2024;89,0;1,9;15,6;68,1;conforme;270541;4128;17;45;649;Non vérifié
+67511;Walbourg;67;eau potable : PERIMETRE WOERTH;261914;2024;89,0;1,5;11,8;67,4;conforme;78216;4730;14;48;928;Non vérifié
+67513;Waldersbach;67;eau potable;103967;2024;91,2;2,2;22,4;69,5;conforme;2040;2040;47;36;118;Non vérifié
+67514;Waldhambach;67;eau potable : PERIMETRE SIVOM DE DIEMERINGEN;290054;2024;80,0;1,9;7,8;66,6;conforme;57928;6791;31;94;598;Non vérifié
+67515;Waldolwisheim;67;eau potable : PERIMETRE SAVERNE-MARMOUTIER;222346;2024;82,0;3,5;15,8;68,2;conforme;510016;7309;37;81;540;Non vérifié
+67516;Waltenheim-sur-Zorn;67;eau potable : PERIMETRE HOCHFELDEN ET ENVIRONS;222347;2024;89,0;1,9;15,6;68,1;conforme;270541;4167;17;45;655;Non vérifié
+67517;Wangen;67;eau potable : PERIMETRE KRONTHAL;222348;2024;83,0;3,3;14,4;67,9;conforme;154694;7041;30;86;639;Non vérifié
+67519;La Wantzenau;67;eau potable;103986;2024;90,1;6,1;55,1;76,0;conforme;3386506;38000;18;40;5864;Non vérifié
+67520;Wasselonne;67;eau potable : PERIMETRE KOCHERSBERG-SOUFFEL;222655;2024;91,0;2,5;24,0;69,8;conforme;343684;54194;26;66;5780;Non vérifié
+67521;Weinbourg;67;eau potable : PERIMETRE WEINBOURG;306995;2024;89,0;1,3;9,8;67,0;conforme;2738;2738;16;48;467;Non vérifié
+67522;Weislingen;67;eau potable : PERIMETRE SIVOM DE DIEMERINGEN;290054;2024;80,0;1,9;7,8;66,6;conforme;57928;5962;31;94;525;Non vérifié
+67523;Weitbruch;67;eau potable : PERIMETRE HOCHFELDEN ET ENVIRONS;222347;2024;89,0;1,9;15,6;68,1;conforme;270541;17245;17;45;2711;Non vérifié
+67524;Weiterswiller;67;eau potable : PERIMETRE SAVERNE-MARMOUTIER;222346;2024;82,0;3,5;15,8;68,2;conforme;510016;6971;37;81;515;Non vérifié
+67525;Westhoffen;67;eau potable : PERIMETRE KRONTHAL;222348;2024;83,0;3,3;14,4;67,9;conforme;154694;18951;30;86;1720;Non vérifié
+67526;Westhouse;67;eau potable : PERIMETRE BENFELD-ERSTEIN SUD;222345;2024;87,0;3,0;19,4;68,9;conforme;166385;12295;21;63;1639;Non vérifié
+67527;Westhouse-Marmoutier;67;eau potable : PERIMETRE SAVERNE-MARMOUTIER;222346;2024;82,0;3,5;15,8;68,2;conforme;510016;5035;37;81;372;Non vérifié
+67528;Weyer;67;eau potable;103990;2024;63,1;3,2;5,5;66,1;non conforme;245280;14069;76;213;509;Non vérifié
+67529;Weyersheim;67;eau potable : CDC DE LA BASSE ZORN;103989;2024;96,0;0,8;17,0;68,4;conforme;35186;8192;6;17;3512;Non vérifié
+67530;Wickersheim-Wilshausen;67;eau potable : PERIMETRE HOCHFELDEN ET ENVIRONS;222347;2024;89,0;1,9;15,6;68,1;conforme;270541;2487;17;45;391;Non vérifié
+67531;Wildersbach;67;eau potable;103972;2024;50,4;4,9;5,0;66,0;non conforme;10194;10194;98;356;284;Non vérifié
+67532;Willgottheim;67;eau potable : PERIMETRE KOCHERSBERG-SOUFFEL;222655;2024;91,0;2,5;24,0;69,8;conforme;343684;9911;26;66;1057;Non vérifié
+67534;Wilwisheim;67;eau potable : PERIMETRE HOCHFELDEN ET ENVIRONS;222347;2024;89,0;1,9;15,6;68,1;conforme;270541;4911;17;45;772;Non vérifié
+67535;Wimmenau;67;eau potable;104010;2024;84,8;1,1;5,9;66,2;conforme;44165;8584;22;71;1070;Non vérifié
+67536;Windstein;67;eau potable : PERIMETRE WINDSTEIN;313834;2024;76,0;1,3;4,2;65,8;conforme;2240;2240;35;112;177;Non vérifié
+67537;Wingen;67;eau potable : PERIMETRE WINGEN;222400;2024;81,0;2,4;9,8;67,0;conforme;4617;4617;28;90;445;Non vérifié
+67538;Wingen-sur-Moder;67;eau potable;104010;2024;84,8;1,1;5,9;66,2;conforme;44165;12275;22;71;1530;Non vérifié
+67539;Wingersheim les Quatre Bans;67;eau potable : PERIMETRE HOCHFELDEN ET ENVIRONS;222347;2024;89,0;1,9;15,6;68,1;conforme;270541;14898;17;45;2342;Non vérifié
+67540;Wintershouse;67;eau potable : PERIMETRE HOCHFELDEN ET ENVIRONS;222347;2024;89,0;1,9;15,6;68,1;conforme;270541;5528;17;45;869;Non vérifié
+67541;Wintzenbach;67;eau potable;103995;2024;93,9;0,8;11,9;67,4;conforme;45844;1761;9;25;532;Non vérifié
+67542;Wintzenheim-Kochersberg;67;eau potable : PERIMETRE KOCHERSBERG-SOUFFEL;222655;2024;91,0;2,5;24,0;69,8;conforme;343684;4988;26;66;532;Non vérifié
+67543;Wisches;67;eau potable : PERIMETRE WISCHES;306994;2024;83,0;2,0;9,2;66,8;conforme;18506;18506;25;79;2050;Non vérifié
+67544;Wissembourg;67;eau potable;103977;2024;81,2;4,1;17,8;68,6;conforme;99547;99547;36;84;7566;Non vérifié
+67545;Witternheim;67;eau potable : PERIMETRE BENFELD-ERSTEIN SUD;222345;2024;87,0;3,0;19,4;68,9;conforme;166385;3811;21;63;508;Non vérifié
+67546;Wittersheim;67;eau potable : PERIMETRE HOCHFELDEN ET ENVIRONS;222347;2024;89,0;1,9;15,6;68,1;conforme;270541;4752;17;45;747;Non vérifié
+67547;Wittisheim;67;eau potable : PERIMETRE RIED DE MARCKOLSHEIM;222343;2024;85,0;2,4;13,3;67,7;conforme;165617;15042;20;66;2085;Non vérifié
+67548;Wiwersheim;67;eau potable : PERIMETRE KOCHERSBERG-SOUFFEL;222655;2024;91,0;2,5;24,0;69,8;conforme;343684;8645;26;66;922;Non vérifié
+67550;Woerth;67;eau potable : PERIMETRE WOERTH;261914;2024;89,0;1,5;11,8;67,4;conforme;78216;8441;14;48;1656;Non vérifié
+67551;Wolfisheim;67;eau potable;103986;2024;90,1;6,1;55,1;76,0;conforme;3386506;27327;18;40;4217;Non vérifié
+67552;Wolfskirchen;67;eau potable;63205;2024;95,0;0,1;2,7;65,5;conforme;14600;780;6;14;332;Non vérifié
+67553;Wolschheim;67;eau potable : PERIMETRE SAVERNE-MARMOUTIER;222346;2024;82,0;3,5;15,8;68,2;conforme;510016;4210;37;81;311;Non vérifié
+67554;Wolxheim;67;eau potable;104033;2024;82,5;4,4;20,7;69,1;conforme;554070;15608;44;82;961;Non vérifié
+67555;Zehnacker;67;eau potable : PERIMETRE SAVERNE-MARMOUTIER;222346;2024;82,0;3,5;15,8;68,2;conforme;510016;3438;37;81;254;Non vérifié
+67556;Zeinheim;67;eau potable : PERIMETRE KOCHERSBERG-SOUFFEL;222655;2024;91,0;2,5;24,0;69,8;conforme;343684;2194;26;66;234;Non vérifié
+67557;Zellwiller;67;eau potable : PERIMETRE STOTZHEIM ET ENVIRONS;222353;2024;85,0;2,7;14,9;68,0;conforme;98156;7613;26;67;808;Non vérifié
+67558;Zinswiller;67;eau potable : ZINSWILLER;103983;2024;94,0;1,1;15,9;68,2;conforme;3377;3377;13;25;712;Non vérifié
+67559;Zittersheim;67;eau potable;104010;2024;84,8;1,1;5,9;66,2;conforme;44165;1861;22;71;232;Non vérifié

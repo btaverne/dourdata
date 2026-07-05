@@ -1,0 +1,360 @@
+﻿# DourData — eau perdue par les réseaux d'eau potable (indicateurs SISPEA)
+# Périmètre : Département 30
+# Source : SISPEA — Système d'Information des Services Publics d'Eau et d'Assainissement, via data.gouv.fr / services.eaufrance.fr
+# Licence : Licence Ouverte 2.0 (Etalab)
+# Millésime des données : 2020–2024 (année la plus récente disponible par commune)
+# Date de génération de l'export : 2026-07-05
+# Méthodologie et code : https://github.com/btaverne/dourdata
+# Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
+# Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
+30001;Aigaliers;30;eau potable;173303;2024;75,6;2,2;6,9;66,4;conforme;173448;12223;62;116;540;Non vérifié
+30002;Aigremont;30;eau potable;173304;2024;68,8;2,8;6,1;66,2;conforme;127750;19584;69;167;782;Non vérifié
+30003;Aigues-Mortes;30;eau potable;173310;2024;85,7;5,2;30,9;71,2;conforme;413954;171663;54;63;8699;Non vérifié
+30004;Aigues-Vives;30;eau potable;172913;2024;80,7;4,5;19,0;68,8;conforme;54564;54564;45;87;3331;Non vérifié
+30005;Aiguèze;30;eau potable : DSP 2023;338394;2024;58,9;4,7;6,8;66,4;non conforme;875145;9393;121;254;212;Non vérifié
+30006;Aimargues;30;eau potable;172915;2024;80,9;5,5;23,3;69,7;conforme;68275;68275;33;86;5705;Non vérifié
+30007;Alès;30;eau potable : commune d'ALES;294874;2024;64,3;15,6;28,0;70,6;non conforme;1366560;1366560;81;204;46125;Non vérifié
+30008;Allègre-les-Fumades;30;eau potable;173306;2024;72,2;2,1;5,5;66,1;conforme;108076;27161;74;138;1002;Non vérifié
+30009;Alzon;30;eau potable;213834;2024;49,0;1,7;1,6;65,3;non conforme;49671;14802;209;397;194;Non vérifié
+30010;Anduze;30;eau potable : ex SIAEP de l'AVENE;173369;2024;76,4;7,6;24,7;69,9;conforme;2068849;162380;131;271;3391;Non vérifié
+30011;Les Angles;30;eau potable : Villeneuve-Angles;211834;2024;73,8;10,3;28,9;70,8;conforme;627836;253571;78;130;8908;Non vérifié
+30012;Aramon;30;eau potable;172922;2024;57,9;10,7;14,7;67,9;non conforme;180200;180200;121;265;4081;Non vérifié
+30013;Argilliers;30;eau potable;173307;2024;74,0;3,4;9,6;66,9;conforme;110772;9615;60;129;436;Non vérifié
+30014;Arpaillargues-et-Aureillac;30;eau potable;173303;2024;75,6;2,2;6,9;66,4;conforme;173448;23517;62;116;1039;Non vérifié
+30015;Arphy;30;eau potable;172925;2024;61,6;1,1;1,7;65,3;non conforme;5842;5842;115;233;139;Non vérifié
+30016;Arre;30;eau potable;172926;2024;63,6;5,8;10,2;67,0;non conforme;9167;9167;100;209;252;Sans anomalie apparente
+30017;Arrigas;30;eau potable;172927;2024;75,0;0,7;2,0;65,4;conforme;3398;3398;43;128;219;Non vérifié
+30018;Aspères;30;eau potable;172928;2024;95,0;0,6;10,5;67,1;conforme;1958;1958;10;21;563;Non vérifié
+30019;Aubais;30;eau potable;172930;2020;72,5;5,8;15,4;68,1;conforme;67130;67130;63;137;2925;Sans anomalie apparente
+30020;Aubord;30;eau potable;172932;2024;58,3;10,8;15,1;68,0;non conforme;64373;64373;78;262;2253;Non vérifié
+30021;Aubussargues;30;eau potable;173303;2024;75,6;2,2;6,9;66,4;conforme;173448;7537;62;116;333;Non vérifié
+30022;Aujac;30;eau potable : commune d'AUJAC;294654;2024;68,8;0,6;1,4;65,3;conforme;4468;4468;83;156;147;Non vérifié
+30023;Aujargues;30;eau potable;173358;2024;69,5;4,7;10,7;67,1;conforme;108814;17723;60;160;815;Non vérifié
+30024;Aulas;30;eau potable;172936;2024;58,3;3,9;5,5;66,1;non conforme;17851;17851;107;260;456;Non vérifié
+30025;Aumessas;30;eau potable;172937;2024;84,8;1,2;6,8;66,4;conforme;3175;3175;33;64;263;Sans anomalie apparente
+30026;Avèze;30;eau potable;172939;2024;58,9;5,5;7,8;66,6;non conforme;46975;46975;122;256;1053;Non vérifié
+30027;Bagard;30;eau potable : ex SIAEP de l'AVENE;173369;2024;76,4;7,6;24,7;69,9;conforme;2068849;124742;131;271;2605;Non vérifié
+30028;Bagnols-sur-Cèze;30;eau potable : de BAGNOLS sur CEZE;172941;2024;84,6;4,2;23,0;69,6;conforme;199213;199213;30;67;18112;Non vérifié
+30029;Barjac;30;eau potable;173312;2024;71,0;2,0;4,9;66,0;conforme;223263;62774;107;150;1608;Non vérifié
+30030;Baron;30;eau potable;173303;2024;75,6;2,2;6,9;66,4;conforme;173448;7628;62;116;337;Non vérifié
+30031;La Bastide-d'Engras;30;eau potable;172944;2024;92,4;0,8;10,2;67,0;conforme;1734;1734;23;32;205;Non vérifié
+30033;Beauvoisin;30;eau potable;172947;2024;77,4;6,5;22,3;69,5;conforme;80475;80475;36;107;6066;Non vérifié
+30034;Bellegarde;30;eau potable;172949;2024;65,2;12,0;22,5;69,5;non conforme;262800;262800;90;195;8035;Non vérifié
+30035;Belvézet;30;eau potable;173303;2024;75,6;2,2;6,9;66,4;conforme;173448;5659;62;116;250;Non vérifié
+30036;Bernis;30;eau potable : des communes de Nîmes Métropole;209838;2024;74,0;9,1;26,0;70,2;conforme;5767120;72285;60;135;3286;Non vérifié
+30037;Bessèges;30;eau potable;172951;2024;53,4;12,8;14,7;67,9;non conforme;160436;160436;169;363;2606;Non vérifié
+30038;Bez-et-Esparon;30;eau potable;172953;2024;53,4;3,1;3,6;65,7;non conforme;13465;13465;110;317;335;Non vérifié
+30039;Bezouce;30;eau potable : des communes de Nîmes Métropole;209838;2024;74,0;9,1;26,0;70,2;conforme;5767120;51651;60;135;2348;Non vérifié
+30040;Blandas;30;eau potable;213834;2024;49,0;1,7;1,6;65,3;non conforme;49671;10911;209;397;143;Non vérifié
+30041;Blauzac;30;eau potable;172955;2024;86,1;1,8;11,2;67,2;conforme;15932;15932;35;59;1234;Non vérifié
+30042;Boisset-et-Gaujac;30;eau potable : ex SIAEP de l'AVENE;173369;2024;76,4;7,6;24,7;69,9;conforme;2068849;129626;131;271;2707;Non vérifié
+30043;Boissières;30;eau potable;173302;2024;79,7;6,2;24,6;69,9;conforme;271515;8198;38;155;588;Non vérifié
+30044;Bonnevaux;30;eau potable : commune de BONNEVAUX;294674;2024;99,2;0,0;1,3;65,3;conforme;0;0;0;0;78;Non vérifié
+30045;Bordezac;30;eau potable;172961;2024;31,4;7,9;3,6;65,7;non conforme;37486;37486;265;798;387;Non vérifié
+30046;Boucoiran-et-Nozières;30;eau potable : ex SIAEP de BOUCOIRAN-BRIGNON-CRUVIERS;173339;2024;79,8;2,2;8,9;66,8;conforme;36135;14927;41;91;991;Non vérifié
+30047;Bouillargues;30;eau potable : des communes de Nîmes Métropole;209838;2024;74,0;9,1;26,0;70,2;conforme;5767120;133526;60;135;6070;Non vérifié
+30048;Bouquet;30;eau potable;172965;2024;73,4;0,9;2,6;65,5;conforme;4862;4862;67;127;198;Non vérifié
+30049;Bourdic;30;eau potable;173303;2024;75,6;2,2;6,9;66,4;conforme;173448;8126;62;116;359;Non vérifié
+30050;Bragassargues;30;eau potable;172966;2024;100,0;0,0;11,3;67,3;conforme;0;0;0;0;169;Non vérifié
+30051;Branoux-les-Taillades;30;eau potable : ex SIAEP GRAND'COMBIENNE;294614;2024;59,6;4,5;6,7;66,3;non conforme;296800;35453;76;246;1278;Non vérifié
+30052;Bréau-Mars;30;eau potable (MARS);173082;2024;84,4;2,7;14,5;67,9;conforme;3183;3183;13;68;689;Non vérifié
+30053;Brignon;30;eau potable : ex SIAEP de BOUCOIRAN-BRIGNON-CRUVIERS;173339;2024;79,8;2,2;8,9;66,8;conforme;36135;10559;41;91;701;Non vérifié
+30054;Brouzet-lès-Quissac;30;eau potable;173313;2024;69,9;3,1;7,2;66,4;conforme;34986;8418;77;157;301;Non vérifié
+30055;Brouzet-lès-Alès;30;eau potable : commune de BROUZET les ALES;294694;2024;85,8;1,8;11,0;67,2;conforme;6833;6833;28;60;670;Non vérifié
+30056;La Bruguière;30;eau potable;173314;2024;71,7;2,6;6,6;66,3;conforme;39289;10057;83;145;332;Non vérifié
+30057;Cabrières;30;eau potable : des communes de Nîmes Métropole;209838;2024;74,0;9,1;26,0;70,2;conforme;5767120;39970;60;135;1817;Non vérifié
+30058;La Cadière-et-Cambo;30;eau potable;172975;2024;91,8;0,2;2,0;65,4;conforme;1606;1606;19;36;230;Non vérifié
+30059;Le Cailar;30;eau potable;172977;2024;78,4;7,2;26,1;70,2;conforme;32955;32955;35;101;2578;Non vérifié
+30060;Caissargues;30;eau potable : des communes de Nîmes Métropole;209838;2024;74,0;9,1;26,0;70,2;conforme;5767120;89729;60;135;4079;Non vérifié
+30061;La Calmette;30;eau potable : des communes de Nîmes Métropole;209838;2024;74,0;9,1;26,0;70,2;conforme;5767120;57282;60;135;2604;Non vérifié
+30062;Calvisson;30;eau potable;173302;2024;79,7;6,2;24,6;69,9;conforme;271515;90431;38;155;6486;Non vérifié
+30064;Campestre-et-Luc;30;eau potable;213834;2024;49,0;1,7;1,6;65,3;non conforme;49671;12437;209;397;163;Non vérifié
+30065;Canaules-et-Argentières;30;eau potable : Territoire n°1;172984;2024;74,8;2,4;7,0;66,4;conforme;10144;10144;59;125;475;Non vérifié
+30066;Cannes-et-Clairan;30;eau potable;173316;2024;71,4;2,8;7,0;66,4;conforme;75066;8338;37;146;617;Non vérifié
+30067;La Capelle-et-Masmolène;30;eau potable;172987;2024;75,9;2,1;6,5;66,3;conforme;11444;11444;71;118;441;Non vérifié
+30068;Cardet;30;eau potable;172989;2024;47,8;17,7;16,2;68,2;non conforme;101430;101430;298;400;933;Non vérifié
+30069;Carnas;30;eau potable;173317;2024;75,6;1,8;5,7;66,1;conforme;35478;8547;44;115;537;Non vérifié
+30070;Carsan;30;eau potable : DSP 2023;338394;2024;58,9;4,7;6,8;66,4;non conforme;875145;34026;121;254;768;Non vérifié
+30071;Cassagnoles;30;eau potable;173304;2024;68,8;2,8;6,1;66,2;conforme;127750;11445;69;167;457;Non vérifié
+30072;Castelnau-Valence;30;eau potable;173303;2024;75,6;2,2;6,9;66,4;conforme;173448;10616;62;116;469;Non vérifié
+30073;Castillon-du-Gard;30;eau potable;173307;2024;74,0;3,4;9,6;66,9;conforme;110772;37380;60;129;1695;Non vérifié
+30074;Causse-Bégon;30;eau potable : Causse Bégon;324934;2024;85,7;0,2;1,1;65,2;conforme;584;584;64;69;25;Non vérifié
+30075;Caveirac;30;eau potable : des communes de Nîmes Métropole;209838;2024;74,0;9,1;26,0;70,2;conforme;5767120;96966;60;135;4408;Non vérifié
+30076;Cavillargues;30;eau potable : DSP 2023;338394;2024;58,9;4,7;6,8;66,4;non conforme;875145;37614;121;254;849;Non vérifié
+30077;Cendras;30;eau potable : ex SIAEP GRAND'COMBIENNE;294614;2024;59,6;4,5;6,7;66,3;non conforme;296800;44358;76;246;1599;Non vérifié
+30079;Chambon;30;eau potable : ex SIAEP du LUECH;294714;2024;47,9;4,1;3,8;65,8;non conforme;141868;14482;153;411;260;Non vérifié
+30080;Chamborigaud;30;eau potable : ex SIAEP du LUECH;294714;2024;47,9;4,1;3,8;65,8;non conforme;141868;49239;153;411;884;Non vérifié
+30081;Chusclan;30;eau potable : de CHUSCLAN;173002;2024;62,9;8,5;14,4;67,9;non conforme;42473;42473;119;215;980;Non vérifié
+30082;Clarensac;30;eau potable : des communes de Nîmes Métropole;209838;2024;74,0;9,1;26,0;70,2;conforme;5767120;96482;60;135;4386;Non vérifié
+30083;Codognan;30;eau potable;173318;2024;72,1;8,3;21,5;69,3;conforme;206945;52531;57;141;2529;Non vérifié
+30084;Codolet;30;eau potable : DSP 2023;338394;2024;58,9;4,7;6,8;66,4;non conforme;875145;26450;121;254;597;Non vérifié
+30085;Collias;30;eau potable;173006;2024;78,6;3,2;11,8;67,4;conforme;19856;19856;50;99;1095;Non vérifié
+30086;Collorgues;30;eau potable;173303;2024;75,6;2,2;6,9;66,4;conforme;173448;15188;62;116;671;Non vérifié
+30087;Colognac;30;eau potable;173009;2024;100,0;0,0;10,0;67,0;conforme;0;0;0;0;190;Non vérifié
+30088;Combas;30;eau potable;173316;2024;71,4;2,8;7,0;66,4;conforme;75066;10540;37;146;780;Non vérifié
+30089;Comps;30;eau potable;173012;2024;61,6;14,1;22,6;69,5;non conforme;57641;57641;94;228;1688;Non vérifié
+30090;Concoules;30;eau potable : communes de CONCOULES et de SENECHAS;294734;2024;49,1;2,8;2,7;65,5;non conforme;47523;25122;248;384;277;Non vérifié
+30091;Congénies;30;eau potable;173302;2024;79,7;6,2;24,6;69,9;conforme;271515;22545;38;155;1617;Non vérifié
+30092;Connaux;30;eau potable : ex MAISON de l'EAU;296294;2024;70,3;5,8;13,8;67,8;conforme;387856;43332;70;153;1705;Non vérifié
+30093;Conqueyrac;30;eau potable;173017;2024;59,2;1,2;1,8;65,4;non conforme;6132;6132;144;244;117;Non vérifié
+30094;Corbès;30;eau potable : commune de CORBES;294695;2024;78,5;1,2;4,5;65,9;conforme;3723;3723;68;97;150;Non vérifié
+30095;Corconne;30;eau potable;173313;2024;69,9;3,1;7,2;66,4;conforme;34986;17339;77;157;620;Non vérifié
+30096;Cornillon;30;eau potable : de CORNILLON;187615;2024;80,4;1,7;6,8;66,4;conforme;15016;15016;46;92;897;Non vérifié
+30097;Courry;30;eau potable;173362;2023;85,8;1,2;7,3;66,5;conforme;3285;3285;32;60;281;Sans anomalie apparente
+30098;Crespian;30;eau potable;173316;2024;71,4;2,8;7,0;66,4;conforme;75066;7054;37;146;522;Non vérifié
+30099;Cros;30;eau potable;173022;2024;50,5;1,9;1,9;65,4;non conforme;9986;9986;103;358;265;Non vérifié
+30100;Cruviers-Lascours;30;eau potable : ex SIAEP de BOUCOIRAN-BRIGNON-CRUVIERS;173339;2024;79,8;2,2;8,9;66,8;conforme;36135;10649;41;91;707;Non vérifié
+30101;Deaux;30;eau potable : ex SIAEP de la MAYRE;173345;2024;77,6;3,3;11,5;67,3;conforme;56672;14445;62;105;638;Non vérifié
+30102;Dions;30;eau potable : des communes de Nîmes Métropole;209838;2024;74,0;9,1;26,0;70,2;conforme;5767120;11593;60;135;527;Non vérifié
+30103;Domazan;30;eau potable;173357;2024;73,3;5,6;15,2;68,0;conforme;335502;25036;71;134;960;Non vérifié
+30104;Domessargues;30;eau potable;173304;2024;68,8;2,8;6,1;66,2;conforme;127750;19584;69;167;782;Non vérifié
+30105;Dourbies;30;eau potable : L'Espérou;325114;2024;44,5;3,1;2,5;65,5;non conforme;15275;1702;26;455;177;Non vérifié
+30106;Durfort-et-Saint-Martin-de-Sossenac;30;eau potable;173031;2024;90,9;1,7;16,6;68,3;conforme;6826;6826;25;37;756;Non vérifié
+30107;Estézargues;30;eau potable;173357;2024;73,3;5,6;15,2;68,0;conforme;335502;15778;71;134;605;Non vérifié
+30108;L' Estréchure;30;eau potable : Saumane - L'Estréchure;324994;2024;46,5;3,4;3,0;65,6;non conforme;24200;8049;146;417;151;Non vérifié
+30109;Euzet;30;eau potable : ex SIAEP de la DROUDE;294854;2024;56,6;4,6;6,0;66,2;non conforme;147752;20073;108;279;510;Non vérifié
+30110;Flaux;30;eau potable;173036;2024;78,2;2,6;9,3;66,9;conforme;9196;9196;75;102;336;Non vérifié
+30111;Foissac;30;eau potable;173303;2024;75,6;2,2;6,9;66,4;conforme;173448;10072;62;116;445;Non vérifié
+30112;Fons;30;eau potable : des communes de Nîmes Métropole;209838;2024;74,0;9,1;26,0;70,2;conforme;5767120;38166;60;135;1735;Non vérifié
+30113;Fons-sur-Lussan;30;eau potable;173351;2024;79,7;1,4;5,5;66,1;conforme;26061;6842;78;108;241;Non vérifié
+30114;Fontanès;30;eau potable;173316;2024;71,4;2,8;7,0;66,4;conforme;75066;9459;37;146;700;Non vérifié
+30115;Fontarèches;30;eau potable;173314;2024;71,7;2,6;6,6;66,3;conforme;39289;7755;83;145;256;Non vérifié
+30116;Fournès;30;eau potable;173041;2024;68,1;5,5;11,7;67,3;conforme;32963;32963;86;172;1047;Non vérifié
+30117;Fourques;30;eau potable;173043;2024;78,4;2,2;7,9;66,6;conforme;38962;38962;40;102;2680;Non vérifié
+30119;Fressac;30;eau potable;173045;2024;87,6;0,4;2,8;65,6;conforme;1394;1394;23;52;163;Non vérifié
+30120;Gagnières;30;eau potable;173370;2024;100,0;2,0;14,4;67,9;conforme;8030;8030;20;51;1102;Non vérifié
+30121;Gailhan;30;eau potable;173317;2024;75,6;1,8;5,7;66,1;conforme;35478;4982;44;115;313;Non vérifié
+30122;Gajan;30;eau potable : des communes de Nîmes Métropole;209838;2024;74,0;9,1;26,0;70,2;conforme;5767120;17356;60;135;789;Non vérifié
+30123;Gallargues-le-Montueux;30;eau potable;173049;2023;86,1;4,8;29,9;71,0;conforme;51053;51053;38;59;3659;Sans anomalie apparente
+30124;Le Garn;30;eau potable : Montclus, Le Garn et Issirac;344974;2024;70,9;2,0;0,6;65,1;conforme;223380;79635;788;1192;277;Non vérifié
+30125;Garons;30;eau potable : des communes de Nîmes Métropole;209838;2024;74,0;9,1;26,0;70,2;conforme;5767120;118370;60;135;5381;Non vérifié
+30126;Garrigues-Sainte-Eulalie;30;eau potable;173303;2024;75,6;2,2;6,9;66,4;conforme;173448;17564;62;116;776;Non vérifié
+30127;Gaujac;30;eau potable : ex MAISON de l'EAU;296294;2024;70,3;5,8;13,8;67,8;conforme;387856;28693;70;153;1129;Non vérifié
+30128;Générac;30;eau potable : des communes de Nîmes Métropole;209838;2024;74,0;9,1;26,0;70,2;conforme;5767120;89003;60;135;4046;Non vérifié
+30129;Générargues;30;eau potable : commune de GENERARGUES;294696;2024;83,0;1,2;5,8;66,2;conforme;8891;8891;34;75;727;Non vérifié
+30130;Génolhac;30;eau potable : commune de GENOLHAC;294774;2024;57,3;3,1;4,2;65,8;non conforme;41300;41300;139;269;815;Non vérifié
+30131;Goudargues;30;eau potable : de GOUDARGUES;187618;2024;87,1;1,4;8,5;66,7;conforme;13797;13797;34;60;1125;Non vérifié
+30132;La Grand-Combe;30;eau potable : ex SIAEP GRAND'COMBIENNE;294614;2024;59,6;4,5;6,7;66,3;non conforme;296800;132685;76;246;4783;Non vérifié
+30133;Le Grau-du-Roi;30;eau potable;173310;2024;85,7;5,2;30,9;71,2;conforme;413954;169473;54;63;8588;Non vérifié
+30134;Issirac;30;eau potable : Montclus, Le Garn et Issirac;344974;2024;70,9;2,0;0,6;65,1;conforme;223380;92284;788;1192;321;Non vérifié
+30135;Jonquières-Saint-Vincent;30;eau potable;173058;2024;71,6;7,2;18,1;68,6;conforme;61889;61889;44;146;3875;Non vérifié
+30136;Junas;30;eau potable;173358;2024;69,5;4,7;10,7;67,1;conforme;108814;29204;60;160;1343;Non vérifié
+30137;Lamelouze;30;eau potable : commune de LAMELOUZE;294794;2024;84,3;0,2;0,9;65,2;conforme;1212;1212;24;82;139;Non vérifié
+30138;Langlade;30;eau potable : des communes de Nîmes Métropole;209838;2024;74,0;9,1;26,0;70,2;conforme;5767120;51233;60;135;2329;Non vérifié
+30139;Lanuéjols;30;eau potable;132743;2024;81,2;0,3;1,2;65,2;conforme;17082;241;2;93;341;Non vérifié
+30140;Lasalle;30;eau potable : Lasalle;324955;2024;65,2;5,6;10,6;67,1;non conforme;30660;30660;70;194;1202;Non vérifié
+30141;Laudun-l'Ardoise;30;eau potable : ex MAISON de l'EAU;296294;2024;70,3;5,8;13,8;67,8;conforme;387856;173710;70;153;6835;Non vérifié
+30142;Laval-Pradel;30;eau potable : commune de LAVAL PRADEL;173066;2024;71,4;2,8;6,9;66,4;conforme;45336;45336;110;210;1125;Non vérifié
+30143;Laval-Saint-Roman;30;eau potable : DSP 2023;338394;2024;58,9;4,7;6,8;66,4;non conforme;875145;9437;121;254;213;Non vérifié
+30144;Lecques;30;eau potable;173316;2024;71,4;2,8;7,0;66,4;conforme;75066;6392;37;146;473;Non vérifié
+30145;Lédenon;30;eau potable : des communes de Nîmes Métropole;209838;2024;74,0;9,1;26,0;70,2;conforme;5767120;37066;60;135;1685;Non vérifié
+30146;Lédignan;30;eau potable;173070;2024;52,1;11,4;12,4;67,5;non conforme;87381;87381;158;336;1516;Non vérifié
+30147;Lézan;30;eau potable : commune de LEZAN;173072;2024;69,1;6,5;14,5;67,9;conforme;39217;39217;69;163;1561;Non vérifié
+30148;Liouc;30;eau potable;173313;2024;69,9;3,1;7,2;66,4;conforme;34986;9229;77;157;330;Non vérifié
+30149;Lirac;30;eau potable : ex SIVOM de LIRAC;296154;2024;59,5;9,1;13,1;67,6;non conforme;326802;36756;105;254;955;Non vérifié
+30150;Logrian-Florian;30;eau potable;173350;2024;76,3;1,2;3,8;65,8;non calculable;13171;5792;59;116;270;Non vérifié
+30151;Lussan;30;eau potable;173351;2024;79,7;1,4;5,5;66,1;conforme;26061;15472;78;108;545;Non vérifié
+30152;Les Mages;30;eau potable : ex SIAEP des MAGES;294814;2024;59,3;5,9;8,6;66,7;non conforme;106168;82964;108;249;2106;Non vérifié
+30153;Malons-et-Elze;30;eau potable;173077;2023;79,9;0,4;1,7;65,3;conforme;423;423;10;86;111;Sans anomalie apparente
+30154;Mandagout;30;eau potable;173078;2024;60,2;2,3;3,4;65,7;non conforme;13432;13432;100;246;368;Non vérifié
+30155;Manduel;30;eau potable : des communes de Nîmes Métropole;209838;2024;74,0;9,1;26,0;70,2;conforme;5767120;154952;60;135;7044;Non vérifié
+30156;Marguerittes;30;eau potable : des communes de Nîmes Métropole;209838;2024;74,0;9,1;26,0;70,2;conforme;5767120;183593;60;135;8346;Non vérifié
+30158;Martignargues;30;eau potable : ex SIAEP de la DROUDE;294854;2024;56,6;4,6;6,0;66,2;non conforme;147752;17278;108;279;439;Non vérifié
+30159;Le Martinet;30;eau potable : ex SIAEP du LUECH;294714;2024;47,9;4,1;3,8;65,8;non conforme;141868;40048;153;411;719;Non vérifié
+30160;Maruéjols-lès-Gardon;30;eau potable;173304;2024;68,8;2,8;6,1;66,2;conforme;127750;6486;69;167;259;Non vérifié
+30161;Massanes;30;eau potable : ex SIAEP de l'AVENE;173369;2024;76,4;7,6;24,7;69,9;conforme;2068849;8811;131;271;184;Non vérifié
+30162;Massillargues-Attuech;30;eau potable : ex SIAEP de TORNAC - MASSILLARGUES;294856;2024;67,5;2,6;5,3;66,1;conforme;49538;20587;84;178;672;Non vérifié
+30163;Mauressargues;30;eau potable;173304;2024;68,8;2,8;6,1;66,2;conforme;127750;4708;69;167;188;Non vérifié
+30164;Méjannes-le-Clap;30;eau potable;210883;2024;69,1;3,6;8,0;66,6;conforme;55503;55503;207;165;733;Non vérifié
+30165;Méjannes-lès-Alès;30;eau potable : ex SIAEP de l'AVENE;173369;2024;76,4;7,6;24,7;69,9;conforme;2068849;59522;131;271;1243;Non vérifié
+30166;Meynes;30;eau potable;173092;2024;66,4;8,8;17,4;68,5;non conforme;61703;61703;65;184;2597;Non vérifié
+30167;Meyrannes;30;eau potable;173094;2024;57,1;5,7;7,5;66,5;non conforme;27047;27047;94;276;792;Non vérifié
+30168;Mialet;30;eau potable : commune de MIALET;294815;2024;53,7;2,7;3,1;65,6;non conforme;31339;31339;137;320;628;Non vérifié
+30169;Milhaud;30;eau potable : des communes de Nîmes Métropole;209838;2024;74,0;9,1;26,0;70,2;conforme;5767120;138520;60;135;6297;Non vérifié
+30170;Molières-Cavaillac;30;eau potable;173099;2024;62,9;5,2;8,8;66,8;non conforme;38340;38340;116;216;905;Non vérifié
+30171;Molières-sur-Cèze;30;eau potable;173100;2024;73,6;3,9;10,8;67,2;conforme;30506;30506;71;132;1176;Non vérifié
+30172;Monoblet;30;eau potable;173102;2024;68,3;1,7;3,7;65,7;conforme;18615;18615;65;167;787;Non vérifié
+30173;Mons;30;eau potable : ex SIAEP de l'AVENE;173369;2024;76,4;7,6;24,7;69,9;conforme;2068849;86817;131;271;1813;Non vérifié
+30174;Montaren-et-Saint-Médiers;30;eau potable;173303;2024;75,6;2,2;6,9;66,4;conforme;173448;31620;62;116;1397;Non vérifié
+30175;Montclus;30;eau potable : Montclus, Le Garn et Issirac;344974;2024;70,9;2,0;0,6;65,1;conforme;223380;51461;788;1192;179;Non vérifié
+30176;Montdardier;30;eau potable;173104;2024;57,4;1,7;2,3;65,5;non conforme;13136;13136;172;265;209;Non vérifié
+30177;Monteils;30;eau potable : ex SIAEP de l'AVENE;173369;2024;76,4;7,6;24,7;69,9;conforme;2068849;33137;131;271;692;Non vérifié
+30178;Montfaucon;30;eau potable : DSP 2023;338394;2024;58,9;4,7;6,8;66,4;non conforme;875145;68229;121;254;1540;Non vérifié
+30179;Montfrin;30;eau potable;173109;2024;65,3;11,6;21,7;69,3;non conforme;109322;109322;96;195;3122;Non vérifié
+30180;Montignargues;30;eau potable : des communes de Nîmes Métropole;209838;2024;74,0;9,1;26,0;70,2;conforme;5767120;12231;60;135;556;Non vérifié
+30181;Montmirat;30;eau potable;173316;2024;71,4;2,8;7,0;66,4;conforme;75066;6338;37;146;469;Non vérifié
+30182;Montpezat;30;eau potable;173316;2024;71,4;2,8;7,0;66,4;conforme;75066;18946;37;146;1402;Non vérifié
+30183;Moulézan;30;eau potable;173304;2024;68,8;2,8;6,1;66,2;conforme;127750;15953;69;167;637;Non vérifié
+30184;Moussac;30;eau potable;173115;2024;60,2;9,0;13,6;67,7;non conforme;66390;66390;116;241;1564;Non vérifié
+30185;Mus;30;eau potable;173318;2024;72,1;8,3;21,5;69,3;conforme;206945;34190;57;141;1646;Non vérifié
+30186;Nages-et-Solorgues;30;eau potable;173302;2024;79,7;6,2;24,6;69,9;conforme;271515;30841;38;155;2212;Non vérifié
+30187;Navacelles;30;eau potable : Navacelles;299794;2024;66,8;2,6;5,3;66,1;conforme;9680;9680;84;180;317;Non vérifié
+30188;Ners;30;eau potable : ex SIAEP de la DROUDE;294854;2024;56,6;4,6;6,0;66,2;non conforme;147752;32668;108;279;830;Non vérifié
+30189;Nîmes;30;eau potable : des communes de Nîmes Métropole;209838;2024;74,0;9,1;26,0;70,2;conforme;5767120;3340112;60;135;151839;Non vérifié
+30191;Orsan;30;eau potable : DSP 2023;338394;2024;58,9;4,7;6,8;66,4;non conforme;875145;52722;121;254;1190;Non vérifié
+30192;Orthoux-Sérignac-Quilhan;30;eau potable;173317;2024;75,6;1,8;5,7;66,1;conforme;35478;7003;44;115;440;Non vérifié
+30193;Parignargues;30;eau potable : principal;173127;2024;58,1;8,1;11,3;67,3;non conforme;31930;31930;139;261;629;Non vérifié
+30194;Peyremale;30;eau potable;173129;2024;85,3;0,7;3,9;65,8;conforme;3424;3424;34;65;272;Non vérifié
+30195;Peyrolles-en-Cévennes;30;eau potable : Peyrolles;325014;2024;68,6;0,7;1,5;65,3;conforme;766;766;70;171;30;Non vérifié
+30196;Le Pin;30;eau potable : ex MAISON de l'EAU;296294;2024;70,3;5,8;13,8;67,8;conforme;387856;12047;70;153;474;Non vérifié
+30197;Les Plans;30;eau potable : ex SIAEP de l'AVENE;173369;2024;76,4;7,6;24,7;69,9;conforme;2068849;13983;131;271;292;Non vérifié
+30198;Les Plantiers;30;eau potable : Les Plantiers;324974;2024;71,8;0,6;1,6;65,3;conforme;5497;5497;66;135;228;Non vérifié
+30199;Pommiers;30;eau potable;173134;2024;100,0;0,0;2,2;65,4;conforme;0;0;0;0;58;Non vérifié
+30200;Pompignan;30;eau potable;173135;2024;75,0;2,6;7,9;66,6;conforme;23725;23725;72;153;908;Non vérifié
+30201;Ponteils-et-Brésis;30;eau potable;173137;2024;70,7;0,7;1,6;65,3;conforme;6388;6388;48;158;365;Non vérifié
+30202;Pont-Saint-Esprit;30;eau potable : de PONT SAINT ESPRIT;173138;2024;70,0;6,5;15,1;68,0;conforme;228235;228235;57;157;10958;Non vérifié
+30203;Portes;30;eau potable : ex SIAEP du LUECH;294714;2024;47,9;4,1;3,8;65,8;non conforme;141868;17824;153;411;320;Non vérifié
+30204;Potelières;30;eau potable;173306;2024;72,2;2,1;5,5;66,1;conforme;108076;9840;74;138;363;Non vérifié
+30205;Pougnadoresse;30;eau potable;173141;2024;85,6;0,9;5,4;66,1;conforme;2792;2792;28;60;271;Non vérifié
+30206;Poulx;30;eau potable : des communes de Nîmes Métropole;209838;2024;74,0;9,1;26,0;70,2;conforme;5767120;95646;60;135;4348;Non vérifié
+30207;Pouzilhac;30;eau potable;173144;2024;39,9;13,6;9,1;66,8;non conforme;60511;60511;219;548;756;Non vérifié
+30208;Puechredon;30;eau potable;173304;2024;68,8;2,8;6,1;66,2;conforme;127750;1227;69;167;49;Non vérifié
+30209;Pujaut;30;eau potable : Pujaut Sauveterre;213046;2024;75,4;4,7;14,3;67,9;conforme;149248;98936;68;120;3982;Non vérifié
+30210;Quissac;30;eau potable;173148;2024;77,4;7,1;24,5;69,9;conforme;62896;62896;49;106;3528;Non vérifié
+30211;Redessan;30;eau potable : des communes de Nîmes Métropole;209838;2024;74,0;9,1;26,0;70,2;conforme;5767120;92632;60;135;4211;Non vérifié
+30212;Remoulins;30;eau potable;173327;2024;73,0;6,3;17,0;68,4;conforme;75677;56044;67;135;2278;Non vérifié
+30213;Revens;30;eau potable;132743;2024;81,2;0,3;1,2;65,2;conforme;17082;26;2;93;37;Non vérifié
+30214;Ribaute-les-Tavernes;30;eau potable : ex SIAEP de l'AVENE;173369;2024;76,4;7,6;24,7;69,9;conforme;2068849;97687;131;271;2040;Non vérifié
+30215;Rivières;30;eau potable;173306;2024;72,2;2,1;5,5;66,1;conforme;108076;11304;74;138;417;Non vérifié
+30216;Robiac-Rochessadoule;30;eau potable;173153;2024;52,7;5,2;5,8;66,2;non conforme;32266;32266;106;330;832;Sans anomalie apparente
+30217;Rochefort-du-Gard;30;eau potable;173357;2024;73,3;5,6;15,2;68,0;conforme;335502;211681;71;134;8117;Non vérifié
+30218;Rochegude;30;eau potable;173306;2024;72,2;2,1;5,5;66,1;conforme;108076;6587;74;138;243;Non vérifié
+30219;Rogues;30;eau potable;213834;2024;49,0;1,7;1,6;65,3;non conforme;49671;6333;209;397;83;Non vérifié
+30220;Roquedur;30;eau potable;173157;2024;5,3;2,2;0,1;65,0;non conforme;12045;12045;124;6562;266;Non vérifié
+30221;Roquemaure;30;eau potable : Roquemaure;173158;2024;72,2;7,4;19,1;68,8;conforme;121464;121464;60;141;5529;Non vérifié
+30222;La Roque-sur-Cèze;30;eau potable : de LA ROQUE sur CEZE;187623;2024;77,7;1,5;5,2;66,0;conforme;5787;5787;92;105;172;Non vérifié
+30223;Rousson;30;eau potable : ex SIAEP de l'AVENE;173369;2024;76,4;7,6;24,7;69,9;conforme;2068849;213378;131;271;4456;Non vérifié
+30224;La Rouvière;30;eau potable : des communes de Nîmes Métropole;209838;2024;74,0;9,1;26,0;70,2;conforme;5767120;15244;60;135;693;Non vérifié
+30225;Sabran;30;eau potable : DSP 2023;338394;2024;58,9;4,7;6,8;66,4;non conforme;875145;70488;121;254;1591;Non vérifié
+30226;Saint-Alexandre;30;eau potable : DSP 2023;338394;2024;58,9;4,7;6,8;66,4;non conforme;875145;55159;121;254;1245;Non vérifié
+30227;Saint-Ambroix;30;eau potable;173166;2024;62,7;9,3;15,6;68,1;non conforme;139174;139174;111;234;3445;Non vérifié
+30228;Sainte-Anastasie;30;eau potable : des communes de Nîmes Métropole;209838;2024;74,0;9,1;26,0;70,2;conforme;5767120;38232;60;135;1738;Non vérifié
+30229;Saint-André-de-Majencoules;30;eau potable : St André de Majencoules;325034;2024;58,1;3,9;5,4;66,1;non conforme;36299;36299;166;307;599;Non vérifié
+30230;Saint-André-de-Roquepertuis;30;eau potable : DSP 2023;338394;2024;58,9;4,7;6,8;66,4;non conforme;875145;24899;121;254;562;Non vérifié
+30231;Saint-André-de-Valborgne;30;eau potable : St André de Valborgne;325054;2024;45,2;5,3;4,4;65,9;non conforme;69449;69449;520;443;366;Non vérifié
+30232;Saint-André-d'Olérargues;30;eau potable : ex SIVOM de LIRAC;296154;2024;59,5;9,1;13,1;67,6;non conforme;326802;17050;105;254;443;Non vérifié
+30233;Saint-Bauzély;30;eau potable : des communes de Nîmes Métropole;209838;2024;74,0;9,1;26,0;70,2;conforme;5767120;14914;60;135;678;Non vérifié
+30234;Saint-Bénézet;30;eau potable;173304;2024;68,8;2,8;6,1;66,2;conforme;127750;7263;69;167;290;Non vérifié
+30235;Saint-Bonnet-du-Gard;30;eau potable;173327;2024;73,0;6,3;17,0;68,4;conforme;75677;19633;67;135;798;Non vérifié
+30236;Saint-Bonnet-de-Salendrinque;30;eau potable : SIAEP de Lasalle;173349;2024;60,3;1,7;2,6;65,5;non conforme;54604;2975;63;251;129;Non vérifié
+30237;Saint-Brès;30;eau potable;173312;2024;71,0;2,0;4,9;66,0;conforme;223263;27405;107;150;702;Non vérifié
+30238;Saint-Bresson;30;eau potable;173178;2024;81,1;0,9;4,0;65,8;conforme;2628;2628;99;101;73;Non vérifié
+30239;Sainte-Cécile-d'Andorge;30;eau potable : ex SIAEP GRAND'COMBIENNE;294614;2024;59,6;4,5;6,7;66,3;non conforme;296800;14564;76;246;525;Non vérifié
+30240;Saint-Césaire-de-Gauzignan;30;eau potable : ex SIAEP de la DROUDE;294854;2024;56,6;4,6;6,0;66,2;non conforme;147752;15389;108;279;391;Non vérifié
+30241;Saint-Chaptes;30;eau potable : des communes de Nîmes Métropole;209838;2024;74,0;9,1;26,0;70,2;conforme;5767120;45205;60;135;2055;Non vérifié
+30242;Saint-Christol-de-Rodières;30;eau potable : DSP 2023;338394;2024;58,9;4,7;6,8;66,4;non conforme;875145;7089;121;254;160;Non vérifié
+30243;Saint-Christol-lès-Alès;30;eau potable : ex SIAEP de l'AVENE;173369;2024;76,4;7,6;24,7;69,9;conforme;2068849;350044;131;271;7310;Non vérifié
+30244;Saint-Clément;30;eau potable;173183;2024;90,9;1,4;13,9;67,8;conforme;2146;2146;16;37;364;Non vérifié
+30245;Saint-Côme-et-Maruéjols;30;eau potable : des communes de Nîmes Métropole;209838;2024;74,0;9,1;26,0;70,2;conforme;5767120;17554;60;135;798;Non vérifié
+30246;Sainte-Croix-de-Caderle;30;eau potable : SIAEP de Lasalle;173349;2024;60,3;1,7;2,6;65,5;non conforme;54604;2237;63;251;97;Non vérifié
+30247;Saint-Denis;30;eau potable;173306;2024;72,2;2,1;5,5;66,1;conforme;108076;8024;74;138;296;Non vérifié
+30248;Saint-Dézéry;30;eau potable;173303;2024;75,6;2,2;6,9;66,4;conforme;173448;10344;62;116;457;Non vérifié
+30249;Saint-Dionisy;30;eau potable : des communes de Nîmes Métropole;209838;2024;74,0;9,1;26,0;70,2;conforme;5767120;23274;60;135;1058;Non vérifié
+30250;Saint-Étienne-de-l'Olm;30;eau potable : ex SIAEP de la DROUDE;294854;2024;56,6;4,6;6,0;66,2;non conforme;147752;14917;108;279;379;Non vérifié
+30251;Saint-Étienne-des-Sorts;30;eau potable : DSP 2023;338394;2024;58,9;4,7;6,8;66,4;non conforme;875145;24146;121;254;545;Non vérifié
+30252;Saint-Félix-de-Pallières;30;eau potable : SIAEP de Lasalle;173349;2024;60,3;1,7;2,6;65,5;non conforme;54604;4473;63;251;194;Non vérifié
+30253;Saint-Florent-sur-Auzonnet;30;eau potable : commune de SAINT FLORENT sur AUZONNET;294795;2024;64,9;4,0;7,4;66,5;non conforme;31098;31098;70;216;1218;Non vérifié
+30254;Saint-Geniès-de-Comolas;30;eau potable : ex SIVOM de LIRAC;296154;2024;59,5;9,1;13,1;67,6;non conforme;326802;77515;105;254;2014;Non vérifié
+30255;Saint-Geniès-de-Malgoirès;30;eau potable : des communes de Nîmes Métropole;209838;2024;74,0;9,1;26,0;70,2;conforme;5767120;70943;60;135;3225;Non vérifié
+30256;Saint-Gervais;30;eau potable : DSP 2023;338394;2024;58,9;4,7;6,8;66,4;non conforme;875145;35488;121;254;801;Non vérifié
+30257;Saint-Gervasy;30;eau potable : des communes de Nîmes Métropole;209838;2024;74,0;9,1;26,0;70,2;conforme;5767120;43643;60;135;1984;Non vérifié
+30258;Saint-Gilles;30;eau potable : des communes de Nîmes Métropole;209838;2024;74,0;9,1;26,0;70,2;conforme;5767120;324114;60;135;14734;Non vérifié
+30259;Saint-Hilaire-de-Brethmas;30;eau potable : ex SIAEP de l'AVENE;173369;2024;76,4;7,6;24,7;69,9;conforme;2068849;223626;131;271;4670;Non vérifié
+30260;Saint-Hilaire-d'Ozilhan;30;eau potable;173307;2024;74,0;3,4;9,6;66,9;conforme;110772;24390;60;129;1106;Non vérifié
+30261;Saint-Hippolyte-de-Caton;30;eau potable : ex SIAEP de la DROUDE;294854;2024;56,6;4,6;6,0;66,2;non conforme;147752;11178;108;279;284;Non vérifié
+30262;Saint-Hippolyte-de-Montaigu;30;eau potable;173356;2024;67,6;4,5;9,4;66,9;conforme;26280;11819;132;174;246;Non vérifié
+30263;Saint-Hippolyte-du-Fort;30;eau potable;173201;2024;58,3;9,2;12,8;67,6;non conforme;161184;161184;118;262;3737;Non vérifié
+30264;Saint-Jean-de-Ceyrargues;30;eau potable : ex SIAEP de la DROUDE;294854;2024;56,6;4,6;6,0;66,2;non conforme;147752;6612;108;279;168;Non vérifié
+30265;Saint-Jean-de-Crieulon;30;eau potable;173350;2024;76,3;1,2;3,8;65,8;non calculable;13171;5663;59;116;264;Non vérifié
+30266;Saint-Jean-de-Maruéjols-et-Avéjan;30;eau potable;173306;2024;72,2;2,1;5,5;66,1;conforme;108076;24098;74;138;889;Non vérifié
+30267;Saint-Jean-de-Serres;30;eau potable : commune de SAINT JEAN de SERRES;294816;2024;75,5;2,9;8,9;66,8;conforme;9103;9103;46;119;542;Non vérifié
+30268;Saint-Jean-de-Valériscle;30;eau potable : ex SIAEP des MAGES;294814;2024;59,3;5,9;8,6;66,7;non conforme;106168;23203;108;249;589;Non vérifié
+30269;Saint-Jean-du-Gard;30;eau potable : commune de SAINT JEAN du GARD;294634;2024;63,5;3,9;6,8;66,4;non conforme;80285;80285;85;209;2586;Non vérifié
+30270;Saint-Jean-du-Pin;30;eau potable : ex SIAEP de l'AVENE;173369;2024;76,4;7,6;24,7;69,9;conforme;2068849;72211;131;271;1508;Non vérifié
+30271;Saint-Julien-de-Cassagnas;30;eau potable;173306;2024;72,2;2,1;5,5;66,1;conforme;108076;19897;74;138;734;Non vérifié
+30272;Saint-Julien-de-la-Nef;30;eau potable;173212;2024;37,3;3,4;2,0;65,4;non conforme;11417;11417;219;612;143;Non vérifié
+30273;Saint-Julien-de-Peyrolas;30;eau potable : DSP 2023;338394;2024;58,9;4,7;6,8;66,4;non conforme;875145;67830;121;254;1531;Non vérifié
+30274;Saint-Julien-les-Rosiers;30;eau potable : ex SIAEP de l'AVENE;173369;2024;76,4;7,6;24,7;69,9;conforme;2068849;169180;131;271;3533;Non vérifié
+30275;Saint-Just-et-Vacquières;30;eau potable : ex SIAEP de l'AVENE;173369;2024;76,4;7,6;24,7;69,9;conforme;2068849;15563;131;271;325;Non vérifié
+30276;Saint-Laurent-d'Aigouze;30;eau potable;173310;2024;85,7;5,2;30,9;71,2;conforme;413954;72817;54;63;3690;Non vérifié
+30277;Saint-Laurent-de-Carnols;30;eau potable : DSP 2023;338394;2024;58,9;4,7;6,8;66,4;non conforme;875145;24500;121;254;553;Non vérifié
+30278;Saint-Laurent-des-Arbres;30;eau potable : ex SIVOM de LIRAC;296154;2024;59,5;9,1;13,1;67,6;non conforme;326802;115310;105;254;2996;Non vérifié
+30279;Saint-Laurent-la-Vernède;30;eau potable;173314;2024;71,7;2,6;6,6;66,3;conforme;39289;21477;83;145;709;Non vérifié
+30280;Saint-Laurent-le-Minier;30;eau potable;173216;2024;50,0;6,0;8,6;66,7;non conforme;21243;21243;156;255;372;Non vérifié
+30281;Saint-Mamert-du-Gard;30;eau potable : des communes de Nîmes Métropole;209838;2024;74,0;9,1;26,0;70,2;conforme;5767120;35284;60;135;1604;Non vérifié
+30282;Saint-Marcel-de-Careiret;30;eau potable : DSP 2023;338394;2024;58,9;4,7;6,8;66,4;non conforme;875145;38545;121;254;870;Non vérifié
+30283;Saint-Martial;30;eau potable;173220;2024;85,4;0,5;2,8;65,6;conforme;796;796;12;66;177;Non vérifié
+30284;Saint-Martin-de-Valgalgues;30;eau potable : commune de SAINT MARTIN DE VALGALGUES;198225;2020;47,7;14,7;13,4;67,7;non conforme;238765;238765;135;401;4840;Sans anomalie apparente
+30285;Saint-Maurice-de-Cazevieille;30;eau potable : ex SIAEP de la DROUDE;294854;2024;56,6;4,6;6,0;66,2;non conforme;147752;29637;108;279;753;Non vérifié
+30286;Saint-Maximin;30;eau potable;173223;2024;53,3;11,8;13,4;67,7;non conforme;77741;77741;267;321;798;Non vérifié
+30287;Saint-Michel-d'Euzet;30;eau potable : DSP 2023;338394;2024;58,9;4,7;6,8;66,4;non conforme;875145;33051;121;254;746;Non vérifié
+30288;Saint-Nazaire;30;eau potable : DSP 2023;338394;2024;58,9;4,7;6,8;66,4;non conforme;875145;58127;121;254;1312;Non vérifié
+30289;Saint-Nazaire-des-Gardies;30;eau potable;173350;2024;76,3;1,2;3,8;65,8;non calculable;13171;1716;59;116;80;Non vérifié
+30290;Saint-Paulet-de-Caisson;30;eau potable : DSP 2023;338394;2024;58,9;4,7;6,8;66,4;non conforme;875145;83602;121;254;1887;Non vérifié
+30291;Saint-Paul-la-Coste;30;eau potable : commune de SAINT PAUL la COSTE;294855;2024;62,1;1,0;1,7;65,3;non conforme;7556;7556;64;217;324;Non vérifié
+30292;Saint-Pons-la-Calm;30;eau potable : DSP 2023;338394;2024;58,9;4,7;6,8;66,4;non conforme;875145;22197;121;254;501;Non vérifié
+30293;Saint-Privat-de-Champclos;30;eau potable;173312;2024;71,0;2,0;4,9;66,0;conforme;223263;12649;107;150;324;Non vérifié
+30294;Saint-Privat-des-Vieux;30;eau potable : ex SIAEP de l'AVENE;173369;2024;76,4;7,6;24,7;69,9;conforme;2068849;273092;131;271;5703;Non vérifié
+30295;Saint-Quentin-la-Poterie;30;eau potable;173231;2024;76,5;3,0;9,7;66,9;conforme;54662;54662;47;113;3173;Non vérifié
+30296;Saint-Roman-de-Codières;30;eau potable;173233;2024;61,3;0,7;1,2;65,2;non conforme;1073;1073;18;223;166;Non vérifié
+30297;Saint-Sauveur-Camprieu;30;eau potable : St Sauveur Camprieu;325074;2024;84,2;1,3;7,0;66,4;conforme;5642;5642;75;68;207;Non vérifié
+30298;Saint-Sébastien-d'Aigrefeuille;30;eau potable : ex SIAEP de l'AVENE;173369;2024;76,4;7,6;24,7;69,9;conforme;2068849;24565;131;271;513;Non vérifié
+30299;Saint-Siffret;30;eau potable;173237;2024;75,4;3,9;11,9;67,4;conforme;43986;43986;107;120;1126;Non vérifié
+30300;Saint-Théodorit;30;eau potable;173304;2024;68,8;2,8;6,1;66,2;conforme;127750;13849;69;167;553;Non vérifié
+30301;Saint-Victor-des-Oules;30;eau potable;173356;2024;67,6;4,5;9,4;66,9;conforme;26280;14461;132;174;301;Non vérifié
+30302;Saint-Victor-la-Coste;30;eau potable : ex MAISON de l'EAU;296294;2024;70,3;5,8;13,8;67,8;conforme;387856;56751;70;153;2233;Non vérifié
+30303;Saint-Victor-de-Malcap;30;eau potable;173241;2024;67,1;4,1;8,4;66,7;conforme;29646;29646;99;177;819;Non vérifié
+30304;Salazac;30;eau potable : DSP 2023;338394;2024;58,9;4,7;6,8;66,4;non conforme;875145;10146;121;254;229;Non vérifié
+30305;Salindres;30;eau potable : commune de SALINDRES;173243;2024;59,9;8,3;12,4;67,5;non conforme;153232;153232;115;244;3648;Non vérifié
+30306;Salinelles;30;eau potable;173245;2024;78,2;2,7;9,8;67,0;conforme;7293;7293;34;101;585;Non vérifié
+30307;Les Salles-du-Gardon;30;eau potable : ex SIAEP GRAND'COMBIENNE;294614;2024;59,6;4,5;6,7;66,3;non conforme;296800;66439;76;246;2395;Non vérifié
+30308;Sanilhac-Sagriès;30;eau potable;173247;2024;65,4;4,6;8,8;66,8;non conforme;31045;31045;101;192;842;Non vérifié
+30309;Sardan;30;eau potable;173317;2024;75,6;1,8;5,7;66,1;conforme;35478;5523;44;115;347;Non vérifié
+30310;Saumane;30;eau potable : Saumane - L'Estréchure;324994;2024;46,5;3,4;3,0;65,6;non conforme;24200;16151;146;417;303;Non vérifié
+30311;Sauve;30;eau potable;173251;2024;70,9;3,3;8,0;66,6;conforme;51119;51119;70;151;1988;Non vérifié
+30312;Sauveterre;30;eau potable : Pujaut Sauveterre;213046;2024;75,4;4,7;14,3;67,9;conforme;149248;50313;68;120;2025;Non vérifié
+30313;Sauzet;30;eau potable : des communes de Nîmes Métropole;209838;2024;74,0;9,1;26,0;70,2;conforme;5767120;18764;60;135;853;Non vérifié
+30314;Savignargues;30;eau potable;173304;2024;68,8;2,8;6,1;66,2;conforme;127750;5960;69;167;238;Non vérifié
+30315;Saze;30;eau potable;173357;2024;73,3;5,6;15,2;68,0;conforme;335502;54661;71;134;2096;Non vérifié
+30316;Sénéchas;30;eau potable : communes de CONCOULES et de SENECHAS;294734;2024;49,1;2,8;2,7;65,5;non conforme;47523;22401;248;384;247;Non vérifié
+30317;Sernhac;30;eau potable : des communes de Nîmes Métropole;209838;2024;74,0;9,1;26,0;70,2;conforme;5767120;40014;60;135;1819;Non vérifié
+30318;Servas;30;eau potable : ex SIAEP de l'AVENE;173369;2024;76,4;7,6;24,7;69,9;conforme;2068849;10487;131;271;219;Non vérifié
+30319;Serviers-et-Labaume;30;eau potable;173303;2024;75,6;2,2;6,9;66,4;conforme;173448;13354;62;116;590;Non vérifié
+30320;Seynes;30;eau potable : communes de SEYNES;294834;2024;68,1;1,6;3,4;65,7;conforme;4497;4497;68;173;180;Non vérifié
+30321;Sommières;30;eau potable;173263;2024;91,7;1,9;21,2;69,2;conforme;33288;33288;18;33;5073;Non vérifié
+30322;Soudorgues;30;eau potable : Soudorgues;325094;2024;43,1;4,5;3,4;65,7;non conforme;13781;13781;140;477;269;Non vérifié
+30323;Soustelle;30;eau potable : ex SIAEP GRAND'COMBIENNE;294614;2024;59,6;4,5;6,7;66,3;non conforme;296800;3301;76;246;119;Non vérifié
+30324;Souvignargues;30;eau potable;173358;2024;69,5;4,7;10,7;67,1;conforme;108814;20810;60;160;957;Non vérifié
+30325;Sumène;30;eau potable;173268;2024;78,8;1,2;4,5;65,9;conforme;22163;22163;50;97;1222;Non vérifié
+30326;Tavel;30;eau potable : ex SIVOM de LIRAC;296154;2024;59,5;9,1;13,1;67,6;non conforme;326802;80171;105;254;2083;Non vérifié
+30327;Tharaux;30;eau potable;173306;2024;72,2;2,1;5,5;66,1;conforme;108076;1166;74;138;43;Non vérifié
+30328;Théziers;30;eau potable;173357;2024;73,3;5,6;15,2;68,0;conforme;335502;28348;71;134;1087;Non vérifié
+30329;Thoiras;30;eau potable : SIAEP de Lasalle;173349;2024;60,3;1,7;2,6;65,5;non conforme;54604;13997;63;251;607;Non vérifié
+30330;Tornac;30;eau potable : ex SIAEP de TORNAC - MASSILLARGUES;294856;2024;67,5;2,6;5,3;66,1;conforme;49538;28951;84;178;945;Non vérifié
+30331;Tresques;30;eau potable : ex MAISON de l'EAU;296294;2024;70,3;5,8;13,8;67,8;conforme;387856;46484;70;153;1829;Non vérifié
+30332;Trèves;30;eau potable : Tréves;325015;2024;93,5;0,1;2,1;65,4;conforme;234;234;6;18;116;Non vérifié
+30333;Uchaud;30;eau potable;173275;2024;78,6;5,6;20,7;69,1;conforme;59440;59440;33;99;4879;Non vérifié
+30334;Uzès;30;eau potable;173277;2024;73,3;6,8;18,7;68,7;conforme;282948;282948;91;132;8519;Non vérifié
+30335;Vabres;30;eau potable : SIAEP de Lasalle;173349;2024;60,3;1,7;2,6;65,5;non conforme;54604;3205;63;251;139;Non vérifié
+30336;Vallabrègues;30;eau potable;173280;2024;66,9;5,1;10,2;67,0;non conforme;31255;31255;62;182;1375;Non vérifié
+30337;Vallabrix;30;eau potable;173282;2024;74,9;3,1;9,1;66,8;conforme;10184;10184;67;124;414;Non vérifié
+30338;Vallérargues;30;eau potable;173351;2024;79,7;1,4;5,5;66,1;conforme;26061;3747;78;108;132;Non vérifié
+30339;Val-d'Aigoual;30;eau potable : L'Espérou;325114;2024;44,5;3,1;2,5;65,5;non conforme;15275;13574;26;455;1412;Non vérifié
+30340;Valliguières;30;eau potable;173285;2024;72,5;5,4;14,2;67,8;conforme;14782;14782;62;139;653;Non vérifié
+30341;Vauvert;30;eau potable;173287;2024;79,0;5,9;22,2;69,4;conforme;233827;233827;55;99;11671;Non vérifié
+30342;Vénéjan;30;eau potable : DSP 2023;338394;2024;58,9;4,7;6,8;66,4;non conforme;875145;55824;121;254;1260;Non vérifié
+30343;Verfeuil;30;eau potable : DSP 2023;338394;2024;58,9;4,7;6,8;66,4;non conforme;875145;26184;121;254;591;Non vérifié
+30344;Vergèze;30;eau potable;173318;2024;72,1;8,3;21,5;69,3;conforme;206945;120225;57;141;5788;Non vérifié
+30345;La Vernarède;30;eau potable : ex SIAEP du LUECH;294714;2024;47,9;4,1;3,8;65,8;non conforme;141868;20275;153;411;364;Non vérifié
+30346;Vers-Pont-du-Gard;30;eau potable;173307;2024;74,0;3,4;9,6;66,9;conforme;110772;39386;60;129;1786;Non vérifié
+30347;Vestric-et-Candiac;30;eau potable;173294;2024;67,1;6,7;13,6;67,7;non conforme;27536;27536;56;180;1354;Non vérifié
+30348;Vézénobres;30;eau potable : ex SIAEP de la MAYRE;173345;2024;77,6;3,3;11,5;67,3;conforme;56672;42226;62;105;1865;Non vérifié
+30349;Vic-le-Fesq;30;eau potable;173317;2024;75,6;1,8;5,7;66,1;conforme;35478;9423;44;115;592;Non vérifié
+30350;Le Vigan;30;eau potable;173298;2024;57,4;7,9;10,7;67,1;non conforme;214532;214532;152;269;3863;Non vérifié
+30351;Villeneuve-lès-Avignon;30;eau potable : Villeneuve-Angles;211834;2024;73,8;10,3;28,9;70,8;conforme;627836;374265;78;130;13148;Non vérifié
+30352;Villevieille;30;eau potable;173358;2024;69,5;4,7;10,7;67,1;conforme;108814;41077;60;160;1889;Non vérifié
+30353;Vissec;30;eau potable;213834;2024;49,0;1,7;1,6;65,3;non conforme;49671;5188;209;397;68;Non vérifié
+30354;Montagnac;30;eau potable;173304;2024;68,8;2,8;6,1;66,2;conforme;127750;6236;69;167;249;Non vérifié
+30355;Saint-Paul-les-Fonts;30;eau potable : ex MAISON de l'EAU;296294;2024;70,3;5,8;13,8;67,8;conforme;387856;26838;70;153;1056;Non vérifié
+30356;Rodilhan;30;eau potable : des communes de Nîmes Métropole;209838;2024;74,0;9,1;26,0;70,2;conforme;5767120;61572;60;135;2799;Non vérifié

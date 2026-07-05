@@ -1,0 +1,809 @@
+﻿# DourData — eau perdue par les réseaux d'eau potable (indicateurs SISPEA)
+# Périmètre : Département 02
+# Source : SISPEA — Système d'Information des Services Publics d'Eau et d'Assainissement, via data.gouv.fr / services.eaufrance.fr
+# Licence : Licence Ouverte 2.0 (Etalab)
+# Millésime des données : 2021–2024 (année la plus récente disponible par commune)
+# Date de génération de l'export : 2026-07-05
+# Méthodologie et code : https://github.com/btaverne/dourdata
+# Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
+# Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
+02001;Abbécourt;02;eau potable : CACTLF/ex SE d'Abbecourt-DSP ve 31/12/29-P,T,D;124545;2024;73,9;2,4;6,8;66,4;conforme;40077;8116;43;128;518;Non vérifié
+02002;Achery;02;eau potable : SE Séry Mézières Vallée de l'Oisel-DSP sa 31/12/26-P,T,D;124524;2024;65,4;4,1;7,8;66,6;non conforme;75304;11947;56;191;584;Non vérifié
+02003;Acy;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;26292;72;176;1004;Non vérifié
+02004;Agnicourt-et-Séchelles;02;eau potable : Agnicourt-et-Séchelles-régie-P,T,D;124240;2024;86,3;0,9;5,5;66,1;conforme;1669;1669;24;60;189;Non vérifié
+02005;Aguilcourt;02;eau potable : SIEP Guignicourt-régie-P,T,D;124531;2024;83,8;2,6;13,3;67,7;conforme;50904;4790;31;81;417;Non vérifié
+02006;Aisonville-et-Bernoville;02;eau potable : Aisonville-et-Bernoville-régie-P,T,D;124242;2024;67,5;2,6;5,3;66,1;conforme;6093;6093;64;178;259;Non vérifié
+02007;Aizelles;02;eau potable : SE St Erme-régie-P,T,D;124495;2024;62,6;4,3;7,2;66,4;non conforme;56502;3132;73;217;118;Non vérifié
+02008;Aizy-Jouy;02;eau potable : SPENS/Socle régie - D;330594;2024;81,6;2,2;9,7;66,9;conforme;9845;3135;28;83;306;Non vérifié
+02009;Alaincourt;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;6036;32;96;517;Non vérifié
+02010;Allemant;02;eau potable : SPENS/Socle régie - D;330594;2024;81,6;2,2;9,7;66,9;conforme;9845;1670;28;83;163;Non vérifié
+02011;Ambleny;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;31556;72;176;1205;Non vérifié
+02012;Ambrief;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;2069;72;176;79;Non vérifié
+02013;Amifontaine;02;eau potable : Amifontaine-régie-P,T,D;124246;2024;84,3;1,9;10,0;67,0;conforme;3176;3176;22;69;391;Non vérifié
+02014;Amigny-Rouy;02;eau potable : SE Sinceny Autreville-DSP ve 31/12/24-P,T,D;124479;2024;92,9;0,6;8,1;66,6;conforme;36531;2570;10;29;707;Non vérifié
+02015;Ancienville;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;2043;72;176;78;Non vérifié
+02016;Andelain;02;eau potable : SE Sinceny Autreville-DSP ve 31/12/24-P,T,D;124479;2024;92,9;0,6;8,1;66,6;conforme;36531;771;10;29;212;Non vérifié
+02017;Anguilcourt-le-Sart;02;"eau potable : CACTLF/""ex régie & condren"" DSP Ve 31/12/30-P,T,D";305094;2024;84,7;1,7;15,0;68,0;conforme;111541;1571;16;43;274;Non vérifié
+02018;Anizy-le-Grand;02;eau potable : SE Région Ouest Laon (SEROL)-DSP Ve 06/04/29-P,T,D;124501;2024;90,6;1,2;11,4;67,3;conforme;24931;10892;12;57;2472;Non vérifié
+02019;Annois;02;eau potable : SE Bois l'Abbé-DSP ve 30/06/27-P,T,D;124503;2024;78,8;2,1;7,8;66,6;conforme;64693;4130;32;103;349;Non vérifié
+02020;Any-Martin-Rieux;02;eau potable : SE région Aubenton-DSP Sa 07/07/34 - P,T,D;124525;2024;52,3;3,0;3,3;65,7;non conforme;157297;26380;158;329;456;Non vérifié
+02021;Archon;02;eau potable : SAE région Rozoy-sur-Serre-DSP ve 21/04/30-P,T,D;124527;2024;84,1;1,0;5,5;66,1;conforme;31624;1313;47;69;76;Non vérifié
+02022;Arcy-Sainte-Restitue;02;eau potable : SE région Arcy Ste Restitue-DSP Ve 08/07/34-P,T,D;124550;2024;64,2;2,8;5,0;66,0;non conforme;38427;17175;119;313;396;Non vérifié
+02023;Armentières-sur-Ourcq;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;1329;38;108;96;Non vérifié
+02024;Arrancy;02;eau potable : SE Chemin des Dames-DSP sa 31/12/29-P,T,D;124540;2024;81,5;2,6;11,3;67,3;conforme;120352;1193;73;104;45;Non vérifié
+02025;Artemps;02;eau potable : CASQ/ex SAEA vallée Somme-DSP sa 15/01/27-P,T,D;124471;2024;76,2;2,1;6,6;66,3;conforme;37612;4874;37;128;361;Non vérifié
+02027;Assis-sur-Serre;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;2440;32;96;209;Non vérifié
+02028;Athies-sous-Laon;02;eau potable : SE Chemin des Dames-DSP sa 31/12/29-P,T,D;124540;2024;81,5;2,6;11,3;67,3;conforme;120352;68371;73;104;2578;Non vérifié
+02029;Attilly;02;eau potable : SAE vallée Omignon-régie-P,T,D;124515;2024;67,6;3,5;7,2;66,4;conforme;146580;7238;59;177;337;Non vérifié
+02030;Aubencheul-aux-Bois;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;2779;32;96;238;Non vérifié
+02031;Aubenton;02;eau potable : SE région Aubenton-DSP Sa 07/07/34 - P,T,D;124525;2024;52,3;3,0;3,3;65,7;non conforme;157297;38066;158;329;658;Non vérifié
+02032;Aubigny-aux-Kaisnes;02;eau potable : CASQ/origine-régie-P,T,D;124564;2024;82,7;4,8;22,7;69,5;conforme;751608;2393;28;77;231;Non vérifié
+02033;Aubigny-en-Laonnois;02;eau potable : SE Chemin des Dames-DSP sa 31/12/29-P,T,D;124540;2024;81,5;2,6;11,3;67,3;conforme;120352;2705;73;104;102;Non vérifié
+02034;Audignicourt;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;2723;72;176;104;Non vérifié
+02035;Audigny;02;eau potable : SE vallée de l'Oise-régie-P,T,D;124492;2024;80,9;1,9;8,2;66,6;conforme;29127;4694;47;85;273;Non vérifié
+02036;Augy;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;1885;72;176;72;Non vérifié
+02037;Aulnois-sous-Laon;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;15738;32;96;1348;Non vérifié
+02038;Les Autels;02;eau potable : SAE région Rozoy-sur-Serre-DSP ve 21/04/30-P,T,D;124527;2024;84,1;1,0;5,5;66,1;conforme;31624;1071;47;69;62;Non vérifié
+02039;Autremencourt;02;eau potable : SIAE Autremencourt-régie-P,T,D;124514;2024;91,1;0,3;2,6;65,5;conforme;2568;867;14;42;176;Non vérifié
+02040;Autreppes;02;eau potable : SE Nord de l'Aisne-DSP sa 31/12/27-P,T,D;124526;2024;71,5;3,9;9,8;67,0;conforme;666824;7631;119;147;175;Non vérifié
+02041;Autreville;02;eau potable : SE Sinceny Autreville-DSP ve 31/12/24-P,T,D;124479;2024;92,9;0,6;8,1;66,6;conforme;36531;2824;10;29;777;Non vérifié
+02042;Azy-sur-Marne;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;5107;38;108;369;Non vérifié
+02043;Bagneux;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;1624;72;176;62;Non vérifié
+02044;Bancigny;02;eau potable : SAEP Vallée de la Brune-DSP sa 31/12/28-P,T,D;124533;2024;79,4;1,3;5,2;66,0;conforme;32475;615;65;92;26;Non vérifié
+02046;Barenton-Bugny;02;eau potable : SMPA Griffon-régie-T,D;285614;2024;84,4;0,9;4,7;65,9;conforme;2464;53;0;69;555;Non vérifié
+02047;Barenton-Cel;02;eau potable : Barenton-Cel-régie-D;124254;2024;100,0;0,0;5,2;66,0;conforme;0;0;0;0;108;Non vérifié
+02048;Barenton-sur-Serre;02;eau potable : SE vallée de la Serre-DSP sa 30/06/26-P,T,D;124486;2024;87,9;0,7;4,9;66,0;conforme;3138;663;14;52;130;Non vérifié
+02049;Barisis-aux-Bois;02;eau potable : SE Sinceny Autreville-DSP ve 31/12/24-P,T,D;124479;2024;92,9;0,6;8,1;66,6;conforme;36531;2733;10;29;752;Non vérifié
+02050;Barzy-en-Thiérache;02;eau potable : SE Nord de l'Aisne-DSP sa 31/12/27-P,T,D;124526;2024;71,5;3,9;9,8;67,0;conforme;666824;13780;119;147;316;Non vérifié
+02051;Barzy-sur-Marne;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;5259;38;108;380;Non vérifié
+02052;Bassoles-Aulers;02;eau potable : SME Prémontré-régie-P,T,D;124546;2024;88,8;1,2;9,4;66,9;conforme;13841;1771;37;46;131;Non vérifié
+02053;Vallées en Champagne;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;8290;38;108;599;Non vérifié
+02054;Bazoches-et-Saint-Thibaut;02;eau potable : SIVU des eaux de Fismes;158079;2024;80,1;2,6;10,4;67,1;conforme;121216;5985;32;91;516;Non vérifié
+02055;Beaumé;02;eau potable : SE région Aubenton-DSP Sa 07/07/34 - P,T,D;124525;2024;52,3;3,0;3,3;65,7;non conforme;157297;4744;158;329;82;Non vérifié
+02056;Beaumont-en-Beine;02;eau potable;167744;2024;77,3;1,6;5,6;66,1;conforme;98457;2034;33;105;168;Non vérifié
+02057;Beaurevoir;02;eau potable : Beaurevoir-régie-P,T,D;197770;2024;77,3;2,3;7,7;66,5;conforme;17462;17462;37;109;1281;Non vérifié
+02058;Beaurieux;02;eau potable : SE région Beaurieux-régie-P,T,D;124498;2024;80,9;1,5;6,5;66,3;conforme;44293;9243;32;85;794;Non vérifié
+02059;Beautor;02;"eau potable : CACTLF/""ex régie & condren"" DSP Ve 31/12/30-P,T,D";305094;2024;84,7;1,7;15,0;68,0;conforme;111541;14791;16;43;2579;Non vérifié
+02060;Beauvois-en-Vermandois;02;eau potable : SAE vallée Omignon-régie-P,T,D;124515;2024;67,6;3,5;7,2;66,4;conforme;146580;5648;59;177;263;Non vérifié
+02061;Becquigny;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;3129;32;96;268;Non vérifié
+02062;Belleau;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;1813;38;108;131;Non vérifié
+02063;Bellenglise;02;eau potable : SE Nord du canal de St Quentin-régie-P,T,D;124493;2024;61,3;4,9;7,7;66,5;non conforme;80894;12902;94;234;378;Non vérifié
+02064;Belleu;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;95819;72;176;3659;Non vérifié
+02065;Bellicourt;02;eau potable : Bellicourt-régie-P,T,D;124258;2024;67,3;4,8;9,8;67,0;conforme;12264;12264;60;180;560;Non vérifié
+02066;Benay;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;2230;32;96;191;Non vérifié
+02067;Bergues-sur-Sambre;02;eau potable : SE Nord de l'Aisne-DSP sa 31/12/27-P,T,D;124526;2024;71,5;3,9;9,8;67,0;conforme;666824;8939;119;147;205;Non vérifié
+02068;Berlancourt;02;eau potable : SE région Sains Richaumont-DSP ve 31/12/29-P,T,D;124475;2024;63,9;2,3;4,0;65,8;non conforme;68235;2128;69;207;85;Non vérifié
+02069;Berlise;02;eau potable : SE vallée du Hurtaut-régie-P,T,D;124528;2024;83,7;1,3;6,5;66,3;conforme;5063;1443;38;73;104;Non vérifié
+02070;Bernot;02;eau potable : SIE Ribemont-régie-P,T,D;124476;2024;81,9;1,7;7,7;66,5;conforme;111690;6128;39;81;431;Non vérifié
+02071;Berny-Rivière;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;16524;72;176;631;Non vérifié
+02072;Berrieux;02;eau potable : SE St Erme-régie-P,T,D;124495;2024;62,6;4,3;7,2;66,4;non conforme;56502;4724;73;217;178;Non vérifié
+02073;Berry-au-Bac;02;eau potable : Berry-au-Bac-régie-T,D;257814;2024;69,4;2,9;6,7;66,3;conforme;10670;10670;40;159;722;Non vérifié
+02074;Bertaucourt-Epourdon;02;eau potable : SE Sinceny Autreville-DSP ve 31/12/24-P,T,D;124479;2024;92,9;0,6;8,1;66,6;conforme;36531;2184;10;29;601;Non vérifié
+02075;Berthenicourt;02;eau potable : SE Séry Mézières Vallée de l'Oisel-DSP sa 31/12/26-P,T,D;124524;2024;65,4;4,1;7,8;66,6;non conforme;75304;4153;56;191;203;Non vérifié
+02076;Bertricourt;02;eau potable : SIEP Guignicourt-régie-P,T,D;124531;2024;83,8;2,6;13,3;67,7;conforme;50904;1826;31;81;159;Non vérifié
+02077;Berzy-le-Sec;02;eau potable : SESV/socle régie-P,T,D;124482;2022;61,7;4,1;6,6;66,3;non conforme;926334;13094;92;226;388;Sans anomalie apparente
+02078;Besmé;02;eau potable : SAEP Basse Quincy-régie-P,T,D;290974;2023;70,4;3,9;9,3;66,9;conforme;74492;3005;50;153;166;Sans anomalie apparente
+02079;Besmont;02;eau potable : SE région Aubenton-DSP Sa 07/07/34 - P,T,D;124525;2024;52,3;3,0;3,3;65,7;non conforme;157297;7636;158;329;132;Non vérifié
+02080;Besny-et-Loizy;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;3608;32;96;309;Non vérifié
+02081;Béthancourt-en-Vaux;02;eau potable : CACTLF/ex SE d'Abbecourt-DSP ve 31/12/29-P,T,D;124545;2024;73,9;2,4;6,8;66,4;conforme;40077;6596;43;128;421;Non vérifié
+02082;Beugneux;02;eau potable : Beugneux-régie-P,T,D;124260;2024;100,0;0,0;7,7;66,5;conforme;0;0;0;0;120;Non vérifié
+02083;Beuvardes;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;10186;38;108;736;Non vérifié
+02084;Bézu-le-Guéry;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;3432;38;108;248;Non vérifié
+02085;Bézu-Saint-Germain;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;13715;38;108;991;Non vérifié
+02086;Bichancourt;02;eau potable : SE Sinceny Autreville-DSP ve 31/12/24-P,T,D;124479;2024;92,9;0,6;8,1;66,6;conforme;36531;3558;10;29;979;Non vérifié
+02087;Bieuxy;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;812;72;176;31;Non vérifié
+02088;Bièvres;02;eau potable : CAPL/ex SE région Parfondru-DSP sa 07/01/31-P,T,D;124539;2024;80,7;1,2;5,0;66,0;conforme;11283;752;26;88;80;Non vérifié
+02089;Billy-sur-Aisne;02;"eau potable : GSA/SIPRODES ""SE de Billy Venizel""-DSP su 30/06/33-D";124473;2024;94,3;0,7;11,3;67,3;conforme;5953;2741;7;23;1130;Non vérifié
+02090;Billy-sur-Ourcq;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;5080;72;176;194;Non vérifié
+02091;Blanzy-lès-Fismes;02;eau potable : SAE Blanzy-les-Fismes-DSP su 31/12/28-P,T,D;124504;2024;75,1;1,5;4,4;65,9;conforme;13616;973;27;124;98;Non vérifié
+02093;Blérancourt;02;eau potable : SAEP Basse Quincy-régie-P,T,D;290974;2023;70,4;3,9;9,3;66,9;conforme;74492;21035;50;153;1162;Sans anomalie apparente
+02094;Blesmes;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;6560;38;108;474;Non vérifié
+02095;Bohain-en-Vermandois;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;65440;32;96;5605;Non vérifié
+02096;Bois-lès-Pargny;02;eau potable : SAE Sons Ronchéres-régie-P,T,D;124518;2024;69,4;2,7;6,1;66,2;conforme;16951;5137;75;162;187;Non vérifié
+02097;Boncourt;02;eau potable : Boncourt-régie-P,T,D;124264;2024;77,2;1,9;6,3;66,3;conforme;4854;4854;49;111;272;Non vérifié
+02098;Bonneil;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;5190;38;108;375;Non vérifié
+02099;Bonnesvalyn;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;2934;38;108;212;Non vérifié
+02100;Bony;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;1600;32;96;137;Non vérifié
+02101;Bosmont-sur-Serre;02;eau potable : SE Chatelet-régie-P,T,D;124511;2024;93,4;0,3;5,0;66,0;conforme;854;688;11;22;170;Non vérifié
+02102;Bouconville-Vauclair;02;eau potable : SE Chemin des Dames-DSP sa 31/12/29-P,T,D;124540;2024;81,5;2,6;11,3;67,3;conforme;120352;4800;73;104;181;Non vérifié
+02103;Boué;02;eau potable : SE Nord de l'Aisne-DSP sa 31/12/27-P,T,D;124526;2024;71,5;3,9;9,8;67,0;conforme;666824;57342;119;147;1315;Non vérifié
+02104;Bouffignereux;02;eau potable : SE région Beaurieux-régie-P,T,D;124498;2024;80,9;1,5;6,5;66,3;conforme;44293;1118;32;85;96;Non vérifié
+02105;Bouresches;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;2533;38;108;183;Non vérifié
+02106;Bourg-et-Comin;02;eau potable : SE région Beaurieux-régie-P,T,D;124498;2024;80,9;1,5;6,5;66,3;conforme;44293;9417;32;85;809;Non vérifié
+02107;Bourguignon-sous-Coucy;02;eau potable : SAEP Basse Quincy-régie-P,T,D;290974;2023;70,4;3,9;9,3;66,9;conforme;74492;1883;50;153;104;Sans anomalie apparente
+02108;Bourguignon-sous-Montbavin;02;eau potable : SE Pont Oger-DSP ve 31/12/29-P,T,D;124506;2024;80,0;1,3;5,2;66,0;conforme;28423;1751;34;106;140;Non vérifié
+02109;La Bouteille;02;eau potable : SE Origny en Thiérache-DSP ve 31/12/24-P,T,D;124517;2024;64,6;2,6;4,8;66,0;non conforme;200514;12624;75;220;464;Non vérifié
+02110;Braine;02;eau potable : Braine-DSP su 20/05/32-P,T,D;124267;2024;83,9;2,7;14,1;67,8;conforme;23494;23494;29;76;2248;Non vérifié
+02111;Brancourt-en-Laonnois;02;eau potable : SPENS/ex SE Pinon Brancourt-régie-P,T,D;124488;2023;70,8;2,8;6,8;66,4;conforme;32704;9815;38;151;702;Sans anomalie apparente
+02112;Brancourt-le-Grand;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;6468;32;96;554;Non vérifié
+02114;Brasles;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;24745;38;108;1788;Non vérifié
+02115;Braye-en-Laonnois;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;2277;32;96;195;Non vérifié
+02116;Braye-en-Thiérache;02;eau potable : SE région Braye en Thiérache-DSP sa 31/12/29-P,T,D;124516;2024;58,8;2,9;4,2;65,8;non conforme;87273;6485;136;256;131;Non vérifié
+02117;Bray-Saint-Christophe;02;eau potable : CASQ/ex SAEA vallée Somme-DSP sa 15/01/27-P,T,D;124471;2024;76,2;2,1;6,6;66,3;conforme;37612;864;37;128;64;Non vérifié
+02118;Braye;02;eau potable : SE Braye, Vuillery-DSP su 29/06/32-P,T,D;124537;2024;73,8;2,6;7,3;66,5;conforme;6036;1876;40;130;129;Non vérifié
+02119;Brécy;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;4387;38;108;317;Non vérifié
+02120;Brenelle;02;eau potable : Brenelle-DSP su 31/05/29-D;124269;2024;83,9;1,0;5,1;66,0;conforme;1555;1555;22;72;193;Non vérifié
+02121;Breny;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;2906;38;108;210;Non vérifié
+02122;Brie;02;eau potable : SAEP région Crépy-DSP Sa 31/12/32-P,T,D;124510;2024;75,6;2,3;7,3;66,5;conforme;35452;728;36;115;55;Non vérifié
+02123;Brissay-Choigny;02;eau potable : SE Séry Mézières Vallée de l'Oisel-DSP sa 31/12/26-P,T,D;124524;2024;65,4;4,1;7,8;66,6;non conforme;75304;6055;56;191;296;Non vérifié
+02124;Brissy-Hamégicourt;02;eau potable : SE Séry Mézières Vallée de l'Oisel-DSP sa 31/12/26-P,T,D;124524;2024;65,4;4,1;7,8;66,6;non conforme;75304;13359;56;191;653;Non vérifié
+02125;Brumetz;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;2422;38;108;175;Non vérifié
+02126;Brunehamel;02;eau potable : SAEP Vallée de la Brune-DSP sa 31/12/28-P,T,D;124533;2024;79,4;1,3;5,2;66,0;conforme;32475;10943;65;92;463;Non vérifié
+02127;Bruyères-sur-Fère;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;2754;38;108;199;Non vérifié
+02128;Bruyères-et-Montbérault;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;16474;32;96;1411;Non vérifié
+02129;Bruys;02;eau potable : SE région Arcy Ste Restitue-DSP Ve 08/07/34-P,T,D;124550;2024;64,2;2,8;5,0;66,0;non conforme;38427;867;119;313;20;Non vérifié
+02130;Bucilly;02;eau potable : SE Origny en Thiérache-DSP ve 31/12/24-P,T,D;124517;2024;64,6;2,6;4,8;66,0;non conforme;200514;5550;75;220;204;Non vérifié
+02131;Bucy-le-Long;02;eau potable : SE Bucy, Celles, Chivres, Condé, Missy-DSP su 31/03/35-P,T,D;124474;2024;73,2;3,5;9,5;66,9;conforme;57411;30227;43;135;1947;Non vérifié
+02132;Bucy-lès-Cerny;02;eau potable : SAEP région Crépy-DSP Sa 31/12/32-P,T,D;124510;2024;75,6;2,3;7,3;66,5;conforme;35452;2487;36;115;188;Non vérifié
+02133;Bucy-lès-Pierrepont;02;eau potable : Bucy-lès-Pierrepont -régie - T,D;124272;2024;62,9;6,5;11,0;67,2;non conforme;10107;10107;68;215;410;Non vérifié
+02134;Buire;02;eau potable : SE Origny en Thiérache-DSP ve 31/12/24-P,T,D;124517;2024;64,6;2,6;4,8;66,0;non conforme;200514;21629;75;220;795;Non vérifié
+02135;Buironfosse;02;eau potable : SE Nord de l'Aisne-DSP sa 31/12/27-P,T,D;124526;2024;71,5;3,9;9,8;67,0;conforme;666824;48926;119;147;1122;Non vérifié
+02136;Burelles;02;eau potable : SE région Braye en Thiérache-DSP sa 31/12/29-P,T,D;124516;2024;58,8;2,9;4,2;65,8;non conforme;87273;6089;136;256;123;Non vérifié
+02137;Bussiares;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;1744;38;108;126;Non vérifié
+02138;Buzancy;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;4583;72;176;175;Non vérifié
+02139;Caillouël-Crépigny;02;eau potable : CACTLF/ex SE d'Abbecourt-DSP ve 31/12/29-P,T,D;124545;2024;73,9;2,4;6,8;66,4;conforme;40077;7191;43;128;459;Non vérifié
+02140;Camelin;02;eau potable : SAEP Basse Quincy-régie-P,T,D;290974;2023;70,4;3,9;9,3;66,9;conforme;74492;7712;50;153;426;Sans anomalie apparente
+02141;La Capelle;02;eau potable : SE Nord de l'Aisne-DSP sa 31/12/27-P,T,D;124526;2024;71,5;3,9;9,8;67,0;conforme;666824;76093;119;147;1745;Non vérifié
+02142;Castres;02;eau potable : CASQ/origine-régie-P,T,D;124564;2024;82,7;4,8;22,7;69,5;conforme;751608;2548;28;77;246;Non vérifié
+02143;Le Catelet;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;2172;32;96;186;Non vérifié
+02144;Caulaincourt;02;eau potable : SAE vallée Omignon-régie-P,T,D;124515;2024;67,6;3,5;7,2;66,4;conforme;146580;3071;59;177;143;Non vérifié
+02145;Caumont;02;eau potable : SE Bois l'Abbé-DSP ve 30/06/27-P,T,D;124503;2024;78,8;2,1;7,8;66,6;conforme;64693;6473;32;103;547;Non vérifié
+02146;Celles-lès-Condé;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;1218;38;108;88;Non vérifié
+02148;Celles-sur-Aisne;02;eau potable : SE Bucy, Celles, Chivres, Condé, Missy-DSP su 31/03/35-P,T,D;124474;2024;73,2;3,5;9,5;66,9;conforme;57411;3850;43;135;248;Non vérifié
+02149;Cerizy;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;677;32;96;58;Non vérifié
+02150;Cerny-en-Laonnois;02;eau potable : SE Chemin des Dames-DSP sa 31/12/29-P,T,D;124540;2024;81,5;2,6;11,3;67,3;conforme;120352;1671;73;104;63;Non vérifié
+02151;Cerny-lès-Bucy;02;eau potable : SAEP région Crépy-DSP Sa 31/12/32-P,T,D;124510;2024;75,6;2,3;7,3;66,5;conforme;35452;1468;36;115;111;Non vérifié
+02152;Cerseuil;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;2278;72;176;87;Non vérifié
+02153;Cessières-Suzy;02;eau potable : SE Région Ouest Laon (SEROL)-DSP Ve 06/04/29-P,T,D;124501;2024;90,6;1,2;11,4;67,3;conforme;24931;3529;12;57;801;Non vérifié
+02154;Chacrise;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;9820;72;176;375;Non vérifié
+02155;Chaillevois;02;eau potable : SE Pont Oger-DSP ve 31/12/29-P,T,D;124506;2024;80,0;1,3;5,2;66,0;conforme;28423;2513;34;106;201;Non vérifié
+02156;Chalandry;02;eau potable : SAE Erlon Marcy-régie-P,T,D;124522;2024;68,9;1,6;3,6;65,7;conforme;23360;4231;50;161;234;Non vérifié
+02157;Chambry;02;eau potable : SMPA Griffon-régie-T,D;285614;2024;84,4;0,9;4,7;65,9;conforme;2464;80;0;69;827;Non vérifié
+02158;Chamouille;02;eau potable : CAPL/Chamouille, Martigny-Courpierre, Orgeval-régie-P,T,D;324634;2024;82,6;1,4;6,5;66,3;conforme;5376;3214;32;79;272;Non vérifié
+02159;Champs;02;eau potable : SE Sinceny Autreville-DSP ve 31/12/24-P,T,D;124479;2024;92,9;0,6;8,1;66,6;conforme;36531;1138;10;29;313;Non vérifié
+02160;Chaourse;02;eau potable : SE région Montcornet-DSP ve 28/02/29-P,T,D;124530;2024;76,0;3,5;11,2;67,2;conforme;33215;7844;43;160;495;Non vérifié
+02162;La Chapelle-sur-Chézy;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;4166;38;108;301;Non vérifié
+02163;Charly-sur-Marne;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;35900;38;108;2594;Non vérifié
+02164;Le Charmel;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;4470;38;108;323;Non vérifié
+02165;Charmes;02;eau potable : CACTLF/ex SE Danizy Charmes-DSP ve 28/02/26-P,T,D;124508;2024;93,1;0,9;11,5;67,3;conforme;6682;4813;8;29;1568;Non vérifié
+02166;Chartèves;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;4996;38;108;361;Non vérifié
+02167;Chassemy;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;23438;72;176;895;Non vérifié
+02168;Château-Thierry;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;208939;38;108;15097;Non vérifié
+02169;Châtillon-lès-Sons;02;eau potable : SAE Sons Ronchéres-régie-P,T,D;124518;2024;69,4;2,7;6,1;66,2;conforme;16951;2280;75;162;83;Non vérifié
+02170;Châtillon-sur-Oise;02;eau potable : SE Séry Mézières Vallée de l'Oisel-DSP sa 31/12/26-P,T,D;124524;2024;65,4;4,1;7,8;66,6;non conforme;75304;2557;56;191;125;Non vérifié
+02171;Chaudardes;02;eau potable : SE région Beaurieux-régie-P,T,D;124498;2024;80,9;1,5;6,5;66,3;conforme;44293;1059;32;85;91;Non vérifié
+02172;Chaudun;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;6233;72;176;238;Non vérifié
+02173;Chauny;02;eau potable : CACTLF/Chauny-DSP ve 31/12/29-P,T,D;124281;2024;80,8;6,8;28,5;70,7;conforme;178034;178034;42;118;11596;Non vérifié
+02174;Chavignon;02;eau potable : Chavignon-DSP sa 06/08/28-P,T,D;124282;2024;66,1;5,0;9,8;67,0;non conforme;21517;21517;69;187;859;Non vérifié
+02175;Chavigny;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;1786;32;96;153;Non vérifié
+02176;Chavonne;02;eau potable : SE vallée Aisne-DSP Su 19/09/34-P,T,D;179784;2024;72,2;2,0;5,3;66,1;conforme;21294;3878;50;138;214;Non vérifié
+02177;Chérêt;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;1716;32;96;147;Non vérifié
+02178;Chermizy-Ailles;02;eau potable : SE Chemin des Dames-DSP sa 31/12/29-P,T,D;124540;2024;81,5;2,6;11,3;67,3;conforme;120352;3368;73;104;127;Non vérifié
+02179;Chéry-Chartreuve;02;eau potable : SIVOM Chery-Chartreuve-DSP su 13/07/25-P,T,D;124552;2024;68,3;1,7;3,6;65,7;conforme;12063;8571;62;171;378;Non vérifié
+02180;Chéry-lès-Pouilly;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;8663;32;96;742;Non vérifié
+02181;Chéry-lès-Rozoy;02;eau potable : SAE région Rozoy-sur-Serre-DSP ve 21/04/30-P,T,D;124527;2024;84,1;1,0;5,5;66,1;conforme;31624;1694;47;69;98;Non vérifié
+02182;Chevennes;02;eau potable : SE région Sains Richaumont-DSP ve 31/12/29-P,T,D;124475;2024;63,9;2,3;4,0;65,8;non conforme;68235;3405;69;207;136;Non vérifié
+02183;Chevregny;02;eau potable : Chevregny-régie-P,T,D;124283;2024;100,0;0,0;11,2;67,2;conforme;0;0;0;0;197;Non vérifié
+02184;Chevresis-Monceau;02;eau potable : SIE Ribemont-régie-P,T,D;124476;2024;81,9;1,7;7,7;66,5;conforme;111690;4678;39;81;329;Non vérifié
+02185;Chézy-en-Orxois;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;5384;38;108;389;Non vérifié
+02186;Chézy-sur-Marne;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;17936;38;108;1296;Non vérifié
+02187;Chierry;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;16539;38;108;1195;Non vérifié
+02188;Chigny;02;eau potable : SE Nord de l'Aisne-DSP sa 31/12/27-P,T,D;124526;2024;71,5;3,9;9,8;67,0;conforme;666824;6105;119;147;140;Non vérifié
+02189;Chivres-en-Laonnois;02;eau potable : SIAE Ebouleau-DSP su 04/11/28-P,T,D;124513;2024;81,6;1,2;5,4;66,1;conforme;19592;5153;39;112;359;Non vérifié
+02190;Chivres-Val;02;eau potable : SE Bucy, Celles, Chivres, Condé, Missy-DSP su 31/03/35-P,T,D;124474;2024;73,2;3,5;9,5;66,9;conforme;57411;8166;43;135;526;Non vérifié
+02191;Chivy-lès-Étouvelles;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;5651;32;96;484;Non vérifié
+02192;Chouy;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;9532;72;176;364;Non vérifié
+02193;Cierges;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;858;38;108;62;Non vérifié
+02194;Cilly;02;eau potable : SE région Sains Richaumont-DSP ve 31/12/29-P,T,D;124475;2024;63,9;2,3;4,0;65,8;non conforme;68235;4332;69;207;173;Non vérifié
+02195;Ciry-Salsogne;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;23097;72;176;882;Non vérifié
+02196;Clacy-et-Thierret;02;eau potable : SE Région Ouest Laon (SEROL)-DSP Ve 06/04/29-P,T,D;124501;2024;90,6;1,2;11,4;67,3;conforme;24931;1273;12;57;289;Non vérifié
+02197;Clairfontaine;02;eau potable : SE Nord de l'Aisne-DSP sa 31/12/27-P,T,D;124526;2024;71,5;3,9;9,8;67,0;conforme;666824;22196;119;147;509;Non vérifié
+02198;Clamecy;02;eau potable : SE Braye, Vuillery-DSP su 29/06/32-P,T,D;124537;2024;73,8;2,6;7,3;66,5;conforme;6036;3534;40;130;243;Non vérifié
+02199;Clastres;02;eau potable : CASQ/origine-régie-P,T,D;124564;2024;82,7;4,8;22,7;69,5;conforme;751608;6101;28;77;589;Non vérifié
+02200;Clermont-les-Fermes;02;eau potable : SIAE Ebouleau-DSP su 04/11/28-P,T,D;124513;2024;81,6;1,2;5,4;66,1;conforme;19592;1392;39;112;97;Non vérifié
+02201;Coeuvres-et-Valsery;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;12229;72;176;467;Non vérifié
+02203;Coincy;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;18102;38;108;1308;Non vérifié
+02204;Coingt;02;eau potable : SAEP Vallée de la Brune-DSP sa 31/12/28-P,T,D;124533;2024;79,4;1,3;5,2;66,0;conforme;32475;1442;65;92;61;Non vérifié
+02205;Colligis-Crandelain;02;eau potable : SE Pont Oger-DSP ve 31/12/29-P,T,D;124506;2024;80,0;1,3;5,2;66,0;conforme;28423;2588;34;106;207;Non vérifié
+02206;Colonfay;02;eau potable : Colonfay -régie-P,T,D;124287;2024;94,7;0,3;5,4;66,1;conforme;197;197;8;20;71;Non vérifié
+02207;Commenchon;02;eau potable : SE Bois l'Abbé-DSP ve 30/06/27-P,T,D;124503;2024;78,8;2,1;7,8;66,6;conforme;64693;2651;32;103;224;Non vérifié
+02208;Concevreux;02;eau potable : SE région Beaurieux-régie-P,T,D;124498;2024;80,9;1,5;6,5;66,3;conforme;44293;2980;32;85;256;Non vérifié
+02209;Condé-en-Brie;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;9051;38;108;654;Non vérifié
+02210;Condé-sur-Aisne;02;eau potable : SE Bucy, Celles, Chivres, Condé, Missy-DSP su 31/03/35-P,T,D;124474;2024;73,2;3,5;9,5;66,9;conforme;57411;5465;43;135;352;Non vérifié
+02211;Condé-sur-Suippe;02;eau potable : SIEP Guignicourt-régie-P,T,D;124531;2024;83,8;2,6;13,3;67,7;conforme;50904;4100;31;81;357;Non vérifié
+02212;Condren;02;"eau potable : CACTLF/""ex régie & condren"" DSP Ve 31/12/30-P,T,D";305094;2024;84,7;1,7;15,0;68,0;conforme;111541;3865;16;43;674;Non vérifié
+02213;Connigis;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;4235;38;108;306;Non vérifié
+02214;Contescourt;02;eau potable : CASQ/origine-régie-P,T,D;124564;2024;82,7;4,8;22,7;69,5;conforme;751608;632;28;77;61;Non vérifié
+02215;Corbeny;02;eau potable : Corbeny-DSP sa 12/03/25-P,T,D;124292;2024;95,1;1,3;24,4;69,9;conforme;4180;4180;13;19;851;Non vérifié
+02216;Corcy;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;8694;72;176;332;Non vérifié
+02217;Coucy-le-Château-Auffrique;02;eau potable : Coucy-le-Château-Auffrique -régie-P,T,D;124293;2024;64,0;4,0;7,1;66,4;non conforme;25842;25842;72;206;990;Non vérifié
+02218;Coucy-lès-Eppes;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;7577;32;96;649;Non vérifié
+02219;Coucy-la-Ville;02;eau potable : SE Sinceny Autreville-DSP ve 31/12/24-P,T,D;124479;2024;92,9;0,6;8,1;66,6;conforme;36531;705;10;29;194;Non vérifié
+02220;Coulonges-Cohan;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;6131;38;108;443;Non vérifié
+02221;Coupru;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;2228;38;108;161;Non vérifié
+02222;Courbes;02;eau potable : SE Nouvion Catillon-DSP ve 31/12/28-P,T,D;124534;2023;73,5;2,1;5,9;66,2;conforme;14564;706;50;132;39;Sans anomalie apparente
+02223;Courboin;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;4207;38;108;304;Non vérifié
+02224;Courcelles-sur-Vesle;02;eau potable : Courcelles-sur-Vesle-régie-P,T,D;124296;2024;94,0;1,0;15,1;68,0;conforme;1296;1296;10;24;352;Non vérifié
+02225;Courchamps;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;1135;38;108;82;Non vérifié
+02226;Courmelles;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;47346;72;176;1808;Non vérifié
+02227;Courmont;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;1744;38;108;126;Non vérifié
+02228;Courtemont-Varennes;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;4996;38;108;361;Non vérifié
+02229;Courtrizy-et-Fussigny;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;911;32;96;78;Non vérifié
+02230;Couvrelles;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;4557;72;176;174;Non vérifié
+02231;Couvron-et-Aumencourt;02;eau potable : Couvron-Aumencourt-DSP ve 31/12/26-P,T,D;124298;2024;94,7;0,4;8,0;66,6;conforme;1596;1596;5;18;926;Non vérifié
+02232;Coyolles;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;9585;72;176;366;Non vérifié
+02233;Cramaille;02;eau potable : SE région Arcy Ste Restitue-DSP Ve 08/07/34-P,T,D;124550;2024;64,2;2,8;5,0;66,0;non conforme;38427;5508;119;313;127;Non vérifié
+02234;Craonne;02;eau potable : SE Chemin des Dames-DSP sa 31/12/29-P,T,D;124540;2024;81,5;2,6;11,3;67,3;conforme;120352;2228;73;104;84;Non vérifié
+02235;Craonnelle;02;eau potable : SE Chemin des Dames-DSP sa 31/12/29-P,T,D;124540;2024;81,5;2,6;11,3;67,3;conforme;120352;3156;73;104;119;Non vérifié
+02236;Crécy-au-Mont;02;eau potable : SAEP Basse Quincy-régie-P,T,D;290974;2023;70,4;3,9;9,3;66,9;conforme;74492;6064;50;153;335;Sans anomalie apparente
+02237;Crécy-sur-Serre;02;eau potable : Crécy sur Serre-DSP Ve 30/06/34-P,T,D;124302;2024;86,1;5,5;34,1;71,8;conforme;21661;21661;40;105;1472;Non vérifié
+02238;Crépy;02;eau potable : SAEP région Crépy-DSP Sa 31/12/32-P,T,D;124510;2024;75,6;2,3;7,3;66,5;conforme;35452;23970;36;115;1812;Non vérifié
+02239;Crézancy;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;16137;38;108;1166;Non vérifié
+02240;Croix-Fonsomme;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;2137;32;96;183;Non vérifié
+02241;La Croix-sur-Ourcq;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;1204;38;108;87;Non vérifié
+02242;Crouttes-sur-Marne;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;8179;38;108;591;Non vérifié
+02243;Crouy;02;eau potable : GSA/Crouy-DSP su 30/06/33-P,T,D;124306;2024;92,2;1,5;18,0;68,6;conforme;11328;11328;10;31;3049;Non vérifié
+02244;Crupilly;02;eau potable : SE Nord de l'Aisne-DSP sa 31/12/27-P,T,D;124526;2024;71,5;3,9;9,8;67,0;conforme;666824;2791;119;147;64;Non vérifié
+02245;Cuffies;02;eau potable : GSA/SE Cuffies Pasly Pommiers-DSP su 30/06/33-P,T,D;124541;2024;90,0;1,5;13,7;67,7;conforme;23685;11533;18;60;1733;Non vérifié
+02246;Cugny;02;eau potable : SE Bois l'Abbé-DSP ve 30/06/27-P,T,D;124503;2024;78,8;2,1;7,8;66,6;conforme;64693;7183;32;103;607;Non vérifié
+02248;Cuirieux;02;eau potable : SIAE Ebouleau-DSP su 04/11/28-P,T,D;124513;2024;81,6;1,2;5,4;66,1;conforme;19592;2182;39;112;152;Non vérifié
+02249;Cuiry-Housse;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;2671;72;176;102;Non vérifié
+02250;Cuiry-lès-Chaudardes;02;eau potable : SE région Beaurieux-régie-P,T,D;124498;2024;80,9;1,5;6,5;66,3;conforme;44293;978;32;85;84;Non vérifié
+02251;Cuiry-lès-Iviers;02;eau potable : SAEP Vallée de la Brune-DSP sa 31/12/28-P,T,D;124533;2024;79,4;1,3;5,2;66,0;conforme;32475;662;65;92;28;Non vérifié
+02252;Cuissy-et-Geny;02;eau potable : SE Chemin des Dames-DSP sa 31/12/29-P,T,D;124540;2024;81,5;2,6;11,3;67,3;conforme;120352;1910;73;104;72;Non vérifié
+02253;Cuisy-en-Almont;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;4215;32;96;361;Non vérifié
+02254;Cutry;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;3300;72;176;126;Non vérifié
+02255;Cys-la-Commune;02;eau potable : SE vallée Aisne-DSP Su 19/09/34-P,T,D;179784;2024;72,2;2,0;5,3;66,1;conforme;21294;2918;50;138;161;Non vérifié
+02256;Dagny-Lambercy;02;eau potable : SAEP Vallée de la Brune-DSP sa 31/12/28-P,T,D;124533;2024;79,4;1,3;5,2;66,0;conforme;32475;2907;65;92;123;Non vérifié
+02257;Dallon;02;eau potable : CASQ/ex SAEA vallée Somme-DSP sa 15/01/27-P,T,D;124471;2024;76,2;2,1;6,6;66,3;conforme;37612;5724;37;128;424;Non vérifié
+02258;Dammard;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;5231;38;108;378;Non vérifié
+02259;Dampleux;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;9689;72;176;370;Non vérifié
+02260;Danizy;02;eau potable : CACTLF/ex SE Danizy Charmes-DSP ve 28/02/26-P,T,D;124508;2024;93,1;0,9;11,5;67,3;conforme;6682;1869;8;29;609;Non vérifié
+02261;Dercy;02;eau potable : SAE Erlon Marcy-régie-P,T,D;124522;2024;68,9;1,6;3,6;65,7;conforme;23360;7088;50;161;392;Non vérifié
+02262;Deuillet;02;eau potable : SE Sinceny Autreville-DSP ve 31/12/24-P,T,D;124479;2024;92,9;0,6;8,1;66,6;conforme;36531;756;10;29;208;Non vérifié
+02263;Dhuizel;02;eau potable : Dhuizel-régie-P,T,D;124307;2023;88,0;0,4;3,3;65,7;conforme;657;657;16;45;114;Sans anomalie apparente
+02264;Dizy-le-Gros;02;eau potable : Dizy-le-Gros -régie-P,T,D;124308;2024;75,0;4,4;13,2;67,6;conforme;11065;11065;42;122;717;Non vérifié
+02265;Dohis;02;eau potable : SAEP Vallée de la Brune-DSP sa 31/12/28-P,T,D;124533;2024;79,4;1,3;5,2;66,0;conforme;32475;1985;65;92;84;Non vérifié
+02266;Dolignon;02;eau potable : SAE région Rozoy-sur-Serre-DSP ve 21/04/30-P,T,D;124527;2024;84,1;1,0;5,5;66,1;conforme;31624;518;47;69;30;Non vérifié
+02267;Dommiers;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;7516;72;176;287;Non vérifié
+02268;Domptin;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;9051;38;108;654;Non vérifié
+02269;Dorengt;02;eau potable : SE Nord de l'Aisne-DSP sa 31/12/27-P,T,D;124526;2024;71,5;3,9;9,8;67,0;conforme;666824;6454;119;147;148;Non vérifié
+02270;Douchy;02;eau potable : SAE vallée Omignon-régie-P,T,D;124515;2024;67,6;3,5;7,2;66,4;conforme;146580;3286;59;177;153;Non vérifié
+02271;Dravegny;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;1855;38;108;134;Non vérifié
+02272;Droizy;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;1964;72;176;75;Non vérifié
+02273;Dury;02;eau potable : CASQ/ex SAEA vallée Somme-DSP sa 15/01/27-P,T,D;124471;2024;76,2;2,1;6,6;66,3;conforme;37612;2579;37;128;191;Non vérifié
+02274;Ébouleau;02;eau potable : SIAE Ebouleau-DSP su 04/11/28-P,T,D;124513;2024;81,6;1,2;5,4;66,1;conforme;19592;2354;39;112;164;Non vérifié
+02275;Effry;02;eau potable : SE Origny en Thiérache-DSP ve 31/12/24-P,T,D;124517;2024;64,6;2,6;4,8;66,0;non conforme;200514;8352;75;220;307;Non vérifié
+02276;Englancourt;02;eau potable : SE Nord de l'Aisne-DSP sa 31/12/27-P,T,D;124526;2024;71,5;3,9;9,8;67,0;conforme;666824;5320;119;147;122;Non vérifié
+02277;Épagny;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;8825;72;176;337;Non vérifié
+02278;Éparcy;02;eau potable : SE Origny en Thiérache-DSP ve 31/12/24-P,T,D;124517;2024;64,6;2,6;4,8;66,0;non conforme;200514;1034;75;220;38;Non vérifié
+02279;Épaux-Bézu;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;7390;38;108;534;Non vérifié
+02280;Épieds;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;5467;38;108;395;Non vérifié
+02281;L' Épine-aux-Bois;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;3335;38;108;241;Non vérifié
+02282;Eppes;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;5114;32;96;438;Non vérifié
+02283;Erlon;02;eau potable : SAE Erlon Marcy-régie-P,T,D;124522;2024;68,9;1,6;3,6;65,7;conforme;23360;5026;50;161;278;Non vérifié
+02284;Erloy;02;eau potable : SE Nord de l'Aisne-DSP sa 31/12/27-P,T,D;124526;2024;71,5;3,9;9,8;67,0;conforme;666824;4273;119;147;98;Non vérifié
+02286;Esquéhéries;02;eau potable : SE Nord de l'Aisne-DSP sa 31/12/27-P,T,D;124526;2024;71,5;3,9;9,8;67,0;conforme;666824;36934;119;147;847;Non vérifié
+02287;Essigny-le-Grand;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;12516;32;96;1072;Non vérifié
+02288;Essigny-le-Petit;02;eau potable : CASQ/origine-régie-P,T,D;124564;2024;82,7;4,8;22,7;69,5;conforme;751608;3574;28;77;345;Non vérifié
+02289;Essises;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;5522;38;108;399;Non vérifié
+02290;Essômes-sur-Marne;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;37243;38;108;2691;Non vérifié
+02291;Estrées;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;4763;32;96;408;Non vérifié
+02292;Étampes-sur-Marne;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;18393;38;108;1329;Non vérifié
+02293;Étaves-et-Bocquiaux;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;6340;32;96;543;Non vérifié
+02294;Étouvelles;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;2428;32;96;208;Non vérifié
+02295;Étréaupont;02;eau potable : SE Nord de l'Aisne-DSP sa 31/12/27-P,T,D;124526;2024;71,5;3,9;9,8;67,0;conforme;666824;36586;119;147;839;Non vérifié
+02296;Étreillers;02;eau potable : SAE vallée Omignon-régie-P,T,D;124515;2024;67,6;3,5;7,2;66,4;conforme;146580;24849;59;177;1157;Non vérifié
+02297;Étrépilly;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;1730;38;108;125;Non vérifié
+02298;Étreux;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;16766;32;96;1436;Non vérifié
+02299;Évergnicourt;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;6094;32;96;522;Non vérifié
+02302;Faverolles;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;9506;72;176;363;Non vérifié
+02303;Fayet;02;eau potable : CASQ/origine-régie-P,T,D;124564;2024;82,7;4,8;22,7;69,5;conforme;751608;7500;28;77;724;Non vérifié
+02304;La Fère;02;eau potable : CACTLF/La Fére-DSP ve 31/01/31-P,T,D;124314;2024;81,9;4,7;21,2;69,2;conforme;30141;30141;30;82;2796;Non vérifié
+02305;Fère-en-Tardenois;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;39250;38;108;2836;Non vérifié
+02306;La Ferté-Chevresis;02;eau potable : SIE Ribemont-régie-P,T,D;124476;2024;81,9;1,7;7,7;66,5;conforme;111690;7479;39;81;526;Non vérifié
+02307;La Ferté-Milon;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;28053;38;108;2027;Non vérifié
+02308;Fesmy-le-Sart;02;eau potable : SE Nord de l'Aisne-DSP sa 31/12/27-P,T,D;124526;2024;71,5;3,9;9,8;67,0;conforme;666824;22632;119;147;519;Non vérifié
+02309;Festieux;02;eau potable : CAPL/ex SE région Parfondru-DSP sa 07/01/31-P,T,D;124539;2024;80,7;1,2;5,0;66,0;conforme;11283;6619;26;88;704;Non vérifié
+02310;Fieulaine;02;eau potable : CASQ/origine-régie-P,T,D;124564;2024;82,7;4,8;22,7;69,5;conforme;751608;2579;28;77;249;Non vérifié
+02311;Filain;02;eau potable : SE Pont Oger-DSP ve 31/12/29-P,T,D;124506;2024;80,0;1,3;5,2;66,0;conforme;28423;1513;34;106;121;Non vérifié
+02312;La Flamengrie;02;eau potable : SE Nord de l'Aisne-DSP sa 31/12/27-P,T,D;124526;2024;71,5;3,9;9,8;67,0;conforme;666824;48098;119;147;1103;Non vérifié
+02313;Flavigny-le-Grand-et-Beaurain;02;eau potable : SE vallée de l'Oise-régie-P,T,D;124492;2024;80,9;1,9;8,2;66,6;conforme;29127;7222;47;85;420;Non vérifié
+02315;Flavy-le-Martel;02;eau potable : SE Bois l'Abbé-DSP ve 30/06/27-P,T,D;124503;2024;78,8;2,1;7,8;66,6;conforme;64693;20128;32;103;1701;Non vérifié
+02316;Fleury;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;3404;72;176;130;Non vérifié
+02317;Fluquières;02;eau potable : SAE vallée Omignon-régie-P,T,D;124515;2024;67,6;3,5;7,2;66,4;conforme;146580;4167;59;177;194;Non vérifié
+02318;Folembray;02;eau potable : Folembray-DSP su 27/01/32-P,T,D;124318;2023;88,5;1,3;9,6;66,9;conforme;7080;7080;14;49;1355;Sans anomalie apparente
+02319;Fonsomme;02;eau potable : CASQ/origine-régie-P,T,D;124564;2024;82,7;4,8;22,7;69,5;conforme;751608;5366;28;77;518;Non vérifié
+02320;Fontaine-lès-Clercs;02;eau potable : CASQ/ex SAEA vallée Somme-DSP sa 15/01/27-P,T,D;124471;2024;76,2;2,1;6,6;66,3;conforme;37612;3132;37;128;232;Non vérifié
+02321;Fontaine-lès-Vervins;02;eau potable : SAEP Fontaine les Vervins, Vervins-DSP ve 31/12/28-P,T,D;124472;2024;80,2;2,5;9,1;66,8;conforme;51100;12914;41;100;862;Non vérifié
+02322;Fontaine-Notre-Dame;02;eau potable : CASQ/origine-régie-P,T,D;124564;2024;82,7;4,8;22,7;69,5;conforme;751608;3916;28;77;378;Non vérifié
+02323;Fontaine-Uterte;02;eau potable : SE Nord du canal de St Quentin-régie-P,T,D;124493;2024;61,3;4,9;7,7;66,5;non conforme;80894;4779;94;234;140;Non vérifié
+02324;Fontenelle;02;eau potable : SE Nord de l'Aisne-DSP sa 31/12/27-P,T,D;124526;2024;71,5;3,9;9,8;67,0;conforme;666824;12210;119;147;280;Non vérifié
+02326;Fontenoy;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;12648;72;176;483;Non vérifié
+02327;Foreste;02;eau potable : SAE vallée Omignon-régie-P,T,D;124515;2024;67,6;3,5;7,2;66,4;conforme;146580;3565;59;177;166;Non vérifié
+02328;Fossoy;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;7404;38;108;535;Non vérifié
+02329;Fourdrain;02;eau potable : SAEP région Crépy-DSP Sa 31/12/32-P,T,D;124510;2024;75,6;2,3;7,3;66,5;conforme;35452;5344;36;115;404;Non vérifié
+02330;Francilly-Selency;02;eau potable : SAE vallée Omignon-régie-P,T,D;124515;2024;67,6;3,5;7,2;66,4;conforme;146580;9944;59;177;463;Non vérifié
+02331;Franqueville;02;eau potable : SE région Sains Richaumont-DSP ve 31/12/29-P,T,D;124475;2024;63,9;2,3;4,0;65,8;non conforme;68235;2654;69;207;106;Non vérifié
+02332;Fresnes-en-Tardenois;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;3764;38;108;272;Non vérifié
+02333;Fresnes-sous-Coucy;02;eau potable : SE Sinceny Autreville-DSP ve 31/12/24-P,T,D;124479;2024;92,9;0,6;8,1;66,6;conforme;36531;582;10;29;160;Non vérifié
+02334;Fresnoy-le-Grand;02;eau potable : Fresnoy-le-Grand-DSP sa 31/12/27-P,T,D;124322;2024;90,1;5,1;47,0;74,4;conforme;40711;40711;39;124;2890;Non vérifié
+02335;Fressancourt;02;"eau potable : CACTLF/""ex régie & condren"" DSP Ve 31/12/30-P,T,D";305094;2024;84,7;1,7;15,0;68,0;conforme;111541;952;16;43;166;Non vérifié
+02336;Frières-Faillouël;02;eau potable : SE Bois l'Abbé-DSP ve 30/06/27-P,T,D;124503;2024;78,8;2,1;7,8;66,6;conforme;64693;11490;32;103;971;Non vérifié
+02337;Froidestrées;02;eau potable : SE Nord de l'Aisne-DSP sa 31/12/27-P,T,D;124526;2024;71,5;3,9;9,8;67,0;conforme;666824;8634;119;147;198;Non vérifié
+02338;Froidmont-Cohartille;02;eau potable : SE vallée de la Serre-DSP sa 30/06/26-P,T,D;124486;2024;87,9;0,7;4,9;66,0;conforme;3138;1204;14;52;236;Non vérifié
+02339;Gandelu;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;9453;38;108;683;Non vérifié
+02340;Gauchy;02;eau potable : CASQ/origine-régie-P,T,D;124564;2024;82,7;4,8;22,7;69,5;conforme;751608;53691;28;77;5183;Non vérifié
+02341;Gercy;02;eau potable : SE région Braye en Thiérache-DSP sa 31/12/29-P,T,D;124516;2024;58,8;2,9;4,2;65,8;non conforme;87273;12772;136;256;258;Non vérifié
+02342;Gergny;02;eau potable : SE Origny en Thiérache-DSP ve 31/12/24-P,T,D;124517;2024;64,6;2,6;4,8;66,0;non conforme;200514;3455;75;220;127;Non vérifié
+02343;Germaine;02;eau potable : SAE vallée Omignon-régie-P,T,D;124515;2024;67,6;3,5;7,2;66,4;conforme;146580;1804;59;177;84;Non vérifié
+02345;Gibercourt;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;432;32;96;37;Non vérifié
+02346;Gizy;02;eau potable : SIE Liesse-régie-P,T,D;124489;2024;76,4;2,9;9,3;66,9;conforme;25404;7998;35;114;630;Non vérifié
+02347;Gland;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;5882;38;108;425;Non vérifié
+02349;Goudelancourt-lès-Berrieux;02;eau potable : SE St Erme-régie-P,T,D;124495;2024;62,6;4,3;7,2;66,4;non conforme;56502;1725;73;217;65;Non vérifié
+02350;Goudelancourt-lès-Pierrepont;02;eau potable : SIAE Ebouleau-DSP su 04/11/28-P,T,D;124513;2024;81,6;1,2;5,4;66,1;conforme;19592;2009;39;112;140;Non vérifié
+02351;Goussancourt;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;1661;38;108;120;Non vérifié
+02352;Gouy;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;6678;32;96;572;Non vérifié
+02353;Grandlup-et-Fay;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;3211;32;96;275;Non vérifié
+02354;Grandrieux;02;eau potable : SAE région Rozoy-sur-Serre-DSP ve 21/04/30-P,T,D;124527;2024;84,1;1,0;5,5;66,1;conforme;31624;1382;47;69;80;Non vérifié
+02355;Gricourt;02;eau potable : SAE vallée Omignon-régie-P,T,D;124515;2024;67,6;3,5;7,2;66,4;conforme;146580;21713;59;177;1011;Non vérifié
+02356;Grisolles;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;3142;38;108;227;Non vérifié
+02357;Gronard;02;eau potable : SE région Braye en Thiérache-DSP sa 31/12/29-P,T,D;124516;2024;58,8;2,9;4,2;65,8;non conforme;87273;2772;136;256;56;Non vérifié
+02358;Grougis;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;3549;32;96;304;Non vérifié
+02359;Grugies;02;eau potable : CASQ/origine-régie-P,T,D;124564;2024;82,7;4,8;22,7;69,5;conforme;751608;13260;28;77;1280;Non vérifié
+02360;Villeneuve-sur-Aisne;02;eau potable : SIEP Guignicourt-régie-P,T,D;124531;2024;83,8;2,6;13,3;67,7;conforme;50904;32068;31;81;2792;Non vérifié
+02361;Guise;02;eau potable : Guise-DSP sa 31/12/25-P,T,D;124325;2024;81,8;3,6;16,2;68,2;conforme;51220;51220;31;81;4490;Non vérifié
+02362;Guivry;02;"eau potable : CACTLF/""ex régie & condren"" DSP Ve 31/12/30-P,T,D";305094;2024;84,7;1,7;15,0;68,0;conforme;111541;1365;16;43;238;Non vérifié
+02363;Guny;02;eau potable : SAEP Basse Quincy-régie-P,T,D;290974;2023;70,4;3,9;9,3;66,9;conforme;74492;6463;50;153;357;Sans anomalie apparente
+02364;Guyencourt;02;eau potable : SE région Beaurieux-régie-P,T,D;124498;2024;80,9;1,5;6,5;66,3;conforme;44293;2840;32;85;244;Non vérifié
+02366;Hannapes;02;eau potable : SE Hannapes, Iron, Tupigny-DSP sa 30/06/30-P,T,D;124502;2024;65,6;2,7;5,2;66,0;non conforme;19779;7152;61;191;320;Non vérifié
+02367;Happencourt;02;eau potable : CASQ/ex SAEA vallée Somme-DSP sa 15/01/27-P,T,D;124471;2024;76,2;2,1;6,6;66,3;conforme;37612;2417;37;128;179;Non vérifié
+02368;Haramont;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;14560;72;176;556;Non vérifié
+02369;Harcigny;02;eau potable : SE région Braye en Thiérache-DSP sa 31/12/29-P,T,D;124516;2024;58,8;2,9;4,2;65,8;non conforme;87273;12079;136;256;244;Non vérifié
+02370;Hargicourt;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;6363;32;96;545;Non vérifié
+02371;Harly;02;eau potable : CASQ/origine-régie-P,T,D;124564;2024;82,7;4,8;22,7;69,5;conforme;751608;16253;28;77;1569;Non vérifié
+02372;Hartennes-et-Taux;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;8982;72;176;343;Non vérifié
+02373;Hary;02;eau potable : SE région Braye en Thiérache-DSP sa 31/12/29-P,T,D;124516;2024;58,8;2,9;4,2;65,8;non conforme;87273;10049;136;256;203;Non vérifié
+02374;Lehaucourt;02;eau potable : SE Nord du canal de St Quentin-régie-P,T,D;124493;2024;61,3;4,9;7,7;66,5;non conforme;80894;28057;94;234;822;Non vérifié
+02375;Hautevesnes;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;2284;38;108;165;Non vérifié
+02376;Hauteville;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;2207;32;96;189;Non vérifié
+02377;Haution;02;eau potable : SE Nord de l'Aisne-DSP sa 31/12/27-P,T,D;124526;2024;71,5;3,9;9,8;67,0;conforme;666824;5712;119;147;131;Non vérifié
+02378;La Hérie;02;eau potable : SE Origny en Thiérache-DSP ve 31/12/24-P,T,D;124517;2024;64,6;2,6;4,8;66,0;non conforme;200514;3401;75;220;125;Non vérifié
+02379;Le Hérie-la-Viéville;02;eau potable : SE Landifay-DSP 31/12/27-P,T,D;124548;2024;63,8;2,0;3,6;65,7;non conforme;15534;6888;98;206;192;Non vérifié
+02380;Hinacourt;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;327;32;96;28;Non vérifié
+02381;Hirson;02;eau potable : Hirson-DSP ve31/12/37-P,T,D;124330;2024;76,6;4,5;14,6;67,9;conforme;113332;113332;37;113;8469;Non vérifié
+02382;Holnon;02;eau potable : Holnon-DSP sa 30/06/28-P,T,D;124331;2024;79,9;5,4;21,3;69,3;conforme;25386;25386;52;173;1343;Non vérifié
+02383;Homblières;02;eau potable : CASQ/origine-régie-P,T,D;124564;2024;82,7;4,8;22,7;69,5;conforme;751608;14627;28;77;1412;Non vérifié
+02384;Houry;02;eau potable : SE région Braye en Thiérache-DSP sa 31/12/29-P,T,D;124516;2024;58,8;2,9;4,2;65,8;non conforme;87273;2822;136;256;57;Non vérifié
+02385;Housset;02;eau potable : SE région Sains Richaumont-DSP ve 31/12/29-P,T,D;124475;2024;63,9;2,3;4,0;65,8;non conforme;68235;4257;69;207;170;Non vérifié
+02386;Iron;02;eau potable : SE Hannapes, Iron, Tupigny-DSP sa 30/06/30-P,T,D;124502;2024;65,6;2,7;5,2;66,0;non conforme;19779;5006;61;191;224;Non vérifié
+02387;Itancourt;02;eau potable : Itancourt-régie-P,T,D;124332;2024;90,5;1,4;13,7;67,7;conforme;4165;4165;11;37;999;Non vérifié
+02388;Iviers;02;eau potable : SAEP Vallée de la Brune-DSP sa 31/12/28-P,T,D;124533;2024;79,4;1,3;5,2;66,0;conforme;32475;5152;65;92;218;Non vérifié
+02389;Jaulgonne;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;9300;38;108;672;Non vérifié
+02390;Jeancourt;02;eau potable : SAE vallée Omignon-régie-P,T,D;124515;2024;67,6;3,5;7,2;66,4;conforme;146580;5391;59;177;251;Non vérifié
+02391;Jeantes;02;eau potable : SAEP Vallée de la Brune-DSP sa 31/12/28-P,T,D;124533;2024;79,4;1,3;5,2;66,0;conforme;32475;5412;65;92;229;Non vérifié
+02392;Joncourt;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;3829;32;96;328;Non vérifié
+02393;Jouaignes;02;eau potable : SE région Arcy Ste Restitue-DSP Ve 08/07/34-P,T,D;124550;2024;64,2;2,8;5,0;66,0;non conforme;38427;6115;119;313;141;Non vérifié
+02395;Jumencourt;02;eau potable : SME Prémontré-régie-P,T,D;124546;2024;88,8;1,2;9,4;66,9;conforme;13841;1622;37;46;120;Non vérifié
+02396;Jumigny;02;eau potable : SE Chemin des Dames-DSP sa 31/12/29-P,T,D;124540;2024;81,5;2,6;11,3;67,3;conforme;120352;1591;73;104;60;Non vérifié
+02397;Jussy;02;eau potable : CASQ/origine-régie-P,T,D;124564;2024;82,7;4,8;22,7;69,5;conforme;751608;11944;28;77;1153;Non vérifié
+02398;Juvigny;02;"eau potable : SPENS/GSA""juvigny"" - DSP Su 30/06/33 - D";330534;2024;76,0;1,9;6,0;66,2;conforme;4612;4612;44;116;288;Non vérifié
+02399;Juvincourt-et-Damary;02;eau potable : Juvincourt-et-Damary -régie-D;124336;2023;76,4;2,4;7,7;66,5;conforme;7639;7639;35;114;604;Sans anomalie apparente
+02400;Laffaux;02;eau potable : SPENS/Laffaux - DSP Su 31/08/29 - D;330554;2024;69,4;1,9;4,2;65,8;conforme;3509;3509;65;164;149;Non vérifié
+02401;Laigny;02;eau potable : SE Nord de l'Aisne-DSP sa 31/12/27-P,T,D;124526;2024;71,5;3,9;9,8;67,0;conforme;666824;8242;119;147;189;Non vérifié
+02402;Lanchy;02;eau potable : SAE vallée Omignon-régie-P,T,D;124515;2024;67,6;3,5;7,2;66,4;conforme;146580;816;59;177;38;Non vérifié
+02403;Landifay-et-Bertaignemont;02;eau potable : SE Landifay-DSP 31/12/27-P,T,D;124548;2024;63,8;2,0;3,6;65,7;non conforme;15534;8646;98;206;241;Non vérifié
+02404;Landouzy-la-Cour;02;eau potable : SE Origny en Thiérache-DSP ve 31/12/24-P,T,D;124517;2024;64,6;2,6;4,8;66,0;non conforme;200514;4544;75;220;167;Non vérifié
+02405;Landouzy-la-Ville;02;eau potable : SE Origny en Thiérache-DSP ve 31/12/24-P,T,D;124517;2024;64,6;2,6;4,8;66,0;non conforme;200514;13685;75;220;503;Non vérifié
+02406;Landricourt;02;eau potable : SME Prémontré-régie-P,T,D;124546;2024;88,8;1,2;9,4;66,9;conforme;13841;1703;37;46;126;Non vérifié
+02407;Laniscourt;02;eau potable : SE Région Ouest Laon (SEROL)-DSP Ve 06/04/29-P,T,D;124501;2024;90,6;1,2;11,4;67,3;conforme;24931;952;12;57;216;Non vérifié
+02408;Laon;02;eau potable : SMPA Griffon-régie-T,D;285614;2024;84,4;0,9;4,7;65,9;conforme;2464;2331;0;69;24220;Non vérifié
+02409;Lappion;02;eau potable : Lappion-régie-P,T,D;124340;2024;64,0;4,0;7,0;66,4;non conforme;6541;6541;63;207;283;Non vérifié
+02410;Largny-sur-Automne;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;6259;72;176;239;Non vérifié
+02411;Latilly;02;eau potable : SE région Neuilly St Front-DSP ve 31/12/28-P,T,D;124499;2024;71,6;2,1;5,3;66,1;conforme;55042;3772;52;146;198;Non vérifié
+02412;Launoy;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;2514;72;176;96;Non vérifié
+02413;Laval-en-Laonnois;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;2930;32;96;251;Non vérifié
+02414;Lavaqueresse;02;eau potable : SE Nord de l'Aisne-DSP sa 31/12/27-P,T,D;124526;2024;71,5;3,9;9,8;67,0;conforme;666824;8852;119;147;203;Non vérifié
+02415;Laversine;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;4059;72;176;155;Non vérifié
+02416;Lemé;02;eau potable : SE de Le Sourd-DSP ve 31/12/29-P,T,D;124490;2024;79,0;1,6;6,0;66,2;conforme;20387;5803;39;99;409;Non vérifié
+02417;Lempire;02;eau potable;199397;2024;77,1;2,0;6,7;66,3;conforme;86045;1751;38;114;125;Non vérifié
+02418;Lerzy;02;eau potable : SE Nord de l'Aisne-DSP sa 31/12/27-P,T,D;124526;2024;71,5;3,9;9,8;67,0;conforme;666824;9724;119;147;223;Non vérifié
+02419;Leschelle;02;eau potable : SE Nord de l'Aisne-DSP sa 31/12/27-P,T,D;124526;2024;71,5;3,9;9,8;67,0;conforme;666824;11730;119;147;269;Non vérifié
+02420;Lesdins;02;eau potable : CASQ/origine-régie-P,T,D;124564;2024;82,7;4,8;22,7;69,5;conforme;751608;8184;28;77;790;Non vérifié
+02421;Lesges;02;eau potable : Lesges-régie-P,T,D;124342;2024;89,6;0,7;5,6;66,1;conforme;506;506;17;45;83;Non vérifié
+02422;Lesquielles-Saint-Germain;02;eau potable : Lesquielles-St-Germain-DSP sa 30/09/34-P,T,D;124343;2023;87,0;1,3;8,8;66,8;conforme;6928;6928;25;54;754;Sans anomalie apparente
+02423;Leuilly-sous-Coucy;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;5312;32;96;455;Non vérifié
+02424;Leury;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;1179;32;96;101;Non vérifié
+02425;Leuze;02;eau potable : SE région Aubenton-DSP Sa 07/07/34 - P,T,D;124525;2024;52,3;3,0;3,3;65,7;non conforme;157297;10992;158;329;190;Non vérifié
+02426;Levergies;02;eau potable : SE Nord du canal de St Quentin-régie-P,T,D;124493;2024;61,3;4,9;7,7;66,5;non conforme;80894;18534;94;234;543;Non vérifié
+02427;Lhuys;02;eau potable : SE région Arcy Ste Restitue-DSP Ve 08/07/34-P,T,D;124550;2024;64,2;2,8;5,0;66,0;non conforme;38427;6072;119;313;140;Non vérifié
+02428;Licy-Clignon;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;900;38;108;65;Non vérifié
+02429;Lierval;02;eau potable : SE Pont Oger-DSP ve 31/12/29-P,T,D;124506;2024;80,0;1,3;5,2;66,0;conforme;28423;1463;34;106;117;Non vérifié
+02430;Liesse-Notre-Dame;02;eau potable : SIE Liesse-régie-P,T,D;124489;2024;76,4;2,9;9,3;66,9;conforme;25404;16047;35;114;1264;Non vérifié
+02431;Liez;02;"eau potable : CACTLF/""ex régie & condren"" DSP Ve 31/12/30-P,T,D";305094;2024;84,7;1,7;15,0;68,0;conforme;111541;2208;16;43;385;Non vérifié
+02432;Limé;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;5028;72;176;192;Non vérifié
+02433;Lislet;02;eau potable : SE région Montcornet-DSP ve 28/02/29-P,T,D;124530;2024;76,0;3,5;11,2;67,2;conforme;33215;3486;43;160;220;Non vérifié
+02435;Logny-lès-Aubenton;02;eau potable : SE région Aubenton-DSP Sa 07/07/34 - P,T,D;124525;2024;52,3;3,0;3,3;65,7;non conforme;157297;4859;158;329;84;Non vérifié
+02438;Longpont;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;6521;72;176;249;Non vérifié
+02439;Les Septvallons;02;eau potable : SAE Blanzy-les-Fismes-DSP su 31/12/28-P,T,D;124504;2024;75,1;1,5;4,4;65,9;conforme;13616;12227;27;124;1232;Non vérifié
+02440;Lor;02;eau potable : SE Chemin des Dames-DSP sa 31/12/29-P,T,D;124540;2024;81,5;2,6;11,3;67,3;conforme;120352;3739;73;104;141;Non vérifié
+02441;Louâtre;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;5316;72;176;203;Non vérifié
+02442;Loupeigne;02;eau potable : CARCT/SIAEP Loupeigne-dé co - régie-P,T,D;124543;2024;90,5;0,4;4,0;65,8;conforme;1314;365;12;37;85;Non vérifié
+02443;Lucy-le-Bocage;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;2796;38;108;202;Non vérifié
+02444;Lugny;02;eau potable : SE région Sains Richaumont-DSP ve 31/12/29-P,T,D;124475;2024;63,9;2,3;4,0;65,8;non conforme;68235;2754;69;207;110;Non vérifié
+02445;Luzoir;02;eau potable : SE Origny en Thiérache-DSP ve 31/12/24-P,T,D;124517;2024;64,6;2,6;4,8;66,0;non conforme;200514;7237;75;220;266;Non vérifié
+02446;Ly-Fontaine;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;1378;32;96;118;Non vérifié
+02447;Maast-et-Violaine;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;3300;72;176;126;Non vérifié
+02448;Mâchecourt;02;eau potable : SIAE Ebouleau-DSP su 04/11/28-P,T,D;124513;2024;81,6;1,2;5,4;66,1;conforme;19592;1550;39;112;108;Non vérifié
+02449;Macogny;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;886;38;108;64;Non vérifié
+02450;Macquigny;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;4168;32;96;357;Non vérifié
+02451;Magny-la-Fosse;02;eau potable : SE Nord du canal de St Quentin-régie-P,T,D;124493;2024;61,3;4,9;7,7;66,5;non conforme;80894;4164;94;234;122;Non vérifié
+02452;Maissemy;02;eau potable : SAE vallée Omignon-régie-P,T,D;124515;2024;67,6;3,5;7,2;66,4;conforme;146580;4983;59;177;232;Non vérifié
+02453;Maizy;02;eau potable : SE région Beaurieux-régie-P,T,D;124498;2024;80,9;1,5;6,5;66,3;conforme;44293;4563;32;85;392;Non vérifié
+02454;La Malmaison;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;4705;32;96;403;Non vérifié
+02455;Malzy;02;eau potable : Malzy-régie-P,T,D;124350;2024;87,0;1,7;11,5;67,3;conforme;1942;1942;30;54;178;Non vérifié
+02456;Manicamp;02;eau potable : CACTLF/ex SE d'Abbecourt-DSP ve 31/12/29-P,T,D;124545;2024;73,9;2,4;6,8;66,4;conforme;40077;4873;43;128;311;Non vérifié
+02457;Marchais;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;4542;32;96;389;Non vérifié
+02458;Dhuys et Morin-en-Brie;02;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;6143;21;94;821;Non vérifié
+02459;Marcy;02;eau potable : CASQ/origine-régie-P,T,D;124564;2024;82,7;4,8;22,7;69,5;conforme;751608;1564;28;77;151;Non vérifié
+02460;Marcy-sous-Marle;02;eau potable : SAE Erlon Marcy-régie-P,T,D;124522;2024;68,9;1,6;3,6;65,7;conforme;23360;3670;50;161;203;Non vérifié
+02461;Marest-Dampcourt;02;eau potable : CACTLF/ex SE d'Abbecourt-DSP ve 31/12/29-P,T,D;124545;2024;73,9;2,4;6,8;66,4;conforme;40077;5343;43;128;341;Non vérifié
+02462;Mareuil-en-Dôle;02;eau potable : CARCT/SIAEP Loupeigne-dé co - régie-P,T,D;124543;2024;90,5;0,4;4,0;65,8;conforme;1314;949;12;37;221;Non vérifié
+02463;Marfontaine;02;eau potable : SE région Sains Richaumont-DSP ve 31/12/29-P,T,D;124475;2024;63,9;2,3;4,0;65,8;non conforme;68235;2078;69;207;83;Non vérifié
+02464;Margival;02;eau potable : SPENS/Margival - DSP Su 31/08/28 - D;330535;2024;96,6;0,5;13,8;67,8;conforme;683;683;5;13;377;Non vérifié
+02465;Marigny-en-Orxois;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;7335;38;108;530;Non vérifié
+02466;Marizy-Sainte-Geneviève;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;1730;38;108;125;Non vérifié
+02467;Marizy-Saint-Mard;02;eau potable : SE région Neuilly St Front-DSP ve 31/12/28-P,T,D;124499;2024;71,6;2,1;5,3;66,1;conforme;55042;895;52;146;47;Non vérifié
+02468;Marle;02;eau potable : Marle-DSP ve 31/12/30-P,T,D;124353;2024;68,1;5,4;11,5;67,3;conforme;46200;46200;57;172;2229;Non vérifié
+02469;Marly-Gomont;02;eau potable : SE Nord de l'Aisne-DSP sa 31/12/27-P,T,D;124526;2024;71,5;3,9;9,8;67,0;conforme;666824;21062;119;147;483;Non vérifié
+02470;Martigny;02;eau potable : SE région Aubenton-DSP Sa 07/07/34 - P,T,D;124525;2024;52,3;3,0;3,3;65,7;non conforme;157297;23719;158;329;410;Non vérifié
+02471;Martigny-Courpierre;02;eau potable : CAPL/Chamouille, Martigny-Courpierre, Orgeval-régie-P,T,D;324634;2024;82,6;1,4;6,5;66,3;conforme;5376;1536;32;79;130;Non vérifié
+02472;Mauregny-en-Haye;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;4647;32;96;398;Non vérifié
+02473;Mayot;02;eau potable : SE Séry Mézières Vallée de l'Oisel-DSP sa 31/12/26-P,T,D;124524;2024;65,4;4,1;7,8;66,6;non conforme;75304;4235;56;191;207;Non vérifié
+02474;Mennessis;02;"eau potable : CACTLF/""ex régie & condren"" DSP Ve 31/12/30-P,T,D";305094;2024;84,7;1,7;15,0;68,0;conforme;111541;2403;16;43;419;Non vérifié
+02476;Mennevret;02;eau potable : SE Mennevret Petit Verly-DSP sa 31/12/27-P,T,D;124484;2024;72,8;1,7;4,6;65,9;conforme;10790;8679;37;135;637;Non vérifié
+02477;Mercin-et-Vaux;02;eau potable : GSA/Mercin-et-Vaux-DSP su 04/07/25-P,T,D;124358;2024;81,1;3,8;16,4;68,3;conforme;20389;20389;60;86;935;Non vérifié
+02478;Merlieux-et-Fouquerolles;02;eau potable : Merlieux-et-Fouquerolles-régie-P,T,D;124359;2024;90,1;0,5;4,7;65,9;conforme;1188;1188;13;39;253;Non vérifié
+02480;Mesbrecourt-Richecourt;02;eau potable : SIE Ribemont-régie-P,T,D;124476;2024;81,9;1,7;7,7;66,5;conforme;111690;4550;39;81;320;Non vérifié
+02481;Mesnil-Saint-Laurent;02;eau potable : CASQ/origine-régie-P,T,D;124564;2024;82,7;4,8;22,7;69,5;conforme;751608;4506;28;77;435;Non vérifié
+02482;Meurival;02;eau potable : SE région Beaurieux-régie-P,T,D;124498;2024;80,9;1,5;6,5;66,3;conforme;44293;652;32;85;56;Non vérifié
+02483;Mézières-sur-Oise;02;eau potable : SE Séry Mézières Vallée de l'Oisel-DSP sa 31/12/26-P,T,D;124524;2024;65,4;4,1;7,8;66,6;non conforme;75304;10372;56;191;507;Non vérifié
+02484;Mézy-Moulins;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;7723;38;108;558;Non vérifié
+02485;Missy-aux-Bois;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;2619;72;176;100;Non vérifié
+02486;Missy-lès-Pierrepont;02;eau potable : SIE Liesse-régie-P,T,D;124489;2024;76,4;2,9;9,3;66,9;conforme;25404;1358;35;114;107;Non vérifié
+02487;Missy-sur-Aisne;02;eau potable : SE Bucy, Celles, Chivres, Condé, Missy-DSP su 31/03/35-P,T,D;124474;2024;73,2;3,5;9,5;66,9;conforme;57411;9703;43;135;625;Non vérifié
+02488;Molain;02;eau potable : SE région Wassigny-régie-P,T,D;124478;2024;55,6;4,3;5,4;66,1;non conforme;59500;5726;97;288;161;Non vérifié
+02489;Molinchart;02;eau potable : SE Région Ouest Laon (SEROL)-DSP Ve 06/04/29-P,T,D;124501;2024;90,6;1,2;11,4;67,3;conforme;24931;1582;12;57;359;Non vérifié
+02490;Monampteuil;02;eau potable : SE Pont Oger-DSP ve 31/12/29-P,T,D;124506;2024;80,0;1,3;5,2;66,0;conforme;28423;1526;34;106;122;Non vérifié
+02491;Monceau-le-Neuf-et-Faucouzy;02;eau potable : Monceau Neuf Faucouzy-régie-P,T,D;124360;2024;65,6;4,0;7,7;66,5;non conforme;10746;10746;92;203;320;Non vérifié
+02492;Monceau-lès-Leups;02;"eau potable : CACTLF/""ex régie & condren"" DSP Ve 31/12/30-P,T,D";305094;2024;84,7;1,7;15,0;68,0;conforme;111541;2443;16;43;426;Non vérifié
+02493;Monceau-le-Waast;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;2463;32;96;211;Non vérifié
+02494;Monceau-sur-Oise;02;eau potable : SE vallée de l'Oise-régie-P,T,D;124492;2024;80,9;1,9;8,2;66,6;conforme;29127;2270;47;85;132;Non vérifié
+02495;Mondrepuis;02;eau potable : SE Origny en Thiérache-DSP ve 31/12/24-P,T,D;124517;2024;64,6;2,6;4,8;66,0;non conforme;200514;27969;75;220;1028;Non vérifié
+02496;Monnes;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;1246;38;108;90;Non vérifié
+02497;Mons-en-Laonnois;02;eau potable : SE Région Ouest Laon (SEROL)-DSP Ve 06/04/29-P,T,D;124501;2024;90,6;1,2;11,4;67,3;conforme;24931;5050;12;57;1146;Non vérifié
+02498;Montaigu;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;8943;32;96;766;Non vérifié
+02499;Montbavin;02;eau potable : SE Pont Oger-DSP ve 31/12/29-P,T,D;124506;2024;80,0;1,3;5,2;66,0;conforme;28423;488;34;106;39;Non vérifié
+02500;Montbrehain;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;9527;32;96;816;Non vérifié
+02501;Montchâlons;02;eau potable : CAPL/ex SE région Parfondru-DSP sa 07/01/31-P,T,D;124539;2024;80,7;1,2;5,0;66,0;conforme;11283;592;26;88;63;Non vérifié
+02502;Montcornet;02;eau potable : SE région Montcornet-DSP ve 28/02/29-P,T,D;124530;2024;76,0;3,5;11,2;67,2;conforme;33215;19127;43;160;1207;Non vérifié
+02503;Mont-d'Origny;02;eau potable : SIE Ribemont-régie-P,T,D;124476;2024;81,9;1,7;7,7;66,5;conforme;111690;11930;39;81;839;Non vérifié
+02504;Montescourt-Lizerolles;02;eau potable : CASQ/origine-régie-P,T,D;124564;2024;82,7;4,8;22,7;69,5;conforme;751608;16637;28;77;1606;Non vérifié
+02505;Montfaucon;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;2893;38;108;209;Non vérifié
+02506;Montgobert;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;5237;72;176;200;Non vérifié
+02507;Montgru-Saint-Hilaire;02;eau potable : SE région Neuilly St Front-DSP ve 31/12/28-P,T,D;124499;2024;71,6;2,1;5,3;66,1;conforme;55042;572;52;146;30;Non vérifié
+02508;Monthenault;02;eau potable : SE Chemin des Dames-DSP sa 31/12/29-P,T,D;124540;2024;81,5;2,6;11,3;67,3;conforme;120352;3713;73;104;140;Non vérifié
+02509;Monthiers;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;2173;38;108;157;Non vérifié
+02510;Monthurel;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;1868;38;108;135;Non vérifié
+02511;Montigny-en-Arrouaise;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;3701;32;96;317;Non vérifié
+02512;Montigny-l'Allier;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;3778;38;108;273;Non vérifié
+02513;Montigny-le-Franc;02;eau potable : SIAE Ebouleau-DSP su 04/11/28-P,T,D;124513;2024;81,6;1,2;5,4;66,1;conforme;19592;2024;39;112;141;Non vérifié
+02514;Montigny-Lengrain;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;17650;72;176;674;Non vérifié
+02515;Montigny-lès-Condé;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;706;38;108;51;Non vérifié
+02516;Montigny-sous-Marle;02;eau potable : SE région Sains Richaumont-DSP ve 31/12/29-P,T,D;124475;2024;63,9;2,3;4,0;65,8;non conforme;68235;1778;69;207;71;Non vérifié
+02517;Montigny-sur-Crécy;02;eau potable : SIE Ribemont-régie-P,T,D;124476;2024;81,9;1,7;7,7;66,5;conforme;111690;4351;39;81;306;Non vérifié
+02518;Montlevon;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;3861;38;108;279;Non vérifié
+02519;Montloué;02;eau potable : SE vallée du Hurtaut-régie-P,T,D;124528;2024;83,7;1,3;6,5;66,3;conforme;5063;2677;38;73;193;Non vérifié
+02520;Mont-Notre-Dame;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;19667;72;176;751;Non vérifié
+02521;Montreuil-aux-Lions;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;18061;38;108;1305;Non vérifié
+02522;Mont-Saint-Jean;02;eau potable : SE région Aubenton-DSP Sa 07/07/34 - P,T,D;124525;2024;52,3;3,0;3,3;65,7;non conforme;157297;4570;158;329;79;Non vérifié
+02523;Mont-Saint-Martin;02;eau potable : SIVOM Chery-Chartreuve-DSP su 13/07/25-P,T,D;124552;2024;68,3;1,7;3,6;65,7;conforme;12063;1587;62;171;70;Non vérifié
+02524;Mont-Saint-Père;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;9466;38;108;684;Non vérifié
+02525;Morcourt;02;eau potable : CASQ/origine-régie-P,T,D;124564;2024;82,7;4,8;22,7;69,5;conforme;751608;5635;28;77;544;Non vérifié
+02526;Morgny-en-Thiérache;02;eau potable : SAEP Vallée de la Brune-DSP sa 31/12/28-P,T,D;124533;2024;79,4;1,3;5,2;66,0;conforme;32475;2316;65;92;98;Non vérifié
+02527;Morsain;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;12282;72;176;469;Non vérifié
+02528;Mortefontaine;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;5447;72;176;208;Non vérifié
+02529;Mortiers;02;eau potable : SAE Erlon Marcy-régie-P,T,D;124522;2024;68,9;1,6;3,6;65,7;conforme;23360;3345;50;161;185;Non vérifié
+02530;Moulins;02;eau potable : SE Chemin des Dames-DSP sa 31/12/29-P,T,D;124540;2024;81,5;2,6;11,3;67,3;conforme;120352;1963;73;104;74;Non vérifié
+02531;Moussy-Verneuil;02;eau potable : SE Chemin des Dames-DSP sa 31/12/29-P,T,D;124540;2024;81,5;2,6;11,3;67,3;conforme;120352;3739;73;104;141;Non vérifié
+02532;Moÿ-de-l'Aisne;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;11605;32;96;994;Non vérifié
+02533;Muret-et-Crouttes;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;3064;72;176;117;Non vérifié
+02534;Muscourt;02;eau potable : SE région Beaurieux-régie-P,T,D;124498;2024;80,9;1,5;6,5;66,3;conforme;44293;512;32;85;44;Non vérifié
+02535;Nampcelles-la-Cour;02;eau potable : SE région Braye en Thiérache-DSP sa 31/12/29-P,T,D;124516;2024;58,8;2,9;4,2;65,8;non conforme;87273;5693;136;256;115;Non vérifié
+02536;Nampteuil-sous-Muret;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;2304;72;176;88;Non vérifié
+02537;Nanteuil-la-Fosse;02;eau potable : SPENS/Socle régie - D;330594;2024;81,6;2,2;9,7;66,9;conforme;9845;1905;28;83;186;Non vérifié
+02538;Nanteuil-Notre-Dame;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;1190;38;108;86;Non vérifié
+02539;Nauroy;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;7694;32;96;659;Non vérifié
+02540;Nesles-la-Montagne;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;16455;38;108;1189;Non vérifié
+02541;Neufchâtel-sur-Aisne;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;4950;32;96;424;Non vérifié
+02542;Neuflieux;02;eau potable : CACTLF/ex SE d'Abbecourt-DSP ve 31/12/29-P,T,D;124545;2024;73,9;2,4;6,8;66,4;conforme;40077;1253;43;128;80;Non vérifié
+02543;Neuilly-Saint-Front;02;eau potable : SE région Neuilly St Front-DSP ve 31/12/28-P,T,D;124499;2024;71,6;2,1;5,3;66,1;conforme;55042;37019;52;146;1943;Non vérifié
+02544;Neuve-Maison;02;eau potable : SE Origny en Thiérache-DSP ve 31/12/24-P,T,D;124517;2024;64,6;2,6;4,8;66,0;non conforme;200514;16379;75;220;602;Non vérifié
+02545;La Neuville-Bosmont;02;eau potable : La Neuville-Bosmont-régie-P,T,D;124367;2024;94,4;0,8;14,2;67,8;conforme;584;584;9;21;187;Non vérifié
+02546;La Neuville-en-Beine;02;eau potable : SE Bois l'Abbé-DSP ve 30/06/27-P,T,D;124503;2024;78,8;2,1;7,8;66,6;conforme;64693;2331;32;103;197;Non vérifié
+02547;La Neuville-Housset;02;eau potable : SE région Sains Richaumont-DSP ve 31/12/29-P,T,D;124475;2024;63,9;2,3;4,0;65,8;non conforme;68235;1527;69;207;61;Non vérifié
+02548;La Neuville-lès-Dorengt;02;eau potable : SE Nord de l'Aisne-DSP sa 31/12/27-P,T,D;124526;2024;71,5;3,9;9,8;67,0;conforme;666824;17181;119;147;394;Non vérifié
+02549;Neuville-Saint-Amand;02;eau potable : CASQ/origine-régie-P,T,D;124564;2024;82,7;4,8;22,7;69,5;conforme;751608;8784;28;77;848;Non vérifié
+02550;Neuville-sur-Ailette;02;eau potable : SE Chemin des Dames-DSP sa 31/12/29-P,T,D;124540;2024;81,5;2,6;11,3;67,3;conforme;120352;3209;73;104;121;Non vérifié
+02551;Neuville-sur-Margival;02;eau potable : SPENS/Socle régie - D;330594;2024;81,6;2,2;9,7;66,9;conforme;9845;1188;28;83;116;Non vérifié
+02552;Neuvillette;02;eau potable : SIE Ribemont-régie-P,T,D;124476;2024;81,9;1,7;7,7;66,5;conforme;111690;2417;39;81;170;Non vérifié
+02553;Nizy-le-Comte;02;eau potable : Nizy-le-Comte-régie-P,T,D;124369;2024;41,9;6,4;4,6;65,9;non conforme;11914;11914;145;505;225;Non vérifié
+02554;Nogentel;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;15307;38;108;1106;Non vérifié
+02555;Nogent-l'Artaud;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;29534;38;108;2134;Non vérifié
+02556;Noircourt;02;eau potable : SE vallée du Hurtaut-régie-P,T,D;124528;2024;83,7;1,3;6,5;66,3;conforme;5063;943;38;73;68;Non vérifié
+02557;Noroy-sur-Ourcq;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;3247;72;176;124;Non vérifié
+02558;Le Nouvion-en-Thiérache;02;eau potable : SE Nord de l'Aisne-DSP sa 31/12/27-P,T,D;124526;2024;71,5;3,9;9,8;67,0;conforme;666824;107620;119;147;2468;Non vérifié
+02559;Nouvion-et-Catillon;02;eau potable : SE Nouvion Catillon-DSP ve 31/12/28-P,T,D;124534;2023;73,5;2,1;5,9;66,2;conforme;14564;9534;50;132;527;Sans anomalie apparente
+02560;Nouvion-le-Comte;02;eau potable : SE Nouvion Catillon-DSP ve 31/12/28-P,T,D;124534;2023;73,5;2,1;5,9;66,2;conforme;14564;4324;50;132;239;Sans anomalie apparente
+02561;Nouvion-le-Vineux;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;1670;32;96;143;Non vérifié
+02562;Nouvron-Vingré;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;5290;72;176;202;Non vérifié
+02563;Noyales;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;1541;32;96;132;Non vérifié
+02564;Bernoy-le-Château;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;21604;72;176;825;Non vérifié
+02565;OEuilly;02;eau potable : SE région Beaurieux-régie-P,T,D;124498;2024;80,9;1,5;6,5;66,3;conforme;44293;3411;32;85;293;Non vérifié
+02566;Ognes;02;eau potable : CACTLF/Ognes-DSP ve 05/02/31-D;124373;2024;99,4;0,4;56,1;76,2;conforme;1378;1378;3;13;1109;Non vérifié
+02567;Ohis;02;eau potable : SE Origny en Thiérache-DSP ve 31/12/24-P,T,D;124517;2024;64,6;2,6;4,8;66,0;non conforme;200514;7319;75;220;269;Non vérifié
+02568;Oigny-en-Valois;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;4609;72;176;176;Non vérifié
+02569;Oisy;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;5114;32;96;438;Non vérifié
+02570;Ollezy;02;eau potable : CASQ/ex SAEA vallée Somme-DSP sa 15/01/27-P,T,D;124471;2024;76,2;2,1;6,6;66,3;conforme;37612;2282;37;128;169;Non vérifié
+02571;Omissy;02;eau potable : CASQ/origine-régie-P,T,D;124564;2024;82,7;4,8;22,7;69,5;conforme;751608;6837;28;77;660;Non vérifié
+02572;Orainville;02;eau potable : SIEP Guignicourt-régie-P,T,D;124531;2024;83,8;2,6;13,3;67,7;conforme;50904;5628;31;81;490;Non vérifié
+02573;Orgeval;02;eau potable : CAPL/Chamouille, Martigny-Courpierre, Orgeval-régie-P,T,D;324634;2024;82,6;1,4;6,5;66,3;conforme;5376;626;32;79;53;Non vérifié
+02574;Origny-en-Thiérache;02;eau potable : SE Origny en Thiérache-DSP ve 31/12/24-P,T,D;124517;2024;64,6;2,6;4,8;66,0;non conforme;200514;36838;75;220;1354;Non vérifié
+02575;Origny-Sainte-Benoite;02;eau potable : SIE Ribemont-régie-P,T,D;124476;2024;81,9;1,7;7,7;66,5;conforme;111690;22566;39;81;1587;Non vérifié
+02576;Osly-Courtil;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;8511;72;176;325;Non vérifié
+02577;Ostel;02;eau potable : SE vallée Aisne-DSP Su 19/09/34-P,T,D;179784;2024;72,2;2,0;5,3;66,1;conforme;21294;1667;50;138;92;Non vérifié
+02578;Oulches-la-Vallée-Foulon;02;eau potable : SE Chemin des Dames-DSP sa 31/12/29-P,T,D;124540;2024;81,5;2,6;11,3;67,3;conforme;120352;2122;73;104;80;Non vérifié
+02579;Oulchy-la-Ville;02;eau potable : SE région Neuilly St Front-DSP ve 31/12/28-P,T,D;124499;2024;71,6;2,1;5,3;66,1;conforme;55042;2496;52;146;131;Non vérifié
+02580;Oulchy-le-Château;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;10864;38;108;785;Non vérifié
+02581;Paars;02;eau potable : SIVU des eaux de Fismes;158079;2024;80,1;2,6;10,4;67,1;conforme;121216;3584;32;91;309;Non vérifié
+02582;Paissy;02;eau potable : Paissy-régie-P,T,D;124375;2024;100,0;0,2;5,7;66,1;conforme;182;182;6;13;80;Non vérifié
+02583;Pancy-Courtecon;02;eau potable : SE Pont Oger-DSP ve 31/12/29-P,T,D;124506;2024;80,0;1,3;5,2;66,0;conforme;28423;750;34;106;60;Non vérifié
+02584;Papleux;02;eau potable : SE Nord de l'Aisne-DSP sa 31/12/27-P,T,D;124526;2024;71,5;3,9;9,8;67,0;conforme;666824;4971;119;147;114;Non vérifié
+02585;Parcy-et-Tigny;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;6416;72;176;245;Non vérifié
+02586;Parfondeval;02;eau potable : SAE région Rozoy-sur-Serre-DSP ve 21/04/30-P,T,D;124527;2024;84,1;1,0;5,5;66,1;conforme;31624;2471;47;69;143;Non vérifié
+02587;Parfondru;02;eau potable : CAPL/ex SE région Parfondru-DSP sa 07/01/31-P,T,D;124539;2024;80,7;1,2;5,0;66,0;conforme;11283;3319;26;88;353;Non vérifié
+02588;Pargnan;02;eau potable : SE Chemin des Dames-DSP sa 31/12/29-P,T,D;124540;2024;81,5;2,6;11,3;67,3;conforme;120352;1750;73;104;66;Non vérifié
+02589;Pargny-Filain;02;eau potable : SE Pont Oger-DSP ve 31/12/29-P,T,D;124506;2024;80,0;1,3;5,2;66,0;conforme;28423;4589;34;106;367;Non vérifié
+02590;Pargny-la-Dhuys;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;2408;38;108;174;Non vérifié
+02591;Pargny-les-Bois;02;eau potable : SAE Sons Ronchéres-régie-P,T,D;124518;2024;69,4;2,7;6,1;66,2;conforme;16951;3901;75;162;142;Non vérifié
+02592;Parpeville;02;eau potable : SIE Ribemont-régie-P,T,D;124476;2024;81,9;1,7;7,7;66,5;conforme;111690;2716;39;81;191;Non vérifié
+02593;Pasly;02;eau potable : GSA/SE Cuffies Pasly Pommiers-DSP su 30/06/33-P,T,D;124541;2024;90,0;1,5;13,7;67,7;conforme;23685;7320;18;60;1100;Non vérifié
+02594;Passy-en-Valois;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;1813;38;108;131;Non vérifié
+02595;Passy-sur-Marne;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;1924;38;108;139;Non vérifié
+02596;Pavant;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;10311;38;108;745;Non vérifié
+02598;Pernant;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;17860;72;176;682;Non vérifié
+02599;Pierremande;02;eau potable : SE Sinceny Autreville-DSP ve 31/12/24-P,T,D;124479;2024;92,9;0,6;8,1;66,6;conforme;36531;909;10;29;250;Non vérifié
+02600;Pierrepont;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;3981;32;96;341;Non vérifié
+02601;Pignicourt;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;2020;32;96;173;Non vérifié
+02602;Pinon;02;eau potable : SPENS/ex SE Pinon Brancourt-régie-P,T,D;124488;2023;70,8;2,8;6,8;66,4;conforme;32704;22889;38;151;1637;Sans anomalie apparente
+02604;Pithon;02;eau potable : Pithon-régie-D;124382;2024;0,0;54,8;0,0;65,0;non conforme;22002;22002;773;1444;78;Non vérifié
+02605;Pleine-Selve;02;eau potable : SIE Ribemont-régie-P,T,D;124476;2024;81,9;1,7;7,7;66,5;conforme;111690;2645;39;81;186;Non vérifié
+02606;Le Plessier-Huleu;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;2435;72;176;93;Non vérifié
+02607;Ploisy;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;2619;72;176;100;Non vérifié
+02608;Plomion;02;eau potable : Plomion-régie-P,T,D;208707;2024;75,4;1,7;5,2;66,0;conforme;6131;6131;39;118;432;Non vérifié
+02609;Ployart-et-Vaurseine;02;eau potable : SE Chemin des Dames-DSP sa 31/12/29-P,T,D;124540;2024;81,5;2,6;11,3;67,3;conforme;120352;637;73;104;24;Non vérifié
+02610;Pommiers;02;eau potable : GSA/SE Cuffies Pasly Pommiers-DSP su 30/06/33-P,T,D;124541;2024;90,0;1,5;13,7;67,7;conforme;23685;4831;18;60;726;Non vérifié
+02612;Pont-Arcy;02;eau potable : SE région Beaurieux-régie-P,T,D;124498;2024;80,9;1,5;6,5;66,3;conforme;44293;1339;32;85;115;Non vérifié
+02613;Pontavert;02;eau potable : Pontavert-DSP sa 30/06/27-P,T,D;124384;2024;85,6;2,9;17,2;68,4;conforme;5864;5864;27;84;605;Non vérifié
+02614;Pontru;02;eau potable : SAE vallée Omignon-régie-P,T,D;124515;2024;67,6;3,5;7,2;66,4;conforme;146580;6228;59;177;290;Non vérifié
+02615;Pontruet;02;eau potable : SAE vallée Omignon-régie-P,T,D;124515;2024;67,6;3,5;7,2;66,4;conforme;146580;7581;59;177;353;Non vérifié
+02616;Pont-Saint-Mard;02;eau potable : SAEP Basse Quincy-régie-P,T,D;290974;2023;70,4;3,9;9,3;66,9;conforme;74492;3186;50;153;176;Sans anomalie apparente
+02617;Pouilly-sur-Serre;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;5721;32;96;490;Non vérifié
+02618;Prémont;02;eau potable : Prémont-régie-P,T,D;124386;2024;78,2;2,6;9,5;66,9;conforme;10135;10135;41;100;683;Non vérifié
+02619;Prémontré;02;eau potable : SME Prémontré-régie-P,T,D;124546;2024;88,8;1,2;9,4;66,9;conforme;13841;8029;37;46;594;Non vérifié
+02620;Presles-et-Boves;02;eau potable : SE vallée Aisne-DSP Su 19/09/34-P,T,D;179784;2024;72,2;2,0;5,3;66,1;conforme;21294;5799;50;138;320;Non vérifié
+02621;Presles-et-Thierny;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;4682;32;96;401;Non vérifié
+02622;Priez;02;eau potable : SE région Neuilly St Front-DSP ve 31/12/28-P,T,D;124499;2024;71,6;2,1;5,3;66,1;conforme;55042;1067;52;146;56;Non vérifié
+02623;Prisces;02;eau potable : SE région Braye en Thiérache-DSP sa 31/12/29-P,T,D;124516;2024;58,8;2,9;4,2;65,8;non conforme;87273;4653;136;256;94;Non vérifié
+02624;Proisy;02;eau potable : SE vallée de l'Oise-régie-P,T,D;124492;2024;80,9;1,9;8,2;66,6;conforme;29127;4746;47;85;276;Non vérifié
+02625;Proix;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;1705;32;96;146;Non vérifié
+02626;Prouvais;02;eau potable : Prouvais-régie-P,T,D;124387;2023;77,8;3,1;11,0;67,2;conforme;3836;3836;30;103;346;Sans anomalie apparente
+02627;Proviseux-et-Plesnoy;02;eau potable : Proviseux-et-Plesnoy-régie-P,T,D;124389;2023;91,0;1,6;15,8;68,2;conforme;701;701;14;37;136;Sans anomalie apparente
+02628;Puiseux-en-Retz;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;5735;72;176;219;Non vérifié
+02629;Puisieux-et-Clanlieu;02;eau potable : SE vallée de l'Oise-régie-P,T,D;124492;2024;80,9;1,9;8,2;66,6;conforme;29127;5691;47;85;331;Non vérifié
+02631;Quierzy;02;eau potable : CACTLF/ex SE d'Abbecourt-DSP ve 31/12/29-P,T,D;124545;2024;73,9;2,4;6,8;66,4;conforme;40077;6706;43;128;428;Non vérifié
+02632;Quincy-Basse;02;eau potable : SME Prémontré-régie-P,T,D;124546;2024;88,8;1,2;9,4;66,9;conforme;13841;716;37;46;53;Non vérifié
+02633;Quincy-sous-le-Mont;02;eau potable : SE région Arcy Ste Restitue-DSP Ve 08/07/34-P,T,D;124550;2024;64,2;2,8;5,0;66,0;non conforme;38427;2689;119;313;62;Non vérifié
+02634;Raillimont;02;eau potable : SAE région Rozoy-sur-Serre-DSP ve 21/04/30-P,T,D;124527;2024;84,1;1,0;5,5;66,1;conforme;31624;1538;47;69;89;Non vérifié
+02635;Ramicourt;02;eau potable : SE Nord du canal de St Quentin-régie-P,T,D;124493;2024;61,3;4,9;7,7;66,5;non conforme;80894;4983;94;234;146;Non vérifié
+02636;Regny;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;2183;32;96;187;Non vérifié
+02637;Remaucourt;02;eau potable : CASQ/origine-régie-P,T,D;124564;2024;82,7;4,8;22,7;69,5;conforme;751608;2745;28;77;265;Non vérifié
+02638;Remies;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;2814;32;96;241;Non vérifié
+02639;Remigny;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;3958;32;96;339;Non vérifié
+02640;Renansart;02;eau potable : SIE Ribemont-régie-P,T,D;124476;2024;81,9;1,7;7,7;66,5;conforme;111690;2048;39;81;144;Non vérifié
+02641;Renneval;02;eau potable : Renneval-régie-P,T,D;124392;2024;73,9;3,9;11,2;67,2;conforme;3744;3744;76;128;135;Non vérifié
+02642;Résigny;02;eau potable : SAE région Rozoy-sur-Serre-DSP ve 21/04/30-P,T,D;124527;2024;84,1;1,0;5,5;66,1;conforme;31624;2713;47;69;157;Non vérifié
+02643;Ressons-le-Long;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;20688;72;176;790;Non vérifié
+02644;Retheuil;02;eau potable : USESA/Villers Côtterêts-DSP Ve 19/12/26-P,T,D;124445;2024;82,5;4,2;19,6;68,9;conforme;108843;1352;10;85;360;Non vérifié
+02645;Reuilly-Sauvigny;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;3114;38;108;225;Non vérifié
+02647;Ribeauville;02;eau potable : SE région Wassigny-régie-P,T,D;124478;2024;55,6;4,3;5,4;66,1;non conforme;59500;3059;97;288;86;Non vérifié
+02648;Ribemont;02;eau potable : SIE Ribemont-régie-P,T,D;124476;2024;81,9;1,7;7,7;66,5;conforme;111690;27457;39;81;1931;Non vérifié
+02649;Rocourt-Saint-Martin;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;4138;38;108;299;Non vérifié
+02650;Rocquigny;02;eau potable : SE Nord de l'Aisne-DSP sa 31/12/27-P,T,D;124526;2024;71,5;3,9;9,8;67,0;conforme;666824;15655;119;147;359;Non vérifié
+02651;Rogécourt;02;"eau potable : CACTLF/""ex régie & condren"" DSP Ve 31/12/30-P,T,D";305094;2024;84,7;1,7;15,0;68,0;conforme;111541;505;16;43;88;Non vérifié
+02652;Rogny;02;eau potable : SE région Sains Richaumont-DSP ve 31/12/29-P,T,D;124475;2024;63,9;2,3;4,0;65,8;non conforme;68235;2379;69;207;95;Non vérifié
+02653;Romeny-sur-Marne;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;6228;38;108;450;Non vérifié
+02654;Romery;02;eau potable : SE vallée de l'Oise-régie-P,T,D;124492;2024;80,9;1,9;8,2;66,6;conforme;29127;1427;47;85;83;Non vérifié
+02655;Ronchères;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;2145;38;108;155;Non vérifié
+02656;Roucy;02;eau potable : SE région Beaurieux-régie-P,T,D;124498;2024;80,9;1,5;6,5;66,3;conforme;44293;4249;32;85;365;Non vérifié
+02657;Rougeries;02;eau potable : SE région Sains Richaumont-DSP ve 31/12/29-P,T,D;124475;2024;63,9;2,3;4,0;65,8;non conforme;68235;5008;69;207;200;Non vérifié
+02658;Roupy;02;eau potable : Roupy-régie-D;124397;2024;88,1;0,7;5,5;66,1;conforme;1298;1298;15;47;237;Non vérifié
+02659;Rouvroy;02;eau potable : CASQ/origine-régie-P,T,D;124564;2024;82,7;4,8;22,7;69,5;conforme;751608;5242;28;77;506;Non vérifié
+02660;Rouvroy-sur-Serre;02;eau potable : SAE région Rozoy-sur-Serre-DSP ve 21/04/30-P,T,D;124527;2024;84,1;1,0;5,5;66,1;conforme;31624;778;47;69;45;Non vérifié
+02661;Royaucourt-et-Chailvet;02;eau potable : SE Pont Oger-DSP ve 31/12/29-P,T,D;124506;2024;80,0;1,3;5,2;66,0;conforme;28423;2826;34;106;226;Non vérifié
+02662;Rozet-Saint-Albin;02;eau potable : SE région Neuilly St Front-DSP ve 31/12/28-P,T,D;124499;2024;71,6;2,1;5,3;66,1;conforme;55042;6383;52;146;335;Non vérifié
+02663;Rozières-sur-Crise;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;6259;72;176;239;Non vérifié
+02664;Rozoy-Bellevalle;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;1688;38;108;122;Non vérifié
+02665;Grand-Rozoy;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;7830;72;176;299;Non vérifié
+02666;Rozoy-sur-Serre;02;eau potable : SAE région Rozoy-sur-Serre-DSP ve 21/04/30-P,T,D;124527;2024;84,1;1,0;5,5;66,1;conforme;31624;15846;47;69;917;Non vérifié
+02667;Saconin-et-Breuil;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;5290;72;176;202;Non vérifié
+02668;Sains-Richaumont;02;eau potable : SE région Sains Richaumont-DSP ve 31/12/29-P,T,D;124475;2024;63,9;2,3;4,0;65,8;non conforme;68235;23112;69;207;923;Non vérifié
+02670;Saint-Algis;02;eau potable : SE Nord de l'Aisne-DSP sa 31/12/27-P,T,D;124526;2024;71,5;3,9;9,8;67,0;conforme;666824;6454;119;147;148;Non vérifié
+02671;Saint-Aubin;02;eau potable : SAEP Basse Quincy-régie-P,T,D;290974;2023;70,4;3,9;9,3;66,9;conforme;74492;4996;50;153;276;Sans anomalie apparente
+02672;Saint-Bandry;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;6128;72;176;234;Non vérifié
+02673;Saint-Christophe-à-Berry;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;11549;72;176;441;Non vérifié
+02674;Saint-Clément;02;eau potable : SAEP Vallée de la Brune-DSP sa 31/12/28-P,T,D;124533;2024;79,4;1,3;5,2;66,0;conforme;32475;1040;65;92;44;Non vérifié
+02675;Sainte-Croix;02;eau potable : SE Chemin des Dames-DSP sa 31/12/29-P,T,D;124540;2024;81,5;2,6;11,3;67,3;conforme;120352;3368;73;104;127;Non vérifié
+02676;Saint-Erme-Outre-et-Ramecourt;02;eau potable : SE St Erme-régie-P,T,D;124495;2024;62,6;4,3;7,2;66,4;non conforme;56502;45037;73;217;1697;Non vérifié
+02677;Saint-Eugène;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;3211;38;108;232;Non vérifié
+02678;Sainte-Geneviève;02;eau potable : SE région Montcornet-DSP ve 28/02/29-P,T,D;124530;2024;76,0;3,5;11,2;67,2;conforme;33215;1157;43;160;73;Non vérifié
+02679;Saint-Gengoulph;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;2104;38;108;152;Non vérifié
+02680;Saint-Gobain;02;eau potable : SE Sinceny Autreville-DSP ve 31/12/24-P,T,D;124479;2024;92,9;0,6;8,1;66,6;conforme;36531;8316;10;29;2288;Non vérifié
+02681;Saint-Gobert;02;eau potable : SE région Sains Richaumont-DSP ve 31/12/29-P,T,D;124475;2024;63,9;2,3;4,0;65,8;non conforme;68235;7036;69;207;281;Non vérifié
+02682;Saint-Mard;02;eau potable : SE vallée Aisne-DSP Su 19/09/34-P,T,D;179784;2024;72,2;2,0;5,3;66,1;conforme;21294;2102;50;138;116;Non vérifié
+02683;Saint-Martin-Rivière;02;eau potable : SE région Wassigny-régie-P,T,D;124478;2024;55,6;4,3;5,4;66,1;non conforme;59500;4197;97;288;118;Non vérifié
+02684;Saint-Michel;02;eau potable : Saint-Michel-DSP ve 31/12/25-P,T,D;124402;2024;79,6;2,3;8,8;66,8;conforme;39289;39289;34;102;3199;Non vérifié
+02685;Saint-Nicolas-aux-Bois;02;eau potable : SAEP région Crépy-DSP Sa 31/12/32-P,T,D;124510;2024;75,6;2,3;7,3;66,5;conforme;35452;1455;36;115;110;Non vérifié
+02686;Saint-Paul-aux-Bois;02;eau potable : SAEP Basse Quincy-régie-P,T,D;290974;2023;70,4;3,9;9,3;66,9;conforme;74492;6698;50;153;370;Sans anomalie apparente
+02687;Saint-Pierre-Aigle;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;8589;72;176;328;Non vérifié
+02688;Saint-Pierre-lès-Franqueville;02;eau potable : SE de Le Sourd-DSP ve 31/12/29-P,T,D;124490;2024;79,0;1,6;6,0;66,2;conforme;20387;553;39;99;39;Non vérifié
+02689;Saint-Pierremont;02;eau potable : SE Chatelet-régie-P,T,D;124511;2024;93,4;0,3;5,0;66,0;conforme;854;166;11;22;41;Non vérifié
+02690;Sainte-Preuve;02;eau potable : Sainte-Preuve-régie-P,T,D;124403;2024;87,3;1,0;6,9;66,4;conforme;602;602;25;53;67;Non vérifié
+02691;Saint-Quentin;02;eau potable : CASQ/origine-régie-P,T,D;124564;2024;82,7;4,8;22,7;69,5;conforme;751608;547090;28;77;52813;Non vérifié
+02693;Saint-Rémy-Blanzy;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;5918;72;176;226;Non vérifié
+02694;Saint-Simon;02;eau potable : CASQ/Saint-Simon-DSP ve 31/12/28-P,T,D;124405;2024;85,9;1,3;7,8;66,6;conforme;3644;3644;17;61;593;Non vérifié
+02695;Saint-Thibaut;02;eau potable : Saint-Thibaut-régie-P,T,D;124407;2021;92,6;0,2;2,8;65,6;conforme;220;220;8;26;78;Sans anomalie apparente
+02696;Saint-Thomas;02;eau potable : SE St Erme-régie-P,T,D;124495;2024;62,6;4,3;7,2;66,4;non conforme;56502;1884;73;217;71;Non vérifié
+02697;Samoussy;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;4483;32;96;384;Non vérifié
+02698;Sancy-les-Cheminots;02;eau potable : SPENS/Socle régie - D;330594;2024;81,6;2,2;9,7;66,9;conforme;9845;1035;28;83;101;Non vérifié
+02699;Saponay;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;3681;38;108;266;Non vérifié
+02701;Saulchery;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;9508;38;108;687;Non vérifié
+02702;Savy;02;eau potable : Savy-régie-P,T,D;124411;2024;100,0;0,0;17,3;68,5;conforme;0;0;0;0;618;Non vérifié
+02703;Seboncourt;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;12691;32;96;1087;Non vérifié
+02704;Selens;02;eau potable : SAEP Basse Quincy-régie-P,T,D;290974;2023;70,4;3,9;9,3;66,9;conforme;74492;3657;50;153;202;Sans anomalie apparente
+02705;La Selve;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;2347;32;96;201;Non vérifié
+02706;Septmonts;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;15084;72;176;576;Non vérifié
+02707;Septvaux;02;eau potable : SE Sinceny Autreville-DSP ve 31/12/24-P,T,D;124479;2024;92,9;0,6;8,1;66,6;conforme;36531;651;10;29;179;Non vérifié
+02708;Sequehart;02;eau potable : SE Nord du canal de St Quentin-régie-P,T,D;124493;2024;61,3;4,9;7,7;66,5;non conforme;80894;7475;94;234;219;Non vérifié
+02709;Serain;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;4437;32;96;380;Non vérifié
+02710;Seraucourt-le-Grand;02;eau potable : CASQ/ex SAEA vallée Somme-DSP sa 15/01/27-P,T,D;124471;2024;76,2;2,1;6,6;66,3;conforme;37612;9531;37;128;706;Non vérifié
+02711;Serches;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;7149;72;176;273;Non vérifié
+02712;Sergy;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;1924;38;108;139;Non vérifié
+02713;Seringes-et-Nesles;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;3778;38;108;273;Non vérifié
+02714;Sermoise;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;8904;72;176;340;Non vérifié
+02715;Serval;02;eau potable : SAE Blanzy-les-Fismes-DSP su 31/12/28-P,T,D;124504;2024;75,1;1,5;4,4;65,9;conforme;13616;417;27;124;42;Non vérifié
+02716;Servais;02;eau potable : SE Sinceny Autreville-DSP ve 31/12/24-P,T,D;124479;2024;92,9;0,6;8,1;66,6;conforme;36531;1043;10;29;287;Non vérifié
+02717;Séry-lès-Mézières;02;eau potable : SE Séry Mézières Vallée de l'Oisel-DSP sa 31/12/26-P,T,D;124524;2024;65,4;4,1;7,8;66,6;non conforme;75304;12295;56;191;601;Non vérifié
+02718;Silly-la-Poterie;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;2933;72;176;112;Non vérifié
+02719;Sinceny;02;eau potable : SE Sinceny Autreville-DSP ve 31/12/24-P,T,D;124479;2024;92,9;0,6;8,1;66,6;conforme;36531;7287;10;29;2005;Non vérifié
+02720;Sissonne;02;eau potable : Sissonne-DSP ve 31/05/34-P,T,D;124417;2024;83,4;3,1;15,6;68,1;conforme;17187;17187;23;73;2065;Non vérifié
+02721;Sissy;02;eau potable : SE Séry Mézières Vallée de l'Oisel-DSP sa 31/12/26-P,T,D;124524;2024;65,4;4,1;7,8;66,6;non conforme;75304;10331;56;191;505;Non vérifié
+02722;Soissons;02;eau potable : GSA/SIPRODES-DSP origine su 30/06/33-P,T,D;124575;2024;85,4;4,9;28,8;70,8;conforme;292348;267406;26;67;28046;Non vérifié
+02724;Sommelans;02;eau potable : SE région Neuilly St Front-DSP ve 31/12/28-P,T,D;124499;2024;71,6;2,1;5,3;66,1;conforme;55042;1067;52;146;56;Non vérifié
+02725;Sommeron;02;eau potable : SE Nord de l'Aisne-DSP sa 31/12/27-P,T,D;124526;2024;71,5;3,9;9,8;67,0;conforme;666824;5843;119;147;134;Non vérifié
+02726;Sommette-Eaucourt;02;eau potable : CASQ/ex SAEA vallée Somme-DSP sa 15/01/27-P,T,D;124471;2024;76,2;2,1;6,6;66,3;conforme;37612;2403;37;128;178;Non vérifié
+02727;Sons-et-Ronchères;02;eau potable : SAE Sons Ronchéres-régie-P,T,D;124518;2024;69,4;2,7;6,1;66,2;conforme;16951;5632;75;162;205;Non vérifié
+02728;Sorbais;02;eau potable : SE Nord de l'Aisne-DSP sa 31/12/27-P,T,D;124526;2024;71,5;3,9;9,8;67,0;conforme;666824;11599;119;147;266;Non vérifié
+02729;Soucy;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;1938;72;176;74;Non vérifié
+02730;Soupir;02;eau potable : SE vallée Aisne-DSP Su 19/09/34-P,T,D;179784;2024;72,2;2,0;5,3;66,1;conforme;21294;4929;50;138;272;Non vérifié
+02731;Le Sourd;02;eau potable : SE de Le Sourd-DSP ve 31/12/29-P,T,D;124490;2024;79,0;1,6;6,0;66,2;conforme;20387;2199;39;99;155;Non vérifié
+02732;Surfontaine;02;eau potable : SIE Ribemont-régie-P,T,D;124476;2024;81,9;1,7;7,7;66,5;conforme;111690;1308;39;81;92;Non vérifié
+02734;Taillefontaine;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;6730;72;176;257;Non vérifié
+02735;Tannières;02;eau potable : Tannières-régie-D;124420;2024;79,1;0,6;2,3;65,5;conforme;526;526;90;94;16;Non vérifié
+02736;Tartiers;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;1891;32;96;162;Non vérifié
+02737;Tavaux-et-Pontséricourt;02;eau potable : Tavaux Ponséricourt-régie-P,T,D;124421;2024;87,3;2,2;15,0;68,0;conforme;4818;4818;24;54;543;Non vérifié
+02738;Tergnier;02;"eau potable : CACTLF/""ex régie & condren"" DSP Ve 31/12/30-P,T,D";305094;2024;84,7;1,7;15,0;68,0;conforme;111541;74814;16;43;13045;Non vérifié
+02739;Terny-Sorny;02;eau potable : SPENS/Terny Sorny - DSP Su 07/07/29 - D;330574;2024;95,7;0,3;7,2;66,4;conforme;479;479;4;15;317;Non vérifié
+02740;Thenailles;02;eau potable : SE région Braye en Thiérache-DSP sa 31/12/29-P,T,D;124516;2024;58,8;2,9;4,2;65,8;non conforme;87273;10891;136;256;220;Non vérifié
+02741;Thenelles;02;eau potable : SIE Ribemont-régie-P,T,D;124476;2024;81,9;1,7;7,7;66,5;conforme;111690;7692;39;81;541;Non vérifié
+02742;Thiernu;02;eau potable : SE région Sains Richaumont-DSP ve 31/12/29-P,T,D;124475;2024;63,9;2,3;4,0;65,8;non conforme;68235;3055;69;207;122;Non vérifié
+02743;Le Thuel;02;eau potable : Le Thuel-régie-P,T,D;124425;2024;74,0;1,8;5,1;66,0;conforme;1971;1971;34;128;158;Non vérifié
+02744;Torcy-en-Valois;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;1121;38;108;81;Non vérifié
+02745;Toulis-et-Attencourt;02;eau potable : SIAE Autremencourt-régie-P,T,D;124514;2024;91,1;0,3;2,6;65,5;conforme;2568;542;14;42;110;Non vérifié
+02746;Travecy;02;"eau potable : CACTLF/""ex régie & condren"" DSP Ve 31/12/30-P,T,D";305094;2024;84,7;1,7;15,0;68,0;conforme;111541;3929;16;43;685;Non vérifié
+02747;Trefcon;02;eau potable : SAE vallée Omignon-régie-P,T,D;124515;2024;67,6;3,5;7,2;66,4;conforme;146580;1718;59;177;80;Non vérifié
+02748;Trélou-sur-Marne;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;13175;38;108;952;Non vérifié
+02749;Troësnes;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;5421;72;176;207;Non vérifié
+02750;Trosly-Loire;02;eau potable : SAEP Basse Quincy-régie-P,T,D;290974;2023;70,4;3,9;9,3;66,9;conforme;74492;9793;50;153;541;Sans anomalie apparente
+02751;Trucy;02;eau potable : SE Pont Oger-DSP ve 31/12/29-P,T,D;124506;2024;80,0;1,3;5,2;66,0;conforme;28423;1738;34;106;139;Non vérifié
+02752;Tugny-et-Pont;02;eau potable : CASQ/ex SAEA vallée Somme-DSP sa 15/01/27-P,T,D;124471;2024;76,2;2,1;6,6;66,3;conforme;37612;3807;37;128;282;Non vérifié
+02753;Tupigny;02;eau potable : SE Hannapes, Iron, Tupigny-DSP sa 30/06/30-P,T,D;124502;2024;65,6;2,7;5,2;66,0;non conforme;19779;7621;61;191;341;Non vérifié
+02754;Ugny-le-Gay;02;eau potable : SE Bois l'Abbé-DSP ve 30/06/27-P,T,D;124503;2024;78,8;2,1;7,8;66,6;conforme;64693;2213;32;103;187;Non vérifié
+02755;Urcel;02;eau potable : SE Pont Oger-DSP ve 31/12/29-P,T,D;124506;2024;80,0;1,3;5,2;66,0;conforme;28423;6677;34;106;534;Non vérifié
+02756;Urvillers;02;eau potable : Urvillers-régie-P,T,D;124427;2023;86,1;1,9;12,0;67,4;conforme;6241;6241;25;58;687;Sans anomalie apparente
+02757;Vadencourt;02;eau potable : SE Vadencourt-régie-P,T,D;124483;2024;51,4;5,7;6,1;66,2;non conforme;27151;21798;118;343;505;Non vérifié
+02758;Vailly-sur-Aisne;02;eau potable : SESV/Vailly sur Aisne-DSP Su 31/12/24-P,T,D;179783;2024;84,6;1,7;9,3;66,9;conforme;15103;15103;20;67;2050;Non vérifié
+02759;La Vallée-au-Blé;02;eau potable : SE de Le Sourd-DSP ve 31/12/29-P,T,D;124490;2024;79,0;1,6;6,0;66,2;conforme;20387;5037;39;99;355;Non vérifié
+02760;La Vallée-Mulâtre;02;eau potable : SE région Wassigny-régie-P,T,D;124478;2024;55,6;4,3;5,4;66,1;non conforme;59500;5406;97;288;152;Non vérifié
+02761;Variscourt;02;eau potable : SIEP Guignicourt-régie-P,T,D;124531;2024;83,8;2,6;13,3;67,7;conforme;50904;2492;31;81;217;Non vérifié
+02762;Vassens;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;4504;72;176;172;Non vérifié
+02763;Vasseny;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;5159;72;176;197;Non vérifié
+02764;Vassogne;02;eau potable : SE Chemin des Dames-DSP sa 31/12/29-P,T,D;124540;2024;81,5;2,6;11,3;67,3;conforme;120352;2440;73;104;92;Non vérifié
+02765;Vaucelles-et-Beffecourt;02;eau potable : SE Région Ouest Laon (SEROL)-DSP Ve 06/04/29-P,T,D;124501;2024;90,6;1,2;11,4;67,3;conforme;24931;1013;12;57;230;Non vérifié
+02766;Vaudesson;02;eau potable : Vaudesson-régie-P,T,D;124429;2024;100,0;0,0;6,8;66,4;conforme;0;0;0;0;237;Non vérifié
+02767;Vauxrezis;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;3771;32;96;323;Non vérifié
+02768;Vauxaillon;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;5814;32;96;498;Non vérifié
+02769;Vaux-Andigny;02;eau potable : Vaux Andigny-régie-P,T,D;124431;2024;71,4;2,6;6,4;66,3;conforme;19682;19682;58;148;924;Non vérifié
+02770;Vauxbuin;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;19981;72;176;763;Non vérifié
+02772;Vaux-en-Vermandois;02;eau potable : SAE vallée Omignon-régie-P,T,D;124515;2024;67,6;3,5;7,2;66,4;conforme;146580;3050;59;177;142;Non vérifié
+02773;Vauxtin;02;eau potable : SIVU des eaux de Fismes;158079;2024;80,1;2,6;10,4;67,1;conforme;121216;499;32;91;43;Non vérifié
+02774;Vendelles;02;eau potable : SAE vallée Omignon-régie-P,T,D;124515;2024;67,6;3,5;7,2;66,4;conforme;146580;2642;59;177;123;Non vérifié
+02775;Vendeuil;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;10776;32;96;923;Non vérifié
+02776;Vendhuile;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;6830;32;96;585;Non vérifié
+02777;Vendières;02;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;995;21;94;133;Non vérifié
+02778;Vendresse-Beaulne;02;eau potable : SE Chemin des Dames-DSP sa 31/12/29-P,T,D;124540;2024;81,5;2,6;11,3;67,3;conforme;120352;2679;73;104;101;Non vérifié
+02779;Vénérolles;02;eau potable : SE région Wassigny-régie-P,T,D;124478;2024;55,6;4,3;5,4;66,1;non conforme;59500;8144;97;288;229;Non vérifié
+02780;Venizel;02;"eau potable : GSA/SIPRODES ""SE de Billy Venizel""-DSP su 30/06/33-D";124473;2024;94,3;0,7;11,3;67,3;conforme;5953;3212;7;23;1324;Non vérifié
+02781;Verdilly;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;6131;38;108;443;Non vérifié
+02782;Le Verguier;02;eau potable : SAE vallée Omignon-régie-P,T,D;124515;2024;67,6;3,5;7,2;66,4;conforme;146580;4553;59;177;212;Non vérifié
+02783;Grand-Verly;02;eau potable : SE Vadencourt-régie-P,T,D;124483;2024;51,4;5,7;6,1;66,2;non conforme;27151;5352;118;343;124;Non vérifié
+02784;Petit-Verly;02;eau potable : SE Mennevret Petit Verly-DSP sa 31/12/27-P,T,D;124484;2024;72,8;1,7;4,6;65,9;conforme;10790;2112;37;135;155;Non vérifié
+02785;Vermand;02;eau potable : SAE vallée Omignon-régie-P,T,D;124515;2024;67,6;3,5;7,2;66,4;conforme;146580;23711;59;177;1104;Non vérifié
+02786;Verneuil-sous-Coucy;02;eau potable : SE Sinceny Autreville-DSP ve 31/12/24-P,T,D;124479;2024;92,9;0,6;8,1;66,6;conforme;36531;505;10;29;139;Non vérifié
+02787;Verneuil-sur-Serre;02;eau potable : SE vallée de la Serre-DSP sa 30/06/26-P,T,D;124486;2024;87,9;0,7;4,9;66,0;conforme;3138;1270;14;52;249;Non vérifié
+02788;Versigny;02;"eau potable : CACTLF/""ex régie & condren"" DSP Ve 31/12/30-P,T,D";305094;2024;84,7;1,7;15,0;68,0;conforme;111541;2695;16;43;470;Non vérifié
+02789;Vervins;02;eau potable : SAEP Fontaine les Vervins, Vervins-DSP ve 31/12/28-P,T,D;124472;2024;80,2;2,5;9,1;66,8;conforme;51100;38186;41;100;2549;Non vérifié
+02790;Vesles-et-Caumont;02;eau potable : SIAE Autremencourt-régie-P,T,D;124514;2024;91,1;0,3;2,6;65,5;conforme;2568;1158;14;42;235;Non vérifié
+02791;Veslud;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;3152;32;96;270;Non vérifié
+02792;Veuilly-la-Poterie;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;2145;38;108;155;Non vérifié
+02793;Vézaponin;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;2959;72;176;113;Non vérifié
+02794;Vézilly;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;2505;38;108;181;Non vérifié
+02795;Vic-sur-Aisne;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;42109;72;176;1608;Non vérifié
+02796;Vichel-Nanteuil;02;eau potable : SE région Neuilly St Front-DSP ve 31/12/28-P,T,D;124499;2024;71,6;2,1;5,3;66,1;conforme;55042;1772;52;146;93;Non vérifié
+02797;Viel-Arcy;02;eau potable : SE région Beaurieux-régie-P,T,D;124498;2024;80,9;1,5;6,5;66,3;conforme;44293;1932;32;85;166;Non vérifié
+02798;Viels-Maisons;02;eau potable : SNE77;254334;2024;80,7;1,5;6,4;66,3;conforme;762668;8919;21;94;1192;Non vérifié
+02799;Vierzy;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;10056;72;176;384;Non vérifié
+02800;Viffort;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;4290;38;108;310;Non vérifié
+02801;Vigneux-Hocquet;02;eau potable : SE région Braye en Thiérache-DSP sa 31/12/29-P,T,D;124516;2024;58,8;2,9;4,2;65,8;non conforme;87273;12970;136;256;262;Non vérifié
+02802;La Ville-aux-Bois-lès-Dizy;02;eau potable : SIAE Ebouleau-DSP su 04/11/28-P,T,D;124513;2024;81,6;1,2;5,4;66,1;conforme;19592;2928;39;112;204;Non vérifié
+02803;La Ville-aux-Bois-lès-Pontavert;02;eau potable : La Ville aux Bois Pontavert -DSP sa 31/12/25-T,D;124442;2023;80,1;0,8;3,1;65,6;conforme;1641;1641;30;95;150;Sans anomalie apparente
+02804;Villemontoire;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;5735;72;176;219;Non vérifié
+02805;Villeneuve-Saint-Germain;02;eau potable : GSA/SIPRODES-DSP origine su 30/06/33-P,T,D;124575;2024;85,4;4,9;28,8;70,8;conforme;292348;24942;26;67;2616;Non vérifié
+02806;Villeneuve-sur-Fère;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;3834;38;108;277;Non vérifié
+02807;Villequier-Aumont;02;eau potable : SE Bois l'Abbé-DSP ve 30/06/27-P,T,D;124503;2024;78,8;2,1;7,8;66,6;conforme;64693;8094;32;103;684;Non vérifié
+02808;Villeret;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;3071;32;96;263;Non vérifié
+02809;Villers-Agron-Aiguizy;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;1038;38;108;75;Non vérifié
+02810;Villers-Cotterêts;02;eau potable : USESA/Villers Côtterêts-DSP Ve 19/12/26-P,T,D;124445;2024;82,5;4,2;19,6;68,9;conforme;108843;39381;10;85;10489;Non vérifié
+02812;Villers-Hélon;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;5054;72;176;193;Non vérifié
+02813;Villers-le-Sec;02;eau potable : SIE Ribemont-régie-P,T,D;124476;2024;81,9;1,7;7,7;66,5;conforme;111690;3725;39;81;262;Non vérifié
+02814;Villers-lès-Guise;02;eau potable : SE Nord de l'Aisne-DSP sa 31/12/27-P,T,D;124526;2024;71,5;3,9;9,8;67,0;conforme;666824;7239;119;147;166;Non vérifié
+02815;Villers-Saint-Christophe;02;eau potable : CASQ/Villers-St-Christophe-DSP sa 30/06/28-P,T,D;124446;2024;88,6;1,5;11,7;67,3;conforme;3586;3586;24;75;418;Non vérifié
+02816;Villers-sur-Fère;02;eau potable : USESA / origine-DSP ve 29/02/28-P,T,D;124559;2024;77,0;2,0;6,8;66,4;conforme;965060;7031;38;108;508;Non vérifié
+02817;Ville-Savoye;02;eau potable : SIVOM Chery-Chartreuve-DSP su 13/07/25-P,T,D;124552;2024;68,3;1,7;3,6;65,7;conforme;12063;1905;62;171;84;Non vérifié
+02818;Villiers-Saint-Denis;02;eau potable : Villiers St Denis-DSP ve 28/02/25-P,T,D;124447;2024;96,4;0,3;7,6;66,5;conforme;1515;1515;4;14;997;Non vérifié
+02819;Vincy-Reuil-et-Magny;02;eau potable : SE région Montcornet-DSP ve 28/02/29-P,T,D;124530;2024;76,0;3,5;11,2;67,2;conforme;33215;1601;43;160;101;Non vérifié
+02820;Viry-Noureuil;02;eau potable : CACTLF/Viry-Noureuil-DSP ve 31/12/25-P,T,D;124448;2024;67,0;3,8;7,7;66,5;conforme;39155;39155;65;179;1651;Non vérifié
+02821;Vivaise;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;7636;32;96;654;Non vérifié
+02822;Vivières;02;eau potable : SESV/socle régie-P,T,D;124482;2024;69,2;3,3;7,4;66,5;conforme;836995;10553;72;176;403;Non vérifié
+02823;Voharies;02;eau potable : SE région Sains Richaumont-DSP ve 31/12/29-P,T,D;124475;2024;63,9;2,3;4,0;65,8;non conforme;68235;1753;69;207;70;Non vérifié
+02824;Vorges;02;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;4472;32;96;383;Non vérifié
+02826;Voulpaix;02;eau potable : SE de Le Sourd-DSP ve 31/12/29-P,T,D;124490;2024;79,0;1,6;6,0;66,2;conforme;20387;4937;39;99;348;Non vérifié
+02827;Voyenne;02;eau potable : Voyenne-régie-P,T,D;124451;2024;94,7;0,5;9,4;66,9;conforme;723;723;6;19;312;Non vérifié
+02828;Vregny;02;eau potable : SPENS/Socle régie - D;330594;2024;81,6;2,2;9,7;66,9;conforme;9845;912;28;83;89;Non vérifié
+02829;Vuillery;02;eau potable : SE Braye, Vuillery-DSP su 29/06/32-P,T,D;124537;2024;73,8;2,6;7,3;66,5;conforme;6036;625;40;130;43;Non vérifié
+02830;Wassigny;02;eau potable : SE région Wassigny-régie-P,T,D;124478;2024;55,6;4,3;5,4;66,1;non conforme;59500;32968;97;288;927;Non vérifié
+02831;Watigny;02;eau potable : SE région Aubenton-DSP Sa 07/07/34 - P,T,D;124525;2024;52,3;3,0;3,3;65,7;non conforme;157297;20248;158;329;350;Non vérifié
+02832;Wiège-Faty;02;eau potable : SE vallée de l'Oise-régie-P,T,D;124492;2024;80,9;1,9;8,2;66,6;conforme;29127;3078;47;85;179;Non vérifié
+02833;Wimy;02;eau potable : SE Origny en Thiérache-DSP ve 31/12/24-P,T,D;124517;2024;64,6;2,6;4,8;66,0;non conforme;200514;12515;75;220;460;Non vérifié
+02834;Wissignicourt;02;eau potable : SE Région Ouest Laon (SEROL)-DSP Ve 06/04/29-P,T,D;124501;2024;90,6;1,2;11,4;67,3;conforme;24931;639;12;57;145;Non vérifié

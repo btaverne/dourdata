@@ -1,0 +1,374 @@
+﻿# DourData — eau perdue par les réseaux d'eau potable (indicateurs SISPEA)
+# Périmètre : Département 28
+# Source : SISPEA — Système d'Information des Services Publics d'Eau et d'Assainissement, via data.gouv.fr / services.eaufrance.fr
+# Licence : Licence Ouverte 2.0 (Etalab)
+# Millésime des données : 2021–2024 (année la plus récente disponible par commune)
+# Date de génération de l'export : 2026-07-05
+# Méthodologie et code : https://github.com/btaverne/dourdata
+# Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
+# Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
+28001;Abondant;28;eau potable : (smica);175670;2024;61,7;5,7;9,2;66,8;non conforme;472274;73767;83;227;2434;Non vérifié
+28003;Allainville;28;eau potable : SA Paquetterie;175394;2024;70,6;3,1;7,3;66,5;conforme;396025;3474;60;164;159;Non vérifié
+28004;Allonnes;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;3255;28;63;321;Non vérifié
+28005;Alluyes;28;eau potable : AEP en REGIE;175213;2024;84,7;1,0;5,4;66,1;conforme;124100;8628;31;73;756;Non vérifié
+28006;Amilly;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;18812;28;63;1855;Non vérifié
+28007;Anet;28;eau potable : (smica);175670;2024;61,7;5,7;9,2;66,8;non conforme;472274;82465;83;227;2721;Non vérifié
+28008;Ardelles;28;eau potable : Bassin Thymerais Distribution;175529;2024;67,7;1,7;3,5;65,7;conforme;153648;3853;50;178;211;Non vérifié
+28009;Ardelu;28;eau potable : (ardelu);175339;2024;85,7;1,8;10,9;67,2;conforme;756;756;29;60;72;Non vérifié
+28010;Argenvilliers;28;eau potable : (sie vallée de la berthe);175265;2024;77,5;1,1;3,7;65,7;conforme;64240;4708;42;113;310;Non vérifié
+28012;Commune nouvelle d'Arrou;28;eau potable : (Grand Chateaudun);309954;2024;62,6;3,3;5,5;66,1;non conforme;692973;140969;107;411;3609;Non vérifié
+28013;Aunay-sous-Auneau;28;eau potable : (aunay sous auneau);175392;2024;90,6;1,0;9,4;66,9;conforme;6110;6110;11;39;1484;Non vérifié
+28014;Aunay-sous-Crécy;28;eau potable : Usine de Vermouillet Distribution;332594;2024;67,3;6,9;14,1;67,8;non conforme;426055;13862;59;178;646;Non vérifié
+28015;Auneau-Bleury-Saint-Symphorien;28;eau potable : (auneau bleury s symphorien);175496;2024;84,8;2,8;15,4;68,1;conforme;58857;58857;25;69;6419;Non vérifié
+28016;Les Autels-Villevillon;28;eau potable : (sie charbonnieres);175514;2024;100,0;0,0;3,3;65,7;conforme;0;0;0;0;106;Non vérifié
+28018;Authon-du-Perche;28;eau potable : (Authon-du-Perche);175384;2024;77,8;1,8;6,4;66,3;conforme;24769;24769;46;104;1480;Non vérifié
+28019;Baigneaux;28;eau potable : (baigneaux);175471;2024;55,8;4,7;5,9;66,2;non conforme;8354;8354;99;289;232;Non vérifié
+28021;Bailleau-le-Pin;28;eau potable : (bailleau le pin);175402;2023;71,0;4,3;10,6;67,1;conforme;30856;30856;50;148;1684;Sans anomalie apparente
+28022;Bailleau-l'Évêque;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;11916;28;63;1175;Non vérifié
+28023;Bailleau-Armenonville;28;eau potable : (Yermenonville);223134;2024;72,1;7,0;18,1;68,6;conforme;350035;61131;129;512;1299;Non vérifié
+28024;Barjouville;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;17666;28;63;1742;Non vérifié
+28025;Barmainville;28;eau potable : (barmainville) (Barmainville);175216;2024;79,4;1,3;5,0;66,0;conforme;1566;1566;43;95;99;Non vérifié
+28026;Baudreville;28;eau potable : (baudreville);175451;2024;80,8;1,8;7,4;66,5;conforme;3502;3502;39;89;247;Non vérifié
+28027;La Bazoche-Gouet;28;eau potable;88057;2024;73,5;0,7;2,0;65,4;conforme;70773;26242;58;130;1234;Non vérifié
+28028;Bazoches-en-Dunois;28;eau potable : (bazoches en dunois);175347;2024;64,1;2,0;3,6;65,7;non conforme;7818;7818;81;203;263;Non vérifié
+28029;Bazoches-les-Hautes;28;eau potable : (bazoches les hautes);175267;2024;67,4;2,1;4,4;65,9;conforme;7665;7665;64;176;330;Non vérifié
+28030;Beauche;28;eau potable : SIAEP DE LA REGION DE BREZOLLES;175633;2024;62,0;2,1;3,4;65,7;non conforme;113795;8266;81;227;279;Non vérifié
+28031;Beaumont-les-Autels;28;eau potable : (sie vallée de la berthe);175265;2024;77,5;1,1;3,7;65,7;conforme;64240;6652;42;113;438;Non vérifié
+28032;Beauvilliers;28;eau potable : (beauvilliers);175408;2024;90,5;0,5;4,4;65,9;conforme;2190;2190;18;42;340;Non vérifié
+28033;Belhomert-Guéhouville;28;eau potable : (belhomert st maurice st germain);175352;2024;70,8;1,7;4,2;65,8;conforme;24820;15026;51;149;810;Non vérifié
+28034;Berchères-Saint-Germain;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;9178;28;63;905;Non vérifié
+28035;Berchères-les-Pierres;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;10141;28;63;1000;Non vérifié
+28036;Berchères-sur-Vesgre;28;eau potable;158564;2024;96,9;1,7;54,6;75,9;conforme;59202;12090;38;97;862;Non vérifié
+28037;Bérou-la-Mulotière;28;eau potable : SIAEP DE LA REGION DE BREZOLLES;175633;2024;62,0;2,1;3,4;65,7;non conforme;113795;10221;81;227;345;Non vérifié
+28038;Béthonvilliers;28;eau potable : (siap bethonvilliers);175511;2023;80,5;0,9;3,7;65,7;conforme;14454;2043;42;88;132;Sans anomalie apparente
+28039;Béville-le-Comte;28;eau potable : (Le gue de Longroi);175504;2024;83,8;9,5;49,4;74,9;conforme;52359;13789;22;70;1705;Non vérifié
+28040;Billancelles;28;eau potable : (billancelles);175470;2023;92,6;0,4;4,4;65,9;conforme;1606;1606;14;33;310;Sans anomalie apparente
+28041;Blandainville;28;eau potable : (blandainville);175535;2023;97,7;0,2;6,5;66,3;conforme;679;679;7;11;283;Sans anomalie apparente
+28045;Boissy-en-Drouais;28;eau potable : SA Paquetterie;175394;2024;70,6;3,1;7,3;66,5;conforme;396025;4937;60;164;226;Non vérifié
+28046;Boissy-lès-Perche;28;eau potable : (sidep);175205;2024;69,5;1,7;3,8;65,8;conforme;197412;14079;78;187;497;Non vérifié
+28047;Boisville-la-Saint-Père;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;7292;28;63;719;Non vérifié
+28048;La Bourdinière-Saint-Loup;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;7515;28;63;741;Non vérifié
+28049;Boncé;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;2150;28;63;212;Non vérifié
+28050;Boncourt;28;eau potable : (sie oulins gilles mesnil simon);175525;2024;78,6;1,9;7,1;66,4;conforme;81514;3913;39;97;274;Non vérifié
+28051;Bonneval;28;eau potable : AEP en REGIE;175213;2024;84,7;1,0;5,4;66,1;conforme;124100;55556;31;73;4868;Non vérifié
+28052;Bouglainval;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;7535;28;63;743;Non vérifié
+28053;Le Boullay-les-Deux-Églises;28;eau potable : Bassin Thymerais Distribution;175529;2024;67,7;1,7;3,5;65,7;conforme;153648;4419;50;178;242;Non vérifié
+28054;Le Boullay-Mivoye;28;eau potable : Eau de Ruffin Eau potable;175632;2024;69,2;3,4;7,6;66,5;conforme;373541;9716;51;163;526;Non vérifié
+28055;Le Boullay-Thierry;28;eau potable : Usine de Vermouillet Distribution;332594;2024;67,3;6,9;14,1;67,8;non conforme;426055;12746;59;178;594;Non vérifié
+28056;Boutigny-Prouais;28;eau potable : Eau de Ruffin Eau potable;175632;2024;69,2;3,4;7,6;66,5;conforme;373541;31475;51;163;1704;Non vérifié
+28057;Bouville;28;eau potable : AEP en REGIE;175213;2024;84,7;1,0;5,4;66,1;conforme;124100;6049;31;73;530;Non vérifié
+28058;Bréchamps;28;eau potable : Eau de Ruffin Eau potable;175632;2024;69,2;3,4;7,6;66,5;conforme;373541;6687;51;163;362;Non vérifié
+28059;Brezolles;28;eau potable : SIAEP DE LA REGION DE BREZOLLES;175633;2024;62,0;2,1;3,4;65,7;non conforme;113795;52883;81;227;1785;Non vérifié
+28060;Briconville;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;2748;28;63;271;Non vérifié
+28061;Brou;28;eau potable;175659;2024;75,8;1,1;3,4;65,7;conforme;132896;48520;41;121;3230;Non vérifié
+28062;Broué;28;eau potable : (smica);175670;2024;61,7;5,7;9,2;66,8;non conforme;472274;25367;83;227;837;Non vérifié
+28064;Bû;28;eau potable : (smica);175670;2024;61,7;5,7;9,2;66,8;non conforme;472274;62948;83;227;2077;Non vérifié
+28065;Bullainville;28;eau potable : AEP en REGIE;175213;2024;84,7;1,0;5,4;66,1;conforme;124100;1312;31;73;115;Non vérifié
+28067;Cernay;28;eau potable : (cernay);175250;2024;98,4;0,0;2,3;65,5;conforme;0;0;0;0;80;Non vérifié
+28068;Challet;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;4351;28;63;429;Non vérifié
+28070;Champhol;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;36945;28;63;3643;Non vérifié
+28071;Champrond-en-Gâtine;28;eau potable : (champrond en gatines);175273;2024;88,1;0,6;4,5;65,9;conforme;5037;5037;19;51;744;Non vérifié
+28072;Champrond-en-Perchet;28;eau potable : (champrond en perchet);198678;2024;81,6;0,6;2,7;65,5;conforme;1095;1095;8;81;388;Non vérifié
+28073;Champseru;28;eau potable : Champseru;175507;2024;87,6;0,6;3,9;65,8;conforme;2048;2048;16;56;345;Non vérifié
+28074;La Chapelle-d'Aunainville;28;eau potable : (la chapelle d aunainville);175508;2024;77,4;1,3;4,5;65,9;conforme;3084;3084;35;105;239;Non vérifié
+28075;La Chapelle-du-Noyer;28;eau potable : (Grand Chateaudun);309954;2024;62,6;3,3;5,5;66,1;non conforme;692973;39646;107;411;1015;Non vérifié
+28076;La Chapelle-Forainvilliers;28;eau potable : Eau de Ruffin Eau potable;175632;2024;69,2;3,4;7,6;66,5;conforme;373541;3897;51;163;211;Non vérifié
+28077;La Chapelle-Fortin;28;eau potable : (sidep);175205;2024;69,5;1,7;3,8;65,8;conforme;197412;4731;78;187;167;Non vérifié
+28078;Chapelle-Guillaume;28;eau potable;88057;2024;73,5;0,7;2,0;65,4;conforme;70773;3849;58;130;181;Non vérifié
+28079;Chapelle-Royale;28;eau potable : (chapelle royale);175340;2024;94,8;0,3;6,3;66,3;conforme;2190;2190;18;18;333;Non vérifié
+28080;Charbonnières;28;eau potable : (sie charbonnieres);175514;2024;100,0;0,0;3,3;65,7;conforme;0;0;0;0;263;Non vérifié
+28081;Charonville;28;eau potable : (charonville);175409;2022;77,0;1,6;5,2;66,0;conforme;5157;5157;48;111;293;Sans anomalie apparente
+28082;Charpont;28;eau potable : Eau de Ruffin Eau potable;175632;2024;69,2;3,4;7,6;66,5;conforme;373541;11489;51;163;622;Non vérifié
+28084;Chartainvilliers;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;6632;28;63;654;Non vérifié
+28085;Chartres;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;388655;28;63;38324;Non vérifié
+28086;Chassant;28;eau potable : (chassant);175335;2024;94,8;0,4;7,0;66,4;conforme;1095;1095;10;21;299;Non vérifié
+28087;Châtaincourt;28;eau potable : SA Paquetterie;175394;2024;70,6;3,1;7,3;66,5;conforme;396025;4828;60;164;221;Non vérifié
+28088;Châteaudun;28;eau potable : (Chateaudun);175455;2024;91,0;2,6;26,6;70,3;conforme;96732;96732;21;43;12830;Non vérifié
+28089;Châteauneuf-en-Thymerais;28;eau potable : Chateauneuf en Thymerais Distribution;175395;2024;92,6;1,4;18,0;68,6;conforme;10685;10685;11;28;2641;Non vérifié
+28090;Les Châtelets;28;eau potable : (sidep);175205;2024;69,5;1,7;3,8;65,8;conforme;197412;3144;78;187;111;Non vérifié
+28091;Les Châtelliers-Notre-Dame;28;eau potable : (les chatelliers notre dame);175287;2023;66,0;0,7;1,4;65,3;conforme;2810;721;13;176;148;Sans anomalie apparente
+28092;Châtenay;28;eau potable : (Yermenonville);223134;2024;72,1;7,0;18,1;68,6;conforme;350035;11342;129;512;241;Non vérifié
+28094;Chaudon;28;eau potable : Eau de Ruffin Eau potable;175632;2024;69,2;3,4;7,6;66,5;conforme;373541;31179;51;163;1688;Non vérifié
+28095;Chauffours;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;2961;28;63;292;Non vérifié
+28096;La Chaussée-d'Ivry;28;eau potable : (sie oulins gilles mesnil simon);175525;2024;78,6;1,9;7,1;66,4;conforme;81514;18865;39;97;1321;Non vérifié
+28098;Cherisy;28;eau potable : (smica);175670;2024;61,7;5,7;9,2;66,8;non conforme;472274;55825;83;227;1842;Non vérifié
+28099;Chuisnes;28;eau potable : (chuisnes);175435;2024;86,1;1,1;6,5;66,3;conforme;8833;8833;21;123;1126;Non vérifié
+28100;Cintray;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;4858;28;63;479;Non vérifié
+28102;Clévilliers;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;7758;28;63;765;Non vérifié
+28103;Cloyes-les-Trois-Rivières;28;eau potable : (Grand Chateaudun);309954;2024;62,6;3,3;5,5;66,1;non conforme;692973;219012;107;411;5607;Non vérifié
+28104;Coltainville;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;9279;28;63;915;Non vérifié
+28105;Combres;28;eau potable : (combres);175257;2024;80,8;0,8;3,3;65,7;conforme;12556;12556;63;186;547;Non vérifié
+28106;Conie-Molitard;28;eau potable : (Grand Chateaudun);309954;2024;62,6;3,3;5,5;66,1;non conforme;692973;15116;107;411;387;Non vérifié
+28107;Corancez;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;3773;28;63;372;Non vérifié
+28108;Cormainville;28;eau potable : (cormainville);175515;2024;70,2;3,3;7,7;66,5;conforme;7877;7877;101;258;213;Non vérifié
+28109;Les Corvées-les-Yys;28;eau potable : (les corvees les yys);175550;2024;80,7;0,7;2,9;65,6;conforme;4923;4923;41;111;326;Non vérifié
+28110;Le Coudray;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;40951;28;63;4038;Non vérifié
+28111;Coudray-au-Perche;28;eau potable : (siap bethonvilliers);175511;2023;80,5;0,9;3,7;65,7;conforme;14454;5633;42;88;364;Sans anomalie apparente
+28113;Coulombs;28;eau potable : Eau de Ruffin Eau potable;175632;2024;69,2;3,4;7,6;66,5;conforme;373541;25176;51;163;1363;Non vérifié
+28114;Courbehaye;28;eau potable : (courbehaye);175448;2024;89,6;0,3;2,8;65,6;conforme;1095;1095;22;39;138;Non vérifié
+28116;Courville-sur-Eure;28;eau potable : (courville sur eure);175493;2023;87,1;4,1;27,9;70,6;conforme;38131;38131;37;91;2791;Sans anomalie apparente
+28117;Crécy-Couvé;28;eau potable : Usine de Vermouillet Distribution;332594;2024;67,3;6,9;14,1;67,8;non conforme;426055;5472;59;178;255;Non vérifié
+28118;Croisilles;28;eau potable : Eau de Ruffin Eau potable;175632;2024;69,2;3,4;7,6;66,5;conforme;373541;7795;51;163;422;Non vérifié
+28119;La Croix-du-Perche;28;eau potable : (thiron gardais);175479;2024;80,7;1,8;7,6;66,5;conforme;18324;2429;45;103;147;Non vérifié
+28120;Crucey-Villages;28;eau potable : SIAEP DE LA REGION DE BREZOLLES;175633;2024;62,0;2,1;3,4;65,7;non conforme;113795;13717;81;227;463;Non vérifié
+28121;Dambron;28;eau potable : (dambron);175456;2024;74,3;1,1;3,1;65,6;conforme;2104;2104;62;130;93;Non vérifié
+28122;Dammarie;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;15263;28;63;1505;Non vérifié
+28123;Dampierre-sous-Brou;28;eau potable;175659;2024;75,8;1,1;3,4;65,7;conforme;132896;6655;41;121;443;Non vérifié
+28124;Dampierre-sur-Avre;28;eau potable : Dampierre sur Avre Distribution;331074;2024;64,5;2,1;3,7;65,7;non conforme;19484;19484;71;205;756;Non vérifié
+28126;Dancy;28;eau potable : AEP en REGIE;175213;2024;84,7;1,0;5,4;66,1;conforme;124100;2305;31;73;202;Non vérifié
+28127;Dangeau;28;eau potable;175659;2024;75,8;1,1;3,4;65,7;conforme;132896;18912;41;121;1259;Non vérifié
+28128;Dangers;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;4391;28;63;433;Non vérifié
+28129;Denonville;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;8093;28;63;798;Non vérifié
+28130;Digny;28;eau potable : (digny);175541;2024;82,9;0,7;3,3;65,7;conforme;10690;10690;29;79;1003;Non vérifié
+28132;Donnemain-Saint-Mamès;28;eau potable : (Grand Chateaudun);309954;2024;62,6;3,3;5,5;66,1;non conforme;692973;25546;107;411;654;Non vérifié
+28134;Dreux;28;eau potable : Dreux et saint Gemme Moronval Distribution;175355;2024;82,2;5,8;26,8;70,4;conforme;386882;373684;32;81;31543;Non vérifié
+28135;Droue-sur-Drouette;28;eau potable : (SIEPARE);175649;2024;83,7;5,3;27,1;70,4;conforme;135666;17087;39;83;1212;Non vérifié
+28136;Écluzelles;28;eau potable : Eau de Ruffin Eau potable;175632;2024;69,2;3,4;7,6;66,5;conforme;373541;2992;51;163;162;Non vérifié
+28137;Écrosnes;28;eau potable : (Yermenonville);223134;2024;72,1;7,0;18,1;68,6;conforme;350035;40895;129;512;869;Non vérifié
+28139;Épeautrolles;28;eau potable : (sie epeautrolles);175244;2024;79,3;1,2;4,5;65,9;conforme;8629;1921;32;98;165;Non vérifié
+28140;Épernon;28;eau potable : (SIEPARE);175649;2024;83,7;5,3;27,1;70,4;conforme;135666;80571;39;83;5715;Non vérifié
+28141;Ermenonville-la-Grande;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;3154;28;63;311;Non vérifié
+28142;Ermenonville-la-Petite;28;eau potable : (sie epeautrolles);175244;2024;79,3;1,2;4,5;65,9;conforme;8629;2236;32;98;192;Non vérifié
+28143;Escorpain;28;eau potable : SA Paquetterie;175394;2024;70,6;3,1;7,3;66,5;conforme;396025;4872;60;164;223;Non vérifié
+28144;Les Étilleux;28;eau potable : (les etilleux);175210;2024;73,8;1,1;3,0;65,6;conforme;7424;7424;100;132;204;Non vérifié
+28146;Faverolles;28;eau potable : Eau de Ruffin Eau potable;175632;2024;69,2;3,4;7,6;66,5;conforme;373541;15146;51;163;820;Non vérifié
+28147;Favières;28;eau potable : Bassin Thymerais Distribution;175529;2024;67,7;1,7;3,5;65,7;conforme;153648;11631;50;178;637;Non vérifié
+28148;Le Favril;28;eau potable : (le favril);175277;2021;91,0;0,4;4,2;65,8;conforme;2167;2167;16;35;360;Sans anomalie apparente
+28149;La Ferté-Vidame;28;eau potable : (sidep);175205;2024;69,5;1,7;3,8;65,8;conforme;197412;15382;78;187;543;Non vérifié
+28151;Fessanvilliers-Mattanvilliers;28;eau potable : SIAEP DE LA REGION DE BREZOLLES;175633;2024;62,0;2,1;3,4;65,7;non conforme;113795;4977;81;227;168;Non vérifié
+28153;Flacey;28;eau potable : AEP en REGIE;175213;2024;84,7;1,0;5,4;66,1;conforme;124100;2374;31;73;208;Non vérifié
+28154;Fontaine-la-Guyon;28;eau potable : (fontaine la guyon);175294;2023;77,8;4,0;14,0;67,8;conforme;22630;22630;37;111;1684;Sans anomalie apparente
+28155;Fontaine-les-Ribouts;28;eau potable : Bassin Thymerais Distribution;175529;2024;67,7;1,7;3,5;65,7;conforme;153648;3396;50;178;186;Non vérifié
+28156;Fontaine-Simon;28;eau potable : (fontaine simon);175461;2024;99,4;0,0;4,6;65,9;conforme;0;0;0;0;888;Non vérifié
+28157;Fontenay-sur-Conie;28;eau potable : (fontenay s conie);175318;2024;89,3;0,7;5,8;66,2;conforme;869;869;16;44;150;Non vérifié
+28158;Fontenay-sur-Eure;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;12230;28;63;1206;Non vérifié
+28159;La Framboisière;28;eau potable : (sidep);175205;2024;69,5;1,7;3,8;65,8;conforme;197412;9433;78;187;333;Non vérifié
+28160;Francourville;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;9543;28;63;941;Non vérifié
+28161;Frazé;28;eau potable : (sie fraze mottereau);175316;2024;83,9;0,4;2,1;65,4;conforme;7925;6025;34;71;482;Non vérifié
+28162;Fresnay-le-Comte;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;2850;28;63;281;Non vérifié
+28163;Fresnay-le-Gilmert;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;2201;28;63;217;Non vérifié
+28164;Fresnay-l'Évêque;28;eau potable : (fresnay l'eveque);175389;2024;97,7;0,2;9,1;66,8;conforme;1555;1555;6;8;739;Non vérifié
+28166;Friaize;28;eau potable : (friaize);175276;2024;96,8;0,1;4,1;65,8;conforme;288;288;3;9;256;Non vérifié
+28167;Fruncé;28;eau potable : (frunce);175527;2024;83,1;0,5;2,5;65,5;conforme;2248;2248;16;73;376;Non vérifié
+28168;Gallardon;28;eau potable : (Le gue de Longroi);175504;2024;83,8;9,5;49,4;74,9;conforme;52359;28549;22;70;3530;Non vérifié
+28169;Garancières-en-Beauce;28;eau potable;158719;2024;86,2;1,8;11,0;67,2;conforme;238491;2480;29;77;238;Non vérifié
+28170;Garancières-en-Drouais;28;eau potable : Usine de Vermouillet Distribution;332594;2024;67,3;6,9;14,1;67,8;non conforme;426055;5837;59;178;272;Non vérifié
+28171;Garnay;28;eau potable : Usine de Vermouillet Distribution;332594;2024;67,3;6,9;14,1;67,8;non conforme;426055;21866;59;178;1019;Non vérifié
+28172;Gas;28;eau potable : (Yermenonville);223134;2024;72,1;7,0;18,1;68,6;conforme;350035;33789;129;512;718;Non vérifié
+28173;Gasville-Oisème;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;14877;28;63;1467;Non vérifié
+28175;La Gaudaine;28;eau potable : (sie vallée de la berthe);175265;2024;77,5;1,1;3,7;65,7;conforme;64240;2703;42;113;178;Non vérifié
+28176;Le Gault-Saint-Denis;28;eau potable : AEP en REGIE;175213;2024;84,7;1,0;5,4;66,1;conforme;124100;7601;31;73;666;Non vérifié
+28177;Gellainville;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;7758;28;63;765;Non vérifié
+28178;Germainville;28;eau potable : (smica);175670;2024;61,7;5,7;9,2;66,8;non conforme;472274;10244;83;227;338;Non vérifié
+28180;Gilles;28;eau potable : (sie oulins gilles mesnil simon);175525;2024;78,6;1,9;7,1;66,4;conforme;81514;7112;39;97;498;Non vérifié
+28182;Gohory;28;eau potable;175659;2024;75,8;1,1;3,4;65,7;conforme;132896;4792;41;121;319;Non vérifié
+28183;Gommerville;28;eau potable : (gommerville);175555;2024;59,3;2,5;3,7;65,7;non conforme;18250;18250;75;249;663;Non vérifié
+28184;Gouillons;28;eau potable : (gouillons);175430;2024;92,6;0,9;10,8;67,2;conforme;1347;1347;11;30;335;Non vérifié
+28185;Goussainville;28;eau potable : (sie boutigny);175229;2024;82,9;1,3;6,3;66,3;conforme;30415;12425;25;75;1335;Non vérifié
+28187;Guainville;28;eau potable : (sie oulins gilles mesnil simon);175525;2024;78,6;1,9;7,1;66,4;conforme;81514;9939;39;97;696;Non vérifié
+28188;Le Gué-de-Longroi;28;eau potable : (Le gue de Longroi);175504;2024;83,8;9,5;49,4;74,9;conforme;52359;6955;22;70;860;Non vérifié
+28189;Guilleville;28;eau potable : (guilleville);175293;2024;54,5;2,5;3,0;65,6;non conforme;7391;7391;130;302;156;Non vérifié
+28190;Guillonville;28;eau potable : (guillonville);175547;2024;92,0;0,7;8,3;66,7;conforme;2044;2044;12;31;459;Non vérifié
+28191;Hanches;28;eau potable : (SIEPARE);175649;2024;83,7;5,3;27,1;70,4;conforme;135666;38009;39;83;2696;Non vérifié
+28192;Happonvilliers;28;eau potable : (nonvilliers grandhoux);175452;2024;81,3;0,5;2,4;65,5;conforme;4745;1937;18;81;296;Non vérifié
+28193;Havelu;28;eau potable : (smica);175670;2024;61,7;5,7;9,2;66,8;non conforme;472274;3849;83;227;127;Non vérifié
+28194;Houville-la-Branche;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;4259;28;63;420;Non vérifié
+28195;Houx;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;7565;28;63;746;Non vérifié
+28196;Illiers-Combray;28;eau potable : (sie region illiers);175203;2022;62,7;2,8;4,7;65,9;non conforme;153300;117361;100;271;3210;Sans anomalie apparente
+28197;Intréville;28;eau potable : (intreville);175466;2024;92,4;1,0;12,6;67,5;conforme;591;591;14;29;118;Non vérifié
+28198;Jallans;28;eau potable : (Grand Chateaudun);309954;2024;62,6;3,3;5,5;66,1;non conforme;692973;30702;107;411;786;Non vérifié
+28199;Janville-en-Beauce;28;eau potable;175306;2024;53,2;17,8;20,3;69,1;non conforme;121754;121754;135;320;2464;Non vérifié
+28200;Jaudrais;28;eau potable : (sidep);175205;2024;69,5;1,7;3,8;65,8;conforme;197412;11218;78;187;396;Non vérifié
+28201;Jouy;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;20161;28;63;1988;Non vérifié
+28202;Lamblore;28;eau potable : (sidep);175205;2024;69,5;1,7;3,8;65,8;conforme;197412;9008;78;187;318;Non vérifié
+28203;Landelles;28;eau potable : (landelles);175645;2023;84,1;1,3;6,8;66,4;conforme;5286;5286;23;70;628;Sans anomalie apparente
+28206;Laons;28;eau potable : SA Paquetterie;175394;2024;70,6;3,1;7,3;66,5;conforme;396025;14156;60;164;648;Non vérifié
+28207;Léthuin;28;eau potable : (Yermenonville);223134;2024;72,1;7,0;18,1;68,6;conforme;350035;11294;129;512;240;Non vérifié
+28208;Levainville;28;eau potable : (Le gue de Longroi);175504;2024;83,8;9,5;49,4;74,9;conforme;52359;3065;22;70;379;Non vérifié
+28209;Lèves;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;57653;28;63;5685;Non vérifié
+28210;Levesville-la-Chenard;28;eau potable : (levesville la chenard);175421;2024;47,5;5,5;5,0;66,0;non conforme;12587;12587;151;400;229;Non vérifié
+28211;Logron;28;eau potable;175659;2024;75,8;1,1;3,4;65,7;conforme;132896;8667;41;121;577;Non vérifié
+28212;Loigny-la-Bataille;28;eau potable : (loigny la bataille);175517;2024;94,4;0,2;3,8;65,8;conforme;730;730;9;21;218;Non vérifié
+28213;Lormaye;28;eau potable : Eau de Ruffin Eau potable;175632;2024;69,2;3,4;7,6;66,5;conforme;373541;12671;51;163;686;Non vérifié
+28214;La Loupe;28;eau potable : (la loupe);175488;2024;79,9;3,2;12,6;67,5;conforme;40062;40062;34;93;3191;Non vérifié
+28215;Louville-la-Chenard;28;eau potable : (louville la chenard);175368;2024;70,1;0,9;2,1;65,4;conforme;5913;5913;66;159;245;Non vérifié
+28216;Louvilliers-en-Drouais;28;eau potable : SA Paquetterie;175394;2024;70,6;3,1;7,3;66,5;conforme;396025;5025;60;164;230;Non vérifié
+28217;Louvilliers-lès-Perche;28;eau potable : (sidep);175205;2024;69,5;1,7;3,8;65,8;conforme;197412;5864;78;187;207;Non vérifié
+28218;Lucé;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;161460;28;63;15921;Non vérifié
+28219;Luigny;28;eau potable : (sie luigny miermaigne);175212;2024;62,7;1,3;2,2;65,4;non conforme;23725;17175;109;213;430;Non vérifié
+28220;Luisant;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;70431;28;63;6945;Non vérifié
+28221;Lumeau;28;eau potable : (lumeau);175447;2024;82,6;0,7;3,1;65,6;conforme;1799;1799;36;82;138;Non vérifié
+28222;Luplanté;28;eau potable : (sie epeautrolles);175244;2024;79,3;1,2;4,5;65,9;conforme;8629;4472;32;98;384;Non vérifié
+28223;Luray;28;eau potable : Usine de Vermouillet Distribution;332594;2024;67,3;6,9;14,1;67,8;non conforme;426055;33604;59;178;1566;Non vérifié
+28225;Magny;28;eau potable : (magny);175551;2024;92,2;0,5;5,4;66,1;conforme;2372;2372;10;34;664;Non vérifié
+28226;Maillebois;28;eau potable : Bassin Thymerais Distribution;175529;2024;67,7;1,7;3,5;65,7;conforme;153648;17182;50;178;941;Non vérifié
+28227;Maintenon;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;45575;28;63;4494;Non vérifié
+28229;Mainvilliers;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;107792;28;63;10629;Non vérifié
+28230;Maisons;28;eau potable : (Yermenonville);223134;2024;72,1;7,0;18,1;68,6;conforme;350035;19201;129;512;408;Non vérifié
+28231;La Mancelière;28;eau potable : (sidep);175205;2024;69,5;1,7;3,8;65,8;conforme;197412;4249;78;187;150;Non vérifié
+28232;Manou;28;eau potable : (manou);175490;2024;87,9;0,7;4,8;66,0;conforme;5498;5498;25;54;608;Non vérifié
+28233;Marboué;28;eau potable : (Grand Chateaudun);309954;2024;62,6;3,3;5,5;66,1;non conforme;692973;43279;107;411;1108;Non vérifié
+28234;Marchéville;28;eau potable : (marcheville);175449;2024;92,0;0,5;5,7;66,1;conforme;2172;2172;12;32;507;Non vérifié
+28235;Marchezais;28;eau potable : (smica);175670;2024;61,7;5,7;9,2;66,8;non conforme;472274;12517;83;227;413;Non vérifié
+28236;Arcisses;28;eau potable (Brunelles);175485;2024;89,3;0,4;3,2;65,6;conforme;4545;4545;6;55;2197;Non vérifié
+28237;Marolles-les-Buis;28;eau potable : Périmètre Rémalard / Sablons / Cour Maugis-sur-Huisne;227574;2024;77,1;1,0;3,4;65,7;conforme;59959;2460;33;110;205;Non vérifié
+28239;Marville-Moutiers-Brûlé;28;eau potable : Usine de Vermouillet Distribution;332594;2024;67,3;6,9;14,1;67,8;non conforme;426055;21973;59;178;1024;Non vérifié
+28240;Meaucé;28;eau potable : (meauce);175454;2024;82,3;0,6;2,8;65,6;conforme;4441;4441;24;78;501;Non vérifié
+28242;Méréglise;28;eau potable : (sie region illiers);175203;2022;62,7;2,8;4,7;65,9;non conforme;153300;3839;100;271;105;Sans anomalie apparente
+28243;Mérouville;28;eau potable : (merouville);175426;2024;76,5;1,9;6,1;66,2;conforme;3155;3155;40;113;214;Non vérifié
+28245;Meslay-le-Grenet;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;3844;28;63;379;Non vérifié
+28246;Meslay-le-Vidame;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;5152;28;63;508;Non vérifié
+28247;Le Mesnil-Simon;28;eau potable : (sie oulins gilles mesnil simon);175525;2024;78,6;1,9;7,1;66,4;conforme;81514;8069;39;97;565;Non vérifié
+28248;Le Mesnil-Thomas;28;eau potable : (sidep);175205;2024;69,5;1,7;3,8;65,8;conforme;197412;9490;78;187;335;Non vérifié
+28249;Mévoisins;28;eau potable : (Yermenonville);223134;2024;72,1;7,0;18,1;68,6;conforme;350035;28942;129;512;615;Non vérifié
+28251;Mézières-en-Drouais;28;eau potable : (smica);175670;2024;61,7;5,7;9,2;66,8;non conforme;472274;32095;83;227;1059;Non vérifié
+28252;Miermaigne;28;eau potable : (sie luigny miermaigne);175212;2024;62,7;1,3;2,2;65,4;non conforme;23725;6550;109;213;164;Non vérifié
+28253;Mignières;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;11794;28;63;1163;Non vérifié
+28254;Mittainvilliers-Vérigny;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;8123;28;63;801;Non vérifié
+28255;Moinville-la-Jeulin;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;1612;28;63;159;Non vérifié
+28256;Moléans;28;eau potable : (Grand Chateaudun);309954;2024;62,6;3,3;5,5;66,1;non conforme;692973;16913;107;411;433;Non vérifié
+28257;Mondonville-Saint-Jean;28;eau potable : (Yermenonville);223134;2024;72,1;7,0;18,1;68,6;conforme;350035;4518;129;512;96;Non vérifié
+28259;Montboissier;28;eau potable : AEP en REGIE;175213;2024;84,7;1,0;5,4;66,1;conforme;124100;3892;31;73;341;Non vérifié
+28260;Montharville;28;eau potable : AEP en REGIE;175213;2024;84,7;1,0;5,4;66,1;conforme;124100;1198;31;73;105;Non vérifié
+28261;Montigny-le-Chartif;28;eau potable : (montigny le chartif);175453;2023;96,2;0,1;2,7;65,5;conforme;986;986;5;13;586;Sans anomalie apparente
+28263;Montigny-sur-Avre;28;eau potable : SIAEP DE LA REGION DE BREZOLLES;175633;2024;62,0;2,1;3,4;65,7;non conforme;113795;7584;81;227;256;Non vérifié
+28264;Montireau;28;eau potable : (montlandon montireau);175356;2024;94,8;0,3;5,4;66,1;conforme;1752;614;12;36;136;Non vérifié
+28265;Montlandon;28;eau potable : (montlandon montireau);175356;2024;94,8;0,3;5,4;66,1;conforme;1752;1138;12;36;252;Non vérifié
+28267;Montreuil;28;eau potable : (smica);175670;2024;61,7;5,7;9,2;66,8;non conforme;472274;16305;83;227;538;Non vérifié
+28268;Morainville;28;eau potable : (Yermenonville);223134;2024;72,1;7,0;18,1;68,6;conforme;350035;847;129;512;18;Non vérifié
+28269;Morancez;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;19623;28;63;1935;Non vérifié
+28270;Moriers;28;eau potable : AEP en REGIE;175213;2024;84,7;1,0;5,4;66,1;conforme;124100;2545;31;73;223;Non vérifié
+28271;Morvilliers;28;eau potable : (sidep);175205;2024;69,5;1,7;3,8;65,8;conforme;197412;3881;78;187;137;Non vérifié
+28272;Mottereau;28;eau potable : (sie fraze mottereau);175316;2024;83,9;0,4;2,1;65,4;conforme;7925;1900;34;71;152;Non vérifié
+28273;Moulhard;28;eau potable;175659;2024;75,8;1,1;3,4;65,7;conforme;132896;2088;41;121;139;Non vérifié
+28274;Moutiers-en-Beauce;28;eau potable : (moutiers);175238;2024;96,5;0,1;3,8;65,8;conforme;380;380;4;10;246;Non vérifié
+28275;Néron;28;eau potable : Eau de Ruffin Eau potable;175632;2024;69,2;3,4;7,6;66,5;conforme;373541;12690;51;163;687;Non vérifié
+28276;Neuvy-en-Beauce;28;eau potable : (neuvy en beauce) (Neuvy-en-Beauce);175338;2024;75,2;2,1;6,2;66,2;conforme;3679;3679;48;123;212;Non vérifié
+28277;Neuvy-en-Dunois;28;eau potable : AEP en REGIE;175213;2024;84,7;1,0;5,4;66,1;conforme;124100;3424;31;73;300;Non vérifié
+28278;Nogent-le-Phaye;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;14725;28;63;1452;Non vérifié
+28279;Nogent-le-Roi;28;eau potable : Eau de Ruffin Eau potable;175632;2024;69,2;3,4;7,6;66,5;conforme;373541;74272;51;163;4021;Non vérifié
+28280;Nogent-le-Rotrou;28;eau potable : (nogent le rotrou);175317;2024;93,5;1,1;15,8;68,2;conforme;47891;47891;14;27;9292;Non vérifié
+28281;Nogent-sur-Eure;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;5172;28;63;510;Non vérifié
+28282;Nonvilliers-Grandhoux;28;eau potable : (nonvilliers grandhoux);175452;2024;81,3;0,5;2,4;65,5;conforme;4745;2808;18;81;429;Non vérifié
+28283;Nottonville;28;eau potable : (nottonville);175266;2024;80,5;1,0;4,1;65,8;conforme;5019;5019;49;88;279;Non vérifié
+28284;Oinville-Saint-Liphard;28;eau potable : (oinville st liphard);175388;2024;95,0;0,1;7,7;66,5;conforme;310;310;3;5;279;Non vérifié
+28285;Oinville-sous-Auneau;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;3174;28;63;313;Non vérifié
+28286;Ollé;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;6338;28;63;625;Non vérifié
+28287;Orgères-en-Beauce;28;eau potable : (orgeres en beauce);175245;2024;67,0;3,5;7,1;66,4;conforme;22995;22995;63;181;1007;Non vérifié
+28289;Ormoy;28;eau potable : Bassin Thymerais Distribution;175529;2024;67,7;1,7;3,5;65,7;conforme;153648;4181;50;178;229;Non vérifié
+28290;Orrouer;28;eau potable : (orrouer);175415;2023;99,1;0,1;5,4;66,1;conforme;259;259;3;7;282;Sans anomalie apparente
+28291;Ouarville;28;eau potable : (ouarville);175556;2024;97,7;0,2;10,0;67,0;conforme;730;730;4;7;548;Non vérifié
+28292;Ouerre;28;eau potable : Eau de Ruffin Eau potable;175632;2024;69,2;3,4;7,6;66,5;conforme;373541;14500;51;163;785;Non vérifié
+28293;Oulins;28;eau potable : (sie oulins gilles mesnil simon);175525;2024;78,6;1,9;7,1;66,4;conforme;81514;16723;39;97;1171;Non vérifié
+28294;Oysonville;28;eau potable : (oysonville);175220;2024;70,5;5,1;12,2;67,4;conforme;8433;8433;45;152;517;Non vérifié
+28296;Péronville;28;eau potable : (peronville);175518;2024;93,3;1,0;13,4;67,7;conforme;4059;4059;44;158;254;Non vérifié
+28298;Pierres;28;eau potable : (pierres);175558;2021;65,0;7,9;14,6;67,9;non conforme;67532;67532;66;198;2788;Sans anomalie apparente
+28299;Les Pinthières;28;eau potable : Eau de Ruffin Eau potable;175632;2024;69,2;3,4;7,6;66,5;conforme;373541;3048;51;163;165;Non vérifié
+28300;Poinville;28;eau potable : (poinville);175329;2024;75,2;3,8;11,4;67,3;conforme;2635;2635;41;122;176;Non vérifié
+28301;Poisvilliers;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;4513;28;63;445;Non vérifié
+28302;Pontgouin;28;eau potable : (pontgouin);175377;2024;100,0;0,0;3,6;65,7;conforme;0;0;0;0;1110;Non vérifié
+28303;Poupry;28;eau potable : (poupry);175472;2024;84,9;0,7;3,9;65,8;conforme;996;996;28;66;96;Non vérifié
+28304;Prasville;28;eau potable : (prasville);175467;2024;76,7;2,5;8,3;66,7;conforme;4955;4955;30;109;451;Non vérifié
+28305;Pré-Saint-Évroult;28;eau potable : AEP en REGIE;175213;2024;84,7;1,0;5,4;66,1;conforme;124100;3230;31;73;283;Non vérifié
+28306;Pré-Saint-Martin;28;eau potable : AEP en REGIE;175213;2024;84,7;1,0;5,4;66,1;conforme;124100;1986;31;73;174;Non vérifié
+28308;Prudemanche;28;eau potable : SA Paquetterie;175394;2024;70,6;3,1;7,3;66,5;conforme;396025;5724;60;164;262;Non vérifié
+28309;Prunay-le-Gillon;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;11804;28;63;1164;Non vérifié
+28310;La Puisaye;28;eau potable : (sidep);175205;2024;69,5;1,7;3,8;65,8;conforme;197412;7025;78;187;248;Non vérifié
+28312;Puiseux;28;eau potable : Bassin Thymerais Distribution;175529;2024;67,7;1,7;3,5;65,7;conforme;153648;2483;50;178;136;Non vérifié
+28313;Réclainville;28;eau potable : (reclainville);175367;2024;99,3;0,0;5,3;66,1;conforme;0;0;0;0;203;Non vérifié
+28314;Les Ressuintes;28;eau potable : (sidep);175205;2024;69,5;1,7;3,8;65,8;conforme;197412;4306;78;187;152;Non vérifié
+28315;Revercourt;28;eau potable : SIAEP DE LA REGION DE BREZOLLES;175633;2024;62,0;2,1;3,4;65,7;non conforme;113795;770;81;227;26;Non vérifié
+28316;Rohaire;28;eau potable : (sidep);175205;2024;69,5;1,7;3,8;65,8;conforme;197412;3739;78;187;132;Non vérifié
+28317;Roinville;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;5963;28;63;588;Non vérifié
+28319;Rouvray-Saint-Denis;28;eau potable : (rouvray st denis) (Rouvray-Saint-Denis);175561;2024;92,1;0,9;10,3;67,1;conforme;1918;1918;8;32;647;Non vérifié
+28321;Rouvres;28;eau potable : (sie oulins gilles mesnil simon);175525;2024;78,6;1,9;7,1;66,4;conforme;81514;11453;39;97;802;Non vérifié
+28322;Rueil-la-Gadelière;28;eau potable : SIAEP DE LA REGION DE BREZOLLES;175633;2024;62,0;2,1;3,4;65,7;non conforme;113795;13776;81;227;465;Non vérifié
+28323;Saint-Ange-et-Torçay;28;eau potable : Bassin Thymerais Distribution;175529;2024;67,7;1,7;3,5;65,7;conforme;153648;5186;50;178;284;Non vérifié
+28324;Saint-Arnoult-des-Bois;28;eau potable : (st arnoult des bois);175251;2024;72,8;1,9;5,2;66,0;conforme;16228;16228;50;134;897;Non vérifié
+28325;Saint-Aubin-des-Bois;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;11754;28;63;1159;Non vérifié
+28326;Saint-Avit-les-Guespières;28;eau potable : (sie region illiers);175203;2022;62,7;2,8;4,7;65,9;non conforme;153300;12504;100;271;342;Sans anomalie apparente
+28327;Saint-Bomer;28;eau potable : (st bomer);175326;2023;71,9;1,3;3,2;65,6;conforme;9490;9490;134;148;194;Sans anomalie apparente
+28329;Saint-Christophe;28;eau potable : (Grand Chateaudun);309954;2024;62,6;3,3;5,5;66,1;non conforme;692973;5586;107;411;143;Non vérifié
+28330;Villemaury;28;eau potable : (Grand Chateaudun);309954;2024;62,6;3,3;5,5;66,1;non conforme;692973;50115;107;411;1283;Non vérifié
+28331;Saintigny;28;eau potable : Saintigny;175563;2024;68,8;1,0;2,2;65,4;conforme;25550;25550;76;164;922;Non vérifié
+28332;Sainte-Gemme-Moronval;28;eau potable : Dreux et saint Gemme Moronval Distribution;175355;2024;82,2;5,8;26,8;70,4;conforme;386882;13197;32;81;1114;Non vérifié
+28334;Saint-Denis-Lanneray;28;eau potable : (Grand Chateaudun);309954;2024;62,6;3,3;5,5;66,1;non conforme;692973;81480;107;411;2086;Non vérifié
+28335;Saint-Éliph;28;eau potable : (st eliph);175481;2024;85,7;0,6;3,6;65,7;conforme;8521;8521;28;62;828;Non vérifié
+28336;Saint-Éman;28;eau potable : (sie region illiers);175203;2022;62,7;2,8;4,7;65,9;non conforme;153300;3437;100;271;94;Sans anomalie apparente
+28337;Saint-Georges-sur-Eure;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;28365;28;63;2797;Non vérifié
+28339;Saint-Germain-le-Gaillard;28;eau potable : (st germain le gaillard);175366;2023;84,9;1,0;5,5;66,1;conforme;3281;3281;24;66;368;Sans anomalie apparente
+28341;Saint-Jean-de-Rebervilliers;28;eau potable : Bassin Thymerais Distribution;175529;2024;67,7;1,7;3,5;65,7;conforme;153648;4291;50;178;235;Non vérifié
+28342;Saint-Jean-Pierre-Fixte;28;eau potable : (st jean pierre fixte);175512;2024;64,5;1,1;2,0;65,4;non conforme;7468;7468;75;196;271;Non vérifié
+28343;Saint-Laurent-la-Gâtine;28;eau potable : Eau de Ruffin Eau potable;175632;2024;69,2;3,4;7,6;66,5;conforme;373541;8681;51;163;470;Non vérifié
+28344;Saint-Léger-des-Aubées;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;2576;28;63;254;Non vérifié
+28346;Saint-Lubin-de-Cravant;28;eau potable : SIAEP DE LA REGION DE BREZOLLES;175633;2024;62,0;2,1;3,4;65,7;non conforme;113795;1600;81;227;54;Non vérifié
+28347;Saint-Lubin-de-la-Haye;28;eau potable;158564;2024;96,9;1,7;54,6;75,9;conforme;59202;13142;38;97;937;Non vérifié
+28348;Saint-Lubin-des-Joncherets;28;eau potable : SA Paquetterie;175394;2024;70,6;3,1;7,3;66,5;conforme;396025;89918;60;164;4116;Non vérifié
+28349;Saint-Lucien;28;eau potable : Eau de Ruffin Eau potable;175632;2024;69,2;3,4;7,6;66,5;conforme;373541;5227;51;163;283;Non vérifié
+28350;Saint-Luperce;28;eau potable : (st luperce);175445;2023;39,9;9,5;6,3;66,3;non conforme;63941;63941;174;548;1005;Sans anomalie apparente
+28351;Saint-Maixme-Hauterive;28;eau potable : Bassin Thymerais Distribution;175529;2024;67,7;1,7;3,5;65,7;conforme;153648;7669;50;178;420;Non vérifié
+28352;Saint-Martin-de-Nigelles;28;eau potable : Eau de Ruffin Eau potable;175632;2024;69,2;3,4;7,6;66,5;conforme;373541;29314;51;163;1587;Non vérifié
+28353;Saint-Maur-sur-le-Loir;28;eau potable : AEP en REGIE;175213;2024;84,7;1,0;5,4;66,1;conforme;124100;4691;31;73;411;Non vérifié
+28354;Saint-Maurice-Saint-Germain;28;eau potable : (belhomert st maurice st germain);175352;2024;70,8;1,7;4,2;65,8;conforme;24820;9794;51;149;528;Non vérifié
+28355;Saint-Ouen-Marchefroy;28;eau potable;158564;2024;96,9;1,7;54,6;75,9;conforme;59202;4067;38;97;290;Non vérifié
+28357;Saint-Piat;28;eau potable : (Yermenonville);223134;2024;72,1;7,0;18,1;68,6;conforme;350035;52708;129;512;1120;Non vérifié
+28358;Saint-Prest;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;21449;28;63;2115;Non vérifié
+28359;Saint-Rémy-sur-Avre;28;eau potable : Saint Remy sur Avre;175413;2024;40,2;21,4;14,4;67,9;non conforme;273385;273385;185;543;4058;Non vérifié
+28360;Saint-Sauveur-Marville;28;eau potable : Bassin Thymerais Distribution;175529;2024;67,7;1,7;3,5;65,7;conforme;153648;16816;50;178;921;Non vérifié
+28362;Saint-Victor-de-Buthon;28;eau potable : (st victor de buthon);175495;2024;92,9;0,2;3,2;65,6;conforme;2856;2856;15;31;510;Non vérifié
+28363;Sainville;28;eau potable : (sainville);175258;2021;99,6;0,1;13,6;67,7;conforme;422;422;1;3;1046;Sans anomalie apparente
+28364;Sancheville;28;eau potable : AEP en REGIE;175213;2024;84,7;1,0;5,4;66,1;conforme;124100;8468;31;73;742;Non vérifié
+28365;Sandarville;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;4290;28;63;423;Non vérifié
+28366;Santeuil;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;3286;28;63;324;Non vérifié
+28367;Santilly;28;eau potable : (santilly);175342;2024;76,7;1,6;5,2;66,0;conforme;5314;5314;48;112;303;Non vérifié
+28368;La Saucelle;28;eau potable : (sidep);175205;2024;69,5;1,7;3,8;65,8;conforme;197412;5609;78;187;198;Non vérifié
+28369;Saulnières;28;eau potable : Usine de Vermouillet Distribution;332594;2024;67,3;6,9;14,1;67,8;non conforme;426055;16115;59;178;751;Non vérifié
+28370;Saumeray;28;eau potable : AEP en REGIE;175213;2024;84,7;1,0;5,4;66,1;conforme;124100;5307;31;73;465;Non vérifié
+28371;Saussay;28;eau potable : (smica);175670;2024;61,7;5,7;9,2;66,8;non conforme;472274;32732;83;227;1080;Non vérifié
+28372;Senantes;28;eau potable : Eau de Ruffin Eau potable;175632;2024;69,2;3,4;7,6;66,5;conforme;373541;9753;51;163;528;Non vérifié
+28373;Senonches;28;eau potable : (sidep);175205;2024;69,5;1,7;3,8;65,8;conforme;197412;86256;78;187;3045;Non vérifié
+28374;Serazereux;28;eau potable : Bassin Thymerais Distribution;175529;2024;67,7;1,7;3,5;65,7;conforme;153648;9787;50;178;536;Non vérifié
+28375;Serville;28;eau potable : (smica);175670;2024;61,7;5,7;9,2;66,8;non conforme;472274;10880;83;227;359;Non vérifié
+28377;Sorel-Moussel;28;eau potable : (smica);175670;2024;61,7;5,7;9,2;66,8;non conforme;472274;53280;83;227;1758;Non vérifié
+28378;Souancé-au-Perche;28;eau potable : (souance au perche);175382;2023;66,2;2,9;5,6;66,1;conforme;30030;30030;169;293;486;Sans anomalie apparente
+28379;Soulaires;28;eau potable : (Yermenonville);223134;2024;72,1;7,0;18,1;68,6;conforme;350035;22165;129;512;471;Non vérifié
+28380;Sours;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;19867;28;63;1959;Non vérifié
+28382;Terminiers;28;eau potable : (terminiers);175581;2024;87,2;0,8;5,5;66,1;conforme;6424;6424;20;67;881;Non vérifié
+28383;Theuville;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;7393;28;63;729;Non vérifié
+28385;Le Thieulin;28;eau potable : (le thieulin);175226;2024;92,0;0,5;6,2;66,2;conforme;2455;2455;16;48;423;Non vérifié
+28386;Thimert-Gâtelles;28;eau potable : Bassin Thymerais Distribution;175529;2024;67,7;1,7;3,5;65,7;conforme;153648;22477;50;178;1231;Non vérifié
+28387;Thiron-Gardais;28;eau potable : (thiron gardais);175479;2024;80,7;1,8;7,6;66,5;conforme;18324;15895;45;103;962;Non vérifié
+28388;Thivars;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;11348;28;63;1119;Non vérifié
+28389;Thiville;28;eau potable : (Grand Chateaudun);309954;2024;62,6;3,3;5,5;66,1;non conforme;692973;13046;107;411;334;Non vérifié
+28390;Tillay-le-Péneux;28;eau potable : (tillay le peneux);175513;2024;78,4;1,0;3,5;65,7;conforme;5782;5782;50;103;316;Non vérifié
+28391;Toury;28;eau potable : (toury);175200;2024;75,1;5,3;15,9;68,2;conforme;46834;46834;49;122;2640;Non vérifié
+28392;Trancrainville;28;eau potable : (trancrainville);175571;2024;95,1;0,2;4,2;65,8;conforme;480;480;8;17;169;Non vérifié
+28393;Tremblay-les-Villages;28;eau potable : Bassin Thymerais Distribution;175529;2024;67,7;1,7;3,5;65,7;conforme;153648;40279;50;178;2206;Non vérifié
+28394;Tréon;28;eau potable : Usine de Vermouillet Distribution;332594;2024;67,3;6,9;14,1;67,8;non conforme;426055;30428;59;178;1418;Non vérifié
+28395;Trizay-Coutretot-Saint-Serge;28;eau potable : (sie vallée de la berthe);175265;2024;77,5;1,1;3,7;65,7;conforme;64240;6530;42;113;430;Non vérifié
+28396;Trizay-lès-Bonneval;28;eau potable : AEP en REGIE;175213;2024;84,7;1,0;5,4;66,1;conforme;124100;3686;31;73;323;Non vérifié
+28397;Umpeau;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;4097;28;63;404;Non vérifié
+28398;Unverre;28;eau potable;175659;2024;75,8;1,1;3,4;65,7;conforme;132896;18071;41;121;1203;Non vérifié
+28400;Varize;28;eau potable : (varize);175428;2024;71,0;1,3;4,7;65,9;conforme;3322;3322;49;101;184;Non vérifié
+28401;Vaupillon;28;eau potable : (vaupillon);175478;2024;92,2;0,3;3,4;65,7;conforme;2229;2229;13;32;466;Non vérifié
+28403;Ver-lès-Chartres;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;7870;28;63;776;Non vérifié
+28404;Vernouillet;28;eau potable : Usine de Vermouillet Distribution;332594;2024;67,3;6,9;14,1;67,8;non conforme;426055;264152;59;178;12310;Non vérifié
+28405;Vert-en-Drouais;28;eau potable : SA Paquetterie;175394;2024;70,6;3,1;7,3;66,5;conforme;396025;24533;60;164;1123;Non vérifié
+28406;Éole-en-Beauce;28;eau potable (Eole-en-Beauce);175440;2024;88,9;0,7;5,4;66,1;conforme;7972;7972;18;48;1238;Non vérifié
+28407;Vichères;28;eau potable : (sie vallée de la berthe);175265;2024;77,5;1,1;3,7;65,7;conforme;64240;4389;42;113;289;Non vérifié
+28408;Vierville;28;eau potable : (Yermenonville);223134;2024;72,1;7,0;18,1;68,6;conforme;350035;5035;129;512;107;Non vérifié
+28409;Vieuvicq;28;eau potable : (sie region illiers);175203;2022;62,7;2,8;4,7;65,9;non conforme;153300;16160;100;271;442;Sans anomalie apparente
+28410;Villampuy;28;eau potable : (Grand Chateaudun);309954;2024;62,6;3,3;5,5;66,1;non conforme;692973;11562;107;411;296;Non vérifié
+28411;Villars;28;eau potable : (villars);175345;2024;98,9;0,0;4,1;65,8;conforme;0;0;0;0;179;Non vérifié
+28414;Villebon;28;eau potable : (villebon);175573;2023;78,7;2,3;8,6;66,7;conforme;756;756;39;98;53;Sans anomalie apparente
+28415;Villemeux-sur-Eure;28;eau potable : Eau de Ruffin Eau potable;175632;2024;69,2;3,4;7,6;66,5;conforme;373541;32879;51;163;1780;Non vérifié
+28417;Villiers-le-Morhier;28;eau potable : Eau de Ruffin Eau potable;175632;2024;69,2;3,4;7,6;66,5;conforme;373541;24954;51;163;1351;Non vérifié
+28418;Villiers-Saint-Orien;28;eau potable : AEP en REGIE;175213;2024;84,7;1,0;5,4;66,1;conforme;124100;1849;31;73;162;Non vérifié
+28419;Vitray-en-Beauce;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;3509;28;63;346;Non vérifié
+28421;Voise;28;eau potable : Chartres Métropole;175399;2024;85,8;3,1;18,6;68,7;conforme;1389754;2485;28;63;245;Non vérifié
+28422;Les Villages Vovéens;28;eau potable : (Les villages vovéens);175215;2024;98,6;0,2;11,8;67,4;conforme;3386;3386;2;6;4009;Non vérifié
+28423;Yermenonville;28;eau potable : (Yermenonville);223134;2024;72,1;7,0;18,1;68,6;conforme;350035;29224;129;512;621;Non vérifié
+28424;Yèvres;28;eau potable;175659;2024;75,8;1,1;3,4;65,7;conforme;132896;25191;41;121;1677;Non vérifié
+28425;Ymeray;28;eau potable : (Yermenonville);223134;2024;72,1;7,0;18,1;68,6;conforme;350035;28942;129;512;615;Non vérifié
+28426;Ymonville;28;eau potable : (ymonville);175576;2024;96,9;0,2;6,3;66,3;conforme;730;730;4;12;475;Non vérifié

@@ -1,0 +1,178 @@
+﻿# DourData — eau perdue par les réseaux d'eau potable (indicateurs SISPEA)
+# Périmètre : Département 95
+# Source : SISPEA — Système d'Information des Services Publics d'Eau et d'Assainissement, via data.gouv.fr / services.eaufrance.fr
+# Licence : Licence Ouverte 2.0 (Etalab)
+# Millésime des données : 2022–2024 (année la plus récente disponible par commune)
+# Date de génération de l'export : 2026-07-05
+# Méthodologie et code : https://github.com/btaverne/dourdata
+# Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
+# Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
+95002;Ableiges;95;eau potable;318074;2024;76,9;3,9;13,1;67,6;conforme;163432;15966;39;122;1108;Non vérifié
+95008;Aincourt;95;eau potable;318074;2024;76,9;3,9;13,1;67,6;conforme;163432;12306;39;122;854;Non vérifié
+95012;Amenucourt;95;eau potable;118268;2024;95,7;0,5;11,2;67,2;conforme;11164;330;4;22;212;Non vérifié
+95014;Andilly;95;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;16603;17;43;2742;Non vérifié
+95018;Argenteuil;95;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;642609;17;43;106130;Non vérifié
+95019;Arnouville;95;eau potable : Contrat 2;332654;2024;92,2;5,7;67,5;78,5;conforme;415393;73833;13;37;15023;Non vérifié
+95023;Arronville;95;eau potable;118255;2024;77,6;1,9;6,6;66,3;conforme;10749;6697;30;104;618;Non vérifié
+95024;Arthies;95;eau potable;118269;2022;100,0;0,0;7,0;66,4;conforme;0;0;0;0;265;Sans anomalie apparente
+95026;Asnières-sur-Oise;95;eau potable;118260;2024;77,0;5,9;19,6;68,9;conforme;680506;62929;55;110;3127;Non vérifié
+95028;Attainville;95;eau potable;118278;2024;89,6;2,6;22,0;69,4;conforme;119792;10808;16;43;1904;Non vérifié
+95039;Auvers-sur-Oise;95;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;41555;17;43;6863;Non vérifié
+95040;Avernes;95;eau potable;318074;2024;76,9;3,9;13,1;67,6;conforme;163432;12551;39;122;871;Non vérifié
+95042;Baillet-en-France;95;eau potable;118278;2024;89,6;2,6;22,0;69,4;conforme;119792;11472;16;43;2021;Non vérifié
+95046;Banthelu;95;eau potable;118269;2022;100,0;0,0;7,0;66,4;conforme;0;0;0;0;146;Sans anomalie apparente
+95051;Beauchamp;95;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;59635;17;43;9849;Non vérifié
+95052;Beaumont-sur-Oise;95;eau potable;118273;2024;88,0;7,3;53,4;75,7;conforme;246306;92400;25;66;10232;Non vérifié
+95054;Le Bellay-en-Vexin;95;eau potable;118279;2024;86,0;1,9;11,5;67,3;conforme;79877;1811;22;60;224;Non vérifié
+95055;Bellefontaine;95;eau potable;118261;2024;87,5;4,0;28,1;70,6;conforme;132626;3610;21;57;474;Non vérifié
+95056;Belloy-en-France;95;eau potable;118262;2024;83,6;2,3;11,9;67,4;conforme;92437;17814;22;70;2250;Non vérifié
+95058;Bernes-sur-Oise;95;eau potable;118273;2024;88,0;7,3;53,4;75,7;conforme;246306;24238;25;66;2684;Non vérifié
+95059;Berville;95;eau potable;118255;2024;77,6;1,9;6,6;66,3;conforme;10749;4053;30;104;374;Non vérifié
+95060;Bessancourt;95;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;53701;17;43;8869;Non vérifié
+95061;Béthemont-la-Forêt;95;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;2634;17;43;435;Non vérifié
+95063;Bezons;95;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;220605;17;43;36434;Non vérifié
+95074;Boisemont;95;eau potable;118284;2024;89,5;5,3;44,8;74,0;conforme;1441473;5837;18;44;892;Non vérifié
+95088;Bonneuil-en-France;95;eau potable : Bonneuil-en-France;332634;2024;91,4;2,0;21,3;69,3;conforme;6694;6694;15;36;1185;Non vérifié
+95091;Bouffémont;95;eau potable;118278;2024;89,6;2,6;22,0;69,4;conforme;119792;37426;16;43;6593;Non vérifié
+95094;Bouqueval;95;eau potable;118262;2024;83,6;2,3;11,9;67,4;conforme;92437;2486;22;70;314;Non vérifié
+95101;Bray-et-Lû;95;eau potable;118268;2024;95,7;0,5;11,2;67,2;conforme;11164;1483;4;22;954;Non vérifié
+95102;Bréançon;95;eau potable;118279;2024;86,0;1,9;11,5;67,3;conforme;79877;3492;22;60;432;Non vérifié
+95120;Butry-sur-Oise;95;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;13636;17;43;2252;Non vérifié
+95127;Cergy;95;eau potable;118284;2024;89,5;5,3;44,8;74,0;conforme;1441473;463998;18;44;70906;Non vérifié
+95134;Champagne-sur-Oise;95;eau potable;118274;2024;86,7;3,8;25,1;70,0;conforme;174596;37925;21;55;5036;Non vérifié
+95139;La Chapelle-en-Vexin;95;eau potable : MAGNY-EN-VEXIN -LA CHAPELLE EN VEXIN-ST GERVAIS;118258;2024;88,3;1,9;14,0;67,8;conforme;77582;3558;30;60;320;Non vérifié
+95141;Charmont;95;eau potable;118269;2022;100,0;0,0;7,0;66,4;conforme;0;0;0;0;32;Sans anomalie apparente
+95142;Chars;95;eau potable;118279;2024;86,0;1,9;11,5;67,3;conforme;79877;16216;22;60;2006;Non vérifié
+95144;Châtenay-en-France;95;eau potable;118262;2024;83,6;2,3;11,9;67,4;conforme;92437;538;22;70;68;Non vérifié
+95149;Chaumontel;95;eau potable;118260;2024;77,0;5,9;19,6;68,9;conforme;680506;67054;55;110;3332;Non vérifié
+95150;Chaussy;95;eau potable;118271;2024;37,4;6,8;4,1;65,8;non conforme;67014;33401;145;610;631;Non vérifié
+95151;Chauvry;95;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;1798;17;43;297;Non vérifié
+95154;Chennevières-lès-Louvres;95;eau potable : 24 Cnes;152971;2024;83,0;4,5;22,0;69,4;conforme;546197;3100;30;80;282;Non vérifié
+95157;Chérence;95;eau potable;118271;2024;37,4;6,8;4,1;65,8;non conforme;67014;7252;145;610;137;Non vérifié
+95166;Cléry-en-Vexin;95;eau potable;118269;2022;100,0;0,0;7,0;66,4;conforme;0;0;0;0;476;Sans anomalie apparente
+95169;Commeny;95;eau potable;318074;2024;76,9;3,9;13,1;67,6;conforme;163432;9309;39;122;646;Non vérifié
+95170;Condécourt;95;eau potable;318074;2024;76,9;3,9;13,1;67,6;conforme;163432;8127;39;122;564;Non vérifié
+95176;Cormeilles-en-Parisis;95;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;165251;17;43;27292;Non vérifié
+95177;Cormeilles-en-Vexin;95;eau potable;118279;2024;86,0;1,9;11,5;67,3;conforme;79877;10485;22;60;1297;Non vérifié
+95181;Courcelles-sur-Viosne;95;eau potable;118114;2024;77,4;3,2;10,9;67,2;conforme;3761;3761;33;107;310;Non vérifié
+95183;Courdimanche;95;eau potable;118284;2024;89,5;5,3;44,8;74,0;conforme;1441473;47842;18;44;7311;Non vérifié
+95197;Deuil-la-Barre;95;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;139863;17;43;23099;Non vérifié
+95199;Domont;95;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;97272;17;43;16065;Non vérifié
+95203;Eaubonne;95;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;158706;17;43;26211;Non vérifié
+95205;Écouen;95;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;43608;17;43;7202;Non vérifié
+95210;Enghien-les-Bains;95;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;69220;17;43;11432;Non vérifié
+95211;Ennery;95;eau potable;118257;2024;90,1;3,5;32,1;71,4;conforme;35578;24814;30;75;2243;Non vérifié
+95212;Épiais-lès-Louvres;95;eau potable : 24 Cnes;152971;2024;83,0;4,5;22,0;69,4;conforme;546197;1715;30;80;156;Non vérifié
+95214;Épinay-Champlâtreux;95;eau potable;118262;2024;83,6;2,3;11,9;67,4;conforme;92437;451;22;70;57;Non vérifié
+95218;Éragny-sur-Oise;95;eau potable;118284;2024;89,5;5,3;44,8;74,0;conforme;1441473;120642;18;44;18436;Non vérifié
+95219;Ermont;95;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;178554;17;43;29489;Non vérifié
+95229;Ézanville;95;eau potable : Ezanville 2019;118123;2024;82,3;7,3;33,6;71,7;conforme;95576;95576;27;79;9858;Non vérifié
+95241;Fontenay-en-Parisis;95;eau potable;118262;2024;83,6;2,3;11,9;67,4;conforme;92437;17569;22;70;2219;Non vérifié
+95250;Fosses;95;eau potable;118261;2024;87,5;4,0;28,1;70,6;conforme;132626;80502;21;57;10570;Non vérifié
+95252;Franconville;95;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;228598;17;43;37754;Non vérifié
+95253;Frémainville;95;eau potable : ex- S.I.A.E.P. de Frémainville Seraincourt;338194;2024;99,0;0,4;38,4;72,7;conforme;3358;940;5;13;507;Non vérifié
+95254;Frémécourt;95;eau potable;118279;2024;86,0;1,9;11,5;67,3;conforme;79877;4252;22;60;526;Non vérifié
+95256;Frépillon;95;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;20084;17;43;3317;Non vérifié
+95257;La Frette-sur-Seine;95;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;27671;17;43;4570;Non vérifié
+95258;Frouville;95;eau potable;118256;2024;80,8;2,9;12,1;67,4;conforme;26081;4634;37;87;347;Non vérifié
+95268;Garges-lès-Gonesse;95;eau potable : Contrat 2;332654;2024;92,2;5,7;67,5;78,5;conforme;415393;205389;13;37;41791;Non vérifié
+95277;Gonesse;95;eau potable : Contrat 2;332654;2024;92,2;5,7;67,5;78,5;conforme;415393;136171;13;37;27707;Non vérifié
+95280;Goussainville;95;eau potable : Goussainville 2019;118139;2024;80,9;10,3;43,8;73,8;conforme;411590;411590;36;86;31301;Non vérifié
+95282;Gouzangrez;95;eau potable;318074;2023;77,1;3,6;12,2;67,4;conforme;151110;2170;37;119;160;Sans anomalie apparente
+95288;Groslay;95;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;51182;17;43;8453;Non vérifié
+95295;Guiry-en-Vexin;95;eau potable;118269;2022;100,0;0,0;7,0;66,4;conforme;0;0;0;0;161;Sans anomalie apparente
+95298;Haravilliers;95;eau potable;118279;2024;86,0;1,9;11,5;67,3;conforme;79877;4761;22;60;589;Non vérifié
+95301;Haute-Isle;95;eau potable;118140;2022;47,8;7,1;6,5;66,3;non conforme;16326;16326;153;397;293;Sans anomalie apparente
+95303;Le Heaulme;95;eau potable;118279;2024;86,0;1,9;11,5;67,3;conforme;79877;1673;22;60;207;Non vérifié
+95304;Hédouville;95;eau potable;118256;2024;80,8;2,9;12,1;67,4;conforme;26081;3713;37;87;278;Non vérifié
+95306;Herblay-sur-Seine;95;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;192419;17;43;31779;Non vérifié
+95308;Hérouville-en-Vexin;95;eau potable;118257;2024;90,1;3,5;32,1;71,4;conforme;35578;6461;30;75;584;Non vérifié
+95313;L' Isle-Adam;95;eau potable;118274;2024;86,7;3,8;25,1;70,0;conforme;174596;94083;21;55;12493;Non vérifié
+95316;Jagny-sous-Bois;95;eau potable;118262;2024;83,6;2,3;11,9;67,4;conforme;92437;2130;22;70;269;Non vérifié
+95323;Jouy-le-Moutier;95;eau potable;118284;2024;89,5;5,3;44,8;74,0;conforme;1441473;116834;18;44;17854;Non vérifié
+95328;Labbeville;95;eau potable;118256;2024;80,8;2,9;12,1;67,4;conforme;26081;8560;37;87;641;Non vérifié
+95331;Lassy;95;eau potable;118261;2024;87,5;4,0;28,1;70,6;conforme;132626;1493;21;57;196;Non vérifié
+95341;Livilliers;95;eau potable;118257;2024;90,1;3,5;32,1;71,4;conforme;35578;4303;30;75;389;Non vérifié
+95348;Longuesse;95;eau potable;318074;2024;76,9;3,9;13,1;67,6;conforme;163432;7147;39;122;496;Non vérifié
+95351;Louvres;95;eau potable : Louvres;118149;2024;93,3;4,8;66,7;78,3;conforme;90210;90210;20;62;12560;Non vérifié
+95352;Luzarches;95;eau potable;118260;2024;77,0;5,9;19,6;68,9;conforme;680506;100783;55;110;5008;Non vérifié
+95353;Maffliers;95;eau potable;118278;2024;89,6;2,6;22,0;69,4;conforme;119792;10536;16;43;1856;Non vérifié
+95355;Magny-en-Vexin;95;eau potable : MAGNY-EN-VEXIN -LA CHAPELLE EN VEXIN-ST GERVAIS;118258;2024;88,3;1,9;14,0;67,8;conforme;77582;64260;30;60;5779;Non vérifié
+95365;Mareil-en-France;95;eau potable;118262;2024;83,6;2,3;11,9;67,4;conforme;92437;5811;22;70;734;Non vérifié
+95369;Margency;95;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;18237;17;43;3012;Non vérifié
+95370;Marines;95;eau potable;118279;2024;86,0;1,9;11,5;67,3;conforme;79877;29054;22;60;3594;Non vérifié
+95371;Marly-la-Ville;95;eau potable;118261;2024;87,5;4,0;28,1;70,6;conforme;132626;45864;21;57;6022;Non vérifié
+95379;Maudétour-en-Vexin;95;eau potable;118269;2022;100,0;0,0;7,0;66,4;conforme;0;0;0;0;208;Sans anomalie apparente
+95387;Menouville;95;eau potable;118256;2024;80,8;2,9;12,1;67,4;conforme;26081;828;37;87;62;Non vérifié
+95388;Menucourt;95;eau potable;118284;2024;89,5;5,3;44,8;74,0;conforme;1441473;40467;18;44;6184;Non vérifié
+95392;Mériel;95;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;32376;17;43;5347;Non vérifié
+95394;Méry-sur-Oise;95;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;60446;17;43;9983;Non vérifié
+95395;Le Mesnil-Aubry;95;eau potable;118262;2024;83,6;2,3;11,9;67,4;conforme;92437;7237;22;70;914;Non vérifié
+95409;Moisselles;95;eau potable;118278;2024;89,6;2,6;22,0;69,4;conforme;119792;7158;16;43;1261;Non vérifié
+95422;Montgeroult;95;eau potable;318074;2024;76,9;3,9;13,1;67,6;conforme;163432;5202;39;122;361;Non vérifié
+95424;Montigny-lès-Cormeilles;95;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;135975;17;43;22457;Non vérifié
+95426;Montlignon;95;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;18395;17;43;3038;Non vérifié
+95427;Montmagny;95;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;91460;17;43;15105;Non vérifié
+95428;Montmorency;95;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;131773;17;43;21763;Non vérifié
+95430;Montsoult;95;eau potable;118278;2024;89,6;2,6;22,0;69,4;conforme;119792;22837;16;43;4023;Non vérifié
+95436;Mours;95;eau potable;118259;2024;72,5;7,2;19,0;68,8;conforme;111821;28627;46;138;1693;Non vérifié
+95438;Moussy;95;eau potable;118279;2024;86,0;1,9;11,5;67,3;conforme;79877;873;22;60;108;Non vérifié
+95445;Nerville-la-Forêt;95;eau potable;118278;2024;89,6;2,6;22,0;69,4;conforme;119792;4291;16;43;756;Non vérifié
+95446;Nesles-la-Vallée;95;eau potable;118189;2024;83,5;3,5;17,6;68,5;conforme;23723;23723;35;73;1842;Non vérifié
+95447;Neuilly-en-Vexin;95;eau potable;118279;2024;86,0;1,9;11,5;67,3;conforme;79877;1940;22;60;240;Non vérifié
+95450;Neuville-sur-Oise;95;eau potable;118284;2024;89,5;5,3;44,8;74,0;conforme;1441473;13467;18;44;2058;Non vérifié
+95452;Nointel;95;eau potable;118259;2024;72,5;7,2;19,0;68,8;conforme;111821;15269;46;138;903;Non vérifié
+95456;Noisy-sur-Oise;95;eau potable;118260;2024;77,0;5,9;19,6;68,9;conforme;680506;11048;55;110;549;Non vérifié
+95459;Nucourt;95;eau potable : Nucourt;118194;2022;85,0;2,3;13,2;67,6;conforme;7472;7472;28;64;719;Sans anomalie apparente
+95476;Osny;95;eau potable;118284;2024;89,5;5,3;44,8;74,0;conforme;1441473;117488;18;44;17954;Non vérifié
+95480;Parmain;95;eau potable;118274;2024;86,7;3,8;25,1;70,0;conforme;174596;42587;21;55;5655;Non vérifié
+95483;Le Perchay;95;eau potable;318074;2024;76,9;3,9;13,1;67,6;conforme;163432;7262;39;122;504;Non vérifié
+95487;Persan;95;eau potable;118273;2024;88,0;7,3;53,4;75,7;conforme;246306;129669;25;66;14359;Non vérifié
+95488;Pierrelaye;95;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;61336;17;43;10130;Non vérifié
+95489;Piscop;95;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;4650;17;43;768;Non vérifié
+95491;Le Plessis-Bouchard;95;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;51576;17;43;8518;Non vérifié
+95492;Le Plessis-Gassot;95;eau potable;118262;2024;83,6;2,3;11,9;67,4;conforme;92437;808;22;70;102;Non vérifié
+95493;Le Plessis-Luzarches;95;eau potable;118261;2024;87,5;4,0;28,1;70,6;conforme;132626;1158;21;57;152;Non vérifié
+95500;Pontoise;95;eau potable;118284;2024;89,5;5,3;44,8;74,0;conforme;1441473;209207;18;44;31970;Non vérifié
+95504;Presles;95;eau potable;118259;2024;72,5;7,2;19,0;68,8;conforme;111821;67925;46;138;4017;Non vérifié
+95509;Puiseux-en-France;95;eau potable;118262;2024;83,6;2,3;11,9;67,4;conforme;92437;29810;22;70;3765;Non vérifié
+95510;Puiseux-Pontoise;95;eau potable;118284;2024;89,5;5,3;44,8;74,0;conforme;1441473;3946;18;44;603;Non vérifié
+95523;La Roche-Guyon;95;eau potable;118206;2023;100,0;0,0;18,8;68,8;conforme;0;0;0;0;399;Sans anomalie apparente
+95527;Roissy-en-France;95;eau potable : roissy-en-france;118209;2024;96,3;2,9;74,6;79,9;conforme;18704;18704;19;14;2674;Non vérifié
+95529;Ronquerolles;95;eau potable;167725;2024;87,7;2,2;15,7;68,1;conforme;136068;4551;14;51;907;Non vérifié
+95535;Sagy;95;eau potable;318074;2024;76,9;3,9;13,1;67,6;conforme;163432;15793;39;122;1096;Non vérifié
+95539;Saint-Brice-sous-Forêt;95;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;91205;17;43;15063;Non vérifié
+95541;Saint-Clair-sur-Epte;95;eau potable;118212;2024;97,8;0,6;24,8;70,0;conforme;3677;3677;10;35;964;Non vérifié
+95543;Saint-Cyr-en-Arthies;95;eau potable;318074;2024;76,9;3,9;13,1;67,6;conforme;163432;3401;39;122;236;Non vérifié
+95554;Saint-Gervais;95;eau potable : MAGNY-EN-VEXIN -LA CHAPELLE EN VEXIN-ST GERVAIS;118258;2024;88,3;1,9;14,0;67,8;conforme;77582;9763;30;60;878;Non vérifié
+95555;Saint-Gratien;95;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;129188;17;43;21336;Non vérifié
+95563;Saint-Leu-la-Forêt;95;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;97714;17;43;16138;Non vérifié
+95566;Saint-Martin-du-Tertre;95;eau potable;118278;2024;89,6;2,6;22,0;69,4;conforme;119792;15264;16;43;2689;Non vérifié
+95572;Saint-Ouen-l'Aumône;95;eau potable;118284;2024;89,5;5,3;44,8;74,0;conforme;1441473;167379;18;44;25578;Non vérifié
+95574;Saint-Prix;95;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;46090;17;43;7612;Non vérifié
+95582;Sannois;95;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;163023;17;43;26924;Non vérifié
+95584;Santeuil;95;eau potable;118279;2024;86,0;1,9;11,5;67,3;conforme;79877;5319;22;60;658;Non vérifié
+95585;Sarcelles;95;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;358288;17;43;59173;Non vérifié
+95592;Seraincourt;95;eau potable : ex- S.I.A.E.P. de Frémainville Seraincourt;338194;2024;99,0;0,4;38,4;72,7;conforme;3358;2418;5;13;1305;Non vérifié
+95594;Seugy;95;eau potable;118260;2024;77,0;5,9;19,6;68,9;conforme;680506;21010;55;110;1044;Non vérifié
+95598;Soisy-sous-Montmorency;95;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;109037;17;43;18008;Non vérifié
+95607;Taverny;95;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;167074;17;43;27593;Non vérifié
+95610;Théméricourt;95;eau potable;318074;2024;76,9;3,9;13,1;67,6;conforme;163432;4078;39;122;283;Non vérifié
+95612;Le Thillay;95;eau potable : Le Thillay - Vaudherland;340694;2024;83,4;10,7;54,0;75,8;conforme;98926;96720;58;143;4560;Non vérifié
+95625;Us;95;eau potable;318074;2024;76,9;3,9;13,1;67,6;conforme;163432;19799;39;122;1374;Non vérifié
+95627;Vallangoujard;95;eau potable;118256;2024;80,8;2,9;12,1;67,4;conforme;26081;8347;37;87;625;Non vérifié
+95628;Valmondois;95;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;7314;17;43;1208;Non vérifié
+95633;Vaudherland;95;eau potable : Le Thillay - Vaudherland;340694;2024;83,4;10,7;54,0;75,8;conforme;98926;2206;58;143;104;Non vérifié
+95637;Vauréal;95;eau potable;118284;2024;89,5;5,3;44,8;74,0;conforme;1441473;105219;18;44;16079;Non vérifié
+95641;Vémars;95;eau potable : Vémars;118238;2024;92,1;3,1;35,6;72,1;conforme;19088;19088;17;32;3124;Non vérifié
+95651;Vétheuil;95;eau potable;118240;2024;84,3;2,2;12,0;67,4;conforme;8592;8592;28;74;849;Non vérifié
+95652;Viarmes;95;eau potable;118260;2024;77,0;5,9;19,6;68,9;conforme;680506;111851;55;110;5558;Non vérifié
+95656;Vienne-en-Arthies;95;eau potable;118245;2024;82,9;2,4;11,8;67,4;conforme;6132;6132;44;74;379;Non vérifié
+95658;Vigny;95;eau potable;318074;2024;76,9;3,9;13,1;67,6;conforme;163432;16384;39;122;1137;Non vérifié
+95660;Villaines-sous-Bois;95;eau potable;118262;2024;83,6;2,3;11,9;67,4;conforme;92437;6160;22;70;778;Non vérifié
+95676;Villers-en-Arthies;95;eau potable;118271;2024;37,4;6,8;4,1;65,8;non conforme;67014;26361;145;610;498;Non vérifié
+95678;Villiers-Adam;95;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;5195;17;43;858;Non vérifié
+95680;Villiers-le-Bel;95;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;181969;17;43;30053;Non vérifié
+95682;Villiers-le-Sec;95;eau potable;118262;2024;83,6;2,3;11,9;67,4;conforme;92437;1623;22;70;205;Non vérifié
+95690;Wy-dit-Joli-Village;95;eau potable;118269;2022;100,0;0,0;7,0;66,4;conforme;0;0;0;0;326;Sans anomalie apparente

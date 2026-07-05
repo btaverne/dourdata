@@ -1,0 +1,205 @@
+﻿# DourData — eau perdue par les réseaux d'eau potable (indicateurs SISPEA)
+# Périmètre : Département 82
+# Source : SISPEA — Système d'Information des Services Publics d'Eau et d'Assainissement, via data.gouv.fr / services.eaufrance.fr
+# Licence : Licence Ouverte 2.0 (Etalab)
+# Millésime des données : 2024 (année la plus récente disponible par commune)
+# Date de génération de l'export : 2026-07-05
+# Méthodologie et code : https://github.com/btaverne/dourdata
+# Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
+# Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
+82001;Albefeuille-Lagarde;82;eau potable : Ex SDE région de Castelsarrasin;155967;2024;80,5;1,6;6,4;66,3;conforme;308936;7561;36;98;582;Non vérifié
+82002;Albias;82;eau potable : (ex CC TVA, hors Bruniquel);194039;2024;79,6;1,4;5,3;66,1;conforme;212336;41582;35;97;3240;Non vérifié
+82003;Angeville;82;eau potable : Ex SDE région Garganvillar;155968;2024;84,8;0,6;3,4;65,7;conforme;43800;2186;25;65;239;Non vérifié
+82004;Asques;82;eau potable;155941;2024;72,2;0,8;2,0;65,4;conforme;71423;3396;70;145;133;Non vérifié
+82005;Aucamville;82;eau potable;155958;2024;73,9;2,4;6,7;66,3;conforme;494467;19535;34;130;1562;Non vérifié
+82006;Auterive;82;eau potable : beaumont;155957;2024;78,3;1,0;3,7;65,7;conforme;127659;1384;58;140;65;Non vérifié
+82007;Auty;82;eau potable : service sea montpezat-puylaroque;155951;2024;63,9;1,7;3,1;65,6;non conforme;346928;3203;62;209;142;Non vérifié
+82008;Auvillar;82;eau potable;155966;2024;72,8;0,8;2,2;65,4;conforme;52560;23380;72;133;895;Non vérifié
+82009;Balignac;82;eau potable;155941;2024;72,2;0,8;2,0;65,4;conforme;71423;1047;70;145;41;Non vérifié
+82010;Bardigues;82;eau potable;155966;2024;72,8;0,8;2,2;65,4;conforme;52560;6139;72;133;235;Non vérifié
+82011;Barry-d'Islemade;82;eau potable : Ex SDE région de Castelsarrasin;155967;2024;80,5;1,6;6,4;66,3;conforme;308936;12211;36;98;940;Non vérifié
+82012;Les Barthes;82;eau potable : Ex SDE région de Castelsarrasin;155967;2024;80,5;1,6;6,4;66,3;conforme;308936;7743;36;98;596;Non vérifié
+82013;Beaumont-de-Lomagne;82;eau potable : beaumont;155957;2024;78,3;1,0;3,7;65,7;conforme;127659;81402;58;140;3824;Non vérifié
+82014;Beaupuy;82;eau potable;155955;2024;79,5;1,3;5,0;66,0;conforme;65282;3063;31;94;273;Non vérifié
+82015;Belbèze-en-Lomagne;82;eau potable;155942;2024;67,6;1,3;2,7;65,5;conforme;104010;4090;65;175;172;Non vérifié
+82016;Belvèze;82;eau potable;155940;2024;53,5;1,8;2,1;65,4;non conforme;197974;13319;165;332;221;Non vérifié
+82017;Bessens;82;eau potable;155958;2024;73,9;2,4;6,7;66,3;conforme;494467;18384;34;130;1470;Non vérifié
+82018;Bioule;82;eau potable : (ex CC TVA, hors Bruniquel);194039;2024;79,6;1,4;5,3;66,1;conforme;212336;15413;35;97;1201;Non vérifié
+82019;Boudou;82;eau potable : principal;215221;2024;70,0;1,5;3,6;65,7;conforme;432525;10649;39;152;757;Non vérifié
+82020;Bouillac;82;eau potable;155955;2024;79,5;1,3;5,0;66,0;conforme;65282;6553;31;94;584;Non vérifié
+82021;Bouloc-en-Quercy;82;eau potable;155940;2024;53,5;1,8;2,1;65,4;non conforme;197974;11812;165;332;196;Non vérifié
+82022;Bourg-de-Visa;82;eau potable : principal;215221;2024;70,0;1,5;3,6;65,7;conforme;432525;5571;39;152;396;Non vérifié
+82023;Bourret;82;eau potable;155942;2024;67,6;1,3;2,7;65,5;conforme;104010;23090;65;175;971;Non vérifié
+82024;Brassac;82;eau potable : principal;215221;2024;70,0;1,5;3,6;65,7;conforme;432525;3573;39;152;254;Non vérifié
+82025;Bressols;82;eau potable;155958;2024;73,9;2,4;6,7;66,3;conforme;494467;50476;34;130;4036;Non vérifié
+82026;Bruniquel;82;eau potable : (ex SIAEP région Bruniquel - Puygaillard-de-Quercy);155956;2024;69,7;1,5;3,4;65,7;conforme;51591;32263;138;161;641;Non vérifié
+82027;Campsas;82;eau potable;155958;2024;73,9;2,4;6,7;66,3;conforme;494467;18422;34;130;1473;Non vérifié
+82028;Canals;82;eau potable;155958;2024;73,9;2,4;6,7;66,3;conforme;494467;9980;34;130;798;Non vérifié
+82029;Castanet;82;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;3455;36;98;264;Non vérifié
+82030;Castelferrus;82;eau potable : Ex SDE région Garganvillar;155968;2024;84,8;0,6;3,4;65,7;conforme;43800;4464;25;65;488;Non vérifié
+82031;Castelmayran;82;eau potable : Ex SDE région Garganvillar;155968;2024;84,8;0,6;3,4;65,7;conforme;43800;10849;25;65;1186;Non vérifié
+82032;Castelsagrat;82;eau potable : principal;215221;2024;70,0;1,5;3,6;65,7;conforme;432525;7695;39;152;547;Non vérifié
+82033;Castelsarrasin;82;eau potable : Ex SDE région de Castelsarrasin;155967;2024;80,5;1,6;6,4;66,3;conforme;308936;186328;36;98;14343;Non vérifié
+82034;Castéra-Bouzet;82;eau potable;155941;2024;72,2;0,8;2,0;65,4;conforme;71423;3294;70;145;129;Non vérifié
+82035;Caumont;82;eau potable : Ex SDE région Garganvillar;155968;2024;84,8;0,6;3,4;65,7;conforme;43800;3165;25;65;346;Non vérifié
+82036;Le Causé;82;eau potable : maubec;155943;2024;59,1;1,1;1,6;65,3;non conforme;56555;5033;105;260;131;Non vérifié
+82037;Caussade;82;eau potable : secteur sud;242534;2024;80,1;1,4;5,5;66,1;conforme;133289;85795;35;94;6803;Non vérifié
+82038;Caylus;82;eau potable : siaep caylus;155972;2024;67,3;1,5;3,0;65,6;conforme;149971;85825;163;186;1445;Non vérifié
+82039;Cayrac;82;eau potable : secteur sud;242534;2024;80,1;1,4;5,5;66,1;conforme;133289;7188;35;94;570;Non vérifié
+82040;Cayriech;82;eau potable : service sea montpezat-puylaroque;155951;2024;63,9;1,7;3,1;65,6;non conforme;346928;6090;62;209;270;Non vérifié
+82041;Cazals;82;eau potable : siaep saint antonin;155973;2024;66,1;1,3;2,5;65,5;conforme;119531;9141;106;187;236;Non vérifié
+82042;Cazes-Mondenard;82;eau potable;155976;2024;71,2;0,9;2,3;65,5;conforme;48946;37731;83;147;1238;Non vérifié
+82043;Comberouger;82;eau potable;155942;2024;67,6;1,3;2,7;65,5;conforme;104010;6373;65;175;268;Non vérifié
+82044;Corbarieu;82;eau potable : EDG Grand Montauban;155888;2024;78,5;5,2;18,8;68,8;conforme;1055136;28145;45;102;1725;Non vérifié
+82045;Cordes-Tolosannes;82;eau potable;155942;2024;67,6;1,3;2,7;65,5;conforme;104010;8489;65;175;357;Non vérifié
+82046;Coutures;82;eau potable : Ex SDE région Garganvillar;155968;2024;84,8;0,6;3,4;65,7;conforme;43800;896;25;65;98;Non vérifié
+82047;Cumont;82;eau potable : beaumont;155957;2024;78,3;1,0;3,7;65,7;conforme;127659;1064;58;140;50;Non vérifié
+82048;Dieupentale;82;eau potable;155958;2024;73,9;2,4;6,7;66,3;conforme;494467;20698;34;130;1655;Non vérifié
+82049;Donzac;82;eau potable : Territoire n°1;155939;2024;85,2;0,3;1,8;65,4;conforme;26280;8649;23;62;1042;Non vérifié
+82050;Dunes;82;eau potable : Territoire n°1;155939;2024;85,2;0,3;1,8;65,4;conforme;26280;10177;23;62;1226;Non vérifié
+82051;Durfort-Lacapelette;82;eau potable : principal;215221;2024;70,0;1,5;3,6;65,7;conforme;432525;11817;39;152;840;Non vérifié
+82052;Escatalens;82;eau potable : EDG Escatalens;155846;2024;74,4;1,8;5,2;66,0;conforme;17969;17969;43;131;1148;Non vérifié
+82053;Escazeaux;82;eau potable : beaumont;155957;2024;78,3;1,0;3,7;65,7;conforme;127659;6109;58;140;287;Non vérifié
+82054;Espalais;82;eau potable : principal;215221;2024;70,0;1,5;3,6;65,7;conforme;432525;5247;39;152;373;Non vérifié
+82055;Esparsac;82;eau potable : beaumont;155957;2024;78,3;1,0;3,7;65,7;conforme;127659;5364;58;140;252;Non vérifié
+82056;Espinas;82;eau potable : siaep saint antonin;155973;2024;66,1;1,3;2,5;65,5;conforme;119531;8173;106;187;211;Non vérifié
+82057;Fabas;82;eau potable;155958;2024;73,9;2,4;6,7;66,3;conforme;494467;8930;34;130;714;Non vérifié
+82058;Fajolles;82;eau potable : Ex SDE région Garganvillar;155968;2024;84,8;0,6;3,4;65,7;conforme;43800;1034;25;65;113;Non vérifié
+82059;Faudoas;82;eau potable : beaumont;155957;2024;78,3;1,0;3,7;65,7;conforme;127659;6195;58;140;291;Non vérifié
+82060;Fauroux;82;eau potable;155938;2024;57,2;1,2;1,6;65,3;non conforme;90202;9250;134;282;189;Non vérifié
+82061;Féneyrols;82;eau potable : siaep saint antonin;155973;2024;66,1;1,3;2,5;65,5;conforme;119531;6817;106;187;176;Non vérifié
+82062;Finhan;82;eau potable;155852;2024;64,3;3,3;6,0;66,2;non conforme;34075;34075;63;202;1471;Non vérifié
+82063;Garganvillar;82;eau potable : Ex SDE région Garganvillar;155968;2024;84,8;0,6;3,4;65,7;conforme;43800;6175;25;65;675;Non vérifié
+82064;Gariès;82;eau potable : beaumont;155957;2024;78,3;1,0;3,7;65,7;conforme;127659;2746;58;140;129;Non vérifié
+82065;Gasques;82;eau potable : principal;215221;2024;70,0;1,5;3,6;65,7;conforme;432525;5683;39;152;404;Non vérifié
+82066;Génébrières;82;eau potable;155959;2024;77,5;1,0;3,5;65,7;conforme;120600;9099;38;104;661;Non vérifié
+82067;Gensac;82;eau potable;155941;2024;72,2;0,8;2,0;65,4;conforme;71423;2605;70;145;102;Non vérifié
+82068;Gimat;82;eau potable : beaumont;155957;2024;78,3;1,0;3,7;65,7;conforme;127659;4534;58;140;213;Non vérifié
+82069;Ginals;82;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;2656;36;98;203;Non vérifié
+82070;Glatens;82;eau potable : beaumont;155957;2024;78,3;1,0;3,7;65,7;conforme;127659;1448;58;140;68;Non vérifié
+82071;Goas;82;eau potable : maubec;155943;2024;59,1;1,1;1,6;65,3;non conforme;56555;1383;105;260;36;Non vérifié
+82072;Golfech;82;eau potable : principal;215221;2024;70,0;1,5;3,6;65,7;conforme;432525;14166;39;152;1007;Non vérifié
+82073;Goudourville;82;eau potable : principal;215221;2024;70,0;1,5;3,6;65,7;conforme;432525;13730;39;152;976;Non vérifié
+82074;Gramont;82;eau potable;155941;2024;72,2;0,8;2,0;65,4;conforme;71423;3320;70;145;130;Non vérifié
+82075;Grisolles;82;eau potable;155958;2024;73,9;2,4;6,7;66,3;conforme;494467;52702;34;130;4214;Non vérifié
+82076;L' Honor-de-Cos;82;eau potable;155937;2024;84,0;0,5;2,5;65,5;conforme;100346;15045;26;74;1610;Non vérifié
+82077;Labarthe;82;eau potable;155937;2024;84,0;0,5;2,5;65,5;conforme;100346;3560;26;74;381;Non vérifié
+82078;Labastide-de-Penne;82;eau potable : service sea montpezat-puylaroque;155951;2024;63,9;1,7;3,1;65,6;non conforme;346928;2819;62;209;125;Non vérifié
+82079;Labastide-Saint-Pierre;82;eau potable;155958;2024;73,9;2,4;6,7;66,3;conforme;494467;46837;34;130;3745;Non vérifié
+82080;Labastide-du-Temple;82;eau potable : Ex SDE région de Castelsarrasin;155967;2024;80,5;1,6;6,4;66,3;conforme;308936;14706;36;98;1132;Non vérifié
+82081;Labourgade;82;eau potable : Ex SDE région Garganvillar;155968;2024;84,8;0,6;3,4;65,7;conforme;43800;1491;25;65;163;Non vérifié
+82082;Lacapelle-Livron;82;eau potable : siaep caylus;155972;2024;67,3;1,5;3,0;65,6;conforme;149971;13067;163;186;220;Non vérifié
+82083;Lachapelle;82;eau potable;155941;2024;72,2;0,8;2,0;65,4;conforme;71423;3039;70;145;119;Non vérifié
+82084;Lacour;82;eau potable;155938;2024;57,2;1,2;1,6;65,3;non conforme;90202;8369;134;282;171;Non vérifié
+82085;Lacourt-Saint-Pierre;82;eau potable : EDG Montbeton, Lacourt St Pierre et Montauban rive gauche;155944;2024;92,9;0,7;8,6;66,7;conforme;42068;770;2;30;1255;Non vérifié
+82086;Lafitte;82;eau potable : Ex SDE région Garganvillar;155968;2024;84,8;0,6;3,4;65,7;conforme;43800;2150;25;65;235;Non vérifié
+82087;Lafrançaise;82;eau potable;155937;2024;84,0;0,5;2,5;65,5;conforme;100346;26773;26;74;2865;Non vérifié
+82088;Laguépie;82;eau potable;132727;2024;85,8;0,8;4,8;66,0;conforme;885344;8427;36;98;644;Non vérifié
+82089;Lamagistère;82;eau potable : principal;215221;2024;70,0;1,5;3,6;65,7;conforme;432525;17134;39;152;1218;Non vérifié
+82090;Lamothe-Capdeville;82;eau potable;155937;2024;84,0;0,5;2,5;65,5;conforme;100346;9980;26;74;1068;Non vérifié
+82091;Lamothe-Cumont;82;eau potable : beaumont;155957;2024;78,3;1,0;3,7;65,7;conforme;127659;2682;58;140;126;Non vérifié
+82092;Lapenche;82;eau potable : service sea montpezat-puylaroque;155951;2024;63,9;1,7;3,1;65,6;non conforme;346928;6180;62;209;274;Non vérifié
+82093;Larrazet;82;eau potable : Ex SDE région Garganvillar;155968;2024;84,8;0,6;3,4;65,7;conforme;43800;6202;25;65;678;Non vérifié
+82094;Lauzerte;82;eau potable;155940;2024;53,5;1,8;2,1;65,4;non conforme;197974;86964;165;332;1443;Non vérifié
+82095;Lavaurette;82;eau potable : service sea montpezat-puylaroque;155951;2024;63,9;1,7;3,1;65,6;non conforme;346928;4827;62;209;214;Non vérifié
+82096;La Ville-Dieu-du-Temple;82;eau potable : Ex SDE région de Castelsarrasin;155967;2024;80,5;1,6;6,4;66,3;conforme;308936;43623;36;98;3358;Non vérifié
+82097;Lavit;82;eau potable;155941;2024;72,2;0,8;2,0;65,4;conforme;71423;40321;70;145;1579;Non vérifié
+82098;Léojac;82;eau potable;155959;2024;77,5;1,0;3,5;65,7;conforme;120600;17647;38;104;1282;Non vérifié
+82099;Lizac;82;eau potable : Ex SIEPA Moissac-Lizac;155883;2024;84,5;1,5;8,0;66,6;conforme;137915;5364;27;68;543;Non vérifié
+82100;Loze;82;eau potable : siaep caylus;155972;2024;67,3;1,5;3,0;65,6;conforme;149971;7009;163;186;118;Non vérifié
+82101;Malause;82;eau potable : principal;215221;2024;70,0;1,5;3,6;65,7;conforme;432525;17627;39;152;1253;Non vérifié
+82102;Mansonville;82;eau potable;155966;2024;72,8;0,8;2,2;65,4;conforme;52560;8098;72;133;310;Non vérifié
+82103;Marignac;82;eau potable : beaumont;155957;2024;78,3;1,0;3,7;65,7;conforme;127659;2150;58;140;101;Non vérifié
+82104;Marsac;82;eau potable;155941;2024;72,2;0,8;2,0;65,4;conforme;71423;4545;70;145;178;Non vérifié
+82105;Mas-Grenier;82;eau potable;155942;2024;67,6;1,3;2,7;65,5;conforme;104010;30485;65;175;1282;Non vérifié
+82106;Maubec;82;eau potable : maubec;155943;2024;59,1;1,1;1,6;65,3;non conforme;56555;6147;105;260;160;Non vérifié
+82107;Maumusson;82;eau potable;155941;2024;72,2;0,8;2,0;65,4;conforme;71423;1302;70;145;51;Non vérifié
+82108;Meauzac;82;eau potable : Ex SDE région de Castelsarrasin;155967;2024;80,5;1,6;6,4;66,3;conforme;308936;19538;36;98;1504;Non vérifié
+82109;Merles;82;eau potable;155966;2024;72,8;0,8;2,2;65,4;conforme;52560;5225;72;133;200;Non vérifié
+82110;Mirabel;82;eau potable : secteur sud;242534;2024;80,1;1,4;5,5;66,1;conforme;133289;13179;35;94;1045;Non vérifié
+82111;Miramont-de-Quercy;82;eau potable;155938;2024;57,2;1,2;1,6;65,3;non conforme;90202;14879;134;282;304;Non vérifié
+82112;Moissac;82;eau potable : principal;215221;2024;70,0;1,5;3,6;65,7;conforme;432525;188774;39;152;13419;Non vérifié
+82113;Molières;82;eau potable;155937;2024;84,0;0,5;2,5;65,5;conforme;100346;11896;26;74;1273;Non vérifié
+82114;Monbéqui;82;eau potable;155958;2024;73,9;2,4;6,7;66,3;conforme;494467;8317;34;130;665;Non vérifié
+82115;Monclar-de-Quercy;82;eau potable;155959;2024;77,5;1,0;3,5;65,7;conforme;120600;28288;38;104;2055;Non vérifié
+82116;Montagudet;82;eau potable;155938;2024;57,2;1,2;1,6;65,3;non conforme;90202;9740;134;282;199;Non vérifié
+82117;Montaigu-de-Quercy;82;eau potable;155940;2024;53,5;1,8;2,1;65,4;non conforme;197974;77984;165;332;1294;Non vérifié
+82118;Montaïn;82;eau potable;155942;2024;67,6;1,3;2,7;65,5;conforme;104010;2188;65;175;92;Non vérifié
+82119;Montalzat;82;eau potable : service sea montpezat-puylaroque;155951;2024;63,9;1,7;3,1;65,6;non conforme;346928;14953;62;209;663;Non vérifié
+82120;Montastruc;82;eau potable;155937;2024;84,0;0,5;2,5;65,5;conforme;100346;2832;26;74;303;Non vérifié
+82121;Montauban;82;eau potable : EDG Montbeton, Lacourt St Pierre et Montauban rive gauche;155944;2024;92,9;0,7;8,6;66,7;conforme;42068;38600;2;30;62945;Non vérifié
+82122;Montbarla;82;eau potable : principal;215221;2024;70,0;1,5;3,6;65,7;conforme;432525;2068;39;152;147;Non vérifié
+82123;Montbartier;82;eau potable;155958;2024;73,9;2,4;6,7;66,3;conforme;494467;22374;34;130;1789;Non vérifié
+82124;Montbeton;82;eau potable : EDG Montbeton, Lacourt St Pierre et Montauban rive gauche;155944;2024;92,9;0,7;8,6;66,7;conforme;42068;2698;2;30;4400;Non vérifié
+82125;Montech;82;eau potable;155892;2024;79,8;2,7;10,5;67,1;conforme;101822;101822;42;123;6663;Non vérifié
+82126;Monteils;82;eau potable : service sea montpezat-puylaroque;155951;2024;63,9;1,7;3,1;65,6;non conforme;346928;31102;62;209;1379;Non vérifié
+82127;Montesquieu;82;eau potable : principal;215221;2024;70,0;1,5;3,6;65,7;conforme;432525;10523;39;152;748;Non vérifié
+82128;Montfermier;82;eau potable : service sea montpezat-puylaroque;155951;2024;63,9;1,7;3,1;65,6;non conforme;346928;2504;62;209;111;Non vérifié
+82129;Montgaillard;82;eau potable;155941;2024;72,2;0,8;2,0;65,4;conforme;71423;3575;70;145;140;Non vérifié
+82130;Montjoi;82;eau potable : principal;215221;2024;70,0;1,5;3,6;65,7;conforme;432525;2420;39;152;172;Non vérifié
+82131;Montpezat-de-Quercy;82;eau potable : SAUR du 01/01/2016 au 31/12/2027;169890;2024;61,1;1,5;2,4;65,5;non conforme;50622;21949;38;233;1590;Non vérifié
+82132;Montricoux;82;eau potable : (ex CC TVA, hors Bruniquel);194039;2024;79,6;1,4;5,3;66,1;conforme;212336;15041;35;97;1172;Non vérifié
+82133;Mouillac;82;eau potable : siaep caylus;155972;2024;67,3;1,5;3,0;65,6;conforme;149971;5346;163;186;90;Non vérifié
+82134;Nègrepelisse;82;eau potable : (ex CC TVA, hors Bruniquel);194039;2024;79,6;1,4;5,3;66,1;conforme;212336;75938;35;97;5917;Non vérifié
+82135;Nohic;82;eau potable;155958;2024;73,9;2,4;6,7;66,3;conforme;494467;17359;34;130;1388;Non vérifié
+82136;Orgueil;82;eau potable;155958;2024;73,9;2,4;6,7;66,3;conforme;494467;21511;34;130;1720;Non vérifié
+82137;Parisot;82;eau potable : parisot;155898;2024;59,2;2,0;2,9;65,6;non conforme;33901;33901;167;254;557;Non vérifié
+82138;Perville;82;eau potable : principal;215221;2024;70,0;1,5;3,6;65,7;conforme;432525;2321;39;152;165;Non vérifié
+82139;Le Pin;82;eau potable;155966;2024;72,8;0,8;2,2;65,4;conforme;52560;2900;72;133;111;Non vérifié
+82140;Piquecos;82;eau potable;155937;2024;84,0;0,5;2,5;65,5;conforme;100346;4205;26;74;450;Non vérifié
+82141;Pommevic;82;eau potable : principal;215221;2024;70,0;1,5;3,6;65,7;conforme;432525;8427;39;152;599;Non vérifié
+82142;Pompignan;82;eau potable;155958;2024;73,9;2,4;6,7;66,3;conforme;494467;23337;34;130;1866;Non vérifié
+82143;Poupas;82;eau potable;155941;2024;72,2;0,8;2,0;65,4;conforme;71423;2222;70;145;87;Non vérifié
+82144;Puycornet;82;eau potable;155937;2024;84,0;0,5;2,5;65,5;conforme;100346;7336;26;74;785;Non vérifié
+82145;Puygaillard-de-Quercy;82;eau potable : (ex SIAEP région Bruniquel - Puygaillard-de-Quercy);155956;2024;69,7;1,5;3,4;65,7;conforme;51591;19328;138;161;384;Non vérifié
+82146;Puygaillard-de-Lomagne;82;eau potable;155941;2024;72,2;0,8;2,0;65,4;conforme;71423;1379;70;145;54;Non vérifié
+82147;Puylagarde;82;eau potable : siaep caylus;155972;2024;67,3;1,5;3,0;65,6;conforme;149971;21204;163;186;357;Non vérifié
+82148;Puylaroque;82;eau potable : service sea montpezat-puylaroque;155951;2024;63,9;1,7;3,1;65,6;non conforme;346928;16216;62;209;719;Non vérifié
+82149;Réalville;82;eau potable : secteur sud;242534;2024;80,1;1,4;5,5;66,1;conforme;133289;23571;35;94;1869;Non vérifié
+82150;Reyniès;82;eau potable : EDG Reyniès;155907;2024;53,4;3,5;4,1;65,8;non conforme;31989;31989;101;315;872;Non vérifié
+82151;Roquecor;82;eau potable : Lot Amont (Nord Séoune);325934;2024;85,7;0,3;1,9;65,4;conforme;10830;4354;30;59;400;Non vérifié
+82152;Saint-Aignan;82;eau potable : Ex SDE région Garganvillar;155968;2024;84,8;0,6;3,4;65,7;conforme;43800;3860;25;65;422;Non vérifié
+82153;Saint-Amans-du-Pech;82;eau potable : Lot Amont (Nord Séoune);325934;2024;85,7;0,3;1,9;65,4;conforme;10830;2569;30;59;236;Non vérifié
+82154;Saint-Amans-de-Pellagal;82;eau potable : principal;215221;2024;70,0;1,5;3,6;65,7;conforme;432525;3053;39;152;217;Non vérifié
+82155;Saint-Antonin-Noble-Val;82;eau potable : siaep saint antonin;155973;2024;66,1;1,3;2,5;65,5;conforme;119531;75491;106;187;1949;Non vérifié
+82156;Saint-Arroumex;82;eau potable : Ex SDE région Garganvillar;155968;2024;84,8;0,6;3,4;65,7;conforme;43800;1326;25;65;145;Non vérifié
+82157;Saint-Beauzeil;82;eau potable : Lot Amont (Nord Séoune);325934;2024;85,7;0,3;1,9;65,4;conforme;10830;1273;30;59;117;Non vérifié
+82158;Saint-Cirice;82;eau potable : Territoire n°1;155939;2024;85,2;0,3;1,8;65,4;conforme;26280;1303;23;62;157;Non vérifié
+82159;Saint-Cirq;82;eau potable : service sea montpezat-puylaroque;155951;2024;63,9;1,7;3,1;65,6;non conforme;346928;12585;62;209;558;Non vérifié
+82160;Saint-Clair;82;eau potable : principal;215221;2024;70,0;1,5;3,6;65,7;conforme;432525;3658;39;152;260;Non vérifié
+82161;Saint-Etienne-de-Tulmont;82;eau potable : (ex CC TVA, hors Bruniquel);194039;2024;79,6;1,4;5,3;66,1;conforme;212336;51990;35;97;4051;Non vérifié
+82162;Saint-Georges;82;eau potable : service sea montpezat-puylaroque;155951;2024;63,9;1,7;3,1;65,6;non conforme;346928;6157;62;209;273;Non vérifié
+82163;Saint-Jean-du-Bouzet;82;eau potable;155941;2024;72,2;0,8;2,0;65,4;conforme;71423;1379;70;145;54;Non vérifié
+82164;Sainte-Juliette;82;eau potable;155940;2024;53,5;1,8;2,1;65,4;non conforme;197974;7895;165;332;131;Non vérifié
+82165;Saint-Loup;82;eau potable : Territoire n°1;155939;2024;85,2;0,3;1,8;65,4;conforme;26280;4408;23;62;531;Non vérifié
+82166;Saint-Michel;82;eau potable;155966;2024;72,8;0,8;2,2;65,4;conforme;52560;6818;72;133;261;Non vérifié
+82167;Saint-Nauphary;82;eau potable;155959;2024;77,5;1,0;3,5;65,7;conforme;120600;26815;38;104;1948;Non vérifié
+82168;Saint-Nazaire-de-Valentane;82;eau potable : principal;215221;2024;70,0;1,5;3,6;65,7;conforme;432525;4459;39;152;317;Non vérifié
+82169;Saint-Nicolas-de-la-Grave;82;eau potable : EDG Saint Nicolas de la Grave;155915;2024;96,2;0,2;5,1;66,0;conforme;4649;4649;6;14;2281;Non vérifié
+82170;Saint-Paul-d'Espis;82;eau potable : principal;215221;2024;70,0;1,5;3,6;65,7;conforme;432525;7864;39;152;559;Non vérifié
+82171;Saint-Porquier;82;eau potable : Ex SDE région de Castelsarrasin;155967;2024;80,5;1,6;6,4;66,3;conforme;308936;17226;36;98;1326;Non vérifié
+82172;Saint-Projet;82;eau potable : siaep caylus;155972;2024;67,3;1,5;3,0;65,6;conforme;149971;17521;163;186;295;Non vérifié
+82173;Saint-Sardos;82;eau potable;155942;2024;67,6;1,3;2,7;65,5;conforme;104010;26633;65;175;1120;Non vérifié
+82174;Saint-Vincent-d'Autéjac;82;eau potable : secteur sud;242534;2024;80,1;1,4;5,5;66,1;conforme;133289;3556;35;94;282;Non vérifié
+82175;Saint-Vincent-Lespinasse;82;eau potable : principal;215221;2024;70,0;1,5;3,6;65,7;conforme;432525;3995;39;152;284;Non vérifié
+82176;La Salvetat-Belmontet;82;eau potable;155959;2024;77,5;1,0;3,5;65,7;conforme;120600;13669;38;104;993;Non vérifié
+82177;Sauveterre;82;eau potable;155976;2024;71,2;0,9;2,3;65,5;conforme;48946;4694;83;147;154;Non vérifié
+82178;Savenès;82;eau potable;155958;2024;73,9;2,4;6,7;66,3;conforme;494467;10130;34;130;810;Non vérifié
+82179;Septfonds;82;eau potable : service sea montpezat-puylaroque;155951;2024;63,9;1,7;3,1;65,6;non conforme;346928;50995;62;209;2261;Non vérifié
+82180;Sérignac;82;eau potable : beaumont;155957;2024;78,3;1,0;3,7;65,7;conforme;127659;11027;58;140;518;Non vérifié
+82181;Sistels;82;eau potable : Territoire n°1;155939;2024;85,2;0,3;1,8;65,4;conforme;26280;1743;23;62;210;Non vérifié
+82182;Touffailles;82;eau potable;155938;2024;57,2;1,2;1,6;65,3;non conforme;90202;16151;134;282;330;Non vérifié
+82183;Tréjouls;82;eau potable;155976;2024;71,2;0,9;2,3;65,5;conforme;48946;6522;83;147;214;Non vérifié
+82184;Vaïssac;82;eau potable : (ex CC TVA, hors Bruniquel);194039;2024;79,6;1,4;5,3;66,1;conforme;212336;12372;35;97;964;Non vérifié
+82185;Valeilles;82;eau potable : Lot Amont (Nord Séoune);325934;2024;85,7;0,3;1,9;65,4;conforme;10830;2634;30;59;242;Non vérifié
+82186;Valence;82;eau potable : principal;215221;2024;70,0;1,5;3,6;65,7;conforme;432525;74404;39;152;5289;Non vérifié
+82187;Varen;82;eau potable : varen;155926;2024;61,6;2,6;4,1;65,8;non conforme;30292;30292;130;232;640;Non vérifié
+82188;Varennes;82;eau potable;155959;2024;77,5;1,0;3,5;65,7;conforme;120600;8631;38;104;627;Non vérifié
+82189;Vazerac;82;eau potable;155937;2024;84,0;0,5;2,5;65,5;conforme;100346;7149;26;74;765;Non vérifié
+82190;Verdun-sur-Garonne;82;eau potable;155958;2024;73,9;2,4;6,7;66,3;conforme;494467;62044;34;130;4961;Non vérifié
+82191;Verfeil;82;eau potable : siaep saint antonin;155973;2024;66,1;1,3;2,5;65,5;conforme;119531;15571;106;187;402;Non vérifié
+82192;Verlhac-Tescou;82;eau potable;155959;2024;77,5;1,0;3,5;65,7;conforme;120600;7833;38;104;569;Non vérifié
+82193;Vigueron;82;eau potable;155942;2024;67,6;1,3;2,7;65,5;conforme;104010;2663;65;175;112;Non vérifié
+82194;Villebrumier;82;eau potable;155933;2024;86,9;1,0;6,4;66,3;conforme;10651;10651;22;57;1348;Non vérifié
+82195;Villemade;82;eau potable : EDG Villemade;155936;2024;76,1;1,6;5,2;66,0;conforme;11604;11604;38;113;834;Non vérifié

@@ -1,0 +1,433 @@
+﻿# DourData — eau perdue par les réseaux d'eau potable (indicateurs SISPEA)
+# Périmètre : Département 65
+# Source : SISPEA — Système d'Information des Services Publics d'Eau et d'Assainissement, via data.gouv.fr / services.eaufrance.fr
+# Licence : Licence Ouverte 2.0 (Etalab)
+# Millésime des données : 2020–2024 (année la plus récente disponible par commune)
+# Date de génération de l'export : 2026-07-05
+# Méthodologie et code : https://github.com/btaverne/dourdata
+# Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
+# Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
+65001;Adast;65;eau potable;155294;2024;53,0;5,0;5,6;66,1;non conforme;9581;9581;88;323;299;Non vérifié
+65002;Adé;65;eau potable : SIA 3 Vallées;155657;2024;70,4;2,5;5,9;66,2;conforme;85191;18245;58;154;856;Non vérifié
+65003;Adervielle-Pouchergues;65;eau potable : Territoire n° 2 - Station du Val Louron;197479;2024;99,0;0,2;15,2;68,0;conforme;161;85;2;5;142;Non vérifié
+65004;Agos-Vidalos;65;eau potable;155300;2024;80,7;2,3;9,5;66,9;conforme;8848;8848;62;89;391;Non vérifié
+65005;Allier;65;eau potable : SIA Tarbes Sud;155654;2024;92,1;1,2;13,9;67,8;conforme;86325;2841;17;77;446;Non vérifié
+65006;Ancizan;65;eau potable;155303;2024;36,0;26,5;14,9;68,0;non conforme;33370;33370;311;650;294;Non vérifié
+65007;Andrest;65;eau potable;155650;2024;81,5;1,4;5,9;66,2;conforme;118894;12651;26;87;1340;Non vérifié
+65009;Anères;65;eau potable;155647;2024;53,5;3,2;3,7;65,7;non conforme;163520;8819;146;315;166;Non vérifié
+65010;Angos;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;8832;105;240;230;Non vérifié
+65011;Les Angles;65;eau potable : SIA 3 Vallées;155657;2024;70,4;2,5;5,9;66,2;conforme;85191;2813;58;154;132;Non vérifié
+65012;Anla;65;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;2459;75;162;90;Non vérifié
+65013;Ansost;65;eau potable;155651;2024;74,2;1,2;3,5;65,7;conforme;11791;836;39;125;58;Non vérifié
+65014;Antichan;65;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;1120;75;162;41;Non vérifié
+65015;Antin;65;eau potable;155641;2024;89,0;0,4;3,6;65,7;conforme;63027;1032;31;47;92;Non vérifié
+65016;Antist;65;eau potable;155636;2024;65,6;2,9;5,6;66,1;non conforme;100155;5193;75;190;189;Non vérifié
+65017;Aragnouet;65;eau potable : Territoire n°1 - Village;155311;2024;36,7;13,9;8,0;66,6;non conforme;107203;107203;1016;631;289;Non vérifié
+65018;Arbéost;65;eau potable;213709;2024;77,2;2,0;6,7;66,3;conforme;426320;1104;41;109;73;Non vérifié
+65019;Arcizac-Adour;65;eau potable : Arcizac-Adour;314774;2024;61,7;3,3;5,2;66,0;non conforme;113982;113982;509;230;614;Non vérifié
+65020;Arcizac-ez-Angles;65;eau potable;155633;2024;69,1;3,0;6,8;66,4;conforme;226052;5412;60;163;248;Non vérifié
+65021;Arcizans-Avant;65;eau potable;155314;2024;99,6;0,0;7,8;66,6;conforme;0;0;0;0;397;Non vérifié
+65022;Arcizans-Dessus;65;eau potable;155315;2024;91,2;12,2;125,6;85,0;conforme;8461;8461;200;43;116;Non vérifié
+65023;Ardengost;65;eau potable;155317;2024;100,0;0,0;0,6;65,1;conforme;0;0;0;0;12;Non vérifié
+65024;Argelès-Bagnères;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;3955;105;240;103;Non vérifié
+65025;Argelès-Gazost;65;eau potable;155319;2024;59,4;14,7;21,6;69,3;non conforme;154526;154526;153;249;2761;Non vérifié
+65026;Aries-Espénan;65;eau potable;155645;2024;81,2;0,7;2,9;65,6;conforme;52378;1665;50;97;91;Non vérifié
+65028;Arné;65;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;4946;75;162;181;Non vérifié
+65029;Arras-en-Lavedan;65;eau potable;155322;2024;62,2;3,4;5,6;66,1;non conforme;23579;23579;129;223;501;Non vérifié
+65031;Arreau;65;eau potable;155324;2024;34,5;16,4;8,6;66,7;non conforme;95537;95537;361;693;725;Non vérifié
+65032;Arrens-Marsous;65;eau potable;155327;2024;77,8;2,7;9,4;66,9;conforme;35478;35478;140;105;694;Non vérifié
+65033;Arrodets-ez-Angles;65;eau potable : Arrodets-ez-Angles;155328;2021;88,6;0,2;1,8;65,4;conforme;806;806;20;53;113;Sans anomalie apparente
+65034;Arrodets;65;eau potable;155330;2024;100,0;0,0;2,0;65,4;conforme;0;0;0;0;23;Non vérifié
+65035;Artagnan;65;eau potable;155650;2024;81,5;1,4;5,9;66,2;conforme;118894;4758;26;87;504;Non vérifié
+65036;Artalens-Souin;65;eau potable;155331;2024;43,1;3,9;3,0;65,6;non conforme;11957;11957;234;476;140;Non vérifié
+65037;Artiguemy;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;3341;105;240;87;Non vérifié
+65038;Artigues;65;eau potable : régie;314854;2024;67,7;10,9;22,8;69,6;non conforme;1366376;363;77;175;13;Non vérifié
+65039;Aspin-Aure;65;eau potable;155333;2023;99,9;0,0;3,1;65,6;conforme;0;0;0;0;43;Non vérifié
+65040;Aspin-en-Lavedan;65;eau potable : Aspin en Lavedan;155334;2024;82,5;1,5;7,2;66,4;conforme;3367;3367;31;76;294;Non vérifié
+65041;Asque;65;eau potable;155335;2024;95,5;0,1;1,4;65,3;conforme;530;530;12;27;123;Non vérifié
+65042;Asté;65;eau potable;155337;2024;81,6;1,7;7,5;66,5;conforme;5876;5876;28;83;568;Non vérifié
+65043;Astugue;65;eau potable;155633;2024;69,1;3,0;6,8;66,4;conforme;226052;5740;60;163;263;Non vérifié
+65044;Aubarède;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;10868;105;240;283;Non vérifié
+65045;Aucun;65;eau potable;155338;2024;54,6;6,4;7,7;66,5;non conforme;27565;27565;283;304;267;Non vérifié
+65046;Aulon;65;eau potable;155341;2024;39,7;23,5;15,4;68,1;non conforme;25475;25475;705;555;99;Non vérifié
+65047;Aureilhan;65;eau potable;155637;2024;81,0;2,6;11,0;67,2;conforme;239689;92204;31;87;8031;Non vérifié
+65048;Aurensan;65;eau potable;155650;2024;81,5;1,4;5,9;66,2;conforme;118894;7213;26;87;764;Non vérifié
+65049;Auriébat;65;eau potable;155344;2024;50,6;1,8;1,8;65,4;non conforme;10538;10538;120;358;241;Non vérifié
+65051;Aventignan;65;eau potable;155647;2024;53,5;3,2;3,7;65,7;non conforme;163520;10838;146;315;204;Non vérifié
+65052;Averan;65;eau potable;155633;2024;69,1;3,0;6,8;66,4;conforme;226052;1877;60;163;86;Non vérifié
+65053;Aveux;65;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;1120;75;162;41;Non vérifié
+65054;Avezac-Prat-Lahitte;65;eau potable;155348;2024;50,9;4,4;3,9;65,8;non conforme;40150;40150;189;447;581;Non vérifié
+65055;Ayros-Arbouix;65;eau potable;155350;2024;100,0;0,0;11,8;67,4;conforme;0;0;0;0;349;Non vérifié
+65056;Ayzac-Ost;65;eau potable;155352;2024;76,2;2,2;7,2;66,4;conforme;10038;10038;58;112;473;Non vérifié
+65057;Azereix;65;eau potable;155633;2024;69,1;3,0;6,8;66,4;conforme;226052;21649;60;163;992;Non vérifié
+65058;Azet;65;eau potable;155356;2024;53,5;26,4;30,4;71,1;non conforme;23705;23705;439;317;148;Non vérifié
+65059;Bagnères-de-Bigorre;65;eau potable : Territoire n° 1 - Ville de BAGNERES;155362;2024;94,4;4,1;70,4;79,1;conforme;143963;143963;55;98;7114;Non vérifié
+65060;Banios;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;2534;105;240;66;Non vérifié
+65061;Barbachen;65;eau potable;155651;2024;74,2;1,2;3,5;65,7;conforme;11791;591;39;125;41;Non vérifié
+65062;Barbazan-Debat;65;eau potable : SIA Tarbes Sud;155654;2024;92,1;1,2;13,9;67,8;conforme;86325;22155;17;77;3478;Non vérifié
+65063;Barbazan-Dessus;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;5952;105;240;155;Non vérifié
+65064;Bareilles;65;eau potable;155648;2024;11,0;25,9;3,2;65,6;non conforme;72792;19312;1357;2950;39;Non vérifié
+65065;Barlest;65;eau potable : SIA 3 Vallées;155657;2024;70,4;2,5;5,9;66,2;conforme;85191;7119;58;154;334;Non vérifié
+65067;Barry;65;eau potable;155633;2024;69,1;3,0;6,8;66,4;conforme;226052;2968;60;163;136;Non vérifié
+65068;Barthe;65;eau potable;155658;2024;65,4;1,5;2,8;65,6;non conforme;46538;855;94;197;25;Non vérifié
+65069;La Barthe-de-Neste;65;eau potable;155365;2024;27,5;17,1;6,5;66,3;non conforme;218452;218452;483;1310;1240;Non vérifié
+65070;Bartrès;65;eau potable : SIA 3 Vallées;155657;2024;70,4;2,5;5,9;66,2;conforme;85191;10337;58;154;485;Non vérifié
+65071;Batsère;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;1613;105;240;42;Non vérifié
+65072;Bazet;65;eau potable;155650;2024;81,5;1,4;5,9;66,2;conforme;118894;17542;26;87;1858;Non vérifié
+65073;Bazillac;65;eau potable;155650;2024;81,5;1,4;5,9;66,2;conforme;118894;3522;26;87;373;Non vérifié
+65074;Bazordan;65;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;3033;75;162;111;Non vérifié
+65075;Bazus-Aure;65;eau potable;155370;2024;64,9;4,4;8,2;66,6;non conforme;5942;5942;111;196;147;Non vérifié
+65076;Bazus-Neste;65;eau potable;155647;2024;53,5;3,2;3,7;65,7;non conforme;163520;2072;146;315;39;Non vérifié
+65077;Beaucens;65;eau potable;155371;2024;83,3;1,3;6,3;66,3;conforme;5125;5125;34;75;413;Non vérifié
+65078;Beaudéan;65;eau potable;155653;2024;89,1;2,1;16,8;68,4;conforme;34431;8352;60;136;383;Non vérifié
+65079;Bégole;65;eau potable;155641;2024;89,0;0,4;3,6;65,7;conforme;63027;2120;31;47;189;Non vérifié
+65080;Bénac;65;eau potable;155633;2024;69,1;3,0;6,8;66,4;conforme;226052;11523;60;163;528;Non vérifié
+65081;Benqué-Molère;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;5376;105;240;140;Non vérifié
+65082;Berbérust-Lias;65;eau potable : régie;314854;2024;67,7;10,9;22,8;69,6;non conforme;1366376;1229;77;175;44;Non vérifié
+65083;Bernac-Debat;65;eau potable : SIA Tarbes Sud;155654;2024;92,1;1,2;13,9;67,8;conforme;86325;4733;17;77;743;Non vérifié
+65084;Bernac-Dessus;65;eau potable : SIA Tarbes Sud;155654;2024;92,1;1,2;13,9;67,8;conforme;86325;1796;17;77;282;Non vérifié
+65085;Bernadets-Debat;65;eau potable;155641;2024;89,0;0,4;3,6;65,7;conforme;63027;1099;31;47;98;Non vérifié
+65086;Bernadets-Dessus;65;eau potable;155641;2024;89,0;0,4;3,6;65,7;conforme;63027;1638;31;47;146;Non vérifié
+65087;Bertren;65;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;4181;75;162;153;Non vérifié
+65088;Betbèze;65;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;1148;75;162;42;Non vérifié
+65090;Betpouy;65;eau potable;155658;2024;65,4;1,5;2,8;65,6;non conforme;46538;2464;94;197;72;Non vérifié
+65091;Bettes;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;2304;105;240;60;Non vérifié
+65092;Beyrède-Jumet-Camous;65;eau potable;155377;2024;19,5;4,7;1,1;65,2;non conforme;27448;27448;388;1502;194;Non vérifié
+65093;Bize;65;eau potable;155647;2024;53,5;3,2;3,7;65,7;non conforme;163520;11050;146;315;208;Non vérifié
+65094;Bizous;65;eau potable;155647;2024;53,5;3,2;3,7;65,7;non conforme;163520;6747;146;315;127;Non vérifié
+65095;Bonnefont;65;eau potable;155641;2024;89,0;0,4;3,6;65,7;conforme;63027;3522;31;47;314;Non vérifié
+65096;Bonnemazon;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;2650;105;240;69;Non vérifié
+65097;Bonrepos;65;eau potable;155645;2024;81,2;0,7;2,9;65,6;conforme;52378;3550;50;97;194;Non vérifié
+65098;Boô-Silhen;65;eau potable;155381;2024;83,6;1,2;6,2;66,2;conforme;4021;4021;35;70;312;Non vérifié
+65099;Bordères-Louron;65;eau potable;155382;2024;40,9;8,4;5,8;66,2;non conforme;22474;22474;405;528;152;Non vérifié
+65100;Bordères-sur-l'Échez;65;eau potable : Borderes sur Echez;155384;2024;73,4;4,1;11,4;67,3;conforme;77010;77010;39;131;5399;Non vérifié
+65101;Bordes;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;28878;105;240;752;Non vérifié
+65102;Bouilh-Devant;65;eau potable;155641;2024;89,0;0,4;3,6;65,7;conforme;63027;258;31;47;23;Non vérifié
+65103;Bouilh-Péreuilh;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;4992;105;240;130;Non vérifié
+65104;Boulin;65;eau potable;155637;2024;81,0;2,6;11,0;67,2;conforme;239689;3571;31;87;311;Non vérifié
+65105;Bourg-de-Bigorre;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;7450;105;240;194;Non vérifié
+65106;Bourisp;65;eau potable;155387;2024;0,0;71,3;0,0;65,0;non conforme;93688;93688;1344;;191;Non vérifié
+65107;Bourréac;65;eau potable : SIA Bourréac-Miramont;155638;2024;82,0;1,4;6,2;66,2;conforme;7936;1411;33;83;117;Non vérifié
+65108;Bours;65;eau potable;155650;2024;81,5;1,4;5,9;66,2;conforme;118894;8327;26;87;882;Non vérifié
+65109;Bramevaque;65;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;847;75;162;31;Non vérifié
+65110;Bugard;65;eau potable;155641;2024;89,0;0,4;3,6;65,7;conforme;63027;1043;31;47;93;Non vérifié
+65111;Bulan;65;eau potable;155390;2024;97,1;0,1;2,1;65,4;conforme;161;161;8;18;58;Non vérifié
+65113;Burg;65;eau potable;155641;2024;89,0;0,4;3,6;65,7;conforme;63027;3040;31;47;271;Non vérifié
+65114;Buzon;65;eau potable;155393;2024;90,1;0,2;2,0;65,4;conforme;293;293;10;37;79;Non vérifié
+65115;Cabanac;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;11674;105;240;304;Non vérifié
+65116;Cadéac;65;eau potable;155394;2023;75,7;9,6;29,7;70,9;conforme;17064;17064;151;118;309;Sans anomalie apparente
+65118;Caharet;65;eau potable;155641;2024;89,0;0,4;3,6;65,7;conforme;63027;337;31;47;30;Non vérifié
+65119;Caixon;65;eau potable;155650;2024;81,5;1,4;5,9;66,2;conforme;118894;3210;26;87;340;Non vérifié
+65120;Calavanté;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;12634;105;240;329;Non vérifié
+65121;Camalès;65;eau potable;155650;2024;81,5;1,4;5,9;66,2;conforme;118894;3503;26;87;371;Non vérifié
+65123;Campan;65;eau potable;155397;2024;29,2;9,7;4,0;65,8;non conforme;290321;290321;639;885;1245;Non vérifié
+65125;Campistrous;65;eau potable;155495;2024;80,6;3,1;12,9;67,6;conforme;86775;4449;39;103;314;Non vérifié
+65126;Campuzan;65;eau potable;155658;2024;65,4;1,5;2,8;65,6;non conforme;46538;5030;94;197;147;Non vérifié
+65127;Capvern;65;eau potable;155403;2024;69,7;4,1;9,5;66,9;conforme;58363;58363;123;171;1298;Non vérifié
+65128;Castelbajac;65;eau potable;155644;2024;74,3;1,7;4,8;66,0;conforme;15748;3057;63;128;132;Non vérifié
+65129;Castelnau-Magnoac;65;eau potable;155405;2024;67,0;2,8;5,6;66,1;conforme;26613;26613;97;183;750;Non vérifié
+65131;Castelvieilh;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;9562;105;240;249;Non vérifié
+65132;Castéra-Lanusse;65;eau potable;155641;2024;89,0;0,4;3,6;65,7;conforme;63027;505;31;47;45;Non vérifié
+65133;Castéra-Lou;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;8448;105;240;220;Non vérifié
+65134;Casterets;65;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;465;75;162;17;Non vérifié
+65135;Castillon;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;2803;105;240;73;Non vérifié
+65136;Caubous;65;eau potable;155645;2024;81,2;0,7;2,9;65,6;conforme;52378;586;50;97;32;Non vérifié
+65138;Cauterets;65;eau potable : Ville;155410;2024;76,3;16,5;53,1;75,6;conforme;172364;172364;570;113;829;Non vérifié
+65139;Cazarilh;65;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;1694;75;162;62;Non vérifié
+65140;Cazaux-Debat;65;eau potable;155412;2024;85,4;0,5;2,7;65,5;conforme;438;438;35;67;34;Non vérifié
+65142;Chelle-Debat;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;8448;105;240;220;Non vérifié
+65143;Chelle-Spou;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;4071;105;240;106;Non vérifié
+65144;Cheust;65;eau potable : régie;314854;2024;67,7;10,9;22,8;69,6;non conforme;1366376;2374;77;175;85;Non vérifié
+65146;Chis;65;eau potable;155637;2024;81,0;2,6;11,0;67,2;conforme;239689;3410;31;87;297;Non vérifié
+65147;Cieutat;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;23156;105;240;603;Non vérifié
+65148;Cizos;65;eau potable;155645;2024;81,2;0,7;2,9;65,6;conforme;52378;2489;50;97;136;Non vérifié
+65149;Clarac;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;6144;105;240;160;Non vérifié
+65150;Clarens;65;eau potable;155645;2024;81,2;0,7;2,9;65,6;conforme;52378;9388;50;97;513;Non vérifié
+65151;Collongues;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;5875;105;240;153;Non vérifié
+65153;Coussan;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;3994;105;240;104;Non vérifié
+65154;Créchets;65;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;1230;75;162;45;Non vérifié
+65155;Devèze;65;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;1366;75;162;50;Non vérifié
+65156;Dours;65;eau potable;155637;2024;81,0;2,6;11,0;67,2;conforme;239689;2583;31;87;225;Non vérifié
+65158;Esbareich;65;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;2268;75;162;83;Non vérifié
+65159;Escala;65;eau potable;155425;2024;88,6;0,7;5,2;66,0;conforme;2611;2611;21;50;347;Non vérifié
+65160;Escaunets;65;eau potable : Secteur Nord : Ex Territoire Lembeye et enclaves;280194;2024;73,4;1,3;3,7;65,7;conforme;168908;3285;77;143;117;Non vérifié
+65161;Escondeaux;65;eau potable;155650;2024;81,5;1,4;5,9;66,2;conforme;118894;2644;26;87;280;Non vérifié
+65162;Esconnets;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;1344;105;240;35;Non vérifié
+65163;Escots;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;1498;105;240;39;Non vérifié
+65164;Escoubès-Pouts;65;eau potable : SIA Bourréac-Miramont;155638;2024;82,0;1,4;6,2;66,2;conforme;7936;1098;33;83;91;Non vérifié
+65165;Esparros;65;eau potable;155427;2024;32,9;4,6;2,2;65,4;non conforme;21827;21827;362;745;165;Non vérifié
+65167;Espieilh;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;960;105;240;25;Non vérifié
+65168;Esquièze-Sère;65;eau potable;155429;2024;86,7;2,0;13,1;67,6;conforme;9023;9023;60;56;412;Non vérifié
+65170;Estampures;65;eau potable;155641;2024;89,0;0,4;3,6;65,7;conforme;63027;819;31;47;73;Non vérifié
+65172;Estensan;65;eau potable;155435;2024;38,7;21,0;13,3;67,7;non conforme;11498;11498;656;578;48;Non vérifié
+65173;Esterre;65;eau potable;155437;2024;49,9;;7,1;66,4;non conforme;;;;;184;Non vérifié
+65174;Estirac;65;eau potable;155438;2024;99,3;0,0;2,5;65,5;conforme;0;0;0;0;104;Non vérifié
+65175;Ferrère;65;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;1038;75;162;38;Non vérifié
+65176;Ferrières;65;eau potable;213709;2024;77,2;2,0;6,7;66,3;conforme;426320;1422;41;109;94;Non vérifié
+65177;Fontrailles;65;eau potable;155641;2024;89,0;0,4;3,6;65,7;conforme;63027;1884;31;47;168;Non vérifié
+65178;Fréchède;65;eau potable;155641;2024;89,0;0,4;3,6;65,7;conforme;63027;482;31;47;43;Non vérifié
+65179;Fréchendets;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;1382;105;240;36;Non vérifié
+65180;Fréchet-Aure;65;eau potable;155440;2024;87,4;0,2;1,1;65,2;conforme;137;137;23;66;16;Non vérifié
+65181;Fréchou-Fréchet;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;6643;105;240;173;Non vérifié
+65183;Galan;65;eau potable;155658;2024;65,4;1,5;2,8;65,6;non conforme;46538;23885;94;197;698;Non vérifié
+65184;Galez;65;eau potable;155645;2024;81,2;0,7;2,9;65,6;conforme;52378;3312;50;97;181;Non vérifié
+65185;Gardères;65;eau potable : Secteur Nord : Ex Territoire Lembeye et enclaves;280194;2024;73,4;1,3;3,7;65,7;conforme;168908;12496;77;143;445;Non vérifié
+65186;Gaudent;65;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;1120;75;162;41;Non vérifié
+65187;Gaussan;65;eau potable;155645;2024;81,2;0,7;2,9;65,6;conforme;52378;1812;50;97;99;Non vérifié
+65189;Gayan;65;eau potable;155650;2024;81,5;1,4;5,9;66,2;conforme;118894;2493;26;87;264;Non vérifié
+65190;Gazave;65;eau potable;155647;2024;53,5;3,2;3,7;65,7;non conforme;163520;3825;146;315;72;Non vérifié
+65191;Gazost;65;eau potable : régie;314854;2024;67,7;10,9;22,8;69,6;non conforme;1366376;3686;77;175;132;Non vérifié
+65192;Gavarnie-Gèdre;65;eau potable;215341;2024;21,6;28,0;7,7;66,5;non conforme;337260;337260;2718;1324;340;Non vérifié
+65193;Gembrie;65;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;2432;75;162;89;Non vérifié
+65194;Générest;65;eau potable;155647;2024;53,5;3,2;3,7;65,7;non conforme;163520;4834;146;315;91;Non vérifié
+65195;Génos;65;eau potable : Territoire n° 2 - Station du Val Louron;197479;2024;99,0;0,2;15,2;68,0;conforme;161;76;2;5;127;Non vérifié
+65196;Gensac;65;eau potable;155651;2024;74,2;1,2;3,5;65,7;conforme;11791;1240;39;125;86;Non vérifié
+65197;Ger;65;eau potable : SIA 3 Vallées;155657;2024;70,4;2,5;5,9;66,2;conforme;85191;3410;58;154;160;Non vérifié
+65198;Gerde;65;eau potable;155653;2024;89,1;2,1;16,8;68,4;conforme;34431;26080;60;136;1196;Non vérifié
+65199;Germ;65;eau potable : Territoire n° 1 - Station de Peyragudes-Balestas;155677;2024;50,7;39,9;41,0;73,2;non conforme;33496;13480;1119;355;33;Non vérifié
+65200;Germs-sur-l'Oussouet;65;eau potable : régie;314854;2024;67,7;10,9;22,8;69,6;non conforme;1366376;2765;77;175;99;Non vérifié
+65201;Geu;65;eau potable : SIA 3 Vallées;155657;2024;70,4;2,5;5,9;66,2;conforme;85191;3964;58;154;186;Non vérifié
+65202;Gez;65;eau potable;155457;2024;62,7;10,9;18,3;68,7;non conforme;17505;17505;146;218;329;Non vérifié
+65203;Gez-ez-Angles;65;eau potable : régie;314854;2024;67,7;10,9;22,8;69,6;non conforme;1366376;614;77;175;22;Non vérifié
+65204;Gonez;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;998;105;240;26;Non vérifié
+65205;Gouaux;65;eau potable;155460;2024;100,0;0,0;8,3;66,7;conforme;0;0;0;0;54;Non vérifié
+65206;Goudon;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;9600;105;240;250;Non vérifié
+65207;Gourgue;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;2227;105;240;58;Non vérifié
+65212;Guchen;65;eau potable;155471;2024;13,8;130,3;20,8;69,2;non conforme;263955;263955;2403;2284;301;Non vérifié
+65213;Guizerix;65;eau potable;155641;2024;89,0;0,4;3,6;65,7;conforme;63027;1256;31;47;112;Non vérifié
+65214;Hachan;65;eau potable;155658;2024;65,4;1,5;2,8;65,6;non conforme;46538;1574;94;197;46;Non vérifié
+65216;Hauban;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;3610;105;240;94;Non vérifié
+65217;Hautaget;65;eau potable;155647;2024;53,5;3,2;3,7;65,7;non conforme;163520;3134;146;315;59;Non vérifié
+65220;Hibarette;65;eau potable;155633;2024;69,1;3,0;6,8;66,4;conforme;226052;5063;60;163;232;Non vérifié
+65221;Hiis;65;eau potable;155636;2024;65,6;2,9;5,6;66,1;non conforme;100155;7364;75;190;268;Non vérifié
+65222;Hitte;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;5107;105;240;133;Non vérifié
+65223;Horgues;65;eau potable : SIA Tarbes Sud;155654;2024;92,1;1,2;13,9;67,8;conforme;86325;8198;17;77;1287;Non vérifié
+65224;Houeydets;65;eau potable;155644;2024;74,3;1,7;4,8;66,0;conforme;15748;6647;63;128;287;Non vérifié
+65225;Hourc;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;4186;105;240;109;Non vérifié
+65226;Ibos;65;eau potable : territoire ex SMEAVO;52474;2024;76,0;2,2;6,8;66,4;conforme;391406;48503;47;118;2813;Non vérifié
+65228;Ilhet;65;eau potable;155478;2024;100,0;;;;non calculable;;;;;122;Non vérifié
+65229;Ilheu;65;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;1503;75;162;55;Non vérifié
+65230;Izaourt;65;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;6995;75;162;256;Non vérifié
+65231;Izaux;65;eau potable;155479;2024;62,3;6,8;11,2;67,2;non conforme;4964;4964;65;222;210;Non vérifié
+65232;Jacque;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;2611;105;240;68;Non vérifié
+65233;Jarret;65;eau potable : SIA 3 Vallées;155657;2024;70,4;2,5;5,9;66,2;conforme;85191;6373;58;154;299;Non vérifié
+65234;Jézeau;65;eau potable;155648;2024;11,0;25,9;3,2;65,6;non conforme;72792;53480;1357;2950;108;Non vérifié
+65235;Juillan;65;eau potable;155633;2024;69,1;3,0;6,8;66,4;conforme;226052;87274;60;163;3999;Non vérifié
+65236;Julos;65;eau potable : SIA Bourréac-Miramont;155638;2024;82,0;1,4;6,2;66,2;conforme;7936;5427;33;83;450;Non vérifié
+65237;Juncalas;65;eau potable : SIA 3 Vallées;155657;2024;70,4;2,5;5,9;66,2;conforme;85191;3709;58;154;174;Non vérifié
+65238;Labassère;65;eau potable;155482;2024;72,2;0,8;2,0;65,4;conforme;8234;8234;99;149;227;Non vérifié
+65240;Labatut-Rivière;65;eau potable;155484;2024;69,4;1,8;4,2;65,8;conforme;8212;8212;57;158;394;Non vérifié
+65242;Lacassagne;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;9639;105;240;251;Non vérifié
+65243;Lafitole;65;eau potable;155651;2024;74,2;1,2;3,5;65,7;conforme;11791;6241;39;125;433;Non vérifié
+65244;Lagarde;65;eau potable;155650;2024;81,5;1,4;5,9;66,2;conforme;118894;5004;26;87;530;Non vérifié
+65245;Lagrange;65;eau potable;155644;2024;74,3;1,7;4,8;66,0;conforme;15748;6045;63;128;261;Non vérifié
+65247;Arrayou-Lahitte;65;eau potable : régie;314854;2024;67,7;10,9;22,8;69,6;non conforme;1366376;2765;77;175;99;Non vérifié
+65248;Lahitte-Toupière;65;eau potable;155489;2024;99,6;0,4;5,1;66,0;non calculable;1022;1022;11;29;263;Non vérifié
+65249;Lalanne;65;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;2705;75;162;99;Non vérifié
+65250;Lalanne-Trie;65;eau potable;155641;2024;89,0;0,4;3,6;65,7;conforme;63027;1324;31;47;118;Non vérifié
+65251;Laloubère;65;eau potable : SIA Tarbes Sud;155654;2024;92,1;1,2;13,9;67,8;conforme;86325;11759;17;77;1846;Non vérifié
+65252;Lamarque-Pontacq;65;eau potable : territoire ex SMEAVO;52474;2024;76,0;2,2;6,8;66,4;conforme;391406;14863;47;118;862;Non vérifié
+65253;Lamarque-Rustaing;65;eau potable;155641;2024;89,0;0,4;3,6;65,7;conforme;63027;606;31;47;54;Non vérifié
+65254;Laméac;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;5991;105;240;156;Non vérifié
+65256;Lanespède;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;5530;105;240;144;Non vérifié
+65257;Lanne;65;eau potable;155633;2024;69,1;3,0;6,8;66,4;conforme;226052;13051;60;163;598;Non vérifié
+65258;Lannemezan;65;eau potable;155495;2024;80,6;3,1;12,9;67,6;conforme;86775;82326;39;103;5811;Non vérifié
+65259;Lansac;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;7104;105;240;185;Non vérifié
+65260;Lapeyre;65;eau potable;155641;2024;89,0;0,4;3,6;65,7;conforme;63027;1010;31;47;90;Non vérifié
+65261;Laran;65;eau potable;155645;2024;81,2;0,7;2,9;65,6;conforme;52378;842;50;97;46;Non vérifié
+65262;Larreule;65;eau potable;155498;2024;92,0;0,3;4,0;65,8;conforme;1180;1180;9;28;379;Non vérifié
+65263;Larroque;65;eau potable;155641;2024;89,0;0,4;3,6;65,7;conforme;63027;1133;31;47;101;Non vérifié
+65265;Laslades;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;13709;105;240;357;Non vérifié
+65266;Lassales;65;eau potable;155645;2024;81,2;0,7;2,9;65,6;conforme;52378;641;50;97;35;Non vérifié
+65267;Lau-Balagnas;65;eau potable;155499;2024;70,3;6,4;15,2;68,0;conforme;24528;24528;134;153;501;Non vérifié
+65268;Layrisse;65;eau potable;155633;2024;69,1;3,0;6,8;66,4;conforme;226052;5434;60;163;249;Non vérifié
+65269;Lescurry;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;6183;105;240;161;Non vérifié
+65270;Lespouey;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;8064;105;240;210;Non vérifié
+65271;Lézignan;65;eau potable : régie;314854;2024;67,7;10,9;22,8;69,6;non conforme;1366376;9914;77;175;355;Non vérifié
+65272;Lhez;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;2919;105;240;76;Non vérifié
+65273;Liac;65;eau potable;155651;2024;74,2;1,2;3,5;65,7;conforme;11791;2883;39;125;200;Non vérifié
+65274;Libaros;65;eau potable;155641;2024;89,0;0,4;3,6;65,7;conforme;63027;1492;31;47;133;Non vérifié
+65275;Lies;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;2803;105;240;73;Non vérifié
+65276;Lizos;65;eau potable;155637;2024;81,0;2,6;11,0;67,2;conforme;239689;1251;31;87;109;Non vérifié
+65277;Lombrès;65;eau potable;155647;2024;53,5;3,2;3,7;65,7;non conforme;163520;4622;146;315;87;Non vérifié
+65278;Lomné;65;eau potable;155504;2024;92,0;0,3;3,7;65,7;conforme;315;315;22;30;39;Non vérifié
+65279;Lortet;65;eau potable;155506;2024;79,1;0,7;2,6;65,5;conforme;2821;2821;37;97;210;Non vérifié
+65280;Loubajac;65;eau potable : SIA 3 Vallées;155657;2024;70,4;2,5;5,9;66,2;conforme;85191;9485;58;154;445;Non vérifié
+65281;Loucrup;65;eau potable;155633;2024;69,1;3,0;6,8;66,4;conforme;226052;5521;60;163;253;Non vérifié
+65283;Loudervielle;65;eau potable : Territoire n° 1 - Station de Peyragudes-Balestas;155677;2024;50,7;39,9;41,0;73,2;non conforme;33496;20016;1119;355;49;Non vérifié
+65284;Louey;65;eau potable;155633;2024;69,1;3,0;6,8;66,4;conforme;226052;24530;60;163;1124;Non vérifié
+65285;Louit;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;7450;105;240;194;Non vérifié
+65286;Lourdes;65;eau potable : Lourdes;155510;2024;82,0;8,7;39,6;72,9;conforme;363849;363849;75;95;13266;Non vérifié
+65287;Loures-Barousse;65;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;18663;75;162;683;Non vérifié
+65288;Lubret-Saint-Luc;65;eau potable;155641;2024;89,0;0,4;3,6;65,7;conforme;63027;684;31;47;61;Non vérifié
+65289;Luby-Betmont;65;eau potable;155641;2024;89,0;0,4;3,6;65,7;conforme;63027;1167;31;47;104;Non vérifié
+65290;Luc;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;6567;105;240;171;Non vérifié
+65291;Lugagnan;65;eau potable : Lugagnan;155512;2024;95,5;2,6;55,3;76,1;conforme;1889;1889;31;102;167;Non vérifié
+65292;Luquet;65;eau potable : Secteur Nord : Ex Territoire Lembeye et enclaves;280194;2024;73,4;1,3;3,7;65,7;conforme;168908;11963;77;143;426;Non vérifié
+65293;Lustar;65;eau potable;155641;2024;89,0;0,4;3,6;65,7;conforme;63027;1066;31;47;95;Non vérifié
+65294;Lutilhous;65;eau potable;155514;2020;100,0;0,0;3,8;65,8;conforme;0;0;0;0;210;Sans anomalie apparente
+65295;Luz-Saint-Sauveur;65;eau potable;155516;2024;71,1;5,5;13,5;67,7;conforme;52195;52195;159;151;900;Non vérifié
+65297;Mansan;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;1498;105;240;39;Non vérifié
+65298;Marquerie;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;3149;105;240;82;Non vérifié
+65299;Marsac;65;eau potable;155650;2024;81,5;1,4;5,9;66,2;conforme;118894;2219;26;87;235;Non vérifié
+65300;Marsas;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;2458;105;240;64;Non vérifié
+65301;Marseillan;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;10330;105;240;269;Non vérifié
+65303;Mascaras;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;13863;105;240;361;Non vérifié
+65304;Maubourguet;65;eau potable;155518;2024;82,7;1,9;9,0;66,8;conforme;28558;28558;35;77;2242;Non vérifié
+65305;Mauléon-Barousse;65;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;2787;75;162;102;Non vérifié
+65306;Mauvezin;65;eau potable;155519;2024;61,7;1,7;3,0;65,6;non conforme;5119;5119;58;204;243;Non vérifié
+65307;Mazères-de-Neste;65;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;9564;75;162;350;Non vérifié
+65308;Mazerolles;65;eau potable;155641;2024;89,0;0,4;3,6;65,7;conforme;63027;1267;31;47;113;Non vérifié
+65309;Mazouau;65;eau potable;155647;2024;53,5;3,2;3,7;65,7;non conforme;163520;691;146;315;13;Non vérifié
+65310;Mérilheu;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;8909;105;240;232;Non vérifié
+65311;Mingot;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;3802;105;240;99;Non vérifié
+65313;Momères;65;eau potable : SIA Tarbes Sud;155654;2024;92,1;1,2;13,9;67,8;conforme;86325;4599;17;77;722;Non vérifié
+65314;Monfaucon;65;eau potable;155521;2024;52,7;2,1;2,3;65,5;non conforme;10731;10731;148;334;198;Non vérifié
+65315;Monléon-Magnoac;65;eau potable;155645;2024;81,2;0,7;2,9;65,6;conforme;52378;7412;50;97;405;Non vérifié
+65316;Monlong;65;eau potable;155645;2024;81,2;0,7;2,9;65,6;conforme;52378;1977;50;97;108;Non vérifié
+65317;Mont;65;eau potable;155523;2024;85,7;2,3;13,7;67,7;conforme;923;923;68;61;37;Non vérifié
+65318;Montastruc;65;eau potable;155641;2024;89,0;0,4;3,6;65,7;conforme;63027;2658;31;47;237;Non vérifié
+65319;Montégut;65;eau potable;155647;2024;53,5;3,2;3,7;65,7;non conforme;163520;6694;146;315;126;Non vérifié
+65320;Montgaillard;65;eau potable;155636;2024;65,6;2,9;5,6;66,1;non conforme;100155;22422;75;190;816;Non vérifié
+65321;Montignac;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;5184;105;240;135;Non vérifié
+65322;Montoussé;65;eau potable;155647;2024;53,5;3,2;3,7;65,7;non conforme;163520;13281;146;315;250;Non vérifié
+65323;Montsérié;65;eau potable;155647;2024;53,5;3,2;3,7;65,7;non conforme;163520;3559;146;315;67;Non vérifié
+65324;Moulédous;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;8026;105;240;209;Non vérifié
+65325;Moumoulous;65;eau potable;155641;2024;89,0;0,4;3,6;65,7;conforme;63027;505;31;47;45;Non vérifié
+65326;Mun;65;eau potable;155641;2024;89,0;0,4;3,6;65,7;conforme;63027;830;31;47;74;Non vérifié
+65327;Nestier;65;eau potable;155647;2024;53,5;3,2;3,7;65,7;non conforme;163520;10944;146;315;206;Non vérifié
+65328;Neuilh;65;eau potable;155528;2024;81,3;0,5;2,1;65,4;conforme;1040;1040;31;86;93;Non vérifié
+65329;Nistos;65;eau potable;155647;2024;53,5;3,2;3,7;65,7;non conforme;163520;11263;146;315;212;Non vérifié
+65330;Nouilhan;65;eau potable;155650;2024;81,5;1,4;5,9;66,2;conforme;118894;2181;26;87;231;Non vérifié
+65331;Odos;65;eau potable : SIA Tarbes Sud;155654;2024;92,1;1,2;13,9;67,8;conforme;86325;20798;17;77;3265;Non vérifié
+65332;Oléac-Debat;65;eau potable;155637;2024;81,0;2,6;11,0;67,2;conforme;239689;2170;31;87;189;Non vérifié
+65333;Oléac-Dessus;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;4339;105;240;113;Non vérifié
+65334;Omex;65;eau potable : régie;314854;2024;67,7;10,9;22,8;69,6;non conforme;1366376;6060;77;175;217;Non vérifié
+65335;Ordizan;65;eau potable;155636;2024;65,6;2,9;5,6;66,1;non conforme;100155;14096;75;190;513;Non vérifié
+65336;Organ;65;eau potable;155645;2024;81,2;0,7;2,9;65,6;conforme;52378;494;50;97;27;Non vérifié
+65337;Orieux;65;eau potable;155641;2024;89,0;0,4;3,6;65,7;conforme;63027;1234;31;47;110;Non vérifié
+65338;Orignac;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;9716;105;240;253;Non vérifié
+65339;Orincles;65;eau potable;155633;2024;69,1;3,0;6,8;66,4;conforme;226052;7944;60;163;364;Non vérifié
+65340;Orleix;65;eau potable;155637;2024;81,0;2,6;11,0;67,2;conforme;239689;21929;31;87;1910;Non vérifié
+65341;Oroix;65;eau potable;155650;2024;81,5;1,4;5,9;66,2;conforme;118894;935;26;87;99;Non vérifié
+65342;Osmets;65;eau potable;155641;2024;89,0;0,4;3,6;65,7;conforme;63027;1010;31;47;90;Non vérifié
+65343;Ossen;65;eau potable : régie;314854;2024;67,7;10,9;22,8;69,6;non conforme;1366376;6702;77;175;240;Non vérifié
+65344;Ossun;65;eau potable : régie;314854;2024;67,7;10,9;22,8;69,6;non conforme;1366376;65850;77;175;2358;Non vérifié
+65345;Ossun-ez-Angles;65;eau potable : régie;314854;2024;67,7;10,9;22,8;69,6;non conforme;1366376;1592;77;175;57;Non vérifié
+65346;Oueilloux;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;5683;105;240;148;Non vérifié
+65347;Ourde;65;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;1175;75;162;43;Non vérifié
+65348;Ourdis-Cotdoussan;65;eau potable : régie;314854;2024;67,7;10,9;22,8;69,6;non conforme;1366376;1145;77;175;41;Non vérifié
+65349;Ourdon;65;eau potable : régie;314854;2024;67,7;10,9;22,8;69,6;non conforme;1366376;307;77;175;11;Non vérifié
+65350;Oursbelille;65;eau potable;155650;2024;81,5;1,4;5,9;66,2;conforme;118894;11537;26;87;1222;Non vérifié
+65351;Ousté;65;eau potable : régie;314854;2024;67,7;10,9;22,8;69,6;non conforme;1366376;977;77;175;35;Non vérifié
+65352;Ouzous;65;eau potable;155546;2024;67,8;3,9;8,2;66,6;conforme;5779;5779;80;173;199;Non vérifié
+65353;Ozon;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;9178;105;240;239;Non vérifié
+65355;Paréac;65;eau potable;155633;2024;69,1;3,0;6,8;66,4;conforme;226052;1593;60;163;73;Non vérifié
+65356;Péré;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;2342;105;240;61;Non vérifié
+65357;Peyraube;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;6682;105;240;174;Non vérifié
+65358;Peyret-Saint-André;65;eau potable;155641;2024;89,0;0,4;3,6;65,7;conforme;63027;774;31;47;69;Non vérifié
+65359;Peyriguère;65;eau potable;155641;2024;89,0;0,4;3,6;65,7;conforme;63027;224;31;47;20;Non vérifié
+65360;Peyrouse;65;eau potable : régie;314854;2024;67,7;10,9;22,8;69,6;non conforme;1366376;7680;77;175;275;Non vérifié
+65361;Peyrun;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;4071;105;240;106;Non vérifié
+65362;Pierrefitte-Nestalas;65;eau potable;155551;2024;45,4;25,0;20,8;69,2;non conforme;120450;120450;302;558;1092;Non vérifié
+65363;Pinas;65;eau potable;155645;2024;81,2;0,7;2,9;65,6;conforme;52378;8071;50;97;441;Non vérifié
+65364;Pintac;65;eau potable;155650;2024;81,5;1,4;5,9;66,2;conforme;118894;208;26;87;22;Non vérifié
+65366;Poueyferré;65;eau potable : SIA 3 Vallées;155657;2024;70,4;2,5;5,9;66,2;conforme;85191;17626;58;154;827;Non vérifié
+65367;Poumarous;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;5683;105;240;148;Non vérifié
+65368;Pouy;65;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;1093;75;162;40;Non vérifié
+65369;Pouyastruc;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;25498;105;240;664;Non vérifié
+65370;Pouzac;65;eau potable;155636;2024;65,6;2,9;5,6;66,1;non conforme;100155;30198;75;190;1099;Non vérifié
+65371;Préchac;65;eau potable : distribution;155555;2024;75,9;5,1;16,0;68,2;conforme;9866;9866;115;116;235;Non vérifié
+65372;Pujo;65;eau potable;155650;2024;81,5;1,4;5,9;66,2;conforme;118894;6335;26;87;671;Non vérifié
+65373;Puntous;65;eau potable;155641;2024;89,0;0,4;3,6;65,7;conforme;63027;1985;31;47;177;Non vérifié
+65374;Puydarrieux;65;eau potable;155641;2024;89,0;0,4;3,6;65,7;conforme;63027;2535;31;47;226;Non vérifié
+65375;Rabastens-de-Bigorre;65;eau potable : Pardiac;116295;2024;70,8;0,7;1,7;65,3;conforme;242725;43135;80;149;1483;Non vérifié
+65376;Recurt;65;eau potable;155658;2024;65,4;1,5;2,8;65,6;non conforme;46538;6878;94;197;201;Non vérifié
+65377;Réjaumont;65;eau potable;155645;2024;81,2;0,7;2,9;65,6;conforme;52378;2672;50;97;146;Non vérifié
+65378;Ricaud;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;2765;105;240;72;Non vérifié
+65379;Ris;65;eau potable;155559;2024;91,0;0,6;6,6;66,3;conforme;372;372;78;107;13;Non vérifié
+65380;Sabalos;65;eau potable;155637;2024;81,0;2,6;11,0;67,2;conforme;239689;1699;31;87;148;Non vérifié
+65381;Sabarros;65;eau potable;155658;2024;65,4;1,5;2,8;65,6;non conforme;46538;1129;94;197;33;Non vérifié
+65382;Sacoué;65;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;2323;75;162;85;Non vérifié
+65383;Sadournin;65;eau potable;155641;2024;89,0;0,4;3,6;65,7;conforme;63027;2131;31;47;190;Non vérifié
+65385;Saint-Arroman;65;eau potable;155647;2024;53,5;3,2;3,7;65,7;non conforme;163520;5206;146;315;98;Non vérifié
+65386;Saint-Créac;65;eau potable : SIA 3 Vallées;155657;2024;70,4;2,5;5,9;66,2;conforme;85191;2110;58;154;99;Non vérifié
+65388;Saint-Lary-Soulan;65;eau potable;155564;2024;86,0;3,0;18,4;68,7;conforme;34569;34569;113;60;837;Non vérifié
+65389;Saint-Laurent-de-Neste;65;eau potable;155647;2024;53,5;3,2;3,7;65,7;non conforme;163520;51213;146;315;964;Non vérifié
+65390;Saint-Lézer;65;eau potable;155650;2024;81,5;1,4;5,9;66,2;conforme;118894;4107;26;87;435;Non vérifié
+65391;Sainte-Marie;65;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;1585;75;162;58;Non vérifié
+65392;Saint-Martin;65;eau potable : SIA Tarbes Sud;155654;2024;92,1;1,2;13,9;67,8;conforme;86325;2777;17;77;436;Non vérifié
+65394;Saint-Paul;65;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;8853;75;162;324;Non vérifié
+65395;Saint-Pé-de-Bigorre;65;eau potable : Saint Pé de Bigorre;155569;2024;52,7;3,2;3,6;65,7;non conforme;48390;48390;116;328;1144;Non vérifié
+65396;Saint-Savin;65;eau potable;155572;2024;100,0;0,0;14,1;67,8;conforme;0;0;0;0;364;Non vérifié
+65397;Saint-Sever-de-Rustan;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;5991;105;240;156;Non vérifié
+65398;Saléchan;65;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;6613;75;162;242;Non vérifié
+65400;Salles;65;eau potable;155575;2024;84,5;2,4;13,1;67,6;conforme;3154;3154;33;67;258;Non vérifié
+65401;Salles-Adour;65;eau potable : SIA Tarbes Sud;155654;2024;92,1;1,2;13,9;67,8;conforme;86325;3618;17;77;568;Non vérifié
+65402;Samuran;65;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;738;75;162;27;Non vérifié
+65403;Sanous;65;eau potable;155650;2024;81,5;1,4;5,9;66,2;conforme;118894;925;26;87;98;Non vérifié
+65404;Sariac-Magnoac;65;eau potable;116303;2024;90,8;0,2;2,4;65,5;conforme;26557;913;15;31;162;Non vérifié
+65405;Sarlabous;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;3034;105;240;79;Non vérifié
+65406;Sarniguet;65;eau potable;155650;2024;81,5;1,4;5,9;66,2;conforme;118894;2455;26;87;260;Non vérifié
+65407;Sarp;65;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;2896;75;162;106;Non vérifié
+65408;Sarrancolin;65;eau potable;155577;2024;78,2;1,7;6,1;66,2;conforme;12410;12410;62;102;546;Non vérifié
+65409;Sarriac-Bigorre;65;eau potable;155650;2024;81,5;1,4;5,9;66,2;conforme;118894;2559;26;87;271;Non vérifié
+65410;Sarrouilles;65;eau potable;155637;2024;81,0;2,6;11,0;67,2;conforme;239689;6326;31;87;551;Non vérifié
+65412;Sauveterre;65;eau potable;155581;2024;87,9;0,4;2,7;65,5;conforme;1460;1460;25;54;157;Non vérifié
+65413;Sazos;65;eau potable;155582;2024;59,3;7,2;10,6;67,1;non conforme;17082;17082;294;249;159;Non vérifié
+65415;Ségus;65;eau potable : régie;314854;2024;67,7;10,9;22,8;69,6;non conforme;1366376;7484;77;175;268;Non vérifié
+65416;Seich;65;eau potable;155647;2024;53,5;3,2;3,7;65,7;non conforme;163520;4728;146;315;89;Non vérifié
+65417;Séméac;65;eau potable;155637;2024;81,0;2,6;11,0;67,2;conforme;239689;60115;31;87;5236;Non vérifié
+65418;Sénac;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;11290;105;240;294;Non vérifié
+65419;Sentous;65;eau potable;155641;2024;89,0;0,4;3,6;65,7;conforme;63027;909;31;47;81;Non vérifié
+65420;Sère-en-Lavedan;65;eau potable;155586;2024;88,9;0,5;3,8;65,8;conforme;423;423;13;48;86;Non vérifié
+65421;Sère-Lanso;65;eau potable : régie;314854;2024;67,7;10,9;22,8;69,6;non conforme;1366376;1033;77;175;37;Non vérifié
+65422;Séron;65;eau potable : Secteur Nord : Ex Territoire Lembeye et enclaves;280194;2024;73,4;1,3;3,7;65,7;conforme;168908;9211;77;143;328;Non vérifié
+65423;Sère-Rustaing;65;eau potable;155641;2024;89,0;0,4;3,6;65,7;conforme;63027;1425;31;47;127;Non vérifié
+65425;Siarrouy;65;eau potable;155650;2024;81,5;1,4;5,9;66,2;conforme;118894;4277;26;87;453;Non vérifié
+65426;Sinzos;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;5415;105;240;141;Non vérifié
+65427;Siradan;65;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;7842;75;162;287;Non vérifié
+65428;Sireix;65;eau potable;155593;2024;73,8;1,3;3,5;65,7;conforme;2847;2847;130;135;60;Non vérifié
+65430;Soréac;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;1882;105;240;49;Non vérifié
+65431;Sost;65;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;2651;75;162;97;Non vérifié
+65433;Soues;65;eau potable;155637;2024;81,0;2,6;11,0;67,2;conforme;239689;34305;31;87;2988;Non vérifié
+65435;Soulom;65;eau potable;155594;2024;100,0;0,0;16,3;68,3;conforme;0;0;0;0;293;Non vérifié
+65436;Souyeaux;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;11367;105;240;296;Non vérifié
+65437;Tajan;65;eau potable;155645;2024;81,2;0,7;2,9;65,6;conforme;52378;2452;50;97;134;Non vérifié
+65438;Talazac;65;eau potable;155650;2024;81,5;1,4;5,9;66,2;conforme;118894;718;26;87;76;Non vérifié
+65439;Tarasteix;65;eau potable;155650;2024;81,5;1,4;5,9;66,2;conforme;118894;2521;26;87;267;Non vérifié
+65440;Tarbes;65;eau potable : régie;314854;2024;67,7;10,9;22,8;69,6;non conforme;1366376;1239898;77;175;44399;Non vérifié
+65441;Thèbe;65;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;2651;75;162;97;Non vérifié
+65442;Thermes-Magnoac;65;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;6558;75;162;240;Non vérifié
+65443;Thuy;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;691;105;240;18;Non vérifié
+65444;Tibiran-Jaunac;65;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;8935;75;162;327;Non vérifié
+65445;Tilhouse;65;eau potable;155599;2023;49,4;6,0;5,9;66,2;non conforme;15330;15330;187;373;225;Sans anomalie apparente
+65446;Tostat;65;eau potable;155650;2024;81,5;1,4;5,9;66,2;conforme;118894;5193;26;87;550;Non vérifié
+65447;Tournay;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;52303;105;240;1362;Non vérifié
+65448;Tournous-Darré;65;eau potable;155641;2024;89,0;0,4;3,6;65,7;conforme;63027;852;31;47;76;Non vérifié
+65449;Tournous-Devant;65;eau potable;155658;2024;65,4;1,5;2,8;65,6;non conforme;46538;2977;94;197;87;Non vérifié
+65450;Tramezaïgues;65;eau potable;155602;2024;50,0;14,8;14,8;68,0;non conforme;3781;3781;345;366;30;Non vérifié
+65451;Trébons;65;eau potable;155636;2024;65,6;2,9;5,6;66,1;non conforme;100155;20883;75;190;760;Non vérifié
+65452;Trie-sur-Baïse;65;eau potable;155641;2024;89,0;0,4;3,6;65,7;conforme;63027;11284;31;47;1006;Non vérifié
+65453;Troubat;65;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;2049;75;162;75;Non vérifié
+65454;Trouley-Labarthe;65;eau potable;155641;2024;89,0;0,4;3,6;65,7;conforme;63027;1122;31;47;100;Non vérifié
+65456;Uglas;65;eau potable;155645;2024;81,2;0,7;2,9;65,6;conforme;52378;5014;50;97;274;Non vérifié
+65457;Ugnouas;65;eau potable;155650;2024;81,5;1,4;5,9;66,2;conforme;118894;821;26;87;87;Non vérifié
+65459;Uzer;65;eau potable;155646;2024;60,2;2,2;3,4;65,7;non conforme;530783;3955;105;240;103;Non vérifié
+65460;Vic-en-Bigorre;65;eau potable;155609;2024;72,5;4,4;11,5;67,3;conforme;83512;83512;47;139;4845;Non vérifié
+65461;Vidou;65;eau potable;155641;2024;89,0;0,4;3,6;65,7;conforme;63027;886;31;47;79;Non vérifié
+65462;Vidouze;65;eau potable;155611;2024;71,3;1,1;2,7;65,5;conforme;7227;7227;86;148;230;Non vérifié
+65464;Vielle-Adour;65;eau potable : SIA Tarbes Sud;155654;2024;92,1;1,2;13,9;67,8;conforme;86325;3051;17;77;479;Non vérifié
+65465;Vielle-Aure;65;eau potable;155614;2024;72,3;19,1;49,8;75,0;non conforme;37298;37298;324;143;315;Non vérifié
+65468;Vieuzos;65;eau potable;155658;2024;65,4;1,5;2,8;65,6;non conforme;46538;1745;94;197;51;Non vérifié
+65470;Viger;65;eau potable : régie;314854;2024;67,7;10,9;22,8;69,6;non conforme;1366376;3938;77;175;141;Non vérifié
+65471;Vignec;65;eau potable;155621;2024;94,1;6,5;103,4;85,0;conforme;10059;10059;144;23;191;Non vérifié
+65473;Villelongue;65;eau potable;155622;2024;100,0;0,0;300,0;85,0;conforme;0;0;0;0;347;Non vérifié
+65474;Villembits;65;eau potable;155641;2024;89,0;0,4;3,6;65,7;conforme;63027;1223;31;47;109;Non vérifié
+65475;Villemur;65;eau potable : Haute Garonne + Hautes Pyrénées et le Gers;89186;2024;69,0;1,7;3,8;65,8;conforme;2660704;1831;75;162;67;Non vérifié
+65476;Villenave-près-Béarn;65;eau potable : Secteur Nord : Ex Territoire Lembeye et enclaves;280194;2024;73,4;1,3;3,7;65,7;conforme;168908;1966;77;143;70;Non vérifié
+65477;Villenave-près-Marsac;65;eau potable;155650;2024;81,5;1,4;5,9;66,2;conforme;118894;1039;26;87;110;Non vérifié
+65479;Visker;65;eau potable;155633;2024;69,1;3,0;6,8;66,4;conforme;226052;7900;60;163;362;Non vérifié
+65481;Barèges;65;eau potable;155628;2024;20,4;48,6;12,5;67,5;non conforme;278502;278502;6008;1473;127;Non vérifié
+65482;Cantaous;65;eau potable;155631;2024;74,0;3,7;10,4;67,1;conforme;13505;13505;87;130;424;Non vérifié

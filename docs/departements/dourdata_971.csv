@@ -1,0 +1,42 @@
+﻿# DourData — eau perdue par les réseaux d'eau potable (indicateurs SISPEA)
+# Périmètre : Département 971
+# Source : SISPEA — Système d'Information des Services Publics d'Eau et d'Assainissement, via data.gouv.fr / services.eaufrance.fr
+# Licence : Licence Ouverte 2.0 (Etalab)
+# Millésime des données : 2024 (année la plus récente disponible par commune)
+# Date de génération de l'export : 2026-07-05
+# Méthodologie et code : https://github.com/btaverne/dourdata
+# Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
+# Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
+97101;Les Abymes;971;eau potable : Eau potable -régie;303894;2024;40,0;42,5;28,3;70,7;non conforme;42699708;6640760;346;549;52586;Non vérifié
+97102;Anse-Bertrand;971;eau potable : Eau potable -régie;303894;2024;40,0;42,5;28,3;70,7;non conforme;42699708;518648;346;549;4107;Non vérifié
+97103;Baie-Mahault;971;eau potable : Eau potable -régie;303894;2024;40,0;42,5;28,3;70,7;non conforme;42699708;3961523;346;549;31370;Non vérifié
+97104;Baillif;971;eau potable : Eau potable -régie;303894;2024;40,0;42,5;28,3;70,7;non conforme;42699708;647457;346;549;5127;Non vérifié
+97105;Basse-Terre;971;eau potable : Eau potable -régie;303894;2024;40,0;42,5;28,3;70,7;non conforme;42699708;1259428;346;549;9973;Non vérifié
+97106;Bouillante;971;eau potable : Territoires de Bouillante,Vieux-Habitants,Vieux-Fort;277674;2024;48,2;20,4;19,0;68,8;non conforme;1204763;515179;210;392;6729;Non vérifié
+97107;Capesterre-Belle-Eau;971;eau potable : Eau potable -régie;303894;2024;40,0;42,5;28,3;70,7;non conforme;42699708;2258964;346;549;17888;Non vérifié
+97108;Capesterre-de-Marie-Galante;971;eau potable;209341;2024;64,3;4,5;8,0;66,6;non conforme;394430;120041;102;204;3226;Non vérifié
+97109;Gourbeyre;971;eau potable : Eau potable -régie;303894;2024;40,0;42,5;28,3;70,7;non conforme;42699708;961904;346;549;7617;Non vérifié
+97110;La Désirade;971;eau potable : Eau potable -régie;303894;2024;40,0;42,5;28,3;70,7;non conforme;42699708;179323;346;549;1420;Non vérifié
+97111;Deshaies;971;eau potable : Eau potable -régie;303894;2024;40,0;42,5;28,3;70,7;non conforme;42699708;502104;346;549;3976;Non vérifié
+97112;Grand-Bourg;971;eau potable;209341;2024;64,3;4,5;8,0;66,6;non conforme;394430;179094;102;204;4813;Non vérifié
+97113;Le Gosier;971;eau potable : Eau potable -régie;303894;2024;40,0;42,5;28,3;70,7;non conforme;42699708;3464848;346;549;27437;Non vérifié
+97114;Goyave;971;eau potable : Eau potable -régie;303894;2024;40,0;42,5;28,3;70,7;non conforme;42699708;982488;346;549;7780;Non vérifié
+97115;Lamentin;971;eau potable : Territoire du lamentin;216641;2024;60,1;16,4;24,7;69,9;non conforme;877188;877188;128;242;18804;Non vérifié
+97116;Morne-à-l'Eau;971;eau potable : Eau potable -régie;303894;2024;40,0;42,5;28,3;70,7;non conforme;42699708;2031780;346;549;16089;Non vérifié
+97117;Le Moule;971;eau potable : Eau potable -régie;303894;2024;40,0;42,5;28,3;70,7;non conforme;42699708;2898087;346;549;22949;Non vérifié
+97118;Petit-Bourg;971;eau potable : Eau potable -régie;303894;2024;40,0;42,5;28,3;70,7;non conforme;42699708;3101530;346;549;24560;Non vérifié
+97119;Petit-Canal;971;eau potable : Eau potable -régie;303894;2024;40,0;42,5;28,3;70,7;non conforme;42699708;1051313;346;549;8325;Non vérifié
+97120;Pointe-à-Pitre;971;eau potable : Eau potable -régie;303894;2024;40,0;42,5;28,3;70,7;non conforme;42699708;1840713;346;549;14576;Non vérifié
+97121;Pointe-Noire;971;eau potable : Territoire de Pointe-Noire;216635;2024;43,6;23,0;17,7;68,5;non conforme;564984;564984;257;473;6012;Non vérifié
+97122;Port-Louis;971;eau potable : Eau potable -régie;303894;2024;40,0;42,5;28,3;70,7;non conforme;42699708;714135;346;549;5655;Non vérifié
+97124;Saint-Claude;971;eau potable : Eau potable -régie;303894;2024;40,0;42,5;28,3;70,7;non conforme;42699708;1376493;346;549;10900;Non vérifié
+97125;Saint-François;971;eau potable : Eau potable -régie;303894;2024;40,0;42,5;28,3;70,7;non conforme;42699708;1660632;346;549;13150;Non vérifié
+97126;Saint-Louis;971;eau potable;209341;2024;64,3;4,5;8,0;66,6;non conforme;394430;95296;102;204;2561;Non vérifié
+97128;Sainte-Anne;971;eau potable : Eau potable -régie;303894;2024;40,0;42,5;28,3;70,7;non conforme;42699708;3096226;346;549;24518;Non vérifié
+97129;Sainte-Rose;971;eau potable : Eau potable -régie;303894;2024;40,0;42,5;28,3;70,7;non conforme;42699708;2257702;346;549;17878;Non vérifié
+97130;Terre-de-Bas;971;eau potable : Eau potable -régie;303894;2024;40,0;42,5;28,3;70,7;non conforme;42699708;118328;346;549;937;Non vérifié
+97131;Terre-de-Haut;971;eau potable : Eau potable -régie;303894;2024;40,0;42,5;28,3;70,7;non conforme;42699708;194982;346;549;1544;Non vérifié
+97132;Trois-Rivières;971;eau potable : Eau potable -régie;303894;2024;40,0;42,5;28,3;70,7;non conforme;42699708;980341;346;549;7763;Non vérifié
+97133;Vieux-Fort;971;eau potable : Territoires de Bouillante,Vieux-Habitants,Vieux-Fort;277674;2024;48,2;20,4;19,0;68,8;non conforme;1204763;139035;210;392;1816;Non vérifié
+97134;Vieux-Habitants;971;eau potable : Territoires de Bouillante,Vieux-Habitants,Vieux-Fort;277674;2024;48,2;20,4;19,0;68,8;non conforme;1204763;550550;210;392;7191;Non vérifié

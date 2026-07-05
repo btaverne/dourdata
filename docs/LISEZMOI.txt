@@ -1,0 +1,51 @@
+DourData — exports CSV des données de performance des réseaux d'eau potable
+==========================================================================
+
+Source          : SISPEA — Système d'Information des Services Publics d'Eau et d'Assainissement, via data.gouv.fr / services.eaufrance.fr
+Licence         : Licence Ouverte 2.0 (Etalab)
+Millésime       : 2020–2024 (année la plus récente disponible par commune)
+Généré le       : 2026-07-05
+Méthodologie    : https://github.com/btaverne/dourdata
+
+Format des fichiers
+--------------------------------------------------------------------------
+Séparateur de colonnes : point-virgule (;)
+Séparateur décimal     : virgule (,)   — convention française
+Encodage               : UTF-8 avec BOM (ouverture directe dans Excel FR)
+Chaque fichier débute par des lignes de métadonnées préfixées par #.
+
+Fichiers
+--------------------------------------------------------------------------
+dourdata_national.csv          : toutes les communes couvertes
+departements/dourdata_<dep>.csv : une commune par ligne, filtré par département
+
+Colonnes
+--------------------------------------------------------------------------
+- Code INSEE
+- Commune
+- Département
+- Service d'eau
+- Identifiant SISPEA service
+- Année des données
+- Rendement réseau P104.3 (%)
+- Indice linéaire de pertes P106.3 (m3/km/j)
+- Indice linéaire de consommation (m3/km/j)
+- Rendement seuil décret fuites (%)
+- Conformité décret fuites
+- Volume de pertes du service (m3/an)
+- Volume de pertes estimé commune (m3/an, ventilé prorata population)
+- Litres perdus par habitant et par jour
+- Jours de consommation équivalents
+- Population INSEE
+- Avis qualité SISPEA (rendement)
+
+Avertissements de lecture
+--------------------------------------------------------------------------
+- Les indicateurs sont mesurés à l'échelle du SERVICE d'eau, pas de la
+  commune : les communes d'un même service partagent les mêmes ratios.
+- Le « volume de pertes estimé commune » est le volume du service réparti
+  au prorata de la population : c'est une estimation, pas une mesure.
+- La conformité au décret fuites est indicative (cas des zones de
+  répartition des eaux non traité ; verdict prudent).
+- L'avis qualité « Non vérifié » signale une donnée récente pas encore
+  validée par les services de l'État (fréquent sur le dernier millésime).

@@ -1,0 +1,271 @@
+﻿# DourData — eau perdue par les réseaux d'eau potable (indicateurs SISPEA)
+# Périmètre : Département 19
+# Source : SISPEA — Système d'Information des Services Publics d'Eau et d'Assainissement, via data.gouv.fr / services.eaufrance.fr
+# Licence : Licence Ouverte 2.0 (Etalab)
+# Millésime des données : 2020–2024 (année la plus récente disponible par commune)
+# Date de génération de l'export : 2026-07-05
+# Méthodologie et code : https://github.com/btaverne/dourdata
+# Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
+# Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
+19001;Affieux;19;eau potable;179448;2024;93,4;0,1;1,6;65,3;conforme;1186;1186;8;22;385;Non vérifié
+19002;Aix;19;eau potable;179736;2024;87,0;0,3;1,8;65,4;conforme;29434;3510;27;60;352;Non vérifié
+19003;Albignac;19;eau potable;179742;2024;73,1;0,8;2,2;65,4;conforme;308720;4816;56;132;236;Non vérifié
+19004;Albussac;19;eau potable;179742;2024;73,1;0,8;2,2;65,4;conforme;308720;14795;56;132;725;Non vérifié
+19005;Allassac;19;eau potable;179745;2024;86,1;1,4;8,9;66,8;conforme;950460;38231;26;57;4081;Non vérifié
+19006;Alleyrat;19;eau potable;179453;2024;65,5;0,8;1,5;65,3;conforme;5031;5031;141;198;98;Non vérifié
+19007;Altillac;19;eau potable;179742;2024;73,1;0,8;2,2;65,4;conforme;308720;16816;56;132;824;Non vérifié
+19009;Les Angles-sur-Corrèze;19;eau potable : Syndicat intercommunal des Eaux des Deux Vallées;179755;2024;70,4;0,8;1,8;65,4;conforme;185420;1798;39;165;125;Non vérifié
+19010;Argentat-sur-Dordogne;19;eau potable : Syndicat intercommunal des Eaux des Deux Vallées;179755;2024;70,4;0,8;1,8;65,4;conforme;185420;41446;39;165;2881;Non vérifié
+19011;Arnac-Pompadour;19;eau potable : affermage;179725;2024;79,2;0,8;3,1;65,6;conforme;185397;20732;47;94;1205;Non vérifié
+19012;Astaillac;19;eau potable;179742;2024;73,1;0,8;2,2;65,4;conforme;308720;4163;56;132;204;Non vérifié
+19013;Aubazines;19;eau potable;179742;2024;73,1;0,8;2,2;65,4;conforme;308720;17469;56;132;856;Non vérifié
+19014;Auriac;19;eau potable;179739;2024;78,5;0,6;2,3;65,5;conforme;44008;3825;49;98;216;Non vérifié
+19015;Ayen;19;eau potable;179745;2024;86,1;1,4;8,9;66,8;conforme;950460;6717;26;57;717;Non vérifié
+19016;Bar;19;eau potable;179748;2024;92,1;0,1;1,8;65,4;conforme;19564;1016;9;21;311;Non vérifié
+19017;Bassignac-le-Bas;19;eau potable;179742;2024;73,1;0,8;2,2;65,4;conforme;308720;1633;56;132;80;Non vérifié
+19018;Bassignac-le-Haut;19;eau potable;179739;2024;78,5;0,6;2,3;65,5;conforme;44008;2834;49;98;160;Non vérifié
+19019;Beaulieu-sur-Dordogne;19;eau potable;179742;2024;73,1;0,8;2,2;65,4;conforme;308720;26733;56;132;1310;Non vérifié
+19020;Beaumont;19;eau potable;179748;2024;92,1;0,1;1,8;65,4;conforme;19564;372;9;21;114;Non vérifié
+19021;Bellechassagne;19;eau potable;179467;2024;62,0;0,8;1,4;65,3;non conforme;2894;2894;78;211;102;Non vérifié
+19022;Benayes;19;eau potable : affermage;179725;2024;79,2;0,8;3,1;65,6;conforme;185397;3854;47;94;224;Non vérifié
+19023;Beynat;19;eau potable;179742;2024;73,1;0,8;2,2;65,4;conforme;308720;26897;56;132;1318;Non vérifié
+19024;Beyssac;19;eau potable : affermage;179725;2024;79,2;0,8;3,1;65,6;conforme;185397;8275;47;94;481;Non vérifié
+19025;Beyssenac;19;eau potable : affermage;179725;2024;79,2;0,8;3,1;65,6;conforme;185397;6366;47;94;370;Non vérifié
+19026;Bilhac;19;eau potable;179742;2024;73,1;0,8;2,2;65,4;conforme;308720;4939;56;132;242;Non vérifié
+19027;Bonnefond;19;eau potable;179469;2024;91,6;0,2;2,5;65,5;conforme;1091;1091;26;29;115;Non vérifié
+19028;Bort-les-Orgues;19;eau potable;179470;2024;62,7;6,1;10,3;67,1;non conforme;103911;103911;115;262;2483;Non vérifié
+19029;Branceilles;19;eau potable;179742;2024;73,1;0,8;2,2;65,4;conforme;308720;5694;56;132;279;Non vérifié
+19030;Brignac-la-Plaine;19;eau potable;179745;2024;86,1;1,4;8,9;66,8;conforme;950460;9153;26;57;977;Non vérifié
+19031;Brive-la-Gaillarde;19;eau potable;179745;2024;86,1;1,4;8,9;66,8;conforme;950460;441191;26;57;47095;Non vérifié
+19033;Bugeat;19;eau potable;179475;2024;94,9;0,3;5,3;66,1;conforme;4538;4538;17;21;719;Non vérifié
+19034;Camps-Saint-Mathurin-Léobazel;19;eau potable;179476;2024;74,6;0,5;1,5;65,3;conforme;8212;3082;41;123;206;Non vérifié
+19035;Chabrignac;19;eau potable : affermage;179725;2024;79,2;0,8;3,1;65,6;conforme;185397;9325;47;94;542;Non vérifié
+19036;Chamberet;19;eau potable;179748;2024;92,1;0,1;1,8;65,4;conforme;19564;4681;9;21;1433;Non vérifié
+19037;Chamboulive;19;eau potable;179748;2024;92,1;0,1;1,8;65,4;conforme;19564;3773;9;21;1155;Non vérifié
+19038;Chameyrat;19;eau potable : Syndicat mixte des eaux du Maumont;179737;2024;86,8;0,4;2,8;65,6;conforme;75774;5301;10;52;1481;Non vérifié
+19039;Champagnac-la-Noaille;19;eau potable : Syndicat intercommunal des Eaux des Deux Vallées;179755;2024;70,4;0,8;1,8;65,4;conforme;185420;3409;39;165;237;Non vérifié
+19040;Champagnac-la-Prune;19;eau potable : Syndicat intercommunal des Eaux des Deux Vallées;179755;2024;70,4;0,8;1,8;65,4;conforme;185420;2158;39;165;150;Non vérifié
+19041;Chanac-les-Mines;19;eau potable : Syndicat intercommunal des Eaux des Deux Vallées;179755;2024;70,4;0,8;1,8;65,4;conforme;185420;6287;39;165;437;Non vérifié
+19042;Chanteix;19;eau potable : Syndicat mixte des eaux du Maumont;179737;2024;86,8;0,4;2,8;65,6;conforme;75774;2133;10;52;596;Non vérifié
+19043;La Chapelle-aux-Brocs;19;eau potable;179745;2024;86,1;1,4;8,9;66,8;conforme;950460;4197;26;57;448;Non vérifié
+19044;La Chapelle-aux-Saints;19;eau potable;179742;2024;73,1;0,8;2,2;65,4;conforme;308720;5245;56;132;257;Non vérifié
+19045;La Chapelle-Saint-Géraud;19;eau potable;179490;2024;88,6;0,4;3,1;65,6;conforme;1752;1752;24;47;196;Non vérifié
+19047;Chartrier-Ferrière;19;eau potable;179745;2024;86,1;1,4;8,9;66,8;conforme;950460;3494;26;57;373;Non vérifié
+19048;Le Chastang;19;eau potable : Syndicat mixte des eaux du Maumont;179737;2024;86,8;0,4;2,8;65,6;conforme;75774;1249;10;52;349;Non vérifié
+19049;Chasteaux;19;eau potable;179745;2024;86,1;1,4;8,9;66,8;conforme;950460;7064;26;57;754;Non vérifié
+19050;Chauffour-sur-Vell;19;eau potable;179742;2024;73,1;0,8;2,2;65,4;conforme;308720;8326;56;132;408;Non vérifié
+19052;Chavanac;19;eau potable;179499;2024;100,0;0,0;1,5;65,3;conforme;0;0;0;0;52;Non vérifié
+19053;Chaveroche;19;eau potable;179500;2024;72,9;0,4;1,2;65,2;conforme;3942;3942;40;124;268;Non vérifié
+19054;Chenailler-Mascheix;19;eau potable;179742;2024;73,1;0,8;2,2;65,4;conforme;308720;4388;56;132;215;Non vérifié
+19055;Chirac-Bellevue;19;eau potable;179741;2024;76,4;0,5;1,8;65,4;conforme;55768;4554;46;106;272;Non vérifié
+19056;Clergoux;19;eau potable : Syndicat intercommunal des Eaux des Deux Vallées;179755;2024;70,4;0,8;1,8;65,4;conforme;185420;5869;39;165;408;Non vérifié
+19057;Collonges-la-Rouge;19;eau potable;179742;2024;73,1;0,8;2,2;65,4;conforme;308720;9755;56;132;478;Non vérifié
+19058;Combressol;19;eau potable;179503;2024;90,2;0,2;1,8;65,4;conforme;2086;2086;15;40;386;Non vérifié
+19059;Concèze;19;eau potable : affermage;179725;2024;79,2;0,8;3,1;65,6;conforme;185397;6469;47;94;376;Non vérifié
+19060;Condat-sur-Ganaveix;19;eau potable;179506;2023;75,8;1,1;3,4;65,7;conforme;20581;20581;88;119;643;Sans anomalie apparente
+19061;Cornil;19;eau potable : Syndicat mixte des eaux du Maumont;179737;2024;86,8;0,4;2,8;65,6;conforme;75774;4514;10;52;1261;Non vérifié
+19062;Corrèze;19;eau potable : Syndicat - Production-Transfert-Distribution.;179749;2024;67,9;2,9;6,1;66,2;conforme;702844;34963;82;214;1171;Non vérifié
+19063;Cosnac;19;eau potable;179745;2024;86,1;1,4;8,9;66,8;conforme;950460;28517;26;57;3044;Non vérifié
+19064;Couffy-sur-Sarsonne;19;eau potable;179736;2024;87,0;0,3;1,8;65,4;conforme;29434;718;27;60;72;Non vérifié
+19065;Courteix;19;eau potable;179736;2024;87,0;0,3;1,8;65,4;conforme;29434;628;27;60;63;Non vérifié
+19066;Cublac;19;eau potable : CEPE;331614;2024;78,8;1,2;4,5;65,9;conforme;431167;31577;50;104;1728;Non vérifié
+19067;Curemonte;19;eau potable;179742;2024;73,1;0,8;2,2;65,4;conforme;308720;4469;56;132;219;Non vérifié
+19068;Dampniat;19;eau potable;179745;2024;86,1;1,4;8,9;66,8;conforme;950460;6708;26;57;716;Non vérifié
+19069;Darazac;19;eau potable;179739;2024;78,5;0,6;2,3;65,5;conforme;44008;2727;49;98;154;Non vérifié
+19070;Darnets;19;eau potable;179514;2024;90,8;0,2;1,6;65,3;conforme;2190;2190;20;44;303;Non vérifié
+19071;Davignac;19;eau potable;179516;2024;76,8;0,4;1,4;65,3;conforme;4059;4059;47;105;235;Non vérifié
+19072;Donzenac;19;eau potable;179745;2024;86,1;1,4;8,9;66,8;conforme;950460;25603;26;57;2733;Non vérifié
+19073;Égletons;19;eau potable;179519;2024;86,0;1,7;10,6;67,1;conforme;56366;56366;36;62;4341;Non vérifié
+19074;L' Église-aux-Bois;19;eau potable;179520;2024;62,0;0,8;1,3;65,3;non conforme;496;496;27;231;50;Non vérifié
+19075;Espagnac;19;eau potable : Syndicat intercommunal des Eaux des Deux Vallées;179755;2024;70,4;0,8;1,8;65,4;conforme;185420;5481;39;165;381;Non vérifié
+19076;Espartignac;19;eau potable;179523;2024;81,9;0,8;3,6;65,7;conforme;4672;4672;31;82;407;Non vérifié
+19077;Estivals;19;eau potable;179745;2024;86,1;1,4;8,9;66,8;conforme;950460;1265;26;57;135;Non vérifié
+19078;Estivaux;19;eau potable;179747;2024;80,2;0,8;3,1;65,6;conforme;58400;4825;33;110;403;Non vérifié
+19079;Eyburie;19;eau potable;179748;2024;92,1;0,1;1,8;65,4;conforme;19564;1588;9;21;486;Non vérifié
+19080;Eygurande;19;eau potable;179736;2024;87,0;0,3;1,8;65,4;conforme;29434;6760;27;60;678;Non vérifié
+19081;Eyrein;19;eau potable : Syndicat - Production-Transfert-Distribution.;179749;2024;67,9;2,9;6,1;66,2;conforme;702844;15347;82;214;514;Non vérifié
+19082;Favars;19;eau potable : Syndicat mixte des eaux du Maumont;179737;2024;86,8;0,4;2,8;65,6;conforme;75774;4013;10;52;1121;Non vérifié
+19083;Feyt;19;eau potable;179736;2024;87,0;0,3;1,8;65,4;conforme;29434;1097;27;60;110;Non vérifié
+19084;Forgès;19;eau potable : Syndicat intercommunal des Eaux des Deux Vallées;179755;2024;70,4;0,8;1,8;65,4;conforme;185420;3783;39;165;263;Non vérifié
+19085;Gimel-les-Cascades;19;eau potable : Syndicat intercommunal des Eaux des Deux Vallées;179755;2024;70,4;0,8;1,8;65,4;conforme;185420;10861;39;165;755;Non vérifié
+19086;Goulles;19;eau potable;179532;2023;82,6;0,6;3,0;65,6;conforme;8015;5911;50;86;323;Sans anomalie apparente
+19087;Gourdon-Murat;19;eau potable;179533;2024;68,7;0,5;1,2;65,2;conforme;2017;2017;67;156;83;Non vérifié
+19088;Grandsaigne;19;eau potable;179534;2024;49,1;1,1;1,1;65,2;non conforme;1726;1726;103;372;46;Non vérifié
+19089;Gros-Chastang;19;eau potable : Syndicat intercommunal des Eaux des Deux Vallées;179755;2024;70,4;0,8;1,8;65,4;conforme;185420;2604;39;165;181;Non vérifié
+19090;Gumond;19;eau potable : Syndicat intercommunal des Eaux des Deux Vallées;179755;2024;70,4;0,8;1,8;65,4;conforme;185420;1424;39;165;99;Non vérifié
+19091;Hautefage;19;eau potable;179537;2024;74,7;0,6;1,9;65,4;conforme;6673;6673;58;117;313;Non vérifié
+19093;Jugeals-Nazareth;19;eau potable;179745;2024;86,1;1,4;8,9;66,8;conforme;950460;8834;26;57;943;Non vérifié
+19094;Juillac;19;eau potable : affermage;179725;2024;79,2;0,8;3,1;65,6;conforme;185397;19837;47;94;1153;Non vérifié
+19095;Lacelle;19;eau potable;179540;2024;87,7;0,6;4,6;65,9;conforme;1971;1971;39;48;137;Non vérifié
+19096;Ladignac-sur-Rondelles;19;eau potable : Syndicat intercommunal des Eaux des Deux Vallées;179755;2024;70,4;0,8;1,8;65,4;conforme;185420;5812;39;165;404;Non vérifié
+19097;Lafage-sur-Sombre;19;eau potable;179543;2024;57,8;1,0;1,4;65,3;non conforme;7118;7118;142;304;137;Non vérifié
+19098;Lagarde-Marc-la-Tour;19;eau potable : Syndicat intercommunal des Eaux des Deux Vallées;179755;2024;70,4;0,8;1,8;65,4;conforme;185420;13350;39;165;928;Non vérifié
+19099;Lagleygeolle;19;eau potable;179742;2024;73,1;0,8;2,2;65,4;conforme;308720;4592;56;132;225;Non vérifié
+19100;Lagraulière;19;eau potable : Syndicat - Production-Transfert-Distribution.;179749;2024;67,9;2,9;6,1;66,2;conforme;702844;35739;82;214;1197;Non vérifié
+19101;Laguenne-sur-Avalouze;19;eau potable : Syndicat intercommunal des Eaux des Deux Vallées;179755;2024;70,4;0,8;1,8;65,4;conforme;185420;22687;39;165;1577;Non vérifié
+19102;Lamazière-Basse;19;eau potable;179550;2024;65,5;0,4;0,7;65,1;conforme;6735;6735;66;216;281;Non vérifié
+19103;Lamazière-Haute;19;eau potable;179736;2024;87,0;0,3;1,8;65,4;conforme;29434;648;27;60;65;Non vérifié
+19104;Lamongerie;19;eau potable;179552;2024;100,0;0,0;3,5;65,7;conforme;0;0;0;0;124;Non vérifié
+19105;Lanteuil;19;eau potable;179742;2024;73,1;0,8;2,2;65,4;conforme;308720;10551;56;132;517;Non vérifié
+19106;Lapleau;19;eau potable;179554;2024;79,9;0,5;1,8;65,4;conforme;6607;6607;46;102;393;Non vérifié
+19107;Larche;19;eau potable;179745;2024;86,1;1,4;8,9;66,8;conforme;950460;15411;26;57;1645;Non vérifié
+19108;Laroche-près-Feyt;19;eau potable;179736;2024;87,0;0,3;1,8;65,4;conforme;29434;798;27;60;80;Non vérifié
+19109;Lascaux;19;eau potable : affermage;179725;2024;79,2;0,8;3,1;65,6;conforme;185397;3923;47;94;228;Non vérifié
+19110;Latronche;19;eau potable;179741;2024;76,4;0,5;1,8;65,4;conforme;55768;1875;46;106;112;Non vérifié
+19111;Laval-sur-Luzège;19;eau potable;179556;2024;64,5;0,4;0,8;65,2;non conforme;2808;2808;75;188;103;Non vérifié
+19113;Liginiac;19;eau potable;179741;2024;76,4;0,5;1,8;65,4;conforme;55768;10899;46;106;651;Non vérifié
+19114;Lignareix;19;eau potable;179736;2024;87,0;0,3;1,8;65,4;conforme;29434;1615;27;60;162;Non vérifié
+19115;Ligneyrac;19;eau potable;179742;2024;73,1;0,8;2,2;65,4;conforme;308720;5918;56;132;290;Non vérifié
+19116;Liourdres;19;eau potable;179742;2024;73,1;0,8;2,2;65,4;conforme;308720;5530;56;132;271;Non vérifié
+19117;Lissac-sur-Couze;19;eau potable;179745;2024;86,1;1,4;8,9;66,8;conforme;950460;6605;26;57;705;Non vérifié
+19118;Le Lonzac;19;eau potable;179748;2024;92,1;0,1;1,8;65,4;conforme;19564;2688;9;21;823;Non vérifié
+19119;Lostanges;19;eau potable;179742;2024;73,1;0,8;2,2;65,4;conforme;308720;3102;56;132;152;Non vérifié
+19120;Louignac;19;eau potable;179745;2024;86,1;1,4;8,9;66,8;conforme;950460;2323;26;57;248;Non vérifié
+19121;Lubersac;19;eau potable : affermage;179725;2024;79,2;0,8;3,1;65,6;conforme;185397;38642;47;94;2246;Non vérifié
+19122;Madranges;19;eau potable;179748;2024;92,1;0,1;1,8;65,4;conforme;19564;542;9;21;166;Non vérifié
+19123;Malemort;19;eau potable;179745;2024;86,1;1,4;8,9;66,8;conforme;950460;77184;26;57;8239;Non vérifié
+19124;Mansac;19;eau potable;179745;2024;86,1;1,4;8,9;66,8;conforme;950460;14558;26;57;1554;Non vérifié
+19125;Marcillac-la-Croisille;19;eau potable : Syndicat intercommunal des Eaux des Deux Vallées;179755;2024;70,4;0,8;1,8;65,4;conforme;185420;12329;39;165;857;Non vérifié
+19126;Marcillac-la-Croze;19;eau potable;179742;2024;73,1;0,8;2,2;65,4;conforme;308720;3877;56;132;190;Non vérifié
+19129;Masseret;19;eau potable;179568;2024;80,6;0,8;3,5;65,7;conforme;12209;12209;49;84;678;Non vérifié
+19130;Maussac;19;eau potable;179570;2024;94,8;0,1;1,8;65,4;conforme;1072;1072;6;21;452;Non vérifié
+19131;Meilhards;19;eau potable;179572;2024;65,0;1,0;;;non calculable;21535;21535;108;167;545;Non vérifié
+19132;Ménoire;19;eau potable;179742;2024;73,1;0,8;2,2;65,4;conforme;308720;2694;56;132;132;Non vérifié
+19133;Mercoeur;19;eau potable;179575;2024;85,7;0,3;1,8;65,4;conforme;2454;2454;29;61;228;Non vérifié
+19134;Merlines;19;eau potable;179736;2024;87,0;0,3;1,8;65,4;conforme;29434;7388;27;60;741;Non vérifié
+19135;Mestes;19;eau potable;179579;2024;73,6;0,6;1,8;65,4;conforme;3942;3942;32;123;341;Non vérifié
+19136;Meymac;19;eau potable;179581;2024;83,9;0,6;3,2;65,6;conforme;23621;23621;27;69;2389;Non vérifié
+19137;Meyrignac-l'Église;19;eau potable;179582;2024;90,9;0,3;3,3;65,7;conforme;766;766;33;33;64;Non vérifié
+19138;Meyssac;19;eau potable;179742;2024;73,1;0,8;2,2;65,4;conforme;308720;26733;56;132;1310;Non vérifié
+19139;Millevaches;19;eau potable;179584;2024;73,3;0,9;2,4;65,5;conforme;2214;2214;77;140;79;Non vérifié
+19140;Monceaux-sur-Dordogne;19;eau potable;179587;2020;68,3;1,9;4,0;65,8;conforme;28434;28434;124;172;628;Sans anomalie apparente
+19141;Monestier-Merlines;19;eau potable;179736;2024;87,0;0,3;1,8;65,4;conforme;29434;3011;27;60;302;Non vérifié
+19143;Montaignac-sur-Doustre;19;eau potable;179743;2024;70,7;0,9;2,3;65,5;conforme;41062;12255;53;145;633;Non vérifié
+19144;Montgibaud;19;eau potable : affermage;179725;2024;79,2;0,8;3,1;65,6;conforme;185397;4318;47;94;251;Non vérifié
+19145;Moustier-Ventadour;19;eau potable;179743;2024;70,7;0,9;2,3;65,5;conforme;41062;7841;53;145;405;Non vérifié
+19146;Naves;19;eau potable : Syndicat - Production-Transfert-Distribution.;179749;2024;67,9;2,9;6,1;66,2;conforme;702844;68105;82;214;2281;Non vérifié
+19147;Nespouls;19;eau potable;179745;2024;86,1;1,4;8,9;66,8;conforme;950460;5977;26;57;638;Non vérifié
+19148;Neuvic;19;eau potable;179741;2024;76,4;0,5;1,8;65,4;conforme;55768;26235;46;106;1567;Non vérifié
+19149;Neuville;19;eau potable;179742;2024;73,1;0,8;2,2;65,4;conforme;308720;4102;56;132;201;Non vérifié
+19150;Noailhac;19;eau potable;179742;2024;73,1;0,8;2,2;65,4;conforme;308720;7102;56;132;348;Non vérifié
+19151;Noailles;19;eau potable;179745;2024;86,1;1,4;8,9;66,8;conforme;950460;8853;26;57;945;Non vérifié
+19152;Nonards;19;eau potable;179742;2024;73,1;0,8;2,2;65,4;conforme;308720;9836;56;132;482;Non vérifié
+19153;Objat;19;eau potable;179745;2024;86,1;1,4;8,9;66,8;conforme;950460;34859;26;57;3721;Non vérifié
+19155;Orliac-de-Bar;19;eau potable;179748;2024;92,1;0,1;1,8;65,4;conforme;19564;836;9;21;256;Non vérifié
+19156;Palazinges;19;eau potable;179742;2024;73,1;0,8;2,2;65,4;conforme;308720;3306;56;132;162;Non vérifié
+19157;Palisse;19;eau potable;179601;2024;45,7;1,2;1,0;65,2;non conforme;19272;19272;236;434;224;Non vérifié
+19158;Pandrignes;19;eau potable : Syndicat intercommunal des Eaux des Deux Vallées;179755;2024;70,4;0,8;1,8;65,4;conforme;185420;2474;39;165;172;Non vérifié
+19159;Péret-Bel-Air;19;eau potable;179602;2024;60,1;2,3;3,5;65,7;non conforme;3358;3358;110;238;84;Non vérifié
+19160;Pérols-sur-Vézère;19;eau potable;179604;2024;57,4;1,0;1,3;65,3;non conforme;11651;11651;159;278;201;Non vérifié
+19161;Perpezac-le-Blanc;19;eau potable;179745;2024;86,1;1,4;8,9;66,8;conforme;950460;4000;26;57;427;Non vérifié
+19162;Perpezac-le-Noir;19;eau potable;179747;2024;80,2;0,8;3,1;65,6;conforme;58400;15205;33;110;1270;Non vérifié
+19163;Le Pescher;19;eau potable;179742;2024;73,1;0,8;2,2;65,4;conforme;308720;7449;56;132;365;Non vérifié
+19164;Peyrelevade;19;eau potable;179607;2024;72,3;1,1;2,8;65,6;conforme;23664;23664;79;161;824;Non vérifié
+19165;Peyrissac;19;eau potable;179748;2024;92,1;0,1;1,8;65,4;conforme;19564;434;9;21;133;Non vérifié
+19166;Pierrefitte;19;eau potable;179748;2024;92,1;0,1;1,8;65,4;conforme;19564;304;9;21;93;Non vérifié
+19169;Puy-d'Arnac;19;eau potable;179742;2024;73,1;0,8;2,2;65,4;conforme;308720;6041;56;132;296;Non vérifié
+19170;Queyssac-les-Vignes;19;eau potable;179742;2024;73,1;0,8;2,2;65,4;conforme;308720;4796;56;132;235;Non vérifié
+19171;Reygade;19;eau potable;179612;2024;92,8;0,2;2,4;65,5;conforme;1314;1314;21;31;175;Non vérifié
+19172;Rilhac-Treignac;19;eau potable;179748;2024;92,1;0,1;1,8;65,4;conforme;19564;382;9;21;117;Non vérifié
+19173;Rilhac-Xaintrie;19;eau potable;179739;2024;78,5;0,6;2,3;65,5;conforme;44008;5366;49;98;303;Non vérifié
+19174;La Roche-Canillac;19;eau potable : Syndicat intercommunal des Eaux des Deux Vallées;179755;2024;70,4;0,8;1,8;65,4;conforme;185420;1813;39;165;126;Non vérifié
+19175;Roche-le-Peyroux;19;eau potable;179741;2024;76,4;0,5;1,8;65,4;conforme;55768;1791;46;106;107;Non vérifié
+19176;Rosiers-d'Égletons;19;eau potable;179743;2024;70,7;0,9;2,3;65,5;conforme;41062;20967;53;145;1083;Non vérifié
+19177;Rosiers-de-Juillac;19;eau potable;179745;2024;86,1;1,4;8,9;66,8;conforme;950460;1658;26;57;177;Non vérifié
+19178;Sadroc;19;eau potable;179747;2024;80,2;0,8;3,1;65,6;conforme;58400;12092;33;110;1010;Non vérifié
+19179;Saillac;19;eau potable;179742;2024;73,1;0,8;2,2;65,4;conforme;308720;4367;56;132;214;Non vérifié
+19180;Saint-Angel;19;eau potable;179620;2024;69,1;2,0;;;non calculable;38135;38135;149;;702;Non vérifié
+19181;Saint-Augustin;19;eau potable;179748;2024;92,1;0,1;1,8;65,4;conforme;19564;1395;9;21;427;Non vérifié
+19182;Saint-Aulaire;19;eau potable;179745;2024;86,1;1,4;8,9;66,8;conforme;950460;7242;26;57;773;Non vérifié
+19184;Saint-Bazile-de-Meyssac;19;eau potable;179742;2024;73,1;0,8;2,2;65,4;conforme;308720;2898;56;132;142;Non vérifié
+19186;Saint-Bonnet-Elvert;19;eau potable : Syndicat intercommunal des Eaux des Deux Vallées;179755;2024;70,4;0,8;1,8;65,4;conforme;185420;3366;39;165;234;Non vérifié
+19187;Saint-Bonnet-la-Rivière;19;eau potable : affermage;179725;2024;79,2;0,8;3,1;65,6;conforme;185397;6693;47;94;389;Non vérifié
+19188;Saint-Bonnet-l'Enfantier;19;eau potable;179747;2024;80,2;0,8;3,1;65,6;conforme;58400;4909;33;110;410;Non vérifié
+19189;Saint-Bonnet-les-Tours-de-Merle;19;eau potable;179626;2021;81,6;0,2;1,1;65,2;conforme;613;613;41;68;41;Sans anomalie apparente
+19191;Saint-Cernin-de-Larche;19;eau potable;179745;2024;86,1;1,4;8,9;66,8;conforme;950460;6511;26;57;695;Non vérifié
+19192;Saint-Chamant;19;eau potable : Syndicat intercommunal des Eaux des Deux Vallées;179755;2024;70,4;0,8;1,8;65,4;conforme;185420;6733;39;165;468;Non vérifié
+19193;Saint-Cirgues-la-Loutre;19;eau potable;179739;2024;78,5;0,6;2,3;65,5;conforme;44008;3329;49;98;188;Non vérifié
+19194;Saint-Clément;19;eau potable : Syndicat - Production-Transfert-Distribution.;179749;2024;67,9;2,9;6,1;66,2;conforme;702844;41382;82;214;1386;Non vérifié
+19195;Saint-Cyprien;19;eau potable;179745;2024;86,1;1,4;8,9;66,8;conforme;950460;3532;26;57;377;Non vérifié
+19196;Saint-Cyr-la-Roche;19;eau potable;179745;2024;86,1;1,4;8,9;66,8;conforme;950460;4216;26;57;450;Non vérifié
+19198;Saint-Éloy-les-Tuileries;19;eau potable : affermage;179725;2024;79,2;0,8;3,1;65,6;conforme;185397;1961;47;94;114;Non vérifié
+19199;Saint-Étienne-aux-Clos;19;eau potable;179634;2024;63,6;0,0;2,5;65,5;non conforme;0;0;0;0;246;Non vérifié
+19200;Saint-Étienne-la-Geneste;19;eau potable;179741;2024;76,4;0,5;1,8;65,4;conforme;55768;1457;46;106;87;Non vérifié
+19201;Saint-Exupéry-les-Roches;19;eau potable;179635;2024;70,0;0,8;1,9;65,4;conforme;13280;13280;62;157;591;Non vérifié
+19202;Sainte-Féréole;19;eau potable : Syndicat mixte des eaux du Maumont;179737;2024;86,8;0,4;2,8;65,6;conforme;75774;7449;10;52;2081;Non vérifié
+19203;Sainte-Fortunade;19;eau potable : Syndicat intercommunal des Eaux des Deux Vallées;179755;2024;70,4;0,8;1,8;65,4;conforme;185420;25866;39;165;1798;Non vérifié
+19204;Saint-Fréjoux;19;eau potable;179639;2024;66,4;0,8;1,5;65,3;conforme;9557;9557;101;208;260;Non vérifié
+19205;Saint-Geniez-ô-Merle;19;eau potable;179640;2024;78,0;0,6;2,3;65,5;conforme;3460;3460;100;101;95;Non vérifié
+19206;Saint-Germain-Lavolps;19;eau potable;179641;2024;81,2;0,2;0,7;65,1;conforme;1200;1200;32;105;102;Non vérifié
+19207;Saint-Germain-les-Vergnes;19;eau potable : Syndicat mixte des eaux du Maumont;179737;2024;86,8;0,4;2,8;65,6;conforme;75774;4127;10;52;1153;Non vérifié
+19208;Saint-Hilaire-Foissac;19;eau potable;179643;2024;80,6;0,3;1,3;65,3;conforme;3682;3682;51;83;196;Non vérifié
+19209;Saint-Hilaire-les-Courbes;19;eau potable;179644;2024;69,3;0,4;0,9;65,2;conforme;5840;5840;90;170;178;Non vérifié
+19210;Saint-Hilaire-Luc;19;eau potable;179741;2024;76,4;0,5;1,8;65,4;conforme;55768;1088;46;106;65;Non vérifié
+19211;Saint-Hilaire-Peyroux;19;eau potable : Syndicat mixte des eaux du Maumont;179737;2024;86,8;0,4;2,8;65,6;conforme;75774;3487;10;52;974;Non vérifié
+19213;Saint-Jal;19;eau potable : Syndicat - Production-Transfert-Distribution.;179749;2024;67,9;2,9;6,1;66,2;conforme;702844;17735;82;214;594;Non vérifié
+19214;Saint-Julien-aux-Bois;19;eau potable;179739;2024;78,5;0,6;2,3;65,5;conforme;44008;7615;49;98;430;Non vérifié
+19215;Saint-Julien-le-Pèlerin;19;eau potable;179650;2024;81,3;0,5;2,0;65,4;conforme;2060;2060;49;90;115;Non vérifié
+19216;Saint-Julien-le-Vendômois;19;eau potable : affermage;179725;2024;79,2;0,8;3,1;65,6;conforme;185397;4026;47;94;234;Non vérifié
+19217;Saint-Julien-Maumont;19;eau potable;179742;2024;73,1;0,8;2,2;65,4;conforme;308720;3755;56;132;184;Non vérifié
+19219;Sainte-Marie-Lapanouze;19;eau potable;179741;2024;76,4;0,5;1,8;65,4;conforme;55768;1072;46;106;64;Non vérifié
+19220;Saint-Martial-de-Gimel;19;eau potable : Syndicat - Production-Transfert-Distribution.;179749;2024;67,9;2,9;6,1;66,2;conforme;702844;14600;82;214;489;Non vérifié
+19221;Saint-Martial-Entraygues;19;eau potable;179653;2024;63,5;0,9;1,5;65,3;non conforme;2464;2464;64;215;106;Non vérifié
+19222;Saint-Martin-la-Méanne;19;eau potable;179656;2024;62,8;1,1;1,9;65,4;non conforme;13189;13189;103;211;351;Non vérifié
+19223;Saint-Martin-Sepert;19;eau potable : affermage;179725;2024;79,2;0,8;3,1;65,6;conforme;185397;4645;47;94;270;Non vérifié
+19225;Saint-Merd-de-Lapleau;19;eau potable;179658;2024;75,9;0,4;1,1;65,2;conforme;3906;3906;52;130;205;Non vérifié
+19226;Saint-Merd-les-Oussines;19;eau potable;179660;2024;73,0;0,3;0,9;65,2;conforme;2935;2935;77;116;105;Non vérifié
+19227;Saint-Mexant;19;eau potable : Syndicat mixte des eaux du Maumont;179737;2024;86,8;0,4;2,8;65,6;conforme;75774;4761;10;52;1330;Non vérifié
+19228;Saint-Pantaléon-de-Lapleau;19;eau potable;179741;2024;76,4;0,5;1,8;65,4;conforme;55768;1055;46;106;63;Non vérifié
+19229;Saint-Pantaléon-de-Larche;19;eau potable;179745;2024;86,1;1,4;8,9;66,8;conforme;950460;47693;26;57;5091;Non vérifié
+19230;Saint-Pardoux-Corbier;19;eau potable : affermage;179725;2024;79,2;0,8;3,1;65,6;conforme;185397;6830;47;94;397;Non vérifié
+19231;Saint-Pardoux-la-Croisille;19;eau potable : Syndicat intercommunal des Eaux des Deux Vallées;179755;2024;70,4;0,8;1,8;65,4;conforme;185420;2532;39;165;176;Non vérifié
+19232;Saint-Pardoux-le-Neuf;19;eau potable;179736;2024;87,0;0,3;1,8;65,4;conforme;29434;828;27;60;83;Non vérifié
+19233;Saint-Pardoux-le-Vieux;19;eau potable;179666;2024;77,2;0,5;1,7;65,3;conforme;4562;4562;43;105;293;Non vérifié
+19234;Saint-Pardoux-l'Ortigier;19;eau potable;179747;2024;80,2;0,8;3,1;65,6;conforme;58400;5806;33;110;485;Non vérifié
+19235;Saint-Paul;19;eau potable : Syndicat intercommunal des Eaux des Deux Vallées;179755;2024;70,4;0,8;1,8;65,4;conforme;185420;3338;39;165;232;Non vérifié
+19236;Saint-Priest-de-Gimel;19;eau potable : Syndicat - Production-Transfert-Distribution.;179749;2024;67,9;2,9;6,1;66,2;conforme;702844;14332;82;214;480;Non vérifié
+19237;Saint-Privat;19;eau potable;179739;2024;78,5;0,6;2,3;65,5;conforme;44008;18312;49;98;1034;Non vérifié
+19238;Saint-Rémy;19;eau potable;179736;2024;87,0;0,3;1,8;65,4;conforme;29434;2433;27;60;244;Non vérifié
+19239;Saint-Robert;19;eau potable;179745;2024;86,1;1,4;8,9;66,8;conforme;950460;2754;26;57;294;Non vérifié
+19240;Saint-Salvadour;19;eau potable;179748;2024;92,1;0,1;1,8;65,4;conforme;19564;1085;9;21;332;Non vérifié
+19242;Saint-Solve;19;eau potable;179745;2024;86,1;1,4;8,9;66,8;conforme;950460;4216;26;57;450;Non vérifié
+19243;Saint-Sornin-Lavolps;19;eau potable : affermage;179725;2024;79,2;0,8;3,1;65,6;conforme;185397;14572;47;94;847;Non vérifié
+19244;Saint-Sulpice-les-Bois;19;eau potable;179679;2024;98,9;0,0;1,1;65,2;conforme;0;0;0;0;76;Non vérifié
+19245;Saint-Sylvain;19;eau potable;179681;2024;62,7;1,0;1,6;65,3;non conforme;3723;3723;78;227;131;Non vérifié
+19246;Saint-Viance;19;eau potable;179745;2024;86,1;1,4;8,9;66,8;conforme;950460;17724;26;57;1892;Non vérifié
+19248;Saint-Ybard;19;eau potable (Saint-Ybard);179682;2023;73,5;0,8;2,2;65,4;conforme;18484;18484;36;134;1388;Sans anomalie apparente
+19249;Saint-Yrieix-le-Déjalat;19;eau potable;179684;2024;81,6;0,3;1,5;65,3;conforme;3011;3011;25;74;327;Non vérifié
+19250;Salon-la-Tour;19;eau potable;179687;2024;83,5;0,3;1,6;65,3;conforme;6529;6529;26;69;681;Non vérifié
+19251;Sarran;19;eau potable;179688;2023;38,9;2,6;1,7;65,3;non conforme;19170;19170;200;577;262;Anomalie
+19253;Segonzac;19;eau potable;179745;2024;86,1;1,4;8,9;66,8;conforme;950460;1799;26;57;192;Non vérifié
+19254;Ségur-le-Château;19;eau potable : affermage;179725;2024;79,2;0,8;3,1;65,6;conforme;185397;3475;47;94;202;Non vérifié
+19255;Seilhac;19;eau potable : Syndicat - Production-Transfert-Distribution.;179749;2024;67,9;2,9;6,1;66,2;conforme;702844;53893;82;214;1805;Non vérifié
+19256;Sérandon;19;eau potable;179741;2024;76,4;0,5;1,8;65,4;conforme;55768;5743;46;106;343;Non vérifié
+19257;Sérilhac;19;eau potable;179742;2024;73,1;0,8;2,2;65,4;conforme;308720;5612;56;132;275;Non vérifié
+19258;Servières-le-Château;19;eau potable;179696;2024;94,5;0,1;2,1;65,4;conforme;1716;1716;8;20;563;Non vérifié
+19259;Sexcles;19;eau potable;179697;2024;86,2;0,4;2,4;65,5;conforme;3541;3541;43;62;228;Non vérifié
+19260;Sioniac;19;eau potable;179742;2024;73,1;0,8;2,2;65,4;conforme;308720;5020;56;132;246;Non vérifié
+19261;Sornac;19;eau potable;179698;2024;72,3;0,9;2,2;65,4;conforme;20420;20420;72;148;776;Non vérifié
+19262;Soudaine-Lavinadière;19;eau potable;179748;2024;92,1;0,1;1,8;65,4;conforme;19564;467;9;21;143;Non vérifié
+19264;Soursac;19;eau potable;179703;2023;70,9;0,7;1,6;65,3;conforme;13286;13286;69;155;526;Sans anomalie apparente
+19265;Tarnac;19;eau potable;179705;2024;57,2;0,7;1,0;65,2;non conforme;12519;12519;103;287;333;Non vérifié
+19268;Toy-Viam;19;eau potable;179706;2024;95,1;0,1;1,3;65,3;conforme;142;142;11;28;35;Non vérifié
+19269;Treignac;19;eau potable;179707;2024;85,5;0,7;4,3;65,9;conforme;21718;21718;47;76;1256;Non vérifié
+19270;Troche;19;eau potable : affermage;179725;2024;79,2;0,8;3,1;65,6;conforme;185397;9187;47;94;534;Non vérifié
+19271;Tudeils;19;eau potable;179742;2024;73,1;0,8;2,2;65,4;conforme;308720;5469;56;132;268;Non vérifié
+19272;Tulle;19;eau potable : Syndicat - Production-Transfert-Distribution.;179749;2024;67,9;2,9;6,1;66,2;conforme;702844;400119;82;214;13401;Non vérifié
+19273;Turenne;19;eau potable;179742;2024;73,1;0,8;2,2;65,4;conforme;308720;16346;56;132;801;Non vérifié
+19274;Ussac;19;eau potable;179745;2024;86,1;1,4;8,9;66,8;conforme;950460;40489;26;57;4322;Non vérifié
+19275;Ussel;19;eau potable;179711;2024;79,8;2,5;9,8;67,0;conforme;166075;166075;50;98;9187;Non vérifié
+19276;Uzerche;19;eau potable : Uzerche - (en cours de délégation);179713;2024;81,3;1,7;7,5;66,5;conforme;48871;48871;48;83;2814;Non vérifié
+19277;Valiergues;19;eau potable;179715;2024;68,3;0,6;1,2;65,2;conforme;3686;3686;64;183;157;Sans anomalie apparente
+19278;Varetz;19;eau potable;179745;2024;86,1;1,4;8,9;66,8;conforme;950460;22568;26;57;2409;Non vérifié
+19279;Vars-sur-Roseix;19;eau potable;179745;2024;86,1;1,4;8,9;66,8;conforme;950460;3888;26;57;415;Non vérifié
+19280;Végennes;19;eau potable;179742;2024;73,1;0,8;2,2;65,4;conforme;308720;3490;56;132;171;Non vérifié
+19284;Viam;19;eau potable;179717;2024;89,8;0,1;0,8;65,2;conforme;861;861;28;48;85;Non vérifié
+19285;Vigeois;19;eau potable;179747;2024;80,2;0,8;3,1;65,6;conforme;58400;15564;33;110;1300;Non vérifié
+19286;Vignols;19;eau potable : affermage;179725;2024;79,2;0,8;3,1;65,6;conforme;185397;9222;47;94;536;Non vérifié
+19287;Vitrac-sur-Montane;19;eau potable : Syndicat - Production-Transfert-Distribution.;179749;2024;67,9;2,9;6,1;66,2;conforme;702844;6628;82;214;222;Non vérifié
+19288;Voutezac;19;eau potable;179745;2024;86,1;1,4;8,9;66,8;conforme;950460;11701;26;57;1249;Non vérifié
+19289;Yssandon;19;eau potable;179745;2024;86,1;1,4;8,9;66,8;conforme;950460;6520;26;57;696;Non vérifié

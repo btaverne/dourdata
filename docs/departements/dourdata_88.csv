@@ -1,0 +1,516 @@
+﻿# DourData — eau perdue par les réseaux d'eau potable (indicateurs SISPEA)
+# Périmètre : Département 88
+# Source : SISPEA — Système d'Information des Services Publics d'Eau et d'Assainissement, via data.gouv.fr / services.eaufrance.fr
+# Licence : Licence Ouverte 2.0 (Etalab)
+# Millésime des données : 2024 (année la plus récente disponible par commune)
+# Date de génération de l'export : 2026-07-05
+# Méthodologie et code : https://github.com/btaverne/dourdata
+# Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
+# Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
+88001;Les Ableuvenettes;88;eau potable;99877;2024;79,7;1,2;4,8;66,0;conforme;64824;1789;68;95;72;Non vérifié
+88002;Ahéville;88;eau potable;99906;2024;91,0;0,9;9,1;66,8;conforme;50589;396;16;37;67;Non vérifié
+88003;Aingeville;88;eau potable;99546;2024;71,5;0,8;1,9;65,4;conforme;1460;1460;67;154;60;Non vérifié
+88004;Ainvelle;88;eau potable;99547;2024;91,0;0,7;6,8;66,4;conforme;945;945;18;38;140;Non vérifié
+88005;Allarmont;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;6858;88;243;214;Non vérifié
+88006;Ambacourt;88;eau potable;99906;2024;91,0;0,9;9,1;66,8;conforme;50589;1772;16;37;300;Non vérifié
+88007;Ameuvelle;88;eau potable;99549;2024;92,3;0,8;9,5;66,9;conforme;1518;1518;90;31;46;Non vérifié
+88008;Anglemont;88;eau potable;99882;2024;70,3;2,0;4,7;65,9;conforme;36580;3645;69;155;144;Non vérifié
+88009;Anould;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;103638;88;243;3234;Non vérifié
+88010;Aouze;88;eau potable;99917;2024;79,8;2,3;9,0;66,8;conforme;146174;4019;58;96;190;Non vérifié
+88011;Arches;88;eau potable : CAE REGIE;331574;2024;70,3;2,7;6,3;66,3;conforme;689673;37525;64;156;1617;Non vérifié
+88012;Archettes;88;eau potable : CAE REGIE;331574;2024;70,3;2,7;6,3;66,3;conforme;689673;25829;64;156;1113;Non vérifié
+88013;Aroffe;88;eau potable;99914;2024;73,2;2,5;6,8;66,4;conforme;10038;2600;77;134;93;Non vérifié
+88014;Arrentès-de-Corcieux;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;5416;88;243;169;Non vérifié
+88015;Attignéville;88;eau potable;99917;2024;79,8;2,3;9,0;66,8;conforme;146174;4633;58;96;219;Non vérifié
+88016;Attigny;88;eau potable;99554;2024;95,0;0,2;3,0;65,6;conforme;1095;1095;15;24;200;Non vérifié
+88017;Aulnois;88;eau potable;99889;2024;83,1;4,5;22,1;69,4;conforme;142898;6578;113;74;159;Non vérifié
+88019;Autigny-la-Tour;88;eau potable;99895;2024;79,5;1,3;5,1;66,0;conforme;12812;1655;31;94;144;Non vérifié
+88020;Autreville;88;eau potable;208980;2024;73,8;2,3;6,4;66,3;conforme;33756;6446;91;131;194;Non vérifié
+88021;Autrey;88;eau potable;99879;2024;50,4;6,9;7,0;66,4;non conforme;31733;12358;124;372;273;Non vérifié
+88022;Auzainvilliers;88;eau potable;99889;2024;83,1;4,5;22,1;69,4;conforme;142898;7902;113;74;191;Non vérifié
+88023;Avillers;88;eau potable : SIE du Haut du mont;333434;2024;75,6;2,4;7,3;66,5;conforme;95300;2476;77;144;88;Non vérifié
+88024;Avrainville;88;eau potable : SIE du Haut du mont;333434;2024;75,6;2,4;7,3;66,5;conforme;95300;3123;77;144;111;Non vérifié
+88025;Avranville;88;eau potable;99900;2024;74,4;1,7;5,1;66,0;conforme;134028;1382;57;125;66;Non vérifié
+88026;Aydoilles;88;eau potable : EP EPINAL;99642;2024;78,9;4,9;18,4;68,7;conforme;501531;14461;39;101;1018;Non vérifié
+88027;Badménil-aux-Bois;88;eau potable : CAE REGIE;331574;2024;70,3;2,7;6,3;66,3;conforme;689673;3133;64;156;135;Non vérifié
+88028;La Baffe;88;eau potable;99890;2024;74,2;3,2;9,3;66,9;conforme;17754;11158;48;126;631;Non vérifié
+88029;La Vôge-les-Bains;88;eau potable : CAE REGIE;331574;2024;70,3;2,7;6,3;66,3;conforme;689673;35854;64;156;1545;Non vérifié
+88030;Bainville-aux-Saules;88;eau potable;99877;2024;79,7;1,2;4,8;66,0;conforme;64824;3677;68;95;148;Non vérifié
+88031;Balléville;88;eau potable;99917;2024;79,8;2,3;9,0;66,8;conforme;146174;2052;58;96;97;Non vérifié
+88032;Ban-de-Laveline;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;36789;88;243;1148;Non vérifié
+88033;Ban-de-Sapt;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;11537;88;243;360;Non vérifié
+88035;Barbey-Seroux;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;4583;88;243;143;Non vérifié
+88036;Barville;88;eau potable;99917;2024;79,8;2,3;9,0;66,8;conforme;146174;1671;58;96;79;Non vérifié
+88037;Basse-sur-le-Rupt;88;eau potable : CCHV;327694;2024;70,8;3,1;7,4;66,5;conforme;385842;16105;52;152;843;Non vérifié
+88038;Battexey;88;eau potable : SIE du Haut du mont;333434;2024;75,6;2,4;7,3;66,5;conforme;95300;872;77;144;31;Non vérifié
+88039;Baudricourt;88;eau potable;99917;2024;79,8;2,3;9,0;66,8;conforme;146174;6917;58;96;327;Non vérifié
+88040;Bayecourt;88;eau potable : SIE NOMEXY;99902;2024;77,6;2,0;6,9;66,4;conforme;131400;3051;36;106;230;Non vérifié
+88041;Bazegney;88;eau potable : SIE du Haut du mont;333434;2024;75,6;2,4;7,3;66,5;conforme;95300;2673;77;144;95;Non vérifié
+88042;Bazien;88;eau potable;99882;2024;70,3;2,0;4,7;65,9;conforme;36580;2000;69;155;79;Non vérifié
+88043;Bazoilles-et-Ménil;88;eau potable;99877;2024;79,7;1,2;4,8;66,0;conforme;64824;3031;68;95;122;Non vérifié
+88044;Bazoilles-sur-Meuse;88;eau potable;99900;2024;74,4;1,7;5,1;66,0;conforme;134028;12810;57;125;612;Non vérifié
+88045;Beaufremont;88;eau potable;99564;2024;67,2;4,5;9,2;66,8;conforme;3121;3121;103;179;83;Non vérifié
+88046;Beauménil;88;eau potable;99910;2024;74,8;1,6;4,6;65,9;conforme;25696;2159;45;126;131;Non vérifié
+88047;Begnécourt;88;eau potable;99877;2024;79,7;1,2;4,8;66,0;conforme;64824;3454;68;95;139;Non vérifié
+88048;Bellefontaine;88;eau potable : CAE REGIE;331574;2024;70,3;2,7;6,3;66,3;conforme;689673;22093;64;156;952;Non vérifié
+88049;Belmont-lès-Darney;88;eau potable;99567;2024;50,0;12,3;12,3;67,5;non conforme;9967;9967;255;366;107;Non vérifié
+88050;Belmont-sur-Buttant;88;eau potable;99568;2024;51,6;2,3;2,4;65,5;non conforme;13432;13432;126;348;293;Non vérifié
+88051;Belmont-sur-Vair;88;eau potable;99889;2024;83,1;4,5;22,1;69,4;conforme;142898;5089;113;74;123;Non vérifié
+88052;Belrupt;88;eau potable;99569;2024;95,1;0,1;2,7;65,5;conforme;182;182;6;14;88;Non vérifié
+88053;Belval;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;4743;88;243;148;Non vérifié
+88054;Bertrimoutier;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;10095;88;243;315;Non vérifié
+88055;Bettegney-Saint-Brice;88;eau potable : SIE du Haut du mont;333434;2024;75,6;2,4;7,3;66,5;conforme;95300;4586;77;144;163;Non vérifié
+88056;Bettoncourt;88;eau potable;99906;2024;91,0;0,9;9,1;66,8;conforme;50589;520;16;37;88;Non vérifié
+88057;Le Beulay;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;2820;88;243;88;Non vérifié
+88058;Biécourt;88;eau potable;99917;2024;79,8;2,3;9,0;66,8;conforme;146174;1883;58;96;89;Non vérifié
+88059;Biffontaine;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;12498;88;243;390;Non vérifié
+88060;Blémerey;88;eau potable;99906;2024;91,0;0,9;9,1;66,8;conforme;50589;165;16;37;28;Non vérifié
+88061;Bleurville;88;eau potable;99572;2024;68,5;3,1;6,8;66,4;conforme;6993;6993;68;167;281;Non vérifié
+88062;Blevaincourt;88;eau potable;99574;2024;90,9;0,6;5,9;66,2;conforme;1042;1042;32;37;90;Non vérifié
+88063;Bocquegney;88;eau potable;99885;2024;83,6;1,4;7,1;66,4;conforme;45990;1410;29;74;131;Non vérifié
+88064;Bois-de-Champ;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;3365;88;243;105;Non vérifié
+88065;Bonvillet;88;eau potable;99901;2024;74,5;1,4;4,2;65,8;conforme;97090;7020;71;126;272;Non vérifié
+88066;Boulaincourt;88;eau potable;99906;2024;91,0;0,9;9,1;66,8;conforme;50589;378;16;37;64;Non vérifié
+88068;La Bourgonce;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;26983;88;243;842;Non vérifié
+88069;Bouxières-aux-Bois;88;eau potable : SIE du Haut du mont;333434;2024;75,6;2,4;7,3;66,5;conforme;95300;4192;77;144;149;Non vérifié
+88070;Bouxurulles;88;eau potable : SIE du Haut du mont;333434;2024;75,6;2,4;7,3;66,5;conforme;95300;4952;77;144;176;Non vérifié
+88071;Bouzemont;88;eau potable : SIE du Haut du mont;333434;2024;75,6;2,4;7,3;66,5;conforme;95300;1238;77;144;44;Non vérifié
+88073;Brantigny;88;eau potable : SIE du Haut du mont;333434;2024;75,6;2,4;7,3;66,5;conforme;95300;5571;77;144;198;Non vérifié
+88074;Brechainville;88;eau potable;99900;2024;74,4;1,7;5,1;66,0;conforme;134028;1151;57;125;55;Non vérifié
+88075;La Bresse;88;eau potable : CCHV;327694;2024;70,8;3,1;7,4;66,5;conforme;385842;73611;52;152;3853;Non vérifié
+88076;Brouvelieures;88;eau potable;99578;2024;83,4;1,6;7,8;66,6;conforme;4672;4672;32;75;405;Non vérifié
+88077;Brû;88;eau potable;99876;2024;73,1;2,7;7,4;66,5;conforme;175853;11814;57;133;567;Non vérifié
+88078;Bruyères;88;eau potable;99579;2024;91,5;2,1;22,2;69,4;conforme;21523;21523;20;35;2923;Non vérifié
+88079;Bulgnéville;88;eau potable;99889;2024;83,1;4,5;22,1;69,4;conforme;142898;62719;113;74;1516;Non vérifié
+88080;Bult;88;eau potable;99876;2024;73,1;2,7;7,4;66,5;conforme;175853;6272;57;133;301;Non vérifié
+88081;Bussang;88;eau potable;99581;2024;70,1;3,3;7,8;66,6;conforme;35750;35750;78;155;1261;Non vérifié
+88082;Celles-sur-Plaine;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;23618;88;243;737;Non vérifié
+88083;Certilleux;88;eau potable;99899;2024;75,6;3,1;9,4;66,9;conforme;26421;5430;69;120;216;Non vérifié
+88084;Chamagne;88;eau potable : CAE REGIE;331574;2024;70,3;2,7;6,3;66,3;conforme;689673;10350;64;156;446;Non vérifié
+88085;Champdray;88;eau potable : CCGHV;327394;2024;84,7;1,7;9,7;66,9;conforme;177767;2501;36;64;192;Non vérifié
+88086;Champ-le-Duc;88;eau potable;99910;2024;74,8;1,6;4,6;65,9;conforme;25696;7829;45;126;475;Non vérifié
+88087;Chantraine;88;eau potable : EP CHANTRAINE;99588;2024;85,9;2,1;12,7;67,5;conforme;21937;21937;19;65;3198;Non vérifié
+88088;La Chapelle-aux-Bois;88;eau potable : CAE REGIE;331574;2024;70,3;2,7;6,3;66,3;conforme;689673;15664;64;156;675;Non vérifié
+88089;La Chapelle-devant-Bruyères;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;17529;88;243;547;Non vérifié
+88090;Charmes;88;eau potable : EP CHARMES;99591;2024;86,5;2,4;15,2;68,0;conforme;43800;41208;25;59;4484;Non vérifié
+88091;Charmois-devant-Bruyères;88;eau potable;99890;2024;74,2;3,2;9,3;66,9;conforme;17754;6596;48;126;373;Non vérifié
+88092;Charmois-l'Orgueilleux;88;eau potable;99901;2024;74,5;1,4;4,2;65,8;conforme;97090;15124;71;126;586;Non vérifié
+88093;Châtas;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;1090;88;243;34;Non vérifié
+88094;Châtel-sur-Moselle;88;eau potable : SIE NOMEXY;99902;2024;77,6;2,0;6,9;66,4;conforme;131400;22853;36;106;1723;Non vérifié
+88095;Châtenois;88;eau potable;99917;2024;79,8;2,3;9,0;66,8;conforme;146174;36448;58;96;1723;Non vérifié
+88096;Châtillon-sur-Saône;88;eau potable;99594;2024;51,9;4,1;4,4;65,9;non conforme;8380;8380;219;341;105;Non vérifié
+88097;Chauffecourt;88;eau potable;99906;2024;91,0;0,9;9,1;66,8;conforme;50589;242;16;37;41;Non vérifié
+88098;Chaumousey;88;eau potable : CAE REGIE;331574;2024;70,3;2,7;6,3;66,3;conforme;689673;21443;64;156;924;Non vérifié
+88099;Chavelot;88;eau potable : CAE REGIE;331574;2024;70,3;2,7;6,3;66,3;conforme;689673;31932;64;156;1376;Non vérifié
+88100;Chef-Haut;88;eau potable;99917;2024;79,8;2,3;9,0;66,8;conforme;146174;1037;58;96;49;Non vérifié
+88101;Cheniménil;88;eau potable;99598;2024;46,4;9,6;8,3;66,7;non conforme;60619;60619;137;421;1210;Non vérifié
+88102;Chermisey;88;eau potable;99600;2024;99,6;0,1;32,8;71,6;conforme;62;62;2;1;83;Non vérifié
+88103;Circourt;88;eau potable : SIE du Haut du mont;333434;2024;75,6;2,4;7,3;66,5;conforme;95300;2223;77;144;79;Non vérifié
+88104;Circourt-sur-Mouzon;88;eau potable;99899;2024;75,6;3,1;9,4;66,9;conforme;26421;4676;69;120;186;Non vérifié
+88105;Claudon;88;eau potable;99601;2024;63,6;0,5;0,8;65,2;non conforme;9125;9125;115;217;218;Non vérifié
+88106;Ban-sur-Meurthe-Clefcy;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;30668;88;243;957;Non vérifié
+88107;Clérey-la-Côte;88;eau potable;208980;2024;73,8;2,3;6,4;66,3;conforme;33756;831;91;131;25;Non vérifié
+88108;Le Clerjus;88;eau potable : CAE REGIE;331574;2024;70,3;2,7;6,3;66,3;conforme;689673;10605;64;156;457;Non vérifié
+88109;Cleurie;88;eau potable : CCHV;327694;2024;70,8;3,1;7,4;66,5;conforme;385842;12456;52;152;652;Non vérifié
+88110;Clézentaine;88;eau potable;99876;2024;73,1;2,7;7,4;66,5;conforme;175853;4521;57;133;217;Non vérifié
+88111;Coinches;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;11088;88;243;346;Non vérifié
+88113;Combrimont;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;4358;88;243;136;Non vérifié
+88114;Contrexéville;88;eau potable;99609;2024;86,5;2,5;15,7;68,1;conforme;32257;32257;30;58;2923;Non vérifié
+88115;Corcieux;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;48358;88;243;1509;Non vérifié
+88116;Cornimont;88;eau potable : CCHV;327694;2024;70,8;3,1;7,4;66,5;conforme;385842;57830;52;152;3027;Non vérifié
+88118;Coussey;88;eau potable;99616;2024;81,5;2,5;11,2;67,2;conforme;7455;7455;29;87;716;Non vérifié
+88119;Crainvilliers;88;eau potable;99878;2024;84,6;3,0;16,8;68,4;conforme;28470;10042;151;292;182;Non vérifié
+88120;La Croix-aux-Mines;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;14357;88;243;448;Non vérifié
+88121;Damas-aux-Bois;88;eau potable : distribution;164177;2024;71,0;2,1;5,0;66,0;conforme;162766;6427;64;152;273;Non vérifié
+88122;Damas-et-Bettegney;88;eau potable;99885;2024;83,6;1,4;7,1;66,4;conforme;45990;4199;29;74;390;Non vérifié
+88123;Damblain;88;eau potable;99894;2024;77,0;3,0;10,0;67,0;conforme;28470;10396;110;179;260;Non vérifié
+88124;Darney;88;eau potable;99618;2024;63,4;7,1;12,3;67,5;non conforme;41205;41205;103;210;1091;Non vérifié
+88125;Darney-aux-Chênes;88;eau potable;99896;2024;77,3;2,3;7,8;66,6;conforme;4617;1932;90;107;59;Non vérifié
+88126;Darnieulles;88;eau potable : CAE REGIE;331574;2024;70,3;2,7;6,3;66,3;conforme;689673;31654;64;156;1364;Non vérifié
+88127;Deinvillers;88;eau potable;99876;2024;73,1;2,7;7,4;66,5;conforme;175853;1188;57;133;57;Non vérifié
+88128;Denipaire;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;7787;88;243;243;Non vérifié
+88129;Derbamont;88;eau potable;99621;2024;80,3;0,0;11,4;67,3;conforme;0;0;0;0;100;Non vérifié
+88130;Destord;88;eau potable;99903;2024;61,8;3,9;6,3;66,3;non conforme;19929;10696;125;227;234;Non vérifié
+88131;Deycimont;88;eau potable;99622;2024;97,8;0,2;10,9;67,2;conforme;511;511;5;7;292;Non vérifié
+88132;Deyvillers;88;eau potable : EP EPINAL;99642;2024;78,9;4,9;18,4;68,7;conforme;501531;19589;39;101;1379;Non vérifié
+88133;Dignonville;88;eau potable : SIE NOMEXY;99902;2024;77,6;2,0;6,9;66,4;conforme;131400;2759;36;106;208;Non vérifié
+88134;Dinozé;88;eau potable : CAE REGIE;331574;2024;70,3;2,7;6,3;66,3;conforme;689673;15038;64;156;648;Non vérifié
+88135;Docelles;88;eau potable;99626;2024;52,1;17,0;18,5;68,7;non conforme;31646;31646;101;335;856;Non vérifié
+88136;Dogneville;88;eau potable : EP DOGNEVILLE;99628;2024;78,2;3,0;10,9;67,2;conforme;16239;16239;29;100;1521;Non vérifié
+88137;Dolaincourt;88;eau potable;99917;2024;79,8;2,3;9,0;66,8;conforme;146174;1798;58;96;85;Non vérifié
+88138;Dombasle-devant-Darney;88;eau potable;99901;2024;74,5;1,4;4,2;65,8;conforme;97090;2013;71;126;78;Non vérifié
+88139;Dombasle-en-Xaintois;88;eau potable;99917;2024;79,8;2,3;9,0;66,8;conforme;146174;2602;58;96;123;Non vérifié
+88140;Dombrot-le-Sec;88;eau potable;99630;2024;95,8;0,3;7,4;66,5;conforme;1314;1314;10;15;355;Non vérifié
+88141;Dombrot-sur-Vair;88;eau potable;99889;2024;83,1;4,5;22,1;69,4;conforme;142898;9888;113;74;239;Non vérifié
+88142;Domèvre-sur-Avière;88;eau potable : CAE REGIE;331574;2024;70,3;2,7;6,3;66,3;conforme;689673;10188;64;156;439;Non vérifié
+88143;Domèvre-sur-Durbion;88;eau potable : SIE NOMEXY;99902;2024;77,6;2,0;6,9;66,4;conforme;131400;3541;36;106;267;Non vérifié
+88144;Domèvre-sous-Montfort;88;eau potable;99877;2024;79,7;1,2;4,8;66,0;conforme;64824;1516;68;95;61;Non vérifié
+88145;Domfaing;88;eau potable;99632;2024;42,0;7,5;5,4;66,1;non conforme;28142;28142;367;705;210;Non vérifié
+88146;Domjulien;88;eau potable;99877;2024;79,7;1,2;4,8;66,0;conforme;64824;4423;68;95;178;Non vérifié
+88147;Dommartin-aux-Bois;88;eau potable;99885;2024;83,6;1,4;7,1;66,4;conforme;45990;4425;29;74;411;Non vérifié
+88148;Dommartin-lès-Remiremont;88;eau potable : Dommartin-lès-Remiremont;99634;2024;83,1;1,5;7,2;66,4;conforme;20969;20969;30;79;1921;Non vérifié
+88149;Dommartin-lès-Vallois;88;eau potable;99901;2024;74,5;1,4;4,2;65,8;conforme;97090;1342;71;126;52;Non vérifié
+88150;Dommartin-sur-Vraine;88;eau potable;99917;2024;79,8;2,3;9,0;66,8;conforme;146174;5881;58;96;278;Non vérifié
+88151;Dompaire;88;eau potable;99885;2024;83,6;1,4;7,1;66,4;conforme;45990;11594;29;74;1077;Non vérifié
+88152;Dompierre;88;eau potable : CAE REGIE;331574;2024;70,3;2,7;6,3;66,3;conforme;689673;5523;64;156;238;Non vérifié
+88153;Domptail;88;eau potable;99882;2024;70,3;2,0;4,7;65,9;conforme;36580;8455;69;155;334;Non vérifié
+88154;Domrémy-la-Pucelle;88;eau potable;99637;2024;54,2;2,9;3,4;65,7;non conforme;5292;5292;142;311;102;Non vérifié
+88155;Domvallier;88;eau potable;99906;2024;91,0;0,9;9,1;66,8;conforme;50589;549;16;37;93;Non vérifié
+88156;Doncières;88;eau potable;99876;2024;73,1;2,7;7,4;66,5;conforme;175853;3271;57;133;157;Non vérifié
+88157;Dounoux;88;eau potable : CAE REGIE;331574;2024;70,3;2,7;6,3;66,3;conforme;689673;20422;64;156;880;Non vérifié
+88158;Éloyes;88;eau potable : Éloyes;99639;2024;88,8;2,3;18,3;68,7;conforme;26587;26587;23;46;3138;Non vérifié
+88159;Entre-deux-Eaux;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;16344;88;243;510;Non vérifié
+88160;Épinal;88;eau potable : EP EPINAL;99642;2024;78,9;4,9;18,4;68,7;conforme;501531;458134;39;101;32251;Non vérifié
+88161;Escles;88;eau potable;99901;2024;74,5;1,4;4,2;65,8;conforme;97090;9859;71;126;382;Non vérifié
+88162;Esley;88;eau potable;99644;2024;61,1;8,2;12,9;67,6;non conforme;8979;8979;148;231;166;Non vérifié
+88163;Essegney;88;eau potable : CAE REGIE;331574;2024;70,3;2,7;6,3;66,3;conforme;689673;17335;64;156;747;Non vérifié
+88164;Estrennes;88;eau potable;99877;2024;79,7;1,2;4,8;66,0;conforme;64824;2659;68;95;107;Non vérifié
+88165;Étival-Clairefontaine;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;78097;88;243;2437;Non vérifié
+88166;Évaux-et-Ménil;88;eau potable : SIE du Haut du mont;333434;2024;75,6;2,4;7,3;66,5;conforme;95300;9848;77;144;350;Non vérifié
+88167;Faucompierre;88;eau potable;99912;2024;70,3;2,5;5,8;66,2;conforme;19162;4954;60;156;227;Non vérifié
+88168;Fauconcourt;88;eau potable;99648;2024;86,1;2,5;15,8;68,2;conforme;2382;2382;52;58;126;Non vérifié
+88169;Fays;88;eau potable;99649;2024;85,0;1,0;5,9;66,2;conforme;1387;1387;17;62;222;Non vérifié
+88170;Ferdrupt;88;eau potable;99905;2024;65,6;4,4;8,3;66,7;non conforme;97163;8253;31;194;738;Non vérifié
+88171;Fignévelle;88;eau potable;99897;2024;75,9;2,8;8,9;66,8;conforme;14308;2710;148;115;50;Non vérifié
+88172;Fiménil;88;eau potable;99910;2024;74,8;1,6;4,6;65,9;conforme;25696;3906;45;126;237;Non vérifié
+88173;Florémont;88;eau potable : SIE du Haut du mont;333434;2024;75,6;2,4;7,3;66,5;conforme;95300;13140;77;144;467;Non vérifié
+88174;Fomerey;88;eau potable;99885;2024;83,6;1,4;7,1;66,4;conforme;45990;1486;29;74;138;Non vérifié
+88175;Fontenay;88;eau potable;99651;2024;84,0;1,3;7,0;66,4;conforme;3915;3915;23;67;469;Non vérifié
+88176;Fontenoy-le-Château;88;eau potable : CAE REGIE;331574;2024;70,3;2,7;6,3;66,3;conforme;689673;11603;64;156;500;Non vérifié
+88177;La Forge;88;eau potable : CCHV;327694;2024;70,8;3,1;7,4;66,5;conforme;385842;9877;52;152;517;Non vérifié
+88178;Les Forges;88;eau potable : CAE REGIE;331574;2024;70,3;2,7;6,3;66,3;conforme;689673;41215;64;156;1776;Non vérifié
+88179;Fouchécourt;88;eau potable;99655;2024;75,6;0,7;2,2;65,4;conforme;613;613;42;118;40;Non vérifié
+88180;Frain;88;eau potable;99881;2024;57,9;4,9;6,7;66,3;non conforme;31299;10928;240;268;125;Non vérifié
+88181;Fraize;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;91108;88;243;2843;Non vérifié
+88182;Frapelle;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;6441;88;243;201;Non vérifié
+88183;Frebécourt;88;eau potable;99658;2024;96,4;0,5;12,5;67,5;conforme;1082;1082;9;15;341;Non vérifié
+88184;Fremifontaine;88;eau potable;99879;2024;50,4;6,9;7,0;66,4;non conforme;31733;19375;124;372;428;Non vérifié
+88185;Frenelle-la-Grande;88;eau potable;99906;2024;91,0;0,9;9,1;66,8;conforme;50589;573;16;37;97;Non vérifié
+88186;Frenelle-la-Petite;88;eau potable;99906;2024;91,0;0,9;9,1;66,8;conforme;50589;289;16;37;49;Non vérifié
+88187;Frénois;88;eau potable;99877;2024;79,7;1,2;4,8;66,0;conforme;64824;1193;68;95;48;Non vérifié
+88188;Fresse-sur-Moselle;88;eau potable;99905;2024;65,6;4,4;8,3;66,7;non conforme;97163;18587;31;194;1662;Non vérifié
+88189;Fréville;88;eau potable;99900;2024;74,4;1,7;5,1;66,0;conforme;134028;2784;57;125;133;Non vérifié
+88190;Frizon;88;eau potable : SIE NOMEXY;99902;2024;77,6;2,0;6,9;66,4;conforme;131400;6433;36;106;485;Non vérifié
+88192;Gelvécourt-et-Adompt;88;eau potable;99877;2024;79,7;1,2;4,8;66,0;conforme;64824;2683;68;95;108;Non vérifié
+88193;Gemaingoutte;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;4807;88;243;150;Non vérifié
+88194;Gemmelaincourt;88;eau potable;99917;2024;79,8;2,3;9,0;66,8;conforme;146174;2538;58;96;120;Non vérifié
+88195;Gendreville;88;eau potable;99661;2024;80,1;3,3;13,2;67,6;conforme;3614;3614;96;91;103;Non vérifié
+88196;Gérardmer;88;eau potable : CCGHV;327394;2024;84,7;1,7;9,7;66,9;conforme;177767;98744;36;64;7581;Non vérifié
+88197;Gerbamont;88;eau potable : CCHV;327694;2024;70,8;3,1;7,4;66,5;conforme;385842;6763;52;152;354;Non vérifié
+88198;Gerbépal;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;17433;88;243;544;Non vérifié
+88199;Gignéville;88;eau potable;99881;2024;57,9;4,9;6,7;66,3;non conforme;31299;6732;240;268;77;Non vérifié
+88200;Gigney;88;eau potable;99885;2024;83,6;1,4;7,1;66,4;conforme;45990;624;29;74;58;Non vérifié
+88201;Girancourt;88;eau potable;99885;2024;83,6;1,4;7,1;66,4;conforme;45990;9441;29;74;877;Non vérifié
+88202;Gircourt-lès-Viéville;88;eau potable : SIE du Haut du mont;333434;2024;75,6;2,4;7,3;66,5;conforme;95300;5149;77;144;183;Non vérifié
+88203;Girecourt-sur-Durbion;88;eau potable;99665;2024;86,2;1,3;8,3;66,7;conforme;2349;2349;18;57;350;Non vérifié
+88205;Girmont-Val-d'Ajol;88;eau potable : Girmont-Val-d'Ajol;99668;2024;44,2;1,5;1,2;65,2;non conforme;16425;16425;170;467;264;Non vérifié
+88206;Gironcourt-sur-Vraine;88;eau potable;99917;2024;79,8;2,3;9,0;66,8;conforme;146174;17960;58;96;849;Non vérifié
+88208;Godoncourt;88;eau potable;99897;2024;75,9;2,8;8,9;66,8;conforme;14308;6341;148;115;117;Non vérifié
+88209;Golbey;88;eau potable : EP GOLBEY;99670;2024;83,2;3,6;17,9;68,6;conforme;95659;95659;30;73;8832;Non vérifié
+88210;Gorhey;88;eau potable;99885;2024;83,6;1,4;7,1;66,4;conforme;45990;1873;29;74;174;Non vérifié
+88212;Grand;88;eau potable;99900;2024;74,4;1,7;5,1;66,0;conforme;134028;7787;57;125;372;Non vérifié
+88213;La Grande-Fosse;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;4038;88;243;126;Non vérifié
+88214;Grandrupt-de-Bains;88;eau potable;198782;2024;92,6;0,2;2,5;65,5;conforme;511;511;19;29;72;Non vérifié
+88215;Grandrupt;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;2371;88;243;74;Non vérifié
+88216;Grandvillers;88;eau potable;99673;2024;93,9;0,4;6,3;66,3;conforme;2482;2482;9;23;716;Non vérifié
+88218;Granges-Aumontzey;88;eau potable : CCGHV;327394;2024;84,7;1,7;9,7;66,9;conforme;177767;32941;36;64;2529;Non vérifié
+88219;Greux;88;eau potable;99676;2024;11,7;127,7;16,8;68,4;non conforme;108602;108602;2289;2766;130;Non vérifié
+88220;Grignoncourt;88;eau potable;107084;2024;27,1;19,3;7,2;66,4;non conforme;39167;19584;1166;979;46;Non vérifié
+88221;Gruey-lès-Surance;88;eau potable : CAE REGIE;331574;2024;70,3;2,7;6,3;66,3;conforme;689673;4734;64;156;204;Non vérifié
+88222;Gugnécourt;88;eau potable;99678;2024;94,2;0,2;3,9;65,8;conforme;605;605;7;19;223;Non vérifié
+88223;Gugney-aux-Aulx;88;eau potable : SIE du Haut du mont;333434;2024;75,6;2,4;7,3;66,5;conforme;95300;4840;77;144;172;Non vérifié
+88224;Hadigny-les-Verrières;88;eau potable : SIE NOMEXY;99902;2024;77,6;2,0;6,9;66,4;conforme;131400;4960;36;106;374;Non vérifié
+88225;Hadol;88;eau potable : CAE REGIE;331574;2024;70,3;2,7;6,3;66,3;conforme;689673;53630;64;156;2311;Non vérifié
+88226;Hagécourt;88;eau potable;99877;2024;79,7;1,2;4,8;66,0;conforme;64824;3180;68;95;128;Non vérifié
+88227;Hagnéville-et-Roncourt;88;eau potable;99889;2024;83,1;4,5;22,1;69,4;conforme;142898;3227;113;74;78;Non vérifié
+88228;Haillainville;88;eau potable : CAE REGIE;331574;2024;70,3;2,7;6,3;66,3;conforme;689673;4200;64;156;181;Non vérifié
+88229;Harchéchamp;88;eau potable;99917;2024;79,8;2,3;9,0;66,8;conforme;146174;1840;58;96;87;Non vérifié
+88230;Hardancourt;88;eau potable;99876;2024;73,1;2,7;7,4;66,5;conforme;175853;708;57;133;34;Non vérifié
+88231;Haréville;88;eau potable;99891;2024;73,4;2,2;5,9;66,2;conforme;48236;12164;72;154;465;Non vérifié
+88232;Harmonville;88;eau potable;208980;2024;73,8;2,3;6,4;66,3;conforme;33756;6911;91;131;208;Non vérifié
+88233;Harol;88;eau potable : Harol;99681;2024;79,7;1,3;5,0;66,0;conforme;19454;19454;87;94;614;Non vérifié
+88236;La Haye;88;eau potable : CAE REGIE;331574;2024;70,3;2,7;6,3;66,3;conforme;689673;2901;64;156;125;Non vérifié
+88237;Hennecourt;88;eau potable;99885;2024;83,6;1,4;7,1;66,4;conforme;45990;3693;29;74;343;Non vérifié
+88238;Hennezel;88;eau potable;99685;2024;49,8;2,6;2,6;65,5;non conforme;22681;22681;161;370;386;Non vérifié
+88239;Hergugney;88;eau potable : SIE du Haut du mont;333434;2024;75,6;2,4;7,3;66,5;conforme;95300;3770;77;144;134;Non vérifié
+88240;Herpelmont;88;eau potable;99686;2024;93,4;0,4;6,3;66,3;conforme;765;765;8;23;261;Non vérifié
+88241;Houécourt;88;eau potable;99688;2024;90,0;1,1;9,9;67,0;conforme;3011;3011;20;41;421;Non vérifié
+88242;Houéville;88;eau potable;99917;2024;79,8;2,3;9,0;66,8;conforme;146174;910;58;96;43;Non vérifié
+88243;Housseras;88;eau potable;99689;2024;92,5;0,6;8,0;66,6;conforme;1927;1927;11;27;485;Non vérifié
+88244;La Houssière;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;16248;88;243;507;Non vérifié
+88245;Hurbache;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;9133;88;243;285;Non vérifié
+88246;Hymont;88;eau potable;99906;2024;91,0;0,9;9,1;66,8;conforme;50589;2900;16;37;491;Non vérifié
+88247;Igney;88;eau potable : SIE NOMEXY;99902;2024;77,6;2,0;6,9;66,4;conforme;131400;15027;36;106;1133;Non vérifié
+88248;Isches;88;eau potable;99691;2024;90,7;0,7;7,0;66,4;conforme;1916;1916;30;37;176;Non vérifié
+88249;Jainvillotte;88;eau potable;99692;2024;87,9;1,8;13,2;67,6;conforme;1314;1314;51;50;71;Non vérifié
+88250;Jarménil;88;eau potable : CAE REGIE;331574;2024;70,3;2,7;6,3;66,3;conforme;689673;9631;64;156;415;Non vérifié
+88251;Jeanménil;88;eau potable;99694;2024;73,6;1,6;4,6;65,9;conforme;20925;20925;52;127;1106;Non vérifié
+88252;Jésonville;88;eau potable;99901;2024;74,5;1,4;4,2;65,8;conforme;97090;3820;71;126;148;Non vérifié
+88253;Jeuxey;88;eau potable : EP JEUXEY;99697;2024;79,3;3,1;11,7;67,3;conforme;14370;14370;59;97;663;Non vérifié
+88254;Jorxey;88;eau potable : SIE du Haut du mont;333434;2024;75,6;2,4;7,3;66,5;conforme;95300;2279;77;144;81;Non vérifié
+88255;Jubainville;88;eau potable;208980;2024;73,8;2,3;6,4;66,3;conforme;33756;2924;91;131;88;Non vérifié
+88256;Jussarupt;88;eau potable;99698;2024;81,9;1,4;6,3;66,3;conforme;2759;2759;30;82;256;Non vérifié
+88257;Juvaincourt;88;eau potable;99917;2024;79,8;2,3;9,0;66,8;conforme;146174;3892;58;96;184;Non vérifié
+88258;Lamarche;88;eau potable;99699;2024;80,4;1,6;6,6;66,3;conforme;14016;14016;49;89;786;Non vérifié
+88259;Landaville;88;eau potable;99899;2024;75,6;3,1;9,4;66,9;conforme;26421;7240;69;120;288;Non vérifié
+88260;Langley;88;eau potable : CAE REGIE;331574;2024;70,3;2,7;6,3;66,3;conforme;689673;3249;64;156;140;Non vérifié
+88261;Laval-sur-Vologne;88;eau potable;99910;2024;74,8;1,6;4,6;65,9;conforme;25696;10351;45;126;628;Non vérifié
+88262;Laveline-devant-Bruyères;88;eau potable;99703;2024;82,1;5,4;24,9;70,0;conforme;18015;18015;85;275;581;Non vérifié
+88263;Laveline-du-Houx;88;eau potable : Syndicat des eaux de blanchefontaine;99883;2024;66,6;3,3;6,7;66,3;conforme;13249;6672;86;180;213;Non vérifié
+88264;Légéville-et-Bonfays;88;eau potable;99877;2024;79,7;1,2;4,8;66,0;conforme;64824;1640;68;95;66;Non vérifié
+88265;Lemmecourt;88;eau potable;99704;2024;100,0;0,0;8,3;66,7;conforme;0;0;0;0;23;Non vérifié
+88266;Lépanges-sur-Vologne;88;eau potable;99705;2024;44,9;10,5;8,6;66,7;non conforme;80482;80482;261;836;844;Non vérifié
+88267;Lerrain;88;eau potable;99901;2024;74,5;1,4;4,2;65,8;conforme;97090;11898;71;126;461;Non vérifié
+88268;Lesseux;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;4390;88;243;137;Non vérifié
+88269;Liézey;88;eau potable : CCGHV;327394;2024;84,7;1,7;9,7;66,9;conforme;177767;3960;36;64;304;Non vérifié
+88270;Liffol-le-Grand;88;eau potable;99900;2024;74,4;1,7;5,1;66,0;conforme;134028;43895;57;125;2097;Non vérifié
+88271;Lignéville;88;eau potable;99710;2024;85,1;3,5;19,8;69,0;conforme;6451;6451;59;65;298;Non vérifié
+88272;Lironcourt;88;eau potable;99711;2024;75,7;4,9;15,2;68,0;conforme;3452;3452;139;118;68;Non vérifié
+88273;Longchamp;88;eau potable : EP EPINAL;99642;2024;78,9;4,9;18,4;68,7;conforme;501531;6520;39;101;459;Non vérifié
+88274;Longchamp-sous-Châtenois;88;eau potable;99896;2024;77,3;2,3;7,8;66,6;conforme;4617;2685;90;107;82;Non vérifié
+88275;Lubine;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;7851;88;243;245;Non vérifié
+88276;Lusse;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;11344;88;243;354;Non vérifié
+88277;Luvigny;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;3942;88;243;123;Non vérifié
+88278;Maconcourt;88;eau potable;164152;2024;69,1;2,7;6,1;66,2;conforme;9855;4106;173;163;65;Non vérifié
+88279;Madecourt;88;eau potable;99877;2024;79,7;1,2;4,8;66,0;conforme;64824;1292;68;95;52;Non vérifié
+88280;Madegney;88;eau potable : SIE du Haut du mont;333434;2024;75,6;2,4;7,3;66,5;conforme;95300;3292;77;144;117;Non vérifié
+88281;Madonne-et-Lamerey;88;eau potable;99885;2024;83,6;1,4;7,1;66,4;conforme;45990;4382;29;74;407;Non vérifié
+88283;Malaincourt;88;eau potable;99889;2024;83,1;4,5;22,1;69,4;conforme;142898;3310;113;74;80;Non vérifié
+88284;Mandray;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;18779;88;243;586;Non vérifié
+88285;Mandres-sur-Vair;88;eau potable;99889;2024;83,1;4,5;22,1;69,4;conforme;142898;17417;113;74;421;Non vérifié
+88286;Marainville-sur-Madon;88;eau potable : SIE du Haut du mont;333434;2024;75,6;2,4;7,3;66,5;conforme;95300;2645;77;144;94;Non vérifié
+88287;Marey;88;eau potable;99881;2024;57,9;4,9;6,7;66,3;non conforme;31299;6295;240;268;72;Non vérifié
+88288;Maroncourt;88;eau potable;99877;2024;79,7;1,2;4,8;66,0;conforme;64824;124;68;95;5;Non vérifié
+88289;Martigny-les-Bains;88;eau potable;99721;2024;88,9;1,2;9,8;67,0;conforme;5344;5344;18;45;807;Non vérifié
+88290;Martigny-les-Gerbonvaux;88;eau potable;208980;2024;73,8;2,3;6,4;66,3;conforme;33756;4020;91;131;121;Non vérifié
+88291;Martinvelle;88;eau potable;99723;2024;53,4;7,0;8,0;66,6;non conforme;8074;8074;186;320;119;Non vérifié
+88292;Mattaincourt;88;eau potable;99906;2024;91,0;0,9;9,1;66,8;conforme;50589;4737;16;37;802;Non vérifié
+88293;Maxey-sur-Meuse;88;eau potable;99724;2024;61,6;15,6;25,1;70,0;non conforme;11844;11844;152;227;213;Non vérifié
+88294;Mazeley;88;eau potable;99885;2024;83,6;1,4;7,1;66,4;conforme;45990;2864;29;74;266;Non vérifié
+88295;Mazirot;88;eau potable;99906;2024;91,0;0,9;9,1;66,8;conforme;50589;1382;16;37;234;Non vérifié
+88296;Médonville;88;eau potable;99726;2024;83,2;0,6;2,9;65,6;conforme;657;657;35;76;52;Non vérifié
+88297;Méménil;88;eau potable;99727;2024;92,0;2,8;32,8;71,6;conforme;3322;1435;22;48;181;Non vérifié
+88298;Ménarmont;88;eau potable;99882;2024;70,3;2,0;4,7;65,9;conforme;36580;1468;69;155;58;Non vérifié
+88299;Ménil-en-Xaintois;88;eau potable;99917;2024;79,8;2,3;9,0;66,8;conforme;146174;3533;58;96;167;Non vérifié
+88300;Ménil-de-Senones;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;3878;88;243;121;Non vérifié
+88301;Ménil-sur-Belvitte;88;eau potable;99882;2024;70,3;2,0;4,7;65,9;conforme;36580;7291;69;155;288;Non vérifié
+88302;Le Ménil;88;eau potable;99729;2024;60,5;2,8;4,3;65,9;non conforme;27594;27594;78;239;970;Non vérifié
+88303;Midrevaux;88;eau potable;99730;2024;37,2;6,4;3,8;65,8;non conforme;11680;11680;185;619;173;Non vérifié
+88304;Mirecourt;88;eau potable;99906;2024;91,0;0,9;9,1;66,8;conforme;50589;27760;16;37;4700;Non vérifié
+88305;Moncel-sur-Vair;88;eau potable;99731;2024;89,9;1,0;9,1;66,8;conforme;1314;1314;21;40;171;Non vérifié
+88306;Le Mont;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;1698;88;243;53;Non vérifié
+88307;Mont-lès-Lamarche;88;eau potable;99733;2024;84,5;1,5;8,1;66,6;conforme;1445;1445;44;67;91;Non vérifié
+88308;Mont-lès-Neufchâteau;88;eau potable;99734;2024;70,6;1,5;3,7;65,7;conforme;4106;4106;42;149;267;Non vérifié
+88309;Monthureux-le-Sec;88;eau potable;99891;2024;73,4;2,2;5,9;66,2;conforme;48236;4578;72;154;175;Non vérifié
+88310;Monthureux-sur-Saône;88;eau potable;99735;2024;86,5;1,3;8,3;66,7;conforme;7948;7948;25;57;857;Non vérifié
+88311;Montmotier;88;eau potable : CAE REGIE;331574;2024;70,3;2,7;6,3;66,3;conforme;689673;812;64;156;35;Non vérifié
+88312;Morelmaison;88;eau potable;99917;2024;79,8;2,3;9,0;66,8;conforme;146174;4125;58;96;195;Non vérifié
+88313;Moriville;88;eau potable : SIE NOMEXY;99902;2024;77,6;2,0;6,9;66,4;conforme;131400;5876;36;106;443;Non vérifié
+88314;Morizécourt;88;eau potable;99738;2024;67,7;2,5;5,2;66,0;conforme;2464;2464;69;177;98;Non vérifié
+88315;Mortagne;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;6281;88;243;196;Non vérifié
+88316;Morville;88;eau potable;99889;2024;83,1;4,5;22,1;69,4;conforme;142898;1738;113;74;42;Non vérifié
+88317;Moussey;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;17561;88;243;548;Non vérifié
+88318;Moyemont;88;eau potable;99797;2024;98,9;0,5;40,5;73,1;conforme;431;195;2;13;220;Non vérifié
+88319;Moyenmoutier;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;100434;88;243;3134;Non vérifié
+88320;Nayemont-les-Fosses;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;24932;88;243;778;Non vérifié
+88321;Neufchâteau (avant 2025);88;eau potable (REANE (Régie Autonome des Eaux et de l'Assainissement de Neufchâteau));99744;2024;86,9;3,4;22,4;69,5;conforme;80665;80665;33;56;6732;Non vérifié
+88322;La Neuveville-devant-Lépanges;88;eau potable;99746;2024;85,9;0,7;4,2;65,8;conforme;3551;3551;20;60;493;Non vérifié
+88324;La Neuveville-sous-Châtenois;88;eau potable;99747;2024;82,7;2,2;10,5;67,1;conforme;3935;3935;30;77;363;Non vérifié
+88325;La Neuveville-sous-Montfort;88;eau potable;99891;2024;73,4;2,2;5,9;66,2;conforme;48236;4656;72;154;178;Non vérifié
+88326;Neuvillers-sur-Fave;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;11441;88;243;357;Non vérifié
+88327;Nomexy;88;eau potable : SIE NOMEXY;99902;2024;77,6;2,0;6,9;66,4;conforme;131400;25267;36;106;1905;Non vérifié
+88328;Nompatelize;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;17529;88;243;547;Non vérifié
+88330;Nonville;88;eau potable;99750;2024;88,8;1,8;14,1;67,8;conforme;2667;2667;40;47;185;Non vérifié
+88331;Nonzeville;88;eau potable;99903;2024;61,8;3,9;6,3;66,3;non conforme;19929;2560;125;227;56;Non vérifié
+88332;Norroy;88;eau potable;99752;2024;76,2;2,2;7,2;66,4;conforme;4778;4778;64;112;203;Non vérifié
+88333;Nossoncourt;88;eau potable;99882;2024;70,3;2,0;4,7;65,9;conforme;36580;3088;69;155;122;Non vérifié
+88334;Oëlleville;88;eau potable;99917;2024;79,8;2,3;9,0;66,8;conforme;146174;5627;58;96;266;Non vérifié
+88335;Offroicourt;88;eau potable;99877;2024;79,7;1,2;4,8;66,0;conforme;64824;3603;68;95;145;Non vérifié
+88336;Ollainville;88;eau potable;99889;2024;83,1;4,5;22,1;69,4;conforme;142898;2979;113;74;72;Non vérifié
+88338;Ortoncourt;88;eau potable;99756;2024;51,3;39,2;41,4;73,3;non conforme;25897;8852;258;504;94;Non vérifié
+88340;Padoux;88;eau potable : CAE REGIE;331574;2024;70,3;2,7;6,3;66,3;conforme;689673;11325;64;156;488;Non vérifié
+88341;Pair-et-Grandrupt;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;15575;88;243;486;Non vérifié
+88342;Pallegney;88;eau potable : SIE NOMEXY;99902;2024;77,6;2,0;6,9;66,4;conforme;131400;2361;36;106;178;Non vérifié
+88343;Parey-sous-Montfort;88;eau potable;99917;2024;79,8;2,3;9,0;66,8;conforme;146174;3469;58;96;164;Non vérifié
+88344;Pargny-sous-Mureau;88;eau potable;99758;2024;86,2;1,7;10,5;67,1;conforme;1613;1613;23;59;190;Non vérifié
+88345;La Petite-Fosse;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;2916;88;243;91;Non vérifié
+88346;La Petite-Raon;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;23522;88;243;734;Non vérifié
+88347;Pierrefitte;88;eau potable;99901;2024;74,5;1,4;4,2;65,8;conforme;97090;3458;71;126;134;Non vérifié
+88348;Pierrepont-sur-l'Arentèle;88;eau potable;99903;2024;61,8;3,9;6,3;66,3;non conforme;19929;6673;125;227;146;Non vérifié
+88349;Plainfaing;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;50281;88;243;1569;Non vérifié
+88350;Pleuvezain;88;eau potable;99914;2024;73,2;2,5;6,8;66,4;conforme;10038;1957;77;134;70;Non vérifié
+88351;Plombières-les-Bains;88;eau potable : Plombières-les-Bains;99762;2024;83,4;0,6;3,1;65,6;conforme;14896;14896;26;71;1573;Non vérifié
+88352;Pompierre;88;eau potable;99765;2024;73,4;5,2;14,4;67,9;conforme;5447;5447;80;132;187;Non vérifié
+88353;Pont-lès-Bonfays;88;eau potable;99901;2024;74,5;1,4;4,2;65,8;conforme;97090;2581;71;126;100;Non vérifié
+88354;Pont-sur-Madon;88;eau potable;99906;2024;91,0;0,9;9,1;66,8;conforme;50589;1051;16;37;178;Non vérifié
+88355;Portieux;88;eau potable : CAE REGIE;331574;2024;70,3;2,7;6,3;66,3;conforme;689673;28405;64;156;1224;Non vérifié
+88356;Les Poulières;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;9838;88;243;307;Non vérifié
+88357;Poussay;88;eau potable;99906;2024;91,0;0,9;9,1;66,8;conforme;50589;3857;16;37;653;Non vérifié
+88358;Pouxeux;88;eau potable : CAE REGIE;331574;2024;70,3;2,7;6,3;66,3;conforme;689673;45183;64;156;1947;Non vérifié
+88359;Prey;88;eau potable;99910;2024;74,8;1,6;4,6;65,9;conforme;25696;1450;45;126;88;Non vérifié
+88360;Provenchères-lès-Darney;88;eau potable;99891;2024;73,4;2,2;5,9;66,2;conforme;48236;3741;72;154;143;Non vérifié
+88361;Provenchères-et-Colroy;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;41116;88;243;1283;Non vérifié
+88362;Le Puid;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;3717;88;243;116;Non vérifié
+88363;Punerot;88;eau potable;208980;2024;73,8;2,3;6,4;66,3;conforme;33756;4950;91;131;149;Non vérifié
+88364;Puzieux;88;eau potable;99906;2024;91,0;0,9;9,1;66,8;conforme;50589;862;16;37;146;Non vérifié
+88365;Racécourt;88;eau potable;99877;2024;79,7;1,2;4,8;66,0;conforme;64824;3553;68;95;143;Non vérifié
+88366;Rainville;88;eau potable;99917;2024;79,8;2,3;9,0;66,8;conforme;146174;5733;58;96;271;Non vérifié
+88367;Rambervillers;88;eau potable;99876;2024;73,1;2,7;7,4;66,5;conforme;175853;104553;57;133;5018;Non vérifié
+88368;Ramecourt;88;eau potable;99906;2024;91,0;0,9;9,1;66,8;conforme;50589;851;16;37;144;Non vérifié
+88369;Ramonchamp;88;eau potable;99905;2024;65,6;4,4;8,3;66,7;non conforme;97163;20298;31;194;1815;Non vérifié
+88370;Rancourt;88;eau potable;99877;2024;79,7;1,2;4,8;66,0;conforme;64824;1863;68;95;75;Non vérifié
+88371;Raon-aux-Bois;88;eau potable : CAE REGIE;331574;2024;70,3;2,7;6,3;66,3;conforme;689673;27894;64;156;1202;Non vérifié
+88372;Raon-l'Étape;88;eau potable : DSP AEP;339514;2024;69,9;5,3;12,4;67,5;conforme;531988;124569;58;156;5886;Non vérifié
+88373;Raon-sur-Plaine;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;4326;88;243;135;Non vérifié
+88374;Rapey;88;eau potable : SIE du Haut du mont;333434;2024;75,6;2,4;7,3;66,5;conforme;95300;675;77;144;24;Non vérifié
+88375;Raves;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;15414;88;243;481;Non vérifié
+88376;Rebeuville;88;eau potable;99899;2024;75,6;3,1;9,4;66,9;conforme;26421;7391;69;120;294;Non vérifié
+88377;Regnévelle;88;eau potable;99779;2024;81,5;1,6;7,0;66,4;conforme;3603;3603;81;83;122;Non vérifié
+88378;Regney;88;eau potable : SIE du Haut du mont;333434;2024;75,6;2,4;7,3;66,5;conforme;95300;2786;77;144;99;Non vérifié
+88379;Rehaincourt;88;eau potable : CAE REGIE;331574;2024;70,3;2,7;6,3;66,3;conforme;689673;8447;64;156;364;Non vérifié
+88380;Rehaupal;88;eau potable : Syndicat des eaux de blanchefontaine;99883;2024;66,6;3,3;6,7;66,3;conforme;13249;6578;86;180;210;Non vérifié
+88381;Relanges;88;eau potable;99781;2024;90,9;0,5;4,6;65,9;conforme;2336;2336;34;40;189;Non vérifié
+88382;Remicourt;88;eau potable;99877;2024;79,7;1,2;4,8;66,0;conforme;64824;1565;68;95;63;Non vérifié
+88383;Remiremont;88;eau potable : Remiremont;99784;2024;83,1;3,6;17,7;68,5;conforme;80220;80220;30;76;7388;Non vérifié
+88385;Remoncourt;88;eau potable;99891;2024;73,4;2,2;5,9;66,2;conforme;48236;14832;72;154;567;Non vérifié
+88386;Remomeix;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;13716;88;243;428;Non vérifié
+88387;Removille;88;eau potable;99917;2024;79,8;2,3;9,0;66,8;conforme;146174;3998;58;96;189;Non vérifié
+88388;Renauvoid;88;eau potable;99901;2024;74,5;1,4;4,2;65,8;conforme;97090;3045;71;126;118;Non vérifié
+88389;Repel;88;eau potable;99917;2024;79,8;2,3;9,0;66,8;conforme;146174;1756;58;96;83;Non vérifié
+88390;Robécourt;88;eau potable;99894;2024;77,0;3,0;10,0;67,0;conforme;28470;4159;110;179;104;Non vérifié
+88391;Rochesson;88;eau potable : CCHV;327694;2024;70,8;3,1;7,4;66,5;conforme;385842;12915;52;152;676;Non vérifié
+88393;Rollainville;88;eau potable;99895;2024;79,5;1,3;5,1;66,0;conforme;12812;3700;31;94;322;Non vérifié
+88394;Romain-aux-Bois;88;eau potable;99894;2024;77,0;3,0;10,0;67,0;conforme;28470;1879;110;179;47;Non vérifié
+88395;Romont;88;eau potable;99876;2024;73,1;2,7;7,4;66,5;conforme;175853;7459;57;133;358;Non vérifié
+88398;Les Rouges-Eaux;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;2564;88;243;80;Non vérifié
+88399;Le Roulier;88;eau potable;99786;2024;92,6;0,6;7,3;66,5;conforme;1774;1774;23;30;208;Non vérifié
+88400;Rouvres-en-Xaintois;88;eau potable;99917;2024;79,8;2,3;9,0;66,8;conforme;146174;5479;58;96;259;Non vérifié
+88401;Rouvres-la-Chétive;88;eau potable;99787;2024;61,7;5,3;8,5;66,7;non conforme;12439;12439;73;226;468;Non vérifié
+88402;Roville-aux-Chênes;88;eau potable;99876;2024;73,1;2,7;7,4;66,5;conforme;175853;7292;57;133;350;Non vérifié
+88403;Rozerotte;88;eau potable;99877;2024;79,7;1,2;4,8;66,0;conforme;64824;4497;68;95;181;Non vérifié
+88404;Rozières-sur-Mouzon;88;eau potable;99894;2024;77,0;3,0;10,0;67,0;conforme;28470;2759;110;179;69;Non vérifié
+88406;Rugney;88;eau potable : SIE du Haut du mont;333434;2024;75,6;2,4;7,3;66,5;conforme;95300;3658;77;144;130;Non vérifié
+88407;Ruppes;88;eau potable;208980;2024;73,8;2,3;6,4;66,3;conforme;33756;4950;91;131;149;Non vérifié
+88408;Rupt-sur-Moselle;88;eau potable;99789;2024;66,9;7,2;14,5;67,9;non conforme;84096;84096;67;181;3419;Non vérifié
+88409;Saint-Amé;88;eau potable : SAINT AME;99791;2024;59,8;5,7;8,6;66,7;non conforme;43690;43690;56;243;2129;Non vérifié
+88410;Sainte-Barbe;88;eau potable;99882;2024;70,3;2,0;4,7;65,9;conforme;36580;6759;69;155;267;Non vérifié
+88411;Saint-Baslemont;88;eau potable;99891;2024;73,4;2,2;5,9;66,2;conforme;48236;2276;72;154;87;Non vérifié
+88412;Saint-Benoît-la-Chipotte;88;eau potable;99876;2024;73,1;2,7;7,4;66,5;conforme;175853;9209;57;133;442;Non vérifié
+88413;Saint-Dié-des-Vosges;88;eau potable : DSP AEP;339514;2024;69,9;5,3;12,4;67,5;conforme;531988;407419;58;156;19251;Non vérifié
+88415;Saint-Étienne-lès-Remiremont;88;eau potable : SAINT ETIENNE LES REMIREMONT;99795;2024;84,0;2,5;13,2;67,6;conforme;33498;33498;24;69;3818;Non vérifié
+88416;Saint-Genest;88;eau potable;99797;2024;98,9;0,5;40,5;73,1;conforme;431;116;2;13;131;Non vérifié
+88417;Saint-Gorgon;88;eau potable;99876;2024;73,1;2,7;7,4;66,5;conforme;175853;7480;57;133;359;Non vérifié
+88418;Sainte-Hélène;88;eau potable;99798;2024;55,1;5,2;6,4;66,3;non conforme;18202;18202;112;295;447;Non vérifié
+88419;Saint-Jean-d'Ormont;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;4294;88;243;134;Non vérifié
+88421;Saint-Julien;88;eau potable;99800;2024;60,9;4,3;6,8;66,4;non conforme;7848;7848;209;233;103;Non vérifié
+88423;Saint-Léonard;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;44513;88;243;1389;Non vérifié
+88424;Sainte-Marguerite;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;71592;88;243;2234;Non vérifié
+88425;Saint-Maurice-sur-Mortagne;88;eau potable;99876;2024;73,1;2,7;7,4;66,5;conforme;175853;3792;57;133;182;Non vérifié
+88426;Saint-Maurice-sur-Moselle;88;eau potable;99905;2024;65,6;4,4;8,3;66,7;non conforme;97163;14606;31;194;1306;Non vérifié
+88427;Saint-Menge;88;eau potable;99917;2024;79,8;2,3;9,0;66,8;conforme;146174;2433;58;96;115;Non vérifié
+88428;Saint-Michel-sur-Meurthe;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;57203;88;243;1785;Non vérifié
+88429;Saint-Nabord;88;eau potable : Saint-Nabord;99809;2024;71,5;3,3;8,3;66,7;conforme;88976;88976;62;145;3953;Non vérifié
+88430;Saint-Ouen-lès-Parey;88;eau potable;99811;2024;87,2;0,8;5,4;66,1;conforme;3224;3224;18;55;487;Non vérifié
+88431;Saint-Paul;88;eau potable;99917;2024;79,8;2,3;9,0;66,8;conforme;146174;3067;58;96;145;Non vérifié
+88432;Saint-Pierremont;88;eau potable;99882;2024;70,3;2,0;4,7;65,9;conforme;36580;3873;69;155;153;Non vérifié
+88433;Saint-Prancher;88;eau potable;99917;2024;79,8;2,3;9,0;66,8;conforme;146174;1396;58;96;66;Non vérifié
+88434;Saint-Remimont;88;eau potable;99889;2024;83,1;4,5;22,1;69,4;conforme;142898;8523;113;74;206;Non vérifié
+88435;Saint-Remy;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;16600;88;243;518;Non vérifié
+88436;Saint-Stail;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;2275;88;243;71;Non vérifié
+88437;Saint-Vallier;88;eau potable : SIE du Haut du mont;333434;2024;75,6;2,4;7,3;66,5;conforme;95300;2814;77;144;100;Non vérifié
+88438;La Salle;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;12851;88;243;401;Non vérifié
+88439;Sanchey;88;eau potable : CAE REGIE;331574;2024;70,3;2,7;6,3;66,3;conforme;689673;22348;64;156;963;Non vérifié
+88440;Sandaucourt;88;eau potable;99889;2024;83,1;4,5;22,1;69,4;conforme;142898;7488;113;74;181;Non vérifié
+88441;Sans-Vallois;88;eau potable;99901;2024;74,5;1,4;4,2;65,8;conforme;97090;3252;71;126;126;Non vérifié
+88442;Sapois;88;eau potable : CCHV;327694;2024;70,8;3,1;7,4;66,5;conforme;385842;11941;52;152;625;Non vérifié
+88443;Sartes;88;eau potable;99819;2024;84,6;3,7;20,3;69,1;conforme;1891;1891;59;66;88;Non vérifié
+88444;Le Saulcy;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;9390;88;243;293;Non vérifié
+88445;Saulcy-sur-Meurthe;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;74316;88;243;2319;Non vérifié
+88446;Saulxures-lès-Bulgnéville;88;eau potable;99822;2024;96,2;0,3;6,3;66,3;conforme;570;570;7;17;227;Non vérifié
+88447;Saulxures-sur-Moselotte;88;eau potable : CCHV;327694;2024;70,8;3,1;7,4;66,5;conforme;385842;49023;52;152;2566;Non vérifié
+88448;Sauville;88;eau potable;99825;2024;63,0;4,2;7,2;66,4;non conforme;8738;8738;142;213;168;Non vérifié
+88449;Savigny;88;eau potable : CAE REGIE;331574;2024;70,3;2,7;6,3;66,3;conforme;689673;4897;64;156;211;Non vérifié
+88450;Senaide;88;eau potable;99827;2024;96,7;0,4;10,5;67,1;conforme;599;599;9;14;185;Non vérifié
+88451;Senones;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;70662;88;243;2205;Non vérifié
+88452;Senonges;88;eau potable;99901;2024;74,5;1,4;4,2;65,8;conforme;97090;3381;71;126;131;Non vérifié
+88453;Seraumont;88;eau potable;116003;2024;75,4;1,9;5,9;66,2;conforme;15403;2300;191;120;33;Non vérifié
+88454;Sercoeur;88;eau potable : SIE NOMEXY;99902;2024;77,6;2,0;6,9;66,4;conforme;131400;2984;36;106;225;Non vérifié
+88455;Serécourt;88;eau potable;99828;2024;93,5;0,9;12,9;67,6;conforme;703;703;19;26;100;Non vérifié
+88456;Serocourt;88;eau potable;99881;2024;57,9;4,9;6,7;66,3;non conforme;31299;7344;240;268;84;Non vérifié
+88457;Sionne;88;eau potable;99829;2024;72,9;3,0;8,2;66,6;conforme;1675;1675;33;134;139;Non vérifié
+88458;Socourt;88;eau potable : EP CHARMES;99591;2024;86,5;2,4;15,2;68,0;conforme;43800;2592;25;59;282;Non vérifié
+88459;Soncourt;88;eau potable;99914;2024;73,2;2,5;6,8;66,4;conforme;10038;1174;77;134;42;Non vérifié
+88460;Soulosse-sous-Saint-Élophe;88;eau potable;99895;2024;79,5;1,3;5,1;66,0;conforme;12812;7457;31;94;649;Non vérifié
+88461;Suriauville;88;eau potable;99878;2024;84,6;3,0;16,8;68,4;conforme;28470;11035;151;292;200;Non vérifié
+88462;Le Syndicat;88;eau potable : CCHV;327694;2024;70,8;3,1;7,4;66,5;conforme;385842;35191;52;152;1842;Non vérifié
+88463;Taintrux;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;46115;88;243;1439;Non vérifié
+88464;Tendon;88;eau potable;99912;2024;70,3;2,5;5,8;66,2;conforme;19162;10891;60;156;499;Non vérifié
+88465;Capavenir Vosges;88;eau potable (THAON-LES-VOSGES);99834;2024;80,3;4,3;17,4;68,5;conforme;127130;109501;35;121;8547;Non vérifié
+88466;They-sous-Montfort;88;eau potable;99891;2024;73,4;2,2;5,9;66,2;conforme;48236;3165;72;154;121;Non vérifié
+88467;Thiéfosse;88;eau potable : CCHV;327694;2024;70,8;3,1;7,4;66,5;conforme;385842;11329;52;152;593;Non vérifié
+88468;Le Thillot;88;eau potable;99905;2024;65,6;4,4;8,3;66,7;non conforme;97163;35418;31;194;3167;Non vérifié
+88469;Thiraucourt;88;eau potable;99877;2024;79,7;1,2;4,8;66,0;conforme;64824;2509;68;95;101;Non vérifié
+88470;Le Tholy;88;eau potable : CCGHV;327394;2024;84,7;1,7;9,7;66,9;conforme;177767;19394;36;64;1489;Non vérifié
+88471;Les Thons;88;eau potable;99897;2024;75,9;2,8;8,9;66,8;conforme;14308;5257;148;115;97;Non vérifié
+88472;Thuillières;88;eau potable;99891;2024;73,4;2,2;5,9;66,2;conforme;48236;2825;72;154;108;Non vérifié
+88473;Tignécourt;88;eau potable;99841;2024;85,9;0,7;4,3;65,9;conforme;1022;1022;35;59;80;Non vérifié
+88474;Tilleux;88;eau potable;99899;2024;75,6;3,1;9,4;66,9;conforme;26421;1684;69;120;67;Non vérifié
+88475;Tollaincourt;88;eau potable;99894;2024;77,0;3,0;10,0;67,0;conforme;28470;4638;110;179;116;Non vérifié
+88476;Totainville;88;eau potable;99917;2024;79,8;2,3;9,0;66,8;conforme;146174;2348;58;96;111;Non vérifié
+88477;Trampot;88;eau potable;99900;2024;74,4;1,7;5,1;66,0;conforme;134028;2072;57;125;99;Non vérifié
+88478;Tranqueville-Graux;88;eau potable;208980;2024;73,8;2,3;6,4;66,3;conforme;33756;2724;91;131;82;Non vérifié
+88479;Trémonzey;88;eau potable : CAE REGIE;331574;2024;70,3;2,7;6,3;66,3;conforme;689673;5430;64;156;234;Non vérifié
+88480;Ubexy;88;eau potable : SIE du Haut du mont;333434;2024;75,6;2,4;7,3;66,5;conforme;95300;4783;77;144;170;Non vérifié
+88481;Uriménil;88;eau potable : CAE REGIE;331574;2024;70,3;2,7;6,3;66,3;conforme;689673;30702;64;156;1323;Non vérifié
+88482;Urville;88;eau potable;99845;2024;76,1;11,9;37,9;72,6;conforme;8035;8035;408;160;54;Non vérifié
+88483;Uxegney;88;eau potable : CAE REGIE;331574;2024;70,3;2,7;6,3;66,3;conforme;689673;51913;64;156;2237;Non vérifié
+88484;Uzemain;88;eau potable;99901;2024;74,5;1,4;4,2;65,8;conforme;97090;26995;71;126;1046;Non vérifié
+88485;La Vacheresse-et-la-Rouillie;88;eau potable;99878;2024;84,6;3,0;16,8;68,4;conforme;28470;7393;151;292;134;Non vérifié
+88486;Vagney;88;eau potable : CCHV;327694;2024;70,8;3,1;7,4;66,5;conforme;385842;73420;52;152;3843;Non vérifié
+88487;Le Val-d'Ajol;88;eau potable : Le Val-d'Ajol;99849;2024;76,4;1,2;4,0;65,8;conforme;51912;51912;37;110;3885;Non vérifié
+88488;Valfroicourt;88;eau potable;99877;2024;79,7;1,2;4,8;66,0;conforme;64824;5665;68;95;228;Non vérifié
+88489;Valleroy-aux-Saules;88;eau potable;99877;2024;79,7;1,2;4,8;66,0;conforme;64824;6336;68;95;255;Non vérifié
+88490;Valleroy-le-Sec;88;eau potable;99852;2024;30,1;11,8;5,1;66,0;non conforme;23689;23689;342;846;190;Non vérifié
+88491;Les Vallois;88;eau potable;99901;2024;74,5;1,4;4,2;65,8;conforme;97090;3303;71;126;128;Non vérifié
+88492;Le Valtin;88;eau potable : CCGHV;327394;2024;84,7;1,7;9,7;66,9;conforme;177767;964;36;64;74;Non vérifié
+88493;Varmonzey;88;eau potable : SIE du Haut du mont;333434;2024;75,6;2,4;7,3;66,5;conforme;95300;703;77;144;25;Non vérifié
+88494;Vaubexy;88;eau potable;99854;2024;100,0;0,1;20,8;69,2;conforme;62;62;1;2;125;Non vérifié
+88495;Vaudéville;88;eau potable : EP EPINAL;99642;2024;78,9;4,9;18,4;68,7;conforme;501531;2827;39;101;199;Non vérifié
+88496;Vaudoncourt;88;eau potable;99889;2024;83,1;4,5;22,1;69,4;conforme;142898;6040;113;74;146;Non vérifié
+88497;Vaxoncourt;88;eau potable : SIE NOMEXY;99902;2024;77,6;2,0;6,9;66,4;conforme;131400;6725;36;106;507;Non vérifié
+88498;Vecoux;88;eau potable : Vecoux;99855;2024;52,3;9,2;10,1;67,0;non conforme;36938;36938;116;342;871;Non vérifié
+88499;Velotte-et-Tatignécourt;88;eau potable;99877;2024;79,7;1,2;4,8;66,0;conforme;64824;3926;68;95;158;Non vérifié
+88500;Ventron;88;eau potable : CCHV;327694;2024;70,8;3,1;7,4;66,5;conforme;385842;15379;52;152;805;Non vérifié
+88501;Le Vermont;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;2307;88;243;72;Non vérifié
+88502;Vervezelle;88;eau potable;99859;2024;91,6;0,4;3,9;65,8;conforme;543;543;14;37;108;Non vérifié
+88503;Vexaincourt;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;4679;88;243;146;Non vérifié
+88504;Vicherey;88;eau potable;99914;2024;73,2;2,5;6,8;66,4;conforme;10038;4306;77;134;154;Non vérifié
+88505;Vienville;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;3749;88;243;117;Non vérifié
+88506;Vieux-Moulin;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;10447;88;243;326;Non vérifié
+88507;Villers;88;eau potable;99906;2024;91,0;0,9;9,1;66,8;conforme;50589;1110;16;37;188;Non vérifié
+88508;Ville-sur-Illon;88;eau potable;99862;2024;69,9;4,7;10,8;67,2;conforme;12180;12180;65;159;517;Non vérifié
+88509;Villoncourt;88;eau potable : SIE NOMEXY;99902;2024;77,6;2,0;6,9;66,4;conforme;131400;1340;36;106;101;Non vérifié
+88510;Villotte;88;eau potable;99894;2024;77,0;3,0;10,0;67,0;conforme;28470;4638;110;179;116;Non vérifié
+88511;Villouxel;88;eau potable;99900;2024;74,4;1,7;5,1;66,0;conforme;134028;1737;57;125;83;Non vérifié
+88512;Viménil;88;eau potable;99863;2024;84,3;1,3;7,2;66,4;conforme;3796;3796;45;71;233;Non vérifié
+88513;Vincey;88;eau potable : SIE NOMEXY;99902;2024;77,6;2,0;6,9;66,4;conforme;131400;27230;36;106;2053;Non vérifié
+88514;Viocourt;88;eau potable;99917;2024;79,8;2,3;9,0;66,8;conforme;146174;3490;58;96;165;Non vérifié
+88515;Vioménil;88;eau potable;198783;2024;89,9;0,4;3,9;65,8;conforme;949;949;17;38;153;Non vérifié
+88516;Vittel;88;eau potable;99867;2024;75,0;4,9;14,8;68,0;conforme;121260;121260;70;128;4780;Non vérifié
+88517;Viviers-le-Gras;88;eau potable;99868;2024;72,6;5,1;13,5;67,7;conforme;4840;4840;73;138;181;Non vérifié
+88518;Viviers-lès-Offroicourt;88;eau potable;99877;2024;79,7;1,2;4,8;66,0;conforme;64824;646;68;95;26;Non vérifié
+88519;La Voivre;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;20766;88;243;648;Non vérifié
+88520;Les Voivres;88;eau potable : CAE REGIE;331574;2024;70,3;2,7;6,3;66,3;conforme;689673;6567;64;156;283;Non vérifié
+88521;Vomécourt;88;eau potable;99876;2024;73,1;2,7;7,4;66,5;conforme;175853;5563;57;133;267;Non vérifié
+88522;Vomécourt-sur-Madon;88;eau potable;99906;2024;91,0;0,9;9,1;66,8;conforme;50589;396;16;37;67;Non vérifié
+88523;Vouxey;88;eau potable;99917;2024;79,8;2,3;9,0;66,8;conforme;146174;3638;58;96;172;Non vérifié
+88524;Vrécourt;88;eau potable;99870;2024;78,9;1,2;4,6;65,9;conforme;6351;6351;51;96;341;Non vérifié
+88525;Vroville;88;eau potable;99906;2024;91,0;0,9;9,1;66,8;conforme;50589;797;16;37;135;Non vérifié
+88526;Wisembach;88;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;13684;88;243;427;Non vérifié
+88527;Xaffévillers;88;eau potable;99876;2024;73,1;2,7;7,4;66,5;conforme;175853;2729;57;133;131;Non vérifié
+88528;Xamontarupt;88;eau potable;99912;2024;70,3;2,5;5,8;66,2;conforme;19162;3317;60;156;152;Non vérifié
+88529;Xaronval;88;eau potable : SIE du Haut du mont;333434;2024;75,6;2,4;7,3;66,5;conforme;95300;3011;77;144;107;Non vérifié
+88530;Xertigny;88;eau potable : EP XERTIGNY;99872;2024;78,7;1,3;4,8;66,0;conforme;39384;39384;42;123;2589;Non vérifié
+88531;Xonrupt-Longemer;88;eau potable : CCGHV;327394;2024;84,7;1,7;9,7;66,9;conforme;177767;19264;36;64;1479;Non vérifié
+88532;Zincourt;88;eau potable : SIE NOMEXY;99902;2024;77,6;2,0;6,9;66,4;conforme;131400;995;36;106;75;Non vérifié

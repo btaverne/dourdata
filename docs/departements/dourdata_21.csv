@@ -1,0 +1,649 @@
+﻿# DourData — eau perdue par les réseaux d'eau potable (indicateurs SISPEA)
+# Périmètre : Département 21
+# Source : SISPEA — Système d'Information des Services Publics d'Eau et d'Assainissement, via data.gouv.fr / services.eaufrance.fr
+# Licence : Licence Ouverte 2.0 (Etalab)
+# Millésime des données : 2023–2024 (année la plus récente disponible par commune)
+# Date de génération de l'export : 2026-07-05
+# Méthodologie et code : https://github.com/btaverne/dourdata
+# Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
+# Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
+21001;Agencourt;21;eau potable : DSP -Plaine de Nuits;257314;2024;79,7;2,8;11,0;67,2;conforme;146637;9135;60;134;416;Non vérifié
+21002;Agey;21;eau potable : Ex-CCVO;139674;2024;71,7;4,3;11,0;67,2;conforme;207001;5967;62;143;265;Non vérifié
+21003;Ahuy;21;eau potable : SEMOP Odivea Eau;305474;2024;81,5;11,5;50,4;75,1;conforme;3206680;27773;44;107;1718;Non vérifié
+21004;Aignay-le-Duc;21;eau potable;139585;2023;67,8;2,0;4,2;65,8;conforme;9205;6177;66;174;257;Sans anomalie apparente
+21005;Aiserey;21;eau potable : Racle;139576;2024;70,7;4,1;9,9;67,0;conforme;115679;23861;44;151;1500;Non vérifié
+21006;Aisey-sur-Seine;21;eau potable;139005;2024;95,8;0,3;6,3;66,3;conforme;394;394;7;18;160;Non vérifié
+21007;Aisy-sous-Thil;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;3424;47;103;200;Non vérifié
+21008;Alise-Sainte-Reine;21;eau potable;139006;2024;75,3;4,2;12,9;67,6;conforme;11804;11804;57;136;564;Non vérifié
+21009;Allerey;21;eau potable;139624;2024;83,0;1,3;6,3;66,3;conforme;155636;7768;122;243;174;Non vérifié
+21010;Aloxe-Corton;21;eau potable : AEP CABCS;243874;2024;81,8;3,4;15,3;68,1;conforme;716541;2145;47;85;125;Non vérifié
+21012;Ampilly-le-Sec;21;eau potable;139010;2024;100,0;0,0;4,4;65,9;conforme;0;0;0;0;322;Non vérifié
+21013;Ancey;21;eau potable : Ex-CCVO;139674;2024;71,7;4,3;11,0;67,2;conforme;207001;10155;62;143;451;Non vérifié
+21014;Antheuil;21;eau potable;139012;2024;76,2;1,5;4,7;65,9;conforme;734;734;32;117;63;Non vérifié
+21015;Antigny-la-Ville;21;eau potable;139580;2024;77,9;1,1;3,8;65,8;conforme;127396;1765;56;117;86;Non vérifié
+21016;Arceau;21;eau potable : SYNDICAT DE CLENAY - SAINT JULIEN;139606;2024;84,3;2,0;10,6;67,1;conforme;83950;10001;28;69;980;Non vérifié
+21017;Arcenant;21;eau potable : DSP -Plaine de Nuits;257314;2024;79,7;2,8;11,0;67,2;conforme;146637;11374;60;134;518;Non vérifié
+21018;Arcey;21;eau potable : Ex-CCVO;139674;2024;71,7;4,3;11,0;67,2;conforme;207001;1148;62;143;51;Non vérifié
+21020;Arconcey;21;eau potable;139016;2024;93,9;0,2;3,0;65,6;conforme;900;900;11;24;217;Non vérifié
+21021;Arc-sur-Tille;21;eau potable : Arc - 4 communes;139578;2024;75,5;4,0;12,3;67,5;conforme;85366;53000;56;177;2584;Non vérifié
+21022;Argilly;21;eau potable : DSP -Plaine de Nuits;257314;2024;79,7;2,8;11,0;67,2;conforme;146637;11901;60;134;542;Non vérifié
+21023;Arnay-le-Duc;21;eau potable;139580;2024;77,9;1,1;3,8;65,8;conforme;127396;27540;56;117;1342;Non vérifié
+21024;Arnay-sous-Vitteaux;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;1935;47;103;113;Non vérifié
+21025;Arrans;21;eau potable;139643;2024;74,3;1,1;3,2;65,6;conforme;46634;1533;65;124;65;Non vérifié
+21026;Asnières-en-Montagne;21;eau potable;139643;2024;74,3;1,1;3,2;65,6;conforme;46634;3774;65;124;160;Non vérifié
+21027;Asnières-lès-Dijon;21;eau potable : Secteur Valmy-Suzon;272074;2024;84,6;2,6;14,2;67,8;conforme;45429;11159;23;67;1310;Non vérifié
+21028;Athée;21;eau potable : ex Syndicat Saône-Mondragon;139594;2024;88,9;1,2;9,3;66,9;conforme;15181;4305;14;47;815;Non vérifié
+21029;Athie;21;eau potable;139657;2024;74,8;2,7;8,1;66,6;conforme;7884;2763;92;122;82;Non vérifié
+21030;Aubaine;21;eau potable;139588;2024;31,4;6,1;2,8;65,6;non conforme;85720;13771;424;801;89;Non vérifié
+21031;Aubigny-en-Plaine;21;eau potable;139584;2024;79,5;2,3;8,7;66,7;conforme;43520;6207;31;96;541;Non vérifié
+21032;Aubigny-la-Ronce;21;eau potable : Aubigny-La-Ronce;139023;2024;97,5;0,1;3,2;65,6;conforme;266;266;4;11;172;Non vérifié
+21033;Aubigny-lès-Sombernon;21;eau potable : ex-SIAEP de Drée;139610;2024;68,9;3,0;6,6;66,3;conforme;45990;4408;69;167;175;Non vérifié
+21035;Auvillars-sur-Saône;21;eau potable;139644;2024;75,9;2,0;6,2;66,2;conforme;156607;5021;40;119;343;Non vérifié
+21036;Auxant;21;eau potable;139580;2024;77,9;1,1;3,8;65,8;conforme;127396;1642;56;117;80;Non vérifié
+21037;Auxey-Duresses;21;eau potable : Auxey-Duresse;139026;2024;88,1;1,4;10,2;67,0;conforme;2289;2289;22;50;290;Non vérifié
+21038;Auxonne;21;eau potable : Auxonne;139027;2024;87,8;2,5;17,7;68,5;conforme;54969;54969;20;52;7581;Non vérifié
+21040;Avosnes;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;1421;47;103;83;Non vérifié
+21041;Avot;21;eau potable;139031;2024;81,3;3,1;13,3;67,7;conforme;2829;2829;42;85;186;Non vérifié
+21042;Bagnot;21;eau potable;139644;2024;75,9;2,0;6,2;66,2;conforme;156607;2254;40;119;154;Non vérifié
+21044;Balot;21;eau potable;139643;2024;74,3;1,1;3,2;65,6;conforme;46634;2029;65;124;86;Non vérifié
+21045;Barbirey-sur-Ouche;21;eau potable : Ex-CCVO;139674;2024;71,7;4,3;11,0;67,2;conforme;207001;5832;62;143;259;Non vérifié
+21046;Bard-le-Régulier;21;eau potable;139624;2024;83,0;1,3;6,3;66,3;conforme;155636;3259;122;243;73;Non vérifié
+21047;Bard-lès-Époisses;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;1233;47;103;72;Non vérifié
+21048;Barges;21;eau potable : Sud Dijonnais;190077;2024;86,6;2,2;14,2;67,8;conforme;83857;7950;33;108;652;Non vérifié
+21049;Barjon;21;eau potable;139038;2024;100,0;0,0;2,3;65,5;conforme;0;0;0;0;29;Non vérifié
+21050;Baubigny;21;eau potable : AEP CABCS;243874;2024;81,8;3,4;15,3;68,1;conforme;716541;3604;47;85;210;Non vérifié
+21051;Baulme-la-Roche;21;eau potable : Ex-CCVO;139674;2024;71,7;4,3;11,0;67,2;conforme;207001;2094;62;143;93;Non vérifié
+21052;Beaulieu;21;eau potable;139041;2024;96,3;;;;non calculable;;;;;28;Non vérifié
+21054;Beaune;21;eau potable : AEP CABCS;243874;2024;81,8;3,4;15,3;68,1;conforme;716541;349244;47;85;20352;Non vérifié
+21055;Beaunotte;21;eau potable;139045;2024;94,8;0,2;4,3;65,9;conforme;76;76;13;17;16;Non vérifié
+21056;Beire-le-Châtel;21;eau potable;139047;2024;68,6;3,9;8,6;66,7;conforme;18107;18107;54;166;921;Non vérifié
+21057;Beire-le-Fort;21;eau potable : SIPIT;139596;2024;71,5;3,3;8,4;66,7;conforme;106899;4677;38;144;339;Non vérifié
+21058;Belan-sur-Ource;21;eau potable;139586;2024;75,9;1,5;4,6;65,9;conforme;44271;6671;83;118;220;Non vérifié
+21059;Bellefond;21;eau potable : Secteur Valmy-Suzon;272074;2024;84,6;2,6;14,2;67,8;conforme;45429;7820;23;67;918;Non vérifié
+21060;Belleneuve;21;eau potable;139599;2024;58,1;4,2;5,8;66,2;non conforme;170562;55010;96;264;1571;Non vérifié
+21062;Bellenot-sous-Pouilly;21;eau potable;139051;2024;66,6;3,6;7,3;66,5;conforme;5125;5125;59;181;237;Non vérifié
+21063;Beneuvre;21;eau potable;139053;2024;76,7;1,9;6,2;66,2;conforme;1734;1734;51;112;94;Non vérifié
+21064;Benoisey;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;1627;47;103;95;Non vérifié
+21065;Bessey-en-Chaume;21;eau potable;139580;2024;77,9;1,1;3,8;65,8;conforme;127396;2442;56;117;119;Non vérifié
+21066;Bessey-la-Cour;21;eau potable;139580;2024;77,9;1,1;3,8;65,8;conforme;127396;1211;56;117;59;Non vérifié
+21067;Bessey-lès-Cîteaux;21;eau potable : Racle;139576;2024;70,7;4,1;9,9;67,0;conforme;115679;10801;44;151;679;Non vérifié
+21068;Beurey-Bauguay;21;eau potable;139057;2024;68,8;5,5;12,2;67,4;conforme;3533;3533;74;165;130;Non vérifié
+21069;Beurizot;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;1832;47;103;107;Non vérifié
+21070;Bévy;21;eau potable : Régie (22 communes + Nuits + Villars-Fontaine + Villers-la-Faye);316294;2024;74,7;4,5;13,1;67,6;conforme;382702;3500;72;126;133;Non vérifié
+21071;Bèze;21;eau potable;139061;2024;80,9;1,7;7,2;66,4;conforme;8650;8650;32;86;739;Non vérifié
+21072;Bézouotte;21;eau potable;139599;2024;58,1;4,2;5,8;66,2;non conforme;170562;7318;96;264;209;Non vérifié
+21074;BILLEY;21;eau potable;159721;2024;76,3;2,9;9,3;66,9;conforme;207043;1369;15;114;245;Non vérifié
+21076;Binges;21;eau potable;139599;2024;58,1;4,2;5,8;66,2;non conforme;170562;30814;96;264;880;Non vérifié
+21077;Bissey-la-Côte;21;eau potable;139586;2024;75,9;1,5;4,6;65,9;conforme;44271;4033;83;118;133;Non vérifié
+21078;Bissey-la-Pierre;21;eau potable;139643;2024;74,3;1,1;3,2;65,6;conforme;46634;1580;65;124;67;Non vérifié
+21079;Blagny-sur-Vingeanne;21;eau potable : ex syndicat de Blagny - Oisilly;139583;2024;90,1;0,6;5,4;66,1;conforme;1739;852;19;41;122;Non vérifié
+21080;Blaisy-Bas;21;eau potable : Ex-CCVO;139674;2024;71,7;4,3;11,0;67,2;conforme;207001;15244;62;143;677;Non vérifié
+21081;Blaisy-Haut;21;eau potable : Secteur du Cresson;272054;2024;74,0;1,2;3,5;65,7;conforme;28496;2680;60;132;123;Non vérifié
+21082;Blancey;21;eau potable;139070;2024;91,0;0,4;4,3;65,9;conforme;263;263;14;34;53;Non vérifié
+21083;Blanot;21;eau potable;139624;2024;83,0;1,3;6,3;66,3;conforme;155636;5358;122;243;120;Non vérifié
+21084;Source-Seine;21;eau potable;139732;2024;94,3;0,3;4,2;65,8;conforme;712;712;32;26;60;Non vérifié
+21085;Bligny-le-Sec;21;eau potable : Eau potable - Bligny-le-Sec;139073;2024;82,8;2,8;13,6;67,7;conforme;3168;3168;60;75;145;Non vérifié
+21086;Bligny-lès-Beaune;21;eau potable : AEP CABCS;243874;2024;81,8;3,4;15,3;68,1;conforme;716541;22102;47;85;1288;Non vérifié
+21087;Bligny-sur-Ouche;21;eau potable;139075;2024;77,6;2,3;8,1;66,6;conforme;11233;11233;38;104;814;Non vérifié
+21088;Boncourt-le-Bois;21;eau potable : DSP -Plaine de Nuits;257314;2024;79,7;2,8;11,0;67,2;conforme;146637;5929;60;134;270;Non vérifié
+21089;Bonnencontre;21;eau potable;139644;2024;75,9;2,0;6,2;66,2;conforme;156607;6323;40;119;432;Non vérifié
+21091;Bouhey;21;eau potable;139601;2024;80,5;1,9;7,8;66,6;conforme;101944;1660;86;152;53;Non vérifié
+21092;Bouilland;21;eau potable : AEP CABCS;243874;2024;81,8;3,4;15,3;68,1;conforme;716541;4204;47;85;245;Non vérifié
+21093;Bouix;21;eau potable;139079;2024;95,0;0,6;3,0;65,6;conforme;2661;2661;49;123;150;Non vérifié
+21094;Bourberain;21;eau potable : ex SISOV;139590;2024;68,1;3,6;7,7;66,5;conforme;116250;9066;65;177;382;Non vérifié
+21095;Bousselange;21;eau potable;139644;2024;75,9;2,0;6,2;66,2;conforme;156607;849;40;119;58;Non vérifié
+21097;Boussey;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;531;47;103;31;Non vérifié
+21098;Boux-sous-Salmaise;21;eau potable;139087;2024;76,2;2,1;6,6;66,3;conforme;4783;4783;106;116;124;Non vérifié
+21099;Bouze-lès-Beaune;21;eau potable : AEP CABCS;243874;2024;81,8;3,4;15,3;68,1;conforme;716541;5354;47;85;312;Non vérifié
+21100;Brain;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;616;47;103;36;Non vérifié
+21101;Braux;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;3082;47;103;180;Non vérifié
+21102;Brazey-en-Morvan;21;eau potable;139624;2024;83,0;1,3;6,3;66,3;conforme;155636;6920;122;243;155;Non vérifié
+21103;Brazey-en-Plaine;21;eau potable;139584;2024;79,5;2,3;8,7;66,7;conforme;43520;27824;31;96;2425;Non vérifié
+21104;Brémur-et-Vaurois;21;eau potable;139093;2024;23,8;12,5;3,9;65,8;non conforme;10129;10129;617;1166;45;Non vérifié
+21105;Bressey-sur-Tille;21;eau potable : Est Dijonnais Eau;139611;2024;86,3;4,4;27,4;70,5;conforme;268411;10930;27;61;1096;Non vérifié
+21106;Bretenière;21;eau potable : Sud Dijonnais Eau;260874;2024;80,8;7,0;29,7;70,9;conforme;593348;15850;45;102;959;Non vérifié
+21107;Bretigny;21;eau potable : SYNDICAT DE CLENAY - SAINT JULIEN;139606;2024;84,3;2,0;10,6;67,1;conforme;83950;9409;28;69;922;Non vérifié
+21108;Brianny;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;1746;47;103;102;Non vérifié
+21109;Brion-sur-Ource;21;eau potable;139586;2024;75,9;1,5;4,6;65,9;conforme;44271;6519;83;118;215;Non vérifié
+21110;Brochon;21;eau potable : Régie (22 communes + Nuits + Villars-Fontaine + Villers-la-Faye);316294;2024;74,7;4,5;13,1;67,6;conforme;382702;17475;72;126;664;Non vérifié
+21111;Brognon;21;eau potable : SYNDICAT DE CLENAY - SAINT JULIEN;139606;2024;84,3;2,0;10,6;67,1;conforme;83950;3235;28;69;317;Non vérifié
+21112;Broin;21;eau potable;139644;2024;75,9;2,0;6,2;66,2;conforme;156607;6060;40;119;414;Non vérifié
+21113;Broindon;21;eau potable : Sud Dijonnais;190077;2024;86,6;2,2;14,2;67,8;conforme;83857;2475;33;108;203;Non vérifié
+21114;Buffon;21;eau potable;139587;2024;80,5;1,2;5,1;66,0;conforme;3504;1805;33;85;152;Non vérifié
+21116;Bure-les-Templiers;21;eau potable;139096;2024;70,0;5,3;12,4;67,5;conforme;5803;5803;118;156;135;Non vérifié
+21117;Busseaut;21;eau potable;139098;2024;75,7;0,6;1,8;65,4;conforme;1496;1496;73;172;56;Non vérifié
+21118;Busserotte-et-Montenaille;21;eau potable;139100;2024;85,0;0,0;16,5;68,3;conforme;0;0;0;0;33;Non vérifié
+21119;Bussières;21;eau potable;139102;2024;62,1;1,6;2,6;65,5;non conforme;2044;2044;127;223;44;Non vérifié
+21121;Bussy-la-Pesle;21;eau potable : Ex-CCVO;139674;2024;71,7;4,3;11,0;67,2;conforme;207001;1644;62;143;73;Non vérifié
+21123;Buxerolles;21;eau potable;139604;2024;80,5;1,6;6,5;66,3;conforme;2716;1319;106;90;34;Non vérifié
+21124;Censerey;21;eau potable;139624;2024;83,0;1,3;6,3;66,3;conforme;155636;8126;122;243;182;Non vérifié
+21125;Cérilly;21;eau potable;139612;2024;71,9;100,0;7,2;66,4;conforme;547500;229286;2935;6413;214;Non vérifié
+21126;Cessey-sur-Tille;21;eau potable : Fauverney;139613;2024;87,7;1,8;13,0;67,6;conforme;24841;4690;20;69;637;Non vérifié
+21127;Chaignay;21;eau potable;139616;2024;77,8;2,2;7,8;66,6;conforme;21986;6187;34;108;493;Non vérifié
+21128;Chailly-sur-Armançon;21;eau potable;139601;2024;80,5;1,9;7,8;66,6;conforme;101944;8738;86;152;279;Non vérifié
+21129;Chambain;21;eau potable;139604;2024;80,5;1,6;6,5;66,3;conforme;2716;1397;106;90;36;Non vérifié
+21130;Chambeire;21;eau potable : Arc - 4 communes;139578;2024;75,5;4,0;12,3;67,5;conforme;85366;8615;56;177;420;Non vérifié
+21131;Chamblanc;21;eau potable;139644;2024;75,9;2,0;6,2;66,2;conforme;156607;6675;40;119;456;Non vérifié
+21132;Chamboeuf;21;eau potable : Régie (22 communes + Nuits + Villars-Fontaine + Villers-la-Faye);316294;2024;74,7;4,5;13,1;67,6;conforme;382702;9843;72;126;374;Non vérifié
+21133;Chambolle-Musigny;21;eau potable : Régie (22 communes + Nuits + Villars-Fontaine + Villers-la-Faye);316294;2024;74,7;4,5;13,1;67,6;conforme;382702;6948;72;126;264;Non vérifié
+21134;Chamesson;21;eau potable;139116;2024;64,6;3,4;6,2;66,2;non conforme;7359;7359;81;201;248;Non vérifié
+21135;Champagne-sur-Vingeanne;21;eau potable : Champagne sur Vingeanne;139117;2024;83,9;4,7;24,8;70,0;conforme;9126;9126;80;142;311;Non vérifié
+21136;Champagny;21;eau potable : Eau potable - CHAMPAGNY;139119;2024;94,0;0,5;8,5;66,7;conforme;203;203;21;21;27;Non vérifié
+21137;Champ-d'Oiseau;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;1935;47;103;113;Non vérifié
+21138;Champdôtre;21;eau potable : SIPIT;139596;2024;71,5;3,3;8,4;66,7;conforme;106899;8277;38;144;600;Non vérifié
+21139;Champeau-en-Morvan;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;3818;47;103;223;Non vérifié
+21140;Champignolles;21;eau potable;139580;2024;77,9;1,1;3,8;65,8;conforme;127396;1560;56;117;76;Non vérifié
+21141;Champrenault;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;651;47;103;38;Non vérifié
+21142;Chanceaux;21;eau potable;139126;2024;71,3;2,1;5,1;66,0;conforme;5404;5404;73;150;202;Non vérifié
+21143;Channay;21;eau potable;139128;2024;70,5;1,0;2,3;65,5;conforme;1405;1405;66;159;58;Non vérifié
+21145;Charigny;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;616;47;103;36;Non vérifié
+21146;Charmes;21;eau potable;139599;2024;58,1;4,2;5,8;66,2;non conforme;170562;4272;96;264;122;Non vérifié
+21147;Charny;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;565;47;103;33;Non vérifié
+21148;Charrey-sur-Saône;21;eau potable;139644;2024;75,9;2,0;6,2;66,2;conforme;156607;4845;40;119;331;Non vérifié
+21149;Charrey-sur-Seine;21;eau potable;139634;2024;55,0;4,3;5,2;66,0;non conforme;14031;6196;125;302;136;Non vérifié
+21150;Chassagne-Montrachet;21;eau potable : AEP CABCS;243874;2024;81,8;3,4;15,3;68,1;conforme;716541;4479;47;85;261;Non vérifié
+21151;Chassey;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;1627;47;103;95;Non vérifié
+21152;Châteauneuf;21;eau potable;139601;2024;80,5;1,9;7,8;66,6;conforme;101944;2537;86;152;81;Non vérifié
+21153;Châtellenot;21;eau potable;139601;2024;80,5;1,9;7,8;66,6;conforme;101944;5230;86;152;167;Non vérifié
+21155;Chaudenay-la-Ville;21;eau potable;139588;2024;31,4;6,1;2,8;65,6;non conforme;85720;5725;424;801;37;Non vérifié
+21156;Chaudenay-le-Château;21;eau potable;139588;2024;31,4;6,1;2,8;65,6;non conforme;85720;7427;424;801;48;Non vérifié
+21157;Chaugey;21;eau potable;139139;2024;92,9;0,2;3,2;65,6;conforme;124;124;14;23;24;Non vérifié
+21158;Chaume-et-Courchamp;21;eau potable;139618;2024;70,6;1,8;4,3;65,9;conforme;39748;3860;56;161;188;Non vérifié
+21160;Chaume-lès-Baigneux;21;eau potable;139142;2024;95,3;0,4;7,6;66,5;conforme;540;540;15;19;101;Non vérifié
+21161;Chaumont-le-Bois;21;eau potable;139605;2024;100,0;0,0;4,3;65,9;conforme;0;0;0;0;79;Non vérifié
+21162;Chaux;21;eau potable : Chaux, Meuilley, Fussey, Magny, Marey;257234;2024;69,0;3,4;7,6;66,5;conforme;24386;8823;50;163;483;Non vérifié
+21163;Chazeuil;21;eau potable;139648;2024;94,9;0,4;7,4;66,5;conforme;2825;720;10;20;195;Non vérifié
+21164;Chazilly;21;eau potable;139601;2024;80,5;1,9;7,8;66,6;conforme;101944;4729;86;152;151;Non vérifié
+21165;Chemin-d'Aisey;21;eau potable;139608;2024;67,1;1,2;2,5;65,5;conforme;10240;1446;64;181;62;Non vérifié
+21166;Chenôve;21;eau potable : Sud Dijonnais Eau;260874;2024;80,8;7,0;29,7;70,9;conforme;593348;235415;45;102;14244;Non vérifié
+21167;Cheuge;21;eau potable : ex SISOV;139590;2024;68,1;3,6;7,7;66,5;conforme;116250;2896;65;177;122;Non vérifié
+21168;Chevannay;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;582;47;103;34;Non vérifié
+21169;Chevannes;21;eau potable : Régie (22 communes + Nuits + Villars-Fontaine + Villers-la-Faye);316294;2024;74,7;4,5;13,1;67,6;conforme;382702;4474;72;126;170;Non vérifié
+21170;Chevigny-en-Valière;21;eau potable : AEP CABCS;243874;2024;81,8;3,4;15,3;68,1;conforme;716541;7156;47;85;417;Non vérifié
+21171;Chevigny-Saint-Sauveur;21;eau potable : Est Dijonnais Eau;139611;2024;86,3;4,4;27,4;70,5;conforme;268411;110779;27;61;11108;Non vérifié
+21172;Chivres;21;eau potable;139644;2024;75,9;2,0;6,2;66,2;conforme;156607;3996;40;119;273;Non vérifié
+21173;Chorey-les-Beaune;21;eau potable : AEP CABCS;243874;2024;81,8;3,4;15,3;68,1;conforme;716541;10159;47;85;592;Non vérifié
+21175;Cirey-lès-Pontailler;21;eau potable;139599;2024;58,1;4,2;5,8;66,2;non conforme;170562;6338;96;264;181;Non vérifié
+21176;Civry-en-Montagne;21;eau potable;139601;2024;80,5;1,9;7,8;66,6;conforme;101944;3915;86;152;125;Non vérifié
+21177;Clamerey;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;3202;47;103;187;Non vérifié
+21178;Valforêt;21;eau potable : Régie (22 communes + Nuits + Villars-Fontaine + Villers-la-Faye);316294;2024;74,7;4,5;13,1;67,6;conforme;382702;8711;72;126;331;Non vérifié
+21179;Clénay;21;eau potable : SYNDICAT DE CLENAY - SAINT JULIEN;139606;2024;84,3;2,0;10,6;67,1;conforme;83950;9093;28;69;891;Non vérifié
+21180;Cléry;21;eau potable;161712;2024;79,1;2,0;7,7;66,5;conforme;67014;2856;49;98;159;Non vérifié
+21181;Clomot;21;eau potable;139601;2024;80,5;1,9;7,8;66,6;conforme;101944;3790;86;152;121;Non vérifié
+21182;Collonges-lès-Bévy;21;eau potable : Régie (22 communes + Nuits + Villars-Fontaine + Villers-la-Faye);316294;2024;74,7;4,5;13,1;67,6;conforme;382702;2447;72;126;93;Non vérifié
+21183;Collonges-et-Premières;21;eau potable : SIPIT;139596;2024;71,5;3,3;8,4;66,7;conforme;106899;14720;38;144;1067;Non vérifié
+21184;Colombier;21;eau potable;139588;2024;31,4;6,1;2,8;65,6;non conforme;85720;10212;424;801;66;Non vérifié
+21185;Combertault;21;eau potable : AEP CABCS;243874;2024;81,8;3,4;15,3;68,1;conforme;716541;9043;47;85;527;Non vérifié
+21186;Comblanchien;21;eau potable : DSP -Plaine de Nuits;257314;2024;79,7;2,8;11,0;67,2;conforme;146637;13351;60;134;608;Non vérifié
+21187;Commarin;21;eau potable;139601;2024;80,5;1,9;7,8;66,6;conforme;101944;3821;86;152;122;Non vérifié
+21189;Corberon;21;eau potable : AEP CABCS;243874;2024;81,8;3,4;15,3;68,1;conforme;716541;7293;47;85;425;Non vérifié
+21190;Corcelles-les-Arts;21;eau potable : AEP CABCS;243874;2024;81,8;3,4;15,3;68,1;conforme;716541;7293;47;85;425;Non vérifié
+21191;Corcelles-lès-Cîteaux;21;eau potable : Sud Dijonnais;190077;2024;86,6;2,2;14,2;67,8;conforme;83857;10231;33;108;839;Non vérifié
+21192;Corcelles-les-Monts;21;eau potable : SEMOP Odivea Eau;305474;2024;81,5;11,5;50,4;75,1;conforme;3206680;11057;44;107;684;Non vérifié
+21193;Corgengoux;21;eau potable : AEP CABCS;243874;2024;81,8;3,4;15,3;68,1;conforme;716541;6675;47;85;389;Non vérifié
+21194;Corgoloin;21;eau potable : DSP -Plaine de Nuits;257314;2024;79,7;2,8;11,0;67,2;conforme;146637;21563;60;134;982;Non vérifié
+21195;Cormot-Vauchignon;21;eau potable : AEP CABCS;243874;2024;81,8;3,4;15,3;68,1;conforme;716541;3604;47;85;210;Non vérifié
+21196;Corpeau;21;eau potable : AEP CABCS;243874;2024;81,8;3,4;15,3;68,1;conforme;716541;16182;47;85;943;Non vérifié
+21198;Corrombles;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;4126;47;103;241;Non vérifié
+21199;Corsaint;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;2209;47;103;129;Non vérifié
+21200;Couchey;21;eau potable : Régie (22 communes + Nuits + Villars-Fontaine + Villers-la-Faye);316294;2024;74,7;4,5;13,1;67,6;conforme;382702;29028;72;126;1103;Non vérifié
+21201;Coulmier-le-Sec;21;eau potable;139608;2024;67,1;1,2;2,5;65,5;conforme;10240;5598;64;181;240;Non vérifié
+21202;Courban;21;eau potable;139586;2024;75,9;1,5;4,6;65,9;conforme;44271;4245;83;118;140;Non vérifié
+21203;Courcelles-Frémoy;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;2534;47;103;148;Non vérifié
+21204;Courcelles-lès-Montbard;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;1455;47;103;85;Non vérifié
+21205;Courcelles-lès-Semur;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;3784;47;103;221;Non vérifié
+21207;Courlon;21;eau potable;139165;2024;83,0;;;;non calculable;;;;;79;Non vérifié
+21209;Couternon;21;eau potable : Est Dijonnais Eau;139611;2023;86,7;3,9;25,3;70,1;conforme;258365;16894;25;56;1883;Sans anomalie apparente
+21210;Créancey;21;eau potable;139601;2024;80,5;1,9;7,8;66,6;conforme;101944;16098;86;152;514;Non vérifié
+21212;Crépand;21;eau potable;139169;2024;79,0;2,9;11,0;67,2;conforme;4964;4964;43;96;315;Non vérifié
+21214;Crugey;21;eau potable : Régie Crugey;287594;2024;41,6;6,7;4,8;66,0;non conforme;7826;7826;129;515;166;Non vérifié
+21215;Cuiserey;21;eau potable;139599;2024;58,1;4,2;5,8;66,2;non conforme;170562;6023;96;264;172;Non vérifié
+21216;Culètre;21;eau potable;139580;2024;77,9;1,1;3,8;65,8;conforme;127396;1908;56;117;93;Non vérifié
+21217;Curley;21;eau potable : Régie (22 communes + Nuits + Villars-Fontaine + Villers-la-Faye);316294;2024;74,7;4,5;13,1;67,6;conforme;382702;3737;72;126;142;Non vérifié
+21218;Curtil-Saint-Seine;21;eau potable : Secteur du Cresson;272054;2024;74,0;1,2;3,5;65,7;conforme;28496;2440;60;132;112;Non vérifié
+21219;Curtil-Vergy;21;eau potable : Régie (22 communes + Nuits + Villars-Fontaine + Villers-la-Faye);316294;2024;74,7;4,5;13,1;67,6;conforme;382702;4290;72;126;163;Non vérifié
+21221;Cussy-la-Colonne;21;eau potable;139580;2024;77,9;1,1;3,8;65,8;conforme;127396;944;56;117;46;Non vérifié
+21222;Cussy-le-Châtel;21;eau potable;139580;2024;77,9;1,1;3,8;65,8;conforme;127396;2545;56;117;124;Non vérifié
+21223;Daix;21;eau potable : SEMOP Odivea Eau;305474;2024;81,5;11,5;50,4;75,1;conforme;3206680;24491;44;107;1515;Non vérifié
+21224;Dampierre-en-Montagne;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;1096;47;103;64;Non vérifié
+21225;Dampierre-et-Flée;21;eau potable : ex syndicat basse vingeanne;139581;2024;94,4;0,3;4,9;66,0;conforme;2508;640;13;22;139;Non vérifié
+21227;Darois;21;eau potable : Secteur des Varennes Blanches;272034;2024;75,1;2,1;6,4;66,3;conforme;20512;7827;43;120;493;Non vérifié
+21228;Détain-et-Bruant;21;eau potable : Régie (22 communes + Nuits + Villars-Fontaine + Villers-la-Faye);316294;2024;74,7;4,5;13,1;67,6;conforme;382702;3737;72;126;142;Non vérifié
+21229;Diancey;21;eau potable;139624;2024;83,0;1,3;6,3;66,3;conforme;155636;4420;122;243;99;Non vérifié
+21231;Dijon;21;eau potable : SEMOP Odivea Eau;305474;2024;81,5;11,5;50,4;75,1;conforme;3206680;2616098;44;107;161830;Non vérifié
+21232;Dompierre-en-Morvan;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;3441;47;103;201;Non vérifié
+21233;Drambon;21;eau potable;139599;2024;58,1;4,2;5,8;66,2;non conforme;170562;6268;96;264;179;Non vérifié
+21234;Drée;21;eau potable : ex-SIAEP de Drée;139610;2024;68,9;3,0;6,6;66,3;conforme;45990;1662;69;167;66;Non vérifié
+21236;Ébaty;21;eau potable : AEP CABCS;243874;2024;81,8;3,4;15,3;68,1;conforme;716541;4393;47;85;256;Non vérifié
+21237;Échalot;21;eau potable;139190;2024;84,2;1,2;6,2;66,2;conforme;2847;2847;84;71;93;Non vérifié
+21238;Échannay;21;eau potable;139601;2024;80,5;1,9;7,8;66,6;conforme;101944;4134;86;152;132;Non vérifié
+21239;Échenon;21;eau potable : Echenon, Losne...;139666;2024;63,0;5,1;8,7;66,7;non conforme;151303;18839;68;213;763;Non vérifié
+21240;Échevannes;21;eau potable;139656;2024;79,0;2,5;9,6;66,9;conforme;15786;3182;31;96;281;Non vérifié
+21241;Échevronne;21;eau potable : AEP CABCS;243874;2024;81,8;3,4;15,3;68,1;conforme;716541;5423;47;85;316;Non vérifié
+21242;Échigey;21;eau potable : Racle;139576;2024;70,7;4,1;9,9;67,0;conforme;115679;5027;44;151;316;Non vérifié
+21243;Écutigny;21;eau potable;139580;2024;77,9;1,1;3,8;65,8;conforme;127396;1601;56;117;78;Non vérifié
+21244;Éguilly;21;eau potable;139194;2024;79,2;1,4;5,2;66,0;conforme;1094;1094;42;99;72;Non vérifié
+21245;Épagny;21;eau potable : SYNDICAT DE CLENAY - SAINT JULIEN;139606;2024;84,3;2,0;10,6;67,1;conforme;83950;3347;28;69;328;Non vérifié
+21246;Épernay-sous-Gevrey;21;eau potable : Sud Dijonnais;190077;2024;86,6;2,2;14,2;67,8;conforme;83857;1841;33;108;151;Non vérifié
+21247;Époisses;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;12242;47;103;715;Non vérifié
+21248;Éringes;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;959;47;103;56;Non vérifié
+21249;Esbarres;21;eau potable;139644;2024;75,9;2,0;6,2;66,2;conforme;156607;10085;40;119;689;Non vérifié
+21250;Essarois;21;eau potable;139198;2024;99,8;0,0;16,0;68,2;conforme;0;0;0;0;84;Non vérifié
+21251;Essey;21;eau potable;139601;2024;80,5;1,9;7,8;66,6;conforme;101944;9866;86;152;315;Non vérifié
+21252;Étais;21;eau potable;139643;2024;74,3;1,1;3,2;65,6;conforme;46634;1769;65;124;75;Non vérifié
+21253;Étalante;21;eau potable;139585;2023;67,8;2,0;4,2;65,8;conforme;9205;3028;66;174;126;Sans anomalie apparente
+21254;L' Étang-Vergy;21;eau potable : Régie (22 communes + Nuits + Villars-Fontaine + Villers-la-Faye);316294;2024;74,7;4,5;13,1;67,6;conforme;382702;5263;72;126;200;Non vérifié
+21255;Étaules;21;eau potable : Secteur des Varennes Blanches;272034;2024;75,1;2,1;6,4;66,3;conforme;20512;5382;43;120;339;Non vérifié
+21256;Étevaux;21;eau potable;139599;2024;58,1;4,2;5,8;66,2;non conforme;170562;10680;96;264;305;Non vérifié
+21258;Étrochey;21;eau potable;139612;2024;71,9;100,0;7,2;66,4;conforme;547500;217500;2935;6413;203;Non vérifié
+21259;Fain-lès-Montbard;21;eau potable;139205;2024;64,3;3,9;7,1;66,4;non conforme;8114;8114;83;202;269;Non vérifié
+21260;Fain-lès-Moutiers;21;eau potable;139657;2024;74,8;2,7;8,1;66,6;conforme;7884;5121;92;122;152;Non vérifié
+21261;Fauverney;21;eau potable : Fauverney;139613;2024;87,7;1,8;13,0;67,6;conforme;24841;4793;20;69;651;Non vérifié
+21263;Fénay;21;eau potable : Sud Dijonnais Eau;260874;2024;80,8;7,0;29,7;70,9;conforme;593348;28229;45;102;1708;Non vérifié
+21264;Le Fête;21;eau potable;139580;2024;77,9;1,1;3,8;65,8;conforme;127396;1047;56;117;51;Non vérifié
+21265;Fixin;21;eau potable : Régie (22 communes + Nuits + Villars-Fontaine + Villers-la-Faye);316294;2024;74,7;4,5;13,1;67,6;conforme;382702;18448;72;126;701;Non vérifié
+21266;Flacey;21;eau potable : SYNDICAT DE CLENAY - SAINT JULIEN;139606;2024;84,3;2,0;10,6;67,1;conforme;83950;2235;28;69;219;Non vérifié
+21267;Flagey-Echézeaux;21;eau potable : DSP -Plaine de Nuits;257314;2024;79,7;2,8;11,0;67,2;conforme;146637;10650;60;134;485;Non vérifié
+21268;Flagey-lès-Auxonne;21;eau potable : ex Syndicat de Labergement-les-Auxonne;139619;2024;64,4;3,6;6,5;66,3;non conforme;16570;5154;66;201;214;Non vérifié
+21269;Flammerans;21;eau potable : ex syndicat Flammerans;139615;2024;79,7;2,0;7,9;66,6;conforme;15337;5370;32;92;458;Non vérifié
+21270;Flavignerot;21;eau potable : SEMOP Odivea Eau;305474;2024;81,5;11,5;50,4;75,1;conforme;3206680;3750;44;107;232;Non vérifié
+21271;Flavigny-sur-Ozerain;21;eau potable;139211;2024;0,0;14,7;0,0;65,0;non conforme;28974;28974;290;;274;Non vérifié
+21272;Le Val-Larrey;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;4708;47;103;275;Non vérifié
+21273;Fleurey-sur-Ouche;21;eau potable : Ex-CCVO;139674;2024;71,7;4,3;11,0;67,2;conforme;207001;34564;62;143;1535;Non vérifié
+21274;Foissy;21;eau potable;139580;2024;77,9;1,1;3,8;65,8;conforme;127396;3550;56;117;173;Non vérifié
+21275;Foncegrive;21;eau potable;139215;2024;85,3;1,4;8,2;66,6;conforme;1543;1543;34;62;126;Non vérifié
+21276;Fontaines-en-Duesmois;21;eau potable;139217;2024;98,5;0,2;12,4;67,5;conforme;277;277;7;6;116;Non vérifié
+21277;Fontaine-Française;21;eau potable;139219;2024;66,3;6,2;12,1;67,4;non conforme;32632;32632;98;187;911;Non vérifié
+21278;Fontaine-lès-Dijon;21;eau potable : SEMOP Odivea Eau;305474;2024;81,5;11,5;50,4;75,1;conforme;3206680;149565;44;107;9252;Non vérifié
+21279;Fontaines-les-Sèches;21;eau potable : Régie;268834;2024;60,8;3,5;5,4;66,1;non conforme;293825;1188;125;304;26;Non vérifié
+21280;Fontangy;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;2774;47;103;162;Non vérifié
+21281;Fontenelle;21;eau potable : ex syndicat basse vingeanne;139581;2024;94,4;0,3;4,9;66,0;conforme;2508;778;13;22;169;Non vérifié
+21282;Forléans;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;1918;47;103;112;Non vérifié
+21283;Fraignot-et-Vesvrotte;21;eau potable;139225;2024;51,4;0,6;0,6;65,1;non conforme;5891;5891;212;362;76;Non vérifié
+21284;Francheville;21;eau potable : Secteur du Cresson;272054;2024;74,0;1,2;3,5;65,7;conforme;28496;5577;60;132;256;Non vérifié
+21285;Franxault;21;eau potable;139644;2024;75,9;2,0;6,2;66,2;conforme;156607;7377;40;119;504;Non vérifié
+21286;Frénois;21;eau potable;139229;2024;79,7;0,9;3,7;65,7;conforme;989;989;28;90;96;Non vérifié
+21287;Fresnes;21;eau potable;139231;2024;74,4;0,8;2,2;65,4;conforme;2920;2920;52;130;153;Non vérifié
+21289;Fussey;21;eau potable : Chaux, Meuilley, Fussey, Magny, Marey;257234;2024;69,0;3,4;7,6;66,5;conforme;24386;2283;50;163;125;Non vérifié
+21290;Gemeaux;21;eau potable;139616;2024;77,8;2,2;7,8;66,6;conforme;21986;12223;34;108;974;Non vérifié
+21291;Genay;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;6335;47;103;370;Non vérifié
+21292;Genlis;21;eau potable : genlis;139234;2024;81,8;5,1;23,1;69,6;conforme;70588;70588;38;104;5093;Non vérifié
+21293;Gergueil;21;eau potable : Ex-CCVO;139674;2024;71,7;4,3;11,0;67,2;conforme;207001;2950;62;143;131;Non vérifié
+21294;Gerland;21;eau potable : DSP -Plaine de Nuits;257314;2024;79,7;2,8;11,0;67,2;conforme;146637;9727;60;134;443;Non vérifié
+21295;Gevrey-Chambertin;21;eau potable : Régie (22 communes + Nuits + Villars-Fontaine + Villers-la-Faye);316294;2024;74,7;4,5;13,1;67,6;conforme;382702;76767;72;126;2917;Non vérifié
+21296;Gevrolles;21;eau potable;139237;2024;83,0;1,2;5,8;66,2;conforme;2628;2628;44;75;162;Non vérifié
+21297;Gilly-lès-Cîteaux;21;eau potable : DSP -Plaine de Nuits;257314;2024;79,7;2,8;11,0;67,2;conforme;146637;15964;60;134;727;Non vérifié
+21298;Gissey-le-Vieil;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;1781;47;103;104;Non vérifié
+21300;Gissey-sur-Ouche;21;eau potable : Ex-CCVO;139674;2024;71,7;4,3;11,0;67,2;conforme;207001;8151;62;143;362;Non vérifié
+21301;Glanon;21;eau potable;139644;2024;75,9;2,0;6,2;66,2;conforme;156607;3981;40;119;272;Non vérifié
+21302;Gomméville;21;eau potable;139634;2024;55,0;4,3;5,2;66,0;non conforme;14031;5011;125;302;110;Non vérifié
+21304;Grancey-le-Château-Neuvelle;21;eau potable;139242;2024;61,5;2,1;3,4;65,7;non conforme;6416;6416;71;224;247;Non vérifié
+21306;Grenant-lès-Sombernon;21;eau potable : Ex-CCVO;139674;2024;71,7;4,3;11,0;67,2;conforme;207001;4864;62;143;216;Non vérifié
+21308;Grignon;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;3185;47;103;186;Non vérifié
+21309;Griselles;21;eau potable;139633;2024;0,0;3,0;0,0;65,0;non conforme;10041;4501;136;;91;Non vérifié
+21310;Grosbois-en-Montagne;21;eau potable : Ex-CCVO;139674;2024;71,7;4,3;11,0;67,2;conforme;207001;2477;62;143;110;Non vérifié
+21311;Grosbois-lès-Tichey;21;eau potable;139644;2024;75,9;2,0;6,2;66,2;conforme;156607;981;40;119;67;Non vérifié
+21312;Gurgy-la-Ville;21;eau potable;139247;2024;85,7;0,3;1,8;65,4;conforme;372;372;39;62;26;Non vérifié
+21313;Gurgy-le-Château;21;eau potable;139249;2024;95,0;0,4;7,8;66,6;conforme;321;321;20;19;45;Non vérifié
+21314;Hauteroche;21;eau potable;139251;2024;99,6;0,0;4,3;65,9;conforme;0;0;0;0;76;Non vérifié
+21315;Hauteville-lès-Dijon;21;eau potable : SEMOP Odivea Eau;305474;2024;81,5;11,5;50,4;75,1;conforme;3206680;19318;44;107;1195;Non vérifié
+21316;Heuilley-sur-Saône;21;eau potable : ex SISOV;139590;2024;68,1;3,6;7,7;66,5;conforme;116250;8188;65;177;345;Non vérifié
+21317;Is-sur-Tille;21;eau potable;139252;2024;80,5;4,7;19,5;68,9;conforme;68740;68740;44;89;4302;Non vérifié
+21319;Izeure;21;eau potable : Racle;139576;2024;70,7;4,1;9,9;67,0;conforme;115679;14428;44;151;907;Non vérifié
+21320;Izier;21;eau potable : Fauverney;139613;2024;87,7;1,8;13,0;67,6;conforme;24841;5765;20;69;783;Non vérifié
+21322;Jallanges;21;eau potable;139644;2024;75,9;2,0;6,2;66,2;conforme;156607;4538;40;119;310;Non vérifié
+21323;Jancigny;21;eau potable : ex SISOV;139590;2024;68,1;3,6;7,7;66,5;conforme;116250;3679;65;177;155;Non vérifié
+21324;Jeux-lès-Bard;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;890;47;103;52;Non vérifié
+21325;Jouey;21;eau potable;139624;2024;83,0;1,3;6,3;66,3;conforme;155636;8393;122;243;188;Non vérifié
+21327;Val-Mont;21;eau potable;139580;2024;77,9;1,1;3,8;65,8;conforme;127396;5151;56;117;251;Non vérifié
+21328;Juillenay;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;890;47;103;52;Non vérifié
+21329;Juilly;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;702;47;103;41;Non vérifié
+21330;Labergement-Foigney;21;eau potable : Labergement-Foigney;263114;2024;95,3;0,4;8,6;66,7;conforme;664;664;5;17;375;Non vérifié
+21331;Labergement-lès-Auxonne;21;eau potable : ex Syndicat de Labergement-les-Auxonne;139619;2024;64,4;3,6;6,5;66,3;non conforme;16570;8429;66;201;350;Non vérifié
+21332;Labergement-lès-Seurre;21;eau potable;139644;2024;75,9;2,0;6,2;66,2;conforme;156607;14725;40;119;1006;Non vérifié
+21333;Labruyère;21;eau potable;139644;2024;75,9;2,0;6,2;66,2;conforme;156607;3498;40;119;239;Non vérifié
+21334;Lacanche;21;eau potable;139580;2024;77,9;1,1;3,8;65,8;conforme;127396;9768;56;117;476;Non vérifié
+21335;Lacour-d'Arcenay;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;1866;47;103;109;Non vérifié
+21336;Laignes;21;eau potable;139643;2024;74,3;1,1;3,2;65,6;conforme;46634;15757;65;124;668;Non vérifié
+21337;Lamarche-sur-Saône;21;eau potable : Lamarche-sur-Saône;139265;2024;67,7;4,6;9,7;66,9;conforme;28577;28577;57;173;1382;Non vérifié
+21338;Lamargelle;21;eau potable;139267;2024;96,9;0,1;3,9;65,8;conforme;240;240;5;9;142;Non vérifié
+21339;Lantenay;21;eau potable : Ex-CCVO;139674;2024;71,7;4,3;11,0;67,2;conforme;207001;11169;62;143;496;Non vérifié
+21340;Lanthes;21;eau potable;139644;2024;75,9;2,0;6,2;66,2;conforme;156607;3747;40;119;256;Non vérifié
+21341;Lantilly;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;1661;47;103;97;Non vérifié
+21342;Laperrière-sur-Saône;21;eau potable : Echenon, Losne...;139666;2024;63,0;5,1;8,7;66,7;non conforme;151303;10666;68;213;432;Non vérifié
+21343;Larrey;21;eau potable;139271;2024;54,2;4,3;5,1;66,0;non conforme;2888;2888;83;310;95;Non vérifié
+21344;Lechâtelet;21;eau potable;139644;2024;75,9;2,0;6,2;66,2;conforme;156607;3337;40;119;228;Non vérifié
+21345;Léry;21;eau potable : LERY;139273;2024;45,0;13,2;10,8;67,2;non conforme;13635;13635;183;447;204;Non vérifié
+21346;Leuglay;21;eau potable;139626;2024;50,0;5,4;5,4;66,1;non conforme;24973;12780;124;368;283;Non vérifié
+21347;Levernois;21;eau potable : AEP CABCS;243874;2024;81,8;3,4;15,3;68,1;conforme;716541;6229;47;85;363;Non vérifié
+21348;Licey-sur-Vingeanne;21;eau potable : ex syndicat basse vingeanne;139581;2024;94,4;0,3;4,9;66,0;conforme;2508;446;13;22;97;Non vérifié
+21349;Liernais;21;eau potable;139624;2024;83,0;1,3;6,3;66,3;conforme;155636;21519;122;243;482;Non vérifié
+21351;Longchamp;21;eau potable : longchamp;263074;2024;98,0;0,2;10,4;67,1;conforme;810;810;2;7;1171;Non vérifié
+21352;Longeault-Pluvault;21;eau potable : SIPIT;139596;2024;71,5;3,3;8,4;66,7;conforme;106899;16196;38;144;1174;Non vérifié
+21353;Longecourt-en-Plaine;21;eau potable : Racle;139576;2024;70,7;4,1;9,9;67,0;conforme;115679;18723;44;151;1177;Non vérifié
+21354;Longecourt-lès-Culêtre;21;eau potable;139580;2024;77,9;1,1;3,8;65,8;conforme;127396;1129;56;117;55;Non vérifié
+21355;Longvic;21;eau potable : Sud Dijonnais Eau;260874;2024;80,8;7,0;29,7;70,9;conforme;593348;147027;45;102;8896;Non vérifié
+21356;Losne;21;eau potable : Echenon, Losne...;139666;2024;63,0;5,1;8,7;66,7;non conforme;151303;42467;68;213;1720;Non vérifié
+21357;Louesme;21;eau potable;139586;2024;75,9;1,5;4,6;65,9;conforme;44271;3366;83;118;111;Non vérifié
+21360;Lusigny-sur-Ouche;21;eau potable;139580;2024;77,9;1,1;3,8;65,8;conforme;127396;2360;56;117;115;Non vérifié
+21361;Lux;21;eau potable;139288;2024;100,0;;;;non calculable;;;;;517;Non vérifié
+21362;Maconge;21;eau potable;139601;2024;80,5;1,9;7,8;66,6;conforme;101944;4322;86;152;138;Non vérifié
+21363;Magnien;21;eau potable;139580;2024;77,9;1,1;3,8;65,8;conforme;127396;6485;56;117;316;Non vérifié
+21364;Magny-Lambert;21;eau potable;139292;2023;91,3;1,6;17,2;68,4;conforme;1168;1168;37;49;87;Sans anomalie apparente
+21365;Magny-la-Ville;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;1233;47;103;72;Non vérifié
+21366;Magny-lès-Aubigny;21;eau potable;139644;2024;75,9;2,0;6,2;66,2;conforme;156607;3206;40;119;219;Non vérifié
+21367;Magny-Montarlot;21;eau potable : ex Syndicat Saône-Mondragon;139594;2024;88,9;1,2;9,3;66,9;conforme;15181;1384;14;47;262;Non vérifié
+21368;Magny-lès-Villers;21;eau potable : Chaux, Meuilley, Fussey, Magny, Marey;257234;2024;69,0;3,4;7,6;66,5;conforme;24386;4183;50;163;229;Non vérifié
+21369;Magny-Saint-Médard;21;eau potable;139599;2024;58,1;4,2;5,8;66,2;non conforme;170562;12115;96;264;346;Non vérifié
+21370;Magny-sur-Tille;21;eau potable : Sud Dijonnais Eau;260874;2024;80,8;7,0;29,7;70,9;conforme;593348;14445;45;102;874;Non vérifié
+21371;Les Maillys;21;eau potable : SIPIT;139596;2024;71,5;3,3;8,4;66,7;conforme;106899;11078;38;144;803;Non vérifié
+21372;Maisey-le-Duc;21;eau potable;139586;2024;75,9;1,5;4,6;65,9;conforme;44271;2153;83;118;71;Non vérifié
+21373;Mâlain;21;eau potable : Ex-CCVO;139674;2024;71,7;4,3;11,0;67,2;conforme;207001;17969;62;143;798;Non vérifié
+21374;Maligny;21;eau potable;139580;2024;77,9;1,1;3,8;65,8;conforme;127396;3509;56;117;171;Non vérifié
+21375;Manlay;21;eau potable;139624;2024;83,0;1,3;6,3;66,3;conforme;155636;8885;122;243;199;Non vérifié
+21376;Marandeuil;21;eau potable;139599;2024;58,1;4,2;5,8;66,2;non conforme;170562;3502;96;264;100;Non vérifié
+21377;Marcellois;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;770;47;103;45;Non vérifié
+21378;Marcenay;21;eau potable;139301;2024;81,6;1,2;5,4;66,1;conforme;2409;2409;61;82;108;Non vérifié
+21379;Marcheseuil;21;eau potable;139624;2024;83,0;1,3;6,3;66,3;conforme;155636;7054;122;243;158;Non vérifié
+21380;Marcigny-sous-Thil;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;959;47;103;56;Non vérifié
+21381;Marcilly-et-Dracy;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;1438;47;103;84;Non vérifié
+21382;Marcilly-Ogny;21;eau potable;139624;2024;83,0;1,3;6,3;66,3;conforme;155636;8795;122;243;197;Non vérifié
+21383;Marcilly-sur-Tille;21;eau potable;139306;2024;75,5;3,5;10,9;67,2;conforme;20747;20747;33;117;1744;Non vérifié
+21384;Marey-lès-Fussey;21;eau potable : Chaux, Meuilley, Fussey, Magny, Marey;257234;2024;69,0;3,4;7,6;66,5;conforme;24386;1589;50;163;87;Non vérifié
+21386;Marigny-le-Cahouët;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;5222;47;103;305;Non vérifié
+21387;Marigny-lès-Reullée;21;eau potable : AEP CABCS;243874;2024;81,8;3,4;15,3;68,1;conforme;716541;3621;47;85;211;Non vérifié
+21388;Marliens;21;eau potable : Varanges;139592;2024;94,9;0,4;8,1;66,6;conforme;2590;1030;5;18;607;Non vérifié
+21389;Marmagne;21;eau potable;139311;2024;73,5;1,5;4,2;65,8;conforme;2683;2683;38;131;195;Non vérifié
+21390;Marsannay-la-Côte;21;eau potable : Sud Dijonnais Eau;260874;2024;80,8;7,0;29,7;70,9;conforme;593348;89793;45;102;5433;Non vérifié
+21391;Marsannay-le-Bois;21;eau potable : SYNDICAT DE CLENAY - SAINT JULIEN;139606;2024;84,3;2,0;10,6;67,1;conforme;83950;8603;28;69;843;Non vérifié
+21392;Martrois;21;eau potable;139312;2024;88,9;0,5;4,0;65,8;conforme;604;604;28;45;60;Non vérifié
+21393;Massingy;21;eau potable;139586;2024;75,9;1,5;4,6;65,9;conforme;44271;5185;83;118;171;Non vérifié
+21394;Massingy-lès-Semur;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;2585;47;103;151;Non vérifié
+21395;Massingy-lès-Vitteaux;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;1575;47;103;92;Non vérifié
+21397;Mavilly-Mandelot;21;eau potable;139580;2024;77,9;1,1;3,8;65,8;conforme;127396;3407;56;117;166;Non vérifié
+21398;Maxilly-sur-Saône;21;eau potable : ex SISOV;139590;2024;68,1;3,6;7,7;66,5;conforme;116250;8639;65;177;364;Non vérifié
+21399;Meilly-sur-Rouvres;21;eau potable;139601;2024;80,5;1,9;7,8;66,6;conforme;101944;7203;86;152;230;Non vérifié
+21400;Le Meix;21;eau potable;139320;2024;87,7;0,7;4,6;65,9;conforme;335;335;22;55;41;Non vérifié
+21401;Meloisey;21;eau potable;139580;2024;77,9;1,1;3,8;65,8;conforme;127396;6587;56;117;321;Non vérifié
+21403;Ménessaire;21;eau potable : Ménessaire;139324;2024;84,4;0,8;4,1;65,8;conforme;1022;1022;37;71;75;Non vérifié
+21404;Ménétreux-le-Pitois;21;eau potable;139326;2024;48,9;8,3;7,9;66,6;non conforme;19389;19389;137;382;389;Non vérifié
+21405;Merceuil;21;eau potable : AEP CABCS;243874;2024;81,8;3,4;15,3;68,1;conforme;716541;13986;47;85;815;Non vérifié
+21406;Mesmont;21;eau potable : ex-SIAEP de Drée;139610;2024;68,9;3,0;6,6;66,3;conforme;45990;6372;69;167;253;Non vérifié
+21407;Messanges;21;eau potable : Régie (22 communes + Nuits + Villars-Fontaine + Villers-la-Faye);316294;2024;74,7;4,5;13,1;67,6;conforme;382702;6579;72;126;250;Non vérifié
+21408;Messigny-et-Vantoux;21;eau potable : Secteur Valmy-Suzon;272074;2024;84,6;2,6;14,2;67,8;conforme;45429;14652;23;67;1720;Non vérifié
+21409;Meuilley;21;eau potable : Chaux, Meuilley, Fussey, Magny, Marey;257234;2024;69,0;3,4;7,6;66,5;conforme;24386;7507;50;163;411;Non vérifié
+21411;Meursanges;21;eau potable : AEP CABCS;243874;2024;81,8;3,4;15,3;68,1;conforme;716541;10142;47;85;591;Non vérifié
+21412;Meursault;21;eau potable : AEP CABCS;243874;2024;81,8;3,4;15,3;68,1;conforme;716541;23389;47;85;1363;Non vérifié
+21413;Millery;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;7020;47;103;410;Non vérifié
+21414;Mimeure;21;eau potable;139580;2024;77,9;1,1;3,8;65,8;conforme;127396;6567;56;117;320;Non vérifié
+21416;Mirebeau-sur-Bèze;21;eau potable;139336;2024;83,5;1,8;9,0;66,8;conforme;19066;19066;27;73;1919;Non vérifié
+21417;Missery;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;1798;47;103;105;Non vérifié
+21418;Moitron;21;eau potable;139339;2024;100,0;0,0;6,6;66,3;conforme;0;0;0;0;57;Non vérifié
+21419;Molesme;21;eau potable;139629;2024;69,0;1,6;3,6;65,7;conforme;14600;10172;100;162;278;Non vérifié
+21420;Molinot;21;eau potable : Molinot;139342;2024;97,9;0,1;6,4;66,3;conforme;204;204;3;6;175;Non vérifié
+21421;Moloy;21;eau potable;139343;2024;80,0;;;;non calculable;;;;;236;Non vérifié
+21422;Molphey;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;2260;47;103;132;Non vérifié
+21423;Montagny-lès-Beaune;21;eau potable : AEP CABCS;243874;2024;81,8;3,4;15,3;68,1;conforme;716541;13333;47;85;777;Non vérifié
+21424;Montagny-lès-Seurre;21;eau potable;139644;2024;75,9;2,0;6,2;66,2;conforme;156607;1713;40;119;117;Non vérifié
+21425;Montbard;21;eau potable;139347;2024;87,0;2,6;17,2;68,4;conforme;53144;53144;31;58;4639;Non vérifié
+21426;Montberthault;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;3869;47;103;226;Non vérifié
+21427;Montceau-et-Écharnant;21;eau potable;139580;2024;77,9;1,1;3,8;65,8;conforme;127396;3550;56;117;173;Non vérifié
+21428;Monthelie;21;eau potable : AEP CABCS;243874;2024;81,8;3,4;15,3;68,1;conforme;716541;2471;47;85;144;Non vérifié
+21429;Montigny-Montfort;21;eau potable;139352;2024;72,9;2,5;6,8;66,4;conforme;5119;5119;52;134;268;Non vérifié
+21430;Montigny-Saint-Barthélemy;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;1387;47;103;81;Non vérifié
+21431;Montigny-sur-Armançon;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;2705;47;103;158;Non vérifié
+21433;Montigny-Mornay-Villeneuve-sur-Vingeanne;21;eau potable;139618;2024;70,6;1,8;4,3;65,9;conforme;39748;7822;56;161;381;Non vérifié
+21434;Montlay-en-Auxois;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;3407;47;103;199;Non vérifié
+21435;Montliot-et-Courcelles;21;eau potable;139355;2024;55,0;8,2;10,0;67,0;non conforme;11972;11972;112;298;293;Non vérifié
+21436;Montmain;21;eau potable;139644;2024;75,9;2,0;6,2;66,2;conforme;156607;2005;40;119;137;Non vérifié
+21437;Montmançon;21;eau potable;139599;2024;58,1;4,2;5,8;66,2;non conforme;170562;8299;96;264;237;Non vérifié
+21439;Montoillot;21;eau potable;139601;2024;80,5;1,9;7,8;66,6;conforme;101944;3007;86;152;96;Non vérifié
+21440;Montot;21;eau potable;139584;2024;79,5;2,3;8,7;66,7;conforme;43520;2364;31;96;206;Non vérifié
+21441;Mont-Saint-Jean;21;eau potable;139360;2024;78,3;0,7;2,5;65,5;conforme;6260;6260;64;101;267;Non vérifié
+21442;Morey-Saint-Denis;21;eau potable : Régie (22 communes + Nuits + Villars-Fontaine + Villers-la-Faye);316294;2024;74,7;4,5;13,1;67,6;conforme;382702;15711;72;126;597;Non vérifié
+21444;Mosson;21;eau potable;139586;2024;75,9;1,5;4,6;65,9;conforme;44271;2123;83;118;70;Non vérifié
+21445;La Motte-Ternant;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;2534;47;103;148;Non vérifié
+21446;Moutiers-Saint-Jean;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;4349;47;103;254;Non vérifié
+21447;Musigny;21;eau potable;139580;2024;77,9;1,1;3,8;65,8;conforme;127396;1785;56;117;87;Non vérifié
+21449;Nan-sous-Thil;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;2893;47;103;169;Non vérifié
+21450;Nantoux;21;eau potable : Nantoux;139365;2024;87,8;0,8;5,6;66,1;conforme;1168;1168;19;52;168;Non vérifié
+21451;Nesle-et-Massoult;21;eau potable;139643;2024;74,3;1,1;3,2;65,6;conforme;46634;1840;65;124;78;Non vérifié
+21452;Neuilly-Crimolois;21;eau potable : Est Dijonnais Eau;139611;2024;86,3;4,4;27,4;70,5;conforme;268411;35783;27;61;3588;Non vérifié
+21454;Nicey;21;eau potable;139633;2024;0,0;3,0;0,0;65,0;non conforme;10041;5540;136;;112;Non vérifié
+21455;Nod-sur-Seine;21;eau potable;139368;2024;98,3;0,1;7,1;66,4;conforme;122;122;2;5;204;Non vérifié
+21456;Nogent-lès-Montbard;21;eau potable;139369;2024;82,6;0,9;4,2;65,8;conforme;1314;1314;24;78;153;Non vérifié
+21457;Noidan;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;1609;47;103;94;Non vérifié
+21458;Noiron-sous-Gevrey;21;eau potable : Sud Dijonnais;190077;2024;86,6;2,2;14,2;67,8;conforme;83857;13828;33;108;1134;Non vérifié
+21459;Noiron-sur-Bèze;21;eau potable;139370;2024;84,5;1,0;5,2;66,0;conforme;2216;2216;27;70;228;Non vérifié
+21460;Noiron-sur-Seine;21;eau potable;139634;2024;55,0;4,3;5,2;66,0;non conforme;14031;2824;125;302;62;Non vérifié
+21461;Nolay;21;eau potable : AEP CABCS;243874;2024;81,8;3,4;15,3;68,1;conforme;716541;24179;47;85;1409;Non vérifié
+21462;Norges-la-Ville;21;eau potable : SYNDICAT DE CLENAY - SAINT JULIEN;139606;2024;84,3;2,0;10,6;67,1;conforme;83950;9807;28;69;961;Non vérifié
+21463;Normier;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;1079;47;103;63;Non vérifié
+21464;Nuits-Saint-Georges;21;eau potable : Régie (22 communes + Nuits + Villars-Fontaine + Villers-la-Faye);316294;2024;74,7;4,5;13,1;67,6;conforme;382702;137770;72;126;5235;Non vérifié
+21465;Obtrée;21;eau potable;139605;2024;100,0;0,0;4,3;65,9;conforme;0;0;0;0;81;Non vérifié
+21467;Oisilly;21;eau potable : ex syndicat de Blagny - Oisilly;139583;2024;90,1;0,6;5,4;66,1;conforme;1739;887;19;41;127;Non vérifié
+21468;Orain;21;eau potable;139618;2024;70,6;1,8;4,3;65,9;conforme;39748;1848;56;161;90;Non vérifié
+21469;Orgeux;21;eau potable : SYNDICAT DE VAROIS ET CHAIGNOT - ORGEUX;139647;2024;72,5;4,1;10,8;67,2;conforme;41214;7502;44;139;466;Non vérifié
+21472;Orville;21;eau potable;139648;2024;94,9;0,4;7,4;66,5;conforme;2825;680;10;20;184;Non vérifié
+21473;Ouges;21;eau potable : Sud Dijonnais Eau;260874;2024;80,8;7,0;29,7;70,9;conforme;593348;23171;45;102;1402;Non vérifié
+21474;Pagny-la-Ville;21;eau potable;139644;2024;75,9;2,0;6,2;66,2;conforme;156607;6060;40;119;414;Non vérifié
+21475;Pagny-le-Château;21;eau potable;139644;2024;75,9;2,0;6,2;66,2;conforme;156607;6982;40;119;477;Non vérifié
+21476;Painblanc;21;eau potable;139580;2024;77,9;1,1;3,8;65,8;conforme;127396;3509;56;117;171;Non vérifié
+21477;Panges;21;eau potable : Secteur du Cresson;272054;2024;74,0;1,2;3,5;65,7;conforme;28496;1852;60;132;85;Non vérifié
+21478;Pasques;21;eau potable : Ex-CCVO;139674;2024;71,7;4,3;11,0;67,2;conforme;207001;6530;62;143;290;Non vérifié
+21479;Pellerey;21;eau potable;139383;2024;90,0;1,1;9,7;66,9;conforme;1104;1104;38;41;79;Non vérifié
+21480;Pernand-Vergelesses;21;eau potable : AEP CABCS;243874;2024;81,8;3,4;15,3;68,1;conforme;716541;4067;47;85;237;Non vérifié
+21481;Perrigny-lès-Dijon;21;eau potable : Sud Dijonnais Eau;260874;2024;80,8;7,0;29,7;70,9;conforme;593348;39418;45;102;2385;Non vérifié
+21482;Perrigny-sur-l'Ognon;21;eau potable : ex SISOV;139590;2024;68,1;3,6;7,7;66,5;conforme;116250;15546;65;177;655;Non vérifié
+21483;Pichanges;21;eau potable;139616;2024;77,8;2,2;7,8;66,6;conforme;21986;3577;34;108;285;Non vérifié
+21484;Planay;21;eau potable;139643;2024;74,3;1,1;3,2;65,6;conforme;46634;1439;65;124;61;Non vérifié
+21485;Plombières-lès-Dijon;21;eau potable : SEMOP Odivea Eau;305474;2024;81,5;11,5;50,4;75,1;conforme;3206680;40366;44;107;2497;Non vérifié
+21487;Pluvet;21;eau potable : SIPIT;139596;2024;71,5;3,3;8,4;66,7;conforme;106899;5960;38;144;432;Non vérifié
+21488;Poinçon-lès-Larrey;21;eau potable;139387;2024;94,2;0,4;6,5;66,3;conforme;496;496;7;22;197;Non vérifié
+21489;Poiseul-la-Grange;21;eau potable;139388;2024;85,8;1,0;6,0;66,2;conforme;912;912;33;61;75;Non vérifié
+21492;Pommard;21;eau potable : AEP CABCS;243874;2024;81,8;3,4;15,3;68,1;conforme;716541;7379;47;85;430;Non vérifié
+21493;Poncey-lès-Athée;21;eau potable : ex Syndicat Saône-Mondragon;139594;2024;88,9;1,2;9,3;66,9;conforme;15181;3048;14;47;577;Non vérifié
+21494;Poncey-sur-l'Ignon;21;eau potable;139394;2024;55,0;4,0;4,9;66,0;non conforme;3022;3022;104;300;80;Non vérifié
+21495;Pont;21;eau potable : SIPIT;139596;2024;71,5;3,3;8,4;66,7;conforme;106899;2166;38;144;157;Non vérifié
+21496;Pontailler-sur-Saône;21;eau potable : ex SISOV;139590;2024;68,1;3,6;7,7;66,5;conforme;116250;30308;65;177;1277;Non vérifié
+21497;Pont-et-Massène;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;3202;47;103;187;Non vérifié
+21498;Posanges;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;873;47;103;51;Non vérifié
+21499;Pothières;21;eau potable;139399;2024;95,8;0,2;4,6;65,9;conforme;650;650;9;16;189;Non vérifié
+21500;Pouillenay;21;eau potable;139400;2024;89,8;1,6;14,0;67,8;conforme;2920;2920;13;42;605;Non vérifié
+21501;Pouilly-en-Auxois;21;eau potable;139401;2024;75,4;2,2;6,7;66,3;conforme;23962;23962;43;120;1533;Non vérifié
+21502;Pouilly-sur-Saône;21;eau potable;139644;2024;75,9;2,0;6,2;66,2;conforme;156607;9061;40;119;619;Non vérifié
+21503;Pouilly-sur-Vingeanne;21;eau potable;139618;2024;70,6;1,8;4,3;65,9;conforme;39748;2710;56;161;132;Non vérifié
+21504;Prâlon;21;eau potable : Ex-CCVO;139674;2024;71,7;4,3;11,0;67,2;conforme;207001;2454;62;143;109;Non vérifié
+21505;Précy-sous-Thil;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;12310;47;103;719;Non vérifié
+21506;Premeaux-Prissey;21;eau potable : DSP -Plaine de Nuits;257314;2024;79,7;2,8;11,0;67,2;conforme;146637;8278;60;134;377;Non vérifié
+21508;Prenois;21;eau potable : Secteur des Varennes Blanches;272034;2024;75,1;2,1;6,4;66,3;conforme;20512;7303;43;120;460;Non vérifié
+21510;Prusly-sur-Ource;21;eau potable;139586;2024;75,9;1,5;4,6;65,9;conforme;44271;4973;83;118;164;Non vérifié
+21511;Puits;21;eau potable;139608;2024;67,1;1,2;2,5;65,5;conforme;10240;3196;64;181;137;Non vérifié
+21512;Puligny-Montrachet;21;eau potable : AEP CABCS;243874;2024;81,8;3,4;15,3;68,1;conforme;716541;5834;47;85;340;Non vérifié
+21515;Quetigny;21;eau potable : Est Dijonnais Eau;139611;2024;86,3;4,4;27,4;70,5;conforme;268411;89467;27;61;8971;Non vérifié
+21516;Quincerot;21;eau potable;139652;2024;94,1;0,4;6,0;66,2;conforme;933;253;9;24;77;Non vérifié
+21517;Quincey;21;eau potable : DSP -Plaine de Nuits;257314;2024;79,7;2,8;11,0;67,2;conforme;146637;10869;60;134;495;Non vérifié
+21518;Quincy-le-Vicomte;21;eau potable;139652;2024;94,1;0,4;6,0;66,2;conforme;933;680;9;24;207;Non vérifié
+21519;Recey-sur-Ource;21;eau potable;139410;2024;76,1;1,6;5,1;66,0;conforme;8264;8264;68;114;334;Non vérifié
+21520;Remilly-en-Montagne;21;eau potable : Ex-CCVO;139674;2024;71,7;4,3;11,0;67,2;conforme;207001;3288;62;143;146;Non vérifié
+21521;Remilly-sur-Tille;21;eau potable : Arc - 4 communes;139578;2024;75,5;4,0;12,3;67,5;conforme;85366;20819;56;177;1015;Non vérifié
+21522;Renève;21;eau potable : ex SISOV;139590;2024;68,1;3,6;7,7;66,5;conforme;116250;11559;65;177;487;Non vérifié
+21523;Reulle-Vergy;21;eau potable : Régie (22 communes + Nuits + Villars-Fontaine + Villers-la-Faye);316294;2024;74,7;4,5;13,1;67,6;conforme;382702;4290;72;126;163;Non vérifié
+21525;La Roche-en-Brenil;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;15597;47;103;911;Non vérifié
+21526;Rochefort-sur-Brévon;21;eau potable;139414;2024;0,0;;;;non calculable;;;;;42;Non vérifié
+21527;La Rochepot;21;eau potable : AEP CABCS;243874;2024;81,8;3,4;15,3;68,1;conforme;716541;4873;47;85;284;Non vérifié
+21528;La Roche-Vanneau;21;eau potable;139416;2024;71,2;1,8;4,4;65,9;conforme;4599;4599;93;148;135;Non vérifié
+21529;Roilly;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;890;47;103;52;Non vérifié
+21530;Rougemont;21;eau potable;139587;2024;80,5;1,2;5,1;66,0;conforme;3504;1699;33;85;143;Non vérifié
+21531;Rouvray;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;8646;47;103;505;Non vérifié
+21532;Rouvres-en-Plaine;21;eau potable : Fauverney;139613;2024;87,7;1,8;13,0;67,6;conforme;24841;9593;20;69;1303;Non vérifié
+21533;Rouvres-sous-Meilly;21;eau potable;139601;2024;80,5;1,9;7,8;66,6;conforme;101944;2600;86;152;83;Non vérifié
+21534;Ruffey-lès-Beaune;21;eau potable : AEP CABCS;243874;2024;81,8;3,4;15,3;68,1;conforme;716541;12699;47;85;740;Non vérifié
+21535;Ruffey-lès-Echirey;21;eau potable : Secteur Valmy-Suzon;272074;2024;84,6;2,6;14,2;67,8;conforme;45429;11798;23;67;1385;Non vérifié
+21536;Sacquenay;21;eau potable;139618;2024;70,6;1,8;4,3;65,9;conforme;39748;5851;56;161;285;Non vérifié
+21537;Saffres;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;2037;47;103;119;Non vérifié
+21538;Saint-Andeux;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;1969;47;103;115;Non vérifié
+21539;Saint-Anthot;21;eau potable : ex-SIAEP de Drée;139610;2024;68,9;3,0;6,6;66,3;conforme;45990;1687;69;167;67;Non vérifié
+21540;Saint-Apollinaire;21;eau potable : SEMOP Odivea Eau;305474;2024;81,5;11,5;50,4;75,1;conforme;3206680;121954;44;107;7544;Non vérifié
+21541;Saint-Aubin;21;eau potable : AEP CABCS;243874;2024;81,8;3,4;15,3;68,1;conforme;716541;3346;47;85;195;Non vérifié
+21542;Saint-Bernard;21;eau potable : Sud Dijonnais;190077;2024;86,6;2,2;14,2;67,8;conforme;83857;5658;33;108;464;Non vérifié
+21543;Saint-Broing-les-Moines;21;eau potable;139424;2024;97,0;0,4;13,3;67,7;conforme;540;540;8;18;180;Non vérifié
+21544;Sainte-Colombe-en-Auxois;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;907;47;103;53;Non vérifié
+21545;Sainte-Colombe-sur-Seine;21;eau potable;139427;2024;90,5;3,4;32,6;71,5;conforme;5113;5113;15;38;918;Non vérifié
+21546;Saint-Didier;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;3356;47;103;196;Non vérifié
+21547;Saint-Euphrône;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;3852;47;103;225;Non vérifié
+21548;Saint-Germain-de-Modéon;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;2979;47;103;174;Non vérifié
+21549;Saint-Germain-le-Rocheux;21;eau potable;139431;2024;72,6;1,2;3,3;65,7;conforme;1336;1336;44;133;83;Non vérifié
+21550;Saint-Germain-lès-Senailly;21;eau potable;139433;2024;81,0;1,7;7,0;66,4;conforme;1353;1353;33;88;111;Non vérifié
+21552;Saint-Hélier;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;616;47;103;36;Non vérifié
+21553;Saint-Jean-de-Boeuf;21;eau potable : Ex-CCVO;139674;2024;71,7;4,3;11,0;67,2;conforme;207001;2297;62;143;102;Non vérifié
+21554;Saint-Jean-de-Losne;21;eau potable : Echenon, Losne...;139666;2024;63,0;5,1;8,7;66,7;non conforme;151303;24443;68;213;990;Non vérifié
+21555;Saint-Julien;21;eau potable : SYNDICAT DE CLENAY - SAINT JULIEN;139606;2024;84,3;2,0;10,6;67,1;conforme;83950;19023;28;69;1864;Non vérifié
+21556;Saint-Léger-Triey;21;eau potable;139599;2024;58,1;4,2;5,8;66,2;non conforme;170562;9034;96;264;258;Non vérifié
+21557;Saint-Marc-sur-Seine;21;eau potable;139437;2024;84,1;0,8;4,4;65,9;conforme;1256;1256;30;67;113;Non vérifié
+21558;Sainte-Marie-la-Blanche;21;eau potable : AEP CABCS;243874;2024;81,8;3,4;15,3;68,1;conforme;716541;15907;47;85;927;Non vérifié
+21559;Sainte-Marie-sur-Ouche;21;eau potable : Ex-CCVO;139674;2024;71,7;4,3;11,0;67,2;conforme;207001;15785;62;143;701;Non vérifié
+21560;Saint-Martin-de-la-Mer;21;eau potable;139624;2024;83,0;1,3;6,3;66,3;conforme;155636;11920;122;243;267;Non vérifié
+21561;Saint-Martin-du-Mont;21;eau potable : Secteur du Cresson;272054;2024;74,0;1,2;3,5;65,7;conforme;28496;10087;60;132;463;Non vérifié
+21562;Saint-Maurice-sur-Vingeanne;21;eau potable;139618;2024;70,6;1,8;4,3;65,9;conforme;39748;4065;56;161;198;Non vérifié
+21563;Saint-Mesmin;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;1866;47;103;109;Non vérifié
+21564;Saint-Nicolas-lès-Cîteaux;21;eau potable : Sud Dijonnais;190077;2024;86,6;2,2;14,2;67,8;conforme;83857;4695;33;108;385;Non vérifié
+21565;Saint-Philibert;21;eau potable : Sud Dijonnais;190077;2024;86,6;2,2;14,2;67,8;conforme;83857;6633;33;108;544;Non vérifié
+21566;Saint-Pierre-en-Vaux;21;eau potable;139580;2024;77,9;1,1;3,8;65,8;conforme;127396;2832;56;117;138;Non vérifié
+21567;Saint-Prix-lès-Arnay;21;eau potable;139580;2024;77,9;1,1;3,8;65,8;conforme;127396;4166;56;117;203;Non vérifié
+21568;Saint-Rémy;21;eau potable;139447;2024;66,7;3,3;6,6;66,3;conforme;16032;16032;65;182;673;Non vérifié
+21569;Saint-Romain;21;eau potable;139580;2024;77,9;1,1;3,8;65,8;conforme;127396;4043;56;117;197;Non vérifié
+21570;Sainte-Sabine;21;eau potable;139449;2024;96,9;0,3;9,3;66,9;conforme;493;493;8;12;172;Non vérifié
+21571;Saint-Sauveur;21;eau potable : ex SISOV;139590;2024;68,1;3,6;7,7;66,5;conforme;116250;5340;65;177;225;Non vérifié
+21572;Saint-Seine-en-Bâche;21;eau potable : Echenon, Losne...;139666;2024;63,0;5,1;8,7;66,7;non conforme;151303;10049;68;213;407;Non vérifié
+21573;Saint-Seine-l'Abbaye;21;eau potable : Saint-Seine-l'Abbaye;139452;2024;59,5;9,3;13,7;67,7;non conforme;12220;12220;92;247;364;Non vérifié
+21574;Saint-Seine-sur-Vingeanne;21;eau potable;139618;2024;70,6;1,8;4,3;65,9;conforme;39748;7617;56;161;371;Non vérifié
+21575;Saint-Symphorien-sur-Saône;21;eau potable : Echenon, Losne...;139666;2024;63,0;5,1;8,7;66,7;non conforme;151303;7950;68;213;322;Non vérifié
+21576;Saint-Thibault;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;2602;47;103;152;Non vérifié
+21577;Saint-Usage;21;eau potable : Echenon, Losne...;139666;2024;63,0;5,1;8,7;66,7;non conforme;151303;33406;68;213;1353;Non vérifié
+21578;Saint-Victor-sur-Ouche;21;eau potable : Ex-CCVO;139674;2024;71,7;4,3;11,0;67,2;conforme;207001;6665;62;143;296;Non vérifié
+21580;Salmaise;21;eau potable;139459;2024;77,4;0,8;2,7;65,5;conforme;3168;3168;69;107;126;Non vérifié
+21581;Samerey;21;eau potable : Echenon, Losne...;139666;2024;63,0;5,1;8,7;66,7;non conforme;151303;3481;68;213;141;Non vérifié
+21582;Santenay;21;eau potable : AEP CABCS;243874;2024;81,8;3,4;15,3;68,1;conforme;716541;14071;47;85;820;Non vérifié
+21583;Santosse;21;eau potable;139580;2024;77,9;1,1;3,8;65,8;conforme;127396;1252;56;117;61;Non vérifié
+21584;Saulieu;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;37941;47;103;2216;Non vérifié
+21585;Saulon-la-Chapelle;21;eau potable : Sud Dijonnais;190077;2024;86,6;2,2;14,2;67,8;conforme;83857;12572;33;108;1031;Non vérifié
+21586;Saulon-la-Rue;21;eau potable : Sud Dijonnais;190077;2024;86,6;2,2;14,2;67,8;conforme;83857;8548;33;108;701;Non vérifié
+21588;Saussey;21;eau potable;139580;2024;77,9;1,1;3,8;65,8;conforme;127396;1519;56;117;74;Non vérifié
+21589;Saussy;21;eau potable : Secteur du Cresson;272054;2024;74,0;1,2;3,5;65,7;conforme;28496;2157;60;132;99;Non vérifié
+21590;Savigny-lès-Beaune;21;eau potable : AEP CABCS;243874;2024;81,8;3,4;15,3;68,1;conforme;716541;21759;47;85;1268;Non vérifié
+21591;Savigny-le-Sec;21;eau potable : SYNDICAT DE CLENAY - SAINT JULIEN;139606;2024;84,3;2,0;10,6;67,1;conforme;83950;9195;28;69;901;Non vérifié
+21592;Savigny-sous-Mâlain;21;eau potable : Ex-CCVO;139674;2024;71,7;4,3;11,0;67,2;conforme;207001;5269;62;143;234;Non vérifié
+21593;Savilly;21;eau potable;139624;2024;83,0;1,3;6,3;66,3;conforme;155636;3527;122;243;79;Non vérifié
+21594;Savoisy;21;eau potable;139643;2024;74,3;1,1;3,2;65,6;conforme;46634;4576;65;124;194;Non vérifié
+21595;Savolles;21;eau potable;139599;2024;58,1;4,2;5,8;66,2;non conforme;170562;5077;96;264;145;Non vérifié
+21596;Savouges;21;eau potable : Sud Dijonnais;190077;2024;86,6;2,2;14,2;67,8;conforme;83857;4512;33;108;370;Non vérifié
+21597;Segrois;21;eau potable : Régie (22 communes + Nuits + Villars-Fontaine + Villers-la-Faye);316294;2024;74,7;4,5;13,1;67,6;conforme;382702;1447;72;126;55;Non vérifié
+21598;Seigny;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;2585;47;103;151;Non vérifié
+21599;Selongey;21;eau potable;139471;2024;84,1;2,3;12,0;67,4;conforme;29173;29173;33;70;2395;Non vérifié
+21600;Semarey;21;eau potable;139601;2024;80,5;1,9;7,8;66,6;conforme;101944;4165;86;152;133;Non vérifié
+21601;Semezanges;21;eau potable : Régie (22 communes + Nuits + Villars-Fontaine + Villers-la-Faye);316294;2024;74,7;4,5;13,1;67,6;conforme;382702;2632;72;126;100;Non vérifié
+21603;Semur-en-Auxois;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;68245;47;103;3986;Non vérifié
+21604;Senailly;21;eau potable;139478;2024;89,7;1,4;12,3;67,5;conforme;1329;1329;28;42;132;Non vérifié
+21605;Sennecey-lès-Dijon;21;eau potable : Est Dijonnais Eau;139611;2024;86,3;4,4;27,4;70,5;conforme;268411;21452;27;61;2151;Non vérifié
+21606;Ladoix-Serrigny;21;eau potable : AEP CABCS;243874;2024;81,8;3,4;15,3;68,1;conforme;716541;30374;47;85;1770;Non vérifié
+21607;Seurre;21;eau potable;139644;2024;75,9;2,0;6,2;66,2;conforme;156607;34427;40;119;2352;Non vérifié
+21608;Sincey-lès-Rouvray;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;1763;47;103;103;Non vérifié
+21609;Soirans;21;eau potable : SIPIT;139596;2024;71,5;3,3;8,4;66,7;conforme;106899;6815;38;144;494;Non vérifié
+21610;Soissons-sur-Nacey;21;eau potable : ex syndicat Flammerans;139615;2024;79,7;2,0;7,9;66,6;conforme;15337;4163;32;92;355;Non vérifié
+21611;Sombernon;21;eau potable : ex-SIAEP de Drée;139610;2024;68,9;3,0;6,6;66,3;conforme;45990;25866;69;167;1027;Non vérifié
+21612;Souhey;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;1404;47;103;82;Non vérifié
+21613;Soussey-sur-Brionne;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;2654;47;103;155;Non vérifié
+21614;Spoy;21;eau potable;139484;2024;87,4;2,2;15,4;68,1;conforme;5244;5244;37;52;386;Non vérifié
+21615;Sussey;21;eau potable;139624;2024;83,0;1,3;6,3;66,3;conforme;155636;11028;122;243;247;Non vérifié
+21616;Tailly;21;eau potable : AEP CABCS;243874;2024;81,8;3,4;15,3;68,1;conforme;716541;3449;47;85;201;Non vérifié
+21617;Talant;21;eau potable : SEMOP Odivea Eau;305474;2024;81,5;11,5;50,4;75,1;conforme;3206680;192307;44;107;11896;Non vérifié
+21618;Talmay;21;eau potable : ex SISOV;139590;2024;68,1;3,6;7,7;66,5;conforme;116250;12532;65;177;528;Non vérifié
+21619;Tanay;21;eau potable;139490;2024;84,4;3,6;19,7;68,9;conforme;5019;5019;61;131;227;Non vérifié
+21622;Tart-le-Bas;21;eau potable : Varanges;139592;2024;94,9;0,4;8,1;66,6;conforme;2590;409;5;18;241;Non vérifié
+21623;Tart;21;eau potable : SIPIT;139596;2024;71,5;3,3;8,4;66,7;conforme;106899;20927;38;144;1517;Non vérifié
+21624;Tellecey;21;eau potable : Arc - 4 communes;139578;2024;75,5;4,0;12,3;67,5;conforme;85366;2933;56;177;143;Non vérifié
+21625;Ternant;21;eau potable : Régie (22 communes + Nuits + Villars-Fontaine + Villers-la-Faye);316294;2024;74,7;4,5;13,1;67,6;conforme;382702;2132;72;126;81;Non vérifié
+21626;Terrefondrée;21;eau potable;139495;2024;71,6;3,2;8,0;66,6;conforme;2429;2429;96;147;69;Non vérifié
+21627;Thenissey;21;eau potable;139497;2024;33,2;;;;non calculable;;;;;93;Non vérifié
+21628;Thoires;21;eau potable;139586;2024;75,9;1,5;4,6;65,9;conforme;44271;1668;83;118;55;Non vérifié
+21629;Thoisy-la-Berchère;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;5171;47;103;302;Non vérifié
+21630;Thoisy-le-Désert;21;eau potable;139601;2024;80,5;1,9;7,8;66,6;conforme;101944;6796;86;152;217;Non vérifié
+21631;Thomirey;21;eau potable;139580;2024;77,9;1,1;3,8;65,8;conforme;127396;1149;56;117;56;Non vérifié
+21632;Thorey-en-Plaine;21;eau potable : Racle;139576;2024;70,7;4,1;9,9;67,0;conforme;115679;18707;44;151;1176;Non vérifié
+21633;Thorey-sous-Charny;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;3356;47;103;196;Non vérifié
+21634;Thorey-sur-Ouche;21;eau potable;139588;2024;31,4;6,1;2,8;65,6;non conforme;85720;22900;424;801;148;Non vérifié
+21635;Thoste;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;1781;47;103;104;Non vérifié
+21636;Thury;21;eau potable : Thury;139505;2024;86,9;0,7;4,6;65,9;conforme;1661;1661;17;56;262;Non vérifié
+21637;Tichey;21;eau potable;139644;2024;75,9;2,0;6,2;66,2;conforme;156607;3045;40;119;208;Non vérifié
+21638;Til-Châtel;21;eau potable;139656;2024;79,0;2,5;9,6;66,9;conforme;15786;12604;31;96;1113;Non vérifié
+21639;Tillenay;21;eau potable : SIPIT;139596;2024;71,5;3,3;8,4;66,7;conforme;106899;10250;38;144;743;Non vérifié
+21640;Torcy-et-Pouligny;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;3458;47;103;202;Non vérifié
+21641;Touillon;21;eau potable;139643;2024;74,3;1,1;3,2;65,6;conforme;46634;10874;65;124;461;Non vérifié
+21642;Toutry;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;6883;47;103;402;Non vérifié
+21643;Tréclun;21;eau potable : SIPIT;139596;2024;71,5;3,3;8,4;66,7;conforme;106899;5835;38;144;423;Non vérifié
+21644;Trochères;21;eau potable;139599;2024;58,1;4,2;5,8;66,2;non conforme;170562;5813;96;264;166;Non vérifié
+21645;Trouhans;21;eau potable;139584;2024;79,5;2,3;8,7;66,7;conforme;43520;7125;31;96;621;Non vérifié
+21646;Trouhaut;21;eau potable : Trouhaut;139511;2024;75,0;2,6;7,8;66,6;conforme;3274;3274;68;121;131;Non vérifié
+21647;Trugny;21;eau potable;139644;2024;75,9;2,0;6,2;66,2;conforme;156607;1815;40;119;124;Non vérifié
+21648;Turcey;21;eau potable;139513;2024;73,6;3,2;8,9;66,8;conforme;9344;9344;137;131;187;Non vérifié
+21649;Uncey-le-Franc;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;805;47;103;47;Non vérifié
+21650;Urcy;21;eau potable : Régie (22 communes + Nuits + Villars-Fontaine + Villers-la-Faye);316294;2024;74,7;4,5;13,1;67,6;conforme;382702;3763;72;126;143;Non vérifié
+21651;Val-Suzon;21;eau potable : Val-Suzon;139518;2024;96,8;0,2;7,4;66,5;conforme;346;346;4;10;213;Non vérifié
+21652;Vandenesse-en-Auxois;21;eau potable;139601;2024;80,5;1,9;7,8;66,6;conforme;101944;9333;86;152;298;Non vérifié
+21653;Vannaire;21;eau potable;139605;2024;100,0;0,0;4,3;65,9;conforme;0;0;0;0;48;Non vérifié
+21656;Varanges;21;eau potable : Varanges;139592;2024;94,9;0,4;8,1;66,6;conforme;2590;1151;5;18;678;Non vérifié
+21657;Varois-et-Chaignot;21;eau potable : SYNDICAT DE VAROIS ET CHAIGNOT - ORGEUX;139647;2024;72,5;4,1;10,8;67,2;conforme;41214;33711;44;139;2094;Non vérifié
+21659;Vaux-Saules;21;eau potable : Secteur du Cresson;272054;2024;74,0;1,2;3,5;65,7;conforme;28496;3704;60;132;170;Non vérifié
+21660;Veilly;21;eau potable;139580;2024;77,9;1,1;3,8;65,8;conforme;127396;1211;56;117;59;Non vérifié
+21661;Velars-sur-Ouche;21;eau potable : Ex-CCVO;139674;2024;71,7;4,3;11,0;67,2;conforme;207001;40486;62;143;1798;Non vérifié
+21662;Velogny;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;565;47;103;33;Non vérifié
+21663;Venarey-les-Laumes;21;eau potable;139525;2024;76,6;6,9;22,5;69,5;conforme;80592;80592;80;132;2747;Non vérifié
+21664;Verdonnet;21;eau potable;139643;2024;74,3;1,1;3,2;65,6;conforme;46634;1462;65;124;62;Non vérifié
+21665;Vernois-lès-Vesvres;21;eau potable;139527;2024;63,0;5,7;18,9;68,8;non conforme;6242;6242;113;211;151;Non vérifié
+21666;Vernot;21;eau potable;139529;2024;100,0;0,0;6,2;66,2;conforme;0;0;0;0;97;Non vérifié
+21667;Véronnes;21;eau potable;139648;2024;94,9;0,4;7,4;66,5;conforme;2825;1425;10;20;386;Non vérifié
+21669;Verrey-sous-Drée;21;eau potable : ex-SIAEP de Drée;139610;2024;68,9;3,0;6,6;66,3;conforme;45990;2493;69;167;99;Non vérifié
+21670;Verrey-sous-Salmaise;21;eau potable;139532;2024;93,3;0,0;13,6;67,7;conforme;0;0;0;0;303;Non vérifié
+21671;Vertault;21;eau potable;139629;2024;69,0;1,6;3,6;65,7;conforme;14600;1830;100;162;50;Non vérifié
+21672;Vesvres;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;497;47;103;29;Non vérifié
+21673;Veuvey-sur-Ouche;21;eau potable;139535;2024;53,9;4,0;4,6;65,9;non conforme;5986;5986;80;316;204;Non vérifié
+21675;Vianges;21;eau potable;139624;2024;83,0;1,3;6,3;66,3;conforme;155636;1563;122;243;35;Non vérifié
+21676;Vic-de-Chassenay;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;3544;47;103;207;Non vérifié
+21677;Vic-des-Prés;21;eau potable;139580;2024;77,9;1,1;3,8;65,8;conforme;127396;2196;56;117;107;Non vérifié
+21678;Vic-sous-Thil;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;3219;47;103;188;Non vérifié
+21679;Vieilmoulin;21;eau potable : ex-SIAEP de Drée;139610;2024;68,9;3,0;6,6;66,3;conforme;45990;3501;69;167;139;Non vérifié
+21680;Vielverge;21;eau potable : ex syndicat Flammerans;139615;2024;79,7;2,0;7,9;66,6;conforme;15337;5804;32;92;495;Non vérifié
+21681;Vieux-Château;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;1832;47;103;107;Non vérifié
+21682;Viévigne;21;eau potable;139542;2024;92,0;0,4;4,6;65,9;conforme;921;921;10;32;243;Non vérifié
+21683;Viévy;21;eau potable;139580;2024;77,9;1,1;3,8;65,8;conforme;127396;7470;56;117;364;Non vérifié
+21684;Vignoles;21;eau potable : AEP CABCS;243874;2024;81,8;3,4;15,3;68,1;conforme;716541;15564;47;85;907;Non vérifié
+21685;Villaines-en-Duesmois;21;eau potable;139546;2024;80,3;8,2;5,4;66,1;conforme;32474;32474;353;559;252;Non vérifié
+21686;Villaines-les-Prévôtes;21;eau potable;139548;2024;100,0;;;;non calculable;;;;;140;Non vérifié
+21687;Villargoix;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;2517;47;103;147;Non vérifié
+21688;Villars-Fontaine;21;eau potable : Régie (22 communes + Nuits + Villars-Fontaine + Villers-la-Faye);316294;2024;74,7;4,5;13,1;67,6;conforme;382702;3053;72;126;116;Non vérifié
+21689;Villars-et-Villenotte;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;2842;47;103;166;Non vérifié
+21690;Villeberny;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;1763;47;103;103;Non vérifié
+21691;Villebichot;21;eau potable : Sud Dijonnais;190077;2024;86,6;2,2;14,2;67,8;conforme;83857;4914;33;108;403;Non vérifié
+21693;Villedieu;21;eau potable;139629;2024;69,0;1,6;3,6;65,7;conforme;14600;2598;100;162;71;Non vérifié
+21694;Villeferry;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;377;47;103;22;Non vérifié
+21696;Villeneuve-sous-Charigny;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;1404;47;103;82;Non vérifié
+21698;Villers-la-Faye;21;eau potable : Régie (22 communes + Nuits + Villars-Fontaine + Villers-la-Faye);316294;2024;74,7;4,5;13,1;67,6;conforme;382702;10658;72;126;405;Non vérifié
+21699;Villers-les-Pots;21;eau potable : ex Syndicat Saône-Mondragon;139594;2024;88,9;1,2;9,3;66,9;conforme;15181;6444;14;47;1220;Non vérifié
+21700;Villers-Patras;21;eau potable;139561;2024;66,5;6,5;15,9;68,2;non conforme;3084;3084;90;149;94;Non vérifié
+21701;Villers-Rotin;21;eau potable : ex Syndicat de Labergement-les-Auxonne;139619;2024;64,4;3,6;6,5;66,3;non conforme;16570;2986;66;201;124;Non vérifié
+21703;Villiers-en-Morvan;21;eau potable;139624;2024;83,0;1,3;6,3;66,3;conforme;155636;1920;122;243;43;Non vérifié
+21705;Villotte-Saint-Seine;21;eau potable;139564;2024;97,7;0,0;1,6;65,3;conforme;0;0;0;0;65;Non vérifié
+21706;Villotte-sur-Ource;21;eau potable;139586;2024;75,9;1,5;4,6;65,9;conforme;44271;3335;83;118;110;Non vérifié
+21707;Villy-en-Auxois;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;3989;47;103;233;Non vérifié
+21708;Villy-le-Moutier;21;eau potable : DSP -Plaine de Nuits;257314;2024;79,7;2,8;11,0;67,2;conforme;146637;7400;60;134;337;Non vérifié
+21709;Viserny;21;eau potable;139569;2024;57,5;;;;non calculable;;;;;182;Non vérifié
+21710;Vitteaux;21;eau potable : Eau potable;139574;2024;78,7;1,1;3,9;65,8;conforme;376033;18046;47;103;1054;Non vérifié
+21711;Vix;21;eau potable;139612;2024;71,9;100,0;7,2;66,4;conforme;547500;100714;2935;6413;94;Non vérifié
+21712;Volnay;21;eau potable : AEP CABCS;243874;2024;81,8;3,4;15,3;68,1;conforme;716541;3844;47;85;224;Non vérifié
+21713;Vonges;21;eau potable : ex SISOV;139590;2024;68,1;3,6;7,7;66,5;conforme;116250;8497;65;177;358;Non vérifié
+21714;Vosne-Romanée;21;eau potable : DSP -Plaine de Nuits;257314;2024;79,7;2,8;11,0;67,2;conforme;146637;7202;60;134;328;Non vérifié
+21715;Voudenay;21;eau potable;139624;2024;83,0;1,3;6,3;66,3;conforme;155636;8661;122;243;194;Non vérifié
+21716;Vougeot;21;eau potable : DSP -Plaine de Nuits;257314;2024;79,7;2,8;11,0;67,2;conforme;146637;3294;60;134;150;Non vérifié
+21717;Voulaines-les-Templiers;21;eau potable;139626;2024;50,0;5,4;5,4;66,1;non conforme;24973;12193;124;368;270;Non vérifié

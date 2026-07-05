@@ -1,0 +1,153 @@
+﻿# DourData — eau perdue par les réseaux d'eau potable (indicateurs SISPEA)
+# Périmètre : Département 05
+# Source : SISPEA — Système d'Information des Services Publics d'Eau et d'Assainissement, via data.gouv.fr / services.eaufrance.fr
+# Licence : Licence Ouverte 2.0 (Etalab)
+# Millésime des données : 2021–2024 (année la plus récente disponible par commune)
+# Date de génération de l'export : 2026-07-05
+# Méthodologie et code : https://github.com/btaverne/dourdata
+# Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
+# Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
+05001;Abriès-Ristolas;05;eau potable : Abriès-Ristolas depuis 2019;271914;2024;56,1;8,2;10,5;67,1;non conforme;74825;74825;548;286;374;Non vérifié
+05003;Aiguilles;05;eau potable;130347;2023;67,0;10,6;21,6;69,3;non conforme;31339;31339;233;179;369;Sans anomalie apparente
+05004;Ancelle;05;eau potable;130351;2024;36,2;24,5;13,9;67,8;non conforme;241716;241716;651;642;1017;Non vérifié
+05007;Arvieux;05;eau potable;130356;2021;56,2;7,9;10,1;67,0;non conforme;66753;66753;538;285;340;Sans anomalie apparente
+05008;Aspremont;05;eau potable;130359;2024;67,4;4,9;10,1;67,0;conforme;13414;13414;101;177;364;Non vérifié
+05009;Aspres-lès-Corps;05;eau potable;130361;2024;87,9;2,2;16,2;68,2;conforme;8833;8833;237;50;102;Non vérifié
+05010;Aspres-sur-Buëch;05;eau potable;130363;2024;72,1;4,1;10,5;67,1;conforme;41124;41124;136;142;828;Non vérifié
+05011;Avançon;05;eau potable;130366;2024;91,0;0,5;4,8;66,0;conforme;4745;4745;31;38;415;Non vérifié
+05012;Baratier;05;eau potable;215255;2024;75,8;3,4;10,5;67,1;conforme;234549;15829;67;118;648;Non vérifié
+05013;Barcillonnette;05;"eau potable : 01 - Barcillonnette "" convention de délégation de compétence avec l'entité de gestion A """;130371;2024;92,4;0,2;3,0;65,6;conforme;909;909;17;35;148;Non vérifié
+05014;Barret-sur-Méouge;05;eau potable;130755;2024;68,6;5,1;11,0;67,2;conforme;17312;17312;246;312;193;Non vérifié
+05016;La Bâtie-Montsaléon;05;eau potable : Distribution;259374;2024;56,6;2,7;3,5;65,7;non conforme;17404;17404;157;281;304;Non vérifié
+05017;La Bâtie-Neuve;05;eau potable : La Bâtie-Neuve;130377;2024;61,5;4,8;7,7;66,5;non conforme;77789;77789;81;227;2628;Non vérifié
+05018;La Bâtie-Vieille;05;eau potable : Entité La Bâtie-Vielle distribution;130378;2024;98,0;0,1;5,8;66,2;conforme;434;434;4;6;340;Non vérifié
+05019;La Beaume;05;eau potable;130382;2024;45,8;9,5;8,0;66,6;non conforme;22781;22781;408;434;153;Non vérifié
+05021;Le Bersac;05;eau potable;130387;2024;77,5;1,4;4,7;65,9;conforme;3669;3669;69;110;146;Non vérifié
+05022;Bréziers;05;eau potable : Eau potable:  entité Bréziers;130389;2024;77,0;4,5;15,1;68,0;conforme;11498;11498;138;109;229;Non vérifié
+05023;Briançon;05;eau potable : SPL Eau Services Haute Durance (BRI);130392;2024;50,6;35,2;36,1;72,2;non conforme;1025527;1025527;246;356;11411;Non vérifié
+05024;Valdoule;05;eau potable : Valdoule;130394;2024;86,9;;;;non calculable;;;;;204;Non vérifié
+05025;Buissard;05;eau potable;130397;2024;81,3;1,6;6,8;66,4;conforme;4082;4082;60;86;187;Non vérifié
+05026;Ceillac;05;eau potable;130399;2024;91,5;2,0;21,4;69,3;conforme;7088;7088;73;34;265;Non vérifié
+05027;Cervières;05;eau potable;130400;2024;51,9;14,6;15,8;68,2;non conforme;59152;59152;791;337;205;Non vérifié
+05028;Chabestan;05;eau potable;130402;2024;86,5;0,3;1,6;65,3;conforme;2033;2033;32;68;173;Non vérifié
+05029;Chabottes;05;eau potable;130405;2024;35,6;16,9;9,4;66,9;non conforme;123370;123370;351;658;964;Non vérifié
+05032;Champoléon;05;eau potable;130408;2024;0,0;18,1;0,0;65,0;non conforme;80005;80005;1522;;144;Non vérifié
+05033;Chanousse;05;eau potable;130411;2024;100,0;0,0;1,2;65,2;conforme;0;0;0;0;39;Non vérifié
+05035;Châteauneuf-d'Oze;05;eau potable;130415;2024;94,2;0,1;1,5;65,3;conforme;146;146;13;24;30;Non vérifié
+05036;Châteauroux-les-Alpes;05;eau potable;215255;2024;75,8;3,4;10,5;67,1;conforme;234549;30143;67;118;1234;Non vérifié
+05037;Châteauvieux;05;"eau potable : 12 - DSP/ Châteauvieux - Fouillouse - Neffes ""Chaillol/Serre Niou""- Sigoyer Les Parots - Tallard Les Blaches";287734;2024;64,2;3,9;7,0;66,4;non conforme;66904;7828;39;381;545;Non vérifié
+05038;Château-Ville-Vieille;05;eau potable;130421;2024;47,1;;9,5;66,9;non conforme;;;;;298;Non vérifié
+05039;Aubessagne;05;eau potable : Aubessagne à partir de 2018;255154;2024;89,8;0,9;8,2;66,6;conforme;13140;13140;49;40;740;Non vérifié
+05040;Chorges;05;eau potable;130425;2024;71,9;6,2;15,8;68,2;conforme;141551;141551;123;143;3146;Non vérifié
+05044;Crévoux;05;eau potable;215255;2024;75,8;3,4;10,5;67,1;conforme;234549;2980;67;118;122;Non vérifié
+05045;Crots;05;eau potable;130434;2024;51,6;10,1;10,8;67,2;non conforme;163054;163054;374;342;1195;Non vérifié
+05046;Embrun;05;eau potable;215255;2024;75,8;3,4;10,5;67,1;conforme;234549;156627;67;118;6412;Non vérifié
+05047;Éourres;05;eau potable;130438;2024;76,5;0,9;2,9;65,6;conforme;2027;2027;37;114;151;Non vérifié
+05048;L' Épine;05;eau potable;130440;2022;69,2;1,1;2,6;65,5;conforme;5392;5392;74;156;200;Sans anomalie apparente
+05049;Esparron;05;eau potable : 03 - Esparron - délégation de compétence à partir de 2020;130442;2024;100,0;0,1;4,1;65,8;conforme;113;113;6;9;53;Non vérifié
+05050;Espinasses;05;eau potable;190689;2024;68,8;6,0;13,2;67,6;conforme;32850;18617;66;166;777;Non vérifié
+05051;Étoile-Saint-Cyrice;05;eau potable;130448;2024;100,0;0,0;1,3;65,3;conforme;0;0;0;0;23;Non vérifié
+05052;Eygliers;05;eau potable;130449;2024;40,3;14,9;10,1;67,0;non conforme;115894;115894;360;539;882;Non vérifié
+05053;Garde-Colombe;05;eau potable;130745;2024;40,8;2,8;1,9;65,4;non conforme;49485;43159;219;526;539;Non vérifié
+05054;La Fare-en-Champsaur;05;eau potable;130454;2024;56,5;5,9;7,7;66,5;non conforme;29374;29374;167;279;482;Non vérifié
+05055;La Faurie;05;eau potable;130458;2024;75,6;2,1;6,6;66,3;conforme;9735;9735;93;116;287;Non vérifié
+05056;Forest-Saint-Julien;05;eau potable;130460;2024;81,9;1,4;6,5;66,3;conforme;9709;9709;75;79;353;Non vérifié
+05057;Fouillouse;05;"eau potable : 12 - DSP/ Châteauvieux - Fouillouse - Neffes ""Chaillol/Serre Niou""- Sigoyer Les Parots - Tallard Les Blaches";287734;2024;64,2;3,9;7,0;66,4;non conforme;66904;3964;39;381;276;Non vérifié
+05058;Freissinières;05;eau potable;130465;2024;66,2;8,7;17,0;68,4;non conforme;53888;53888;794;187;186;Non vérifié
+05059;La Freissinouse;05;eau potable : 04 - La Freissinouse - délégation de compétence à partir de 2020;130466;2024;71,3;1,8;4,4;65,9;conforme;17673;17673;50;149;972;Non vérifié
+05060;Furmeyer;05;eau potable;130468;2024;53,5;2,4;2,7;65,5;non conforme;5703;5703;92;320;169;Non vérifié
+05061;Gap;05;eau potable : 14 - Gap - depuis 2020 - DSP;130472;2024;75,3;6,6;20,2;69,0;conforme;802775;802775;53;123;41293;Non vérifié
+05062;Le Glaizil;05;eau potable;130474;2024;48,7;5,5;5,2;66,0;non conforme;23849;23849;367;384;178;Non vérifié
+05063;La Grave;05;eau potable;130475;2024;71,7;2,3;5,8;66,2;conforme;20148;20148;115;145;479;Non vérifié
+05064;La Chapelle-en-Valgaudémar;05;eau potable;130476;2024;88,7;4,3;33,8;71,8;conforme;14549;14549;332;46;120;Non vérifié
+05065;Guillestre;05;eau potable :;130478;2024;33,4;23,7;11,9;67,4;non conforme;428546;428546;512;728;2295;Non vérifié
+05068;Jarjayes;05;eau potable : 13 - Jarjayes depuis 2020 - DSP;130488;2024;68,1;1,3;2,9;65,6;conforme;13471;13471;79;166;465;Non vérifié
+05070;Laragne-Montéglin;05;eau potable;130492;2024;50,0;9,7;9,8;67,0;non conforme;169590;169590;131;363;3549;Non vérifié
+05071;Lardier-et-Valença;05;eau potable : 06 - Lardier-et-Valença - délégation de compétence à partir de 2020;130493;2024;83,1;0,7;3,6;65,7;conforme;5141;5141;36;71;391;Non vérifié
+05072;Laye;05;eau potable;130497;2024;96,9;1,1;35,9;72,2;conforme;4818;4818;52;11;256;Non vérifié
+05073;Lazer;05;eau potable;130498;2024;56,4;1,5;2,0;65,4;non conforme;12532;12532;100;277;345;Non vérifié
+05074;Lettret;05;eau potable : 07 - Lettret -Territoire n°2 - délégation de compétence à partir de 2020;202858;2024;67,6;2,9;6,0;66,2;conforme;3493;3493;49;176;196;Non vérifié
+05075;Manteyer;05;eau potable :;130502;2024;52,4;3,3;3,6;65,7;non conforme;33100;33100;181;370;500;Non vérifié
+05077;Molines-en-Queyras;05;eau potable;130507;2024;93,9;1,3;20,3;69,1;conforme;10838;10838;97;23;307;Non vérifié
+05078;Monêtier-Allemont;05;eau potable;130509;2024;60,5;3,5;5,3;66,1;non conforme;8751;8751;79;242;302;Non vérifié
+05079;Le Monêtier-les-Bains;05;eau potable;130510;2024;64,5;20,1;36,6;72,3;non conforme;224130;224130;665;200;923;Non vérifié
+05080;Montbrand;05;eau potable;130511;2024;66,0;5,3;10,3;67,1;non conforme;6384;6384;233;188;75;Non vérifié
+05084;Montgardin;05;eau potable;130520;2024;82,3;1,5;7,0;66,4;conforme;6844;6844;39;78;481;Non vérifié
+05085;Montgenèvre;05;eau potable;190679;2024;92,8;3,1;40,7;73,1;conforme;27948;27948;166;28;461;Non vérifié
+05086;Montjay;05;eau potable;130521;2023;75,6;1,3;4,0;65,8;conforme;5931;5931;156;117;104;Sans anomalie apparente
+05087;Montmaur;05;eau potable;130523;2024;100,0;0,0;13,0;67,6;conforme;0;0;0;0;532;Non vérifié
+05089;Montrond;05;eau potable;130527;2024;94,6;0,1;2,4;65,5;conforme;99;99;3;15;90;Non vérifié
+05092;Neffes;05;"eau potable : 12 - DSP/ Châteauvieux - Fouillouse - Neffes ""Chaillol/Serre Niou""- Sigoyer Les Parots - Tallard Les Blaches";287734;2024;64,2;3,9;7,0;66,4;non conforme;66904;11548;39;381;804;Non vérifié
+05095;Le Noyer;05;eau potable;130540;2024;49,5;8,9;8,8;66,8;non conforme;48728;48728;431;371;310;Non vérifié
+05096;Orcières;05;eau potable;130543;2024;80,7;3,4;14,3;67,9;conforme;72661;72661;306;87;651;Non vérifié
+05097;Orpierre;05;eau potable;130546;2024;48,0;6,9;6,4;66,3;non conforme;37274;37274;323;394;316;Non vérifié
+05098;Les Orres;05;eau potable :;130548;2024;80,8;5,9;24,7;69,9;conforme;72594;72594;390;87;510;Non vérifié
+05099;Oze;05;eau potable;130549;2024;90,1;0,4;3,2;65,6;conforme;955;955;25;46;103;Non vérifié
+05100;Pelleautier;05;eau potable : 09 - Pelleautier - délégation de compétence à partir de 2020;130552;2024;60,3;2,7;4,0;65,8;non conforme;24638;24638;78;243;863;Non vérifié
+05102;La Piarre;05;eau potable;130555;2024;41,6;3,5;2,5;65,5;non conforme;9096;9096;304;514;82;Non vérifié
+05103;Le Poët;05;eau potable;130557;2024;65,0;2,6;4,8;66,0;non conforme;27901;27901;97;197;790;Non vérifié
+05104;Poligny;05;eau potable;130561;2024;28,9;8,3;3,4;65,7;non conforme;45443;45443;368;891;338;Non vérifié
+05106;Prunières;05;eau potable;130563;2024;69,5;1,9;4,4;65,9;conforme;12677;12677;109;156;318;Non vérifié
+05107;Puy-Saint-André;05;eau potable;130565;2024;33,5;13,6;6,8;66,4;non conforme;57185;57185;329;725;476;Non vérifié
+05108;Puy-Saint-Eusèbe;05;eau potable;130567;2024;69,5;6,8;15,4;68,1;conforme;22015;22015;316;161;191;Non vérifié
+05109;Puy-Saint-Pierre;05;eau potable;130570;2024;63,3;2,8;4,9;66,0;non conforme;14809;14809;78;210;518;Non vérifié
+05110;Puy-Saint-Vincent;05;eau potable;130573;2024;0,0;95,7;0,0;65,0;non conforme;713630;713630;7241;;270;Non vérifié
+05111;Puy-Sanières;05;eau potable;130576;2024;0,0;12,2;0,0;65,0;non conforme;29835;29835;284;;288;Non vérifié
+05112;Rabou;05;eau potable;130577;2024;55,5;2,8;3,5;65,7;non conforme;7154;7154;220;290;89;Non vérifié
+05113;Rambaud;05;eau potable;130578;2024;87,2;0,8;5,6;66,1;conforme;3980;3980;26;52;423;Non vérifié
+05114;Réallon;05;eau potable;130583;2024;71,2;7,1;17,5;68,5;conforme;26200;26200;297;148;242;Non vérifié
+05115;Remollon;05;eau potable;130584;2022;71,1;3,9;9,6;66,9;conforme;11388;11388;67;149;469;Sans anomalie apparente
+05117;Ribeyret;05;eau potable;130590;2024;23,2;4,2;1,3;65,3;non conforme;6546;6546;169;1212;106;Non vérifié
+05118;Val Buëch-Méouge;05;eau potable : Val Buëch-Méouge;255294;2024;52,2;9,5;10,4;67,1;non conforme;152570;152570;309;334;1354;Non vérifié
+05119;Risoul;05;eau potable;130595;2024;68,1;11,6;24,8;70,0;non conforme;105850;105850;437;171;664;Non vérifié
+05121;Rochebrune;05;eau potable;190689;2024;68,8;6,0;13,2;67,6;conforme;32850;4672;66;166;195;Non vérifié
+05122;La Roche-de-Rame;05;eau potable;130602;2023;35,0;18,3;9,9;67,0;non conforme;100192;100192;304;677;904;Sans anomalie apparente
+05124;La Rochette;05;eau potable;130605;2024;81,8;0,8;3,6;65,7;conforme;7504;7504;44;81;471;Non vérifié
+05126;Rosans;05;eau potable;130608;2024;32,0;14,3;6,7;66,3;non conforme;118952;118952;638;821;511;Non vérifié
+05127;Rousset-Serre-Ponçon;05;eau potable;190689;2024;68,8;6,0;13,2;67,6;conforme;32850;4001;66;166;167;Non vérifié
+05128;Saint-André-d'Embrun;05;eau potable;215255;2024;75,8;3,4;10,5;67,1;conforme;234549;17221;67;118;705;Non vérifié
+05130;Saint-Apollinaire;05;eau potable;130618;2024;51,2;7,5;7,9;66,6;non conforme;33890;33890;444;347;209;Non vérifié
+05131;Saint-Auban-d'Oze;05;eau potable;130620;2024;83,1;1,6;7,7;66,5;conforme;2336;2336;85;76;75;Non vérifié
+05132;Saint-Bonnet-en-Champsaur;05;eau potable;130622;2024;46,2;9,5;8,2;66,6;non conforme;234126;234126;307;423;2086;Non vérifié
+05133;Saint-Chaffrey;05;eau potable;130625;2024;72,7;11,7;31,2;71,2;conforme;103688;103688;190;137;1494;Non vérifié
+05134;Saint-Clément-sur-Durance;05;eau potable;130627;2024;22,6;13,0;3,8;65,8;non conforme;92528;92528;739;1252;343;Non vérifié
+05135;Sainte-Colombe;05;eau potable;130629;2024;95,0;0,0;3,8;65,8;conforme;0;0;0;0;65;Non vérifié
+05136;Saint-Crépin;05;eau potable;130633;2024;47,1;5,3;4,7;65,9;non conforme;63838;63838;244;410;718;Non vérifié
+05139;Dévoluy;05;eau potable : Ensemble du territoire en régie;130638;2024;58,6;9,7;13,8;67,8;non conforme;276867;276867;814;257;932;Non vérifié
+05140;Saint-Étienne-le-Laus;05;eau potable;130639;2024;58,1;3,7;5,2;66,0;non conforme;20258;20258;160;262;346;Non vérifié
+05142;Saint-Firmin;05;eau potable;130646;2024;65,4;6,3;11,9;67,4;non conforme;76734;76734;449;193;468;Non vérifié
+05144;Saint-Jacques-en-Valgodemard;05;eau potable;130650;2024;0,0;38,6;0,0;65,0;non conforme;110599;110599;2682;;113;Non vérifié
+05145;Saint-Jean-Saint-Nicolas;05;eau potable;130652;2024;51,7;7,0;7,5;66,5;non conforme;107310;107310;265;339;1110;Non vérifié
+05147;Saint-Julien-en-Champsaur;05;eau potable;130659;2024;85,7;3,6;21,2;69,2;conforme;8961;8961;64;62;382;Non vérifié
+05148;Saint-Laurent-du-Cros;05;eau potable;130661;2024;82,2;1,6;7,4;66,5;conforme;10582;10582;50;79;580;Non vérifié
+05151;Saint-Martin-de-Queyrières;05;eau potable;130668;2024;69,8;11,0;25,5;70,1;non conforme;116234;116234;286;158;1114;Non vérifié
+05152;Saint-Maurice-en-Valgodemard;05;eau potable;130670;2024;100,0;0,0;31,2;71,2;conforme;0;0;0;0;118;Non vérifié
+05153;Saint-Michel-de-Chaillol;05;eau potable;130674;2024;18,5;28,8;6,5;66,3;non conforme;173448;173448;1274;1608;373;Non vérifié
+05154;Saint-Pierre-d'Argençon;05;eau potable;130676;2024;77,2;2,8;9,3;66,9;conforme;14012;14012;256;110;150;Non vérifié
+05155;Saint-Pierre-Avez;05;eau potable;130678;2024;88,8;0,4;2,8;65,6;conforme;292;292;23;51;35;Non vérifié
+05156;Saint-Sauveur;05;eau potable;215255;2024;75,8;3,4;10,5;67,1;conforme;234549;11749;67;118;481;Non vérifié
+05158;Le Saix;05;eau potable;130685;2024;99,0;0,1;6,8;66,4;conforme;157;157;3;5;126;Non vérifié
+05159;Saléon;05;eau potable;130745;2024;40,8;2,8;1,9;65,4;non conforme;49485;6326;219;526;79;Non vérifié
+05160;Salérans;05;eau potable;130688;2024;86,2;0,7;4,2;65,8;conforme;1661;1661;58;61;78;Non vérifié
+05161;La Salle-les-Alpes;05;eau potable;130690;2024;75,5;10,9;33,7;71,7;conforme;79570;79570;244;118;892;Non vérifié
+05162;La Saulce;05;eau potable : 05 - La Saulce - délégation de compétence à partir de 2020;130692;2024;47,7;10,2;9,3;66,9;non conforme;88756;88756;178;400;1369;Non vérifié
+05163;Le Sauze-du-Lac;05;eau potable;130695;2023;68,3;1,4;3,1;65,6;conforme;5928;5928;102;167;159;Sans anomalie apparente
+05164;Savines-le-Lac;05;eau potable;130697;2024;30,3;14,4;6,3;66,3;non conforme;203302;203302;505;840;1102;Non vérifié
+05165;Savournon;05;eau potable;130700;2024;91,8;2,2;24,8;70,0;conforme;9315;9315;105;36;242;Non vérifié
+05166;Serres;05;eau potable;130702;2024;50,1;9,6;9,6;66,9;non conforme;87600;87600;185;366;1298;Non vérifié
+05167;Sigottier;05;eau potable;130703;2024;71,4;0,9;2,3;65,5;conforme;2040;2040;68;143;82;Non vérifié
+05168;Sigoyer;05;"eau potable : 12 - DSP/ Châteauvieux - Fouillouse - Neffes ""Chaillol/Serre Niou""- Sigoyer Les Parots - Tallard Les Blaches";287734;2024;64,2;3,9;7,0;66,4;non conforme;66904;10643;39;381;741;Non vérifié
+05170;Tallard;05;"eau potable : 12 - DSP/ Châteauvieux - Fouillouse - Neffes ""Chaillol/Serre Niou""- Sigoyer Les Parots - Tallard Les Blaches";287734;2024;64,2;3,9;7,0;66,4;non conforme;66904;32921;39;381;2292;Non vérifié
+05171;Théus;05;eau potable;190689;2024;68,8;6,0;13,2;67,6;conforme;32850;5559;66;166;232;Non vérifié
+05172;Trescléoux;05;eau potable;130714;2024;67,9;1,8;3,8;65,8;conforme;9894;9894;92;173;296;Non vérifié
+05173;Upaix;05;eau potable;130716;2024;88,4;0,3;2,6;65,5;conforme;3515;3515;19;41;494;Non vérifié
+05176;Valserres;05;eau potable : Entité Valserres distribution;130722;2024;69,4;5,3;11,9;67,4;conforme;8899;8899;84;162;289;Non vérifié
+05177;Vars;05;eau potable : contrat 2013-2024;130725;2024;80,2;6,3;25,5;70,1;conforme;76527;76527;357;90;588;Non vérifié
+05178;Ventavon;05;eau potable;130728;2024;93,4;0,2;2,8;65,6;conforme;3723;3723;19;26;540;Non vérifié
+05179;Veynes;05;eau potable;130731;2024;62,2;7,6;12,6;67,5;non conforme;120170;120170;102;220;3214;Non vérifié
+05180;Les Vigneaux;05;eau potable;130732;2024;73,2;2,6;7,2;66,4;conforme;12337;12337;66;132;510;Non vérifié
+05181;Villar-d'Arêne;05;eau potable;130734;2024;100,0;0,0;10,1;67,0;conforme;0;0;0;0;300;Non vérifié
+05182;Villar-Loubière;05;eau potable;130735;2024;37,6;11,1;6,7;66,3;non conforme;17421;17421;1540;606;31;Non vérifié
+05183;Villar-Saint-Pancrace;05;eau potable : SPL Eau Services Haute Durance (VSP);130737;2024;44,0;21,6;16,9;68,4;non conforme;143173;143173;274;466;1433;Non vérifié
+05184;Vitrolles;05;eau potable : 11 - Vitrolles - délégation de compétence à partir de 2020;130739;2024;90,8;0,2;2,4;65,5;conforme;1226;1226;15;31;221;Non vérifié

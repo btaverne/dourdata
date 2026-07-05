@@ -1,0 +1,472 @@
+﻿# DourData — eau perdue par les réseaux d'eau potable (indicateurs SISPEA)
+# Périmètre : Département 17
+# Source : SISPEA — Système d'Information des Services Publics d'Eau et d'Assainissement, via data.gouv.fr / services.eaufrance.fr
+# Licence : Licence Ouverte 2.0 (Etalab)
+# Millésime des données : 2022–2024 (année la plus récente disponible par commune)
+# Date de génération de l'export : 2026-07-05
+# Méthodologie et code : https://github.com/btaverne/dourdata
+# Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
+# Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
+17002;Agudelle;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;2277;48;114;131;Non vérifié
+17003;Aigrefeuille-d'Aunis;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;81289;48;114;4677;Non vérifié
+17004;Île-d'Aix;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;3233;48;114;186;Non vérifié
+17005;Allas-Bocage;17;eau potable : Territoire des Coteaux de Gironde;83871;2024;76,2;1,1;3,4;65,7;conforme;128480;4987;70;167;194;Non vérifié
+17006;Allas-Champagne;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;4919;48;114;283;Non vérifié
+17007;Anais;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;5457;48;114;314;Non vérifié
+17008;Andilly;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;40844;48;114;2350;Non vérifié
+17009;Angliers;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;25150;48;114;1447;Non vérifié
+17010;Angoulins;17;eau potable : Régie;340334;2024;90,1;2,3;20,8;69,2;conforme;1168248;28179;18;44;4240;Non vérifié
+17011;Annepont;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;6935;48;114;399;Non vérifié
+17012;Annezay;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;2920;48;114;168;Non vérifié
+17013;Antezant-la-Chapelle;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;6379;48;114;367;Non vérifié
+17015;Arces;17;eau potable : CARA Distribution;318054;2024;87,3;1,9;13,4;67,7;conforme;1051346;9169;35;55;716;Non vérifié
+17016;Archiac;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;13435;48;114;773;Non vérifié
+17017;Archingeay;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;13296;48;114;765;Non vérifié
+17018;Ardillières;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;15469;48;114;890;Non vérifié
+17019;Ars-en-Ré;17;eau potable : Territoire d'Ars en Ré;84334;2024;85,9;2,3;14,1;67,8;conforme;200640;40183;84;60;1314;Non vérifié
+17020;Arthenac;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;5805;48;114;334;Non vérifié
+17021;Arvert;17;eau potable : CARA Distribution;318054;2024;87,3;1,9;13,4;67,7;conforme;1051346;50162;35;55;3917;Non vérifié
+17022;Asnières-la-Giraud;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;16981;48;114;977;Non vérifié
+17023;Aujac;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;6466;48;114;372;Non vérifié
+17024;Aulnay;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;24507;48;114;1410;Non vérifié
+17025;Aumagne;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;12062;48;114;694;Non vérifié
+17026;Authon-Ébéon;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;7126;48;114;410;Non vérifié
+17027;Avy;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;8864;48;114;510;Non vérifié
+17028;Aytré;17;eau potable : Régie;340334;2024;90,1;2,3;20,8;69,2;conforme;1168248;64772;18;44;9746;Non vérifié
+17029;Bagnizeau;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;3076;48;114;177;Non vérifié
+17030;Balanzac;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;11158;48;114;642;Non vérifié
+17031;Ballans;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;3493;48;114;201;Non vérifié
+17032;Ballon;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;14391;48;114;828;Non vérifié
+17033;La Barde;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;8760;48;114;504;Non vérifié
+17034;Barzan;17;eau potable : CARA Distribution;318054;2024;87,3;1,9;13,4;67,7;conforme;1051346;6083;35;55;475;Non vérifié
+17035;Bazauges;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;1755;48;114;101;Non vérifié
+17036;Beaugeay;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;13800;48;114;794;Non vérifié
+17037;Beauvais-sur-Matha;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;11089;48;114;638;Non vérifié
+17038;Bedenac;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;12149;48;114;699;Non vérifié
+17039;Belluire;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;3719;48;114;214;Non vérifié
+17041;Benon;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;32310;48;114;1859;Non vérifié
+17042;Bercloux;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;7786;48;114;448;Non vérifié
+17043;Bernay-Saint-Martin;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;13383;48;114;770;Non vérifié
+17044;Berneuil;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;20318;48;114;1169;Non vérifié
+17045;Beurlay;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;17276;48;114;994;Non vérifié
+17046;Bignay;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;6240;48;114;359;Non vérifié
+17047;Biron;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;4223;48;114;243;Non vérifié
+17048;Blanzac-lès-Matha;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;5996;48;114;345;Non vérifié
+17049;Blanzay-sur-Boutonne;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;1321;48;114;76;Non vérifié
+17050;Bois;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;9090;48;114;523;Non vérifié
+17051;Le Bois-Plage-en-Ré;17;eau potable : Territoire d'Ars en Ré;84334;2024;85,9;2,3;14,1;67,8;conforme;200640;64984;84;60;2125;Non vérifié
+17052;Boisredon;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;12358;48;114;711;Non vérifié
+17053;Bords;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;23898;48;114;1375;Non vérifié
+17054;Boresse-et-Martron;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;3476;48;114;200;Non vérifié
+17055;Boscamnant;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;5736;48;114;330;Non vérifié
+17056;Bougneau;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;11384;48;114;655;Non vérifié
+17057;Bouhet;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;15695;48;114;903;Non vérifié
+17058;Bourcefranc-le-Chapus;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;60589;48;114;3486;Non vérifié
+17059;Bourgneuf;17;eau potable : Régie;340334;2024;90,1;2,3;20,8;69,2;conforme;1168248;9723;18;44;1463;Non vérifié
+17060;Boutenac-Touvent;17;eau potable : CARA Distribution;318054;2024;87,3;1,9;13,4;67,7;conforme;1051346;2945;35;55;230;Non vérifié
+17061;Bran;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;2381;48;114;137;Non vérifié
+17062;Bresdon;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;4015;48;114;231;Non vérifié
+17063;Breuil-la-Réorte;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;8169;48;114;470;Non vérifié
+17064;Breuillet;17;eau potable : CARA Distribution;318054;2024;87,3;1,9;13,4;67,7;conforme;1051346;39161;35;55;3058;Non vérifié
+17065;Breuil-Magné;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;33475;48;114;1926;Non vérifié
+17066;Brie-sous-Archiac;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;3876;48;114;223;Non vérifié
+17067;Brie-sous-Matha;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;2833;48;114;163;Non vérifié
+17068;Brie-sous-Mortagne;17;eau potable : CARA Distribution;318054;2024;87,3;1,9;13,4;67,7;conforme;1051346;2997;35;55;234;Non vérifié
+17069;Brives-sur-Charente;17;eau potable : Saintes-Est AEP;259594;2024;80,9;1,5;6,1;66,2;conforme;151110;2675;34;89;213;Non vérifié
+17070;Brizambourg;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;17328;48;114;997;Non vérifié
+17071;La Brousse;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;8968;48;114;516;Non vérifié
+17072;Burie;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;23255;48;114;1338;Non vérifié
+17073;Bussac-sur-Charente;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;22960;48;114;1321;Non vérifié
+17074;Bussac-Forêt;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;18667;48;114;1074;Non vérifié
+17075;Cabariot;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;25741;48;114;1481;Non vérifié
+17076;Celles;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;5718;48;114;329;Non vérifié
+17077;Cercoux;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;22629;48;114;1302;Non vérifié
+17078;Chadenac;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;9003;48;114;518;Non vérifié
+17079;Chaillevette;17;eau potable : CARA Distribution;318054;2024;87,3;1,9;13,4;67,7;conforme;1051346;21309;35;55;1664;Non vérifié
+17080;Chambon;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;17085;48;114;983;Non vérifié
+17081;Chamouillac;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;6431;48;114;370;Non vérifié
+17082;Champagnac;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;8482;48;114;488;Non vérifié
+17083;Champagne;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;11315;48;114;651;Non vérifié
+17084;Champagnolles;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;11940;48;114;687;Non vérifié
+17085;Champdolent;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;7387;48;114;425;Non vérifié
+17086;Chaniers;17;eau potable : Saintes-Est AEP;259594;2024;80,9;1,5;6,1;66,2;conforme;151110;45845;34;89;3651;Non vérifié
+17087;Chantemerle-sur-la-Soie;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;3633;48;114;209;Non vérifié
+17089;La Chapelle-des-Pots;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;17711;48;114;1019;Non vérifié
+17091;Charron;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;35126;48;114;2021;Non vérifié
+17092;Chartuzac;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;2850;48;114;164;Non vérifié
+17093;Le Château-d'Oléron;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;75883;48;114;4366;Non vérifié
+17094;Châtelaillon-Plage;17;eau potable : Châtelaillon;326954;2024;88,0;2,9;21,1;69,2;conforme;67659;67659;28;53;6653;Non vérifié
+17095;Chatenet;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;3841;48;114;221;Non vérifié
+17096;Chaunac;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;1164;48;114;67;Non vérifié
+17097;Le Chay;17;eau potable : CARA Distribution;318054;2024;87,3;1,9;13,4;67,7;conforme;1051346;10757;35;55;840;Non vérifié
+17098;Chenac-Saint-Seurin-d'Uzet;17;eau potable : CARA Distribution;318054;2024;87,3;1,9;13,4;67,7;conforme;1051346;7761;35;55;606;Non vérifié
+17099;Chepniers;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;12114;48;114;697;Non vérifié
+17100;Chérac;17;eau potable : Saintes-Est AEP;259594;2024;80,9;1,5;6,1;66,2;conforme;151110;14189;34;89;1130;Non vérifié
+17101;Cherbonnières;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;6031;48;114;347;Non vérifié
+17102;Chermignac;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;21986;48;114;1265;Non vérifié
+17104;Chevanceaux;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;18510;48;114;1065;Non vérifié
+17105;Chives;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;5510;48;114;317;Non vérifié
+17106;Cierzac;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;5614;48;114;323;Non vérifié
+17107;Ciré-d'Aunis;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;27513;48;114;1583;Non vérifié
+17108;Clam;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;7265;48;114;418;Non vérifié
+17109;Clavette;17;eau potable : Régie;340334;2024;90,1;2,3;20,8;69,2;conforme;1168248;9344;18;44;1406;Non vérifié
+17110;Clérac;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;18667;48;114;1074;Non vérifié
+17111;Clion;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;14652;48;114;843;Non vérifié
+17112;La Clisse;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;13192;48;114;759;Non vérifié
+17113;La Clotte;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;12305;48;114;708;Non vérifié
+17114;Coivert;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;3302;48;114;190;Non vérifié
+17115;Colombiers;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;5318;48;114;306;Non vérifié
+17116;Consac;17;eau potable : Territoire des Coteaux de Gironde;83871;2024;76,2;1,1;3,4;65,7;conforme;128480;6067;70;167;236;Non vérifié
+17117;Contré;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;2346;48;114;135;Non vérifié
+17118;Corignac;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;5666;48;114;326;Non vérifié
+17119;Corme-Écluse;17;eau potable : CARA Distribution;318054;2024;87,3;1,9;13,4;67,7;conforme;1051346;16584;35;55;1295;Non vérifié
+17120;Corme-Royal;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;34709;48;114;1997;Non vérifié
+17121;La Couarde-sur-Mer;17;eau potable : Territoire d'Ars en Ré;84334;2024;85,9;2,3;14,1;67,8;conforme;200640;34006;84;60;1112;Non vérifié
+17122;Coulonges;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;3858;48;114;222;Non vérifié
+17124;Courant;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;7734;48;114;445;Non vérifié
+17125;Courcelles;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;7908;48;114;455;Non vérifié
+17126;Courcerac;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;5492;48;114;316;Non vérifié
+17127;Courçon;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;36343;48;114;2091;Non vérifié
+17128;Courcoury;17;eau potable : Saintes-Est AEP;259594;2024;80,9;1,5;6,1;66,2;conforme;151110;9054;34;89;721;Non vérifié
+17129;Courpignac;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;7317;48;114;421;Non vérifié
+17130;Coux;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;8343;48;114;480;Non vérifié
+17131;Cozes;17;eau potable : CARA Distribution;318054;2024;87,3;1,9;13,4;67,7;conforme;1051346;29288;35;55;2287;Non vérifié
+17132;Cram-Chaban;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;11367;48;114;654;Non vérifié
+17133;Cravans;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;14687;48;114;845;Non vérifié
+17134;Crazannes;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;7682;48;114;442;Non vérifié
+17135;Cressé;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;3911;48;114;225;Non vérifié
+17136;Croix-Chapeau;17;eau potable : Régie;340334;2024;90,1;2,3;20,8;69,2;conforme;1168248;9424;18;44;1418;Non vérifié
+17137;La Croix-Comtesse;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;3876;48;114;223;Non vérifié
+17138;Dampierre-sur-Boutonne;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;4641;48;114;267;Non vérifié
+17139;Doeuil-sur-le-Mignon;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;6483;48;114;373;Non vérifié
+17140;Dolus-d'Oléron;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;55600;48;114;3199;Non vérifié
+17141;Dompierre-sur-Charente;17;eau potable : Saintes-Est AEP;259594;2024;80,9;1,5;6,1;66,2;conforme;151110;5990;34;89;477;Non vérifié
+17142;Dompierre-sur-Mer;17;eau potable : Régie;340334;2024;90,1;2,3;20,8;69,2;conforme;1168248;41970;18;44;6315;Non vérifié
+17143;Le Douhet;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;12305;48;114;708;Non vérifié
+17145;Échebrune;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;8343;48;114;480;Non vérifié
+17146;Échillais;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;65438;48;114;3765;Non vérifié
+17147;Écoyeux;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;23724;48;114;1365;Non vérifié
+17148;Écurat;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;7613;48;114;438;Non vérifié
+17149;Les Éduts;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;991;48;114;57;Non vérifié
+17150;Les Églises-d'Argenteuil;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;9333;48;114;537;Non vérifié
+17151;L' Éguille;17;eau potable : CARA Distribution;318054;2024;87,3;1,9;13,4;67,7;conforme;1051346;11654;35;55;910;Non vérifié
+17152;Épargnes;17;eau potable : CARA Distribution;318054;2024;87,3;1,9;13,4;67,7;conforme;1051346;12127;35;55;947;Non vérifié
+17153;Esnandes;17;eau potable : Régie;340334;2024;90,1;2,3;20,8;69,2;conforme;1168248;14781;18;44;2224;Non vérifié
+17154;Les Essards;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;12862;48;114;740;Non vérifié
+17155;Étaules;17;eau potable : CARA Distribution;318054;2024;87,3;1,9;13,4;67,7;conforme;1051346;36587;35;55;2857;Non vérifié
+17156;Expiremont;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;1947;48;114;112;Non vérifié
+17157;Fenioux;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;2746;48;114;158;Non vérifié
+17158;Ferrières;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;27340;48;114;1573;Non vérifié
+17159;Fléac-sur-Seugne;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;6274;48;114;361;Non vérifié
+17160;Floirac;17;eau potable : CARA Distribution;318054;2024;87,3;1,9;13,4;67,7;conforme;1051346;5379;35;55;420;Non vérifié
+17161;La Flotte;17;eau potable : Territoire de Saint Martin de Ré- La Flotte-Sainte Marie de Ré;83912;2024;96,0;1,9;47,2;74,4;conforme;95010;33563;29;37;3150;Non vérifié
+17162;Fontaine-Chalendray;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;4119;48;114;237;Non vérifié
+17163;Fontaines-d'Ozillac;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;8864;48;114;510;Non vérifié
+17164;Fontcouverte;17;eau potable : Saintes-Est AEP;259594;2024;80,9;1,5;6,1;66,2;conforme;151110;29258;34;89;2330;Non vérifié
+17165;Fontenet;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;6796;48;114;391;Non vérifié
+17166;Forges;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;22734;48;114;1308;Non vérifié
+17167;Le Fouilloux;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;13122;48;114;755;Non vérifié
+17168;Fouras;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;72094;48;114;4148;Non vérifié
+17171;Geay;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;13696;48;114;788;Non vérifié
+17172;Gémozac;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;53045;48;114;3052;Non vérifié
+17173;La Genétouze;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;3772;48;114;217;Non vérifié
+17174;Genouillé;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;15156;48;114;872;Non vérifié
+17175;Germignac;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;11349;48;114;653;Non vérifié
+17176;Gibourne;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;1790;48;114;103;Non vérifié
+17177;Le Gicq;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;2103;48;114;121;Non vérifié
+17178;Givrezac;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;1286;48;114;74;Non vérifié
+17179;Les Gonds;17;eau potable : Saintes-Est AEP;259594;2024;80,9;1,5;6,1;66,2;conforme;151110;21849;34;89;1740;Non vérifié
+17180;Gourvillette;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;2016;48;114;116;Non vérifié
+17181;Grandjean;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;5353;48;114;308;Non vérifié
+17182;La Grève-sur-Mignon;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;10029;48;114;577;Non vérifié
+17183;Grézac;17;eau potable : CARA Distribution;318054;2024;87,3;1,9;13,4;67,7;conforme;1051346;12230;35;55;955;Non vérifié
+17184;La Gripperie-Saint-Symphorien;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;10498;48;114;604;Non vérifié
+17185;Le Gua;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;37003;48;114;2129;Non vérifié
+17186;Le Gué-d'Alleré;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;19345;48;114;1113;Non vérifié
+17187;Guitinières;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;8325;48;114;479;Non vérifié
+17188;Haimps;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;7786;48;114;448;Non vérifié
+17190;L' Houmeau;17;eau potable : Régie;340334;2024;90,1;2,3;20,8;69,2;conforme;1168248;19938;18;44;3000;Non vérifié
+17191;La Jard;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;7404;48;114;426;Non vérifié
+17192;Jarnac-Champagne;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;15260;48;114;878;Non vérifié
+17193;La Jarne;17;eau potable : Régie;340334;2024;90,1;2,3;20,8;69,2;conforme;1168248;17526;18;44;2637;Non vérifié
+17194;La Jarrie;17;eau potable : Régie;340334;2024;90,1;2,3;20,8;69,2;conforme;1168248;22982;18;44;3458;Non vérifié
+17195;La Jarrie-Audouin;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;4693;48;114;270;Non vérifié
+17196;Jazennes;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;9420;48;114;542;Non vérifié
+17197;Jonzac;17;eau potable;84252;2024;86,7;2,8;18,2;68,6;conforme;74606;74606;57;60;3602;Non vérifié
+17198;Juicq;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;5562;48;114;320;Non vérifié
+17199;Jussas;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;2694;48;114;155;Non vérifié
+17200;Lagord;17;eau potable : Régie;340334;2024;90,1;2,3;20,8;69,2;conforme;1168248;51852;18;44;7802;Non vérifié
+17201;La Laigne;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;8690;48;114;500;Non vérifié
+17202;Landes;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;9994;48;114;575;Non vérifié
+17203;Landrais;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;13852;48;114;797;Non vérifié
+17204;Léoville;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;5214;48;114;300;Non vérifié
+17205;Loire-les-Marais;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;6622;48;114;381;Non vérifié
+17206;Loiré-sur-Nie;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;4919;48;114;283;Non vérifié
+17207;Loix;17;eau potable : Territoire d'Ars en Ré;84334;2024;85,9;2,3;14,1;67,8;conforme;200640;22783;84;60;745;Non vérifié
+17208;Longèves;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;18284;48;114;1052;Non vérifié
+17209;Lonzac;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;4641;48;114;267;Non vérifié
+17210;Lorignac;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;8673;48;114;499;Non vérifié
+17211;Loulay;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;13209;48;114;760;Non vérifié
+17212;Louzignac;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;3059;48;114;176;Non vérifié
+17213;Lozay;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;2868;48;114;165;Non vérifié
+17214;Luchat;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;8881;48;114;511;Non vérifié
+17215;Lussac;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;678;48;114;39;Non vérifié
+17216;Lussant;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;17450;48;114;1004;Non vérifié
+17217;Macqueville;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;5162;48;114;297;Non vérifié
+17218;Marans;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;77795;48;114;4476;Non vérifié
+17219;Marennes-Hiers-Brouage;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;107116;48;114;6163;Non vérifié
+17220;Marignac;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;7161;48;114;412;Non vérifié
+17221;Marsais;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;17050;48;114;981;Non vérifié
+17222;Marsilly;17;eau potable : Régie;340334;2024;90,1;2,3;20,8;69,2;conforme;1168248;21108;18;44;3176;Non vérifié
+17223;Massac;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;3198;48;114;184;Non vérifié
+17224;Matha;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;38081;48;114;2191;Non vérifié
+17225;Les Mathes;17;eau potable : CARA Distribution;318054;2024;87,3;1,9;13,4;67,7;conforme;1051346;27917;35;55;2180;Non vérifié
+17226;Mazeray;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;17224;48;114;991;Non vérifié
+17227;Mazerolles;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;4223;48;114;243;Non vérifié
+17228;Médis;17;eau potable : CARA Distribution;318054;2024;87,3;1,9;13,4;67,7;conforme;1051346;40429;35;55;3157;Non vérifié
+17229;Mérignac;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;4119;48;114;237;Non vérifié
+17230;Meschers-sur-Gironde;17;eau potable : CARA Distribution;318054;2024;87,3;1,9;13,4;67,7;conforme;1051346;40724;35;55;3180;Non vérifié
+17231;Messac;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;1773;48;114;102;Non vérifié
+17232;Meursac;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;27166;48;114;1563;Non vérifié
+17233;Meux;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;5683;48;114;327;Non vérifié
+17234;Migré;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;6031;48;114;347;Non vérifié
+17235;Migron;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;12062;48;114;694;Non vérifié
+17236;Mirambeau;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;26418;48;114;1520;Non vérifié
+17237;Moëze;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;10428;48;114;600;Non vérifié
+17239;Mons;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;7734;48;114;445;Non vérifié
+17240;Montendre;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;56000;48;114;3222;Non vérifié
+17241;Montguyon;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;29634;48;114;1705;Non vérifié
+17242;Montils;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;15069;48;114;867;Non vérifié
+17243;Montlieu-la-Garde;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;22769;48;114;1310;Non vérifié
+17244;Montpellier-de-Médillan;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;12166;48;114;700;Non vérifié
+17245;Montroy;17;eau potable : Régie;340334;2024;90,1;2,3;20,8;69,2;conforme;1168248;6400;18;44;963;Non vérifié
+17246;Moragne;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;9316;48;114;536;Non vérifié
+17247;Mornac-sur-Seudre;17;eau potable : CARA Distribution;318054;2024;87,3;1,9;13,4;67,7;conforme;1051346;11231;35;55;877;Non vérifié
+17248;Mortagne-sur-Gironde;17;eau potable : CARA Distribution;318054;2024;87,3;1,9;13,4;67,7;conforme;1051346;11666;35;55;911;Non vérifié
+17249;Mortiers;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;3007;48;114;173;Non vérifié
+17250;Mosnac;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;8586;48;114;494;Non vérifié
+17252;Le Mung;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;5510;48;114;317;Non vérifié
+17253;Muron;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;23950;48;114;1378;Non vérifié
+17254;Nachamps;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;3580;48;114;206;Non vérifié
+17255;Nancras;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;13800;48;114;794;Non vérifié
+17256;Nantillé;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;5649;48;114;325;Non vérifié
+17257;Néré;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;11628;48;114;669;Non vérifié
+17258;Neuillac;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;5579;48;114;321;Non vérifié
+17259;Neulles;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;2868;48;114;165;Non vérifié
+17260;Neuvicq;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;6570;48;114;378;Non vérifié
+17261;Neuvicq-le-Château;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;6344;48;114;365;Non vérifié
+17262;Nieul-lès-Saintes;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;20613;48;114;1186;Non vérifié
+17263;Nieul-le-Virouil;17;eau potable : Territoire des Coteaux de Gironde;83871;2024;76,2;1,1;3,4;65,7;conforme;128480;14730;70;167;573;Non vérifié
+17264;Nieul-sur-Mer;17;eau potable : Régie;340334;2024;90,1;2,3;20,8;69,2;conforme;1168248;38620;18;44;5811;Non vérifié
+17265;Nieulle-sur-Seudre;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;21204;48;114;1220;Non vérifié
+17266;Les Nouillers;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;12549;48;114;722;Non vérifié
+17267;Nuaillé-d'Aunis;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;22230;48;114;1279;Non vérifié
+17268;Nuaillé-sur-Boutonne;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;7282;48;114;419;Non vérifié
+17269;Orignolles;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;12132;48;114;698;Non vérifié
+17270;Ozillac;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;10654;48;114;613;Non vérifié
+17271;Paillé;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;5666;48;114;326;Non vérifié
+17273;Pérignac;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;16772;48;114;965;Non vérifié
+17274;Périgny;17;eau potable : Régie;340334;2024;90,1;2,3;20,8;69,2;conforme;1168248;58997;18;44;8877;Non vérifié
+17275;Pessines;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;13835;48;114;796;Non vérifié
+17276;Le Pin;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;1234;48;114;71;Non vérifié
+17277;Essouvert;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;17746;48;114;1021;Non vérifié
+17278;Pisany;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;13192;48;114;759;Non vérifié
+17279;Plassac;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;11767;48;114;677;Non vérifié
+17280;Plassay;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;14304;48;114;823;Non vérifié
+17281;Polignac;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;2798;48;114;161;Non vérifié
+17282;Pommiers-Moulons;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;3685;48;114;212;Non vérifié
+17283;Pons;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;75484;48;114;4343;Non vérifié
+17284;Pont-l'Abbé-d'Arnoult;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;31476;48;114;1811;Non vérifié
+17285;Port-d'Envaux;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;20648;48;114;1188;Non vérifié
+17286;Les Portes-en-Ré;17;eau potable : Territoire d'Ars en Ré;84334;2024;85,9;2,3;14,1;67,8;conforme;200640;17645;84;60;577;Non vérifié
+17287;Pouillac;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;5110;48;114;294;Non vérifié
+17288;Poursay-Garnaud;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;5371;48;114;309;Non vérifié
+17289;Préguillac;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;7717;48;114;444;Non vérifié
+17290;Prignac;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;4901;48;114;282;Non vérifié
+17291;Puilboreau;17;eau potable : Régie;340334;2024;90,1;2,3;20,8;69,2;conforme;1168248;44960;18;44;6765;Non vérifié
+17292;Puy-du-Lac;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;9090;48;114;523;Non vérifié
+17293;Puyravault;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;12983;48;114;747;Non vérifié
+17294;Puyrolland;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;3163;48;114;182;Non vérifié
+17295;Réaux sur Trèfle;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;13296;48;114;765;Non vérifié
+17296;Rétaud;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;18389;48;114;1058;Non vérifié
+17297;Rivedoux-Plage;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;43156;48;114;2483;Non vérifié
+17298;Rioux;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;16755;48;114;964;Non vérifié
+17299;Rochefort;17;eau potable;84221;2024;90,8;2,4;23,6;69,7;conforme;147168;147168;17;37;23460;Non vérifié
+17300;La Rochelle;17;eau potable : Régie;340334;2024;90,1;2,3;20,8;69,2;conforme;1168248;530690;18;44;79851;Non vérifié
+17301;Romazières;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;1564;48;114;90;Non vérifié
+17302;Romegoux;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;11124;48;114;640;Non vérifié
+17303;La Ronde;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;17328;48;114;997;Non vérifié
+17304;Rouffiac;17;eau potable : Saintes-Est AEP;259594;2024;80,9;1,5;6,1;66,2;conforme;151110;6517;34;89;519;Non vérifié
+17305;Rouffignac;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;7595;48;114;437;Non vérifié
+17306;Royan;17;eau potable : CARA Distribution;318054;2024;87,3;1,9;13,4;67,7;conforme;1051346;248759;35;55;19425;Non vérifié
+17307;Sablonceaux;17;eau potable : CARA Distribution;318054;2024;87,3;1,9;13,4;67,7;conforme;1051346;18671;35;55;1458;Non vérifié
+17308;Saint-Agnant;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;48318;48;114;2780;Non vérifié
+17309;Saint-Aigulin;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;32641;48;114;1878;Non vérifié
+17310;Saint-André-de-Lidon;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;22108;48;114;1272;Non vérifié
+17311;Saint-Augustin;17;eau potable : Territoire des Rives de la Seudre;187696;2022;82,2;3,0;13,6;67,7;conforme;674695;29549;53;85;1521;Sans anomalie apparente
+17312;Saint-Bonnet-sur-Gironde;17;eau potable : Territoire des Coteaux de Gironde;83871;2024;76,2;1,1;3,4;65,7;conforme;128480;22082;70;167;859;Non vérifié
+17313;Saint-Bris-des-Bois;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;6744;48;114;388;Non vérifié
+17314;Saint-Césaire;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;15434;48;114;888;Non vérifié
+17315;Saint-Christophe;17;eau potable : Régie;340334;2024;90,1;2,3;20,8;69,2;conforme;1168248;9451;18;44;1422;Non vérifié
+17316;Saint-Ciers-Champagne;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;6744;48;114;388;Non vérifié
+17317;Saint-Ciers-du-Taillon;17;eau potable : Territoire des Coteaux de Gironde;83871;2024;76,2;1,1;3,4;65,7;conforme;128480;14935;70;167;581;Non vérifié
+17318;Saint-Clément-des-Baleines;17;eau potable : Territoire d'Ars en Ré;84334;2024;85,9;2,3;14,1;67,8;conforme;200640;21040;84;60;688;Non vérifié
+17319;Sainte-Colombe;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;1964;48;114;113;Non vérifié
+17320;Saint-Coutant-le-Grand;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;7248;48;114;417;Non vérifié
+17321;Saint-Crépin;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;5909;48;114;340;Non vérifié
+17322;Saint-Cyr-du-Doret;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;11836;48;114;681;Non vérifié
+17323;Saint-Denis-d'Oléron;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;23603;48;114;1358;Non vérifié
+17324;Saint-Dizant-du-Bois;17;eau potable : Territoire des Coteaux de Gironde;83871;2024;76,2;1,1;3,4;65,7;conforme;128480;2905;70;167;113;Non vérifié
+17325;Saint-Dizant-du-Gua;17;eau potable : Territoire des Coteaux de Gironde;83871;2024;76,2;1,1;3,4;65,7;conforme;128480;12827;70;167;499;Non vérifié
+17326;Saint-Eugène;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;5006;48;114;288;Non vérifié
+17327;Saint-Félix;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;5631;48;114;324;Non vérifié
+17328;Saint-Fort-sur-Gironde;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;15851;48;114;912;Non vérifié
+17329;Saint-Froult;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;6952;48;114;400;Non vérifié
+17330;Sainte-Gemme;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;23724;48;114;1365;Non vérifié
+17331;Saint-Genis-de-Saintonge;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;22282;48;114;1282;Non vérifié
+17332;Saint-Georges-Antignac;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;7230;48;114;416;Non vérifié
+17333;Saint-Georges-de-Didonne;17;eau potable : CARA Distribution;318054;2024;87,3;1,9;13,4;67,7;conforme;1051346;65209;35;55;5092;Non vérifié
+17334;Saint-Georges-de-Longuepierre;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;4067;48;114;234;Non vérifié
+17335;Saint-Georges-des-Agoûts;17;eau potable : Territoire des Coteaux de Gironde;83871;2024;76,2;1,1;3,4;65,7;conforme;128480;7146;70;167;278;Non vérifié
+17336;Saint-Georges-des-Coteaux;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;49413;48;114;2843;Non vérifié
+17337;Saint-Georges-d'Oléron;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;70687;48;114;4067;Non vérifié
+17338;Saint-Georges-du-Bois;17;eau potable : Surgères - St georges du Bois;83941;2024;78,4;2,4;8,8;66,8;conforme;113880;24423;36;99;1883;Non vérifié
+17339;Saint-Germain-de-Lusignan;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;22577;48;114;1299;Non vérifié
+17340;Saint-Pierre-La-Noue;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;25827;48;114;1486;Non vérifié
+17341;Saint-Germain-de-Vibrac;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;3233;48;114;186;Non vérifié
+17342;Saint-Germain-du-Seudre;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;7074;48;114;407;Non vérifié
+17343;Saint-Grégoire-d'Ardennes;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;2485;48;114;143;Non vérifié
+17344;Saint-Hilaire-de-Villefranche;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;23464;48;114;1350;Non vérifié
+17345;Saint-Hilaire-du-Bois;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;5110;48;114;294;Non vérifié
+17346;Saint-Hippolyte;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;25984;48;114;1495;Non vérifié
+17347;Saint-Jean-d'Angély;17;eau potable;84283;2024;72,5;5,7;15,0;68,0;conforme;173555;173555;70;138;6784;Non vérifié
+17348;Saint-Jean-d'Angle;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;12149;48;114;699;Non vérifié
+17349;Saint-Jean-de-Liversay;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;53237;48;114;3063;Non vérifié
+17350;Saint-Julien-de-l'Escap;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;14895;48;114;857;Non vérifié
+17351;Saint-Just-Luzac;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;37125;48;114;2136;Non vérifié
+17353;Saint-Laurent-de-la-Prée;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;39958;48;114;2299;Non vérifié
+17354;Saint-Léger;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;11801;48;114;679;Non vérifié
+17355;Sainte-Lheurine;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;9264;48;114;533;Non vérifié
+17356;Saint-Loup;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;5440;48;114;313;Non vérifié
+17357;Saint-Maigrin;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;9281;48;114;534;Non vérifié
+17358;Saint-Mandé-sur-Brédoire;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;5475;48;114;315;Non vérifié
+17359;Saint-Mard;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;21917;48;114;1261;Non vérifié
+17360;Sainte-Marie-de-Ré;17;eau potable : Territoire de Saint Martin de Ré- La Flotte-Sainte Marie de Ré;83912;2024;96,0;1,9;47,2;74,4;conforme;95010;36354;29;37;3412;Non vérifié
+17361;Saint-Martial;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;1894;48;114;109;Non vérifié
+17362;Saint-Martial-de-Mirambeau;17;eau potable : Territoire des Coteaux de Gironde;83871;2024;76,2;1,1;3,4;65,7;conforme;128480;7763;70;167;302;Non vérifié
+17363;Saint-Martial-de-Vitaterne;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;9594;48;114;552;Non vérifié
+17364;Saint-Martial-sur-Né;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;7387;48;114;425;Non vérifié
+17365;Saint-Martin-d'Ary;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;8169;48;114;470;Non vérifié
+17366;Saint-Martin-de-Coux;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;7717;48;114;444;Non vérifié
+17367;Saint-Martin-de-Juillers;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;2624;48;114;151;Non vérifié
+17369;Saint-Martin-de-Ré;17;eau potable : Territoire de Saint Martin de Ré- La Flotte-Sainte Marie de Ré;83912;2024;96,0;1,9;47,2;74,4;conforme;95010;25092;29;37;2355;Non vérifié
+17373;Saint-Médard-d'Aunis;17;eau potable : Régie;340334;2024;90,1;2,3;20,8;69,2;conforme;1168248;15924;18;44;2396;Non vérifié
+17374;Sainte-Même;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;3876;48;114;223;Non vérifié
+17375;Saint-Nazaire-sur-Charente;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;21030;48;114;1210;Non vérifié
+17376;Saint-Ouen-d'Aunis;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;37368;48;114;2150;Non vérifié
+17377;Saint-Ouen-la-Thène;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;2555;48;114;147;Non vérifié
+17378;Saint-Palais-de-Négrignac;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;7126;48;114;410;Non vérifié
+17379;Saint-Palais-de-Phiolin;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;3719;48;114;214;Non vérifié
+17380;Saint-Palais-sur-Mer;17;eau potable : CARA Distribution;318054;2024;87,3;1,9;13,4;67,7;conforme;1051346;49176;35;55;3840;Non vérifié
+17381;Saint-Pardoult;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;3667;48;114;211;Non vérifié
+17382;Saint-Pierre-d'Amilly;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;9994;48;114;575;Non vérifié
+17383;Saint-Pierre-de-Juillers;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;6066;48;114;349;Non vérifié
+17384;Saint-Pierre-de-l'Isle;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;4310;48;114;248;Non vérifié
+17385;Saint-Pierre-d'Oléron;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;115285;48;114;6633;Non vérifié
+17386;Saint-Pierre-du-Palais;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;5857;48;114;337;Non vérifié
+17387;Saint-Porchaire;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;35456;48;114;2040;Non vérifié
+17388;Saint-Quantin-de-Rançanne;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;4762;48;114;274;Non vérifié
+17389;Sainte-Radegonde;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;10237;48;114;589;Non vérifié
+17390;Sainte-Ramée;17;eau potable : Territoire des Coteaux de Gironde;83871;2024;76,2;1,1;3,4;65,7;conforme;128480;2905;70;167;113;Non vérifié
+17391;Saint-Rogatien;17;eau potable : Régie;340334;2024;90,1;2,3;20,8;69,2;conforme;1168248;15711;18;44;2364;Non vérifié
+17393;Saint-Romain-de-Benet;17;eau potable : CARA Distribution;318054;2024;87,3;1,9;13,4;67,7;conforme;1051346;23064;35;55;1801;Non vérifié
+17394;Saint-Saturnin-du-Bois;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;15903;48;114;915;Non vérifié
+17395;Saint-Sauvant;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;8951;48;114;515;Non vérifié
+17396;Saint-Sauveur-d'Aunis;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;35213;48;114;2026;Non vérifié
+17397;Saint-Savinien;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;42756;48;114;2460;Non vérifié
+17398;Saint-Seurin-de-Palenne;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;2903;48;114;167;Non vérifié
+17400;Saint-Sever-de-Saintonge;17;eau potable : Saintes-Est AEP;259594;2024;80,9;1,5;6,1;66,2;conforme;151110;8124;34;89;647;Non vérifié
+17401;Saint-Séverin-sur-Boutonne;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;1616;48;114;93;Non vérifié
+17402;Saint-Sigismond-de-Clermont;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;2798;48;114;161;Non vérifié
+17403;Saint-Simon-de-Bordes;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;13244;48;114;762;Non vérifié
+17404;Saint-Simon-de-Pellouaille;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;12305;48;114;708;Non vérifié
+17405;Saint-Sorlin-de-Conac;17;eau potable : Territoire des Coteaux de Gironde;83871;2024;76,2;1,1;3,4;65,7;conforme;128480;5373;70;167;209;Non vérifié
+17406;Saint-Sornin;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;7213;48;114;415;Non vérifié
+17407;Sainte-Soulle;17;eau potable : Régie;340334;2024;90,1;2,3;20,8;69,2;conforme;1168248;33456;18;44;5034;Non vérifié
+17408;Saint-Sulpice-d'Arnoult;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;16060;48;114;924;Non vérifié
+17409;Saint-Sulpice-de-Royan;17;eau potable : Territoire des Rives de la Seudre;187696;2022;82,2;3,0;13,6;67,7;conforme;674695;66947;53;85;3446;Sans anomalie apparente
+17410;Saint-Thomas-de-Conac;17;eau potable : Territoire des Coteaux de Gironde;83871;2024;76,2;1,1;3,4;65,7;conforme;128480;15167;70;167;590;Non vérifié
+17411;Saint-Trojan-les-Bains;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;19484;48;114;1121;Non vérifié
+17412;Saint-Vaize;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;10776;48;114;620;Non vérifié
+17413;Saint-Vivien;17;eau potable : Régie;340334;2024;90,1;2,3;20,8;69,2;conforme;1168248;9544;18;44;1436;Non vérifié
+17414;Saint-Xandre;17;eau potable : Régie;340334;2024;90,1;2,3;20,8;69,2;conforme;1168248;37729;18;44;5677;Non vérifié
+17415;Saintes;17;eau potable : Saintes;84312;2024;93,3;3,5;49,1;74,8;conforme;298935;298935;32;71;25363;Non vérifié
+17416;Saleignes;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;973;48;114;56;Non vérifié
+17417;Salignac-de-Mirambeau;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;2833;48;114;163;Non vérifié
+17418;Salignac-sur-Charente;17;eau potable : Saintes-Est AEP;259594;2024;80,9;1,5;6,1;66,2;conforme;151110;7609;34;89;606;Non vérifié
+17420;Salles-sur-Mer;17;eau potable : Régie;340334;2024;90,1;2,3;20,8;69,2;conforme;1168248;16382;18;44;2465;Non vérifié
+17421;Saujon;17;eau potable : CARA Distribution;318054;2024;87,3;1,9;13,4;67,7;conforme;1051346;95278;35;55;7440;Non vérifié
+17422;Seigné;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;1599;48;114;92;Non vérifié
+17423;Semillac;17;eau potable : Territoire des Coteaux de Gironde;83871;2024;76,2;1,1;3,4;65,7;conforme;128480;1671;70;167;65;Non vérifié
+17424;Semoussac;17;eau potable : Territoire des Coteaux de Gironde;83871;2024;76,2;1,1;3,4;65,7;conforme;128480;9923;70;167;386;Non vérifié
+17425;Semussac;17;eau potable : CARA Distribution;318054;2024;87,3;1,9;13,4;67,7;conforme;1051346;33104;35;55;2585;Non vérifié
+17426;Le Seure;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;4762;48;114;274;Non vérifié
+17427;Siecq;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;3667;48;114;211;Non vérifié
+17428;Sonnac;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;8899;48;114;512;Non vérifié
+17429;Soubise;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;57634;48;114;3316;Non vérifié
+17430;Soubran;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;7196;48;114;414;Non vérifié
+17431;Soulignonne;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;13070;48;114;752;Non vérifié
+17432;Souméras;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;6622;48;114;381;Non vérifié
+17433;Sousmoulins;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;3980;48;114;229;Non vérifié
+17434;Surgères;17;eau potable : Surgères - St georges du Bois;83941;2024;78,4;2,4;8,8;66,8;conforme;113880;89457;36;99;6897;Non vérifié
+17435;Taillant;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;3546;48;114;204;Non vérifié
+17436;Taillebourg;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;13800;48;114;794;Non vérifié
+17437;Talmont-sur-Gironde;17;eau potable : CARA Distribution;318054;2024;87,3;1,9;13,4;67,7;conforme;1051346;986;35;55;77;Non vérifié
+17438;Tanzac;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;5145;48;114;296;Non vérifié
+17439;Taugon;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;13418;48;114;772;Non vérifié
+17440;Ternant;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;6692;48;114;385;Non vérifié
+17441;Tesson;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;19953;48;114;1148;Non vérifié
+17442;Thaims;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;6883;48;114;396;Non vérifié
+17443;Thairé;17;eau potable : Régie;340334;2024;90,1;2,3;20,8;69,2;conforme;1168248;12607;18;44;1897;Non vérifié
+17444;Thénac;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;30381;48;114;1748;Non vérifié
+17445;Thézac;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;5753;48;114;331;Non vérifié
+17446;Thors;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;8291;48;114;477;Non vérifié
+17447;Le Thou;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;36795;48;114;2117;Non vérifié
+17448;Tonnay-Boutonne;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;20648;48;114;1188;Non vérifié
+17449;Tonnay-Charente;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;144067;48;114;8289;Non vérifié
+17450;Torxé;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;4484;48;114;258;Non vérifié
+17451;Les Touches-de-Périgny;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;9559;48;114;550;Non vérifié
+17452;La Tremblade;17;eau potable : CARA Distribution;318054;2024;87,3;1,9;13,4;67,7;conforme;1051346;59549;35;55;4650;Non vérifié
+17453;Trizay;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;26731;48;114;1538;Non vérifié
+17454;Tugéras-Saint-Maurice;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;6622;48;114;381;Non vérifié
+17455;La Vallée;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;12288;48;114;707;Non vérifié
+17457;Devise;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;20561;48;114;1183;Non vérifié
+17458;Vanzac;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;3441;48;114;198;Non vérifié
+17459;Varaize;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;9264;48;114;533;Non vérifié
+17460;Varzay;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;14687;48;114;845;Non vérifié
+17461;Vaux-sur-Mer;17;eau potable : CARA Distribution;318054;2024;87,3;1,9;13,4;67,7;conforme;1051346;51391;35;55;4013;Non vérifié
+17462;Vénérand;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;13400;48;114;771;Non vérifié
+17463;Vergeroux;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;22230;48;114;1279;Non vérifié
+17464;Vergné;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;2989;48;114;172;Non vérifié
+17465;La Vergne;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;10620;48;114;611;Non vérifié
+17466;Vérines;17;eau potable : Régie;340334;2024;90,1;2,3;20,8;69,2;conforme;1168248;15645;18;44;2354;Non vérifié
+17467;Vervant;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;4380;48;114;252;Non vérifié
+17468;Vibrac;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;2816;48;114;162;Non vérifié
+17469;Villars-en-Pons;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;10133;48;114;583;Non vérifié
+17470;Villars-les-Bois;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;4467;48;114;257;Non vérifié
+17471;La Villedieu;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;3476;48;114;200;Non vérifié
+17472;Villedoux;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;37646;48;114;2166;Non vérifié
+17473;Villemorin;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;2259;48;114;130;Non vérifié
+17474;Villeneuve-la-Comtesse;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;12914;48;114;743;Non vérifié
+17476;Villexavier;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;4641;48;114;267;Non vérifié
+17477;Villiers-Couture;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;1894;48;114;109;Non vérifié
+17478;Vinax;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;1182;48;114;68;Non vérifié
+17479;Virollet;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;5110;48;114;294;Non vérifié
+17480;Virson;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;12705;48;114;731;Non vérifié
+17481;Voissay;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;3007;48;114;173;Non vérifié
+17482;Vouhé;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;11714;48;114;674;Non vérifié
+17483;Yves;17;eau potable : Régie;340334;2024;90,1;2,3;20,8;69,2;conforme;1168248;10534;18;44;1585;Non vérifié
+17484;Port-des-Barques;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;30937;48;114;1780;Non vérifié
+17485;Le Grand-Village-Plage;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;19258;48;114;1108;Non vérifié
+17486;La Brée-les-Bains;17;eau potable : RESE;83853;2024;87,2;1,6;10,6;67,1;conforme;5263592;12444;48;114;716;Non vérifié

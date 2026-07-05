@@ -1,0 +1,894 @@
+﻿# DourData — eau perdue par les réseaux d'eau potable (indicateurs SISPEA)
+# Périmètre : Département 62
+# Source : SISPEA — Système d'Information des Services Publics d'Eau et d'Assainissement, via data.gouv.fr / services.eaufrance.fr
+# Licence : Licence Ouverte 2.0 (Etalab)
+# Millésime des données : 2023–2024 (année la plus récente disponible par commune)
+# Date de génération de l'export : 2026-07-05
+# Méthodologie et code : https://github.com/btaverne/dourdata
+# Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
+# Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
+62001;Ablain-Saint-Nazaire;62;eau potable;148373;2024;83,2;4,0;19,9;69,0;conforme;2068820;17045;23;82;1994;Non vérifié
+62002;Ablainzevelle;62;eau potable;208907;2024;79,4;2,6;10,1;67,0;conforme;257008;2758;36;113;208;Non vérifié
+62003;Acheville;62;eau potable;148373;2024;83,2;4,0;19,9;69,0;conforme;2068820;4924;23;82;576;Non vérifié
+62004;Achicourt;62;eau potable;148380;2023;88,7;3,0;23,1;69,6;conforme;779377;55841;19;49;7873;Sans anomalie apparente
+62005;Achiet-le-Grand;62;eau potable;208907;2024;79,4;2,6;10,1;67,0;conforme;257008;12915;36;113;974;Non vérifié
+62006;Achiet-le-Petit;62;eau potable;208907;2024;79,4;2,6;10,1;67,0;conforme;257008;4243;36;113;320;Non vérifié
+62007;Acq;62;eau potable;148380;2023;88,7;3,0;23,1;69,6;conforme;779377;5554;19;49;783;Sans anomalie apparente
+62008;Acquin-Westbécourt;62;eau potable;138440;2024;90,2;2,3;21,1;69,2;conforme;1343628;5190;18;41;802;Non vérifié
+62009;Adinfer;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;6204;59;138;287;Non vérifié
+62010;Affringues;62;eau potable;216021;2024;83,5;1,8;9,3;66,9;conforme;279225;2511;27;77;254;Non vérifié
+62011;Agnez-lès-Duisans;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;13425;59;138;621;Non vérifié
+62012;Agnières;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;5513;59;138;255;Non vérifié
+62013;Agny;62;eau potable;148380;2023;88,7;3,0;23,1;69,6;conforme;779377;13270;19;49;1871;Sans anomalie apparente
+62014;Aire-sur-la-Lys;62;eau potable : Aire-Wittes SUEZ;262134;2024;77,1;3,6;12,2;67,4;conforme;140020;127132;36;108;9598;Non vérifié
+62015;Airon-Notre-Dame;62;eau potable;235214;2024;76,1;4,7;14,9;68,0;conforme;1485623;5971;63;124;261;Non vérifié
+62016;Airon-Saint-Vaast;62;eau potable;235214;2024;76,1;4,7;14,9;68,0;conforme;1485623;4232;63;124;185;Non vérifié
+62017;Aix-en-Ergny;62;eau potable;148312;2024;73,7;2,8;7,7;66,5;conforme;110376;7021;99;137;194;Non vérifié
+62018;Aix-en-Issart;62;eau potable : ex-SI de la Région de BRIMEUX;148334;2024;80,1;1,7;6,8;66,4;conforme;20154;2887;30;92;264;Non vérifié
+62019;Aix-Noulette;62;eau potable;148373;2024;83,2;4,0;19,9;69,0;conforme;2068820;33356;23;82;3902;Non vérifié
+62020;Alembon;62;eau potable;148324;2024;74,0;4,0;11,4;67,3;conforme;184529;12564;55;129;624;Non vérifié
+62021;Alette;62;eau potable;148281;2024;70,8;2,6;6,3;66,3;conforme;23725;15716;118;150;365;Non vérifié
+62022;Alincthun;62;eau potable;148263;2024;60,5;2,5;3,9;65,8;non conforme;128088;8174;77;235;291;Non vérifié
+62023;Allouagne;62;eau potable : Regie CABBALR;148367;2024;74,5;5,2;15,2;68,0;conforme;1868809;47812;46;133;2823;Non vérifié
+62024;Alquines;62;eau potable;216021;2024;83,5;1,8;9,3;66,9;conforme;279225;9619;27;77;973;Non vérifié
+62025;Ambleteuse;62;eau potable : Région d'Ambleteuse;279214;2024;78,9;1,9;7,1;66,4;conforme;72512;31628;43;98;2033;Non vérifié
+62026;Ambricourt;62;eau potable;148321;2024;77,8;1,9;6,6;66,3;conforme;45078;2791;65;106;118;Non vérifié
+62027;Ambrines;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;4561;59;138;211;Non vérifié
+62028;Ames;62;eau potable;148357;2024;81,8;2,3;10,3;67,1;conforme;25185;6938;28;82;676;Non vérifié
+62029;Amettes;62;eau potable;148357;2024;81,8;2,3;10,3;67,1;conforme;25185;4813;28;82;469;Non vérifié
+62030;Amplier;62;eau potable : Orville;148330;2024;70,7;3,1;7,4;66,5;conforme;30550;5197;48;152;297;Non vérifié
+62031;Andres;62;eau potable;148317;2024;71,1;2,8;6,9;66,4;conforme;642838;25290;45;150;1523;Non vérifié
+62032;Angres;62;eau potable;148373;2024;83,2;4,0;19,9;69,0;conforme;2068820;39673;23;82;4641;Non vérifié
+62033;Annay;62;eau potable;148373;2024;83,2;4,0;19,9;69,0;conforme;2068820;39075;23;82;4571;Non vérifié
+62034;Annequin;62;eau potable : Regie CABBALR;148367;2024;74,5;5,2;15,2;68,0;conforme;1868809;36126;46;133;2133;Non vérifié
+62035;Annezin;62;eau potable : Regie CABBALR;148367;2024;74,5;5,2;15,2;68,0;conforme;1868809;98655;46;133;5825;Non vérifié
+62036;Anvin;62;eau potable;148366;2024;54,5;11,1;13,3;67,7;non conforme;95210;32057;125;304;700;Non vérifié
+62037;Anzin-Saint-Aubin;62;eau potable;148380;2023;88,7;3,0;23,1;69,6;conforme;779377;20094;19;49;2833;Sans anomalie apparente
+62038;Ardres;62;eau potable;148095;2024;95,0;0,5;9,3;66,9;conforme;11498;11498;7;20;4389;Non vérifié
+62039;Arleux-en-Gohelle;62;eau potable : Contrat 1 - ARLEUX-EN-GOHELLE;344894;2024;95,9;0,7;15,4;68,1;conforme;2215;2215;6;26;960;Non vérifié
+62040;Arques;62;eau potable : Urbain - Véolia;223297;2024;85,7;4,7;28,3;70,7;conforme;678875;125384;36;89;9431;Non vérifié
+62041;Arras;62;eau potable;148380;2023;88,7;3,0;23,1;69,6;conforme;779377;304101;19;49;42875;Sans anomalie apparente
+62042;Athies;62;eau potable;148380;2023;88,7;3,0;23,1;69,6;conforme;779377;7362;19;49;1038;Sans anomalie apparente
+62043;Les Attaques;62;eau potable;148317;2024;71,1;2,8;6,9;66,4;conforme;642838;34273;45;150;2064;Non vérifié
+62044;Attin;62;eau potable;235214;2024;76,1;4,7;14,9;68,0;conforme;1485623;20245;63;124;885;Non vérifié
+62045;Aubigny-en-Artois;62;eau potable;148097;2024;89,1;1,8;15,0;68,0;conforme;8659;8659;16;44;1489;Non vérifié
+62046;Aubin-Saint-Vaast;62;eau potable : ex-SI de la région d'Aubin Saint Vaast;148374;2024;55,6;9,1;11,4;67,3;non conforme;58292;39308;147;292;733;Non vérifié
+62047;Aubrometz;62;eau potable;197437;2024;60,0;3,4;5,1;66,0;non conforme;80665;3752;73;242;141;Non vérifié
+62048;Auchel;62;eau potable : Syndicat Intercommunal du Bassin de la Clarence et de la Région d'Auchel (SACRA);148388;2024;80,0;4,4;17,4;68,5;conforme;453229;109258;30;105;10051;Non vérifié
+62049;Auchy-au-Bois;62;eau potable : Regie CABBALR;148367;2024;74,5;5,2;15,2;68,0;conforme;1868809;9281;46;133;548;Non vérifié
+62050;Auchy-lès-Hesdin;62;eau potable : ex-SI DE LA RÉGION DU PARCQ;148349;2024;70,2;3,5;8,3;66,7;conforme;55699;29080;53;155;1513;Non vérifié
+62051;Auchy-les-Mines;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;53998;32;96;4625;Non vérifié
+62052;Audembert;62;eau potable : Witerthun;257354;2024;69,1;3,6;8,1;66,6;conforme;215443;7296;47;164;424;Non vérifié
+62053;Audincthun;62;eau potable : Eau Potable - Régie;312094;2024;84,6;1,7;9,1;66,8;conforme;204765;6848;27;87;684;Non vérifié
+62054;Audinghen;62;eau potable : Région d'Ambleteuse;279214;2024;78,9;1,9;7,1;66,4;conforme;72512;9599;43;98;617;Non vérifié
+62055;Audrehem;62;eau potable;216021;2024;83,5;1,8;9,3;66,9;conforme;279225;5150;27;77;521;Non vérifié
+62056;Audresselles;62;eau potable : Région d'Ambleteuse;279214;2024;78,9;1,9;7,1;66,4;conforme;72512;9459;43;98;608;Non vérifié
+62057;Audruicq;62;eau potable;148320;2024;81,1;2,0;8,5;66,7;conforme;174813;50382;26;93;5309;Non vérifié
+62058;Aumerval;62;eau potable;148369;2024;83,5;1,9;9,7;66,9;conforme;13385;1735;25;74;189;Non vérifié
+62059;Autingues;62;eau potable;148317;2024;71,1;2,8;6,9;66,4;conforme;642838;4865;45;150;293;Non vérifié
+62060;Auxi-le-Château;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;29737;32;96;2547;Non vérifié
+62061;Averdoingt;62;eau potable;148105;2023;95,5;0,9;19,4;68,9;conforme;1363;1363;13;17;295;Sans anomalie apparente
+62062;Avesnes;62;eau potable;148312;2024;73,7;2,8;7,7;66,5;conforme;110376;1665;99;137;46;Non vérifié
+62063;Avesnes-le-Comte;62;eau potable;148107;2024;82,2;2,6;11,9;67,4;conforme;18031;18031;27;94;1840;Non vérifié
+62064;Avesnes-lès-Bapaume;62;eau potable;208907;2024;79,4;2,6;10,1;67,0;conforme;257008;2307;36;113;174;Non vérifié
+62065;Avion;62;eau potable;148373;2024;83,2;4,0;19,9;69,0;conforme;2068820;149041;23;82;17435;Non vérifié
+62066;Avondance;62;eau potable;148321;2024;77,8;1,9;6,6;66,3;conforme;45078;780;65;106;33;Non vérifié
+62067;Avroult;62;eau potable;216021;2024;83,5;1,8;9,3;66,9;conforme;279225;5299;27;77;536;Non vérifié
+62068;Ayette;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;7134;59;138;330;Non vérifié
+62069;Azincourt;62;eau potable;148321;2024;77,8;1,9;6,6;66,3;conforme;45078;7142;65;106;302;Non vérifié
+62070;Bailleul-aux-Cornailles;62;eau potable;148108;2024;100,0;0,0;7,9;66,6;conforme;0;0;0;0;264;Non vérifié
+62071;Bailleul-lès-Pernes;62;eau potable;148369;2024;83,5;1,9;9,7;66,9;conforme;13385;3745;25;74;408;Non vérifié
+62072;Bailleulmont;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;4605;59;138;213;Non vérifié
+62073;Bailleul-Sir-Berthoult;62;eau potable;148380;2023;88,7;3,0;23,1;69,6;conforme;779377;10136;19;49;1429;Sans anomalie apparente
+62074;Bailleulval;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;5124;59;138;237;Non vérifié
+62075;Baincthun;62;eau potable;148370;2024;87,1;3,6;24,5;69,9;conforme;955633;11333;23;58;1324;Non vérifié
+62076;Bainghen;62;eau potable;148317;2024;71,1;2,8;6,9;66,4;conforme;642838;3454;45;150;208;Non vérifié
+62077;Bajus;62;eau potable;148262;2024;92,7;0,9;11,0;67,2;conforme;14221;1516;12;38;355;Non vérifié
+62078;Balinghem;62;eau potable;148317;2024;71,1;2,8;6,9;66,4;conforme;642838;20258;45;150;1220;Non vérifié
+62079;Bancourt;62;eau potable;208907;2024;79,4;2,6;10,1;67,0;conforme;257008;1101;36;113;83;Non vérifié
+62080;Bapaume;62;eau potable;208907;2024;79,4;2,6;10,1;67,0;conforme;257008;50108;36;113;3779;Non vérifié
+62081;Baralle;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;5067;32;96;434;Non vérifié
+62082;Barastre;62;eau potable;208907;2024;79,4;2,6;10,1;67,0;conforme;257008;4084;36;113;308;Non vérifié
+62083;Barlin;62;eau potable : Syndicat Intercommunal du Bassin de la Lawe et de son Affluent Le Fossé d'Avesnes (SABALFA);148381;2024;78,5;4,5;16,5;68,3;conforme;711712;86511;32;107;7331;Non vérifié
+62084;Barly;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;4302;59;138;199;Non vérifié
+62085;Basseux;62;eau potable;148380;2023;88,7;3,0;23,1;69,6;conforme;779377;915;19;49;129;Sans anomalie apparente
+62086;Bavincourt;62;eau potable;148278;2024;69,8;2,8;6,3;66,3;conforme;13899;6594;43;163;417;Non vérifié
+62087;Bayenghem-lès-Éperlecques;62;eau potable : Rural -SUEZ;223299;2024;91,5;0,7;7,4;66,5;conforme;40622;3833;10;35;1018;Non vérifié
+62088;Bayenghem-lès-Seninghem;62;eau potable;216021;2024;83,5;1,8;9,3;66,9;conforme;279225;3499;27;77;354;Non vérifié
+62089;Bazinghen;62;eau potable : Région d'Ambleteuse;279214;2024;78,9;1,9;7,1;66,4;conforme;72512;6378;43;98;410;Non vérifié
+62090;Béalencourt;62;eau potable : BÉALENCOURT;148112;2023;50,8;9,4;9,7;66,9;non conforme;12352;12352;243;353;139;Sans anomalie apparente
+62091;Beaudricourt;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;2119;59;138;98;Non vérifié
+62092;Beaufort-Blavincourt;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;8712;59;138;403;Non vérifié
+62093;Beaulencourt;62;eau potable;208907;2024;79,4;2,6;10,1;67,0;conforme;257008;3196;36;113;241;Non vérifié
+62094;Beaumerie-Saint-Martin;62;eau potable;235214;2024;76,1;4,7;14,9;68,0;conforme;1485623;8670;63;124;379;Non vérifié
+62095;Beaumetz-lès-Aire;62;eau potable : Eau Potable - Régie;312094;2024;84,6;1,7;9,1;66,8;conforme;204765;2223;27;87;222;Non vérifié
+62096;Beaumetz-lès-Cambrai;62;eau potable;208907;2024;79,4;2,6;10,1;67,0;conforme;257008;7001;36;113;528;Non vérifié
+62097;Beaumetz-lès-Loges;62;eau potable;148380;2023;88,7;3,0;23,1;69,6;conforme;779377;7114;19;49;1003;Sans anomalie apparente
+62099;Beaurains;62;eau potable;148380;2023;88,7;3,0;23,1;69,6;conforme;779377;39428;19;49;5559;Sans anomalie apparente
+62100;Beaurainville;62;eau potable : ex-SI DU BOIS MACHY;148282;2024;75,3;2,2;6,8;66,4;conforme;95557;31995;44;118;2014;Non vérifié
+62101;Beauvois;62;eau potable;148328;2024;52,3;5,7;6,2;66,2;non conforme;166440;7786;160;334;133;Non vérifié
+62102;Bécourt;62;eau potable;148333;2024;73,2;3,6;9,8;67,0;conforme;107354;4877;48;135;280;Non vérifié
+62103;Béhagnies;62;eau potable;208907;2024;79,4;2,6;10,1;67,0;conforme;257008;1512;36;113;114;Non vérifié
+62104;Bellebrune;62;eau potable;148263;2024;60,5;2,5;3,9;65,8;non conforme;128088;11994;77;235;427;Non vérifié
+62105;Belle-et-Houllefort;62;eau potable;148263;2024;60,5;2,5;3,9;65,8;non conforme;128088;14129;77;235;503;Non vérifié
+62106;Bellonne;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;2475;32;96;212;Non vérifié
+62107;Bénifontaine;62;eau potable;148373;2024;83,2;4,0;19,9;69,0;conforme;2068820;2821;23;82;330;Non vérifié
+62108;Berck;62;eau potable;235214;2024;76,1;4,7;14,9;68,0;conforme;1485623;296264;63;124;12951;Non vérifié
+62109;Bergueneuse;62;eau potable;148326;2023;73,5;3,3;9,0;66,8;conforme;45771;5831;75;133;213;Sans anomalie apparente
+62111;Berlencourt-le-Cauroy;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;5988;59;138;277;Non vérifié
+62112;Berles-au-Bois;62;eau potable;197197;2023;88,7;1,0;7,8;66,6;conforme;2865;2865;14;47;553;Sans anomalie apparente
+62113;Berles-Monchel;62;eau potable;148117;2024;77,4;2,5;8,7;66,7;conforme;5292;5292;30;105;482;Non vérifié
+62114;Bermicourt;62;eau potable;148328;2024;52,3;5,7;6,2;66,2;non conforme;166440;9601;160;334;164;Non vérifié
+62115;Berneville;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;5662;32;96;485;Non vérifié
+62116;Bernieulles;62;eau potable;235214;2024;76,1;4,7;14,9;68,0;conforme;1485623;3706;63;124;162;Non vérifié
+62118;Béthonsart;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;3351;59;138;155;Non vérifié
+62119;Béthune;62;eau potable : Regie CABBALR;148367;2024;74,5;5,2;15,2;68,0;conforme;1868809;427207;46;133;25224;Non vérifié
+62120;Beugin;62;eau potable;148262;2024;92,7;0,9;11,0;67,2;conforme;14221;1965;12;38;460;Non vérifié
+62121;Beugnâtre;62;eau potable;208907;2024;79,4;2,6;10,1;67,0;conforme;257008;2387;36;113;180;Non vérifié
+62122;Beugny;62;eau potable;148119;2023;70,1;6,2;14,6;67,9;conforme;5658;5658;44;155;351;Sans anomalie apparente
+62123;Beussent;62;eau potable;148365;2024;66,1;2,2;4,3;65,9;conforme;40150;15384;77;228;546;Non vérifié
+62124;Beutin;62;eau potable;235214;2024;76,1;4,7;14,9;68,0;conforme;1485623;9974;63;124;436;Non vérifié
+62125;Beuvrequen;62;eau potable : Région d'Ambleteuse;279214;2024;78,9;1,9;7,1;66,4;conforme;72512;7125;43;98;458;Non vérifié
+62126;Beuvry;62;eau potable : Regie CABBALR;148367;2024;74,5;5,2;15,2;68,0;conforme;1868809;155630;46;133;9189;Non vérifié
+62127;Bezinghem;62;eau potable;148333;2024;73,2;3,6;9,8;67,0;conforme;107354;6393;48;135;367;Non vérifié
+62128;Biache-Saint-Vaast;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;53332;32;96;4568;Non vérifié
+62129;Biefvillers-lès-Bapaume;62;eau potable;208907;2024;79,4;2,6;10,1;67,0;conforme;257008;1233;36;113;93;Non vérifié
+62130;Bienvillers-au-Bois;62;eau potable;148121;2024;80,1;2,7;10,7;67,1;conforme;6465;6465;26;92;671;Non vérifié
+62131;Bihucourt;62;eau potable;208907;2024;79,4;2,6;10,1;67,0;conforme;257008;3792;36;113;286;Non vérifié
+62132;Billy-Berclau;62;eau potable;203850;2024;81,6;5,8;25,5;70,1;conforme;30252;14058;8;98;5093;Non vérifié
+62133;Billy-Montigny;62;eau potable;148373;2024;83,2;4,0;19,9;69,0;conforme;2068820;67849;23;82;7937;Non vérifié
+62134;Bimont;62;eau potable;148312;2024;73,7;2,8;7,7;66,5;conforme;110376;4053;99;137;112;Non vérifié
+62135;Blairville;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;6572;59;138;304;Non vérifié
+62137;Blangerval-Blangermont;62;eau potable;148329;2024;100,0;3,2;9,6;66,9;conforme;15009;2675;77;122;95;Non vérifié
+62138;Blangy-sur-Ternoise;62;eau potable;148328;2024;52,3;5,7;6,2;66,2;non conforme;166440;41859;160;334;715;Non vérifié
+62139;Blendecques;62;eau potable : Urbain - Véolia;223297;2024;85,7;4,7;28,3;70,7;conforme;678875;64600;36;89;4859;Non vérifié
+62140;Bléquin;62;eau potable;216021;2024;83,5;1,8;9,3;66,9;conforme;279225;4844;27;77;490;Non vérifié
+62141;Blessy;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;10589;32;96;907;Non vérifié
+62142;Blingel;62;eau potable;148328;2024;52,3;5,7;6,2;66,2;non conforme;166440;9367;160;334;160;Non vérifié
+62143;Boffles;62;eau potable;148336;2024;83,3;1,5;7,7;66,5;conforme;10895;654;39;71;46;Non vérifié
+62144;Boiry-Becquerelle;62;eau potable;148380;2023;88,7;3,0;23,1;69,6;conforme;779377;3390;19;49;478;Sans anomalie apparente
+62145;Boiry-Notre-Dame;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;5254;32;96;450;Non vérifié
+62146;Boiry-Saint-Martin;62;eau potable;148380;2023;88,7;3,0;23,1;69,6;conforme;779377;1809;19;49;255;Sans anomalie apparente
+62147;Boiry-Sainte-Rictrude;62;eau potable;148380;2023;88,7;3,0;23,1;69,6;conforme;779377;2759;19;49;389;Sans anomalie apparente
+62148;Bois-Bernard;62;eau potable;148390;2024;84,7;4,9;27,2;70,4;conforme;1226965;8183;27;85;839;Non vérifié
+62149;Boisdinghem;62;eau potable;138440;2024;90,2;2,3;21,1;69,2;conforme;1343628;1682;18;41;260;Non vérifié
+62150;Boisjean;62;eau potable : ex-SI de Boisjean et Roussent;148302;2024;74,4;2,1;6,0;66,2;conforme;17890;12133;63;161;529;Non vérifié
+62151;Boisleux-au-Mont;62;eau potable;148380;2023;88,7;3,0;23,1;69,6;conforme;779377;3646;19;49;514;Sans anomalie apparente
+62152;Boisleux-Saint-Marc;62;eau potable;148380;2023;88,7;3,0;23,1;69,6;conforme;779377;1802;19;49;254;Sans anomalie apparente
+62153;Bomy;62;eau potable : Eau Potable - Régie;312094;2024;84,6;1,7;9,1;66,8;conforme;204765;6157;27;87;615;Non vérifié
+62154;Bonnières;62;eau potable;210989;2024;75,6;3,1;9,6;66,9;conforme;205446;11813;49;121;659;Non vérifié
+62155;Bonningues-lès-Ardres;62;eau potable;216021;2024;83,5;1,8;9,3;66,9;conforme;279225;6297;27;77;637;Non vérifié
+62156;Bonningues-lès-Calais;62;eau potable;148259;2024;86,2;2,1;12,9;67,6;conforme;110652;9222;42;118;597;Non vérifié
+62157;Boubers-lès-Hesmond;62;eau potable;148387;2024;56,4;6,8;8,8;66,8;non conforme;52122;5322;214;281;68;Non vérifié
+62158;Boubers-sur-Canche;62;eau potable;197437;2024;60,0;3,4;5,1;66,0;non conforme;80665;15383;73;242;578;Non vérifié
+62160;Boulogne-sur-Mer;62;eau potable;148370;2024;87,1;3,6;24,5;69,9;conforme;955633;346990;23;58;40539;Non vérifié
+62161;Bouquehault;62;eau potable;148317;2024;71,1;2,8;6,9;66,4;conforme;642838;13085;45;150;788;Non vérifié
+62162;Bourecq;62;eau potable : Regie CABBALR;148367;2024;74,5;5,2;15,2;68,0;conforme;1868809;9620;46;133;568;Non vérifié
+62163;Bouret-sur-Canche;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;5167;59;138;239;Non vérifié
+62164;Bourlon;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;13497;32;96;1156;Non vérifié
+62165;Bournonville;62;eau potable;148343;2024;87,5;1,0;7,0;66,4;conforme;31390;1773;22;52;223;Non vérifié
+62166;Bours;62;eau potable;148348;2024;69,3;2,8;6,3;66,3;conforme;35106;11504;54;162;582;Non vérifié
+62167;Boursin;62;eau potable;148324;2024;74,0;4,0;11,4;67,3;conforme;184529;4752;55;129;236;Non vérifié
+62168;Bourthes;62;eau potable;148333;2024;73,2;3,6;9,8;67,0;conforme;107354;14980;48;135;860;Non vérifié
+62169;Bouvelinghem;62;eau potable;216021;2024;83,5;1,8;9,3;66,9;conforme;279225;2570;27;77;260;Non vérifié
+62170;Bouvigny-Boyeffles;62;eau potable;148373;2024;83,2;4,0;19,9;69,0;conforme;2068820;20499;23;82;2398;Non vérifié
+62171;Boyaval;62;eau potable;148366;2024;54,5;11,1;13,3;67,7;non conforme;95210;6732;125;304;147;Non vérifié
+62172;Boyelles;62;eau potable;148380;2023;88,7;3,0;23,1;69,6;conforme;779377;2596;19;49;366;Sans anomalie apparente
+62173;Brebières;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;61680;32;96;5283;Non vérifié
+62174;Brêmes;62;eau potable;148317;2024;71,1;2,8;6,9;66,4;conforme;642838;21985;45;150;1324;Non vérifié
+62175;Brévillers;62;eau potable : ex-SI DE LA RÉGION D'HESDIN;148325;2024;86,8;1,8;11,7;67,3;conforme;65700;1043;18;57;156;Non vérifié
+62176;Bréxent-Énocq;62;eau potable;235214;2024;76,1;4,7;14,9;68,0;conforme;1485623;14503;63;124;634;Non vérifié
+62177;Brimeux;62;eau potable : ex-SI de la Région de BRIMEUX;148334;2024;80,1;1,7;6,8;66,4;conforme;20154;9492;30;92;868;Non vérifié
+62178;Bruay-la-Buissière;62;eau potable : Syndicat Intercommunal du Bassin de la Lawe et de son Affluent Le Fossé d'Avesnes (SABALFA);148381;2024;78,5;4,5;16,5;68,3;conforme;711712;252818;32;107;21424;Non vérifié
+62179;Brunembert;62;eau potable;148343;2024;87,5;1,0;7,0;66,4;conforme;31390;3076;22;52;387;Non vérifié
+62180;Brias;62;eau potable;148126;2024;83,5;1,6;8,3;66,7;conforme;5758;5758;53;70;295;Non vérifié
+62181;Bucquoy;62;eau potable;208907;2024;79,4;2,6;10,1;67,0;conforme;257008;19929;36;113;1503;Non vérifié
+62182;Buire-au-Bois;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;2767;32;96;237;Non vérifié
+62183;Buire-le-Sec;62;eau potable : ex-SI de BUIRE LE SEC et MAINTENAY;148285;2024;71,4;3,1;7,8;66,6;conforme;24893;15568;57;145;753;Non vérifié
+62184;Buissy;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;3316;32;96;284;Non vérifié
+62185;Bullecourt;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;2627;32;96;225;Non vérifié
+62186;Bully-les-Mines;62;eau potable;148373;2024;83,2;4,0;19,9;69,0;conforme;2068820;103829;23;82;12146;Non vérifié
+62187;Buneville;62;eau potable;148286;2024;95,0;0,1;13,5;67,7;conforme;289;135;2;3;172;Non vérifié
+62188;Burbure;62;eau potable : Syndicat Intercommunal du Bassin de la Clarence et de la Région d'Auchel (SACRA);148388;2024;80,0;4,4;17,4;68,5;conforme;453229;30807;30;105;2834;Non vérifié
+62190;Busnes;62;eau potable : Regie CABBALR;148367;2024;74,5;5,2;15,2;68,0;conforme;1868809;21052;46;133;1243;Non vérifié
+62191;Caffiers;62;eau potable;148324;2024;74,0;4,0;11,4;67,3;conforme;184529;14778;55;129;734;Non vérifié
+62192;Cagnicourt;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;4915;32;96;421;Non vérifié
+62193;Calais;62;eau potable : Calais;148129;2024;83,8;6,6;34,0;71,8;conforme;836718;836718;34;87;67571;Non vérifié
+62194;Calonne-Ricouart;62;eau potable : Syndicat Intercommunal du Bassin de la Clarence et de la Région d'Auchel (SACRA);148388;2024;80,0;4,4;17,4;68,5;conforme;453229;58363;30;105;5369;Non vérifié
+62195;Calonne-sur-la-Lys;62;eau potable : Regie CABBALR;148367;2024;74,5;5,2;15,2;68,0;conforme;1868809;27014;46;133;1595;Non vérifié
+62196;La Calotterie;62;eau potable;235214;2024;76,1;4,7;14,9;68,0;conforme;1485623;13314;63;124;582;Non vérifié
+62197;Camblain-Châtelain;62;eau potable : Syndicat Intercommunal du Bassin de la Clarence et de la Région d'Auchel (SACRA);148388;2024;80,0;4,4;17,4;68,5;conforme;453229;19154;30;105;1762;Non vérifié
+62198;Cambligneul;62;eau potable;148130;2023;85,5;1,8;10,5;67,1;conforme;3206;3206;25;63;352;Sans anomalie apparente
+62199;Camblain-l'Abbé;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;14765;59;138;683;Non vérifié
+62200;Cambrin;62;eau potable : Regie CABBALR;148367;2024;74,5;5,2;15,2;68,0;conforme;1868809;21391;46;133;1263;Non vérifié
+62201;Camiers;62;eau potable;235214;2024;76,1;4,7;14,9;68,0;conforme;1485623;59065;63;124;2582;Non vérifié
+62202;Campagne-lès-Boulonnais;62;eau potable;216021;2024;83,5;1,8;9,3;66,9;conforme;279225;6613;27;77;669;Non vérifié
+62203;Campagne-lès-Guines;62;eau potable;148317;2024;71,1;2,8;6,9;66,4;conforme;642838;6758;45;150;407;Non vérifié
+62204;Campagne-lès-Hesdin;62;eau potable : ex-SI DU BOIS MACHY;148282;2024;75,3;2,2;6,8;66,4;conforme;95557;30867;44;118;1943;Non vérifié
+62205;Campagne-lès-Wardrecques;62;eau potable : Urbain - Véolia;223297;2024;85,7;4,7;28,3;70,7;conforme;678875;17297;36;89;1301;Non vérifié
+62206;Campigneulles-les-Grandes;62;eau potable;235214;2024;76,1;4,7;14,9;68,0;conforme;1485623;6748;63;124;295;Non vérifié
+62207;Campigneulles-les-Petites;62;eau potable;235214;2024;76,1;4,7;14,9;68,0;conforme;1485623;11918;63;124;521;Non vérifié
+62208;Canettemont;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;1427;59;138;66;Non vérifié
+62209;Canlers;62;eau potable;148321;2024;77,8;1,9;6,6;66,3;conforme;45078;3973;65;106;168;Non vérifié
+62211;Capelle-Fermont;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;4821;59;138;223;Non vérifié
+62212;Capelle-lès-Hesdin;62;eau potable : ex-SI DE LA RÉGION D'HESDIN;148325;2024;86,8;1,8;11,7;67,3;conforme;65700;3168;18;57;474;Non vérifié
+62213;Carency;62;eau potable;148373;2024;83,2;4,0;19,9;69,0;conforme;2068820;7001;23;82;819;Non vérifié
+62214;Carly;62;eau potable;148392;2024;80,9;1,9;7,9;66,6;conforme;60189;5723;25;88;638;Non vérifié
+62215;Carvin;62;eau potable;148390;2024;84,7;4,9;27,2;70,4;conforme;1226965;174682;27;85;17909;Non vérifié
+62216;La Cauchie;62;eau potable;196451;2024;93,4;0,5;7,6;66,5;conforme;7209;1174;15;24;211;Non vérifié
+62217;Cauchy-à-la-Tour;62;eau potable : Syndicat Intercommunal du Bassin de la Clarence et de la Région d'Auchel (SACRA);148388;2024;80,0;4,4;17,4;68,5;conforme;453229;28187;30;105;2593;Non vérifié
+62218;Caucourt;62;eau potable : Regie CABBALR;148367;2024;74,5;5,2;15,2;68,0;conforme;1868809;5606;46;133;331;Non vérifié
+62219;Caumont;62;eau potable;148346;2024;89,6;0,7;5,8;66,2;conforme;10731;1573;29;44;150;Non vérifié
+62220;Cavron-Saint-Martin;62;eau potable;148359;2024;100,0;0,0;8,3;66,7;conforme;0;0;0;0;423;Non vérifié
+62221;Chelers;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;5340;59;138;247;Non vérifié
+62222;Chériennes;62;eau potable;148346;2024;89,6;0,7;5,8;66,2;conforme;10731;1825;29;44;174;Non vérifié
+62223;Chérisy;62;eau potable;208907;2024;79,4;2,6;10,1;67,0;conforme;257008;3885;36;113;293;Non vérifié
+62224;Chocques;62;eau potable : Regie CABBALR;148367;2024;74,5;5,2;15,2;68,0;conforme;1868809;47168;46;133;2785;Non vérifié
+62225;Clairmarais;62;eau potable : Urbain - Véolia;223297;2024;85,7;4,7;28,3;70,7;conforme;678875;7884;36;89;593;Non vérifié
+62227;Clenleu;62;eau potable;148281;2024;70,8;2,6;6,3;66,3;conforme;23725;8009;118;150;186;Non vérifié
+62228;Clerques;62;eau potable;216021;2024;83,5;1,8;9,3;66,9;conforme;279225;3084;27;77;312;Non vérifié
+62229;Cléty;62;eau potable;216021;2024;83,5;1,8;9,3;66,9;conforme;279225;7958;27;77;805;Non vérifié
+62230;Colembert;62;eau potable;148263;2024;60,5;2,5;3,9;65,8;non conforme;128088;25477;77;235;907;Non vérifié
+62231;Colline-Beaumont;62;eau potable;235214;2024;76,1;4,7;14,9;68,0;conforme;1485623;3020;63;124;132;Non vérifié
+62232;La Comté;62;eau potable;148262;2024;92,7;0,9;11,0;67,2;conforme;14221;3755;12;38;879;Non vérifié
+62233;Conchil-le-Temple;62;eau potable;235214;2024;76,1;4,7;14,9;68,0;conforme;1485623;24546;63;124;1073;Non vérifié
+62234;Conchy-sur-Canche;62;eau potable;197437;2024;60,0;3,4;5,1;66,0;non conforme;80665;5908;73;242;222;Non vérifié
+62235;Condette;62;eau potable;148370;2024;87,1;3,6;24,5;69,9;conforme;955633;20911;23;58;2443;Non vérifié
+62236;Contes;62;eau potable : ex-SI de la région d'Aubin Saint Vaast;148374;2024;55,6;9,1;11,4;67,3;non conforme;58292;18984;147;292;354;Non vérifié
+62237;Conteville-lès-Boulogne;62;eau potable;148370;2024;87,1;3,6;24,5;69,9;conforme;955633;4896;23;58;572;Non vérifié
+62238;Conteville-en-Ternois;62;eau potable;187724;2023;85,2;1,5;8,5;66,7;conforme;16376;879;29;64;83;Sans anomalie apparente
+62239;Coquelles;62;eau potable : Coquelle;148135;2024;90,2;2,0;18,3;68,7;conforme;17301;17301;18;40;2638;Non vérifié
+62240;Corbehem;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;26363;32;96;2258;Non vérifié
+62241;Cormont;62;eau potable;235214;2024;76,1;4,7;14,9;68,0;conforme;1485623;7069;63;124;309;Non vérifié
+62242;Couin;62;eau potable;148267;2024;70,8;4,5;11,0;67,2;conforme;42344;2610;94;298;76;Non vérifié
+62243;Coullemont;62;eau potable;148375;2024;85,8;1,1;6,6;66,3;conforme;3212;996;25;61;111;Non vérifié
+62244;Coulogne;62;eau potable : Coulogne;148137;2024;91,0;1,8;18,0;68,6;conforme;28652;28652;14;40;5438;Non vérifié
+62245;Coulomby;62;eau potable;216021;2024;83,5;1,8;9,3;66,9;conforme;279225;7612;27;77;770;Non vérifié
+62246;Coupelle-Neuve;62;eau potable;148296;2023;66,4;9,0;17,8;68,6;non conforme;101835;5928;111;224;146;Sans anomalie apparente
+62247;Coupelle-Vieille;62;eau potable;148138;2024;99,7;0,0;6,7;66,3;conforme;0;0;0;0;550;Non vérifié
+62248;Courcelles-le-Comte;62;eau potable;208907;2024;79,4;2,6;10,1;67,0;conforme;257008;6351;36;113;479;Non vérifié
+62249;Courcelles-lès-Lens;62;eau potable;148390;2024;84,7;4,9;27,2;70,4;conforme;1226965;76373;27;85;7830;Non vérifié
+62250;Courrières;62;eau potable;148390;2024;84,7;4,9;27,2;70,4;conforme;1226965;99255;27;85;10176;Non vérifié
+62251;Courset;62;eau potable;148293;2024;67,7;2,8;5,9;66,2;conforme;69496;4744;26;172;505;Non vérifié
+62252;La Couture;62;eau potable : Regie CABBALR;148367;2024;74,5;5,2;15,2;68,0;conforme;1868809;43866;46;133;2590;Non vérifié
+62253;Couturelle;62;eau potable;196451;2024;93,4;0,5;7,6;66,5;conforme;7209;423;15;24;76;Non vérifié
+62254;Coyecques;62;eau potable : Eau Potable - Régie;312094;2024;84,6;1,7;9,1;66,8;conforme;204765;5977;27;87;597;Non vérifié
+62255;Crémarest;62;eau potable;148263;2024;60,5;2,5;3,9;65,8;non conforme;128088;22893;77;235;815;Non vérifié
+62256;Crépy;62;eau potable;148321;2024;77,8;1,9;6,6;66,3;conforme;45078;3760;65;106;159;Non vérifié
+62257;Créquy;62;eau potable;148312;2024;73,7;2,8;7,7;66,5;conforme;110376;16755;99;137;463;Non vérifié
+62258;Croisette;62;eau potable;148289;2024;83,2;1,7;8,4;66,7;conforme;4139;3332;29;74;318;Non vérifié
+62259;Croisilles;62;eau potable;208907;2024;79,4;2,6;10,1;67,0;conforme;257008;25710;36;113;1939;Non vérifié
+62260;Croix-en-Ternois;62;eau potable;148290;2024;75,8;4,7;14,8;68,0;conforme;12866;6922;57;116;333;Non vérifié
+62261;Cucq;62;eau potable;235214;2024;76,1;4,7;14,9;68,0;conforme;1485623;117330;63;124;5129;Non vérifié
+62262;Cuinchy;62;eau potable : Regie CABBALR;148367;2024;74,5;5,2;15,2;68,0;conforme;1868809;30215;46;133;1784;Non vérifié
+62263;Dainville;62;eau potable;148380;2023;88,7;3,0;23,1;69,6;conforme;779377;40308;19;49;5683;Sans anomalie apparente
+62264;Dannes;62;eau potable;148370;2024;87,1;3,6;24,5;69,9;conforme;955633;11221;23;58;1311;Non vérifié
+62265;Delettes;62;eau potable;216021;2024;83,5;1,8;9,3;66,9;conforme;279225;11111;27;77;1124;Non vérifié
+62266;Denier;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;2032;59;138;94;Non vérifié
+62267;Dennebroeucq;62;eau potable : Eau Potable - Régie;312094;2024;84,6;1,7;9,1;66,8;conforme;204765;3914;27;87;391;Non vérifié
+62268;Desvres;62;eau potable;148143;2024;82,0;4,1;18,8;68,8;conforme;40510;35574;20;80;4829;Non vérifié
+62269;Diéval;62;eau potable : Regie CABBALR;148367;2024;74,5;5,2;15,2;68,0;conforme;1868809;12008;46;133;709;Non vérifié
+62270;Divion;62;eau potable : Syndicat Intercommunal du Bassin de la Lawe et de son Affluent Le Fossé d'Avesnes (SABALFA);148381;2024;78,5;4,5;16,5;68,3;conforme;711712;79843;32;107;6766;Non vérifié
+62271;Dohem;62;eau potable;216021;2024;83,5;1,8;9,3;66,9;conforme;279225;8165;27;77;826;Non vérifié
+62272;Douchy-lès-Ayette;62;eau potable;148146;2023;65,5;8,2;15,6;68,1;non conforme;7363;7363;71;192;286;Sans anomalie apparente
+62273;Doudeauville;62;eau potable;148293;2024;67,7;2,8;5,9;66,2;conforme;69496;5571;26;172;593;Non vérifié
+62274;Dourges;62;eau potable;148390;2024;84,7;4,9;27,2;70,4;conforme;1226965;59879;27;85;6139;Non vérifié
+62275;Douriez;62;eau potable : ex-SI de MOURIEZ;148341;2024;68,9;3,5;7,7;66,5;conforme;63875;10192;94;168;296;Non vérifié
+62276;Douvrin;62;eau potable;203850;2024;81,6;5,8;25,5;70,1;conforme;30252;16194;8;98;5867;Non vérifié
+62277;Drocourt;62;eau potable;148390;2024;84,7;4,9;27,2;70,4;conforme;1226965;28667;27;85;2939;Non vérifié
+62278;Drouvin-le-Marais;62;eau potable : Regie CABBALR;148367;2024;74,5;5,2;15,2;68,0;conforme;1868809;10535;46;133;622;Non vérifié
+62279;Duisans;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;30244;59;138;1399;Non vérifié
+62280;Dury;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;3514;32;96;301;Non vérifié
+62281;Echinghen;62;eau potable;148370;2024;87,1;3,6;24,5;69,9;conforme;955633;3235;23;58;378;Non vérifié
+62282;Éclimeux;62;eau potable;148328;2024;52,3;5,7;6,2;66,2;non conforme;166440;10421;160;334;178;Non vérifié
+62283;Écoivres;62;eau potable;148338;2024;71,4;3,2;8,0;66,6;conforme;37376;3252;72;147;124;Non vérifié
+62284;Écourt-Saint-Quentin;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;19918;32;96;1706;Non vérifié
+62285;Écoust-Saint-Mein;62;eau potable;208907;2024;79,4;2,6;10,1;67,0;conforme;257008;6431;36;113;485;Non vérifié
+62286;Ecquedecques;62;eau potable : Regie CABBALR;148367;2024;74,5;5,2;15,2;68,0;conforme;1868809;8655;46;133;511;Non vérifié
+62288;Ecques;62;eau potable : Eau Potable - Régie;312094;2024;84,6;1,7;9,1;66,8;conforme;204765;21835;27;87;2181;Non vérifié
+62289;Écuires;62;eau potable;235214;2024;76,1;4,7;14,9;68,0;conforme;1485623;15601;63;124;682;Non vérifié
+62290;Écurie;62;eau potable;148380;2023;88,7;3,0;23,1;69,6;conforme;779377;2624;19;49;370;Sans anomalie apparente
+62291;Éleu-dit-Leauwette;62;eau potable;148373;2024;83,2;4,0;19,9;69,0;conforme;2068820;23978;23;82;2805;Non vérifié
+62292;Elnes;62;eau potable;216021;2024;83,5;1,8;9,3;66,9;conforme;279225;8264;27;77;836;Non vérifié
+62293;Embry;62;eau potable;148387;2024;56,4;6,8;8,8;66,8;non conforme;52122;18861;214;281;241;Non vérifié
+62295;Enquin-lez-Guinegatte;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;18610;32;96;1594;Non vérifié
+62296;Enquin-sur-Baillons;62;eau potable;148365;2024;66,1;2,2;4,3;65,9;conforme;40150;6678;77;228;237;Non vérifié
+62297;Éperlecques;62;eau potable : Rural -SUEZ;223299;2024;91,5;0,7;7,4;66,5;conforme;40622;14069;10;35;3737;Non vérifié
+62298;Épinoy;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;5733;32;96;491;Non vérifié
+62299;Eps;62;eau potable;148366;2024;54,5;11,1;13,3;67,7;non conforme;95210;10899;125;304;238;Non vérifié
+62300;Équihen-Plage;62;eau potable;148370;2024;87,1;3,6;24,5;69,9;conforme;955633;22417;23;58;2619;Non vérifié
+62301;Équirre;62;eau potable;148326;2023;73,5;3,3;9,0;66,8;conforme;45771;1944;75;133;71;Sans anomalie apparente
+62302;Ergny;62;eau potable;148333;2024;73,2;3,6;9,8;67,0;conforme;107354;4006;48;135;230;Non vérifié
+62303;Érin;62;eau potable;148321;2024;77,8;1,9;6,6;66,3;conforme;45078;5227;65;106;221;Non vérifié
+62304;Erny-Saint-Julien;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;3946;32;96;338;Non vérifié
+62306;Ervillers;62;eau potable;208907;2024;79,4;2,6;10,1;67,0;conforme;257008;5251;36;113;396;Non vérifié
+62307;Escalles;62;eau potable;148259;2024;86,2;2,1;12,9;67,6;conforme;110652;3445;42;118;223;Non vérifié
+62308;Escoeuilles;62;eau potable;216021;2024;83,5;1,8;9,3;66,9;conforme;279225;4557;27;77;461;Non vérifié
+62309;Esquerdes;62;eau potable;216021;2024;83,5;1,8;9,3;66,9;conforme;279225;15757;27;77;1594;Non vérifié
+62310;Essars;62;eau potable : Regie CABBALR;148367;2024;74,5;5,2;15,2;68,0;conforme;1868809;29690;46;133;1753;Non vérifié
+62311;Estevelles;62;eau potable;148373;2024;83,2;4,0;19,9;69,0;conforme;2068820;16917;23;82;1979;Non vérifié
+62312;Estrée;62;eau potable;235214;2024;76,1;4,7;14,9;68,0;conforme;1485623;6954;63;124;304;Non vérifié
+62313;Estrée-Blanche;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;10659;32;96;913;Non vérifié
+62314;Estrée-Cauchy;62;eau potable : Syndicat Intercommunal du Bassin de la Lawe et de son Affluent Le Fossé d'Avesnes (SABALFA);148381;2024;78,5;4,5;16,5;68,3;conforme;711712;4177;32;107;354;Non vérifié
+62315;Estréelles;62;eau potable;235214;2024;76,1;4,7;14,9;68,0;conforme;1485623;7824;63;124;342;Non vérifié
+62316;Estrée-Wamin;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;4842;59;138;224;Non vérifié
+62317;Étaing;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;5557;32;96;476;Non vérifié
+62318;Étaples;62;eau potable;235214;2024;76,1;4,7;14,9;68,0;conforme;1485623;245000;63;124;10710;Non vérifié
+62319;Éterpigny;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;2942;32;96;252;Non vérifié
+62320;Étrun;62;eau potable;148380;2023;88,7;3,0;23,1;69,6;conforme;779377;2319;19;49;327;Sans anomalie apparente
+62321;Évin-Malmaison;62;eau potable;148390;2024;84,7;4,9;27,2;70,4;conforme;1226965;45141;27;85;4628;Non vérifié
+62322;Famechon;62;eau potable;148267;2024;70,8;4,5;11,0;67,2;conforme;42344;3812;94;298;111;Non vérifié
+62323;Fampoux;62;eau potable;148380;2023;88,7;3,0;23,1;69,6;conforme;779377;8986;19;49;1267;Sans anomalie apparente
+62324;Farbus;62;eau potable;148380;2023;88,7;3,0;23,1;69,6;conforme;779377;4461;19;49;629;Sans anomalie apparente
+62325;Fauquembergues;62;eau potable;216021;2024;83,5;1,8;9,3;66,9;conforme;279225;9213;27;77;932;Non vérifié
+62326;Favreuil;62;eau potable;208907;2024;79,4;2,6;10,1;67,0;conforme;257008;3023;36;113;228;Non vérifié
+62327;Febvin-Palfart;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;7052;32;96;604;Non vérifié
+62328;Ferfay;62;eau potable;148369;2024;83,5;1,9;9,7;66,9;conforme;13385;7904;25;74;861;Non vérifié
+62329;Ferques;62;eau potable;148324;2024;74,0;4,0;11,4;67,3;conforme;184529;35637;55;129;1770;Non vérifié
+62330;Festubert;62;eau potable : Regie CABBALR;148367;2024;74,5;5,2;15,2;68,0;conforme;1868809;21035;46;133;1242;Non vérifié
+62331;Feuchy;62;eau potable;148380;2023;88,7;3,0;23,1;69,6;conforme;779377;7029;19;49;991;Sans anomalie apparente
+62332;Ficheux;62;eau potable;148380;2023;88,7;3,0;23,1;69,6;conforme;779377;3518;19;49;496;Sans anomalie apparente
+62333;Fiefs;62;eau potable;148357;2024;81,8;2,3;10,3;67,1;conforme;25185;3633;28;82;354;Non vérifié
+62334;Fiennes;62;eau potable;148324;2024;74,0;4,0;11,4;67,3;conforme;184529;17114;55;129;850;Non vérifié
+62335;Fillièvres;62;eau potable;197437;2024;60,0;3,4;5,1;66,0;non conforme;80665;13573;73;242;510;Non vérifié
+62336;Fléchin;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;5476;32;96;469;Non vérifié
+62337;Flers;62;eau potable;148338;2024;71,4;3,2;8,0;66,6;conforme;37376;5954;72;147;227;Non vérifié
+62338;Fleurbaix;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;34407;32;96;2947;Non vérifié
+62339;Fleury;62;eau potable;148328;2024;52,3;5,7;6,2;66,2;non conforme;166440;6381;160;334;109;Non vérifié
+62340;Floringhem;62;eau potable;148310;2024;2,4;12,3;0,3;65,1;non conforme;95312;34104;107;14666;877;Non vérifié
+62341;Foncquevillers;62;eau potable;208907;2024;79,4;2,6;10,1;67,0;conforme;257008;5317;36;113;401;Non vérifié
+62342;Fontaine-lès-Boulans;62;eau potable;148326;2023;73,5;3,3;9,0;66,8;conforme;45771;2655;75;133;97;Sans anomalie apparente
+62343;Fontaine-lès-Croisilles;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;3187;32;96;273;Non vérifié
+62344;Fontaine-lès-Hermans;62;eau potable;148357;2024;81,8;2,3;10,3;67,1;conforme;25185;1078;28;82;105;Non vérifié
+62345;Fontaine-l'Étalon;62;eau potable;148346;2024;89,6;0,7;5,8;66,2;conforme;10731;965;29;44;92;Non vérifié
+62346;Fortel-en-Artois;62;eau potable;148336;2024;83,3;1,5;7,7;66,5;conforme;10895;3015;39;71;212;Non vérifié
+62347;Fosseux;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;2573;59;138;119;Non vérifié
+62348;Foufflin-Ricametz;62;eau potable;148294;2024;93,0;0,9;11,8;67,4;conforme;1757;953;18;28;148;Non vérifié
+62349;Fouquereuil;62;eau potable : Regie CABBALR;148367;2024;74,5;5,2;15,2;68,0;conforme;1868809;27640;46;133;1632;Non vérifié
+62350;Fouquières-lès-Béthune;62;eau potable : Regie CABBALR;148367;2024;74,5;5,2;15,2;68,0;conforme;1868809;18766;46;133;1108;Non vérifié
+62351;Fouquières-lès-Lens;62;eau potable;148373;2024;83,2;4,0;19,9;69,0;conforme;2068820;52034;23;82;6087;Non vérifié
+62352;Framecourt;62;eau potable;148338;2024;71,4;3,2;8,0;66,6;conforme;37376;3043;72;147;116;Non vérifié
+62353;Frémicourt;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;2790;32;96;239;Non vérifié
+62354;Frencq;62;eau potable;235214;2024;76,1;4,7;14,9;68,0;conforme;1485623;20428;63;124;893;Non vérifié
+62355;Fresnes-lès-Montauban;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;7052;32;96;604;Non vérifié
+62356;Fresnicourt-le-Dolmen;62;eau potable : Syndicat Intercommunal du Bassin de la Lawe et de son Affluent Le Fossé d'Avesnes (SABALFA);148381;2024;78,5;4,5;16,5;68,3;conforme;711712;9334;32;107;791;Non vérifié
+62357;Fresnoy;62;eau potable : ex-SI DE LA RÉGION DU PARCQ;148349;2024;70,2;3,5;8,3;66,7;conforme;55699;1192;53;155;62;Non vérifié
+62358;Fresnoy-en-Gohelle;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;2720;32;96;233;Non vérifié
+62359;Fressin;62;eau potable;148359;2024;100,0;0,0;8,3;66,7;conforme;0;0;0;0;579;Non vérifié
+62360;Fréthun;62;eau potable;148259;2024;86,2;2,1;12,9;67,6;conforme;110652;21673;42;118;1403;Non vérifié
+62361;Frévent;62;eau potable;148162;2024;85,2;2,7;15,5;68,1;conforme;32600;32600;27;88;3259;Non vérifié
+62362;Frévillers;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;5167;59;138;239;Non vérifié
+62363;Frévin-Capelle;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;8647;59;138;400;Non vérifié
+62364;Fruges;62;eau potable;148356;2024;78,4;2,7;9,7;66,9;conforme;68985;44278;51;238;2362;Non vérifié
+62365;Galametz;62;eau potable;197437;2024;60,0;3,4;5,1;66,0;non conforme;80665;5536;73;242;208;Non vérifié
+62366;Gauchin-Légal;62;eau potable : Regie CABBALR;148367;2024;74,5;5,2;15,2;68,0;conforme;1868809;5013;46;133;296;Non vérifié
+62367;Gauchin-Verloingt;62;eau potable;214839;2024;90,5;4,8;45,0;74,0;conforme;102124;11636;41;45;774;Non vérifié
+62368;Gaudiempré;62;eau potable;196451;2024;93,4;0,5;7,6;66,5;conforme;7209;1196;15;24;215;Non vérifié
+62369;Gavrelle;62;eau potable;148380;2023;88,7;3,0;23,1;69,6;conforme;779377;5447;19;49;768;Sans anomalie apparente
+62370;Gennes-Ivergny;62;eau potable;148350;2024;57,0;4,6;6,1;66,2;non conforme;28543;8155;183;276;122;Non vérifié
+62371;Givenchy-en-Gohelle;62;eau potable;148373;2024;83,2;4,0;19,9;69,0;conforme;2068820;17712;23;82;2072;Non vérifié
+62372;Givenchy-le-Noble;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;3351;59;138;155;Non vérifié
+62373;Givenchy-lès-la-Bassée;62;eau potable : Regie CABBALR;148367;2024;74,5;5,2;15,2;68,0;conforme;1868809;16632;46;133;982;Non vérifié
+62374;Gomiécourt;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;1763;32;96;151;Non vérifié
+62375;Gommecourt;62;eau potable;196454;2024;93,6;0,8;12,1;67,4;conforme;400;400;13;24;86;Non vérifié
+62376;Gonnehem;62;eau potable : Regie CABBALR;148367;2024;74,5;5,2;15,2;68,0;conforme;1868809;42765;46;133;2525;Non vérifié
+62377;Gosnay;62;eau potable : Syndicat Intercommunal du Bassin de la Lawe et de son Affluent Le Fossé d'Avesnes (SABALFA);148381;2024;78,5;4,5;16,5;68,3;conforme;711712;11104;32;107;941;Non vérifié
+62378;Gouves;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;4216;59;138;195;Non vérifié
+62379;Gouy-en-Artois;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;7069;59;138;327;Non vérifié
+62380;Gouy-Servins;62;eau potable;148373;2024;83,2;4,0;19,9;69,0;conforme;2068820;3077;23;82;360;Non vérifié
+62381;Gouy-en-Ternois;62;eau potable;148164;2024;82,9;1,3;6,3;66,3;conforme;1518;1518;33;75;127;Non vérifié
+62382;Gouy-Saint-André;62;eau potable : ex-SI de MOURIEZ;148341;2024;68,9;3,5;7,7;66,5;conforme;63875;22692;94;168;659;Non vérifié
+62383;Gouy-sous-Bellonne;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;16240;32;96;1391;Non vérifié
+62384;Graincourt-lès-Havrincourt;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;7379;32;96;632;Non vérifié
+62385;Grand-Rullecourt;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;8280;59;138;383;Non vérifié
+62386;Grenay;62;eau potable;148373;2024;83,2;4,0;19,9;69,0;conforme;2068820;56795;23;82;6644;Non vérifié
+62387;Grévillers;62;eau potable;148167;2023;92,9;1,3;17,0;68,4;conforme;1329;1329;10;28;353;Sans anomalie apparente
+62388;Grigny;62;eau potable : ex-SI DE LA RÉGION DU PARCQ;148349;2024;70,2;3,5;8,3;66,7;conforme;55699;5574;53;155;290;Non vérifié
+62389;Grincourt-lès-Pas;62;eau potable;196451;2024;93,4;0,5;7,6;66,5;conforme;7209;178;15;24;32;Non vérifié
+62390;Groffliers;62;eau potable;235214;2024;76,1;4,7;14,9;68,0;conforme;1485623;33627;63;124;1470;Non vérifié
+62391;Guarbecque;62;eau potable : Territoire du SI d'Isbergues;148299;2024;79,6;3,5;13,8;67,8;conforme;110925;12718;25;95;1381;Non vérifié
+62392;Guémappe;62;eau potable;148380;2023;88,7;3,0;23,1;69,6;conforme;779377;2894;19;49;408;Sans anomalie apparente
+62393;Guemps;62;eau potable;148317;2024;71,1;2,8;6,9;66,4;conforme;642838;17718;45;150;1067;Non vérifié
+62395;Guigny;62;eau potable;148346;2024;89,6;0,7;5,8;66,2;conforme;10731;1563;29;44;149;Non vérifié
+62396;Guinecourt;62;eau potable;148329;2024;100,0;3,2;9,6;66,9;conforme;15009;366;77;122;13;Non vérifié
+62397;Guînes;62;eau potable;148170;2024;76,5;6,8;22,2;69,4;conforme;97940;97940;49;176;5479;Non vérifié
+62398;Guisy;62;eau potable : ex-SI DE LA RÉGION D'HESDIN;148325;2024;86,8;1,8;11,7;67,3;conforme;65700;1838;18;57;275;Non vérifié
+62399;Habarcq;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;14614;59;138;676;Non vérifié
+62400;Haillicourt;62;eau potable : Syndicat Intercommunal du Bassin de la Lawe et de son Affluent Le Fossé d'Avesnes (SABALFA);148381;2024;78,5;4,5;16,5;68,3;conforme;711712;59759;32;107;5064;Non vérifié
+62401;Haisnes;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;51324;32;96;4396;Non vérifié
+62402;Halinghen;62;eau potable;148363;2024;72,5;2,3;6,2;66,2;conforme;15950;990;9;155;308;Non vérifié
+62403;Hallines;62;eau potable : Eau Potable - Régie;312094;2024;84,6;1,7;9,1;66,8;conforme;204765;11974;27;87;1196;Non vérifié
+62404;Halloy;62;eau potable : Orville;148330;2024;70,7;3,1;7,4;66,5;conforme;30550;3517;48;152;201;Non vérifié
+62405;Hamblain-les-Prés;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;5301;32;96;454;Non vérifié
+62406;Hamelincourt;62;eau potable;208907;2024;79,4;2,6;10,1;67,0;conforme;257008;3447;36;113;260;Non vérifié
+62407;Ham-en-Artois;62;eau potable : Territoire du SI d'Isbergues;148299;2024;79,6;3,5;13,8;67,8;conforme;110925;8694;25;95;944;Non vérifié
+62408;Hames-Boucres;62;eau potable;148259;2024;86,2;2,1;12,9;67,6;conforme;110652;22229;42;118;1439;Non vérifié
+62409;Hannescamps;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;4432;59;138;205;Non vérifié
+62410;Haplincourt;62;eau potable;208907;2024;79,4;2,6;10,1;67,0;conforme;257008;2533;36;113;191;Non vérifié
+62411;Haravesnes;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;595;32;96;51;Non vérifié
+62412;Hardinghen;62;eau potable;148324;2024;74,0;4,0;11,4;67,3;conforme;184529;25570;55;129;1270;Non vérifié
+62413;Harnes;62;eau potable;148373;2024;83,2;4,0;19,9;69,0;conforme;2068820;104692;23;82;12247;Non vérifié
+62414;Haucourt;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;2405;32;96;206;Non vérifié
+62415;Haute-Avesnes;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;10052;59;138;465;Non vérifié
+62416;Hautecloque;62;eau potable;148338;2024;71,4;3,2;8,0;66,6;conforme;37376;5613;72;147;214;Non vérifié
+62418;Hauteville;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;6658;59;138;308;Non vérifié
+62419;Haut-Loquin;62;eau potable;216021;2024;83,5;1,8;9,3;66,9;conforme;279225;1868;27;77;189;Non vérifié
+62421;Havrincourt;62;eau potable;148173;2023;83,8;3,6;18,7;68,7;conforme;4770;4770;37;70;351;Sans anomalie apparente
+62422;Hébuterne;62;eau potable;208907;2024;79,4;2,6;10,1;67,0;conforme;257008;6974;36;113;526;Non vérifié
+62423;Helfaut;62;eau potable : Eau Potable - Régie;312094;2024;84,6;1,7;9,1;66,8;conforme;204765;17260;27;87;1724;Non vérifié
+62424;Hendecourt-lès-Cagnicourt;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;3362;32;96;288;Non vérifié
+62425;Hendecourt-lès-Ransart;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;3091;59;138;143;Non vérifié
+62426;Héninel;62;eau potable;148380;2023;88,7;3,0;23,1;69,6;conforme;779377;1326;19;49;187;Sans anomalie apparente
+62427;Hénin-Beaumont;62;eau potable;148390;2024;84,7;4,9;27,2;70,4;conforme;1226965;250557;27;85;25688;Non vérifié
+62428;Hénin-sur-Cojeul;62;eau potable;148380;2023;88,7;3,0;23,1;69,6;conforme;779377;3745;19;49;528;Sans anomalie apparente
+62429;Henneveux;62;eau potable;148343;2024;87,5;1,0;7,0;66,4;conforme;31390;2162;22;52;272;Non vérifié
+62430;Hénu;62;eau potable;148177;2024;94,1;0,3;5,6;66,1;conforme;335;335;6;20;147;Non vérifié
+62432;Herbinghen;62;eau potable;148317;2024;71,1;2,8;6,9;66,4;conforme;642838;6891;45;150;415;Non vérifié
+62433;Héricourt;62;eau potable;148289;2024;83,2;1,7;8,4;66,7;conforme;4139;807;29;74;77;Non vérifié
+62434;La Herlière;62;eau potable;148278;2024;69,8;2,8;6,3;66,3;conforme;13899;2135;43;163;135;Non vérifié
+62435;Herlincourt;62;eau potable;148338;2024;71,4;3,2;8,0;66,6;conforme;37376;2780;72;147;106;Non vérifié
+62436;Herlin-le-Sec;62;eau potable;148178;2024;58,9;7,4;10,6;67,1;non conforme;9075;9075;154;255;161;Non vérifié
+62437;Herly;62;eau potable;148312;2024;73,7;2,8;7,7;66,5;conforme;110376;11942;99;137;330;Non vérifié
+62438;Hermaville;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;11436;59;138;529;Non vérifié
+62439;Hermelinghen;62;eau potable;148324;2024;74,0;4,0;11,4;67,3;conforme;184529;8195;55;129;407;Non vérifié
+62440;Hermies;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;12399;32;96;1062;Non vérifié
+62441;Hermin;62;eau potable : Regie CABBALR;148367;2024;74,5;5,2;15,2;68,0;conforme;1868809;3489;46;133;206;Non vérifié
+62442;Hernicourt;62;eau potable;148366;2024;54,5;11,1;13,3;67,7;non conforme;95210;23448;125;304;512;Non vérifié
+62443;Hersin-Coupigny;62;eau potable : Syndicat Intercommunal du Bassin de la Lawe et de son Affluent Le Fossé d'Avesnes (SABALFA);148381;2024;78,5;4,5;16,5;68,3;conforme;711712;71772;32;107;6082;Non vérifié
+62444;Hervelinghen;62;eau potable : Régie CCT2C;316754;2024;55,3;6,4;8,0;66,6;non conforme;69192;14168;181;293;215;Non vérifié
+62445;Hesdigneul-lès-Béthune;62;eau potable : Regie CABBALR;148367;2024;74,5;5,2;15,2;68,0;conforme;1868809;14023;46;133;828;Non vérifié
+62446;Hesdigneul-lès-Boulogne;62;eau potable;148370;2024;87,1;3,6;24,5;69,9;conforme;955633;7301;23;58;853;Non vérifié
+62447;Hesdin;62;eau potable : ex-SI DE LA RÉGION D'HESDIN;148325;2024;86,8;1,8;11,7;67,3;conforme;65700;29943;18;57;4480;Non vérifié
+62448;Hesdin-l'Abbé;62;eau potable;148370;2024;87,1;3,6;24,5;69,9;conforme;955633;16186;23;58;1891;Non vérifié
+62449;Hesmond;62;eau potable;148387;2024;56,4;6,8;8,8;66,8;non conforme;52122;13461;214;281;172;Non vérifié
+62450;Hestrus;62;eau potable;187724;2023;85,2;1,5;8,5;66,7;conforme;16376;2277;29;64;215;Sans anomalie apparente
+62451;Heuchin;62;eau potable;148326;2023;73,5;3,3;9,0;66,8;conforme;45771;13195;75;133;482;Sans anomalie apparente
+62452;Heuringhem;62;eau potable : Eau Potable - Régie;312094;2024;84,6;1,7;9,1;66,8;conforme;204765;13906;27;87;1389;Non vérifié
+62453;Hézecques;62;eau potable;148356;2024;78,4;2,7;9,7;66,9;conforme;68985;2381;51;238;127;Non vérifié
+62454;Hinges;62;eau potable : Regie CABBALR;148367;2024;74,5;5,2;15,2;68,0;conforme;1868809;42087;46;133;2485;Non vérifié
+62455;Hocquinghen;62;eau potable;148317;2024;71,1;2,8;6,9;66,4;conforme;642838;1959;45;150;118;Non vérifié
+62456;Houchin;62;eau potable : Syndicat Intercommunal du Bassin de la Lawe et de son Affluent Le Fossé d'Avesnes (SABALFA);148381;2024;78,5;4,5;16,5;68,3;conforme;711712;8709;32;107;738;Non vérifié
+62457;Houdain;62;eau potable : Syndicat Intercommunal du Bassin de la Lawe et de son Affluent Le Fossé d'Avesnes (SABALFA);148381;2024;78,5;4,5;16,5;68,3;conforme;711712;81956;32;107;6945;Non vérifié
+62458;Houlle;62;eau potable : Rural -SUEZ;223299;2024;91,5;0,7;7,4;66,5;conforme;40622;4201;10;35;1116;Non vérifié
+62459;Houvin-Houvigneul;62;eau potable;148185;2023;65,0;6,7;12,4;67,5;non conforme;10516;10516;117;198;247;Sans anomalie apparente
+62460;Hubersent;62;eau potable;235214;2024;76,1;4,7;14,9;68,0;conforme;1485623;6222;63;124;272;Non vérifié
+62461;Huby-Saint-Leu;62;eau potable : ex-SI DE LA RÉGION D'HESDIN;148325;2024;86,8;1,8;11,7;67,3;conforme;65700;5761;18;57;862;Non vérifié
+62462;Huclier;62;eau potable;187724;2023;85,2;1,5;8,5;66,7;conforme;16376;1610;29;64;152;Sans anomalie apparente
+62463;Hucqueliers;62;eau potable;148186;2024;64,2;5,7;10,3;67,1;non conforme;15604;15604;87;202;494;Non vérifié
+62464;Hulluch;62;eau potable;148373;2024;83,2;4,0;19,9;69,0;conforme;2068820;28817;23;82;3371;Non vérifié
+62465;Humbercamps;62;eau potable;196451;2024;93,4;0,5;7,6;66,5;conforme;7209;1218;15;24;219;Non vérifié
+62466;Humbert;62;eau potable;148327;2024;73,1;2,8;7,5;66,5;conforme;13071;7713;85;136;249;Non vérifié
+62467;Humeroeuille;62;eau potable;148328;2024;52,3;5,7;6,2;66,2;non conforme;166440;10655;160;334;182;Non vérifié
+62468;Humières;62;eau potable;148328;2024;52,3;5,7;6,2;66,2;non conforme;166440;12763;160;334;218;Non vérifié
+62469;Inchy-en-Artois;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;6713;32;96;575;Non vérifié
+62470;Incourt;62;eau potable;148328;2024;52,3;5,7;6,2;66,2;non conforme;166440;5327;160;334;91;Non vérifié
+62471;Bellinghem;62;eau potable : Eau Potable - Régie;312094;2024;84,6;1,7;9,1;66,8;conforme;204765;10632;27;87;1062;Non vérifié
+62472;Inxent;62;eau potable;235214;2024;76,1;4,7;14,9;68,0;conforme;1485623;3592;63;124;157;Non vérifié
+62473;Isbergues;62;eau potable : Territoire du SI d'Isbergues;148299;2024;79,6;3,5;13,8;67,8;conforme;110925;79660;25;95;8650;Non vérifié
+62474;Isques;62;eau potable;148370;2024;87,1;3,6;24,5;69,9;conforme;955633;9604;23;58;1122;Non vérifié
+62475;Ivergny;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;5145;59;138;238;Non vérifié
+62476;Izel-lès-Équerchin;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;12142;32;96;1040;Non vérifié
+62477;Izel-les-Hameaux;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;16041;59;138;742;Non vérifié
+62478;Journy;62;eau potable;216021;2024;83,5;1,8;9,3;66,9;conforme;279225;3064;27;77;310;Non vérifié
+62479;Labeuvrière;62;eau potable : Regie CABBALR;148367;2024;74,5;5,2;15,2;68,0;conforme;1868809;27911;46;133;1648;Non vérifié
+62480;Labourse;62;eau potable : Regie CABBALR;148367;2024;74,5;5,2;15,2;68,0;conforme;1868809;48405;46;133;2858;Non vérifié
+62481;Labroye;62;eau potable;148300;2024;78,3;2,1;7,7;66,5;conforme;19162;3453;68;100;140;Non vérifié
+62483;Lacres;62;eau potable;148363;2024;72,5;2,3;6,2;66,2;conforme;15950;803;9;155;250;Non vérifié
+62485;Laires;62;eau potable : Eau Potable - Régie;312094;2024;84,6;1,7;9,1;66,8;conforme;204765;3654;27;87;365;Non vérifié
+62486;Lambres-lez-Aire;62;eau potable : Territoire du SI d'Isbergues;148299;2024;79,6;3,5;13,8;67,8;conforme;110925;9854;25;95;1070;Non vérifié
+62487;Landrethun-le-Nord;62;eau potable;148324;2024;74,0;4,0;11,4;67,3;conforme;184529;25007;55;129;1242;Non vérifié
+62488;Landrethun-lès-Ardres;62;eau potable;148317;2024;71,1;2,8;6,9;66,4;conforme;642838;13068;45;150;787;Non vérifié
+62489;Lapugnoy;62;eau potable : Syndicat Intercommunal du Bassin de la Clarence et de la Région d'Auchel (SACRA);148388;2024;80,0;4,4;17,4;68,5;conforme;453229;37840;30;105;3481;Non vérifié
+62490;Lattre-Saint-Quentin;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;7372;59;138;341;Non vérifié
+62491;Laventie;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;58890;32;96;5044;Non vérifié
+62492;Lebiez;62;eau potable;148359;2024;100,0;0,0;8,3;66,7;conforme;0;0;0;0;229;Non vérifié
+62493;Lebucquière;62;eau potable;208907;2024;79,4;2,6;10,1;67,0;conforme;257008;3076;36;113;232;Non vérifié
+62495;Ledinghem;62;eau potable;216021;2024;83,5;1,8;9,3;66,9;conforme;279225;3124;27;77;316;Non vérifié
+62496;Lefaux;62;eau potable;235214;2024;76,1;4,7;14,9;68,0;conforme;1485623;5239;63;124;229;Non vérifié
+62497;Leforest;62;eau potable;148390;2024;84,7;4,9;27,2;70,4;conforme;1226965;68862;27;85;7060;Non vérifié
+62498;Lens;62;eau potable;148373;2024;83,2;4,0;19,9;69,0;conforme;2068820;281413;23;82;32920;Non vérifié
+62499;Lépine;62;eau potable;235214;2024;76,1;4,7;14,9;68,0;conforme;1485623;6657;63;124;291;Non vérifié
+62500;Lespesses;62;eau potable : Regie CABBALR;148367;2024;74,5;5,2;15,2;68,0;conforme;1868809;6808;46;133;402;Non vérifié
+62501;Lespinoy;62;eau potable : ex-SI DU BOIS MACHY;148282;2024;75,3;2,2;6,8;66,4;conforme;95557;3860;44;118;243;Non vérifié
+62502;Lestrem;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;58481;32;96;5009;Non vérifié
+62503;Leubringhen;62;eau potable;148259;2024;86,2;2,1;12,9;67,6;conforme;110652;4526;42;118;293;Non vérifié
+62504;Leulinghem;62;eau potable;138440;2024;90,2;2,3;21,1;69,2;conforme;1343628;1741;18;41;269;Non vérifié
+62505;Leulinghen-Bernes;62;eau potable : Witerthun;257354;2024;69,1;3,6;8,1;66,6;conforme;215443;9292;47;164;540;Non vérifié
+62506;Licques;62;eau potable;148317;2024;71,1;2,8;6,9;66,4;conforme;642838;27880;45;150;1679;Non vérifié
+62507;Liencourt;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;6550;59;138;303;Non vérifié
+62508;Lières;62;eau potable : Regie CABBALR;148367;2024;74,5;5,2;15,2;68,0;conforme;1868809;5674;46;133;335;Non vérifié
+62509;Liettres;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;4413;32;96;378;Non vérifié
+62510;Liévin;62;eau potable;148373;2024;83,2;4,0;19,9;69,0;conforme;2068820;256990;23;82;30063;Non vérifié
+62511;Lignereuil;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;3027;59;138;140;Non vérifié
+62512;Ligny-lès-Aire;62;eau potable : Regie CABBALR;148367;2024;74,5;5,2;15,2;68,0;conforme;1868809;9569;46;133;565;Non vérifié
+62513;Ligny-sur-Canche;62;eau potable;197437;2024;60,0;3,4;5,1;66,0;non conforme;80665;5003;73;242;188;Non vérifié
+62514;Ligny-Saint-Flochel;62;eau potable;148191;2024;55,9;3,9;5,0;66,0;non conforme;7402;7402;86;287;235;Non vérifié
+62515;Ligny-Thilloy;62;eau potable;208907;2024;79,4;2,6;10,1;67,0;conforme;257008;6815;36;113;514;Non vérifié
+62516;Lillers;62;eau potable : Syndicat Intercommunal du Bassin de la Clarence et de la Région d'Auchel (SACRA);148388;2024;80,0;4,4;17,4;68,5;conforme;453229;110802;30;105;10193;Non vérifié
+62517;Linghem;62;eau potable : Syndicat Intercommunal de la Région de NORRENT FONTES;148342;2024;73,3;2,8;7,8;66,6;conforme;41820;2893;36;131;219;Non vérifié
+62518;Linzeux;62;eau potable;148329;2024;100,0;3,2;9,6;66,9;conforme;15009;4900;77;122;174;Non vérifié
+62519;Lisbourg;62;eau potable;148326;2023;73,5;3,3;9,0;66,8;conforme;45771;15932;75;133;582;Sans anomalie apparente
+62520;Locon;62;eau potable : Regie CABBALR;148367;2024;74,5;5,2;15,2;68,0;conforme;1868809;39360;46;133;2324;Non vérifié
+62521;La Loge;62;eau potable : ex-SI DE LA RÉGION D'HESDIN;148325;2024;86,8;1,8;11,7;67,3;conforme;65700;1497;18;57;224;Non vérifié
+62522;Loison-sur-Créquoise;62;eau potable : ex-SI DU BOIS MACHY;148282;2024;75,3;2,2;6,8;66,4;conforme;95557;4003;44;118;252;Non vérifié
+62523;Loison-sous-Lens;62;eau potable;148373;2024;83,2;4,0;19,9;69,0;conforme;2068820;44187;23;82;5169;Non vérifié
+62524;Longfossé;62;eau potable;148195;2024;75,4;2,2;6,8;66,4;conforme;21496;21496;39;151;1528;Non vérifié
+62525;Longuenesse;62;eau potable : Urbain - Véolia;223297;2024;85,7;4,7;28,3;70,7;conforme;678875;140234;36;89;10548;Non vérifié
+62526;Longueville;62;eau potable;148263;2024;60,5;2,5;3,9;65,8;non conforme;128088;4185;77;235;149;Non vérifié
+62527;Longvilliers;62;eau potable;235214;2024;76,1;4,7;14,9;68,0;conforme;1485623;5788;63;124;253;Non vérifié
+62528;Loos-en-Gohelle;62;eau potable;148373;2024;83,2;4,0;19,9;69,0;conforme;2068820;58120;23;82;6799;Non vérifié
+62529;Lorgies;62;eau potable : Regie CABBALR;148367;2024;74,5;5,2;15,2;68,0;conforme;1868809;27962;46;133;1651;Non vérifié
+62530;Lottinghen;62;eau potable;148343;2024;87,5;1,0;7,0;66,4;conforme;31390;4324;22;52;544;Non vérifié
+62531;Louches;62;eau potable;148317;2024;71,1;2,8;6,9;66,4;conforme;642838;15725;45;150;947;Non vérifié
+62532;Lozinghem;62;eau potable : Regie CABBALR;148367;2024;74,5;5,2;15,2;68,0;conforme;1868809;21272;46;133;1256;Non vérifié
+62533;Lugy;62;eau potable;148356;2024;78,4;2,7;9,7;66,9;conforme;68985;2624;51;238;140;Non vérifié
+62534;Lumbres;62;eau potable;216021;2024;83,5;1,8;9,3;66,9;conforme;279225;35380;27;77;3579;Non vérifié
+62535;La Madelaine-sous-Montreuil;62;eau potable;235214;2024;76,1;4,7;14,9;68,0;conforme;1485623;3408;63;124;149;Non vérifié
+62536;Magnicourt-en-Comte;62;eau potable;148262;2024;92,7;0,9;11,0;67,2;conforme;14221;2764;12;38;647;Non vérifié
+62537;Magnicourt-sur-Canche;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;2270;59;138;105;Non vérifié
+62538;Maintenay;62;eau potable : ex-SI de BUIRE LE SEC et MAINTENAY;148285;2024;71,4;3,1;7,8;66,6;conforme;24893;9325;57;145;451;Non vérifié
+62539;Maisnil;62;eau potable;148307;2024;77,5;4,6;15,8;68,2;conforme;9067;7421;76;106;266;Non vérifié
+62540;Maisnil-lès-Ruitz;62;eau potable : Syndicat Intercommunal du Bassin de la Lawe et de son Affluent Le Fossé d'Avesnes (SABALFA);148381;2024;78,5;4,5;16,5;68,3;conforme;711712;19802;32;107;1678;Non vérifié
+62541;Maisoncelle;62;eau potable;148321;2024;77,8;1,9;6,6;66,3;conforme;45078;2814;65;106;119;Non vérifié
+62542;Maizières;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;4432;59;138;205;Non vérifié
+62543;Mametz;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;23035;32;96;1973;Non vérifié
+62544;Manin;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;3935;59;138;182;Non vérifié
+62545;Maninghem;62;eau potable;148312;2024;73,7;2,8;7,7;66,5;conforme;110376;5501;99;137;152;Non vérifié
+62546;Maninghen-Henne;62;eau potable : Witerthun;257354;2024;69,1;3,6;8,1;66,6;conforme;215443;5782;47;164;336;Non vérifié
+62547;Marant;62;eau potable : ex-SI de la Région de BRIMEUX;148334;2024;80,1;1,7;6,8;66,4;conforme;20154;798;30;92;73;Non vérifié
+62548;Marck;62;eau potable;148317;2024;71,1;2,8;6,9;66,4;conforme;642838;173807;45;150;10467;Non vérifié
+62549;Marconne;62;eau potable : ex-SI DE LA RÉGION D'HESDIN;148325;2024;86,8;1,8;11,7;67,3;conforme;65700;7519;18;57;1125;Non vérifié
+62550;Marconnelle;62;eau potable : ex-SI DE LA RÉGION D'HESDIN;148325;2024;86,8;1,8;11,7;67,3;conforme;65700;7285;18;57;1090;Non vérifié
+62551;Marenla;62;eau potable : ex-SI DU BOIS MACHY;148282;2024;75,3;2,2;6,8;66,4;conforme;95557;4496;44;118;283;Non vérifié
+62552;Maresquel-Ecquemicourt;62;eau potable : ex-SI DU BOIS MACHY;148282;2024;75,3;2,2;6,8;66,4;conforme;95557;16999;44;118;1070;Non vérifié
+62553;Marest;62;eau potable;148348;2024;69,3;2,8;6,3;66,3;conforme;35106;5515;54;162;279;Non vérifié
+62554;Maresville;62;eau potable;235214;2024;76,1;4,7;14,9;68,0;conforme;1485623;2127;63;124;93;Non vérifié
+62555;Marles-les-Mines;62;eau potable : Syndicat Intercommunal du Bassin de la Clarence et de la Région d'Auchel (SACRA);148388;2024;80,0;4,4;17,4;68,5;conforme;453229;58820;30;105;5411;Non vérifié
+62556;Marles-sur-Canche;62;eau potable : ex-SI de la Région de BRIMEUX;148334;2024;80,1;1,7;6,8;66,4;conforme;20154;3434;30;92;314;Non vérifié
+62557;Maroeuil;62;eau potable;148380;2023;88,7;3,0;23,1;69,6;conforme;779377;17179;19;49;2422;Sans anomalie apparente
+62558;Marquay;62;eau potable;148309;2024;85,4;2,1;12,1;67,4;conforme;4890;2066;34;63;166;Non vérifié
+62559;Marquion;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;12131;32;96;1039;Non vérifié
+62560;Marquise;62;eau potable : Witerthun;257354;2024;69,1;3,6;8,1;66,6;conforme;215443;89774;47;164;5217;Non vérifié
+62561;Martinpuich;62;eau potable;208907;2024;79,4;2,6;10,1;67,0;conforme;257008;2294;36;113;173;Non vérifié
+62562;Matringhem;62;eau potable;148356;2024;78,4;2,7;9,7;66,9;conforme;68985;3318;51;238;177;Non vérifié
+62563;Mazingarbe;62;eau potable;148373;2024;83,2;4,0;19,9;69,0;conforme;2068820;70242;23;82;8217;Non vérifié
+62564;Mazinghem;62;eau potable : Syndicat Intercommunal de la Région de NORRENT FONTES;148342;2024;73,3;2,8;7,8;66,6;conforme;41820;6037;36;131;457;Non vérifié
+62565;Mencas;62;eau potable;148356;2024;78,4;2,7;9,7;66,9;conforme;68985;1331;51;238;71;Non vérifié
+62566;Menneville;62;eau potable;148343;2024;87,5;1,0;7,0;66,4;conforme;31390;5326;22;52;670;Non vérifié
+62567;Mentque-Nortbécourt;62;eau potable : Rural -SUEZ;223299;2024;91,5;0,7;7,4;66,5;conforme;40622;2443;10;35;649;Non vérifié
+62568;Mercatel;62;eau potable;148380;2023;88,7;3,0;23,1;69,6;conforme;779377;5178;19;49;730;Sans anomalie apparente
+62569;Merck-Saint-Liévin;62;eau potable;216021;2024;83,5;1,8;9,3;66,9;conforme;279225;6475;27;77;655;Non vérifié
+62570;Méricourt;62;eau potable;148373;2024;83,2;4,0;19,9;69,0;conforme;2068820;99324;23;82;11619;Non vérifié
+62571;Merlimont;62;eau potable;235214;2024;76,1;4,7;14,9;68,0;conforme;1485623;76451;63;124;3342;Non vérifié
+62572;Metz-en-Couture;62;eau potable;208907;2024;79,4;2,6;10,1;67,0;conforme;257008;8221;36;113;620;Non vérifié
+62573;Meurchin;62;eau potable;148373;2024;83,2;4,0;19,9;69,0;conforme;2068820;31552;23;82;3691;Non vérifié
+62574;Mingoval;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;4929;59;138;228;Non vérifié
+62576;Moncheaux-lès-Frévent;62;eau potable;148286;2024;95,0;0,1;13,5;67,7;conforme;289;105;2;3;133;Non vérifié
+62577;Monchel-sur-Canche;62;eau potable;197437;2024;60,0;3,4;5,1;66,0;non conforme;80665;1890;73;242;71;Non vérifié
+62578;Monchiet;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;2248;59;138;104;Non vérifié
+62579;Monchy-au-Bois;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;11782;59;138;545;Non vérifié
+62580;Monchy-Breton;62;eau potable;148262;2024;92,7;0,9;11,0;67,2;conforme;14221;2187;12;38;512;Non vérifié
+62581;Monchy-Cayeux;62;eau potable;148366;2024;54,5;11,1;13,3;67,7;non conforme;95210;13052;125;304;285;Non vérifié
+62582;Monchy-le-Preux;62;eau potable;148380;2023;88,7;3,0;23,1;69,6;conforme;779377;4816;19;49;679;Sans anomalie apparente
+62583;Mondicourt;62;eau potable : Orville;148330;2024;70,7;3,1;7,4;66,5;conforme;30550;10498;48;152;600;Non vérifié
+62584;Mont-Bernanchon;62;eau potable : Regie CABBALR;148367;2024;74,5;5,2;15,2;68,0;conforme;1868809;22305;46;133;1317;Non vérifié
+62585;Montcavrel;62;eau potable;235214;2024;76,1;4,7;14,9;68,0;conforme;1485623;8784;63;124;384;Non vérifié
+62586;Montenescourt;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;9577;59;138;443;Non vérifié
+62587;Montigny-en-Gohelle;62;eau potable;148390;2024;84,7;4,9;27,2;70,4;conforme;1226965;95032;27;85;9743;Non vérifié
+62588;Montreuil-sur-Mer;62;eau potable;235214;2024;76,1;4,7;14,9;68,0;conforme;1485623;43739;63;124;1912;Non vérifié
+62589;Mont-Saint-Éloi;62;eau potable;148380;2023;88,7;3,0;23,1;69,6;conforme;779377;7249;19;49;1022;Sans anomalie apparente
+62590;Monts-en-Ternois;62;eau potable;148286;2024;95,0;0,1;13,5;67,7;conforme;289;49;2;3;62;Non vérifié
+62591;Morchies;62;eau potable;208907;2024;79,4;2,6;10,1;67,0;conforme;257008;2784;36;113;210;Non vérifié
+62592;Moringhem;62;eau potable : Rural -SUEZ;223299;2024;91,5;0,7;7,4;66,5;conforme;40622;2097;10;35;557;Non vérifié
+62593;Morval;62;eau potable;148391;2023;87,4;2,2;15,5;68,1;conforme;3212;1105;35;52;87;Sans anomalie apparente
+62594;Mory;62;eau potable;208907;2024;79,4;2,6;10,1;67,0;conforme;257008;3965;36;113;299;Non vérifié
+62595;Moulle;62;eau potable : Rural -SUEZ;223299;2024;91,5;0,7;7,4;66,5;conforme;40622;4405;10;35;1170;Non vérifié
+62596;Mouriez;62;eau potable : ex-SI de MOURIEZ;148341;2024;68,9;3,5;7,7;66,5;conforme;63875;8161;94;168;237;Non vérifié
+62597;Moyenneville;62;eau potable;208907;2024;79,4;2,6;10,1;67,0;conforme;257008;3832;36;113;289;Non vérifié
+62598;Muncq-Nieurlet;62;eau potable;148320;2024;81,1;2,0;8,5;66,7;conforme;174813;6387;26;93;673;Non vérifié
+62599;Nabringhen;62;eau potable;148263;2024;60,5;2,5;3,9;65,8;non conforme;128088;6320;77;235;225;Non vérifié
+62600;Nédon;62;eau potable;148357;2024;81,8;2,3;10,3;67,1;conforme;25185;1622;28;82;158;Non vérifié
+62601;Nédonchel;62;eau potable;148357;2024;81,8;2,3;10,3;67,1;conforme;25185;3664;28;82;357;Non vérifié
+62602;Nempont-Saint-Firmin;62;eau potable;235214;2024;76,1;4,7;14,9;68,0;conforme;1485623;4575;63;124;200;Non vérifié
+62603;Nesles;62;eau potable;148370;2024;87,1;3,6;24,5;69,9;conforme;955633;9373;23;58;1095;Non vérifié
+62604;Neufchâtel-Hardelot;62;eau potable;148370;2024;87,1;3,6;24,5;69,9;conforme;955633;35222;23;58;4115;Non vérifié
+62605;Neulette;62;eau potable;148328;2024;52,3;5,7;6,2;66,2;non conforme;166440;1288;160;334;22;Non vérifié
+62606;Neuve-Chapelle;62;eau potable : Regie CABBALR;148367;2024;74,5;5,2;15,2;68,0;conforme;1868809;23864;46;133;1409;Non vérifié
+62607;Neuville-au-Cornet;62;eau potable;148307;2024;77,5;4,6;15,8;68,2;conforme;9067;1646;76;106;59;Non vérifié
+62609;Neuville-Saint-Vaast;62;eau potable;148380;2023;88,7;3,0;23,1;69,6;conforme;779377;11547;19;49;1628;Sans anomalie apparente
+62610;Neuville-sous-Montreuil;62;eau potable;235214;2024;76,1;4,7;14,9;68,0;conforme;1485623;14137;63;124;618;Non vérifié
+62611;Neuville-Vitasse;62;eau potable;148380;2023;88,7;3,0;23,1;69,6;conforme;779377;3412;19;49;481;Sans anomalie apparente
+62612;Neuvireuil;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;6655;32;96;570;Non vérifié
+62613;Nielles-lès-Bléquin;62;eau potable;216021;2024;83,5;1,8;9,3;66,9;conforme;279225;8917;27;77;902;Non vérifié
+62614;Nielles-lès-Ardres;62;eau potable;148320;2024;81,1;2,0;8,5;66,7;conforme;174813;5476;26;93;577;Non vérifié
+62615;Nielles-lès-Calais;62;eau potable;148259;2024;86,2;2,1;12,9;67,6;conforme;110652;4325;42;118;280;Non vérifié
+62616;Noeux-lès-Auxi;62;eau potable;148336;2024;83,3;1,5;7,7;66,5;conforme;10895;2646;39;71;186;Non vérifié
+62617;Noeux-les-Mines;62;eau potable : Noeux-les-Mines;148211;2024;83,3;4,0;19,8;69,0;conforme;122494;122494;29;76;11590;Non vérifié
+62618;Nordausques;62;eau potable : Eau Potable - Régie;312094;2024;84,6;1,7;9,1;66,8;conforme;204765;12725;27;87;1271;Non vérifié
+62619;Noreuil;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;1518;32;96;130;Non vérifié
+62620;Norrent-Fontes;62;eau potable : Syndicat Intercommunal de la Région de NORRENT FONTES;148342;2024;73,3;2,8;7,8;66,6;conforme;41820;18242;36;131;1381;Non vérifié
+62621;Nortkerque;62;eau potable;148320;2024;81,1;2,0;8,5;66,7;conforme;174813;16664;26;93;1756;Non vérifié
+62622;Nort-Leulinghem;62;eau potable : Rural -SUEZ;223299;2024;91,5;0,7;7,4;66,5;conforme;40622;983;10;35;261;Non vérifié
+62623;Nouvelle-Église;62;eau potable;148317;2024;71,1;2,8;6,9;66,4;conforme;642838;11773;45;150;709;Non vérifié
+62624;Noyelles-Godault;62;eau potable;148390;2024;84,7;4,9;27,2;70,4;conforme;1226965;58465;27;85;5994;Non vérifié
+62625;Noyelles-lès-Humières;62;eau potable;148328;2024;52,3;5,7;6,2;66,2;non conforme;166440;3278;160;334;56;Non vérifié
+62626;Noyelles-lès-Vermelles;62;eau potable : Syndicat Intercommunal de DOUVRIN BILLY-BERCLAU;148393;2024;86,0;2,6;16,2;68,2;conforme;97026;12278;15;59;2273;Non vérifié
+62627;Noyelles-sous-Bellonne;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;9901;32;96;848;Non vérifié
+62628;Noyelles-sous-Lens;62;eau potable;148373;2024;83,2;4,0;19,9;69,0;conforme;2068820;58591;23;82;6854;Non vérifié
+62629;Noyellette;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;3329;59;138;154;Non vérifié
+62630;Noyelle-Vion;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;5534;59;138;256;Non vérifié
+62631;Nuncq-Hautecôte;62;eau potable;148338;2024;71,4;3,2;8,0;66,6;conforme;37376;12354;72;147;471;Non vérifié
+62632;Oblinghem;62;eau potable : Regie CABBALR;148367;2024;74,5;5,2;15,2;68,0;conforme;1868809;6504;46;133;384;Non vérifié
+62633;OEuf-en-Ternois;62;eau potable;148329;2024;100,0;3,2;9,6;66,9;conforme;15009;7068;77;122;251;Non vérifié
+62634;Offekerque;62;eau potable;148317;2024;71,1;2,8;6,9;66,4;conforme;642838;21437;45;150;1291;Non vérifié
+62635;Offin;62;eau potable : ex-SI DU BOIS MACHY;148282;2024;75,3;2,2;6,8;66,4;conforme;95557;3336;44;118;210;Non vérifié
+62636;Offrethun;62;eau potable : Région d'Ambleteuse;279214;2024;78,9;1,9;7,1;66,4;conforme;72512;4294;43;98;276;Non vérifié
+62637;Oignies;62;eau potable;148390;2024;84,7;4,9;27,2;70,4;conforme;1226965;100689;27;85;10323;Non vérifié
+62638;Oisy-le-Verger;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;14162;32;96;1213;Non vérifié
+62639;Oppy;62;eau potable : Contrat 5 - OPPY;148216;2024;93,4;0,6;8,6;66,7;conforme;1121;1121;7;26;418;Non vérifié
+62640;Orville;62;eau potable : Orville;148330;2024;70,7;3,1;7,4;66,5;conforme;30550;5967;48;152;341;Non vérifié
+62641;Ostreville;62;eau potable;148309;2024;85,4;2,1;12,1;67,4;conforme;4890;2825;34;63;227;Non vérifié
+62642;Ourton;62;eau potable : Syndicat Intercommunal du Bassin de la Lawe et de son Affluent Le Fossé d'Avesnes (SABALFA);148381;2024;78,5;4,5;16,5;68,3;conforme;711712;8485;32;107;719;Non vérifié
+62643;Outreau;62;eau potable;148370;2024;87,1;3,6;24,5;69,9;conforme;955633;112454;23;58;13138;Non vérifié
+62644;Ouve-Wirquin;62;eau potable;216021;2024;83,5;1,8;9,3;66,9;conforme;279225;4874;27;77;493;Non vérifié
+62645;Oye-Plage;62;eau potable;148317;2024;71,1;2,8;6,9;66,4;conforme;642838;95978;45;150;5780;Non vérifié
+62646;Palluel;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;6608;32;96;566;Non vérifié
+62647;Le Parcq;62;eau potable : ex-SI DE LA RÉGION DU PARCQ;148349;2024;70,2;3,5;8,3;66,7;conforme;55699;14223;53;155;740;Non vérifié
+62648;Parenty;62;eau potable;148293;2024;67,7;2,8;5,9;66,2;conforme;69496;5251;26;172;559;Non vérifié
+62649;Pas-en-Artois;62;eau potable;148267;2024;70,8;4,5;11,0;67,2;conforme;42344;26375;94;298;768;Non vérifié
+62650;Pelves;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;8990;32;96;770;Non vérifié
+62651;Penin;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;9901;59;138;458;Non vérifié
+62652;Pernes;62;eau potable;148310;2024;2,4;12,3;0,3;65,1;non conforme;95312;61208;107;14666;1574;Non vérifié
+62653;Pernes-lès-Boulogne;62;eau potable;148370;2024;87,1;3,6;24,5;69,9;conforme;955633;3612;23;58;422;Non vérifié
+62654;Peuplingues;62;eau potable;148259;2024;86,2;2,1;12,9;67,6;conforme;110652;12188;42;118;789;Non vérifié
+62655;Pierremont;62;eau potable;148328;2024;52,3;5,7;6,2;66,2;non conforme;166440;19027;160;334;325;Non vérifié
+62656;Pihem;62;eau potable;216021;2024;83,5;1,8;9,3;66,9;conforme;279225;9085;27;77;919;Non vérifié
+62657;Pihen-lès-Guînes;62;eau potable;148259;2024;86,2;2,1;12,9;67,6;conforme;110652;8419;42;118;545;Non vérifié
+62658;Pittefaux;62;eau potable;148370;2024;87,1;3,6;24,5;69,9;conforme;955633;976;23;58;114;Non vérifié
+62659;Planques;62;eau potable;148321;2024;77,8;1,9;6,6;66,3;conforme;45078;2460;65;106;104;Non vérifié
+62660;Plouvain;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;5277;32;96;452;Non vérifié
+62661;Bouin-Plumoison;62;eau potable : ex-SI DE LA RÉGION D'HESDIN;148325;2024;86,8;1,8;11,7;67,3;conforme;65700;3415;18;57;511;Non vérifié
+62662;Polincove;62;eau potable;148320;2024;81,1;2,0;8,5;66,7;conforme;174813;8228;26;93;867;Non vérifié
+62663;Pommera;62;eau potable : Orville;148330;2024;70,7;3,1;7,4;66,5;conforme;30550;5372;48;152;307;Non vérifié
+62664;Pommier;62;eau potable;196451;2024;93,4;0,5;7,6;66,5;conforme;7209;1357;15;24;244;Non vérifié
+62665;Le Ponchel;62;eau potable;148350;2024;57,0;4,6;6,1;66,2;non conforme;28543;14439;183;276;216;Non vérifié
+62666;Pont-à-Vendin;62;eau potable;148373;2024;83,2;4,0;19,9;69,0;conforme;2068820;26175;23;82;3062;Non vérifié
+62667;Le Portel;62;eau potable;148370;2024;87,1;3,6;24,5;69,9;conforme;955633;75049;23;58;8768;Non vérifié
+62668;Prédefin;62;eau potable;148326;2023;73,5;3,3;9,0;66,8;conforme;45771;6214;75;133;227;Sans anomalie apparente
+62669;Pressy;62;eau potable;148348;2024;69,3;2,8;6,3;66,3;conforme;35106;5890;54;162;298;Non vérifié
+62670;Preures;62;eau potable;148365;2024;66,1;2,2;4,3;65,9;conforme;40150;18089;77;228;642;Non vérifié
+62671;Pronville-en-Artois;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;3584;32;96;307;Non vérifié
+62672;Puisieux;62;eau potable;208907;2024;79,4;2,6;10,1;67,0;conforme;257008;8950;36;113;675;Non vérifié
+62673;Quéant;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;7367;32;96;631;Non vérifié
+62674;Quelmes;62;eau potable;138440;2024;90,2;2,3;21,1;69,2;conforme;1343628;3423;18;41;529;Non vérifié
+62675;Quercamps;62;eau potable;138440;2024;90,2;2,3;21,1;69,2;conforme;1343628;1889;18;41;292;Non vérifié
+62676;Quernes;62;eau potable : Syndicat Intercommunal de la Région de NORRENT FONTES;148342;2024;73,3;2,8;7,8;66,6;conforme;41820;5548;36;131;420;Non vérifié
+62677;Le Quesnoy-en-Artois;62;eau potable;148222;2024;91,1;0,6;5,6;66,1;conforme;1971;1971;17;39;320;Non vérifié
+62678;Quesques;62;eau potable;216021;2024;83,5;1,8;9,3;66,9;conforme;279225;7118;27;77;720;Non vérifié
+62679;Questrecques;62;eau potable;148392;2024;80,9;1,9;7,9;66,6;conforme;60189;2987;25;88;333;Non vérifié
+62680;Quiéry-la-Motte;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;8196;32;96;702;Non vérifié
+62681;Quiestède;62;eau potable : Eau Potable - Régie;312094;2024;84,6;1,7;9,1;66,8;conforme;204765;6638;27;87;663;Non vérifié
+62682;Quilen;62;eau potable;148312;2024;73,7;2,8;7,7;66,5;conforme;110376;2316;99;137;64;Non vérifié
+62683;Quoeux-Haut-Maînil;62;eau potable;148224;2023;88,6;0,8;6,0;66,2;conforme;2356;2356;31;49;210;Sans anomalie apparente
+62684;Racquinghem;62;eau potable : Urbain - Véolia;223297;2024;85,7;4,7;28,3;70,7;conforme;678875;30006;36;89;2257;Non vérifié
+62685;Radinghem;62;eau potable;148356;2024;78,4;2,7;9,7;66,9;conforme;68985;4930;51;238;263;Non vérifié
+62686;Ramecourt;62;eau potable;148225;2024;94,3;0,6;9,1;66,8;conforme;887;887;7;24;349;Non vérifié
+62688;Rang-du-Fliers;62;eau potable;235214;2024;76,1;4,7;14,9;68,0;conforme;1485623;98297;63;124;4297;Non vérifié
+62689;Ransart;62;eau potable;148380;2023;88,7;3,0;23,1;69,6;conforme;779377;2887;19;49;407;Sans anomalie apparente
+62690;Raye-sur-Authie;62;eau potable;148300;2024;78,3;2,1;7,7;66,5;conforme;19162;5598;68;100;227;Non vérifié
+62691;Saint-Augustin;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;10274;32;96;880;Non vérifié
+62692;Rebergues;62;eau potable;216021;2024;83,5;1,8;9,3;66,9;conforme;279225;3984;27;77;403;Non vérifié
+62693;Rebreuve-Ranchicourt;62;eau potable : Regie CABBALR;148367;2024;74,5;5,2;15,2;68,0;conforme;1868809;18139;46;133;1071;Non vérifié
+62694;Rebreuve-sur-Canche;62;eau potable;225734;2024;76,4;8,6;27,9;70,6;conforme;22601;22601;326;247;190;Non vérifié
+62695;Rebreuviette;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;5469;59;138;253;Non vérifié
+62696;Reclinghem;62;eau potable : Eau Potable - Régie;312094;2024;84,6;1,7;9,1;66,8;conforme;204765;2383;27;87;238;Non vérifié
+62697;Récourt;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;3713;32;96;318;Non vérifié
+62698;Recques-sur-Course;62;eau potable;235214;2024;76,1;4,7;14,9;68,0;conforme;1485623;6085;63;124;266;Non vérifié
+62699;Recques-sur-Hem;62;eau potable;148320;2024;81,1;2,0;8,5;66,7;conforme;174813;6406;26;93;675;Non vérifié
+62700;Regnauville;62;eau potable;148346;2024;89,6;0,7;5,8;66,2;conforme;10731;2234;29;44;213;Non vérifié
+62701;Rely;62;eau potable : Regie CABBALR;148367;2024;74,5;5,2;15,2;68,0;conforme;1868809;7859;46;133;464;Non vérifié
+62702;Remilly-Wirquin;62;eau potable;216021;2024;83,5;1,8;9,3;66,9;conforme;279225;3509;27;77;355;Non vérifié
+62703;Rémy;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;4600;32;96;394;Non vérifié
+62704;Renty;62;eau potable : Eau Potable - Régie;312094;2024;84,6;1,7;9,1;66,8;conforme;204765;5967;27;87;596;Non vérifié
+62705;Rety;62;eau potable : Witerthun;257354;2024;69,1;3,6;8,1;66,6;conforme;215443;34967;47;164;2032;Non vérifié
+62706;Richebourg;62;eau potable : Regie CABBALR;148367;2024;74,5;5,2;15,2;68,0;conforme;1868809;45508;46;133;2687;Non vérifié
+62708;Riencourt-lès-Bapaume;62;eau potable;208907;2024;79,4;2,6;10,1;67,0;conforme;257008;438;36;113;33;Non vérifié
+62709;Riencourt-lès-Cagnicourt;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;2954;32;96;253;Non vérifié
+62710;Rimboval;62;eau potable;148387;2024;56,4;6,8;8,8;66,8;non conforme;52122;14478;214;281;185;Non vérifié
+62711;Rinxent;62;eau potable : Witerthun;257354;2024;69,1;3,6;8,1;66,6;conforme;215443;51400;47;164;2987;Non vérifié
+62712;Rivière;62;eau potable;148380;2023;88,7;3,0;23,1;69,6;conforme;779377;7965;19;49;1123;Sans anomalie apparente
+62713;Robecq;62;eau potable : Regie CABBALR;148367;2024;74,5;5,2;15,2;68,0;conforme;1868809;22492;46;133;1328;Non vérifié
+62714;Roclincourt;62;eau potable;148380;2023;88,7;3,0;23,1;69,6;conforme;779377;5632;19;49;794;Sans anomalie apparente
+62715;Rocquigny;62;eau potable;208907;2024;79,4;2,6;10,1;67,0;conforme;257008;3514;36;113;265;Non vérifié
+62716;Rodelinghem;62;eau potable;148317;2024;71,1;2,8;6,9;66,4;conforme;642838;9266;45;150;558;Non vérifié
+62717;Roëllecourt;62;eau potable;214839;2024;90,5;4,8;45,0;74,0;conforme;102124;7757;41;45;516;Non vérifié
+62718;Roeux;62;eau potable;148380;2023;88,7;3,0;23,1;69,6;conforme;779377;9795;19;49;1381;Sans anomalie apparente
+62719;Rollancourt;62;eau potable : ex-SI DE LA RÉGION DU PARCQ;148349;2024;70,2;3,5;8,3;66,7;conforme;55699;5631;53;155;293;Non vérifié
+62720;Rombly;62;eau potable : Syndicat Intercommunal de la Région de NORRENT FONTES;148342;2024;73,3;2,8;7,8;66,6;conforme;41820;700;36;131;53;Non vérifié
+62721;Roquetoire;62;eau potable : Eau Potable - Régie;312094;2024;84,6;1,7;9,1;66,8;conforme;204765;19723;27;87;1970;Non vérifié
+62722;Rougefay;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;969;32;96;83;Non vérifié
+62723;Roussent;62;eau potable : ex-SI de Boisjean et Roussent;148302;2024;74,4;2,1;6,0;66,2;conforme;17890;5757;63;161;251;Non vérifié
+62724;Rouvroy;62;eau potable;148390;2024;84,7;4,9;27,2;70,4;conforme;1226965;83415;27;85;8552;Non vérifié
+62725;Royon;62;eau potable;148359;2024;100,0;0,0;8,3;66,7;conforme;0;0;0;0;121;Non vérifié
+62726;Ruisseauville;62;eau potable;148321;2024;77,8;1,9;6,6;66,3;conforme;45078;5061;65;106;214;Non vérifié
+62727;Ruitz;62;eau potable : Syndicat Intercommunal du Bassin de la Lawe et de son Affluent Le Fossé d'Avesnes (SABALFA);148381;2024;78,5;4,5;16,5;68,3;conforme;711712;17441;32;107;1478;Non vérifié
+62728;Rumaucourt;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;8068;32;96;691;Non vérifié
+62729;Rumilly;62;eau potable;148312;2024;73,7;2,8;7,7;66,5;conforme;110376;8577;99;137;237;Non vérifié
+62730;Ruminghem;62;eau potable;148320;2024;81,1;2,0;8,5;66,7;conforme;174813;15317;26;93;1614;Non vérifié
+62732;Sachin;62;eau potable;148348;2024;69,3;2,8;6,3;66,3;conforme;35106;6385;54;162;323;Non vérifié
+62733;Sailly-au-Bois;62;eau potable;208907;2024;79,4;2,6;10,1;67,0;conforme;257008;3779;36;113;285;Non vérifié
+62734;Sailly-en-Ostrevent;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;7764;32;96;665;Non vérifié
+62735;Sailly-Labourse;62;eau potable : Regie CABBALR;148367;2024;74,5;5,2;15,2;68,0;conforme;1868809;42223;46;133;2493;Non vérifié
+62736;Sailly-sur-la-Lys;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;46479;32;96;3981;Non vérifié
+62737;Sains-en-Gohelle;62;eau potable;148373;2024;83,2;4,0;19,9;69,0;conforme;2068820;50846;23;82;5948;Non vérifié
+62738;Sains-lès-Fressin;62;eau potable;148359;2024;100,0;0,0;8,3;66,7;conforme;0;0;0;0;150;Non vérifié
+62739;Sains-lès-Marquion;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;3619;32;96;310;Non vérifié
+62740;Sains-lès-Pernes;62;eau potable;148348;2024;69,3;2,8;6,3;66,3;conforme;35106;5811;54;162;294;Non vérifié
+62741;Saint-Amand;62;eau potable;196451;2024;93,4;0,5;7,6;66,5;conforme;7209;679;15;24;122;Non vérifié
+62742;Saint-Aubin;62;eau potable;235214;2024;76,1;4,7;14,9;68,0;conforme;1485623;6611;63;124;289;Non vérifié
+62743;Sainte-Austreberthe;62;eau potable : ex-SI DE LA RÉGION D'HESDIN;148325;2024;86,8;1,8;11,7;67,3;conforme;65700;2540;18;57;380;Non vérifié
+62744;Sainte-Catherine;62;eau potable;148380;2023;88,7;3,0;23,1;69,6;conforme;779377;24619;19;49;3471;Sans anomalie apparente
+62745;Saint-Denoeux;62;eau potable;148327;2024;73,1;2,8;7,5;66,5;conforme;13071;5359;85;136;173;Non vérifié
+62746;Saint-Étienne-au-Mont;62;eau potable;148370;2024;87,1;3,6;24,5;69,9;conforme;955633;43045;23;58;5029;Non vérifié
+62747;Saint-Floris;62;eau potable : Regie CABBALR;148367;2024;74,5;5,2;15,2;68,0;conforme;1868809;10467;46;133;618;Non vérifié
+62748;Saint-Folquin;62;eau potable;148320;2024;81,1;2,0;8,5;66,7;conforme;174813;22292;26;93;2349;Non vérifié
+62749;Saint-Georges;62;eau potable;197437;2024;60,0;3,4;5,1;66,0;non conforme;80665;8463;73;242;318;Non vérifié
+62750;Saint-Hilaire-Cottes;62;eau potable : Regie CABBALR;148367;2024;74,5;5,2;15,2;68,0;conforme;1868809;14057;46;133;830;Non vérifié
+62751;Saint-Inglevert;62;eau potable;148259;2024;86,2;2,1;12,9;67,6;conforme;110652;12683;42;118;821;Non vérifié
+62752;Saint-Josse;62;eau potable;235214;2024;76,1;4,7;14,9;68,0;conforme;1485623;23814;63;124;1041;Non vérifié
+62753;Saint-Laurent-Blangy;62;eau potable;148380;2023;88,7;3,0;23,1;69,6;conforme;779377;45812;19;49;6459;Sans anomalie apparente
+62754;Saint-Léger;62;eau potable;208907;2024;79,4;2,6;10,1;67,0;conforme;257008;6895;36;113;520;Non vérifié
+62755;Saint-Léonard;62;eau potable;148370;2024;87,1;3,6;24,5;69,9;conforme;955633;28700;23;58;3353;Non vérifié
+62756;Sainte-Marie-Kerque;62;eau potable;148320;2024;81,1;2,0;8,5;66,7;conforme;174813;16209;26;93;1708;Non vérifié
+62757;Saint-Martin-lez-Tatinghem;62;eau potable : Urbain - Véolia;223297;2024;85,7;4,7;28,3;70,7;conforme;678875;77682;36;89;5843;Non vérifié
+62758;Saint-Martin-Boulogne;62;eau potable;148370;2024;87,1;3,6;24,5;69,9;conforme;955633;93195;23;58;10888;Non vérifié
+62759;Saint-Martin-Choquel;62;eau potable;148343;2024;87,5;1,0;7,0;66,4;conforme;31390;3521;22;52;443;Non vérifié
+62760;Saint-Martin-d'Hardinghem;62;eau potable;216021;2024;83,5;1,8;9,3;66,9;conforme;279225;2610;27;77;264;Non vérifié
+62761;Saint-Martin-sur-Cojeul;62;eau potable;148380;2023;88,7;3,0;23,1;69,6;conforme;779377;1532;19;49;216;Sans anomalie apparente
+62762;Saint-Michel-sous-Bois;62;eau potable;148312;2024;73,7;2,8;7,7;66,5;conforme;110376;4741;99;137;131;Non vérifié
+62763;Saint-Michel-sur-Ternoise;62;eau potable;214839;2024;90,5;4,8;45,0;74,0;conforme;102124;12418;41;45;826;Non vérifié
+62764;Saint-Nicolas;62;eau potable;148380;2023;88,7;3,0;23,1;69,6;conforme;779377;31875;19;49;4494;Sans anomalie apparente
+62765;Saint-Omer;62;eau potable : Urbain - Véolia;223297;2024;85,7;4,7;28,3;70,7;conforme;678875;191207;36;89;14382;Non vérifié
+62766;Saint-Omer-Capelle;62;eau potable;148320;2024;81,1;2,0;8,5;66,7;conforme;174813;10183;26;93;1073;Non vérifié
+62767;Saint-Pol-sur-Ternoise;62;eau potable;214839;2024;90,5;4,8;45,0;74,0;conforme;102124;70313;41;45;4677;Non vérifié
+62768;Saint-Rémy-au-Bois;62;eau potable : ex-SI de MOURIEZ;148341;2024;68,9;3,5;7,7;66,5;conforme;63875;3616;94;168;105;Non vérifié
+62769;Saint-Tricat;62;eau potable;148259;2024;86,2;2,1;12,9;67,6;conforme;110652;11941;42;118;773;Non vérifié
+62770;Saint-Venant;62;eau potable : Saint-Venant;148235;2024;70,1;4,9;11,5;67,3;conforme;58430;58430;53;156;2999;Non vérifié
+62771;Sallaumines;62;eau potable;148373;2024;83,2;4,0;19,9;69,0;conforme;2068820;80474;23;82;9414;Non vérifié
+62772;Salperwick;62;eau potable : Urbain - Véolia;223297;2024;85,7;4,7;28,3;70,7;conforme;678875;6927;36;89;521;Non vérifié
+62773;Samer;62;eau potable;148392;2024;80,9;1,9;7,9;66,6;conforme;60189;42195;25;88;4704;Non vérifié
+62774;Sangatte;62;eau potable : Sangatte;148237;2024;89,0;1,8;14,9;68,0;conforme;27351;27351;16;44;4668;Non vérifié
+62775;Sanghen;62;eau potable;148317;2024;71,1;2,8;6,9;66,4;conforme;642838;5231;45;150;315;Non vérifié
+62776;Sapignies;62;eau potable;208907;2024;79,4;2,6;10,1;67,0;conforme;257008;2625;36;113;198;Non vérifié
+62777;Le Sars;62;eau potable;208907;2024;79,4;2,6;10,1;67,0;conforme;257008;2029;36;113;153;Non vérifié
+62778;Sars-le-Bois;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;1794;59;138;83;Non vérifié
+62779;Sarton;62;eau potable;148267;2024;70,8;4,5;11,0;67,2;conforme;42344;6250;94;298;182;Non vérifié
+62780;Sauchy-Cauchy;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;4553;32;96;390;Non vérifié
+62781;Sauchy-Lestrée;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;5114;32;96;438;Non vérifié
+62782;Saudemont;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;4775;32;96;409;Non vérifié
+62783;Saulchoy;62;eau potable : ex-SI de MOURIEZ;148341;2024;68,9;3,5;7,7;66,5;conforme;63875;11191;94;168;325;Non vérifié
+62784;Saulty;62;eau potable;148238;2024;96,1;0,5;11,4;67,3;conforme;1460;1460;5;16;750;Non vérifié
+62785;Savy-Berlette;62;eau potable;148239;2024;88,2;4,2;31,6;71,3;conforme;22995;22995;68;216;929;Non vérifié
+62786;Selles;62;eau potable;148343;2024;87,5;1,0;7,0;66,4;conforme;31390;2377;22;52;299;Non vérifié
+62787;Sempy;62;eau potable : ex-SI de la Région de BRIMEUX;148334;2024;80,1;1,7;6,8;66,4;conforme;20154;3543;30;92;324;Non vérifié
+62788;Seninghem;62;eau potable;216021;2024;83,5;1,8;9,3;66,9;conforme;279225;6772;27;77;685;Non vérifié
+62789;Senlecques;62;eau potable;148333;2024;73,2;3,6;9,8;67,0;conforme;107354;4372;48;135;251;Non vérifié
+62790;Senlis;62;eau potable;148356;2024;78,4;2,7;9,7;66,9;conforme;68985;2981;51;238;159;Non vérifié
+62791;Séricourt;62;eau potable;148338;2024;71,4;3,2;8,0;66,6;conforme;37376;1285;72;147;49;Non vérifié
+62792;Serques;62;eau potable : Rural -SUEZ;223299;2024;91,5;0,7;7,4;66,5;conforme;40622;4555;10;35;1210;Non vérifié
+62793;Servins;62;eau potable;148373;2024;83,2;4,0;19,9;69,0;conforme;2068820;9805;23;82;1147;Non vérifié
+62794;Setques;62;eau potable;216021;2024;83,5;1,8;9,3;66,9;conforme;279225;5872;27;77;594;Non vérifié
+62795;Sibiville;62;eau potable;148338;2024;71,4;3,2;8,0;66,6;conforme;37376;3095;72;147;118;Non vérifié
+62796;Simencourt;62;eau potable;148240;2024;69,8;6,0;13,9;67,8;conforme;10950;10950;53;158;569;Non vérifié
+62797;Siracourt;62;eau potable;148290;2024;75,8;4,7;14,8;68,0;conforme;12866;5945;57;116;286;Non vérifié
+62798;Sombrin;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;4432;59;138;205;Non vérifié
+62799;Sorrus;62;eau potable;235214;2024;76,1;4,7;14,9;68,0;conforme;1485623;21549;63;124;942;Non vérifié
+62800;Souastre;62;eau potable;197280;2024;38,3;8,6;5,4;66,1;non conforme;12556;12556;92;586;375;Non vérifié
+62801;Souchez;62;eau potable;148373;2024;83,2;4,0;19,9;69,0;conforme;2068820;22764;23;82;2663;Non vérifié
+62802;Le Souich;62;eau potable;210986;2024;67,2;2,9;5,8;66,2;conforme;29903;4190;58;181;197;Non vérifié
+62803;Surques;62;eau potable;216021;2024;83,5;1,8;9,3;66,9;conforme;279225;6169;27;77;624;Non vérifié
+62804;Sus-Saint-Léger;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;7761;59;138;359;Non vérifié
+62805;Tangry;62;eau potable;187724;2023;85,2;1,5;8,5;66,7;conforme;16376;2807;29;64;265;Sans anomalie apparente
+62806;Tardinghen;62;eau potable : Witerthun;257354;2024;69,1;3,6;8,1;66,6;conforme;215443;2581;47;164;150;Non vérifié
+62808;Teneur;62;eau potable;148321;2024;77,8;1,9;6,6;66,3;conforme;45078;6125;65;106;259;Non vérifié
+62809;Ternas;62;eau potable;148294;2024;93,0;0,9;11,8;67,4;conforme;1757;805;18;28;125;Non vérifié
+62810;Thélus;62;eau potable;148380;2023;88,7;3,0;23,1;69,6;conforme;779377;9291;19;49;1310;Sans anomalie apparente
+62811;Thérouanne;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;13380;32;96;1146;Non vérifié
+62812;Thiembronne;62;eau potable;216021;2024;83,5;1,8;9,3;66,9;conforme;279225;8057;27;77;815;Non vérifié
+62813;La Thieuloye;62;eau potable;148262;2024;92,7;0,9;11,0;67,2;conforme;14221;2033;12;38;476;Non vérifié
+62814;Thièvres;62;eau potable;148267;2024;70,8;4,5;11,0;67,2;conforme;42344;3297;94;298;96;Non vérifié
+62815;Tigny-Noyelle;62;eau potable;235214;2024;76,1;4,7;14,9;68,0;conforme;1485623;3729;63;124;163;Non vérifié
+62816;Tilloy-lès-Hermaville;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;4648;59;138;215;Non vérifié
+62817;Tilloy-lès-Mofflaines;62;eau potable;148380;2023;88,7;3,0;23,1;69,6;conforme;779377;11462;19;49;1616;Sans anomalie apparente
+62818;Tilly-Capelle;62;eau potable;148321;2024;77,8;1,9;6,6;66,3;conforme;45078;3642;65;106;154;Non vérifié
+62819;Tilques;62;eau potable : Rural -SUEZ;223299;2024;91,5;0,7;7,4;66,5;conforme;40622;4036;10;35;1072;Non vérifié
+62820;Tincques;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;17684;59;138;818;Non vérifié
+62821;Tingry;62;eau potable;148392;2024;80,9;1,9;7,9;66,6;conforme;60189;2610;25;88;291;Non vérifié
+62822;Tollent;62;eau potable;148300;2024;78,3;2,1;7,7;66,5;conforme;19162;1998;68;100;81;Non vérifié
+62823;Torcy;62;eau potable;148359;2024;100,0;0,0;8,3;66,7;conforme;0;0;0;0;171;Non vérifié
+62824;Tortefontaine;62;eau potable : ex-SI de MOURIEZ;148341;2024;68,9;3,5;7,7;66,5;conforme;63875;8023;94;168;233;Non vérifié
+62825;Tortequesne;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;10589;32;96;907;Non vérifié
+62826;Le Touquet-Paris-Plage;62;eau potable;235214;2024;76,1;4,7;14,9;68,0;conforme;1485623;96627;63;124;4224;Non vérifié
+62827;Tournehem-sur-la-Hem;62;eau potable : Eau Potable - Régie;312094;2024;84,6;1,7;9,1;66,8;conforme;204765;13776;27;87;1376;Non vérifié
+62828;Tramecourt;62;eau potable;148321;2024;77,8;1,9;6,6;66,3;conforme;45078;1301;65;106;55;Non vérifié
+62829;Le Transloy;62;eau potable;208907;2024;79,4;2,6;10,1;67,0;conforme;257008;5595;36;113;422;Non vérifié
+62830;Trescault;62;eau potable;148244;2023;74,1;4,0;11,4;67,3;conforme;4599;4599;62;128;204;Sans anomalie apparente
+62831;Troisvaux;62;eau potable;187724;2023;85,2;1,5;8,5;66,7;conforme;16376;3104;29;64;293;Sans anomalie apparente
+62832;Tubersent;62;eau potable;235214;2024;76,1;4,7;14,9;68,0;conforme;1485623;13222;63;124;578;Non vérifié
+62833;Vacquerie-le-Boucq;62;eau potable;148336;2024;83,3;1,5;7,7;66,5;conforme;10895;953;39;71;67;Non vérifié
+62834;Vacqueriette-Erquières;62;eau potable;148346;2024;89,6;0,7;5,8;66,2;conforme;10731;2570;29;44;245;Non vérifié
+62835;Valhuon;62;eau potable;187724;2023;85,2;1,5;8,5;66,7;conforme;16376;5699;29;64;538;Sans anomalie apparente
+62836;Vaudricourt;62;eau potable : Regie CABBALR;148367;2024;74,5;5,2;15,2;68,0;conforme;1868809;19274;46;133;1138;Non vérifié
+62837;Vaudringhem;62;eau potable;216021;2024;83,5;1,8;9,3;66,9;conforme;279225;4883;27;77;494;Non vérifié
+62838;Vaulx;62;eau potable;148350;2024;57,0;4,6;6,1;66,2;non conforme;28543;5949;183;276;89;Non vérifié
+62839;Vaulx-Vraucourt;62;eau potable;148245;2024;72,2;3,2;8,3;66,7;conforme;14799;14799;37;141;1099;Non vérifié
+62840;Vélu;62;eau potable;208907;2024;79,4;2,6;10,1;67,0;conforme;257008;1724;36;113;130;Non vérifié
+62841;Vendin-lès-Béthune;62;eau potable : Regie CABBALR;148367;2024;74,5;5,2;15,2;68,0;conforme;1868809;40207;46;133;2374;Non vérifié
+62842;Vendin-le-Vieil;62;eau potable;148373;2024;83,2;4,0;19,9;69,0;conforme;2068820;72969;23;82;8536;Non vérifié
+62843;Verchin;62;eau potable;148356;2024;78,4;2,7;9,7;66,9;conforme;68985;4405;51;238;235;Non vérifié
+62844;Verchocq;62;eau potable;148312;2024;73,7;2,8;7,7;66,5;conforme;110376;24066;99;137;665;Non vérifié
+62845;Verlincthun;62;eau potable;148392;2024;80,9;1,9;7,9;66,6;conforme;60189;4629;25;88;516;Non vérifié
+62846;Vermelles;62;eau potable : Syndicat Intercommunal de DOUVRIN BILLY-BERCLAU;148393;2024;86,0;2,6;16,2;68,2;conforme;97026;25545;15;59;4729;Non vérifié
+62847;Verquigneul;62;eau potable : Regie CABBALR;148367;2024;74,5;5,2;15,2;68,0;conforme;1868809;33500;46;133;1978;Non vérifié
+62848;Verquin;62;eau potable : Regie CABBALR;148367;2024;74,5;5,2;15,2;68,0;conforme;1868809;58346;46;133;3445;Non vérifié
+62849;Verton;62;eau potable;235214;2024;76,1;4,7;14,9;68,0;conforme;1485623;58814;63;124;2571;Non vérifié
+62850;Vieil-Hesdin;62;eau potable;197437;2024;60,0;3,4;5,1;66,0;non conforme;80665;9341;73;242;351;Non vérifié
+62851;Vieille-Chapelle;62;eau potable : Regie CABBALR;148367;2024;74,5;5,2;15,2;68,0;conforme;1868809;14938;46;133;882;Non vérifié
+62852;Vieille-Église;62;eau potable;148317;2024;71,1;2,8;6,9;66,4;conforme;642838;25090;45;150;1511;Non vérifié
+62853;Vieil-Moutier;62;eau potable;148343;2024;87,5;1,0;7,0;66,4;conforme;31390;3108;22;52;391;Non vérifié
+62854;Villers-au-Bois;62;eau potable;148373;2024;83,2;4,0;19,9;69,0;conforme;2068820;5189;23;82;607;Non vérifié
+62855;Villers-au-Flos;62;eau potable;208907;2024;79,4;2,6;10,1;67,0;conforme;257008;3249;36;113;245;Non vérifié
+62856;Villers-Brûlin;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;7956;59;138;368;Non vérifié
+62857;Villers-Châtel;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;2746;59;138;127;Non vérifié
+62858;Villers-lès-Cagnicourt;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;2837;32;96;243;Non vérifié
+62859;Villers-l'Hôpital;62;eau potable;148336;2024;83,3;1,5;7,7;66,5;conforme;10895;3627;39;71;255;Non vérifié
+62860;Villers-Sir-Simon;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;2962;59;138;137;Non vérifié
+62861;Vimy;62;eau potable;148373;2024;83,2;4,0;19,9;69,0;conforme;2068820;36502;23;82;4270;Non vérifié
+62862;Vincly;62;eau potable;148356;2024;78,4;2,7;9,7;66,9;conforme;68985;2737;51;238;146;Non vérifié
+62863;Violaines;62;eau potable : Regie CABBALR;148367;2024;74,5;5,2;15,2;68,0;conforme;1868809;65019;46;133;3839;Non vérifié
+62864;Vis-en-Artois;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;7379;32;96;632;Non vérifié
+62865;Vitry-en-Artois;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;56613;32;96;4849;Non vérifié
+62866;Waben;62;eau potable;235214;2024;76,1;4,7;14,9;68,0;conforme;1485623;10271;63;124;449;Non vérifié
+62867;Wacquinghen;62;eau potable : Région d'Ambleteuse;279214;2024;78,9;1,9;7,1;66,4;conforme;72512;4029;43;98;259;Non vérifié
+62868;Wail;62;eau potable;197437;2024;60,0;3,4;5,1;66,0;non conforme;80665;6946;73;242;261;Non vérifié
+62869;Wailly;62;eau potable;148380;2023;88,7;3,0;23,1;69,6;conforme;779377;7532;19;49;1062;Sans anomalie apparente
+62870;Wailly-Beaucamp;62;eau potable;235214;2024;76,1;4,7;14,9;68,0;conforme;1485623;24294;63;124;1062;Non vérifié
+62871;Wambercourt;62;eau potable;148359;2024;100,0;0,0;8,3;66,7;conforme;0;0;0;0;259;Non vérifié
+62872;Wamin;62;eau potable : ex-SI DE LA RÉGION D'HESDIN;148325;2024;86,8;1,8;11,7;67,3;conforme;65700;1691;18;57;253;Non vérifié
+62873;Wancourt;62;eau potable;148380;2023;88,7;3,0;23,1;69,6;conforme;779377;4440;19;49;626;Sans anomalie apparente
+62874;Wanquetin;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;16170;59;138;748;Non vérifié
+62875;Wardrecques;62;eau potable : Urbain - Véolia;223297;2024;85,7;4,7;28,3;70,7;conforme;678875;17656;36;89;1328;Non vérifié
+62876;Warlencourt-Eaucourt;62;eau potable;208907;2024;79,4;2,6;10,1;67,0;conforme;257008;1737;36;113;131;Non vérifié
+62877;Warlincourt-lès-Pas;62;eau potable;196451;2024;93,4;0,5;7,6;66,5;conforme;7209;985;15;24;177;Non vérifié
+62878;Warlus;62;eau potable : SIDEN SIAN Noréade Eau;138373;2024;79,8;2,7;10,8;67,2;conforme;10914413;4402;32;96;377;Non vérifié
+62879;Warluzel;62;eau potable;208908;2024;75,6;3,4;10,6;67,1;conforme;408239;4713;59;138;218;Non vérifié
+62880;Le Wast;62;eau potable;148263;2024;60,5;2,5;3,9;65,8;non conforme;128088;5702;77;235;203;Non vérifié
+62881;Beauvoir-Wavans;62;eau potable;210989;2024;75,6;3,1;9,6;66,9;conforme;205446;6364;49;121;355;Non vérifié
+62882;Wavrans-sur-l'Aa;62;eau potable;216021;2024;83,5;1,8;9,3;66,9;conforme;279225;11892;27;77;1203;Non vérifié
+62883;Wavrans-sur-Ternoise;62;eau potable;148366;2024;54,5;11,1;13,3;67,7;non conforme;95210;9022;125;304;197;Non vérifié
+62885;Westrehem;62;eau potable : Regie CABBALR;148367;2024;74,5;5,2;15,2;68,0;conforme;1868809;4166;46;133;246;Non vérifié
+62886;Wicquinghem;62;eau potable;148333;2024;73,2;3,6;9,8;67,0;conforme;107354;4651;48;135;267;Non vérifié
+62887;Widehem;62;eau potable;235214;2024;76,1;4,7;14,9;68,0;conforme;1485623;5582;63;124;244;Non vérifié
+62888;Wierre-au-Bois;62;eau potable;148392;2024;80,9;1,9;7,9;66,6;conforme;60189;2045;25;88;228;Non vérifié
+62889;Wierre-Effroy;62;eau potable : Witerthun;257354;2024;69,1;3,6;8,1;66,6;conforme;215443;14351;47;164;834;Non vérifié
+62890;Willeman;62;eau potable;197437;2024;60,0;3,4;5,1;66,0;non conforme;80665;4870;73;242;183;Non vérifié
+62891;Willencourt;62;eau potable;148252;2023;99,2;0,0;4,8;66,0;conforme;0;0;0;0;138;Sans anomalie apparente
+62892;Willerval;62;eau potable;148380;2023;88,7;3,0;23,1;69,6;conforme;779377;4681;19;49;660;Sans anomalie apparente
+62893;Wimereux;62;eau potable;148370;2024;87,1;3,6;24,5;69,9;conforme;955633;53548;23;58;6256;Non vérifié
+62894;Wimille;62;eau potable;148370;2024;87,1;3,6;24,5;69,9;conforme;955633;33091;23;58;3866;Non vérifié
+62895;Wingles;62;eau potable;148373;2024;83,2;4,0;19,9;69,0;conforme;2068820;74542;23;82;8720;Non vérifié
+62896;Wirwignes;62;eau potable;148263;2024;60,5;2,5;3,9;65,8;non conforme;128088;21573;77;235;768;Non vérifié
+62897;Wismes;62;eau potable;216021;2024;83,5;1,8;9,3;66,9;conforme;279225;4864;27;77;492;Non vérifié
+62898;Wisques;62;eau potable;216021;2024;83,5;1,8;9,3;66,9;conforme;279225;2195;27;77;222;Non vérifié
+62899;Wissant;62;eau potable : Régie CCT2C;316754;2024;55,3;6,4;8,0;66,6;non conforme;69192;55024;181;293;835;Non vérifié
+62900;Witternesse;62;eau potable : Syndicat Intercommunal de la Région de NORRENT FONTES;148342;2024;73,3;2,8;7,8;66,6;conforme;41820;8401;36;131;636;Non vérifié
+62901;Wittes;62;eau potable : Aire-Wittes SUEZ;262134;2024;77,1;3,6;12,2;67,4;conforme;140020;12888;36;108;973;Non vérifié
+62902;Wizernes;62;eau potable : Eau Potable - Régie;312094;2024;84,6;1,7;9,1;66,8;conforme;204765;33248;27;87;3321;Non vérifié
+62903;Zoteux;62;eau potable;148333;2024;73,2;3,6;9,8;67,0;conforme;107354;10242;48;135;588;Non vérifié
+62904;Zouafques;62;eau potable : Eau Potable - Régie;312094;2024;84,6;1,7;9,1;66,8;conforme;204765;5927;27;87;592;Non vérifié
+62905;Zudausques;62;eau potable;138440;2024;90,2;2,3;21,1;69,2;conforme;1343628;7014;18;41;1084;Non vérifié
+62906;Zutkerque;62;eau potable;148320;2024;81,1;2,0;8,5;66,7;conforme;174813;17272;26;93;1820;Non vérifié
+62907;Libercourt;62;eau potable;148390;2024;84,7;4,9;27,2;70,4;conforme;1226965;77767;27;85;7973;Non vérifié
+62908;La Capelle-lès-Boulogne;62;eau potable;148370;2024;87,1;3,6;24,5;69,9;conforme;955633;13276;23;58;1551;Non vérifié
+62909;Ytres;62;eau potable;197314;2024;89,8;1,1;9,4;66,9;conforme;1807;1807;12;43;425;Non vérifié

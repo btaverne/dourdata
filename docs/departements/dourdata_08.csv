@@ -1,0 +1,442 @@
+﻿# DourData — eau perdue par les réseaux d'eau potable (indicateurs SISPEA)
+# Périmètre : Département 08
+# Source : SISPEA — Système d'Information des Services Publics d'Eau et d'Assainissement, via data.gouv.fr / services.eaufrance.fr
+# Licence : Licence Ouverte 2.0 (Etalab)
+# Millésime des données : 2020–2024 (année la plus récente disponible par commune)
+# Date de génération de l'export : 2026-07-05
+# Méthodologie et code : https://github.com/btaverne/dourdata
+# Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
+# Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
+08001;Acy-Romance;08;eau potable : dsp acy romance;263394;2024;91,0;0,7;6,6;66,3;conforme;2555;2555;15;39;479;Non vérifié
+08003;Aiglemont;08;eau potable;211703;2024;61,7;11,4;18,4;68,7;non conforme;4567114;64396;104;280;1692;Non vérifié
+08004;Aire;08;eau potable : UDP Gomont;320614;2024;34,3;19,8;10,4;67,1;non conforme;90265;20862;228;698;251;Non vérifié
+08005;Alincourt;08;eau potable : UDP Juniville;320674;2024;71,8;0,8;2,0;65,4;conforme;30864;2995;51;146;160;Non vérifié
+08006;Alland'Huy-et-Sausseuil;08;eau potable;125980;2024;86,5;1,3;8,3;66,7;conforme;34638;3991;40;85;272;Non vérifié
+08008;Amagne;08;eau potable : UDP Nanteuil Hussette;320894;2024;87,3;1,7;11,8;67,4;conforme;25962;9204;31;95;814;Non vérifié
+08010;Ambly-Fleury;08;eau potable : UDP Ambly Fleury;320734;2024;74,4;2,6;7,5;66,5;conforme;7080;5107;106;127;132;Non vérifié
+08011;Anchamps;08;eau potable : Anchamps;125603;2024;94,1;0,3;5,0;66,0;conforme;458;458;6;22;216;Non vérifié
+08013;Angecourt;08;eau potable;125604;2024;82,3;2,6;12,0;67,4;conforme;3416;3416;25;79;382;Non vérifié
+08014;Annelles;08;eau potable : UDP Juniville;320674;2024;71,8;0,8;2,0;65,4;conforme;30864;2377;51;146;127;Non vérifié
+08015;Antheny;08;eau potable;126000;2024;88,0;0,2;4,2;65,8;conforme;19564;446;12;24;100;Non vérifié
+08016;Aouste;08;eau potable;125956;2024;72,2;2,5;6,6;66,3;conforme;39694;7524;105;138;196;Non vérifié
+08017;Apremont;08;eau potable;125606;2024;87,9;0,7;5,4;66,1;conforme;1175;1175;26;47;122;Non vérifié
+08018;Ardeuil-et-Montfauxelles;08;eau potable;125983;2024;91,1;0,5;5,6;66,1;conforme;6388;653;23;33;79;Non vérifié
+08019;Les Grandes-Armoises;08;eau potable;125608;2024;90,8;0,4;4,2;65,8;conforme;244;244;13;35;53;Non vérifié
+08020;Les Petites-Armoises;08;eau potable;125609;2024;89,5;1,1;9,6;66,9;conforme;602;602;28;42;58;Non vérifié
+08021;Arnicourt;08;eau potable : UDP Nanteuil Sorbon;320914;2024;57,3;2,7;3,7;65,7;non conforme;26471;5787;107;268;148;Non vérifié
+08022;Arreux;08;eau potable;211703;2024;61,7;11,4;18,4;68,7;non conforme;4567114;13435;104;280;353;Non vérifié
+08023;Artaise-le-Vivier;08;eau potable;125612;2024;92,1;0,7;8,1;66,6;conforme;1788;1788;77;31;64;Non vérifié
+08024;Asfeld;08;eau potable : UDP Asfeld;320714;2024;36,2;14,4;8,2;66,6;non conforme;129298;73787;187;643;1082;Non vérifié
+08025;Attigny;08;eau potable;125616;2024;96,0;0,8;17,9;68,6;conforme;3749;3749;9;16;1094;Non vérifié
+08026;Aubigny-les-Pothées;08;eau potable;125617;2024;100,0;0,0;5,6;66,1;conforme;0;0;0;0;306;Non vérifié
+08027;Auboncourt-Vauzelles;08;eau potable;125980;2024;86,5;1,3;8,3;66,7;conforme;34638;1394;40;85;95;Non vérifié
+08028;Aubrives;08;eau potable : ex siaep Aubrives Foisches;125958;2024;77,4;3,3;11,2;67,2;conforme;19549;15702;45;108;951;Non vérifié
+08029;Auflance;08;eau potable;125619;2024;49,3;6,7;6,5;66,3;non conforme;5136;5136;172;377;82;Non vérifié
+08030;Auge;08;eau potable : SE région Aubenton-DSP Sa 07/07/34 - P,T,D;124525;2024;52,3;3,0;3,3;65,7;non conforme;157297;3355;158;329;58;Non vérifié
+08031;Aure;08;eau potable;125620;2024;94,7;0,2;3,1;65,6;conforme;200;200;14;23;40;Non vérifié
+08032;Aussonce;08;eau potable : UDP Neuflize;320694;2024;49,6;8,5;8,4;66,7;non conforme;124100;11161;130;370;236;Non vérifié
+08033;Authe;08;eau potable;125621;2024;71,2;2,7;6,7;66,3;conforme;4928;4928;144;147;94;Non vérifié
+08034;Autrecourt-et-Pourron;08;eau potable;125623;2024;89,2;0,7;5,8;66,2;conforme;1763;1763;14;44;342;Non vérifié
+08035;Autruche;08;eau potable;125967;2024;63,4;3,0;5,2;66,0;non conforme;41435;2736;153;212;49;Non vérifié
+08036;Autry;08;eau potable;125624;2024;76,1;0,9;2,9;65,6;conforme;1971;1971;58;113;93;Non vérifié
+08037;Auvillers-les-Forges;08;eau potable;126000;2024;88,0;0,2;4,2;65,8;conforme;19564;4057;12;24;909;Non vérifié
+08038;Avançon;08;eau potable : UDP Avancon;320395;2024;84,5;1,6;8,7;66,7;conforme;2564;2564;21;67;341;Non vérifié
+08039;Avaux;08;eau potable : UDP Asfeld;320714;2024;36,2;14,4;8,2;66,6;non conforme;129298;35461;187;643;520;Non vérifié
+08040;Les Ayvelles;08;eau potable;211703;2024;61,7;11,4;18,4;68,7;non conforme;4567114;32388;104;280;851;Non vérifié
+08041;Baâlons;08;eau potable;125966;2024;81,0;1,6;7,0;66,4;conforme;12731;4906;64;128;210;Non vérifié
+08043;Balan;08;eau potable;211703;2024;61,7;11,4;18,4;68,7;non conforme;4567114;60096;104;280;1579;Non vérifié
+08044;Balham;08;eau potable : UDP Gomont;320614;2024;34,3;19,8;10,4;67,1;non conforme;90265;11636;228;698;140;Non vérifié
+08045;Ballay;08;eau potable;126017;2024;81,0;1,2;5,0;66,0;conforme;30660;1228;14;87;242;Non vérifié
+08046;Banogne-Recouvrance;08;eau potable : UDP Banogne;320434;2024;90,7;0,4;3,9;65,8;conforme;1181;1181;20;38;162;Non vérifié
+08047;Barbaise;08;eau potable;125996;2024;88,4;1,3;9,9;67,0;conforme;23725;1418;38;51;102;Non vérifié
+08048;Barby;08;eau potable : UDP Barby;320554;2024;46,7;4,0;3,5;65,7;non conforme;13899;13899;98;420;389;Non vérifié
+08049;Bar-lès-Buzancy;08;eau potable;125967;2024;63,4;3,0;5,2;66,0;non conforme;41435;6422;153;212;115;Non vérifié
+08052;Bayonville;08;eau potable;125637;2024;69,2;3,3;7,5;66,5;conforme;6589;6589;278;161;65;Non vérifié
+08053;Bazeilles;08;eau potable;211703;2024;61,7;11,4;18,4;68,7;non conforme;4567114;94006;104;280;2470;Non vérifié
+08055;Beaumont-en-Argonne;08;eau potable;125639;2024;71,7;3,0;7,6;66,5;conforme;6570;6570;43;144;415;Non vérifié
+08056;Beffu-et-le-Morthomme;08;eau potable;125640;2024;86,2;1,0;5,9;66,2;conforme;2340;2340;149;62;43;Non vérifié
+08057;Belleville-et-Châtillon-sur-Bar;08;eau potable;126017;2024;81,0;1,2;5,0;66,0;conforme;30660;1218;14;87;240;Non vérifié
+08058;Belval;08;eau potable;211703;2024;61,7;11,4;18,4;68,7;non conforme;4567114;8830;104;280;232;Non vérifié
+08059;Belval-Bois-des-Dames;08;eau potable;125643;2024;94,9;0,0;0,6;65,1;conforme;0;0;0;0;26;Non vérifié
+08060;Bergnicourt;08;eau potable : UDP Neuflize;320694;2024;49,6;8,5;8,4;66,7;non conforme;124100;13810;130;370;292;Non vérifié
+08061;La Berlière;08;eau potable;125644;2024;76,7;3,7;12,2;67,4;conforme;3471;3471;250;111;38;Non vérifié
+08062;Bertoncourt;08;eau potable : UDP Nanteuil Hussette;320894;2024;87,3;1,7;11,8;67,4;conforme;25962;1459;31;95;129;Non vérifié
+08063;La Besace;08;eau potable;125645;2024;81,9;0,5;2,2;65,4;conforme;1697;1697;35;83;133;Non vérifié
+08064;Biermes;08;eau potable : dsp : Rethel, Biermes, Sault les Rethel;322054;2024;79,4;4,6;17,9;68,6;conforme;206517;6756;59;124;316;Non vérifié
+08065;Bièvres;08;eau potable;125647;2024;87,1;0,6;3,8;65,8;conforme;1209;1209;68;58;49;Non vérifié
+08066;Bignicourt;08;eau potable : UDP Juniville;320674;2024;71,8;0,8;2,0;65,4;conforme;30864;1217;51;146;65;Non vérifié
+08067;Blagny;08;eau potable;125971;2024;36,7;6,8;4,0;65,8;non conforme;78307;65035;165;626;1078;Non vérifié
+08069;Blanchefosse-et-Bay;08;eau potable : SAE région Rozoy-sur-Serre-DSP ve 21/04/30-P,T,D;124527;2024;84,1;1,0;5,5;66,1;conforme;31624;2298;47;69;133;Non vérifié
+08070;Blanzy-la-Salonnaise;08;eau potable : UDP Gomont;320614;2024;34,3;19,8;10,4;67,1;non conforme;90265;31418;228;698;378;Non vérifié
+08071;Blombay;08;eau potable;126010;2021;78,7;2,0;7,4;66,5;conforme;83008;2027;43;99;128;Sans anomalie apparente
+08073;Bossus-lès-Rumigny;08;eau potable : SE région Aubenton-DSP Sa 07/07/34 - P,T,D;124525;2024;52,3;3,0;3,3;65,7;non conforme;157297;5438;158;329;94;Non vérifié
+08074;Bouconville;08;eau potable;125653;2024;88,5;0,3;2,6;65,5;conforme;766;766;36;42;58;Non vérifié
+08075;Boult-aux-Bois;08;eau potable;126017;2024;81,0;1,2;5,0;66,0;conforme;30660;797;14;87;157;Non vérifié
+08076;Boulzicourt;08;eau potable;125655;2024;37,6;26,9;16,2;68,2;non conforme;68730;68730;195;615;966;Non vérifié
+08077;Bourcq;08;eau potable;125973;2024;79,3;1,1;4,2;65,8;conforme;16462;1055;55;95;53;Non vérifié
+08078;Bourg-Fidèle;08;eau potable;126010;2021;78,7;2,0;7,4;66,5;conforme;83008;12951;43;99;818;Sans anomalie apparente
+08080;Bouvellemont;08;eau potable;125966;2024;81,0;1,6;7,0;66,4;conforme;12731;2733;64;128;117;Non vérifié
+08081;Bogny-sur-Meuse;08;eau potable;125660;2024;58,1;7,8;10,8;67,2;non conforme;133183;133183;75;265;4889;Non vérifié
+08082;Brécy-Brières;08;eau potable;126007;2024;80,3;1,8;7,4;66,5;conforme;11169;2755;103;89;73;Non vérifié
+08083;Brévilly;08;eau potable;125662;2024;65,7;4,0;7,6;66,5;non conforme;8760;8760;66;192;366;Non vérifié
+08084;Brienne-sur-Aisne;08;eau potable : UDP Houdilcourt;320814;2024;50,8;4,0;4,2;65,8;non conforme;43800;11711;116;352;277;Non vérifié
+08085;Brieulles-sur-Bar;08;eau potable;126017;2024;81,0;1,2;5,0;66,0;conforme;30660;1137;14;87;224;Non vérifié
+08086;Briquenay;08;eau potable;125967;2024;63,4;3,0;5,2;66,0;non conforme;41435;4970;153;212;89;Non vérifié
+08087;Brognon;08;eau potable;126014;2024;80,4;0,8;3,3;65,7;conforme;10804;2902;61;101;130;Non vérifié
+08088;Bulson;08;eau potable;125981;2024;84,9;2,5;14,4;67,9;conforme;19436;13019;255;220;140;Non vérifié
+08089;Buzancy;08;eau potable;126009;2024;96,0;0,9;21,2;69,2;conforme;5584;3730;27;28;380;Non vérifié
+08090;Carignan;08;eau potable;125665;2024;56,1;11,6;14,8;68,0;non conforme;161739;161739;165;289;2680;Non vérifié
+08092;Cauroy;08;eau potable;125666;2024;93,3;0,7;10,0;67,0;conforme;779;779;11;26;192;Non vérifié
+08094;Cernion;08;eau potable;126000;2024;88,0;0,2;4,2;65,8;conforme;19564;241;12;24;54;Non vérifié
+08095;Chagny;08;eau potable;126006;2024;74,4;3,1;9,0;66,8;conforme;42997;4066;67;177;167;Non vérifié
+08096;Chalandry-Elaire;08;eau potable;211703;2024;61,7;11,4;18,4;68,7;non conforme;4567114;27365;104;280;719;Non vérifié
+08097;Challerange;08;eau potable;125669;2024;84,0;1,9;9,8;67,0;conforme;4854;4854;32;71;417;Non vérifié
+08098;Champigneulle;08;eau potable;126015;2024;91,7;0,5;5,0;66,0;conforme;4928;1111;57;40;53;Non vérifié
+08099;Champigneul-sur-Vence;08;eau potable;125976;2024;66,7;6,0;12,0;67,4;non conforme;24090;7623;167;250;125;Non vérifié
+08100;Champlin;08;eau potable;126000;2024;88,0;0,2;4,2;65,8;conforme;19564;326;12;24;73;Non vérifié
+08101;La Chapelle;08;eau potable;211703;2024;61,7;11,4;18,4;68,7;non conforme;4567114;5899;104;280;155;Non vérifié
+08102;Chappes;08;eau potable;283814;2024;78,0;2,2;7,9;66,6;conforme;3212;3212;110;101;80;Non vérifié
+08103;Charbogne;08;eau potable : Siaep de la lisiere;125979;2023;58,9;3,5;5,0;66,0;non conforme;25550;10794;136;258;218;Sans anomalie apparente
+08104;Chardeny;08;eau potable;125973;2024;79,3;1,1;4,2;65,8;conforme;16462;1095;55;95;55;Non vérifié
+08105;Charleville-Mézières;08;eau potable;211703;2024;61,7;11,4;18,4;68,7;non conforme;4567114;1733981;104;280;45560;Non vérifié
+08106;Charnois;08;eau potable : ex siaep Aviette - Rancennes Charnois;125959;2024;79,2;1,7;6,6;66,3;conforme;7750;714;27;94;72;Non vérifié
+08107;Château-Porcien;08;eau potable : UDP Chateau Porcien;320454;2024;79,9;3,8;15,3;68,1;conforme;14050;14050;30;91;1285;Non vérifié
+08109;Chatel-Chéhéry;08;eau potable : Chatel Chehery;125672;2024;90,3;0,6;5,8;66,2;conforme;657;657;14;38;125;Non vérifié
+08110;Le Châtelet-sur-Sormonne;08;eau potable;125986;2024;76,5;2,9;9,4;66,9;conforme;24134;2093;33;112;174;Non vérifié
+08111;Le Châtelet-sur-Retourne;08;eau potable : UDP Neuflize;320694;2024;49,6;8,5;8,4;66,7;non conforme;124100;36606;130;370;774;Non vérifié
+08113;Chaumont-Porcien;08;eau potable;126004;2024;66,6;2,3;4,6;65,9;conforme;85629;21893;130;187;462;Non vérifié
+08115;Chémery-Chéhéry;08;eau potable : Chemery-Chehery;222794;2024;55,6;9,0;11,3;67,3;non conforme;54038;54038;288;322;514;Non vérifié
+08116;Bairon et ses environs;08;eau potable : bairon et ses environs;222796;2024;82,3;1,7;8,0;66,6;conforme;14272;14272;38;85;1037;Non vérifié
+08117;Chesnois-Auboncourt;08;eau potable;125970;2024;96,8;0,2;7,1;66,4;conforme;721;351;6;10;159;Non vérifié
+08119;Cheveuges;08;eau potable;211703;2024;61,7;11,4;18,4;68,7;non conforme;4567114;17812;104;280;468;Non vérifié
+08120;Chevières;08;eau potable;125684;2024;80,2;1,2;4,7;65,9;conforme;1029;1029;61;92;46;Non vérifié
+08121;Chilly;08;eau potable;126000;2024;88,0;0,2;4,2;65,8;conforme;19564;598;12;24;134;Non vérifié
+08122;Chooz;08;eau potable : Chooz;125685;2024;92,6;1,4;17,5;68,5;conforme;7808;7808;26;48;825;Non vérifié
+08123;Chuffilly-Roche;08;eau potable : Chuffilly Roche;125687;2023;96,9;0,2;7,4;66,5;conforme;450;450;18;10;69;Sans anomalie apparente
+08125;Cliron;08;eau potable;211703;2024;61,7;11,4;18,4;68,7;non conforme;4567114;15566;104;280;409;Non vérifié
+08126;Condé-lès-Herpy;08;eau potable : UDP Herpy l'Arlesienne;320754;2024;58,9;5,3;7,6;66,5;non conforme;11452;5861;74;254;218;Non vérifié
+08130;Contreuve;08;eau potable;125973;2024;79,3;1,1;4,2;65,8;conforme;16462;1732;55;95;87;Non vérifié
+08131;Cornay;08;eau potable;125694;2024;81,2;2,2;9,5;66,9;conforme;5420;5420;215;244;69;Non vérifié
+08132;Corny-Machéroménil;08;eau potable : regie;211706;2024;81,6;2,5;11,0;67,2;conforme;506438;4704;69;96;187;Non vérifié
+08133;Coucy;08;eau potable : UDP Nanteuil Hussette;320894;2024;87,3;1,7;11,8;67,4;conforme;25962;6061;31;95;536;Non vérifié
+08134;Coulommes-et-Marqueny;08;eau potable;125973;2024;79,3;1,1;4,2;65,8;conforme;16462;1493;55;95;75;Non vérifié
+08135;La Croix-aux-Bois;08;eau potable : La croix aux Bois;125696;2024;92,9;1,5;19,4;68,9;conforme;958;958;16;28;168;Non vérifié
+08136;Daigny;08;eau potable;211703;2024;61,7;11,4;18,4;68,7;non conforme;4567114;13625;104;280;358;Non vérifié
+08137;Damouzy;08;eau potable;211703;2024;61,7;11,4;18,4;68,7;non conforme;4567114;16099;104;280;423;Non vérifié
+08138;Les Deux-Villes;08;eau potable;125962;2024;51,3;20,4;21,4;69,3;non conforme;37230;24297;268;348;248;Non vérifié
+08140;Dom-le-Mesnil;08;eau potable;211703;2024;61,7;11,4;18,4;68,7;non conforme;4567114;39886;104;280;1048;Non vérifié
+08141;Dommery;08;eau potable;126012;2024;68,6;2,8;6,2;66,2;conforme;89936;6748;99;164;186;Non vérifié
+08142;Donchery;08;eau potable;211703;2024;61,7;11,4;18,4;68,7;non conforme;4567114;75700;104;280;1989;Non vérifié
+08143;Doumely-Bégny;08;eau potable;126001;2024;80,3;2,5;10,0;67,0;conforme;12209;4153;137;152;83;Non vérifié
+08144;Doux;08;eau potable : UDP Nanteuil Hussette;320894;2024;87,3;1,7;11,8;67,4;conforme;25962;1153;31;95;102;Non vérifié
+08145;Douzy;08;eau potable : douzy;222816;2024;80,7;3,3;13,7;67,7;conforme;25042;25042;32;95;2134;Non vérifié
+08147;Dricourt;08;eau potable : Dricourt;286534;2024;69,4;1,1;2,5;65,5;conforme;2072;2072;81;159;70;Non vérifié
+08148;L' Écaille;08;eau potable : UDP Neuflize;320694;2024;49,6;8,5;8,4;66,7;non conforme;124100;12438;130;370;263;Non vérifié
+08149;L' Échelle;08;eau potable;125593;2024;60,6;11,1;17,1;68,4;non conforme;6685;6685;142;237;129;Non vérifié
+08150;Écly;08;eau potable : UDP Nanteuil Sorbon;320914;2024;57,3;2,7;3,7;65,7;non conforme;26471;6608;107;268;169;Non vérifié
+08151;Écordal;08;eau potable;125994;2024;66,9;2,7;5,5;66,1;conforme;21681;8703;84;204;283;Non vérifié
+08153;Escombres-et-le-Chesnois;08;eau potable;211700;2024;36,2;18,0;10,2;67,0;non conforme;23126;23126;185;644;342;Non vérifié
+08154;Estrebay;08;eau potable;126000;2024;88,0;0,2;4,2;65,8;conforme;19564;375;12;24;84;Non vérifié
+08155;Étalle;08;eau potable;126000;2024;88,0;0,2;4,2;65,8;conforme;19564;420;12;24;94;Non vérifié
+08156;Éteignières;08;eau potable;126000;2024;88,0;0,2;4,2;65,8;conforme;19564;2076;12;24;465;Non vérifié
+08158;Étrépigny;08;eau potable;211703;2024;61,7;11,4;18,4;68,7;non conforme;4567114;10200;104;280;268;Non vérifié
+08159;Euilly-et-Lombut;08;eau potable;125995;2024;86,8;1,4;9,5;66,9;conforme;9479;252;6;60;119;Non vérifié
+08161;Exermont;08;eau potable;126015;2024;91,7;0,5;5,0;66,0;conforme;4928;671;57;40;32;Non vérifié
+08162;Fagnon;08;eau potable;211703;2024;61,7;11,4;18,4;68,7;non conforme;4567114;12902;104;280;339;Non vérifié
+08163;Faissault;08;eau potable;125980;2024;86,5;1,3;8,3;66,7;conforme;34638;3741;40;85;255;Non vérifié
+08164;Falaise;08;eau potable : Falaise;125598;2024;98,5;0,1;8,5;66,7;conforme;215;215;2;4;346;Non vérifié
+08165;Faux;08;eau potable;125980;2024;86,5;1,3;8,3;66,7;conforme;34638;939;40;85;64;Non vérifié
+08166;Fépin;08;eau potable : Fepin;125706;2024;77,5;1,9;6,6;66,3;conforme;2829;2829;33;104;233;Non vérifié
+08167;La Férée;08;eau potable;125956;2024;72,2;2,5;6,6;66,3;conforme;39694;2764;105;138;72;Non vérifié
+08168;La Ferté-sur-Chiers;08;eau potable;125708;2024;97,0;0,3;8,4;66,7;conforme;574;574;9;13;173;Non vérifié
+08169;Flaignes-Havys;08;eau potable;126000;2024;88,0;0,2;4,2;65,8;conforme;19564;397;12;24;89;Non vérifié
+08170;Fleigneux;08;eau potable;211703;2024;61,7;11,4;18,4;68,7;non conforme;4567114;8487;104;280;223;Non vérifié
+08172;Fligny;08;eau potable;126013;2024;67,4;8,7;18,1;68,6;non conforme;17465;1968;35;176;154;Non vérifié
+08173;Flize;08;eau potable;211703;2024;61,7;11,4;18,4;68,7;non conforme;4567114;64054;104;280;1683;Non vérifié
+08174;Floing;08;eau potable;211703;2024;61,7;11,4;18,4;68,7;non conforme;4567114;86395;104;280;2270;Non vérifié
+08175;Foisches;08;eau potable : ex siaep Aubrives Foisches;125958;2024;77,4;3,3;11,2;67,2;conforme;19549;3847;45;108;233;Non vérifié
+08176;Fossé;08;eau potable;125967;2024;63,4;3,0;5,2;66,0;non conforme;41435;3518;153;212;63;Non vérifié
+08178;Fraillicourt;08;eau potable;126004;2024;66,6;2,3;4,6;65,9;conforme;85629;7772;130;187;164;Non vérifié
+08179;Francheval;08;eau potable;211703;2024;61,7;11,4;18,4;68,7;non conforme;4567114;22455;104;280;590;Non vérifié
+08180;La Francheville;08;eau potable;211703;2024;61,7;11,4;18,4;68,7;non conforme;4567114;62265;104;280;1636;Non vérifié
+08182;Le Fréty;08;eau potable;126004;2024;66,6;2,3;4,6;65,9;conforme;85629;2891;130;187;61;Non vérifié
+08183;Fromelennes;08;eau potable : fromelennes;298914;2024;83,5;2,9;14,5;67,9;conforme;9220;9220;24;73;1037;Non vérifié
+08184;Fromy;08;eau potable;125982;2024;100,0;0,0;9,2;66,8;conforme;0;0;0;0;87;Non vérifié
+08185;Fumay;08;eau potable : Fumay;125721;2024;79,5;3,4;13,0;67,6;conforme;37093;37093;33;95;3086;Non vérifié
+08186;Germont;08;eau potable;126017;2024;81,0;1,2;5,0;66,0;conforme;30660;259;14;87;51;Non vérifié
+08187;Gernelle;08;eau potable;211703;2024;61,7;11,4;18,4;68,7;non conforme;4567114;11951;104;280;314;Non vérifié
+08188;Gespunsart;08;eau potable;211703;2024;61,7;11,4;18,4;68,7;non conforme;4567114;36309;104;280;954;Non vérifié
+08189;Girondelle;08;eau potable;126000;2024;88,0;0,2;4,2;65,8;conforme;19564;683;12;24;153;Non vérifié
+08190;Givet;08;eau potable : Givet;125727;2024;89,9;2,2;20,0;69,0;conforme;38745;33316;14;48;6364;Non vérifié
+08191;Givonne;08;eau potable;211703;2024;61,7;11,4;18,4;68,7;non conforme;4567114;40153;104;280;1055;Non vérifié
+08192;Givron;08;eau potable;126004;2024;66,6;2,3;4,6;65,9;conforme;85629;4502;130;187;95;Non vérifié
+08193;Givry;08;eau potable;125978;2024;71,2;2,6;6,4;66,3;conforme;13988;7672;79;147;266;Non vérifié
+08194;Glaire;08;eau potable;211703;2024;61,7;11,4;18,4;68,7;non conforme;4567114;32198;104;280;846;Non vérifié
+08195;Gomont;08;eau potable : UDP Gomont;320614;2024;34,3;19,8;10,4;67,1;non conforme;90265;26348;228;698;317;Non vérifié
+08196;Grandchamp;08;eau potable;125999;2024;74,2;1,4;4,1;65,8;conforme;20747;3952;123;138;88;Non vérifié
+08197;Grandham;08;eau potable;125730;2024;81,5;0,3;1,3;65,3;conforme;438;438;33;83;36;Non vérifié
+08198;Grandpré;08;eau potable : grandpré;222801;2024;90,4;0,7;6,7;66,3;conforme;4190;4190;23;38;503;Non vérifié
+08199;La Grandville;08;eau potable;211703;2024;61,7;11,4;18,4;68,7;non conforme;4567114;28659;104;280;753;Non vérifié
+08200;Grivy-Loisy;08;eau potable;125973;2024;79,3;1,1;4,2;65,8;conforme;16462;3603;55;95;181;Non vérifié
+08201;Gruyères;08;eau potable;125736;2024;95,1;0,2;4,8;66,0;conforme;197;197;5;15;102;Non vérifié
+08202;Gué-d'Hossus;08;eau potable;126010;2021;78,7;2,0;7,4;66,5;conforme;83008;7979;43;99;504;Sans anomalie apparente
+08203;Guignicourt-sur-Vence;08;eau potable;125737;2024;60,3;8,4;12,8;67,6;non conforme;7113;7113;72;240;272;Non vérifié
+08204;Guincourt;08;eau potable;125994;2024;66,9;2,7;5,5;66,1;conforme;21681;2153;84;204;70;Non vérifié
+08205;Hagnicourt;08;eau potable;125739;2024;93,2;0,3;4,7;65,9;conforme;504;504;21;23;67;Non vérifié
+08206;Ham-les-Moines;08;eau potable;214756;2024;74,7;4,0;11,7;67,3;conforme;6380;6380;49;125;356;Non vérifié
+08207;Ham-sur-Meuse;08;eau potable : Ham sur Meuse;125741;2024;81,8;1,5;6,7;66,3;conforme;2814;2814;34;82;226;Non vérifié
+08208;Hannappes;08;eau potable;125742;2024;100,0;0,0;4,1;65,8;conforme;0;0;0;0;136;Non vérifié
+08209;Hannogne-Saint-Martin;08;eau potable : regie;211706;2024;81,6;2,5;11,0;67,2;conforme;506438;11194;69;96;445;Non vérifié
+08210;Hannogne-Saint-Rémy;08;eau potable : UDP Hannogne Saint Remy;320634;2024;93,1;0,6;7,7;66,5;conforme;1535;464;12;28;110;Non vérifié
+08211;Haraucourt;08;eau potable;125745;2024;51,6;8,4;8,9;66,8;non conforme;23363;23363;92;345;699;Non vérifié
+08212;Harcy;08;eau potable;125986;2024;76,5;2,9;9,4;66,9;conforme;24134;6196;33;112;515;Non vérifié
+08214;Hargnies;08;eau potable : Hargnies;125748;2024;94,5;0,4;7,3;66,5;conforme;986;986;6;20;435;Non vérifié
+08215;Harricourt;08;eau potable;125967;2024;63,4;3,0;5,2;66,0;non conforme;41435;2569;153;212;46;Non vérifié
+08216;Haudrecy;08;eau potable;211703;2024;61,7;11,4;18,4;68,7;non conforme;4567114;12712;104;280;334;Non vérifié
+08217;Haulmé;08;eau potable;125988;2024;73,8;2,3;6,4;66,3;conforme;5255;1436;45;130;88;Non vérifié
+08218;Les Hautes-Rivières;08;eau potable;125752;2024;74,7;2,7;8,0;66,6;conforme;18488;18488;41;122;1239;Non vérifié
+08219;Hauteville;08;eau potable : UDP Hauteville;320494;2024;0,0;8,1;0,0;65,0;non conforme;7391;7391;170;96;119;Non vérifié
+08220;Hauviné;08;eau potable;125755;2024;62,3;5,6;9,3;66,9;non conforme;7849;7849;69;220;311;Non vérifié
+08222;Haybes;08;eau potable : Haybes;125756;2024;64,5;5,7;10,4;67,1;non conforme;39155;39155;60;199;1794;Non vérifié
+08223;Herbeuval;08;eau potable;125758;2024;81,6;4,4;19,7;68,9;conforme;6167;6167;136;338;124;Non vérifié
+08225;Herpy-l'Arlésienne;08;eau potable : UDP Herpy l'Arlesienne;320754;2024;58,9;5,3;7,6;66,5;non conforme;11452;5592;74;254;208;Non vérifié
+08226;Hierges;08;eau potable : Hierges;298394;2024;82,4;1,0;4,9;66,0;conforme;2329;2329;41;75;154;Non vérifié
+08228;La Horgne;08;eau potable;125761;2024;75,8;1,7;5,4;66,1;conforme;3537;3537;63;115;154;Non vérifié
+08229;Houdilcourt;08;eau potable : UDP Houdilcourt;320814;2024;50,8;4,0;4,2;65,8;non conforme;43800;6342;116;352;150;Non vérifié
+08230;Houldizy;08;eau potable;211703;2024;61,7;11,4;18,4;68,7;non conforme;4567114;14995;104;280;394;Non vérifié
+08232;Illy;08;eau potable;211703;2024;61,7;11,4;18,4;68,7;non conforme;4567114;15718;104;280;413;Non vérifié
+08233;Imécourt;08;eau potable;126009;2024;96,0;0,9;21,2;69,2;conforme;5584;412;27;28;42;Non vérifié
+08234;Inaumont;08;eau potable : UDP Nanteuil Sorbon;320914;2024;57,3;2,7;3,7;65,7;non conforme;26471;5396;107;268;138;Non vérifié
+08235;Issancourt-et-Rumel;08;eau potable;211703;2024;61,7;11,4;18,4;68,7;non conforme;4567114;15452;104;280;406;Non vérifié
+08236;Jandun;08;eau potable;125996;2024;88,4;1,3;9,9;67,0;conforme;23725;4072;38;51;293;Non vérifié
+08237;Joigny-sur-Meuse;08;eau potable;125764;2024;94,2;1,1;18,6;68,7;conforme;2811;2811;12;43;627;Non vérifié
+08238;Jonval;08;eau potable;125966;2024;81,0;1,6;7,0;66,4;conforme;12731;2056;64;128;88;Non vérifié
+08239;Juniville;08;eau potable : UDP Juniville;320674;2024;71,8;0,8;2,0;65,4;conforme;30864;22910;51;146;1224;Non vérifié
+08240;Justine-Herbigny;08;eau potable;126001;2024;80,3;2,5;10,0;67,0;conforme;12209;8056;137;152;161;Non vérifié
+08243;Lalobbe;08;eau potable;125999;2024;74,2;1,4;4,1;65,8;conforme;20747;7454;123;138;166;Non vérifié
+08244;Lametz;08;eau potable : Lametz;125768;2020;58,8;3,0;4,3;65,9;non conforme;3296;3296;119;252;76;Sans anomalie apparente
+08245;Lançon;08;eau potable;125769;2024;93,5;0,1;1,5;65,3;conforme;91;91;8;24;30;Non vérifié
+08246;Landres-et-Saint-Georges;08;eau potable;125770;2024;95,4;0,3;5,9;66,2;conforme;1095;1095;42;19;72;Non vérifié
+08247;Landrichamps;08;eau potable : Landrichamps;125771;2024;63,3;3,8;6,5;66,3;non conforme;3676;3676;80;214;126;Non vérifié
+08248;Launois-sur-Vence;08;eau potable;125996;2024;88,4;1,3;9,9;67,0;conforme;23725;9159;38;51;659;Non vérifié
+08249;Laval-Morency;08;eau potable;126000;2024;88,0;0,2;4,2;65,8;conforme;19564;1031;12;24;231;Non vérifié
+08251;Lépron-les-Vallées;08;eau potable;126012;2024;68,6;2,8;6,2;66,2;conforme;89936;2213;99;164;61;Non vérifié
+08252;Létanne;08;eau potable;125775;2020;67,2;5,0;10,3;67,1;conforme;3650;3650;93;178;107;Sans anomalie apparente
+08254;Liart;08;eau potable;125956;2024;72,2;2,5;6,6;66,3;conforme;39694;22457;105;138;585;Non vérifié
+08255;Linay;08;eau potable;125971;2024;36,7;6,8;4,0;65,8;non conforme;78307;13272;165;626;220;Non vérifié
+08256;Liry;08;eau potable : Liry;125777;2024;79,5;2,0;7,9;66,6;conforme;1438;1438;43;92;92;Non vérifié
+08257;Logny-Bogny;08;eau potable;126000;2024;88,0;0,2;4,2;65,8;conforme;19564;678;12;24;152;Non vérifié
+08259;Longwé;08;eau potable : Longwé;125779;2024;81,6;0,9;4,1;65,8;conforme;772;772;33;81;64;Non vérifié
+08260;Lonny;08;eau potable;125780;2024;0,0;;;;non calculable;;;;;621;Non vérifié
+08262;Lucquy;08;eau potable;125980;2024;86,5;1,3;8,3;66,7;conforme;34638;8568;40;85;584;Non vérifié
+08263;Lumes;08;eau potable;211703;2024;61,7;11,4;18,4;68,7;non conforme;4567114;41827;104;280;1099;Non vérifié
+08264;Machault;08;eau potable;125785;2024;73,2;2,9;7,8;66,6;conforme;8098;8098;46;136;482;Non vérifié
+08268;Maisoncelle-et-Villers;08;eau potable;125981;2024;84,9;2,5;14,4;67,9;conforme;19436;6417;255;220;69;Non vérifié
+08269;Malandry;08;eau potable;125786;2024;97,9;6,0;284,6;85,0;conforme;2628;2628;90;317;80;Non vérifié
+08271;Manre;08;eau potable : Manre;125788;2024;79,5;0,9;3,4;65,7;conforme;1544;1544;39;97;108;Non vérifié
+08272;Maranwez;08;eau potable;125956;2024;72,2;2,5;6,6;66,3;conforme;39694;2111;105;138;55;Non vérifié
+08273;Marby;08;eau potable;125789;2024;67,7;6,8;14,2;67,8;non conforme;3723;3723;142;175;72;Non vérifié
+08274;Marcq;08;eau potable : Marcq;125790;2024;91,3;0,3;2,7;65,5;conforme;577;577;18;41;87;Non vérifié
+08275;Margny;08;eau potable;125792;2024;44,7;7,1;5,7;66,1;non conforme;11662;11662;152;454;210;Non vérifié
+08276;Margut;08;eau potable;125982;2024;100,0;0,0;9,2;66,8;conforme;0;0;0;0;700;Non vérifié
+08277;Marlemont;08;eau potable;125956;2024;72,2;2,5;6,6;66,3;conforme;39694;4837;105;138;126;Non vérifié
+08278;Marquigny;08;eau potable;126006;2024;74,4;3,1;9,0;66,8;conforme;42997;1729;67;177;71;Non vérifié
+08279;Mars-sous-Bourcq;08;eau potable;125973;2024;79,3;1,1;4,2;65,8;conforme;16462;1214;55;95;61;Non vérifié
+08280;Marvaux-Vieux;08;eau potable;125983;2024;91,1;0,5;5,6;66,1;conforme;6388;570;23;33;69;Non vérifié
+08281;Matton-et-Clémency;08;eau potable;125969;2024;67,6;5,4;11,2;67,2;conforme;31536;10942;71;176;424;Non vérifié
+08282;Maubert-Fontaine;08;eau potable;126000;2024;88,0;0,2;4,2;65,8;conforme;19564;4566;12;24;1023;Non vérifié
+08283;Mazerny;08;eau potable;125795;2024;81,2;1,1;4,7;65,9;conforme;1361;1361;31;85;119;Non vérifié
+08284;Les Mazures;08;eau potable;126010;2021;78,7;2,0;7,4;66,5;conforme;83008;13394;43;99;846;Sans anomalie apparente
+08286;Ménil-Annelles;08;eau potable : UDP Menil Annelles;320394;2024;82,7;1,7;8,1;66,6;conforme;2606;2606;75;76;95;Non vérifié
+08287;Ménil-Lépinois;08;eau potable : UDP Neuflize;320694;2024;49,6;8,5;8,4;66,7;non conforme;124100;7000;130;370;148;Non vérifié
+08288;Mesmont;08;eau potable;126011;2024;67,8;5,8;12,3;67,5;conforme;28325;2766;83;172;91;Non vérifié
+08289;Messincourt;08;eau potable;125798;2024;90,5;1,8;16,7;68,3;conforme;5125;5125;24;70;580;Non vérifié
+08291;Mogues;08;eau potable;125799;2024;86,1;2,7;16,6;68,3;conforme;1675;1675;20;59;228;Non vérifié
+08293;Moiry;08;eau potable;125982;2024;100,0;0,0;9,2;66,8;conforme;0;0;0;0;133;Non vérifié
+08294;La Moncelle;08;eau potable;211703;2023;64,7;9,7;17,9;68,6;non conforme;3975982;4435;91;246;134;Sans anomalie apparente
+08295;Mondigny;08;eau potable;125800;2024;82,8;2,3;11,0;67,2;conforme;4198;4198;62;102;185;Non vérifié
+08296;Montcheutin;08;eau potable;125801;2024;71,5;2,2;5,6;66,1;conforme;2008;2008;50;143;110;Non vérifié
+08297;Montcornet;08;eau potable;125803;2024;93,6;1,0;14,3;67,9;conforme;912;912;8;25;300;Non vérifié
+08298;Montcy-Notre-Dame;08;eau potable;211703;2024;61,7;11,4;18,4;68,7;non conforme;4567114;58421;104;280;1535;Non vérifié
+08300;Le Mont-Dieu;08;eau potable;126006;2024;74,4;3,1;9,0;66,8;conforme;42997;317;67;177;13;Non vérifié
+08301;Montgon;08;eau potable;126006;2024;74,4;3,1;9,0;66,8;conforme;42997;1753;67;177;72;Non vérifié
+08302;Monthermé;08;eau potable;125805;2024;72,8;4,7;12,6;67,5;conforme;43316;43316;56;136;2138;Non vérifié
+08303;Monthois;08;eau potable;125983;2024;91,1;0,5;5,6;66,1;conforme;6388;3223;23;33;390;Non vérifié
+08304;Montigny-sur-Meuse;08;eau potable : Montigny sur Meuse;125760;2024;89,1;0,2;1,5;65,3;conforme;360;360;13;49;76;Non vérifié
+08305;Montigny-sur-Vence;08;eau potable;125807;2024;95,9;0,8;18,7;68,7;conforme;832;832;11;16;211;Non vérifié
+08306;Mont-Laurent;08;eau potable : UDP Ambly Fleury;320734;2024;74,4;2,6;7,5;66,5;conforme;7080;1973;106;127;51;Non vérifié
+08307;Montmeillant;08;eau potable;125999;2024;74,2;1,4;4,1;65,8;conforme;20747;3503;123;138;78;Non vérifié
+08308;Mont-Saint-Martin;08;eau potable;125811;2024;43,3;5,3;4,0;65,8;non conforme;8086;8086;252;482;88;Non vérifié
+08310;Mouron;08;eau potable;125812;2024;61,9;3,1;5,1;66,0;non conforme;2014;2014;71;223;78;Non vérifié
+08311;Mouzon;08;eau potable : Mouzon;222799;2024;63,4;6,5;11,2;67,2;non conforme;53452;53452;66;212;2229;Non vérifié
+08312;Murtin-et-Bogny;08;eau potable;125815;2024;100,0;0,0;0,3;65,1;conforme;0;0;0;0;168;Non vérifié
+08313;Nanteuil-sur-Aisne;08;eau potable : UDP Nanteuil sur Aisne;320934;2024;5,2;3,3;0,2;65,0;non conforme;10058;6059;111;6798;150;Non vérifié
+08314;Neuflize;08;eau potable : UDP Neuflize;320694;2024;49,6;8,5;8,4;66,7;non conforme;124100;40437;130;370;855;Non vérifié
+08315;Neufmaison;08;eau potable;125817;2024;84,5;3,8;20,8;69,2;conforme;1692;1692;71;67;65;Non vérifié
+08316;Neufmanil;08;eau potable;211703;2024;61,7;11,4;18,4;68,7;non conforme;4567114;37488;104;280;985;Non vérifié
+08317;La Neuville-à-Maire;08;eau potable;125821;2024;100,0;0,0;5,9;66,2;conforme;0;0;0;0;116;Non vérifié
+08318;La Neuville-aux-Joûtes;08;eau potable;126014;2024;80,4;0,8;3,3;65,7;conforme;10804;7902;61;101;354;Non vérifié
+08319;Neuville-lez-Beaulieu;08;eau potable;126000;2024;88,0;0,2;4,2;65,8;conforme;19564;1428;12;24;320;Non vérifié
+08320;La Neuville-en-Tourne-à-Fuy;08;eau potable : UDP La Neuville en Tourne a Fuy;320794;2024;73,8;5,4;15,2;68,0;conforme;8870;8870;46;130;533;Non vérifié
+08321;Neuville-Day;08;eau potable : Neuville Day;125823;2024;59,3;5,6;8,2;66,6;non conforme;11794;11794;192;249;168;Non vérifié
+08322;Neuville-lès-This;08;eau potable;125824;2024;49,4;;;;non calculable;;;;;321;Non vérifié
+08324;Neuvizy;08;eau potable;125996;2024;88,4;1,3;9,9;67,0;conforme;23725;1723;38;51;124;Non vérifié
+08325;Noirval;08;eau potable;126017;2024;81,0;1,2;5,0;66,0;conforme;30660;142;14;87;28;Non vérifié
+08326;Nouart;08;eau potable;125825;2024;87,3;0,8;5,3;66,1;conforme;3008;3008;72;61;114;Non vérifié
+08327;Nouvion-sur-Meuse;08;eau potable;211703;2024;61,7;11,4;18,4;68,7;non conforme;4567114;85595;104;280;2249;Non vérifié
+08328;Nouzonville;08;eau potable;211703;2024;61,7;11,4;18,4;68,7;non conforme;4567114;210201;104;280;5523;Non vérifié
+08329;Novion-Porcien;08;eau potable;126011;2024;67,8;5,8;12,3;67,5;conforme;28325;15986;83;172;526;Non vérifié
+08330;Novy-Chevrières;08;eau potable : UDP Nanteuil Hussette;320894;2024;87,3;1,7;11,8;67,4;conforme;25962;8085;31;95;715;Non vérifié
+08331;Noyers-Pont-Maugis;08;eau potable;211703;2024;61,7;11,4;18,4;68,7;non conforme;4567114;25614;104;280;673;Non vérifié
+08332;Oches;08;eau potable;125829;2024;98,1;0,4;21,7;69,3;conforme;416;416;35;22;33;Non vérifié
+08333;Olizy-Primat;08;eau potable;126007;2024;80,3;1,8;7,4;66,5;conforme;11169;8414;103;89;223;Non vérifié
+08334;Omicourt;08;eau potable;125830;2024;90,7;5,9;57,2;76,4;conforme;1077;1077;70;38;42;Non vérifié
+08335;Omont;08;eau potable;125831;2024;88,6;0,2;1,8;65,4;conforme;256;256;10;40;68;Non vérifié
+08336;Osnes;08;eau potable;125969;2024;67,6;5,4;11,2;67,2;conforme;31536;5884;71;176;228;Non vérifié
+08338;Pauvres;08;eau potable;125832;2024;99,4;0,2;29,9;71,0;conforme;143;143;2;2;194;Non vérifié
+08339;Perthes;08;eau potable : UDP Tagnon;320414;2024;61,9;4,3;7,0;66,4;non conforme;39238;9875;89;225;303;Non vérifié
+08340;Poilcourt-Sydney;08;eau potable : UDP Houdilcourt;320814;2024;50,8;4,0;4,2;65,8;non conforme;43800;7441;116;352;176;Non vérifié
+08341;Poix-Terron;08;eau potable;125834;2024;81,0;3,5;14,9;68,0;conforme;10565;10565;33;86;883;Non vérifié
+08342;Pouru-aux-Bois;08;eau potable;211703;2024;61,7;11,4;18,4;68,7;non conforme;4567114;8906;104;280;234;Non vérifié
+08343;Pouru-Saint-Remy;08;eau potable;211703;2024;61,7;11,4;18,4;68,7;non conforme;4567114;42094;104;280;1106;Non vérifié
+08344;Prez;08;eau potable;126000;2024;88,0;0,2;4,2;65,8;conforme;19564;594;12;24;133;Non vérifié
+08346;Prix-lès-Mézières;08;eau potable;211703;2024;61,7;11,4;18,4;68,7;non conforme;4567114;53131;104;280;1396;Non vérifié
+08347;Puilly-et-Charbeaux;08;eau potable;125837;2024;87,6;0,8;5,8;66,2;conforme;2570;2570;32;50;219;Non vérifié
+08348;Puiseux;08;eau potable;125980;2024;86,5;1,3;8,3;66,7;conforme;34638;1584;40;85;108;Non vérifié
+08349;Pure;08;eau potable;125969;2024;67,6;5,4;11,2;67,2;conforme;31536;14710;71;176;570;Non vérifié
+08350;Quatre-Champs;08;eau potable;125839;2024;86,1;0,8;4,9;66,0;conforme;3212;3212;37;59;241;Non vérifié
+08351;Quilly;08;eau potable;125973;2024;79,3;1,1;4,2;65,8;conforme;16462;1274;55;95;64;Non vérifié
+08352;Raillicourt;08;eau potable;125996;2024;88,4;1,3;9,9;67,0;conforme;23725;3183;38;51;229;Non vérifié
+08353;Rancennes;08;eau potable : ex siaep Aviette - Rancennes Charnois;125959;2024;79,2;1,7;6,6;66,3;conforme;7750;7036;27;94;709;Non vérifié
+08354;Raucourt-et-Flaba;08;eau potable;125842;2024;79,0;1,1;4,2;65,8;conforme;10038;10038;34;95;813;Non vérifié
+08355;Regniowez;08;eau potable;126000;2024;88,0;0,2;4,2;65,8;conforme;19564;1647;12;24;369;Non vérifié
+08356;Remaucourt;08;eau potable;283854;2024;77,5;1,1;3,8;65,8;conforme;2329;2329;38;105;169;Non vérifié
+08357;Remilly-Aillicourt;08;eau potable;125844;2024;80,6;2,7;11,1;67,2;conforme;7588;7588;28;89;754;Non vérifié
+08358;Remilly-les-Pothées;08;eau potable;125846;2024;72,2;3,0;7,8;66,6;conforme;4479;4479;46;140;264;Non vérifié
+08360;Renneville;08;eau potable;126004;2024;66,6;2,3;4,6;65,9;conforme;85629;8861;130;187;187;Non vérifié
+08361;Renwez;08;eau potable;125849;2024;67,0;7,7;15,6;68,1;non conforme;39403;39403;65;181;1656;Non vérifié
+08362;Rethel;08;eau potable : dsp : Rethel, Biermes, Sault les Rethel;322054;2024;79,4;4,6;17,9;68,6;conforme;206517;159142;59;124;7444;Non vérifié
+08363;Revin;08;eau potable : Revin;125855;2024;77,9;5,2;18,2;68,6;conforme;82240;82240;39;107;5716;Non vérifié
+08364;Rilly-sur-Aisne;08;eau potable : Siaep de la lisiere;125979;2023;58,9;3,5;5,0;66,0;non conforme;25550;5991;136;258;121;Sans anomalie apparente
+08365;Rimogne;08;eau potable;125986;2024;76,5;2,9;9,4;66,9;conforme;24134;15845;33;112;1317;Non vérifié
+08366;Rocquigny;08;eau potable;126004;2024;66,6;2,3;4,6;65,9;conforme;85629;30660;130;187;647;Non vérifié
+08367;Rocroi;08;eau potable;126010;2021;78,7;2,0;7,4;66,5;conforme;83008;35939;43;99;2270;Sans anomalie apparente
+08368;Roizy;08;eau potable : UDP Houdilcourt;320814;2024;50,8;4,0;4,2;65,8;non conforme;43800;9555;116;352;226;Non vérifié
+08369;La Romagne;08;eau potable;125999;2024;74,2;1,4;4,1;65,8;conforme;20747;5838;123;138;130;Non vérifié
+08370;Rouvroy-sur-Audry;08;eau potable;125858;2024;94,9;5,1;94,6;83,9;conforme;12453;12453;68;168;503;Non vérifié
+08372;Rubigny;08;eau potable;126004;2024;66,6;2,3;4,6;65,9;conforme;85629;2606;130;187;55;Non vérifié
+08373;Rumigny;08;eau potable;125862;2024;84,7;0,7;4,1;65,8;conforme;2555;2555;27;62;263;Non vérifié
+08374;La Sabotterie;08;eau potable;125966;2024;81,0;1,6;7,0;66,4;conforme;12731;3037;64;128;130;Non vérifié
+08375;Sachy;08;eau potable;125864;2024;28,5;13,1;5,2;66,0;non conforme;14823;14823;232;918;175;Non vérifié
+08376;Sailly;08;eau potable;125865;2024;49,6;7,9;7,8;66,6;non conforme;12111;12111;133;369;249;Non vérifié
+08377;Saint-Aignan;08;eau potable;211703;2024;61,7;11,4;18,4;68,7;non conforme;4567114;5785;104;280;152;Non vérifié
+08378;Saint-Clément-à-Arnes;08;eau potable;125993;2024;89,3;0,8;6,4;66,3;conforme;1197;758;19;46;112;Non vérifié
+08379;Saint-Étienne-à-Arnes;08;eau potable;125867;2024;32,6;21,1;10,2;67,0;non conforme;32038;32038;358;753;245;Non vérifié
+08380;Saint-Fergeux;08;eau potable : UDP Saint Fergeux;320755;2024;73,0;7,3;19,6;68,9;conforme;16147;11388;146;306;213;Non vérifié
+08381;Saint-Germainmont;08;eau potable : UDP Saint Germainmont;320514;2024;82,7;2,4;11,6;67,3;conforme;6570;6570;22;76;806;Non vérifié
+08382;Saint-Jean-aux-Bois;08;eau potable;126004;2024;66,6;2,3;4,6;65,9;conforme;85629;4312;130;187;91;Non vérifié
+08383;Saint-Juvin;08;eau potable;126015;2024;91,7;0,5;5,0;66,0;conforme;4928;2097;57;40;100;Non vérifié
+08384;Saint-Lambert-et-Mont-de-Jeux;08;eau potable : Siaep de la lisiere;125979;2023;58,9;3,5;5,0;66,0;non conforme;25550;6090;136;258;123;Sans anomalie apparente
+08385;Saint-Laurent;08;eau potable;211703;2024;61,7;11,4;18,4;68,7;non conforme;4567114;39962;104;280;1050;Non vérifié
+08386;Saint-Loup-en-Champagne;08;eau potable : UDP Saint Loup en Champagne;320535;2024;0,0;14,3;0,0;65,0;non conforme;18268;18268;145;96;345;Non vérifié
+08387;Saint-Loup-Terrier;08;eau potable : Sint Loup Terrier;207056;2024;84,6;2,7;5,5;66,1;non calculable;21681;5382;84;204;175;Non vérifié
+08388;Saint-Marceau;08;eau potable;125875;2024;70,5;2,7;6,4;66,3;conforme;7884;7884;61;154;357;Non vérifié
+08389;Saint-Marcel;08;eau potable;125877;2024;85,7;2,6;15,8;68,2;conforme;3018;3018;25;60;325;Non vérifié
+08390;Sainte-Marie;08;eau potable;125973;2024;79,3;1,1;4,2;65,8;conforme;16462;1493;55;95;75;Non vérifié
+08391;Saint-Menges;08;eau potable;211703;2024;61,7;11,4;18,4;68,7;non conforme;4567114;35091;104;280;922;Non vérifié
+08392;Saint-Morel;08;eau potable;125983;2024;91,1;0,5;5,6;66,1;conforme;6388;1454;23;33;176;Non vérifié
+08393;Saint-Pierre-à-Arnes;08;eau potable;125993;2024;89,3;0,8;6,4;66,3;conforme;1197;440;19;46;65;Non vérifié
+08394;Saint-Pierremont;08;eau potable;125879;2024;87,9;;;;non calculable;;;;;70;Non vérifié
+08395;Saint-Pierre-sur-Vence;08;eau potable;125976;2024;66,7;6,0;12,0;67,4;non conforme;24090;9270;167;250;152;Non vérifié
+08396;Saint-Quentin-le-Petit;08;eau potable : UDP Saint Quentin le Petit;320534;2024;100,0;0,0;7,0;66,4;conforme;0;0;0;0;126;Non vérifié
+08397;Saint-Remy-le-Petit;08;eau potable : UDP Neuflize;320694;2024;49,6;8,5;8,4;66,7;non conforme;124100;2648;130;370;56;Non vérifié
+08398;Sainte-Vaubourg;08;eau potable : Sainte Vaubourg;206126;2024;91,0;2,8;28,6;70,7;conforme;1737;1737;60;36;79;Non vérifié
+08399;Sapogne-sur-Marche;08;eau potable;125883;2024;86,6;0,7;4,3;65,9;conforme;843;843;15;60;154;Non vérifié
+08400;Sapogne-et-Feuchères;08;eau potable;211703;2024;61,7;11,4;18,4;68,7;non conforme;4567114;19562;104;280;514;Non vérifié
+08401;Saulces-Champenoises;08;eau potable;125978;2024;71,2;2,6;6,4;66,3;conforme;13988;6316;79;147;219;Non vérifié
+08402;Saulces-Monclin;08;eau potable;125980;2024;86,5;1,3;8,3;66,7;conforme;34638;12280;40;85;837;Non vérifié
+08403;Sault-lès-Rethel;08;eau potable : dsp : Rethel, Biermes, Sault les Rethel;322054;2024;79,4;4,6;17,9;68,6;conforme;206517;40619;59;124;1900;Non vérifié
+08404;Sault-Saint-Remy;08;eau potable : UDP Houdilcourt;320814;2024;50,8;4,0;4,2;65,8;non conforme;43800;8752;116;352;207;Non vérifié
+08405;Sauville;08;eau potable;126006;2024;74,4;3,1;9,0;66,8;conforme;42997;5916;67;177;243;Non vérifié
+08406;Savigny-sur-Aisne;08;eau potable : Savigny sur aisne;125887;2024;86,8;1,1;7,1;66,4;conforme;3332;3332;27;56;334;Non vérifié
+08407;Séchault;08;eau potable;125983;2024;91,1;0,5;5,6;66,1;conforme;6388;488;23;33;59;Non vérifié
+08408;Sécheval;08;eau potable;211703;2024;61,7;11,4;18,4;68,7;non conforme;4567114;19677;104;280;517;Non vérifié
+08409;Sedan;08;eau potable;211703;2024;61,7;11,4;18,4;68,7;non conforme;4567114;634334;104;280;16667;Non vérifié
+08411;Semuy;08;eau potable : Semuy;206127;2024;84,0;0,8;4,2;65,8;conforme;759;759;24;70;87;Non vérifié
+08412;Senuc;08;eau potable;125894;2024;49,3;11,1;10,8;67,2;non conforme;7050;7050;126;376;153;Non vérifié
+08413;Seraincourt;08;eau potable : UDP Hannogne Saint Remy;320634;2024;93,1;0,6;7,7;66,5;conforme;1535;1071;12;28;254;Non vérifié
+08415;Sery;08;eau potable;126011;2024;67,8;5,8;12,3;67,5;conforme;28325;9574;83;172;315;Non vérifié
+08416;Seuil;08;eau potable : UDP Seuil;320654;2024;64,0;3,7;6,6;66,3;non conforme;16503;7133;106;204;185;Non vérifié
+08417;Sévigny-la-Forêt;08;eau potable;126010;2021;78,7;2,0;7,4;66,5;conforme;83008;4275;43;99;270;Sans anomalie apparente
+08418;Sévigny-Waleppe;08;eau potable : UDP Sevigny Waleppe;320594;2024;50,4;3,4;3,4;65,7;non conforme;10263;10263;129;364;218;Non vérifié
+08419;Signy-l'Abbaye;08;eau potable;126012;2024;68,6;2,8;6,2;66,2;conforme;89936;48759;99;164;1344;Non vérifié
+08420;Signy-le-Petit;08;eau potable;126013;2024;67,4;8,7;18,1;68,6;non conforme;17465;15498;35;176;1213;Non vérifié
+08421;Signy-Montlibert;08;eau potable;125900;2024;98,5;0,2;12,4;67,5;conforme;292;292;9;6;93;Non vérifié
+08422;Singly;08;eau potable;125901;2024;70,1;5,5;12,8;67,6;conforme;6565;6565;129;156;139;Non vérifié
+08424;Sommauthe;08;eau potable;202420;2024;64,9;8,6;15,8;68,2;non conforme;6435;6435;134;198;132;Non vérifié
+08425;Sommerance;08;eau potable;126015;2024;91,7;0,5;5,0;66,0;conforme;4928;1048;57;40;50;Non vérifié
+08426;Son;08;eau potable : UDP Saint Fergeux;320755;2024;73,0;7,3;19,6;68,9;conforme;16147;4759;146;306;89;Non vérifié
+08427;Sorbon;08;eau potable : UDP Nanteuil Sorbon;320914;2024;57,3;2,7;3,7;65,7;non conforme;26471;8680;107;268;222;Non vérifié
+08428;Sorcy-Bauthémont;08;eau potable;125980;2024;86,5;1,3;8,3;66,7;conforme;34638;2142;40;85;146;Non vérifié
+08429;Sormonne;08;eau potable;197992;2024;58,0;5,0;7,0;66,4;non conforme;14600;14600;76;262;529;Non vérifié
+08431;Sugny;08;eau potable;125973;2024;79,3;1,1;4,2;65,8;conforme;16462;1831;55;95;92;Non vérifié
+08432;Sury;08;eau potable;125904;2024;95,5;0,2;5,2;66,0;conforme;150;150;4;14;94;Non vérifié
+08433;Suzanne;08;eau potable : Siaep de la lisiere;125979;2023;58,9;3,5;5,0;66,0;non conforme;25550;2674;136;258;54;Sans anomalie apparente
+08434;Sy;08;eau potable;125905;2024;92,6;0,9;11,3;67,3;conforme;719;719;34;29;58;Non vérifié
+08435;Tagnon;08;eau potable : UDP Tagnon;320414;2024;61,9;4,3;7,0;66,4;non conforme;39238;29363;89;225;901;Non vérifié
+08436;Taillette;08;eau potable;126010;2021;78,7;2,0;7,4;66,5;conforme;83008;6444;43;99;407;Sans anomalie apparente
+08437;Tailly;08;eau potable;125908;2020;71,4;2,9;7,3;66,5;conforme;19053;19053;287;194;182;Sans anomalie apparente
+08438;Taizy;08;eau potable : UDP Nanteuil sur Aisne;320934;2024;5,2;3,3;0,2;65,0;non conforme;10058;3999;111;6798;99;Non vérifié
+08439;Tannay;08;eau potable;126006;2024;74,4;3,1;9,0;66,8;conforme;42997;3969;67;177;163;Non vérifié
+08440;Tarzy;08;eau potable : SE région Aubenton-DSP Sa 07/07/34 - P,T,D;124525;2024;52,3;3,0;3,3;65,7;non conforme;157297;7289;158;329;126;Non vérifié
+08444;Tétaigne;08;eau potable;125911;2024;90,9;0,2;2,3;65,5;conforme;511;511;10;31;134;Non vérifié
+08445;Thelonne;08;eau potable;211703;2024;61,7;11,4;18,4;68,7;non conforme;4567114;15414;104;280;405;Non vérifié
+08446;Thénorgues;08;eau potable;126009;2024;96,0;0,9;21,2;69,2;conforme;5584;834;27;28;85;Non vérifié
+08448;Thilay;08;eau potable;125914;2024;84,8;1,4;7,7;66,5;conforme;7154;7154;20;66;958;Non vérifié
+08449;Thin-le-Moutier;08;eau potable;126012;2024;68,6;2,8;6,2;66,2;conforme;89936;25468;99;164;702;Non vérifié
+08450;This;08;eau potable;125916;2024;47,9;10,6;9,7;66,9;non conforme;10253;10253;125;399;224;Non vérifié
+08451;Le Thour;08;eau potable : regie;211706;2024;81,6;2,5;11,0;67,2;conforme;506438;8981;69;96;357;Non vérifié
+08452;Thugny-Trugny;08;eau potable : UDP Seuil;320654;2024;64,0;3,7;6,6;66,3;non conforme;16503;9370;106;204;243;Non vérifié
+08453;Toges;08;eau potable : Toges;125918;2024;80,7;1,4;5,8;66,2;conforme;986;986;30;89;90;Non vérifié
+08454;Touligny;08;eau potable;125996;2024;88,4;1,3;9,9;67,0;conforme;23725;1154;38;51;83;Non vérifié
+08455;Tourcelles-Chaumont;08;eau potable;125973;2024;79,3;1,1;4,2;65,8;conforme;16462;1672;55;95;84;Non vérifié
+08456;Tournavaux;08;eau potable;125988;2024;73,8;2,3;6,4;66,3;conforme;5255;3819;45;130;234;Non vérifié
+08457;Tournes;08;eau potable;211703;2024;61,7;11,4;18,4;68,7;non conforme;4567114;40153;104;280;1055;Non vérifié
+08458;Tourteron;08;eau potable;125994;2024;66,9;2,7;5,5;66,1;conforme;21681;5443;84;204;177;Non vérifié
+08459;Tremblois-lès-Carignan;08;eau potable;125962;2024;51,3;20,4;21,4;69,3;non conforme;37230;12933;268;348;132;Non vérifié
+08461;Vandy;08;eau potable;126017;2024;81,0;1,2;5,0;66,0;conforme;30660;1035;14;87;204;Non vérifié
+08462;Vaux-Champagne;08;eau potable : Vaux Champagne;202426;2024;63,1;2,1;3,5;65,7;non conforme;5205;5205;96;218;148;Non vérifié
+08463;Vaux-en-Dieulet;08;eau potable;202425;2024;62,0;6,2;10,1;67,0;non conforme;3168;3168;164;224;53;Non vérifié
+08464;Vaux-lès-Mouron;08;eau potable;125922;2024;91,2;0,9;9,7;66,9;conforme;562;562;20;34;77;Non vérifié
+08465;Vaux-lès-Rubigny;08;eau potable;126004;2024;66,6;2,3;4,6;65,9;conforme;85629;2132;130;187;45;Non vérifié
+08467;Vaux-Montreuil;08;eau potable;125970;2024;96,8;0,2;7,1;66,4;conforme;721;243;6;10;110;Non vérifié
+08468;Vaux-Villaine;08;eau potable;126012;2024;68,6;2,8;6,2;66,2;conforme;89936;6748;99;164;186;Non vérifié
+08469;Vendresse;08;eau potable;125924;2024;100,0;0,0;9,7;66,9;conforme;0;0;0;0;486;Non vérifié
+08470;Verpel;08;eau potable;126009;2024;96,0;0,9;21,2;69,2;conforme;5584;609;27;28;62;Non vérifié
+08471;Verrières;08;eau potable;126017;2024;81,0;1,2;5,0;66,0;conforme;30660;167;14;87;33;Non vérifié
+08472;Viel-Saint-Remy;08;eau potable;125925;2024;85,2;0,9;5,2;66,0;conforme;6747;6747;61;64;302;Non vérifié
+08473;Vieux-lès-Asfeld;08;eau potable : UDP Asfeld;320714;2024;36,2;14,4;8,2;66,6;non conforme;129298;20049;187;643;294;Non vérifié
+08476;Villers-devant-le-Thour;08;eau potable : UDI Villers devant le Thour;320574;2024;42,1;32,6;23,7;69,7;non conforme;36530;36530;242;892;414;Non vérifié
+08477;Villers-devant-Mouzon;08;eau potable;125927;2024;92,0;3,6;41,5;73,3;conforme;4073;4073;109;179;102;Non vérifié
+08478;Villers-le-Tilleul;08;eau potable;125928;2024;89,3;0,8;6,9;66,4;conforme;2400;2400;27;42;240;Non vérifié
+08479;Villers-le-Tourneur;08;eau potable;125996;2024;88,4;1,3;9,9;67,0;conforme;23725;3016;38;51;217;Non vérifié
+08480;Villers-Semeuse;08;eau potable;211703;2024;61,7;11,4;18,4;68,7;non conforme;4567114;137584;104;280;3615;Non vérifié
+08481;Villers-sur-Bar;08;eau potable;211703;2024;61,7;11,4;18,4;68,7;non conforme;4567114;8906;104;280;234;Non vérifié
+08482;Villers-sur-le-Mont;08;eau potable;125931;2024;90,5;0,7;6,9;66,4;conforme;1155;1155;31;37;101;Non vérifié
+08483;Ville-sur-Lumes;08;eau potable;211703;2024;61,7;11,4;18,4;68,7;non conforme;4567114;20171;104;280;530;Non vérifié
+08484;Ville-sur-Retourne;08;eau potable : UDP Juniville;320674;2024;71,8;0,8;2,0;65,4;conforme;30864;1366;51;146;73;Non vérifié
+08485;Villy;08;eau potable;125935;2024;75,9;2,2;6,9;66,4;conforme;5083;5083;73;116;191;Non vérifié
+08486;Vireux-Molhain;08;eau potable : Vireux Molhain;298374;2024;91,2;1,0;9,8;67,0;conforme;8870;8870;16;46;1504;Non vérifié
+08487;Vireux-Wallerand;08;eau potable : Vireux Wallerand;125939;2024;62,0;8,5;13,8;67,8;non conforme;48647;48647;74;225;1803;Non vérifié
+08488;Vivier-au-Court;08;eau potable;211703;2024;61,7;11,4;18,4;68,7;non conforme;4567114;103978;104;280;2732;Non vérifié
+08489;Voncq;08;eau potable : Voncq;206130;2024;93,1;0,6;8,5;66,7;conforme;1117;1117;15;26;210;Non vérifié
+08490;Vouziers;08;eau potable : vouziers;222818;2024;62,8;7,1;11,9;67,4;non conforme;111642;111642;80;217;3825;Non vérifié
+08491;Vrigne aux Bois;08;eau potable;211703;2024;61,7;11,4;18,4;68,7;non conforme;4567114;133893;104;280;3518;Non vérifié
+08492;Vrigne-Meuse;08;eau potable;211703;2024;61,7;11,4;18,4;68,7;non conforme;4567114;12598;104;280;331;Non vérifié
+08494;Wadelincourt;08;eau potable;211703;2024;61,7;11,4;18,4;68,7;non conforme;4567114;17012;104;280;447;Non vérifié
+08496;Wagnon;08;eau potable;125951;2024;99,8;0,0;14,4;67,9;conforme;0;0;0;0;106;Non vérifié
+08497;Warcq;08;eau potable;211703;2024;61,7;11,4;18,4;68,7;non conforme;4567114;48792;104;280;1282;Non vérifié
+08500;Wignicourt;08;eau potable;125970;2024;96,8;0,2;7,1;66,4;conforme;721;126;6;10;57;Non vérifié
+08501;Williers;08;eau potable;125954;2024;47,9;2,3;2,1;65,4;non conforme;2099;2099;147;392;39;Non vérifié
+08503;Yvernaumont;08;eau potable;125976;2024;66,7;6,0;12,0;67,4;non conforme;24090;7197;167;250;118;Non vérifié

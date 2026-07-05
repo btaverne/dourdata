@@ -1,0 +1,342 @@
+﻿# DourData — eau perdue par les réseaux d'eau potable (indicateurs SISPEA)
+# Périmètre : Département 35
+# Source : SISPEA — Système d'Information des Services Publics d'Eau et d'Assainissement, via data.gouv.fr / services.eaufrance.fr
+# Licence : Licence Ouverte 2.0 (Etalab)
+# Millésime des données : 2020–2024 (année la plus récente disponible par commune)
+# Date de génération de l'export : 2026-07-05
+# Méthodologie et code : https://github.com/btaverne/dourdata
+# Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
+# Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
+35001;Acigné;35;eau potable : 06-Centre Est Montfort;77774;2024;92,0;1,1;12,2;67,4;conforme;200120;27788;11;33;6874;Non vérifié
+35002;Amanlis;35;eau potable;77764;2024;86,0;1,0;6,0;66,2;conforme;405624;20177;31;65;1768;Non vérifié
+35003;Andouillé-Neuville;35;eau potable : 09 - Aubigné-Feins-Montreuil-AndouilléNeuville (AFMA);77755;2024;77,8;1,2;4,3;65,9;conforme;47878;9809;26;102;1017;Non vérifié
+35004;Val-Couesnon;35;eau potable : SMEA;77790;2024;80,9;0,9;3,9;65,8;conforme;129002;65942;44;104;4072;Non vérifié
+35005;Arbrissel;35;eau potable;77764;2024;86,0;1,0;6,0;66,2;conforme;405624;3036;31;65;266;Non vérifié
+35006;Argentré-du-Plessis;35;eau potable : ex SIE de Chateaubourg;77760;2024;90,9;1,0;9,6;66,9;conforme;470032;34350;20;45;4633;Non vérifié
+35007;Aubigné;35;eau potable : 09 - Aubigné-Feins-Montreuil-AndouilléNeuville (AFMA);77755;2024;77,8;1,2;4,3;65,9;conforme;47878;4369;26;102;453;Non vérifié
+35008;Availles-sur-Seiche;35;eau potable : Vitré Sud;296074;2024;95,0;0,9;17,7;68,5;conforme;245137;4158;18;37;630;Non vérifié
+35009;Baguer-Morvan;35;eau potable;77756;2024;88,9;0,8;6,2;66,2;conforme;370548;9368;15;47;1702;Non vérifié
+35010;Baguer-Pican;35;eau potable;77756;2024;88,9;0,8;6,2;66,2;conforme;370548;9665;15;47;1756;Non vérifié
+35012;Bain-de-Bretagne;35;eau potable;77791;2024;74,4;1,5;4,3;65,9;conforme;225187;77730;28;126;7674;Non vérifié
+35013;Bains-sur-Oust;35;eau potable : ex SIVOM Port de Roche;77779;2024;74,2;1,4;3,9;65,8;conforme;222653;46304;36;155;3535;Non vérifié
+35014;Bais;35;eau potable : Vitré Sud;296074;2024;95,0;0,9;17,7;68,5;conforme;245137;16756;18;37;2539;Non vérifié
+35015;Balazé;35;eau potable : ex SIEPMV;222057;2024;89,6;0,9;8,2;66,6;conforme;143203;22116;28;126;2162;Non vérifié
+35016;Baulon;35;eau potable;77763;2024;85,7;0,7;4,4;65,9;conforme;147832;9397;12;75;2210;Non vérifié
+35017;La Baussaine;35;eau potable : Communauté de Communes Bretagne Romantique;77772;2024;84,1;1,2;6,4;66,3;conforme;439305;8066;33;112;675;Non vérifié
+35018;La Bazouge-du-Désert;35;eau potable : distribution - ex SIVOM Bazouge du Désert - Louvigné du Désert;77792;2020;84,9;0,5;2,6;65,5;conforme;75537;10091;25;70;1095;Sans anomalie apparente
+35019;Bazouges-la-Pérouse;35;eau potable : SMEA;77790;2024;80,9;0,9;3,9;65,8;conforme;129002;30396;44;104;1877;Non vérifié
+35021;Beaucé;35;eau potable : distribution - ex SIE des Eaux du Chesne;77761;2024;84,5;0,6;3,1;65,6;conforme;231395;20693;45;77;1256;Non vérifié
+35022;Bécherel;35;eau potable : 04-Secteur Ouest;219034;2024;88,8;1,1;8,6;66,7;conforme;585724;4820;20;61;677;Non vérifié
+35023;Bédée;35;eau potable : 04-Secteur Ouest;219034;2024;88,8;1,1;8,6;66,7;conforme;585724;33192;20;61;4662;Non vérifié
+35024;Betton;35;eau potable : 03-Nord de Rennes;77773;2024;84,3;2,0;10,5;67,1;conforme;505890;101139;21;70;12964;Non vérifié
+35025;Billé;35;eau potable : distribution - ex SIE des Eaux du Chesne;77761;2024;84,5;0,6;3,1;65,6;conforme;231395;16640;45;77;1010;Non vérifié
+35026;Bléruais;35;eau potable;77769;2024;89,9;1,0;8,5;66,7;conforme;254478;1019;29;48;97;Non vérifié
+35027;Boisgervilly;35;eau potable;77769;2024;89,9;1,0;8,5;66,7;conforme;254478;18957;29;48;1804;Non vérifié
+35028;Boistrudan;35;eau potable;77764;2024;86,0;1,0;6,0;66,2;conforme;405624;8308;31;65;728;Non vérifié
+35029;Bonnemain;35;eau potable : Communauté de Communes Bretagne Romantique;77772;2024;84,1;1,2;6,4;66,3;conforme;439305;18355;33;112;1536;Non vérifié
+35030;La Bosse-de-Bretagne;35;eau potable;77764;2024;86,0;1,0;6,0;66,2;conforme;405624;7943;31;65;696;Non vérifié
+35031;La Bouëxière;35;eau potable : ex SIE de Chateaubourg;77760;2024;90,9;1,0;9,6;66,9;conforme;470032;34602;20;45;4667;Non vérifié
+35032;Bourgbarré;35;eau potable : 02-Secteur Sud;77785;2024;90,3;1,4;12,7;67,5;conforme;388871;19692;11;41;4804;Non vérifié
+35033;Bourg-des-Comptes;35;eau potable;77757;2024;77,1;1,2;4,1;65,8;conforme;540448;33860;27;108;3411;Non vérifié
+35034;La Boussac;35;eau potable;77756;2024;88,9;0,8;6,2;66,2;conforme;370548;6996;15;47;1271;Non vérifié
+35035;Bovel;35;eau potable;77757;2024;77,1;1,2;4,1;65,8;conforme;540448;6135;27;108;618;Non vérifié
+35037;Bréal-sous-Montfort;35;eau potable : 04-Secteur Ouest;219034;2024;88,8;1,1;8,6;66,7;conforme;585724;45502;20;61;6391;Non vérifié
+35038;Bréal-sous-Vitré;35;eau potable : ex SIEPMV;222057;2024;89,6;0,9;8,2;66,6;conforme;143203;6260;28;126;612;Non vérifié
+35039;Brécé;35;eau potable : 06-Centre Est Montfort;77774;2024;92,0;1,1;12,2;67,4;conforme;200120;9023;11;33;2232;Non vérifié
+35040;Breteil;35;eau potable : 04-Secteur Ouest;219034;2024;88,8;1,1;8,6;66,7;conforme;585724;26165;20;61;3675;Non vérifié
+35041;Brie;35;eau potable;77764;2024;86,0;1,0;6,0;66,2;conforme;405624;11275;31;65;988;Non vérifié
+35042;Brielles;35;eau potable : Vitré Sud;296074;2024;95,0;0,9;17,7;68,5;conforme;245137;4567;18;37;692;Non vérifié
+35044;Broualan;35;eau potable;77756;2024;88,9;0,8;6,2;66,2;conforme;370548;2284;15;47;415;Non vérifié
+35045;Bruc-sur-Aff;35;eau potable;77757;2024;77,1;1,2;4,1;65,8;conforme;540448;8487;27;108;855;Non vérifié
+35046;Les Brulais;35;eau potable;77757;2024;77,1;1,2;4,1;65,8;conforme;540448;5380;27;108;542;Non vérifié
+35047;Bruz;35;eau potable : 02-Secteur Sud;77785;2024;90,3;1,4;12,7;67,5;conforme;388871;80682;11;41;19683;Non vérifié
+35049;Cancale;35;eau potable;77756;2024;88,9;0,8;6,2;66,2;conforme;370548;31218;15;47;5672;Non vérifié
+35050;Cardroc;35;eau potable : Communauté de Communes Bretagne Romantique;77772;2024;84,1;1,2;6,4;66,3;conforme;439305;7038;33;112;589;Non vérifié
+35051;Cesson-Sévigné;35;eau potable : 05-Cesson-Sévigné;77505;2024;95,7;0,9;20,2;69,0;conforme;48152;48152;7;16;18761;Non vérifié
+35052;Champeaux;35;eau potable : ex SIE de Chateaubourg;77760;2024;90,9;1,0;9,6;66,9;conforme;470032;3744;20;45;505;Non vérifié
+35054;Chanteloup;35;eau potable;77757;2024;77,1;1,2;4,1;65,8;conforme;540448;18980;27;108;1912;Non vérifié
+35055;Chantepie;35;eau potable : 02-Secteur Sud;77785;2024;90,3;1,4;12,7;67,5;conforme;388871;43737;11;41;10670;Non vérifié
+35056;La Chapelle-aux-Filtzméens;35;eau potable : Communauté de Communes Bretagne Romantique;77772;2024;84,1;1,2;6,4;66,3;conforme;439305;9847;33;112;824;Non vérifié
+35057;La Chapelle-Bouëxic;35;eau potable;77757;2024;77,1;1,2;4,1;65,8;conforme;540448;15257;27;108;1537;Non vérifié
+35058;La Chapelle-Chaussée;35;eau potable : 04-Secteur Ouest;219034;2024;88,8;1,1;8,6;66,7;conforme;585724;9241;20;61;1298;Non vérifié
+35059;La Chapelle-des-Fougeretz;35;eau potable : 03-Nord de Rennes;77773;2024;84,3;2,0;10,5;67,1;conforme;505890;36964;21;70;4738;Non vérifié
+35060;La Chapelle du Lou du Lac;35;eau potable;77769;2024;89,9;1,0;8,5;66,7;conforme;254478;11034;29;48;1050;Non vérifié
+35061;La Chapelle-Erbrée;35;eau potable : ex SIEPMV;222057;2024;89,6;0,9;8,2;66,6;conforme;143203;7335;28;126;717;Non vérifié
+35062;La Chapelle-Fleurigné;35;eau potable : distribution - ex SIE des Eaux du Chesne;77761;2024;84,5;0,6;3,1;65,6;conforme;231395;40381;45;77;2451;Non vérifié
+35063;La Chapelle-Saint-Aubert;35;eau potable : distribution - ex SIE des Eaux du Chesne;77761;2024;84,5;0,6;3,1;65,6;conforme;231395;7892;45;77;479;Non vérifié
+35064;La Chapelle-de-Brain;35;eau potable : ex SIVOM Port de Roche;77779;2024;74,2;1,4;3,9;65,8;conforme;222653;14592;36;155;1114;Non vérifié
+35065;La Chapelle-Thouarault;35;eau potable : 04-Secteur Ouest;219034;2024;88,8;1,1;8,6;66,7;conforme;585724;16404;20;61;2304;Non vérifié
+35066;Chartres-de-Bretagne;35;eau potable : 02-Secteur Sud;77785;2024;90,3;1,4;12,7;67,5;conforme;388871;36400;11;41;8880;Non vérifié
+35067;Chasné-sur-Illet;35;eau potable : Secteur Chasné/Illet, Ercé-près-Liffré et Gosné - ex SIE St Aubin d'Aubigné;302514;2020;93,5;0,5;7,4;66,5;conforme;22320;6572;10;34;1744;Sans anomalie apparente
+35068;Châteaubourg;35;eau potable : ex SIE de Chateaubourg;77760;2024;90,9;1,0;9,6;66,9;conforme;470032;55850;20;45;7533;Non vérifié
+35069;Châteaugiron;35;eau potable : ex SIE de Chateaubourg;77760;2024;90,9;1,0;9,6;66,9;conforme;470032;80406;20;45;10845;Non vérifié
+35070;Châteauneuf-d'Ille-et-Vilaine;35;eau potable;77756;2024;88,9;0,8;6,2;66,2;conforme;370548;9159;15;47;1664;Non vérifié
+35071;Le Châtellier;35;eau potable;77776;2024;91,8;0,4;5,0;66,0;conforme;89410;2216;14;30;430;Non vérifié
+35072;Châtillon-en-Vendelais;35;eau potable : ex SIEPMV;222057;2024;89,6;0,9;8,2;66,6;conforme;143203;18157;28;126;1775;Non vérifié
+35075;Chauvigné;35;eau potable;77789;2024;92,5;0,3;3,1;65,6;conforme;16381;3474;12;42;810;Non vérifié
+35076;Chavagne;35;eau potable : 04-Secteur Ouest;219034;2024;88,8;1,1;8,6;66,7;conforme;585724;33526;20;61;4709;Non vérifié
+35077;Chelun;35;eau potable;77764;2024;86,0;1,0;6,0;66,2;conforme;405624;4143;31;65;363;Non vérifié
+35078;Cherrueix;35;eau potable;77756;2024;88,9;0,8;6,2;66,2;conforme;370548;6098;15;47;1108;Non vérifié
+35079;Chevaigné;35;eau potable : 03-Nord de Rennes;77773;2024;84,3;2,0;10,5;67,1;conforme;505890;18700;21;70;2397;Non vérifié
+35080;Cintré;35;eau potable : 04-Secteur Ouest;219034;2024;88,8;1,1;8,6;66,7;conforme;585724;18831;20;61;2645;Non vérifié
+35081;Clayes;35;eau potable : 04-Secteur Ouest;219034;2024;88,8;1,1;8,6;66,7;conforme;585724;6742;20;61;947;Non vérifié
+35082;Coësmes;35;eau potable;77764;2024;86,0;1,0;6,0;66,2;conforme;405624;16274;31;65;1426;Non vérifié
+35084;Comblessac;35;eau potable;77757;2024;77,1;1,2;4,1;65,8;conforme;540448;6661;27;108;671;Non vérifié
+35085;Combourg;35;eau potable : Communauté de Communes Bretagne Romantique;77772;2024;84,1;1,2;6,4;66,3;conforme;439305;76609;33;112;6411;Non vérifié
+35086;Combourtillé;35;eau potable : distribution - ex SIE des Eaux du Chesne;77761;2024;84,5;0,6;3,1;65,6;conforme;231395;10050;45;77;610;Non vérifié
+35087;Cornillé;35;eau potable : ex SIE de Chateaubourg;77760;2024;90,9;1,0;9,6;66,9;conforme;470032;7125;20;45;961;Non vérifié
+35088;Corps-Nuds;35;eau potable : 02-Secteur Sud;77785;2024;90,3;1,4;12,7;67,5;conforme;388871;14621;11;41;3567;Non vérifié
+35089;La Couyère;35;eau potable;77764;2024;86,0;1,0;6,0;66,2;conforme;405624;5113;31;65;448;Non vérifié
+35090;Crevin;35;eau potable;77757;2024;77,1;1,2;4,1;65,8;conforme;540448;27983;27;108;2819;Non vérifié
+35091;Le Crouais;35;eau potable;77769;2024;89,9;1,0;8,5;66,7;conforme;254478;6221;29;48;592;Non vérifié
+35092;Cuguen;35;eau potable : Communauté de Communes Bretagne Romantique;77772;2024;84,1;1,2;6,4;66,3;conforme;439305;9894;33;112;828;Non vérifié
+35093;Dinard;35;eau potable;77538;2024;86,5;3,4;22,0;69,4;conforme;119943;119943;31;57;10772;Non vérifié
+35094;Dingé;35;eau potable : Communauté de Communes Bretagne Romantique;77772;2024;84,1;1,2;6,4;66,3;conforme;439305;20374;33;112;1705;Non vérifié
+35095;Dol-de-Bretagne;35;eau potable;77756;2024;88,9;0,8;6,2;66,2;conforme;370548;32083;15;47;5829;Non vérifié
+35096;Domagné;35;eau potable : ex SIE de Chateaubourg;77760;2024;90,9;1,0;9,6;66,9;conforme;470032;18469;20;45;2491;Non vérifié
+35097;Domalain;35;eau potable : Vitré Sud;296074;2024;95,0;0,9;17,7;68,5;conforme;245137;13562;18;37;2055;Non vérifié
+35098;La Dominelais;35;eau potable;77791;2024;74,4;1,5;4,3;65,9;conforme;225187;14424;28;126;1424;Non vérifié
+35099;Domloup;35;eau potable : ex SIE de Chateaubourg;77760;2024;90,9;1,0;9,6;66,9;conforme;470032;28745;20;45;3877;Non vérifié
+35101;Dourdain;35;eau potable : Val d'Izé Distribution;333094;2024;86,3;0,8;5,1;66,0;conforme;55883;8572;19;93;1237;Non vérifié
+35102;Drouges;35;eau potable : Vitré Sud;296074;2024;95,0;0,9;17,7;68,5;conforme;245137;3313;18;37;502;Non vérifié
+35103;Eancé;35;eau potable;77764;2024;86,0;1,0;6,0;66,2;conforme;405624;4896;31;65;429;Non vérifié
+35104;Epiniac;35;eau potable;77756;2024;88,9;0,8;6,2;66,2;conforme;370548;7915;15;47;1438;Non vérifié
+35105;Erbrée;35;eau potable : ex SIEPMV;222057;2024;89,6;0,9;8,2;66,6;conforme;143203;17421;28;126;1703;Non vérifié
+35106;Ercé-en-Lamée;35;eau potable;77764;2024;86,0;1,0;6,0;66,2;conforme;405624;17872;31;65;1566;Non vérifié
+35107;Ercé-près-Liffré;35;eau potable : Secteur Chasné/Illet, Ercé-près-Liffré et Gosné - ex SIE St Aubin d'Aubigné;302514;2020;93,5;0,5;7,4;66,5;conforme;22320;7665;10;34;2034;Sans anomalie apparente
+35108;Essé;35;eau potable;77764;2024;86,0;1,0;6,0;66,2;conforme;405624;11732;31;65;1028;Non vérifié
+35109;Étrelles;35;eau potable : ex SIE de Chateaubourg;77760;2024;90,9;1,0;9,6;66,9;conforme;470032;20040;20;45;2703;Non vérifié
+35110;Feins;35;eau potable : 09 - Aubigné-Feins-Montreuil-AndouilléNeuville (AFMA);77755;2024;77,8;1,2;4,3;65,9;conforme;47878;10359;26;102;1074;Non vérifié
+35111;Le Ferré;35;eau potable;77776;2024;91,8;0,4;5,0;66,0;conforme;89410;3773;14;30;732;Non vérifié
+35112;Fleurigné;35;eau potable : distribution - ex SIE des Eaux du Chesne;77761;2023;84,4;0,6;3,3;65,7;conforme;231352;17572;51;73;953;Sans anomalie apparente
+35114;Forges-la-Forêt;35;eau potable;77764;2024;86,0;1,0;6,0;66,2;conforme;405624;3058;31;65;268;Non vérifié
+35115;Fougères;35;eau potable : Fougères;77558;2024;93,3;1,8;25,0;70,0;conforme;77684;77684;10;26;20307;Non vérifié
+35116;La Fresnais;35;eau potable;77756;2024;88,9;0,8;6,2;66,2;conforme;370548;13809;15;47;2509;Non vérifié
+35117;Gaël;35;eau potable : Ex SIAEP DE MAURON;117460;2024;89,6;0,7;6,1;66,2;conforme;248228;43616;74;49;1613;Non vérifié
+35118;Gahard;35;eau potable : 14-Gahard, Sens de Bretagne, Vieux Vy sur Couesnon (ex SIE Vallée du Couesnon);318974;2024;81,6;0,7;3,0;65,6;conforme;93513;26369;47;84;1523;Non vérifié
+35119;Gennes-sur-Seiche;35;eau potable : Vitré Sud;296074;2024;95,0;0,9;17,7;68,5;conforme;245137;6190;18;37;938;Non vérifié
+35120;Gévezé;35;eau potable : 03-Nord de Rennes;77773;2024;84,3;2,0;10,5;67,1;conforme;505890;47285;21;70;6061;Non vérifié
+35121;Gosné;35;eau potable : Secteur Chasné/Illet, Ercé-près-Liffré et Gosné - ex SIE St Aubin d'Aubigné;302514;2020;93,5;0,5;7,4;66,5;conforme;22320;8083;10;34;2145;Sans anomalie apparente
+35122;La Gouesnière;35;eau potable;77756;2024;88,9;0,8;6,2;66,2;conforme;370548;11123;15;47;2021;Non vérifié
+35123;Goven;35;eau potable : 04-Secteur Ouest;219034;2024;88,8;1,1;8,6;66,7;conforme;585724;31034;20;61;4359;Non vérifié
+35124;Grand-Fougeray;35;eau potable;77791;2024;74,4;1,5;4,3;65,9;conforme;225187;26173;28;126;2584;Non vérifié
+35125;La Guerche-de-Bretagne;35;eau potable : Vitré Sud;296074;2024;95,0;0,9;17,7;68,5;conforme;245137;30053;18;37;4554;Non vérifié
+35126;Guichen;35;eau potable : 02-Secteur Sud;77785;2024;90,3;1,4;12,7;67,5;conforme;388871;38580;11;41;9412;Non vérifié
+35127;Guignen;35;eau potable;77757;2024;77,1;1,2;4,1;65,8;conforme;540448;41444;27;108;4175;Non vérifié
+35128;Guipel;35;eau potable : 04-Secteur Ouest;219034;2024;88,8;1,1;8,6;66,7;conforme;585724;12374;20;61;1738;Non vérifié
+35130;Hédé-Bazouges;35;eau potable : Communauté de Communes Bretagne Romantique;77772;2024;84,1;1,2;6,4;66,3;conforme;439305;27090;33;112;2267;Non vérifié
+35131;L' Hermitage;35;eau potable : 04-Secteur Ouest;219034;2024;88,8;1,1;8,6;66,7;conforme;585724;33676;20;61;4730;Non vérifié
+35132;Hirel;35;eau potable;77756;2024;88,9;0,8;6,2;66,2;conforme;370548;7606;15;47;1382;Non vérifié
+35133;Iffendic;35;eau potable : 11-Iffendic nord/Saint Gonlay;301874;2024;90,6;0,4;3,8;65,8;conforme;16996;15711;9;39;4609;Non vérifié
+35134;Les Iffs;35;eau potable : Communauté de Communes Bretagne Romantique;77772;2024;84,1;1,2;6,4;66,3;conforme;439305;3274;33;112;274;Non vérifié
+35135;Irodouër;35;eau potable : 04-Secteur Ouest;219034;2024;88,8;1,1;8,6;66,7;conforme;585724;16375;20;61;2300;Non vérifié
+35136;Janzé;35;eau potable;77764;2024;86,0;1,0;6,0;66,2;conforme;405624;98704;31;65;8649;Non vérifié
+35137;Javené;35;eau potable : distribution - ex SIE des Eaux du Chesne;77761;2024;84,5;0,6;3,1;65,6;conforme;231395;36328;45;77;2205;Non vérifié
+35138;Laignelet;35;eau potable : distribution - ex SIE de la Chapelle Janson;77759;2020;78,2;0,8;3,0;65,6;conforme;35566;7420;16;112;1234;Sans anomalie apparente
+35139;Laillé;35;eau potable : 02-Secteur Sud;77785;2024;90,3;1,4;12,7;67,5;conforme;388871;21418;11;41;5225;Non vérifié
+35140;Lalleu;35;eau potable;77764;2024;86,0;1,0;6,0;66,2;conforme;405624;6767;31;65;593;Non vérifié
+35141;Landavran;35;eau potable : ex SIE de Chateaubourg;77760;2024;90,9;1,0;9,6;66,9;conforme;470032;4997;20;45;674;Non vérifié
+35142;Landéan;35;eau potable : distribution - ex SIE de Parigné - Landéan;77775;2020;87,6;0,4;2,5;65,5;conforme;14673;7232;16;59;1250;Sans anomalie apparente
+35143;Landujan;35;eau potable;77769;2024;89,9;1,0;8,5;66,7;conforme;254478;9888;29;48;941;Non vérifié
+35144;Langan;35;eau potable : 04-Secteur Ouest;219034;2024;88,8;1,1;8,6;66,7;conforme;585724;7874;20;61;1106;Non vérifié
+35145;Langon;35;eau potable : ex SIVOM Port de Roche;77779;2024;74,2;1,4;3,9;65,8;conforme;222653;18640;36;155;1423;Non vérifié
+35146;Langouet;35;eau potable : 04-Secteur Ouest;219034;2024;88,8;1,1;8,6;66,7;conforme;585724;4300;20;61;604;Non vérifié
+35148;Lanrigan;35;eau potable : Communauté de Communes Bretagne Romantique;77772;2024;84,1;1,2;6,4;66,3;conforme;439305;1625;33;112;136;Non vérifié
+35149;Lassy;35;eau potable;77763;2024;85,7;0,7;4,4;65,9;conforme;147832;7828;12;75;1841;Non vérifié
+35150;Lécousse;35;eau potable : Lécousse;77589;2024;89,1;0,9;7,2;66,4;conforme;18981;18981;15;46;3530;Non vérifié
+35151;Lieuron;35;eau potable;77757;2024;77,1;1,2;4,1;65,8;conforme;540448;8051;27;108;811;Non vérifié
+35152;Liffré;35;eau potable : Secteur Liffré-St Aubin Du Cormier;302974;2024;86,9;1,1;7,6;66,5;conforme;175215;120834;35;64;9339;Non vérifié
+35153;Lillemer;35;eau potable;77756;2024;88,9;0,8;6,2;66,2;conforme;370548;2191;15;47;398;Non vérifié
+35154;Livré-sur-Changeon;35;eau potable : Val d'Izé Distribution;333094;2024;86,3;0,8;5,1;66,0;conforme;55883;12183;19;93;1758;Non vérifié
+35155;Lohéac;35;eau potable;77757;2024;77,1;1,2;4,1;65,8;conforme;540448;6969;27;108;702;Non vérifié
+35156;Longaulnay;35;eau potable : Communauté de Communes Bretagne Romantique;77772;2024;84,1;1,2;6,4;66,3;conforme;439305;7074;33;112;592;Non vérifié
+35157;Le Loroux;35;eau potable : distribution - ex SIVOM Bazouge du Désert - Louvigné du Désert;77792;2020;84,9;0,5;2,6;65,5;conforme;75537;5723;25;70;621;Sans anomalie apparente
+35159;Lourmais;35;eau potable : Communauté de Communes Bretagne Romantique;77772;2024;84,1;1,2;6,4;66,3;conforme;439305;4063;33;112;340;Non vérifié
+35160;Loutehel;35;eau potable;77763;2024;85,7;0,7;4,4;65,9;conforme;147832;1033;12;75;243;Non vérifié
+35161;Louvigné-de-Bais;35;eau potable : ex SIE de Chateaubourg;77760;2024;90,9;1,0;9,6;66,9;conforme;470032;14013;20;45;1890;Non vérifié
+35162;Louvigné-du-Désert;35;eau potable : distribution - ex SIVOM Bazouge du Désert - Louvigné du Désert;77792;2020;84,9;0,5;2,6;65,5;conforme;75537;30834;25;70;3346;Sans anomalie apparente
+35163;Luitré-Dompierre;35;eau potable : distribution - ex SIE des Eaux du Chesne;77761;2024;84,5;0,6;3,1;65,6;conforme;231395;30776;45;77;1868;Non vérifié
+35164;Marcillé-Raoul;35;eau potable : SMEA;77790;2024;80,9;0,9;3,9;65,8;conforme;129002;12129;44;104;749;Non vérifié
+35165;Marcillé-Robert;35;eau potable;77764;2024;86,0;1,0;6,0;66,2;conforme;405624;11606;31;65;1017;Non vérifié
+35166;Marpiré;35;eau potable : ex SIE de Chateaubourg;77760;2024;90,9;1,0;9,6;66,9;conforme;470032;7585;20;45;1023;Non vérifié
+35167;Martigné-Ferchaud;35;eau potable;77764;2024;86,0;1,0;6,0;66,2;conforme;405624;30676;31;65;2688;Non vérifié
+35168;Val d'Anast;35;eau potable;77763;2024;85,7;0,7;4,4;65,9;conforme;147832;16710;12;75;3930;Non vérifié
+35169;Maxent;35;eau potable;77763;2024;85,7;0,7;4,4;65,9;conforme;147832;6165;12;75;1450;Non vérifié
+35170;Mecé;35;eau potable : Val d'Izé Distribution;333094;2024;86,3;0,8;5,1;66,0;conforme;55883;4283;19;93;618;Non vérifié
+35171;Médréac;35;eau potable;77769;2024;89,9;1,0;8,5;66,7;conforme;254478;19472;29;48;1853;Non vérifié
+35172;Meillac;35;eau potable : Communauté de Communes Bretagne Romantique;77772;2024;84,1;1,2;6,4;66,3;conforme;439305;23589;33;112;1974;Non vérifié
+35173;Melesse;35;eau potable : 03-Nord de Rennes;77773;2024;84,3;2,0;10,5;67,1;conforme;505890;58831;21;70;7541;Non vérifié
+35174;Mellé;35;eau potable : distribution - ex SIVOM Bazouge du Désert - Louvigné du Désert;77792;2020;84,9;0,5;2,6;65,5;conforme;75537;5999;25;70;651;Sans anomalie apparente
+35175;Mernel;35;eau potable;77757;2024;77,1;1,2;4,1;65,8;conforme;540448;10135;27;108;1021;Non vérifié
+35176;Guipry-Messac;35;eau potable;77791;2024;74,4;1,5;4,3;65,9;conforme;225187;74488;28;126;7354;Non vérifié
+35177;La Mézière;35;eau potable : 03-Nord de Rennes;77773;2024;84,3;2,0;10,5;67,1;conforme;505890;39265;21;70;5033;Non vérifié
+35178;Mézières-sur-Couesnon;35;eau potable;77789;2021;89,2;0,4;3,2;65,6;conforme;53217;8424;13;46;1734;Sans anomalie apparente
+35179;Miniac-Morvan;35;eau potable;77756;2024;88,9;0,8;6,2;66,2;conforme;370548;24261;15;47;4408;Non vérifié
+35180;Miniac-sous-Bécherel;35;eau potable : 04-Secteur Ouest;219034;2024;88,8;1,1;8,6;66,7;conforme;585724;5525;20;61;776;Non vérifié
+35181;Le Minihic-sur-Rance;35;eau potable;77781;2024;87,4;1,4;9,6;66,9;conforme;104091;11653;21;53;1524;Non vérifié
+35183;Mondevert;35;eau potable : ex SIEPMV;222057;2024;89,6;0,9;8,2;66,6;conforme;143203;8225;28;126;804;Non vérifié
+35184;Montauban-de-Bretagne;35;eau potable;77769;2024;89,9;1,0;8,5;66,7;conforme;254478;69323;29;48;6597;Non vérifié
+35185;Montautour;35;eau potable : ex SIEPMV;222057;2024;89,6;0,9;8,2;66,6;conforme;143203;2752;28;126;269;Non vérifié
+35186;Mont-Dol;35;eau potable;77756;2024;88,9;0,8;6,2;66,2;conforme;370548;6060;15;47;1101;Non vérifié
+35187;Monterfil;35;eau potable;77763;2024;85,7;0,7;4,4;65,9;conforme;147832;5808;12;75;1366;Non vérifié
+35188;Montfort-sur-Meu;35;eau potable : 06-Centre Est Montfort;77774;2024;92,0;1,1;12,2;67,4;conforme;200120;27529;11;33;6810;Non vérifié
+35189;Montgermont;35;eau potable : 03-Nord de Rennes;77773;2024;84,3;2,0;10,5;67,1;conforme;505890;29856;21;70;3827;Non vérifié
+35190;Monthault;35;eau potable : distribution - ex SIVOM Bazouge du Désert - Louvigné du Désert;77792;2020;84,9;0,5;2,6;65,5;conforme;75537;2285;25;70;248;Sans anomalie apparente
+35191;Les Portes du Coglais;35;eau potable;77776;2024;91,8;0,4;5,0;66,0;conforme;89410;11381;14;30;2208;Non vérifié
+35192;Montreuil-des-Landes;35;eau potable : Val d'Izé Distribution;333094;2024;86,3;0,8;5,1;66,0;conforme;55883;1642;19;93;237;Non vérifié
+35193;Montreuil-le-Gast;35;eau potable : 03-Nord de Rennes;77773;2024;84,3;2,0;10,5;67,1;conforme;505890;16227;21;70;2080;Non vérifié
+35194;Montreuil-sous-Pérouse;35;eau potable : ex SIE de Chateaubourg;77760;2024;90,9;1,0;9,6;66,9;conforme;470032;7733;20;45;1043;Non vérifié
+35195;Montreuil-sur-Ille;35;eau potable : 09 - Aubigné-Feins-Montreuil-AndouilléNeuville (AFMA);77755;2024;77,8;1,2;4,3;65,9;conforme;47878;23341;26;102;2420;Non vérifié
+35196;Mordelles;35;eau potable : 04-Secteur Ouest;219034;2024;88,8;1,1;8,6;66,7;conforme;585724;56323;20;61;7911;Non vérifié
+35197;Mouazé;35;eau potable : 04-Secteur Ouest;219034;2024;88,8;1,1;8,6;66,7;conforme;585724;12189;20;61;1712;Non vérifié
+35198;Moulins;35;eau potable : Vitré Sud;296074;2024;95,0;0,9;17,7;68,5;conforme;245137;4778;18;37;724;Non vérifié
+35199;Moussé;35;eau potable : Vitré Sud;296074;2024;95,0;0,9;17,7;68,5;conforme;245137;1934;18;37;293;Non vérifié
+35200;Moutiers;35;eau potable : Vitré Sud;296074;2024;95,0;0,9;17,7;68,5;conforme;245137;5913;18;37;896;Non vérifié
+35201;Muel;35;eau potable;77769;2024;89,9;1,0;8,5;66,7;conforme;254478;9741;29;48;927;Non vérifié
+35202;La Noë-Blanche;35;eau potable;77791;2024;74,4;1,5;4,3;65,9;conforme;225187;10149;28;126;1002;Non vérifié
+35203;La Nouaye;35;eau potable : 04-Secteur Ouest;219034;2024;88,8;1,1;8,6;66,7;conforme;585724;2577;20;61;362;Non vérifié
+35205;Noyal-sous-Bazouges;35;eau potable : SMEA;77790;2024;80,9;0,9;3,9;65,8;conforme;129002;6348;44;104;392;Non vérifié
+35206;Noyal-Châtillon-sur-Seiche;35;eau potable : 02-Secteur Sud;77785;2024;90,3;1,4;12,7;67,5;conforme;388871;34264;11;41;8359;Non vérifié
+35207;Noyal-sur-Vilaine;35;eau potable : ex SIE de Chateaubourg;77760;2024;90,9;1,0;9,6;66,9;conforme;470032;46479;20;45;6269;Non vérifié
+35208;Orgères;35;eau potable : 02-Secteur Sud;77785;2024;90,3;1,4;12,7;67,5;conforme;388871;23496;11;41;5732;Non vérifié
+35210;Pacé;35;eau potable : 06-Centre Est Montfort;77774;2024;92,0;1,1;12,2;67,4;conforme;200120;47308;11;33;11703;Non vérifié
+35211;Paimpont;35;eau potable : Ex SIAEP DE MAURON;117460;2024;89,6;0,7;6,1;66,2;conforme;248228;47915;74;49;1772;Non vérifié
+35212;Pancé;35;eau potable;77791;2024;74,4;1,5;4,3;65,9;conforme;225187;11739;28;126;1159;Non vérifié
+35214;Parcé;35;eau potable : distribution - ex SIE des Eaux du Chesne;77761;2024;84,5;0,6;3,1;65,6;conforme;231395;10824;45;77;657;Non vérifié
+35215;Parigné;35;eau potable : distribution - ex SIE de Parigné - Landéan;77775;2020;87,6;0,4;2,5;65,5;conforme;14673;7441;16;59;1286;Sans anomalie apparente
+35216;Parthenay-de-Bretagne;35;eau potable : 04-Secteur Ouest;219034;2024;88,8;1,1;8,6;66,7;conforme;585724;12765;20;61;1793;Non vérifié
+35217;Le Pertre;35;eau potable : SIE Le Pertre - St Cyr Le Gravelais;77777;2024;79,8;1,0;4,0;65,8;conforme;32945;23266;47;94;1363;Non vérifié
+35218;Le Petit-Fougeray;35;eau potable;77757;2024;77,1;1,2;4,1;65,8;conforme;540448;8944;27;108;901;Non vérifié
+35219;Pipriac;35;eau potable : ex SIVOM Port de Roche;77779;2024;74,2;1,4;3,9;65,8;conforme;222653;50548;36;155;3859;Non vérifié
+35220;Piré-Chancé;35;eau potable : ex SIE de Chateaubourg;77760;2024;90,9;1,0;9,6;66,9;conforme;470032;23903;20;45;3224;Non vérifié
+35221;Pléchâtel;35;eau potable;77757;2024;77,1;1,2;4,1;65,8;conforme;540448;28122;27;108;2833;Non vérifié
+35222;Pleine-Fougères;35;eau potable;77756;2024;88,9;0,8;6,2;66,2;conforme;370548;11019;15;47;2002;Non vérifié
+35223;Plélan-le-Grand;35;eau potable;77763;2024;85,7;0,7;4,4;65,9;conforme;147832;17331;12;75;4076;Non vérifié
+35224;Plerguer;35;eau potable;77756;2024;88,9;0,8;6,2;66,2;conforme;370548;15934;15;47;2895;Non vérifié
+35225;Plesder;35;eau potable : Communauté de Communes Bretagne Romantique;77772;2024;84,1;1,2;6,4;66,3;conforme;439305;9440;33;112;790;Non vérifié
+35226;Pleugueneuc;35;eau potable : Communauté de Communes Bretagne Romantique;77772;2024;84,1;1,2;6,4;66,3;conforme;439305;24939;33;112;2087;Non vérifié
+35227;Pleumeleuc;35;eau potable : 04-Secteur Ouest;219034;2024;88,8;1,1;8,6;66,7;conforme;585724;25225;20;61;3543;Non vérifié
+35228;Pleurtuit;35;eau potable;77781;2024;87,4;1,4;9,6;66,9;conforme;104091;54802;21;53;7167;Non vérifié
+35229;Pocé-les-Bois;35;eau potable : ex SIE de Chateaubourg;77760;2024;90,9;1,0;9,6;66,9;conforme;470032;9727;20;45;1312;Non vérifié
+35230;Poilley;35;eau potable : distribution - ex SIVOM Bazouge du Désert - Louvigné du Désert;77792;2020;84,9;0,5;2,6;65,5;conforme;75537;3631;25;70;394;Sans anomalie apparente
+35231;Poligné;35;eau potable;77757;2024;77,1;1,2;4,1;65,8;conforme;540448;12518;27;108;1261;Non vérifié
+35232;Princé;35;eau potable : ex SIEPMV;222057;2024;89,6;0,9;8,2;66,6;conforme;143203;4092;28;126;400;Non vérifié
+35233;Québriac;35;eau potable : Communauté de Communes Bretagne Romantique;77772;2024;84,1;1,2;6,4;66,3;conforme;439305;18976;33;112;1588;Non vérifié
+35234;Quédillac;35;eau potable;77769;2024;89,9;1,0;8,5;66,7;conforme;254478;13524;29;48;1287;Non vérifié
+35235;Rannée;35;eau potable : Vitré Sud;296074;2024;95,0;0,9;17,7;68,5;conforme;245137;7259;18;37;1100;Non vérifié
+35236;Redon;35;eau potable : ex commune de Redon;77653;2024;93,2;2,3;31,0;71,2;conforme;68495;68495;20;41;9542;Non vérifié
+35237;Renac;35;eau potable : ex SIVOM Port de Roche;77779;2024;74,2;1,4;3,9;65,8;conforme;222653;13452;36;155;1027;Non vérifié
+35238;Rennes;35;eau potable : 01-Rennes-St Jacques;77654;2024;93,3;3,9;54,1;75,8;conforme;789744;745204;9;26;230890;Non vérifié
+35239;Retiers;35;eau potable;77764;2024;86,0;1,0;6,0;66,2;conforme;405624;52108;31;65;4566;Non vérifié
+35240;Le Rheu;35;eau potable : 06-Centre Est Montfort;77774;2024;92,0;1,1;12,2;67,4;conforme;200120;39773;11;33;9839;Non vérifié
+35241;La Richardais;35;eau potable;77781;2024;87,4;1,4;9,6;66,9;conforme;104091;20370;21;53;2664;Non vérifié
+35242;Rimou;35;eau potable;77789;2024;92,5;0,3;3,1;65,6;conforme;16381;1531;12;42;357;Non vérifié
+35243;Romagné;35;eau potable;77776;2024;91,8;0,4;5,0;66,0;conforme;89410;12567;14;30;2438;Non vérifié
+35244;Romazy;35;eau potable;77789;2024;92,5;0,3;3,1;65,6;conforme;16381;1188;12;42;277;Non vérifié
+35245;Romillé;35;eau potable : 04-Secteur Ouest;219034;2024;88,8;1,1;8,6;66,7;conforme;585724;29824;20;61;4189;Non vérifié
+35246;Roz-Landrieux;35;eau potable;77756;2024;88,9;0,8;6,2;66,2;conforme;370548;7584;15;47;1378;Non vérifié
+35247;Roz-sur-Couesnon;35;eau potable;77756;2024;88,9;0,8;6,2;66,2;conforme;370548;5829;15;47;1059;Non vérifié
+35248;Sains;35;eau potable;77756;2024;88,9;0,8;6,2;66,2;conforme;370548;2576;15;47;468;Non vérifié
+35249;Sainte-Anne-sur-Vilaine;35;eau potable;77791;2024;74,4;1,5;4,3;65,9;conforme;225187;10483;28;126;1035;Non vérifié
+35250;Saint-Armel;35;eau potable : 02-Secteur Sud;77785;2024;90,3;1,4;12,7;67,5;conforme;388871;9973;11;41;2433;Non vérifié
+35251;Saint-Aubin-d'Aubigné;35;eau potable : 04-Secteur Ouest;219034;2024;88,8;1,1;8,6;66,7;conforme;585724;30643;20;61;4304;Non vérifié
+35252;Saint-Aubin-des-Landes;35;eau potable : ex SIE de Chateaubourg;77760;2024;90,9;1,0;9,6;66,9;conforme;470032;6799;20;45;917;Non vérifié
+35253;Saint-Aubin-du-Cormier;35;eau potable : Secteur Liffré-St Aubin Du Cormier;302974;2024;86,9;1,1;7,6;66,5;conforme;175215;54381;35;64;4203;Non vérifié
+35255;Saint-Benoît-des-Ondes;35;eau potable;77756;2024;88,9;0,8;6,2;66,2;conforme;370548;5366;15;47;975;Non vérifié
+35256;Saint-Briac-sur-Mer;35;eau potable;77781;2024;87,4;1,4;9,6;66,9;conforme;104091;17266;21;53;2258;Non vérifié
+35257;Maen Roch;35;eau potable;77776;2024;91,8;0,4;5,0;66,0;conforme;89410;26226;14;30;5088;Non vérifié
+35258;Saint-Brieuc-des-Iffs;35;eau potable : Communauté de Communes Bretagne Romantique;77772;2024;84,1;1,2;6,4;66,3;conforme;439305;3943;33;112;330;Non vérifié
+35259;Saint-Broladre;35;eau potable;77756;2024;88,9;0,8;6,2;66,2;conforme;370548;6346;15;47;1153;Non vérifié
+35260;Saint-Christophe-des-Bois;35;eau potable : Val d'Izé Distribution;333094;2024;86,3;0,8;5,1;66,0;conforme;55883;3922;19;93;566;Non vérifié
+35261;Saint-Christophe-de-Valains;35;eau potable;77789;2024;92,5;0,3;3,1;65,6;conforme;16381;991;12;42;231;Non vérifié
+35262;Sainte-Colombe;35;eau potable;77764;2024;86,0;1,0;6,0;66,2;conforme;405624;4200;31;65;368;Non vérifié
+35263;Saint-Coulomb;35;eau potable;77756;2024;88,9;0,8;6,2;66,2;conforme;370548;16341;15;47;2969;Non vérifié
+35264;Saint-Didier;35;eau potable : ex SIE de Chateaubourg;77760;2024;90,9;1,0;9,6;66,9;conforme;470032;14991;20;45;2022;Non vérifié
+35265;Saint-Domineuc;35;eau potable : Communauté de Communes Bretagne Romantique;77772;2024;84,1;1,2;6,4;66,3;conforme;439305;31296;33;112;2619;Non vérifié
+35266;Saint-Erblon;35;eau potable : 02-Secteur Sud;77785;2024;90,3;1,4;12,7;67,5;conforme;388871;14966;11;41;3651;Non vérifié
+35268;Saint-Ganton;35;eau potable : ex SIVOM Port de Roche;77779;2024;74,2;1,4;3,9;65,8;conforme;222653;5410;36;155;413;Non vérifié
+35270;Saint-Georges-de-Gréhaigne;35;eau potable;77756;2024;88,9;0,8;6,2;66,2;conforme;370548;2114;15;47;384;Non vérifié
+35271;Saint-Georges-de-Reintembault;35;eau potable : distribution - ex SIVOM Bazouge du Désert - Louvigné du Désert;77792;2020;84,9;0,5;2,6;65,5;conforme;75537;14201;25;70;1541;Sans anomalie apparente
+35272;Saint-Germain-du-Pinel;35;eau potable : Vitré Sud;296074;2024;95,0;0,9;17,7;68,5;conforme;245137;6718;18;37;1018;Non vérifié
+35273;Saint-Germain-en-Coglès;35;eau potable;77776;2024;91,8;0,4;5,0;66,0;conforme;89410;10804;14;30;2096;Non vérifié
+35274;Saint-Germain-sur-Ille;35;eau potable : 04-Secteur Ouest;219034;2024;88,8;1,1;8,6;66,7;conforme;585724;7241;20;61;1017;Non vérifié
+35275;Saint-Gilles;35;eau potable : 06-Centre Est Montfort;77774;2024;92,0;1,1;12,2;67,4;conforme;200120;22540;11;33;5576;Non vérifié
+35276;Saint-Gondran;35;eau potable : 04-Secteur Ouest;219034;2024;88,8;1,1;8,6;66,7;conforme;585724;4635;20;61;651;Non vérifié
+35277;Saint-Gonlay;35;eau potable : 11-Iffendic nord/Saint Gonlay;301874;2024;90,6;0,4;3,8;65,8;conforme;16996;1285;9;39;377;Non vérifié
+35278;Saint-Grégoire;35;eau potable : 03-Nord de Rennes;77773;2024;84,3;2,0;10,5;67,1;conforme;505890;77680;21;70;9957;Non vérifié
+35279;Saint-Guinoux;35;eau potable;77756;2024;88,9;0,8;6,2;66,2;conforme;370548;7073;15;47;1285;Non vérifié
+35280;Saint-Hilaire-des-Landes;35;eau potable;77776;2024;91,8;0,4;5,0;66,0;conforme;89410;5345;14;30;1037;Non vérifié
+35281;Saint-Jacques-de-la-Lande;35;eau potable : 01-Rennes-St Jacques;77654;2024;93,3;3,9;54,1;75,8;conforme;789744;44540;9;26;13800;Non vérifié
+35282;Rives-du-Couesnon;35;eau potable : distribution - ex SIE des Eaux du Chesne;77761;2024;84,5;0,6;3,1;65,6;conforme;231395;48223;45;77;2927;Non vérifié
+35283;Saint-Jean-sur-Vilaine;35;eau potable : ex SIE de Chateaubourg;77760;2024;90,9;1,0;9,6;66,9;conforme;470032;10194;20;45;1375;Non vérifié
+35284;Saint-Jouan-des-Guérets;35;eau potable;77756;2024;88,9;0,8;6,2;66,2;conforme;370548;15670;15;47;2847;Non vérifié
+35285;Saint-Just;35;eau potable : ex SIVOM Port de Roche;77779;2024;74,2;1,4;3,9;65,8;conforme;222653;14500;36;155;1107;Non vérifié
+35286;Saint-Léger-des-Prés;35;eau potable : Communauté de Communes Bretagne Romantique;77772;2024;84,1;1,2;6,4;66,3;conforme;439305;3501;33;112;293;Non vérifié
+35287;Saint-Lunaire;35;eau potable;77694;2024;95,8;0,5;10,7;67,1;conforme;9490;9490;9;17;2768;Non vérifié
+35288;Saint-Malo;35;eau potable : St Malo (RME);77696;2024;92,3;2,0;24,6;69,9;conforme;234987;234987;14;30;47439;Non vérifié
+35289;Saint-Malo-de-Phily;35;eau potable;77757;2024;77,1;1,2;4,1;65,8;conforme;540448;10731;27;108;1081;Non vérifié
+35290;Saint-Malon-sur-Mel;35;eau potable;77763;2024;85,7;0,7;4,4;65,9;conforme;147832;2628;12;75;618;Non vérifié
+35291;Saint-Marcan;35;eau potable;77756;2024;88,9;0,8;6,2;66,2;conforme;370548;2372;15;47;431;Non vérifié
+35292;Saint-Marc-le-Blanc;35;eau potable;77776;2024;91,8;0,4;5,0;66,0;conforme;89410;8005;14;30;1553;Non vérifié
+35294;Sainte-Marie;35;eau potable : ex SIVOM Port de Roche;77779;2024;74,2;1,4;3,9;65,8;conforme;222653;29433;36;155;2247;Non vérifié
+35295;Saint-Maugan;35;eau potable;77769;2024;89,9;1,0;8,5;66,7;conforme;254478;5307;29;48;505;Non vérifié
+35296;Saint-Médard-sur-Ille;35;eau potable : 04-Secteur Ouest;219034;2024;88,8;1,1;8,6;66,7;conforme;585724;9804;20;61;1377;Non vérifié
+35297;Saint-Méen-le-Grand;35;eau potable;77769;2024;89,9;1,0;8,5;66,7;conforme;254478;48895;29;48;4653;Non vérifié
+35299;Saint-Méloir-des-Ondes;35;eau potable;77756;2024;88,9;0,8;6,2;66,2;conforme;370548;25979;15;47;4720;Non vérifié
+35300;Saint-M'Hervé;35;eau potable : ex SIEPMV;222057;2024;89,6;0,9;8,2;66,6;conforme;143203;13851;28;126;1354;Non vérifié
+35302;Saint-Onen-la-Chapelle;35;eau potable;77769;2024;89,9;1,0;8,5;66,7;conforme;254478;11832;29;48;1126;Non vérifié
+35304;Saint-Ouen-des-Alleux;35;eau potable;77789;2024;92,5;0,3;3,1;65,6;conforme;16381;5688;12;42;1326;Non vérifié
+35305;Saint-Péran;35;eau potable;77763;2024;85,7;0,7;4,4;65,9;conforme;147832;1731;12;75;407;Non vérifié
+35306;Saint-Père-Marc-en-Poulet;35;eau potable;77756;2024;88,9;0,8;6,2;66,2;conforme;370548;13430;15;47;2440;Non vérifié
+35307;Saint-Pern;35;eau potable : 04-Secteur Ouest;219034;2024;88,8;1,1;8,6;66,7;conforme;585724;6878;20;61;966;Non vérifié
+35308;Mesnil-Roc'h;35;eau potable : Communauté de Communes Bretagne Romantique;77772;2024;84,1;1,2;6,4;66,3;conforme;439305;53678;33;112;4492;Non vérifié
+35309;Saint-Rémy-du-Plain;35;eau potable;77789;2024;92,5;0,3;3,1;65,6;conforme;16381;3509;12;42;818;Non vérifié
+35310;Saint-Sauveur-des-Landes;35;eau potable;77776;2024;91,8;0,4;5,0;66,0;conforme;89410;8067;14;30;1565;Non vérifié
+35311;Saint-Séglin;35;eau potable;77757;2024;77,1;1,2;4,1;65,8;conforme;540448;6055;27;108;610;Non vérifié
+35312;Saint-Senoux;35;eau potable;77757;2024;77,1;1,2;4,1;65,8;conforme;540448;18493;27;108;1863;Non vérifié
+35314;Saint-Suliac;35;eau potable;77756;2024;88,9;0,8;6,2;66,2;conforme;370548;5603;15;47;1018;Non vérifié
+35315;Saint-Sulpice-la-Forêt;35;eau potable : 03-Nord de Rennes;77773;2024;84,3;2,0;10,5;67,1;conforme;505890;12326;21;70;1580;Non vérifié
+35316;Saint-Sulpice-des-Landes;35;eau potable;77764;2024;86,0;1,0;6,0;66,2;conforme;405624;9358;31;65;820;Non vérifié
+35317;Saint-Symphorien;35;eau potable : 04-Secteur Ouest;219034;2024;88,8;1,1;8,6;66,7;conforme;585724;4450;20;61;625;Non vérifié
+35318;Saint-Thual;35;eau potable : Communauté de Communes Bretagne Romantique;77772;2024;84,1;1,2;6,4;66,3;conforme;439305;11902;33;112;996;Non vérifié
+35319;Saint-Thurial;35;eau potable;77763;2024;85,7;0,7;4,4;65,9;conforme;147832;9286;12;75;2184;Non vérifié
+35320;Saint-Uniac;35;eau potable;77769;2024;89,9;1,0;8,5;66,7;conforme;254478;5391;29;48;513;Non vérifié
+35321;Saulnières;35;eau potable;77764;2024;86,0;1,0;6,0;66,2;conforme;405624;9141;31;65;801;Non vérifié
+35322;Le Sel-de-Bretagne;35;eau potable;77764;2024;86,0;1,0;6,0;66,2;conforme;405624;12747;31;65;1117;Non vérifié
+35324;La Selle-en-Luitré;35;eau potable : distribution - ex SIE des Eaux du Chesne;77761;2024;84,5;0,6;3,1;65,6;conforme;231395;9589;45;77;582;Non vérifié
+35325;La Selle-Guerchaise;35;eau potable : Vitré Sud;296074;2024;95,0;0,9;17,7;68,5;conforme;245137;1010;18;37;153;Non vérifié
+35326;Sens-de-Bretagne;35;eau potable : 14-Gahard, Sens de Bretagne, Vieux Vy sur Couesnon (ex SIE Vallée du Couesnon);318974;2024;81,6;0,7;3,0;65,6;conforme;93513;44878;47;84;2592;Non vérifié
+35327;Servon-sur-Vilaine;35;eau potable : ex SIE de Chateaubourg;77760;2024;90,9;1,0;9,6;66,9;conforme;470032;30783;20;45;4152;Non vérifié
+35328;Sixt-sur-Aff;35;eau potable : ex SIVOM Port de Roche;77779;2024;74,2;1,4;3,9;65,8;conforme;222653;29774;36;155;2273;Non vérifié
+35329;Sougeal;35;eau potable : SMEA;77790;2024;80,9;0,9;3,9;65,8;conforme;129002;8858;44;104;547;Non vérifié
+35330;Taillis;35;eau potable : Val d'Izé Distribution;333094;2024;86,3;0,8;5,1;66,0;conforme;55883;7124;19;93;1028;Non vérifié
+35331;Talensac;35;eau potable : 04-Secteur Ouest;219034;2024;88,8;1,1;8,6;66,7;conforme;585724;18305;20;61;2571;Non vérifié
+35332;Teillay;35;eau potable;77764;2024;86,0;1,0;6,0;66,2;conforme;405624;12747;31;65;1117;Non vérifié
+35333;Le Theil-de-Bretagne;35;eau potable;77764;2024;86,0;1,0;6,0;66,2;conforme;405624;19755;31;65;1731;Non vérifié
+35334;Thorigné-Fouillard;35;eau potable : 03-Nord de Rennes;77773;2024;84,3;2,0;10,5;67,1;conforme;505890;67616;21;70;8667;Non vérifié
+35335;Thourie;35;eau potable;77764;2024;86,0;1,0;6,0;66,2;conforme;405624;9906;31;65;868;Non vérifié
+35336;Le Tiercent;35;eau potable;77776;2024;91,8;0,4;5,0;66,0;conforme;89410;1026;14;30;199;Non vérifié
+35337;Tinténiac;35;eau potable : Communauté de Communes Bretagne Romantique;77772;2024;84,1;1,2;6,4;66,3;conforme;439305;47070;33;112;3939;Non vérifié
+35338;Torcé;35;eau potable : ex SIE de Chateaubourg;77760;2024;90,9;1,0;9,6;66,9;conforme;470032;9497;20;45;1281;Non vérifié
+35339;Trans-la-Forêt;35;eau potable;77756;2024;88,9;0,8;6,2;66,2;conforme;370548;3490;15;47;634;Non vérifié
+35340;Treffendel;35;eau potable;77763;2024;85,7;0,7;4,4;65,9;conforme;147832;5740;12;75;1350;Non vérifié
+35342;Trémeheuc;35;eau potable : Communauté de Communes Bretagne Romantique;77772;2024;84,1;1,2;6,4;66,3;conforme;439305;4242;33;112;355;Non vérifié
+35343;Tresboeuf;35;eau potable;77764;2024;86,0;1,0;6,0;66,2;conforme;405624;14083;31;65;1234;Non vérifié
+35345;Trévérien;35;eau potable : Communauté de Communes Bretagne Romantique;77772;2024;84,1;1,2;6,4;66,3;conforme;439305;10970;33;112;918;Non vérifié
+35346;Trimer;35;eau potable : Communauté de Communes Bretagne Romantique;77772;2024;84,1;1,2;6,4;66,3;conforme;439305;2450;33;112;205;Non vérifié
+35347;Val-d'Izé;35;eau potable : Val d'Izé Distribution;333094;2024;86,3;0,8;5,1;66,0;conforme;55883;18156;19;93;2620;Non vérifié
+35350;Vergéal;35;eau potable : Vitré Sud;296074;2024;95,0;0,9;17,7;68,5;conforme;245137;5319;18;37;806;Non vérifié
+35351;Le Verger;35;eau potable : 04-Secteur Ouest;219034;2024;88,8;1,1;8,6;66,7;conforme;585724;9889;20;61;1389;Non vérifié
+35352;Vern-sur-Seiche;35;eau potable : 02-Secteur Sud;77785;2024;90,3;1,4;12,7;67,5;conforme;388871;33641;11;41;8207;Non vérifié
+35353;Vezin-le-Coquet;35;eau potable : 06-Centre Est Montfort;77774;2024;92,0;1,1;12,2;67,4;conforme;200120;26158;11;33;6471;Non vérifié
+35354;Vieux-Viel;35;eau potable : SMEA;77790;2024;80,9;0,9;3,9;65,8;conforme;129002;5328;44;104;329;Non vérifié
+35355;Vieux-Vy-sur-Couesnon;35;eau potable : 14-Gahard, Sens de Bretagne, Vieux Vy sur Couesnon (ex SIE Vallée du Couesnon);318974;2024;81,6;0,7;3,0;65,6;conforme;93513;22266;47;84;1286;Non vérifié
+35356;Vignoc;35;eau potable : 04-Secteur Ouest;219034;2024;88,8;1,1;8,6;66,7;conforme;585724;16582;20;61;2329;Non vérifié
+35357;Villamée;35;eau potable : distribution - ex SIVOM Bazouge du Désert - Louvigné du Désert;77792;2020;84,9;0,5;2,6;65,5;conforme;75537;2774;25;70;301;Sans anomalie apparente
+35358;La Ville-ès-Nonais;35;eau potable;77756;2024;88,9;0,8;6,2;66,2;conforme;370548;6786;15;47;1233;Non vérifié
+35359;Visseiche;35;eau potable : Vitré Sud;296074;2024;95,0;0,9;17,7;68,5;conforme;245137;5814;18;37;881;Non vérifié
+35360;Vitré;35;eau potable : Vitré Sud;296074;2024;95,0;0,9;17,7;68,5;conforme;245137;127795;18;37;19365;Non vérifié
+35361;Le Vivier-sur-Mer;35;eau potable;77756;2024;88,9;0,8;6,2;66,2;conforme;370548;5862;15;47;1065;Non vérifié
+35362;Le Tronchet;35;eau potable;77756;2024;88,9;0,8;6,2;66,2;conforme;370548;6616;15;47;1202;Non vérifié
+35363;Pont-Péan;35;eau potable : 02-Secteur Sud;77785;2024;90,3;1,4;12,7;67,5;conforme;388871;17401;11;41;4245;Non vérifié

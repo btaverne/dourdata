@@ -34,3 +34,8 @@ exports/
 
 # Fichiers macOS
 .DS_Store
+
+# Exception : le site publié (docs/) EST versionné pour GitHub Pages,
+# malgré les règles *.csv / *.html ci-dessus. Généré par `python export.py --all --outdir docs --site`.
+!docs/
+!docs/**

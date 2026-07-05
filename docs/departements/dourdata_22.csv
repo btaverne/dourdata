@@ -1,0 +1,358 @@
+﻿# DourData — eau perdue par les réseaux d'eau potable (indicateurs SISPEA)
+# Périmètre : Département 22
+# Source : SISPEA — Système d'Information des Services Publics d'Eau et d'Assainissement, via data.gouv.fr / services.eaufrance.fr
+# Licence : Licence Ouverte 2.0 (Etalab)
+# Millésime des données : 2024 (année la plus récente disponible par commune)
+# Date de génération de l'export : 2026-07-05
+# Méthodologie et code : https://github.com/btaverne/dourdata
+# Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
+# Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
+22001;Allineuc;22;eau potable;151837;2024;83,6;0,7;3,5;65,7;conforme;9326;9326;43;73;589;Non vérifié
+22002;Andel;22;eau potable : REGIE;152137;2024;88,3;1,0;7,6;66,5;conforme;487366;11844;27;51;1180;Non vérifié
+22003;Aucaleuc;22;eau potable : SEMOP;196527;2024;86,0;1,6;9,8;67,0;conforme;544393;10651;30;85;973;Non vérifié
+22004;Bégard;22;eau potable;152125;2024;75,4;1,2;3,7;65,7;conforme;226398;79396;44;123;4889;Non vérifié
+22005;Belle-Isle-en-Terre;22;eau potable : BELLE-ISLE-EN-TERRE;151839;2024;78,3;0,9;3,3;65,7;conforme;11754;11754;31;101;1024;Non vérifié
+22006;Berhet;22;eau potable;152125;2024;75,4;1,2;3,7;65,7;conforme;226398;4417;44;123;272;Non vérifié
+22008;Bobital;22;eau potable : SEMOP;196527;2024;86,0;1,6;9,8;67,0;conforme;544393;12808;30;85;1170;Non vérifié
+22009;Le Bodéo;22;eau potable : SECTEUR SUD;332974;2024;84,6;1,1;6,0;66,2;conforme;203480;2395;35;70;186;Non vérifié
+22011;Boqueho;22;eau potable : REGIE;301854;2024;79,9;1,2;4,6;65,9;conforme;501427;14986;39;119;1054;Non vérifié
+22012;La Bouillie;22;eau potable : REGIE;152137;2024;88,3;1,0;7,6;66,5;conforme;487366;8271;27;51;824;Non vérifié
+22013;Bourbriac;22;eau potable : REGIE;301854;2024;79,9;1,2;4,6;65,9;conforme;501427;30499;39;119;2145;Non vérifié
+22014;Bourseul;22;eau potable : FREMUR;152115;2024;92,2;0,6;7,4;66,5;conforme;161031;7191;15;31;1277;Non vérifié
+22015;Bréhand;22;eau potable : REGIE;152137;2024;88,3;1,0;7,6;66,5;conforme;487366;16903;27;51;1684;Non vérifié
+22016;Île-de-Bréhat;22;eau potable;336814;2024;91,4;0,5;5,2;66,0;conforme;4990;4990;32;35;429;Non vérifié
+22018;Brélidy;22;eau potable;152125;2024;75,4;1,2;3,7;65,7;conforme;226398;5424;44;123;334;Non vérifié
+22019;Bringolo;22;eau potable : REGIE;301854;2024;79,9;1,2;4,6;65,9;conforme;501427;7365;39;119;518;Non vérifié
+22020;Broons;22;eau potable : BROONS;151849;2024;83,9;1,2;6,3;66,3;conforme;34519;34519;32;70;2943;Non vérifié
+22021;Brusvily;22;eau potable : SEMOP;196527;2024;86,0;1,6;9,8;67,0;conforme;544393;12622;30;85;1153;Non vérifié
+22023;Bulat-Pestivien;22;eau potable : ARGOAT;152107;2024;81,4;0,6;2,6;65,5;conforme;128479;8008;54;104;406;Non vérifié
+22024;Calanhel;22;eau potable : ARGOAT;152107;2024;81,4;0,6;2,6;65,5;conforme;128479;4832;54;104;245;Non vérifié
+22025;Callac;22;eau potable : ARGOAT;152107;2024;81,4;0,6;2,6;65,5;conforme;128479;45601;54;104;2312;Non vérifié
+22026;Calorguen;22;eau potable : SEMOP;196527;2024;86,0;1,6;9,8;67,0;conforme;544393;7980;30;85;729;Non vérifié
+22027;Le Cambout;22;eau potable;152141;2024;87,2;2,0;13,4;67,7;conforme;477873;9974;65;55;422;Non vérifié
+22028;Camlez;22;eau potable : EX TREGOR;152153;2024;88,8;0,8;6,2;66,2;conforme;125157;7780;25;70;845;Non vérifié
+22029;Canihuel;22;eau potable : CENTRE BRETAGNE PELEM;152112;2024;84,7;0,5;2,9;65,6;conforme;162943;5225;41;63;350;Non vérifié
+22030;Caouënnec-Lanvézéac;22;eau potable : AEP KREIS TREGER;152131;2024;81,7;0,7;3,0;65,6;conforme;61003;8017;24;85;899;Non vérifié
+22031;Carnoët;22;eau potable : ARGOAT;152107;2024;81,4;0,6;2,6;65,5;conforme;128479;13274;54;104;673;Non vérifié
+22032;Caulnes;22;eau potable : EX CAULNES-RANCE;152111;2024;80,1;1,0;4,1;65,8;conforme;65178;40012;44;89;2501;Non vérifié
+22033;Caurel;22;eau potable;151855;2024;53,3;2,4;2,8;65,6;non conforme;17879;17879;139;316;353;Non vérifié
+22034;Cavan;22;eau potable;152125;2024;75,4;1,2;3,7;65,7;conforme;226398;25513;44;123;1571;Non vérifié
+22035;Les Champs-Géraux;22;eau potable : SEMOP;196527;2024;86,0;1,6;9,8;67,0;conforme;544393;11538;30;85;1054;Non vérifié
+22036;La Chapelle-Blanche;22;eau potable : EX CAULNES-RANCE;152111;2024;80,1;1,0;4,1;65,8;conforme;65178;3376;44;89;211;Non vérifié
+22037;La Chapelle-Neuve;22;eau potable : GOAS KOLL;152116;2024;90,0;0,2;2,2;65,4;conforme;11159;2781;18;39;413;Non vérifié
+22039;La Chèze;22;eau potable;152141;2024;87,2;2,0;13,4;67,7;conforme;477873;13661;65;55;578;Non vérifié
+22040;Coadout;22;eau potable : SECTEUR BOURBRIAC;152126;2024;90,4;0,3;2,8;65,6;conforme;35651;3951;20;40;532;Non vérifié
+22041;Coatascorn;22;eau potable;152125;2024;75,4;1,2;3,7;65,7;conforme;226398;4027;44;123;248;Non vérifié
+22042;Coatréven;22;eau potable : AEP KREIS TREGER;152131;2024;81,7;0,7;3,0;65,6;conforme;61003;4361;24;85;489;Non vérifié
+22043;Coëtlogon;22;eau potable;152141;2024;87,2;2,0;13,4;67,7;conforme;477873;5294;65;55;224;Non vérifié
+22044;Coëtmieux;22;eau potable : REGIE;152137;2024;88,3;1,0;7,6;66,5;conforme;487366;18760;27;51;1869;Non vérifié
+22045;Cohiniac;22;eau potable : REGIE;301854;2024;79,9;1,2;4,6;65,9;conforme;501427;5716;39;119;402;Non vérifié
+22046;Le Mené;22;eau potable;152135;2024;79,4;0,8;3,0;65,6;conforme;64547;53838;22;111;6556;Non vérifié
+22047;Corlay;22;eau potable;152113;2024;77,9;0,9;3,1;65,6;conforme;24979;14523;44;105;914;Non vérifié
+22048;Corseul;22;eau potable : FREMUR;152115;2024;92,2;0,6;7,4;66,5;conforme;161031;13126;15;31;2331;Non vérifié
+22049;Créhen;22;eau potable : FREMUR;152115;2024;92,2;0,6;7,4;66,5;conforme;161031;9410;15;31;1671;Non vérifié
+22050;Dinan;22;eau potable : SEMOP;196527;2024;86,0;1,6;9,8;67,0;conforme;544393;161618;30;85;14764;Non vérifié
+22052;Duault;22;eau potable : ARGOAT;152107;2024;81,4;0,6;2,6;65,5;conforme;128479;7594;54;104;385;Non vérifié
+22053;Éréac;22;eau potable : EX QUELARON;152145;2024;82,1;0,9;4,0;65,8;conforme;304690;9686;39;85;675;Non vérifié
+22054;Erquy;22;eau potable : ERQUY HENANBIHEN PLURIEN;307834;2024;81,2;1,4;6,0;66,2;conforme;129181;73611;51;86;3974;Non vérifié
+22055;Binic-Étables-sur-Mer;22;eau potable : SECTEUR NORD;152158;2024;93,3;0,7;9,2;66,8;conforme;63788;29849;12;28;7041;Non vérifié
+22056;Évran;22;eau potable : SEMOP;196527;2024;86,0;1,6;9,8;67,0;conforme;544393;19529;30;85;1784;Non vérifié
+22057;Le Faouët;22;eau potable : REGIE;301854;2024;79,9;1,2;4,6;65,9;conforme;501427;5858;39;119;412;Non vérifié
+22059;Le Foeil;22;eau potable : SECTEUR SUD;332974;2024;84,6;1,1;6,0;66,2;conforme;203480;17705;35;70;1375;Non vérifié
+22060;Gausson;22;eau potable;151881;2024;86,1;0,5;3,1;65,6;conforme;3650;3650;15;60;648;Non vérifié
+22061;Glomel;22;eau potable : CENTRE BRETAGNE PELEM;152112;2024;84,7;0,5;2,9;65,6;conforme;162943;21499;41;63;1440;Non vérifié
+22062;Gomené;22;eau potable;152135;2024;79,4;0,8;3,0;65,6;conforme;64547;4599;22;111;560;Non vérifié
+22063;Gommenec'h;22;eau potable : REGIE;301854;2024;79,9;1,2;4,6;65,9;conforme;501427;7834;39;119;551;Non vérifié
+22064;Gouarec;22;eau potable : SAINT-MAUDEZ;152148;2024;75,6;0,7;2,2;65,4;conforme;110243;17719;56;115;866;Non vérifié
+22065;Goudelin;22;eau potable : REGIE;301854;2024;79,9;1,2;4,6;65,9;conforme;501427;24896;39;119;1751;Non vérifié
+22067;Grâces;22;eau potable : SECTEUR GUINGAMP;152121;2024;82,7;2,9;13,9;67,8;conforme;414106;39210;41;78;2601;Non vérifié
+22068;Grâce-Uzel;22;eau potable;151889;2024;99,7;0,0;6,5;66,3;conforme;0;0;0;0;423;Non vérifié
+22069;Guenroc;22;eau potable : EX CAULNES-RANCE;152111;2024;80,1;1,0;4,1;65,8;conforme;65178;3440;44;89;215;Non vérifié
+22070;Guingamp;22;eau potable : SECTEUR GUINGAMP;152121;2024;82,7;2,9;13,9;67,8;conforme;414106;107197;41;78;7111;Non vérifié
+22071;Guitté;22;eau potable : EX CAULNES-RANCE;152111;2024;80,1;1,0;4,1;65,8;conforme;65178;11215;44;89;701;Non vérifié
+22072;Gurunhuel;22;eau potable : GOAS KOLL;152116;2024;90,0;0,2;2,2;65,4;conforme;11159;2754;18;39;409;Non vérifié
+22073;La Harmoye;22;eau potable : SECTEUR SUD;332974;2024;84,6;1,1;6,0;66,2;conforme;203480;4970;35;70;386;Non vérifié
+22074;Le Haut-Corlay;22;eau potable;152113;2024;77,9;0,9;3,1;65,6;conforme;24979;10456;44;105;658;Non vérifié
+22075;Hémonstoir;22;eau potable;152141;2024;87,2;2,0;13,4;67,7;conforme;477873;16237;65;55;687;Non vérifié
+22076;Hénanbihen;22;eau potable : ERQUY HENANBIHEN PLURIEN;307834;2024;81,2;1,4;6,0;66,2;conforme;129181;27396;51;86;1479;Non vérifié
+22077;Hénansal;22;eau potable : REGIE;152137;2024;88,3;1,0;7,6;66,5;conforme;487366;12988;27;51;1294;Non vérifié
+22079;Hénon;22;eau potable : REGIE;152137;2024;88,3;1,0;7,6;66,5;conforme;487366;23186;27;51;2310;Non vérifié
+22081;Hillion;22;eau potable : SECTEUR EST;152106;2024;88,7;1,3;10,0;67,0;conforme;219100;29018;18;47;4335;Non vérifié
+22082;Le Hinglé;22;eau potable : SEMOP;196527;2024;86,0;1,6;9,8;67,0;conforme;544393;10148;30;85;927;Non vérifié
+22083;Illifaut;22;eau potable : HYVET;152124;2024;95,7;0,3;6,6;66,3;conforme;31750;1697;7;18;706;Non vérifié
+22084;Jugon-les-Lacs;22;eau potable : EX QUELARON;152145;2024;82,1;0,9;4,0;65,8;conforme;304690;36463;39;85;2541;Non vérifié
+22085;Kerbors;22;eau potable : AEP EX LEZARDRIEUX;152140;2024;71,6;1,3;3,2;65,6;conforme;154070;4298;40;150;292;Non vérifié
+22086;Kerfot;22;eau potable : SECTEUR PAIMPOL GOELO;152117;2024;80,1;1,7;6,9;66,4;conforme;295358;8100;35;105;642;Non vérifié
+22087;Kergrist-Moëlou;22;eau potable : CENTRE BRETAGNE PELEM;152112;2024;84,7;0,5;2,9;65,6;conforme;162943;9391;41;63;629;Non vérifié
+22088;Kerien;22;eau potable : SECTEUR BOURBRIAC;152126;2024;90,4;0,3;2,8;65,6;conforme;35651;1820;20;40;245;Non vérifié
+22090;Kermaria-Sulard;22;eau potable : AEP KREIS TREGER;152131;2024;81,7;0,7;3,0;65,6;conforme;61003;9916;24;85;1112;Non vérifié
+22091;Kermoroc'h;22;eau potable;152125;2024;75,4;1,2;3,7;65,7;conforme;226398;7194;44;123;443;Non vérifié
+22092;Kerpert;22;eau potable : CENTRE BRETAGNE PELEM;152112;2024;84,7;0,5;2,9;65,6;conforme;162943;4001;41;63;268;Non vérifié
+22093;Lamballe-Armor;22;eau potable : REGIE;152137;2024;88,3;1,0;7,6;66,5;conforme;487366;173055;27;51;17241;Non vérifié
+22094;Lancieux;22;eau potable : FREMUR;152115;2024;92,2;0,6;7,4;66,5;conforme;161031;9072;15;31;1611;Non vérifié
+22095;Landebaëron;22;eau potable;152125;2024;75,4;1,2;3,7;65,7;conforme;226398;2712;44;123;167;Non vérifié
+22096;Landébia;22;eau potable : FREMUR;152115;2024;92,2;0,6;7,4;66,5;conforme;161031;2596;15;31;461;Non vérifié
+22097;La Landec;22;eau potable : EX QUELARON;152145;2024;82,1;0,9;4,0;65,8;conforme;304690;10920;39;85;761;Non vérifié
+22098;Landéhen;22;eau potable : REGIE;152137;2024;88,3;1,0;7,6;66,5;conforme;487366;14494;27;51;1444;Non vérifié
+22099;Lanfains;22;eau potable : SECTEUR SUD;332974;2024;84,6;1,1;6,0;66,2;conforme;203480;13868;35;70;1077;Non vérifié
+22101;Langoat;22;eau potable;152128;2024;74,2;0,9;2,5;65,5;conforme;79372;16941;40;130;1175;Non vérifié
+22103;Langrolay-sur-Rance;22;eau potable : FREMUR;152115;2024;92,2;0,6;7,4;66,5;conforme;161031;5581;15;31;991;Non vérifié
+22104;Languédias;22;eau potable : EX QUELARON;152145;2024;82,1;0,9;4,0;65,8;conforme;304690;8079;39;85;563;Non vérifié
+22105;Languenan;22;eau potable : FREMUR;152115;2024;92,2;0,6;7,4;66,5;conforme;161031;6589;15;31;1170;Non vérifié
+22106;Langueux;22;eau potable : SECTEUR EST;152106;2024;88,7;1,3;10,0;67,0;conforme;219100;53143;18;47;7939;Non vérifié
+22107;Bon Repos sur Blavet;22;eau potable : SAINT-MAUDEZ;152148;2024;75,6;0,7;2,2;65,4;conforme;110243;25535;56;115;1248;Non vérifié
+22108;Lanleff;22;eau potable : SECTEUR PAIMPOL GOELO;152117;2024;80,1;1,7;6,9;66,4;conforme;295358;1527;35;105;121;Non vérifié
+22109;Lanloup;22;eau potable : SECTEUR PAIMPOL GOELO;152117;2024;80,1;1,7;6,9;66,4;conforme;295358;3179;35;105;252;Non vérifié
+22110;Lanmérin;22;eau potable : AEP KREIS TREGER;152131;2024;81,7;0,7;3,0;65,6;conforme;61003;5127;24;85;575;Non vérifié
+22111;Lanmodez;22;eau potable : AEP EX LEZARDRIEUX;152140;2024;71,6;1,3;3,2;65,6;conforme;154070;5800;40;150;394;Non vérifié
+22112;Lannebert;22;eau potable : REGIE;301854;2024;79,9;1,2;4,6;65,9;conforme;501427;6014;39;119;423;Non vérifié
+22113;Lannion;22;eau potable : AEP LANNION;151913;2024;88,6;1,9;14,6;67,9;conforme;195539;195539;26;75;20315;Non vérifié
+22114;Lanrelas;22;eau potable : EX QUELARON;152145;2024;82,1;0,9;4,0;65,8;conforme;304690;12542;39;85;874;Non vérifié
+22115;Lanrivain;22;eau potable : CENTRE BRETAGNE PELEM;152112;2024;84,7;0,5;2,9;65,6;conforme;162943;6927;41;63;464;Non vérifié
+22116;Lanrodec;22;eau potable : REGIE;301854;2024;79,9;1,2;4,6;65,9;conforme;501427;19721;39;119;1387;Non vérifié
+22117;Lantic;22;eau potable : SECTEUR NORD;152158;2024;93,3;0,7;9,2;66,8;conforme;63788;7690;12;28;1814;Non vérifié
+22118;Lanvallay;22;eau potable : SEMOP;196527;2024;86,0;1,6;9,8;67,0;conforme;544393;46973;30;85;4291;Non vérifié
+22119;Lanvellec;22;eau potable : EX TRAOU LONG;152151;2024;92,0;0,3;2,9;65,6;conforme;65385;4374;20;55;608;Non vérifié
+22121;Lanvollon;22;eau potable : REGIE;301854;2024;79,9;1,2;4,6;65,9;conforme;501427;27996;39;119;1969;Non vérifié
+22122;Laurenan;22;eau potable;152135;2024;79,4;0,8;3,0;65,6;conforme;64547;6110;22;111;744;Non vérifié
+22124;Lescouët-Gouarec;22;eau potable : SAINT-MAUDEZ;152148;2024;75,6;0,7;2,2;65,4;conforme;110243;4420;56;115;216;Non vérifié
+22126;Le Leslay;22;eau potable : SECTEUR SUD;332974;2024;84,6;1,1;6,0;66,2;conforme;203480;1957;35;70;152;Non vérifié
+22127;Lézardrieux;22;eau potable : AEP EX LEZARDRIEUX;152140;2024;71,6;1,3;3,2;65,6;conforme;154070;23890;40;150;1623;Non vérifié
+22128;Locarn;22;eau potable : CENTRE BRETAGNE PELEM;152112;2024;84,7;0,5;2,9;65,6;conforme;162943;6480;41;63;434;Non vérifié
+22129;Loc-Envel;22;eau potable : GOAS KOLL;152116;2024;90,0;0,2;2,2;65,4;conforme;11159;505;18;39;75;Non vérifié
+22131;Loguivy-Plougras;22;eau potable : EX TRAOU LONG;152151;2024;92,0;0,3;2,9;65,6;conforme;65385;6043;20;55;840;Non vérifié
+22132;Lohuec;22;eau potable : ARGOAT;152107;2024;81,4;0,6;2,6;65,5;conforme;128479;4832;54;104;245;Non vérifié
+22133;Loscouët-sur-Meu;22;eau potable : LOSCOUET-SUR-MEU;337534;2024;89,7;0,3;2,8;65,6;conforme;4649;4649;19;40;659;Non vérifié
+22134;Louannec;22;eau potable : EX TREGOR;152153;2024;88,8;0,8;6,2;66,2;conforme;125157;27797;25;70;3019;Non vérifié
+22135;Louargat;22;eau potable : LOUARGAT;151924;2024;76,9;0,9;3,1;65,6;conforme;40695;40695;46;124;2448;Non vérifié
+22136;Loudéac;22;eau potable;152141;2024;87,2;2,0;13,4;67,7;conforme;477873;236041;65;55;9987;Non vérifié
+22137;Maël-Carhaix;22;eau potable : CENTRE BRETAGNE PELEM;152112;2024;84,7;0,5;2,9;65,6;conforme;162943;22350;41;63;1497;Non vérifié
+22138;Maël-Pestivien;22;eau potable : ARGOAT;152107;2024;81,4;0,6;2,6;65,5;conforme;128479;7140;54;104;362;Non vérifié
+22139;Magoar;22;eau potable : SECTEUR BOURBRIAC;152126;2024;90,4;0,3;2,8;65,6;conforme;35651;557;20;40;75;Non vérifié
+22140;La Malhoure;22;eau potable : REGIE;152137;2024;88,3;1,0;7,6;66,5;conforme;487366;6283;27;51;626;Non vérifié
+22141;Mantallot;22;eau potable;152125;2024;75,4;1,2;3,7;65,7;conforme;226398;3670;44;123;226;Non vérifié
+22143;Matignon;22;eau potable : MATIGNON;151929;2024;92,2;0,5;5,7;66,1;conforme;8156;8156;13;32;1771;Non vérifié
+22144;La Méaugon;22;eau potable : EX BOEGAN;302314;2024;86,5;1,1;6,9;66,4;conforme;44390;11589;24;78;1320;Non vérifié
+22145;Mégrit;22;eau potable : EX QUELARON;152145;2024;82,1;0,9;4,0;65,8;conforme;304690;11652;39;85;812;Non vérifié
+22146;Mellionnec;22;eau potable : SAINT-MAUDEZ;152148;2024;75,6;0,7;2,2;65,4;conforme;110243;9064;56;115;443;Non vérifié
+22147;Merdrignac (avant 2025);22;eau potable : HYVET;152124;2024;95,7;0,3;6,6;66,3;conforme;31750;7543;7;18;3139;Non vérifié
+22148;Mérillac;22;eau potable : EX LA HUTTE;152133;2024;89,0;0,3;2,5;65,5;conforme;17684;594;7;49;249;Non vérifié
+22149;Merléac;22;eau potable;152127;2024;77,9;0,7;2,5;65,5;conforme;34066;14802;84;127;481;Non vérifié
+22150;Le Merzer;22;eau potable : REGIE;301854;2024;79,9;1,2;4,6;65,9;conforme;501427;14019;39;119;986;Non vérifié
+22152;Minihy-Tréguier;22;eau potable : AEP KERNEVEC;152130;2024;85,8;1,1;6,9;66,4;conforme;28836;10281;22;58;1271;Non vérifié
+22153;Moncontour;22;eau potable : MONCONTOUR;151936;2024;79,4;3,5;13,4;67,7;conforme;16480;3076;11;95;738;Non vérifié
+22155;La Motte;22;eau potable;152134;2024;78,8;1,3;4,9;66,0;conforme;70682;39852;50;105;2173;Non vérifié
+22156;Moustéru;22;eau potable : SECTEUR BOURBRIAC;152126;2024;90,4;0,3;2,8;65,6;conforme;35651;4791;20;40;645;Non vérifié
+22157;Le Moustoir;22;eau potable : CENTRE BRETAGNE PELEM;152112;2024;84,7;0,5;2,9;65,6;conforme;162943;9794;41;63;656;Non vérifié
+22158;Guerlédan;22;eau potable : MUR-DE-BRETAGNE;336834;2024;65,7;2,8;5,4;66,1;non conforme;82271;82271;89;188;2532;Non vérifié
+22160;Noyal;22;eau potable : REGIE;152137;2024;88,3;1,0;7,6;66,5;conforme;487366;9887;27;51;985;Non vérifié
+22161;Pabu;22;eau potable : SECTEUR GUINGAMP;152121;2024;82,7;2,9;13,9;67,8;conforme;414106;41772;41;78;2771;Non vérifié
+22162;Paimpol;22;eau potable : SECTEUR PAIMPOL GOELO;152117;2024;80,1;1,7;6,9;66,4;conforme;295358;92620;35;105;7341;Non vérifié
+22163;Paule;22;eau potable : CENTRE BRETAGNE PELEM;152112;2024;84,7;0,5;2,9;65,6;conforme;162943;10018;41;63;671;Non vérifié
+22164;Pédernec;22;eau potable;152125;2024;75,4;1,2;3,7;65,7;conforme;226398;30742;44;123;1893;Non vérifié
+22165;Penguily;22;eau potable : REGIE;152137;2024;88,3;1,0;7,6;66,5;conforme;487366;6193;27;51;617;Non vérifié
+22166;Penvénan;22;eau potable : EX TREGOR;152153;2024;88,8;0,8;6,2;66,2;conforme;125157;23792;25;70;2584;Non vérifié
+22168;Perros-Guirec;22;eau potable : AEP TRAOUIERO;152152;2024;86,5;2,0;12,5;67,5;conforme;123056;91556;34;68;7336;Non vérifié
+22169;Peumerit-Quintin;22;eau potable : ARGOAT;152107;2024;81,4;0,6;2,6;65,5;conforme;128479;3767;54;104;191;Non vérifié
+22170;Plaine-Haute;22;eau potable : SECTEUR SUD;332974;2024;84,6;1,1;6,0;66,2;conforme;203480;22044;35;70;1712;Non vérifié
+22171;Plaintel;22;eau potable : SECTEUR SUD;332974;2024;84,6;1,1;6,0;66,2;conforme;203480;59256;35;70;4602;Non vérifié
+22172;Plancoët;22;eau potable : FREMUR;152115;2024;92,2;0,6;7,4;66,5;conforme;161031;17479;15;31;3104;Non vérifié
+22174;Pléboulle;22;eau potable : EX CAP FREHEL;152110;2024;85,9;0,7;4,1;65,8;conforme;35778;8370;32;66;721;Non vérifié
+22175;Plédéliac;22;eau potable : REGIE;152137;2024;88,3;1,0;7,6;66,5;conforme;487366;16682;27;51;1662;Non vérifié
+22176;Plédran;22;eau potable : SECTEUR EST;152106;2024;88,7;1,3;10,0;67,0;conforme;219100;46409;18;47;6933;Non vérifié
+22177;Pléguien;22;eau potable : REGIE;301854;2024;79,9;1,2;4,6;65,9;conforme;501427;20517;39;119;1443;Non vérifié
+22178;Pléhédel;22;eau potable : SECTEUR PAIMPOL GOELO;152117;2024;80,1;1,7;6,9;66,4;conforme;295358;16477;35;105;1306;Non vérifié
+22179;Fréhel;22;eau potable : EX CAP FREHEL;152110;2024;85,9;0,7;4,1;65,8;conforme;35778;18701;32;66;1611;Non vérifié
+22180;Plélan-le-Petit;22;eau potable : EX QUELARON;152145;2024;82,1;0,9;4,0;65,8;conforme;304690;28585;39;85;1992;Non vérifié
+22181;Plélauff;22;eau potable : SAINT-MAUDEZ;152148;2024;75,6;0,7;2,2;65,4;conforme;110243;14650;56;115;716;Non vérifié
+22182;Plélo;22;eau potable : REGIE;301854;2024;79,9;1,2;4,6;65,9;conforme;501427;47546;39;119;3344;Non vérifié
+22183;Les Moulins;22;eau potable;152141;2024;87,2;2,0;13,4;67,7;conforme;477873;88961;65;55;3764;Non vérifié
+22184;Plémy;22;eau potable : PLEMY;151960;2024;84,2;1,0;5,2;66,0;conforme;27630;27630;48;81;1578;Non vérifié
+22185;Plénée-Jugon;22;eau potable : EX QUELARON;152145;2024;82,1;0,9;4,0;65,8;conforme;304690;37008;39;85;2579;Non vérifié
+22186;Pléneuf-Val-André;22;eau potable : REGIE;152137;2024;88,3;1,0;7,6;66,5;conforme;487366;40029;27;51;3988;Non vérifié
+22187;Plérin;22;eau potable : REGIE;203597;2024;90,2;3,2;29,3;70,9;conforme;818254;147817;28;88;14425;Non vérifié
+22188;Plerneuf;22;eau potable : REGIE;301854;2024;79,9;1,2;4,6;65,9;conforme;501427;15967;39;119;1123;Non vérifié
+22189;Plésidy;22;eau potable : REGIE;301854;2024;79,9;1,2;4,6;65,9;conforme;501427;8005;39;119;563;Non vérifié
+22190;Pleslin-Trigavou;22;eau potable : FREMUR;152115;2024;92,2;0,6;7,4;66,5;conforme;161031;22891;15;31;4065;Non vérifié
+22193;Plestan;22;eau potable : EX QUELARON;152145;2024;82,1;0,9;4,0;65,8;conforme;304690;23462;39;85;1635;Non vérifié
+22194;Plestin-les-Grèves;22;eau potable : AEP LA BAIE;152132;2024;84,1;1,3;6,6;66,3;conforme;80864;65480;49;134;3639;Non vérifié
+22195;Pleubian;22;eau potable : AEP EX LEZARDRIEUX;152140;2024;71,6;1,3;3,2;65,6;conforme;154070;34812;40;150;2365;Non vérifié
+22196;Pleudaniel;22;eau potable : AEP EX LEZARDRIEUX;152140;2024;71,6;1,3;3,2;65,6;conforme;154070;13557;40;150;921;Non vérifié
+22197;Pleudihen-sur-Rance;22;eau potable : SEMOP;196527;2024;86,0;1,6;9,8;67,0;conforme;544393;32008;30;85;2924;Non vérifié
+22198;Pleumeur-Bodou;22;eau potable : AEP PLEUMEUR BODOU;151978;2024;94,8;0,7;12,5;67,5;conforme;25563;25563;18;48;3848;Non vérifié
+22199;Pleumeur-Gautier;22;eau potable : AEP EX LEZARDRIEUX;152140;2024;71,6;1,3;3,2;65,6;conforme;154070;17487;40;150;1188;Non vérifié
+22200;Pléven;22;eau potable : FREMUR;152115;2024;92,2;0,6;7,4;66,5;conforme;161031;3491;15;31;620;Non vérifié
+22201;Plévenon;22;eau potable : EX CAP FREHEL;152110;2024;85,9;0,7;4,1;65,8;conforme;35778;8706;32;66;750;Non vérifié
+22202;Plévin;22;eau potable : CENTRE BRETAGNE PELEM;152112;2024;84,7;0,5;2,9;65,6;conforme;162943;11257;41;63;754;Non vérifié
+22203;Plœuc-L'Hermitage;22;eau potable : PLOEUC L'HERMITAGE ST-CARREUC;302294;2024;65,0;2,1;4,0;65,8;non conforme;149943;108332;72;198;4103;Non vérifié
+22204;Ploëzal;22;eau potable;152128;2024;74,2;0,9;2,5;65,5;conforme;79372;17720;40;130;1229;Non vérifié
+22205;Plorec-sur-Arguenon;22;eau potable : EX QUELARON;152145;2024;82,1;0,9;4,0;65,8;conforme;304690;6701;39;85;467;Non vérifié
+22206;Châtelaudren-Plouagat;22;eau potable : REGIE;301854;2024;79,9;1,2;4,6;65,9;conforme;501427;56504;39;119;3974;Non vérifié
+22207;Plouaret;22;eau potable : EX TRAOU LONG;152151;2024;92,0;0,3;2,9;65,6;conforme;65385;16093;20;55;2237;Non vérifié
+22208;Plouasne;22;eau potable : SEMOP;196527;2024;86,0;1,6;9,8;67,0;conforme;544393;19682;30;85;1798;Non vérifié
+22209;Beaussais-sur-Mer;22;eau potable : FREMUR;152115;2024;92,2;0,6;7,4;66,5;conforme;161031;25329;15;31;4498;Non vérifié
+22210;Ploubazlanec;22;eau potable : SECTEUR PAIMPOL GOELO;152117;2024;80,1;1,7;6,9;66,4;conforme;295358;36992;35;105;2932;Non vérifié
+22211;Ploubezre;22;eau potable : AEP PLOUBEZRE;151993;2024;85,9;0,7;4,0;65,8;conforme;25800;25800;19;64;3780;Non vérifié
+22212;Plouëc-du-Trieux;22;eau potable : SECTEUR PONTRIEUX;152146;2024;86,2;0,6;4,0;65,8;conforme;40736;11225;27;75;1140;Non vérifié
+22213;Plouër-sur-Rance;22;eau potable : PLOUER SUR RANCE;151996;2024;92,1;0,6;7,1;66,4;conforme;15133;15133;12;31;3416;Non vérifié
+22214;Plouézec;22;eau potable : SECTEUR PAIMPOL GOELO;152117;2024;80,1;1,7;6,9;66,4;conforme;295358;39705;35;105;3147;Non vérifié
+22215;Ploufragan;22;eau potable : REGIE;203597;2024;90,2;3,2;29,3;70,9;conforme;818254;117915;28;88;11507;Non vérifié
+22216;Plougonver;22;eau potable : GOAS KOLL;152116;2024;90,0;0,2;2,2;65,4;conforme;11159;5118;18;39;760;Non vérifié
+22217;Plougras;22;eau potable : EX TRAOU LONG;152151;2024;92,0;0,3;2,9;65,6;conforme;65385;3065;20;55;426;Non vérifié
+22218;Plougrescant;22;eau potable : EX TREGOR;152153;2024;88,8;0,8;6,2;66,2;conforme;125157;11436;25;70;1242;Non vérifié
+22219;Plouguenast-Langast;22;eau potable : REGIE;152004;2024;83,1;0,7;3,6;65,7;conforme;33573;33573;39;74;2380;Non vérifié
+22220;Plouguernével;22;eau potable : PLOUGUERNEVEL;152005;2024;77,0;1,1;3,7;65,7;conforme;34794;34794;60;109;1601;Non vérifié
+22221;Plouguiel;22;eau potable : EX TREGOR;152153;2024;88,8;0,8;6,2;66,2;conforme;125157;16085;25;70;1747;Non vérifié
+22222;Plouha;22;eau potable : REGIE;301854;2024;79,9;1,2;4,6;65,9;conforme;501427;65888;39;119;4634;Non vérifié
+22223;Plouisy;22;eau potable : SECTEUR GUINGAMP;152121;2024;82,7;2,9;13,9;67,8;conforme;414106;30255;41;78;2007;Non vérifié
+22224;Ploulec'h;22;eau potable : AEP EX LEGUER;152138;2024;87,4;0,8;5,6;66,1;conforme;21103;10963;19;54;1598;Non vérifié
+22225;Ploumagoar;22;eau potable : SECTEUR GUINGAMP;152121;2024;82,7;2,9;13,9;67,8;conforme;414106;81615;41;78;5414;Non vérifié
+22226;Ploumilliau;22;eau potable : AEP PLOUMILLIAU;152011;2024;90,3;0,3;3,1;65,6;conforme;10347;10347;11;36;2466;Non vérifié
+22227;Plounérin;22;eau potable : EX TRAOU LONG;152151;2024;92,0;0,3;2,9;65,6;conforme;65385;5741;20;55;798;Non vérifié
+22228;Plounévez-Moëdec;22;eau potable : EX TRAOU LONG;152151;2024;92,0;0,3;2,9;65,6;conforme;65385;10640;20;55;1479;Non vérifié
+22229;Plounévez-Quintin;22;eau potable : SAINT-MAUDEZ;152148;2024;75,6;0,7;2,2;65,4;conforme;110243;21770;56;115;1064;Non vérifié
+22231;Plourac'h;22;eau potable : ARGOAT;152107;2024;81,4;0,6;2,6;65,5;conforme;128479;6923;54;104;351;Non vérifié
+22232;Plourhan;22;eau potable : SECTEUR NORD;152158;2024;93,3;0,7;9,2;66,8;conforme;63788;9136;12;28;2155;Non vérifié
+22233;Plourivo;22;eau potable : SECTEUR PAIMPOL GOELO;152117;2024;80,1;1,7;6,9;66,4;conforme;295358;28640;35;105;2270;Non vérifié
+22234;Plouvara;22;eau potable : REGIE;301854;2024;79,9;1,2;4,6;65,9;conforme;501427;16266;39;119;1144;Non vérifié
+22235;Plouzélambre;22;eau potable : AEP LA BAIE;152132;2024;84,1;1,3;6,6;66,3;conforme;80864;3563;49;134;198;Non vérifié
+22236;Pludual;22;eau potable : REGIE;301854;2024;79,9;1,2;4,6;65,9;conforme;501427;10493;39;119;738;Non vérifié
+22237;Pluduno;22;eau potable : FREMUR;152115;2024;92,2;0,6;7,4;66,5;conforme;161031;16015;15;31;2844;Non vérifié
+22238;Plufur;22;eau potable : EX TRAOU LONG;152151;2024;92,0;0,3;2,9;65,6;conforme;65385;3806;20;55;529;Non vérifié
+22239;Plumaudan;22;eau potable : EX QUELARON;152145;2024;82,1;0,9;4,0;65,8;conforme;304690;20391;39;85;1421;Non vérifié
+22240;Plumaugat;22;eau potable : PLUMAUGAT;152021;2024;89,3;0,4;3,6;65,7;conforme;12483;12483;29;102;1160;Non vérifié
+22241;Plumieux (avant 2025);22;eau potable;152141;2024;87,2;2,0;13,4;67,7;conforme;477873;39659;65;55;1678;Non vérifié
+22242;Plurien;22;eau potable : ERQUY HENANBIHEN PLURIEN;307834;2024;81,2;1,4;6,0;66,2;conforme;129181;28174;51;86;1521;Non vérifié
+22243;Plusquellec;22;eau potable : ARGOAT;152107;2024;81,4;0,6;2,6;65,5;conforme;128479;11025;54;104;559;Non vérifié
+22244;Plussulien;22;eau potable : SAINT-MAUDEZ;152148;2024;75,6;0,7;2,2;65,4;conforme;110243;10640;56;115;520;Non vérifié
+22245;Pluzunet;22;eau potable;152125;2024;75,4;1,2;3,7;65,7;conforme;226398;16516;44;123;1017;Non vérifié
+22246;Pommeret;22;eau potable : REGIE;152137;2024;88,3;1,0;7,6;66,5;conforme;487366;21239;27;51;2116;Non vérifié
+22248;Pommerit-le-Vicomte;22;eau potable : REGIE;301854;2024;79,9;1,2;4,6;65,9;conforme;501427;25721;39;119;1809;Non vérifié
+22249;Pont-Melvez;22;eau potable : SECTEUR BOURBRIAC;152126;2024;90,4;0,3;2,8;65,6;conforme;35651;4419;20;40;595;Non vérifié
+22250;Pontrieux;22;eau potable : SECTEUR PONTRIEUX;152146;2024;86,2;0,6;4,0;65,8;conforme;40736;9866;27;75;1002;Non vérifié
+22251;Pordic;22;eau potable : REGIE;203597;2024;90,2;3,2;29,3;70,9;conforme;818254;76383;28;88;7454;Non vérifié
+22254;Prat;22;eau potable;152125;2024;75,4;1,2;3,7;65,7;conforme;226398;17506;44;123;1078;Non vérifié
+22255;La Prénessaye;22;eau potable;152141;2024;87,2;2,0;13,4;67,7;conforme;477873;20917;65;55;885;Non vérifié
+22256;Quemper-Guézennec;22;eau potable : SECTEUR PONTRIEUX;152146;2024;86,2;0,6;4,0;65,8;conforme;40736;11009;27;75;1118;Non vérifié
+22257;Quemperven;22;eau potable : AEP KREIS TREGER;152131;2024;81,7;0,7;3,0;65,6;conforme;61003;3719;24;85;417;Non vérifié
+22258;Quessoy;22;eau potable : REGIE;152137;2024;88,3;1,0;7,6;66,5;conforme;487366;39838;27;51;3969;Non vérifié
+22259;Quévert;22;eau potable : SEMOP;196527;2024;86,0;1,6;9,8;67,0;conforme;544393;43294;30;85;3955;Non vérifié
+22260;Le Quillio;22;eau potable;152123;2024;95,5;0,5;10,3;67,1;conforme;38004;3217;15;18;597;Non vérifié
+22261;Quintenic;22;eau potable : REGIE;152137;2024;88,3;1,0;7,6;66,5;conforme;487366;3644;27;51;363;Non vérifié
+22262;Quintin;22;eau potable : SECTEUR SUD;332974;2024;84,6;1,1;6,0;66,2;conforme;203480;35267;35;70;2739;Non vérifié
+22263;Le Quiou;22;eau potable : SEMOP;196527;2024;86,0;1,6;9,8;67,0;conforme;544393;3930;30;85;359;Non vérifié
+22264;La Roche-Jaudy;22;eau potable : AEP EX LEZARDRIEUX;152140;2024;71,6;1,3;3,2;65,6;conforme;154070;38698;40;150;2629;Non vérifié
+22265;Rospez;22;eau potable : AEP KREIS TREGER;152131;2024;81,7;0,7;3,0;65,6;conforme;61003;15998;24;85;1794;Non vérifié
+22266;Rostrenen;22;eau potable : ROSTRENEN;152039;2024;88,6;1,0;7,6;66,5;conforme;36036;36036;30;73;3282;Non vérifié
+22267;Rouillac;22;eau potable : EX LA HUTTE;152133;2024;89,0;0,3;2,5;65,5;conforme;17684;976;7;49;409;Non vérifié
+22268;Ruca;22;eau potable : FREMUR;152115;2024;92,2;0,6;7,4;66,5;conforme;161031;3351;15;31;595;Non vérifié
+22269;Runan;22;eau potable;152128;2024;74,2;0,9;2,5;65,5;conforme;79372;3532;40;130;245;Non vérifié
+22271;Saint-Adrien;22;eau potable : REGIE;301854;2024;79,9;1,2;4,6;65,9;conforme;501427;5346;39;119;376;Non vérifié
+22272;Saint-Agathon;22;eau potable : SECTEUR GUINGAMP;152121;2024;82,7;2,9;13,9;67,8;conforme;414106;32697;41;78;2169;Non vérifié
+22273;Saint-Alban;22;eau potable : REGIE;152137;2024;88,3;1,0;7,6;66,5;conforme;487366;24060;27;51;2397;Non vérifié
+22274;Saint-André-des-Eaux;22;eau potable : SEMOP;196527;2024;86,0;1,6;9,8;67,0;conforme;544393;4477;30;85;409;Non vérifié
+22275;Saint-Barnabé;22;eau potable;152141;2024;87,2;2,0;13,4;67,7;conforme;477873;28905;65;55;1223;Non vérifié
+22276;Saint-Bihy;22;eau potable : SECTEUR SUD;332974;2024;84,6;1,1;6,0;66,2;conforme;203480;3438;35;70;267;Non vérifié
+22277;Saint-Brandan;22;eau potable : SECTEUR SUD;332974;2024;84,6;1,1;6,0;66,2;conforme;203480;29834;35;70;2317;Non vérifié
+22278;Saint-Brieuc;22;eau potable : REGIE;203597;2024;90,2;3,2;29,3;70,9;conforme;818254;454610;28;88;44364;Non vérifié
+22279;Saint-Caradec;22;eau potable;152123;2024;95,5;0,5;10,3;67,1;conforme;38004;6100;15;18;1132;Non vérifié
+22280;Saint-Carné;22;eau potable : SEMOP;196527;2024;86,0;1,6;9,8;67,0;conforme;544393;12775;30;85;1167;Non vérifié
+22281;Saint-Carreuc;22;eau potable : PLOEUC L'HERMITAGE ST-CARREUC;302294;2024;65,0;2,1;4,0;65,8;non conforme;149943;41611;72;198;1576;Non vérifié
+22282;Saint-Cast-le-Guildo;22;eau potable : ST-CAST-LE-GUILDO;152049;2024;93,2;0,6;8,8;66,8;conforme;22883;22883;19;25;3371;Non vérifié
+22283;Saint-Clet;22;eau potable : SECTEUR PONTRIEUX;152146;2024;86,2;0,6;4,0;65,8;conforme;40736;8636;27;75;877;Non vérifié
+22284;Saint-Connan;22;eau potable : CENTRE BRETAGNE PELEM;152112;2024;84,7;0,5;2,9;65,6;conforme;162943;4524;41;63;303;Non vérifié
+22285;Saint-Connec;22;eau potable;152123;2024;95,5;0,5;10,3;67,1;conforme;38004;1390;15;18;258;Non vérifié
+22286;Saint-Denoual;22;eau potable : REGIE;152137;2024;88,3;1,0;7,6;66,5;conforme;487366;4969;27;51;495;Non vérifié
+22287;Saint-Donan;22;eau potable : EX BOEGAN;302314;2024;86,5;1,1;6,9;66,4;conforme;44390;12968;24;78;1477;Non vérifié
+22288;Saint-Étienne-du-Gué-de-l'Isle;22;eau potable;152141;2024;87,2;2,0;13,4;67,7;conforme;477873;8792;65;55;372;Non vérifié
+22289;Saint-Fiacre;22;eau potable : REGIE;301854;2024;79,9;1,2;4,6;65,9;conforme;501427;2986;39;119;210;Non vérifié
+22291;Saint-Gildas;22;eau potable : SECTEUR SUD;332974;2024;84,6;1,1;6,0;66,2;conforme;203480;3193;35;70;248;Non vérifié
+22293;Saint-Gilles-les-Bois;22;eau potable : REGIE;301854;2024;79,9;1,2;4,6;65,9;conforme;501427;5460;39;119;384;Non vérifié
+22294;Saint-Gilles-Pligeaux;22;eau potable : CENTRE BRETAGNE PELEM;152112;2024;84,7;0,5;2,9;65,6;conforme;162943;4583;41;63;307;Non vérifié
+22295;Saint-Gilles-Vieux-Marché;22;eau potable;152127;2024;77,9;0,7;2,5;65,5;conforme;34066;9447;84;127;307;Non vérifié
+22296;Saint-Glen;22;eau potable : REGIE;152137;2024;88,3;1,0;7,6;66,5;conforme;487366;6665;27;51;664;Non vérifié
+22299;Saint-Hélen;22;eau potable : SEMOP;196527;2024;86,0;1,6;9,8;67,0;conforme;544393;17077;30;85;1560;Non vérifié
+22300;Saint-Hervé;22;eau potable;152058;2024;88,3;0,6;4,8;66,0;conforme;6369;6369;41;46;425;Non vérifié
+22302;Saint-Jacut-de-la-Mer;22;eau potable : FREMUR;152115;2024;92,2;0,6;7,4;66,5;conforme;161031;5113;15;31;908;Non vérifié
+22304;Saint-Jean-Kerdaniel;22;eau potable : REGIE;301854;2024;79,9;1,2;4,6;65,9;conforme;501427;9868;39;119;694;Non vérifié
+22305;Saint-Jouan-de-l'Isle;22;eau potable : EX CAULNES-RANCE;152111;2024;80,1;1,0;4,1;65,8;conforme;65178;7135;44;89;446;Non vérifié
+22306;Saint-Judoce;22;eau potable : SEMOP;196527;2024;86,0;1,6;9,8;67,0;conforme;544393;6502;30;85;594;Non vérifié
+22307;Saint-Julien;22;eau potable : REGIE;203597;2024;90,2;3,2;29,3;70,9;conforme;818254;21529;28;88;2101;Non vérifié
+22308;Saint-Juvat;22;eau potable : SEMOP;196527;2024;86,0;1,6;9,8;67,0;conforme;544393;7258;30;85;663;Non vérifié
+22309;Saint-Launeuc;22;eau potable : EX LA HUTTE;152133;2024;89,0;0,3;2,5;65,5;conforme;17684;463;7;49;194;Non vérifié
+22310;Saint-Laurent;22;eau potable;152125;2024;75,4;1,2;3,7;65,7;conforme;226398;8786;44;123;541;Non vérifié
+22311;Saint-Lormel;22;eau potable : FREMUR;152115;2024;92,2;0,6;7,4;66,5;conforme;161031;4967;15;31;882;Non vérifié
+22312;Saint-Maden;22;eau potable : SEMOP;196527;2024;86,0;1,6;9,8;67,0;conforme;544393;2386;30;85;218;Non vérifié
+22313;Saint-Martin-des-Prés;22;eau potable;152127;2024;77,9;0,7;2,5;65,5;conforme;34066;9817;84;127;319;Non vérifié
+22314;Saint-Maudan;22;eau potable;152141;2024;87,2;2,0;13,4;67,7;conforme;477873;9430;65;55;399;Non vérifié
+22315;Saint-Maudez;22;eau potable : EX QUELARON;152145;2024;82,1;0,9;4,0;65,8;conforme;304690;4104;39;85;286;Non vérifié
+22316;Saint-Mayeux;22;eau potable;152066;2024;74,4;1,2;3,5;65,7;conforme;21585;21585;130;125;454;Non vérifié
+22317;Saint-Méloir-des-Bois;22;eau potable : EX QUELARON;152145;2024;82,1;0,9;4,0;65,8;conforme;304690;3874;39;85;270;Non vérifié
+22318;Saint-Michel-de-Plélan;22;eau potable : EX QUELARON;152145;2024;82,1;0,9;4,0;65,8;conforme;304690;4793;39;85;334;Non vérifié
+22319;Saint-Michel-en-Grève;22;eau potable : AEP LA BAIE;152132;2024;84,1;1,3;6,6;66,3;conforme;80864;8043;49;134;447;Non vérifié
+22320;Saint-Nicodème;22;eau potable : ARGOAT;152107;2024;81,4;0,6;2,6;65,5;conforme;128479;3294;54;104;167;Non vérifié
+22321;Saint-Nicolas-du-Pélem;22;eau potable : CENTRE BRETAGNE PELEM;152112;2024;84,7;0,5;2,9;65,6;conforme;162943;22738;41;63;1523;Non vérifié
+22322;Saint-Péver;22;eau potable : REGIE;301854;2024;79,9;1,2;4,6;65,9;conforme;501427;5645;39;119;397;Non vérifié
+22323;Saint-Pôtan;22;eau potable : FREMUR;152115;2024;92,2;0,6;7,4;66,5;conforme;161031;4725;15;31;839;Non vérifié
+22324;Saint-Quay-Perros;22;eau potable : EX TREGOR;152153;2024;88,8;0,8;6,2;66,2;conforme;125157;12043;25;70;1308;Non vérifié
+22325;Saint-Quay-Portrieux;22;eau potable : SECTEUR NORD;152158;2024;93,3;0,7;9,2;66,8;conforme;63788;13667;12;28;3224;Non vérifié
+22326;Saint-Rieul;22;eau potable : REGIE;152137;2024;88,3;1,0;7,6;66,5;conforme;487366;5531;27;51;551;Non vérifié
+22327;Saint-Samson-sur-Rance;22;eau potable : SEMOP;196527;2024;86,0;1,6;9,8;67,0;conforme;544393;17788;30;85;1625;Non vérifié
+22328;Saint-Servais;22;eau potable : ARGOAT;152107;2024;81,4;0,6;2,6;65,5;conforme;128479;8580;54;104;435;Non vérifié
+22330;Saint-Thélo;22;eau potable;152123;2024;95,5;0,5;10,3;67,1;conforme;38004;1999;15;18;371;Non vérifié
+22331;Sainte-Tréphine;22;eau potable : SAINT-MAUDEZ;152148;2024;75,6;0,7;2,2;65,4;conforme;110243;3867;56;115;189;Non vérifié
+22332;Saint-Trimoël;22;eau potable : REGIE;152137;2024;88,3;1,0;7,6;66,5;conforme;487366;5280;27;51;526;Non vérifié
+22333;Saint-Vran;22;eau potable : HYVET;152124;2024;95,7;0,3;6,6;66,3;conforme;31750;1877;7;18;781;Non vérifié
+22334;Saint-Igeaux;22;eau potable : SAINT-MAUDEZ;152148;2024;75,6;0,7;2,2;65,4;conforme;110243;2578;56;115;126;Non vérifié
+22335;Senven-Léhart;22;eau potable : CENTRE BRETAGNE PELEM;152112;2024;84,7;0,5;2,9;65,6;conforme;162943;3508;41;63;235;Non vérifié
+22337;Sévignac;22;eau potable : EX QUELARON;152145;2024;82,1;0,9;4,0;65,8;conforme;304690;16029;39;85;1117;Non vérifié
+22338;Squiffiec;22;eau potable;152125;2024;75,4;1,2;3,7;65,7;conforme;226398;12131;44;123;747;Non vérifié
+22339;Taden;22;eau potable : SEMOP;196527;2024;86,0;1,6;9,8;67,0;conforme;544393;28856;30;85;2636;Non vérifié
+22340;Tonquédec;22;eau potable : AEP KREIS TREGER;152131;2024;81,7;0,7;3,0;65,6;conforme;61003;10710;24;85;1201;Non vérifié
+22341;Tramain;22;eau potable : EX QUELARON;152145;2024;82,1;0,9;4,0;65,8;conforme;304690;10102;39;85;704;Non vérifié
+22342;Trébédan;22;eau potable : EX QUELARON;152145;2024;82,1;0,9;4,0;65,8;conforme;304690;6328;39;85;441;Non vérifié
+22343;Trébeurden;22;eau potable : AEP TREBEURDEN;152080;2024;90,4;1,0;9,1;66,8;conforme;24794;24794;18;41;3821;Non vérifié
+22344;Trébrivan;22;eau potable : CENTRE BRETAGNE PELEM;152112;2024;84,7;0,5;2,9;65,6;conforme;162943;11362;41;63;761;Non vérifié
+22345;Trébry;22;eau potable : REGIE;152137;2024;88,3;1,0;7,6;66,5;conforme;487366;8472;27;51;844;Non vérifié
+22346;Trédaniel;22;eau potable : REGIE;152137;2024;88,3;1,0;7,6;66,5;conforme;487366;9094;27;51;906;Non vérifié
+22347;Trédarzec;22;eau potable : AEP EX LEZARDRIEUX;152140;2024;71,6;1,3;3,2;65,6;conforme;154070;15529;40;150;1055;Non vérifié
+22348;Trédias;22;eau potable : EX QUELARON;152145;2024;82,1;0,9;4,0;65,8;conforme;304690;7361;39;85;513;Non vérifié
+22349;Trédrez-Locquémeau;22;eau potable : AEP EX LEGUER;152138;2024;87,4;0,8;5,6;66,1;conforme;21103;10140;19;54;1478;Non vérifié
+22350;Tréduder;22;eau potable : AEP LA BAIE;152132;2024;84,1;1,3;6,6;66,3;conforme;80864;3779;49;134;210;Non vérifié
+22351;Treffrin;22;eau potable : CENTRE BRETAGNE PELEM;152112;2024;84,7;0,5;2,9;65,6;conforme;162943;7704;41;63;516;Non vérifié
+22352;Tréfumel;22;eau potable : SEMOP;196527;2024;86,0;1,6;9,8;67,0;conforme;544393;3087;30;85;282;Non vérifié
+22353;Trégastel;22;eau potable : AEP TRAOUIERO;152152;2024;86,5;2,0;12,5;67,5;conforme;123056;31500;34;68;2524;Non vérifié
+22354;Tréglamus;22;eau potable : SECTEUR GUINGAMP;152121;2024;82,7;2,9;13,9;67,8;conforme;414106;16522;41;78;1096;Non vérifié
+22356;Trégomeur;22;eau potable : REGIE;301854;2024;79,9;1,2;4,6;65,9;conforme;501427;13436;39;119;945;Non vérifié
+22358;Trégonneau;22;eau potable;152125;2024;75,4;1,2;3,7;65,7;conforme;226398;8363;44;123;515;Non vérifié
+22359;Trégrom;22;eau potable : EX TRAOU LONG;152151;2024;92,0;0,3;2,9;65,6;conforme;65385;3338;20;55;464;Non vérifié
+22360;Trégueux;22;eau potable : SECTEUR EST;152106;2024;88,7;1,3;10,0;67,0;conforme;219100;56564;18;47;8450;Non vérifié
+22361;Tréguidel;22;eau potable : REGIE;301854;2024;79,9;1,2;4,6;65,9;conforme;501427;8958;39;119;630;Non vérifié
+22362;Tréguier;22;eau potable : AEP KERNEVEC;152130;2024;85,8;1,1;6,9;66,4;conforme;28836;18555;22;58;2294;Non vérifié
+22363;Trélévern;22;eau potable : EX TREGOR;152153;2024;88,8;0,8;6,2;66,2;conforme;125157;11463;25;70;1245;Non vérifié
+22364;Trélivan;22;eau potable : SEMOP;196527;2024;86,0;1,6;9,8;67,0;conforme;544393;31362;30;85;2865;Non vérifié
+22365;Trémargat;22;eau potable : ARGOAT;152107;2024;81,4;0,6;2,6;65,5;conforme;128479;3609;54;104;183;Non vérifié
+22366;Trémel;22;eau potable : EX TRAOU LONG;152151;2024;92,0;0,3;2,9;65,6;conforme;65385;2942;20;55;409;Non vérifié
+22368;Tréméreuc;22;eau potable : FREMUR;152115;2024;92,2;0,6;7,4;66,5;conforme;161031;4105;15;31;729;Non vérifié
+22369;Trémeur;22;eau potable : EX QUELARON;152145;2024;82,1;0,9;4,0;65,8;conforme;304690;11609;39;85;809;Non vérifié
+22370;Tréméven;22;eau potable : REGIE;301854;2024;79,9;1,2;4,6;65,9;conforme;501427;5147;39;119;362;Non vérifié
+22371;Trémorel;22;eau potable : HYVET;152124;2024;95,7;0,3;6,6;66,3;conforme;31750;2778;7;18;1156;Non vérifié
+22372;Trémuson;22;eau potable : EX BOEGAN;302314;2024;86,5;1,1;6,9;66,4;conforme;44390;19833;24;78;2259;Non vérifié
+22373;Tréogan;22;eau potable : CENTRE BRETAGNE PELEM;152112;2024;84,7;0,5;2,9;65,6;conforme;162943;1583;41;63;106;Non vérifié
+22375;Tressignaux;22;eau potable : REGIE;301854;2024;79,9;1,2;4,6;65,9;conforme;501427;9526;39;119;670;Non vérifié
+22376;Trévé;22;eau potable;152134;2024;78,8;1,3;4,9;66,0;conforme;70682;30829;50;105;1681;Non vérifié
+22377;Tréveneuc;22;eau potable : SECTEUR NORD;152158;2024;93,3;0,7;9,2;66,8;conforme;63788;3447;12;28;813;Non vérifié
+22378;Trévérec;22;eau potable : REGIE;301854;2024;79,9;1,2;4,6;65,9;conforme;501427;3242;39;119;228;Non vérifié
+22379;Trévou-Tréguignec;22;eau potable : EX TREGOR;152153;2024;88,8;0,8;6,2;66,2;conforme;125157;14760;25;70;1603;Non vérifié
+22380;Trévron;22;eau potable : SEMOP;196527;2024;86,0;1,6;9,8;67,0;conforme;544393;7466;30;85;682;Non vérifié
+22381;Trézény;22;eau potable : AEP KREIS TREGER;152131;2024;81,7;0,7;3,0;65,6;conforme;61003;3157;24;85;354;Non vérifié
+22383;Troguéry;22;eau potable;152128;2024;74,2;0,9;2,5;65,5;conforme;79372;3273;40;130;227;Non vérifié
+22384;Uzel;22;eau potable;152100;2024;72,6;1,6;4,3;65,9;conforme;16370;16370;40;142;1134;Non vérifié
+22385;La Vicomté-sur-Rance;22;eau potable : SEMOP;196527;2024;86,0;1,6;9,8;67,0;conforme;544393;12578;30;85;1149;Non vérifié
+22386;Le Vieux-Bourg;22;eau potable : SECTEUR SUD;332974;2024;84,6;1,1;6,0;66,2;conforme;203480;9554;35;70;742;Non vérifié
+22387;Le Vieux-Marché;22;eau potable : EX TRAOU LONG;152151;2024;92,0;0,3;2,9;65,6;conforme;65385;9345;20;55;1299;Non vérifié
+22388;Vildé-Guingalan;22;eau potable : EX QUELARON;152145;2024;82,1;0,9;4,0;65,8;conforme;304690;18712;39;85;1304;Non vérifié
+22389;Yffiniac;22;eau potable : SECTEUR EST;152106;2024;88,7;1,3;10,0;67,0;conforme;219100;33965;18;47;5074;Non vérifié
+22390;Yvias;22;eau potable : SECTEUR PAIMPOL GOELO;152117;2024;80,1;1,7;6,9;66,4;conforme;295358;9652;35;105;765;Non vérifié
+22391;Yvignac-la-Tour;22;eau potable : EX QUELARON;152145;2024;82,1;0,9;4,0;65,8;conforme;304690;16287;39;85;1135;Non vérifié

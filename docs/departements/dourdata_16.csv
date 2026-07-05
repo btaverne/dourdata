@@ -1,0 +1,376 @@
+﻿# DourData — eau perdue par les réseaux d'eau potable (indicateurs SISPEA)
+# Périmètre : Département 16
+# Source : SISPEA — Système d'Information des Services Publics d'Eau et d'Assainissement, via data.gouv.fr / services.eaufrance.fr
+# Licence : Licence Ouverte 2.0 (Etalab)
+# Millésime des données : 2020–2024 (année la plus récente disponible par commune)
+# Date de génération de l'export : 2026-07-05
+# Méthodologie et code : https://github.com/btaverne/dourdata
+# Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
+# Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
+16001;Abzac;16;eau potable : Confolentais;140892;2024;83,7;0,6;2,9;65,6;conforme;176700;6714;36;79;518;Non vérifié
+16002;Les Adjots;16;eau potable : Argentor Lizonne;140748;2024;72,4;0,9;2,4;65,5;conforme;63279;11455;58;139;538;Non vérifié
+16003;Agris;16;eau potable : KARST;319994;2024;74,2;1,5;4,2;65,8;conforme;385763;14573;45;132;891;Non vérifié
+16005;Aigre;16;eau potable : Saint Fraigne;140910;2024;88,1;0,8;5,6;66,1;conforme;56263;21247;37;94;1594;Non vérifié
+16007;Alloue;16;eau potable : Vallée du Transon;140921;2024;78,4;0,8;2,8;65,6;conforme;38529;15159;85;188;491;Non vérifié
+16008;Ambérac;16;eau potable : Auge Nord Ouest Charente;244714;2024;66,2;1,8;3,6;65,7;conforme;38290;6936;60;184;315;Non vérifié
+16009;Ambernac;16;eau potable;140751;2024;78,7;1,7;6,2;66,2;conforme;14520;14520;104;101;381;Non vérifié
+16010;Ambleville;16;eau potable : Chateauneuf Criteuil;265254;2021;77,1;1,6;5,4;66,1;conforme;223684;3223;49;134;180;Sans anomalie apparente
+16011;Anais;16;eau potable : Champniers;140886;2024;68,8;5,0;11,1;67,2;conforme;188048;20136;94;290;587;Non vérifié
+16012;Angeac-Champagne;16;eau potable : Foussignac-Salles d'Angles;251674;2024;91,1;1,1;11,1;67,2;conforme;105518;4902;27;66;495;Non vérifié
+16013;Angeac-Charente;16;eau potable : Chateauneuf Criteuil;265254;2024;83,6;1,0;5,1;66,0;conforme;140854;3283;31;89;287;Non vérifié
+16014;Angeduc;16;eau potable : Baignes Font Chaude;301774;2024;80,3;0,7;2,8;65,6;conforme;165247;1483;28;118;145;Non vérifié
+16015;Angoulême;16;eau potable : périmètre 2025;140935;2024;89,3;1,7;14,1;67,8;conforme;784349;273342;18;46;41908;Non vérifié
+16016;Ansac-sur-Vienne;16;eau potable : Confolentais;140892;2024;83,7;0,6;2,9;65,6;conforme;176700;10564;36;79;815;Non vérifié
+16018;Ars;16;eau potable : Foussignac-Salles d'Angles;251674;2024;91,1;1,1;11,1;67,2;conforme;105518;6793;27;66;686;Non vérifié
+16019;Asnières-sur-Nouère;16;eau potable : périmètre 2025;140935;2024;89,3;1,7;14,1;67,8;conforme;784349;8297;18;46;1272;Non vérifié
+16020;Aubeterre-sur-Dronne;16;eau potable : Territoire Sud Est;338314;2024;76,7;0,7;2,5;65,5;conforme;183457;5017;44;104;312;Non vérifié
+16023;Aunac-sur-Charente (avant 2025);16;eau potable : AUNAC-LUXE;345534;2024;80,6;1,4;6,0;66,2;conforme;130540;11513;49;132;647;Non vérifié
+16024;Aussac-Vadalle;16;eau potable : KARST;319994;2024;74,2;1,5;4,2;65,8;conforme;385763;9225;45;132;564;Non vérifié
+16025;Baignes-Sainte-Radegonde;16;eau potable : Baignes Font Chaude;301774;2024;80,3;0,7;2,8;65,6;conforme;165247;12825;28;118;1254;Non vérifié
+16026;Balzac;16;eau potable : Braconne;266234;2024;63,1;5,7;9,2;66,8;non conforme;455734;50565;98;234;1410;Non vérifié
+16027;Barbezières;16;eau potable : Saint Fraigne;140910;2024;88,1;0,8;5,6;66,1;conforme;56263;1786;37;94;134;Non vérifié
+16028;Barbezieux-Saint-Hilaire;16;eau potable : Baignes Font Chaude;301774;2024;80,3;0,7;2,8;65,6;conforme;165247;48336;28;118;4726;Non vérifié
+16029;Bardenac;16;eau potable : Territoire Sud Est;338314;2024;76,7;0,7;2,5;65,5;conforme;183457;3441;44;104;214;Non vérifié
+16030;Barret;16;eau potable : Baignes Font Chaude;301774;2024;80,3;0,7;2,8;65,6;conforme;165247;11046;28;118;1080;Non vérifié
+16031;Barro;16;eau potable : Ruffec Villefagnan;320014;2024;80,0;1,2;5,0;66,0;conforme;139052;5651;37;89;413;Non vérifié
+16032;Bassac;16;eau potable : Foussignac-Salles d'Angles;251674;2024;91,1;1,1;11,1;67,2;conforme;105518;5238;27;66;529;Non vérifié
+16034;Bazac;16;eau potable : Territoire Sud Est;338314;2024;76,7;0,7;2,5;65,5;conforme;183457;2412;44;104;150;Non vérifié
+16035;Beaulieu-sur-Sonnette;16;eau potable : Saint Claud;140909;2024;76,2;1,1;3,6;65,7;conforme;164952;4163;49;112;235;Non vérifié
+16036;Bécheresse;16;eau potable : Montmorélien;140902;2024;90,5;0,7;6,2;66,2;conforme;123539;4050;38;120;290;Non vérifié
+16037;Bellon;16;eau potable : Territoire Sud Est;338314;2024;76,7;0,7;2,5;65,5;conforme;183457;2331;44;104;145;Non vérifié
+16038;Benest;16;eau potable : Vallée de l'Or;140923;2024;92,5;0,2;2,2;65,4;conforme;4841;2315;21;33;307;Non vérifié
+16039;Bernac;16;eau potable : Ruffec Villefagnan;320014;2024;80,0;1,2;5,0;66,0;conforme;139052;6362;37;89;465;Non vérifié
+16040;Berneuil;16;eau potable : Baignes Font Chaude;301774;2024;80,3;0,7;2,8;65,6;conforme;165247;3324;28;118;325;Non vérifié
+16041;Bessac;16;eau potable : Baignes Font Chaude;301774;2024;80,3;0,7;2,8;65,6;conforme;165247;1248;28;118;122;Non vérifié
+16042;Bessé;16;eau potable : Saint Fraigne;140910;2024;88,1;0,8;5,6;66,1;conforme;56263;1600;37;94;120;Non vérifié
+16044;Bioussac;16;eau potable : Argentor Lizonne;140748;2024;72,4;0,9;2,4;65,5;conforme;63279;4386;58;139;206;Non vérifié
+16045;Birac;16;eau potable : Chateauneuf Criteuil;265254;2024;83,6;1,0;5,1;66,0;conforme;140854;4278;31;89;374;Non vérifié
+16046;Coteaux-du-Blanzacais;16;eau potable : Montmorélien;140902;2024;90,5;0,7;6,2;66,2;conforme;123539;14149;38;120;1013;Non vérifié
+16047;Blanzaguet-Saint-Cybard;16;eau potable : Service Edon Ronsenac;140893;2024;71,3;0,9;2,2;65,4;conforme;95820;5468;55;152;270;Non vérifié
+16048;Boisbreteau;16;eau potable : Brossacais;140926;2024;83,5;0,3;1,7;65,3;conforme;19016;1489;30;64;136;Non vérifié
+16049;Bonnes;16;eau potable : Territoire Sud Est;338314;2024;76,7;0,7;2,5;65,5;conforme;183457;5853;44;104;364;Non vérifié
+16050;Bonneuil;16;eau potable : Chateauneuf Criteuil;265254;2024;83,6;1,0;5,1;66,0;conforme;140854;2825;31;89;247;Non vérifié
+16052;Bors (Canton de Tude-et-Lavalette);16;eau potable : Territoire Sud Est;338314;2024;76,7;0,7;2,5;65,5;conforme;183457;3586;44;104;223;Non vérifié
+16053;Bors (Canton de Charente-Sud);16;eau potable : Baignes Font Chaude;301774;2024;80,3;0,7;2,8;65,6;conforme;165247;1217;28;118;119;Non vérifié
+16054;Le Bouchage;16;eau potable : Argentor Lizonne;140748;2024;72,4;0,9;2,4;65,5;conforme;63279;3726;58;139;175;Non vérifié
+16055;Bouëx;16;eau potable : périmètre 2025;140935;2024;89,3;1,7;14,1;67,8;conforme;784349;5381;18;46;825;Non vérifié
+16056;Bourg-Charente;16;eau potable : Segonzac;140917;2024;75,6;1,8;5,7;66,1;conforme;146077;19461;60;115;887;Non vérifié
+16057;Bouteville;16;eau potable : Chateauneuf Criteuil;265254;2024;83,6;1,0;5,1;66,0;conforme;140854;3580;31;89;313;Non vérifié
+16058;Boutiers-Saint-Trojan;16;eau potable : Cognac;301814;2024;75,1;5,7;17,2;68,4;conforme;497905;27870;55;121;1387;Non vérifié
+16059;Brettes;16;eau potable : Ruffec Villefagnan;320014;2024;80,0;1,2;5,0;66,0;conforme;139052;2217;37;89;162;Non vérifié
+16060;Bréville;16;eau potable : Merpins Soloire;140925;2024;81,9;2,3;10,2;67,0;conforme;242817;10223;64;135;436;Non vérifié
+16061;Brie;16;eau potable : Braconne;266234;2024;63,1;5,7;9,2;66,8;non conforme;455734;147930;98;234;4125;Non vérifié
+16062;Brie-sous-Barbezieux;16;eau potable : Baignes Font Chaude;301774;2024;80,3;0,7;2,8;65,6;conforme;165247;1115;28;118;109;Non vérifié
+16063;Brie-sous-Chalais;16;eau potable : Territoire Sud Est;338314;2024;76,7;0,7;2,5;65,5;conforme;183457;2524;44;104;157;Non vérifié
+16064;Brigueuil;16;eau potable : Confolentais;140892;2024;83,7;0,6;2,9;65,6;conforme;176700;14194;36;79;1095;Non vérifié
+16065;Brillac;16;eau potable : Confolentais;140892;2024;83,7;0,6;2,9;65,6;conforme;176700;7661;36;79;591;Non vérifié
+16066;Brossac;16;eau potable : Brossacais;140926;2024;83,5;0,3;1,7;65,3;conforme;19016;5277;30;64;482;Non vérifié
+16067;Bunzac;16;eau potable : Chazelles;140891;2024;80,3;1,0;4,1;65,8;conforme;33460;5226;32;88;447;Non vérifié
+16068;Cellefrouin;16;eau potable : Saint Claud;140909;2024;76,2;1,1;3,6;65,7;conforme;164952;10594;49;112;598;Non vérifié
+16069;Cellettes;16;eau potable : AUNAC-LUXE;345534;2024;80,6;1,4;6,0;66,2;conforme;130540;6993;49;132;393;Non vérifié
+16070;Chabanais;16;eau potable : Montemboeuf;140901;2024;84,3;0,6;3,0;65,6;conforme;127889;17440;30;81;1589;Non vérifié
+16071;Chabrac;16;eau potable : Confolentais;140892;2024;83,7;0,6;2,9;65,6;conforme;176700;7816;36;79;603;Non vérifié
+16072;Chadurie;16;eau potable : Montmorélien;140902;2024;90,5;0,7;6,2;66,2;conforme;123539;7053;38;120;505;Non vérifié
+16073;Chalais;16;eau potable : Territoire Sud Est;338314;2024;76,7;0,7;2,5;65,5;conforme;183457;29134;44;104;1812;Non vérifié
+16074;Challignac;16;eau potable : Baignes Font Chaude;301774;2024;80,3;0,7;2,8;65,6;conforme;165247;3426;28;118;335;Non vérifié
+16075;Champagne-Vigny;16;eau potable : Montmorélien;140902;2024;90,5;0,7;6,2;66,2;conforme;123539;3268;38;120;234;Non vérifié
+16076;Champagne-Mouton;16;eau potable : Saint Claud;140909;2024;76,2;1,1;3,6;65,7;conforme;164952;15466;49;112;873;Non vérifié
+16077;Champmillon;16;eau potable : Chateauneuf Criteuil;265254;2024;83,6;1,0;5,1;66,0;conforme;140854;6108;31;89;534;Non vérifié
+16078;Champniers;16;eau potable : Braconne;266234;2024;63,1;5,7;9,2;66,8;non conforme;455734;189387;98;234;5281;Non vérifié
+16079;Chantillac;16;eau potable : Baignes Font Chaude;301774;2024;80,3;0,7;2,8;65,6;conforme;165247;3784;28;118;370;Non vérifié
+16081;La Chapelle;16;eau potable : Auge Nord Ouest Charente;244714;2024;66,2;1,8;3,6;65,7;conforme;38290;3853;60;184;175;Non vérifié
+16082;Boisné-La Tude;16;eau potable : Service Edon Ronsenac;140893;2024;71,3;0,9;2,2;65,4;conforme;95820;13408;55;152;662;Non vérifié
+16083;Charmé;16;eau potable : Saint Fraigne;140910;2024;88,1;0,8;5,6;66,1;conforme;56263;4479;37;94;336;Non vérifié
+16084;Charras;16;eau potable : KARST;319994;2024;74,2;1,5;4,2;65,8;conforme;385763;5659;45;132;346;Non vérifié
+16085;Chasseneuil-sur-Bonnieure;16;eau potable : KARST;319994;2024;74,2;1,5;4,2;65,8;conforme;385763;50884;45;132;3111;Non vérifié
+16086;Chassenon;16;eau potable : Montemboeuf;140901;2024;84,3;0,6;3,0;65,6;conforme;127889;9176;30;81;836;Non vérifié
+16087;Chassiecq;16;eau potable : Saint Claud;140909;2024;76,2;1,1;3,6;65,7;conforme;164952;2604;49;112;147;Non vérifié
+16088;Chassors;16;eau potable : Foussignac-Salles d'Angles;251674;2024;91,1;1,1;11,1;67,2;conforme;105518;11120;27;66;1123;Non vérifié
+16089;Châteaubernard;16;eau potable : Cognac;301814;2024;75,1;5,7;17,2;68,4;conforme;497905;77924;55;121;3878;Non vérifié
+16090;Châteauneuf-sur-Charente;16;eau potable : Chateauneuf Criteuil;265254;2024;83,6;1,0;5,1;66,0;conforme;140854;40607;31;89;3550;Non vérifié
+16091;Châtignac;16;eau potable : Montmorélien;140902;2024;90,5;0,7;6,2;66,2;conforme;123539;2277;38;120;163;Non vérifié
+16093;Chazelles;16;eau potable : Chazelles;140891;2024;80,3;1,0;4,1;65,8;conforme;33460;18039;32;88;1543;Non vérifié
+16095;Chenon;16;eau potable : AUNAC-LUXE;345534;2024;80,6;1,4;6,0;66,2;conforme;130540;2207;49;132;124;Non vérifié
+16096;Cherves-Châtelars;16;eau potable : Montemboeuf;140901;2024;84,3;0,6;3,0;65,6;conforme;127889;4544;30;81;414;Non vérifié
+16097;Val-de-Cognac;16;eau potable : Merpins Soloire;140925;2024;81,9;2,3;10,2;67,0;conforme;242817;81384;64;135;3471;Non vérifié
+16098;La Chèvrerie;16;eau potable : Ruffec Villefagnan;320014;2024;80,0;1,2;5,0;66,0;conforme;139052;1861;37;89;136;Non vérifié
+16099;Chillac;16;eau potable : Brossacais;140926;2024;83,5;0,3;1,7;65,3;conforme;19016;2485;30;64;227;Non vérifié
+16100;Chirac;16;eau potable : Confolentais;140892;2024;83,7;0,6;2,9;65,6;conforme;176700;10123;36;79;781;Non vérifié
+16101;Claix;16;eau potable : Boeme;140884;2024;77,9;1,5;5,6;66,1;conforme;131942;14229;37;102;1049;Non vérifié
+16102;Cognac;16;eau potable : Cognac;301814;2024;75,1;5,7;17,2;68,4;conforme;497905;372379;55;121;18532;Non vérifié
+16103;Combiers;16;eau potable : Service Edon Ronsenac;140893;2024;71,3;0,9;2,2;65,4;conforme;95820;2592;55;152;128;Non vérifié
+16104;Condac;16;eau potable : Ruffec Villefagnan;320014;2024;80,0;1,2;5,0;66,0;conforme;139052;6239;37;89;456;Non vérifié
+16105;Condéon;16;eau potable : Baignes Font Chaude;301774;2024;80,3;0,7;2,8;65,6;conforme;165247;6198;28;118;606;Non vérifié
+16106;Confolens;16;eau potable : Confolentais;140892;2024;83,7;0,6;2,9;65,6;conforme;176700;35387;36;79;2730;Non vérifié
+16107;Coulgens;16;eau potable : KARST;319994;2024;74,2;1,5;4,2;65,8;conforme;385763;9127;45;132;558;Non vérifié
+16108;Coulonges;16;eau potable : Auge Nord Ouest Charente;244714;2024;66,2;1,8;3,6;65,7;conforme;38290;2554;60;184;116;Non vérifié
+16109;Courbillac;16;eau potable : Foussignac Nouere;265234;2024;80,9;2,4;10,1;67,0;conforme;137637;12043;46;190;725;Non vérifié
+16110;Courcôme;16;eau potable : Ruffec Villefagnan;320014;2024;80,0;1,2;5,0;66,0;conforme;139052;11137;37;89;814;Non vérifié
+16111;Courgeac;16;eau potable : Montmorélien;140902;2024;90,5;0,7;6,2;66,2;conforme;123539;2333;38;120;167;Non vérifié
+16112;Courlac;16;eau potable : Territoire Sud Est;338314;2024;76,7;0,7;2,5;65,5;conforme;183457;949;44;104;59;Non vérifié
+16113;La Couronne;16;eau potable : périmètre 2025;140935;2024;89,3;1,7;14,1;67,8;conforme;784349;50647;18;46;7765;Non vérifié
+16114;Couture;16;eau potable : AUNAC-LUXE;345534;2024;80,6;1,4;6,0;66,2;conforme;130540;3007;49;132;169;Non vérifié
+16116;Criteuil-la-Magdeleine;16;eau potable : Chateauneuf Criteuil;265254;2024;83,6;1,0;5,1;66,0;conforme;140854;4633;31;89;405;Non vérifié
+16117;Curac;16;eau potable : Territoire Sud Est;338314;2024;76,7;0,7;2,5;65,5;conforme;183457;1817;44;104;113;Non vérifié
+16118;Deviat;16;eau potable : Montmorélien;140902;2024;90,5;0,7;6,2;66,2;conforme;123539;1886;38;120;135;Non vérifié
+16119;Dignac;16;eau potable : périmètre 2025;140935;2024;89,3;1,7;14,1;67,8;conforme;784349;8884;18;46;1362;Non vérifié
+16120;Dirac;16;eau potable : périmètre 2025;140935;2024;89,3;1,7;14,1;67,8;conforme;784349;9888;18;46;1516;Non vérifié
+16121;Douzat;16;eau potable : Foussignac Nouere;265234;2024;80,9;2,4;10,1;67,0;conforme;137637;7276;46;190;438;Non vérifié
+16122;Ébréon;16;eau potable : Saint Fraigne;140910;2024;88,1;0,8;5,6;66,1;conforme;56263;1853;37;94;139;Non vérifié
+16123;Échallat;16;eau potable : Foussignac Nouere;265234;2024;80,9;2,4;10,1;67,0;conforme;137637;7973;46;190;480;Non vérifié
+16124;Écuras;16;eau potable : Montemboeuf;140901;2024;84,3;0,6;3,0;65,6;conforme;127889;6355;30;81;579;Non vérifié
+16125;Édon;16;eau potable : Service Edon Ronsenac;140893;2024;71,3;0,9;2,2;65,4;conforme;95820;5509;55;152;272;Non vérifié
+16127;Empuré;16;eau potable : Ruffec Villefagnan;320014;2024;80,0;1,2;5,0;66,0;conforme;139052;1368;37;89;100;Non vérifié
+16128;Épenède;16;eau potable : Vallée du Transon;140921;2024;78,4;0,8;2,8;65,6;conforme;38529;6360;85;188;206;Non vérifié
+16130;Les Essards;16;eau potable : Territoire Sud Est;338314;2024;76,7;0,7;2,5;65,5;conforme;183457;2814;44;104;175;Non vérifié
+16131;Esse;16;eau potable : Confolentais;140892;2024;83,7;0,6;2,9;65,6;conforme;176700;6714;36;79;518;Non vérifié
+16132;Étagnac;16;eau potable : Confolentais;140892;2024;83,7;0,6;2,9;65,6;conforme;176700;12729;36;79;982;Non vérifié
+16133;Étriac;16;eau potable : Baignes Font Chaude;301774;2024;80,3;0,7;2,8;65,6;conforme;165247;2107;28;118;206;Non vérifié
+16134;Exideuil-sur-Vienne;16;eau potable : Confolentais;140892;2024;83,7;0,6;2,9;65,6;conforme;176700;13416;36;79;1035;Non vérifié
+16135;Eymouthiers;16;eau potable : Montbron Eymouthiers;140900;2024;85,1;0,8;4,4;65,9;conforme;29492;4013;35;67;315;Non vérifié
+16136;La Faye;16;eau potable : Ruffec Villefagnan;320014;2024;80,0;1,2;5,0;66,0;conforme;139052;8442;37;89;617;Non vérifié
+16137;Feuillade;16;eau potable : KARST;319994;2024;74,2;1,5;4,2;65,8;conforme;385763;4629;45;132;283;Non vérifié
+16138;Fléac;16;eau potable : périmètre 2025;140935;2024;89,3;1,7;14,1;67,8;conforme;784349;25183;18;46;3861;Non vérifié
+16139;Fleurac;16;eau potable : Foussignac-Salles d'Angles;251674;2024;91,1;1,1;11,1;67,2;conforme;105518;1990;27;66;201;Non vérifié
+16140;Fontclaireau;16;eau potable : Aunac;140882;2022;81,5;1,7;7,7;66,5;conforme;126421;8185;50;143;453;Sans anomalie apparente
+16141;Fontenille;16;eau potable : AUNAC-LUXE;345534;2024;80,6;1,4;6,0;66,2;conforme;130540;6281;49;132;353;Non vérifié
+16142;La Forêt-de-Tessé;16;eau potable : Ruffec Villefagnan;320014;2024;80,0;1,2;5,0;66,0;conforme;139052;2819;37;89;206;Non vérifié
+16143;Fouquebrune;16;eau potable : Service Edon Ronsenac;140893;2024;71,3;0,9;2,2;65,4;conforme;95820;14461;55;152;714;Non vérifié
+16144;Fouqueure;16;eau potable : Auge Nord Ouest Charente;244714;2024;66,2;1,8;3,6;65,7;conforme;38290;9446;60;184;429;Non vérifié
+16145;Foussignac;16;eau potable : Foussignac-Salles d'Angles;251674;2024;91,1;1,1;11,1;67,2;conforme;105518;6545;27;66;661;Non vérifié
+16146;Garat;16;eau potable : périmètre 2025;140935;2024;89,3;1,7;14,1;67,8;conforme;784349;13730;18;46;2105;Non vérifié
+16147;Gardes-le-Pontaroux;16;eau potable : Service Edon Ronsenac;140893;2024;71,3;0,9;2,2;65,4;conforme;95820;5286;55;152;261;Non vérifié
+16148;Genac-Bignac;16;eau potable : Foussignac Nouere;265234;2024;80,9;2,4;10,1;67,0;conforme;137637;16179;46;190;974;Non vérifié
+16150;Gensac-la-Pallue;16;eau potable : Segonzac;140917;2024;75,6;1,8;5,7;66,1;conforme;146077;35697;60;115;1627;Non vérifié
+16151;Genté;16;eau potable : Foussignac-Salles d'Angles;251674;2024;91,1;1,1;11,1;67,2;conforme;105518;9150;27;66;924;Non vérifié
+16152;Gimeux;16;eau potable : Foussignac-Salles d'Angles;251674;2024;91,1;1,1;11,1;67,2;conforme;105518;7347;27;66;742;Non vérifié
+16153;Mainxe-Gondeville;16;eau potable : Segonzac;140917;2024;75,6;1,8;5,7;66,1;conforme;146077;26218;60;115;1195;Non vérifié
+16154;Gond-Pontouvre;16;eau potable : périmètre 2025;140935;2024;89,3;1,7;14,1;67,8;conforme;784349;38235;18;46;5862;Non vérifié
+16155;Les Gours;16;eau potable : Saint Fraigne;140910;2024;88,1;0,8;5,6;66,1;conforme;56263;1213;37;94;91;Non vérifié
+16157;Le Grand-Madieu;16;eau potable : Saint Claud;140909;2024;76,2;1,1;3,6;65,7;conforme;164952;2711;49;112;153;Non vérifié
+16158;Grassac;16;eau potable : KARST;319994;2024;74,2;1,5;4,2;65,8;conforme;385763;5038;45;132;308;Non vérifié
+16160;Guimps;16;eau potable : Baignes Font Chaude;301774;2024;80,3;0,7;2,8;65,6;conforme;165247;5083;28;118;497;Non vérifié
+16161;Guizengeard;16;eau potable : Brossacais;140926;2024;83,5;0,3;1,7;65,3;conforme;19016;1817;30;64;166;Non vérifié
+16162;Gurat;16;eau potable : Territoire Sud Est;338314;2024;76,7;0,7;2,5;65,5;conforme;183457;2991;44;104;186;Non vérifié
+16163;Hiersac;16;eau potable : Chateauneuf Criteuil;265254;2024;83,6;1,0;5,1;66,0;conforme;140854;13063;31;89;1142;Non vérifié
+16164;Hiesse;16;eau potable : Vallée du Transon;140921;2024;78,4;0,8;2,8;65,6;conforme;38529;7348;85;188;238;Non vérifié
+16165;Houlette;16;eau potable : Merpins Soloire;140925;2024;81,9;2,3;10,2;67,0;conforme;242817;9332;64;135;398;Non vérifié
+16166;L' Isle-d'Espagnac;16;eau potable : périmètre 2025;140935;2024;89,3;1,7;14,1;67,8;conforme;784349;37060;18;46;5682;Non vérifié
+16167;Jarnac;16;eau potable : Jarnac;140803;2024;89,4;1,9;15,8;68,2;conforme;33170;33170;20;50;4486;Non vérifié
+16168;Jauldes;16;eau potable : Braconne;266234;2024;63,1;5,7;9,2;66,8;non conforme;455734;30375;98;234;847;Non vérifié
+16169;Javrezac;16;eau potable : Merpins Soloire;140925;2024;81,9;2,3;10,2;67,0;conforme;242817;13670;64;135;583;Non vérifié
+16170;Juignac;16;eau potable : Territoire Sud Est;338314;2024;76,7;0,7;2,5;65,5;conforme;183457;6238;44;104;388;Non vérifié
+16171;Juillac-le-Coq;16;eau potable : Foussignac-Salles d'Angles;251674;2024;91,1;1,1;11,1;67,2;conforme;105518;6466;27;66;653;Non vérifié
+16173;Juillé;16;eau potable : AUNAC-LUXE;345534;2024;80,6;1,4;6,0;66,2;conforme;130540;3078;49;132;173;Non vérifié
+16174;Julienne;16;eau potable : Segonzac;140917;2024;75,6;1,8;5,7;66,1;conforme;146077;12286;60;115;560;Non vérifié
+16175;Val des Vignes;16;eau potable : Baignes Font Chaude;301774;2024;80,3;0,7;2,8;65,6;conforme;165247;13828;28;118;1352;Non vérifié
+16176;Lachaise;16;eau potable : Baignes Font Chaude;301774;2024;80,3;0,7;2,8;65,6;conforme;165247;3252;28;118;318;Non vérifié
+16177;Ladiville;16;eau potable : Baignes Font Chaude;301774;2024;80,3;0,7;2,8;65,6;conforme;165247;1381;28;118;135;Non vérifié
+16178;Lagarde-sur-le-Né;16;eau potable : Baignes Font Chaude;301774;2024;80,3;0,7;2,8;65,6;conforme;165247;1933;28;118;189;Non vérifié
+16180;Laprade;16;eau potable : Territoire Sud Est;338314;2024;76,7;0,7;2,5;65,5;conforme;183457;3987;44;104;248;Non vérifié
+16181;Lessac;16;eau potable : Confolentais;140892;2024;83,7;0,6;2,9;65,6;conforme;176700;7116;36;79;549;Non vérifié
+16182;Lesterps;16;eau potable : Confolentais;140892;2024;83,7;0,6;2,9;65,6;conforme;176700;5690;36;79;439;Non vérifié
+16183;Lésignac-Durand;16;eau potable : Montemboeuf;140901;2024;84,3;0,6;3,0;65,6;conforme;127889;1833;30;81;167;Non vérifié
+16184;Lichères;16;eau potable : AUNAC-LUXE;345534;2024;80,6;1,4;6,0;66,2;conforme;130540;1762;49;132;99;Non vérifié
+16185;Ligné;16;eau potable : Saint Fraigne;140910;2024;88,1;0,8;5,6;66,1;conforme;56263;1919;37;94;144;Non vérifié
+16186;Lignières-Ambleville;16;eau potable : Chateauneuf Criteuil;265254;2024;83,6;1,0;5,1;66,0;conforme;140854;7893;31;89;690;Non vérifié
+16187;Linars;16;eau potable : périmètre 2025;140935;2024;89,3;1,7;14,1;67,8;conforme;784349;13795;18;46;2115;Non vérifié
+16188;Le Lindois;16;eau potable : Montemboeuf;140901;2024;84,3;0,6;3,0;65,6;conforme;127889;3721;30;81;339;Non vérifié
+16189;Londigny;16;eau potable : Ruffec Villefagnan;320014;2024;80,0;1,2;5,0;66,0;conforme;139052;3243;37;89;237;Non vérifié
+16190;Longré;16;eau potable : Ruffec Villefagnan;320014;2024;80,0;1,2;5,0;66,0;conforme;139052;2641;37;89;193;Non vérifié
+16191;Lonnes;16;eau potable : AUNAC-LUXE;345534;2024;80,6;1,4;6,0;66,2;conforme;130540;3292;49;132;185;Non vérifié
+16192;Terres-de-Haute-Charente;16;eau potable : Saint Claud;140909;2024;76,2;1,1;3,6;65,7;conforme;164952;66913;49;112;3777;Non vérifié
+16193;Louzac-Saint-André;16;eau potable : Merpins Soloire;140925;2024;81,9;2,3;10,2;67,0;conforme;242817;22181;64;135;946;Non vérifié
+16194;Lupsault;16;eau potable : Saint Fraigne;140910;2024;88,1;0,8;5,6;66,1;conforme;56263;1453;37;94;109;Non vérifié
+16195;Lussac;16;eau potable : Saint Claud;140909;2024;76,2;1,1;3,6;65,7;conforme;164952;5173;49;112;292;Non vérifié
+16196;Luxé;16;eau potable : AUNAC-LUXE;345534;2024;80,6;1,4;6,0;66,2;conforme;130540;13310;49;132;748;Non vérifié
+16197;La Magdeleine;16;eau potable : Ruffec Villefagnan;320014;2024;80,0;1,2;5,0;66,0;conforme;139052;1614;37;89;118;Non vérifié
+16198;Magnac-Lavalette-Villars;16;eau potable : Service Edon Ronsenac;140893;2024;71,3;0,9;2,2;65,4;conforme;95820;15008;55;152;741;Non vérifié
+16199;Magnac-sur-Touvre;16;eau potable : périmètre 2025;140935;2024;89,3;1,7;14,1;67,8;conforme;784349;21231;18;46;3255;Non vérifié
+16200;Maine-de-Boixe;16;eau potable : AUNAC-LUXE;345534;2024;80,6;1,4;6,0;66,2;conforme;130540;8417;49;132;473;Non vérifié
+16203;Mainzac;16;eau potable : KARST;319994;2024;74,2;1,5;4,2;65,8;conforme;385763;2045;45;132;125;Non vérifié
+16204;Bellevigne;16;eau potable : Chateauneuf Criteuil;265254;2024;83,6;1,0;5,1;66,0;conforme;140854;14538;31;89;1271;Non vérifié
+16205;Manot;16;eau potable : Confolentais;140892;2024;83,7;0,6;2,9;65,6;conforme;176700;7194;36;79;555;Non vérifié
+16206;Mansle-les-Fontaines;16;eau potable : AUNAC-LUXE;345534;2024;80,6;1,4;6,0;66,2;conforme;130540;37155;49;132;2088;Non vérifié
+16207;Marcillac-Lanville;16;eau potable : Auge;140749;2024;90,9;0,9;9,2;66,8;conforme;49623;5781;30;68;521;Non vérifié
+16208;Mareuil;16;eau potable : Foussignac Nouere;265234;2024;80,9;2,4;10,1;67,0;conforme;137637;6611;46;190;398;Non vérifié
+16209;Marillac-le-Franc;16;eau potable : KARST;319994;2024;74,2;1,5;4,2;65,8;conforme;385763;13494;45;132;825;Non vérifié
+16210;Marsac;16;eau potable : périmètre 2025;140935;2024;89,3;1,7;14,1;67,8;conforme;784349;4840;18;46;742;Non vérifié
+16211;Marthon;16;eau potable : KARST;319994;2024;74,2;1,5;4,2;65,8;conforme;385763;9061;45;132;554;Non vérifié
+16212;Massignac;16;eau potable : Montemboeuf;140901;2024;84,3;0,6;3,0;65,6;conforme;127889;3929;30;81;358;Non vérifié
+16213;Mazerolles;16;eau potable : Montemboeuf;140901;2024;84,3;0,6;3,0;65,6;conforme;127889;3446;30;81;314;Non vérifié
+16215;Médillac;16;eau potable : Territoire Sud Est;338314;2024;76,7;0,7;2,5;65,5;conforme;183457;2412;44;104;150;Non vérifié
+16216;Mérignac;16;eau potable : Foussignac-Salles d'Angles;251674;2024;91,1;1,1;11,1;67,2;conforme;105518;7971;27;66;805;Non vérifié
+16217;Merpins;16;eau potable : Merpins Soloire;140925;2024;81,9;2,3;10,2;67,0;conforme;242817;25440;64;135;1085;Non vérifié
+16218;Mesnac;16;eau potable : Merpins Soloire;140925;2024;81,9;2,3;10,2;67,0;conforme;242817;9473;64;135;404;Non vérifié
+16220;Les Métairies;16;eau potable : Foussignac-Salles d'Angles;251674;2024;91,1;1,1;11,1;67,2;conforme;105518;7001;27;66;707;Non vérifié
+16221;Mons;16;eau potable : Auge;140749;2024;90,9;0,9;9,2;66,8;conforme;49623;2663;30;68;240;Non vérifié
+16222;Montboyer;16;eau potable : Territoire Sud Est;338314;2024;76,7;0,7;2,5;65,5;conforme;183457;5483;44;104;341;Non vérifié
+16223;Montbron;16;eau potable : Montbron Eymouthiers;140900;2024;85,1;0,8;4,4;65,9;conforme;29492;25479;35;67;2000;Non vérifié
+16224;Montmérac;16;eau potable : Baignes Font Chaude;301774;2024;80,3;0,7;2,8;65,6;conforme;165247;7466;28;118;730;Non vérifié
+16225;Montemboeuf;16;eau potable : Montemboeuf;140901;2024;84,3;0,6;3,0;65,6;conforme;127889;7178;30;81;654;Non vérifié
+16226;Montignac-Charente;16;eau potable : Champniers;140886;2024;68,8;5,0;11,1;67,2;conforme;188048;24458;94;290;713;Non vérifié
+16227;Montignac-le-Coq;16;eau potable : Territoire Sud Est;338314;2024;76,7;0,7;2,5;65,5;conforme;183457;2090;44;104;130;Non vérifié
+16229;Montjean;16;eau potable : distribution;123127;2024;77,4;1,3;4,4;65,9;conforme;445717;2831;33;109;237;Non vérifié
+16230;Montmoreau;16;eau potable : Territoire Sud Est;338314;2024;76,7;0,7;2,5;65,5;conforme;183457;38637;44;104;2403;Non vérifié
+16231;Montrollet;16;eau potable : Confolentais;140892;2024;83,7;0,6;2,9;65,6;conforme;176700;4187;36;79;323;Non vérifié
+16232;Mornac;16;eau potable : périmètre 2025;140935;2024;89,3;1,7;14,1;67,8;conforme;784349;13743;18;46;2107;Non vérifié
+16233;Mosnac-Saint-Simeux;16;eau potable : Chateauneuf Criteuil;265254;2024;83,6;1,0;5,1;66,0;conforme;140854;10867;31;89;950;Non vérifié
+16234;Moulidars;16;eau potable : Chateauneuf Criteuil;265254;2024;83,6;1,0;5,1;66,0;conforme;140854;7572;31;89;662;Non vérifié
+16236;Mouthiers-sur-Boëme;16;eau potable : Boeme;140884;2024;77,9;1,5;5,6;66,1;conforme;131942;31999;37;102;2359;Non vérifié
+16237;Mouton;16;eau potable : AUNAC-LUXE;345534;2024;80,6;1,4;6,0;66,2;conforme;130540;3968;49;132;223;Non vérifié
+16238;Moutonneau;16;eau potable : AUNAC-LUXE;345534;2024;80,6;1,4;6,0;66,2;conforme;130540;2011;49;132;113;Non vérifié
+16239;Mouzon;16;eau potable : Montemboeuf;140901;2024;84,3;0,6;3,0;65,6;conforme;127889;1559;30;81;142;Non vérifié
+16240;Nabinaud;16;eau potable : Territoire Sud Est;338314;2024;76,7;0,7;2,5;65,5;conforme;183457;1592;44;104;99;Non vérifié
+16241;Nanclars;16;eau potable : KARST;319994;2024;74,2;1,5;4,2;65,8;conforme;385763;3451;45;132;211;Non vérifié
+16242;Nanteuil-en-Vallée;16;eau potable : Argentor Lizonne;140748;2024;72,4;0,9;2,4;65,5;conforme;63279;28829;58;139;1354;Non vérifié
+16243;Nercillac;16;eau potable : Merpins Soloire;140925;2024;81,9;2,3;10,2;67,0;conforme;242817;24643;64;135;1051;Non vérifié
+16244;Nersac;16;eau potable : périmètre 2025;140935;2024;89,3;1,7;14,1;67,8;conforme;784349;14649;18;46;2246;Non vérifié
+16245;Nieuil;16;eau potable : Saint Claud;140909;2024;76,2;1,1;3,6;65,7;conforme;164952;15643;49;112;883;Non vérifié
+16246;Nonac;16;eau potable : Montmorélien;140902;2024;90,5;0,7;6,2;66,2;conforme;123539;3715;38;120;266;Non vérifié
+16248;Oradour;16;eau potable : Saint Fraigne;140910;2024;88,1;0,8;5,6;66,1;conforme;56263;2173;37;94;163;Non vérifié
+16249;Oradour-Fanais;16;eau potable : Confolentais;140892;2024;83,7;0,6;2,9;65,6;conforme;176700;4433;36;79;342;Non vérifié
+16250;Orgedeuil;16;eau potable : Montemboeuf;140901;2024;84,3;0,6;3,0;65,6;conforme;127889;2272;30;81;207;Non vérifié
+16251;Oriolles;16;eau potable : Brossacais;140926;2024;83,5;0,3;1,7;65,3;conforme;19016;2649;30;64;242;Non vérifié
+16252;Orival;16;eau potable : Territoire Sud Est;338314;2024;76,7;0,7;2,5;65,5;conforme;183457;2396;44;104;149;Non vérifié
+16253;Paizay-Naudouin-Embourie;16;eau potable : Ruffec Villefagnan;320014;2024;80,0;1,2;5,0;66,0;conforme;139052;4611;37;89;337;Non vérifié
+16254;Palluaud;16;eau potable : Territoire Sud Est;338314;2024;76,7;0,7;2,5;65,5;conforme;183457;3457;44;104;215;Non vérifié
+16255;Parzac;16;eau potable : Saint Claud;140909;2024;76,2;1,1;3,6;65,7;conforme;164952;2533;49;112;143;Non vérifié
+16256;Passirac;16;eau potable : Brossacais;140926;2024;83,5;0,3;1,7;65,3;conforme;19016;2737;30;64;250;Non vérifié
+16258;Pérignac;16;eau potable : Montmorélien;140902;2024;90,5;0,7;6,2;66,2;conforme;123539;6914;38;120;495;Non vérifié
+16260;Pillac;16;eau potable : Territoire Sud Est;338314;2024;76,7;0,7;2,5;65,5;conforme;183457;3907;44;104;243;Non vérifié
+16261;Les Pins;16;eau potable : KARST;319994;2024;74,2;1,5;4,2;65,8;conforme;385763;8276;45;132;506;Non vérifié
+16263;Plassac-Rouffiac;16;eau potable : Boeme;140884;2024;77,9;1,5;5,6;66,1;conforme;131942;5032;37;102;371;Non vérifié
+16264;Pleuville;16;eau potable : Vallée du Transon;140921;2024;78,4;0,8;2,8;65,6;conforme;38529;9663;85;188;313;Non vérifié
+16267;Poullignac;16;eau potable : Montmorélien;140902;2024;90,5;0,7;6,2;66,2;conforme;123539;1494;38;120;107;Non vérifié
+16268;Poursac;16;eau potable : AUNAC-LUXE;345534;2024;80,6;1,4;6,0;66,2;conforme;130540;3292;49;132;185;Non vérifié
+16269;Pranzac;16;eau potable : Chazelles;140891;2024;80,3;1,0;4,1;65,8;conforme;33460;10195;32;88;872;Non vérifié
+16270;Pressignac;16;eau potable : Montemboeuf;140901;2024;84,3;0,6;3,0;65,6;conforme;127889;4368;30;81;398;Non vérifié
+16271;Puymoyen;16;eau potable : périmètre 2025;140935;2024;89,3;1,7;14,1;67,8;conforme;784349;15673;18;46;2403;Non vérifié
+16272;Puyréaux;16;eau potable : KARST;319994;2024;74,2;1,5;4,2;65,8;conforme;385763;9519;45;132;582;Non vérifié
+16273;Raix;16;eau potable : Ruffec Villefagnan;320014;2024;80,0;1,2;5,0;66,0;conforme;139052;1833;37;89;134;Non vérifié
+16275;Ranville-Breuillaud;16;eau potable : Saint Fraigne;140910;2024;88,1;0,8;5,6;66,1;conforme;56263;2093;37;94;157;Non vérifié
+16276;Reignac;16;eau potable : Baignes Font Chaude;301774;2024;80,3;0,7;2,8;65,6;conforme;165247;7282;28;118;712;Non vérifié
+16277;Réparsac;16;eau potable : Merpins Soloire;140925;2024;81,9;2,3;10,2;67,0;conforme;242817;14795;64;135;631;Non vérifié
+16279;Rioux-Martin;16;eau potable : Territoire Sud Est;338314;2024;76,7;0,7;2,5;65,5;conforme;183457;3714;44;104;231;Non vérifié
+16280;Rivières;16;eau potable : KARST;319994;2024;74,2;1,5;4,2;65,8;conforme;385763;32958;45;132;2015;Non vérifié
+16281;La Rochefoucauld-en-Angoumois;16;eau potable : KARST;319994;2024;74,2;1,5;4,2;65,8;conforme;385763;65834;45;132;4025;Non vérifié
+16282;La Rochette;16;eau potable : KARST;319994;2024;74,2;1,5;4,2;65,8;conforme;385763;8554;45;132;523;Non vérifié
+16283;Ronsenac;16;eau potable : Service Edon Ronsenac;140893;2024;71,3;0,9;2,2;65,4;conforme;95820;11565;55;152;571;Non vérifié
+16284;Rouffiac;16;eau potable : Territoire Sud Est;338314;2024;76,7;0,7;2,5;65,5;conforme;183457;1881;44;104;117;Non vérifié
+16285;Rougnac;16;eau potable : Service Edon Ronsenac;140893;2024;71,3;0,9;2,2;65,4;conforme;95820;8000;55;152;395;Non vérifié
+16286;Rouillac;16;eau potable : Foussignac Nouere;265234;2024;80,9;2,4;10,1;67,0;conforme;137637;48487;46;190;2919;Non vérifié
+16287;Roullet-Saint-Estèphe;16;eau potable : Boeme;140884;2024;77,9;1,5;5,6;66,1;conforme;131942;59101;37;102;4357;Non vérifié
+16289;Roussines;16;eau potable : Montemboeuf;140901;2024;84,3;0,6;3,0;65,6;conforme;127889;3271;30;81;298;Non vérifié
+16290;Rouzède;16;eau potable : Montemboeuf;140901;2024;84,3;0,6;3,0;65,6;conforme;127889;2535;30;81;231;Non vérifié
+16291;Ruelle-sur-Touvre;16;eau potable : périmètre 2025;140935;2024;89,3;1,7;14,1;67,8;conforme;784349;48318;18;46;7408;Non vérifié
+16292;Ruffec;16;eau potable : Ruffec Villefagnan;320014;2024;80,0;1,2;5,0;66,0;conforme;139052;47190;37;89;3449;Non vérifié
+16293;Saint-Adjutory;16;eau potable : Montemboeuf;140901;2024;84,3;0,6;3,0;65,6;conforme;127889;5521;30;81;503;Non vérifié
+16295;Saint-Amant-de-Boixe;16;eau potable : Champniers;140886;2024;68,8;5,0;11,1;67,2;conforme;188048;46000;94;290;1341;Non vérifié
+16297;Graves-Saint-Amant;16;eau potable : Chateauneuf Criteuil;265254;2024;83,6;1,0;5,1;66,0;conforme;140854;3729;31;89;326;Non vérifié
+16298;Saint-Amant-de-Nouère;16;eau potable : Foussignac Nouere;265234;2024;80,9;2,4;10,1;67,0;conforme;137637;5731;46;190;345;Non vérifié
+16300;Val-de-Bonnieure;16;eau potable : KARST;319994;2024;74,2;1,5;4,2;65,8;conforme;385763;21787;45;132;1332;Non vérifié
+16301;Saint-Aulais-la-Chapelle;16;eau potable : Baignes Font Chaude;301774;2024;80,3;0,7;2,8;65,6;conforme;165247;2240;28;118;219;Non vérifié
+16302;Saint-Avit;16;eau potable : Territoire Sud Est;338314;2024;76,7;0,7;2,5;65,5;conforme;183457;3457;44;104;215;Non vérifié
+16303;Saint-Bonnet;16;eau potable : Baignes Font Chaude;301774;2024;80,3;0,7;2,8;65,6;conforme;165247;4183;28;118;409;Non vérifié
+16304;Saint-Brice;16;eau potable : Cognac;301814;2024;75,1;5,7;17,2;68,4;conforme;497905;19732;55;121;982;Non vérifié
+16306;Saint-Christophe;16;eau potable : Confolentais;140892;2024;83,7;0,6;2,9;65,6;conforme;176700;4329;36;79;334;Non vérifié
+16307;Saint-Ciers-sur-Bonnieure;16;eau potable : KARST;319994;2024;74,2;1,5;4,2;65,8;conforme;385763;5103;45;132;312;Non vérifié
+16308;Saint-Claud;16;eau potable : Saint Claud;140909;2024;76,2;1,1;3,6;65,7;conforme;164952;18283;49;112;1032;Non vérifié
+16310;Saint-Coutant;16;eau potable : Vallée de l'Or;140923;2024;92,5;0,2;2,2;65,4;conforme;4841;1553;21;33;206;Non vérifié
+16312;Saint-Cybardeaux;16;eau potable : Foussignac Nouere;265234;2024;80,9;2,4;10,1;67,0;conforme;137637;12807;46;190;771;Non vérifié
+16315;Saint-Félix;16;eau potable : Montmorélien;140902;2024;90,5;0,7;6,2;66,2;conforme;123539;1425;38;120;102;Non vérifié
+16316;Saint-Fort-sur-le-Né;16;eau potable : Foussignac-Salles d'Angles;251674;2024;91,1;1,1;11,1;67,2;conforme;105518;3822;27;66;386;Non vérifié
+16317;Saint-Fraigne;16;eau potable : Saint Fraigne;140910;2024;88,1;0,8;5,6;66,1;conforme;56263;5692;37;94;427;Non vérifié
+16318;Saint-Front;16;eau potable : AUNAC-LUXE;345534;2024;80,6;1,4;6,0;66,2;conforme;130540;6317;49;132;355;Non vérifié
+16320;Saint-Genis-d'Hiersac;16;eau potable : Foussignac Nouere;265234;2024;80,9;2,4;10,1;67,0;conforme;137637;15647;46;190;942;Non vérifié
+16321;Saint-Georges;16;eau potable : AUNAC-LUXE;345534;2024;80,6;1,4;6,0;66,2;conforme;130540;783;49;132;44;Non vérifié
+16323;Saint-Germain-de-Montbron;16;eau potable : KARST;319994;2024;74,2;1,5;4,2;65,8;conforme;385763;8178;45;132;500;Non vérifié
+16325;Saint-Gourson;16;eau potable : AUNAC-LUXE;345534;2024;80,6;1,4;6,0;66,2;conforme;130540;2367;49;132;133;Non vérifié
+16326;Saint-Groux;16;eau potable : AUNAC-LUXE;345534;2024;80,6;1,4;6,0;66,2;conforme;130540;2420;49;132;136;Non vérifié
+16329;Saint-Laurent-de-Céris;16;eau potable : Saint Claud;140909;2024;76,2;1,1;3,6;65,7;conforme;164952;12755;49;112;720;Non vérifié
+16330;Saint-Laurent-de-Cognac;16;eau potable : Merpins Soloire;140925;2024;81,9;2,3;10,2;67,0;conforme;242817;19508;64;135;832;Non vérifié
+16331;Saint-Laurent-des-Combes;16;eau potable : Montmorélien;140902;2024;90,5;0,7;6,2;66,2;conforme;123539;1355;38;120;97;Non vérifié
+16334;Saint-Martial;16;eau potable : Montmorélien;140902;2024;90,5;0,7;6,2;66,2;conforme;123539;1704;38;120;122;Non vérifié
+16335;Saint-Martin-du-Clocher;16;eau potable : Ruffec Villefagnan;320014;2024;80,0;1,2;5,0;66,0;conforme;139052;1724;37;89;126;Non vérifié
+16336;Saint-Mary;16;eau potable : KARST;319994;2024;74,2;1,5;4,2;65,8;conforme;385763;5790;45;132;354;Non vérifié
+16337;Saint-Maurice-des-Lions;16;eau potable : Confolentais;140892;2024;83,7;0,6;2,9;65,6;conforme;176700;11562;36;79;892;Non vérifié
+16338;Saint-Médard;16;eau potable : Baignes Font Chaude;301774;2024;80,3;0,7;2,8;65,6;conforme;165247;3099;28;118;303;Non vérifié
+16339;Val-d'Auge;16;eau potable : Auge;140749;2024;90,9;0,9;9,2;66,8;conforme;49623;8788;30;68;792;Non vérifié
+16340;Saint-Même-les-Carrières;16;eau potable : Chateauneuf Criteuil;265254;2024;83,6;1,0;5,1;66,0;conforme;140854;11702;31;89;1023;Non vérifié
+16341;Saint-Michel;16;eau potable : périmètre 2025;140935;2024;89,3;1,7;14,1;67,8;conforme;784349;20846;18;46;3196;Non vérifié
+16342;Saint-Palais-du-Né;16;eau potable : Baignes Font Chaude;301774;2024;80,3;0,7;2,8;65,6;conforme;165247;3119;28;118;305;Non vérifié
+16343;Saint-Preuil;16;eau potable : Segonzac;140917;2024;75,6;1,8;5,7;66,1;conforme;146077;6714;60;115;306;Non vérifié
+16345;Saint-Quentin-sur-Charente;16;eau potable : Montemboeuf;140901;2024;84,3;0,6;3,0;65,6;conforme;127889;2184;30;81;199;Non vérifié
+16346;Saint-Quentin-de-Chalais;16;eau potable : Territoire Sud Est;338314;2024;76,7;0,7;2,5;65,5;conforme;183457;3875;44;104;241;Non vérifié
+16347;Saint-Romain;16;eau potable : Territoire Sud Est;338314;2024;76,7;0,7;2,5;65,5;conforme;183457;8264;44;104;514;Non vérifié
+16348;Saint-Saturnin;16;eau potable : périmètre 2025;140935;2024;89,3;1,7;14,1;67,8;conforme;784349;8375;18;46;1284;Non vérifié
+16349;Sainte-Sévère;16;eau potable : Merpins Soloire;140925;2024;81,9;2,3;10,2;67,0;conforme;242817;12169;64;135;519;Non vérifié
+16350;Saint-Séverin;16;eau potable : Territoire Sud Est;338314;2024;76,7;0,7;2,5;65,5;conforme;183457;12606;44;104;784;Non vérifié
+16351;Saint-Simeux;16;eau potable : Chateauneuf Criteuil;265254;2020;81,0;1,3;5,6;66,1;conforme;181776;8250;38;105;594;Sans anomalie apparente
+16352;Saint-Simon;16;eau potable : Chateauneuf Criteuil;265254;2024;83,6;1,0;5,1;66,0;conforme;140854;2665;31;89;233;Non vérifié
+16353;Saint-Sornin;16;eau potable : KARST;319994;2024;74,2;1,5;4,2;65,8;conforme;385763;13805;45;132;844;Non vérifié
+16354;Sainte-Souline;16;eau potable : Montmorélien;140902;2024;90,5;0,7;6,2;66,2;conforme;123539;1564;38;120;112;Non vérifié
+16355;Saint-Sulpice-de-Cognac;16;eau potable : Merpins Soloire;140925;2023;79,6;2,8;10,8;67,2;conforme;301837;31390;72;159;1202;Sans anomalie apparente
+16356;Saint-Sulpice-de-Ruffec;16;eau potable : AUNAC-LUXE;345534;2024;80,6;1,4;6,0;66,2;conforme;130540;801;49;132;45;Non vérifié
+16357;Saint-Vallier;16;eau potable : Brossacais;140926;2024;83,5;0,3;1,7;65,3;conforme;19016;1522;30;64;139;Non vérifié
+16358;Saint-Yrieix-sur-Charente;16;eau potable : périmètre 2025;140935;2024;89,3;1,7;14,1;67,8;conforme;784349;49173;18;46;7539;Non vérifié
+16359;Salles-d'Angles;16;eau potable : Foussignac-Salles d'Angles;251674;2024;91,1;1,1;11,1;67,2;conforme;105518;10011;27;66;1011;Non vérifié
+16360;Salles-de-Barbezieux;16;eau potable : Baignes Font Chaude;301774;2024;80,3;0,7;2,8;65,6;conforme;165247;4163;28;118;407;Non vérifié
+16361;Salles-de-Villefagnan;16;eau potable : Ruffec Villefagnan;320014;2024;80,0;1,2;5,0;66,0;conforme;139052;4283;37;89;313;Non vérifié
+16362;Salles-Lavalette;16;eau potable : Territoire Sud Est;338314;2024;76,7;0,7;2,5;65,5;conforme;183457;5097;44;104;317;Non vérifié
+16363;Saulgond;16;eau potable : Confolentais;140892;2024;83,7;0,6;2,9;65,6;conforme;176700;6870;36;79;530;Non vérifié
+16364;Sauvagnac;16;eau potable : Montemboeuf;140901;2024;84,3;0,6;3,0;65,6;conforme;127889;724;30;81;66;Non vérifié
+16365;Sauvignac;16;eau potable : Territoire Sud Est;338314;2024;76,7;0,7;2,5;65,5;conforme;183457;1527;44;104;95;Non vérifié
+16366;Segonzac;16;eau potable : Segonzac;140917;2024;75,6;1,8;5,7;66,1;conforme;146077;45701;60;115;2083;Non vérifié
+16368;Sers;16;eau potable : périmètre 2025;140935;2024;89,3;1,7;14,1;67,8;conforme;784349;5844;18;46;896;Non vérifié
+16369;Sigogne;16;eau potable : Foussignac-Salles d'Angles;251674;2024;91,1;1,1;11,1;67,2;conforme;105518;9516;27;66;961;Non vérifié
+16370;Sireuil;16;eau potable : périmètre 2025;140935;2024;89,3;1,7;14,1;67,8;conforme;784349;7605;18;46;1166;Non vérifié
+16372;Souffrignac;16;eau potable : KARST;319994;2024;74,2;1,5;4,2;65,8;conforme;385763;2453;45;132;150;Non vérifié
+16373;Souvigné;16;eau potable : Saint Fraigne;140910;2024;88,1;0,8;5,6;66,1;conforme;56263;2426;37;94;182;Non vérifié
+16374;Soyaux;16;eau potable : périmètre 2025;140935;2024;89,3;1,7;14,1;67,8;conforme;784349;65792;18;46;10087;Non vérifié
+16375;Suaux;16;eau potable : Saint Claud;140909;2024;76,2;1,1;3,6;65,7;conforme;164952;6697;49;112;378;Non vérifié
+16377;La Tâche;16;eau potable : KARST;319994;2024;74,2;1,5;4,2;65,8;conforme;385763;1717;45;132;105;Non vérifié
+16378;Taizé-Aizie;16;eau potable : Argentor Lizonne;140748;2024;72,4;0,9;2,4;65,5;conforme;63279;12626;58;139;593;Non vérifié
+16379;Taponnat-Fleurignac;16;eau potable : KARST;319994;2024;74,2;1,5;4,2;65,8;conforme;385763;26056;45;132;1593;Non vérifié
+16380;Le Tâtre;16;eau potable : Baignes Font Chaude;301774;2024;80,3;0,7;2,8;65,6;conforme;165247;4408;28;118;431;Non vérifié
+16381;Theil-Rabier;16;eau potable : Ruffec Villefagnan;320014;2024;80,0;1,2;5,0;66,0;conforme;139052;2244;37;89;164;Non vérifié
+16382;Torsac;16;eau potable : périmètre 2025;140935;2024;89,3;1,7;14,1;67,8;conforme;784349;4827;18;46;740;Non vérifié
+16383;Tourriers;16;eau potable : KARST;319994;2024;74,2;1,5;4,2;65,8;conforme;385763;13118;45;132;802;Non vérifié
+16384;Touvérac;16;eau potable : Baignes Font Chaude;301774;2024;80,3;0,7;2,8;65,6;conforme;165247;5963;28;118;583;Non vérifié
+16385;Touvre;16;eau potable : périmètre 2025;140935;2024;89,3;1,7;14,1;67,8;conforme;784349;7501;18;46;1150;Non vérifié
+16387;Triac-Lautrait;16;eau potable : Foussignac-Salles d'Angles;251674;2024;91,1;1,1;11,1;67,2;conforme;105518;4575;27;66;462;Non vérifié
+16388;Trois-Palis;16;eau potable : périmètre 2025;140935;2024;89,3;1,7;14,1;67,8;conforme;784349;6157;18;46;944;Non vérifié
+16389;Turgon;16;eau potable : Saint Claud;140909;2024;76,2;1,1;3,6;65,7;conforme;164952;1417;49;112;80;Non vérifié
+16390;Tusson;16;eau potable : Saint Fraigne;140910;2024;88,1;0,8;5,6;66,1;conforme;56263;3199;37;94;240;Non vérifié
+16392;Valence;16;eau potable : AUNAC-LUXE;345534;2024;80,6;1,4;6,0;66,2;conforme;130540;3417;49;132;192;Non vérifié
+16393;Vars;16;eau potable : Champniers;140886;2024;68,8;5,0;11,1;67,2;conforme;188048;97454;94;290;2841;Non vérifié
+16394;Vaux-Lavalette;16;eau potable : Territoire Sud Est;338314;2024;76,7;0,7;2,5;65,5;conforme;183457;1270;44;104;79;Non vérifié
+16395;Vaux-Rouillac;16;eau potable : Foussignac Nouere;265234;2024;80,9;2,4;10,1;67,0;conforme;137637;4884;46;190;294;Non vérifié
+16396;Ventouse;16;eau potable : AUNAC-LUXE;345534;2024;80,6;1,4;6,0;66,2;conforme;130540;2171;49;132;122;Non vérifié
+16397;Verdille;16;eau potable : Saint Fraigne;140910;2024;88,1;0,8;5,6;66,1;conforme;56263;5132;37;94;385;Non vérifié
+16398;Verneuil;16;eau potable : Montemboeuf;140901;2024;84,3;0,6;3,0;65,6;conforme;127889;1010;30;81;92;Non vérifié
+16399;Verrières;16;eau potable : Foussignac-Salles d'Angles;251674;2024;91,1;1,1;11,1;67,2;conforme;105518;3070;27;66;310;Non vérifié
+16400;Verteuil-sur-Charente;16;eau potable : Ruffec Villefagnan;320014;2024;80,0;1,2;5,0;66,0;conforme;139052;7936;37;89;580;Non vérifié
+16401;Vervant;16;eau potable : Auge Nord Ouest Charente;244714;2024;66,2;1,8;3,6;65,7;conforme;38290;3237;60;184;147;Non vérifié
+16402;Vibrac;16;eau potable : Chateauneuf Criteuil;265254;2024;83,6;1,0;5,1;66,0;conforme;140854;3512;31;89;307;Non vérifié
+16403;Le Vieux-Cérier;16;eau potable : Vallée de l'Or;140923;2024;92,5;0,2;2,2;65,4;conforme;4841;973;21;33;129;Non vérifié
+16404;Vieux-Ruffec;16;eau potable : Argentor Lizonne;140748;2024;72,4;0,9;2,4;65,5;conforme;63279;2257;58;139;106;Non vérifié
+16405;Vignolles;16;eau potable : Baignes Font Chaude;301774;2024;80,3;0,7;2,8;65,6;conforme;165247;1739;28;118;170;Non vérifié
+16406;Moulins-sur-Tardoire;16;eau potable : KARST;319994;2024;74,2;1,5;4,2;65,8;conforme;385763;13429;45;132;821;Non vérifié
+16408;Villebois-Lavalette;16;eau potable : Service Edon Ronsenac;140893;2024;71,3;0,9;2,2;65,4;conforme;95820;14522;55;152;717;Non vérifié
+16409;Villefagnan;16;eau potable : Ruffec Villefagnan;320014;2024;80,0;1,2;5,0;66,0;conforme;139052;13299;37;89;972;Non vérifié
+16412;Villejoubert;16;eau potable : KARST;319994;2024;74,2;1,5;4,2;65,8;conforme;385763;6232;45;132;381;Non vérifié
+16413;Villiers-le-Roux;16;eau potable : Ruffec Villefagnan;320014;2024;80,0;1,2;5,0;66,0;conforme;139052;2340;37;89;171;Non vérifié
+16414;Villognon;16;eau potable : AUNAC-LUXE;345534;2024;80,6;1,4;6,0;66,2;conforme;130540;5979;49;132;336;Non vérifié
+16415;Vindelle;16;eau potable : Braconne;266234;2024;63,1;5,7;9,2;66,8;non conforme;455734;37476;98;234;1045;Non vérifié
+16416;Vitrac-Saint-Vincent;16;eau potable : Montemboeuf;140901;2024;84,3;0,6;3,0;65,6;conforme;127889;5367;30;81;489;Non vérifié
+16418;Voeuil-et-Giget;16;eau potable : Boeme;140884;2024;77,9;1,5;5,6;66,1;conforme;131942;21581;37;102;1591;Non vérifié
+16419;Vouharte;16;eau potable : Auge Nord Ouest Charente;244714;2024;66,2;1,8;3,6;65,7;conforme;38290;6606;60;184;300;Non vérifié
+16420;Voulgézac;16;eau potable : Montmorélien;140902;2024;90,5;0,7;6,2;66,2;conforme;123539;3408;38;120;244;Non vérifié
+16421;Vouthon;16;eau potable : KARST;319994;2024;74,2;1,5;4,2;65,8;conforme;385763;6624;45;132;405;Non vérifié
+16422;Vouzan;16;eau potable : périmètre 2025;140935;2024;89,3;1,7;14,1;67,8;conforme;784349;5335;18;46;818;Non vérifié
+16423;Xambes;16;eau potable : Auge Nord Ouest Charente;244714;2024;66,2;1,8;3,6;65,7;conforme;38290;5659;60;184;257;Non vérifié
+16424;Yviers;16;eau potable : Territoire Sud Est;338314;2024;76,7;0,7;2,5;65,5;conforme;183457;8699;44;104;541;Non vérifié
+16425;Yvrac-et-Malleyrand;16;eau potable : KARST;319994;2024;74,2;1,5;4,2;65,8;conforme;385763;9143;45;132;559;Non vérifié

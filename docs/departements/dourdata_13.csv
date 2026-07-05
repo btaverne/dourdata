@@ -1,0 +1,129 @@
+﻿# DourData — eau perdue par les réseaux d'eau potable (indicateurs SISPEA)
+# Périmètre : Département 13
+# Source : SISPEA — Système d'Information des Services Publics d'Eau et d'Assainissement, via data.gouv.fr / services.eaufrance.fr
+# Licence : Licence Ouverte 2.0 (Etalab)
+# Millésime des données : 2024 (année la plus récente disponible par commune)
+# Date de génération de l'export : 2026-07-05
+# Méthodologie et code : https://github.com/btaverne/dourdata
+# Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
+# Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
+13001;Aix-en-Provence;13;eau potable : REPA;272874;2024;87,7;7,7;54,9;76,0;conforme;2498422;1592084;29;54;149695;Non vérifié
+13002;Allauch;13;eau potable : Marseille-Provence;214336;2024;88,5;9,4;72,7;79,5;conforme;10186639;203112;26;54;21443;Non vérifié
+13003;Alleins;13;eau potable : Pays Salonais;209474;2024;81,2;7,7;33,5;71,7;conforme;2396232;45668;44;91;2852;Non vérifié
+13004;Arles;13;eau potable : Arles;41794;2024;80,9;4,4;18,5;68,7;conforme;902957;902957;48;91;51811;Non vérifié
+13005;Aubagne;13;eau potable : Aubagne et La Penne sur Huveaune;252974;2024;84,3;8,3;44,7;73,9;conforme;722718;634537;37;68;47529;Non vérifié
+13006;Aureille;13;eau potable : Aureille;41711;2024;77,4;4,0;13,8;67,8;conforme;30981;30981;55;106;1533;Non vérifié
+13007;Auriol;13;eau potable : Auriol;41713;2024;77,2;7,8;26,5;70,3;conforme;244842;244842;51;107;13037;Non vérifié
+13008;Aurons;13;eau potable : Pays Salonais;209474;2024;81,2;7,7;33,5;71,7;conforme;2396232;8887;44;91;555;Non vérifié
+13009;La Barben;13;eau potable : Pays Salonais;209474;2024;81,2;7,7;33,5;71,7;conforme;2396232;13899;44;91;868;Non vérifié
+13010;Barbentane;13;eau potable : Barbentane;41714;2024;86,8;3,3;21,5;69,3;conforme;26981;26981;17;56;4266;Non vérifié
+13011;Les Baux-de-Provence;13;eau potable : Baux;41882;2024;76,5;5,3;17,3;68,5;conforme;37819;37819;392;112;264;Non vérifié
+13012;Beaurecueil;13;eau potable : Beaurecueil;41716;2024;90,5;1,3;11,9;67,4;conforme;3948;3948;18;40;585;Non vérifié
+13013;Belcodène;13;eau potable : SIBAM historique;315074;2024;90,0;2,3;20,7;69,1;conforme;234220;14308;20;41;2009;Non vérifié
+13014;Berre-l'Étang;13;eau potable : Pays Salonais;209474;2024;81,2;7,7;33,5;71,7;conforme;2396232;221487;44;91;13832;Non vérifié
+13015;Bouc-Bel-Air;13;eau potable : Bouc-Bel-Air;41783;2024;83,1;5,6;27,6;70,5;conforme;179422;179422;32;74;15381;Non vérifié
+13016;La Bouilladisse;13;eau potable : SIBAM historique;315074;2024;90,0;2,3;20,7;69,1;conforme;234220;46626;20;41;6547;Non vérifié
+13017;Boulbon;13;eau potable : Boulbon;242454;2024;76,1;3,4;10,8;67,2;conforme;28022;28022;50;115;1543;Non vérifié
+13018;Cabannes;13;eau potable : RETEP;41779;2024;79,7;5,8;23,0;69,6;conforme;873051;71181;42;109;4595;Non vérifié
+13019;Cabriès;13;eau potable : Cabriès;41718;2024;76,4;6,5;21,1;69,2;conforme;123489;123489;33;112;10240;Non vérifié
+13020;Cadolive;13;eau potable : SIBAM historique;315074;2024;90,0;2,3;20,7;69,1;conforme;234220;15924;20;41;2236;Non vérifié
+13021;Carry-le-Rouet;13;eau potable : Marseille-Provence;214336;2024;88,5;9,4;72,7;79,5;conforme;10186639;54010;26;54;5702;Non vérifié
+13022;Cassis;13;eau potable : Marseille-Provence;214336;2024;88,5;9,4;72,7;79,5;conforme;10186639;63094;26;54;6661;Non vérifié
+13023;Ceyreste;13;eau potable : Marseille-Provence;214336;2024;88,5;9,4;72,7;79,5;conforme;10186639;46063;26;54;4863;Non vérifié
+13024;Charleval;13;eau potable : Pays Salonais;209474;2024;81,2;7,7;33,5;71,7;conforme;2396232;42273;44;91;2640;Non vérifié
+13025;Châteauneuf-le-Rouge;13;eau potable : Châteauneuf-le-Rouge;41720;2024;99,9;0,0;24,9;70,0;conforme;0;0;0;0;2376;Non vérifié
+13026;Châteauneuf-les-Martigues;13;eau potable : Marseille-Provence;214336;2024;88,5;9,4;72,7;79,5;conforme;10186639;174809;26;54;18455;Non vérifié
+13027;Châteaurenard;13;eau potable : RETEP;41779;2024;79,7;5,8;23,0;69,6;conforme;873051;256297;42;109;16545;Non vérifié
+13028;La Ciotat;13;eau potable : Marseille-Provence;214336;2024;88,5;9,4;72,7;79,5;conforme;10186639;364461;26;54;38477;Non vérifié
+13029;Cornillon-Confoux;13;eau potable : GRANS-CORNILLON;274034;2024;79,8;4,5;17,6;68,5;conforme;82158;19139;31;94;1667;Non vérifié
+13030;Cuges-les-Pins;13;eau potable : Cuges-les-Pins;41795;2024;69,0;19,5;43,4;73,7;non conforme;173809;173809;76;164;6236;Non vérifié
+13031;La Destrousse;13;eau potable : SIBAM historique;315074;2024;90,0;2,3;20,7;69,1;conforme;234220;29434;20;41;4133;Non vérifié
+13032;Éguilles;13;eau potable : Eguilles;41796;2024;77,3;6,4;21,9;69,4;conforme;149504;149504;48;107;8479;Non vérifié
+13033;Ensuès-la-Redonne;13;eau potable : Marseille-Provence;214336;2024;88,5;9,4;72,7;79,5;conforme;10186639;54531;26;54;5757;Non vérifié
+13034;Eygalières;13;eau potable : Eygalières;247434;2024;97,5;1,0;37,0;72,4;conforme;13750;13750;21;10;1773;Non vérifié
+13035;Eyguières;13;eau potable : Pays Salonais;209474;2024;81,2;7,7;33,5;71,7;conforme;2396232;113994;44;91;7119;Non vérifié
+13036;Eyragues;13;eau potable : RETEP;41779;2024;79,7;5,8;23,0;69,6;conforme;873051;66580;42;109;4298;Non vérifié
+13037;La Fare-les-Oliviers;13;eau potable : Pays Salonais;209474;2024;81,2;7,7;33,5;71,7;conforme;2396232;144739;44;91;9039;Non vérifié
+13038;Fontvieille;13;eau potable : Fontvieille;41725;2024;69,5;9,5;21,6;69,3;conforme;111376;111376;85;160;3571;Non vérifié
+13039;Fos-sur-Mer;13;eau potable : Istr-Miram-Fos-PSL;303014;2024;81,3;8,8;38,1;72,6;conforme;1602788;267812;46;84;15862;Non vérifié
+13040;Fuveau;13;eau potable : REPA;272874;2024;87,7;7,7;54,9;76,0;conforme;2498422;109939;29;54;10337;Non vérifié
+13041;Gardanne;13;eau potable : REPA;272874;2024;87,7;7,7;54,9;76,0;conforme;2498422;229695;29;54;21597;Non vérifié
+13042;Gémenos;13;eau potable : Marseille-Provence;214336;2024;88,5;9,4;72,7;79,5;conforme;10186639;62318;26;54;6579;Non vérifié
+13043;Gignac-la-Nerthe;13;eau potable : Marseille-Provence;214336;2024;88,5;9,4;72,7;79,5;conforme;10186639;97971;26;54;10343;Non vérifié
+13044;Grans;13;eau potable : GRANS-CORNILLON;274034;2024;79,8;4,5;17,6;68,5;conforme;82158;63019;31;94;5489;Non vérifié
+13045;Graveson;13;eau potable : RETEP;41779;2024;79,7;5,8;23,0;69,6;conforme;873051;72776;42;109;4698;Non vérifié
+13046;Gréasque;13;eau potable : SIBAM historique;315074;2024;90,0;2,3;20,7;69,1;conforme;234220;32433;20;41;4554;Non vérifié
+13047;Istres;13;eau potable : Istr-Miram-Fos-PSL;303014;2024;81,3;8,8;38,1;72,6;conforme;1602788;747821;46;84;44292;Non vérifié
+13048;Jouques;13;eau potable : Jouques;41731;2024;75,7;6,4;20,0;69,0;conforme;54335;54335;33;117;4547;Non vérifié
+13049;Lamanon;13;eau potable : Pays Salonais;209474;2024;81,2;7,7;33,5;71,7;conforme;2396232;33579;44;91;2097;Non vérifié
+13050;Lambesc;13;eau potable : Lambesc;41797;2024;90,0;3,2;28,6;70,7;conforme;51462;51462;14;41;10024;Non vérifié
+13051;Lançon-Provence;13;eau potable : Pays Salonais;209474;2024;81,2;7,7;33,5;71,7;conforme;2396232;158766;44;91;9915;Non vérifié
+13052;Maillane;13;eau potable : RETEP;41779;2024;79,7;5,8;23,0;69,6;conforme;873051;42987;42;109;2775;Non vérifié
+13053;Mallemort;13;eau potable : Pays Salonais;209474;2024;81,2;7,7;33,5;71,7;conforme;2396232;98734;44;91;6166;Non vérifié
+13054;Marignane;13;eau potable : Marseille-Provence;214336;2024;88,5;9,4;72,7;79,5;conforme;10186639;319137;26;54;33692;Non vérifié
+13055;Marseille;13;eau potable : Marseille-Provence;214336;2024;88,5;9,4;72,7;79,5;conforme;10186639;8328309;26;54;879238;Non vérifié
+13056;Martigues;13;eau potable : REAPM;41788;2024;75,4;11,2;34,2;71,8;conforme;1804402;1240114;70;119;48298;Non vérifié
+13057;Mas-Blanc-des-Alpilles;13;eau potable : Mas Blanc;192319;2024;71,8;3,4;8,6;66,7;conforme;18615;18615;90;144;564;Non vérifié
+13058;Maussane-les-Alpilles;13;eau potable : Maussane;192329;2024;75,1;7,5;22,5;69,5;conforme;92801;92801;108;122;2347;Non vérifié
+13059;Meyrargues;13;eau potable : Meyrargues;41798;2024;84,8;4,2;23,7;69,7;conforme;34768;34768;25;65;3847;Non vérifié
+13060;Meyreuil;13;eau potable : Meyreuil;41736;2024;69,5;8,7;19,9;69,0;conforme;161950;161950;66;159;6747;Non vérifié
+13061;Saint-Pierre-de-Mézoargues;13;eau potable : St Pierre de Mézoargues;249034;2024;81,1;1,0;4,2;65,8;conforme;2920;2920;35;88;229;Non vérifié
+13062;Mimet;13;eau potable : SIBAM historique;315074;2024;90,0;2,3;20,7;69,1;conforme;234220;30203;20;41;4241;Non vérifié
+13063;Miramas;13;eau potable : Istr-Miram-Fos-PSL;303014;2024;81,3;8,8;38,1;72,6;conforme;1602788;442409;46;84;26203;Non vérifié
+13064;Mollégès;13;eau potable : RETEP;41779;2024;79,7;5,8;23,0;69,6;conforme;873051;41004;42;109;2647;Non vérifié
+13065;Mouriès;13;eau potable : Mouriès;41738;2024;77,4;5,9;20,2;69,0;conforme;50607;50607;39;107;3527;Non vérifié
+13066;Noves;13;eau potable : RETEP;41779;2024;79,7;5,8;23,0;69,6;conforme;873051;94185;42;109;6080;Non vérifié
+13067;Orgon;13;eau potable : RETEP;41779;2024;79,7;5,8;23,0;69,6;conforme;873051;42786;42;109;2762;Non vérifié
+13068;Paradou;13;eau potable : Paradou;192326;2024;80,4;4,6;18,8;68,8;conforme;55105;55105;70;89;2159;Non vérifié
+13069;Pélissanne;13;eau potable : Pays Salonais;209474;2024;81,2;7,7;33,5;71,7;conforme;2396232;177500;44;91;11085;Non vérifié
+13070;La Penne-sur-Huveaune;13;eau potable : Aubagne et La Penne sur Huveaune;252974;2024;84,3;8,3;44,7;73,9;conforme;722718;88180;37;68;6605;Non vérifié
+13071;Les Pennes-Mirabeau;13;eau potable : Les Pennes-Mirabeau - Nord du massif de la grande Colle;41786;2024;84,3;6,6;35,1;72,0;conforme;358941;358941;44;69;22537;Non vérifié
+13072;Peynier;13;eau potable : Peynier;41799;2024;81,4;4,3;18,8;68,8;conforme;67818;67818;50;83;3739;Non vérifié
+13073;Peypin;13;eau potable : SIBAM historique;315074;2024;90,0;2,3;20,7;69,1;conforme;234220;41100;20;41;5771;Non vérifié
+13074;Peyrolles-en-Provence;13;eau potable : Peyrolles;41742;2024;80,9;6,0;25,4;70,1;conforme;68919;68919;35;86;5409;Non vérifié
+13075;Plan-de-Cuques;13;eau potable : SIBAM Plan de Cuques;41840;2024;80,6;9,9;41,1;73,2;conforme;194117;194117;46;88;11632;Non vérifié
+13076;Plan-d'Orgon;13;eau potable : RETEP;41779;2024;79,7;5,8;23,0;69,6;conforme;873051;55349;42;109;3573;Non vérifié
+13077;Port-de-Bouc;13;eau potable : REAPM;41788;2024;75,4;11,2;34,2;71,8;conforme;1804402;405737;70;119;15802;Non vérifié
+13078;Port-Saint-Louis-du-Rhône;13;eau potable : Istr-Miram-Fos-PSL;303014;2024;81,3;8,8;38,1;72,6;conforme;1602788;144746;46;84;8573;Non vérifié
+13079;Puyloubier;13;eau potable : REPA;272874;2024;87,7;7,7;54,9;76,0;conforme;2498422;18804;29;54;1768;Non vérifié
+13080;Le Puy-Sainte-Réparade;13;eau potable : Le Puy Ste Réparade;41746;2024;81,2;6,1;26,4;70,3;conforme;78885;78885;36;84;5935;Non vérifié
+13081;Rognac;13;eau potable : Pays Salonais;209474;2024;81,2;7,7;33,5;71,7;conforme;2396232;201375;44;91;12576;Non vérifié
+13082;Rognes;13;eau potable : Rognes;41748;2024;70,4;10,5;24,9;70,0;conforme;58791;58791;34;154;4693;Non vérifié
+13083;Rognonas;13;eau potable : RETEP;41779;2024;79,7;5,8;23,0;69,6;conforme;873051;66007;42;109;4261;Non vérifié
+13084;La Roque-d'Anthéron;13;eau potable : La Roque d'Anthéron;41752;2024;84,1;4,7;24,8;70,0;conforme;71365;71365;36;69;5459;Non vérifié
+13085;Roquefort-la-Bédoule;13;eau potable : Marseille-Provence;214336;2024;88,5;9,4;72,7;79,5;conforme;10186639;54920;26;54;5798;Non vérifié
+13086;Roquevaire;13;eau potable : SIBAM Roquevaire;41754;2024;72,3;8,2;21,4;69,3;conforme;281851;281851;87;140;8915;Non vérifié
+13087;Rousset;13;eau potable : Rousset;41755;2024;86,1;3,9;24,0;69,8;conforme;64855;64855;33;59;5425;Non vérifié
+13088;Le Rove;13;eau potable : Marseille-Provence;214336;2024;88,5;9,4;72,7;79,5;conforme;10186639;49691;26;54;5246;Non vérifié
+13089;Saint-Andiol;13;eau potable : RETEP;41779;2024;79,7;5,8;23,0;69,6;conforme;873051;51941;42;109;3353;Non vérifié
+13090;Saint-Antonin-sur-Bayon;13;eau potable : St Antonin;192324;2024;94,8;0,2;3,7;65,7;conforme;1086;1086;24;20;126;Non vérifié
+13091;Saint-Cannat;13;eau potable : St Cannat;41800;2024;70,2;12,4;29,3;70,9;non conforme;114100;114100;51;154;6097;Non vérifié
+13092;Saint-Chamas;13;eau potable : Pays Salonais;209474;2024;81,2;7,7;33,5;71,7;conforme;2396232;138926;44;91;8676;Non vérifié
+13093;Saint-Estève-Janson;13;eau potable : REPA;272874;2024;87,7;7,7;54,9;76,0;conforme;2498422;3797;29;54;357;Non vérifié
+13094;Saint-Étienne-du-Grès;13;eau potable : St EtienneDuGres;41760;2024;88,9;2,0;15,9;68,2;conforme;26711;26711;29;46;2489;Non vérifié
+13095;Saint-Marc-Jaumegarde;13;eau potable : REPA;272874;2024;87,7;7,7;54,9;76,0;conforme;2498422;13539;29;54;1273;Non vérifié
+13096;Saintes-Maries-de-la-Mer;13;eau potable : Stes Maries de la Mer;216235;2024;85,9;2,3;14,1;67,8;conforme;74153;74153;84;60;2433;Non vérifié
+13097;Saint-Martin-de-Crau;13;eau potable : St Martin de Crau;242494;2024;78,6;5,3;19,4;68,9;conforme;207301;207301;40;100;14145;Non vérifié
+13098;Saint-Mitre-les-Remparts;13;eau potable : REAPM;41788;2024;75,4;11,2;34,2;71,8;conforme;1804402;158551;70;119;6175;Non vérifié
+13099;Saint-Paul-lès-Durance;13;eau potable : REPA;272874;2024;87,7;7,7;54,9;76,0;conforme;2498422;9412;29;54;885;Non vérifié
+13100;Saint-Rémy-de-Provence;13;eau potable : St Remy de Pvce;41801;2024;81,7;6,5;28,9;70,8;conforme;238911;238911;68;82;9599;Non vérifié
+13101;Saint-Savournin;13;eau potable : SIBAM historique;315074;2024;90,0;2,3;20,7;69,1;conforme;234220;24193;20;41;3397;Non vérifié
+13102;Saint-Victoret;13;eau potable : Marseille-Provence;214336;2024;88,5;9,4;72,7;79,5;conforme;10186639;63748;26;54;6730;Non vérifié
+13103;Salon-de-Provence;13;eau potable : Pays Salonais;209474;2024;81,2;7,7;33,5;71,7;conforme;2396232;707664;44;91;44194;Non vérifié
+13104;Sausset-les-Pins;13;eau potable : Marseille-Provence;214336;2024;88,5;9,4;72,7;79,5;conforme;10186639;71742;26;54;7574;Non vérifié
+13105;Sénas;13;eau potable : Pays Salonais;209474;2024;81,2;7,7;33,5;71,7;conforme;2396232;110888;44;91;6925;Non vérifié
+13106;Septèmes-les-Vallons;13;eau potable : Marseille-Provence;214336;2024;88,5;9,4;72,7;79,5;conforme;10186639;113619;26;54;11995;Non vérifié
+13107;Simiane-Collongue;13;eau potable : SIBAM Simiane-Collongue;41767;2024;89,5;2,2;19,1;68,8;conforme;31052;31052;15;42;5780;Non vérifié
+13108;Tarascon;13;eau potable : Tarascon;242474;2024;86,8;3,8;25,1;70,0;conforme;152279;152279;27;56;15396;Non vérifié
+13109;Le Tholonet;13;eau potable : Le Tholonet;41768;2024;96,2;0,8;20,7;69,1;conforme;4876;4876;6;14;2391;Non vérifié
+13110;Trets;13;eau potable : Trets;41770;2024;79,3;5,9;22,7;69,5;conforme;151025;151025;38;95;10946;Non vérifié
+13111;Vauvenargues;13;eau potable : Vauvenargues;41772;2024;93,2;0,8;10,7;67,1;conforme;5697;5697;15;27;1058;Non vérifié
+13112;Velaux;13;eau potable : Pays Salonais;209474;2024;81,2;7,7;33,5;71,7;conforme;2396232;143169;44;91;8941;Non vérifié
+13113;Venelles;13;eau potable : REPA;272874;2024;87,7;7,7;54,9;76,0;conforme;2498422;89530;29;54;8418;Non vérifié
+13114;Ventabren;13;eau potable : Ventabren;41802;2024;80,2;5,6;22,6;69,5;conforme;107535;107535;50;90;5839;Non vérifié
+13115;Vernègues;13;eau potable : Pays Salonais;209474;2024;81,2;7,7;33,5;71,7;conforme;2396232;34683;44;91;2166;Non vérifié
+13116;Verquières;13;eau potable : RETEP;41779;2024;79,7;5,8;23,0;69,6;conforme;873051;11959;42;109;772;Non vérifié
+13117;Vitrolles;13;eau potable : REPA;272874;2024;87,7;7,7;54,9;76,0;conforme;2498422;390940;29;54;36758;Non vérifié
+13118;Coudoux;13;eau potable : REPA;272874;2024;87,7;7,7;54,9;76,0;conforme;2498422;40681;29;54;3825;Non vérifié
+13119;Carnoux-en-Provence;13;eau potable : Marseille-Provence;214336;2024;88,5;9,4;72,7;79,5;conforme;10186639;65102;26;54;6873;Non vérifié

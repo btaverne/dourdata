@@ -1,0 +1,260 @@
+﻿# DourData — eau perdue par les réseaux d'eau potable (indicateurs SISPEA)
+# Périmètre : Département 56
+# Source : SISPEA — Système d'Information des Services Publics d'Eau et d'Assainissement, via data.gouv.fr / services.eaufrance.fr
+# Licence : Licence Ouverte 2.0 (Etalab)
+# Millésime des données : 2021–2024 (année la plus récente disponible par commune)
+# Date de génération de l'export : 2026-07-05
+# Méthodologie et code : https://github.com/btaverne/dourdata
+# Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
+# Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
+56001;Allaire;56;eau potable : d - Arc Sud Bretagne pour partie, Redon Agglomération pour partie et Questembert Communauté pour partie;297514;2024;88,5;0,7;5,0;66,0;conforme;296413;28098;19;54;3955;Non vérifié
+56002;Ambon;56;eau potable : d - Arc Sud Bretagne pour partie, Redon Agglomération pour partie et Questembert Communauté pour partie;297514;2024;88,5;0,7;5,0;66,0;conforme;296413;14927;19;54;2101;Non vérifié
+56003;Arradon;56;eau potable : GMVA;323114;2024;92,7;0,8;10,2;67,0;conforme;807964;26085;12;33;5835;Non vérifié
+56004;Arzal;56;eau potable : d - Arc Sud Bretagne pour partie, Redon Agglomération pour partie et Questembert Communauté pour partie;297514;2024;88,5;0,7;5,0;66,0;conforme;296413;13115;19;54;1846;Non vérifié
+56005;Arzon;56;eau potable : GMVA;323114;2024;92,7;0,8;10,2;67,0;conforme;807964;10152;12;33;2271;Non vérifié
+56006;Augan;56;eau potable : c - De l'oust à Brocéliande Communauté pour partie et Ploërmel Communauté pour partie;297534;2024;77,3;1,5;5,1;66,0;conforme;429831;26823;47;117;1569;Non vérifié
+56007;Auray;56;eau potable : principale;117476;2024;91,0;0,9;9,4;66,9;conforme;540711;84182;16;37;14207;Non vérifié
+56008;Baden;56;eau potable : GMVA;323114;2024;92,7;0,8;10,2;67,0;conforme;807964;22737;12;33;5086;Non vérifié
+56009;Bangor;56;eau potable : CC Belle-Ile-en-Mer;117457;2024;89,3;0,6;4,6;65,9;conforme;51456;9122;25;47;994;Non vérifié
+56010;Baud;56;eau potable : b - Centre Morbihan Communauté;283174;2024;91,4;0,7;7,0;66,4;conforme;404395;58540;25;44;6367;Non vérifié
+56011;Béganne;56;eau potable : d - Arc Sud Bretagne pour partie, Redon Agglomération pour partie et Questembert Communauté pour partie;297514;2024;88,5;0,7;5,0;66,0;conforme;296413;10607;19;54;1493;Non vérifié
+56012;Beignon;56;eau potable : c - De l'oust à Brocéliande Communauté pour partie et Ploërmel Communauté pour partie;297534;2024;77,3;1,5;5,1;66,0;conforme;429831;33234;47;117;1944;Non vérifié
+56013;Belz;56;eau potable : principale;117476;2024;91,0;0,9;9,4;66,9;conforme;540711;23068;16;37;3893;Non vérifié
+56014;Berné;56;eau potable : a - Roi Morvan Communauté pour partie;297654;2024;87,4;0,5;3,6;65,7;conforme;210477;16044;28;61;1551;Non vérifié
+56015;Berric;56;eau potable : eau potable ( Berric, Lauzach, La Vraie-Croix);331734;2024;95,6;0,5;11,4;67,3;conforme;22938;9991;13;24;2129;Non vérifié
+56017;Bignan;56;eau potable : b - Centre Morbihan Communauté;283174;2024;91,4;0,7;7,0;66,4;conforme;404395;25349;25;44;2757;Non vérifié
+56018;Billiers;56;eau potable : d - Arc Sud Bretagne pour partie, Redon Agglomération pour partie et Questembert Communauté pour partie;297514;2024;88,5;0,7;5,0;66,0;conforme;296413;7573;19;54;1066;Non vérifié
+56019;Billio;56;eau potable : b - Centre Morbihan Communauté;283174;2024;91,4;0,7;7,0;66,4;conforme;404395;3080;25;44;335;Non vérifié
+56020;Bohal;56;eau potable : c2 - de l'Oust à Brocéliande Communauté pour partie et ploërmel Communauté pour partie;332514;2024;84,9;0,9;5,1;66,0;conforme;377111;10834;34;74;873;Non vérifié
+56021;Brandérion;56;eau potable : Secteur Régie;263834;2024;90,9;2,3;23,2;69,6;conforme;648934;9281;17;44;1494;Non vérifié
+56022;Brandivy;56;eau potable : GMVA;323114;2024;92,7;0,8;10,2;67,0;conforme;807964;6554;12;33;1466;Non vérifié
+56023;Brech;56;eau potable : principale;117476;2024;91,0;0,9;9,4;66,9;conforme;540711;41786;16;37;7052;Non vérifié
+56024;Bréhan;56;eau potable;313034;2024;91,4;0,8;8,1;66,6;conforme;444804;22299;26;49;2306;Non vérifié
+56025;Brignac;56;eau potable : Ex SIAEP DE MAURON;117460;2024;89,6;0,7;6,1;66,2;conforme;248228;5408;74;49;200;Non vérifié
+56026;Bubry;56;eau potable : Secteur Nord;117484;2024;83,6;0,6;2,9;65,6;conforme;109062;19660;24;77;2242;Non vérifié
+56027;Buléon;56;eau potable : b - Centre Morbihan Communauté;283174;2024;91,4;0,7;7,0;66,4;conforme;404395;5029;25;44;547;Non vérifié
+56028;Caden;56;eau potable : (Caden, Malansac, Pluherlin, St Gravé));311674;2024;90,3;0,3;3,0;65,6;conforme;30770;8034;13;42;1641;Non vérifié
+56029;Calan;56;eau potable : Secteur Ouest;249874;2024;80,2;2,6;10,4;67,1;conforme;605462;14991;32;91;1277;Non vérifié
+56030;Camoël;56;eau potable : SEPIG Eau;129108;2024;91,7;1,5;16,1;68,2;conforme;691328;10405;24;38;1183;Non vérifié
+56031;Camors;56;eau potable : principale;117476;2024;91,0;0,9;9,4;66,9;conforme;540711;19317;16;37;3260;Non vérifié
+56032;Campénéac;56;eau potable : Ex SIAEP PLOERMEL;117483;2024;89,6;0,7;6,1;66,2;conforme;248228;23943;33;49;1991;Non vérifié
+56033;Carentoir;56;eau potable : c - De l'oust à Brocéliande Communauté pour partie et Ploërmel Communauté pour partie;297534;2024;77,3;1,5;5,1;66,0;conforme;429831;55253;47;117;3232;Non vérifié
+56034;Carnac;56;eau potable : principale;117476;2024;91,0;0,9;9,4;66,9;conforme;540711;24851;16;37;4194;Non vérifié
+56035;Caro;56;eau potable : c2 - de l'Oust à Brocéliande Communauté pour partie et ploërmel Communauté pour partie;332514;2024;84,9;0,9;5,1;66,0;conforme;377111;13974;34;74;1126;Non vérifié
+56036;Caudan;56;eau potable : Secteur Est;214535;2024;94,4;1,3;22,0;69,4;conforme;231556;41240;16;54;7206;Non vérifié
+56039;La Chapelle-Neuve;56;eau potable : b - Centre Morbihan Communauté;283174;2024;91,4;0,7;7,0;66,4;conforme;404395;9204;25;44;1001;Non vérifié
+56040;Cléguer;56;eau potable : Secteur Ouest;249874;2024;80,2;2,6;10,4;67,1;conforme;605462;40618;32;91;3460;Non vérifié
+56041;Cléguérec;56;eau potable;313034;2024;91,4;0,8;8,1;66,6;conforme;444804;27898;26;49;2885;Non vérifié
+56042;Colpo;56;eau potable : GMVA;323114;2024;92,7;0,8;10,2;67,0;conforme;807964;10264;12;33;2296;Non vérifié
+56043;Concoret;56;eau potable : Ex SIAEP DE MAURON;117460;2024;89,6;0,7;6,1;66,2;conforme;248228;20496;74;49;758;Non vérifié
+56044;Cournon;56;eau potable : c - De l'oust à Brocéliande Communauté pour partie et Ploërmel Communauté pour partie;297534;2024;77,3;1,5;5,1;66,0;conforme;429831;13882;47;117;812;Non vérifié
+56045;Le Cours;56;eau potable : Larré, Le Cours, Le Guerno, Limerzel, Marzan, Molac, Noyal-Muzillac (pour partie), Peaule, Questembert;117468;2024;88,7;0,5;4,1;65,8;conforme;106679;3366;13;48;697;Non vérifié
+56046;Crach;56;eau potable : principale;117476;2024;91,0;0,9;9,4;66,9;conforme;540711;20283;16;37;3423;Non vérifié
+56047;Crédin;56;eau potable;313034;2024;91,4;0,8;8,1;66,6;conforme;444804;14340;26;49;1483;Non vérifié
+56048;Le Croisty;56;eau potable : a - Roi Morvan Communauté pour partie;297654;2024;87,4;0,5;3,6;65,7;conforme;210477;7645;28;61;739;Non vérifié
+56049;Croixanvec;56;eau potable : Noyal-Pontivy et Cléguérec (distribution);117482;2021;95,0;0,7;13,8;67,8;conforme;183306;1886;32;61;164;Sans anomalie apparente
+56050;La Croix-Helléan;56;eau potable : c2 - de l'Oust à Brocéliande Communauté pour partie et ploërmel Communauté pour partie;332514;2024;84,9;0,9;5,1;66,0;conforme;377111;11070;34;74;892;Non vérifié
+56051;Cruguel;56;eau potable : c2 - de l'Oust à Brocéliande Communauté pour partie et ploërmel Communauté pour partie;332514;2024;84,9;0,9;5,1;66,0;conforme;377111;8240;34;74;664;Non vérifié
+56052;Damgan;56;eau potable : d - Arc Sud Bretagne pour partie, Redon Agglomération pour partie et Questembert Communauté pour partie;297514;2024;88,5;0,7;5,0;66,0;conforme;296413;13804;19;54;1943;Non vérifié
+56053;Elven;56;eau potable : GMVA;323114;2024;92,7;0,8;10,2;67,0;conforme;807964;29733;12;33;6651;Non vérifié
+56054;Erdeven;56;eau potable : principale;117476;2024;91,0;0,9;9,4;66,9;conforme;540711;23749;16;37;4008;Non vérifié
+56055;Étel;56;eau potable : principale;117476;2024;91,0;0,9;9,4;66,9;conforme;540711;12289;16;37;2074;Non vérifié
+56056;Évriguet;56;eau potable : Ex SIAEP PLOERMEL;117483;2024;89,6;0,7;6,1;66,2;conforme;248228;2525;33;49;210;Non vérifié
+56057;Le Faouët;56;eau potable : a - Roi Morvan Communauté pour partie;297654;2024;87,4;0,5;3,6;65,7;conforme;210477;29109;28;61;2814;Non vérifié
+56058;Férel;56;eau potable : SEPIG Eau;129108;2024;91,7;1,5;16,1;68,2;conforme;691328;30776;24;38;3499;Non vérifié
+56060;Les Fougerêts;56;eau potable : d - Arc Sud Bretagne pour partie, Redon Agglomération pour partie et Questembert Communauté pour partie;297514;2024;88,5;0,7;5,0;66,0;conforme;296413;6891;19;54;970;Non vérifié
+56061;La Gacilly;56;eau potable : c - De l'oust à Brocéliande Communauté pour partie et Ploërmel Communauté pour partie;297534;2024;77,3;1,5;5,1;66,0;conforme;429831;68296;47;117;3995;Non vérifié
+56062;Gâvres;56;eau potable : Secteur Est;214535;2024;94,4;1,3;22,0;69,4;conforme;231556;3983;16;54;696;Non vérifié
+56063;Gestel;56;eau potable : Secteur Ouest;249874;2024;80,2;2,6;10,4;67,1;conforme;605462;30534;32;91;2601;Non vérifié
+56065;Gourhel;56;eau potable : Ex SIAEP PLOERMEL;117483;2024;89,6;0,7;6,1;66,2;conforme;248228;8550;33;49;711;Non vérifié
+56066;Gourin;56;eau potable : a - Roi Morvan Communauté pour partie;297654;2024;87,4;0,5;3,6;65,7;conforme;210477;40964;28;61;3960;Non vérifié
+56067;Grand-Champ;56;eau potable : GMVA;323114;2024;92,7;0,8;10,2;67,0;conforme;807964;26505;12;33;5929;Non vérifié
+56068;La Grée-Saint-Laurent;56;eau potable : c2 - de l'Oust à Brocéliande Communauté pour partie et ploërmel Communauté pour partie;332514;2024;84,9;0,9;5,1;66,0;conforme;377111;3773;34;74;304;Non vérifié
+56069;Groix;56;eau potable : Secteur Régie;263834;2024;90,9;2,3;23,2;69,6;conforme;648934;14350;17;44;2310;Non vérifié
+56070;Guégon;56;eau potable : c2 - de l'Oust à Brocéliande Communauté pour partie et ploërmel Communauté pour partie;332514;2024;84,9;0,9;5,1;66,0;conforme;377111;29350;34;74;2365;Non vérifié
+56071;Guéhenno;56;eau potable : b - Centre Morbihan Communauté;283174;2024;91,4;0,7;7,0;66,4;conforme;404395;7484;25;44;814;Non vérifié
+56072;Gueltas;56;eau potable;313034;2024;91,4;0,8;8,1;66,6;conforme;444804;5328;26;49;551;Non vérifié
+56073;Guémené-sur-Scorff;56;eau potable : a2 - Roi Morvan Communauté pour partie/Guéméné;305914;2024;78,2;0,5;1,8;65,4;conforme;58108;13796;32;102;1175;Non vérifié
+56074;Guénin;56;eau potable : b - Centre Morbihan Communauté;283174;2024;91,4;0,7;7,0;66,4;conforme;404395;17662;25;44;1921;Non vérifié
+56075;Guer;56;eau potable : c - De l'oust à Brocéliande Communauté pour partie et Ploërmel Communauté pour partie;297534;2024;77,3;1,5;5,1;66,0;conforme;429831;106129;47;117;6208;Non vérifié
+56076;Guern;56;eau potable;313034;2024;91,4;0,8;8,1;66,6;conforme;444804;13644;26;49;1411;Non vérifié
+56077;Le Guerno;56;eau potable : Larré, Le Cours, Le Guerno, Limerzel, Marzan, Molac, Noyal-Muzillac (pour partie), Peaule, Questembert;117468;2024;88,7;0,5;4,1;65,8;conforme;106679;4777;13;48;989;Non vérifié
+56078;Guidel;56;eau potable : Secteur Ouest;249874;2024;80,2;2,6;10,4;67,1;conforme;605462;144838;32;91;12338;Non vérifié
+56079;Guillac;56;eau potable : c2 - de l'Oust à Brocéliande Communauté pour partie et ploërmel Communauté pour partie;332514;2024;84,9;0,9;5,1;66,0;conforme;377111;17325;34;74;1396;Non vérifié
+56080;Guilliers;56;eau potable : Ex SIAEP PLOERMEL;117483;2024;89,6;0,7;6,1;66,2;conforme;248228;16451;33;49;1368;Non vérifié
+56081;Guiscriff;56;eau potable : a - Roi Morvan Communauté pour partie;297654;2024;87,4;0,5;3,6;65,7;conforme;210477;21072;28;61;2037;Non vérifié
+56082;Helléan;56;eau potable : c2 - de l'Oust à Brocéliande Communauté pour partie et ploërmel Communauté pour partie;332514;2024;84,9;0,9;5,1;66,0;conforme;377111;4902;34;74;395;Non vérifié
+56083;Hennebont;56;eau potable : Secteur Est;214535;2024;94,4;1,3;22,0;69,4;conforme;231556;91052;16;54;15910;Non vérifié
+56084;Le Hézo;56;eau potable : GMVA;323114;2024;92,7;0,8;10,2;67,0;conforme;807964;4158;12;33;930;Non vérifié
+56085;Hoedic;56;eau potable : principale;117476;2024;91,0;0,9;9,4;66,9;conforme;540711;616;16;37;104;Non vérifié
+56086;Île-d'Houat;56;eau potable : principale;117476;2024;91,0;0,9;9,4;66,9;conforme;540711;1298;16;37;219;Non vérifié
+56087;Île-aux-Moines;56;eau potable : GMVA;323114;2024;92,7;0,8;10,2;67,0;conforme;807964;2816;12;33;630;Non vérifié
+56088;Île-d'Arz;56;eau potable : GMVA;323114;2024;92,7;0,8;10,2;67,0;conforme;807964;1435;12;33;321;Non vérifié
+56089;Inguiniel;56;eau potable : Secteur Nord;117484;2024;83,6;0,6;2,9;65,6;conforme;109062;19187;24;77;2188;Non vérifié
+56090;Inzinzac-Lochrist;56;eau potable : Secteur Est;214535;2024;94,4;1,3;22,0;69,4;conforme;231556;38292;16;54;6691;Non vérifié
+56091;Josselin;56;eau potable : c2 - de l'Oust à Brocéliande Communauté pour partie et ploërmel Communauté pour partie;332514;2024;84,9;0,9;5,1;66,0;conforme;377111;32068;34;74;2584;Non vérifié
+56092;Kerfourn;56;eau potable;313034;2024;91,4;0,8;8,1;66,6;conforme;444804;8239;26;49;852;Non vérifié
+56093;Kergrist;56;eau potable;313034;2024;91,4;0,8;8,1;66,6;conforme;444804;6904;26;49;714;Non vérifié
+56094;Kervignac;56;eau potable : e - Blavet Bellevue Océan Communauté;305934;2024;90,4;1,3;12,2;67,4;conforme;163888;62944;24;63;7204;Non vérifié
+56096;Landaul;56;eau potable : principale;117476;2024;91,0;0,9;9,4;66,9;conforme;540711;14908;16;37;2516;Non vérifié
+56097;Landévant;56;eau potable : principale;117476;2024;91,0;0,9;9,4;66,9;conforme;540711;24033;16;37;4056;Non vérifié
+56098;Lanester;56;eau potable : Secteur Régie;263834;2024;90,9;2,3;23,2;69,6;conforme;648934;144510;17;44;23263;Non vérifié
+56099;Langoëlan;56;eau potable : a2 - Roi Morvan Communauté pour partie/Guéméné;305914;2024;78,2;0,5;1,8;65,4;conforme;58108;4732;32;102;403;Non vérifié
+56100;Langonnet;56;eau potable : a - Roi Morvan Communauté pour partie;297654;2024;87,4;0,5;3,6;65,7;conforme;210477;19965;28;61;1930;Non vérifié
+56101;Languidic;56;eau potable : Secteur Régie;263834;2024;90,9;2,3;23,2;69,6;conforme;648934;49957;17;44;8042;Non vérifié
+56102;Forges de Lanouée;56;eau potable : c2 - de l'Oust à Brocéliande Communauté pour partie et ploërmel Communauté pour partie;332514;2024;84,9;0,9;5,1;66,0;conforme;377111;27960;34;74;2253;Non vérifié
+56103;Lantillac;56;eau potable : c2 - de l'Oust à Brocéliande Communauté pour partie et ploërmel Communauté pour partie;332514;2024;84,9;0,9;5,1;66,0;conforme;377111;3673;34;74;296;Non vérifié
+56104;Lanvaudan;56;eau potable : Secteur Nord;117484;2024;83,6;0,6;2,9;65,6;conforme;109062;7085;24;77;808;Non vérifié
+56105;Lanvénégen;56;eau potable : a - Roi Morvan Communauté pour partie;297654;2024;87,4;0,5;3,6;65,7;conforme;210477;11844;28;61;1145;Non vérifié
+56106;Larmor-Baden;56;eau potable : GMVA;323114;2024;92,7;0,8;10,2;67,0;conforme;807964;4099;12;33;917;Non vérifié
+56107;Larmor-Plage;56;eau potable : Secteur Régie;263834;2024;90,9;2,3;23,2;69,6;conforme;648934;52293;17;44;8418;Non vérifié
+56108;Larré;56;eau potable : Larré, Le Cours, Le Guerno, Limerzel, Marzan, Molac, Noyal-Muzillac (pour partie), Peaule, Questembert;117468;2024;88,7;0,5;4,1;65,8;conforme;106679;5332;13;48;1104;Non vérifié
+56109;Lauzach;56;eau potable : eau potable ( Berric, Lauzach, La Vraie-Croix);331734;2024;95,6;0,5;11,4;67,3;conforme;22938;5932;13;24;1264;Non vérifié
+56110;Lignol;56;eau potable : a2 - Roi Morvan Communauté pour partie/Guéméné;305914;2024;78,2;0,5;1,8;65,4;conforme;58108;10109;32;102;861;Non vérifié
+56111;Limerzel;56;eau potable : Larré, Le Cours, Le Guerno, Limerzel, Marzan, Molac, Noyal-Muzillac (pour partie), Peaule, Questembert;117468;2024;88,7;0,5;4,1;65,8;conforme;106679;6617;13;48;1370;Non vérifié
+56112;Lizio;56;eau potable : c2 - de l'Oust à Brocéliande Communauté pour partie et ploërmel Communauté pour partie;332514;2024;84,9;0,9;5,1;66,0;conforme;377111;10425;34;74;840;Non vérifié
+56113;Locmalo;56;eau potable : a2 - Roi Morvan Communauté pour partie/Guéméné;305914;2024;78,2;0,5;1,8;65,4;conforme;58108;10450;32;102;890;Non vérifié
+56114;Locmaria;56;eau potable : CC Belle-Ile-en-Mer;117457;2024;89,3;0,6;4,6;65,9;conforme;51456;8975;25;47;978;Non vérifié
+56115;Locmaria-Grand-Champ;56;eau potable : GMVA;323114;2024;92,7;0,8;10,2;67,0;conforme;807964;8293;12;33;1855;Non vérifié
+56116;Locmariaquer;56;eau potable : principale;117476;2024;91,0;0,9;9,4;66,9;conforme;540711;9344;16;37;1577;Non vérifié
+56117;Locminé;56;eau potable : b - Centre Morbihan Communauté;283174;2024;91,4;0,7;7,0;66,4;conforme;404395;43885;25;44;4773;Non vérifié
+56118;Locmiquélic;56;eau potable : Secteur Est;214535;2024;94,4;1,3;22,0;69,4;conforme;231556;23424;16;54;4093;Non vérifié
+56119;Locoal-Mendon;56;eau potable : principale;117476;2024;91,0;0,9;9,4;66,9;conforme;540711;20917;16;37;3530;Non vérifié
+56120;Locqueltas;56;eau potable : GMVA;323114;2024;92,7;0,8;10,2;67,0;conforme;807964;9079;12;33;2031;Non vérifié
+56121;Lorient;56;eau potable : Secteur Régie;263834;2024;90,9;2,3;23,2;69,6;conforme;648934;362341;17;44;58329;Non vérifié
+56122;Loyat;56;eau potable : Ex SIAEP PLOERMEL;117483;2024;89,6;0,7;6,1;66,2;conforme;248228;21044;33;49;1750;Non vérifié
+56123;Malansac;56;eau potable : (Caden, Malansac, Pluherlin, St Gravé));311674;2024;90,3;0,3;3,0;65,6;conforme;30770;11451;13;42;2339;Non vérifié
+56124;Malestroit;56;eau potable : c2 - de l'Oust à Brocéliande Communauté pour partie et ploërmel Communauté pour partie;332514;2024;84,9;0,9;5,1;66,0;conforme;377111;31746;34;74;2558;Non vérifié
+56125;Malguénac;56;eau potable;313034;2024;91,4;0,8;8,1;66,6;conforme;444804;17957;26;49;1857;Non vérifié
+56126;Marzan;56;eau potable : Larré, Le Cours, Le Guerno, Limerzel, Marzan, Molac, Noyal-Muzillac (pour partie), Peaule, Questembert;117468;2024;88,7;0,5;4,1;65,8;conforme;106679;12964;13;48;2684;Non vérifié
+56127;Mauron;56;eau potable : Ex SIAEP DE MAURON;117460;2024;89,6;0,7;6,1;66,2;conforme;248228;85528;74;49;3163;Non vérifié
+56128;Melrand;56;eau potable : b - Centre Morbihan Communauté;283174;2024;91,4;0,7;7,0;66,4;conforme;404395;14693;25;44;1598;Non vérifié
+56129;Ménéac;56;eau potable : Ex SIAEP PLOERMEL;117483;2024;89,6;0,7;6,1;66,2;conforme;248228;17750;33;49;1476;Non vérifié
+56130;Merlevenez;56;eau potable : e - Blavet Bellevue Océan Communauté;305934;2024;90,4;1,3;12,2;67,4;conforme;163888;27733;24;63;3174;Non vérifié
+56131;Meslan;56;eau potable : a - Roi Morvan Communauté pour partie;297654;2024;87,4;0,5;3,6;65,7;conforme;210477;15299;28;61;1479;Non vérifié
+56132;Meucon;56;eau potable : GMVA;323114;2024;92,7;0,8;10,2;67,0;conforme;807964;10193;12;33;2280;Non vérifié
+56133;Missiriac;56;eau potable : c2 - de l'Oust à Brocéliande Communauté pour partie et ploërmel Communauté pour partie;332514;2024;84,9;0,9;5,1;66,0;conforme;377111;14830;34;74;1195;Non vérifié
+56134;Mohon;56;eau potable : Ex SIAEP TRINITE PORHOET;117485;2024;89,6;0,7;6,1;66,2;conforme;248228;69177;191;49;991;Non vérifié
+56135;Molac;56;eau potable : Larré, Le Cours, Le Guerno, Limerzel, Marzan, Molac, Noyal-Muzillac (pour partie), Peaule, Questembert;117468;2024;88,7;0,5;4,1;65,8;conforme;106679;7887;13;48;1633;Non vérifié
+56136;Monteneuf;56;eau potable : c - De l'oust à Brocéliande Communauté pour partie et Ploërmel Communauté pour partie;297534;2024;77,3;1,5;5,1;66,0;conforme;429831;13044;47;117;763;Non vérifié
+56137;Monterblanc;56;eau potable : GMVA;323114;2024;92,7;0,8;10,2;67,0;conforme;807964;15003;12;33;3356;Non vérifié
+56139;Montertelot;56;eau potable : c - De l'oust à Brocéliande Communauté pour partie et Ploërmel Communauté pour partie;297534;2024;77,3;1,5;5,1;66,0;conforme;429831;6411;47;117;375;Non vérifié
+56140;Moréac;56;eau potable : b - Centre Morbihan Communauté;283174;2024;91,4;0,7;7,0;66,4;conforme;404395;34056;25;44;3704;Non vérifié
+56141;Moustoir-Ac;56;eau potable : b - Centre Morbihan Communauté;283174;2024;91,4;0,7;7,0;66,4;conforme;404395;16320;25;44;1775;Non vérifié
+56143;Muzillac;56;eau potable : d - Arc Sud Bretagne pour partie, Redon Agglomération pour partie et Questembert Communauté pour partie;297514;2024;88,5;0,7;5,0;66,0;conforme;296413;36155;19;54;5089;Non vérifié
+56144;Évellys;56;eau potable : b - Centre Morbihan Communauté;283174;2024;91,4;0,7;7,0;66,4;conforme;404395;31068;25;44;3379;Non vérifié
+56145;Néant-sur-Yvel;56;eau potable : Ex SIAEP DE MAURON;117460;2024;89,6;0,7;6,1;66,2;conforme;248228;28257;74;49;1045;Non vérifié
+56146;Neulliac;56;eau potable;313034;2024;91,4;0,8;8,1;66,6;conforme;444804;14331;26;49;1482;Non vérifié
+56147;Nivillac;56;eau potable : d - Arc Sud Bretagne pour partie, Redon Agglomération pour partie et Questembert Communauté pour partie;297514;2024;88,5;0,7;5,0;66,0;conforme;296413;35174;19;54;4951;Non vérifié
+56148;Nostang;56;eau potable : e - Blavet Bellevue Océan Communauté;305934;2024;90,4;1,3;12,2;67,4;conforme;163888;14644;24;63;1676;Non vérifié
+56149;Noyal-Muzillac;56;eau potable : d - Arc Sud Bretagne pour partie, Redon Agglomération pour partie et Questembert Communauté pour partie;297514;2024;88,5;0,7;5,0;66,0;conforme;296413;18102;19;54;2548;Non vérifié
+56151;Noyal-Pontivy;56;eau potable;313034;2024;91,4;0,8;8,1;66,6;conforme;444804;34869;26;49;3606;Non vérifié
+56152;Le Palais;56;eau potable : CC Belle-Ile-en-Mer;117457;2024;89,3;0,6;4,6;65,9;conforme;51456;23851;25;47;2599;Non vérifié
+56153;Péaule;56;eau potable : Larré, Le Cours, Le Guerno, Limerzel, Marzan, Molac, Noyal-Muzillac (pour partie), Peaule, Questembert;117468;2024;88,7;0,5;4,1;65,8;conforme;106679;14147;13;48;2929;Non vérifié
+56154;Peillac;56;eau potable : d - Arc Sud Bretagne pour partie, Redon Agglomération pour partie et Questembert Communauté pour partie;297514;2024;88,5;0,7;5,0;66,0;conforme;296413;13307;19;54;1873;Non vérifié
+56155;Pénestin;56;eau potable : SEPIG Eau;129108;2024;91,7;1,5;16,1;68,2;conforme;691328;18339;24;38;2085;Non vérifié
+56156;Persquen;56;eau potable : a2 - Roi Morvan Communauté pour partie/Guéméné;305914;2024;78,2;0,5;1,8;65,4;conforme;58108;4286;32;102;365;Non vérifié
+56157;Plaudren;56;eau potable : GMVA;323114;2024;92,7;0,8;10,2;67,0;conforme;807964;8843;12;33;1978;Non vérifié
+56158;Plescop;56;eau potable : GMVA;323114;2024;92,7;0,8;10,2;67,0;conforme;807964;28441;12;33;6362;Non vérifié
+56159;Pleucadeuc;56;eau potable : c2 - de l'Oust à Brocéliande Communauté pour partie et ploërmel Communauté pour partie;332514;2024;84,9;0,9;5,1;66,0;conforme;377111;23158;34;74;1866;Non vérifié
+56160;Pleugriffet;56;eau potable;313034;2024;91,4;0,8;8,1;66,6;conforme;444804;12387;26;49;1281;Non vérifié
+56161;Ploemel;56;eau potable : principale;117476;2024;91,0;0,9;9,4;66,9;conforme;540711;18813;16;37;3175;Non vérifié
+56162;Ploemeur;56;eau potable : Secteur Ouest;249874;2024;80,2;2,6;10,4;67,1;conforme;605462;221543;32;91;18872;Non vérifié
+56163;Ploërdut;56;eau potable : a2 - Roi Morvan Communauté pour partie/Guéméné;305914;2024;78,2;0,5;1,8;65,4;conforme;58108;14735;32;102;1255;Non vérifié
+56164;Ploeren;56;eau potable : GMVA;323114;2024;92,7;0,8;10,2;67,0;conforme;807964;30354;12;33;6790;Non vérifié
+56165;Ploërmel;56;eau potable : Ex SIAEP PLOERMEL;117483;2024;89,6;0,7;6,1;66,2;conforme;248228;122214;33;49;10163;Non vérifié
+56166;Plouay;56;eau potable : Secteur Nord;117484;2024;83,6;0,6;2,9;65,6;conforme;109062;50466;24;77;5755;Non vérifié
+56167;Plougoumelen;56;eau potable : GMVA;323114;2024;92,7;0,8;10,2;67,0;conforme;807964;11909;12;33;2664;Non vérifié
+56168;Plouharnel;56;eau potable : principale;117476;2024;91,0;0,9;9,4;66,9;conforme;540711;13540;16;37;2285;Non vérifié
+56169;Plouhinec;56;eau potable : e - Blavet Bellevue Océan Communauté;305934;2024;90,4;1,3;12,2;67,4;conforme;163888;47182;24;63;5400;Non vérifié
+56170;Plouray;56;eau potable : a - Roi Morvan Communauté pour partie;297654;2024;87,4;0,5;3,6;65,7;conforme;210477;10965;28;61;1060;Non vérifié
+56171;Pluherlin;56;eau potable : (Caden, Malansac, Pluherlin, St Gravé));311674;2024;90,3;0,3;3,0;65,6;conforme;30770;7549;13;42;1542;Non vérifié
+56172;Plumelec;56;eau potable : b - Centre Morbihan Communauté;283174;2024;91,4;0,7;7,0;66,4;conforme;404395;25321;25;44;2754;Non vérifié
+56173;Pluméliau-Bieuzy;56;eau potable : b - Centre Morbihan Communauté;283174;2024;91,4;0,7;7,0;66,4;conforme;404395;42588;25;44;4632;Non vérifié
+56174;Plumelin;56;eau potable : b - Centre Morbihan Communauté;283174;2024;91,4;0,7;7,0;66,4;conforme;404395;26526;25;44;2885;Non vérifié
+56175;Plumergat;56;eau potable : principale;117476;2024;91,0;0,9;9,4;66,9;conforme;540711;24928;16;37;4207;Non vérifié
+56176;Pluneret;56;eau potable : principale;117476;2024;91,0;0,9;9,4;66,9;conforme;540711;37105;16;37;6262;Non vérifié
+56177;Pluvigner;56;eau potable : principale;117476;2024;91,0;0,9;9,4;66,9;conforme;540711;45519;16;37;7682;Non vérifié
+56178;Pontivy;56;eau potable;313034;2024;91,4;0,8;8,1;66,6;conforme;444804;141567;26;49;14640;Non vérifié
+56179;Pont-Scorff;56;eau potable : Secteur Ouest;249874;2024;80,2;2,6;10,4;67,1;conforme;605462;47391;32;91;4037;Non vérifié
+56180;Porcaro;56;eau potable : c - De l'oust à Brocéliande Communauté pour partie et Ploërmel Communauté pour partie;297534;2024;77,3;1,5;5,1;66,0;conforme;429831;12702;47;117;743;Non vérifié
+56181;Port-Louis;56;eau potable : Secteur Régie;263834;2024;90,9;2,3;23,2;69,6;conforme;648934;16201;17;44;2608;Non vérifié
+56182;Priziac;56;eau potable : a - Roi Morvan Communauté pour partie;297654;2024;87,4;0,5;3,6;65,7;conforme;210477;10727;28;61;1037;Non vérifié
+56184;Questembert;56;eau potable : Larré, Le Cours, Le Guerno, Limerzel, Marzan, Molac, Noyal-Muzillac (pour partie), Peaule, Questembert;117468;2024;88,7;0,5;4,1;65,8;conforme;106679;39282;13;48;8133;Non vérifié
+56185;Quéven;56;eau potable : Secteur Ouest;249874;2024;80,2;2,6;10,4;67,1;conforme;605462;105547;32;91;8991;Non vérifié
+56186;Quiberon;56;eau potable : principale;117476;2024;91,0;0,9;9,4;66,9;conforme;540711;28892;16;37;4876;Non vérifié
+56188;Quistinic;56;eau potable : Secteur Nord;117484;2024;83,6;0,6;2,9;65,6;conforme;109062;12663;24;77;1444;Non vérifié
+56189;Radenac;56;eau potable;313034;2024;91,4;0,8;8,1;66,6;conforme;444804;10308;26;49;1066;Non vérifié
+56190;Réguiny;56;eau potable;313034;2024;91,4;0,8;8,1;66,6;conforme;444804;18905;26;49;1955;Non vérifié
+56191;Réminiac;56;eau potable : c - De l'oust à Brocéliande Communauté pour partie et Ploërmel Communauté pour partie;297534;2024;77,3;1,5;5,1;66,0;conforme;429831;7488;47;117;438;Non vérifié
+56193;Riantec;56;eau potable : Secteur Est;214535;2024;94,4;1,3;22,0;69,4;conforme;231556;33565;16;54;5865;Non vérifié
+56194;Rieux;56;eau potable : d - Arc Sud Bretagne pour partie, Redon Agglomération pour partie et Questembert Communauté pour partie;297514;2024;88,5;0,7;5,0;66,0;conforme;296413;20290;19;54;2856;Non vérifié
+56195;La Roche-Bernard;56;eau potable : d - Arc Sud Bretagne pour partie, Redon Agglomération pour partie et Questembert Communauté pour partie;297514;2024;88,5;0,7;5,0;66,0;conforme;296413;5300;19;54;746;Non vérifié
+56196;Rochefort-en-Terre;56;eau potable : d - Arc Sud Bretagne pour partie, Redon Agglomération pour partie et Questembert Communauté pour partie;297514;2024;88,5;0,7;5,0;66,0;conforme;296413;4597;19;54;647;Non vérifié
+56197;Val d'Oust;56;eau potable : c - De l'oust à Brocéliande Communauté pour partie et Ploërmel Communauté pour partie;297534;2024;77,3;1,5;5,1;66,0;conforme;429831;47987;47;117;2807;Non vérifié
+56198;Rohan;56;eau potable;313034;2024;91,4;0,8;8,1;66,6;conforme;444804;14756;26;49;1526;Non vérifié
+56199;Roudouallec;56;eau potable : a - Roi Morvan Communauté pour partie;297654;2024;87,4;0,5;3,6;65,7;conforme;210477;7469;28;61;722;Non vérifié
+56200;Ruffiac;56;eau potable : c2 - de l'Oust à Brocéliande Communauté pour partie et ploërmel Communauté pour partie;332514;2024;84,9;0,9;5,1;66,0;conforme;377111;17647;34;74;1422;Non vérifié
+56201;Le Saint;56;eau potable : a - Roi Morvan Communauté pour partie;297654;2024;87,4;0,5;3,6;65,7;conforme;210477;6331;28;61;612;Non vérifié
+56202;Saint-Abraham;56;eau potable : c - De l'oust à Brocéliande Communauté pour partie et Ploërmel Communauté pour partie;297534;2024;77,3;1,5;5,1;66,0;conforme;429831;9437;47;117;552;Non vérifié
+56203;Saint-Aignan;56;eau potable;313034;2024;91,4;0,8;8,1;66,6;conforme;444804;6160;26;49;637;Non vérifié
+56204;Saint-Allouestre;56;eau potable : b - Centre Morbihan Communauté;283174;2024;91,4;0,7;7,0;66,4;conforme;404395;6206;25;44;675;Non vérifié
+56205;Saint-Armel;56;eau potable : GMVA;323114;2024;92,7;0,8;10,2;67,0;conforme;807964;4037;12;33;903;Non vérifié
+56206;Saint-Avé;56;eau potable : GMVA;323114;2024;92,7;0,8;10,2;67,0;conforme;807964;55746;12;33;12470;Non vérifié
+56207;Saint-Barthélemy;56;eau potable : b - Centre Morbihan Communauté;283174;2024;91,4;0,7;7,0;66,4;conforme;404395;11006;25;44;1197;Non vérifié
+56208;Saint-Brieuc-de-Mauron;56;eau potable : Ex SIAEP DE MAURON;117460;2024;89,6;0,7;6,1;66,2;conforme;248228;8328;74;49;308;Non vérifié
+56209;Sainte-Brigitte;56;eau potable;313034;2024;91,4;0,8;8,1;66,6;conforme;444804;1721;26;49;178;Non vérifié
+56210;Saint-Caradec-Trégomel;56;eau potable : a - Roi Morvan Communauté pour partie;297654;2024;87,4;0,5;3,6;65,7;conforme;210477;4831;28;61;467;Non vérifié
+56211;Saint-Congard;56;eau potable : c2 - de l'Oust à Brocéliande Communauté pour partie et ploërmel Communauté pour partie;332514;2024;84,9;0,9;5,1;66,0;conforme;377111;9829;34;74;792;Non vérifié
+56212;Saint-Dolay;56;eau potable : d - Arc Sud Bretagne pour partie, Redon Agglomération pour partie et Questembert Communauté pour partie;297514;2024;88,5;0,7;5,0;66,0;conforme;296413;18791;19;54;2645;Non vérifié
+56213;Saint-Gérand-Croixanvec;56;eau potable;313034;2024;91,4;0,8;8,1;66,6;conforme;444804;12687;26;49;1312;Non vérifié
+56214;Saint-Gildas-de-Rhuys;56;eau potable : GMVA;323114;2024;92,7;0,8;10,2;67,0;conforme;807964;8959;12;33;2004;Non vérifié
+56215;Saint-Gonnery;56;eau potable;313034;2024;91,4;0,8;8,1;66,6;conforme;444804;10511;26;49;1087;Non vérifié
+56216;Saint-Gorgon;56;eau potable : d - Arc Sud Bretagne pour partie, Redon Agglomération pour partie et Questembert Communauté pour partie;297514;2024;88,5;0,7;5,0;66,0;conforme;296413;3147;19;54;443;Non vérifié
+56218;Saint-Gravé;56;eau potable : (Caden, Malansac, Pluherlin, St Gravé));311674;2024;90,3;0,3;3,0;65,6;conforme;30770;3735;13;42;763;Non vérifié
+56219;Saint-Guyomard;56;eau potable : c2 - de l'Oust à Brocéliande Communauté pour partie et ploërmel Communauté pour partie;332514;2024;84,9;0,9;5,1;66,0;conforme;377111;18218;34;74;1468;Non vérifié
+56220;Sainte-Hélène;56;eau potable : e - Blavet Bellevue Océan Communauté;305934;2024;90,4;1,3;12,2;67,4;conforme;163888;11385;24;63;1303;Non vérifié
+56221;Saint-Jacut-les-Pins;56;eau potable : d - Arc Sud Bretagne pour partie, Redon Agglomération pour partie et Questembert Communauté pour partie;297514;2024;88,5;0,7;5,0;66,0;conforme;296413;12397;19;54;1745;Non vérifié
+56222;Saint-Jean-Brévelay;56;eau potable : b - Centre Morbihan Communauté;283174;2024;91,4;0,7;7,0;66,4;conforme;404395;26379;25;44;2869;Non vérifié
+56223;Saint-Jean-la-Poterie;56;eau potable : d - Arc Sud Bretagne pour partie, Redon Agglomération pour partie et Questembert Communauté pour partie;297514;2024;88,5;0,7;5,0;66,0;conforme;296413;10152;19;54;1429;Non vérifié
+56224;Saint-Laurent-sur-Oust;56;eau potable : c2 - de l'Oust à Brocéliande Communauté pour partie et ploërmel Communauté pour partie;332514;2024;84,9;0,9;5,1;66,0;conforme;377111;4914;34;74;396;Non vérifié
+56225;Saint-Léry;56;eau potable : Ex SIAEP DE MAURON;117460;2024;89,6;0,7;6,1;66,2;conforme;248228;5678;74;49;210;Non vérifié
+56226;Saint-Malo-de-Beignon;56;eau potable : c - De l'oust à Brocéliande Communauté pour partie et Ploërmel Communauté pour partie;297534;2024;77,3;1,5;5,1;66,0;conforme;429831;9180;47;117;537;Non vérifié
+56227;Saint-Malo-des-Trois-Fontaines;56;eau potable : Ex SIAEP PLOERMEL;117483;2024;89,6;0,7;6,1;66,2;conforme;248228;6554;33;49;545;Non vérifié
+56228;Saint-Marcel;56;eau potable : c2 - de l'Oust à Brocéliande Communauté pour partie et ploërmel Communauté pour partie;332514;2024;84,9;0,9;5,1;66,0;conforme;377111;14334;34;74;1155;Non vérifié
+56229;Saint-Martin-sur-Oust;56;eau potable : c2 - de l'Oust à Brocéliande Communauté pour partie et ploërmel Communauté pour partie;332514;2024;84,9;0,9;5,1;66,0;conforme;377111;16282;34;74;1312;Non vérifié
+56230;Saint-Nicolas-du-Tertre;56;eau potable : c - De l'oust à Brocéliande Communauté pour partie et Ploërmel Communauté pour partie;297534;2024;77,3;1,5;5,1;66,0;conforme;429831;8018;47;117;469;Non vérifié
+56231;Saint-Nolff;56;eau potable : GMVA;323114;2024;92,7;0,8;10,2;67,0;conforme;807964;17837;12;33;3990;Non vérifié
+56232;Saint-Perreux;56;eau potable : d - Arc Sud Bretagne pour partie, Redon Agglomération pour partie et Questembert Communauté pour partie;297514;2024;88,5;0,7;5,0;66,0;conforme;296413;7715;19;54;1086;Non vérifié
+56233;Saint-Philibert;56;eau potable : principale;117476;2024;91,0;0,9;9,4;66,9;conforme;540711;9333;16;37;1575;Non vérifié
+56234;Saint-Pierre-Quiberon;56;eau potable : principale;117476;2024;91,0;0,9;9,4;66,9;conforme;540711;13889;16;37;2344;Non vérifié
+56236;Saint-Servant;56;eau potable : c2 - de l'Oust à Brocéliande Communauté pour partie et ploërmel Communauté pour partie;332514;2024;84,9;0,9;5,1;66,0;conforme;377111;10003;34;74;806;Non vérifié
+56237;Saint-Thuriau;56;eau potable;313034;2024;91,4;0,8;8,1;66,6;conforme;444804;18228;26;49;1885;Non vérifié
+56238;Saint-Tugdual;56;eau potable : a - Roi Morvan Communauté pour partie;297654;2024;87,4;0,5;3,6;65,7;conforme;210477;3889;28;61;376;Non vérifié
+56239;Saint-Vincent-sur-Oust;56;eau potable : d - Arc Sud Bretagne pour partie, Redon Agglomération pour partie et Questembert Communauté pour partie;297514;2024;88,5;0,7;5,0;66,0;conforme;296413;11928;19;54;1679;Non vérifié
+56240;Sarzeau;56;eau potable : GMVA;323114;2024;92,7;0,8;10,2;67,0;conforme;807964;41182;12;33;9212;Non vérifié
+56241;Sauzon;56;eau potable : CC Belle-Ile-en-Mer;117457;2024;89,3;0,6;4,6;65,9;conforme;51456;9508;25;47;1036;Non vérifié
+56242;Séglien;56;eau potable;313034;2024;91,4;0,8;8,1;66,6;conforme;444804;6508;26;49;673;Non vérifié
+56243;Séné;56;eau potable : GMVA;323114;2024;92,7;0,8;10,2;67,0;conforme;807964;42711;12;33;9554;Non vérifié
+56244;Sérent;56;eau potable : c2 - de l'Oust à Brocéliande Communauté pour partie et ploërmel Communauté pour partie;332514;2024;84,9;0,9;5,1;66,0;conforme;377111;42555;34;74;3429;Non vérifié
+56245;Silfiac;56;eau potable;313034;2024;91,4;0,8;8,1;66,6;conforme;444804;4748;26;49;491;Non vérifié
+56246;Le Sourn;56;eau potable;313034;2024;91,4;0,8;8,1;66,6;conforme;444804;20510;26;49;2121;Non vérifié
+56247;Sulniac;56;eau potable : GMVA;323114;2024;92,7;0,8;10,2;67,0;conforme;807964;17220;12;33;3852;Non vérifié
+56248;Surzur;56;eau potable : GMVA;323114;2024;92,7;0,8;10,2;67,0;conforme;807964;23295;12;33;5211;Non vérifié
+56249;Taupont;56;eau potable : Ex SIAEP PLOERMEL;117483;2024;89,6;0,7;6,1;66,2;conforme;248228;29198;33;49;2428;Non vérifié
+56250;Théhillac;56;eau potable : d - Arc Sud Bretagne pour partie, Redon Agglomération pour partie et Questembert Communauté pour partie;297514;2024;88,5;0,7;5,0;66,0;conforme;296413;4341;19;54;611;Non vérifié
+56251;Theix-Noyalo;56;eau potable : GMVA;323114;2024;92,7;0,8;10,2;67,0;conforme;807964;37999;12;33;8500;Non vérifié
+56252;Le Tour-du-Parc;56;eau potable : GMVA;323114;2024;92,7;0,8;10,2;67,0;conforme;807964;6004;12;33;1343;Non vérifié
+56253;Tréal;56;eau potable : c - De l'oust à Brocéliande Communauté pour partie et Ploërmel Communauté pour partie;297534;2024;77,3;1,5;5,1;66,0;conforme;429831;11950;47;117;699;Non vérifié
+56254;Trédion;56;eau potable : GMVA;323114;2024;92,7;0,8;10,2;67,0;conforme;807964;6259;12;33;1400;Non vérifié
+56255;Treffléan;56;eau potable : GMVA;323114;2024;92,7;0,8;10,2;67,0;conforme;807964;11498;12;33;2572;Non vérifié
+56256;Tréhorenteuc;56;eau potable : Ex SIAEP DE MAURON;117460;2024;89,6;0,7;6,1;66,2;conforme;248228;3001;74;49;111;Non vérifié
+56257;La Trinité-Porhoët;56;eau potable : Ex SIAEP TRINITE PORHOET;117485;2024;89,6;0,7;6,1;66,2;conforme;248228;46281;191;49;663;Non vérifié
+56258;La Trinité-sur-Mer;56;eau potable : principale;117476;2024;91,0;0,9;9,4;66,9;conforme;540711;10932;16;37;1845;Non vérifié
+56259;La Trinité-Surzur;56;eau potable : GMVA;323114;2024;92,7;0,8;10,2;67,0;conforme;807964;7501;12;33;1678;Non vérifié
+56260;Vannes;56;eau potable : GMVA;323114;2024;92,7;0,8;10,2;67,0;conforme;807964;249406;12;33;55790;Non vérifié
+56261;La Vraie-Croix;56;eau potable : eau potable ( Berric, Lauzach, La Vraie-Croix);331734;2024;95,6;0,5;11,4;67,3;conforme;22938;7016;13;24;1495;Non vérifié
+56262;Le Bono;56;eau potable : GMVA;323114;2024;92,7;0,8;10,2;67,0;conforme;807964;11659;12;33;2608;Non vérifié
+56263;Sainte-Anne-d'Auray;56;eau potable : principale;117476;2024;91,0;0,9;9,4;66,9;conforme;540711;17118;16;37;2889;Non vérifié
+56264;Kernascléden;56;eau potable : a - Roi Morvan Communauté pour partie;297654;2024;87,4;0,5;3,6;65,7;conforme;210477;4324;28;61;418;Non vérifié

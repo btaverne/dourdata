@@ -1,0 +1,364 @@
+﻿# DourData — eau perdue par les réseaux d'eau potable (indicateurs SISPEA)
+# Périmètre : Département 72
+# Source : SISPEA — Système d'Information des Services Publics d'Eau et d'Assainissement, via data.gouv.fr / services.eaufrance.fr
+# Licence : Licence Ouverte 2.0 (Etalab)
+# Millésime des données : 2024 (année la plus récente disponible par commune)
+# Date de génération de l'export : 2026-07-05
+# Méthodologie et code : https://github.com/btaverne/dourdata
+# Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
+# Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
+72001;Aigné;72;eau potable : CU Le Mans Métropole;74129;2024;87,5;3,2;22,6;69,5;conforme;1658560;13336;22;57;1695;Non vérifié
+72002;Aillières-Beauvoir;72;eau potable : SIDPEP;322414;2024;75,3;1,5;4,4;65,9;conforme;295431;3420;47;124;200;Non vérifié
+72003;Allonnes;72;eau potable : CU Le Mans Métropole;74129;2024;87,5;3,2;22,6;69,5;conforme;1658560;84492;22;57;10739;Non vérifié
+72004;Amné;72;eau potable : SMAEP de la Région de Brains-Souligné;311775;2024;76,7;1,0;3,3;65,7;conforme;152092;4563;22;113;569;Non vérifié
+72005;Ancinnes;72;eau potable : SIDPEP;322414;2024;75,3;1,5;4,4;65,9;conforme;295431;15302;47;124;895;Non vérifié
+72006;Arçonnay;72;eau potable : SAEP de la Région de Champfleur Gesnes-le-Gandelin;210966;2024;83,7;0,9;4,9;66,0;conforme;89680;11123;16;68;1902;Non vérifié
+72007;Ardenay-sur-Mérize;72;eau potable : SIAEP Jalais;74120;2024;86,3;0,7;4,2;65,8;conforme;47763;1137;6;60;504;Non vérifié
+72008;Arnage;72;eau potable : CU Le Mans Métropole;74129;2024;87,5;3,2;22,6;69,5;conforme;1658560;42840;22;57;5445;Non vérifié
+72009;Arthezé;72;eau potable : Principal;313314;2024;88,3;1,7;12,8;67,6;conforme;469098;3415;27;53;350;Non vérifié
+72010;Asnières-sur-Vègre;72;eau potable : SMAEP de l'Aunay - La Touche;311814;2024;84,7;0,8;4,4;65,9;conforme;202963;3637;30;67;331;Non vérifié
+72011;Assé-le-Boisne;72;eau potable : SAEP de la Région de Champfleur Gesnes-le-Gandelin;210966;2024;83,7;0,9;4,9;66,0;conforme;89680;5152;16;68;881;Non vérifié
+72012;Assé-le-Riboul;72;eau potable : Ex SIAEP Région des Buissons - DSP;74095;2024;76,4;2,8;9,0;66,8;conforme;110274;8711;50;242;479;Non vérifié
+72013;Aubigné-Racan;72;eau potable : SMAEP de la Région de Mayet;74130;2024;88,6;0,5;3,9;65,8;conforme;80848;15821;20;47;2158;Non vérifié
+72015;Les Aulneaux;72;eau potable : SIDPEP;322414;2024;75,3;1,5;4,4;65,9;conforme;295431;1898;47;124;111;Non vérifié
+72016;Auvers-le-Hamon;72;eau potable : SMAEP de l'Aunay - La Touche;311814;2024;84,7;0,8;4,4;65,9;conforme;202963;15876;30;67;1445;Non vérifié
+72017;Auvers-sous-Montfaucon;72;eau potable : SMAEP de la Région de Brains-Souligné;311775;2024;76,7;1,0;3,3;65,7;conforme;152092;1853;22;113;231;Non vérifié
+72018;Avesnes-en-Saosnois;72;eau potable : SIDPEP;322414;2024;75,3;1,5;4,4;65,9;conforme;295431;1590;47;124;93;Non vérifié
+72019;Avessé;72;eau potable : SMAEP de l'Aunay - La Touche;311814;2024;84,7;0,8;4,4;65,9;conforme;202963;3648;30;67;332;Non vérifié
+72020;Avezé;72;eau potable : SAEP de la Région du Perche Sarthois - Le Vairais;210964;2024;77,0;1,2;3,8;65,8;conforme;181954;20451;81;146;690;Non vérifié
+72021;Avoise;72;eau potable : SMAEP de l'Aunay - La Touche;311814;2024;84,7;0,8;4,4;65,9;conforme;202963;6526;30;67;594;Non vérifié
+72022;Le Bailleul;72;eau potable : Principal;313314;2024;88,3;1,7;12,8;67,6;conforme;469098;11875;27;53;1217;Non vérifié
+72023;Ballon-Saint Mars;72;eau potable : SIAEP de la Région de Rouessé-Fontaine;74143;2024;77,8;1,5;5,4;66,1;conforme;264442;30252;36;103;2273;Non vérifié
+72024;La Bazoge;72;eau potable : SIAEP de la Région des Fontenelles;74118;2024;76,5;1,8;5,7;66,1;conforme;166937;27333;20;115;3796;Non vérifié
+72025;Bazouges Cré sur Loir;72;eau potable : Principal;313314;2024;88,3;1,7;12,8;67,6;conforme;469098;19290;27;53;1977;Non vérifié
+72026;Beaufay;72;eau potable : Ex-SIAEP de la Région de Vive-Parence;208759;2024;81,8;1,0;4,4;65,9;conforme;202429;19541;35;85;1522;Non vérifié
+72027;Beaumont-sur-Dême;72;eau potable : SMAEP de la Région Loir Braye et Dême;313434;2024;77,4;1,3;4,3;65,9;conforme;164652;7032;59;111;326;Non vérifié
+72028;Beaumont-Pied-de-Boeuf;72;eau potable : CC Loir-Lucé-Bercé;74154;2024;80,3;0,9;3,7;65,7;conforme;238820;7436;43;89;472;Non vérifié
+72029;Beaumont-sur-Sarthe;72;eau potable : Principal;210967;2024;86,7;2,6;17,2;68,4;conforme;134758;46088;64;145;1972;Non vérifié
+72031;Beillé;72;eau potable : SAEPA de la Région de Connerré;74114;2024;92,9;0,5;6,8;66,4;conforme;20263;898;5;27;542;Non vérifié
+72032;Berfay;72;eau potable : ex-SIAEP de la Région de Conflans-sur-Anillé;74110;2024;86,2;0,6;3,5;65,7;conforme;26216;1295;11;69;333;Non vérifié
+72034;Bérus;72;eau potable : SAEP de la Région de Champfleur Gesnes-le-Gandelin;210966;2024;83,7;0,9;4,9;66,0;conforme;89680;2544;16;68;435;Non vérifié
+72035;Bessé-sur-Braye;72;eau potable : SMAEP Bessé-sur-Braye;74097;2024;83,9;0,8;4,0;65,8;conforme;40241;14791;21;72;1972;Non vérifié
+72036;Béthon;72;eau potable : SAEP de la Région de Champfleur Gesnes-le-Gandelin;210966;2024;83,7;0,9;4,9;66,0;conforme;89680;1889;16;68;323;Non vérifié
+72037;Blèves;72;eau potable : SIDPEP;322414;2024;75,3;1,5;4,4;65,9;conforme;295431;2189;47;124;128;Non vérifié
+72038;Boëssé-le-Sec;72;eau potable : Ex-SIAEP de la Région de Vive-Parence;208759;2024;81,8;1,0;4,4;65,9;conforme;202429;6612;35;85;515;Non vérifié
+72039;Bonnétable;72;eau potable : Ex-SIAEP de la Région de Vive-Parence;208759;2024;81,8;1,0;4,4;65,9;conforme;202429;47542;35;85;3703;Non vérifié
+72040;La Bosse;72;eau potable : Ex-SIAEP de la Région de Vive-Parence;208759;2024;81,8;1,0;4,4;65,9;conforme;202429;1990;35;85;155;Non vérifié
+72041;Bouër;72;eau potable : ex-SAEP de la Région de Dollon;74117;2024;77,7;1,4;5,0;66,0;conforme;286671;7786;61;101;350;Non vérifié
+72042;Bouloire;72;eau potable : SMAEP de la Région de Bouloire;74099;2024;76,5;1,0;3,2;65,6;conforme;182453;45640;59;126;2127;Non vérifié
+72043;Bourg-le-Roi;72;eau potable : SIAEP de la Région de Rouessé-Fontaine;74143;2024;77,8;1,5;5,4;66,1;conforme;264442;4326;36;103;325;Non vérifié
+72044;Bousse;72;eau potable : SMAEP Courcelles-la-Forêt;74116;2024;71,8;1,4;3,6;65,7;conforme;185784;2142;14;144;431;Non vérifié
+72045;Brains-sur-Gée;72;eau potable : SMAEP de la Région de Brains-Souligné;311775;2024;76,7;1,0;3,3;65,7;conforme;152092;6071;22;113;757;Non vérifié
+72046;Le Breil-sur-Mérize;72;eau potable : SIAEP Jalais;74120;2024;86,3;0,7;4,2;65,8;conforme;47763;3501;6;60;1552;Non vérifié
+72047;Brette-les-Pins;72;eau potable : SIDERM;74142;2024;82,6;2,0;9,7;66,9;conforme;501707;16165;21;108;2131;Non vérifié
+72048;Briosne-lès-Sables;72;eau potable : Ex-SIAEP de la Région de Vive-Parence;208759;2024;81,8;1,0;4,4;65,9;conforme;202429;7164;35;85;558;Non vérifié
+72049;La Bruère-sur-Loir;72;eau potable : SMAEP de Chenu;74109;2024;52,4;2,1;2,3;65,5;non conforme;187532;5423;59;363;250;Non vérifié
+72050;Brûlon;72;eau potable : SMAEP de l'Aunay - La Touche;311814;2024;84,7;0,8;4,4;65,9;conforme;202963;17019;30;67;1549;Non vérifié
+72051;Cérans-Foulletourte;72;eau potable : SMAEP Courcelles-la-Forêt;74116;2024;71,8;1,4;3,6;65,7;conforme;185784;16608;14;144;3341;Non vérifié
+72052;Chahaignes;72;eau potable : CC Loir-Lucé-Bercé;74154;2024;80,3;0,9;3,7;65,7;conforme;238820;10461;43;89;664;Non vérifié
+72053;Challes;72;eau potable : SMAEP de la Région de Bouloire;74099;2024;76,5;1,0;3,2;65,6;conforme;182453;24805;59;126;1156;Non vérifié
+72054;Champagné;72;eau potable : Ex-SIAEP de la Région de Montfort-le-Gesnois;74134;2024;94,1;0,5;8,0;66,6;conforme;27558;4756;4;32;3666;Non vérifié
+72056;Champfleur;72;eau potable : SAEP de la Région de Champfleur Gesnes-le-Gandelin;210966;2024;83,7;0,9;4,9;66,0;conforme;89680;7497;16;68;1282;Non vérifié
+72057;Champrond;72;eau potable : ex-SAEP de la Région de Dollon;74117;2024;77,7;1,4;5,0;66,0;conforme;286671;1535;61;101;69;Non vérifié
+72058;Changé;72;eau potable : SIDERM;74142;2024;82,6;2,0;9,7;66,9;conforme;501707;52423;21;108;6911;Non vérifié
+72059;Chantenay-Villedieu;72;eau potable : SMAEP de l'Aunay - La Touche;311814;2024;84,7;0,8;4,4;65,9;conforme;202963;8867;30;67;807;Non vérifié
+72060;La Chapelle-aux-Choux;72;eau potable : SMAEP de Chenu;74109;2024;52,4;2,1;2,3;65,5;non conforme;187532;6138;59;363;283;Non vérifié
+72061;La Chapelle-d'Aligné;72;eau potable : Principal;313314;2024;88,3;1,7;12,8;67,6;conforme;469098;16870;27;53;1729;Non vérifié
+72062;La Chapelle-du-Bois;72;eau potable : Régie;228014;2024;67,1;1,3;2,6;65,5;conforme;287253;12663;45;183;768;Non vérifié
+72064;La Chapelle-Huon;72;eau potable : SMAEP Bessé-sur-Braye;74097;2024;83,9;0,8;4,0;65,8;conforme;40241;3848;21;72;513;Non vérifié
+72065;La Chapelle-Saint-Aubin;72;eau potable : CU Le Mans Métropole;74129;2024;87,5;3,2;22,6;69,5;conforme;1658560;17750;22;57;2256;Non vérifié
+72066;La Chapelle-Saint-Fray;72;eau potable : SIAEP des Régions de Charnie et de Champagne;326994;2024;77,4;1,4;4,8;66,0;conforme;255500;8885;58;112;421;Non vérifié
+72067;La Chapelle-Saint-Rémy;72;eau potable : Ex-SIAEP de la Région de Vive-Parence;208759;2024;81,8;1,0;4,4;65,9;conforme;202429;12775;35;85;995;Non vérifié
+72068;La Chartre-sur-le-Loir;72;eau potable : SMAEP de la Région Loir Braye et Dême;313434;2024;77,4;1,3;4,3;65,9;conforme;164652;29552;59;111;1370;Non vérifié
+72070;Chassillé;72;eau potable : SMAEP de la Région de Brains-Souligné;311775;2024;76,7;1,0;3,3;65,7;conforme;152092;1997;22;113;249;Non vérifié
+72071;Montval-sur-Loir;72;eau potable : CC Loir-Lucé-Bercé;74154;2024;80,3;0,9;3,7;65,7;conforme;238820;88870;43;89;5641;Non vérifié
+72072;Château-l'Hermitage;72;eau potable : SIAEP de la Région de Pontvallain;74141;2024;80,9;0,8;3,4;65,7;conforme;97236;1509;16;85;256;Non vérifié
+72073;Chaufour-Notre-Dame;72;eau potable : CU Le Mans Métropole;74129;2024;87,5;3,2;22,6;69,5;conforme;1658560;9229;22;57;1173;Non vérifié
+72074;Chemiré-en-Charnie;72;eau potable : SIAEP des Régions de Charnie et de Champagne;326994;2024;77,4;1,4;4,8;66,0;conforme;255500;4474;58;112;212;Non vérifié
+72075;Chemiré-le-Gaudin;72;eau potable : SMAEP de la Région de Brains-Souligné;311775;2024;76,7;1,0;3,3;65,7;conforme;152092;8004;22;113;998;Non vérifié
+72076;Chenay;72;eau potable : SIDPEP;322414;2024;75,3;1,5;4,4;65,9;conforme;295431;4360;47;124;255;Non vérifié
+72077;Chenu;72;eau potable : SMAEP de Chenu;74109;2024;52,4;2,1;2,3;65,5;non conforme;187532;9131;59;363;421;Non vérifié
+72078;Chérancé;72;eau potable : SIAEP de la Région de Rouessé-Fontaine;74143;2024;77,8;1,5;5,4;66,1;conforme;264442;4698;36;103;353;Non vérifié
+72079;Chérisay;72;eau potable : SAEP de la Région de Champfleur Gesnes-le-Gandelin;210966;2024;83,7;0,9;4,9;66,0;conforme;89680;1772;16;68;303;Non vérifié
+72080;Cherré-Au;72;eau potable : SIAEP de la Région de l'Est Sarthois;313354;2024;78,1;1,0;3,4;65,7;conforme;95148;17126;17;112;2758;Non vérifié
+72083;Chevillé;72;eau potable : SMAEP de l'Aunay - La Touche;311814;2024;84,7;0,8;4,4;65,9;conforme;202963;3856;30;67;351;Non vérifié
+72084;Clermont-Créans;72;eau potable : SMAEP Courcelles-la-Forêt;74116;2024;71,8;1,4;3,6;65,7;conforme;185784;6427;14;144;1293;Non vérifié
+72085;Cogners;72;eau potable : SMAEP de la Région Loir Braye et Dême;313434;2024;77,4;1,3;4,3;65,9;conforme;164652;3667;59;111;170;Non vérifié
+72086;Commerveil;72;eau potable : SIDPEP;322414;2024;75,3;1,5;4,4;65,9;conforme;295431;2359;47;124;138;Non vérifié
+72087;Conflans-sur-Anille;72;eau potable : ex-SIAEP de la Région de Conflans-sur-Anillé;74110;2024;86,2;0,6;3,5;65,7;conforme;26216;1820;11;69;468;Non vérifié
+72088;Congé-sur-Orne;72;eau potable : SIAEP de la Région de Rouessé-Fontaine;74143;2024;77,8;1,5;5,4;66,1;conforme;264442;4179;36;103;314;Non vérifié
+72089;Conlie;72;eau potable : SIAEP des Régions de Charnie et de Champagne;326994;2024;77,4;1,4;4,8;66,0;conforme;255500;38686;58;112;1833;Non vérifié
+72090;Connerré;72;eau potable : Ex-SIAEP de la Région de Montfort-le-Gesnois;74134;2024;94,1;0,5;8,0;66,6;conforme;27558;3606;4;32;2780;Non vérifié
+72091;Contilly;72;eau potable : SIDPEP;322414;2024;75,3;1,5;4,4;65,9;conforme;295431;2291;47;124;134;Non vérifié
+72093;Cormes;72;eau potable : SIAEP de la Région de l'Est Sarthois;313354;2024;78,1;1,0;3,4;65,7;conforme;95148;5545;17;112;893;Non vérifié
+72094;Coudrecieux;72;eau potable : ex-SAEP de la Région de Dollon;74117;2024;77,7;1,4;5,0;66,0;conforme;286671;14148;61;101;636;Non vérifié
+72095;Coulaines;72;eau potable : CU Le Mans Métropole;74129;2024;87,5;3,2;22,6;69,5;conforme;1658560;63894;22;57;8121;Non vérifié
+72096;Coulans-sur-Gée;72;eau potable : SIAEP des Régions de Charnie et de Champagne;326994;2024;77,4;1,4;4,8;66,0;conforme;255500;33874;58;112;1605;Non vérifié
+72098;Coulongé;72;eau potable : SIAEP de la Région de Pontvallain;74141;2024;80,9;0,8;3,4;65,7;conforme;97236;2982;16;85;506;Non vérifié
+72099;Courceboeufs;72;eau potable : SIAEP de la Région des Fontenelles;74118;2024;76,5;1,8;5,7;66,1;conforme;166937;4608;20;115;640;Non vérifié
+72100;Courcelles-la-Forêt;72;eau potable : SMAEP Courcelles-la-Forêt;74116;2024;71,8;1,4;3,6;65,7;conforme;185784;1973;14;144;397;Non vérifié
+72101;Courcemont;72;eau potable : Ex-SIAEP de la Région de Vive-Parence;208759;2024;81,8;1,0;4,4;65,9;conforme;202429;8525;35;85;664;Non vérifié
+72102;Courcival;72;eau potable : SAEP de la Région du Perche Sarthois - Le Vairais;210964;2024;77,0;1,2;3,8;65,8;conforme;181954;2371;81;146;80;Non vérifié
+72103;Courdemanche;72;eau potable : SMAEP de la Région Loir Braye et Dême;313434;2024;77,4;1,3;4,3;65,9;conforme;164652;13439;59;111;623;Non vérifié
+72104;Courgains;72;eau potable : SIDPEP;322414;2024;75,3;1,5;4,4;65,9;conforme;295431;9934;47;124;581;Non vérifié
+72105;Courgenard;72;eau potable : SIAEP de la Région de l'Est Sarthois;313354;2024;78,1;1,0;3,4;65,7;conforme;95148;2819;17;112;454;Non vérifié
+72106;Courtillers;72;eau potable : Principal;313314;2024;88,3;1,7;12,8;67,6;conforme;469098;8791;27;53;901;Non vérifié
+72107;Crannes-en-Champagne;72;eau potable : SMAEP de la Région de Brains-Souligné;311775;2024;76,7;1,0;3,3;65,7;conforme;152092;2727;22;113;340;Non vérifié
+72109;Crissé;72;eau potable : SIAEP de la Région de sillé-le-Guillaume;74146;2024;70,2;2,0;4,8;66,0;conforme;385440;17828;91;158;534;Non vérifié
+72110;Crosmières;72;eau potable : Principal;313314;2024;88,3;1,7;12,8;67,6;conforme;469098;9504;27;53;974;Non vérifié
+72111;Cures;72;eau potable : SIAEP des Régions de Charnie et de Champagne;326994;2024;77,4;1,4;4,8;66,0;conforme;255500;10320;58;112;489;Non vérifié
+72112;Dangeul;72;eau potable : SIAEP de la Région de Rouessé-Fontaine;74143;2024;77,8;1,5;5,4;66,1;conforme;264442;6468;36;103;486;Non vérifié
+72113;Degré;72;eau potable : SIAEP des Régions de Charnie et de Champagne;326994;2024;77,4;1,4;4,8;66,0;conforme;255500;15850;58;112;751;Non vérifié
+72114;Dehault;72;eau potable : SAEP de la Région du Perche Sarthois - Le Vairais;210964;2024;77,0;1,2;3,8;65,8;conforme;181954;7143;81;146;241;Non vérifié
+72115;Dissay-sous-Courcillon;72;eau potable : SMAEP de Chenu;74109;2024;52,4;2,1;2,3;65,5;non conforme;187532;20953;59;363;966;Non vérifié
+72118;Dollon;72;eau potable : ex-SAEP de la Région de Dollon;74117;2024;77,7;1,4;5,0;66,0;conforme;286671;31744;61;101;1427;Non vérifié
+72119;Domfront-en-Champagne;72;eau potable : SIAEP des Régions de Charnie et de Champagne;326994;2024;77,4;1,4;4,8;66,0;conforme;255500;22561;58;112;1069;Non vérifié
+72120;Doucelles;72;eau potable : SIAEP de la Région de Rouessé-Fontaine;74143;2024;77,8;1,5;5,4;66,1;conforme;264442;2968;36;103;223;Non vérifié
+72121;Douillet;72;eau potable : SIAEP de la Région de sillé-le-Guillaume;74146;2024;70,2;2,0;4,8;66,0;conforme;385440;10650;91;158;319;Non vérifié
+72122;Duneau;72;eau potable : SAEPA de la Région de Connerré;74114;2024;92,9;0,5;6,8;66,4;conforme;20263;1786;5;27;1078;Non vérifié
+72123;Dureil;72;eau potable : SMAEP de l'Aunay - La Touche;311814;2024;84,7;0,8;4,4;65,9;conforme;202963;670;30;67;61;Non vérifié
+72124;Écommoy;72;eau potable : SIDERM;74142;2024;82,6;2,0;9,7;66,9;conforme;501707;36926;21;108;4868;Non vérifié
+72125;Écorpain;72;eau potable : SMAEP de la Région de Bouloire;74099;2024;76,5;1,0;3,2;65,6;conforme;182453;6351;59;126;296;Non vérifié
+72126;Épineu-le-Chevreuil;72;eau potable : SIAEP des Régions de Charnie et de Champagne;326994;2024;77,4;1,4;4,8;66,0;conforme;255500;6036;58;112;286;Non vérifié
+72127;Étival-lès-le-Mans;72;eau potable : SMAEP de la Région de Brains-Souligné;311775;2024;76,7;1,0;3,3;65,7;conforme;152092;14644;22;113;1826;Non vérifié
+72128;Val d'Étangson;72;eau potable : SMAEP de la Région de Bouloire;74099;2024;76,5;1,0;3,2;65,6;conforme;182453;11372;59;126;530;Non vérifié
+72129;Fatines;72;eau potable : Ex-SIAEP de la Région de Montfort-le-Gesnois;74134;2024;94,1;0,5;8,0;66,6;conforme;27558;1205;4;32;929;Non vérifié
+72130;Fay;72;eau potable : SMAEP de la Région de Brains-Souligné;311775;2024;76,7;1,0;3,3;65,7;conforme;152092;6023;22;113;751;Non vérifié
+72131;Fercé-sur-Sarthe;72;eau potable : SMAEP de l'Aunay - La Touche;311814;2024;84,7;0,8;4,4;65,9;conforme;202963;6318;30;67;575;Non vérifié
+72132;La Ferté-Bernard;72;eau potable : SIAEP de la Région de l'Est Sarthois;313354;2024;78,1;1,0;3,4;65,7;conforme;95148;54271;17;112;8740;Non vérifié
+72133;Fillé;72;eau potable : SIDERM;74142;2024;82,6;2,0;9,7;66,9;conforme;501707;11848;21;108;1562;Non vérifié
+72134;Flée;72;eau potable : CC Loir-Lucé-Bercé;74154;2024;80,3;0,9;3,7;65,7;conforme;238820;8318;43;89;528;Non vérifié
+72135;La Fontaine-Saint-Martin;72;eau potable : SMAEP Courcelles-la-Forêt;74116;2024;71,8;1,4;3,6;65,7;conforme;185784;2978;14;144;599;Non vérifié
+72136;Fontenay-sur-Vègre;72;eau potable : SMAEP de l'Aunay - La Touche;311814;2024;84,7;0,8;4,4;65,9;conforme;202963;3373;30;67;307;Non vérifié
+72137;Villeneuve-en-Perseigne;72;eau potable : SIDPEP;322414;2024;75,3;1,5;4,4;65,9;conforme;295431;37170;47;124;2174;Non vérifié
+72138;Fresnay-sur-Sarthe;72;eau potable : SIAEP de la Région de Rouessé-Fontaine;74143;2024;77,8;1,5;5,4;66,1;conforme;264442;38970;36;103;2928;Non vérifié
+72139;Fyé;72;eau potable : SAEP de la Région de Champfleur Gesnes-le-Gandelin;210966;2024;83,7;0,9;4,9;66,0;conforme;89680;5924;16;68;1013;Non vérifié
+72141;Gesnes-le-Gandelin;72;eau potable : SAEP de la Région de Champfleur Gesnes-le-Gandelin;210966;2024;83,7;0,9;4,9;66,0;conforme;89680;5140;16;68;879;Non vérifié
+72142;Grandchamp;72;eau potable : SIAEP de la Région de Rouessé-Fontaine;74143;2024;77,8;1,5;5,4;66,1;conforme;264442;1823;36;103;137;Non vérifié
+72143;Le Grand-Lucé;72;eau potable : CC Loir-Lucé-Bercé;74154;2024;80,3;0,9;3,7;65,7;conforme;238820;30705;43;89;1949;Non vérifié
+72144;Gréez-sur-Roc;72;eau potable : SIAEP de la Région de l'Est Sarthois;313354;2024;78,1;1,0;3,4;65,7;conforme;95148;2136;17;112;344;Non vérifié
+72145;Le Grez;72;eau potable : SIAEP de la Région de sillé-le-Guillaume;74146;2024;70,2;2,0;4,8;66,0;conforme;385440;12687;91;158;380;Non vérifié
+72146;Guécélard;72;eau potable : SIDERM;74142;2024;82,6;2,0;9,7;66,9;conforme;501707;24289;21;108;3202;Non vérifié
+72147;La Guierche;72;eau potable : SIAEP de la Région des Fontenelles;74118;2024;76,5;1,8;5,7;66,1;conforme;166937;9361;20;115;1300;Non vérifié
+72148;Jauzé;72;eau potable : SAEP de la Région du Perche Sarthois - Le Vairais;210964;2024;77,0;1,2;3,8;65,8;conforme;181954;2371;81;146;80;Non vérifié
+72149;Joué-en-Charnie;72;eau potable : SIAEP des Régions de Charnie et de Champagne;326994;2024;77,4;1,4;4,8;66,0;conforme;255500;12431;58;112;589;Non vérifié
+72150;Joué-l'Abbé;72;eau potable : SIAEP de la Région des Fontenelles;74118;2024;76,5;1,8;5,7;66,1;conforme;166937;9123;20;115;1267;Non vérifié
+72151;Juigné-sur-Sarthe;72;eau potable : Principal;313314;2024;88,3;1,7;12,8;67,6;conforme;469098;11133;27;53;1141;Non vérifié
+72152;Juillé;72;eau potable : SIAEP de la Région de Rouessé-Fontaine;74143;2024;77,8;1,5;5,4;66,1;conforme;264442;5417;36;103;407;Non vérifié
+72153;Jupilles;72;eau potable : CC Loir-Lucé-Bercé;74154;2024;80,3;0,9;3,7;65,7;conforme;238820;8917;43;89;566;Non vérifié
+72154;La Flèche;72;eau potable : Principal;313314;2024;88,3;1,7;12,8;67,6;conforme;469098;145841;27;53;14947;Non vérifié
+72155;Laigné-en-Belin;72;eau potable : SIDERM;74142;2024;82,6;2,0;9,7;66,9;conforme;501707;32253;21;108;4252;Non vérifié
+72156;Lamnay;72;eau potable : ex-SAEP de la Région de Dollon;74117;2024;77,7;1,4;5,0;66,0;conforme;286671;20643;61;101;928;Non vérifié
+72157;Lavardin;72;eau potable : SIAEP des Régions de Charnie et de Champagne;326994;2024;77,4;1,4;4,8;66,0;conforme;255500;14626;58;112;693;Non vérifié
+72158;Lavaré;72;eau potable : ex-SAEP de la Région de Dollon;74117;2024;77,7;1,4;5,0;66,0;conforme;286671;18130;61;101;815;Non vérifié
+72160;Lavernat;72;eau potable : SMAEP de la Région de Mayet;74130;2024;88,6;0,5;3,9;65,8;conforme;80848;4296;20;47;586;Non vérifié
+72161;Lhomme;72;eau potable : SMAEP de la Région Loir Braye et Dême;313434;2024;77,4;1,3;4,3;65,9;conforme;164652;20126;59;111;933;Non vérifié
+72163;Ligron;72;eau potable : SMAEP Courcelles-la-Forêt;74116;2024;71,8;1,4;3,6;65,7;conforme;185784;2456;14;144;494;Non vérifié
+72164;Livet-en-Saosnois;72;eau potable : SIDPEP;322414;2024;75,3;1,5;4,4;65,9;conforme;295431;1077;47;124;63;Non vérifié
+72165;Lombron;72;eau potable : Ex-SIAEP de la Région de Vive-Parence;208759;2024;81,8;1,0;4,4;65,9;conforme;202429;25164;35;85;1960;Non vérifié
+72166;Longnes;72;eau potable : SMAEP de la Région de Brains-Souligné;311775;2024;76,7;1,0;3,3;65,7;conforme;152092;2294;22;113;286;Non vérifié
+72167;Louailles;72;eau potable : Principal;313314;2024;88,3;1,7;12,8;67,6;conforme;469098;6742;27;53;691;Non vérifié
+72168;Loué;72;eau potable : SMAEP de l'Aunay - La Touche;311814;2024;84,7;0,8;4,4;65,9;conforme;202963;23688;30;67;2156;Non vérifié
+72169;Louplande;72;eau potable : SMAEP de la Région de Brains-Souligné;311775;2024;76,7;1,0;3,3;65,7;conforme;152092;12070;22;113;1505;Non vérifié
+72170;Louvigny;72;eau potable : SIDPEP;322414;2024;75,3;1,5;4,4;65,9;conforme;295431;3043;47;124;178;Non vérifié
+72171;Louzes;72;eau potable : SIDPEP;322414;2024;75,3;1,5;4,4;65,9;conforme;295431;1761;47;124;103;Non vérifié
+72172;Le Luart;72;eau potable : ex-SAEP de la Région de Dollon;74117;2024;77,7;1,4;5,0;66,0;conforme;286671;32478;61;101;1460;Non vérifié
+72173;Luceau;72;eau potable : CC Loir-Lucé-Bercé;74154;2024;80,3;0,9;3,7;65,7;conforme;238820;19299;43;89;1225;Non vérifié
+72174;Lucé-sous-Ballon;72;eau potable : SIAEP de la Région de Rouessé-Fontaine;74143;2024;77,8;1,5;5,4;66,1;conforme;264442;1437;36;103;108;Non vérifié
+72175;Luché-Pringé;72;eau potable : SIAEP de la Région de Pontvallain;74141;2024;80,9;0,8;3,4;65,7;conforme;97236;9048;16;85;1535;Non vérifié
+72176;Lude;72;eau potable : SMAEP de Chenu;74109;2024;52,4;2,1;2,3;65,5;non conforme;187532;86391;59;363;3983;Non vérifié
+72177;Maigné;72;eau potable : SMAEP de l'Aunay - La Touche;311814;2024;84,7;0,8;4,4;65,9;conforme;202963;3582;30;67;326;Non vérifié
+72178;Maisoncelles;72;eau potable : SMAEP de la Région de Bouloire;74099;2024;76,5;1,0;3,2;65,6;conforme;182453;4313;59;126;201;Non vérifié
+72179;Malicorne-sur-Sarthe;72;eau potable : Principal;313314;2024;88,3;1,7;12,8;67,6;conforme;469098;18090;27;53;1854;Non vérifié
+72180;Mamers;72;eau potable : SIDPEP;322414;2024;75,3;1,5;4,4;65,9;conforme;295431;85420;47;124;4996;Non vérifié
+72181;Le Mans;72;eau potable : CU Le Mans Métropole;74129;2024;87,5;3,2;22,6;69,5;conforme;1658560;1150650;22;57;146249;Non vérifié
+72182;Mansigné;72;eau potable : SIAEP de la Région de Pontvallain;74141;2024;80,9;0,8;3,4;65,7;conforme;97236;9165;16;85;1555;Non vérifié
+72183;Marçon;72;eau potable : SMAEP de la Région Loir Braye et Dême;313434;2024;77,4;1,3;4,3;65,9;conforme;164652;22801;59;111;1057;Non vérifié
+72184;Mareil-en-Champagne;72;eau potable : SMAEP de l'Aunay - La Touche;311814;2024;84,7;0,8;4,4;65,9;conforme;202963;3758;30;67;342;Non vérifié
+72185;Mareil-sur-Loir;72;eau potable : SIAEP de la Région de Luché-Pringé;74125;2024;77,5;0,8;2,9;65,6;conforme;77447;2370;10;101;653;Non vérifié
+72186;Maresché;72;eau potable : SIAEP de la Région de Rouessé-Fontaine;74143;2024;77,8;1,5;5,4;66,1;conforme;264442;11659;36;103;876;Non vérifié
+72187;Marigné-Laillé;72;eau potable : SMAEP de la Région de Mayet;74130;2024;88,6;0,5;3,9;65,8;conforme;80848;12118;20;47;1653;Non vérifié
+72188;Marollette;72;eau potable : SIDPEP;322414;2024;75,3;1,5;4,4;65,9;conforme;295431;2719;47;124;159;Non vérifié
+72189;Marolles-les-Braults;72;eau potable : SIDPEP;322414;2024;75,3;1,5;4,4;65,9;conforme;295431;34862;47;124;2039;Non vérifié
+72190;Marolles-lès-Saint-Calais;72;eau potable : ex-SAEP de la Région de Dollon;74117;2024;77,7;1,4;5,0;66,0;conforme;286671;6318;61;101;284;Non vérifié
+72191;Mayet;72;eau potable : SMAEP de la Région de Mayet;74130;2024;88,6;0,5;3,9;65,8;conforme;80848;23364;20;47;3187;Non vérifié
+72192;Les Mées;72;eau potable : SIDPEP;322414;2024;75,3;1,5;4,4;65,9;conforme;295431;1761;47;124;103;Non vérifié
+72193;Melleray;72;eau potable : SIAEP de la Région de l'Est Sarthois;313354;2024;78,1;1,0;3,4;65,7;conforme;95148;2819;17;112;454;Non vérifié
+72194;Meurcé;72;eau potable : SIAEP de la Région de Rouessé-Fontaine;74143;2024;77,8;1,5;5,4;66,1;conforme;264442;3660;36;103;275;Non vérifié
+72195;Mézeray;72;eau potable : SMAEP Courcelles-la-Forêt;74116;2024;71,8;1,4;3,6;65,7;conforme;185784;9152;14;144;1841;Non vérifié
+72196;Mézières-sur-Ponthouin;72;eau potable : SIAEP de la Région de Rouessé-Fontaine;74143;2024;77,8;1,5;5,4;66,1;conforme;264442;9649;36;103;725;Non vérifié
+72197;Mézières-sous-Lavardin;72;eau potable : Principal;210967;2024;86,7;2,6;17,2;68,4;conforme;134758;15799;64;145;676;Non vérifié
+72198;La Milesse;72;eau potable : CU Le Mans Métropole;74129;2024;87,5;3,2;22,6;69,5;conforme;1658560;20590;22;57;2617;Non vérifié
+72199;Moitron-sur-Sarthe;72;eau potable : Ex SIAEP de la Région de Montreuil-le-Chétif;74135;2024;68,3;1,9;4,1;65,8;conforme;101993;8469;90;191;258;Non vérifié
+72200;Moncé-en-Belin;72;eau potable : SIDERM;74142;2024;82,6;2,0;9,7;66,9;conforme;501707;28043;21;108;3697;Non vérifié
+72201;Moncé-en-Saosnois;72;eau potable : SIDPEP;322414;2024;75,3;1,5;4,4;65,9;conforme;295431;3779;47;124;221;Non vérifié
+72202;Monhoudou;72;eau potable : SIDPEP;322414;2024;75,3;1,5;4,4;65,9;conforme;295431;3659;47;124;214;Non vérifié
+72204;Montaillé;72;eau potable : SMAEP de la Région de Bouloire;74099;2024;76,5;1,0;3,2;65,6;conforme;182453;11072;59;126;516;Non vérifié
+72205;Montbizot;72;eau potable : SIAEPA Ste-Jamme-Monbizot;74149;2024;84,6;1,3;7,1;66,4;conforme;32408;15738;23;67;1841;Non vérifié
+72208;Montmirail;72;eau potable : SIAEP de la Région de l'Est Sarthois;313354;2024;78,1;1,0;3,4;65,7;conforme;95148;2273;17;112;366;Non vérifié
+72209;Montreuil-le-Chétif;72;eau potable : Ex SIAEP de la Région de Montreuil-le-Chétif;74135;2024;68,3;1,9;4,1;65,8;conforme;101993;10439;90;191;318;Non vérifié
+72210;Montreuil-le-Henri;72;eau potable : CC Loir-Lucé-Bercé;74154;2024;80,3;0,9;3,7;65,7;conforme;238820;4648;43;89;295;Non vérifié
+72211;Mont-Saint-Jean;72;eau potable : SIAEP de la Région de sillé-le-Guillaume;74146;2024;70,2;2,0;4,8;66,0;conforme;385440;20966;91;158;628;Non vérifié
+72212;Moulins-le-Carbonnel;72;eau potable : SAEP de la Région de Champfleur Gesnes-le-Gandelin;210966;2024;83,7;0,9;4,9;66,0;conforme;89680;4076;16;68;697;Non vérifié
+72213;Mulsanne;72;eau potable : CU Le Mans Métropole;74129;2024;87,5;3,2;22,6;69,5;conforme;1658560;41258;22;57;5244;Non vérifié
+72214;Nauvay;72;eau potable : SIDPEP;322414;2024;75,3;1,5;4,4;65,9;conforme;295431;205;47;124;12;Non vérifié
+72215;Neufchâtel-en-Saosnois;72;eau potable : SIDPEP;322414;2024;75,3;1,5;4,4;65,9;conforme;295431;17149;47;124;1003;Non vérifié
+72216;Neuvillalais;72;eau potable : Principal;210967;2024;86,7;2,6;17,2;68,4;conforme;134758;13672;64;145;585;Non vérifié
+72217;Neuville-sur-Sarthe;72;eau potable : SIDERM;74142;2024;82,6;2,0;9,7;66,9;conforme;501707;18683;21;108;2463;Non vérifié
+72218;Neuvillette-en-Charnie;72;eau potable : SIAEP de la Région de sillé-le-Guillaume;74146;2024;70,2;2,0;4,8;66,0;conforme;385440;10183;91;158;305;Non vérifié
+72219;Bernay-Neuvy-en-Champagne;72;eau potable : SIAEP des Régions de Charnie et de Champagne;326994;2024;77,4;1,4;4,8;66,0;conforme;255500;15956;58;112;756;Non vérifié
+72220;Nogent-le-Bernard;72;eau potable : Régie;228014;2024;67,1;1,3;2,6;65,5;conforme;287253;14246;45;183;864;Non vérifié
+72221;Nogent-sur-Loir;72;eau potable : SMAEP de Chenu;74109;2024;52,4;2,1;2,3;65,5;non conforme;187532;7830;59;363;361;Non vérifié
+72222;Nouans;72;eau potable : SIAEP de la Région de Rouessé-Fontaine;74143;2024;77,8;1,5;5,4;66,1;conforme;264442;3354;36;103;252;Non vérifié
+72223;Noyen-sur-Sarthe;72;eau potable : SMAEP de l'Aunay - La Touche;311814;2024;84,7;0,8;4,4;65,9;conforme;202963;28083;30;67;2556;Non vérifié
+72224;Nuillé-le-Jalais;72;eau potable : SIAEP Jalais;74120;2024;86,3;0,7;4,2;65,8;conforme;47763;1191;6;60;528;Non vérifié
+72225;Oisseau-le-Petit;72;eau potable : SAEP de la Région de Champfleur Gesnes-le-Gandelin;210966;2024;83,7;0,9;4,9;66,0;conforme;89680;3924;16;68;671;Non vérifié
+72226;Oizé;72;eau potable : Oizé;240214;2024;99,5;3,3;1,1;65,2;conforme;202356;202356;419;1064;1322;Non vérifié
+72227;Panon;72;eau potable : SIDPEP;322414;2024;75,3;1,5;4,4;65,9;conforme;295431;564;47;124;33;Non vérifié
+72228;Parcé-sur-Sarthe;72;eau potable : Principal;313314;2024;88,3;1,7;12,8;67,6;conforme;469098;19027;27;53;1950;Non vérifié
+72229;Parennes;72;eau potable : SIAEP de la Région de sillé-le-Guillaume;74146;2024;70,2;2,0;4,8;66,0;conforme;385440;14823;91;158;444;Non vérifié
+72230;Parigné-le-Pôlin;72;eau potable : SIDERM;74142;2024;82,6;2,0;9,7;66,9;conforme;501707;7866;21;108;1037;Non vérifié
+72231;Parigné-l'Évêque;72;eau potable : SIDERM;74142;2024;82,6;2,0;9,7;66,9;conforme;501707;40643;21;108;5358;Non vérifié
+72232;Notre-Dame-du-Pé;72;eau potable : Principal;313314;2024;88,3;1,7;12,8;67,6;conforme;469098;6928;27;53;710;Non vérifié
+72233;Peray;72;eau potable : SIDPEP;322414;2024;75,3;1,5;4,4;65,9;conforme;295431;1197;47;124;70;Non vérifié
+72234;Pezé-le-Robert;72;eau potable : SIAEP de la Région de sillé-le-Guillaume;74146;2024;70,2;2,0;4,8;66,0;conforme;385440;11451;91;158;343;Non vérifié
+72235;Piacé;72;eau potable : SIAEP de la Région de Rouessé-Fontaine;74143;2024;77,8;1,5;5,4;66,1;conforme;264442;4924;36;103;370;Non vérifié
+72236;Pincé;72;eau potable : Principal;313314;2024;88,3;1,7;12,8;67,6;conforme;469098;1873;27;53;192;Non vérifié
+72237;Pirmil;72;eau potable : SMAEP de l'Aunay - La Touche;311814;2024;84,7;0,8;4,4;65,9;conforme;202963;5625;30;67;512;Non vérifié
+72238;Pizieux;72;eau potable : SIDPEP;322414;2024;75,3;1,5;4,4;65,9;conforme;295431;1282;47;124;75;Non vérifié
+72239;Poillé-sur-Vègre;72;eau potable : SMAEP de l'Aunay - La Touche;311814;2024;84,7;0,8;4,4;65,9;conforme;202963;6394;30;67;582;Non vérifié
+72241;Montfort-le-Gesnois;72;eau potable : Ex-SIAEP de la Région de Montfort-le-Gesnois;74134;2024;94,1;0,5;8,0;66,6;conforme;27558;3813;4;32;2939;Non vérifié
+72243;Pontvallain;72;eau potable : SIAEP de la Région de Pontvallain;74141;2024;80,9;0,8;3,4;65,7;conforme;97236;9472;16;85;1607;Non vérifié
+72244;Précigné;72;eau potable : Principal;313314;2024;88,3;1,7;12,8;67,6;conforme;469098;28072;27;53;2877;Non vérifié
+72245;Préval;72;eau potable : SAEP de la Région du Perche Sarthois - Le Vairais;210964;2024;77,0;1,2;3,8;65,8;conforme;181954;19443;81;146;656;Non vérifié
+72246;Prévelles;72;eau potable : Ex-SIAEP de la Région de Vive-Parence;208759;2024;81,8;1,0;4,4;65,9;conforme;202429;2414;35;85;188;Non vérifié
+72247;Pruillé-le-Chétif;72;eau potable : SMAEP de la Région de Brains-Souligné;311775;2024;76,7;1,0;3,3;65,7;conforme;152092;10658;22;113;1329;Non vérifié
+72248;Pruillé-l'Éguillé;72;eau potable : CC Loir-Lucé-Bercé;74154;2024;80,3;0,9;3,7;65,7;conforme;238820;12619;43;89;801;Non vérifié
+72249;La Quinte;72;eau potable : SIAEP des Régions de Charnie et de Champagne;326994;2024;77,4;1,4;4,8;66,0;conforme;255500;17370;58;112;823;Non vérifié
+72250;Rahay;72;eau potable : ex-SIAEP de la Région de Conflans-sur-Anillé;74110;2024;86,2;0,6;3,5;65,7;conforme;26216;649;11;69;167;Non vérifié
+72251;René;72;eau potable : SIAEP de la Région de Rouessé-Fontaine;74143;2024;77,8;1,5;5,4;66,1;conforme;264442;5151;36;103;387;Non vérifié
+72252;Requeil;72;eau potable : SIAEP de la Région de Pontvallain;74141;2024;80,9;0,8;3,4;65,7;conforme;97236;6531;16;85;1108;Non vérifié
+72253;Roëzé-sur-Sarthe;72;eau potable : SIDERM;74142;2024;82,6;2,0;9,7;66,9;conforme;501707;19070;21;108;2514;Non vérifié
+72254;Rouessé-Fontaine;72;eau potable : SIAEP de la Région de Rouessé-Fontaine;74143;2024;77,8;1,5;5,4;66,1;conforme;264442;3474;36;103;261;Non vérifié
+72255;Rouessé-Vassé;72;eau potable : SIAEP de la Région de sillé-le-Guillaume;74146;2024;70,2;2,0;4,8;66,0;conforme;385440;26208;91;158;785;Non vérifié
+72256;Rouez;72;eau potable : SIAEP de la Région de sillé-le-Guillaume;74146;2024;70,2;2,0;4,8;66,0;conforme;385440;26842;91;158;804;Non vérifié
+72257;Rouillon;72;eau potable : CU Le Mans Métropole;74129;2024;87,5;3,2;22,6;69,5;conforme;1658560;18741;22;57;2382;Non vérifié
+72259;Rouperroux-le-Coquet;72;eau potable : SAEP de la Région du Perche Sarthois - Le Vairais;210964;2024;77,0;1,2;3,8;65,8;conforme;181954;7884;81;146;266;Non vérifié
+72260;Ruaudin;72;eau potable : CU Le Mans Métropole;74129;2024;87,5;3,2;22,6;69,5;conforme;1658560;27388;22;57;3481;Non vérifié
+72261;Ruillé-en-Champagne;72;eau potable : SIAEP des Régions de Charnie et de Champagne;326994;2024;77,4;1,4;4,8;66,0;conforme;255500;6543;58;112;310;Non vérifié
+72262;Loir en Vallée;72;eau potable : SMAEP de la Région Loir Braye et Dême;313434;2024;77,4;1,3;4,3;65,9;conforme;164652;44091;59;111;2044;Non vérifié
+72264;Sablé-sur-Sarthe;72;eau potable : Principal;313314;2024;88,3;1,7;12,8;67,6;conforme;469098;120268;27;53;12326;Non vérifié
+72265;Saint-Aignan;72;eau potable : SAEP de la Région du Perche Sarthois - Le Vairais;210964;2024;77,0;1,2;3,8;65,8;conforme;181954;7825;81;146;264;Non vérifié
+72266;Saint-Aubin-de-Locquenay;72;eau potable : Ex SIAEP de la Région de Montreuil-le-Chétif;74135;2024;68,3;1,9;4,1;65,8;conforme;101993;24981;90;191;761;Non vérifié
+72267;Saint-Aubin-des-Coudrais;72;eau potable : Ex-SIAEP de la Région de Vive-Parence;208759;2024;81,8;1,0;4,4;65,9;conforme;202429;11427;35;85;890;Non vérifié
+72268;Saint-Biez-en-Belin;72;eau potable : SIAEP de la Région de Pontvallain;74141;2024;80,9;0,8;3,4;65,7;conforme;97236;4185;16;85;710;Non vérifié
+72269;Saint-Calais;72;eau potable : ex-SIAEP de la Région de Conflans-sur-Anillé;74110;2024;86,2;0,6;3,5;65,7;conforme;26216;11463;11;69;2948;Non vérifié
+72270;Saint-Calez-en-Saosnois;72;eau potable : SIDPEP;322414;2024;75,3;1,5;4,4;65,9;conforme;295431;3060;47;124;179;Non vérifié
+72271;Saint-Célerin;72;eau potable : Ex-SIAEP de la Région de Vive-Parence;208759;2024;81,8;1,0;4,4;65,9;conforme;202429;11324;35;85;882;Non vérifié
+72272;Sainte-Cérotte;72;eau potable : SMAEP de la Région de Bouloire;74099;2024;76,5;1,0;3,2;65,6;conforme;182453;7231;59;126;337;Non vérifié
+72273;Saint-Christophe-du-Jambet;72;eau potable : Ex SIAEP de la Région de Montreuil-le-Chétif;74135;2024;68,3;1,9;4,1;65,8;conforme;101993;7583;90;191;231;Non vérifié
+72274;Saint-Christophe-en-Champagne;72;eau potable : SMAEP de l'Aunay - La Touche;311814;2024;84,7;0,8;4,4;65,9;conforme;202963;2395;30;67;218;Non vérifié
+72275;Saint-Corneille;72;eau potable : Ex-SIAEP de la Région de Montfort-le-Gesnois;74134;2024;94,1;0,5;8,0;66,6;conforme;27558;1959;4;32;1510;Non vérifié
+72276;Saint-Cosme-en-Vairais;72;eau potable : Régie;228014;2024;67,1;1,3;2,6;65,5;conforme;287253;31772;45;183;1927;Non vérifié
+72277;Saint-Denis-des-Coudrais;72;eau potable : Ex-SIAEP de la Région de Vive-Parence;208759;2024;81,8;1,0;4,4;65,9;conforme;202429;1451;35;85;113;Non vérifié
+72278;Saint-Denis-d'Orques;72;eau potable : SIAEP des Régions de Charnie et de Champagne;326994;2024;77,4;1,4;4,8;66,0;conforme;255500;16040;58;112;760;Non vérifié
+72279;Saint-Georges-de-la-Couée;72;eau potable : SMAEP de la Région Loir Braye et Dême;313434;2024;77,4;1,3;4,3;65,9;conforme;164652;3904;59;111;181;Non vérifié
+72280;Saint-Georges-du-Bois;72;eau potable : SMAEP de la Région de Brains-Souligné;311775;2024;76,7;1,0;3,3;65,7;conforme;152092;18325;22;113;2285;Non vérifié
+72281;Saint-Georges-du-Rosay;72;eau potable : Ex-SIAEP de la Région de Vive-Parence;208759;2024;81,8;1,0;4,4;65,9;conforme;202429;5803;35;85;452;Non vérifié
+72282;Saint-Georges-le-Gaultier;72;eau potable : SIAEP de la Région de sillé-le-Guillaume;74146;2024;70,2;2,0;4,8;66,0;conforme;385440;17261;91;158;517;Non vérifié
+72283;Saint-Germain-d'Arcé;72;eau potable : SMAEP de Chenu;74109;2024;52,4;2,1;2,3;65,5;non conforme;187532;7310;59;363;337;Non vérifié
+72286;Saint-Gervais-de-Vic;72;eau potable : SMAEP de la Région de Bouloire;74099;2024;76,5;1,0;3,2;65,6;conforme;182453;8218;59;126;383;Non vérifié
+72287;Saint-Gervais-en-Belin;72;eau potable : SIDERM;74142;2024;82,6;2,0;9,7;66,9;conforme;501707;15527;21;108;2047;Non vérifié
+72289;Sainte-Jamme-sur-Sarthe;72;eau potable : SIAEPA Ste-Jamme-Monbizot;74149;2024;84,6;1,3;7,1;66,4;conforme;32408;16670;23;67;1950;Non vérifié
+72290;Saint-Jean-d'Assé;72;eau potable : Principal;210967;2024;86,7;2,6;17,2;68,4;conforme;134758;41834;64;145;1790;Non vérifié
+72291;Saint-Jean-de-la-Motte;72;eau potable : SIAEP de la Région de Luché-Pringé;74125;2024;77,5;0,8;2,9;65,6;conforme;77447;3466;10;101;955;Non vérifié
+72292;Saint-Jean-des-Échelles;72;eau potable : SIAEP de la Région de l'Est Sarthois;313354;2024;78,1;1,0;3,4;65,7;conforme;95148;1379;17;112;222;Non vérifié
+72293;Saint-Jean-du-Bois;72;eau potable : SMAEP de l'Aunay - La Touche;311814;2024;84,7;0,8;4,4;65,9;conforme;202963;6768;30;67;616;Non vérifié
+72294;Saint-Léonard-des-Bois;72;eau potable : SAEP de la Région de Champfleur Gesnes-le-Gandelin;210966;2024;83,7;0,9;4,9;66,0;conforme;89680;2754;16;68;471;Non vérifié
+72295;Saint-Longis;72;eau potable : SIDPEP;322414;2024;75,3;1,5;4,4;65,9;conforme;295431;8703;47;124;509;Non vérifié
+72296;Saint-Maixent;72;eau potable : ex-SAEP de la Région de Dollon;74117;2024;77,7;1,4;5,0;66,0;conforme;286671;16484;61;101;741;Non vérifié
+72297;Saint-Marceau;72;eau potable : SIAEP de la Région de Rouessé-Fontaine;74143;2024;77,8;1,5;5,4;66,1;conforme;264442;7054;36;103;530;Non vérifié
+72298;Saint-Mars-de-Locquenay;72;eau potable : SMAEP de la Région de Bouloire;74099;2024;76,5;1,0;3,2;65,6;conforme;182453;12317;59;126;574;Non vérifié
+72299;Saint-Mars-d'Outillé;72;eau potable : SIAEP Brette-les-Pins;74102;2024;84,9;0,8;4,7;65,9;conforme;38252;6337;7;63;2483;Non vérifié
+72300;Saint-Mars-la-Brière;72;eau potable : SIDERM;74142;2024;82,6;2,0;9,7;66,9;conforme;501707;20337;21;108;2681;Non vérifié
+72302;Saint-Martin-des-Monts;72;eau potable : Ex-SIAEP de la Région de Vive-Parence;208759;2024;81,8;1,0;4,4;65,9;conforme;202429;2285;35;85;178;Non vérifié
+72303;Saint-Michel-de-Chavaignes;72;eau potable : SIAEP Jalais;74120;2024;86,3;0,7;4,2;65,8;conforme;47763;1663;6;60;737;Non vérifié
+72305;Saint-Ouen-de-Mimbré;72;eau potable : SAEP de la Région de Champfleur Gesnes-le-Gandelin;210966;2024;83,7;0,9;4,9;66,0;conforme;89680;5269;16;68;901;Non vérifié
+72306;Saint-Ouen-en-Belin;72;eau potable : SIDERM;74142;2024;82,6;2,0;9,7;66,9;conforme;501707;9960;21;108;1313;Non vérifié
+72307;Saint-Ouen-en-Champagne;72;eau potable : SMAEP de l'Aunay - La Touche;311814;2024;84,7;0,8;4,4;65,9;conforme;202963;2604;30;67;237;Non vérifié
+72308;Saint-Paterne - Le Chevain;72;eau potable : SAEP de la Région de Champfleur Gesnes-le-Gandelin;210966;2024;83,7;0,9;4,9;66,0;conforme;89680;12141;16;68;2076;Non vérifié
+72309;Saint-Paul-le-Gaultier;72;eau potable : SIAEP de la Région de sillé-le-Guillaume;74146;2024;70,2;2,0;4,8;66,0;conforme;385440;9515;91;158;285;Non vérifié
+72310;Saint-Pavace;72;eau potable : SIDERM;74142;2024;82,6;2,0;9,7;66,9;conforme;501707;15224;21;108;2007;Non vérifié
+72311;Saint-Pierre-de-Chevillé;72;eau potable : SMAEP de Chenu;74109;2024;52,4;2,1;2,3;65,5;non conforme;187532;7244;59;363;334;Non vérifié
+72312;Saint-Pierre-des-Bois;72;eau potable : SMAEP de l'Aunay - La Touche;311814;2024;84,7;0,8;4,4;65,9;conforme;202963;2417;30;67;220;Non vérifié
+72313;Saint-Pierre-des-Ormes;72;eau potable : SIDPEP;322414;2024;75,3;1,5;4,4;65,9;conforme;295431;3522;47;124;206;Non vérifié
+72314;Saint-Pierre-du-Lorouër;72;eau potable : CC Loir-Lucé-Bercé;74154;2024;80,3;0,9;3,7;65,7;conforme;238820;5609;43;89;356;Non vérifié
+72315;Saint-Rémy-de-Sillé;72;eau potable : SIAEP de la Région de sillé-le-Guillaume;74146;2024;70,2;2,0;4,8;66,0;conforme;385440;27644;91;158;828;Non vérifié
+72316;Saint-Rémy-des-Monts;72;eau potable : SIDPEP;322414;2024;75,3;1,5;4,4;65,9;conforme;295431;12191;47;124;713;Non vérifié
+72317;Saint-Rémy-du-Val;72;eau potable : SIDPEP;322414;2024;75,3;1,5;4,4;65,9;conforme;295431;8429;47;124;493;Non vérifié
+72319;Sainte-Sabine-sur-Longève;72;eau potable : Principal;210967;2024;86,7;2,6;17,2;68,4;conforme;134758;17365;64;145;743;Non vérifié
+72320;Saint-Saturnin;72;eau potable : CU Le Mans Métropole;74129;2024;87,5;3,2;22,6;69,5;conforme;1658560;21825;22;57;2774;Non vérifié
+72321;Saint-Symphorien;72;eau potable : SIAEP des Régions de Charnie et de Champagne;326994;2024;77,4;1,4;4,8;66,0;conforme;255500;10743;58;112;509;Non vérifié
+72322;Saint-Ulphace;72;eau potable : SIAEP de la Région de l'Est Sarthois;313354;2024;78,1;1,0;3,4;65,7;conforme;95148;1379;17;112;222;Non vérifié
+72323;Saint-Victeur;72;eau potable : SAEP de la Région de Champfleur Gesnes-le-Gandelin;210966;2024;83,7;0,9;4,9;66,0;conforme;89680;2526;16;68;432;Non vérifié
+72324;Saint-Vincent-des-Prés;72;eau potable : SIDPEP;322414;2024;75,3;1,5;4,4;65,9;conforme;295431;8583;47;124;502;Non vérifié
+72325;Saint-Vincent-du-Lorouër;72;eau potable : CC Loir-Lucé-Bercé;74154;2024;80,3;0,9;3,7;65,7;conforme;238820;12824;43;89;814;Non vérifié
+72326;Saosnes;72;eau potable : SIDPEP;322414;2024;75,3;1,5;4,4;65,9;conforme;295431;3693;47;124;216;Non vérifié
+72327;Sarcé;72;eau potable : SMAEP de la Région de Mayet;74130;2024;88,6;0,5;3,9;65,8;conforme;80848;1935;20;47;264;Non vérifié
+72328;Sargé-lès-le-Mans;72;eau potable : CU Le Mans Métropole;74129;2024;87,5;3,2;22,6;69,5;conforme;1658560;30299;22;57;3851;Non vérifié
+72329;Savigné-l'Évêque;72;eau potable : SIDERM;74142;2024;82,6;2,0;9,7;66,9;conforme;501707;30577;21;108;4031;Non vérifié
+72330;Savigné-sous-le-Lude;72;eau potable : SIAEP de la Région de Luché-Pringé;74125;2024;77,5;0,8;2,9;65,6;conforme;77447;1619;10;101;446;Non vérifié
+72331;Sceaux-sur-Huisne;72;eau potable : ex-SAEP de la Région de Dollon;74117;2024;77,7;1,4;5,0;66,0;conforme;286671;13058;61;101;587;Non vérifié
+72332;Ségrie;72;eau potable : Ex SIAEP de la Région de Montreuil-le-Chétif;74135;2024;68,3;1,9;4,1;65,8;conforme;101993;19433;90;191;592;Non vérifié
+72333;Semur-en-Vallon;72;eau potable : ex-SAEP de la Région de Dollon;74117;2024;77,7;1,4;5,0;66,0;conforme;286671;9521;61;101;428;Non vérifié
+72334;Sillé-le-Guillaume;72;eau potable : SIAEP de la Région de sillé-le-Guillaume;74146;2024;70,2;2,0;4,8;66,0;conforme;385440;73282;91;158;2195;Non vérifié
+72335;Sillé-le-Philippe;72;eau potable : Ex-SIAEP de la Région de Vive-Parence;208759;2024;81,8;1,0;4,4;65,9;conforme;202429;13930;35;85;1085;Non vérifié
+72336;Solesmes;72;eau potable : Principal;313314;2024;88,3;1,7;12,8;67,6;conforme;469098;12099;27;53;1240;Non vérifié
+72337;Sougé-le-Ganelon;72;eau potable : SIAEP de la Région de sillé-le-Guillaume;74146;2024;70,2;2,0;4,8;66,0;conforme;385440;27577;91;158;826;Non vérifié
+72338;Souillé;72;eau potable : SIAEP de la Région des Fontenelles;74118;2024;76,5;1,8;5,7;66,1;conforme;166937;5739;20;115;797;Non vérifié
+72339;Souligné-Flacé;72;eau potable : SMAEP de la Région de Brains-Souligné;311775;2024;76,7;1,0;3,3;65,7;conforme;152092;5100;22;113;636;Non vérifié
+72340;Souligné-sous-Ballon;72;eau potable : SIAEP de la Région des Fontenelles;74118;2024;76,5;1,8;5,7;66,1;conforme;166937;8957;20;115;1244;Non vérifié
+72341;Soulitré;72;eau potable : Ex-SIAEP de la Région de Montfort-le-Gesnois;74134;2024;94,1;0,5;8,0;66,6;conforme;27558;774;4;32;597;Non vérifié
+72342;Souvigné-sur-Même;72;eau potable : SAEP de la Région du Perche Sarthois - Le Vairais;210964;2024;77,0;1,2;3,8;65,8;conforme;181954;4861;81;146;164;Non vérifié
+72343;Souvigné-sur-Sarthe;72;eau potable : Principal;313314;2024;88,3;1,7;12,8;67,6;conforme;469098;5884;27;53;603;Non vérifié
+72344;Spay;72;eau potable : SIDERM;74142;2024;82,6;2,0;9,7;66,9;conforme;501707;21300;21;108;2808;Non vérifié
+72345;Surfonds;72;eau potable : SIAEP Jalais;74120;2024;86,3;0,7;4,2;65,8;conforme;47763;765;6;60;339;Non vérifié
+72346;La Suze-sur-Sarthe;72;eau potable : SIDERM;74142;2024;82,6;2,0;9,7;66,9;conforme;501707;35598;21;108;4693;Non vérifié
+72347;Tassé;72;eau potable : SMAEP de l'Aunay - La Touche;311814;2024;84,7;0,8;4,4;65,9;conforme;202963;3153;30;67;287;Non vérifié
+72348;Tassillé;72;eau potable : SMAEP de la Région de Brains-Souligné;311775;2024;76,7;1,0;3,3;65,7;conforme;152092;1091;22;113;136;Non vérifié
+72349;Teillé;72;eau potable : SIAEP de la Région de Rouessé-Fontaine;74143;2024;77,8;1,5;5,4;66,1;conforme;264442;7227;36;103;543;Non vérifié
+72350;Teloché;72;eau potable : SIDERM;74142;2024;82,6;2,0;9,7;66,9;conforme;501707;23264;21;108;3067;Non vérifié
+72351;Tennie;72;eau potable : SIAEP des Régions de Charnie et de Champagne;326994;2024;77,4;1,4;4,8;66,0;conforme;255500;21105;58;112;1000;Non vérifié
+72352;Terrehault;72;eau potable : SAEP de la Région du Perche Sarthois - Le Vairais;210964;2024;77,0;1,2;3,8;65,8;conforme;181954;4120;81;146;139;Non vérifié
+72353;Théligny;72;eau potable : SIAEP de la Région de l'Est Sarthois;313354;2024;78,1;1,0;3,4;65,7;conforme;95148;1335;17;112;215;Non vérifié
+72354;Thoigné;72;eau potable : SIDPEP;322414;2024;75,3;1,5;4,4;65,9;conforme;295431;2821;47;124;165;Non vérifié
+72355;Thoiré-sous-Contensor;72;eau potable : SIDPEP;322414;2024;75,3;1,5;4,4;65,9;conforme;295431;1898;47;124;111;Non vérifié
+72356;Thoiré-sur-Dinan;72;eau potable : CC Loir-Lucé-Bercé;74154;2024;80,3;0,9;3,7;65,7;conforme;238820;6286;43;89;399;Non vérifié
+72357;Thorée-les-Pins;72;eau potable : SIAEP de la Région de Luché-Pringé;74125;2024;77,5;0,8;2,9;65,6;conforme;77447;2700;10;101;744;Non vérifié
+72358;Thorigné-sur-Dué;72;eau potable : SIAEP Jalais;74120;2024;86,3;0,7;4,2;65,8;conforme;47763;3693;6;60;1637;Non vérifié
+72359;Torcé-en-Vallée;72;eau potable : Ex-SIAEP de la Région de Vive-Parence;208759;2024;81,8;1,0;4,4;65,9;conforme;202429;17936;35;85;1397;Non vérifié
+72360;Trangé;72;eau potable : CU Le Mans Métropole;74129;2024;87,5;3,2;22,6;69,5;conforme;1658560;12879;22;57;1637;Non vérifié
+72361;Tresson;72;eau potable : SMAEP de la Région de Bouloire;74099;2024;76,5;1,0;3,2;65,6;conforme;182453;10965;59;126;511;Non vérifié
+72362;Le Tronchet;72;eau potable : Ex SIAEP Région des Buissons - DSP;74095;2024;76,4;2,8;9,0;66,8;conforme;110274;3091;50;242;170;Non vérifié
+72363;Tuffé Val de la Chéronne;72;eau potable : ex-SAEP de la Région de Dollon;74117;2024;77,7;1,4;5,0;66,0;conforme;286671;37372;61;101;1680;Non vérifié
+72364;Vaas;72;eau potable : SMAEP de la Région de Mayet;74130;2024;88,6;0,5;3,9;65,8;conforme;80848;10051;20;47;1371;Non vérifié
+72366;Valennes;72;eau potable : ex-SIAEP de la Région de Conflans-sur-Anillé;74110;2024;86,2;0,6;3,5;65,7;conforme;26216;1178;11;69;303;Non vérifié
+72367;Vallon-sur-Gée;72;eau potable : SMAEP de l'Aunay - La Touche;311814;2024;84,7;0,8;4,4;65,9;conforme;202963;8504;30;67;774;Non vérifié
+72368;Vancé;72;eau potable : SMAEP de la Région Loir Braye et Dême;313434;2024;77,4;1,3;4,3;65,9;conforme;164652;6105;59;111;283;Non vérifié
+72369;Verneil-le-Chétif;72;eau potable : SMAEP de la Région de Mayet;74130;2024;88,6;0,5;3,9;65,8;conforme;80848;4281;20;47;584;Non vérifié
+72370;Vernie;72;eau potable : Ex SIAEP Région des Buissons - DSP;74095;2024;76,4;2,8;9,0;66,8;conforme;110274;6292;50;242;346;Non vérifié
+72372;Vezot;72;eau potable : SIDPEP;322414;2024;75,3;1,5;4,4;65,9;conforme;295431;1282;47;124;75;Non vérifié
+72373;Vibraye;72;eau potable : ex-SAEP de la Région de Dollon;74117;2024;77,7;1,4;5,0;66,0;conforme;286671;56124;61;101;2523;Non vérifié
+72374;Villaines-la-Carelle;72;eau potable : SIDPEP;322414;2024;75,3;1,5;4,4;65,9;conforme;295431;2257;47;124;132;Non vérifié
+72375;Villaines-la-Gonais;72;eau potable : SIAEP de la Région de l'Est Sarthois;313354;2024;78,1;1,0;3,4;65,7;conforme;95148;3167;17;112;510;Non vérifié
+72376;Villaines-sous-Lucé;72;eau potable : CC Loir-Lucé-Bercé;74154;2024;80,3;0,9;3,7;65,7;conforme;238820;10162;43;89;645;Non vérifié
+72377;Villaines-sous-Malicorne;72;eau potable : Principal;313314;2024;88,3;1,7;12,8;67,6;conforme;469098;10069;27;53;1032;Non vérifié
+72378;Vion;72;eau potable : Principal;313314;2024;88,3;1,7;12,8;67,6;conforme;469098;13328;27;53;1366;Non vérifié
+72379;Viré-en-Champagne;72;eau potable : SMAEP de l'Aunay - La Touche;311814;2024;84,7;0,8;4,4;65,9;conforme;202963;2241;30;67;204;Non vérifié
+72380;Vivoin;72;eau potable : SIAEP de la Région de Rouessé-Fontaine;74143;2024;77,8;1,5;5,4;66,1;conforme;264442;11872;36;103;892;Non vérifié
+72381;Voivres-lès-le-Mans;72;eau potable : SMAEP de la Région de Brains-Souligné;311775;2024;76,7;1,0;3,3;65,7;conforme;152092;10786;22;113;1345;Non vérifié
+72382;Volnay;72;eau potable : SIAEP Jalais;74120;2024;86,3;0,7;4,2;65,8;conforme;47763;3431;6;60;1521;Non vérifié
+72383;Vouvray-sur-Huisne;72;eau potable : SAEPA de la Région de Connerré;74114;2024;92,9;0,5;6,8;66,4;conforme;20263;217;5;27;131;Non vérifié
+72385;Yvré-le-Pôlin;72;eau potable : SIAEP de la Région de Pontvallain;74141;2024;80,9;0,8;3,4;65,7;conforme;97236;10120;16;85;1717;Non vérifié
+72386;Yvré-l'Évêque;72;eau potable : Ex-SIAEP de la Région de Montfort-le-Gesnois;74134;2024;94,1;0,5;8,0;66,6;conforme;27558;5424;4;32;4181;Non vérifié

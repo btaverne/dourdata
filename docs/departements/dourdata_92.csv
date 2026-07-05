@@ -1,0 +1,46 @@
+﻿# DourData — eau perdue par les réseaux d'eau potable (indicateurs SISPEA)
+# Périmètre : Département 92
+# Source : SISPEA — Système d'Information des Services Publics d'Eau et d'Assainissement, via data.gouv.fr / services.eaufrance.fr
+# Licence : Licence Ouverte 2.0 (Etalab)
+# Millésime des données : 2024 (année la plus récente disponible par commune)
+# Date de génération de l'export : 2026-07-05
+# Méthodologie et code : https://github.com/btaverne/dourdata
+# Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
+# Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
+92002;Antony;92;eau potable;222295;2024;42,3;62,0;45,5;74,1;non conforme;166833339;26044924;1110;987;64263;Non vérifié
+92004;Asnières-sur-Seine;92;eau potable;182961;2024;91,7;8,5;93,1;83,6;conforme;3085995;457536;13;33;93941;Non vérifié
+92007;Bagneux;92;eau potable;222295;2024;42,3;62,0;45,5;74,1;non conforme;166833339;18064429;1110;987;44572;Non vérifié
+92009;Bois-Colombes;92;eau potable;182961;2024;91,7;8,5;93,1;83,6;conforme;3085995;140800;13;33;28909;Non vérifié
+92012;Boulogne-Billancourt;92;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;720651;17;43;119019;Non vérifié
+92014;Bourg-la-Reine;92;eau potable;222295;2024;42,3;62,0;45,5;74,1;non conforme;166833339;8518716;1110;987;21019;Non vérifié
+92019;Châtenay-Malabry;92;eau potable;222295;2024;42,3;62,0;45,5;74,1;non conforme;166833339;14519388;1110;987;35825;Non vérifié
+92020;Châtillon;92;eau potable;222295;2024;42,3;62,0;45,5;74,1;non conforme;166833339;14876040;1110;987;36705;Non vérifié
+92022;Chaville;92;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;124695;17;43;20594;Non vérifié
+92023;Clamart;92;eau potable;222295;2024;42,3;62,0;45,5;74,1;non conforme;166833339;23740060;1110;987;58576;Non vérifié
+92024;Clichy;92;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;389998;17;43;64410;Non vérifié
+92025;Colombes;92;eau potable;182961;2024;91,7;8,5;93,1;83,6;conforme;3085995;443470;13;33;91053;Non vérifié
+92026;Courbevoie;92;eau potable;182961;2024;91,7;8,5;93,1;83,6;conforme;3085995;403771;13;33;82902;Non vérifié
+92032;Fontenay-aux-Roses;92;eau potable;222295;2024;42,3;62,0;45,5;74,1;non conforme;166833339;9755245;1110;987;24070;Non vérifié
+92033;Garches;92;eau potable : Périmètre DSP SEOP;158751;2024;92,6;4,7;59,0;76,8;conforme;2144375;80711;12;34;17743;Non vérifié
+92035;La Garenne-Colombes;92;eau potable;182961;2024;91,7;8,5;93,1;83,6;conforme;3085995;147073;13;33;30197;Non vérifié
+92036;Gennevilliers;92;eau potable;182961;2024;91,7;8,5;93,1;83,6;conforme;3085995;248291;13;33;50979;Non vérifié
+92040;Issy-les-Moulineaux;92;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;409731;17;43;67669;Non vérifié
+92044;Levallois-Perret;92;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;412292;17;43;68092;Non vérifié
+92046;Malakoff;92;eau potable;222295;2024;42,3;62,0;45,5;74,1;non conforme;166833339;12384339;1110;987;30557;Non vérifié
+92047;Marnes-la-Coquette;92;eau potable : Périmètre DSP SEOP;158751;2024;92,6;4,7;59,0;76,8;conforme;2144375;7970;12;34;1752;Non vérifié
+92048;Meudon;92;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;280549;17;43;46334;Non vérifié
+92049;Montrouge;92;eau potable;222295;2024;42,3;62,0;45,5;74,1;non conforme;166833339;18774490;1110;987;46324;Non vérifié
+92050;Nanterre;92;eau potable;182961;2024;91,7;8,5;93,1;83,6;conforme;3085995;476248;13;33;97783;Non vérifié
+92051;Neuilly-sur-Seine;92;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;360498;17;43;59538;Non vérifié
+92060;Le Plessis-Robinson;92;eau potable;222295;2024;42,3;62,0;45,5;74,1;non conforme;166833339;11691704;1110;987;28848;Non vérifié
+92062;Puteaux;92;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;266429;17;43;44002;Non vérifié
+92063;Rueil-Malmaison;92;eau potable;182961;2024;91,7;8,5;93,1;83,6;conforme;3085995;403634;13;33;82874;Non vérifié
+92064;Saint-Cloud;92;eau potable : Périmètre DSP SEOP;158751;2024;92,6;4,7;59,0;76,8;conforme;2144375;135808;12;34;29855;Non vérifié
+92071;Sceaux;92;eau potable;222295;2024;42,3;62,0;45,5;74,1;non conforme;166833339;8464003;1110;987;20884;Non vérifié
+92072;Sèvres;92;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;135043;17;43;22303;Non vérifié
+92073;Suresnes;92;eau potable;182961;2024;91,7;8,5;93,1;83,6;conforme;3085995;238438;13;33;48956;Non vérifié
+92075;Vanves;92;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;173304;17;43;28622;Non vérifié
+92076;Vaucresson;92;eau potable : Périmètre DSP SEOP;158751;2024;92,6;4,7;59,0;76,8;conforme;2144375;38356;12;34;8432;Non vérifié
+92077;Ville-d'Avray;92;eau potable : Périmètre DSP SEOP;158751;2024;92,6;4,7;59,0;76,8;conforme;2144375;50443;12;34;11089;Non vérifié
+92078;Villeneuve-la-Garenne;92;eau potable;182961;2024;91,7;8,5;93,1;83,6;conforme;3085995;126734;13;33;26021;Non vérifié

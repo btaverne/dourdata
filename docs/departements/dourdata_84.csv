@@ -1,0 +1,160 @@
+﻿# DourData — eau perdue par les réseaux d'eau potable (indicateurs SISPEA)
+# Périmètre : Département 84
+# Source : SISPEA — Système d'Information des Services Publics d'Eau et d'Assainissement, via data.gouv.fr / services.eaufrance.fr
+# Licence : Licence Ouverte 2.0 (Etalab)
+# Millésime des données : 2024 (année la plus récente disponible par commune)
+# Date de génération de l'export : 2026-07-05
+# Méthodologie et code : https://github.com/btaverne/dourdata
+# Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
+# Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
+84001;Althen-des-Paluds;84;eau potable : principal;64595;2024;75,5;5,1;15,7;68,1;conforme;3235603;57442;53;118;2960;Non vérifié
+84002;Ansouis;84;eau potable;64591;2024;87,4;2,3;15,8;68,2;conforme;601737;11970;31;53;1064;Non vérifié
+84003;Apt;84;eau potable : Régie Communautaire;211815;2024;80,7;1,9;7,7;66,5;conforme;309842;206554;56;90;10143;Non vérifié
+84004;Aubignan;84;eau potable : principal;64595;2024;75,5;5,1;15,7;68,1;conforme;3235603;116069;53;118;5981;Non vérifié
+84005;Aurel;84;eau potable;64599;2024;60,6;1,8;2,7;65,5;non conforme;142188;7842;113;281;190;Non vérifié
+84006;Auribeau;84;eau potable : Régie Communautaire;211815;2024;80,7;1,9;7,7;66,5;conforme;309842;1385;56;90;68;Non vérifié
+84007;Avignon;84;eau potable : Avignon - Morières;64607;2024;75,7;14,7;45,7;74,1;conforme;2407607;2193055;65;120;92188;Non vérifié
+84008;Le Barroux;84;eau potable : principal;64595;2024;75,5;5,1;15,7;68,1;conforme;3235603;12847;53;118;662;Non vérifié
+84009;La Bastide-des-Jourdans;84;eau potable;64591;2024;87,4;2,3;15,8;68,2;conforme;601737;19800;31;53;1760;Non vérifié
+84010;La Bastidonne;84;eau potable;64591;2024;87,4;2,3;15,8;68,2;conforme;601737;10451;31;53;929;Non vérifié
+84011;Le Beaucet;84;eau potable : principal;64595;2024;75,5;5,1;15,7;68,1;conforme;3235603;7704;53;118;397;Non vérifié
+84012;Beaumes-de-Venise;84;eau potable : principal;64595;2024;75,5;5,1;15,7;68,1;conforme;3235603;47390;53;118;2442;Non vérifié
+84013;Beaumettes;84;eau potable;64590;2024;69,9;5,3;12,4;67,5;conforme;3155479;9816;86;156;314;Non vérifié
+84014;Beaumont-de-Pertuis;84;eau potable;64591;2024;87,4;2,3;15,8;68,2;conforme;601737;12712;31;53;1130;Non vérifié
+84015;Beaumont-du-Ventoux;84;eau potable : Mont Serein;203394;2024;78,7;0,8;3,1;65,6;conforme;1910;1910;17;94;308;Non vérifié
+84016;Bédarrides;84;eau potable : principal;64595;2024;75,5;5,1;15,7;68,1;conforme;3235603;110053;53;118;5671;Non vérifié
+84017;Bédoin;84;eau potable : principal;64595;2024;75,5;5,1;15,7;68,1;conforme;3235603;60276;53;118;3106;Non vérifié
+84018;Blauvac;84;eau potable : principal;64595;2024;75,5;5,1;15,7;68,1;conforme;3235603;11120;53;118;573;Non vérifié
+84019;Bollène;84;eau potable;64593;2024;74,8;3,3;9,9;67,0;conforme;1615186;317020;62;123;14024;Non vérifié
+84020;Bonnieux;84;eau potable;64590;2024;69,9;5,3;12,4;67,5;conforme;3155479;37451;86;156;1198;Non vérifié
+84021;Brantes;84;eau potable;64485;2024;74,2;2,1;6,1;66,2;conforme;4722;4722;150;125;86;Non vérifié
+84022;Buisson;84;eau potable;64593;2024;74,8;3,3;9,9;67,0;conforme;1615186;5697;62;123;252;Non vérifié
+84023;Buoux;84;eau potable : Régie Communautaire;211815;2024;80,7;1,9;7,7;66,5;conforme;309842;2118;56;90;104;Non vérifié
+84024;Cabrières-d'Aigues;84;eau potable;64591;2024;87,4;2,3;15,8;68,2;conforme;601737;10642;31;53;946;Non vérifié
+84025;Cabrières-d'Avignon;84;eau potable;64590;2024;69,9;5,3;12,4;67,5;conforme;3155479;52706;86;156;1686;Non vérifié
+84026;Cadenet;84;eau potable;64591;2024;87,4;2,3;15,8;68,2;conforme;601737;49083;31;53;4363;Non vérifié
+84027;Caderousse;84;eau potable : CADEROUSSE;64491;2024;79,9;1,8;7,1;66,4;conforme;22798;22798;25;93;2493;Non vérifié
+84028;Cairanne;84;eau potable;64593;2024;74,8;3,3;9,9;67,0;conforme;1615186;25522;62;123;1129;Non vérifié
+84029;Camaret-sur-Aigues;84;eau potable;64593;2024;74,8;3,3;9,9;67,0;conforme;1615186;102471;62;123;4533;Non vérifié
+84030;Caromb;84;eau potable : CAROMB;64494;2024;76,1;4,6;14,8;68,0;conforme;72197;72197;57;114;3479;Non vérifié
+84031;Carpentras;84;eau potable : principal;64595;2024;75,5;5,1;15,7;68,1;conforme;3235603;613606;53;118;31619;Non vérifié
+84032;Caseneuve;84;eau potable : Régie Communautaire;211815;2024;80,7;1,9;7,7;66,5;conforme;309842;10732;56;90;527;Non vérifié
+84033;Castellet-en-Luberon;84;eau potable : Régie Communautaire;211815;2024;80,7;1,9;7,7;66,5;conforme;309842;2301;56;90;113;Non vérifié
+84034;Caumont-sur-Durance;84;eau potable;64590;2024;69,9;5,3;12,4;67,5;conforme;3155479;177157;86;156;5667;Non vérifié
+84035;Cavaillon;84;eau potable;64590;2024;69,9;5,3;12,4;67,5;conforme;3155479;801413;86;156;25636;Non vérifié
+84036;Châteauneuf-de-Gadagne;84;eau potable;64590;2024;69,9;5,3;12,4;67,5;conforme;3155479;111446;86;156;3565;Non vérifié
+84037;Châteauneuf-du-Pape;84;eau potable : principal;64595;2024;75,5;5,1;15,7;68,1;conforme;3235603;39783;53;118;2050;Non vérifié
+84038;Cheval-Blanc;84;eau potable;64590;2024;69,9;5,3;12,4;67,5;conforme;3155479;136362;86;156;4362;Non vérifié
+84039;Courthézon;84;eau potable : COURTHEZON;64506;2024;86,4;3,0;18,8;68,8;conforme;46318;46318;20;58;6426;Non vérifié
+84040;Crestet;84;eau potable;64593;2024;74,8;3,3;9,9;67,0;conforme;1615186;9381;62;123;415;Non vérifié
+84041;Crillon-le-Brave;84;eau potable : principal;64595;2024;75,5;5,1;15,7;68,1;conforme;3235603;9470;53;118;488;Non vérifié
+84042;Cucuron;84;eau potable;64591;2024;87,4;2,3;15,8;68,2;conforme;601737;21206;31;53;1885;Non vérifié
+84043;Entraigues-sur-la-Sorgue;84;eau potable : principal;64595;2024;75,5;5,1;15,7;68,1;conforme;3235603;172968;53;118;8913;Non vérifié
+84044;Entrechaux;84;eau potable;64593;2024;74,8;3,3;9,9;67,0;conforme;1615186;26607;62;123;1177;Non vérifié
+84045;Faucon;84;eau potable;64593;2024;74,8;3,3;9,9;67,0;conforme;1615186;10263;62;123;454;Non vérifié
+84046;Flassan;84;eau potable : principal;64595;2024;75,5;5,1;15,7;68,1;conforme;3235603;8791;53;118;453;Non vérifié
+84047;Gargas;84;eau potable;64590;2024;69,9;5,3;12,4;67,5;conforme;3155479;94878;86;156;3035;Non vérifié
+84048;Gignac;84;eau potable : Régie Communautaire;211815;2024;80,7;1,9;7,7;66,5;conforme;309842;1487;56;90;73;Non vérifié
+84049;Gigondas;84;eau potable : principal;64595;2024;75,5;5,1;15,7;68,1;conforme;3235603;8694;53;118;448;Non vérifié
+84050;Gordes;84;eau potable;64590;2024;69,9;5,3;12,4;67,5;conforme;3155479;51925;86;156;1661;Non vérifié
+84051;Goult;84;eau potable;64590;2024;69,9;5,3;12,4;67,5;conforme;3155479;32981;86;156;1055;Non vérifié
+84052;Grambois;84;eau potable;64591;2024;87,4;2,3;15,8;68,2;conforme;601737;13882;31;53;1234;Non vérifié
+84054;L' Isle-sur-la-Sorgue;84;eau potable;64590;2024;69,9;5,3;12,4;67,5;conforme;3155479;632853;86;156;20244;Non vérifié
+84055;Jonquerettes;84;eau potable : JONQUERETTES;325394;2024;91,6;1,5;16,0;68,2;conforme;9800;9800;17;34;1606;Non vérifié
+84056;Jonquières;84;eau potable : JONQUIERES;64517;2024;85,8;1,4;8,5;66,7;conforme;30062;30062;16;60;5201;Non vérifié
+84057;Joucas;84;eau potable;64590;2024;69,9;5,3;12,4;67,5;conforme;3155479;10879;86;156;348;Non vérifié
+84058;Lacoste;84;eau potable;64590;2024;69,9;5,3;12,4;67,5;conforme;3155479;14630;86;156;468;Non vérifié
+84059;Lafare;84;eau potable : principal;64595;2024;75,5;5,1;15,7;68,1;conforme;3235603;2523;53;118;130;Non vérifié
+84060;Lagarde-d'Apt;84;eau potable : Régie Communautaire;211815;2024;80,7;1,9;7,7;66,5;conforme;309842;611;56;90;30;Non vérifié
+84061;Lagarde-Paréol;84;eau potable;64593;2024;74,8;3,3;9,9;67,0;conforme;1615186;7211;62;123;319;Non vérifié
+84062;Lagnes;84;eau potable;64590;2024;69,9;5,3;12,4;67,5;conforme;3155479;54457;86;156;1742;Non vérifié
+84063;Lamotte-du-Rhône;84;eau potable;64593;2024;74,8;3,3;9,9;67,0;conforme;1615186;9110;62;123;403;Non vérifié
+84064;Lapalud;84;eau potable;64593;2024;74,8;3,3;9,9;67,0;conforme;1615186;87099;62;123;3853;Non vérifié
+84065;Lauris;84;eau potable;64591;2024;87,4;2,3;15,8;68,2;conforme;601737;44110;31;53;3921;Non vérifié
+84066;Lioux;84;eau potable;64590;2024;69,9;5,3;12,4;67,5;conforme;3155479;8941;86;156;286;Non vérifié
+84067;Loriol-du-Comtat;84;eau potable : principal;64595;2024;75,5;5,1;15,7;68,1;conforme;3235603;48244;53;118;2486;Non vérifié
+84068;Lourmarin;84;eau potable : LOURMARIN;64527;2024;82,7;3,7;17,7;68,5;conforme;32736;32736;88;76;1020;Non vérifié
+84069;Malaucène;84;eau potable : principal;64595;2024;75,5;5,1;15,7;68,1;conforme;3235603;53522;53;118;2758;Non vérifié
+84070;Malemort-du-Comtat;84;eau potable : principal;64595;2024;75,5;5,1;15,7;68,1;conforme;3235603;38211;53;118;1969;Non vérifié
+84071;Maubec;84;eau potable;64590;2024;69,9;5,3;12,4;67,5;conforme;3155479;59865;86;156;1915;Non vérifié
+84072;Mazan;84;eau potable : principal;64595;2024;75,5;5,1;15,7;68,1;conforme;3235603;121968;53;118;6285;Non vérifié
+84073;Ménerbes;84;eau potable;64590;2024;69,9;5,3;12,4;67,5;conforme;3155479;30073;86;156;962;Non vérifié
+84074;Mérindol;84;eau potable;64591;2024;87,4;2,3;15,8;68,2;conforme;601737;25683;31;53;2283;Non vérifié
+84075;Méthamis;84;eau potable : principal;64595;2024;75,5;5,1;15,7;68,1;conforme;3235603;8733;53;118;450;Non vérifié
+84076;Mirabeau;84;eau potable;64591;2024;87,4;2,3;15,8;68,2;conforme;601737;16312;31;53;1450;Non vérifié
+84077;Modène;84;eau potable : principal;64595;2024;75,5;5,1;15,7;68,1;conforme;3235603;8888;53;118;458;Non vérifié
+84078;Mondragon;84;eau potable;64593;2024;74,8;3,3;9,9;67,0;conforme;1615186;86647;62;123;3833;Non vérifié
+84079;Monieux;84;eau potable;64599;2024;60,6;1,8;2,7;65,5;non conforme;142188;10855;113;281;263;Non vérifié
+84080;Monteux;84;eau potable : principal;64595;2024;75,5;5,1;15,7;68,1;conforme;3235603;258122;53;118;13301;Non vérifié
+84081;Morières-lès-Avignon;84;eau potable : Avignon - Morières;64607;2024;75,7;14,7;45,7;74,1;conforme;2407607;214552;65;120;9019;Non vérifié
+84082;Mormoiron;84;eau potable : principal;64595;2024;75,5;5,1;15,7;68,1;conforme;3235603;36561;53;118;1884;Non vérifié
+84083;Mornas;84;eau potable;64593;2024;74,8;3,3;9,9;67,0;conforme;1615186;58074;62;123;2569;Non vérifié
+84084;La Motte-d'Aigues;84;eau potable;64591;2024;87,4;2,3;15,8;68,2;conforme;601737;16177;31;53;1438;Non vérifié
+84085;Murs;84;eau potable;64590;2024;69,9;5,3;12,4;67,5;conforme;3155479;11754;86;156;376;Non vérifié
+84086;Oppède;84;eau potable;64590;2024;69,9;5,3;12,4;67,5;conforme;3155479;40171;86;156;1285;Non vérifié
+84087;Orange;84;eau potable : ORANGE;64540;2024;83,4;5,9;29,4;70,9;conforme;350245;350245;32;78;29706;Non vérifié
+84088;Pernes-les-Fontaines;84;eau potable : principal;64595;2024;75,5;5,1;15,7;68,1;conforme;3235603;203843;53;118;10504;Non vérifié
+84089;Pertuis;84;eau potable;64591;2024;87,4;2,3;15,8;68,2;conforme;601737;219910;31;53;19548;Non vérifié
+84090;Peypin-d'Aigues;84;eau potable;64591;2024;87,4;2,3;15,8;68,2;conforme;601737;7470;31;53;664;Non vérifié
+84091;Piolenc;84;eau potable;64593;2024;74,8;3,3;9,9;67,0;conforme;1615186;129258;62;123;5718;Non vérifié
+84092;Le Pontet;84;eau potable : principal;64595;2024;75,5;5,1;15,7;68,1;conforme;3235603;356803;53;118;18386;Non vérifié
+84093;Puget;84;eau potable;64591;2024;87,4;2,3;15,8;68,2;conforme;601737;10057;31;53;894;Non vérifié
+84094;Puyméras;84;eau potable;64593;2024;74,8;3,3;9,9;67,0;conforme;1615186;13224;62;123;585;Non vérifié
+84095;Puyvert;84;eau potable;64591;2024;87,4;2,3;15,8;68,2;conforme;601737;9731;31;53;865;Non vérifié
+84096;Rasteau;84;eau potable;64593;2024;74,8;3,3;9,9;67,0;conforme;1615186;18378;62;123;813;Non vérifié
+84097;Richerenches;84;eau potable;213047;2024;76,9;4,4;14,6;67,9;conforme;202870;10272;48;110;591;Non vérifié
+84098;Roaix;84;eau potable;64593;2024;74,8;3,3;9,9;67,0;conforme;1615186;14151;62;123;626;Non vérifié
+84099;Robion;84;eau potable;64590;2024;69,9;5,3;12,4;67,5;conforme;3155479;150554;86;156;4816;Non vérifié
+84100;La Roque-Alric;84;eau potable : principal;64595;2024;75,5;5,1;15,7;68,1;conforme;3235603;970;53;118;50;Non vérifié
+84101;La Roque-sur-Pernes;84;eau potable : principal;64595;2024;75,5;5,1;15,7;68,1;conforme;3235603;8481;53;118;437;Non vérifié
+84102;Roussillon;84;eau potable;64590;2024;69,9;5,3;12,4;67,5;conforme;3155479;41671;86;156;1333;Non vérifié
+84103;Rustrel;84;eau potable : Régie Communautaire;211815;2024;80,7;1,9;7,7;66,5;conforme;309842;13685;56;90;672;Non vérifié
+84104;Sablet;84;eau potable;64593;2024;74,8;3,3;9,9;67,0;conforme;1615186;32462;62;123;1436;Non vérifié
+84105;Saignon;84;eau potable : Régie Communautaire;211815;2024;80,7;1,9;7,7;66,5;conforme;309842;18572;56;90;912;Non vérifié
+84106;Sainte-Cécile-les-Vignes;84;eau potable;64593;2024;74,8;3,3;9,9;67,0;conforme;1615186;60040;62;123;2656;Non vérifié
+84107;Saint-Christol;84;eau potable;64599;2024;60,6;1,8;2,7;65,5;non conforme;142188;58155;113;281;1409;Non vérifié
+84108;Saint-Didier;84;eau potable : principal;64595;2024;75,5;5,1;15,7;68,1;conforme;3235603;42849;53;118;2208;Non vérifié
+84109;Saint-Hippolyte-le-Graveyron;84;eau potable : principal;64595;2024;75,5;5,1;15,7;68,1;conforme;3235603;3260;53;118;168;Non vérifié
+84110;Saint-Léger-du-Ventoux;84;eau potable;64552;2024;71,5;3,9;9,8;67,0;conforme;8769;8769;961;145;25;Non vérifié
+84111;Saint-Marcellin-lès-Vaison;84;eau potable;64593;2024;74,8;3,3;9,9;67,0;conforme;1615186;7550;62;123;334;Non vérifié
+84112;Saint-Martin-de-Castillon;84;eau potable : Régie Communautaire;211815;2024;80,7;1,9;7,7;66,5;conforme;309842;14031;56;90;689;Non vérifié
+84113;Saint-Martin-de-la-Brasque;84;eau potable;64591;2024;87,4;2,3;15,8;68,2;conforme;601737;9056;31;53;805;Non vérifié
+84114;Saint-Pantaléon;84;eau potable;64590;2024;69,9;5,3;12,4;67,5;conforme;3155479;6940;86;156;222;Non vérifié
+84115;Saint-Pierre-de-Vassols;84;eau potable : principal;64595;2024;75,5;5,1;15,7;68,1;conforme;3235603;9684;53;118;499;Non vérifié
+84116;Saint-Romain-en-Viennois;84;eau potable;64593;2024;74,8;3,3;9,9;67,0;conforme;1615186;19622;62;123;868;Non vérifié
+84117;Saint-Roman-de-Malegarde;84;eau potable;64593;2024;74,8;3,3;9,9;67,0;conforme;1615186;7663;62;123;339;Non vérifié
+84118;Saint-Saturnin-lès-Apt;84;eau potable;64590;2024;69,9;5,3;12,4;67,5;conforme;3155479;93909;86;156;3004;Non vérifié
+84119;Saint-Saturnin-lès-Avignon;84;eau potable : principal;64595;2024;75,5;5,1;15,7;68,1;conforme;3235603;101029;53;118;5206;Non vérifié
+84120;Saint-Trinit;84;eau potable;64599;2024;60,6;1,8;2,7;65,5;non conforme;142188;4870;113;281;118;Non vérifié
+84121;Sannes;84;eau potable;64591;2024;87,4;2,3;15,8;68,2;conforme;601737;3262;31;53;290;Non vérifié
+84122;Sarrians;84;eau potable : SARRIANS;64559;2024;77,4;3,6;12,4;67,5;conforme;73229;73229;35;106;5792;Non vérifié
+84123;Sault;84;eau potable;64599;2024;60,6;1,8;2,7;65,5;non conforme;142188;55431;113;281;1343;Non vérifié
+84124;Saumane-de-Vaucluse;84;eau potable;64590;2024;69,9;5,3;12,4;67,5;conforme;3155479;27697;86;156;886;Non vérifié
+84125;Savoillan;84;eau potable;64562;2024;100,0;0,0;3,9;65,8;conforme;0;0;0;0;81;Non vérifié
+84126;Séguret;84;eau potable;64593;2024;74,8;3,3;9,9;67,0;conforme;1615186;17384;62;123;769;Non vérifié
+84127;Sérignan-du-Comtat;84;eau potable;64593;2024;74,8;3,3;9,9;67,0;conforme;1615186;66438;62;123;2939;Non vérifié
+84128;Sivergues;84;eau potable : Régie Communautaire;211815;2024;80,7;1,9;7,7;66,5;conforme;309842;794;56;90;39;Non vérifié
+84129;Sorgues;84;eau potable : principal;64595;2024;75,5;5,1;15,7;68,1;conforme;3235603;368835;53;118;19006;Non vérifié
+84130;Suzette;84;eau potable : principal;64595;2024;75,5;5,1;15,7;68,1;conforme;3235603;2173;53;118;112;Non vérifié
+84131;Taillades;84;eau potable;64590;2024;69,9;5,3;12,4;67,5;conforme;3155479;63773;86;156;2040;Non vérifié
+84132;Le Thor;84;eau potable;64590;2024;69,9;5,3;12,4;67,5;conforme;3155479;277662;86;156;8882;Non vérifié
+84133;La Tour-d'Aigues;84;eau potable;64591;2024;87,4;2,3;15,8;68,2;conforme;601737;49555;31;53;4405;Non vérifié
+84134;Travaillan;84;eau potable;64593;2024;74,8;3,3;9,9;67,0;conforme;1615186;16005;62;123;708;Non vérifié
+84135;Uchaux;84;eau potable;64593;2024;74,8;3,3;9,9;67,0;conforme;1615186;38407;62;123;1699;Non vérifié
+84136;Vacqueyras;84;eau potable;64593;2024;74,8;3,3;9,9;67,0;conforme;1615186;26652;62;123;1179;Non vérifié
+84137;Vaison-la-Romaine;84;eau potable;64593;2024;74,8;3,3;9,9;67,0;conforme;1615186;136944;62;123;6058;Non vérifié
+84138;Valréas;84;eau potable;213047;2024;76,9;4,4;14,6;67,9;conforme;202870;160321;48;110;9224;Non vérifié
+84139;Fontaine-de-Vaucluse;84;eau potable;64573;2024;46,1;18,3;15,6;68,1;non conforme;46089;46089;216;428;585;Non vérifié
+84140;Vaugines;84;eau potable : VAUGINES;64577;2024;83,0;2,5;12,2;67,4;conforme;7364;7364;36;74;553;Non vérifié
+84141;Vedène;84;eau potable : principal;64595;2024;75,5;5,1;15,7;68,1;conforme;3235603;232370;53;118;11974;Non vérifié
+84142;Velleron;84;eau potable;64590;2024;69,9;5,3;12,4;67,5;conforme;3155479;99036;86;156;3168;Non vérifié
+84143;Venasque;84;eau potable : principal;64595;2024;75,5;5,1;15,7;68,1;conforme;3235603;20998;53;118;1082;Non vérifié
+84144;Viens;84;eau potable : Régie Communautaire;211815;2024;80,7;1,9;7,7;66,5;conforme;309842;12748;56;90;626;Non vérifié
+84145;Villars;84;eau potable;64590;2024;69,9;5,3;12,4;67,5;conforme;3155479;24478;86;156;783;Non vérifié
+84146;Villedieu;84;eau potable;64593;2024;74,8;3,3;9,9;67,0;conforme;1615186;11461;62;123;507;Non vérifié
+84147;Villelaure;84;eau potable;64591;2024;87,4;2,3;15,8;68,2;conforme;601737;38227;31;53;3398;Non vérifié
+84148;Villes-sur-Auzon;84;eau potable : principal;64595;2024;75,5;5,1;15,7;68,1;conforme;3235603;25345;53;118;1306;Non vérifié
+84149;Violès;84;eau potable;64593;2024;74,8;3,3;9,9;67,0;conforme;1615186;39831;62;123;1762;Non vérifié
+84150;Visan;84;eau potable;213047;2024;76,9;4,4;14,6;67,9;conforme;202870;32276;48;110;1857;Non vérifié
+84151;Vitrolles-en-Lubéron;84;eau potable;64591;2024;87,4;2,3;15,8;68,2;conforme;601737;2441;31;53;217;Non vérifié

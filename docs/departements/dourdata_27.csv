@@ -1,0 +1,594 @@
+﻿# DourData — eau perdue par les réseaux d'eau potable (indicateurs SISPEA)
+# Périmètre : Département 27
+# Source : SISPEA — Système d'Information des Services Publics d'Eau et d'Assainissement, via data.gouv.fr / services.eaufrance.fr
+# Licence : Licence Ouverte 2.0 (Etalab)
+# Millésime des données : 2020–2024 (année la plus récente disponible par commune)
+# Date de génération de l'export : 2026-07-05
+# Méthodologie et code : https://github.com/btaverne/dourdata
+# Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
+# Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
+27001;Aclou;27;eau potable;96382;2024;80,2;1,5;5,9;66,2;conforme;291106;3325;27;94;337;Non vérifié
+27002;Acon;27;eau potable : régie SUD;96370;2024;64,2;3,4;6,0;66,2;non conforme;407594;13410;77;215;478;Non vérifié
+27003;Acquigny;27;eau potable : Agglo Seine Eure;330514;2024;76,7;4,6;15,0;68,0;conforme;1736086;30613;48;114;1733;Non vérifié
+27004;Aigleville;27;eau potable : régie SNA;250214;2024;74,9;4,9;14,7;67,9;conforme;1192930;9393;62;127;414;Non vérifié
+27005;Ailly;27;eau potable : Agglo Seine Eure;330514;2024;76,7;4,6;15,0;68,0;conforme;1736086;21798;48;114;1234;Non vérifié
+27006;Aizier;27;eau potable : NORD;96361;2024;64,2;2,9;5,3;66,1;non conforme;365182;4400;76;202;158;Non vérifié
+27008;Alizay;27;eau potable : Agglo Seine Eure;330514;2024;76,7;4,6;15,0;68,0;conforme;1736086;27681;48;114;1567;Non vérifié
+27009;Ambenay;27;eau potable : principal;202457;2024;80,2;1,0;4,2;65,8;conforme;106522;7746;39;86;544;Non vérifié
+27010;Amécourt;27;eau potable : principal;96357;2024;75,5;2,0;6,1;66,2;conforme;46720;2881;46;119;172;Non vérifié
+27011;Amfreville-Saint-Amand;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;21305;48;142;1207;Non vérifié
+27012;Amfreville-les-Champs;27;eau potable : principal;96385;2024;77,9;2,1;7,5;66,5;conforme;486705;4833;29;119;449;Non vérifié
+27013;Amfreville-sous-les-Monts;27;eau potable : Agglo Seine Eure;330514;2024;76,7;4,6;15,0;68,0;conforme;1736086;9398;48;114;532;Non vérifié
+27014;Amfreville-sur-Iton;27;eau potable : Agglo Seine Eure;330514;2024;76,7;4,6;15,0;68,0;conforme;1736086;15669;48;114;887;Non vérifié
+27015;Andé;27;eau potable : Agglo Seine Eure;330514;2024;76,7;4,6;15,0;68,0;conforme;1736086;23724;48;114;1343;Non vérifié
+27016;Les Andelys;27;eau potable : principal;96385;2024;77,9;2,1;7,5;66,5;conforme;486705;82945;29;119;7706;Non vérifié
+27017;Angerville-la-Campagne;27;eau potable : Régie EPN;96402;2024;67,4;8,5;17,6;68,5;non conforme;2357900;39509;76;181;1433;Non vérifié
+27018;Appeville-Annebault;27;eau potable;96382;2024;80,2;1,5;5,9;66,2;conforme;291106;9905;27;94;1004;Non vérifié
+27019;Armentières-sur-Avre;27;eau potable : SAEP Eau du Pays de Verneuil;338134;2024;82,3;1,5;6,8;66,4;conforme;132763;1971;33;81;162;Non vérifié
+27020;Arnières-sur-Iton;27;eau potable : Régie EPN;96402;2024;67,4;8,5;17,6;68,5;non conforme;2357900;45299;76;181;1643;Non vérifié
+27021;Asnières;27;eau potable : Régie / PS;96441;2024;67,3;2,1;4,4;65,9;conforme;596973;9775;80;175;335;Non vérifié
+27022;Le Val d'Hazey;27;eau potable : Agglo Seine Eure;330514;2024;76,7;4,6;15,0;68,0;conforme;1736086;90285;48;114;5111;Non vérifié
+27023;Aulnay-sur-Iton;27;eau potable;221114;2024;76,3;1,9;6,0;66,2;conforme;271852;7812;30;118;710;Non vérifié
+27025;Autheuil-Authouillet;27;eau potable : Agglo Seine Eure;330514;2024;76,7;4,6;15,0;68,0;conforme;1736086;16623;48;114;941;Non vérifié
+27026;Authevernes;27;eau potable : principal;96385;2024;77,9;2,1;7,5;66,5;conforme;486705;5059;29;119;470;Non vérifié
+27027;Les Authieux;27;eau potable : régie SUD;96370;2024;64,2;3,4;6,0;66,2;non conforme;407594;8248;77;215;294;Non vérifié
+27028;Authou;27;eau potable : Régie / PS;96441;2024;67,3;2,1;4,4;65,9;conforme;596973;9659;80;175;331;Non vérifié
+27031;Aviron;27;eau potable : Régie EPN;96402;2024;67,4;8,5;17,6;68,5;non conforme;2357900;30217;76;181;1096;Non vérifié
+27032;Chambois;27;eau potable : principal;209098;2024;85,1;0,8;4,8;66,0;conforme;216956;10607;22;67;1322;Non vérifié
+27033;Bacquepuis;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;5419;48;142;307;Non vérifié
+27034;Bacqueville;27;eau potable : principal;96385;2024;77,9;2,1;7,5;66,5;conforme;486705;6609;29;119;614;Non vérifié
+27035;Bailleul-la-Vallée;27;eau potable : Régie / PS;96441;2024;67,3;2,1;4,4;65,9;conforme;596973;2801;80;175;96;Non vérifié
+27036;Bâlines;27;eau potable : SAEP Eau du Pays de Verneuil;338134;2024;82,3;1,5;6,8;66,4;conforme;132763;6632;33;81;545;Non vérifié
+27037;Barc;27;eau potable;96382;2024;80,2;1,5;5,9;66,2;conforme;291106;11503;27;94;1166;Non vérifié
+27038;Les Barils;27;eau potable : SAEP Eau du Pays de Verneuil;338134;2024;82,3;1,5;6,8;66,4;conforme;132763;3286;33;81;270;Non vérifié
+27039;Barneville-sur-Seine;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;9620;48;142;545;Non vérifié
+27040;Barquet;27;eau potable;96382;2024;80,2;1,5;5,9;66,2;conforme;291106;4430;27;94;449;Non vérifié
+27042;Barville;27;eau potable : Régie / PS;96441;2024;67,3;2,1;4,4;65,9;conforme;596973;2510;80;175;86;Non vérifié
+27043;Les Baux-de-Breteuil;27;eau potable : principal;209098;2024;85,1;0,8;4,8;66,0;conforme;216956;5400;22;67;673;Non vérifié
+27044;Les Baux-Sainte-Croix;27;eau potable : Régie EPN;96402;2024;67,4;8,5;17,6;68,5;non conforme;2357900;24014;76;181;871;Non vérifié
+27045;Bazincourt-sur-Epte;27;eau potable : principal;96357;2024;75,5;2,0;6,1;66,2;conforme;46720;13033;46;119;778;Non vérifié
+27046;Bazoques;27;eau potable : Régie / PS;96441;2024;67,3;2,1;4,4;65,9;conforme;596973;4114;80;175;141;Non vérifié
+27047;Beaubray;27;eau potable;221114;2024;76,3;1,9;6,0;66,2;conforme;271852;3686;30;118;335;Non vérifié
+27048;Beauficel-en-Lyons;27;eau potable;96380;2023;60,2;2,7;4,0;65,8;non conforme;36464;9385;118;245;218;Sans anomalie apparente
+27049;Mesnil-en-Ouche;27;eau potable : principal;296914;2024;70,9;1,4;3,4;65,7;conforme;218217;35117;22;172;4414;Non vérifié
+27050;Beaumontel;27;eau potable;96382;2024;80,2;1,5;5,9;66,2;conforme;291106;6304;27;94;639;Non vérifié
+27051;Beaumont-le-Roger;27;eau potable : principal;296914;2024;70,9;1,4;3,4;65,7;conforme;218217;22029;22;172;2769;Non vérifié
+27052;Le Bec-Hellouin;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;6460;48;142;366;Non vérifié
+27053;Le Bec-Thomas;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;3460;48;142;196;Non vérifié
+27054;Bémécourt;27;eau potable : principal;209098;2024;85,1;0,8;4,8;66,0;conforme;216956;4365;22;67;544;Non vérifié
+27055;Bérengeville-la-Campagne;27;eau potable;96355;2024;98,1;0,7;29,0;70,8;conforme;5917;1439;12;51;331;Non vérifié
+27056;Bernay;27;eau potable : principal;296914;2024;70,9;1,4;3,4;65,7;conforme;218217;77688;22;172;9765;Non vérifié
+27057;Bernienville;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;5260;48;142;298;Non vérifié
+27059;Bernouville;27;eau potable : principal;96385;2024;77,9;2,1;7,5;66,5;conforme;486705;3455;29;119;321;Non vérifié
+27061;Berthouville;27;eau potable;96382;2024;80,2;1,5;5,9;66,2;conforme;291106;3256;27;94;330;Non vérifié
+27062;Les Monts du Roumois;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;28930;48;142;1639;Non vérifié
+27063;Berville-la-Campagne;27;eau potable;96382;2024;80,2;1,5;5,9;66,2;conforme;291106;2664;27;94;270;Non vérifié
+27064;Berville-sur-Mer;27;eau potable : BEUZEVILLE;96347;2024;66,3;2,6;5,2;66,0;conforme;531554;17307;71;184;664;Non vérifié
+27065;Beuzeville;27;eau potable : BEUZEVILLE;96347;2024;66,3;2,6;5,2;66,0;conforme;531554;122612;71;184;4704;Non vérifié
+27066;Bézu-la-Forêt;27;eau potable : principal;96385;2024;77,9;2,1;7,5;66,5;conforme;486705;3057;29;119;284;Non vérifié
+27067;Bézu-Saint-Éloi;27;eau potable : principal;96385;2024;77,9;2,1;7,5;66,5;conforme;486705;17502;29;119;1626;Non vérifié
+27068;Bois-Anzeray;27;eau potable : principal;225634;2024;77,5;0,8;2,8;65,6;conforme;168484;2574;37;105;193;Non vérifié
+27069;Bois-Arnault;27;eau potable : principal;202457;2024;80,2;1,0;4,2;65,8;conforme;106522;10024;39;86;704;Non vérifié
+27070;Frenelles-en-Vexin;27;eau potable : principal;96385;2024;77,9;2,1;7,5;66,5;conforme;486705;18148;29;119;1686;Non vérifié
+27071;Le Bois-Hellain;27;eau potable : BEUZEVILLE;96347;2024;66,3;2,6;5,2;66,0;conforme;531554;5708;71;184;219;Non vérifié
+27072;Bois-Jérôme-Saint-Ouen;27;eau potable : principal;96385;2024;77,9;2,1;7,5;66,5;conforme;486705;7976;29;119;741;Non vérifié
+27073;Bois-le-Roi;27;eau potable : régie SUD;96370;2024;64,2;3,4;6,0;66,2;non conforme;407594;34731;77;215;1238;Non vérifié
+27074;Boisney;27;eau potable;96382;2024;80,2;1,5;5,9;66,2;conforme;291106;2891;27;94;293;Non vérifié
+27075;Bois-Normand-près-Lyre;27;eau potable : principal;202457;2024;80,2;1,0;4,2;65,8;conforme;106522;5254;39;86;369;Non vérifié
+27076;Boisset-les-Prévanches;27;eau potable : régie SNA;250214;2024;74,9;4,9;14,7;67,9;conforme;1192930;10800;62;127;476;Non vérifié
+27077;Boissey-le-Châtel;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;15939;48;142;903;Non vérifié
+27078;La Boissière;27;eau potable : régie SNA;250214;2024;74,9;4,9;14,7;67,9;conforme;1192930;5876;62;127;259;Non vérifié
+27079;Boissy-Lamberville;27;eau potable : principal;296914;2024;70,9;1,4;3,4;65,7;conforme;218217;3063;22;172;385;Non vérifié
+27081;Boncourt;27;eau potable : Régie EPN;96402;2024;67,4;8,5;17,6;68,5;non conforme;2357900;5238;76;181;190;Non vérifié
+27082;La Bonneville-sur-Iton;27;eau potable;221114;2024;76,3;1,9;6,0;66,2;conforme;271852;22491;30;118;2044;Non vérifié
+27083;Bonneville-Aptot;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;4589;48;142;260;Non vérifié
+27085;Flancourt-Crescy-en-Roumois;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;28454;48;142;1612;Non vérifié
+27089;Thénouville;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;17898;48;142;1014;Non vérifié
+27090;Bosroumois;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;68345;48;142;3872;Non vérifié
+27091;Bosgouet;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;13997;48;142;793;Non vérifié
+27094;Bosquentin;27;eau potable : principal;96385;2024;77,9;2,1;7,5;66,5;conforme;486705;1389;29;119;129;Non vérifié
+27095;Bosrobert;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;11791;48;142;668;Non vérifié
+27096;Les Bottereaux;27;eau potable : principal;202457;2024;80,2;1,0;4,2;65,8;conforme;106522;4998;39;86;351;Non vérifié
+27097;Bouafles;27;eau potable : régie SNA;250214;2024;74,9;4,9;14,7;67,9;conforme;1192930;14249;62;127;628;Non vérifié
+27098;Bouchevilliers;27;eau potable;92967;2024;84,0;2,2;11,7;67,3;conforme;278569;1257;49;72;70;Non vérifié
+27099;Le Boulay-Morin;27;eau potable : Régie EPN;96402;2024;67,4;8,5;17,6;68,5;non conforme;2357900;22443;76;181;814;Non vérifié
+27100;Boulleville;27;eau potable : BEUZEVILLE;96347;2024;66,3;2,6;5,2;66,0;conforme;531554;32217;71;184;1236;Non vérifié
+27101;Bouquelon;27;eau potable : NORD;96361;2024;64,2;2,9;5,3;66,1;non conforme;365182;13090;76;202;470;Non vérifié
+27102;Bouquetot;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;18904;48;142;1071;Non vérifié
+27103;Bourg-Achard;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;71063;48;142;4026;Non vérifié
+27104;Bourg-Beaudouin;27;eau potable : Général;202458;2024;72,9;3,9;10,4;67,1;conforme;376502;15625;58;174;741;Non vérifié
+27105;Grand Bourgtheroulde;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;70516;48;142;3995;Non vérifié
+27106;Bournainville-Faverolles;27;eau potable : Régie / PS;96441;2024;67,3;2,1;4,4;65,9;conforme;596973;14036;80;175;481;Non vérifié
+27107;Bourneville-Sainte-Croix;27;eau potable : NORD;96361;2024;64,2;2,9;5,3;66,1;non conforme;365182;34869;76;202;1252;Non vérifié
+27108;Bourth;27;eau potable : principal;209098;2024;85,1;0,8;4,8;66,0;conforme;216956;9556;22;67;1191;Non vérifié
+27109;Bray;27;eau potable;96382;2024;80,2;1,5;5,9;66,2;conforme;291106;3927;27;94;398;Non vérifié
+27110;Brestot;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;11085;48;142;628;Non vérifié
+27111;Bretagnolles;27;eau potable : régie SUD;96370;2024;64,2;3,4;6,0;66,2;non conforme;407594;5695;77;215;203;Non vérifié
+27112;Breteuil;27;eau potable : principal;209098;2024;85,1;0,8;4,8;66,0;conforme;216956;34358;22;67;4282;Non vérifié
+27113;Brétigny;27;eau potable : Régie / PS;96441;2024;67,3;2,1;4,4;65,9;conforme;596973;4114;80;175;141;Non vérifié
+27114;Breuilpont;27;eau potable : régie SNA;250214;2020;73,5;6,8;18,8;68,8;conforme;1479272;29605;68;136;1201;Sans anomalie apparente
+27115;Breux-sur-Avre;27;eau potable : principal;209098;2024;85,1;0,8;4,8;66,0;conforme;216956;2616;22;67;326;Non vérifié
+27116;Brionne;27;eau potable;96382;2024;80,2;1,5;5,9;66,2;conforme;291106;41288;27;94;4185;Non vérifié
+27117;Broglie;27;eau potable : principal;296914;2024;70,9;1,4;3,4;65,7;conforme;218217;8401;22;172;1056;Non vérifié
+27118;Brosville;27;eau potable : principal;96358;2024;52,4;9,4;10,4;67,1;non conforme;99499;39446;161;514;670;Non vérifié
+27119;Bueil;27;eau potable : régie SNA;250214;2024;74,9;4,9;14,7;67,9;conforme;1192930;37255;62;127;1642;Non vérifié
+27120;Burey;27;eau potable;221114;2024;76,3;1,9;6,0;66,2;conforme;271852;4511;30;118;410;Non vérifié
+27123;Caillouet-Orgeville;27;eau potable : régie SNA;250214;2024;74,9;4,9;14,7;67,9;conforme;1192930;11117;62;127;490;Non vérifié
+27124;Cailly-sur-Eure;27;eau potable : Agglo Seine Eure;330514;2024;76,7;4,6;15,0;68,0;conforme;1736086;4028;48;114;228;Non vérifié
+27125;Calleville;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;11738;48;142;665;Non vérifié
+27126;Campigny;27;eau potable : Régie / PS;96441;2024;67,3;2,1;4,4;65,9;conforme;596973;31661;80;175;1085;Non vérifié
+27127;Canappeville;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;12303;48;142;697;Non vérifié
+27129;Caorches-Saint-Nicolas;27;eau potable : principal;296914;2024;70,9;1,4;3,4;65,7;conforme;218217;4781;22;172;601;Non vérifié
+27130;Capelle-les-Grands;27;eau potable : principal;296914;2024;70,9;1,4;3,4;65,7;conforme;218217;3453;22;172;434;Non vérifié
+27132;Caugé;27;eau potable : Régie EPN;96402;2024;67,4;8,5;17,6;68,5;non conforme;2357900;22250;76;181;807;Non vérifié
+27133;Caumont;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;20281;48;142;1149;Non vérifié
+27134;Cauverville-en-Roumois;27;eau potable : NORD;96361;2024;64,2;2,9;5,3;66,1;non conforme;365182;5849;76;202;210;Non vérifié
+27135;Cesseville;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;7766;48;142;440;Non vérifié
+27136;Chaignes;27;eau potable : régie SNA;250214;2024;74,9;4,9;14,7;67,9;conforme;1192930;6126;62;127;270;Non vérifié
+27137;Chaise-Dieu-du-Theil;27;eau potable : principal;209098;2024;85,1;0,8;4,8;66,0;conforme;216956;1749;22;67;218;Non vérifié
+27138;Chamblac;27;eau potable : principal;296914;2024;70,9;1,4;3,4;65,7;conforme;218217;2808;22;172;353;Non vérifié
+27139;Chambord;27;eau potable : principal;225634;2024;77,5;0,8;2,8;65,6;conforme;168484;2227;37;105;167;Non vérifié
+27140;Chambray;27;eau potable : régie SNA;250214;2024;74,9;4,9;14,7;67,9;conforme;1192930;8871;62;127;391;Non vérifié
+27141;Champ-Dolent;27;eau potable;221114;2024;76,3;1,9;6,0;66,2;conforme;271852;693;30;118;63;Non vérifié
+27142;Champenard;27;eau potable : Agglo Seine Eure;330514;2024;76,7;4,6;15,0;68,0;conforme;1736086;5193;48;114;294;Non vérifié
+27144;Champigny-la-Futelaye;27;eau potable : régie SUD;96370;2024;64,2;3,4;6,0;66,2;non conforme;407594;7603;77;215;271;Non vérifié
+27146;La Chapelle-Bayvel;27;eau potable : BEUZEVILLE;96347;2024;66,3;2,6;5,2;66,0;conforme;531554;10087;71;184;387;Non vérifié
+27147;La Chapelle-du-Bois-des-Faulx;27;eau potable : Régie EPN;96402;2024;67,4;8,5;17,6;68,5;non conforme;2357900;17563;76;181;637;Non vérifié
+27148;La Chapelle-Gauthier;27;eau potable : principal;225634;2024;77,5;0,8;2,8;65,6;conforme;168484;5414;37;105;406;Non vérifié
+27149;La Chapelle-Hareng;27;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;1601;37;129;119;Non vérifié
+27151;Charleval;27;eau potable : Général;202458;2024;72,9;3,9;10,4;67,1;conforme;376502;35868;58;174;1701;Non vérifié
+27153;Chauvincourt-Provemont;27;eau potable : principal;96385;2024;77,9;2,1;7,5;66,5;conforme;486705;4273;29;119;397;Non vérifié
+27154;Chavigny-Bailleul;27;eau potable : régie SUD;96370;2024;64,2;3,4;6,0;66,2;non conforme;407594;15878;77;215;566;Non vérifié
+27155;Chennebrun;27;eau potable : SAEP Eau du Pays de Verneuil;338134;2024;82,3;1,5;6,8;66,4;conforme;132763;1253;33;81;103;Non vérifié
+27156;Chéronvilliers;27;eau potable : principal;202457;2024;80,2;1,0;4,2;65,8;conforme;106522;6479;39;86;455;Non vérifié
+27157;Marbois;27;eau potable : principal;209098;2024;85,1;0,8;4,8;66,0;conforme;216956;10591;22;67;1320;Non vérifié
+27158;Cierrey;27;eau potable : Régie EPN;96402;2024;67,4;8,5;17,6;68,5;non conforme;2357900;22194;76;181;805;Non vérifié
+27161;Claville;27;eau potable;221114;2024;76,3;1,9;6,0;66,2;conforme;271852;11862;30;118;1078;Non vérifié
+27162;Collandres-Quincarnon;27;eau potable;96382;2024;80,2;1,5;5,9;66,2;conforme;291106;2634;27;94;267;Non vérifié
+27163;Colletot;27;eau potable : NORD;96361;2024;64,2;2,9;5,3;66,1;non conforme;365182;4930;76;202;177;Non vérifié
+27164;Combon;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;14527;48;142;823;Non vérifié
+27165;Conches-en-Ouche;27;eau potable;221114;2024;76,3;1,9;6,0;66,2;conforme;271852;53235;30;118;4838;Non vérifié
+27167;Condé-sur-Risle;27;eau potable : Régie / PS;96441;2024;67,3;2,1;4,4;65,9;conforme;596973;19026;80;175;652;Non vérifié
+27168;Connelles;27;eau potable : Agglo Seine Eure;330514;2024;76,7;4,6;15,0;68,0;conforme;1736086;3003;48;114;170;Non vérifié
+27169;Conteville;27;eau potable : BEUZEVILLE;96347;2024;66,3;2,6;5,2;66,0;conforme;531554;27056;71;184;1038;Non vérifié
+27170;Cormeilles;27;eau potable : Régie / PS;96441;2024;67,3;2,1;4,4;65,9;conforme;596973;32244;80;175;1105;Non vérifié
+27171;Le Cormier;27;eau potable : régie SNA;250214;2024;74,9;4,9;14,7;67,9;conforme;1192930;8191;62;127;361;Non vérifié
+27173;Corneville-la-Fouquetière;27;eau potable : principal;296914;2024;70,9;1,4;3,4;65,7;conforme;218217;963;22;172;121;Non vérifié
+27174;Corneville-sur-Risle;27;eau potable : NORD;96361;2024;64,2;2,9;5,3;66,1;non conforme;365182;38407;76;202;1379;Non vérifié
+27176;Coudray;27;eau potable : principal;96385;2024;77,9;2,1;7,5;66,5;conforme;486705;2325;29;119;216;Non vérifié
+27177;Coudres;27;eau potable : régie SUD;96370;2024;64,2;3,4;6,0;66,2;non conforme;407594;15037;77;215;536;Non vérifié
+27179;Courbépine;27;eau potable : principal;296914;2024;70,9;1,4;3,4;65,7;conforme;218217;5832;22;172;733;Non vérifié
+27180;Courcelles-sur-Seine;27;eau potable : Agglo Seine Eure;330514;2024;76,7;4,6;15,0;68,0;conforme;1736086;38280;48;114;2167;Non vérifié
+27181;Courdemanche;27;eau potable : SA Paquetterie;175394;2024;70,6;3,1;7,3;66,5;conforme;396025;12889;60;164;590;Non vérifié
+27182;Courteilles;27;eau potable : SAEP Eau du Pays de Verneuil;338134;2024;82,3;1,5;6,8;66,4;conforme;132763;2178;33;81;179;Non vérifié
+27183;La Couture-Boussey;27;eau potable : principal;202456;2024;78,0;3,6;12,8;67,6;conforme;189610;33016;39;107;2295;Non vérifié
+27184;Crasville;27;eau potable : Agglo Seine Eure;330514;2024;76,7;4,6;15,0;68,0;conforme;1736086;2137;48;114;121;Non vérifié
+27185;Crestot;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;9602;48;142;544;Non vérifié
+27187;Criquebeuf-la-Campagne;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;6178;48;142;350;Non vérifié
+27188;Criquebeuf-sur-Seine;27;eau potable : Agglo Seine Eure;330514;2024;76,7;4,6;15,0;68,0;conforme;1736086;27363;48;114;1549;Non vérifié
+27189;La Croisille;27;eau potable;221114;2024;76,3;1,9;6,0;66,2;conforme;271852;4456;30;118;405;Non vérifié
+27190;Croisy-sur-Eure;27;eau potable : régie SNA;250214;2024;74,9;4,9;14,7;67,9;conforme;1192930;5037;62;127;222;Non vérifié
+27191;Clef Vallée d'Eure;27;eau potable : Agglo Seine Eure;330514;2024;76,7;4,6;15,0;68,0;conforme;1736086;43986;48;114;2490;Non vérifié
+27192;Crosville-la-Vieille;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;10820;48;142;613;Non vérifié
+27193;Croth;27;eau potable : principal;202456;2024;78,0;3,6;12,8;67,6;conforme;189610;20371;39;107;1416;Non vérifié
+27194;Cuverville;27;eau potable : principal;96385;2024;77,9;2,1;7,5;66,5;conforme;486705;2669;29;119;248;Non vérifié
+27196;Les Damps;27;eau potable : Agglo Seine Eure;330514;2024;76,7;4,6;15,0;68,0;conforme;1736086;23353;48;114;1322;Non vérifié
+27198;Mesnils-sur-Iton;27;eau potable;221114;2024;76,3;1,9;6,0;66,2;conforme;271852;66879;30;118;6078;Non vérifié
+27199;Dangu;27;eau potable;96264;2024;71,5;3,6;9,1;66,8;conforme;9461;9461;49;144;527;Non vérifié
+27200;Dardez;27;eau potable : Régie EPN;96402;2024;67,4;8,5;17,6;68,5;non conforme;2357900;3584;76;181;130;Non vérifié
+27201;Daubeuf-la-Campagne;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;4325;48;142;245;Non vérifié
+27202;Daubeuf-près-Vatteville;27;eau potable : principal;96385;2024;77,9;2,1;7,5;66,5;conforme;486705;4951;29;119;460;Non vérifié
+27203;Douains;27;eau potable : régie SNA;250214;2024;74,9;4,9;14,7;67,9;conforme;1192930;10210;62;127;450;Non vérifié
+27204;Doudeauville-en-Vexin;27;eau potable : principal;96385;2024;77,9;2,1;7,5;66,5;conforme;486705;2809;29;119;261;Non vérifié
+27205;Douville-sur-Andelle;27;eau potable : Général;202458;2024;72,9;3,9;10,4;67,1;conforme;376502;8709;58;174;413;Non vérifié
+27206;Droisy;27;eau potable : régie SUD;96370;2024;64,2;3,4;6,0;66,2;non conforme;407594;12764;77;215;455;Non vérifié
+27207;Drucourt;27;eau potable : Régie / PS;96441;2024;67,3;2,1;4,4;65,9;conforme;596973;16574;80;175;568;Non vérifié
+27208;Duranville;27;eau potable : Régie / PS;96441;2024;67,3;2,1;4,4;65,9;conforme;596973;4085;80;175;140;Non vérifié
+27209;Écaquelon;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;10714;48;142;607;Non vérifié
+27210;Écardenville-la-Campagne;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;7784;48;142;441;Non vérifié
+27212;Écauville;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;2048;48;142;116;Non vérifié
+27213;Vexin-sur-Epte;27;eau potable;118268;2024;95,7;0,5;11,2;67,2;conforme;11164;9351;4;22;6015;Non vérifié
+27214;Écouis;27;eau potable : principal;96385;2024;77,9;2,1;7,5;66,5;conforme;486705;9289;29;119;863;Non vérifié
+27215;Ecquetot;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;6849;48;142;388;Non vérifié
+27216;Émalleville;27;eau potable : Régie EPN;96402;2024;67,4;8,5;17,6;68,5;non conforme;2357900;13013;76;181;472;Non vérifié
+27217;Émanville;27;eau potable;221114;2024;76,3;1,9;6,0;66,2;conforme;271852;5920;30;118;538;Non vérifié
+27218;Épaignes;27;eau potable : BEUZEVILLE;96347;2024;66,3;2,6;5,2;66,0;conforme;531554;41627;71;184;1597;Non vérifié
+27219;Épégard;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;9232;48;142;523;Non vérifié
+27220;Épieds;27;eau potable : régie SUD;96370;2024;64,2;3,4;6,0;66,2;non conforme;407594;10043;77;215;358;Non vérifié
+27222;Épreville-en-Lieuvin;27;eau potable : Régie / PS;96441;2024;67,3;2,1;4,4;65,9;conforme;596973;5807;80;175;199;Non vérifié
+27224;Épreville-près-le-Neubourg;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;7731;48;142;438;Non vérifié
+27226;Étrépagny;27;eau potable : principal;96385;2024;77,9;2,1;7,5;66,5;conforme;486705;39503;29;119;3670;Non vérifié
+27227;Étréville;27;eau potable : NORD;96361;2024;64,2;2,9;5,3;66,1;non conforme;365182;18131;76;202;651;Non vérifié
+27228;Éturqueraye;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;5348;48;142;303;Non vérifié
+27229;Évreux;27;eau potable : Régie EPN;96402;2024;67,4;8,5;17,6;68,5;non conforme;2357900;1360889;76;181;49360;Non vérifié
+27230;Ézy-sur-Eure;27;eau potable : principal;202456;2024;78,0;3,6;12,8;67,6;conforme;189610;52423;39;107;3644;Non vérifié
+27231;Fains;27;eau potable : régie SNA;250214;2024;74,9;4,9;14,7;67,9;conforme;1192930;9280;62;127;409;Non vérifié
+27232;Farceaux;27;eau potable : principal;96385;2024;77,9;2,1;7,5;66,5;conforme;486705;3692;29;119;343;Non vérifié
+27233;Fatouville-Grestain;27;eau potable : BEUZEVILLE;96347;2024;66,3;2,6;5,2;66,0;conforme;531554;18272;71;184;701;Non vérifié
+27234;Fauville;27;eau potable : Régie EPN;96402;2024;67,4;8,5;17,6;68,5;non conforme;2357900;8630;76;181;313;Non vérifié
+27235;Faverolles-la-Campagne;27;eau potable;221114;2024;76,3;1,9;6,0;66,2;conforme;271852;1673;30;118;152;Non vérifié
+27237;Le Favril;27;eau potable : Régie / PS;96441;2024;67,3;2,1;4,4;65,9;conforme;596973;5398;80;175;185;Non vérifié
+27238;Ferrières-Haut-Clocher;27;eau potable;221114;2024;76,3;1,9;6,0;66,2;conforme;271852;12071;30;118;1097;Non vérifié
+27239;Ferrières-Saint-Hilaire;27;eau potable : principal;296914;2024;70,9;1,4;3,4;65,7;conforme;218217;3421;22;172;430;Non vérifié
+27240;La Ferrière-sur-Risle;27;eau potable;96382;2024;80,2;1,5;5,9;66,2;conforme;291106;1884;27;94;191;Non vérifié
+27241;Feuguerolles;27;eau potable;96355;2024;98,1;0,7;29,0;70,8;conforme;5917;726;12;51;167;Non vérifié
+27242;Le Fidelaire;27;eau potable;221114;2024;76,3;1,9;6,0;66,2;conforme;271852;11279;30;118;1025;Non vérifié
+27243;Fiquefleur-Équainville;27;eau potable : BEUZEVILLE;96347;2024;66,3;2,6;5,2;66,0;conforme;531554;19184;71;184;736;Non vérifié
+27245;Fleury-la-Forêt;27;eau potable : principal;96385;2024;77,9;2,1;7,5;66,5;conforme;486705;3143;29;119;292;Non vérifié
+27246;Fleury-sur-Andelle;27;eau potable : Général;202458;2024;72,9;3,9;10,4;67,1;conforme;376502;37977;58;174;1801;Non vérifié
+27247;Flipou;27;eau potable : principal;96385;2024;77,9;2,1;7,5;66,5;conforme;486705;3444;29;119;320;Non vérifié
+27248;Folleville;27;eau potable : Régie / PS;96441;2024;67,3;2,1;4,4;65,9;conforme;596973;5632;80;175;193;Non vérifié
+27249;Fontaine-Bellenger;27;eau potable : Agglo Seine Eure;330514;2024;76,7;4,6;15,0;68,0;conforme;1736086;18654;48;114;1056;Non vérifié
+27251;Fontaine-l'Abbé;27;eau potable : principal;296914;2024;70,9;1,4;3,4;65,7;conforme;218217;4384;22;172;551;Non vérifié
+27252;Fontaine-la-Louvet;27;eau potable : Régie / PS;96441;2024;67,3;2,1;4,4;65,9;conforme;596973;10242;80;175;351;Non vérifié
+27254;Fontaine-sous-Jouy;27;eau potable : Régie EPN;96402;2024;67,4;8,5;17,6;68,5;non conforme;2357900;23408;76;181;849;Non vérifié
+27256;La Forêt-du-Parc;27;eau potable : régie SUD;96370;2024;64,2;3,4;6,0;66,2;non conforme;407594;18011;77;215;642;Non vérifié
+27258;Fort-Moville;27;eau potable : BEUZEVILLE;96347;2024;66,3;2,6;5,2;66,0;conforme;531554;13059;71;184;501;Non vérifié
+27259;Foucrainville;27;eau potable : régie SUD;96370;2024;64,2;3,4;6,0;66,2;non conforme;407594;2497;77;215;89;Non vérifié
+27260;Foulbec;27;eau potable : BEUZEVILLE;96347;2024;66,3;2,6;5,2;66,0;conforme;531554;16734;71;184;642;Non vérifié
+27261;Fouqueville;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;7837;48;142;444;Non vérifié
+27263;Le Perrey;27;eau potable : NORD;96361;2024;64,2;2,9;5,3;66,1;non conforme;365182;34090;76;202;1224;Non vérifié
+27266;Franqueville;27;eau potable;96382;2024;80,2;1,5;5,9;66,2;conforme;291106;2960;27;94;300;Non vérifié
+27267;Freneuse-sur-Risle;27;eau potable : Régie / PS;96441;2024;67,3;2,1;4,4;65,9;conforme;596973;9659;80;175;331;Non vérifié
+27269;Fresne-Cauverville;27;eau potable : Régie / PS;96441;2024;67,3;2,1;4,4;65,9;conforme;596973;5515;80;175;189;Non vérifié
+27271;Fresney;27;eau potable : régie SUD;96370;2024;64,2;3,4;6,0;66,2;non conforme;407594;8809;77;215;314;Non vérifié
+27273;Gadencourt;27;eau potable : régie SNA;250214;2020;73,5;6,8;18,8;68,8;conforme;1479272;8973;68;136;364;Sans anomalie apparente
+27275;Gaillon;27;eau potable : Agglo Seine Eure;330514;2024;76,7;4,6;15,0;68,0;conforme;1736086;119167;48;114;6746;Non vérifié
+27276;Gamaches-en-Vexin;27;eau potable : principal;96385;2024;77,9;2,1;7,5;66,5;conforme;486705;3175;29;119;295;Non vérifié
+27277;La Baronnie;27;eau potable : régie SUD;96370;2024;64,2;3,4;6,0;66,2;non conforme;407594;21629;77;215;771;Non vérifié
+27278;Garennes-sur-Eure;27;eau potable : principal;202456;2024;78,0;3,6;12,8;67,6;conforme;189610;28715;39;107;1996;Non vérifié
+27279;Gasny;27;eau potable : régie SNA;250214;2024;74,9;4,9;14,7;67,9;conforme;1192930;69473;62;127;3062;Non vérifié
+27280;Gauciel;27;eau potable : Régie EPN;96402;2024;67,4;8,5;17,6;68,5;non conforme;2357900;30796;76;181;1117;Non vérifié
+27281;Gaudreville-la-Rivière;27;eau potable;221114;2024;76,3;1,9;6,0;66,2;conforme;271852;2575;30;118;234;Non vérifié
+27282;Gauville-la-Campagne;27;eau potable : Régie EPN;96402;2024;67,4;8,5;17,6;68,5;non conforme;2357900;17976;76;181;652;Non vérifié
+27284;Gisors;27;eau potable;96280;2024;81,9;7,0;31,6;71,3;conforme;180536;180536;40;114;12410;Non vérifié
+27285;Giverny;27;eau potable : régie SNA;250214;2024;74,9;4,9;14,7;67,9;conforme;1192930;9756;62;127;430;Non vérifié
+27286;Giverville;27;eau potable : Régie / PS;96441;2024;67,3;2,1;4,4;65,9;conforme;596973;11118;80;175;381;Non vérifié
+27287;Glisolles;27;eau potable;221114;2024;76,3;1,9;6,0;66,2;conforme;271852;9221;30;118;838;Non vérifié
+27288;Glos-sur-Risle;27;eau potable;96382;2024;80,2;1,5;5,9;66,2;conforme;291106;5762;27;94;584;Non vérifié
+27289;La Goulafrière;27;eau potable : principal;225634;2024;77,5;0,8;2,8;65,6;conforme;168484;2267;37;105;170;Non vérifié
+27290;Goupil-Othon;27;eau potable;96382;2024;80,2;1,5;5,9;66,2;conforme;291106;12036;27;94;1220;Non vérifié
+27291;Gournay-le-Guérin;27;eau potable : SAEP Eau du Pays de Verneuil;338134;2024;82,3;1,5;6,8;66,4;conforme;132763;1436;33;81;118;Non vérifié
+27294;Val d'Orger;27;eau potable : principal;96385;2024;77,9;2,1;7,5;66,5;conforme;486705;10613;29;119;986;Non vérifié
+27295;Grand-Camp;27;eau potable : principal;296914;2024;70,9;1,4;3,4;65,7;conforme;218217;3596;22;172;452;Non vérifié
+27298;Graveron-Sémerville;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;5684;48;142;322;Non vérifié
+27299;Gravigny;27;eau potable : Régie EPN;96402;2024;67,4;8,5;17,6;68,5;non conforme;2357900;110614;76;181;4012;Non vérifié
+27300;Grosley-sur-Risle;27;eau potable;96382;2024;80,2;1,5;5,9;66,2;conforme;291106;5150;27;94;522;Non vérifié
+27301;Grossoeuvre;27;eau potable : régie SUD;96370;2024;64,2;3,4;6,0;66,2;non conforme;407594;40818;77;215;1455;Non vérifié
+27302;Le Bosc du Theil;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;23123;48;142;1310;Non vérifié
+27304;Guerny;27;eau potable;96287;2024;71,5;1,3;3,2;65,6;conforme;2629;2629;48;151;150;Non vérifié
+27306;Guichainville;27;eau potable : Régie EPN;96402;2024;67,4;8,5;17,6;68,5;non conforme;2357900;85111;76;181;3087;Non vérifié
+27307;Guiseniers;27;eau potable : principal;96385;2024;77,9;2,1;7,5;66,5;conforme;486705;5307;29;119;493;Non vérifié
+27309;L' Habit;27;eau potable : principal;202456;2024;78,0;3,6;12,8;67,6;conforme;189610;6848;39;107;476;Non vérifié
+27310;Hacqueville;27;eau potable : principal;96385;2024;77,9;2,1;7,5;66,5;conforme;486705;4241;29;119;394;Non vérifié
+27311;Harcourt;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;18746;48;142;1062;Non vérifié
+27312;Hardencourt-Cocherel;27;eau potable : régie SNA;250214;2024;74,9;4,9;14,7;67,9;conforme;1192930;6761;62;127;298;Non vérifié
+27313;La Harengère;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;10379;48;142;588;Non vérifié
+27315;Harquency;27;eau potable : principal;96385;2024;77,9;2,1;7,5;66,5;conforme;486705;2917;29;119;271;Non vérifié
+27316;Hauville;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;22011;48;142;1247;Non vérifié
+27317;La Haye-Aubrée;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;7096;48;142;402;Non vérifié
+27318;La Haye-de-Calleville;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;4466;48;142;253;Non vérifié
+27319;La Haye-de-Routot;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;5031;48;142;285;Non vérifié
+27320;La Haye-du-Theil;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;5843;48;142;331;Non vérifié
+27321;La Haye-le-Comte;27;eau potable : Agglo Seine Eure;330514;2024;76,7;4,6;15,0;68,0;conforme;1736086;2667;48;114;151;Non vérifié
+27322;La Haye-Malherbe;27;eau potable : Agglo Seine Eure;330514;2024;76,7;4,6;15,0;68,0;conforme;1736086;24890;48;114;1409;Non vérifié
+27323;La Haye-Saint-Sylvestre;27;eau potable : principal;225634;2024;77,5;0,8;2,8;65,6;conforme;168484;3800;37;105;285;Non vérifié
+27324;Hébécourt;27;eau potable : principal;96357;2024;75,5;2,0;6,1;66,2;conforme;46720;10520;46;119;628;Non vérifié
+27325;Hecmanville;27;eau potable;96382;2024;80,2;1,5;5,9;66,2;conforme;291106;1963;27;94;199;Non vérifié
+27326;Hécourt;27;eau potable : régie SNA;250214;2020;73,5;6,8;18,8;68,8;conforme;1479272;8011;68;136;325;Sans anomalie apparente
+27327;Hectomare;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;3883;48;142;220;Non vérifié
+27329;Hennezis;27;eau potable : principal;96385;2024;77,9;2,1;7,5;66,5;conforme;486705;8008;29;119;744;Non vérifié
+27330;Herqueville;27;eau potable : Agglo Seine Eure;330514;2024;76,7;4,6;15,0;68,0;conforme;1736086;2155;48;114;122;Non vérifié
+27331;Heubécourt-Haricourt;27;eau potable : principal;96385;2024;77,9;2,1;7,5;66,5;conforme;486705;4984;29;119;463;Non vérifié
+27332;Heudebouville;27;eau potable : Agglo Seine Eure;330514;2024;76,7;4,6;15,0;68,0;conforme;1736086;14503;48;114;821;Non vérifié
+27333;Heudicourt;27;eau potable : principal;96385;2024;77,9;2,1;7,5;66,5;conforme;486705;7675;29;119;713;Non vérifié
+27334;Heudreville-en-Lieuvin;27;eau potable : Régie / PS;96441;2024;67,3;2,1;4,4;65,9;conforme;596973;3414;80;175;117;Non vérifié
+27335;Heudreville-sur-Eure;27;eau potable : Agglo Seine Eure;330514;2024;76,7;4,6;15,0;68,0;conforme;1736086;18813;48;114;1065;Non vérifié
+27336;La Heunière;27;eau potable : régie SNA;250214;2024;74,9;4,9;14,7;67,9;conforme;1192930;10210;62;127;450;Non vérifié
+27337;Heuqueville;27;eau potable : principal;96385;2024;77,9;2,1;7,5;66,5;conforme;486705;3800;29;119;353;Non vérifié
+27338;Les Hogues;27;eau potable : Général;202458;2024;72,9;3,9;10,4;67,1;conforme;376502;14212;58;174;674;Non vérifié
+27339;Hondouville;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;14597;48;142;827;Non vérifié
+27340;Honguemare-Guenouville;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;12426;48;142;704;Non vérifié
+27341;L' Hosmes;27;eau potable : SAEP Eau du Pays de Verneuil;338134;2024;82,3;1,5;6,8;66,4;conforme;132763;791;33;81;65;Non vérifié
+27342;Houetteville;27;eau potable : principal;96358;2024;52,4;9,4;10,4;67,1;non conforme;99499;11363;161;514;193;Non vérifié
+27343;Houlbec-Cocherel;27;eau potable : régie SNA;250214;2024;74,9;4,9;14,7;67,9;conforme;1192930;29042;62;127;1280;Non vérifié
+27345;La Houssaye;27;eau potable;96382;2024;80,2;1,5;5,9;66,2;conforme;291106;2062;27;94;209;Non vérifié
+27346;Houville-en-Vexin;27;eau potable : principal;96385;2024;77,9;2,1;7,5;66,5;conforme;486705;2497;29;119;232;Non vérifié
+27347;Huest;27;eau potable : Régie EPN;96402;2024;67,4;8,5;17,6;68,5;non conforme;2357900;21367;76;181;775;Non vérifié
+27348;Igoville;27;eau potable : Agglo Seine Eure;330514;2024;76,7;4,6;15,0;68,0;conforme;1736086;29836;48;114;1689;Non vérifié
+27349;Illeville-sur-Montfort;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;15109;48;142;856;Non vérifié
+27350;Illiers-l'Évêque;27;eau potable : SA Paquetterie;175394;2024;70,6;3,1;7,3;66,5;conforme;396025;22152;60;164;1014;Non vérifié
+27351;Incarville;27;eau potable : Agglo Seine Eure;330514;2024;76,7;4,6;15,0;68,0;conforme;1736086;23901;48;114;1353;Non vérifié
+27353;Irreville;27;eau potable : Régie EPN;96402;2024;67,4;8,5;17,6;68,5;non conforme;2357900;13069;76;181;474;Non vérifié
+27354;Iville;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;7519;48;142;426;Non vérifié
+27355;Ivry-la-Bataille;27;eau potable : principal;202456;2024;78,0;3,6;12,8;67,6;conforme;189610;37534;39;107;2609;Non vérifié
+27358;Jouy-sur-Eure;27;eau potable : Régie EPN;96402;2024;67,4;8,5;17,6;68,5;non conforme;2357900;14916;76;181;541;Non vérifié
+27359;Juignettes;27;eau potable : principal;202457;2024;80,2;1,0;4,2;65,8;conforme;106522;4015;39;86;282;Non vérifié
+27360;Jumelles;27;eau potable : régie SUD;96370;2024;64,2;3,4;6,0;66,2;non conforme;407594;9089;77;215;324;Non vérifié
+27361;La Lande-Saint-Léger;27;eau potable : BEUZEVILLE;96347;2024;66,3;2,6;5,2;66,0;conforme;531554;10557;71;184;405;Non vérifié
+27363;Le Landin;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;4483;48;142;254;Non vérifié
+27364;Launay;27;eau potable;96382;2024;80,2;1,5;5,9;66,2;conforme;291106;1746;27;94;177;Non vérifié
+27365;Léry;27;eau potable : Agglo Seine Eure;330514;2024;76,7;4,6;15,0;68,0;conforme;1736086;34888;48;114;1975;Non vérifié
+27366;Letteguives;27;eau potable : Général;202458;2024;72,9;3,9;10,4;67,1;conforme;376502;4407;58;174;209;Non vérifié
+27367;Lieurey;27;eau potable : Régie / PS;96441;2024;67,3;2,1;4,4;65,9;conforme;596973;42749;80;175;1465;Non vérifié
+27368;Lignerolles;27;eau potable : régie SUD;96370;2024;64,2;3,4;6,0;66,2;non conforme;407594;10155;77;215;362;Non vérifié
+27369;Lilly;27;eau potable : principal;96385;2024;77,9;2,1;7,5;66,5;conforme;486705;786;29;119;73;Non vérifié
+27370;Lisors;27;eau potable;96293;2020;100,0;0,0;25,0;70,0;conforme;0;0;0;0;290;Sans anomalie apparente
+27371;Livet-sur-Authou;27;eau potable : Régie / PS;96441;2024;67,3;2,1;4,4;65,9;conforme;596973;4756;80;175;163;Non vérifié
+27372;Longchamps;27;eau potable : principal;96385;2024;77,9;2,1;7,5;66,5;conforme;486705;7126;29;119;662;Non vérifié
+27373;Lorleau;27;eau potable;96380;2023;60,2;2,7;4,0;65,8;non conforme;36464;4262;118;245;99;Sans anomalie apparente
+27374;Louversey;27;eau potable;221114;2024;76,3;1,9;6,0;66,2;conforme;271852;5469;30;118;497;Non vérifié
+27375;Louviers;27;eau potable : Agglo Seine Eure;330514;2024;76,7;4,6;15,0;68,0;conforme;1736086;330421;48;114;18705;Non vérifié
+27376;Louye;27;eau potable : SA Paquetterie;175394;2024;70,6;3,1;7,3;66,5;conforme;396025;4588;60;164;210;Non vérifié
+27377;Lyons-la-Forêt;27;eau potable : Général;202458;2024;72,9;3,9;10,4;67,1;conforme;376502;15941;58;174;756;Non vérifié
+27378;La Madeleine-de-Nonancourt;27;eau potable : SA Paquetterie;175394;2024;70,6;3,1;7,3;66,5;conforme;396025;25123;60;164;1150;Non vérifié
+27379;Mainneville;27;eau potable : principal;96357;2024;75,5;2,0;6,1;66,2;conforme;46720;7454;46;119;445;Non vérifié
+27380;Malleville-sur-le-Bec;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;4660;48;142;264;Non vérifié
+27381;Malouy;27;eau potable : Régie / PS;96441;2024;67,3;2,1;4,4;65,9;conforme;596973;5077;80;175;174;Non vérifié
+27382;Mandeville;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;6284;48;142;356;Non vérifié
+27383;Mandres;27;eau potable : principal;209098;2024;85,1;0,8;4,8;66,0;conforme;216956;2792;22;67;348;Non vérifié
+27384;Manneville-la-Raoult;27;eau potable : BEUZEVILLE;96347;2024;66,3;2,6;5,2;66,0;conforme;531554;12355;71;184;474;Non vérifié
+27385;Manneville-sur-Risle;27;eau potable : NORD;96361;2024;64,2;2,9;5,3;66,1;non conforme;365182;39465;76;202;1417;Non vérifié
+27386;Le Manoir;27;eau potable : Agglo Seine Eure;330514;2024;76,7;4,6;15,0;68,0;conforme;1736086;22470;48;114;1272;Non vérifié
+27388;Marais-Vernier;27;eau potable : NORD;96361;2024;64,2;2,9;5,3;66,1;non conforme;365182;13062;76;202;469;Non vérifié
+27389;Marbeuf;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;8667;48;142;491;Non vérifié
+27390;Marcilly-la-Campagne;27;eau potable : régie SUD;96370;2024;64,2;3,4;6,0;66,2;non conforme;407594;31364;77;215;1118;Non vérifié
+27391;Marcilly-sur-Eure;27;eau potable : SA Paquetterie;175394;2024;70,6;3,1;7,3;66,5;conforme;396025;35107;60;164;1607;Non vérifié
+27392;Martagny;27;eau potable;92967;2024;84,0;2,2;11,7;67,3;conforme;278569;2442;49;72;136;Non vérifié
+27393;Martainville;27;eau potable : BEUZEVILLE;96347;2024;66,3;2,6;5,2;66,0;conforme;531554;12981;71;184;498;Non vérifié
+27394;Martot;27;eau potable : Agglo Seine Eure;330514;2024;76,7;4,6;15,0;68,0;conforme;1736086;8197;48;114;464;Non vérifié
+27395;Mélicourt;27;eau potable : principal;225634;2024;77,5;0,8;2,8;65,6;conforme;168484;1160;37;105;87;Non vérifié
+27396;Ménesqueville;27;eau potable : Général;202458;2024;72,9;3,9;10,4;67,1;conforme;376502;10227;58;174;485;Non vérifié
+27397;Ménilles;27;eau potable : régie SNA;250214;2024;74,9;4,9;14,7;67,9;conforme;1192930;38752;62;127;1708;Non vérifié
+27398;Menneval;27;eau potable;96299;2024;75,2;3,2;9,7;66,9;conforme;26479;26479;48;120;1527;Non vérifié
+27399;Mercey;27;eau potable : régie SNA;250214;2024;74,9;4,9;14,7;67,9;conforme;1192930;1293;62;127;57;Non vérifié
+27400;Merey;27;eau potable : régie SNA;250214;2020;73,5;6,8;18,8;68,8;conforme;1479272;8554;68;136;347;Sans anomalie apparente
+27401;Le Mesnil-Fuguet;27;eau potable : Régie EPN;96402;2024;67,4;8,5;17,6;68,5;non conforme;2357900;5514;76;181;200;Non vérifié
+27403;Le Mesnil-Jourdain;27;eau potable : Agglo Seine Eure;330514;2024;76,7;4,6;15,0;68,0;conforme;1736086;4169;48;114;236;Non vérifié
+27404;Mesnil-Rousset;27;eau potable : principal;225634;2024;77,5;0,8;2,8;65,6;conforme;168484;1093;37;105;82;Non vérifié
+27405;Mesnil-sous-Vienne;27;eau potable : principal;96357;2024;75,5;2,0;6,1;66,2;conforme;46720;1709;46;119;102;Non vérifié
+27406;Mesnil-sur-l'Estrée;27;eau potable : SA Paquetterie;175394;2024;70,6;3,1;7,3;66,5;conforme;396025;20579;60;164;942;Non vérifié
+27407;Mesnil-Verclives;27;eau potable : principal;96385;2024;77,9;2,1;7,5;66,5;conforme;486705;3121;29;119;290;Non vérifié
+27408;Mézières-en-Vexin;27;eau potable : principal;96385;2024;77,9;2,1;7,5;66,5;conforme;486705;6534;29;119;607;Non vérifié
+27410;Miserey;27;eau potable : Régie EPN;96402;2024;67,4;8,5;17,6;68,5;non conforme;2357900;16239;76;181;589;Non vérifié
+27411;Moisville;27;eau potable : régie SUD;96370;2024;64,2;3,4;6,0;66,2;non conforme;407594;6537;77;215;233;Non vérifié
+27412;Terres de Bord;27;eau potable : Agglo Seine Eure;330514;2024;76,7;4,6;15,0;68,0;conforme;1736086;27858;48;114;1577;Non vérifié
+27413;Montfort-sur-Risle;27;eau potable;96382;2024;80,2;1,5;5,9;66,2;conforme;291106;7577;27;94;768;Non vérifié
+27414;Montreuil-l'Argillé;27;eau potable : principal;225634;2024;77,5;0,8;2,8;65,6;conforme;168484;10441;37;105;783;Non vérifié
+27415;Morainville-Jouveaux;27;eau potable : Régie / PS;96441;2024;67,3;2,1;4,4;65,9;conforme;596973;10943;80;175;375;Non vérifié
+27417;Morgny;27;eau potable : principal;96385;2024;77,9;2,1;7,5;66,5;conforme;486705;6996;29;119;650;Non vérifié
+27418;Morsan;27;eau potable : Régie / PS;96441;2024;67,3;2,1;4,4;65,9;conforme;596973;3618;80;175;124;Non vérifié
+27419;Mouettes;27;eau potable : principal;202456;2024;78,0;3,6;12,8;67,6;conforme;189610;10703;39;107;744;Non vérifié
+27420;Mouflaines;27;eau potable : principal;96385;2024;77,9;2,1;7,5;66,5;conforme;486705;1711;29;119;159;Non vérifié
+27421;Mousseaux-Neuville;27;eau potable : régie SUD;96370;2024;64,2;3,4;6,0;66,2;non conforme;407594;17842;77;215;636;Non vérifié
+27422;Muids;27;eau potable : principal;96385;2024;77,9;2,1;7,5;66,5;conforme;486705;9268;29;119;861;Non vérifié
+27423;Muzy;27;eau potable : SA Paquetterie;175394;2024;70,6;3,1;7,3;66,5;conforme;396025;16778;60;164;768;Non vérifié
+27424;Nagel-Séez-Mesnil;27;eau potable;221114;2024;76,3;1,9;6,0;66,2;conforme;271852;3631;30;118;330;Non vérifié
+27425;Nassandres sur Risle;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;40174;48;142;2276;Non vérifié
+27426;Neaufles-Saint-Martin;27;eau potable : principal;96385;2024;77,9;2,1;7,5;66,5;conforme;486705;13874;29;119;1289;Non vérifié
+27427;Neaufles-Auvergny;27;eau potable : principal;202457;2024;80,2;1,0;4,2;65,8;conforme;106522;5838;39;86;410;Non vérifié
+27428;Le Neubourg;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;74117;48;142;4199;Non vérifié
+27429;Neuilly;27;eau potable : régie SNA;250214;2020;73,5;6,8;18,8;68,8;conforme;1479272;4141;68;136;168;Sans anomalie apparente
+27430;La Neuve-Grange;27;eau potable : principal;96385;2024;77,9;2,1;7,5;66,5;conforme;486705;4187;29;119;389;Non vérifié
+27431;La Neuve-Lyre;27;eau potable : principal;202457;2024;80,2;1,0;4,2;65,8;conforme;106522;7276;39;86;511;Non vérifié
+27432;La Neuville-du-Bosc;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;12462;48;142;706;Non vérifié
+27433;Neuville-sur-Authou;27;eau potable : Régie / PS;96441;2024;67,3;2,1;4,4;65,9;conforme;596973;5573;80;175;191;Non vérifié
+27434;Noards;27;eau potable : Régie / PS;96441;2024;67,3;2,1;4,4;65,9;conforme;596973;1897;80;175;65;Non vérifié
+27435;La Noë-Poulain;27;eau potable : Régie / PS;96441;2024;67,3;2,1;4,4;65,9;conforme;596973;7237;80;175;248;Non vérifié
+27436;Nogent-le-Sec;27;eau potable;221114;2024;76,3;1,9;6,0;66,2;conforme;271852;4654;30;118;423;Non vérifié
+27437;Nojeon-en-Vexin;27;eau potable : principal;96385;2024;77,9;2,1;7,5;66,5;conforme;486705;3789;29;119;352;Non vérifié
+27438;Nonancourt;27;eau potable : SA Paquetterie;175394;2024;70,6;3,1;7,3;66,5;conforme;396025;50705;60;164;2321;Non vérifié
+27439;Normanville;27;eau potable : Régie EPN;96402;2024;67,4;8,5;17,6;68,5;non conforme;2357900;32423;76;181;1176;Non vérifié
+27440;Notre-Dame-de-l'Isle;27;eau potable : régie SNA;250214;2024;74,9;4,9;14,7;67,9;conforme;1192930;14294;62;127;630;Non vérifié
+27441;Notre-Dame-d'Épine;27;eau potable : Régie / PS;96441;2024;67,3;2,1;4,4;65,9;conforme;596973;1955;80;175;67;Non vérifié
+27442;Notre-Dame-du-Hamel;27;eau potable : principal;225634;2024;77,5;0,8;2,8;65,6;conforme;168484;2574;37;105;193;Non vérifié
+27444;Le Noyer-en-Ouche;27;eau potable : principal;296914;2024;70,9;1,4;3,4;65,7;conforme;218217;1535;22;172;193;Non vérifié
+27445;Noyers;27;eau potable : principal;96385;2024;77,9;2,1;7,5;66,5;conforme;486705;2766;29;119;257;Non vérifié
+27446;Ormes;27;eau potable;221114;2024;76,3;1,9;6,0;66,2;conforme;271852;4963;30;118;451;Non vérifié
+27447;Val-Doré;27;eau potable;221114;2024;76,3;1,9;6,0;66,2;conforme;271852;9793;30;118;890;Non vérifié
+27448;Pacy-sur-Eure;27;eau potable : régie SNA;250214;2020;73,5;6,8;18,8;68,8;conforme;1479272;123918;68;136;5027;Sans anomalie apparente
+27451;Parville;27;eau potable : Régie EPN;96402;2024;67,4;8,5;17,6;68,5;non conforme;2357900;8216;76;181;298;Non vérifié
+27453;Perriers-sur-Andelle;27;eau potable : Général;202458;2024;72,9;3,9;10,4;67,1;conforme;376502;37619;58;174;1784;Non vérifié
+27454;Perruel;27;eau potable : Général;202458;2024;72,9;3,9;10,4;67,1;conforme;376502;9805;58;174;465;Non vérifié
+27455;Piencourt;27;eau potable : Régie / PS;96441;2024;67,3;2,1;4,4;65,9;conforme;596973;4961;80;175;170;Non vérifié
+27456;Pinterville;27;eau potable : Agglo Seine Eure;330514;2024;76,7;4,6;15,0;68,0;conforme;1736086;14362;48;114;813;Non vérifié
+27457;Piseux;27;eau potable : SAEP Eau du Pays de Verneuil;338134;2024;82,3;1,5;6,8;66,4;conforme;132763;8214;33;81;675;Non vérifié
+27458;Pîtres;27;eau potable : Agglo Seine Eure;330514;2024;76,7;4,6;15,0;68,0;conforme;1736086;45734;48;114;2589;Non vérifié
+27459;Les Places;27;eau potable : Régie / PS;96441;2024;67,3;2,1;4,4;65,9;conforme;596973;2130;80;175;73;Non vérifié
+27460;Plainville;27;eau potable : principal;296914;2024;70,9;1,4;3,4;65,7;conforme;218217;1623;22;172;204;Non vérifié
+27462;Le Planquay;27;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;2125;37;129;158;Non vérifié
+27463;Plasnes;27;eau potable;96382;2024;80,2;1,5;5,9;66,2;conforme;291106;7192;27;94;729;Non vérifié
+27464;Le Plessis-Grohan;27;eau potable : Régie EPN;96402;2024;67,4;8,5;17,6;68,5;non conforme;2357900;26082;76;181;946;Non vérifié
+27465;Le Plessis-Hébert;27;eau potable : régie SNA;250214;2024;74,9;4,9;14,7;67,9;conforme;1192930;9166;62;127;404;Non vérifié
+27466;Le Plessis-Sainte-Opportune;27;eau potable;96382;2024;80,2;1,5;5,9;66,2;conforme;291106;3463;27;94;351;Non vérifié
+27467;Pont-Audemer;27;eau potable : SUD;96371;2024;73,2;6,0;16,3;68,3;conforme;206035;206035;56;134;10023;Non vérifié
+27468;Pont-Authou;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;10308;48;142;584;Non vérifié
+27469;Pont-de-l'Arche;27;eau potable : Agglo Seine Eure;330514;2024;76,7;4,6;15,0;68,0;conforme;1736086;73009;48;114;4133;Non vérifié
+27470;Pont-Saint-Pierre;27;eau potable : Général;202458;2024;72,9;3,9;10,4;67,1;conforme;376502;24355;58;174;1155;Non vérifié
+27471;Porte-de-Seine;27;eau potable : Agglo Seine Eure;330514;2024;76,7;4,6;15,0;68,0;conforme;1736086;3674;48;114;208;Non vérifié
+27472;Portes;27;eau potable;221114;2024;76,3;1,9;6,0;66,2;conforme;271852;2872;30;118;261;Non vérifié
+27473;Port-Mort;27;eau potable : régie SNA;250214;2024;74,9;4,9;14,7;67,9;conforme;1192930;20170;62;127;889;Non vérifié
+27474;Poses;27;eau potable : Agglo Seine Eure;330514;2024;76,7;4,6;15,0;68,0;conforme;1736086;19908;48;114;1127;Non vérifié
+27475;La Poterie-Mathieu;27;eau potable : Régie / PS;96441;2024;67,3;2,1;4,4;65,9;conforme;596973;4902;80;175;168;Non vérifié
+27476;Les Préaux;27;eau potable : BEUZEVILLE;96347;2024;66,3;2,6;5,2;66,0;conforme;531554;10322;71;184;396;Non vérifié
+27477;Pressagny-l'Orgueilleux;27;eau potable : régie SNA;250214;2024;74,9;4,9;14,7;67,9;conforme;1192930;15564;62;127;686;Non vérifié
+27478;Prey;27;eau potable : Régie EPN;96402;2024;67,4;8,5;17,6;68,5;non conforme;2357900;26275;76;181;953;Non vérifié
+27480;Puchay;27;eau potable : principal;96385;2024;77,9;2,1;7,5;66,5;conforme;486705;6512;29;119;605;Non vérifié
+27481;Pullay;27;eau potable : SAEP Eau du Pays de Verneuil;338134;2024;82,3;1,5;6,8;66,4;conforme;132763;4636;33;81;381;Non vérifié
+27482;La Pyle;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;2665;48;142;151;Non vérifié
+27483;Quatremare;27;eau potable : Agglo Seine Eure;330514;2024;76,7;4,6;15,0;68,0;conforme;1736086;7949;48;114;450;Non vérifié
+27485;Quillebeuf-sur-Seine;27;eau potable : NORD;96361;2024;64,2;2,9;5,3;66,1;non conforme;365182;23924;76;202;859;Non vérifié
+27486;Quittebeuf;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;11579;48;142;656;Non vérifié
+27487;Radepont;27;eau potable : Général;202458;2024;72,9;3,9;10,4;67,1;conforme;376502;13474;58;174;639;Non vérifié
+27488;Renneville;27;eau potable : Général;202458;2024;72,9;3,9;10,4;67,1;conforme;376502;4386;58;174;208;Non vérifié
+27489;Reuilly;27;eau potable : Régie EPN;96402;2024;67,4;8,5;17,6;68,5;non conforme;2357900;14061;76;181;510;Non vérifié
+27490;Richeville;27;eau potable : principal;96385;2024;77,9;2,1;7,5;66,5;conforme;486705;2842;29;119;264;Non vérifié
+27492;Romilly-la-Puthenaye;27;eau potable;96382;2024;80,2;1,5;5,9;66,2;conforme;291106;3315;27;94;336;Non vérifié
+27493;Romilly-sur-Andelle;27;eau potable : Général;202458;2024;72,9;3,9;10,4;67,1;conforme;376502;68194;58;174;3234;Non vérifié
+27495;La Roquette;27;eau potable : principal;96385;2024;77,9;2,1;7,5;66,5;conforme;486705;2508;29;119;233;Non vérifié
+27496;Rosay-sur-Lieure;27;eau potable : Général;202458;2024;72,9;3,9;10,4;67,1;conforme;376502;10881;58;174;516;Non vérifié
+27497;Rougemontier;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;18216;48;142;1032;Non vérifié
+27498;Rouge-Perriers;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;6602;48;142;374;Non vérifié
+27500;Routot;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;29089;48;142;1648;Non vérifié
+27501;Rouvray;27;eau potable : régie SNA;250214;2024;74,9;4,9;14,7;67,9;conforme;1192930;5808;62;127;256;Non vérifié
+27502;Rugles;27;eau potable : principal;202457;2024;80,2;1,0;4,2;65,8;conforme;106522;31311;39;86;2199;Non vérifié
+27504;Sacquenville;27;eau potable : Régie EPN;96402;2024;67,4;8,5;17,6;68,5;non conforme;2357900;33223;76;181;1205;Non vérifié
+27505;Saint-Agnan-de-Cernières;27;eau potable : principal;225634;2024;77,5;0,8;2,8;65,6;conforme;168484;1974;37;105;148;Non vérifié
+27507;Saint-André-de-l'Eure;27;eau potable : régie SUD;96370;2024;64,2;3,4;6,0;66,2;non conforme;407594;107418;77;215;3829;Non vérifié
+27508;Saint-Antonin-de-Sommaire;27;eau potable : principal;202457;2024;80,2;1,0;4,2;65,8;conforme;106522;3076;39;86;216;Non vérifié
+27511;Saint-Aubin-d'Écrosville;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;13397;48;142;759;Non vérifié
+27512;Saint-Aubin-de-Scellon;27;eau potable : Régie / PS;96441;2024;67,3;2,1;4,4;65,9;conforme;596973;9513;80;175;326;Non vérifié
+27514;Saint-Aubin-du-Thenney;27;eau potable : principal;225634;2024;77,5;0,8;2,8;65,6;conforme;168484;4614;37;105;346;Non vérifié
+27516;Treis-Sants-en-Ouche;27;eau potable : principal;296914;2024;70,9;1,4;3,4;65,7;conforme;218217;10510;22;172;1321;Non vérifié
+27517;Saint-Aubin-sur-Gaillon;27;eau potable : Agglo Seine Eure;330514;2024;76,7;4,6;15,0;68,0;conforme;1736086;38032;48;114;2153;Non vérifié
+27518;Saint-Aubin-sur-Quillebeuf;27;eau potable : NORD;96361;2024;64,2;2,9;5,3;66,1;non conforme;365182;20860;76;202;749;Non vérifié
+27520;Saint-Benoît-des-Ombres;27;eau potable : Régie / PS;96441;2024;67,3;2,1;4,4;65,9;conforme;596973;4173;80;175;143;Non vérifié
+27521;Saint-Christophe-sur-Avre;27;eau potable : SAEP Eau du Pays de Verneuil;338134;2024;82,3;1,5;6,8;66,4;conforme;132763;1764;33;81;145;Non vérifié
+27522;Saint-Christophe-sur-Condé;27;eau potable : Régie / PS;96441;2024;67,3;2,1;4,4;65,9;conforme;596973;12839;80;175;440;Non vérifié
+27524;Sainte-Colombe-la-Commanderie;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;14845;48;142;841;Non vérifié
+27525;Sainte-Colombe-près-Vernon;27;eau potable : régie SNA;250214;2024;74,9;4,9;14,7;67,9;conforme;1192930;7079;62;127;312;Non vérifié
+27527;Saint-Cyr-de-Salerne;27;eau potable;96382;2024;80,2;1,5;5,9;66,2;conforme;291106;2022;27;94;205;Non vérifié
+27528;Le Vaudreuil;27;eau potable : Agglo Seine Eure;330514;2024;76,7;4,6;15,0;68,0;conforme;1736086;64017;48;114;3624;Non vérifié
+27529;Saint-Cyr-la-Campagne;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;7608;48;142;431;Non vérifié
+27530;Saint-Denis-d'Augerons;27;eau potable : principal;225634;2024;77,5;0,8;2,8;65,6;conforme;168484;1000;37;105;75;Non vérifié
+27531;Saint-Denis-des-Monts;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;3724;48;142;211;Non vérifié
+27533;Saint-Denis-le-Ferment;27;eau potable : principal;96357;2024;75,5;2,0;6,1;66,2;conforme;46720;8292;46;119;495;Non vérifié
+27534;Saint-Didier-des-Bois;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;15745;48;142;892;Non vérifié
+27535;Saint-Élier;27;eau potable;221114;2024;76,3;1,9;6,0;66,2;conforme;271852;4390;30;118;399;Non vérifié
+27536;Saint-Éloi-de-Fourques;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;9479;48;142;537;Non vérifié
+27537;Saint-Étienne-du-Vauvray;27;eau potable : Agglo Seine Eure;330514;2024;76,7;4,6;15,0;68,0;conforme;1736086;15828;48;114;896;Non vérifié
+27538;Saint-Étienne-l'Allier;27;eau potable : Régie / PS;96441;2024;67,3;2,1;4,4;65,9;conforme;596973;15057;80;175;516;Non vérifié
+27539;Saint-Étienne-sous-Bailleul;27;eau potable : Agglo Seine Eure;330514;2024;76,7;4,6;15,0;68,0;conforme;1736086;6730;48;114;381;Non vérifié
+27540;Sainte-Geneviève-lès-Gasny;27;eau potable : régie SNA;250214;2024;74,9;4,9;14,7;67,9;conforme;1192930;14702;62;127;648;Non vérifié
+27541;Le Mesnil-Saint-Jean;27;eau potable : Régie / PS;96441;2024;67,3;2,1;4,4;65,9;conforme;596973;4698;80;175;161;Non vérifié
+27542;Saint-Georges-du-Vièvre;27;eau potable : Régie / PS;96441;2024;67,3;2,1;4,4;65,9;conforme;596973;26087;80;175;894;Non vérifié
+27543;Saint-Georges-Motel;27;eau potable : SA Paquetterie;175394;2024;70,6;3,1;7,3;66,5;conforme;396025;19225;60;164;880;Non vérifié
+27544;Saint-Germain-de-Fresney;27;eau potable : régie SUD;96370;2024;64,2;3,4;6,0;66,2;non conforme;407594;5358;77;215;191;Non vérifié
+27545;Saint-Germain-de-Pasquier;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;2153;48;142;122;Non vérifié
+27546;Saint-Germain-des-Angles;27;eau potable : Régie EPN;96402;2024;67,4;8,5;17,6;68,5;non conforme;2357900;4742;76;181;172;Non vérifié
+27547;Saint-Germain-la-Campagne;27;eau potable : EAU;323774;2024;74,5;1,5;4,3;65,9;conforme;559425;11367;37;129;845;Non vérifié
+27548;Saint-Germain-sur-Avre;27;eau potable : SA Paquetterie;175394;2024;70,6;3,1;7,3;66,5;conforme;396025;26106;60;164;1195;Non vérifié
+27550;Saint-Grégoire-du-Vièvre;27;eau potable : Régie / PS;96441;2024;67,3;2,1;4,4;65,9;conforme;596973;9192;80;175;315;Non vérifié
+27552;Saint-Jean-du-Thenney;27;eau potable : principal;225634;2024;77,5;0,8;2,8;65,6;conforme;168484;2800;37;105;210;Non vérifié
+27553;Saint-Julien-de-la-Liègue;27;eau potable : Agglo Seine Eure;330514;2024;76,7;4,6;15,0;68,0;conforme;1736086;7437;48;114;421;Non vérifié
+27554;La Chapelle-Longueville;27;eau potable : régie SNA;250214;2024;74,9;4,9;14,7;67,9;conforme;1192930;74465;62;127;3282;Non vérifié
+27555;Saint-Laurent-des-Bois;27;eau potable : SA Paquetterie;175394;2024;70,6;3,1;7,3;66,5;conforme;396025;5309;60;164;243;Non vérifié
+27556;Saint-Laurent-du-Tencement;27;eau potable : principal;225634;2024;77,5;0,8;2,8;65,6;conforme;168484;907;37;105;68;Non vérifié
+27557;Saint-Léger-de-Rôtes;27;eau potable : principal;296914;2024;70,9;1,4;3,4;65,7;conforme;218217;3508;22;172;441;Non vérifié
+27558;Saint-Léger-du-Gennetey;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;2930;48;142;166;Non vérifié
+27560;Saint-Luc;27;eau potable : Régie EPN;96402;2024;67,4;8,5;17,6;68,5;non conforme;2357900;6893;76;181;250;Non vérifié
+27561;Saint-Maclou;27;eau potable : BEUZEVILLE;96347;2024;66,3;2,6;5,2;66,0;conforme;531554;17725;71;184;680;Non vérifié
+27562;Saint-Marcel;27;eau potable : régie SNA;250214;2024;74,9;4,9;14,7;67,9;conforme;1192930;102372;62;127;4512;Non vérifié
+27563;Saint-Mards-de-Blacarville;27;eau potable : NORD;96361;2024;64,2;2,9;5,3;66,1;non conforme;365182;24425;76;202;877;Non vérifié
+27564;Saint-Mards-de-Fresne;27;eau potable : principal;296914;2024;70,9;1,4;3,4;65,7;conforme;218217;2761;22;172;347;Non vérifié
+27565;Le Lesme;27;eau potable : principal;209098;2024;85,1;0,8;4,8;66,0;conforme;216956;5472;22;67;682;Non vérifié
+27567;Sainte-Marie-de-Vatimesnil;27;eau potable : principal;96385;2024;77,9;2,1;7,5;66,5;conforme;486705;2820;29;119;262;Non vérifié
+27568;Sainte-Marthe;27;eau potable;221114;2024;76,3;1,9;6,0;66,2;conforme;271852;5513;30;118;501;Non vérifié
+27569;Saint-Martin-du-Tilleul;27;eau potable : principal;296914;2024;70,9;1,4;3,4;65,7;conforme;218217;1933;22;172;243;Non vérifié
+27570;Saint-Martin-la-Campagne;27;eau potable : Régie EPN;96402;2024;67,4;8,5;17,6;68,5;non conforme;2357900;2729;76;181;99;Non vérifié
+27571;Saint-Martin-Saint-Firmin;27;eau potable : Régie / PS;96441;2024;67,3;2,1;4,4;65,9;conforme;596973;9746;80;175;334;Non vérifié
+27572;Saint-Meslin-du-Bosc;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;5454;48;142;309;Non vérifié
+27576;Sainte-Opportune-du-Bosc;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;11085;48;142;628;Non vérifié
+27577;Sainte-Opportune-la-Mare;27;eau potable : NORD;96361;2024;64,2;2,9;5,3;66,1;non conforme;365182;11892;76;202;427;Non vérifié
+27578;Sainte-Marie-d'Attez;27;eau potable : principal;209098;2024;85,1;0,8;4,8;66,0;conforme;216956;4614;22;67;575;Non vérifié
+27579;Saint-Ouen-de-Pontcheuil;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;1800;48;142;102;Non vérifié
+27580;Saint-Ouen-de-Thouberville;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;42698;48;142;2419;Non vérifié
+27582;Saint-Ouen-du-Tilleul;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;31631;48;142;1792;Non vérifié
+27584;Saint-Paul-de-Fourques;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;4889;48;142;277;Non vérifié
+27586;Saint-Philbert-sur-Boissey;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;3001;48;142;170;Non vérifié
+27587;Saint-Philbert-sur-Risle;27;eau potable : Régie / PS;96441;2024;67,3;2,1;4,4;65,9;conforme;596973;24512;80;175;840;Non vérifié
+27589;Saint-Pierre-de-Bailleul;27;eau potable : Agglo Seine Eure;330514;2024;76,7;4,6;15,0;68,0;conforme;1736086;17188;48;114;973;Non vérifié
+27590;Saint-Pierre-de-Cernières;27;eau potable : principal;225634;2024;77,5;0,8;2,8;65,6;conforme;168484;3040;37;105;228;Non vérifié
+27591;Saint-Pierre-de-Cormeilles;27;eau potable : Régie / PS;96441;2024;67,3;2,1;4,4;65,9;conforme;596973;17275;80;175;592;Non vérifié
+27592;Saint-Pierre-de-Salerne;27;eau potable : Régie / PS;96441;2024;67,3;2,1;4,4;65,9;conforme;596973;6566;80;175;225;Non vérifié
+27593;Saint-Pierre-des-Fleurs;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;30254;48;142;1714;Non vérifié
+27594;Saint-Pierre-des-Ifs;27;eau potable : Régie / PS;96441;2024;67,3;2,1;4,4;65,9;conforme;596973;7383;80;175;253;Non vérifié
+27595;Saint-Pierre-du-Bosguérard;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;16769;48;142;950;Non vérifié
+27597;Saint-Pierre-du-Val;27;eau potable : BEUZEVILLE;96347;2024;66,3;2,6;5,2;66,0;conforme;531554;15639;71;184;600;Non vérifié
+27598;Saint-Pierre-du-Vauvray;27;eau potable : Agglo Seine Eure;330514;2024;76,7;4,6;15,0;68,0;conforme;1736086;21622;48;114;1224;Non vérifié
+27599;Saint-Pierre-la-Garenne;27;eau potable : Agglo Seine Eure;330514;2024;76,7;4,6;15,0;68,0;conforme;1736086;16375;48;114;927;Non vérifié
+27601;Saint-Samson-de-la-Roque;27;eau potable : NORD;96361;2024;64,2;2,9;5,3;66,1;non conforme;365182;12143;76;202;436;Non vérifié
+27602;Saint-Sébastien-de-Morsent;27;eau potable : Régie EPN;96402;2024;67,4;8,5;17,6;68,5;non conforme;2357900;152300;76;181;5524;Non vérifié
+27603;Saint-Siméon;27;eau potable : Régie / PS;96441;2024;67,3;2,1;4,4;65,9;conforme;596973;9717;80;175;333;Non vérifié
+27604;Saint-Sulpice-de-Grimbouville;27;eau potable : BEUZEVILLE;96347;2024;66,3;2,6;5,2;66,0;conforme;531554;4197;71;184;161;Non vérifié
+27605;Saint-Sylvestre-de-Cormeilles;27;eau potable : Régie / PS;96441;2024;67,3;2,1;4,4;65,9;conforme;596973;6507;80;175;223;Non vérifié
+27606;Saint-Symphorien;27;eau potable : BEUZEVILLE;96347;2024;66,3;2,6;5,2;66,0;conforme;531554;12147;71;184;466;Non vérifié
+27608;Saint-Victor-de-Chrétienville;27;eau potable : principal;296914;2024;70,9;1,4;3,4;65,7;conforme;218217;3572;22;172;449;Non vérifié
+27609;Saint-Victor-d'Épine;27;eau potable : Régie / PS;96441;2024;67,3;2,1;4,4;65,9;conforme;596973;9775;80;175;335;Non vérifié
+27610;Saint-Victor-sur-Avre;27;eau potable : SAEP Eau du Pays de Verneuil;338134;2024;82,3;1,5;6,8;66,4;conforme;132763;657;33;81;54;Non vérifié
+27611;Saint-Vigor;27;eau potable : Régie EPN;96402;2024;67,4;8,5;17,6;68,5;non conforme;2357900;8464;76;181;307;Non vérifié
+27612;Saint-Vincent-des-Bois;27;eau potable : régie SNA;250214;2024;74,9;4,9;14,7;67,9;conforme;1192930;7805;62;127;344;Non vérifié
+27613;Saint-Vincent-du-Boulay;27;eau potable : Régie / PS;96441;2024;67,3;2,1;4,4;65,9;conforme;596973;10680;80;175;366;Non vérifié
+27614;Sancourt;27;eau potable : principal;96357;2024;75,5;2,0;6,1;66,2;conforme;46720;2831;46;119;169;Non vérifié
+27615;Sassey;27;eau potable : Régie EPN;96402;2024;67,4;8,5;17,6;68,5;non conforme;2357900;5487;76;181;199;Non vérifié
+27616;La Saussaye;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;34261;48;142;1941;Non vérifié
+27617;Saussay-la-Campagne;27;eau potable : principal;96385;2024;77,9;2,1;7,5;66,5;conforme;486705;5683;29;119;528;Non vérifié
+27618;Sébécourt;27;eau potable;221114;2024;76,3;1,9;6,0;66,2;conforme;271852;5073;30;118;461;Non vérifié
+27620;Selles;27;eau potable : BEUZEVILLE;96347;2024;66,3;2,6;5,2;66,0;conforme;531554;12511;71;184;480;Non vérifié
+27621;Serez;27;eau potable : régie SUD;96370;2024;64,2;3,4;6,0;66,2;non conforme;407594;4657;77;215;166;Non vérifié
+27622;Serquigny;27;eau potable : principal;296914;2024;70,9;1,4;3,4;65,7;conforme;218217;13954;22;172;1754;Non vérifié
+27623;Surtauville;27;eau potable : Agglo Seine Eure;330514;2024;76,7;4,6;15,0;68,0;conforme;1736086;8638;48;114;489;Non vérifié
+27624;Surville;27;eau potable : Agglo Seine Eure;330514;2024;76,7;4,6;15,0;68,0;conforme;1736086;14856;48;114;841;Non vérifié
+27625;Suzay;27;eau potable : principal;96385;2024;77,9;2,1;7,5;66,5;conforme;486705;3692;29;119;343;Non vérifié
+27627;Le Theil-Nolent;27;eau potable : Régie / PS;96441;2024;67,3;2,1;4,4;65,9;conforme;596973;8316;80;175;285;Non vérifié
+27629;Thiberville;27;eau potable : Régie / PS;96441;2024;67,3;2,1;4,4;65,9;conforme;596973;51124;80;175;1752;Non vérifié
+27630;Thibouville;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;5790;48;142;328;Non vérifié
+27631;Thierville;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;6443;48;142;365;Non vérifié
+27632;Le Thil;27;eau potable : principal;96385;2024;77,9;2,1;7,5;66,5;conforme;486705;6308;29;119;586;Non vérifié
+27633;Les Thilliers-en-Vexin;27;eau potable : principal;96385;2024;77,9;2,1;7,5;66,5;conforme;486705;5285;29;119;491;Non vérifié
+27635;Le Thuit;27;eau potable : principal;96385;2024;77,9;2,1;7,5;66,5;conforme;486705;1550;29;119;144;Non vérifié
+27638;Le Thuit de l'Oison;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;67551;48;142;3827;Non vérifié
+27640;Tilleul-Dame-Agnès;27;eau potable;96382;2024;80,2;1,5;5,9;66,2;conforme;291106;1973;27;94;200;Non vérifié
+27641;Le Tilleul-Lambert;27;eau potable;96382;2024;80,2;1,5;5,9;66,2;conforme;291106;2634;27;94;267;Non vérifié
+27643;Tillières-sur-Avre;27;eau potable : SAEP Eau du Pays de Verneuil;338134;2024;82,3;1,5;6,8;66,4;conforme;132763;12412;33;81;1020;Non vérifié
+27644;Tilly;27;eau potable : principal;96385;2024;77,9;2,1;7,5;66,5;conforme;486705;6221;29;119;578;Non vérifié
+27645;Tocqueville;27;eau potable : NORD;96361;2024;64,2;2,9;5,3;66,1;non conforme;365182;3899;76;202;140;Non vérifié
+27646;Le Torpt;27;eau potable : BEUZEVILLE;96347;2024;66,3;2,6;5,2;66,0;conforme;531554;12225;71;184;469;Non vérifié
+27649;Touffreville;27;eau potable;96337;2024;72,3;3,1;8,1;66,6;conforme;5884;5884;48;139;334;Non vérifié
+27650;Tournedos-Bois-Hubert;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;7961;48;142;451;Non vérifié
+27652;Tourneville;27;eau potable : Régie EPN;96402;2024;67,4;8,5;17,6;68,5;non conforme;2357900;9181;76;181;333;Non vérifié
+27654;Tourville-la-Campagne;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;19540;48;142;1107;Non vérifié
+27655;Tourville-sur-Pont-Audemer;27;eau potable : Régie / PS;96441;2024;67,3;2,1;4,4;65,9;conforme;596973;21185;80;175;726;Non vérifié
+27656;Toutainville;27;eau potable : BEUZEVILLE;96347;2024;66,3;2,6;5,2;66,0;conforme;531554;33207;71;184;1274;Non vérifié
+27658;Le Tremblay-Omonville;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;6902;48;142;391;Non vérifié
+27659;La Trinité;27;eau potable : Régie EPN;96402;2024;67,4;8,5;17,6;68,5;non conforme;2357900;3501;76;181;127;Non vérifié
+27660;La Trinité-de-Réville;27;eau potable : principal;225634;2024;77,5;0,8;2,8;65,6;conforme;168484;3360;37;105;252;Non vérifié
+27661;La Trinité-de-Thouberville;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;7219;48;142;409;Non vérifié
+27662;Triqueville;27;eau potable : BEUZEVILLE;96347;2024;66,3;2,6;5,2;66,0;conforme;531554;9123;71;184;350;Non vérifié
+27663;Le Troncq;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;3018;48;142;171;Non vérifié
+27664;Le Tronquay;27;eau potable;96380;2023;60,2;2,7;4,0;65,8;non conforme;36464;22817;118;245;530;Sans anomalie apparente
+27665;Trouville-la-Haule;27;eau potable : NORD;96361;2024;64,2;2,9;5,3;66,1;non conforme;365182;21111;76;202;758;Non vérifié
+27666;La Vacherie;27;eau potable : Agglo Seine Eure;330514;2024;76,7;4,6;15,0;68,0;conforme;1736086;9839;48;114;557;Non vérifié
+27667;Valailles;27;eau potable : principal;296914;2024;70,9;1,4;3,4;65,7;conforme;218217;3286;22;172;413;Non vérifié
+27668;Le Val-David;27;eau potable : Régie EPN;96402;2024;67,4;8,5;17,6;68,5;non conforme;2357900;18307;76;181;664;Non vérifié
+27669;Valletot;27;eau potable : NORD;96361;2024;64,2;2,9;5,3;66,1;non conforme;365182;11363;76;202;408;Non vérifié
+27670;Vandrimare;27;eau potable : Général;202458;2024;72,9;3,9;10,4;67,1;conforme;376502;20433;58;174;969;Non vérifié
+27671;Vannecrocq;27;eau potable : BEUZEVILLE;96347;2024;66,3;2,6;5,2;66,0;conforme;531554;4275;71;184;164;Non vérifié
+27672;Vascoeuil;27;eau potable : Général;202458;2024;72,9;3,9;10,4;67,1;conforme;376502;6453;58;174;306;Non vérifié
+27673;Vatteville;27;eau potable : principal;96385;2024;77,9;2,1;7,5;66,5;conforme;486705;1884;29;119;175;Non vérifié
+27674;Vaux-sur-Eure;27;eau potable : régie SNA;250214;2024;74,9;4,9;14,7;67,9;conforme;1192930;6171;62;127;272;Non vérifié
+27676;Les Trois Lacs;27;eau potable : Agglo Seine Eure;330514;2024;76,7;4,6;15,0;68,0;conforme;1736086;30649;48;114;1735;Non vérifié
+27677;Venon;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;6866;48;142;389;Non vérifié
+27678;Les Ventes;27;eau potable : Régie EPN;96402;2024;67,4;8,5;17,6;68,5;non conforme;2357900;29004;76;181;1052;Non vérifié
+27679;Verneuil d'Avre et d'Iton;27;eau potable : SAEP Eau du Pays de Verneuil;338134;2024;82,3;1,5;6,8;66,4;conforme;132763;87531;33;81;7193;Non vérifié
+27680;Verneusses;27;eau potable : principal;225634;2024;77,5;0,8;2,8;65,6;conforme;168484;2347;37;105;176;Non vérifié
+27681;Vernon;27;eau potable : régie SNA;250214;2024;74,9;4,9;14,7;67,9;conforme;1192930;573799;62;127;25290;Non vérifié
+27682;Vesly;27;eau potable : principal;96385;2024;77,9;2,1;7,5;66,5;conforme;486705;6598;29;119;613;Non vérifié
+27683;Vézillon;27;eau potable : régie SNA;250214;2024;74,9;4,9;14,7;67,9;conforme;1192930;5241;62;127;231;Non vérifié
+27684;Le Vieil-Évreux;27;eau potable : Régie EPN;96402;2024;67,4;8,5;17,6;68,5;non conforme;2357900;23159;76;181;840;Non vérifié
+27685;La Vieille-Lyre;27;eau potable;221114;2024;76,3;1,9;6,0;66,2;conforme;271852;7130;30;118;648;Non vérifié
+27686;Vieux-Port;27;eau potable : NORD;96361;2024;64,2;2,9;5,3;66,1;non conforme;365182;1309;76;202;47;Non vérifié
+27689;Villegats;27;eau potable : régie SNA;250214;2024;74,9;4,9;14,7;67,9;conforme;1192930;8168;62;127;360;Non vérifié
+27690;Villers-en-Vexin;27;eau potable : principal;96385;2024;77,9;2,1;7,5;66,5;conforme;486705;3348;29;119;311;Non vérifié
+27691;Villers-sur-le-Roule;27;eau potable : Agglo Seine Eure;330514;2024;76,7;4,6;15,0;68,0;conforme;1736086;14644;48;114;829;Non vérifié
+27692;Villettes;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;2983;48;142;169;Non vérifié
+27693;Sylvains-Lès-Moulins;27;eau potable : principal;209098;2024;85,1;0,8;4,8;66,0;conforme;216956;10166;22;67;1267;Non vérifié
+27694;Villez-sous-Bailleul;27;eau potable : régie SNA;250214;2024;74,9;4,9;14,7;67,9;conforme;1192930;7079;62;127;312;Non vérifié
+27695;Villez-sur-le-Neubourg;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;3972;48;142;225;Non vérifié
+27696;Villiers-en-Désoeuvre;27;eau potable : régie SNA;250214;2024;74,9;4,9;14,7;67,9;conforme;1192930;19354;62;127;853;Non vérifié
+27697;Vironvay;27;eau potable : Agglo Seine Eure;330514;2024;76,7;4,6;15,0;68,0;conforme;1736086;5900;48;114;334;Non vérifié
+27698;Vitot;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;9832;48;142;557;Non vérifié
+27699;Voiscreville;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;2065;48;142;117;Non vérifié
+27700;Vraiville;27;eau potable : Principal;96395;2024;74,8;2,5;7,4;66,5;conforme;1370575;12726;48;142;721;Non vérifié
+27701;Val-de-Reuil;27;eau potable : Agglo Seine Eure;330514;2024;76,7;4,6;15,0;68,0;conforme;1736086;233971;48;114;13245;Non vérifié

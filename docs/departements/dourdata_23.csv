@@ -1,0 +1,263 @@
+﻿# DourData — eau perdue par les réseaux d'eau potable (indicateurs SISPEA)
+# Périmètre : Département 23
+# Source : SISPEA — Système d'Information des Services Publics d'Eau et d'Assainissement, via data.gouv.fr / services.eaufrance.fr
+# Licence : Licence Ouverte 2.0 (Etalab)
+# Millésime des données : 2020–2024 (année la plus récente disponible par commune)
+# Date de génération de l'export : 2026-07-05
+# Méthodologie et code : https://github.com/btaverne/dourdata
+# Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
+# Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
+23001;Ahun;23;eau potable;170766;2024;75,9;0,6;2,0;65,4;conforme;77482;22151;44;127;1394;Non vérifié
+23002;Ajain;23;"eau potable : Entité de gestion ""eau potable"" en régie";289454;2024;74,9;1,6;4,8;66,0;conforme;452215;17712;48;128;1019;Non vérifié
+23003;Alleyrat;23;eau potable;170783;2024;89,6;0,3;2,7;65,5;conforme;121089;1513;29;57;144;Non vérifié
+23004;Anzême;23;"eau potable : Entité de gestion ""eau potable"" en régie";289454;2024;74,9;1,6;4,8;66,0;conforme;452215;9577;48;128;551;Non vérifié
+23005;Arfeuille-Châtain;23;eau potable;170783;2024;89,6;0,3;2,7;65,5;conforme;121089;2028;29;57;193;Non vérifié
+23006;Arrènes;23;eau potable;170767;2024;70,6;0,9;2,1;65,4;conforme;170163;3950;54;156;202;Non vérifié
+23007;Ars;23;eau potable;170787;2024;68,7;0,6;1,3;65,3;conforme;83713;2378;27;168;239;Non vérifié
+23008;Aubusson;23;eau potable;170787;2024;68,7;0,6;1,3;65,3;conforme;83713;30030;27;168;3018;Non vérifié
+23009;Auge;23;eau potable : CONFLUENCE EAUX;333354;2024;78,3;0,6;2,0;65,4;conforme;269808;1613;48;107;92;Non vérifié
+23010;Augères;23;eau potable;170767;2024;70,6;0,9;2,1;65,4;conforme;170163;2288;54;156;117;Non vérifié
+23011;Aulon;23;eau potable;170767;2024;70,6;0,9;2,1;65,4;conforme;170163;3188;54;156;163;Non vérifié
+23012;Auriat;23;eau potable;170781;2024;97,3;0,1;0,8;65,2;conforme;16425;1146;26;56;122;Non vérifié
+23013;Auzances;23;eau potable;170783;2024;89,6;0,3;2,7;65,5;conforme;121089;11863;29;57;1129;Non vérifié
+23014;Azat-Châtenet;23;eau potable;170767;2024;70,6;0,9;2,1;65,4;conforme;170163;2112;54;156;108;Non vérifié
+23015;Azerables;23;eau potable;170563;2024;91,6;0,2;2,5;65,5;conforme;4154;4154;14;29;804;Non vérifié
+23016;Banize;23;eau potable;170787;2024;68,7;0,6;1,3;65,3;conforme;83713;1821;27;168;183;Non vérifié
+23017;Basville;23;eau potable;170773;2024;77,1;0,9;3,0;65,6;conforme;130717;6189;102;110;167;Non vérifié
+23018;Bazelat;23;eau potable;170770;2024;67,8;1,4;2,9;65,6;conforme;24528;2635;33;175;221;Non vérifié
+23019;Beissat;23;eau potable;170783;2024;89,6;0,3;2,7;65,5;conforme;121089;326;29;57;31;Non vérifié
+23020;Bellegarde-en-Marche;23;eau potable;170783;2024;89,6;0,3;2,7;65,5;conforme;121089;3730;29;57;355;Non vérifié
+23021;Bénévent-l'Abbaye;23;eau potable;170767;2024;70,6;0,9;2,1;65,4;conforme;170163;15039;54;156;769;Non vérifié
+23022;Bétête;23;eau potable : CONFLUENCE EAUX;333354;2024;78,3;0,6;2,0;65,4;conforme;269808;6822;48;107;389;Non vérifié
+23023;Blaudeix;23;eau potable : CONFLUENCE EAUX;333354;2024;78,3;0,6;2,0;65,4;conforme;269808;1876;48;107;107;Non vérifié
+23024;Blessac;23;eau potable;170787;2024;68,7;0,6;1,3;65,3;conforme;83713;5224;27;168;525;Non vérifié
+23025;Bonnat;23;eau potable;170788;2024;76,1;1,1;3,5;65,7;conforme;109674;37142;75;185;1357;Non vérifié
+23026;Bord-Saint-Georges;23;eau potable : CONFLUENCE EAUX;333354;2024;78,3;0,6;2,0;65,4;conforme;269808;6454;48;107;368;Non vérifié
+23027;Bosmoreau-les-Mines;23;eau potable : BOSMOREAU LES MINES;194523;2024;79,7;1,2;4,7;65,9;conforme;5475;5475;65;98;230;Non vérifié
+23028;Bosroger;23;eau potable;170783;2024;89,6;0,3;2,7;65,5;conforme;121089;1240;29;57;118;Non vérifié
+23029;Le Bourg-d'Hem;23;eau potable;170788;2024;76,1;1,1;3,5;65,7;conforme;109674;6186;75;185;226;Non vérifié
+23030;Bourganeuf;23;eau potable : Bourganeuf;170573;2024;70,4;2,2;5,2;66,0;conforme;53793;53793;62;154;2364;Non vérifié
+23031;Boussac;23;eau potable : CONFLUENCE EAUX;333354;2024;78,3;0,6;2,0;65,4;conforme;269808;21676;48;107;1236;Non vérifié
+23032;Boussac-Bourg;23;eau potable : CONFLUENCE EAUX;333354;2024;78,3;0,6;2,0;65,4;conforme;269808;12030;48;107;686;Non vérifié
+23033;La Brionne;23;"eau potable : Entité de gestion ""eau potable"" en régie";289454;2024;74,9;1,6;4,8;66,0;conforme;452215;7787;48;128;448;Non vérifié
+23034;Brousse;23;eau potable;170783;2024;89,6;0,3;2,7;65,5;conforme;121089;336;29;57;32;Non vérifié
+23035;Budelière;23;eau potable : CONFLUENCE EAUX;333354;2024;78,3;0,6;2,0;65,4;conforme;269808;12592;48;107;718;Non vérifié
+23036;Bussière-Dunoise;23;"eau potable : Entité de gestion ""eau potable"" en régie";289454;2024;74,9;1,6;4,8;66,0;conforme;452215;18077;48;128;1040;Non vérifié
+23037;Bussière-Nouvelle;23;eau potable;170783;2024;89,6;0,3;2,7;65,5;conforme;121089;767;29;57;73;Non vérifié
+23038;Bussière-Saint-Georges;23;eau potable : CONFLUENCE EAUX;333354;2024;78,3;0,6;2,0;65,4;conforme;269808;4595;48;107;262;Non vérifié
+23039;La Celle-Dunoise;23;eau potable;170788;2024;76,1;1,1;3,5;65,7;conforme;109674;14616;75;185;534;Non vérifié
+23040;La Celle-sous-Gouzon;23;eau potable : CONFLUENCE EAUX;333354;2024;78,3;0,6;2,0;65,4;conforme;269808;2841;48;107;162;Non vérifié
+23041;La Cellette;23;eau potable;170585;2024;85,0;0,3;1,5;65,3;conforme;5464;5464;56;72;266;Non vérifié
+23042;Ceyroux;23;eau potable;170767;2024;70,6;0,9;2,1;65,4;conforme;170163;2366;54;156;121;Non vérifié
+23043;Chamberaud;23;eau potable;170766;2024;75,9;0,6;2,0;65,4;conforme;77482;1494;44;127;94;Non vérifié
+23044;Chambon-Sainte-Croix;23;eau potable;78938;2024;91,4;0,2;2,6;65,5;conforme;25769;578;18;29;89;Non vérifié
+23045;Chambon-sur-Voueize;23;eau potable : CONFLUENCE EAUX;333354;2024;78,3;0,6;2,0;65,4;conforme;269808;13924;48;107;794;Non vérifié
+23046;Chambonchard;23;eau potable;170783;2024;89,6;0,3;2,7;65,5;conforme;121089;872;29;57;83;Non vérifié
+23047;Chamborand;23;eau potable;170767;2024;70,6;0,9;2,1;65,4;conforme;170163;4713;54;156;241;Non vérifié
+23048;Champagnat;23;eau potable;170783;2024;89,6;0,3;2,7;65,5;conforme;121089;4844;29;57;461;Non vérifié
+23049;Champsanglard;23;eau potable;170788;2024;76,1;1,1;3,5;65,7;conforme;109674;6925;75;185;253;Non vérifié
+23050;La Chapelle-Baloue;23;eau potable;170770;2024;67,8;1,4;2,9;65,6;conforme;24528;1359;33;175;114;Non vérifié
+23052;La Chapelle-Taillefert;23;"eau potable : Entité de gestion ""eau potable"" en régie";289454;2024;74,9;1,6;4,8;66,0;conforme;452215;7787;48;128;448;Non vérifié
+23053;Chard;23;eau potable;170783;2024;89,6;0,3;2,7;65,5;conforme;121089;2165;29;57;206;Non vérifié
+23054;Charron;23;eau potable;170783;2024;89,6;0,3;2,7;65,5;conforme;121089;2049;29;57;195;Non vérifié
+23055;Châtelard;23;eau potable;170783;2024;89,6;0,3;2,7;65,5;conforme;121089;305;29;57;29;Non vérifié
+23056;Châtelus-le-Marcheix;23;eau potable;170767;2024;70,6;0,9;2,1;65,4;conforme;170163;6571;54;156;336;Non vérifié
+23057;Châtelus-Malvaleix;23;eau potable;170788;2024;76,1;1,1;3,5;65,7;conforme;109674;14917;75;185;545;Non vérifié
+23058;Le Chauchet;23;eau potable;170783;2024;89,6;0,3;2,7;65,5;conforme;121089;1072;29;57;102;Non vérifié
+23059;La Chaussade;23;eau potable;170783;2024;89,6;0,3;2,7;65,5;conforme;121089;1040;29;57;99;Non vérifié
+23060;Chavanat;23;eau potable;170787;2024;68,7;0,6;1,3;65,3;conforme;83713;1363;27;168;137;Non vérifié
+23061;Chénérailles;23;eau potable;170766;2024;75,9;0,6;2,0;65,4;conforme;77482;11568;44;127;728;Non vérifié
+23062;Chéniers;23;eau potable;170780;2024;54,4;1,1;1,3;65,3;non conforme;36135;26341;130;314;554;Non vérifié
+23063;Clairavaux;23;eau potable;170779;2024;83,7;0,4;2,2;65,4;conforme;15937;1258;23;65;151;Non vérifié
+23064;Clugnat;23;eau potable : CONFLUENCE EAUX;333354;2024;78,3;0,6;2,0;65,4;conforme;269808;11434;48;107;652;Non vérifié
+23065;Colondannes;23;eau potable;170605;2024;70,8;1,5;3,6;65,7;conforme;6022;6022;57;154;289;Non vérifié
+23066;Le Compas;23;eau potable;170783;2024;89,6;0,3;2,7;65,5;conforme;121089;2070;29;57;197;Non vérifié
+23067;La Courtine;23;eau potable;170773;2024;77,1;0,9;3,0;65,6;conforme;130717;26203;102;110;707;Non vérifié
+23068;Cressat;23;eau potable;170766;2024;75,9;0,6;2,0;65,4;conforme;77482;8136;44;127;512;Non vérifié
+23069;Crocq;23;eau potable;170773;2024;77,1;0,9;3,0;65,6;conforme;130717;14417;102;110;389;Non vérifié
+23070;Crozant;23;eau potable;170786;2024;84,6;0,4;2,5;65,5;conforme;12994;5370;34;59;431;Non vérifié
+23071;Croze;23;eau potable;170779;2024;83,7;0,4;2,2;65,4;conforme;15937;1541;23;65;185;Non vérifié
+23072;Domeyrot;23;eau potable : CONFLUENCE EAUX;333354;2024;78,3;0,6;2,0;65,4;conforme;269808;4016;48;107;229;Non vérifié
+23073;Dontreix;23;eau potable;170612;2024;87,3;0,4;2,4;65,5;conforme;9607;9607;66;60;400;Non vérifié
+23074;Le Donzeil;23;eau potable;170787;2024;68,7;0,6;1,3;65,3;conforme;83713;1851;27;168;186;Non vérifié
+23075;Dun-le-Palestel;23;eau potable;170614;2024;67,1;3,6;7,4;66,5;conforme;50195;50195;125;210;1096;Non vérifié
+23076;Évaux-les-Bains;23;eau potable : CONFLUENCE EAUX;333354;2024;78,3;0,6;2,0;65,4;conforme;269808;22395;48;107;1277;Non vérifié
+23077;Faux-la-Montagne;23;eau potable : Faux-la-Montagne;170616;2024;75,4;0,4;1,2;65,2;conforme;6672;6672;41;117;443;Non vérifié
+23078;Faux-Mazuras;23;eau potable;170781;2024;97,3;0,1;0,8;65,2;conforme;16425;1748;26;56;186;Non vérifié
+23079;Felletin;23;eau potable;170779;2024;83,7;0,4;2,2;65,4;conforme;15937;13138;23;65;1577;Non vérifié
+23080;Féniers;23;eau potable;170621;2024;77,3;0,8;2,7;65,5;conforme;2920;2920;72;108;111;Non vérifié
+23081;Flayat;23;eau potable;170773;2024;77,1;0,9;3,0;65,6;conforme;130717;10970;102;110;296;Non vérifié
+23082;Fleurat;23;eau potable;170769;2024;80,6;1,1;4,4;65,9;conforme;78168;2642;23;230;311;Non vérifié
+23083;Fontanières;23;eau potable;170783;2024;89,6;0,3;2,7;65,5;conforme;121089;2732;29;57;260;Non vérifié
+23084;La Forêt-du-Temple;23;eau potable;170782;2024;51,6;1,6;1,7;65,3;non conforme;48063;7265;139;350;143;Non vérifié
+23086;Fransèches;23;eau potable;170787;2024;68,7;0,6;1,3;65,3;conforme;83713;2388;27;168;240;Non vérifié
+23087;Fresselines;23;eau potable;78938;2024;91,4;0,2;2,6;65,5;conforme;25769;3306;18;29;509;Non vérifié
+23088;Gartempe;23;"eau potable : Entité de gestion ""eau potable"" en régie";289454;2024;74,9;1,6;4,8;66,0;conforme;452215;1964;48;128;113;Non vérifié
+23089;Genouillac;23;eau potable;170788;2024;76,1;1,1;3,5;65,7;conforme;109674;19734;75;185;721;Non vérifié
+23090;Gentioux-Pigerolles;23;eau potable;170787;2024;68,7;0,6;1,3;65,3;conforme;83713;3960;27;168;398;Non vérifié
+23091;Gioux;23;eau potable;170629;2024;83,8;0,4;0,0;65,0;conforme;1332250;1332250;19519;33960;187;Non vérifié
+23092;Glénic;23;"eau potable : Entité de gestion ""eau potable"" en régie";289454;2024;74,9;1,6;4,8;66,0;conforme;452215;10863;48;128;625;Non vérifié
+23093;Gouzon;23;eau potable : CONFLUENCE EAUX;333354;2024;78,3;0,6;2,0;65,4;conforme;269808;27323;48;107;1558;Non vérifié
+23095;Le Grand-Bourg;23;eau potable;170769;2024;80,6;1,1;4,4;65,9;conforme;78168;9912;23;230;1167;Non vérifié
+23096;Guéret;23;"eau potable : Entité de gestion ""eau potable"" en régie";289454;2024;74,9;1,6;4,8;66,0;conforme;452215;225177;48;128;12955;Non vérifié
+23097;Issoudun-Létrieix;23;eau potable;170766;2024;75,9;0,6;2,0;65,4;conforme;77482;4624;44;127;291;Non vérifié
+23098;Jalesches;23;eau potable : CONFLUENCE EAUX;333354;2024;78,3;0,6;2,0;65,4;conforme;269808;1666;48;107;95;Non vérifié
+23099;Janaillat;23;eau potable : JANAILLAT;170635;2024;89,5;0,4;3,4;65,7;conforme;5256;5256;45;77;317;Non vérifié
+23100;Jarnages;23;eau potable : CONFLUENCE EAUX;333354;2024;78,3;0,6;2,0;65,4;conforme;269808;8733;48;107;498;Non vérifié
+23101;Jouillat;23;"eau potable : Entité de gestion ""eau potable"" en régie";289454;2024;74,9;1,6;4,8;66,0;conforme;452215;6727;48;128;387;Non vérifié
+23102;Ladapeyre;23;eau potable : CONFLUENCE EAUX;333354;2024;78,3;0,6;2,0;65,4;conforme;269808;6313;48;107;360;Non vérifié
+23103;Lafat;23;eau potable;170638;2024;91,8;0,2;2,6;65,5;conforme;2263;2263;19;32;328;Non vérifié
+23104;Lavaufranche;23;eau potable : CONFLUENCE EAUX;333354;2024;78,3;0,6;2,0;65,4;conforme;269808;4069;48;107;232;Non vérifié
+23105;Lavaveix-les-Mines;23;eau potable;170640;2020;83,2;0,9;4,3;65,9;conforme;5693;5693;23;76;684;Sans anomalie apparente
+23106;Lépaud;23;eau potable : CONFLUENCE EAUX;333354;2024;78,3;0,6;2,0;65,4;conforme;269808;6296;48;107;359;Non vérifié
+23107;Lépinas;23;eau potable;170787;2024;68,7;0,6;1,3;65,3;conforme;83713;1443;27;168;145;Non vérifié
+23108;Leyrat;23;eau potable : CONFLUENCE EAUX;333354;2024;78,3;0,6;2,0;65,4;conforme;269808;2508;48;107;143;Non vérifié
+23109;Linard-Malval;23;eau potable;170780;2024;54,4;1,1;1,3;65,3;non conforme;36135;9794;130;314;206;Non vérifié
+23110;Lioux-les-Monges;23;eau potable;170783;2024;89,6;0,3;2,7;65,5;conforme;121089;536;29;57;51;Non vérifié
+23111;Lizières;23;eau potable;170769;2024;80,6;1,1;4,4;65,9;conforme;78168;1988;23;230;234;Non vérifié
+23112;Lourdoueix-Saint-Pierre;23;eau potable : Lourdoueix-Saint-Pierre;170645;2023;75,2;0,9;2,7;65,5;conforme;18173;18173;70;151;711;Sans anomalie apparente
+23113;Lupersat;23;eau potable;170783;2024;89,6;0,3;2,7;65,5;conforme;121089;3026;29;57;288;Non vérifié
+23114;Lussat;23;eau potable : CONFLUENCE EAUX;333354;2024;78,3;0,6;2,0;65,4;conforme;269808;7295;48;107;416;Non vérifié
+23115;Magnat-l'Étrange;23;eau potable;170783;2024;89,6;0,3;2,7;65,5;conforme;121089;2480;29;57;236;Non vérifié
+23116;Mainsat;23;eau potable;170783;2024;89,6;0,3;2,7;65,5;conforme;121089;5674;29;57;540;Non vérifié
+23117;Maison-Feyne;23;eau potable;170648;2024;82,8;1,6;7,6;66,5;conforme;11680;11680;113;77;283;Non vérifié
+23118;Maisonnisses;23;eau potable : MAISONNISSES;170651;2024;61,0;1,4;2,2;65,4;non conforme;6950;6950;108;232;176;Non vérifié
+23119;Malleret;23;eau potable;170773;2024;77,1;0,9;3,0;65,6;conforme;130717;1668;102;110;45;Non vérifié
+23120;Malleret-Boussac;23;eau potable : CONFLUENCE EAUX;333354;2024;78,3;0,6;2,0;65,4;conforme;269808;3069;48;107;175;Non vérifié
+23122;Mansat-la-Courrière;23;eau potable;170767;2024;70,6;0,9;2,1;65,4;conforme;170163;1428;54;156;73;Non vérifié
+23123;Les Mars;23;eau potable;170783;2024;89,6;0,3;2,7;65,5;conforme;121089;1891;29;57;180;Non vérifié
+23124;Marsac;23;eau potable;170767;2024;70,6;0,9;2,1;65,4;conforme;170163;12575;54;156;643;Non vérifié
+23125;Le Mas-d'Artige;23;eau potable;170773;2024;77,1;0,9;3,0;65,6;conforme;130717;3410;102;110;92;Non vérifié
+23127;Mautes;23;eau potable;170783;2024;89,6;0,3;2,7;65,5;conforme;121089;2038;29;57;194;Non vérifié
+23128;Mazeirat;23;"eau potable : Entité de gestion ""eau potable"" en régie";289454;2024;74,9;1,6;4,8;66,0;conforme;452215;2086;48;128;120;Non vérifié
+23129;La Mazière-aux-Bons-Hommes;23;eau potable;170773;2024;77,1;0,9;3,0;65,6;conforme;130717;1927;102;110;52;Non vérifié
+23130;Méasnes;23;eau potable : Méasnes;170657;2024;80,0;0,5;1,8;65,4;conforme;7665;7665;40;100;522;Non vérifié
+23131;Mérinchal;23;eau potable;170773;2024;77,1;0,9;3,0;65,6;conforme;130717;24238;102;110;654;Non vérifié
+23132;Montaigut-le-Blanc;23;"eau potable : Entité de gestion ""eau potable"" en régie";289454;2024;74,9;1,6;4,8;66,0;conforme;452215;6431;48;128;370;Non vérifié
+23133;Montboucher;23;eau potable;170781;2024;97,3;0,1;0,8;65,2;conforme;16425;3495;26;56;372;Non vérifié
+23136;Mortroux;23;eau potable;170664;2024;76,4;0,8;2,7;65,5;conforme;6132;6132;61;107;277;Non vérifié
+23137;Mourioux-Vieilleville;23;eau potable;170767;2024;70,6;0,9;2,1;65,4;conforme;170163;10189;54;156;521;Non vérifié
+23138;Moutier-d'Ahun;23;eau potable;170766;2024;75,9;0,6;2,0;65,4;conforme;77482;2542;44;127;160;Non vérifié
+23139;Moutier-Malcard;23;eau potable;170782;2024;51,6;1,6;1,7;65,3;non conforme;48063;28350;139;350;558;Non vérifié
+23140;Moutier-Rozeille;23;eau potable;170783;2024;89,6;0,3;2,7;65,5;conforme;121089;4539;29;57;432;Non vérifié
+23141;Naillat;23;eau potable;170670;2024;80,1;1,0;4,0;65,8;conforme;19765;19765;79;158;687;Non vérifié
+23142;Néoux;23;eau potable;170783;2024;89,6;0,3;2,7;65,5;conforme;121089;2932;29;57;279;Non vérifié
+23143;Noth;23;eau potable;170769;2024;80,6;1,1;4,4;65,9;conforme;78168;4230;23;230;498;Non vérifié
+23144;La Nouaille;23;eau potable;170787;2024;68,7;0,6;1,3;65,3;conforme;83713;2229;27;168;224;Non vérifié
+23145;Nouhant;23;eau potable : CONFLUENCE EAUX;333354;2024;78,3;0,6;2,0;65,4;conforme;269808;5489;48;107;313;Non vérifié
+23146;Nouzerines;23;eau potable : CONFLUENCE EAUX;333354;2024;78,3;0,6;2,0;65,4;conforme;269808;4156;48;107;237;Non vérifié
+23147;Nouzerolles;23;eau potable;170679;2024;75,5;0,8;2,6;65,5;conforme;3758;3758;103;113;100;Non vérifié
+23148;Nouziers;23;eau potable;170782;2024;51,6;1,6;1,7;65,3;non conforme;48063;12448;139;350;245;Non vérifié
+23149;Parsac-Rimondeix;23;eau potable : CONFLUENCE EAUX;333354;2024;78,3;0,6;2,0;65,4;conforme;269808;14468;48;107;825;Non vérifié
+23150;Peyrabout;23;"eau potable : Entité de gestion ""eau potable"" en régie";289454;2024;74,9;1,6;4,8;66,0;conforme;452215;2607;48;128;150;Non vérifié
+23151;Peyrat-la-Nonière;23;eau potable;170783;2024;89,6;0,3;2,7;65,5;conforme;121089;4413;29;57;420;Non vérifié
+23152;Pierrefitte;23;eau potable;170785;2024;78,1;0,7;2,4;65,5;conforme;21447;671;27;104;67;Non vérifié
+23154;Pionnat;23;eau potable : CONFLUENCE EAUX;333354;2024;78,3;0,6;2,0;65,4;conforme;269808;12644;48;107;721;Non vérifié
+23155;Pontarion;23;eau potable;170682;2024;86,3;0,5;3,1;65,6;conforme;2592;2592;20;59;357;Non vérifié
+23156;Pontcharraud;23;eau potable;170783;2024;89,6;0,3;2,7;65,5;conforme;121089;862;29;57;82;Non vérifié
+23157;La Pouge;23;eau potable;170787;2024;68,7;0,6;1,3;65,3;conforme;83713;955;27;168;96;Non vérifié
+23158;Poussanges;23;eau potable;170783;2024;89,6;0,3;2,7;65,5;conforme;121089;1555;29;57;148;Non vérifié
+23159;Puy-Malsignat;23;eau potable;170783;2024;89,6;0,3;2,7;65,5;conforme;121089;1471;29;57;140;Non vérifié
+23160;Reterre;23;eau potable;170783;2024;89,6;0,3;2,7;65,5;conforme;121089;2711;29;57;258;Non vérifié
+23162;Roches;23;eau potable;170788;2024;76,1;1,1;3,5;65,7;conforme;109674;10154;75;185;371;Non vérifié
+23164;Rougnat;23;eau potable;170783;2024;89,6;0,3;2,7;65,5;conforme;121089;4949;29;57;471;Non vérifié
+23165;Royère-de-Vassivière;23;eau potable : Royère-de-Vassivière;170685;2024;76,3;1,1;3,6;65,7;conforme;18630;18630;90;123;565;Non vérifié
+23166;Sagnat;23;eau potable;170686;2024;68,4;0,8;1,8;65,4;conforme;4818;4818;67;162;197;Non vérifié
+23167;Sannat;23;eau potable;170783;2024;89,6;0,3;2,7;65,5;conforme;121089;3667;29;57;349;Non vérifié
+23168;Sardent;23;eau potable : SARDENT;170689;2024;65,5;1,0;1,8;65,4;conforme;23360;23360;84;221;760;Non vérifié
+23169;La Saunière;23;"eau potable : Entité de gestion ""eau potable"" en régie";289454;2024;74,9;1,6;4,8;66,0;conforme;452215;11524;48;128;663;Non vérifié
+23170;Savennes;23;"eau potable : Entité de gestion ""eau potable"" en régie";289454;2024;74,9;1,6;4,8;66,0;conforme;452215;3633;48;128;209;Non vérifié
+23171;Sermur;23;eau potable;170783;2024;89,6;0,3;2,7;65,5;conforme;121089;1072;29;57;102;Non vérifié
+23172;La Serre-Bussière-Vieille;23;eau potable;170783;2024;89,6;0,3;2,7;65,5;conforme;121089;1261;29;57;120;Non vérifié
+23173;Soubrebost;23;eau potable : SOUBREBOST;170695;2024;65,2;0,5;0,9;65,2;conforme;8864;8864;175;223;139;Non vérifié
+23174;Soumans;23;eau potable : CONFLUENCE EAUX;333354;2024;78,3;0,6;2,0;65,4;conforme;269808;10715;48;107;611;Non vérifié
+23175;Sous-Parsat;23;eau potable;170787;2024;68,7;0,6;1,3;65,3;conforme;83713;1114;27;168;112;Non vérifié
+23176;La Souterraine;23;eau potable;213818;2024;87,2;0,9;6,2;66,2;conforme;36887;36887;20;53;4978;Non vérifié
+23177;Saint-Agnant-de-Versillat;23;eau potable;213417;2024;95,8;0,1;2,3;65,5;conforme;2208;2208;6;16;1039;Non vérifié
+23178;Saint-Agnant-près-Crocq;23;eau potable;170773;2024;77,1;0,9;3,0;65,6;conforme;130717;7153;102;110;193;Non vérifié
+23179;Saint-Alpinien;23;eau potable;170783;2024;89,6;0,3;2,7;65,5;conforme;121089;3047;29;57;290;Non vérifié
+23180;Saint-Amand;23;eau potable;170783;2024;89,6;0,3;2,7;65,5;conforme;121089;4718;29;57;449;Non vérifié
+23181;Saint-Amand-Jartoudeix;23;eau potable;170781;2024;97,3;0,1;0,8;65,2;conforme;16425;1409;26;56;150;Non vérifié
+23182;Saint-Avit-de-Tardes;23;eau potable;170783;2024;89,6;0,3;2,7;65,5;conforme;121089;1671;29;57;159;Non vérifié
+23183;Saint-Avit-le-Pauvre;23;eau potable;170787;2024;68,7;0,6;1,3;65,3;conforme;83713;925;27;168;93;Non vérifié
+23184;Saint-Bard;23;eau potable;170773;2024;77,1;0,9;3,0;65,6;conforme;130717;3447;102;110;93;Non vérifié
+23185;Saint-Chabrais;23;eau potable;170785;2024;78,1;0,7;2,4;65,5;conforme;21447;3172;27;104;317;Non vérifié
+23186;Saint-Christophe;23;"eau potable : Entité de gestion ""eau potable"" en régie";289454;2024;74,9;1,6;4,8;66,0;conforme;452215;2572;48;128;148;Non vérifié
+23187;Saint-Dizier-la-Tour;23;eau potable;170766;2024;75,9;0,6;2,0;65,4;conforme;77482;2829;44;127;178;Non vérifié
+23188;Saint-Dizier-les-Domaines;23;eau potable;170707;2024;79,6;0,8;3,1;65,6;conforme;9636;9636;128;185;207;Non vérifié
+23189;Saint-Dizier-Masbaraud;23;eau potable;170767;2024;70,6;0,9;2,1;65,4;conforme;170163;22353;54;156;1143;Non vérifié
+23190;Saint-Domet;23;eau potable;170783;2024;89,6;0,3;2,7;65,5;conforme;121089;1681;29;57;160;Non vérifié
+23191;Saint-Éloi;23;"eau potable : Entité de gestion ""eau potable"" en régie";289454;2024;74,9;1,6;4,8;66,0;conforme;452215;3042;48;128;175;Non vérifié
+23192;Fursac;23;eau potable;170767;2024;70,6;0,9;2,1;65,4;conforme;170163;27966;54;156;1430;Non vérifié
+23193;Sainte-Feyre;23;"eau potable : Entité de gestion ""eau potable"" en délégation de Sainte Feyre";292654;2024;70,8;1,4;3,4;65,7;conforme;39710;39710;42;148;2566;Non vérifié
+23194;Sainte-Feyre-la-Montagne;23;eau potable;170783;2024;89,6;0,3;2,7;65,5;conforme;121089;1271;29;57;121;Non vérifié
+23195;Saint-Fiel;23;"eau potable : Entité de gestion ""eau potable"" en régie";289454;2024;74,9;1,6;4,8;66,0;conforme;452215;18894;48;128;1087;Non vérifié
+23196;Saint-Frion;23;eau potable;170783;2024;89,6;0,3;2,7;65,5;conforme;121089;2637;29;57;251;Non vérifié
+23197;Saint-Georges-la-Pouge;23;eau potable;170787;2024;68,7;0,6;1,3;65,3;conforme;83713;3532;27;168;355;Non vérifié
+23198;Saint-Georges-Nigremont;23;eau potable;170783;2024;89,6;0,3;2,7;65,5;conforme;121089;1408;29;57;134;Non vérifié
+23199;Saint-Germain-Beaupré;23;eau potable;170770;2024;67,8;1,4;2,9;65,6;conforme;24528;4197;33;175;352;Non vérifié
+23200;Saint-Goussaud;23;eau potable;170767;2024;70,6;0,9;2,1;65,4;conforme;170163;3070;54;156;157;Non vérifié
+23201;Saint-Hilaire-la-Plaine;23;eau potable : CONFLUENCE EAUX;333354;2024;78,3;0,6;2,0;65,4;conforme;269808;3665;48;107;209;Non vérifié
+23202;Saint-Hilaire-le-Château;23;eau potable;170717;2024;95,1;0,0;0,7;65,1;conforme;0;0;0;0;224;Non vérifié
+23203;Saint-Julien-la-Genête;23;eau potable;170783;2024;89,6;0,3;2,7;65,5;conforme;121089;2259;29;57;215;Non vérifié
+23204;Saint-Julien-le-Châtel;23;eau potable;170783;2024;89,6;0,3;2,7;65,5;conforme;121089;1660;29;57;158;Non vérifié
+23205;Saint-Junien-la-Bregère;23;eau potable;170781;2024;97,3;0,1;0,8;65,2;conforme;16425;1353;26;56;144;Non vérifié
+23206;Saint-Laurent;23;"eau potable : Entité de gestion ""eau potable"" en régie";289454;2024;74,9;1,6;4,8;66,0;conforme;452215;11646;48;128;670;Non vérifié
+23207;Saint-Léger-Bridereix;23;eau potable;170720;2024;88,0;0,4;3,0;65,6;conforme;2044;2044;35;48;162;Non vérifié
+23208;Saint-Léger-le-Guérétois;23;"eau potable : Entité de gestion ""eau potable"" en régie";289454;2024;74,9;1,6;4,8;66,0;conforme;452215;6970;48;128;401;Non vérifié
+23209;Saint-Loup;23;eau potable;170785;2024;78,1;0,7;2,4;65,5;conforme;21447;2012;27;104;201;Non vérifié
+23210;Saint-Maixant;23;eau potable;170783;2024;89,6;0,3;2,7;65,5;conforme;121089;2333;29;57;222;Non vérifié
+23211;Saint-Marc-à-Frongier;23;eau potable;170787;2024;68,7;0,6;1,3;65,3;conforme;83713;4259;27;168;428;Non vérifié
+23212;Saint-Marc-à-Loubaud;23;eau potable;170787;2024;68,7;0,6;1,3;65,3;conforme;83713;1254;27;168;126;Non vérifié
+23213;Saint-Marien;23;eau potable : CONFLUENCE EAUX;333354;2024;78,3;0,6;2,0;65,4;conforme;269808;3437;48;107;196;Non vérifié
+23214;Saint-Martial-le-Mont;23;eau potable;170766;2024;75,9;0,6;2,0;65,4;conforme;77482;4211;44;127;265;Non vérifié
+23215;Saint-Martial-le-Vieux;23;eau potable;170773;2024;77,1;0,9;3,0;65,6;conforme;130717;5559;102;110;150;Non vérifié
+23216;Saint-Martin-Château;23;eau potable : Saint-Martin-Château;170727;2024;98,6;0,0;0,7;65,1;conforme;0;0;0;0;150;Non vérifié
+23217;Saint-Martin-Sainte-Catherine;23;eau potable;170781;2024;97,3;0,1;0,8;65,2;conforme;16425;3101;26;56;330;Non vérifié
+23218;Saint-Maurice-près-Crocq;23;eau potable;170773;2024;77,1;0,9;3,0;65,6;conforme;130717;3854;102;110;104;Non vérifié
+23219;Saint-Maurice-la-Souterraine;23;eau potable :;170728;2024;95,1;0,2;3,2;65,6;conforme;3212;3212;8;23;1116;Non vérifié
+23220;Saint-Médard-la-Rochette;23;eau potable;170783;2024;89,6;0,3;2,7;65,5;conforme;121089;5874;29;57;559;Non vérifié
+23221;Saint-Merd-la-Breuille;23;eau potable;170773;2024;77,1;0,9;3,0;65,6;conforme;130717;7338;102;110;198;Non vérifié
+23222;Saint-Michel-de-Veisse;23;eau potable;170787;2024;68,7;0,6;1,3;65,3;conforme;83713;1642;27;168;165;Non vérifié
+23223;Saint-Moreil;23;eau potable;170781;2024;97,3;0,1;0,8;65,2;conforme;16425;2152;26;56;229;Non vérifié
+23224;Saint-Oradoux-de-Chirouze;23;eau potable;170773;2024;77,1;0,9;3,0;65,6;conforme;130717;2631;102;110;71;Non vérifié
+23225;Saint-Oradoux-près-Crocq;23;eau potable;170773;2024;77,1;0,9;3,0;65,6;conforme;130717;4040;102;110;109;Non vérifié
+23226;Saint-Pardoux-d'Arnet;23;eau potable;170773;2024;77,1;0,9;3,0;65,6;conforme;130717;6041;102;110;163;Non vérifié
+23227;Saint-Pardoux-Morterolles;23;eau potable;170732;2020;89,9;0,1;0,7;65,1;conforme;613;613;8;50;211;Sans anomalie apparente
+23228;Saint-Pardoux-le-Neuf;23;eau potable;170783;2024;89,6;0,3;2,7;65,5;conforme;121089;1986;29;57;189;Non vérifié
+23229;Saint-Pardoux-les-Cards;23;eau potable;170766;2024;75,9;0,6;2,0;65,4;conforme;77482;4624;44;127;291;Non vérifié
+23230;Saint-Pierre-Chérignat;23;eau potable;170781;2024;97,3;0,1;0,8;65,2;conforme;16425;1541;26;56;164;Non vérifié
+23233;Saint-Pierre-le-Bost;23;eau potable : CONFLUENCE EAUX;333354;2024;78,3;0,6;2,0;65,4;conforme;269808;2087;48;107;119;Non vérifié
+23234;Saint-Priest;23;eau potable;170783;2024;89,6;0,3;2,7;65,5;conforme;121089;1566;29;57;149;Non vérifié
+23235;Saint-Priest-la-Feuille;23;eau potable;170769;2024;80,6;1,1;4,4;65,9;conforme;78168;6099;23;230;718;Non vérifié
+23236;Saint-Priest-la-Plaine;23;eau potable;170769;2024;80,6;1,1;4,4;65,9;conforme;78168;2191;23;230;258;Non vérifié
+23237;Saint-Priest-Palus;23;eau potable;170781;2024;97,3;0,1;0,8;65,2;conforme;16425;479;26;56;51;Non vérifié
+23238;Saint-Quentin-la-Chabanne;23;eau potable;170740;2024;87,4;0,2;1,5;65,3;conforme;2317;2317;18;50;362;Non vérifié
+23239;Saint-Sébastien;23;eau potable;170786;2024;84,6;0,4;2,5;65,5;conforme;12994;7624;34;59;612;Non vérifié
+23240;Saint-Silvain-Bas-le-Roc;23;eau potable : CONFLUENCE EAUX;333354;2024;78,3;0,6;2,0;65,4;conforme;269808;7190;48;107;410;Non vérifié
+23241;Saint-Silvain-Bellegarde;23;eau potable;170783;2024;89,6;0,3;2,7;65,5;conforme;121089;1986;29;57;189;Non vérifié
+23242;Saint-Silvain-Montaigut;23;"eau potable : Entité de gestion ""eau potable"" en régie";289454;2024;74,9;1,6;4,8;66,0;conforme;452215;3372;48;128;194;Non vérifié
+23243;Saint-Silvain-sous-Toulx;23;eau potable : CONFLUENCE EAUX;333354;2024;78,3;0,6;2,0;65,4;conforme;269808;2560;48;107;146;Non vérifié
+23244;Saint-Sulpice-le-Dunois;23;eau potable;170744;2024;64,7;1,4;2,5;65,5;non conforme;19367;19367;94;205;564;Non vérifié
+23245;Saint-Sulpice-le-Guérétois;23;"eau potable : Entité de gestion ""eau potable"" en régie";289454;2024;74,9;1,6;4,8;66,0;conforme;452215;32886;48;128;1892;Non vérifié
+23246;Saint-Sulpice-les-Champs;23;eau potable;170787;2024;68,7;0,6;1,3;65,3;conforme;83713;3383;27;168;340;Non vérifié
+23247;Saint-Vaury;23;"eau potable : Entité de gestion ""eau potable"" en régie";289454;2024;74,9;1,6;4,8;66,0;conforme;452215;29861;48;128;1718;Non vérifié
+23248;Saint-Victor-en-Marche;23;"eau potable : Entité de gestion ""eau potable"" en régie";289454;2024;74,9;1,6;4,8;66,0;conforme;452215;6240;48;128;359;Non vérifié
+23249;Saint-Yrieix-la-Montagne;23;eau potable;170787;2024;68,7;0,6;1,3;65,3;conforme;83713;2179;27;168;219;Non vérifié
+23250;Saint-Yrieix-les-Bois;23;"eau potable : Entité de gestion ""eau potable"" en régie";289454;2024;74,9;1,6;4,8;66,0;conforme;452215;4780;48;128;275;Non vérifié
+23251;Tardes;23;eau potable;170783;2024;89,6;0,3;2,7;65,5;conforme;121089;1250;29;57;119;Non vérifié
+23252;Tercillat;23;eau potable;78945;2024;78,1;0,6;2,3;65,5;conforme;60006;3649;63;96;158;Non vérifié
+23253;Thauron;23;eau potable : THAURON;170756;2024;85,5;0,3;1,6;65,3;conforme;1319;1319;22;70;166;Non vérifié
+23254;Toulx-Sainte-Croix;23;eau potable : CONFLUENCE EAUX;333354;2024;78,3;0,6;2,0;65,4;conforme;269808;4419;48;107;252;Non vérifié
+23255;Trois-Fonds;23;eau potable : CONFLUENCE EAUX;333354;2024;78,3;0,6;2,0;65,4;conforme;269808;2473;48;107;141;Non vérifié
+23257;Vallière;23;eau potable;170787;2024;68,7;0,6;1,3;65,3;conforme;83713;7015;27;168;705;Non vérifié
+23258;Vareilles;23;eau potable;170770;2024;67,8;1,4;2,9;65,6;conforme;24528;3947;33;175;331;Non vérifié
+23259;Verneiges;23;eau potable : CONFLUENCE EAUX;333354;2024;78,3;0,6;2,0;65,4;conforme;269808;2087;48;107;119;Non vérifié
+23260;Vidaillat;23;eau potable;170787;2024;68,7;0,6;1,3;65,3;conforme;83713;2030;27;168;204;Non vérifié
+23261;Viersat;23;eau potable : CONFLUENCE EAUX;333354;2024;78,3;0,6;2,0;65,4;conforme;269808;4875;48;107;278;Non vérifié
+23262;Vigeville;23;eau potable;170766;2024;75,9;0,6;2,0;65,4;conforme;77482;2606;44;127;164;Non vérifié
+23263;Villard;23;eau potable;170760;2024;92,3;0,4;5,0;66,0;conforme;3267;3267;23;41;381;Non vérifié
+23264;La Villedieu;23;eau potable : La Villedieu;170762;2024;92,6;0,4;5,4;66,1;conforme;438;438;23;27;52;Non vérifié
+23265;La Villeneuve;23;eau potable;170773;2024;77,1;0,9;3,0;65,6;conforme;130717;1631;102;110;44;Non vérifié
+23266;La Villetelle;23;eau potable;170783;2024;89,6;0,3;2,7;65,5;conforme;121089;1713;29;57;163;Non vérifié

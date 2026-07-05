@@ -1,0 +1,431 @@
+﻿# DourData — eau perdue par les réseaux d'eau potable (indicateurs SISPEA)
+# Périmètre : Département 10
+# Source : SISPEA — Système d'Information des Services Publics d'Eau et d'Assainissement, via data.gouv.fr / services.eaufrance.fr
+# Licence : Licence Ouverte 2.0 (Etalab)
+# Millésime des données : 2024 (année la plus récente disponible par commune)
+# Date de génération de l'export : 2026-07-05
+# Méthodologie et code : https://github.com/btaverne/dourdata
+# Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
+# Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
+10002;Ailleville;10;eau potable;148656;2024;56,6;5,4;7,1;66,4;non conforme;5874;5874;72;278;223;Non vérifié
+10003;Aix-Villemaur-Pâlis;10;eau potable : COPE DE VILLEMAUR / PALIS;221338;2024;81,5;1,1;5,0;66,0;conforme;10768;10768;9;80;3236;Non vérifié
+10004;Allibaudières;10;eau potable : COPE D'ALLIBAUDIERES-ORMES;148846;2024;93,5;0,3;3,6;65,7;conforme;2086;1169;15;30;208;Non vérifié
+10005;Amance;10;eau potable : COPE DE LA REGION DE VENDEUVRE ET DU LANDION;148869;2024;84,3;0,8;4,4;65,9;conforme;61659;2941;33;66;245;Non vérifié
+10006;Arcis-sur-Aube;10;eau potable : COPE D'ARCIS-SUR-AUBE;148659;2024;83,6;2,7;13,6;67,7;conforme;31516;31516;31;73;2785;Non vérifié
+10007;Arconville;10;eau potable : COPE D' ARCONVILLE;148661;2024;98,5;0,1;5,1;66,0;conforme;107;107;3;7;108;Non vérifié
+10008;Argançon;10;eau potable : COPE DE LA REGION DE VENDEUVRE ET DU LANDION;148869;2024;84,3;0,8;4,4;65,9;conforme;61659;1213;33;66;101;Non vérifié
+10010;Arrembécourt;10;eau potable : COPE DU NORD DE LA VOIRE;148875;2024;83,8;0,9;4,4;65,9;conforme;24105;967;56;77;47;Non vérifié
+10011;Arrentières;10;eau potable : COPE DE LA REGION DE LA FERME DES MEES;235134;2024;81,3;1,2;5,2;66,0;conforme;12991;3956;62;173;176;Non vérifié
+10012;Arsonval;10;eau potable : COPE D'ARSONVAL / JAUCOURT;148848;2024;65,4;2,7;5,1;66,0;non conforme;9855;6677;63;194;290;Non vérifié
+10013;Assenay;10;eau potable : COPE DES VALLEES DE LA MOGNE, DE LA SEINE, DE LA BARSE;148879;2024;83,9;1,4;7,4;66,5;conforme;242004;1529;32;69;133;Non vérifié
+10014;Assencières;10;eau potable : COPE DE LA BARBUISE;148872;2024;83,6;1,5;7,5;66,5;conforme;54613;2644;38;76;190;Non vérifié
+10015;Aubeterre;10;eau potable : COPE DE LA BARBUISE;148872;2024;83,6;1,5;7,5;66,5;conforme;54613;5538;38;76;398;Non vérifié
+10017;Aulnay;10;eau potable : COPE DES QUATRE VALLEES;198845;2024;80,8;1,2;5,1;66,0;conforme;74088;1936;49;89;108;Non vérifié
+10018;Auxon;10;eau potable : COPE DE LA REGION DE MONTIGNY-LES-MONTS;148893;2024;94,3;0,3;4,2;65,8;conforme;2707;1845;6;26;886;Non vérifié
+10019;Val-d'Auzon;10;eau potable : COPE DE LA REGION DE PINEY / LESMONT;148895;2024;95,5;0,3;5,5;66,1;conforme;16038;1311;10;21;356;Non vérifié
+10020;Avant-lès-Marcilly;10;eau potable : COPE DE LA REGION DE SOLIGNY-LES-ETANGS;148907;2024;81,6;1,0;4,5;65,9;conforme;12282;6458;35;87;509;Non vérifié
+10021;Avant-lès-Ramerupt;10;eau potable : COPE DES COMMUNES D'AVANT-LES-RAMERUPT / MESNIL-LETTRE;148849;2024;96,9;0,2;6,1;66,2;conforme;415;306;5;12;160;Non vérifié
+10022;Avirey-Lingey;10;eau potable;148665;2024;33,5;13,2;6,6;66,3;non conforme;24090;24090;337;726;196;Non vérifié
+10023;Avon-la-Pèze;10;eau potable : COPE DE LA REGION D'AVON-LA-PEZE;148881;2024;92,4;0,4;5,1;66,0;conforme;1384;791;10;29;211;Non vérifié
+10024;Avreuil;10;eau potable : COPE DE LA REGION DE MONTIGNY-LES-MONTS;148893;2024;94,3;0,3;4,2;65,8;conforme;2707;348;6;26;167;Non vérifié
+10025;Bagneux-la-Fosse;10;eau potable : COPE DE BAGNEUX-LA-FOSSE / BRAGELOGNE-BEAUVOIR;148850;2024;80,5;1,7;7,0;66,4;conforme;13372;6026;93;175;178;Non vérifié
+10026;Bailly-le-Franc;10;eau potable : COPE DU NORD DE LA VOIRE;148875;2024;83,8;0,9;4,4;65,9;conforme;24105;699;56;77;34;Non vérifié
+10027;Balignicourt;10;eau potable : COPE DES QUATRE VALLEES;198845;2024;80,8;1,2;5,1;66,0;conforme;74088;1004;49;89;56;Non vérifié
+10028;Balnot-la-Grange;10;eau potable : COPE DE BALNOT-LA-GRANGE / MAISONS-LES-CHAOURCE;148882;2024;76,7;1,1;3,6;65,7;conforme;6388;2462;61;111;111;Non vérifié
+10029;Balnot-sur-Laignes;10;eau potable : COPE DE BALNOT-SUR-LAIGNES;148666;2024;87,9;4,7;34,2;71,8;conforme;1921;1921;35;50;150;Non vérifié
+10030;Barberey-Saint-Sulpice;10;eau potable : COPE DE BARBEREY-SAINT-SULPICE;148668;2024;66,0;7,2;13,9;67,8;non conforme;46437;46437;83;189;1542;Non vérifié
+10031;Barbuise;10;eau potable : COPE DE LA REGION DE LA VILLENEUVE AU CHATELOT;148880;2024;70,6;2,1;5,0;66,0;conforme;16549;9776;62;152;433;Non vérifié
+10032;Baroville;10;eau potable : COPE DE BAROVILLE;148669;2024;85,1;1,0;5,6;66,1;conforme;3519;3519;38;65;252;Non vérifié
+10033;Bar-sur-Aube;10;eau potable : COPE DE BAR-SUR-AUBE;148670;2024;82,6;4,6;22,0;69,4;conforme;70719;70719;42;82;4665;Non vérifié
+10034;Bar-sur-Seine;10;eau potable : COPE DE BAR-SUR-SEINE;148672;2024;80,3;4,0;16,5;68,3;conforme;45187;45187;43;88;2858;Non vérifié
+10035;Bayel;10;eau potable : COPE DE BAYEL;148674;2024;66,2;2,8;5,4;66,1;conforme;14083;14083;52;189;738;Non vérifié
+10037;Bercenay-en-Othe;10;eau potable : COPE DE BERCENAY-EN-OTHE;148676;2024;76,2;1,8;5,9;66,2;conforme;6944;6944;46;112;412;Non vérifié
+10038;Bercenay-le-Hayer;10;eau potable : COPE DE LA REGION DE LA VALLEE DE L'ORVIN;148911;2024;78,2;1,2;4,2;65,8;conforme;10438;3911;57;115;187;Non vérifié
+10039;Bergères;10;eau potable : COPE DE BERGERES;337494;2024;67,4;3,8;7,9;66,6;conforme;3051;3051;75;176;111;Non vérifié
+10040;Bernon;10;eau potable : COPE DE BERNON;148679;2024;95,9;0,6;13,4;67,7;conforme;1141;1141;20;16;160;Non vérifié
+10041;Bertignolles;10;eau potable : COPE DE CHACENAY / CHERVEY / BERTIGNOLLES;148853;2024;92,9;0,3;4,0;65,8;conforme;1307;273;14;27;52;Non vérifié
+10042;Bérulle;10;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;2767;39;120;193;Non vérifié
+10043;Bessy;10;eau potable : COPE DE LA FORET DE LA PERTHE;195402;2024;78,1;1,3;4,7;65,9;conforme;30582;1517;37;100;111;Non vérifié
+10044;Bétignicourt;10;eau potable : COPE DE ROSNAY-L'HOPITAL;148910;2024;59,5;2,8;4,0;65,8;non conforme;38713;2210;195;253;31;Non vérifié
+10045;Beurey;10;eau potable : COPE DE LA REGION DE VENDEUVRE ET DU LANDION;148869;2024;84,3;0,8;4,4;65,9;conforme;61659;2113;33;66;176;Non vérifié
+10046;Blaincourt-sur-Aube;10;eau potable : COPE DE LA REGION DE PINEY / LESMONT;148895;2024;95,5;0,3;5,5;66,1;conforme;16038;357;10;21;97;Non vérifié
+10047;Blignicourt;10;eau potable : COPE DE ROSNAY-L'HOPITAL;148910;2024;59,5;2,8;4,0;65,8;non conforme;38713;2852;195;253;40;Non vérifié
+10048;Bligny;10;eau potable : COPE DE BLIGNY;148680;2024;86,0;1,1;6,8;66,4;conforme;2277;2277;39;59;160;Non vérifié
+10049;Les Bordes-Aumont;10;eau potable : COPE DES VALLEES DE LA MOGNE, DE LA SEINE, DE LA BARSE;148879;2024;83,9;1,4;7,4;66,5;conforme;242004;6255;32;69;544;Non vérifié
+10050;Bossancourt;10;eau potable : COPE DE TRANNES-BEAULIEU;148900;2024;76,1;1,1;3,7;65,7;conforme;28314;4923;70;113;193;Non vérifié
+10051;Bouilly;10;eau potable : COPE DE LA REGION DE BOUILLY / VILLERY / SOULIGNY;148902;2024;77,2;2,2;7,4;66,5;conforme;25375;15729;40;114;1073;Non vérifié
+10052;Boulages;10;eau potable : COPE DE LONGUEVILLE / ETRELLES-SUR-AUBE / BOULAGES / CHARNY-LE-BACHOT;148905;2024;65,0;2,7;5,0;66,0;non conforme;19759;5862;72;199;224;Non vérifié
+10053;Bouranton;10;eau potable : COPE DES VALLEES DE LA MOGNE, DE LA SEINE, DE LA BARSE;148879;2024;83,9;1,4;7,4;66,5;conforme;242004;7278;32;69;633;Non vérifié
+10054;Bourdenay;10;eau potable : COPE DE LA REGION DE LA VALLEE DE L'ORVIN;148911;2024;78,2;1,2;4,2;65,8;conforme;10438;2719;57;115;130;Non vérifié
+10055;Bourguignons;10;eau potable : COPE DE BOURGUIGNONS;148682;2024;85,1;1,0;5,5;66,1;conforme;2504;2504;28;67;247;Non vérifié
+10056;Bouy-Luxembourg;10;eau potable : COPE DE LA REGION DE ONJON / BOUY-LUXEMBOURG / LONGSOLS;148904;2024;63,3;3,2;5,5;66,1;non conforme;22426;8650;98;212;243;Non vérifié
+10057;Bouy-sur-Orvin;10;eau potable : COPE DE LA REGION DE SOLIGNY-LES-ETANGS;148907;2024;81,6;1,0;4,5;65,9;conforme;12282;723;35;87;57;Non vérifié
+10058;Bragelogne-Beauvoir;10;eau potable : COPE DE BAGNEUX-LA-FOSSE / BRAGELOGNE-BEAUVOIR;148850;2024;80,5;1,7;7,0;66,4;conforme;13372;7346;93;175;217;Non vérifié
+10059;Braux;10;eau potable : COPE DE ROSNAY-L'HOPITAL;148910;2024;59,5;2,8;4,0;65,8;non conforme;38713;8128;195;253;114;Non vérifié
+10060;Bréviandes;10;eau potable : COPE DES COMMUNES DE SAINT-JULIEN-LES-VILLAS / ROSIERES-PRES-TROYES / BREVIANDES;148897;2024;83,6;4,8;24,7;69,9;conforme;183697;39903;34;71;3219;Non vérifié
+10061;Brévonnes;10;eau potable : COPE DE LA REGION DE PINEY / LESMONT;148895;2024;95,5;0,3;5,5;66,1;conforme;16038;2478;10;21;673;Non vérifié
+10062;Briel-sur-Barse;10;eau potable : COPE DES VALLEES DE LA MOGNE, DE LA SEINE, DE LA BARSE;148879;2024;83,9;1,4;7,4;66,5;conforme;242004;2242;32;69;195;Non vérifié
+10063;Brienne-la-Vieille;10;eau potable : COPE DE LA REGION DE BRIENNE-LE-CHATEAU;148883;2024;81,5;1,8;7,7;66,5;conforme;73367;5184;38;85;378;Non vérifié
+10064;Brienne-le-Château;10;eau potable : COPE DE LA REGION DE BRIENNE-LE-CHATEAU;148883;2024;81,5;1,8;7,7;66,5;conforme;73367;36642;38;85;2672;Non vérifié
+10065;Brillecourt;10;eau potable : COPE DES QUATRE VALLEES;198845;2024;80,8;1,2;5,1;66,0;conforme;74088;1631;49;89;91;Non vérifié
+10066;Bucey-en-Othe;10;eau potable : COPE DE BUCEY-EN-OTHE;148686;2024;74,7;2,5;7,2;66,4;conforme;6625;6625;42;126;430;Non vérifié
+10067;Buchères;10;eau potable : COPE DE BUCHERES / ISLE-AUMONT / MOUSSEY;202485;2024;98,8;0,2;17,8;68,6;conforme;3782;2417;3;7;2055;Non vérifié
+10068;Buxeuil;10;eau potable : COPE DE LA REGION DE GYE-SUR-SEINE;148834;2024;90,4;0,9;8,6;66,7;conforme;9776;1018;26;38;109;Non vérifié
+10069;Buxières-sur-Arce;10;eau potable : COPE DES COMMUNES DE BUXIERES-SUR-ARCE / VILLE-SUR-ARCE;148851;2024;82,5;1,5;6,9;66,4;conforme;6619;2163;59;79;100;Non vérifié
+10070;Celles-sur-Ource;10;eau potable;226534;2024;71,4;3,6;8,9;66,8;conforme;21536;21536;120;316;490;Non vérifié
+10071;Chacenay;10;eau potable : COPE DE CHACENAY / CHERVEY / BERTIGNOLLES;148853;2024;92,9;0,3;4,0;65,8;conforme;1307;273;14;27;52;Non vérifié
+10072;La Chaise;10;eau potable : COPE DE LA REGION DE BRIENNE-LE-CHATEAU;148883;2024;81,5;1,8;7,7;66,5;conforme;73367;439;38;85;32;Non vérifié
+10073;Chalette-sur-Voire;10;eau potable : COPE DE LA REGION DE PINEY / LESMONT;148895;2024;95,5;0,3;5,5;66,1;conforme;16038;493;10;21;134;Non vérifié
+10074;Chamoy;10;eau potable : COPE DE CHAMOY / SAINT-PHAL;148884;2024;83,3;1,0;5,0;66,0;conforme;10045;4914;27;76;499;Non vérifié
+10075;Champfleury;10;eau potable : COPE DE CHAMPFLEURY / SALON;148854;2024;83,3;1,9;9,6;66,9;conforme;11588;5334;133;103;110;Non vérifié
+10076;Champignol-lez-Mondeville;10;eau potable : COPE DE CHAMPIGNOL-LEZ-MONDEVILLE;148688;2024;77,1;2,0;6,8;66,4;conforme;5227;5227;55;108;260;Non vérifié
+10077;Champigny-sur-Aube;10;eau potable : COPE DE LA FORET DE LA PERTHE;195402;2024;78,1;1,3;4,7;65,9;conforme;30582;1230;37;100;90;Non vérifié
+10078;Champ-sur-Barse;10;eau potable : COPE DE LA REGION DE VENDEUVRE ET DU LANDION;148869;2024;84,3;0,8;4,4;65,9;conforme;61659;312;33;66;26;Non vérifié
+10079;Channes;10;eau potable : COPE DE CHANNES / ARTHONNAY;148885;2024;66,9;2,3;4,6;65,9;conforme;8605;3602;91;183;108;Non vérifié
+10080;Chaource;10;eau potable : COPE DE LA REGION DE VANLAY;148901;2024;88,4;0,7;5,4;66,1;conforme;33077;11664;32;50;1011;Non vérifié
+10081;La Chapelle-Saint-Luc;10;eau potable : COPE DE LA CHAPELLE-SAINT-LUC;148691;2024;95,0;1,8;34,1;71,8;conforme;30261;30261;7;20;12648;Non vérifié
+10082;Chapelle-Vallon;10;eau potable : COPE DE CHAPELLE-VALLON;148692;2024;91,9;0,5;6,2;66,2;conforme;867;867;10;29;232;Non vérifié
+10083;Chappes;10;eau potable : COPE DES VALLEES DE LA MOGNE, DE LA SEINE, DE LA BARSE;148879;2024;83,9;1,4;7,4;66,5;conforme;242004;4139;32;69;360;Non vérifié
+10084;Charmont-sous-Barbuise;10;eau potable : COPE DE LA BARBUISE;148872;2024;83,6;1,5;7,5;66,5;conforme;54613;14652;38;76;1053;Non vérifié
+10085;Charmoy;10;eau potable : COPE DE LA REGION DE SOLIGNY-LES-ETANGS;148907;2024;81,6;1,0;4,5;65,9;conforme;12282;761;35;87;60;Non vérifié
+10086;Charny-le-Bachot;10;eau potable : COPE DE LONGUEVILLE / ETRELLES-SUR-AUBE / BOULAGES / CHARNY-LE-BACHOT;148905;2024;65,0;2,7;5,0;66,0;non conforme;19759;6255;72;199;239;Non vérifié
+10087;Chaserey;10;eau potable : COPE DU LANDION;148855;2024;88,3;0,4;3,3;65,7;conforme;4085;493;30;44;45;Non vérifié
+10089;Châtres;10;eau potable : COPE DE CHATRES;148693;2024;83,4;2,1;10,8;67,2;conforme;7427;7427;29;71;708;Non vérifié
+10090;Chauchigny;10;eau potable : COPE DES COMMUNES DE SAVIERES / CHAUCHIGNY / RILLY-SAINTE-SYRE;148899;2024;80,5;2,0;8,4;66,7;conforme;16980;2423;30;87;219;Non vérifié
+10091;Chaudrey;10;eau potable : COPE DES QUATRE VALLEES;198845;2024;80,8;1,2;5,1;66,0;conforme;74088;2492;49;89;139;Non vérifié
+10092;Chauffour-lès-Bailly;10;eau potable : COPE DES VALLEES DE LA MOGNE, DE LA SEINE, DE LA BARSE;148879;2024;83,9;1,4;7,4;66,5;conforme;242004;1483;32;69;129;Non vérifié
+10093;Chaumesnil;10;eau potable : COPE DE LA REGION DE BRIENNE-LE-CHATEAU;148883;2024;81,5;1,8;7,7;66,5;conforme;73367;1536;38;85;112;Non vérifié
+10094;Chavanges;10;eau potable : COPE DU NORD DE LA VOIRE;148875;2024;83,8;0,9;4,4;65,9;conforme;24105;11662;56;77;567;Non vérifié
+10095;Le Chêne;10;eau potable : COPE DES QUATRE VALLEES;198845;2024;80,8;1,2;5,1;66,0;conforme;74088;4965;49;89;277;Non vérifié
+10096;Chennegy;10;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;6767;39;120;472;Non vérifié
+10097;Chervey;10;eau potable : COPE DE CHACENAY / CHERVEY / BERTIGNOLLES;148853;2024;92,9;0,3;4,0;65,8;conforme;1307;761;14;27;145;Non vérifié
+10098;Chesley;10;eau potable : COPE DE LA REGION DE VANLAY;148901;2024;88,4;0,7;5,4;66,1;conforme;33077;3380;32;50;293;Non vérifié
+10099;Chessy-les-Prés;10;eau potable : COPE D’OTHE-ARMANCE;148887;2024;92,4;0,3;3,6;65,7;conforme;7879;3404;17;30;534;Non vérifié
+10100;Clérey;10;eau potable : COPE DES VALLEES DE LA MOGNE, DE LA SEINE, DE LA BARSE;148879;2024;83,9;1,4;7,4;66,5;conforme;242004;13280;32;69;1155;Non vérifié
+10101;Coclois;10;eau potable : COPE DES QUATRE VALLEES;198845;2024;80,8;1,2;5,1;66,0;conforme;74088;3047;49;89;170;Non vérifié
+10102;Colombé-la-Fosse;10;eau potable : COPE DE LA REGION DE LA FERME DES MEES;235134;2024;81,3;1,2;5,2;66,0;conforme;12991;3641;62;173;162;Non vérifié
+10103;Colombé-le-Sec;10;eau potable : COPE DE LA REGION DE LA FERME DES MEES;235134;2024;81,3;1,2;5,2;66,0;conforme;12991;3529;62;173;157;Non vérifié
+10104;Cormost;10;eau potable : COPE DES VALLEES DE LA MOGNE, DE LA SEINE, DE LA BARSE;148879;2024;83,9;1,4;7,4;66,5;conforme;242004;3254;32;69;283;Non vérifié
+10105;Courcelles-sur-Voire;10;eau potable : COPE DU NORD DE LA VOIRE;148875;2024;83,8;0,9;4,4;65,9;conforme;24105;452;56;77;22;Non vérifié
+10106;Courceroy;10;eau potable : COPE ENTRE LES COMMUNES DE LA MOTTE-TILLY / DE COURCEROY;148859;2024;92,9;0,9;11,3;67,3;conforme;3807;1092;20;52;150;Non vérifié
+10107;Coursan-en-Othe;10;eau potable : COPE D’OTHE-ARMANCE;148887;2024;92,4;0,3;3,6;65,7;conforme;7879;637;17;30;100;Non vérifié
+10108;Courtaoult;10;eau potable : COPE D’OTHE-ARMANCE;148887;2024;92,4;0,3;3,6;65,7;conforme;7879;606;17;30;95;Non vérifié
+10109;Courtenot;10;eau potable : COPE DES VALLEES DE LA MOGNE, DE LA SEINE, DE LA BARSE;148879;2024;83,9;1,4;7,4;66,5;conforme;242004;2426;32;69;211;Non vérifié
+10110;Courteranges;10;eau potable : COPE DES VALLEES DE LA MOGNE, DE LA SEINE, DE LA BARSE;148879;2024;83,9;1,4;7,4;66,5;conforme;242004;6830;32;69;594;Non vérifié
+10111;Courteron;10;eau potable : COPE DE LA REGION DE GYE-SUR-SEINE;148834;2024;90,4;0,9;8,6;66,7;conforme;9776;924;26;38;99;Non vérifié
+10112;Coussegrey;10;eau potable : COPE DE LA REGION DE VANLAY;148901;2024;88,4;0,7;5,4;66,1;conforme;33077;2077;32;50;180;Non vérifié
+10113;Couvignon;10;eau potable : COPE DE LA REGION DE VENDEUVRE ET DU LANDION;148869;2024;84,3;0,8;4,4;65,9;conforme;61659;2389;33;66;199;Non vérifié
+10114;Crancey;10;eau potable : COPE DE PONT-SUR-SEINE / CRANCEY / MARNAY-SUR-SEINE / SAINT-HILAIRE;148896;2024;74,3;2,1;6,0;66,2;conforme;40395;11903;47;127;691;Non vérifié
+10115;Creney-près-Troyes;10;eau potable : COPE DE PONT-SAINTE-MARIE / CRENEY / LAVAU;148861;2024;90,6;1,7;16,9;68,4;conforme;44043;10719;15;37;2013;Non vérifié
+10116;Crésantignes;10;eau potable : COPE DES VALLEES DE LA MOGNE, DE LA SEINE, DE LA BARSE;148879;2024;83,9;1,4;7,4;66,5;conforme;242004;3530;32;69;307;Non vérifié
+10117;Crespy-le-Neuf;10;eau potable : COPE DE LA REGION DE BRIENNE-LE-CHATEAU;148883;2024;81,5;1,8;7,7;66,5;conforme;73367;1687;38;85;123;Non vérifié
+10118;Les Croûtes;10;eau potable : COPE D’OTHE-ARMANCE;148887;2024;92,4;0,3;3,6;65,7;conforme;7879;631;17;30;99;Non vérifié
+10119;Cunfin;10;eau potable;148704;2024;82,9;1,7;8,1;66,6;conforme;2786;2786;47;77;161;Non vérifié
+10120;Cussangy;10;eau potable : COPE DE LA REGION DE VANLAY;148901;2024;88,4;0,7;5,4;66,1;conforme;33077;2307;32;50;200;Non vérifié
+10121;Dampierre;10;eau potable : COPE DES QUATRE VALLEES;198845;2024;80,8;1,2;5,1;66,0;conforme;74088;5862;49;89;327;Non vérifié
+10122;Davrey;10;eau potable : COPE D’OTHE-ARMANCE;148887;2024;92,4;0,3;3,6;65,7;conforme;7879;1460;17;30;229;Non vérifié
+10123;Dienville;10;eau potable : COPE DE LA REGION DE BRIENNE-LE-CHATEAU;148883;2024;81,5;1,8;7,7;66,5;conforme;73367;11149;38;85;813;Non vérifié
+10124;Dierrey-Saint-Julien;10;eau potable : COPE DE LA REGION DE DIERREY-SAINT-PIERRE / DIERREY-SAINT-JULIEN;148856;2024;89,7;0,9;8,1;66,6;conforme;3384;1604;16;40;275;Non vérifié
+10125;Dierrey-Saint-Pierre;10;eau potable : COPE DE LA REGION DE DIERREY-SAINT-PIERRE / DIERREY-SAINT-JULIEN;148856;2024;89,7;0,9;8,1;66,6;conforme;3384;1779;16;40;305;Non vérifié
+10126;Dolancourt;10;eau potable : COPE DE LA REGION DE VENDEUVRE ET DU LANDION;148869;2024;84,3;0,8;4,4;65,9;conforme;61659;1489;33;66;124;Non vérifié
+10127;Dommartin-le-Coq;10;eau potable : COPE DES QUATRE VALLEES;198845;2024;80,8;1,2;5,1;66,0;conforme;74088;878;49;89;49;Non vérifié
+10128;Donnement;10;eau potable : COPE DES QUATRE VALLEES;198845;2024;80,8;1,2;5,1;66,0;conforme;74088;1273;49;89;71;Non vérifié
+10129;Dosches;10;eau potable : COPE DES VALLEES DE LA MOGNE, DE LA SEINE, DE LA BARSE;148879;2024;83,9;1,4;7,4;66,5;conforme;242004;3587;32;69;312;Non vérifié
+10130;Dosnon;10;eau potable : COPE DES QUATRE VALLEES;198845;2024;80,8;1,2;5,1;66,0;conforme;74088;1793;49;89;100;Non vérifié
+10131;Droupt-Saint-Basle;10;eau potable : COPE DE LA REGION DE SAINT-MESMIN;148898;2024;78,9;1,9;7,0;66,4;conforme;26707;4178;34;99;339;Non vérifié
+10132;Droupt-Sainte-Marie;10;eau potable : COPE DE LA REGION DE SAINT-MESMIN;148898;2024;78,9;1,9;7,0;66,4;conforme;26707;3155;34;99;256;Non vérifié
+10133;Eaux-Puiseaux;10;eau potable : COPE D’EAUX-PUISEAUX;148706;2024;80,1;1,6;6,3;66,3;conforme;4018;4018;44;93;248;Non vérifié
+10134;Échemines;10;eau potable : COPE D'ECHEMINES;148707;2024;76,3;2,2;7,2;66,4;conforme;1574;1574;53;112;82;Non vérifié
+10135;Éclance;10;eau potable : COPE DE TRANNES-BEAULIEU;148900;2024;76,1;1,1;3,7;65,7;conforme;28314;2194;70;113;86;Non vérifié
+10136;Éguilly-sous-Bois;10;eau potable : COPE DE LA REGION D'EGUILLY-SOUS-BOIS / VITRY-LE-CROISE;148870;2024;86,2;0,9;5,7;66,1;conforme;3137;1043;26;57;111;Non vérifié
+10137;Engente;10;eau potable : COPE DE LA REGION DE LA FERME DES MEES;235134;2024;81,3;1,2;5,2;66,0;conforme;12991;584;62;173;26;Non vérifié
+10138;Épagne;10;eau potable : COPE DE LA REGION DE BRIENNE-LE-CHATEAU;148883;2024;81,5;1,8;7,7;66,5;conforme;73367;1728;38;85;126;Non vérifié
+10139;Épothémont;10;eau potable : COPE DE LA REGION DE MAIZIERES-LES-BRIENNE;148890;2024;75,9;1,1;3,6;65,7;conforme;11310;2427;43;116;153;Non vérifié
+10140;Ervy-le-Châtel;10;eau potable;148708;2024;33,9;25,8;13,2;67,6;non conforme;155380;155380;387;711;1099;Non vérifié
+10141;Essoyes;10;eau potable : COPE D'ESSOYES;148710;2024;81,3;1,6;6,7;66,3;conforme;8766;8766;34;87;708;Non vérifié
+10142;Estissac;10;eau potable : COPE D' ESTISSAC;148711;2024;71,7;3,2;8,2;66,6;conforme;28651;28651;45;142;1763;Non vérifié
+10143;Étourvy;10;eau potable : COPE DU LANDION;148855;2024;88,3;0,4;3,3;65,7;conforme;4085;1544;30;44;141;Non vérifié
+10144;Étrelles-sur-Aube;10;eau potable : COPE DE LONGUEVILLE / ETRELLES-SUR-AUBE / BOULAGES / CHARNY-LE-BACHOT;148905;2024;65,0;2,7;5,0;66,0;non conforme;19759;4135;72;199;158;Non vérifié
+10145;Faux-Villecerf;10;eau potable : COPE DU PLATEAU DE LA CRAISE;148876;2024;89,6;0,4;3,6;65,7;conforme;3727;1452;19;41;215;Non vérifié
+10146;Fay-lès-Marcilly;10;eau potable : COPE DE LA REGION DE SOLIGNY-LES-ETANGS;148907;2024;81,6;1,0;4,5;65,9;conforme;12282;1015;35;87;80;Non vérifié
+10147;Fays-la-Chapelle;10;eau potable : COPE DES VALLEES DE LA MOGNE, DE LA SEINE, DE LA BARSE;148879;2024;83,9;1,4;7,4;66,5;conforme;242004;1368;32;69;119;Non vérifié
+10148;Ferreux-Quincey;10;eau potable : COPE DE LA VALLEE DE L'ARDUSSON;148877;2024;83,7;1,7;8,7;66,7;conforme;25378;5842;40;114;404;Non vérifié
+10149;Feuges;10;eau potable : COPE DE FEUGES;148713;2024;91,4;0,4;4,1;65,8;conforme;1848;1848;15;39;330;Non vérifié
+10150;Fontaine;10;eau potable;148714;2024;100,0;0,0;7,7;66,5;conforme;0;0;0;0;246;Non vérifié
+10151;Fontaine-les-Grès;10;eau potable : COPE DE FONTAINE-LES-GRES;148715;2024;97,0;0,3;9,0;66,8;conforme;1360;1360;4;12;914;Non vérifié
+10153;Fontaine-Mâcon;10;eau potable : COPE DE FONTAINE MACON;148716;2024;75,9;2,0;6,3;66,3;conforme;9782;9782;42;117;635;Non vérifié
+10154;Fontenay-de-Bossery;10;eau potable : COPE DE FONTENAY-DE-BOSSERY / GUMERY;148857;2024;95,6;0,2;4,4;65,9;conforme;899;213;8;16;70;Non vérifié
+10155;Fontette;10;eau potable : COPE DE FONTETTE, SAINT-USAGE, VERPILLIERES-SUR-OURCE;148858;2024;93,3;0,2;3,3;65,7;conforme;1558;783;12;22;178;Non vérifié
+10156;Fontvannes;10;eau potable : COPE DE FONTVANNES;148718;2024;95,4;1,4;28,6;70,7;conforme;5534;5534;21;60;707;Non vérifié
+10157;La Fosse-Corduan;10;eau potable : COPE DE LA VALLEE DE L'ARDUSSON;148877;2024;83,7;1,7;8,7;66,7;conforme;25378;3080;40;114;213;Non vérifié
+10158;Fouchères;10;eau potable : COPE DES VALLEES DE LA MOGNE, DE LA SEINE, DE LA BARSE;148879;2024;83,9;1,4;7,4;66,5;conforme;242004;5783;32;69;503;Non vérifié
+10159;Fralignes;10;eau potable : COPE DE LA REGION DE VENDEUVRE ET DU LANDION;148869;2024;84,3;0,8;4,4;65,9;conforme;61659;1213;33;66;101;Non vérifié
+10160;Fravaux;10;eau potable : COPE DE LA REGION DE VENDEUVRE ET DU LANDION;148869;2024;84,3;0,8;4,4;65,9;conforme;61659;432;33;66;36;Non vérifié
+10161;Fresnay;10;eau potable : COPE DE TRANNES-BEAULIEU;148900;2024;76,1;1,1;3,7;65,7;conforme;28314;1250;70;113;49;Non vérifié
+10162;Fresnoy-le-Château;10;eau potable : COPE DES VALLEES DE LA MOGNE, DE LA SEINE, DE LA BARSE;148879;2024;83,9;1,4;7,4;66,5;conforme;242004;3093;32;69;269;Non vérifié
+10163;Fuligny;10;eau potable : COPE DE TRANNES-BEAULIEU;148900;2024;76,1;1,1;3,7;65,7;conforme;28314;1020;70;113;40;Non vérifié
+10164;Gélannes;10;eau potable : COPE DES COMMUNES DE PARS-LES-ROMILLY / GELANNES;148860;2024;88,2;0,9;6,4;66,3;conforme;8285;3736;15;52;694;Non vérifié
+10165;Géraudot;10;eau potable : COPE DES VALLEES DE LA MOGNE, DE LA SEINE, DE LA BARSE;148879;2024;83,9;1,4;7,4;66,5;conforme;242004;3898;32;69;339;Non vérifié
+10166;Les Grandes-Chapelles;10;eau potable : COPE DES GRANDES CHAPELLES;148721;2024;78,6;1,7;6,3;66,3;conforme;5752;5752;39;99;401;Non vérifié
+10167;Grandville;10;eau potable : COPE DES QUATRE VALLEES;198845;2024;80,8;1,2;5,1;66,0;conforme;74088;1542;49;89;86;Non vérifié
+10168;Les Granges;10;eau potable : COPE DE LA REGION DE VANLAY;148901;2024;88,4;0,7;5,4;66,1;conforme;33077;911;32;50;79;Non vérifié
+10169;Gumery;10;eau potable : COPE DE FONTENAY-DE-BOSSERY / GUMERY;148857;2024;95,6;0,2;4,4;65,9;conforme;899;686;8;16;225;Non vérifié
+10170;Gyé-sur-Seine;10;eau potable : COPE DE LA REGION DE GYE-SUR-SEINE;148834;2024;90,4;0,9;8,6;66,7;conforme;9776;4323;26;38;463;Non vérifié
+10171;Hampigny;10;eau potable : COPE DE LA REGION DE MAIZIERES-LES-BRIENNE;148890;2024;75,9;1,1;3,6;65,7;conforme;11310;3442;43;116;217;Non vérifié
+10172;Herbisse;10;eau potable : COPE DES VALLEES DE LA MAURIENNE ET DE L'HERBISSONNE;148909;2024;86,9;0,9;6,2;66,2;conforme;11701;2915;54;53;148;Non vérifié
+10173;Isle-Aumont;10;eau potable : COPE DE BUCHERES / ISLE-AUMONT / MOUSSEY;202485;2024;98,8;0,2;17,8;68,6;conforme;3782;594;3;7;505;Non vérifié
+10174;Isle-Aubigny;10;eau potable : COPE DES QUATRE VALLEES;198845;2024;80,8;1,2;5,1;66,0;conforme;74088;2976;49;89;166;Non vérifié
+10175;Jasseines;10;eau potable : COPE DES QUATRE VALLEES;198845;2024;80,8;1,2;5,1;66,0;conforme;74088;2779;49;89;155;Non vérifié
+10176;Jaucourt;10;eau potable : COPE D'ARSONVAL / JAUCOURT;148848;2024;65,4;2,7;5,1;66,0;non conforme;9855;3178;63;194;138;Non vérifié
+10177;Javernant;10;eau potable : COPE DE JAVERNANT;148722;2024;89,1;0,7;5,3;66,1;conforme;953;953;16;48;165;Non vérifié
+10178;Jessains;10;eau potable : COPE DE TRANNES-BEAULIEU;148900;2024;76,1;1,1;3,7;65,7;conforme;28314;6402;70;113;251;Non vérifié
+10179;Jeugny;10;eau potable : COPE DES VALLEES DE LA MOGNE, DE LA SEINE, DE LA BARSE;148879;2024;83,9;1,4;7,4;66,5;conforme;242004;5323;32;69;463;Non vérifié
+10180;Joncreuil;10;eau potable : COPE DU NORD DE LA VOIRE;148875;2024;83,8;0,9;4,4;65,9;conforme;24105;1851;56;77;90;Non vérifié
+10181;Jully-sur-Sarce;10;eau potable;148723;2024;82,9;3,6;17,5;68,5;conforme;6833;6833;81;75;232;Non vérifié
+10182;Juvancourt;10;eau potable;148725;2024;100,0;0,0;13,2;67,6;conforme;0;0;0;0;102;Non vérifié
+10183;Juvanzé;10;eau potable : COPE DE TRANNES-BEAULIEU;148900;2024;76,1;1,1;3,7;65,7;conforme;28314;918;70;113;36;Non vérifié
+10184;Juzanvigny;10;eau potable : COPE DE LA REGION DE BRIENNE-LE-CHATEAU;148883;2024;81,5;1,8;7,7;66,5;conforme;73367;1646;38;85;120;Non vérifié
+10185;Lagesse;10;eau potable : COPE DE LA REGION DE VANLAY;148901;2024;88,4;0,7;5,4;66,1;conforme;33077;2411;32;50;209;Non vérifié
+10186;Laines-aux-Bois;10;eau potable : COPE DE LAINES-AUX-BOIS;148728;2024;100,0;0,0;9,4;66,9;conforme;0;0;0;0;528;Non vérifié
+10187;Landreville;10;eau potable : COPE DE LOCHES-SUR-OURCE / LANDREVILLE;148874;2024;80,8;1,8;7,5;66,5;conforme;11543;6120;42;88;395;Non vérifié
+10188;Lantages;10;eau potable : COPE DE LA VALLEE DE LA MARVE;148892;2024;84,9;0,8;4,5;65,9;conforme;6602;2948;37;65;221;Non vérifié
+10189;Lassicourt;10;eau potable : COPE DE ROSNAY-L'HOPITAL;148910;2024;59,5;2,8;4,0;65,8;non conforme;38713;3921;195;253;55;Non vérifié
+10190;Laubressel;10;eau potable : COPE DES VALLEES DE LA MOGNE, DE LA SEINE, DE LA BARSE;148879;2024;83,9;1,4;7,4;66,5;conforme;242004;6335;32;69;551;Non vérifié
+10191;Lavau;10;eau potable : COPE DE SAINTE-MAURE / LAVAU;148868;2024;87,3;1,9;13,0;67,6;conforme;17351;6230;17;54;1009;Non vérifié
+10192;Lentilles;10;eau potable : COPE DU NORD DE LA VOIRE;148875;2024;83,8;0,9;4,4;65,9;conforme;24105;2633;56;77;128;Non vérifié
+10193;Lesmont;10;eau potable : COPE DE LA REGION DE PINEY / LESMONT;148895;2024;95,5;0,3;5,5;66,1;conforme;16038;1097;10;21;298;Non vérifié
+10194;Lévigny;10;eau potable : COPE DE TRANNES-BEAULIEU;148900;2024;76,1;1,1;3,7;65,7;conforme;28314;2372;70;113;93;Non vérifié
+10195;Lhuître;10;eau potable : COPE DES QUATRE VALLEES;198845;2024;80,8;1,2;5,1;66,0;conforme;74088;4804;49;89;268;Non vérifié
+10196;Lignières;10;eau potable : COPE DE LIGNIERES;148729;2024;96,7;0,2;4,6;65,9;conforme;556;556;7;16;223;Non vérifié
+10197;Lignol-le-Château;10;eau potable;256214;2024;93,2;0,4;5,4;66,1;conforme;16060;1132;20;32;155;Non vérifié
+10198;Lirey;10;eau potable : COPE DES VALLEES DE LA MOGNE, DE LA SEINE, DE LA BARSE;148879;2024;83,9;1,4;7,4;66,5;conforme;242004;1334;32;69;116;Non vérifié
+10199;Loches-sur-Ource;10;eau potable : COPE DE LOCHES-SUR-OURCE / LANDREVILLE;148874;2024;80,8;1,8;7,5;66,5;conforme;11543;5423;42;88;350;Non vérifié
+10200;La Loge-aux-Chèvres;10;eau potable : COPE DE LA REGION DE VENDEUVRE ET DU LANDION;148869;2024;84,3;0,8;4,4;65,9;conforme;61659;1128;33;66;94;Non vérifié
+10201;La Loge-Pomblin;10;eau potable : COPE DE LA REGION DE VANLAY;148901;2024;88,4;0,7;5,4;66,1;conforme;33077;611;32;50;53;Non vérifié
+10202;Les Loges-Margueron;10;eau potable : COPE DE LA REGION DE VANLAY;148901;2024;88,4;0,7;5,4;66,1;conforme;33077;2423;32;50;210;Non vérifié
+10203;Longchamp-sur-Aujon;10;eau potable : COPE DE LONGCHAMP-SUR-AUJON;148730;2024;62,9;2,4;4,0;65,8;non conforme;9119;9119;69;218;361;Non vérifié
+10204;Longeville-sur-Mogne;10;eau potable : COPE DES VALLEES DE LA MOGNE, DE LA SEINE, DE LA BARSE;148879;2024;83,9;1,4;7,4;66,5;conforme;242004;1575;32;69;137;Non vérifié
+10205;Longpré-le-Sec;10;eau potable : COPE DE LONGPRE-LE-SEC;148732;2024;98,4;0,2;12,2;67,4;conforme;192;192;8;6;67;Non vérifié
+10206;Longsols;10;eau potable : COPE DE LA REGION DE ONJON / BOUY-LUXEMBOURG / LONGSOLS;148904;2024;63,3;3,2;5,5;66,1;non conforme;22426;4592;98;212;129;Non vérifié
+10207;Longueville-sur-Aube;10;eau potable : COPE DE LONGUEVILLE / ETRELLES-SUR-AUBE / BOULAGES / CHARNY-LE-BACHOT;148905;2024;65,0;2,7;5,0;66,0;non conforme;19759;3507;72;199;134;Non vérifié
+10208;La Louptière-Thénard;10;eau potable : COPE DE LA LOUPTIERE-THENARD;221068;2024;78,1;2,3;8,1;66,6;conforme;6011;6011;55;104;302;Non vérifié
+10209;Lusigny-sur-Barse;10;eau potable : COPE DES VALLEES DE LA MOGNE, DE LA SEINE, DE LA BARSE;148879;2024;83,9;1,4;7,4;66,5;conforme;242004;26065;32;69;2267;Non vérifié
+10210;Luyères;10;eau potable : COPE DE LA BARBUISE;148872;2024;83,6;1,5;7,5;66,5;conforme;54613;6484;38;76;466;Non vérifié
+10211;Macey;10;eau potable : COPE DE LA REGION DE MACEY;148889;2024;71,5;2,1;5,4;66,1;conforme;31664;7151;20;143;975;Non vérifié
+10212;Machy;10;eau potable : COPE DES VALLEES DE LA MOGNE, DE LA SEINE, DE LA BARSE;148879;2024;83,9;1,4;7,4;66,5;conforme;242004;1242;32;69;108;Non vérifié
+10213;Magnant;10;eau potable : COPE DE LA REGION DE VENDEUVRE ET DU LANDION;148869;2024;84,3;0,8;4,4;65,9;conforme;61659;1969;33;66;164;Non vérifié
+10214;Magnicourt;10;eau potable : COPE DE LA REGION DE PINEY / LESMONT;148895;2024;95,5;0,3;5,5;66,1;conforme;16038;306;10;21;83;Non vérifié
+10215;Magny-Fouchard;10;eau potable : COPE DE LA REGION DE VENDEUVRE ET DU LANDION;148869;2024;84,3;0,8;4,4;65,9;conforme;61659;3121;33;66;260;Non vérifié
+10216;Mailly-le-Camp;10;eau potable : COPE DE MAILLY-LE-CAMP;148735;2024;89,0;1,2;9,9;67,0;conforme;5558;5558;8;44;2015;Non vérifié
+10217;Maison-des-Champs;10;eau potable : COPE DE LA REGION DE VENDEUVRE ET DU LANDION;148869;2024;84,3;0,8;4,4;65,9;conforme;61659;432;33;66;36;Non vérifié
+10218;Maisons-lès-Chaource;10;eau potable : COPE DE BALNOT-LA-GRANGE / MAISONS-LES-CHAOURCE;148882;2024;76,7;1,1;3,6;65,7;conforme;6388;3926;61;111;177;Non vérifié
+10219;Maisons-lès-Soulaines;10;eau potable : COPE DE LA REGION DE LA FERME DES MEES;235134;2024;81,3;1,2;5,2;66,0;conforme;12991;1281;62;173;57;Non vérifié
+10220;Maizières-la-Grande-Paroisse;10;eau potable : COPE DE MAIZIERES-LA-GRANDE-PAROISSE;148737;2024;81,0;2,6;11,2;67,2;conforme;22425;22425;40;93;1528;Non vérifié
+10221;Maizières-lès-Brienne;10;eau potable : COPE DE LA REGION DE MAIZIERES-LES-BRIENNE;148890;2024;75,9;1,1;3,6;65,7;conforme;11310;2459;43;116;155;Non vérifié
+10223;Marcilly-le-Hayer;10;eau potable : COPE DE MARCILLY-LE-HAYER;148739;2024;81,7;1,6;7,3;66,5;conforme;7913;7913;31;80;706;Non vérifié
+10224;Marigny-le-Châtel;10;eau potable : COPE DE MARIGNY-LE-CHATEL / SAINT-FLAVY;148891;2024;79,4;3,0;11,6;67,3;conforme;27824;23773;37;94;1749;Non vérifié
+10225;Marnay-sur-Seine;10;eau potable : COPE DE PONT-SUR-SEINE / CRANCEY / MARNAY-SUR-SEINE / SAINT-HILAIRE;148896;2024;74,3;2,1;6,0;66,2;conforme;40395;4031;47;127;234;Non vérifié
+10226;Marolles-lès-Bailly;10;eau potable : COPE DES VALLEES DE LA MOGNE, DE LA SEINE, DE LA BARSE;148879;2024;83,9;1,4;7,4;66,5;conforme;242004;1322;32;69;115;Non vérifié
+10227;Marolles-sous-Lignières;10;eau potable : COPE DE MAROLLES-SOUS-LIGNIERES;148740;2024;99,9;0,0;5,8;66,2;conforme;0;0;0;0;371;Non vérifié
+10228;Mathaux;10;eau potable : COPE DE LA REGION DE PINEY / LESMONT;148895;2024;95,5;0,3;5,5;66,1;conforme;16038;806;10;21;219;Non vérifié
+10229;Maupas;10;eau potable : COPE DES VALLEES DE LA MOGNE, DE LA SEINE, DE LA BARSE;148879;2024;83,9;1,4;7,4;66,5;conforme;242004;1127;32;69;98;Non vérifié
+10230;Mergey;10;eau potable : COPE DE LA REGION DE MERGEY;148894;2024;84,7;1,8;9,9;67,0;conforme;14855;5691;24;66;654;Non vérifié
+10231;Le Mériot;10;eau potable : COPE DU MERIOT;148741;2024;79,8;2,1;8,2;66,6;conforme;11413;11413;51;164;611;Non vérifié
+10232;Merrey-sur-Arce;10;eau potable;226574;2024;77,9;1,8;6,5;66,3;conforme;5249;5249;44;101;325;Non vérifié
+10233;Méry-sur-Seine;10;eau potable : COPE DE MERY-SUR-SEINE;148742;2024;78,3;4,3;15,5;68,1;conforme;27812;27812;53;139;1431;Non vérifié
+10234;Mesgrigny;10;eau potable : COPE DE LA REGION DE SAINT-MESMIN;148898;2024;78,9;1,9;7,0;66,4;conforme;26707;3143;34;99;255;Non vérifié
+10235;Mesnil-la-Comtesse;10;eau potable : COPE DE LA BARBUISE;148872;2024;83,6;1,5;7,5;66,5;conforme;54613;807;38;76;58;Non vérifié
+10236;Mesnil-Lettre;10;eau potable : COPE DES COMMUNES D'AVANT-LES-RAMERUPT / MESNIL-LETTRE;148849;2024;96,9;0,2;6,1;66,2;conforme;415;109;5;12;57;Non vérifié
+10237;Mesnil-Saint-Loup;10;eau potable : COPE DE MESNIL-SAINT-LOUP;148743;2024;79,2;1,7;6,6;66,3;conforme;9053;9053;43;94;579;Non vérifié
+10238;Mesnil-Saint-Père;10;eau potable : COPE DES VALLEES DE LA MOGNE, DE LA SEINE, DE LA BARSE;148879;2024;83,9;1,4;7,4;66,5;conforme;242004;5036;32;69;438;Non vérifié
+10239;Mesnil-Sellières;10;eau potable : COPE DES VALLEES DE LA MOGNE, DE LA SEINE, DE LA BARSE;148879;2024;83,9;1,4;7,4;66,5;conforme;242004;6531;32;69;568;Non vérifié
+10240;Messon;10;eau potable : COPE DE MESSON;148744;2024;81,9;1,8;8,0;66,6;conforme;4599;4599;27;82;465;Non vérifié
+10241;Metz-Robert;10;eau potable : COPE DE LA REGION DE VANLAY;148901;2024;88,4;0,7;5,4;66,1;conforme;33077;623;32;50;54;Non vérifié
+10242;Meurville;10;eau potable : COPE DE LA REGION DE VENDEUVRE ET DU LANDION;148869;2024;84,3;0,8;4,4;65,9;conforme;61659;1813;33;66;151;Non vérifié
+10243;Molins-sur-Aube;10;eau potable : COPE DE LA REGION DE PINEY / LESMONT;148895;2024;95,5;0,3;5,5;66,1;conforme;16038;376;10;21;102;Non vérifié
+10245;Montaulin;10;eau potable : COPE DES VALLEES DE LA MOGNE, DE LA SEINE, DE LA BARSE;148879;2024;83,9;1,4;7,4;66,5;conforme;242004;9486;32;69;825;Non vérifié
+10246;Montceaux-lès-Vaudes;10;eau potable : COPE DES VALLEES DE LA MOGNE, DE LA SEINE, DE LA BARSE;148879;2024;83,9;1,4;7,4;66,5;conforme;242004;2840;32;69;247;Non vérifié
+10247;Montfey;10;eau potable : COPE DE MONTFEY;148745;2024;96,0;0,1;3,0;65,6;conforme;279;279;7;12;115;Non vérifié
+10248;Montgueux;10;eau potable : COPE DE LA REGION DE MACEY;148889;2024;71,5;2,1;5,4;66,1;conforme;31664;2831;20;143;386;Non vérifié
+10249;Montiéramey;10;eau potable : COPE DES VALLEES DE LA MOGNE, DE LA SEINE, DE LA BARSE;148879;2024;83,9;1,4;7,4;66,5;conforme;242004;4576;32;69;398;Non vérifié
+10250;Montier-en-l'Isle;10;eau potable;148747;2024;73,0;2,5;6,9;66,4;conforme;5347;5347;69;133;213;Non vérifié
+10251;Montigny-les-Monts;10;eau potable : COPE DE LA REGION DE MONTIGNY-LES-MONTS;148893;2024;94,3;0,3;4,2;65,8;conforme;2707;514;6;26;247;Non vérifié
+10252;Montmartin-le-Haut;10;eau potable : COPE DE LA REGION DE VENDEUVRE ET DU LANDION;148869;2024;84,3;0,8;4,4;65,9;conforme;61659;744;33;66;62;Non vérifié
+10253;Montmorency-Beaufort;10;eau potable : COPE DU NORD DE LA VOIRE;148875;2024;83,8;0,9;4,4;65,9;conforme;24105;2756;56;77;134;Non vérifié
+10254;Montpothier;10;eau potable : COPE DE LA SAULSOTTE / MONTPOTHIER;148840;2024;74,9;1,5;4,5;65,9;conforme;17071;5537;47;121;325;Non vérifié
+10255;Montreuil-sur-Barse;10;eau potable : COPE DES VALLEES DE LA MOGNE, DE LA SEINE, DE LA BARSE;148879;2024;83,9;1,4;7,4;66,5;conforme;242004;3369;32;69;293;Non vérifié
+10256;Montsuzain;10;eau potable : COPE DE LA BARBUISE;148872;2024;83,6;1,5;7,5;66,5;conforme;54613;5440;38;76;391;Non vérifié
+10257;Morembert;10;eau potable : COPE DES QUATRE VALLEES;198845;2024;80,8;1,2;5,1;66,0;conforme;74088;538;49;89;30;Non vérifié
+10258;Morvilliers;10;eau potable : COPE DE LA REGION DE BRIENNE-LE-CHATEAU;148883;2024;81,5;1,8;7,7;66,5;conforme;73367;3744;38;85;273;Non vérifié
+10259;La Motte-Tilly;10;eau potable : COPE ENTRE LES COMMUNES DE LA MOTTE-TILLY / DE COURCEROY;148859;2024;92,9;0,9;11,3;67,3;conforme;3807;2715;20;52;373;Non vérifié
+10260;Moussey;10;eau potable : COPE DE BUCHERES / ISLE-AUMONT / MOUSSEY;202485;2024;98,8;0,2;17,8;68,6;conforme;3782;771;3;7;656;Non vérifié
+10261;Mussy-sur-Seine;10;eau potable : COPE DES COMMUNES DE PLAINES-SAINT-LANGE ET DE MUSSY-SUR-SEINE;148763;2024;62,4;3,4;5,7;66,1;non conforme;28828;22330;67;219;914;Non vérifié
+10262;Neuville-sur-Seine;10;eau potable : COPE DE LA REGION DE GYE-SUR-SEINE;148834;2024;90,4;0,9;8,6;66,7;conforme;9776;3511;26;38;376;Non vérifié
+10263;Neuville-sur-Vanne;10;eau potable : COPE DE NEUVILLE SUR VANNE;148750;2024;87,5;1,1;8,0;66,6;conforme;2967;2967;17;50;475;Non vérifié
+10264;Noé-les-Mallets;10;eau potable : COPE DE NOE-LES-MALLETS;148752;2024;77,8;1,4;4,8;66,0;conforme;2800;2800;74;106;104;Non vérifié
+10265;Les Noës-près-Troyes;10;eau potable : COPE DES NOES-PRES-TROYES;148914;2024;89,4;3,6;30,0;71,0;conforme;15479;15479;13;44;3261;Non vérifié
+10266;Nogent-en-Othe;10;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;602;39;120;42;Non vérifié
+10267;Nogent-sur-Aube;10;eau potable : COPE DES QUATRE VALLEES;198845;2024;80,8;1,2;5,1;66,0;conforme;74088;5611;49;89;313;Non vérifié
+10268;Nogent-sur-Seine;10;eau potable;148753;2024;90,6;2,1;19,8;69,0;conforme;39092;39092;19;39;5537;Non vérifié
+10269;Nozay;10;eau potable : COPE DE LA BARBUISE;148872;2024;83,6;1,5;7,5;66,5;conforme;54613;2226;38;76;160;Non vérifié
+10270;Onjon;10;eau potable : COPE DE LA REGION DE ONJON / BOUY-LUXEMBOURG / LONGSOLS;148904;2024;63,3;3,2;5,5;66,1;non conforme;22426;9184;98;212;258;Non vérifié
+10271;Origny-le-Sec;10;eau potable : COPE D' ORIGNY-LE-SEC;148755;2024;79,8;2,4;9,3;66,9;conforme;6666;6666;30;94;604;Non vérifié
+10272;Ormes;10;eau potable : COPE D'ALLIBAUDIERES-ORMES;148846;2024;93,5;0,3;3,6;65,7;conforme;2086;916;15;30;163;Non vérifié
+10273;Ortillon;10;eau potable : COPE DES QUATRE VALLEES;198845;2024;80,8;1,2;5,1;66,0;conforme;74088;376;49;89;21;Non vérifié
+10274;Orvilliers-Saint-Julien;10;eau potable : COPE D'ORVILLIERS / SAINT-JULIEN;221142;2024;90,6;0,8;7,6;66,5;conforme;1787;1787;16;39;313;Non vérifié
+10275;Ossey-les-Trois-Maisons;10;eau potable : COPE D' OSSEY-LES-TROIS-MAISONS;148758;2024;91,1;1,0;9,9;67,0;conforme;2500;2500;12;37;581;Non vérifié
+10276;Paisy-Cosdon;10;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;4917;39;120;343;Non vérifié
+10278;Pargues;10;eau potable : COPE DE LA VALLEE DE LA MARVE;148892;2024;84,9;0,8;4,5;65,9;conforme;6602;1907;37;65;143;Non vérifié
+10279;Pars-lès-Chavanges;10;eau potable : COPE DU NORD DE LA VOIRE;148875;2024;83,8;0,9;4,4;65,9;conforme;24105;926;56;77;45;Non vérifié
+10280;Pars-lès-Romilly;10;eau potable : COPE DES COMMUNES DE PARS-LES-ROMILLY / GELANNES;148860;2024;88,2;0,9;6,4;66,3;conforme;8285;4549;15;52;845;Non vérifié
+10281;Le Pavillon-Sainte-Julie;10;eau potable : COPE DU PAVILLON-SAINTE-JULIE;148761;2024;98,2;0,1;6,1;66,2;conforme;192;192;2;6;280;Non vérifié
+10282;Payns;10;eau potable : COPE DE SAINT-LYE / PAYNS;148866;2024;80,6;3,5;14,4;67,9;conforme;64808;20768;41;133;1394;Non vérifié
+10283;Pel-et-Der;10;eau potable : COPE DE LA REGION DE PINEY / LESMONT;148895;2024;95,5;0,3;5,5;66,1;conforme;16038;471;10;21;128;Non vérifié
+10284;Périgny-la-Rose;10;eau potable : COPE DE LA REGION DE LA VILLENEUVE AU CHATELOT;148880;2024;70,6;2,1;5,0;66,0;conforme;16549;3477;62;152;154;Non vérifié
+10285;Perthes-lès-Brienne;10;eau potable : COPE DE ROSNAY-L'HOPITAL;148910;2024;59,5;2,8;4,0;65,8;non conforme;38713;4349;195;253;61;Non vérifié
+10286;Petit-Mesnil;10;eau potable : COPE DE LA REGION DE BRIENNE-LE-CHATEAU;148883;2024;81,5;1,8;7,7;66,5;conforme;73367;2784;38;85;203;Non vérifié
+10287;Piney;10;eau potable : COPE DE LA REGION DE PINEY / LESMONT;148895;2024;95,5;0,3;5,5;66,1;conforme;16038;5107;10;21;1387;Non vérifié
+10288;Plaines-Saint-Lange;10;eau potable : COPE DES COMMUNES DE PLAINES-SAINT-LANGE ET DE MUSSY-SUR-SEINE;148763;2024;62,4;3,4;5,7;66,1;non conforme;28828;6499;67;219;266;Non vérifié
+10289;Plancy-l'Abbaye;10;eau potable : COPE DE LA FORET DE LA PERTHE;195402;2024;78,1;1,3;4,7;65,9;conforme;30582;13124;37;100;960;Non vérifié
+10290;Planty;10;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;3283;39;120;229;Non vérifié
+10291;Plessis-Barbuise;10;eau potable;148768;2024;74,0;1,6;4,6;65,9;conforme;3013;3013;45;127;184;Non vérifié
+10294;Poligny;10;eau potable : COPE DE LA REGION DE VENDEUVRE ET DU LANDION;148869;2024;84,3;0,8;4,4;65,9;conforme;61659;672;33;66;56;Non vérifié
+10295;Polisot;10;eau potable : COPE DE POLISY / POLISOT;148838;2024;76,1;1,9;6,1;66,2;conforme;8565;5532;47;114;321;Non vérifié
+10296;Polisy;10;eau potable : COPE DE POLISY / POLISOT;148838;2024;76,1;1,9;6,1;66,2;conforme;8565;3033;47;114;176;Non vérifié
+10297;Pont-Sainte-Marie;10;eau potable : COPE DE PONT-SAINTE-MARIE / CRENEY / LAVAU;148861;2024;90,6;1,7;16,9;68,4;conforme;44043;27951;15;37;5249;Non vérifié
+10298;Pont-sur-Seine;10;eau potable : COPE DE PONT-SUR-SEINE / CRANCEY / MARNAY-SUR-SEINE / SAINT-HILAIRE;148896;2024;74,3;2,1;6,0;66,2;conforme;40395;18759;47;127;1089;Non vérifié
+10299;Pouan-les-Vallées;10;eau potable : COPE DE LA FORET DE LA PERTHE;195402;2024;78,1;1,3;4,7;65,9;conforme;30582;6808;37;100;498;Non vérifié
+10300;Pougy;10;eau potable : COPE DE LA REGION DE PINEY / LESMONT;148895;2024;95,5;0,3;5,5;66,1;conforme;16038;939;10;21;255;Non vérifié
+10301;Pouy-sur-Vannes;10;eau potable : COPE DE POUY-SUR-VANNES;148771;2024;53,0;6,3;7,1;66,4;non conforme;15545;15545;241;326;177;Non vérifié
+10302;Praslin;10;eau potable : COPE DE LA VALLEE DE LA MARVE;148892;2024;84,9;0,8;4,5;65,9;conforme;6602;1227;37;65;92;Non vérifié
+10303;Précy-Notre-Dame;10;eau potable : COPE DE LA REGION DE PINEY / LESMONT;148895;2024;95,5;0,3;5,5;66,1;conforme;16038;243;10;21;66;Non vérifié
+10304;Précy-Saint-Martin;10;eau potable : COPE DE LA REGION DE PINEY / LESMONT;148895;2024;95,5;0,3;5,5;66,1;conforme;16038;652;10;21;177;Non vérifié
+10305;Prémierfait;10;eau potable : COPE DE LA BARBUISE;148872;2024;83,6;1,5;7,5;66,5;conforme;54613;1252;38;76;90;Non vérifié
+10306;Proverville;10;eau potable : COPE DE PROVERVILLE;148773;2024;66,3;5,0;9,9;67,0;non conforme;4745;4745;60;184;217;Non vérifié
+10307;Prugny;10;eau potable : COPE DE PRUGNY;148775;2024;62,7;4,8;8,0;66,6;non conforme;10494;10494;78;219;367;Non vérifié
+10308;Prunay-Belleville;10;eau potable : COPE DU PLATEAU DE LA CRAISE;148876;2024;89,6;0,4;3,6;65,7;conforme;3727;1546;19;41;229;Non vérifié
+10309;Prusy;10;eau potable : COPE DE LA REGION DE VANLAY;148901;2024;88,4;0,7;5,4;66,1;conforme;33077;969;32;50;84;Non vérifié
+10310;Puits-et-Nuisement;10;eau potable : COPE DE LA REGION DE VENDEUVRE ET DU LANDION;148869;2024;84,3;0,8;4,4;65,9;conforme;61659;2413;33;66;201;Non vérifié
+10312;Racines;10;eau potable : COPE D’OTHE-ARMANCE;148887;2024;92,4;0,3;3,6;65,7;conforme;7879;1141;17;30;179;Non vérifié
+10313;Radonvilliers;10;eau potable : COPE DE LA REGION DE PINEY / LESMONT;148895;2024;95,5;0,3;5,5;66,1;conforme;16038;1178;10;21;320;Non vérifié
+10314;Ramerupt;10;eau potable : COPE DES QUATRE VALLEES;198845;2024;80,8;1,2;5,1;66,0;conforme;74088;7475;49;89;417;Non vérifié
+10315;Rances;10;eau potable : COPE DU NORD DE LA VOIRE;148875;2024;83,8;0,9;4,4;65,9;conforme;24105;802;56;77;39;Non vérifié
+10316;Rhèges;10;eau potable : COPE DE LA FORET DE LA PERTHE;195402;2024;78,1;1,3;4,7;65,9;conforme;30582;2816;37;100;206;Non vérifié
+10318;Rigny-la-Nonneuse;10;eau potable : COPE DE LA REGION D'AVON-LA-PEZE;148881;2024;92,4;0,4;5,1;66,0;conforme;1384;593;10;29;158;Non vérifié
+10319;Rigny-le-Ferron;10;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;4631;39;120;323;Non vérifié
+10320;Rilly-Sainte-Syre;10;eau potable : COPE DES COMMUNES DE SAVIERES / CHAUCHIGNY / RILLY-SAINTE-SYRE;148899;2024;80,5;2,0;8,4;66,7;conforme;16980;2555;30;87;231;Non vérifié
+10321;La Rivière-de-Corps;10;eau potable : COPE DE LA RIVIERE-DE-CORPS;148781;2024;88,4;1,8;14,0;67,8;conforme;21221;21221;16;47;3692;Non vérifié
+10323;Romilly-sur-Seine;10;eau potable;148782;2024;82,5;4,4;20,5;69,1;conforme;151703;151703;28;78;14959;Non vérifié
+10324;Roncenay;10;eau potable : COPE DES VALLEES DE LA MOGNE, DE LA SEINE, DE LA BARSE;148879;2024;83,9;1,4;7,4;66,5;conforme;242004;2012;32;69;175;Non vérifié
+10325;Rosières-près-Troyes;10;eau potable : COPE DES COMMUNES DE SAINT-JULIEN-LES-VILLAS / ROSIERES-PRES-TROYES / BREVIANDES;148897;2024;83,6;4,8;24,7;69,9;conforme;183697;59997;34;71;4840;Non vérifié
+10326;Rosnay-l'Hôpital;10;eau potable : COPE DE ROSNAY-L'HOPITAL;148910;2024;59,5;2,8;4,0;65,8;non conforme;38713;11122;195;253;156;Non vérifié
+10327;La Rothière;10;eau potable : COPE DE LA REGION DE BRIENNE-LE-CHATEAU;148883;2024;81,5;1,8;7,7;66,5;conforme;73367;1714;38;85;125;Non vérifié
+10328;Rouilly-Sacey;10;eau potable : COPE DES VALLEES DE LA MOGNE, DE LA SEINE, DE LA BARSE;148879;2024;83,9;1,4;7,4;66,5;conforme;242004;4450;32;69;387;Non vérifié
+10329;Rouilly-Saint-Loup;10;eau potable : COPE DE ROUILLY-SAINT-LOUP;148785;2024;69,3;2,8;6,4;66,3;conforme;14022;14022;71;160;541;Non vérifié
+10330;Rouvres-les-Vignes;10;eau potable;256214;2024;93,2;0,4;5,4;66,1;conforme;16060;840;20;32;115;Non vérifié
+10331;Rumilly-lès-Vaudes;10;eau potable : COPE DES VALLEES DE LA MOGNE, DE LA SEINE, DE LA BARSE;148879;2024;83,9;1,4;7,4;66,5;conforme;242004;6485;32;69;564;Non vérifié
+10332;Ruvigny;10;eau potable : COPE DES VALLEES DE LA MOGNE, DE LA SEINE, DE LA BARSE;148879;2024;83,9;1,4;7,4;66,5;conforme;242004;5760;32;69;501;Non vérifié
+10333;Saint-André-les-Vergers;10;eau potable : COPE DE SAINT-ANDRE-LES-VERGERS;148786;2024;85,9;3,9;24,0;69,8;conforme;90876;90876;19;59;12806;Non vérifié
+10334;Saint-Aubin;10;eau potable : COPE DE LA VALLEE DE L'ARDUSSON;148877;2024;83,7;1,7;8,7;66,7;conforme;25378;8387;40;114;580;Non vérifié
+10336;Saint-Benoît-sur-Seine;10;eau potable : COPE DE LA REGION DE MERGEY;148894;2024;84,7;1,8;9,9;67,0;conforme;14855;3960;24;66;455;Non vérifié
+10337;Saint-Christophe-Dodinicourt;10;eau potable : COPE DE ROSNAY-L'HOPITAL;148910;2024;59,5;2,8;4,0;65,8;non conforme;38713;2210;195;253;31;Non vérifié
+10338;Saint-Étienne-sous-Barbuise;10;eau potable : COPE DE LA BARBUISE;148872;2024;83,6;1,5;7,5;66,5;conforme;54613;2407;38;76;173;Non vérifié
+10339;Saint-Flavy;10;eau potable : COPE DE MARIGNY-LE-CHATEL / SAINT-FLAVY;148891;2024;79,4;3,0;11,6;67,3;conforme;27824;4051;37;94;298;Non vérifié
+10340;Saint-Germain;10;eau potable : COPE DE SAINT-GERMAIN / SAINT-POUANGE;148865;2024;86,8;1,4;9,1;66,8;conforme;28294;20004;22;63;2437;Non vérifié
+10341;Saint-Hilaire-sous-Romilly;10;eau potable : COPE DE PONT-SUR-SEINE / CRANCEY / MARNAY-SUR-SEINE / SAINT-HILAIRE;148896;2024;74,3;2,1;6,0;66,2;conforme;40395;5702;47;127;331;Non vérifié
+10342;Saint-Jean-de-Bonneval;10;eau potable : COPE DES VALLEES DE LA MOGNE, DE LA SEINE, DE LA BARSE;148879;2024;83,9;1,4;7,4;66,5;conforme;242004;4657;32;69;405;Non vérifié
+10343;Saint-Julien-les-Villas;10;eau potable : COPE DES COMMUNES DE SAINT-JULIEN-LES-VILLAS / ROSIERES-PRES-TROYES / BREVIANDES;148897;2024;83,6;4,8;24,7;69,9;conforme;183697;83797;34;71;6760;Non vérifié
+10344;Saint-Léger-près-Troyes;10;eau potable : COPE DE SAINT-LEGER-PRES-TROYES;148791;2024;79,3;2,6;10,0;67,0;conforme;9547;9547;29;95;903;Non vérifié
+10345;Saint-Léger-sous-Brienne;10;eau potable : COPE DE LA REGION DE BRIENNE-LE-CHATEAU;148883;2024;81,5;1,8;7,7;66,5;conforme;73367;5115;38;85;373;Non vérifié
+10346;Saint-Léger-sous-Margerie;10;eau potable : COPE DES QUATRE VALLEES;198845;2024;80,8;1,2;5,1;66,0;conforme;74088;914;49;89;51;Non vérifié
+10347;Saint-Loup-de-Buffigny;10;eau potable : COPE DE LA VALLEE DE L'ARDUSSON;148877;2024;83,7;1,7;8,7;66,7;conforme;25378;3124;40;114;216;Non vérifié
+10348;Saint-Lupien;10;eau potable : COPE DE SAINT LUPIEN;148794;2024;77,6;2,4;8,4;66,7;conforme;3749;3749;44;104;231;Non vérifié
+10349;Saint-Lyé;10;eau potable : COPE DE LA REGION DE MACEY;148889;2024;71,5;2,1;5,4;66,1;conforme;31664;21682;20;143;2956;Non vérifié
+10350;Saint-Mards-en-Othe;10;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;9103;39;120;635;Non vérifié
+10351;Saint-Martin-de-Bossenay;10;eau potable : COPE DE LA VALLEE DE L'ARDUSSON;148877;2024;83,7;1,7;8,7;66,7;conforme;25378;4946;40;114;342;Non vérifié
+10352;Sainte-Maure;10;eau potable : COPE DE SAINTE-MAURE / LAVAU;148868;2024;87,3;1,9;13,0;67,6;conforme;17351;11121;17;54;1801;Non vérifié
+10353;Saint-Mesmin;10;eau potable : COPE DE LA REGION DE SAINT-MESMIN;148898;2024;78,9;1,9;7,0;66,4;conforme;26707;11203;34;99;909;Non vérifié
+10354;Saint-Nabord-sur-Aube;10;eau potable : COPE DES QUATRE VALLEES;198845;2024;80,8;1,2;5,1;66,0;conforme;74088;2510;49;89;140;Non vérifié
+10355;Saint-Nicolas-la-Chapelle;10;eau potable;148796;2024;99,7;0,0;9,0;66,8;conforme;0;0;0;0;81;Non vérifié
+10357;Saint-Parres-aux-Tertres;10;eau potable : COPE DES COMMUNES DE SAINT-PARRES-AUX-TERTRES / VILLECHETIF;148867;2024;100,0;0,0;16,4;68,3;conforme;0;0;0;0;3223;Non vérifié
+10358;Saint-Parres-lès-Vaudes;10;eau potable : COPE DES VALLEES DE LA MOGNE, DE LA SEINE, DE LA BARSE;148879;2024;83,9;1,4;7,4;66,5;conforme;242004;12464;32;69;1084;Non vérifié
+10359;Saint-Phal;10;eau potable : COPE DE CHAMOY / SAINT-PHAL;148884;2024;83,3;1,0;5,0;66,0;conforme;10045;5131;27;76;521;Non vérifié
+10360;Saint-Pouange;10;eau potable : COPE DE SAINT-GERMAIN / SAINT-POUANGE;148865;2024;86,8;1,4;9,1;66,8;conforme;28294;8290;22;63;1010;Non vérifié
+10361;Saint-Remy-sous-Barbuise;10;eau potable : COPE DE LA BARBUISE;148872;2024;83,6;1,5;7,5;66,5;conforme;54613;3576;38;76;257;Non vérifié
+10362;Sainte-Savine;10;eau potable : COPE DE SAINTE-SAVINE;148799;2024;84,1;5,0;26,6;70,3;conforme;99572;99572;27;69;10289;Non vérifié
+10363;Saint-Thibault;10;eau potable : COPE DES VALLEES DE LA MOGNE, DE LA SEINE, DE LA BARSE;148879;2024;83,9;1,4;7,4;66,5;conforme;242004;6335;32;69;551;Non vérifié
+10364;Saint-Usage;10;eau potable : COPE DE FONTETTE, SAINT-USAGE, VERPILLIERES-SUR-OURCE;148858;2024;93,3;0,2;3,3;65,7;conforme;1558;299;12;22;68;Non vérifié
+10365;Salon;10;eau potable : COPE DE CHAMPFLEURY / SALON;148854;2024;83,3;1,9;9,6;66,9;conforme;11588;6255;133;103;129;Non vérifié
+10366;Saulcy;10;eau potable;256214;2024;93,2;0,4;5,4;66,1;conforme;16060;453;20;32;62;Non vérifié
+10367;La Saulsotte;10;eau potable : COPE DE LA SAULSOTTE / MONTPOTHIER;148840;2024;74,9;1,5;4,5;65,9;conforme;17071;11534;47;121;677;Non vérifié
+10368;Savières;10;eau potable : COPE DES COMMUNES DE SAVIERES / CHAUCHIGNY / RILLY-SAINTE-SYRE;148899;2024;80,5;2,0;8,4;66,7;conforme;16980;12002;30;87;1085;Non vérifié
+10369;Semoine;10;eau potable : COPE DES VALLEES DE LA MAURIENNE ET DE L'HERBISSONNE;148909;2024;86,9;0,9;6,2;66,2;conforme;11701;4294;54;53;218;Non vérifié
+10370;Soligny-les-Étangs;10;eau potable : COPE DE LA REGION DE SOLIGNY-LES-ETANGS;148907;2024;81,6;1,0;4,5;65,9;conforme;12282;3324;35;87;262;Non vérifié
+10371;Sommeval;10;eau potable : COPE DE SOMMEVAL;148800;2024;81,8;0,9;3,9;65,8;conforme;2851;2851;26;84;298;Non vérifié
+10372;Soulaines-Dhuys;10;eau potable : COPE DE SOULAINES-DHUYS;221148;2024;85,1;1,2;6,6;66,3;conforme;4288;4288;28;66;420;Non vérifié
+10373;Souligny;10;eau potable : COPE DE LA REGION DE BOUILLY / VILLERY / SOULIGNY;148902;2024;77,2;2,2;7,4;66,5;conforme;25375;5585;40;114;381;Non vérifié
+10374;Spoy;10;eau potable : COPE DE LA REGION DE VENDEUVRE ET DU LANDION;148869;2024;84,3;0,8;4,4;65,9;conforme;61659;1717;33;66;143;Non vérifié
+10375;Thennelières;10;eau potable : COPE DES VALLEES DE LA MOGNE, DE LA SEINE, DE LA BARSE;148879;2024;83,9;1,4;7,4;66,5;conforme;242004;3921;32;69;341;Non vérifié
+10376;Thieffrain;10;eau potable : COPE DE LA REGION DE VENDEUVRE ET DU LANDION;148869;2024;84,3;0,8;4,4;65,9;conforme;61659;1885;33;66;157;Non vérifié
+10377;Thil;10;eau potable;131784;2024;52,9;3,5;4,0;65,8;non conforme;20363;6434;171;324;103;Non vérifié
+10378;Thors;10;eau potable;256214;2024;93,2;0,4;5,4;66,1;conforme;16060;467;20;32;64;Non vérifié
+10379;Torcy-le-Grand;10;eau potable : COPE DES QUATRE VALLEES;198845;2024;80,8;1,2;5,1;66,0;conforme;74088;7762;49;89;433;Non vérifié
+10380;Torcy-le-Petit;10;eau potable : COPE DES QUATRE VALLEES;198845;2024;80,8;1,2;5,1;66,0;conforme;74088;1291;49;89;72;Non vérifié
+10381;Torvilliers;10;eau potable : COPE DE TORVILLIERS;148805;2024;76,2;2,7;8,5;66,7;conforme;12723;12723;34;116;1028;Non vérifié
+10382;Traînel;10;eau potable : COPE DE TRAINEL;148806;2024;59,8;7,5;11,2;67,2;non conforme;31755;31755;80;245;1094;Non vérifié
+10383;Trancault;10;eau potable : COPE DE LA REGION DE LA VALLEE DE L'ORVIN;148911;2024;78,2;1,2;4,2;65,8;conforme;10438;3807;57;115;182;Non vérifié
+10384;Trannes;10;eau potable : COPE DE TRANNES-BEAULIEU;148900;2024;76,1;1,1;3,7;65,7;conforme;28314;4949;70;113;194;Non vérifié
+10386;Trouans;10;eau potable : COPE DES QUATRE VALLEES;198845;2024;80,8;1,2;5,1;66,0;conforme;74088;3585;49;89;200;Non vérifié
+10387;Troyes;10;eau potable : COPE DE TROYES;148808;2024;88,1;8,0;59,1;76,8;conforme;691923;691923;31;75;62088;Non vérifié
+10388;Turgy;10;eau potable : COPE DE LA REGION DE VANLAY;148901;2024;88,4;0,7;5,4;66,1;conforme;33077;496;32;50;43;Non vérifié
+10389;Unienville;10;eau potable : COPE DE TRANNES-BEAULIEU;148900;2024;76,1;1,1;3,7;65,7;conforme;28314;2780;70;113;109;Non vérifié
+10390;Urville;10;eau potable : COPE D'URVILLE;148809;2024;100,0;0,0;8,8;66,8;conforme;0;0;0;0;103;Non vérifié
+10391;Vailly;10;eau potable : COPE DE VAILLY;148810;2024;90,7;0,5;5,3;66,1;conforme;1394;1394;12;34;329;Non vérifié
+10392;Vallant-Saint-Georges;10;eau potable : COPE DE LA REGION DE SAINT-MESMIN;148898;2024;78,9;1,9;7,0;66,4;conforme;26707;5028;34;99;408;Non vérifié
+10393;Vallentigny;10;eau potable : COPE DE LA REGION DE MAIZIERES-LES-BRIENNE;148890;2024;75,9;1,1;3,6;65,7;conforme;11310;2982;43;116;188;Non vérifié
+10394;Vallières;10;eau potable : COPE DE LA REGION DE VANLAY;148901;2024;88,4;0,7;5,4;66,1;conforme;33077;1927;32;50;167;Non vérifié
+10395;Vanlay;10;eau potable : COPE DE LA REGION DE VANLAY;148901;2024;88,4;0,7;5,4;66,1;conforme;33077;3277;32;50;284;Non vérifié
+10396;Vauchassis;10;eau potable : COPE DE VAUCHASSIS;148811;2024;94,5;0,4;7,3;66,5;conforme;1186;1186;6;20;502;Non vérifié
+10397;Vauchonvilliers;10;eau potable : COPE DE LA REGION DE VENDEUVRE ET DU LANDION;148869;2024;84,3;0,8;4,4;65,9;conforme;61659;2089;33;66;174;Non vérifié
+10398;Vaucogne;10;eau potable : COPE DES QUATRE VALLEES;198845;2024;80,8;1,2;5,1;66,0;conforme;74088;1255;49;89;70;Non vérifié
+10399;Vaudes;10;eau potable : COPE DES VALLEES DE LA MOGNE, DE LA SEINE, DE LA BARSE;148879;2024;83,9;1,4;7,4;66,5;conforme;242004;8060;32;69;701;Non vérifié
+10400;Vaupoisson;10;eau potable : COPE DES QUATRE VALLEES;198845;2024;80,8;1,2;5,1;66,0;conforme;74088;2366;49;89;132;Non vérifié
+10401;Vendeuvre-sur-Barse;10;eau potable : COPE DE LA REGION DE VENDEUVRE ET DU LANDION;148869;2024;84,3;0,8;4,4;65,9;conforme;61659;26712;33;66;2225;Non vérifié
+10402;La Vendue-Mignot;10;eau potable : COPE DES VALLEES DE LA MOGNE, DE LA SEINE, DE LA BARSE;148879;2024;83,9;1,4;7,4;66,5;conforme;242004;2771;32;69;241;Non vérifié
+10403;Vernonvilliers;10;eau potable : COPE DE TRANNES-BEAULIEU;148900;2024;76,1;1,1;3,7;65,7;conforme;28314;1505;70;113;59;Non vérifié
+10404;Verpillières-sur-Ource;10;eau potable : COPE DE FONTETTE, SAINT-USAGE, VERPILLIERES-SUR-OURCE;148858;2024;93,3;0,2;3,3;65,7;conforme;1558;475;12;22;108;Non vérifié
+10405;Verricourt;10;eau potable : COPE DE LA REGION DE PINEY / LESMONT;148895;2024;95,5;0,3;5,5;66,1;conforme;16038;225;10;21;61;Non vérifié
+10406;Verrières;10;eau potable : COPE DES VALLEES DE LA MOGNE, DE LA SEINE, DE LA BARSE;148879;2024;83,9;1,4;7,4;66,5;conforme;242004;22110;32;69;1923;Non vérifié
+10408;Viâpres-le-Petit;10;eau potable : COPE DE LA FORET DE LA PERTHE;195402;2024;78,1;1,3;4,7;65,9;conforme;30582;1627;37;100;119;Non vérifié
+10409;Villacerf;10;eau potable : COPE DE LA REGION DE MERGEY;148894;2024;84,7;1,8;9,9;67,0;conforme;14855;5204;24;66;598;Non vérifié
+10410;Villadin;10;eau potable : COPE DU PLATEAU DE LA CRAISE;148876;2024;89,6;0,4;3,6;65,7;conforme;3727;729;19;41;108;Non vérifié
+10411;Ville-aux-Bois;10;eau potable;148813;2024;100,0;0,0;1,1;65,2;conforme;0;0;0;0;28;Non vérifié
+10412;Villechétif;10;eau potable : COPE DES COMMUNES DE SAINT-PARRES-AUX-TERTRES / VILLECHETIF;148867;2024;100,0;0,0;16,4;68,3;conforme;0;0;0;0;947;Non vérifié
+10414;Villeloup;10;eau potable : COPE DE VILLELOUP;148815;2024;98,6;0,1;5,1;66,0;conforme;152;152;3;7;130;Non vérifié
+10416;Villemereuil;10;eau potable : COPE DES VALLEES DE LA MOGNE, DE LA SEINE, DE LA BARSE;148879;2024;83,9;1,4;7,4;66,5;conforme;242004;2713;32;69;236;Non vérifié
+10419;Villemoyenne;10;eau potable : COPE DES VALLEES DE LA MOGNE, DE LA SEINE, DE LA BARSE;148879;2024;83,9;1,4;7,4;66,5;conforme;242004;8393;32;69;730;Non vérifié
+10420;Villenauxe-la-Grande;10;eau potable : COPE DE VILLENAUXE-LA-GRANDE;148819;2024;73,5;6,4;17,8;68,6;conforme;66529;66529;70;140;2605;Non vérifié
+10421;La Villeneuve-au-Châtelot;10;eau potable : COPE DE LA REGION DE LA VILLENEUVE AU CHATELOT;148880;2024;70,6;2,1;5,0;66,0;conforme;16549;3296;62;152;146;Non vérifié
+10422;Villeneuve-au-Chemin;10;eau potable : COPE DES CORVEES;148929;2024;69,9;2,4;5,5;66,1;conforme;9697;4272;62;158;189;Non vérifié
+10423;La Villeneuve-au-Chêne;10;eau potable : COPE DE LA REGION DE VENDEUVRE ET DU LANDION;148869;2024;84,3;0,8;4,4;65,9;conforme;61659;4862;33;66;405;Non vérifié
+10424;Villeret;10;eau potable : COPE DU NORD DE LA VOIRE;148875;2024;83,8;0,9;4,4;65,9;conforme;24105;1357;56;77;66;Non vérifié
+10425;Villery;10;eau potable : COPE DE LA REGION DE BOUILLY / VILLERY / SOULIGNY;148902;2024;77,2;2,2;7,4;66,5;conforme;25375;4061;40;114;277;Non vérifié
+10426;Ville-sous-la-Ferté;10;eau potable : COPE DE VILLE-SOUS-LA-FERTE;148821;2024;61,9;4,1;6,6;66,3;non conforme;24902;24902;75;239;906;Non vérifié
+10427;Ville-sur-Arce;10;eau potable : COPE DES COMMUNES DE BUXIERES-SUR-ARCE / VILLE-SUR-ARCE;148851;2024;82,5;1,5;6,9;66,4;conforme;6619;4456;59;79;206;Non vérifié
+10429;Villette-sur-Aube;10;eau potable : COPE DE LA FORET DE LA PERTHE;195402;2024;78,1;1,3;4,7;65,9;conforme;30582;3459;37;100;253;Non vérifié
+10430;Villiers-Herbisse;10;eau potable : COPE DES VALLEES DE LA MAURIENNE ET DE L'HERBISSONNE;148909;2024;86,9;0,9;6,2;66,2;conforme;11701;1596;54;53;81;Non vérifié
+10431;Villiers-le-Bois;10;eau potable : COPE DU LANDION;148855;2024;88,3;0,4;3,3;65,7;conforme;4085;1084;30;44;99;Non vérifié
+10433;Villy-en-Trodes;10;eau potable : COPE DES VALLEES DE LA MOGNE, DE LA SEINE, DE LA BARSE;148879;2024;83,9;1,4;7,4;66,5;conforme;242004;2817;32;69;245;Non vérifié
+10434;Villy-le-Bois;10;eau potable : COPE DES VALLEES DE LA MOGNE, DE LA SEINE, DE LA BARSE;148879;2024;83,9;1,4;7,4;66,5;conforme;242004;655;32;69;57;Non vérifié
+10435;Villy-le-Maréchal;10;eau potable : COPE DES VALLEES DE LA MOGNE, DE LA SEINE, DE LA BARSE;148879;2024;83,9;1,4;7,4;66,5;conforme;242004;2265;32;69;197;Non vérifié
+10436;Vinets;10;eau potable : COPE DES QUATRE VALLEES;198845;2024;80,8;1,2;5,1;66,0;conforme;74088;3424;49;89;191;Non vérifié
+10437;Virey-sous-Bar;10;eau potable : COPE DE VIREY-SOUS-BAR;221151;2024;87,1;0,9;6,2;66,2;conforme;3400;3400;16;53;588;Non vérifié
+10438;Vitry-le-Croisé;10;eau potable : COPE DE LA REGION D'EGUILLY-SOUS-BOIS / VITRY-LE-CROISE;148870;2024;86,2;0,9;5,7;66,1;conforme;3137;2095;26;57;223;Non vérifié
+10439;Viviers-sur-Artaut;10;eau potable;148831;2024;75,2;2,9;8,9;66,8;conforme;3175;3175;73;119;119;Non vérifié
+10440;Voigny;10;eau potable;256214;2024;93,2;0,4;5,4;66,1;conforme;16060;1029;20;32;141;Non vérifié
+10441;Vosnon;10;eau potable : COPE DES CORVEES;148929;2024;69,9;2,4;5,5;66,1;conforme;9697;5425;62;158;240;Non vérifié
+10442;Voué;10;eau potable : COPE DE LA BARBUISE;148872;2024;83,6;1,5;7,5;66,5;conforme;54613;9587;38;76;689;Non vérifié
+10443;Vougrey;10;eau potable : COPE DE LA VALLEE DE LA MARVE;148892;2024;84,9;0,8;4,5;65,9;conforme;6602;520;37;65;39;Non vérifié
+10444;Vulaines;10;eau potable : SMAEP Sens nord-est / Source des Salles;119733;2024;78,7;1,6;5,7;66,1;conforme;553632;3240;39;120;226;Non vérifié
+10445;Yèvres-le-Petit;10;eau potable : COPE DE ROSNAY-L'HOPITAL;148910;2024;59,5;2,8;4,0;65,8;non conforme;38713;3921;195;253;55;Non vérifié

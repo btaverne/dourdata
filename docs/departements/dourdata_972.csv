@@ -1,0 +1,44 @@
+﻿# DourData — eau perdue par les réseaux d'eau potable (indicateurs SISPEA)
+# Périmètre : Département 972
+# Source : SISPEA — Système d'Information des Services Publics d'Eau et d'Assainissement, via data.gouv.fr / services.eaufrance.fr
+# Licence : Licence Ouverte 2.0 (Etalab)
+# Millésime des données : 2024 (année la plus récente disponible par commune)
+# Date de génération de l'export : 2026-07-05
+# Méthodologie et code : https://github.com/btaverne/dourdata
+# Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
+# Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
+97201;L' Ajoupa-Bouillon;972;eau potable : EAU POTABLE CAP NORD;299714;2024;52,6;10,4;11,5;67,3;non conforme;3712488;86248;135;337;1751;Non vérifié
+97202;Les Anses-d'Arlet;972;eau potable;196847;2024;81,0;6,3;26,9;70,4;conforme;3803373;83119;60;138;3780;Non vérifié
+97203;Basse-Pointe;972;eau potable : EAU POTABLE CAP NORD;299714;2024;52,6;10,4;11,5;67,3;non conforme;3712488;137967;135;337;2801;Non vérifié
+97204;Le Carbet;972;eau potable : EAU POTABLE CAP NORD;299714;2024;52,6;10,4;11,5;67,3;non conforme;3712488;175352;135;337;3560;Non vérifié
+97205;Case-Pilote;972;eau potable : EAU POTABLE CAP NORD;299714;2024;52,6;10,4;11,5;67,3;non conforme;3712488;224510;135;337;4558;Non vérifié
+97206;Le Diamant;972;eau potable;196847;2024;81,0;6,3;26,9;70,4;conforme;3803373;126482;60;138;5752;Non vérifié
+97207;Ducos;972;eau potable;196847;2024;81,0;6,3;26,9;70,4;conforme;3803373;399457;60;138;18166;Non vérifié
+97208;Fonds-Saint-Denis;972;eau potable : EAU POTABLE CAP NORD;299714;2024;52,6;10,4;11,5;67,3;non conforme;3712488;32066;135;337;651;Non vérifié
+97209;Fort-de-France;972;eau potable : Régie Odyssi;196862;2024;51,6;28,0;29,8;71,0;non conforme;10260880;5119170;185;352;75627;Non vérifié
+97210;Le François;972;eau potable;196847;2024;81,0;6,3;26,9;70,4;conforme;3803373;355039;60;138;16146;Non vérifié
+97211;Grand'Rivière;972;eau potable : EAU POTABLE CAP NORD;299714;2024;52,6;10,4;11,5;67,3;non conforme;3712488;26795;135;337;544;Non vérifié
+97212;Gros-Morne;972;eau potable : EAU POTABLE CAP NORD;299714;2024;52,6;10,4;11,5;67,3;non conforme;3712488;490592;135;337;9960;Non vérifié
+97213;Le Lamentin;972;eau potable : Régie Odyssi;196862;2024;51,6;28,0;29,8;71,0;non conforme;10260880;2714290;185;352;40099;Non vérifié
+97214;Le Lorrain;972;eau potable : EAU POTABLE CAP NORD;299714;2024;52,6;10,4;11,5;67,3;non conforme;3712488;331593;135;337;6732;Non vérifié
+97215;Macouba;972;eau potable : EAU POTABLE CAP NORD;299714;2024;52,6;10,4;11,5;67,3;non conforme;3712488;50291;135;337;1021;Non vérifié
+97216;Le Marigot;972;eau potable : EAU POTABLE CAP NORD;299714;2024;52,6;10,4;11,5;67,3;non conforme;3712488;151709;135;337;3080;Non vérifié
+97217;Le Marin;972;eau potable;196847;2024;81,0;6,3;26,9;70,4;conforme;3803373;190383;60;138;8658;Non vérifié
+97218;Le Morne-Rouge;972;eau potable : EAU POTABLE CAP NORD;299714;2024;52,6;10,4;11,5;67,3;non conforme;3712488;226973;135;337;4608;Non vérifié
+97219;Le Prêcheur;972;eau potable : EAU POTABLE CAP NORD;299714;2024;52,6;10,4;11,5;67,3;non conforme;3712488;68368;135;337;1388;Non vérifié
+97220;Rivière-Pilote;972;eau potable;196847;2024;81,0;6,3;26,9;70,4;conforme;3803373;260133;60;138;11830;Non vérifié
+97221;Rivière-Salée;972;eau potable;196847;2024;81,0;6,3;26,9;70,4;conforme;3803373;266246;60;138;12108;Non vérifié
+97222;Le Robert;972;eau potable : Robert et Trinité;251994;2024;81,0;6,3;27,2;70,4;conforme;3812571;2450522;313;135;21435;Non vérifié
+97223;Saint-Esprit;972;eau potable;196847;2024;81,0;6,3;26,9;70,4;conforme;3803373;228073;60;138;10372;Non vérifié
+97224;Saint-Joseph;972;eau potable : Régie Odyssi;196862;2024;51,6;28,0;29,8;71,0;non conforme;10260880;1106253;185;352;16343;Non vérifié
+97225;Saint-Pierre;972;eau potable : EAU POTABLE CAP NORD;299714;2024;52,6;10,4;11,5;67,3;non conforme;3712488;203970;135;337;4141;Non vérifié
+97226;Sainte-Anne;972;eau potable;196847;2024;81,0;6,3;26,9;70,4;conforme;3803373;99941;60;138;4545;Non vérifié
+97227;Sainte-Luce;972;eau potable;196847;2024;81,0;6,3;26,9;70,4;conforme;3803373;209997;60;138;9550;Non vérifié
+97228;Sainte-Marie;972;eau potable : EAU POTABLE CAP NORD;299714;2024;52,6;10,4;11,5;67,3;non conforme;3712488;730666;135;337;14834;Non vérifié
+97229;Schoelcher;972;eau potable : Régie Odyssi;196862;2024;51,6;28,0;29,8;71,0;non conforme;10260880;1321168;185;352;19518;Non vérifié
+97230;La Trinité;972;eau potable : EAU POTABLE CAP NORD;299714;2024;52,6;10,4;11,5;67,3;non conforme;3712488;586838;135;337;11914;Non vérifié
+97231;Les Trois-Îlets;972;eau potable;196847;2024;81,0;6,3;26,9;70,4;conforme;3803373;154958;60;138;7047;Non vérifié
+97232;Le Vauclin;972;eau potable;196847;2024;81,0;6,3;26,9;70,4;conforme;3803373;188426;60;138;8569;Non vérifié
+97233;Le Morne-Vert;972;eau potable : EAU POTABLE CAP NORD;299714;2024;52,6;10,4;11,5;67,3;non conforme;3712488;88760;135;337;1802;Non vérifié
+97234;Bellefontaine;972;eau potable : EAU POTABLE CAP NORD;299714;2024;52,6;10,4;11,5;67,3;non conforme;3712488;99793;135;337;2026;Non vérifié

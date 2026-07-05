@@ -1,0 +1,422 @@
+﻿# DourData — eau perdue par les réseaux d'eau potable (indicateurs SISPEA)
+# Périmètre : Département 52
+# Source : SISPEA — Système d'Information des Services Publics d'Eau et d'Assainissement, via data.gouv.fr / services.eaufrance.fr
+# Licence : Licence Ouverte 2.0 (Etalab)
+# Millésime des données : 2021–2024 (année la plus récente disponible par commune)
+# Date de génération de l'export : 2026-07-05
+# Méthodologie et code : https://github.com/btaverne/dourdata
+# Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
+# Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
+52001;Ageville;52;eau potable;131765;2024;61,0;2,4;3,8;65,8;non conforme;17520;8597;81;233;290;Non vérifié
+52002;Aigremont;52;eau potable;131202;2022;91,1;0,4;4,6;65,9;conforme;120;120;14;32;23;Sans anomalie apparente
+52003;Aillianville;52;eau potable;99900;2024;74,4;1,7;5,1;66,0;conforme;134028;3098;57;125;148;Non vérifié
+52004;Aingoulaincourt;52;eau potable;131777;2024;89,8;0,7;6,3;66,3;conforme;11743;203;51;40;11;Non vérifié
+52006;Allichamps;52;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;6319;50;109;348;Non vérifié
+52007;Ambonville;52;eau potable;131805;2024;91,1;0,7;6,8;66,4;conforme;2943;1045;35;37;82;Non vérifié
+52008;Andelot-Blancheville;52;eau potable;131207;2024;76,4;4,1;13,4;67,7;conforme;17419;17419;60;112;799;Non vérifié
+52009;Andilly-en-Bassigny;52;eau potable;131209;2024;98,7;0,2;14,8;68,0;conforme;168;168;4;5;108;Non vérifié
+52011;Annéville-la-Prairie;52;eau potable : ANNEVILLE LA PRAIRIE;343234;2024;79,6;1,3;5,3;66,1;conforme;1234;1234;36;90;95;Non vérifié
+52012;Annonville;52;eau potable;99900;2024;74,4;1,7;5,1;66,0;conforme;134028;586;57;125;28;Non vérifié
+52014;Aprey;52;eau potable;131213;2024;76,3;4,1;13,4;67,7;conforme;2619;2619;38;112;187;Non vérifié
+52015;Arbigny-sous-Varennes;52;eau potable;131215;2024;80,8;1,0;4,1;65,8;conforme;978;978;31;90;87;Non vérifié
+52016;Arbot;52;eau potable;131216;2024;82,0;2,1;9,4;66,9;conforme;1410;1410;64;82;60;Non vérifié
+52017;Arc-en-Barrois;52;eau potable;131217;2024;69,7;3,1;7,2;66,4;conforme;18104;18104;74;158;671;Non vérifié
+52019;Arnancourt;52;eau potable;131219;2024;66,7;3,7;7,4;66,5;conforme;3511;3511;123;182;78;Non vérifié
+52021;Attancourt;52;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;4994;50;109;275;Non vérifié
+52022;Aubepierre-sur-Aube;52;eau potable;131222;2024;64,5;4,6;8,4;66,7;non conforme;6548;6548;100;200;180;Non vérifié
+52023;Auberive;52;eau potable;131224;2024;63,4;8,0;13,8;67,8;non conforme;16060;16060;265;211;166;Non vérifié
+52025;Audeloncourt;52;eau potable;131226;2024;92,2;0,7;8,3;66,7;conforme;588;588;21;31;77;Non vérifié
+52027;Aujeurres;52;eau potable;131228;2024;52,4;7,7;8,4;66,7;non conforme;3935;3935;148;333;73;Non vérifié
+52028;Aulnoy-sur-Aube;52;eau potable;131230;2024;91,3;0,6;6,2;66,2;conforme;350;350;19;35;51;Non vérifié
+52029;Autigny-le-Grand;52;eau potable;131231;2024;66,4;6,0;11,9;67,4;non conforme;2409;2409;51;184;130;Non vérifié
+52030;Autigny-le-Petit;52;eau potable;131767;2024;81,1;1,7;7,3;66,5;conforme;5088;396;19;85;57;Non vérifié
+52031;Autreville-sur-la-Renne;52;eau potable : eau potable;244294;2024;90,1;0,8;7,6;66,5;conforme;29200;2110;15;43;386;Non vérifié
+52033;Avrecourt;52;eau potable;314314;2024;95,0;0,3;5,7;66,1;conforme;357;357;8;19;117;Non vérifié
+52034;Bailly-aux-Forges;52;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;2306;50;109;127;Non vérifié
+52035;Baissey;52;eau potable;131238;2024;76,5;5,1;16,7;68,3;conforme;3723;3723;61;112;167;Non vérifié
+52037;Bannes;52;eau potable;131242;2024;92,9;0,6;8,0;66,6;conforme;1402;1402;11;27;360;Non vérifié
+52038;Bassoncourt;52;eau potable;131791;2024;78,2;1,3;4,6;65,9;conforme;42705;507;22;103;62;Non vérifié
+52039;Baudrecourt;52;eau potable;131244;2024;92,7;0,5;6,0;66,2;conforme;336;336;11;30;84;Non vérifié
+52040;Bay-sur-Aube;52;eau potable;131246;2024;94,1;0,4;7,1;66,4;conforme;234;234;14;21;45;Non vérifié
+52042;Beauchemin;52;eau potable;131786;2024;85,8;1,6;9,4;66,9;conforme;8410;2415;59;70;112;Non vérifié
+52043;Belmont;52;eau potable;131248;2024;56,3;4,5;5,8;66,2;non conforme;2217;2217;132;281;46;Non vérifié
+52044;Roches-Bettaincourt;52;eau potable;131249;2024;54,2;10,2;12,1;67,4;non conforme;24572;24572;129;308;521;Non vérifié
+52045;Bettancourt-la-Ferrée;52;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;32723;50;109;1802;Non vérifié
+52047;Beurville;52;eau potable;131253;2024;84,3;0,6;3,0;65,6;conforme;2365;2365;64;73;102;Non vérifié
+52050;Biesles;52;eau potable : BIESLES;343254;2024;66,0;4,9;9,5;66,9;non conforme;28079;28079;57;189;1342;Non vérifié
+52051;Bize;52;eau potable;131256;2024;83,9;2,8;14,9;68,0;conforme;1431;1431;50;69;79;Non vérifié
+52053;Blaisy;52;eau potable;256214;2024;93,2;0,4;5,4;66,1;conforme;16060;474;20;32;65;Non vérifié
+52055;Blécourt;52;eau potable;131258;2024;57,4;7,5;11,6;67,3;non calculable;4298;4298;106;273;111;Non vérifié
+52056;Blessonville;52;eau potable;131259;2024;55,0;9,8;12,0;67,4;non conforme;7154;7154;113;297;174;Non vérifié
+52057;Blumeray;52;eau potable;131776;2024;65,1;7,7;14,3;67,9;non conforme;52135;5951;163;455;100;Non vérifié
+52058;Bologne;52;eau potable : BOLOGNE;343235;2024;71,9;6,1;15,6;68,1;conforme;54995;54995;82;143;1833;Non vérifié
+52059;Bonnecourt;52;eau potable;131263;2024;100,0;0,0;8,9;66,8;conforme;0;0;0;0;120;Non vérifié
+52060;Bourbonne-les-Bains;52;eau potable;131265;2024;70,4;6,7;16,0;68,2;conforme;95374;95374;133;152;1958;Non vérifié
+52061;Bourdons-sur-Rognon;52;eau potable;131266;2024;78,1;1,5;5,5;66,1;conforme;5147;5147;48;99;293;Non vérifié
+52062;Bourg;52;eau potable;131268;2024;88,2;0,8;5,9;66,2;conforme;993;993;15;50;178;Non vérifié
+52063;Bourg-Sainte-Marie;52;eau potable;131791;2024;78,2;1,3;4,6;65,9;conforme;42705;679;22;103;83;Non vérifié
+52064;Bourmont-entre-Meuse-et-Mouzon;52;eau potable;131791;2024;78,2;1,3;4,6;65,9;conforme;42705;6055;22;103;740;Non vérifié
+52065;Bouzancourt;52;eau potable;131272;2024;90,2;0,3;2,7;65,5;conforme;865;865;33;40;72;Non vérifié
+52066;Brachay;52;eau potable;131273;2024;100,0;0,0;4,2;65,8;conforme;0;0;0;0;58;Non vérifié
+52067;Brainville-sur-Meuse;52;eau potable;131791;2024;78,2;1,3;4,6;65,9;conforme;42705;565;22;103;69;Non vérifié
+52069;Braux-le-Châtel;52;eau potable;131276;2024;93,7;0,8;11,4;67,3;conforme;380;380;8;26;123;Non vérifié
+52070;Brennes;52;eau potable;131278;2024;78,1;1,3;4,6;65,9;conforme;1661;1661;35;104;129;Non vérifié
+52072;Brethenay;52;eau potable : eau potable;244294;2024;90,1;0,8;7,6;66,5;conforme;29200;2181;15;43;399;Non vérifié
+52074;Breuvannes-en-Bassigny;52;eau potable;131791;2024;78,2;1,3;4,6;65,9;conforme;42705;5171;22;103;632;Non vérifié
+52075;Briaucourt;52;eau potable : BRIAUCOURT;343274;2024;88,4;1,4;10,5;67,1;conforme;766;766;12;49;168;Non vérifié
+52076;Bricon;52;eau potable;131283;2024;76,8;3,9;13,0;67,6;conforme;6548;6548;44;109;407;Non vérifié
+52079;Brousseval;52;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;11168;50;109;615;Non vérifié
+52082;Bugnières;52;eau potable;131287;2024;73,3;1,1;3,0;65,6;conforme;3493;3493;63;136;153;Non vérifié
+52083;Champsevraine;52;eau potable;131289;2024;88,2;0,9;6,8;66,4;conforme;4270;4270;16;49;719;Non vérifié
+52084;Busson;52;eau potable;99900;2024;74,4;1,7;5,1;66,0;conforme;134028;921;57;125;44;Non vérifié
+52085;Buxières-lès-Clefmont;52;eau potable;131291;2024;100,0;0,0;1,3;65,3;conforme;0;0;0;0;25;Non vérifié
+52087;Buxières-lès-Villiers;52;eau potable : eau potable;244294;2024;90,1;0,8;7,6;66,5;conforme;29200;1246;15;43;228;Non vérifié
+52088;Ceffonds;52;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;12076;50;109;665;Non vérifié
+52089;Celles-en-Bassigny;52;eau potable;131294;2024;94,8;0,5;8,4;66,7;conforme;511;511;20;22;71;Non vérifié
+52090;Celsoy;52;eau potable;131783;2024;92,3;1,1;13,5;67,7;conforme;1321;111;3;30;87;Non vérifié
+52091;Cerisières;52;eau potable;131805;2024;91,1;0,7;6,8;66,4;conforme;2943;1109;35;37;87;Non vérifié
+52092;Chalancey;52;eau potable;131298;2024;63,4;11,8;20,5;69,1;non conforme;10294;10294;233;210;121;Non vérifié
+52093;Chalindrey;52;eau potable;131300;2024;79,4;2,5;9,8;67,0;conforme;27375;27375;32;94;2353;Non vérifié
+52094;Vals-des-Tilles;52;eau potable;131302;2024;89,2;0,6;4,7;65,9;conforme;1872;1872;28;47;180;Non vérifié
+52095;Chalvraines;52;eau potable;131303;2024;66,9;0,9;1,9;65,4;conforme;4895;4895;70;176;191;Non vérifié
+52097;Chambroncourt;52;eau potable;131305;2024;79,7;0,8;3,0;65,6;conforme;876;876;50;97;48;Non vérifié
+52099;Chamouilley;52;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;13093;50;109;721;Non vérifié
+52101;Champigneulles-en-Bassigny;52;eau potable;131791;2024;78,2;1,3;4,6;65,9;conforme;42705;295;22;103;36;Non vérifié
+52102;Champigny-lès-Langres;52;eau potable;131308;2024;83,2;2,3;11,3;67,3;conforme;4441;4441;30;74;402;Non vérifié
+52103;Champigny-sous-Varennes;52;eau potable;131310;2024;95,4;0,5;10,4;67,1;conforme;365;365;7;18;134;Non vérifié
+52104;Chancenay;52;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;18214;50;109;1003;Non vérifié
+52105;Changey;52;eau potable;131314;2024;72,2;1,9;5,0;66,0;conforme;5964;5964;57;138;285;Non vérifié
+52106;Chanoy;52;eau potable;131315;2024;65,5;1,3;2,4;65,5;conforme;2894;2894;60;194;132;Non vérifié
+52107;Chantraines;52;eau potable;131317;2024;69,2;1,5;3,3;65,7;conforme;4544;4544;63;168;199;Non vérifié
+52108;Charmes;52;eau potable;131319;2024;63,7;2,5;4,4;65,9;non conforme;3805;3805;69;210;151;Non vérifié
+52109;Charmes-en-l'Angle;52;eau potable;131320;2024;100,0;0,0;2,4;65,5;conforme;0;0;0;0;6;Non vérifié
+52110;Charmes-la-Grande;52;eau potable;131321;2024;79,1;1,4;5,2;66,0;conforme;1278;1278;22;97;161;Non vérifié
+52113;Chassigny;52;eau potable;131323;2024;82,5;2,3;11,0;67,2;conforme;4198;4198;47;76;243;Non vérifié
+52114;Châteauvillain;52;eau potable;131773;2024;72,6;2,0;5,2;66,0;conforme;12089;9937;18;140;1482;Non vérifié
+52115;Chatenay-Mâcheron;52;eau potable;131327;2024;86,3;0,6;4,0;65,8;conforme;1143;1143;32;54;97;Non vérifié
+52116;Chatenay-Vaudin;52;eau potable;131329;2024;100,0;0,0;15,2;68,0;conforme;0;0;0;0;46;Non vérifié
+52118;Chatonrupt-Sommermont;52;eau potable;131790;2024;86,5;0,5;3,4;65,7;conforme;3468;1690;17;54;268;Non vérifié
+52119;Chaudenay;52;eau potable;131331;2024;78,2;4,1;14,6;67,9;conforme;4340;4340;35;102;338;Non vérifié
+52120;Chauffourt;52;eau potable;131333;2024;90,3;0,6;5,3;66,1;conforme;876;876;13;41;180;Non vérifié
+52121;Chaumont;52;eau potable : CHAUMONT;343275;2024;84,8;2,9;16,1;68,2;conforme;229694;229694;30;70;20827;Non vérifié
+52122;Chaumont-la-Ville;52;eau potable;131791;2024;78,2;1,3;4,6;65,9;conforme;42705;892;22;103;109;Non vérifié
+52123;Chevillon;52;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;22590;50;109;1244;Non vérifié
+52124;Chézeaux;52;eau potable;341655;2024;80,7;2,3;9,6;66,9;conforme;1595;1595;57;88;76;Non vérifié
+52125;Chamarandes-Choignes;52;eau potable : CHAMARANDES CHOIGNES;343294;2024;87,4;2,2;15,0;68,0;conforme;9877;9877;26;54;1039;Non vérifié
+52126;Choilley-Dardenay;52;eau potable;131775;2024;71,5;1,9;4,7;65,9;conforme;24272;2063;35;148;162;Non vérifié
+52127;Choiseul;52;eau potable;131791;2024;78,2;1,3;4,6;65,9;conforme;42705;655;22;103;80;Non vérifié
+52128;Cirey-lès-Mareilles;52;eau potable : eau potable;244294;2024;90,1;0,8;7,6;66,5;conforme;29200;847;15;43;155;Non vérifié
+52129;Cirey-sur-Blaise;52;eau potable;131345;2024;100,0;0,0;10,2;67,0;conforme;0;0;0;0;108;Non vérifié
+52130;Cirfontaines-en-Azois;52;eau potable;131346;2024;67,3;7,9;16,3;68,3;non conforme;8651;8651;132;214;180;Non vérifié
+52131;Cirfontaines-en-Ornois;52;eau potable;131347;2024;72,0;1,8;4,6;65,9;conforme;2010;2010;62;;89;Non vérifié
+52132;Clefmont;52;eau potable;131791;2024;78,2;1,3;4,6;65,9;conforme;42705;1236;22;103;151;Non vérifié
+52133;Clinchamp;52;eau potable;131791;2024;78,2;1,3;4,6;65,9;conforme;42705;581;22;103;71;Non vérifié
+52134;Cohons;52;eau potable;131350;2024;71,8;4,3;10,8;67,2;conforme;5650;5650;75;145;207;Non vérifié
+52135;Coiffy-le-Bas;52;eau potable;131352;2023;91,2;0,5;5,2;66,0;conforme;573;573;19;35;84;Sans anomalie apparente
+52136;Coiffy-le-Haut;52;eau potable;131353;2024;68,9;2,6;5,8;66,2;conforme;4460;4460;115;162;106;Non vérifié
+52137;Colmier-le-Bas;52;eau potable;131354;2024;99,9;0,0;7,4;66,5;conforme;0;0;0;0;22;Non vérifié
+52138;Colmier-le-Haut;52;eau potable;131355;2024;97,5;0,3;10,4;67,1;conforme;274;274;12;15;61;Non vérifié
+52140;Colombey les Deux Églises;52;eau potable : CA Chaumont;284434;2024;83,0;3,1;15,3;68,1;conforme;462670;8630;36;77;661;Non vérifié
+52141;Condes;52;eau potable : eau potable;244294;2024;90,1;0,8;7,6;66,5;conforme;29200;1596;15;43;292;Non vérifié
+52142;Consigny;52;eau potable;131358;2024;94,2;0,9;14,5;67,9;conforme;443;443;15;23;79;Non vérifié
+52145;Coublanc;52;eau potable;131772;2024;97,6;0,3;12,8;67,6;conforme;569;355;8;9;119;Non vérifié
+52146;Coupray;52;eau potable;131773;2024;72,6;2,0;5,2;66,0;conforme;12089;1160;18;140;173;Non vérifié
+52147;Courcelles-en-Montagne;52;eau potable;131361;2024;89,1;1,2;9,9;67,0;conforme;745;745;22;44;94;Non vérifié
+52149;Courcelles-sur-Blaise;52;eau potable;131363;2024;69,5;2,8;6,4;66,3;conforme;2351;2351;75;159;86;Non vérifié
+52151;Cour-l'Évêque;52;eau potable;131773;2024;72,6;2,0;5,2;66,0;conforme;12089;992;18;140;148;Non vérifié
+52155;Culmont;52;eau potable;131365;2024;89,0;1,2;9,4;66,9;conforme;2720;2720;14;46;538;Non vérifié
+52156;Curel;52;eau potable;131767;2024;81,1;1,7;7,3;66,5;conforme;5088;2829;19;85;407;Non vérifié
+52157;Curmont;52;eau potable;256214;2024;93,2;0,4;5,4;66,1;conforme;16060;88;20;32;12;Non vérifié
+52158;Cusey;52;eau potable;139618;2024;70,6;1,8;4,3;65,9;conforme;39748;5975;56;161;291;Non vérifié
+52160;Daillancourt;52;eau potable : DAILLANCOURT;343255;2024;86,8;1,1;7,3;66,5;conforme;763;763;35;55;60;Non vérifié
+52161;Daillecourt;52;eau potable;131791;2024;78,2;1,3;4,6;65,9;conforme;42705;589;22;103;72;Non vérifié
+52162;Dammartin-sur-Meuse;52;eau potable;131370;2024;88,9;1,6;12,8;67,6;conforme;3504;3504;47;46;206;Non vérifié
+52163;Dampierre;52;eau potable;131372;2024;71,7;6,0;15,3;68,1;conforme;10950;10950;79;143;382;Non vérifié
+52164;Damrémont;52;eau potable;131374;2024;100,0;0,0;10,5;67,1;conforme;0;0;0;0;198;Non vérifié
+52165;Dancevoir;52;eau potable;131375;2023;61,4;39,7;63,2;77,6;non conforme;8694;8694;120;229;198;Sans anomalie apparente
+52167;Darmannes;52;eau potable : eau potable;244294;2024;90,1;0,8;7,6;66,5;conforme;29200;1273;15;43;233;Non vérifié
+52168;Dinteville;52;eau potable;131377;2024;79,1;2,8;10,4;67,1;conforme;1226;1226;54;98;62;Non vérifié
+52169;Domblain;52;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;1562;50;109;86;Non vérifié
+52170;Dommarien;52;eau potable;131775;2024;71,5;1,9;4,7;65,9;conforme;24272;2127;35;148;167;Non vérifié
+52171;Dommartin-le-Franc;52;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;4413;50;109;243;Non vérifié
+52172;Dommartin-le-Saint-Père;52;eau potable;131776;2024;65,1;7,7;14,3;67,9;non conforme;52135;15771;163;455;265;Non vérifié
+52173;Domremy-Landéville;52;eau potable;99900;2024;74,4;1,7;5,1;66,0;conforme;134028;1570;57;125;75;Non vérifié
+52174;Doncourt-sur-Meuse;52;eau potable;131791;2024;78,2;1,3;4,6;65,9;conforme;42705;327;22;103;40;Non vérifié
+52175;Donjeux;52;eau potable;131383;2024;60,1;5,8;8,7;66,7;non conforme;9061;9061;65;243;380;Non vérifié
+52177;Doulaincourt-Saucourt;52;eau potable;131385;2024;72,1;2,5;6,6;66,3;conforme;16069;16069;60;139;731;Non vérifié
+52178;Doulevant-le-Château;52;eau potable;131776;2024;65,1;7,7;14,3;67,9;non conforme;52135;22020;163;455;370;Non vérifié
+52179;Doulevant-le-Petit;52;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;309;50;109;17;Non vérifié
+52181;Échenay;52;eau potable;131777;2024;89,8;0,7;6,3;66,3;conforme;11743;1775;51;40;96;Non vérifié
+52182;Éclaron-Braucourt-Sainte-Livière;52;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;36464;50;109;2008;Non vérifié
+52183;Ecot-la-Combe;52;eau potable;131391;2024;63,3;3,0;5,2;66,0;non conforme;1303;1303;99;211;36;Non vérifié
+52184;Effincourt;52;eau potable;131777;2024;89,8;0,7;6,3;66,3;conforme;11743;1036;51;40;56;Non vérifié
+52185;Enfonvelle;52;eau potable;131392;2024;58,9;11,3;16,2;68,2;non conforme;8661;8661;339;254;70;Non vérifié
+52187;Épizon;52;eau potable;99900;2024;74,4;1,7;5,1;66,0;conforme;134028;3203;57;125;153;Non vérifié
+52189;Le Val-d'Esnoms;52;eau potable;131393;2024;95,0;0,4;11,1;67,2;conforme;1069;1069;8;13;347;Non vérifié
+52190;Esnouveaux;52;eau potable;131765;2024;61,0;2,4;3,8;65,8;non conforme;17520;8923;81;233;301;Non vérifié
+52193;Euffigneix;52;eau potable : eau potable;244294;2024;90,1;0,8;7,6;66,5;conforme;29200;1634;15;43;299;Non vérifié
+52194;Eurville-Bienville;52;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;35846;50;109;1974;Non vérifié
+52196;Faverolles;52;eau potable;131398;2024;97,9;0,3;13,6;67,7;conforme;208;208;6;8;102;Non vérifié
+52197;Fayl-Billot;52;eau potable;131400;2024;73,3;3,5;9,7;66,9;conforme;28246;28246;60;132;1296;Non vérifié
+52198;Fays;52;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;1108;50;109;61;Non vérifié
+52199;Ferrière-et-Lafolie;52;eau potable;131780;2024;71,8;0,9;2,4;65,5;conforme;7815;1088;60;136;50;Non vérifié
+52200;Flagey;52;eau potable;131403;2024;47,1;8,5;7,6;66,5;non conforme;7756;7756;304;411;70;Non vérifié
+52201;Flammerécourt;52;eau potable;131404;2024;97,2;0,2;7,5;66,5;conforme;93;93;4;10;72;Non vérifié
+52203;Fontaines-sur-Marne;52;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;2742;50;109;151;Non vérifié
+52204;Forcey;52;eau potable : FORCEY;343314;2024;79,5;0,9;3,4;65,7;conforme;723;723;34;95;59;Non vérifié
+52205;Foulain;52;eau potable : FOULAIN;343334;2024;92,1;1,0;11,1;67,2;conforme;1902;1902;8;33;673;Non vérifié
+52206;Frampas;52;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;2797;50;109;154;Non vérifié
+52207;Frécourt;52;eau potable;131410;2024;83,4;0,6;2,9;65,6;conforme;1605;1605;51;75;86;Non vérifié
+52208;Fresnes-sur-Apance;52;eau potable;131411;2024;46,4;14,1;12,2;67,4;non conforme;20689;20689;356;421;159;Non vérifié
+52211;Froncles;52;eau potable : FRONCLES;343236;2024;55,7;18,7;23,5;69,7;non conforme;83749;83749;168;290;1369;Non vérifié
+52212;Fronville;52;eau potable;131414;2024;87,5;1,6;11,0;67,2;conforme;4555;4555;42;59;296;Non vérifié
+52213;Genevrières;52;eau potable;131416;2024;100,0;0,0;21,9;69,4;conforme;0;0;0;0;124;Non vérifié
+52214;La Genevroye;52;eau potable;131805;2024;91,1;0,7;6,8;66,4;conforme;2943;357;35;37;28;Non vérifié
+52217;Germainvilliers;52;eau potable;256074;2024;0,0;1,3;4,6;65,9;non calculable;42705;679;22;103;83;Non vérifié
+52218;Germay;52;eau potable;99900;2024;74,4;1,7;5,1;66,0;conforme;134028;1026;57;125;49;Non vérifié
+52219;Germisay;52;eau potable;99900;2024;74,4;1,7;5,1;66,0;conforme;134028;356;57;125;17;Non vérifié
+52220;Giey-sur-Aujon;52;eau potable;131419;2024;69,4;3,3;7,5;66,5;conforme;4095;4095;81;160;139;Non vérifié
+52221;Gillancourt;52;eau potable : GILLANCOURT;343354;2024;68,8;4,7;10,3;67,1;conforme;5061;5061;107;167;130;Non vérifié
+52222;Gillaumé;52;eau potable;131777;2024;89,8;0,7;6,3;66,3;conforme;11743;555;51;40;30;Non vérifié
+52223;Gilley;52;eau potable;131423;2024;63,9;3,8;6,7;66,3;non conforme;6241;6241;259;208;66;Non vérifié
+52227;Graffigny-Chemin;52;eau potable;131791;2024;78,2;1,3;4,6;65,9;conforme;42705;1587;22;103;194;Non vérifié
+52228;Grandchamp;52;eau potable;131426;2024;64,5;2,6;4,7;65,9;non conforme;1139;1139;49;203;64;Non vérifié
+52229;Grenant;52;eau potable;131428;2023;100,0;0,0;10,1;67,0;conforme;0;0;0;0;148;Sans anomalie apparente
+52230;Gudmont-Villiers;52;eau potable;131429;2024;72,5;3,8;10,0;67,0;conforme;6949;6949;68;139;278;Non vérifié
+52231;Guindrecourt-aux-Ormes;52;eau potable;131790;2024;86,5;0,5;3,4;65,7;conforme;3468;612;17;54;97;Non vérifié
+52232;Guindrecourt-sur-Blaise;52;eau potable : GUINDRECOURT;343774;2024;74,4;1,2;3,5;65,7;conforme;1095;1095;59;125;51;Non vérifié
+52233;Guyonvelle;52;eau potable;131434;2024;89,6;0,6;4,9;66,0;conforme;552;552;18;45;84;Non vérifié
+52234;Hâcourt;52;eau potable;131791;2024;78,2;1,3;4,6;65,9;conforme;42705;335;22;103;41;Non vérifié
+52235;Hallignicourt;52;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;4322;50;109;238;Non vérifié
+52237;Harréville-les-Chanteurs;52;eau potable;99900;2024;74,4;1,7;5,1;66,0;conforme;134028;5421;57;125;259;Non vérifié
+52240;Heuilley-le-Grand;52;eau potable;131441;2024;94,3;1,8;29,9;71,0;conforme;1314;1314;19;22;188;Non vérifié
+52242;Haute-Amance;52;eau potable;131783;2024;92,3;1,1;13,5;67,7;conforme;1321;1210;3;30;952;Non vérifié
+52243;Huilliécourt;52;eau potable;131791;2024;78,2;1,3;4,6;65,9;conforme;42705;876;22;103;107;Non vérifié
+52244;Humbécourt;52;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;13819;50;109;761;Non vérifié
+52245;Humberville;52;eau potable;131448;2023;95,0;0,6;14,4;67,9;conforme;318;318;15;15;57;Sans anomalie apparente
+52246;Humes-Jorquenay;52;eau potable;131450;2024;73,6;2,8;7,8;66,6;conforme;12795;12795;59;130;594;Non vérifié
+52247;Illoud;52;eau potable;131791;2024;78,2;1,3;4,6;65,9;conforme;42705;1563;22;103;191;Non vérifié
+52248;Is-en-Bassigny;52;eau potable;131454;2024;52,1;7,9;8,6;66,7;non conforme;20877;20877;108;334;530;Non vérifié
+52249;Isômes;52;eau potable;346074;2024;89,6;1,4;12,0;67,4;conforme;1022;1022;19;43;146;Non vérifié
+52250;Joinville;52;eau potable;131456;2024;87,5;2,2;15,3;68,1;conforme;30859;30859;29;78;2915;Non vérifié
+52251;Jonchery;52;eau potable : eau potable;244294;2024;90,1;0,8;7,6;66,5;conforme;29200;5175;15;43;947;Non vérifié
+52253;Juzennecourt;52;eau potable;256214;2024;93,2;0,4;5,4;66,1;conforme;16060;1409;20;32;193;Non vérifié
+52254;Lachapelle-en-Blaisy;52;eau potable;256214;2024;93,2;0,4;5,4;66,1;conforme;16060;591;20;32;81;Non vérifié
+52256;Lafauche;52;eau potable;99900;2024;74,4;1,7;5,1;66,0;conforme;134028;1549;57;125;74;Non vérifié
+52257;Laferté-sur-Amance;52;eau potable;131462;2024;88,4;0,4;3,0;65,6;conforme;657;657;17;49;109;Non vérifié
+52258;Laferté-sur-Aube;52;eau potable;131463;2021;50,7;4,6;4,7;65,9;non conforme;14926;14926;134;358;306;Sans anomalie apparente
+52260;Lamancine;52;eau potable : LAMANCINE;343374;2024;81,2;1,6;7,0;66,4;conforme;1460;1460;32;83;124;Non vérifié
+52264;Laneuvelle;52;eau potable;131466;2024;81,0;1,6;6,9;66,4;conforme;993;993;39;85;69;Non vérifié
+52265;Bayard-sur-Marne;52;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;22881;50;109;1260;Non vérifié
+52266;Laneuville-à-Rémy;52;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;1235;50;109;68;Non vérifié
+52267;Laneuville-au-Pont;52;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;4231;50;109;233;Non vérifié
+52269;Langres;52;eau potable;131771;2024;90,0;1,2;10,8;67,2;conforme;2978;2911;1;41;7421;Non vérifié
+52271;Lanques-sur-Rognon;52;eau potable : LANQUES-SUR-ROGNON;343394;2024;83,0;2,2;10,9;67,2;conforme;2489;2489;32;73;213;Non vérifié
+52272;Lanty-sur-Aube;52;eau potable;131475;2024;81,2;1,9;8,4;66,7;conforme;1526;1526;37;82;114;Non vérifié
+52273;Larivière-Arnoncourt;52;eau potable;131477;2024;52,3;4,4;4,8;66,0;non conforme;5942;5942;136;332;120;Non vérifié
+52274;Latrecey-Ormoy-sur-Aube;52;eau potable;131478;2024;66,8;3,1;6,1;66,2;conforme;7468;7468;76;184;268;Non vérifié
+52275;Lavernoy;52;eau potable;131480;2024;90,6;0,4;4,0;65,8;conforme;474;474;18;36;74;Non vérifié
+52276;Laville-aux-Bois;52;eau potable : LAVILLE-AUX-BOIS;343395;2024;70,9;3,5;8,6;66,7;conforme;6004;6004;69;149;238;Non vérifié
+52277;Lavilleneuve;52;eau potable;131484;2024;100,0;0,0;5,6;66,1;conforme;0;0;0;0;57;Non vérifié
+52280;Lecey;52;eau potable;131486;2024;95,7;1,0;21,2;69,2;conforme;912;912;13;17;196;Non vérifié
+52282;Leffonds;52;eau potable;131779;2024;87,3;2,0;14,1;67,8;conforme;10220;2620;21;52;344;Non vérifié
+52284;Leschères-sur-le-Blaiseron;52;eau potable;131489;2024;100,0;0,0;36,4;72,3;conforme;0;0;0;0;87;Non vérifié
+52285;Leuchey;52;eau potable;131490;2024;85,4;0,2;1,1;65,2;conforme;1095;1095;43;64;70;Non vérifié
+52286;LEURVILLE;52;eau potable;99900;2024;74,4;1,7;5,1;66,0;conforme;134028;1695;57;125;81;Non vérifié
+52287;Levécourt;52;eau potable;131791;2024;78,2;1,3;4,6;65,9;conforme;42705;745;22;103;91;Non vérifié
+52288;Lezéville;52;eau potable;131493;2024;91,7;1,1;11,7;67,3;conforme;1526;1526;39;34;106;Non vérifié
+52289;Liffol-le-Petit;52;eau potable;131494;2024;89,9;0,3;2,6;65,5;conforme;1862;1862;16;42;318;Non vérifié
+52290;Les Loges;52;eau potable;131496;2024;88,2;1,1;8,2;66,6;conforme;1004;1004;22;49;124;Non vérifié
+52291;Longchamp;52;eau potable;131781;2024;38,5;11,2;7,0;66,4;non conforme;32704;8107;376;580;59;Non vérifié
+52292;Longeau-Percey;52;eau potable;131499;2024;37,9;16,2;9,9;67,0;non conforme;83965;83965;334;677;688;Non vérifié
+52294;Louvemont;52;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;12602;50;109;694;Non vérifié
+52295;Louvières;52;eau potable : LOUVIERES;343414;2024;66,9;2,7;5,5;66,1;conforme;1675;1675;53;180;87;Non vérifié
+52297;Luzy-sur-Marne;52;eau potable : LUZY-SUR-MARNE;343256;2024;61,3;4,6;7,2;66,4;non conforme;6733;6733;66;232;279;Non vérifié
+52298;Maâtz;52;eau potable;131772;2024;97,6;0,3;12,8;67,6;conforme;569;215;8;9;72;Non vérifié
+52300;Magneux;52;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;2724;50;109;150;Non vérifié
+52301;Maisoncelles;52;eau potable;131791;2024;78,2;1,3;4,6;65,9;conforme;42705;434;22;103;53;Non vérifié
+52302;Maizières;52;eau potable;131790;2024;86,5;0,5;3,4;65,7;conforme;3468;1166;17;54;185;Non vérifié
+52303;Maizières-sur-Amance;52;eau potable;131512;2024;63,9;5,6;9,9;67,0;non conforme;4906;4906;141;206;95;Non vérifié
+52304;Malaincourt-sur-Meuse;52;eau potable;131791;2024;78,2;1,3;4,6;65,9;conforme;42705;385;22;103;47;Non vérifié
+52305;Mandres-la-Côte;52;eau potable : MANDRES-LA-COTE;343237;2024;96,5;0,9;4,4;65,9;conforme;4073;4073;20;75;556;Non vérifié
+52306;Manois;52;eau potable;99900;2024;74,4;1,7;5,1;66,0;conforme;134028;9461;57;125;452;Non vérifié
+52307;Marac;52;eau potable;131518;2024;82,6;1,3;6,0;66,2;conforme;2083;2083;27;79;210;Non vérifié
+52308;Maranville;52;eau potable;256214;2024;93,2;0,4;5,4;66,1;conforme;16060;2956;20;32;405;Non vérifié
+52310;Marbéville;52;eau potable : MARBEVILLE;343396;2024;97,9;0,1;4,3;65,9;conforme;190;190;5;8;100;Non vérifié
+52311;Marcilly-en-Bassigny;52;eau potable;131523;2024;83,7;0,7;3,8;65,8;conforme;1891;1891;24;67;220;Non vérifié
+52312;Mardor;52;eau potable;131525;2024;47,3;1,2;1,1;65,2;non conforme;2628;2628;131;394;55;Non vérifié
+52313;Mareilles;52;eau potable : eau potable;244294;2024;90,1;0,8;7,6;66,5;conforme;29200;760;15;43;139;Non vérifié
+52315;Marnay-sur-Marne;52;eau potable : MARNAY-SUR-MARNE;343434;2024;70,0;2,0;4,7;65,9;conforme;5475;5475;47;155;320;Non vérifié
+52316;Mathons;52;eau potable;131780;2024;71,8;0,9;2,4;65,5;conforme;7815;1480;60;136;68;Non vérifié
+52318;Melay;52;eau potable;131530;2024;62,9;5,7;9,6;66,9;non conforme;9445;9445;108;217;240;Non vérifié
+52319;Mennouveaux;52;eau potable;131781;2024;38,5;11,2;7,0;66,4;non conforme;32704;8794;376;580;64;Non vérifié
+52320;Merrey;52;eau potable;131791;2024;78,2;1,3;4,6;65,9;conforme;42705;761;22;103;93;Non vérifié
+52322;Meures;52;eau potable : MEURES;343454;2024;89,5;0,6;5,1;66,0;conforme;942;942;20;43;130;Non vérifié
+52325;Millières;52;eau potable;131781;2024;38,5;11,2;7,0;66,4;non conforme;32704;15802;376;580;115;Non vérifié
+52326;Mirbel;52;eau potable;131805;2024;91,1;0,7;6,8;66,4;conforme;2943;433;35;37;34;Non vérifié
+52327;Moëslains;52;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;8480;50;109;467;Non vérifié
+52328;Montcharvot;52;eau potable;131536;2024;100,0;0,0;5,4;66,1;conforme;0;0;0;0;44;Non vérifié
+52331;La Porte du Der;52;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;38116;50;109;2099;Non vérifié
+52332;Val-de-Meuse;52;eau potable;131791;2024;78,2;1,3;4,6;65,9;conforme;42705;14737;22;103;1801;Non vérifié
+52335;Montot-sur-Rognon;52;eau potable;131541;2024;86,8;0,9;5,8;66,2;conforme;1807;1807;45;56;109;Non vérifié
+52336;Montreuil-sur-Blaise;52;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;2343;50;109;129;Non vérifié
+52337;Montreuil-sur-Thonnance;52;eau potable;131777;2024;89,8;0,7;6,3;66,3;conforme;11743;1294;51;40;70;Non vérifié
+52341;Morancourt;52;eau potable;131780;2024;71,8;0,9;2,4;65,5;conforme;7815;2743;60;136;126;Non vérifié
+52342;Morionvilliers;52;eau potable;99900;2024;74,4;1,7;5,1;66,0;conforme;134028;502;57;125;24;Non vérifié
+52344;Mouilleron;52;eau potable;131547;2024;79,4;9,1;35,3;72,1;conforme;4650;4650;439;94;29;Non vérifié
+52346;Mussey-sur-Marne;52;eau potable;131548;2024;92,4;1,1;13,0;67,6;conforme;1686;1686;13;31;349;Non vérifié
+52347;Narcy;52;eau potable;116002;2024;73,6;2,0;5,6;66,1;conforme;151548;3360;46;131;201;Non vérifié
+52348;Neuilly-l'Évêque;52;eau potable;131550;2024;72,4;2,8;7,2;66,4;conforme;10220;10220;47;142;601;Non vérifié
+52349;Neuilly-sur-Suize;52;eau potable;131774;2024;81,2;1,0;4,2;65,8;conforme;6205;1873;18;88;291;Non vérifié
+52352;Ninville;52;eau potable : NINVILLE;343474;2024;85,3;2,2;13,0;67,6;conforme;3935;3935;174;82;62;Non vérifié
+52353;Nogent;52;eau potable : NOGENT;343475;2024;73,8;3,3;7,7;66,5;conforme;79617;74438;57;159;3550;Non vérifié
+52354;Noidant-Chatenoy;52;eau potable;131558;2024;72,6;1,9;5,0;66,0;conforme;1387;1387;48;138;79;Non vérifié
+52355;Noidant-le-Rocheux;52;eau potable;131559;2024;100,0;0,0;4,6;65,9;conforme;0;0;0;0;168;Non vérifié
+52356;Nomécourt;52;eau potable;131780;2024;71,8;0,9;2,4;65,5;conforme;7815;2503;60;136;115;Non vérifié
+52357;Noncourt-sur-le-Rongeant;52;eau potable;131561;2024;92,8;0,9;11,4;67,3;conforme;581;581;9;29;168;Non vérifié
+52358;Noyers;52;eau potable;131562;2024;95,1;0,6;11,4;67,3;conforme;1154;1154;33;19;97;Non vérifié
+52359;Nully;52;eau potable;131784;2024;52,9;3,5;4,0;65,8;non conforme;20363;8807;171;324;141;Non vérifié
+52360;Occey;52;eau potable;131563;2024;80,4;1,4;5,9;66,2;conforme;3322;3322;54;87;168;Non vérifié
+52362;Orbigny-au-Mont;52;eau potable;131564;2024;57,4;3,4;4,5;65,9;non conforme;3599;3599;71;273;138;Non vérifié
+52363;Orbigny-au-Val;52;eau potable;131566;2024;96,7;0,3;9,1;66,8;conforme;283;283;8;12;95;Non vérifié
+52364;Orcevaux;52;eau potable;131567;2024;91,3;0,6;6,3;66,3;conforme;482;482;13;35;102;Non vérifié
+52365;Orges;52;eau potable;131568;2024;76,3;3,1;10,0;67,0;conforme;4322;4322;33;114;361;Non vérifié
+52366;Ormancey;52;eau potable;131569;2024;70,3;3,5;8,3;66,7;conforme;1916;1916;72;154;73;Non vérifié
+52367;Ormoy-lès-Sexfontaines;52;eau potable : ORMOY-LES-SEXFONTAINES;343494;2024;95,5;0,3;7,1;66,4;conforme;77;77;5;15;40;Non vérifié
+52369;Orquevaux;52;eau potable;131572;2021;57,9;4,1;5,6;66,1;non conforme;2694;2694;105;267;70;Sans anomalie apparente
+52370;Osne-le-Val;52;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;4576;50;109;252;Non vérifié
+52371;Oudincourt;52;eau potable : OUDINCOURT;343514;2024;72,7;4,9;13,1;67,6;conforme;4024;4024;78;151;141;Non vérifié
+52372;Outremécourt;52;eau potable;131577;2024;85,3;1,4;8,3;66,7;conforme;1329;1329;49;62;75;Non vérifié
+52374;Le Pailly;52;eau potable;131580;2024;75,0;3,9;11,7;67,3;conforme;5125;5125;52;122;270;Non vérifié
+52375;Palaiseul;52;eau potable;131582;2024;96,0;0,1;2,7;65,5;conforme;101;101;5;14;52;Non vérifié
+52376;Pansey;52;eau potable;131777;2024;89,8;0,7;6,3;66,3;conforme;11743;1590;51;40;86;Non vérifié
+52377;Parnoy-en-Bassigny;52;eau potable;131584;2024;76,1;3,1;10,0;67,0;conforme;11768;11768;118;113;273;Non vérifié
+52378;Paroy-sur-Saulx;52;eau potable;131777;2024;89,8;0,7;6,3;66,3;conforme;11743;795;51;40;43;Non vérifié
+52380;Peigney;52;eau potable;131585;2024;100,0;0,0;57,6;76,5;conforme;0;0;0;0;381;Non vérifié
+52383;Perrancey-les-Vieux-Moulins;52;eau potable;131587;2024;76,2;1,8;5,9;66,2;conforme;3942;3942;36;111;297;Non vérifié
+52384;Perrogney-les-Fontaines;52;eau potable;131589;2024;97,4;0,3;9,7;66,9;conforme;619;619;16;11;106;Non vérifié
+52385;Perrusse;52;eau potable;131591;2024;79,0;1,2;4,3;65,9;conforme;526;526;51;101;28;Non vérifié
+52386;Perthes;52;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;9406;50;109;518;Non vérifié
+52388;Pierremont-sur-Amance;52;eau potable;131594;2024;72,8;3,5;9,2;66,8;conforme;5366;5366;99;138;148;Non vérifié
+52390;Pisseloup;52;eau potable;131595;2024;98,0;0,1;5,0;66,0;conforme;46;46;2;7;62;Non vérifié
+52391;Planrupt;52;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;5575;50;109;307;Non vérifié
+52392;Plesnoy;52;eau potable;131597;2024;75,5;1,9;5,8;66,2;conforme;1595;1595;41;119;106;Non vérifié
+52393;Poinsenot;52;eau potable;131598;2024;80,1;1,1;4,6;65,9;conforme;562;562;29;88;54;Non vérifié
+52394;Poinson-lès-Fayl;52;eau potable;131599;2024;62,7;6,2;10,4;67,1;non conforme;11790;11790;162;217;199;Non vérifié
+52395;Poinson-lès-Grancey;52;eau potable;131600;2024;89,5;2,3;19,5;68,9;conforme;1049;1049;50;43;57;Non vérifié
+52396;Poinson-lès-Nogent;52;eau potable : POINSON-LES-NOGENT;343534;2024;65,5;6,1;11,6;67,3;non conforme;6078;6078;116;191;144;Non vérifié
+52397;Poiseul;52;eau potable;131603;2024;90,8;0,6;6,2;66,2;conforme;764;764;29;35;72;Non vérifié
+52398;Poissons;52;eau potable;99900;2024;74,4;1,7;5,1;66,0;conforme;134028;12936;57;125;618;Non vérifié
+52399;Pont-la-Ville;52;eau potable;131606;2024;98,5;0,1;8,4;66,7;conforme;150;150;4;9;117;Non vérifié
+52400;Le Châtelet-sur-Meuse;52;eau potable;131607;2024;99,7;0,0;6,8;66,4;conforme;0;0;0;0;155;Non vérifié
+52401;Poulangy;52;eau potable : POULANGY;343535;2024;66,0;3,5;6,9;66,4;non conforme;6515;6515;49;186;361;Non vérifié
+52403;Praslay;52;eau potable;131609;2024;96,2;0,3;6,9;66,4;conforme;110;110;4;16;75;Non vérifié
+52405;Le Montsaugeonnais;52;eau potable;131775;2024;71,5;1,9;4,7;65,9;conforme;24272;14518;35;148;1140;Non vérifié
+52406;Pressigny;52;eau potable;131612;2024;96,8;0,4;11,6;67,3;conforme;584;584;8;13;195;Non vérifié
+52407;Prez-sous-Lafauche;52;eau potable;131614;2024;70,3;3,2;7,5;66,5;conforme;7125;7125;71;156;276;Non vérifié
+52411;Rives Dervoises;52;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;23625;50;109;1301;Non vérifié
+52413;Rachecourt-Suzémont;52;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;1834;50;109;101;Non vérifié
+52414;Rachecourt-sur-Marne;52;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;13420;50;109;739;Non vérifié
+52415;Rançonnières;52;eau potable;131620;2024;98,0;0,3;12,6;67,5;conforme;175;175;4;9;127;Non vérifié
+52416;Rangecourt;52;eau potable;131622;2024;98,8;0,1;5,0;66,0;conforme;58;58;3;7;62;Non vérifié
+52419;Rennepont;52;eau potable;256214;2024;93,2;0,4;5,4;66,1;conforme;16060;854;20;32;117;Non vérifié
+52420;Reynel;52;eau potable;131624;2024;88,6;0,8;6,5;66,3;conforme;666;666;14;45;129;Non vérifié
+52421;Riaucourt;52;eau potable : RIAUCOURT;343554;2024;79,5;4,0;15,6;68,1;conforme;5796;5796;40;94;402;Non vérifié
+52422;Richebourg;52;eau potable;131779;2024;87,3;2,0;14,1;67,8;conforme;10220;1835;21;52;241;Non vérifié
+52423;Rimaucourt;52;eau potable;131628;2024;85,8;0,8;4,6;65,9;conforme;4383;4383;20;64;609;Non vérifié
+52424;Rivières-le-Bois;52;eau potable;131630;2024;83,4;3,3;16,6;68,3;conforme;1566;1566;67;72;64;Non vérifié
+52425;Rivière-les-Fosses;52;eau potable;131632;2024;64,9;2,6;4,8;66,0;non conforme;6643;6643;101;198;180;Non vérifié
+52426;Rizaucourt-Buchey;52;eau potable;256214;2024;93,2;0,4;5,4;66,1;conforme;16060;942;20;32;129;Non vérifié
+52428;Rochefort-sur-la-Côte;52;eau potable : ROCHEFORT-SUR-LA-COTE;343574;2024;33,8;6,6;3,4;65,7;non conforme;4818;4818;200;711;66;Non vérifié
+52429;Roches-sur-Marne;52;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;10569;50;109;582;Non vérifié
+52432;Rolampont;52;eau potable;131638;2024;86,3;1,0;6,2;66,2;conforme;10253;10253;20;59;1373;Non vérifié
+52433;Romain-sur-Meuse;52;eau potable;131791;2024;78,2;1,3;4,6;65,9;conforme;42705;728;22;103;89;Non vérifié
+52436;Rouécourt;52;eau potable : ROUECOURT;343555;2024;100,0;0,0;8,4;66,7;conforme;0;0;0;0;48;Non vérifié
+52438;Rougeux;52;eau potable;131644;2024;92,3;1,0;11,4;67,3;conforme;927;927;22;32;116;Non vérifié
+52439;Rouvres-sur-Aube;52;eau potable;131645;2024;93,6;0,4;6,0;66,2;conforme;336;336;13;24;72;Non vérifié
+52440;Rouvroy-sur-Marne;52;eau potable;131646;2024;81,5;2,7;11,9;67,4;conforme;3942;3942;29;83;371;Non vérifié
+52442;Rupt;52;eau potable;131648;2024;87,2;1,3;8,6;66,7;conforme;1661;1661;13;55;351;Non vérifié
+52443;Sailly;52;eau potable;131649;2024;98,0;0,2;8,2;66,6;conforme;36;36;3;9;33;Non vérifié
+52444;Saint-Blin;52;eau potable;131797;2024;79,5;1,7;6,7;66,3;conforme;10753;8408;68;93;337;Non vérifié
+52445;Saint-Broingt-le-Bois;52;eau potable;131652;2024;97,4;0,1;5,2;66,0;conforme;60;60;2;7;72;Non vérifié
+52446;Saint-Broingt-les-Fosses;52;eau potable;131654;2024;99,5;0,0;6,2;66,2;conforme;0;0;0;0;234;Non vérifié
+52447;Saint-Ciergues;52;eau potable;131786;2024;85,8;1,6;9,4;66,9;conforme;8410;3730;59;70;173;Non vérifié
+52448;Saint-Dizier;52;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;415082;50;109;22858;Non vérifié
+52449;Saints-Geosmes;52;eau potable (SAINTS-GEOSMES (avant 2016));131659;2024;99,2;0,1;10,1;67,0;conforme;605;605;1;4;1111;Non vérifié
+52452;Saint-Martin-lès-Langres;52;eau potable;131786;2024;85,8;1,6;9,4;66,9;conforme;8410;2264;59;70;105;Non vérifié
+52453;Saint-Maurice;52;eau potable;131662;2024;87,1;2,9;19,3;68,9;conforme;1270;1270;28;55;125;Non vérifié
+52455;Saint-Thiébault;52;eau potable;131791;2024;78,2;1,3;4,6;65,9;conforme;42705;2103;22;103;257;Non vérifié
+52456;Saint-Urbain-Maconcourt;52;eau potable : COMMUNE DE SAINT-URBAIN MACONCOURT;346134;2024;72,2;4,5;11,8;67,4;conforme;10266;10266;47;140;598;Non vérifié
+52457;Saint-Vallier-sur-Marne;52;eau potable;131771;2024;90,0;1,2;10,8;67,2;conforme;2978;68;1;41;173;Non vérifié
+52459;Sarcey;52;eau potable : SARCEY;343594;2024;99,1;0,1;5,9;66,2;conforme;73;73;2;6;97;Non vérifié
+52461;Sarrey;52;eau potable;131669;2024;100,0;0,0;9,7;66,9;conforme;0;0;0;0;363;Non vérifié
+52463;Saudron;52;eau potable;131777;2024;89,8;0,7;6,3;66,3;conforme;11743;740;51;40;40;Non vérifié
+52464;Saulles;52;eau potable;131671;2024;72,6;10,6;28,0;70,6;conforme;5068;5068;278;469;50;Non vérifié
+52465;Saulxures;52;eau potable : Saulxures;333214;2024;85,6;4,1;24,2;69,8;conforme;4041;4041;81;62;137;Non vérifié
+52467;Savigny;52;eau potable;131672;2024;71,7;1,6;4,1;65,8;conforme;2535;2535;120;143;58;Non vérifié
+52468;Semilly;52;eau potable;131797;2024;79,5;1,7;6,7;66,3;conforme;10753;2345;68;93;94;Non vérifié
+52469;Semoutiers-Montsaon;52;eau potable : MONTSAON;346034;2024;89,3;0,6;4,7;65,9;conforme;701;701;3;46;757;Non vérifié
+52470;Serqueux;52;eau potable;131674;2024;94,2;0,2;3,6;65,7;conforme;1022;1022;7;20;377;Non vérifié
+52472;Sexfontaines;52;eau potable : SEXFONTAINES;343515;2024;57,2;4,9;6,5;66,3;non conforme;4060;4060;78;274;143;Non vérifié
+52473;Signéville;52;eau potable;131676;2024;100,0;0,0;9,2;66,8;conforme;0;0;0;0;86;Non vérifié
+52474;Silvarouvres;52;eau potable;131678;2024;82,4;0,7;3,5;65,7;conforme;460;460;39;74;32;Non vérifié
+52475;Sommancourt;52;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;981;50;109;54;Non vérifié
+52476;Sommerécourt;52;eau potable;131680;2024;77,3;1,8;6,0;66,2;conforme;1248;1248;46;109;75;Non vérifié
+52479;Sommevoire;52;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;11749;50;109;647;Non vérifié
+52480;Soncourt-sur-Marne;52;eau potable : SONCOURT-SUR-MARNE;343614;2024;55,7;9,5;12,0;67,4;non conforme;15604;15604;131;490;326;Non vérifié
+52482;Soulaucourt-sur-Mouzon;52;eau potable;131684;2024;100,0;0,0;7,7;66,5;conforme;0;0;0;0;100;Non vérifié
+52483;Soyers;52;eau potable;131685;2024;83,2;3,9;19,3;68,9;conforme;1993;1993;87;74;63;Non vérifié
+52484;Suzannecourt;52;eau potable;131788;2024;66,1;5,0;15,2;68,0;non conforme;21517;7052;55;120;351;Non vérifié
+52486;Ternat;52;eau potable;131686;2024;23,9;7,7;2,4;65,5;non conforme;6464;6464;286;1161;62;Non vérifié
+52487;Thilleux;52;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;1108;50;109;61;Non vérifié
+52488;Thivet;52;eau potable : THIVET;343634;2024;59,8;8,6;12,8;67,6;non conforme;10673;10673;106;245;276;Non vérifié
+52489;Thol-lès-Millières;52;eau potable;131690;2024;59,0;5,6;8,1;66,6;non conforme;4292;4292;420;252;28;Non vérifié
+52490;Thonnance-lès-Joinville;52;eau potable;131788;2024;66,1;5,0;15,2;68,0;non conforme;21517;14465;55;120;720;Non vérifié
+52491;Thonnance-les-Moulins;52;eau potable;99900;2024;74,4;1,7;5,1;66,0;conforme;134028;2135;57;125;102;Non vérifié
+52492;Torcenay;52;eau potable;131693;2024;99,5;0,0;7,2;66,4;conforme;0;0;0;0;546;Non vérifié
+52493;Tornay;52;eau potable;131694;2024;64,0;1,3;2,3;65,5;non conforme;1044;1044;99;202;29;Non vérifié
+52494;Treix;52;eau potable : eau potable;244294;2024;90,1;0,8;7,6;66,5;conforme;29200;1164;15;43;213;Non vérifié
+52495;Trémilly;52;eau potable;131784;2024;52,9;3,5;4,0;65,8;non conforme;20363;5122;171;324;82;Non vérifié
+52497;Troisfontaines-la-Ville;52;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;7827;50;109;431;Non vérifié
+52499;Vaillant;52;eau potable;131698;2024;32,9;5,9;2,9;65,6;non conforme;10337;10337;616;740;46;Non vérifié
+52500;Valcourt;52;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;10823;50;109;596;Non vérifié
+52502;Valleret;52;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;1071;50;109;59;Non vérifié
+52503;Valleroy;52;eau potable;131702;2024;88,5;0,6;5,0;66,0;conforme;160;160;18;44;24;Non vérifié
+52504;Varennes-sur-Amance;52;eau potable : Varennes-sur-Amance - Eau Potable;318174;2024;65,1;3,2;6,0;66,2;non conforme;5151;5151;55;193;255;Non vérifié
+52505;Vaudrecourt;52;eau potable;131705;2024;54,3;16,6;19,7;68,9;non conforme;9088;9088;778;308;32;Non vérifié
+52506;Vaudrémont;52;eau potable;131706;2024;73,2;4,6;12,4;67,5;conforme;2351;2351;80;135;81;Non vérifié
+52507;Vauxbons;52;eau potable;131707;2024;100,0;0,0;56,5;76,3;conforme;0;0;0;0;55;Non vérifié
+52510;Vaux-sur-Blaise;52;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;6101;50;109;336;Non vérifié
+52511;Vaux-sur-Saint-Urbain;52;eau potable;99900;2024;74,4;1,7;5,1;66,0;conforme;134028;1214;57;125;58;Non vérifié
+52512;Vecqueville;52;eau potable;131712;2024;95,3;0,7;13,2;67,6;conforme;1686;1686;9;20;502;Non vérifié
+52513;Velles;52;eau potable;131714;2024;71,2;3,7;9,3;66,9;conforme;1756;1756;76;145;63;Non vérifié
+52514;Verbiesles;52;eau potable : VERBIESLES;343654;2024;51,1;6,0;6,3;66,3;non conforme;10731;10731;96;348;306;Non vérifié
+52515;Verseilles-le-Bas;52;eau potable;131717;2024;89,9;1,2;10,5;67,1;conforme;990;990;25;42;109;Non vérifié
+52516;Verseilles-le-Haut;52;eau potable;131718;2024;84,4;2,1;12,3;67,5;non calculable;920;920;55;55;46;Non vérifié
+52517;Vesaignes-sous-Lafauche;52;eau potable;131719;2024;83,0;1,2;5,8;66,2;conforme;1739;1739;41;76;116;Non vérifié
+52518;Vesaignes-sur-Marne;52;eau potable : VESAIGNES-SUR-MARNE;343674;2024;65,6;3,0;5,8;66,2;non conforme;2409;2409;64;190;103;Non vérifié
+52519;Vesvres-sous-Chalancey;52;eau potable;131723;2024;85,0;5,1;28,8;70,8;conforme;1862;1862;104;65;49;Non vérifié
+52520;Vicq;52;eau potable;131724;2024;59,7;2,2;3,3;65,7;non conforme;5517;5517;94;242;161;Non vérifié
+52522;Viéville;52;eau potable : VIEVILLE;343655;2024;87,8;0,9;6,4;66,3;conforme;2004;2004;17;52;324;Non vérifié
+52524;Vignory;52;eau potable : VIGNORY;343694;2024;71,9;1,2;3,2;65,6;conforme;2970;2970;38;138;215;Non vérifié
+52525;Villars-en-Azois;52;eau potable;131731;2024;89,9;0,3;2,6;65,5;conforme;515;515;24;42;58;Non vérifié
+52526;Villars-Santenoge;52;eau potable;131732;2024;57,8;6,2;8,5;66,7;non conforme;5318;5318;178;266;82;Non vérifié
+52528;Ville-en-Blaisois;52;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;2706;50;109;149;Non vérifié
+52529;Villegusien-le-Lac;52;eau potable : (VILLEGUSIEN-LE-LAC (avant 2016));131734;2024;90,3;1,3;12,0;67,4;conforme;4745;4745;13;39;1000;Non vérifié
+52534;Villiers-en-Lieu;52;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;26676;50;109;1469;Non vérifié
+52535;Villiers-le-Sec;52;eau potable : eau potable;244294;2024;90,1;0,8;7,6;66,5;conforme;29200;3880;15;43;710;Non vérifié
+52536;Villiers-lès-Aprey;52;eau potable;131739;2024;100,0;0,0;2,8;65,6;conforme;0;0;0;0;47;Non vérifié
+52538;Villiers-sur-Suize;52;eau potable;131741;2024;91,0;0,5;5,1;66,0;conforme;1267;1267;14;36;255;Non vérifié
+52539;Violot;52;eau potable;131743;2024;68,0;3,9;8,4;66,7;conforme;2249;2249;98;170;63;Non vérifié
+52540;Vitry-en-Montagne;52;eau potable;131745;2024;89,8;1,5;13,6;67,7;conforme;684;684;57;40;33;Non vérifié
+52541;Vitry-lès-Nogent;52;eau potable : VITRY-LES-NOGENT;343714;2024;59,0;3,8;5,4;66,1;non conforme;4577;4577;61;254;205;Non vérifié
+52542;Vivey;52;eau potable;131748;2024;92,6;0,5;6,4;66,3;conforme;438;438;24;28;51;Non vérifié
+52543;Voillecomte;52;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;9479;50;109;522;Non vérifié
+52544;Voisey;52;eau potable;131751;2024;77,1;2,0;6,8;66,4;conforme;4599;4599;46;107;272;Non vérifié
+52545;Voisines;52;eau potable;131753;2024;64,8;14,4;26,5;70,3;non conforme;8935;8935;250;199;98;Non vérifié
+52546;Voncourt;52;eau potable;131755;2024;28,8;8,7;3,5;65,7;non conforme;2540;2540;409;906;17;Non vérifié
+52547;Vouécourt;52;eau potable : VOUECOURT;343734;2024;58,9;5,3;7,7;66,5;non conforme;5513;5513;72;253;210;Non vérifié
+52548;Vraincourt;52;eau potable : CA Chaumont;284434;2024;83,0;3,1;15,3;68,1;conforme;462670;1057;36;77;81;Non vérifié
+52549;Vroncourt-la-Côte;52;eau potable;131791;2024;78,2;1,3;4,6;65,9;conforme;42705;221;22;103;27;Non vérifié
+52550;Wassy;52;eau potable : CA Saint-Dizier, Der et Blaise;284414;2024;77,2;4,1;13,9;67,8;conforme;976182;50319;50;109;2771;Non vérifié

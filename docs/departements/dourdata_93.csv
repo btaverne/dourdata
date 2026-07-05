@@ -1,0 +1,50 @@
+﻿# DourData — eau perdue par les réseaux d'eau potable (indicateurs SISPEA)
+# Périmètre : Département 93
+# Source : SISPEA — Système d'Information des Services Publics d'Eau et d'Assainissement, via data.gouv.fr / services.eaufrance.fr
+# Licence : Licence Ouverte 2.0 (Etalab)
+# Millésime des données : 2024 (année la plus récente disponible par commune)
+# Date de génération de l'export : 2026-07-05
+# Méthodologie et code : https://github.com/btaverne/dourdata
+# Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
+# Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
+93001;Aubervilliers;93;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;535044;17;43;88365;Non vérifié
+93005;Aulnay-sous-Bois;93;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;530405;17;43;87599;Non vérifié
+93006;Bagnolet;93;eau potable : Principale;304814;2024;89,0;8,6;1237,7;85,0;non calculable;1732728;166655;11;42;43086;Non vérifié
+93007;Le Blanc-Mesnil;93;eau potable;222297;2024;90,7;6,6;64,1;77,8;conforme;342921;342921;15;38;62376;Non vérifié
+93008;Bobigny;93;eau potable : Principale;304814;2024;89,0;8,6;1237,7;85,0;non calculable;1732728;220192;11;37;56927;Non vérifié
+93010;Bondy;93;eau potable : Principale;304814;2024;89,0;8,6;1237,7;85,0;non calculable;1732728;195700;11;42;50595;Non vérifié
+93013;Le Bourget;93;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;96425;17;43;15925;Non vérifié
+93014;Clichy-sous-Bois;93;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;177736;17;43;29354;Non vérifié
+93015;Coubron;93;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;31334;17;43;5175;Non vérifié
+93027;La Courneuve;93;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;285593;17;43;47167;Non vérifié
+93029;Drancy;93;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;438316;17;43;72390;Non vérifié
+93030;Dugny;93;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;70843;17;43;11700;Non vérifié
+93031;Épinay-sur-Seine;93;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;319900;17;43;52833;Non vérifié
+93032;Gagny;93;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;256202;17;43;42313;Non vérifié
+93033;Gournay-sur-Marne;93;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;44322;17;43;7320;Non vérifié
+93039;L' Île-Saint-Denis;93;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;52654;17;43;8696;Non vérifié
+93045;Les Lilas;93;eau potable : Principale;304814;2024;89,0;8,6;1237,7;85,0;non calculable;1732728;92224;11;42;23843;Non vérifié
+93046;Livry-Gargan;93;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;285962;17;43;47228;Non vérifié
+93047;Montfermeil;93;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;173795;17;43;28703;Non vérifié
+93048;Montreuil;93;eau potable : Principale;304814;2024;89,0;8,6;1237,7;85,0;non calculable;1732728;432957;11;42;111934;Non vérifié
+93049;Neuilly-Plaisance;93;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;132851;17;43;21941;Non vérifié
+93050;Neuilly-sur-Marne;93;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;240986;17;43;39800;Non vérifié
+93051;Noisy-le-Grand;93;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;441876;17;43;72978;Non vérifié
+93053;Noisy-le-Sec;93;eau potable : Principale;304814;2024;89,0;8,6;1237,7;85,0;non calculable;1732728;176031;11;37;45510;Non vérifié
+93055;Pantin;93;eau potable : Principale;304814;2024;89,0;8,6;1237,7;85,0;non calculable;1732728;239539;11;42;61929;Non vérifié
+93057;Les Pavillons-sous-Bois;93;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;156241;17;43;25804;Non vérifié
+93059;Pierrefitte-sur-Seine;93;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;196337;17;43;32426;Non vérifié
+93061;Le Pré-Saint-Gervais;93;eau potable : Principale;304814;2024;89,0;8,6;1237,7;85,0;non calculable;1732728;65728;11;42;16993;Non vérifié
+93062;Le Raincy;93;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;89219;17;43;14735;Non vérifié
+93063;Romainville;93;eau potable : Principale;304814;2024;89,0;8,6;1237,7;85,0;non calculable;1732728;143703;11;42;37152;Non vérifié
+93064;Rosny-sous-Bois;93;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;285671;17;43;47180;Non vérifié
+93066;Saint-Denis (avant 2025);93;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;902650;17;43;149077;Non vérifié
+93070;Saint-Ouen-sur-Seine;93;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;324635;17;43;53615;Non vérifié
+93071;Sevran;93;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;318096;17;43;52535;Non vérifié
+93072;Stains;93;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;250601;17;43;41388;Non vérifié
+93073;Tremblay-en-France;93;eau potable : Tremblay-en-France;283774;2024;84,6;6,0;33,0;71,6;conforme;105558;105558;8;66;38348;Non vérifié
+93074;Vaujours;93;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;48482;17;43;8007;Non vérifié
+93077;Villemomble;93;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;180407;17;43;29795;Non vérifié
+93078;Villepinte;93;eau potable : Contrat 1;182968;2024;92,1;11,8;138,7;85,0;conforme;1373373;702821;46;113;41470;Non vérifié
+93079;Villetaneuse;93;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;75868;17;43;12530;Non vérifié

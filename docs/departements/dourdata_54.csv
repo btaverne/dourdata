@@ -1,0 +1,571 @@
+﻿# DourData — eau perdue par les réseaux d'eau potable (indicateurs SISPEA)
+# Périmètre : Département 54
+# Source : SISPEA — Système d'Information des Services Publics d'Eau et d'Assainissement, via data.gouv.fr / services.eaufrance.fr
+# Licence : Licence Ouverte 2.0 (Etalab)
+# Millésime des données : 2020–2024 (année la plus récente disponible par commune)
+# Date de génération de l'export : 2026-07-05
+# Méthodologie et code : https://github.com/btaverne/dourdata
+# Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
+# Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
+54001;Abaucourt;54;eau potable;164178;2024;76,3;2,5;7,9;66,6;conforme;193450;5621;47;128;330;Non vérifié
+54002;Abbéville-lès-Conflans;54;eau potable;164174;2024;59,9;6,0;9,0;66,8;non conforme;827820;10192;116;254;240;Non vérifié
+54003;Aboncourt;54;eau potable;164152;2024;69,1;2,7;6,1;66,2;conforme;9855;5749;173;163;91;Non vérifié
+54004;Affléville;54;eau potable : Régie principale;164173;2024;75,3;3,0;9,1;66,8;conforme;418290;2905;46;131;172;Non vérifié
+54005;Affracourt;54;eau potable : UGE 123/DSP;164010;2024;72,2;2,5;6,4;66,3;conforme;357390;2786;68;145;113;Non vérifié
+54006;Agincourt;54;eau potable : principal;164128;2024;67,2;6,3;12,9;67,6;non conforme;336417;17208;111;301;424;Non vérifié
+54007;Aingeray;54;eau potable : UGE 768_Régie principale;272734;2024;83,5;2,1;10,4;67,1;conforme;125223;5863;30;86;532;Non vérifié
+54008;Allain;54;eau potable : service principal;206403;2024;75,4;2,2;6,8;66,4;conforme;142645;7480;42;118;490;Non vérifié
+54009;Allamont;54;eau potable;164174;2024;59,9;6,0;9,0;66,8;non conforme;827820;6625;116;254;156;Non vérifié
+54010;Allamps;54;eau potable;164132;2023;85,3;2,0;11,7;67,3;conforme;3650;3650;20;78;505;Sans anomalie apparente
+54011;Allondrelle-la-Malmaison;54;eau potable;164131;2024;65,7;4,5;8,7;66,7;non conforme;13961;13961;60;189;635;Non vérifié
+54012;Amance;54;eau potable : principal;164128;2024;67,2;6,3;12,9;67,6;non conforme;336417;14814;111;301;365;Non vérifié
+54014;Ancerviller;54;eau potable;164015;2024;92,0;0,6;6,4;66,3;conforme;15161;2803;31;40;245;Non vérifié
+54015;Anderny;54;eau potable : a partir des sources de Fillièrres;164016;2024;67,5;4,7;9,8;67,0;conforme;128388;5590;60;175;254;Non vérifié
+54016;Andilly;54;eau potable : UGE 768_Régie principale;272734;2024;83,5;2,1;10,4;67,1;conforme;125223;3031;30;86;275;Non vérifié
+54017;Angomont;54;eau potable;164124;2024;58,3;5,6;7,8;66,6;non conforme;2616;2616;96;263;75;Non vérifié
+54018;Anoux;54;eau potable : DSP distribution UGE 105;163960;2024;78,1;3,5;12,3;67,5;conforme;149353;3578;36;104;270;Non vérifié
+54019;Ansauville;54;eau potable;164163;2024;71,2;1,8;4,5;65,9;conforme;149139;1613;58;156;76;Non vérifié
+54020;Anthelupt;54;eau potable;164180;2024;63,7;4,7;8,3;66,7;non conforme;79445;15159;94;243;440;Non vérifié
+54021;Armaucourt;54;eau potable;164178;2024;76,3;2,5;7,9;66,6;conforme;193450;4071;47;128;239;Non vérifié
+54022;Arnaville;54;eau potable : DSP Arnaville;164150;2024;96,0;0,6;15,2;68,0;conforme;942;942;5;14;556;Non vérifié
+54023;Arracourt;54;eau potable;164165;2024;73,4;2,4;6,5;66,3;conforme;104559;6784;73;146;254;Non vérifié
+54024;Arraye-et-Han;54;eau potable;164178;2024;76,3;2,5;7,9;66,6;conforme;193450;6302;47;128;370;Non vérifié
+54025;Art-sur-Meurthe;54;eau potable;164159;2024;86,1;6,3;39,0;72,8;conforme;2235114;14414;23;61;1700;Non vérifié
+54026;Athienville;54;eau potable;164165;2024;73,4;2,4;6,5;66,3;conforme;104559;4353;73;146;163;Non vérifié
+54027;Atton;54;eau potable : DSP_2013-2024;164012;2024;79,1;2,1;8,0;66,6;conforme;31427;13404;41;96;897;Non vérifié
+54028;Auboué;54;eau potable;164174;2024;59,9;6,0;9,0;66,8;non conforme;827820;112539;116;254;2650;Non vérifié
+54029;Audun-le-Roman;54;eau potable : a partir des sources de Fillièrres;164016;2024;67,5;4,7;9,8;67,0;conforme;128388;54643;60;175;2483;Non vérifié
+54030;Autrepierre;54;eau potable;163974;2024;52,6;7,7;8,5;66,7;non conforme;99183;7429;275;351;74;Non vérifié
+54031;Autreville-sur-Moselle;54;eau potable;164178;2024;76,3;2,5;7,9;66,6;conforme;193450;4497;47;128;264;Non vérifié
+54032;Autrey;54;eau potable : UGE 123/DSP;164010;2024;72,2;2,5;6,4;66,3;conforme;357390;4733;68;145;192;Non vérifié
+54033;Avillers;54;eau potable : Régie principale;164173;2024;75,3;3,0;9,1;66,8;conforme;418290;2381;46;131;141;Non vérifié
+54034;Avrainville;54;eau potable : UGE 768_Régie principale;272734;2024;83,5;2,1;10,4;67,1;conforme;125223;2369;30;86;215;Non vérifié
+54035;Avricourt;54;eau potable;164120;2024;59,8;4,4;6,5;66,3;non conforme;8512;8512;62;246;377;Non vérifié
+54036;Avril;54;eau potable : DSP distribution UGE 105;163960;2024;78,1;3,5;12,3;67,5;conforme;149353;16235;36;104;1225;Non vérifié
+54037;Azelot;54;eau potable : regie assistée CCPSV;312554;2024;60,3;11,8;17,9;68,6;non conforme;1073046;16175;108;324;411;Non vérifié
+54038;Azerailles;54;eau potable;164116;2024;65,9;4,2;8,0;66,6;non conforme;18733;18733;65;191;786;Non vérifié
+54039;Baccarat;54;eau potable;164114;2024;81,1;3,0;13,1;67,6;conforme;45224;45224;30;85;4089;Non vérifié
+54040;Badonviller;54;eau potable;164113;2024;70,4;8,6;20,5;69,1;conforme;24955;24955;46;153;1497;Non vérifié
+54041;Bagneux;54;eau potable : service principal;206403;2024;75,4;2,2;6,8;66,4;conforme;142645;1939;42;118;127;Non vérifié
+54042;Bainville-aux-Miroirs;54;eau potable : UGE 123/DSP;164010;2024;72,2;2,5;6,4;66,3;conforme;357390;7494;68;145;304;Non vérifié
+54043;Bainville-sur-Madon;54;eau potable : principal;164145;2024;68,4;6,6;14,3;67,9;conforme;649009;35051;67;198;1441;Non vérifié
+54044;Barbas;54;eau potable;164015;2024;92,0;0,6;6,4;66,3;conforme;15161;2334;31;40;204;Non vérifié
+54045;Barbonville;54;eau potable : distribution;164177;2024;71,0;2,1;5,0;66,0;conforme;162766;10217;64;152;434;Non vérifié
+54046;Barisey-au-Plain;54;eau potable;164111;2024;97,9;0,3;13,6;67,7;conforme;376;376;3;8;393;Non vérifié
+54047;Barisey-la-Côte;54;eau potable;164110;2024;87,4;1,0;6,7;66,3;conforme;2164;2164;22;55;275;Non vérifié
+54048;Les Baroches;54;eau potable : DSP distribution UGE 105;163960;2024;78,1;3,5;12,3;67,5;conforme;149353;4307;36;104;325;Non vérifié
+54049;Baslieux;54;eau potable : Régie principale;164173;2024;75,3;3,0;9,1;66,8;conforme;418290;8917;46;131;528;Non vérifié
+54050;Bathelémont;54;eau potable;164165;2024;73,4;2,4;6,5;66,3;conforme;104559;1843;73;146;69;Non vérifié
+54051;Batilly;54;eau potable;164174;2024;59,9;6,0;9,0;66,8;non conforme;827820;55760;116;254;1313;Non vérifié
+54053;Bauzemont;54;eau potable;164165;2024;73,4;2,4;6,5;66,3;conforme;104559;4113;73;146;154;Non vérifié
+54054;Bayon;54;eau potable;164164;2022;89,7;1,8;15,8;68,2;conforme;11169;8513;15;42;1561;Sans anomalie apparente
+54055;Bayonville-sur-Mad;54;eau potable;164154;2024;84,4;0,6;17,1;68,4;conforme;438;438;4;13;331;Non vérifié
+54056;Bazailles;54;eau potable : DSP_2017-2028;164184;2024;73,9;4,0;11,2;67,2;conforme;37507;3088;56;157;151;Non vérifié
+54057;Beaumont;54;eau potable;164163;2024;71,2;1,8;4,5;65,9;conforme;149139;1465;58;156;69;Non vérifié
+54058;Béchamps;54;eau potable;115970;2024;87,0;0,7;5,0;66,0;conforme;109354;735;25;52;80;Non vérifié
+54059;Belleau;54;eau potable;164178;2024;76,3;2,5;7,9;66,6;conforme;193450;13048;47;128;766;Non vérifié
+54060;Belleville;54;eau potable;164167;2024;82,3;2,4;11,4;67,3;conforme;12176;12176;22;77;1512;Non vérifié
+54061;Bénaménil;54;eau potable;164013;2024;81,3;1,7;7,3;66,5;conforme;59264;10950;51;85;592;Non vérifié
+54062;Benney;54;eau potable : UGE 123/DSP;164010;2024;72,2;2,5;6,4;66,3;conforme;357390;15703;68;145;637;Non vérifié
+54063;Bernécourt;54;eau potable;164163;2024;71,2;1,8;4,5;65,9;conforme;149139;3779;58;156;178;Non vérifié
+54064;Bertrambois;54;eau potable;63220;2024;90,6;1,0;9,6;66,9;conforme;67416;2656;23;38;320;Non vérifié
+54065;Bertrichamps;54;eau potable;163997;2024;82,6;2,0;9,7;66,9;conforme;9490;9490;24;76;1081;Non vérifié
+54066;Bettainvillers;54;eau potable : DSP distribution UGE 105;163960;2024;78,1;3,5;12,3;67,5;conforme;149353;4957;36;104;374;Non vérifié
+54067;Beuveille;54;eau potable;164011;2024;58,1;5,4;7,5;66,5;non conforme;86645;25476;89;264;783;Non vérifié
+54068;Beuvezin;54;eau potable;164003;2021;79,7;1,6;6,4;66,3;conforme;2324;2324;71;92;90;Sans anomalie apparente
+54069;Beuvillers;54;eau potable : a partir des sources de Fillièrres;164016;2024;67,5;4,7;9,8;67,0;conforme;128388;12258;60;175;557;Non vérifié
+54070;Bey-sur-Seille;54;eau potable;164178;2024;76,3;2,5;7,9;66,6;conforme;193450;3339;47;128;196;Non vérifié
+54071;Bezange-la-Grande;54;eau potable;164165;2024;73,4;2,4;6,5;66,3;conforme;104559;4514;73;146;169;Non vérifié
+54072;Bezaumont;54;eau potable;164178;2024;76,3;2,5;7,9;66,6;conforme;193450;4395;47;128;258;Non vérifié
+54073;Bicqueley;54;eau potable : service principal;206403;2024;75,4;2,2;6,8;66,4;conforme;142645;14121;42;118;925;Non vérifié
+54075;Bionville;54;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;3589;88;243;112;Non vérifié
+54076;Blainville-sur-l'Eau;54;eau potable;164166;2024;70,5;8,1;19,4;68,9;conforme;150841;84214;59;170;3893;Non vérifié
+54077;Blâmont;54;eau potable;164032;2024;54,9;8,0;9,8;67,0;non conforme;42077;42077;111;300;1042;Non vérifié
+54078;Blémerey;54;eau potable;163974;2024;52,6;7,7;8,5;66,7;non conforme;99183;5622;275;351;56;Non vérifié
+54079;Blénod-lès-Pont-à-Mousson;54;eau potable;164027;2024;80,8;3,7;15,4;68,1;conforme;46552;46552;27;88;4659;Non vérifié
+54080;Blénod-lès-Toul;54;eau potable : service principal;206403;2024;75,4;2,2;6,8;66,4;conforme;142645;15464;42;118;1013;Non vérifié
+54081;Boismont;54;eau potable : DSP_2017-2028;164184;2024;73,9;4,0;11,2;67,2;conforme;37507;8385;56;157;410;Non vérifié
+54082;Boncourt;54;eau potable;164174;2024;59,9;6,0;9,0;66,8;non conforme;827820;7602;116;254;179;Non vérifié
+54084;Mont-Bonvillers;54;eau potable : a partir des sources de Fillièrres;164016;2024;67,5;4,7;9,8;67,0;conforme;128388;21237;60;175;965;Non vérifié
+54085;Borville;54;eau potable : distribution;164177;2024;71,0;2,1;5,0;66,0;conforme;162766;1954;64;152;83;Non vérifié
+54086;Boucq;54;eau potable;115970;2024;87,0;0,7;5,0;66,0;conforme;109354;3299;25;52;359;Non vérifié
+54087;Bouillonville;54;eau potable;164163;2024;71,2;1,8;4,5;65,9;conforme;149139;3078;58;156;145;Non vérifié
+54088;Bouvron;54;eau potable : UGE 768_Régie principale;272734;2024;83,5;2,1;10,4;67,1;conforme;125223;2160;30;86;196;Non vérifié
+54089;Bouxières-aux-Chênes;54;eau potable;164178;2024;76,3;2,5;7,9;66,6;conforme;193450;24102;47;128;1415;Non vérifié
+54090;Bouxières-aux-Dames;54;eau potable : DSP_Bouxières aux D;164018;2024;70,6;6,8;16,2;68,2;conforme;66791;66791;45;153;4106;Non vérifié
+54091;Bouxières-sous-Froidmont;54;eau potable : DSP_2013-2024;164012;2024;79,1;2,1;8,0;66,6;conforme;31427;6426;41;96;430;Non vérifié
+54093;Brainville;54;eau potable;164174;2024;59,9;6,0;9,0;66,8;non conforme;827820;7092;116;254;167;Non vérifié
+54094;Bralleville;54;eau potable : UGE 123/DSP;164010;2024;72,2;2,5;6,4;66,3;conforme;357390;4215;68;145;171;Non vérifié
+54095;Bratte;54;eau potable : principal;164128;2024;67,2;6,3;12,9;67,6;non conforme;336417;1867;111;301;46;Non vérifié
+54096;Bréhain-la-Ville;54;eau potable : Régie principale;164173;2024;75,3;3,0;9,1;66,8;conforme;418290;7820;46;131;463;Non vérifié
+54097;Bréménil;54;eau potable;163966;2024;93,9;0,2;2,4;65,5;conforme;474;474;14;31;92;Non vérifié
+54098;Brémoncourt;54;eau potable : distribution;164177;2024;71,0;2,1;5,0;66,0;conforme;162766;3908;64;152;166;Non vérifié
+54099;Val de Briey;54;eau potable : DSP distribution UGE 105;163960;2024;78,1;3,5;12,3;67,5;conforme;149353;107750;36;104;8130;Non vérifié
+54100;Brin-sur-Seille;54;eau potable;164178;2024;76,3;2,5;7,9;66,6;conforme;193450;13014;47;128;764;Non vérifié
+54101;Brouville;54;eau potable;164169;2024;79,3;1,9;7,3;66,5;conforme;18239;2738;65;96;115;Non vérifié
+54102;Bruley;54;eau potable : UGE 778_RPS;318114;2024;79,4;4,9;19,1;68,8;conforme;375996;8548;38;95;611;Non vérifié
+54103;Bruville;54;eau potable;164174;2024;59,9;6,0;9,0;66,8;non conforme;827820;9215;116;254;217;Non vérifié
+54104;Buissoncourt;54;eau potable : principal;164128;2024;67,2;6,3;12,9;67,6;non conforme;336417;10634;111;301;262;Non vérifié
+54105;Bulligny;54;eau potable : service principal;206403;2024;75,4;2,2;6,8;66,4;conforme;142645;8213;42;118;538;Non vérifié
+54106;Bures;54;eau potable;164165;2024;73,4;2,4;6,5;66,3;conforme;104559;1709;73;146;64;Non vérifié
+54107;Buriville;54;eau potable;164169;2024;79,3;1,9;7,3;66,5;conforme;18239;1643;65;96;69;Non vérifié
+54108;Burthecourt-aux-Chênes;54;eau potable : regie assistée CCPSV;312554;2024;60,3;11,8;17,9;68,6;non conforme;1073046;5943;108;324;151;Non vérifié
+54109;Ceintrey;54;eau potable : UGE 123/DSP;164010;2024;72,2;2,5;6,4;66,3;conforme;357390;21915;68;145;889;Non vérifié
+54110;Cerville;54;eau potable : principal;164128;2024;67,2;6,3;12,9;67,6;non conforme;336417;21551;111;301;531;Non vérifié
+54111;Chaligny;54;eau potable : principal;164145;2024;68,4;6,6;14,3;67,9;conforme;649009;66380;67;198;2729;Non vérifié
+54112;Chambley-Bussières;54;eau potable;164174;2024;59,9;6,0;9,0;66,8;non conforme;827820;30959;116;254;729;Non vérifié
+54113;Champenoux;54;eau potable : principal;164128;2024;67,2;6,3;12,9;67,6;non conforme;336417;63639;111;301;1568;Non vérifié
+54114;Champey-sur-Moselle;54;eau potable;164181;2024;64,6;9,7;17,6;68,5;non conforme;9559;6828;59;201;315;Non vérifié
+54115;Champigneulles;54;eau potable;164159;2024;86,1;6,3;39,0;72,8;conforme;2235114;55544;23;61;6551;Non vérifié
+54116;Chanteheux;54;eau potable;164095;2024;100,0;0,0;8,1;66,6;conforme;0;0;0;0;2111;Non vérifié
+54117;Chaouilley;54;eau potable : UGE 123/DSP;164010;2024;72,2;2,5;6,4;66,3;conforme;357390;2736;68;145;111;Non vérifié
+54119;Charey;54;eau potable;164174;2024;59,9;6,0;9,0;66,8;non conforme;827820;3737;116;254;88;Non vérifié
+54120;Charmes-la-Côte;54;eau potable : service principal;206403;2024;75,4;2,2;6,8;66,4;conforme;142645;4809;42;118;315;Non vérifié
+54121;Charmois;54;eau potable : distribution;164177;2024;71,0;2,1;5,0;66,0;conforme;162766;4732;64;152;201;Non vérifié
+54122;Chaudeney-sur-Moselle;54;eau potable : UGE 778_RPS;318114;2024;79,4;4,9;19,1;68,8;conforme;375996;10212;38;95;730;Non vérifié
+54123;Chavigny;54;eau potable : principal;164145;2024;68,4;6,6;14,3;67,9;conforme;649009;41010;67;198;1686;Non vérifié
+54124;Chazelles-sur-Albe;54;eau potable;163974;2024;52,6;7,7;8,5;66,7;non conforme;99183;5019;275;351;50;Non vérifié
+54125;Chenevières;54;eau potable;164085;2024;80,3;4,0;16,2;68,2;conforme;10439;10439;61;175;469;Non vérifié
+54126;Chenicourt;54;eau potable;164178;2024;76,3;2,5;7,9;66,6;conforme;193450;3560;47;128;209;Non vérifié
+54127;Chenières;54;eau potable;164172;2024;80,3;3,3;13,3;67,7;conforme;85483;6242;29;93;596;Non vérifié
+54128;Choloy-Ménillot;54;eau potable : service principal;206403;2024;75,4;2,2;6,8;66,4;conforme;142645;10686;42;118;700;Non vérifié
+54129;Cirey-sur-Vezouze;54;eau potable;164081;2024;69,3;7,5;16,9;68,4;conforme;34602;34602;61;162;1555;Non vérifié
+54130;Clayeures;54;eau potable : distribution;164177;2024;71,0;2,1;5,0;66,0;conforme;162766;4120;64;152;175;Non vérifié
+54131;Clémery;54;eau potable;164178;2024;76,3;2,5;7,9;66,6;conforme;193450;8363;47;128;491;Non vérifié
+54132;Clérey-sur-Brenon;54;eau potable : UGE 123/DSP;164010;2024;72,2;2,5;6,4;66,3;conforme;357390;1405;68;145;57;Non vérifié
+54133;Coincourt;54;eau potable;164165;2024;73,4;2,4;6,5;66,3;conforme;104559;3445;73;146;129;Non vérifié
+54134;Colmey;54;eau potable : Régie principale;164173;2024;75,3;3,0;9,1;66,8;conforme;418290;4188;46;131;248;Non vérifié
+54135;Colombey-les-Belles;54;eau potable : service principal;206403;2024;75,4;2,2;6,8;66,4;conforme;142645;21617;42;118;1416;Non vérifié
+54136;Conflans-en-Jarnisy;54;eau potable;164174;2024;59,9;6,0;9,0;66,8;non conforme;827820;101455;116;254;2389;Non vérifié
+54137;Cons-la-Grandville;54;eau potable : VEOLIA/DSP 2024_2035 -  UGE ?;333374;2024;61,5;15,0;23,9;69,8;non conforme;1544114;24579;129;306;522;Non vérifié
+54138;Cosnes-et-Romain;54;eau potable : VEOLIA/DSP 2024_2035 -  UGE ?;333374;2024;61,5;15,0;23,9;69,8;non conforme;1544114;131937;129;306;2802;Non vérifié
+54139;Courbesseaux;54;eau potable;164104;2024;88,7;1,2;9,6;66,9;conforme;1975;1975;14;46;397;Non vérifié
+54140;Courcelles;54;eau potable;164168;2021;51,3;2,7;2,8;65,6;non conforme;33507;7911;255;349;85;Sans anomalie apparente
+54141;Coyviller;54;eau potable : regie assistée CCPSV;312554;2024;60,3;11,8;17,9;68,6;non conforme;1073046;6179;108;324;157;Non vérifié
+54142;Crantenoy;54;eau potable : UGE 123/DSP;164010;2024;72,2;2,5;6,4;66,3;conforme;357390;3624;68;145;147;Non vérifié
+54143;Crépey;54;eau potable : service principal;206403;2024;75,4;2,2;6,8;66,4;conforme;142645;5923;42;118;388;Non vérifié
+54144;Crévéchamps;54;eau potable : UGE 123/DSP;164010;2024;72,2;2,5;6,4;66,3;conforme;357390;8406;68;145;341;Non vérifié
+54145;Crévic;54;eau potable : regie assistée CCPSV;312554;2024;60,3;11,8;17,9;68,6;non conforme;1073046;36798;108;324;935;Non vérifié
+54146;Crézilles;54;eau potable : service principal;206403;2024;75,4;2,2;6,8;66,4;conforme;142645;4442;42;118;291;Non vérifié
+54148;Croismare;54;eau potable;164095;2024;100,0;0,0;8,1;66,6;conforme;0;0;0;0;626;Non vérifié
+54149;Crusnes;54;eau potable;63318;2024;79,2;4,3;16,2;68,2;conforme;667038;18502;33;97;1559;Non vérifié
+54150;Custines;54;eau potable : ZAC Eiffel Energie (Parcs d'Activités des 3 communes) et Parc Embanie;164115;2024;94,4;2,7;45,4;74,1;conforme;8781;1895;2;22;3089;Non vérifié
+54151;Cutry;54;eau potable;164172;2024;80,3;3,3;13,3;67,7;conforme;85483;10808;29;93;1032;Non vérifié
+54152;Damelevières;54;eau potable;164166;2024;70,5;8,1;19,4;68,9;conforme;150841;66627;59;170;3080;Non vérifié
+54153;Dampvitoux;54;eau potable;164174;2024;59,9;6,0;9,0;66,8;non conforme;827820;2336;116;254;55;Non vérifié
+54154;Deneuvre;54;eau potable;164076;2024;79,2;2,4;9,0;66,8;conforme;4993;4993;30;97;454;Non vérifié
+54155;Deuxville;54;eau potable;164056;2024;70,5;4,5;10,7;67,1;conforme;6406;6406;44;153;400;Non vérifié
+54157;Dieulouard;54;eau potable;164050;2024;64,0;8,9;15,8;68,2;non conforme;98430;98430;59;206;4581;Non vérifié
+54158;Dolcourt;54;eau potable : UGE 123/DSP;164010;2024;72,2;2,5;6,4;66,3;conforme;357390;3698;68;145;150;Non vérifié
+54159;Dombasle-sur-Meurthe;54;eau potable : regie assistée CCPSV;312554;2024;60,3;11,8;17,9;68,6;non conforme;1073046;370893;108;324;9424;Non vérifié
+54160;Domèvre-en-Haye;54;eau potable;164163;2024;71,2;1,8;4,5;65,9;conforme;149139;8704;58;156;410;Non vérifié
+54161;Domèvre-sur-Vezouze;54;eau potable;163974;2024;52,6;7,7;8,5;66,7;non conforme;99183;31522;275;351;314;Non vérifié
+54162;Domgermain;54;eau potable : service principal;206403;2024;75,4;2,2;6,8;66,4;conforme;142645;17098;42;118;1120;Non vérifié
+54163;Domjevin;54;eau potable;164013;2024;81,3;1,7;7,3;66,5;conforme;59264;4957;51;85;268;Non vérifié
+54164;Dommarie-Eulmont;54;eau potable : UGE184_Dommarie-Eulmont;164040;2022;73,6;1,8;5,1;66,0;conforme;2431;2431;90;129;74;Sans anomalie apparente
+54165;Dommartemont;54;eau potable;164159;2024;86,1;6,3;39,0;72,8;conforme;2235114;4799;23;61;566;Non vérifié
+54166;Dommartin-la-Chaussée;54;eau potable;164174;2024;59,9;6,0;9,0;66,8;non conforme;827820;1232;116;254;29;Non vérifié
+54167;Dommartin-lès-Toul;54;eau potable : UGE 778_RPS;318114;2024;79,4;4,9;19,1;68,8;conforme;375996;28161;38;95;2013;Non vérifié
+54168;Dommartin-sous-Amance;54;eau potable : principal;164128;2024;67,2;6,3;12,9;67,6;non conforme;336417;12947;111;301;319;Non vérifié
+54169;Domprix;54;eau potable : Régie principale;164173;2024;75,3;3,0;9,1;66,8;conforme;418290;1638;46;131;97;Non vérifié
+54170;Domptail-en-l'Air;54;eau potable : distribution;164177;2024;71,0;2,1;5,0;66,0;conforme;162766;1624;64;152;69;Non vérifié
+54171;Doncourt-lès-Conflans;54;eau potable;164174;2024;59,9;6,0;9,0;66,8;non conforme;827820;47139;116;254;1110;Non vérifié
+54172;Doncourt-lès-Longuyon;54;eau potable : Régie principale;164173;2024;75,3;3,0;9,1;66,8;conforme;418290;5016;46;131;297;Non vérifié
+54174;Écrouves;54;eau potable : UGE 778_RPS;318114;2024;79,4;4,9;19,1;68,8;conforme;375996;62589;38;95;4474;Non vérifié
+54175;Einvaux;54;eau potable : distribution;164177;2024;71,0;2,1;5,0;66,0;conforme;162766;7957;64;152;338;Non vérifié
+54177;Emberménil;54;eau potable;164013;2024;81,3;1,7;7,3;66,5;conforme;59264;4236;51;85;229;Non vérifié
+54178;Épiez-sur-Chiers;54;eau potable;164072;2024;100,0;0,0;5,9;66,2;conforme;0;0;0;0;192;Non vérifié
+54179;Éply;54;eau potable;164178;2024;76,3;2,5;7,9;66,6;conforme;193450;4957;47;128;291;Non vérifié
+54180;Erbéviller-sur-Amezule;54;eau potable : principal;164128;2024;67,2;6,3;12,9;67,6;non conforme;336417;2760;111;301;68;Non vérifié
+54181;Errouville;54;eau potable;63318;2024;79,2;4,3;16,2;68,2;conforme;667038;8094;33;97;682;Non vérifié
+54182;Essey-et-Maizerais;54;eau potable;164163;2024;71,2;1,8;4,5;65,9;conforme;149139;7197;58;156;339;Non vérifié
+54183;Essey-la-Côte;54;eau potable : distribution;164177;2024;71,0;2,1;5,0;66,0;conforme;162766;1789;64;152;76;Non vérifié
+54184;Essey-lès-Nancy;54;eau potable;164159;2024;86,1;6,3;39,0;72,8;conforme;2235114;73510;23;61;8670;Non vérifié
+54185;Étreval;54;eau potable : UGE 123/DSP;164010;2024;72,2;2,5;6,4;66,3;conforme;357390;1454;68;145;59;Non vérifié
+54186;Eulmont;54;eau potable : principal;164128;2024;67,2;6,3;12,9;67,6;non conforme;336417;45456;111;301;1120;Non vérifié
+54187;Euvezin;54;eau potable;164163;2024;71,2;1,8;4,5;65,9;conforme;149139;2272;58;156;107;Non vérifié
+54188;Faulx;54;eau potable : régie principale;262834;2024;52,5;15,7;17,4;68,5;non conforme;430303;56651;113;329;1370;Non vérifié
+54190;Fécocourt;54;eau potable;164168;2021;51,3;2,7;2,8;65,6;non conforme;33507;9773;255;349;105;Sans anomalie apparente
+54191;Fenneviller;54;eau potable;164058;2024;73,9;4,8;13,5;67,7;conforme;3294;3294;84;130;108;Non vérifié
+54192;Ferrières;54;eau potable : regie assistée CCPSV;312554;2024;60,3;11,8;17,9;68,6;non conforme;1073046;14208;108;324;361;Non vérifié
+54193;Fey-en-Haye;54;eau potable;164163;2024;71,2;1,8;4,5;65,9;conforme;149139;1210;58;156;57;Non vérifié
+54194;Fillières;54;eau potable : a partir des sources de Fillièrres;164016;2024;67,5;4,7;9,8;67,0;conforme;128388;11686;60;175;531;Non vérifié
+54195;Flainval;54;eau potable;164180;2024;63,7;4,7;8,3;66,7;non conforme;79445;5478;94;243;159;Non vérifié
+54196;Flavigny-sur-Moselle;54;eau potable : principal;164145;2024;68,4;6,6;14,3;67,9;conforme;649009;40402;67;198;1661;Non vérifié
+54197;Fléville-devant-Nancy;54;eau potable;164159;2024;86,1;6,3;39,0;72,8;conforme;2235114;18407;23;61;2171;Non vérifié
+54198;Fléville-Lixières;54;eau potable;164174;2024;59,9;6,0;9,0;66,8;non conforme;827820;12698;116;254;299;Non vérifié
+54199;Flin;54;eau potable;164070;2024;72,2;2,3;6,0;66,2;conforme;8563;8563;59;140;398;Non vérifié
+54200;Flirey;54;eau potable;164163;2024;71,2;1,8;4,5;65,9;conforme;149139;3376;58;156;159;Non vérifié
+54201;Fontenoy-la-Joûte;54;eau potable;164068;2023;43,5;18,3;14,0;67,8;non conforme;24046;24046;212;476;311;Sans anomalie apparente
+54202;Fontenoy-sur-Moselle;54;eau potable : UGE 141_DSP_2026 fontenoy-sur-Moselle;164066;2024;94,5;0,7;12,7;67,5;conforme;741;741;6;20;365;Non vérifié
+54203;Forcelles-Saint-Gorgon;54;eau potable : UGE 123/DSP;164010;2024;72,2;2,5;6,4;66,3;conforme;357390;4141;68;145;168;Non vérifié
+54205;Foug;54;eau potable : UGE 768_Régie principale;272734;2024;83,5;2,1;10,4;67,1;conforme;125223;28961;30;86;2628;Non vérifié
+54206;Fraimbois;54;eau potable;164051;2024;92,0;0,5;5,4;66,1;conforme;995;995;8;34;348;Non vérifié
+54208;Francheville;54;eau potable : UGE 768_Régie principale;272734;2024;83,5;2,1;10,4;67,1;conforme;125223;3273;30;86;297;Non vérifié
+54209;Franconville;54;eau potable : distribution;164177;2024;71,0;2,1;5,0;66,0;conforme;162766;1483;64;152;63;Non vérifié
+54210;Fréménil;54;eau potable;164013;2024;81,3;1,7;7,3;66,5;conforme;59264;4106;51;85;222;Non vérifié
+54211;Frémonville;54;eau potable;164103;2024;96,8;0,3;8,4;66,7;conforme;361;361;5;13;211;Non vérifié
+54212;Fresnois-la-Montagne;54;eau potable;186321;2024;55,1;9,6;11,7;67,3;non conforme;18361;18361;121;298;415;Non vérifié
+54213;Friauville;54;eau potable;164174;2024;59,9;6,0;9,0;66,8;non conforme;827820;15458;116;254;364;Non vérifié
+54214;Frolois;54;eau potable : principal;164145;2024;68,4;6,6;14,3;67,9;conforme;649009;17440;67;198;717;Non vérifié
+54215;Frouard;54;eau potable : ZAC Eiffel Energie (Parcs d'Activités des 3 communes) et Parc Embanie;164115;2024;94,4;2,7;45,4;74,1;conforme;8781;3953;2;22;6444;Non vérifié
+54216;Froville;54;eau potable : distribution;164177;2024;71,0;2,1;5,0;66,0;conforme;162766;2801;64;152;119;Non vérifié
+54217;Gélacourt;54;eau potable;164035;2024;78,7;3,5;13,0;67,6;conforme;2427;2427;35;98;191;Non vérifié
+54219;Gellenoncourt;54;eau potable : principal;164128;2024;67,2;6,3;12,9;67,6;non conforme;336417;3287;111;301;81;Non vérifié
+54220;Gémonville;54;eau potable;163989;2024;100,0;0,0;14,1;67,8;conforme;0;0;0;0;74;Non vérifié
+54221;Gerbécourt-et-Haplemont;54;eau potable : UGE 123/DSP;164010;2024;72,2;2,5;6,4;66,3;conforme;357390;6113;68;145;248;Non vérifié
+54222;Gerbéviller;54;eau potable : distribution;164177;2024;71,0;2,1;5,0;66,0;conforme;162766;30981;64;152;1316;Non vérifié
+54223;Germiny;54;eau potable;163994;2024;87,1;1,0;7,0;66,4;conforme;2358;2358;34;52;188;Non vérifié
+54224;Germonville;54;eau potable : UGE 123/DSP;164010;2024;72,2;2,5;6,4;66,3;conforme;357390;3279;68;145;133;Non vérifié
+54225;Gézoncourt;54;eau potable;163970;2024;80,2;1,6;6,4;66,3;conforme;1694;1694;25;92;185;Non vérifié
+54226;Gibeaumeix;54;eau potable;163972;2024;73,9;1,1;3,0;65,6;conforme;3614;3614;56;132;177;Non vérifié
+54227;Giraumont;54;eau potable;164174;2024;59,9;6,0;9,0;66,8;non conforme;827820;58605;116;254;1380;Non vérifié
+54228;Giriviller;54;eau potable : distribution;164177;2024;71,0;2,1;5,0;66,0;conforme;162766;1671;64;152;71;Non vérifié
+54229;Glonville;54;eau potable;164019;2024;90,6;0,9;8,5;66,7;conforme;1478;1478;11;38;385;Non vérifié
+54230;Gogney;54;eau potable;164021;2024;70,5;1,5;3,5;65,7;conforme;1949;1949;92;157;58;Non vérifié
+54231;Gondrecourt-Aix;54;eau potable : Régie principale;164173;2024;75,3;3,0;9,1;66,8;conforme;418290;3091;46;131;183;Non vérifié
+54232;Gondreville;54;eau potable : UGE 778_RPS;318114;2024;79,4;4,9;19,1;68,8;conforme;375996;36862;38;95;2635;Non vérifié
+54233;Gondrexon;54;eau potable;163974;2024;52,6;7,7;8,5;66,7;non conforme;99183;3112;275;351;31;Non vérifié
+54234;Gorcy;54;eau potable : VEOLIA/DSP 2024_2035 -  UGE ?;333374;2024;61,5;15,0;23,9;69,8;non conforme;1544114;139895;129;306;2971;Non vérifié
+54235;Goviller;54;eau potable : UGE 123/DSP;164010;2024;72,2;2,5;6,4;66,3;conforme;357390;10304;68;145;418;Non vérifié
+54236;Grand-Failly;54;eau potable : Régie principale;164173;2024;75,3;3,0;9,1;66,8;conforme;418290;6012;46;131;356;Non vérifié
+54237;Grimonviller;54;eau potable;164168;2021;51,3;2,7;2,8;65,6;non conforme;33507;10797;255;349;116;Sans anomalie apparente
+54238;Gripport;54;eau potable : UGE 123/DSP;164010;2024;72,2;2,5;6,4;66,3;conforme;357390;6508;68;145;264;Non vérifié
+54239;Griscourt;54;eau potable;164179;2024;94,7;0,7;13,2;67,6;conforme;309;309;6;19;137;Non vérifié
+54240;Grosrouvres;54;eau potable;164163;2024;71,2;1,8;4,5;65,9;conforme;149139;1125;58;156;53;Non vérifié
+54242;Gye;54;eau potable : service principal;206403;2024;75,4;2,2;6,8;66,4;conforme;142645;4320;42;118;283;Non vérifié
+54243;Hablainville;54;eau potable;164169;2024;79,3;1,9;7,3;66,5;conforme;18239;5238;65;96;220;Non vérifié
+54244;Hagéville;54;eau potable;164174;2024;59,9;6,0;9,0;66,8;non conforme;827820;4714;116;254;111;Non vérifié
+54245;Haigneville;54;eau potable : distribution;164177;2024;71,0;2,1;5,0;66,0;conforme;162766;1248;64;152;53;Non vérifié
+54246;Halloville;54;eau potable;164119;2024;96,3;1,3;32,8;71,6;conforme;664;664;28;14;66;Non vérifié
+54247;Hammeville;54;eau potable : UGE 123/DSP;164010;2024;72,2;2,5;6,4;66,3;conforme;357390;4807;68;145;195;Non vérifié
+54248;Hamonville;54;eau potable;164163;2024;71,2;1,8;4,5;65,9;conforme;149139;1996;58;156;94;Non vérifié
+54249;Hannonville-Suzémont;54;eau potable;164174;2024;59,9;6,0;9,0;66,8;non conforme;827820;11126;116;254;262;Non vérifié
+54251;Harbouey;54;eau potable;164141;2024;98,5;0,2;11,4;67,3;conforme;108;108;2;6;136;Non vérifié
+54252;Haroué;54;eau potable : UGE 123/DSP;164010;2024;72,2;2,5;6,4;66,3;conforme;357390;12523;68;145;508;Non vérifié
+54253;Hatrize;54;eau potable;164174;2024;59,9;6,0;9,0;66,8;non conforme;827820;35588;116;254;838;Non vérifié
+54254;Haucourt-Moulaine;54;eau potable;164172;2024;80,3;3,3;13,3;67,7;conforme;85483;36604;29;93;3495;Non vérifié
+54255;Haudonville;54;eau potable : distribution;164177;2024;71,0;2,1;5,0;66,0;conforme;162766;1930;64;152;82;Non vérifié
+54256;Haussonville;54;eau potable : distribution;164177;2024;71,0;2,1;5,0;66,0;conforme;162766;7627;64;152;324;Non vérifié
+54257;Heillecourt;54;eau potable;164159;2024;86,1;6,3;39,0;72,8;conforme;2235114;45903;23;61;5414;Non vérifié
+54258;Hénaménil;54;eau potable;164165;2024;73,4;2,4;6,5;66,3;conforme;104559;3926;73;146;147;Non vérifié
+54259;Herbéviller;54;eau potable;164013;2024;81,3;1,7;7,3;66,5;conforme;59264;3958;51;85;214;Non vérifié
+54260;Hériménil;54;eau potable;186328;2024;69,9;7,0;16,2;68,2;conforme;25550;25550;78;194;894;Non vérifié
+54261;Herserange;54;eau potable : VEOLIA/DSP 2024_2035 -  UGE ?;333374;2024;61,5;15,0;23,9;69,8;non conforme;1544114;196352;129;306;4170;Non vérifié
+54262;Hoéville;54;eau potable;164123;2024;98,3;0,2;8,8;66,8;conforme;256;256;4;8;199;Non vérifié
+54263;Homécourt;54;eau potable : Régie ( + HOMECOURT au 1-1-2020);164139;2024;78,0;3,9;13,8;67,8;conforme;210678;74284;33;106;6254;Non vérifié
+54264;Houdelmont;54;eau potable : UGE 123/DSP;164010;2024;72,2;2,5;6,4;66,3;conforme;357390;8948;68;145;363;Non vérifié
+54265;Houdemont;54;eau potable;164159;2024;86,1;6,3;39,0;72,8;conforme;2235114;17517;23;61;2066;Non vérifié
+54266;Houdreville;54;eau potable : UGE 123/DSP;164010;2024;72,2;2,5;6,4;66,3;conforme;357390;9934;68;145;403;Non vérifié
+54268;Housséville;54;eau potable : UGE 123/DSP;164010;2024;72,2;2,5;6,4;66,3;conforme;357390;3426;68;145;139;Non vérifié
+54269;Hudiviller;54;eau potable;164180;2024;63,7;4,7;8,3;66,7;non conforme;79445;10783;94;243;313;Non vérifié
+54270;Hussigny-Godbrange;54;eau potable : VEOLIA/DSP 2024_2035 -  UGE ?;333374;2024;61,5;15,0;23,9;69,8;non conforme;1544114;184203;129;306;3912;Non vérifié
+54272;Jaillon;54;eau potable : UGE 768_Régie principale;272734;2024;83,5;2,1;10,4;67,1;conforme;125223;5168;30;86;469;Non vérifié
+54273;Jarny;54;eau potable : JARNY;164136;2024;82,1;4,3;19,8;69,0;conforme;90497;90497;31;79;8050;Non vérifié
+54274;Jarville-la-Malgrange;54;eau potable;164159;2024;86,1;6,3;39,0;72,8;conforme;2235114;79326;23;61;9356;Non vérifié
+54275;Jaulny;54;eau potable;164134;2020;59,8;4,2;6,3;66,3;non conforme;5979;5979;74;244;220;Sans anomalie apparente
+54276;Jeandelaincourt;54;eau potable;164178;2024;76,3;2,5;7,9;66,6;conforme;193450;13371;47;128;785;Non vérifié
+54277;Jeandelize;54;eau potable;164174;2024;59,9;6,0;9,0;66,8;non conforme;827820;15925;116;254;375;Non vérifié
+54278;Jevoncourt;54;eau potable : UGE 123/DSP;164010;2024;72,2;2,5;6,4;66,3;conforme;357390;2539;68;145;103;Non vérifié
+54279;Jezainville;54;eau potable;164122;2024;77,1;4,0;13,6;67,7;conforme;10220;10220;27;107;1051;Non vérifié
+54280;Joeuf;54;eau potable : Régie ( + HOMECOURT au 1-1-2020);164139;2024;78,0;3,9;13,8;67,8;conforme;210678;75923;33;106;6392;Non vérifié
+54283;Jouaville;54;eau potable;164174;2024;59,9;6,0;9,0;66,8;non conforme;827820;11636;116;254;274;Non vérifié
+54284;Joudreville;54;eau potable : Régie principale;164173;2024;75,3;3,0;9,1;66,8;conforme;418290;18595;46;131;1101;Non vérifié
+54285;Juvrecourt;54;eau potable;164165;2024;73,4;2,4;6,5;66,3;conforme;104559;935;73;146;35;Non vérifié
+54286;Labry;54;eau potable;164174;2024;59,9;6,0;9,0;66,8;non conforme;827820;65995;116;254;1554;Non vérifié
+54287;Lachapelle;54;eau potable;164144;2024;91,1;2,2;22,0;69,4;conforme;1044;1044;11;36;257;Non vérifié
+54288;Lagney;54;eau potable : UGE 768_Régie principale;272734;2024;83,5;2,1;10,4;67,1;conforme;125223;5510;30;86;500;Non vérifié
+54289;Laître-sous-Amance;54;eau potable : principal;164128;2024;67,2;6,3;12,9;67,6;non conforme;336417;14652;111;301;361;Non vérifié
+54290;Laix;54;eau potable;164172;2024;80,3;3,3;13,3;67,7;conforme;85483;2210;29;93;211;Non vérifié
+54291;Laloeuf;54;eau potable;164151;2023;94,7;0,6;9,9;67,0;conforme;1502;1502;13;22;306;Sans anomalie apparente
+54292;Lamath;54;eau potable : distribution;164177;2024;71,0;2,1;5,0;66,0;conforme;162766;4237;64;152;180;Non vérifié
+54293;Landécourt;54;eau potable : distribution;164177;2024;71,0;2,1;5,0;66,0;conforme;162766;2025;64;152;86;Non vérifié
+54294;Landremont;54;eau potable;164178;2024;76,3;2,5;7,9;66,6;conforme;193450;2282;47;128;134;Non vérifié
+54295;Landres;54;eau potable : Régie principale;164173;2024;75,3;3,0;9,1;66,8;conforme;418290;16703;46;131;989;Non vérifié
+54296;Laneuvelotte;54;eau potable : principal;164128;2024;67,2;6,3;12,9;67,6;non conforme;336417;17452;111;301;430;Non vérifié
+54297;Laneuveville-aux-Bois;54;eau potable;164013;2024;81,3;1,7;7,3;66,5;conforme;59264;5549;51;85;300;Non vérifié
+54298;Laneuveville-derrière-Foug;54;eau potable : UGE 768_Régie principale;272734;2024;83,5;2,1;10,4;67,1;conforme;125223;1708;30;86;155;Non vérifié
+54299;Laneuveville-devant-Bayon;54;eau potable : UGE 123/DSP;164010;2024;72,2;2,5;6,4;66,3;conforme;357390;5694;68;145;231;Non vérifié
+54300;Laneuveville-devant-Nancy;54;eau potable;164159;2024;86,1;6,3;39,0;72,8;conforme;2235114;56213;23;61;6630;Non vérifié
+54301;Lanfroicourt;54;eau potable;164178;2024;76,3;2,5;7,9;66,6;conforme;193450;2265;47;128;133;Non vérifié
+54302;Lantéfontaine;54;eau potable : DSP distribution UGE 105;163960;2024;78,1;3,5;12,3;67,5;conforme;149353;9675;36;104;730;Non vérifié
+54304;Laxou;54;eau potable;164159;2024;86,1;6,3;39,0;72,8;conforme;2235114;125238;23;61;14771;Non vérifié
+54305;Lay-Saint-Christophe;54;eau potable : DSP_Lay St Chrisophe;186325;2024;58,8;9,9;14,2;67,8;non conforme;77690;77690;90;255;2355;Non vérifié
+54306;Lay-Saint-Remy;54;eau potable : UGE 768_Régie principale;272734;2024;83,5;2,1;10,4;67,1;conforme;125223;3747;30;86;340;Non vérifié
+54307;Lebeuville;54;eau potable : UGE 123/DSP;164010;2024;72,2;2,5;6,4;66,3;conforme;357390;3599;68;145;146;Non vérifié
+54308;Leintrey;54;eau potable;164013;2024;81,3;1,7;7,3;66,5;conforme;59264;2793;51;85;151;Non vérifié
+54309;Lemainville;54;eau potable : UGE 123/DSP;164010;2024;72,2;2,5;6,4;66,3;conforme;357390;10033;68;145;407;Non vérifié
+54310;Leménil-Mitry;54;eau potable : UGE 123/DSP;164010;2024;72,2;2,5;6,4;66,3;conforme;357390;49;68;145;2;Non vérifié
+54311;Lenoncourt;54;eau potable : principal;164128;2024;67,2;6,3;12,9;67,6;non conforme;336417;24067;111;301;593;Non vérifié
+54312;Lesménils;54;eau potable : DSP_2013-2024;164012;2024;79,1;2,1;8,0;66,6;conforme;31427;7561;41;96;506;Non vérifié
+54313;Létricourt;54;eau potable;164178;2024;76,3;2,5;7,9;66,6;conforme;193450;3816;47;128;224;Non vérifié
+54314;Lexy;54;eau potable : VEOLIA/DSP 2024_2035 -  UGE ?;333374;2024;61,5;15,0;23,9;69,8;non conforme;1544114;183826;129;306;3904;Non vérifié
+54315;Leyr;54;eau potable;164178;2024;76,3;2,5;7,9;66,6;conforme;193450;15432;47;128;906;Non vérifié
+54316;Limey-Remenauville;54;eau potable;164163;2024;71,2;1,8;4,5;65,9;conforme;149139;6730;58;156;317;Non vérifié
+54317;Lironville;54;eau potable;164163;2024;71,2;1,8;4,5;65,9;conforme;149139;2781;58;156;131;Non vérifié
+54318;Liverdun;54;eau potable : régie principale;262834;2024;52,5;15,7;17,4;68,5;non conforme;430303;230741;113;329;5580;Non vérifié
+54320;Loisy;54;eau potable;164176;2024;89,7;1,9;16,7;68,3;conforme;2739;2739;23;41;322;Non vérifié
+54321;Longlaville;54;eau potable : Veolia + DSP_2025/Grd Longwy Agglo-UGE 775;164009;2024;72,3;9,0;23,6;69,7;conforme;414173;44915;52;140;2377;Non vérifié
+54322;Longuyon;54;eau potable : Régie principale;164173;2024;75,3;3,0;9,1;66,8;conforme;418290;86708;46;131;5134;Non vérifié
+54323;Longwy;54;eau potable : Veolia + DSP_2025/Grd Longwy Agglo-UGE 775;164009;2024;72,3;9,0;23,6;69,7;conforme;414173;296264;52;140;15679;Non vérifié
+54324;Lorey;54;eau potable : distribution;164177;2024;71,0;2,1;5,0;66,0;conforme;162766;2142;64;152;91;Non vérifié
+54325;Loromontzey;54;eau potable : distribution;164177;2024;71,0;2,1;5,0;66,0;conforme;162766;1813;64;152;77;Non vérifié
+54326;Lubey;54;eau potable : DSP distribution UGE 105;163960;2024;78,1;3,5;12,3;67,5;conforme;149353;2849;36;104;215;Non vérifié
+54327;Lucey;54;eau potable : UGE 768_Régie principale;272734;2024;83,5;2,1;10,4;67,1;conforme;125223;6866;30;86;623;Non vérifié
+54328;Ludres;54;eau potable;164159;2024;86,1;6,3;39,0;72,8;conforme;2235114;49541;23;61;5843;Non vérifié
+54329;Lunéville;54;eau potable;164001;2024;85,8;4,9;30,0;71,0;conforme;164113;132214;20;70;18262;Non vérifié
+54330;Lupcourt;54;eau potable : regie assistée CCPSV;312554;2024;60,3;11,8;17,9;68,6;non conforme;1073046;16844;108;324;428;Non vérifié
+54331;Magnières;54;eau potable : distribution;164177;2024;71,0;2,1;5,0;66,0;conforme;162766;6827;64;152;290;Non vérifié
+54332;Maidières;54;eau potable;164024;2024;74,0;8,3;23,6;69,7;conforme;19237;19237;35;128;1492;Non vérifié
+54333;Mailly-sur-Seille;54;eau potable;164178;2024;76,3;2,5;7,9;66,6;conforme;193450;4173;47;128;245;Non vérifié
+54334;Mairy-Mainville;54;eau potable : Régie principale;164173;2024;75,3;3,0;9,1;66,8;conforme;418290;9306;46;131;551;Non vérifié
+54335;Maixe;54;eau potable;164030;2024;90,0;0,0;13,9;67,8;conforme;0;0;0;0;409;Non vérifié
+54336;Maizières;54;eau potable : principal;164145;2024;68,4;6,6;14,3;67,9;conforme;649009;22670;67;198;932;Non vérifié
+54337;Malavillers;54;eau potable : a partir des sources de Fillièrres;164016;2024;67,5;4,7;9,8;67,0;conforme;128388;2685;60;175;122;Non vérifié
+54338;Malleloy;54;eau potable : régie principale;262834;2024;52,5;15,7;17,4;68,5;non conforme;430303;41641;113;329;1007;Non vérifié
+54339;Malzéville;54;eau potable;164159;2024;86,1;6,3;39,0;72,8;conforme;2235114;66303;23;61;7820;Non vérifié
+54340;Mamey;54;eau potable;164163;2024;71,2;1,8;4,5;65,9;conforme;149139;7070;58;156;333;Non vérifié
+54343;Mandres-aux-Quatre-Tours;54;eau potable;164163;2024;71,2;1,8;4,5;65,9;conforme;149139;4395;58;156;207;Non vérifié
+54344;Mangonville;54;eau potable : UGE 123/DSP;164010;2024;72,2;2,5;6,4;66,3;conforme;357390;5127;68;145;208;Non vérifié
+54345;Manoncourt-en-Vermois;54;eau potable : regie assistée CCPSV;312554;2024;60,3;11,8;17,9;68,6;non conforme;1073046;13578;108;324;345;Non vérifié
+54346;Manoncourt-en-Woëvre;54;eau potable : UGE 768_Régie principale;272734;2024;83,5;2,1;10,4;67,1;conforme;125223;2821;30;86;256;Non vérifié
+54348;Manonville;54;eau potable;164163;2024;71,2;1,8;4,5;65,9;conforme;149139;4692;58;156;221;Non vérifié
+54349;Manonviller;54;eau potable;164013;2024;81,3;1,7;7,3;66,5;conforme;59264;3181;51;85;172;Non vérifié
+54350;Marainviller;54;eau potable;164095;2024;100,0;0,0;8,1;66,6;conforme;0;0;0;0;704;Non vérifié
+54351;Marbache;54;eau potable : DSP_Marbache;163975;2024;69,2;4,2;9,4;66,9;conforme;29878;29878;49;164;1665;Non vérifié
+54352;Maron;54;eau potable : principal;164145;2024;68,4;6,6;14,3;67,9;conforme;649009;20456;67;198;841;Non vérifié
+54353;Mars-la-Tour;54;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;16307;51;139;875;Non vérifié
+54354;Marthemont;54;eau potable : principal;164145;2024;68,4;6,6;14,3;67,9;conforme;649009;1265;67;198;52;Non vérifié
+54355;Martincourt;54;eau potable;164163;2024;71,2;1,8;4,5;65,9;conforme;149139;1889;58;156;89;Non vérifié
+54356;Mattexey;54;eau potable : distribution;164177;2024;71,0;2,1;5,0;66,0;conforme;162766;1460;64;152;62;Non vérifié
+54357;Maxéville;54;eau potable;164159;2024;86,1;6,3;39,0;72,8;conforme;2235114;85549;23;61;10090;Non vérifié
+54358;Mazerulles;54;eau potable : principal;164128;2024;67,2;6,3;12,9;67,6;non conforme;336417;11486;111;301;283;Non vérifié
+54359;Méhoncourt;54;eau potable : distribution;164177;2024;71,0;2,1;5,0;66,0;conforme;162766;5650;64;152;240;Non vérifié
+54360;Ménil-la-Tour;54;eau potable : UGE 768_Régie principale;272734;2024;83,5;2,1;10,4;67,1;conforme;125223;3769;30;86;342;Non vérifié
+54362;Mercy-le-Bas;54;eau potable : DSP_2017-2028;164184;2024;73,9;4,0;11,2;67,2;conforme;37507;26034;56;157;1273;Non vérifié
+54363;Mercy-le-Haut;54;eau potable;164171;2024;68,3;2,5;5,3;66,1;conforme;29200;11480;114;209;276;Non vérifié
+54364;Méréville;54;eau potable : principal;164145;2024;68,4;6,6;14,3;67,9;conforme;649009;31329;67;198;1288;Non vérifié
+54365;Merviller;54;eau potable;163981;2024;85,9;0,9;;;non calculable;5584;4132;35;68;327;Non vérifié
+54366;Messein;54;eau potable : principal;164145;2024;68,4;6,6;14,3;67,9;conforme;649009;48186;67;198;1981;Non vérifié
+54367;Mexy;54;eau potable;164172;2024;80,3;3,3;13,3;67,7;conforme;85483;24089;29;93;2300;Non vérifié
+54368;Mignéville;54;eau potable;164015;2024;92,0;0,6;6,4;66,3;conforme;15161;1945;31;40;170;Non vérifié
+54369;Millery;54;eau potable : régie principale;262834;2024;52,5;15,7;17,4;68,5;non conforme;430303;24770;113;329;599;Non vérifié
+54370;Minorville;54;eau potable;164163;2024;71,2;1,8;4,5;65,9;conforme;149139;4819;58;156;227;Non vérifié
+54371;Moineville;54;eau potable : Régie ( + HOMECOURT au 1-1-2020);164139;2024;78,0;3,9;13,8;67,8;conforme;210678;13232;33;106;1114;Non vérifié
+54372;Moivrons;54;eau potable;164178;2024;76,3;2,5;7,9;66,6;conforme;193450;8994;47;128;528;Non vérifié
+54373;Moncel-lès-Lunéville;54;eau potable;164083;2024;97,2;0,3;11,4;67,3;conforme;1720;1720;8;13;612;Non vérifié
+54374;Moncel-sur-Seille;54;eau potable : principal;164128;2024;67,2;6,3;12,9;67,6;non conforme;336417;22241;111;301;548;Non vérifié
+54375;Montauville;54;eau potable;164082;2024;67,0;7,3;14,9;68,0;non conforme;22222;22222;55;189;1097;Non vérifié
+54376;Montenoy;54;eau potable : régie principale;262834;2024;52,5;15,7;17,4;68,5;non conforme;430303;16417;113;329;397;Non vérifié
+54377;Montigny;54;eau potable;164015;2024;92,0;0,6;6,4;66,3;conforme;15161;1682;31;40;147;Non vérifié
+54378;Montigny-sur-Chiers;54;eau potable : Régie principale;164173;2024;75,3;3,0;9,1;66,8;conforme;418290;8208;46;131;486;Non vérifié
+54379;Mont-l'Étroit;54;eau potable;164100;2024;100,0;0,0;9,7;66,9;conforme;0;0;0;0;93;Non vérifié
+54380;Mont-le-Vignoble;54;eau potable : service principal;206403;2024;75,4;2,2;6,8;66,4;conforme;142645;6427;42;118;421;Non vérifié
+54381;Montreux;54;eau potable;164015;2024;92,0;0,6;6,4;66,3;conforme;15161;572;31;40;50;Non vérifié
+54382;Mont-Saint-Martin;54;eau potable : VEOLIA/DSP 2024_2035 -  UGE ?;333374;2024;61,5;15,0;23,9;69,8;non conforme;1544114;440779;129;306;9361;Non vérifié
+54383;Mont-sur-Meurthe;54;eau potable;164101;2024;39,2;15,9;10,3;67,1;non conforme;63838;63838;154;566;1135;Non vérifié
+54385;Morfontaine;54;eau potable : DSP_2028/MORFONTAINE- UGE 128;164099;2024;80,1;2,7;10,9;67,2;conforme;11570;11570;30;90;1073;Non vérifié
+54386;Moriviller;54;eau potable : distribution;164177;2024;71,0;2,1;5,0;66,0;conforme;162766;2236;64;152;95;Non vérifié
+54387;Morville-sur-Seille;54;eau potable : DSP_2013-2024;164012;2024;79,1;2,1;8,0;66,6;conforme;31427;2525;41;96;169;Non vérifié
+54388;Mouacourt;54;eau potable;164165;2024;73,4;2,4;6,5;66,3;conforme;104559;1896;73;146;71;Non vérifié
+54389;Mouaville;54;eau potable;164174;2024;59,9;6,0;9,0;66,8;non conforme;827820;4502;116;254;106;Non vérifié
+54390;Mousson;54;eau potable : DSP_2013-2024;164012;2024;79,1;2,1;8,0;66,6;conforme;31427;1509;41;96;101;Non vérifié
+54391;Moutiers;54;eau potable : Régie ( + HOMECOURT au 1-1-2020);164139;2024;78,0;3,9;13,8;67,8;conforme;210678;19028;33;106;1602;Non vérifié
+54392;Moutrot;54;eau potable : service principal;206403;2024;75,4;2,2;6,8;66,4;conforme;142645;4992;42;118;327;Non vérifié
+54393;Moyen;54;eau potable : distribution;164177;2024;71,0;2,1;5,0;66,0;conforme;162766;12171;64;152;517;Non vérifié
+54394;Murville;54;eau potable : a partir des sources de Fillièrres;164016;2024;67,5;4,7;9,8;67,0;conforme;128388;5260;60;175;239;Non vérifié
+54395;Nancy;54;eau potable;164159;2024;86,1;6,3;39,0;72,8;conforme;2235114;878989;23;61;103671;Non vérifié
+54396;Neufmaisons;54;eau potable;163990;2024;73,4;7,6;21,1;69,2;conforme;6602;6602;87;132;208;Non vérifié
+54397;Neuves-Maisons;54;eau potable : principal;164145;2024;68,4;6,6;14,3;67,9;conforme;649009;158689;67;198;6524;Non vérifié
+54398;Neuviller-lès-Badonviller;54;eau potable;164015;2024;92,0;0,6;6,4;66,3;conforme;15161;1018;31;40;89;Non vérifié
+54400;Nomeny;54;eau potable;164178;2024;76,3;2,5;7,9;66,6;conforme;193450;19452;47;128;1142;Non vérifié
+54401;Nonhigny;54;eau potable;164015;2024;92,0;0,6;6,4;66,3;conforme;15161;1602;31;40;140;Non vérifié
+54402;Norroy-le-Sec;54;eau potable : Régie principale;164173;2024;75,3;3,0;9,1;66,8;conforme;418290;7279;46;131;431;Non vérifié
+54403;Norroy-lès-Pont-à-Mousson;54;eau potable;164163;2024;71,2;1,8;4,5;65,9;conforme;149139;24393;58;156;1149;Non vérifié
+54404;Noviant-aux-Prés;54;eau potable;164163;2024;71,2;1,8;4,5;65,9;conforme;149139;4586;58;156;216;Non vérifié
+54405;Ochey;54;eau potable : service principal;206403;2024;75,4;2,2;6,8;66,4;conforme;142645;7908;42;118;518;Non vérifié
+54406;Ogéviller;54;eau potable;164013;2024;81,3;1,7;7,3;66,5;conforme;59264;5105;51;85;276;Non vérifié
+54407;Ognéville;54;eau potable;164073;2022;91,8;2,9;32,5;71,5;conforme;1058;1058;33;33;87;Sans anomalie apparente
+54408;Olley;54;eau potable;164174;2024;59,9;6,0;9,0;66,8;non conforme;827820;9343;116;254;220;Non vérifié
+54409;Omelmont;54;eau potable : UGE 123/DSP;164010;2024;72,2;2,5;6,4;66,3;conforme;357390;4733;68;145;192;Non vérifié
+54410;Onville;54;eau potable;163959;2024;87,4;0,8;5,8;66,2;conforme;663;515;3;51;501;Non vérifié
+54411;Ormes-et-Ville;54;eau potable : UGE 123/DSP;164010;2024;72,2;2,5;6,4;66,3;conforme;357390;5374;68;145;218;Non vérifié
+54412;Othe;54;eau potable : Régie principale;164173;2024;75,3;3,0;9,1;66,8;conforme;418290;625;46;131;37;Non vérifié
+54413;Ozerailles;54;eau potable;164174;2024;59,9;6,0;9,0;66,8;non conforme;827820;6158;116;254;145;Non vérifié
+54414;Pagney-derrière-Barine;54;eau potable : UGE 778_RPS;318114;2024;79,4;4,9;19,1;68,8;conforme;375996;9037;38;95;646;Non vérifié
+54415;Pagny-sur-Moselle;54;eau potable;164000;2024;59,6;8,8;13,0;67,6;non conforme;109208;109208;76;248;3919;Non vérifié
+54416;Pannes;54;eau potable;164163;2024;71,2;1,8;4,5;65,9;conforme;149139;3652;58;156;172;Non vérifié
+54417;Parey-Saint-Césaire;54;eau potable : UGE 123/DSP;164010;2024;72,2;2,5;6,4;66,3;conforme;357390;6113;68;145;248;Non vérifié
+54418;Parroy;54;eau potable;164165;2024;73,4;2,4;6,5;66,3;conforme;104559;4887;73;146;183;Non vérifié
+54419;Parux;54;eau potable;164059;2024;94,2;0,2;1,3;65,3;conforme;219;219;9;26;69;Non vérifié
+54420;Petit-Failly;54;eau potable : Régie principale;164173;2024;75,3;3,0;9,1;66,8;conforme;418290;1655;46;131;98;Non vérifié
+54421;Petitmont;54;eau potable;164061;2024;90,7;0,8;8,2;66,6;conforme;2099;2099;19;35;305;Non vérifié
+54422;Pettonville;54;eau potable;164169;2024;79,3;1,9;7,3;66,5;conforme;18239;1548;65;96;65;Non vérifié
+54423;Pexonne;54;eau potable;164064;2024;85,3;1,4;8,3;66,7;conforme;3950;3950;33;61;326;Non vérifié
+54424;Phlin;54;eau potable;164178;2024;76,3;2,5;7,9;66,6;conforme;193450;681;47;128;40;Non vérifié
+54425;Piennes;54;eau potable : Régie principale;164173;2024;75,3;3,0;9,1;66,8;conforme;418290;41226;46;131;2441;Non vérifié
+54426;Pierre-la-Treiche;54;eau potable : service principal;206403;2024;75,4;2,2;6,8;66,4;conforme;142645;7206;42;118;472;Non vérifié
+54427;Pierre-Percée;54;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;2884;88;243;90;Non vérifié
+54428;Pierrepont;54;eau potable;164011;2024;58,1;5,4;7,5;66,5;non conforme;86645;26810;89;264;824;Non vérifié
+54429;Pierreville;54;eau potable : UGE 123/DSP;164010;2024;72,2;2,5;6,4;66,3;conforme;357390;7371;68;145;299;Non vérifié
+54430;Pompey;54;eau potable : ZAC Eiffel Energie (Parcs d'Activités des 3 communes) et Parc Embanie;164115;2024;94,4;2,7;45,4;74,1;conforme;8781;2932;2;22;4780;Non vérifié
+54431;Pont-à-Mousson;54;eau potable;164071;2024;78,4;5,5;20,0;69,0;conforme;227590;227590;44;115;14190;Non vérifié
+54432;Pont-Saint-Vincent;54;eau potable : principal;164145;2024;68,4;6,6;14,3;67,9;conforme;649009;43175;67;198;1775;Non vérifié
+54433;Port-sur-Seille;54;eau potable;164178;2024;76,3;2,5;7,9;66,6;conforme;193450;3952;47;128;232;Non vérifié
+54434;Praye;54;eau potable : UGE 123/DSP;164010;2024;72,2;2,5;6,4;66,3;conforme;357390;6582;68;145;267;Non vérifié
+54435;Prény;54;eau potable;164074;2024;100,0;0,0;7,7;66,5;conforme;0;0;0;0;374;Non vérifié
+54436;Preutin-Higny;54;eau potable;164171;2024;68,3;2,5;5,3;66,1;conforme;29200;6655;114;209;160;Non vérifié
+54437;Pulligny;54;eau potable : UGE 123/DSP;164010;2024;72,2;2,5;6,4;66,3;conforme;357390;28472;68;145;1155;Non vérifié
+54438;Pulney;54;eau potable;164168;2021;51,3;2,7;2,8;65,6;non conforme;33507;5026;255;349;54;Sans anomalie apparente
+54439;Pulnoy;54;eau potable;164159;2024;86,1;6,3;39,0;72,8;conforme;2235114;43233;23;61;5099;Non vérifié
+54440;Puxe;54;eau potable;164174;2024;59,9;6,0;9,0;66,8;non conforme;827820;4544;116;254;107;Non vérifié
+54441;Puxieux;54;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;4119;51;139;221;Non vérifié
+54442;Quevilloncourt;54;eau potable : UGE 123/DSP;164010;2024;72,2;2,5;6,4;66,3;conforme;357390;2366;68;145;96;Non vérifié
+54443;Raon-lès-Leau;54;eau potable : Régie AEP;333994;2024;59,8;4,1;6,2;66,2;non conforme;1520444;1282;88;243;40;Non vérifié
+54444;Raucourt;54;eau potable;63338;2024;85,8;1,4;8,6;66,7;conforme;138992;1737;20;60;235;Non vérifié
+54446;Réchicourt-la-Petite;54;eau potable;164039;2024;70,9;2,8;6,9;66,4;conforme;1226;1226;55;149;61;Non vérifié
+54447;Réclonville;54;eau potable;164169;2024;79,3;1,9;7,3;66,5;conforme;18239;1619;65;96;68;Non vérifié
+54449;Rehainviller;54;eau potable;164042;2024;73,7;4,8;13,3;67,7;conforme;19622;19622;51;132;1057;Non vérifié
+54450;Reherrey;54;eau potable;164169;2024;79,3;1,9;7,3;66,5;conforme;18239;3476;65;96;146;Non vérifié
+54451;Réhon;54;eau potable : Veolia + DSP_2025/Grd Longwy Agglo-UGE 775;164009;2024;72,3;9,0;23,6;69,7;conforme;414173;72994;52;140;3863;Non vérifié
+54452;Reillon;54;eau potable;163974;2024;52,6;7,7;8,5;66,7;non conforme;99183;7328;275;351;73;Non vérifié
+54453;Rembercourt-sur-Mad;54;eau potable;164174;2024;59,9;6,0;9,0;66,8;non conforme;827820;6965;116;254;164;Non vérifié
+54455;Remenoville;54;eau potable : distribution;164177;2024;71,0;2,1;5,0;66,0;conforme;162766;3696;64;152;157;Non vérifié
+54456;Réméréville;54;eau potable : principal;164128;2024;67,2;6,3;12,9;67,6;non conforme;336417;26300;111;301;648;Non vérifié
+54457;Remoncourt;54;eau potable;164013;2024;81,3;1,7;7,3;66,5;conforme;59264;721;51;85;39;Non vérifié
+54458;Repaix;54;eau potable;163974;2024;52,6;7,7;8,5;66,7;non conforme;99183;10541;275;351;105;Non vérifié
+54459;Richardménil;54;eau potable : principal;164145;2024;68,4;6,6;14,3;67,9;conforme;649009;58110;67;198;2389;Non vérifié
+54460;Rogéville;54;eau potable;164049;2024;97,8;0,1;4,6;65,9;conforme;174;174;3;8;157;Non vérifié
+54461;Romain;54;eau potable : distribution;164177;2024;71,0;2,1;5,0;66,0;conforme;162766;1624;64;152;69;Non vérifié
+54462;Rosières-aux-Salines;54;eau potable : regie assistée CCPSV;312554;2024;60,3;11,8;17,9;68,6;non conforme;1073046;110591;108;324;2810;Non vérifié
+54463;Rosières-en-Haye;54;eau potable;164054;2024;96,9;0,3;7,9;66,6;conforme;383;383;4;14;258;Non vérifié
+54464;Rouves;54;eau potable;164178;2024;76,3;2,5;7,9;66,6;conforme;193450;1703;47;128;100;Non vérifié
+54465;Roville-devant-Bayon;54;eau potable : UGE 123/DSP;164010;2024;72,2;2,5;6,4;66,3;conforme;357390;18217;68;145;739;Non vérifié
+54466;Royaumeix;54;eau potable : UGE 768_Régie principale;272734;2024;83,5;2,1;10,4;67,1;conforme;125223;4243;30;86;385;Non vérifié
+54467;Rozelieures;54;eau potable : distribution;164177;2024;71,0;2,1;5,0;66,0;conforme;162766;4355;64;152;185;Non vérifié
+54468;Saffais;54;eau potable : regie assistée CCPSV;312554;2024;60,3;11,8;17,9;68,6;non conforme;1073046;4093;108;324;104;Non vérifié
+54469;Saint-Ail;54;eau potable;164174;2024;59,9;6,0;9,0;66,8;non conforme;827820;19747;116;254;465;Non vérifié
+54470;Saint-Baussant;54;eau potable;164163;2024;71,2;1,8;4,5;65,9;conforme;149139;1274;58;156;60;Non vérifié
+54471;Saint-Boingt;54;eau potable : distribution;164177;2024;71,0;2,1;5,0;66,0;conforme;162766;1789;64;152;76;Non vérifié
+54472;Saint-Clément;54;eau potable;164097;2024;83,7;2,3;11,6;67,3;conforme;6548;6548;21;72;848;Non vérifié
+54473;Saint-Firmin;54;eau potable : UGE 123/DSP;164010;2024;72,2;2,5;6,4;66,3;conforme;357390;7198;68;145;292;Non vérifié
+54474;Sainte-Geneviève;54;eau potable;164178;2024;76,3;2,5;7,9;66,6;conforme;193450;3134;47;128;184;Non vérifié
+54475;Saint-Germain;54;eau potable : distribution;164177;2024;71,0;2,1;5,0;66,0;conforme;162766;3672;64;152;156;Non vérifié
+54476;Saint-Jean-lès-Longuyon;54;eau potable : Régie principale;164173;2024;75,3;3,0;9,1;66,8;conforme;418290;6958;46;131;412;Non vérifié
+54477;Saint-Julien-lès-Gorze;54;eau potable;164174;2024;59,9;6,0;9,0;66,8;non conforme;827820;6880;116;254;162;Non vérifié
+54478;Saint-Marcel;54;eau potable;164174;2024;59,9;6,0;9,0;66,8;non conforme;827820;6370;116;254;150;Non vérifié
+54479;Saint-Mard;54;eau potable : distribution;164177;2024;71,0;2,1;5,0;66,0;conforme;162766;2448;64;152;104;Non vérifié
+54480;Saint-Martin;54;eau potable;163974;2024;52,6;7,7;8,5;66,7;non conforme;99183;5321;275;351;53;Non vérifié
+54481;Saint-Maurice-aux-Forges;54;eau potable;164015;2024;92,0;0,6;6,4;66,3;conforme;15161;1179;31;40;103;Non vérifié
+54482;Saint-Max;54;eau potable;164159;2024;86,1;6,3;39,0;72,8;conforme;2235114;84049;23;61;9913;Non vérifié
+54483;Saint-Nicolas-de-Port;54;eau potable : regie assistée CCPSV;312554;2024;60,3;11,8;17,9;68,6;non conforme;1073046;289622;108;324;7359;Non vérifié
+54484;Sainte-Pôle;54;eau potable;164015;2024;92,0;0,6;6,4;66,3;conforme;15161;2025;31;40;177;Non vérifié
+54485;Saint-Pancré;54;eau potable : Régie principale;164173;2024;75,3;3,0;9,1;66,8;conforme;418290;5185;46;131;307;Non vérifié
+54486;Saint-Remimont;54;eau potable : UGE 123/DSP;164010;2024;72,2;2,5;6,4;66,3;conforme;357390;7987;68;145;324;Non vérifié
+54487;Saint-Rémy-aux-Bois;54;eau potable : distribution;164177;2024;71,0;2,1;5,0;66,0;conforme;162766;1554;64;152;66;Non vérifié
+54488;Saint-Sauveur;54;eau potable;164106;2024;96,4;0,1;3,6;65,7;conforme;44;44;3;10;43;Non vérifié
+54489;Saint-Supplet;54;eau potable : Régie principale;164173;2024;75,3;3,0;9,1;66,8;conforme;418290;2533;46;131;150;Non vérifié
+54490;Saizerais;54;eau potable : régie principale;262834;2024;52,5;15,7;17,4;68,5;non conforme;430303;60084;113;329;1453;Non vérifié
+54491;Sancy;54;eau potable;63318;2024;79,2;4,3;16,2;68,2;conforme;667038;4332;33;97;365;Non vérifié
+54492;Sanzey;54;eau potable : UGE 768_Régie principale;272734;2024;83,5;2,1;10,4;67,1;conforme;125223;1510;30;86;137;Non vérifié
+54493;Saulnes;54;eau potable : VEOLIA/DSP 2024_2035 -  UGE ?;333374;2024;61,5;15,0;23,9;69,8;non conforme;1544114;106369;129;306;2259;Non vérifié
+54494;Saulxerotte;54;eau potable;186315;2022;67,7;2,8;5,9;66,2;conforme;2075;2075;55;172;104;Sans anomalie apparente
+54495;Saulxures-lès-Nancy;54;eau potable;164159;2024;86,1;6,3;39,0;72,8;conforme;2235114;36831;23;61;4344;Non vérifié
+54496;Saulxures-lès-Vannes;54;eau potable;164079;2024;90,3;1,5;14,1;67,8;conforme;1993;1993;15;39;376;Non vérifié
+54497;Saxon-Sion;54;eau potable : UGE 123/DSP;164010;2024;72,2;2,5;6,4;66,3;conforme;357390;1134;68;145;46;Non vérifié
+54498;Seichamps;54;eau potable;164159;2024;86,1;6,3;39,0;72,8;conforme;2235114;43792;23;61;5165;Non vérifié
+54499;Seicheprey;54;eau potable;164163;2024;71,2;1,8;4,5;65,9;conforme;149139;2208;58;156;104;Non vérifié
+54500;Selaincourt;54;eau potable;186316;2024;77,3;4,6;15,6;68,1;conforme;3358;3358;48;108;193;Non vérifié
+54501;Seranville;54;eau potable : distribution;164177;2024;71,0;2,1;5,0;66,0;conforme;162766;2401;64;152;102;Non vérifié
+54502;Serres;54;eau potable;164165;2024;73,4;2,4;6,5;66,3;conforme;104559;6784;73;146;254;Non vérifié
+54504;Serrouville;54;eau potable : a partir des sources de Fillièrres;164016;2024;67,5;4,7;9,8;67,0;conforme;128388;15031;60;175;683;Non vérifié
+54505;Sexey-aux-Forges;54;eau potable : principal;164145;2024;68,4;6,6;14,3;67,9;conforme;649009;17465;67;198;718;Non vérifié
+54508;Sivry;54;eau potable;164178;2024;76,3;2,5;7,9;66,6;conforme;193450;4003;47;128;235;Non vérifié
+54509;Sommerviller;54;eau potable;164180;2024;63,7;4,7;8,3;66,7;non conforme;79445;34796;94;243;1010;Non vérifié
+54510;Sornéville;54;eau potable : principal;164128;2024;67,2;6,3;12,9;67,6;non conforme;336417;14449;111;301;356;Non vérifié
+54511;Sponville;54;eau potable;164174;2024;59,9;6,0;9,0;66,8;non conforme;827820;4586;116;254;108;Non vérifié
+54512;Tanconville;54;eau potable;164086;2024;95,0;;;;non calculable;;;;;105;Non vérifié
+54513;Tantonville;54;eau potable : UGE 123/DSP;164010;2024;72,2;2,5;6,4;66,3;conforme;357390;16344;68;145;663;Non vérifié
+54515;Thélod;54;eau potable : principal;164145;2024;68,4;6,6;14,3;67,9;conforme;649009;6105;67;198;251;Non vérifié
+54516;They-sous-Vaudemont;54;eau potable;164089;2023;100,0;;31,6;71,3;conforme;;;;;17;Anomalie
+54517;Thézey-Saint-Martin;54;eau potable;164178;2024;76,3;2,5;7,9;66,6;conforme;193450;3407;47;128;200;Non vérifié
+54518;Thiaucourt-Regniéville;54;eau potable;164163;2024;71,2;1,8;4,5;65,9;conforme;149139;23777;58;156;1120;Non vérifié
+54519;Thiaville-sur-Meurthe;54;eau potable;163977;2024;61,8;4,7;7,6;66,5;non conforme;16297;16297;75;273;597;Non vérifié
+54520;Thiébauménil;54;eau potable;164013;2024;81,3;1,7;7,3;66,5;conforme;59264;7084;51;85;383;Non vérifié
+54521;Thil;54;eau potable : DSP_2027/THIL;163978;2024;58,1;12,9;17,9;68,6;non conforme;60269;60269;82;263;2016;Non vérifié
+54523;Thuilley-aux-Groseilles;54;eau potable;163982;2024;95,3;1,1;23,0;69,6;conforme;923;923;6;17;447;Non vérifié
+54524;Thumeréville;54;eau potable;164174;2024;59,9;6,0;9,0;66,8;non conforme;827820;4374;116;254;103;Non vérifié
+54525;Tiercelet;54;eau potable : VEOLIA/DSP 2024_2035 -  UGE ?;333374;2024;61,5;15,0;23,9;69,8;non conforme;1544114;29806;129;306;633;Non vérifié
+54526;Tomblaine;54;eau potable;164159;2024;86,1;6,3;39,0;72,8;conforme;2235114;77300;23;61;9117;Non vérifié
+54527;Tonnoy;54;eau potable : regie assistée CCPSV;312554;2024;60,3;11,8;17,9;68,6;non conforme;1073046;25385;108;324;645;Non vérifié
+54528;Toul;54;eau potable : UGE 778_RPS;318114;2024;79,4;4,9;19,1;68,8;conforme;375996;220587;38;95;15768;Non vérifié
+54529;Tramont-Émy;54;eau potable;163987;2024;82,5;2,0;9,5;66,9;conforme;730;730;71;77;28;Non vérifié
+54530;Tramont-Lassus;54;eau potable;164002;2024;98,1;0,1;3,4;65,7;conforme;110;110;3;11;89;Non vérifié
+54532;Tremblecourt;54;eau potable : UGE 768_Régie principale;272734;2024;83,5;2,1;10,4;67,1;conforme;125223;1708;30;86;155;Non vérifié
+54533;Trieux;54;eau potable;63318;2024;79,2;4,3;16,2;68,2;conforme;667038;32672;33;97;2753;Non vérifié
+54534;Trondes;54;eau potable : UGE 768_Régie principale;272734;2024;83,5;2,1;10,4;67,1;conforme;125223;5753;30;86;522;Non vérifié
+54535;Tronville;54;eau potable;63320;2024;75,3;7,0;21,2;69,2;conforme;1651526;3727;51;139;200;Non vérifié
+54536;Tucquegnieux;54;eau potable;63318;2024;79,2;4,3;16,2;68,2;conforme;667038;28970;33;97;2441;Non vérifié
+54537;Ugny;54;eau potable : VEOLIA/DSP 2024_2035 -  UGE ?;333374;2024;61,5;15,0;23,9;69,8;non conforme;1544114;32443;129;306;689;Non vérifié
+54538;Uruffe;54;eau potable;163965;2024;84,7;2,2;12,0;67,4;conforme;4312;4312;32;67;365;Non vérifié
+54539;Vacqueville;54;eau potable;163986;2024;88,7;1,7;13,4;67,7;conforme;2420;2420;29;57;230;Non vérifié
+54540;Val-et-Châtillon;54;eau potable;163958;2024;69,5;2,3;5,3;66,1;conforme;8395;8395;42;159;552;Non vérifié
+54541;Valhey;54;eau potable;164165;2024;73,4;2,4;6,5;66,3;conforme;104559;4220;73;146;158;Non vérifié
+54542;Valleroy;54;eau potable : Régie ( + HOMECOURT au 1-1-2020);164139;2024;78,0;3,9;13,8;67,8;conforme;210678;28210;33;106;2375;Non vérifié
+54543;Vallois;54;eau potable : distribution;164177;2024;71,0;2,1;5,0;66,0;conforme;162766;2849;64;152;121;Non vérifié
+54544;Vandelainville;54;eau potable;163959;2024;87,4;0,8;5,8;66,2;conforme;663;148;3;51;144;Non vérifié
+54545;Vandeléville;54;eau potable;186302;2021;96,5;1,3;37,4;72,5;conforme;1376;1376;18;60;209;Sans anomalie apparente
+54546;Vandières;54;eau potable;163961;2024;81,8;3,8;17,2;68,4;conforme;8738;8738;26;81;934;Non vérifié
+54547;Vandoeuvre-lès-Nancy;54;eau potable;164159;2024;86,1;6,3;39,0;72,8;conforme;2235114;253867;23;61;29942;Non vérifié
+54549;Varangéville;54;eau potable : regie assistée CCPSV;312554;2024;60,3;11,8;17,9;68,6;non conforme;1073046;139163;108;324;3536;Non vérifié
+54550;Vathiménil;54;eau potable;163957;2024;70,3;2,7;6,4;66,3;conforme;6012;6012;52;153;317;Non vérifié
+54551;Vaucourt;54;eau potable;164013;2024;81,3;1,7;7,3;66,5;conforme;59264;1184;51;85;64;Non vérifié
+54553;Vaudeville;54;eau potable : UGE 123/DSP;164010;2024;72,2;2,5;6,4;66,3;conforme;357390;4092;68;145;166;Non vérifié
+54554;Vaudigny;54;eau potable : UGE 123/DSP;164010;2024;72,2;2,5;6,4;66,3;conforme;357390;2071;68;145;84;Non vérifié
+54555;Vaxainville;54;eau potable;164169;2024;79,3;1,9;7,3;66,5;conforme;18239;1976;65;96;83;Non vérifié
+54556;Vého;54;eau potable;163974;2024;52,6;7,7;8,5;66,7;non conforme;99183;11243;275;351;112;Non vérifié
+54557;Bois-de-Haye;54;eau potable : UGE 768_Régie principale;272734;2024;83,5;2,1;10,4;67,1;conforme;125223;25479;30;86;2312;Non vérifié
+54558;Velaine-sous-Amance;54;eau potable : principal;164128;2024;67,2;6,3;12,9;67,6;non conforme;336417;11608;111;301;286;Non vérifié
+54559;Velle-sur-Moselle;54;eau potable;163973;2024;97,4;0,2;9,0;66,8;conforme;322;322;3;8;327;Non vérifié
+54561;Vennezey;54;eau potable : distribution;164177;2024;71,0;2,1;5,0;66,0;conforme;162766;871;64;152;37;Non vérifié
+54562;Verdenal;54;eau potable;163974;2024;52,6;7,7;8,5;66,7;non conforme;99183;12046;275;351;120;Non vérifié
+54563;Vézelise;54;eau potable : UGE 123/DSP;164010;2024;72,2;2,5;6,4;66,3;conforme;357390;33180;68;145;1346;Non vérifié
+54564;Viéville-en-Haye;54;eau potable;164163;2024;71,2;1,8;4,5;65,9;conforme;149139;2993;58;156;141;Non vérifié
+54565;Vigneulles;54;eau potable : achat à CCPSV (ressource : Flavigny de la CCMoselle Madon);308214;2024;92,1;0,9;10,8;67,2;conforme;1426;1426;17;30;235;Non vérifié
+54566;Vilcey-sur-Trey;54;eau potable;164163;2024;71,2;1,8;4,5;65,9;conforme;149139;3078;58;156;145;Non vérifié
+54567;Villacourt;54;eau potable : distribution;164177;2024;71,0;2,1;5,0;66,0;conforme;162766;8475;64;152;360;Non vérifié
+54568;Ville-au-Montois;54;eau potable : Régie principale;164173;2024;75,3;3,0;9,1;66,8;conforme;418290;4087;46;131;242;Non vérifié
+54569;Ville-au-Val;54;eau potable;164178;2024;76,3;2,5;7,9;66,6;conforme;193450;3015;47;128;177;Non vérifié
+54570;Villecey-sur-Mad;54;eau potable;164022;2023;85,3;3,8;22,2;69,4;conforme;2164;2164;17;63;344;Sans anomalie apparente
+54571;Ville-en-Vermois;54;eau potable : regie assistée CCPSV;312554;2024;60,3;11,8;17,9;68,6;non conforme;1073046;23574;108;324;599;Non vérifié
+54572;Ville-Houdlémont;54;eau potable;186310;2024;75,5;4,6;14,1;67,8;conforme;11535;11535;41;119;772;Non vérifié
+54573;Villers-en-Haye;54;eau potable;164025;2024;88,2;0,9;6,5;66,3;conforme;854;854;15;50;157;Non vérifié
+54574;Villers-la-Chèvre;54;eau potable : Régie principale;164173;2024;75,3;3,0;9,1;66,8;conforme;418290;9796;46;131;580;Non vérifié
+54575;Villers-la-Montagne;54;eau potable : VEOLIA/DSP 2024_2035 -  UGE ?;333374;2024;61,5;15,0;23,9;69,8;non conforme;1544114;73926;129;306;1570;Non vérifié
+54576;Villers-le-Rond;54;eau potable : Régie principale;164173;2024;75,3;3,0;9,1;66,8;conforme;418290;1841;46;131;109;Non vérifié
+54577;Villers-lès-Moivrons;54;eau potable;164178;2024;76,3;2,5;7,9;66,6;conforme;193450;2453;47;128;144;Non vérifié
+54578;Villers-lès-Nancy;54;eau potable;164159;2024;86,1;6,3;39,0;72,8;conforme;2235114;124789;23;61;14718;Non vérifié
+54579;Villers-sous-Prény;54;eau potable;164031;2024;35,8;22,0;12,3;67,5;non conforme;21681;21681;179;654;332;Non vérifié
+54580;Villerupt;54;eau potable : Villerupt;164033;2024;77,5;7,7;26,5;70,3;conforme;142689;142689;39;106;10102;Non vérifié
+54581;Ville-sur-Yron;54;eau potable;164174;2024;59,9;6,0;9,0;66,8;non conforme;827820;12443;116;254;293;Non vérifié
+54583;Villey-le-Sec;54;eau potable : UGE 179_DSP_2024 VIlley-le-Sec;164026;2024;80,8;1,6;6,7;66,3;conforme;4795;4795;31;87;419;Non vérifié
+54584;Villey-Saint-Étienne;54;eau potable : UGE 768_Régie principale;272734;2024;83,5;2,1;10,4;67,1;conforme;125223;11285;30;86;1024;Non vérifié
+54585;Virecourt;54;eau potable;164164;2022;89,7;1,8;15,8;68,2;conforme;11169;2656;15;42;487;Sans anomalie apparente
+54586;Viterne;54;eau potable : principal;164145;2024;68,4;6,6;14,3;67,9;conforme;649009;17951;67;198;738;Non vérifié
+54587;Vitrey;54;eau potable : UGE 123/DSP;164010;2024;72,2;2,5;6,4;66,3;conforme;357390;4758;68;145;193;Non vérifié
+54588;Vitrimont;54;eau potable;164180;2024;63,7;4,7;8,3;66,7;non conforme;79445;13229;94;243;384;Non vérifié
+54589;Vittonville;54;eau potable;164181;2024;64,6;9,7;17,6;68,5;non conforme;9559;2731;59;201;126;Non vérifié
+54590;Viviers-sur-Chiers;54;eau potable : Régie principale;164173;2024;75,3;3,0;9,1;66,8;conforme;418290;11096;46;131;657;Non vérifié
+54591;Voinémont;54;eau potable : UGE 123/DSP;164010;2024;72,2;2,5;6,4;66,3;conforme;357390;8233;68;145;334;Non vérifié
+54592;Vroncourt;54;eau potable : UGE 123/DSP;164010;2024;72,2;2,5;6,4;66,3;conforme;357390;6730;68;145;273;Non vérifié
+54593;Waville;54;eau potable;164174;2024;59,9;6,0;9,0;66,8;non conforme;827820;18388;116;254;433;Non vérifié
+54594;Xammes;54;eau potable;164163;2024;71,2;1,8;4,5;65,9;conforme;149139;3694;58;156;174;Non vérifié
+54595;Xermaménil;54;eau potable;164006;2023;83,7;2,5;12,7;67,5;conforme;4015;4015;20;72;539;Sans anomalie apparente
+54596;Xeuilley;54;eau potable : principal;164145;2024;68,4;6,6;14,3;67,9;conforme;649009;23327;67;198;959;Non vérifié
+54597;Xirocourt;54;eau potable : UGE 123/DSP;164010;2024;72,2;2,5;6,4;66,3;conforme;357390;11241;68;145;456;Non vérifié
+54598;Xivry-Circourt;54;eau potable;164171;2024;68,3;2,5;5,3;66,1;conforme;29200;11064;114;209;266;Non vérifié
+54599;Xonville;54;eau potable;164174;2024;59,9;6,0;9,0;66,8;non conforme;827820;4586;116;254;108;Non vérifié
+54600;Xousse;54;eau potable;164013;2024;81,3;1,7;7,3;66,5;conforme;59264;2127;51;85;115;Non vérifié
+54601;Xures;54;eau potable;164165;2024;73,4;2,4;6,5;66,3;conforme;104559;2430;73;146;91;Non vérifié
+54602;Han-devant-Pierrepont;54;eau potable;164011;2024;58,1;5,4;7,5;66,5;non conforme;86645;4685;89;264;144;Non vérifié

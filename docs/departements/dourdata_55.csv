@@ -1,0 +1,475 @@
+﻿# DourData — eau perdue par les réseaux d'eau potable (indicateurs SISPEA)
+# Périmètre : Département 55
+# Source : SISPEA — Système d'Information des Services Publics d'Eau et d'Assainissement, via data.gouv.fr / services.eaufrance.fr
+# Licence : Licence Ouverte 2.0 (Etalab)
+# Millésime des données : 2023–2024 (année la plus récente disponible par commune)
+# Date de génération de l'export : 2026-07-05
+# Méthodologie et code : https://github.com/btaverne/dourdata
+# Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
+# Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
+55001;Abainville;55;eau potable;115964;2024;66,2;3,1;6,2;66,2;non conforme;43054;7895;77;190;280;Non vérifié
+55004;Aincreville;55;eau potable;115961;2024;56,4;7,7;10,0;67,0;non conforme;182682;6267;215;281;80;Non vérifié
+55005;Amanty;55;eau potable;115768;2024;100,0;0,0;2,2;65,4;conforme;0;0;0;0;36;Non vérifié
+55007;Ambly-sur-Meuse;55;eau potable;115769;2024;19,1;38,1;9,0;66,8;non conforme;48256;48256;540;1545;245;Non vérifié
+55008;Amel-sur-l'Étang;55;eau potable : Régie principale;164173;2024;75,3;3,0;9,1;66,8;conforme;418290;2584;46;131;153;Non vérifié
+55009;Ancemont;55;eau potable;115970;2024;87,0;0,7;5,0;66,0;conforme;109354;4843;25;52;527;Non vérifié
+55010;Ancerville;55;eau potable;115771;2024;56,4;7,8;10,1;67,0;non conforme;76869;76869;82;282;2569;Non vérifié
+55011;Andernay;55;eau potable;115977;2024;70,1;4,4;10,3;67,1;conforme;248593;8341;97;156;236;Non vérifié
+55012;Apremont-la-Forêt;55;eau potable;115970;2024;87,0;0,7;5,0;66,0;conforme;109354;3924;25;52;427;Non vérifié
+55013;Arrancy-sur-Crusnes;55;eau potable;164011;2024;58,1;5,4;7,5;66,5;non conforme;86645;15162;89;264;466;Non vérifié
+55014;Aubréville;55;eau potable;115985;2024;78,6;1,0;3,6;65,7;conforme;18980;1315;10;101;375;Non vérifié
+55015;Aulnois-en-Perthois;55;eau potable;116002;2024;73,6;2,0;5,6;66,1;conforme;151548;7722;46;131;462;Non vérifié
+55017;Autrécourt-sur-Aire;55;eau potable;115954;2024;78,1;1,9;6,7;66,3;conforme;214153;2993;75;107;109;Non vérifié
+55018;Autréville-Saint-Lambert;55;eau potable;115989;2024;75,4;2,7;8,3;66,7;conforme;5036;799;66;118;33;Non vérifié
+55021;Avillers-Sainte-Croix;55;eau potable;115970;2024;87,0;0,7;5,0;66,0;conforme;109354;735;25;52;80;Non vérifié
+55022;Avioth;55;eau potable;115774;2024;82,5;2,1;10,1;67,0;conforme;3855;3855;89;76;119;Non vérifié
+55023;Avocourt;55;eau potable;115961;2024;56,4;7,7;10,0;67,0;non conforme;182682;9400;215;281;120;Non vérifié
+55024;Azannes-et-Soumazannes;55;eau potable;116005;2024;80,1;1,3;5,4;66,1;conforme;94900;2869;47;88;168;Non vérifié
+55026;Badonvilliers-Gérauvilliers;55;eau potable;115778;2024;94,8;0,3;5,6;66,1;conforme;958;958;21;20;126;Non vérifié
+55027;Bannoncourt;55;eau potable;115974;2024;53,6;4,5;5,2;66,0;non conforme;37876;7751;134;319;159;Non vérifié
+55028;Bantheville;55;eau potable;115961;2024;56,4;7,7;10,0;67,0;non conforme;182682;7990;215;281;102;Non vérifié
+55029;Bar-le-Duc;55;eau potable;208844;2024;60,0;7,9;11,9;67,4;non conforme;1169259;522881;98;245;14607;Non vérifié
+55031;Baudonvilliers;55;eau potable;116002;2024;73,6;2,0;5,6;66,1;conforme;151548;6301;46;131;377;Non vérifié
+55032;Baudrémont;55;eau potable;115779;2024;92,4;0,7;8,5;66,7;conforme;345;345;21;30;44;Non vérifié
+55034;Bazeilles-sur-Othain;55;eau potable;115780;2024;86,1;9,5;58,7;76,7;conforme;5895;5895;151;59;107;Non vérifié
+55035;Bazincourt-sur-Saulx;55;eau potable;116002;2024;73,6;2,0;5,6;66,1;conforme;151548;2357;46;131;141;Non vérifié
+55036;Beauclair;55;eau potable;115951;2024;100,0;0,0;7,6;66,5;conforme;0;0;0;0;86;Non vérifié
+55037;Beaufort-en-Argonne;55;eau potable;115951;2024;100,0;0,0;7,6;66,5;conforme;0;0;0;0;127;Non vérifié
+55038;Beaulieu-en-Argonne;55;eau potable;115954;2024;78,1;1,9;6,7;66,3;conforme;214153;1016;75;107;37;Non vérifié
+55040;Beausite;55;eau potable;115954;2024;78,1;1,9;6,7;66,3;conforme;214153;7058;75;107;257;Non vérifié
+55041;Behonne;55;eau potable;208844;2024;60,0;7,9;11,9;67,4;non conforme;1169259;21299;98;245;595;Non vérifié
+55042;Belleray;55;eau potable;115781;2024;73,3;4,0;11,1;67,2;conforme;177156;8424;50;132;464;Non vérifié
+55043;Belleville-sur-Meuse;55;eau potable;115781;2024;73,3;4,0;11,1;67,2;conforme;177156;54701;50;132;3013;Non vérifié
+55044;Belrain;55;eau potable;115954;2024;78,1;1,9;6,7;66,3;conforme;214153;1126;75;107;41;Non vérifié
+55045;Belrupt-en-Verdunois;55;eau potable;115783;2024;87,7;4,1;29,4;70,9;conforme;10386;10386;53;166;536;Non vérifié
+55046;Beney-en-Woëvre;55;eau potable;164163;2024;71,2;1,8;4,5;65,9;conforme;149139;2887;58;156;136;Non vérifié
+55047;Béthelainville;55;eau potable;115982;2024;66,7;2,9;5,9;66,2;conforme;52491;5675;97;222;160;Non vérifié
+55048;Béthincourt;55;eau potable;115961;2024;56,4;7,7;10,0;67,0;non conforme;182682;3917;215;281;50;Non vérifié
+55049;Beurey-sur-Saulx;55;eau potable;208844;2024;60,0;7,9;11,9;67,4;non conforme;1169259;14748;98;245;412;Non vérifié
+55051;Biencourt-sur-Orge;55;eau potable;115986;2024;84,5;4,4;24,2;69,8;conforme;12944;7879;193;66;112;Non vérifié
+55053;Billy-sous-Mangiennes;55;eau potable;116005;2024;80,1;1,3;5,4;66,1;conforme;94900;5959;47;88;349;Non vérifié
+55054;Bislée;55;eau potable;115965;2024;73,6;1,7;4,7;65,9;conforme;12894;1379;60;131;63;Non vérifié
+55057;Boinville-en-Woëvre;55;eau potable;115970;2024;87,0;0,7;5,0;66,0;conforme;109354;689;25;52;75;Non vérifié
+55058;Boncourt-sur-Meuse;55;eau potable;115785;2024;88,2;2,4;18,0;68,6;conforme;4266;4266;37;87;313;Non vérifié
+55059;Bonnet;55;eau potable;115786;2024;95,0;0,1;6,6;66,3;conforme;288;288;4;5;177;Non vérifié
+55060;Bonzée;55;eau potable;115970;2024;87,0;0,7;5,0;66,0;conforme;109354;3364;25;52;366;Non vérifié
+55061;Le Bouchon-sur-Saulx;55;eau potable;116002;2024;73,6;2,0;5,6;66,1;conforme;151548;3794;46;131;227;Non vérifié
+55062;Bouconville-sur-Madt;55;eau potable;115970;2024;87,0;0,7;5,0;66,0;conforme;109354;910;25;52;99;Non vérifié
+55063;Bouligny;55;eau potable : Régie principale;164173;2024;75,3;3,0;9,1;66,8;conforme;418290;42341;46;131;2507;Non vérifié
+55064;Bouquemont;55;eau potable;115970;2024;87,0;0,7;5,0;66,0;conforme;109354;1094;25;52;119;Non vérifié
+55065;Boureuilles;55;eau potable;115787;2024;90,1;0,6;5,6;66,1;conforme;1312;1312;30;39;118;Non vérifié
+55066;Bovée-sur-Barboure;55;eau potable :;115963;2024;89,7;1,0;8,3;66,7;conforme;39194;1584;33;75;133;Non vérifié
+55067;Boviolles;55;eau potable;115789;2024;22,9;80,6;24,0;69,8;non conforme;55896;55896;1547;1226;99;Non vérifié
+55068;Brabant-en-Argonne;55;eau potable;115954;2024;78,1;1,9;6,7;66,3;conforme;214153;2691;75;107;98;Non vérifié
+55069;Brabant-le-Roi;55;eau potable;115977;2024;70,1;4,4;10,3;67,1;conforme;248593;7810;97;156;221;Non vérifié
+55070;Brabant-sur-Meuse;55;eau potable;115961;2024;56,4;7,7;10,0;67,0;non conforme;182682;9244;215;281;118;Non vérifié
+55071;Brandeville;55;eau potable;115790;2024;70,9;11,8;28,8;70,8;conforme;22396;22396;372;395;165;Non vérifié
+55072;Braquis;55;eau potable;115970;2024;87,0;0,7;5,0;66,0;conforme;109354;965;25;52;105;Non vérifié
+55073;Bras-sur-Meuse;55;eau potable;115781;2024;73,3;4,0;11,1;67,2;conforme;177156;12000;50;132;661;Non vérifié
+55075;Brauvilliers;55;eau potable;116002;2024;73,6;2,0;5,6;66,1;conforme;151548;2658;46;131;159;Non vérifié
+55076;Bréhéville;55;eau potable;115791;2023;67,0;;;;non calculable;;;;;187;Anomalie
+55077;Breux;55;eau potable;115792;2024;92,0;;;;non calculable;;;;;258;Non vérifié
+55078;Brieulles-sur-Meuse;55;eau potable;115961;2024;56,4;7,7;10,0;67,0;non conforme;182682;24911;215;281;318;Non vérifié
+55079;Brillon-en-Barrois;55;eau potable;116002;2024;73,6;2,0;5,6;66,1;conforme;151548;11767;46;131;704;Non vérifié
+55080;Brixey-aux-Chanoines;55;eau potable;115794;2024;100,0;0,0;9,8;67,0;conforme;0;0;0;0;77;Non vérifié
+55081;Brizeaux;55;eau potable;115954;2024;78,1;1,9;6,7;66,3;conforme;214153;1730;75;107;63;Non vérifié
+55083;Brouennes;55;eau potable;115795;2024;100,0;0,0;10,1;67,0;conforme;0;0;0;0;149;Non vérifié
+55085;Broussey-Raulecourt;55;eau potable;115970;2024;87,0;0,7;5,0;66,0;conforme;109354;2601;25;52;283;Non vérifié
+55087;Bure;55;eau potable;131777;2024;89,8;0,7;6,3;66,3;conforme;11743;1720;51;40;93;Non vérifié
+55088;Burey-en-Vaux;55;eau potable;115997;2024;70,4;2,4;5,7;66,1;conforme;8891;4085;73;153;153;Non vérifié
+55089;Burey-la-Côte;55;eau potable;115797;2024;100,0;0,0;38,5;72,7;conforme;0;0;0;0;86;Non vérifié
+55093;Buxières-sous-les-Côtes;55;eau potable;115970;2024;87,0;0,7;5,0;66,0;conforme;109354;2426;25;52;264;Non vérifié
+55094;Buzy-Darmont;55;eau potable;115970;2024;87,0;0,7;5,0;66,0;conforme;109354;4779;25;52;520;Non vérifié
+55096;Chaillon;55;eau potable;115799;2024;92,6;0,4;5,0;66,0;conforme;499;499;12;29;110;Non vérifié
+55097;Chalaines;55;eau potable;115800;2024;76,0;2,4;7,7;66,5;conforme;3548;3548;33;114;299;Non vérifié
+55099;Champneuville;55;eau potable;115781;2024;73,3;4,0;11,1;67,2;conforme;177156;2088;50;132;115;Non vérifié
+55100;Champougny;55;eau potable;115801;2024;100,0;0,0;7,6;66,5;conforme;0;0;0;0;92;Non vérifié
+55101;Chardogne;55;eau potable;208844;2024;60,0;7,9;11,9;67,4;non conforme;1169259;10918;98;245;305;Non vérifié
+55102;Charny-sur-Meuse;55;eau potable;115781;2024;73,3;4,0;11,1;67,2;conforme;177156;9477;50;132;522;Non vérifié
+55104;Chassey-Beaupré;55;eau potable;115964;2024;66,2;3,1;6,2;66,2;non conforme;43054;2650;77;190;94;Non vérifié
+55106;Chattancourt;55;eau potable;115781;2024;73,3;4,0;11,1;67,2;conforme;177156;3177;50;132;175;Non vérifié
+55107;Chaumont-devant-Damvillers;55;eau potable;116005;2024;80,1;1,3;5,4;66,1;conforme;94900;785;47;88;46;Non vérifié
+55108;Chaumont-sur-Aire;55;eau potable;115954;2024;78,1;1,9;6,7;66,3;conforme;214153;3268;75;107;119;Non vérifié
+55109;Chauvency-le-Château;55;eau potable;115803;2024;29,4;17,4;7,2;66,4;non conforme;24959;24959;305;879;224;Non vérifié
+55110;Chauvency-Saint-Hubert;55;eau potable;115804;2024;70,7;9,1;22,0;69,4;conforme;10396;10396;136;151;209;Non vérifié
+55111;Chauvoncourt;55;eau potable;115976;2024;92,1;82,3;958,8;85,0;conforme;4206;2145;14;31;430;Non vérifié
+55113;Cheppy;55;eau potable;115805;2024;84,4;0,9;5,0;66,0;conforme;2300;2300;40;65;156;Non vérifié
+55114;Chonville-Malaumont;55;eau potable;115806;2023;86,9;0,8;5,5;66,1;conforme;1460;1460;19;53;207;Sans anomalie apparente
+55115;Cierges-sous-Montfaucon;55;eau potable;115975;2024;50,3;5,4;5,5;66,1;non conforme;102492;6200;361;359;47;Non vérifié
+55116;Le Claon;55;eau potable;115807;2024;84,4;0,6;3,3;65,7;conforme;504;504;30;67;46;Non vérifié
+55117;Clermont-en-Argonne;55;eau potable;115954;2024;78,1;1,9;6,7;66,3;conforme;214153;38612;75;107;1406;Non vérifié
+55118;Cléry-le-Grand;55;eau potable;115961;2024;56,4;7,7;10,0;67,0;non conforme;182682;6894;215;281;88;Non vérifié
+55119;Cléry-le-Petit;55;eau potable;115961;2024;56,4;7,7;10,0;67,0;non conforme;182682;14336;215;281;183;Non vérifié
+55120;Combles-en-Barrois;55;eau potable;208844;2024;60,0;7,9;11,9;67,4;non conforme;1169259;27563;98;245;770;Non vérifié
+55121;Combres-sous-les-Côtes;55;eau potable;115970;2024;87,0;0,7;5,0;66,0;conforme;109354;993;25;52;108;Non vérifié
+55122;Commercy;55;eau potable;115811;2024;97,6;0,6;23,5;69,7;conforme;7750;7750;4;9;5350;Non vérifié
+55123;Les Hauts-de-Chée;55;eau potable;115954;2024;78,1;1,9;6,7;66,3;conforme;214153;19032;75;107;693;Non vérifié
+55124;Consenvoye;55;eau potable;115812;2024;100,0;0,0;11,7;67,3;conforme;0;0;0;0;281;Non vérifié
+55125;Contrisson;55;eau potable;115977;2024;70,1;4,4;10,3;67,1;conforme;248593;27001;97;156;764;Non vérifié
+55127;Courcelles-en-Barrois;55;eau potable;115813;2024;77,1;2,1;7,0;66,4;conforme;973;973;54;109;49;Non vérifié
+55128;Courcelles-sur-Aire;55;eau potable;115954;2024;78,1;1,9;6,7;66,3;conforme;214153;1181;75;107;43;Non vérifié
+55129;Courouvre;55;eau potable;115954;2024;78,1;1,9;6,7;66,3;conforme;214153;1208;75;107;44;Non vérifié
+55132;Cousances-les-Forges;55;eau potable;116002;2024;73,6;2,0;5,6;66,1;conforme;151548;27094;46;131;1621;Non vérifié
+55133;Couvertpuis;55;eau potable;116002;2024;73,6;2,0;5,6;66,1;conforme;151548;1320;46;131;79;Non vérifié
+55134;Couvonges;55;eau potable;115977;2024;70,1;4,4;10,3;67,1;conforme;248593;5513;97;156;156;Non vérifié
+55137;Cuisy;55;eau potable;115975;2024;50,3;5,4;5,5;66,1;non conforme;102492;6332;361;359;48;Non vérifié
+55138;Culey;55;eau potable;208844;2024;60,0;7,9;11,9;67,4;non conforme;1169259;4367;98;245;122;Non vérifié
+55140;Cunel;55;eau potable;115975;2024;50,3;5,4;5,5;66,1;non conforme;102492;3034;361;359;23;Non vérifié
+55142;Dainville-Bertheléville;55;eau potable;115815;2024;97,4;0,1;2,6;65,5;conforme;248;248;6;14;120;Non vérifié
+55143;Damloup;55;eau potable;115960;2024;88,0;1,0;7,5;66,5;conforme;3077;1256;27;49;129;Non vérifié
+55144;Dammarie-sur-Saulx;55;eau potable;116002;2024;73,6;2,0;5,6;66,1;conforme;151548;6418;46;131;384;Non vérifié
+55145;Damvillers;55;eau potable;116005;2024;80,1;1,3;5,4;66,1;conforme;94900;10467;47;88;613;Non vérifié
+55146;Dannevoux;55;eau potable;115961;2024;56,4;7,7;10,0;67,0;non conforme;182682;14727;215;281;188;Non vérifié
+55148;Delouze-Rosières;55;eau potable;115964;2024;66,2;3,1;6,2;66,2;non conforme;43054;3412;77;190;121;Non vérifié
+55149;Delut;55;eau potable;116005;2024;80,1;1,3;5,4;66,1;conforme;94900;2271;47;88;133;Non vérifié
+55150;Demange-Baudignécourt;55;eau potable;215383;2024;86,4;2,5;15,7;68,1;conforme;6716;6716;36;58;508;Non vérifié
+55153;Dieppe-sous-Douaumont;55;eau potable;115960;2024;88,0;1,0;7,5;66,5;conforme;3077;1821;27;49;187;Non vérifié
+55154;Dieue-sur-Meuse;55;eau potable;115993;2023;35,7;27,4;15,2;68,0;non conforme;120012;99745;190;657;1442;Sans anomalie apparente
+55155;Dombasle-en-Argonne;55;eau potable;115817;2024;83,0;3,1;15,2;68,0;conforme;5997;5997;45;74;365;Non vérifié
+55156;Dombras;55;eau potable;116005;2024;80,1;1,3;5,4;66,1;conforme;94900;2390;47;88;140;Non vérifié
+55157;Dommartin-la-Montagne;55;eau potable;115818;2024;82,1;7,3;33,3;71,7;conforme;2398;2398;129;80;51;Non vérifié
+55158;Dommary-Baroncourt;55;eau potable : Régie principale;164173;2024;75,3;3,0;9,1;66,8;conforme;418290;12717;46;131;753;Non vérifié
+55160;Dompierre-aux-Bois;55;eau potable;115970;2024;87,0;0,7;5,0;66,0;conforme;109354;358;25;52;39;Non vérifié
+55162;Domremy-la-Canne;55;eau potable : Régie principale;164173;2024;75,3;3,0;9,1;66,8;conforme;418290;456;46;131;27;Non vérifié
+55163;Doncourt-aux-Templiers;55;eau potable;115970;2024;87,0;0,7;5,0;66,0;conforme;109354;680;25;52;74;Non vérifié
+55166;Dugny-sur-Meuse;55;eau potable;115821;2024;41,5;14,1;10,0;67,0;non conforme;68448;68448;151;516;1240;Non vérifié
+55167;Dun-sur-Meuse;55;eau potable;115822;2024;52,7;9,1;10,1;67,0;non conforme;34211;34211;160;330;585;Non vérifié
+55168;Duzey;55;eau potable;116005;2024;80,1;1,3;5,4;66,1;conforme;94900;785;47;88;46;Non vérifié
+55169;Écouviez;55;eau potable;115823;2024;98,6;0,1;9,5;66,9;conforme;209;209;1;4;543;Non vérifié
+55170;Écurey-en-Verdunois;55;eau potable;115824;2024;39,7;12,4;8,2;66,6;non conforme;16113;16113;384;555;115;Non vérifié
+55171;Eix;55;eau potable;115970;2024;87,0;0,7;5,0;66,0;conforme;109354;2481;25;52;270;Non vérifié
+55172;Les Éparges;55;eau potable;115970;2024;87,0;0,7;5,0;66,0;conforme;109354;551;25;52;60;Non vérifié
+55173;Épiez-sur-Meuse;55;eau potable;115997;2024;70,4;2,4;5,7;66,1;conforme;8891;988;73;153;37;Non vérifié
+55174;Épinonville;55;eau potable;115975;2024;50,3;5,4;5,5;66,1;non conforme;102492;8574;361;359;65;Non vérifié
+55175;Érize-la-Brûlée;55;eau potable;115954;2024;78,1;1,9;6,7;66,3;conforme;214153;4806;75;107;175;Non vérifié
+55177;Érize-la-Petite;55;eau potable;115954;2024;78,1;1,9;6,7;66,3;conforme;214153;1236;75;107;45;Non vérifié
+55178;Érize-Saint-Dizier;55;eau potable;115954;2024;78,1;1,9;6,7;66,3;conforme;214153;5273;75;107;192;Non vérifié
+55179;Erneville-aux-Bois;55;eau potable :;115963;2024;89,7;1,0;8,3;66,7;conforme;39194;1810;33;75;152;Non vérifié
+55180;Esnes-en-Argonne;55;eau potable;115828;2024;96,6;;;;non calculable;;;;;135;Non vérifié
+55181;Étain;55;eau potable : Régie principale;164173;2024;75,3;3,0;9,1;66,8;conforme;418290;57000;46;131;3375;Non vérifié
+55182;Éton;55;eau potable : Régie principale;164173;2024;75,3;3,0;9,1;66,8;conforme;418290;3293;46;131;195;Non vérifié
+55183;Étraye;55;eau potable;116005;2024;80,1;1,3;5,4;66,1;conforme;94900;683;47;88;40;Non vérifié
+55184;Euville;55;eau potable;115831;2024;92,0;0,8;9,3;66,9;conforme;7592;7592;13;31;1630;Non vérifié
+55185;Èvres;55;eau potable;115954;2024;78,1;1,9;6,7;66,3;conforme;214153;2472;75;107;90;Non vérifié
+55186;Fains-Véel;55;eau potable;208844;2024;60,0;7,9;11,9;67,4;non conforme;1169259;74457;98;245;2080;Non vérifié
+55188;Flassigny;55;eau potable;115832;2024;81,9;1,0;4,5;65,9;conforme;402;402;26;81;43;Non vérifié
+55191;Foameix-Ornel;55;eau potable;115962;2024;81,7;1,1;5,0;66,0;conforme;12350;5316;64;79;229;Non vérifié
+55192;Fontaines-Saint-Clair;55;eau potable;115833;2024;89,1;0,9;7,4;66,5;conforme;690;690;54;44;35;Non vérifié
+55193;Forges-sur-Meuse;55;eau potable;115961;2024;56,4;7,7;10,0;67,0;non conforme;182682;9479;215;281;121;Non vérifié
+55194;Foucaucourt-sur-Thabas;55;eau potable;115954;2024;78,1;1,9;6,7;66,3;conforme;214153;1565;75;107;57;Non vérifié
+55195;Fouchères-aux-Bois;55;eau potable;116002;2024;73,6;2,0;5,6;66,1;conforme;151548;2307;46;131;138;Non vérifié
+55196;Frémeréville-sous-les-Côtes;55;eau potable;115970;2024;87,0;0,7;5,0;66,0;conforme;109354;1186;25;52;129;Non vérifié
+55197;Fresnes-au-Mont;55;eau potable;115835;2024;88,2;0,5;4,1;65,8;conforme;728;728;12;45;162;Non vérifié
+55198;Fresnes-en-Woëvre;55;eau potable;115970;2024;87,0;0,7;5,0;66,0;conforme;109354;6139;25;52;668;Non vérifié
+55199;Froidos;55;eau potable;115836;2024;40,2;9,6;6,5;66,3;non conforme;11458;11458;324;540;97;Non vérifié
+55200;Fromeréville-les-Vallons;55;eau potable;115982;2024;66,7;2,9;5,9;66,2;conforme;52491;7590;97;222;214;Non vérifié
+55202;Futeau;55;eau potable;115985;2024;78,6;1,0;3,6;65,7;conforme;18980;508;10;101;145;Non vérifié
+55204;Génicourt-sur-Meuse;55;eau potable;115993;2023;35,7;27,4;15,2;68,0;non conforme;120012;20267;190;657;293;Sans anomalie apparente
+55206;Gercourt-et-Drillancourt;55;eau potable;115961;2024;56,4;7,7;10,0;67,0;non conforme;182682;9792;215;281;125;Non vérifié
+55208;Gesnes-en-Argonne;55;eau potable;115975;2024;50,3;5,4;5,5;66,1;non conforme;102492;6991;361;359;53;Non vérifié
+55210;Gimécourt;55;eau potable;115996;2024;95,6;0,5;10,3;67,1;conforme;1969;263;19;18;37;Non vérifié
+55211;Gincrey;55;eau potable;115962;2024;81,7;1,1;5,0;66,0;conforme;12350;1416;64;79;61;Non vérifié
+55212;Girauvoisin;55;eau potable;115970;2024;87,0;0,7;5,0;66,0;conforme;109354;643;25;52;70;Non vérifié
+55214;Givrauval;55;eau potable;208844;2024;60,0;7,9;11,9;67,4;non conforme;1169259;10274;98;245;287;Non vérifié
+55215;Gondrecourt-le-Château;55;eau potable;115968;2024;85,2;0,6;3,7;65,7;conforme;834;800;2;59;1032;Non vérifié
+55216;Gouraincourt;55;eau potable : Régie principale;164173;2024;75,3;3,0;9,1;66,8;conforme;418290;1233;46;131;73;Non vérifié
+55217;Goussaincourt;55;eau potable;115839;2024;92,7;0,6;7,5;66,5;conforme;425;425;10;29;117;Non vérifié
+55218;Gremilly;55;eau potable;115840;2024;48,9;0,9;0,9;65,2;non conforme;762;762;52;379;40;Non vérifié
+55219;Grimaucourt-en-Woëvre;55;eau potable;115966;2024;85,6;0,0;0,0;65,0;conforme;0;0;0;0;94;Non vérifié
+55220;Grimaucourt-près-Sampigny;55;eau potable :;115963;2024;89,7;1,0;8,3;66,7;conforme;39194;1131;33;75;95;Non vérifié
+55221;Guerpont;55;eau potable;208844;2024;60,0;7,9;11,9;67,4;non conforme;1169259;8269;98;245;231;Non vérifié
+55222;Gussainville;55;eau potable;115970;2024;87,0;0,7;5,0;66,0;conforme;109354;322;25;52;35;Non vérifié
+55224;Haironville;55;eau potable;116002;2024;73,6;2,0;5,6;66,1;conforme;151548;9460;46;131;566;Non vérifié
+55225;Halles-sous-les-Côtes;55;eau potable;115951;2024;100,0;0,0;7,6;66,5;conforme;0;0;0;0;138;Non vérifié
+55226;Han-lès-Juvigny;55;eau potable;115842;2024;84,4;3,1;16,6;68,3;conforme;3395;3395;74;69;126;Non vérifié
+55228;Hannonville-sous-les-Côtes;55;eau potable;115843;2024;77,0;4,7;15,6;68,1;conforme;8578;8578;42;110;556;Non vérifié
+55229;Han-sur-Meuse;55;eau potable;115965;2024;73,6;1,7;4,7;65,9;conforme;12894;5911;60;131;270;Non vérifié
+55232;Harville;55;eau potable;115970;2024;87,0;0,7;5,0;66,0;conforme;109354;1029;25;52;112;Non vérifié
+55236;Haudainville;55;eau potable;115781;2024;73,3;4,0;11,1;67,2;conforme;177156;16884;50;132;930;Non vérifié
+55237;Haudiomont;55;eau potable;115845;2024;92,5;0,4;4,9;66,0;conforme;914;914;11;30;232;Non vérifié
+55241;Heippes;55;eau potable;115954;2024;78,1;1,9;6,7;66,3;conforme;214153;2362;75;107;86;Non vérifié
+55242;Hennemont;55;eau potable;115970;2024;87,0;0,7;5,0;66,0;conforme;109354;1020;25;52;111;Non vérifié
+55243;Herbeuville;55;eau potable;115970;2024;87,0;0,7;5,0;66,0;conforme;109354;1663;25;52;181;Non vérifié
+55244;Herméville-en-Woëvre;55;eau potable;115966;2024;85,6;0,0;0,0;65,0;conforme;0;0;0;0;218;Non vérifié
+55245;Heudicourt-sous-les-Côtes;55;eau potable;115970;2024;87,0;0,7;5,0;66,0;conforme;109354;1581;25;52;172;Non vérifié
+55246;Hévilliers;55;eau potable;116002;2024;73,6;2,0;5,6;66,1;conforme;151548;2641;46;131;158;Non vérifié
+55247;Horville-en-Ornois;55;eau potable;115968;2024;85,2;0,6;3,7;65,7;conforme;834;35;2;59;45;Non vérifié
+55248;Houdelaincourt;55;eau potable;116002;2024;73,6;2,0;5,6;66,1;conforme;151548;4697;46;131;281;Non vérifié
+55251;Ippécourt;55;eau potable;115954;2024;78,1;1,9;6,7;66,3;conforme;214153;2417;75;107;88;Non vérifié
+55252;Iré-le-Sec;55;eau potable;115849;2024;95,0;0,2;7,3;66,5;conforme;146;146;3;10;144;Non vérifié
+55253;Les Islettes;55;eau potable;115985;2024;78,6;1,0;3,6;65,7;conforme;18980;2437;10;101;695;Non vérifié
+55254;Les Trois-Domaines;55;eau potable;115954;2024;78,1;1,9;6,7;66,3;conforme;214153;3268;75;107;119;Non vérifié
+55255;Jametz;55;eau potable;116005;2024;80,1;1,3;5,4;66,1;conforme;94900;4081;47;88;239;Non vérifié
+55256;Jonville-en-Woëvre;55;eau potable;115970;2024;87,0;0,7;5,0;66,0;conforme;109354;1314;25;52;143;Non vérifié
+55257;Jouy-en-Argonne;55;eau potable;115850;2024;44,3;5,9;4,7;65,9;non conforme;6374;6374;286;460;61;Non vérifié
+55258;Geville;55;eau potable;115970;2024;87,0;0,7;5,0;66,0;conforme;109354;5873;25;52;639;Non vérifié
+55260;Julvécourt;55;eau potable;115954;2024;78,1;1,9;6,7;66,3;conforme;214153;1703;75;107;62;Non vérifié
+55261;Juvigny-en-Perthois;55;eau potable;116002;2024;73,6;2,0;5,6;66,1;conforme;151548;2156;46;131;129;Non vérifié
+55262;Juvigny-sur-Loison;55;eau potable;115851;2024;82,7;3,3;15,9;68,2;conforme;2409;2409;28;76;239;Non vérifié
+55263;Koeur-la-Grande;55;eau potable;115852;2024;80,0;1,1;4,5;65,9;conforme;2236;2236;37;90;164;Non vérifié
+55264;Koeur-la-Petite;55;eau potable;115965;2024;73,6;1,7;4,7;65,9;conforme;12894;5604;60;131;256;Non vérifié
+55265;Labeuville;55;eau potable;164174;2024;59,9;6,0;9,0;66,8;non conforme;827820;5903;116;254;139;Non vérifié
+55266;Lachalade;55;eau potable;115853;2024;71,3;1,4;3,5;65,7;conforme;1671;1671;80;145;57;Non vérifié
+55267;Lachaussée;55;eau potable;164174;2024;59,9;6,0;9,0;66,8;non conforme;827820;11509;116;254;271;Non vérifié
+55268;Lacroix-sur-Meuse;55;eau potable;115854;2024;80,3;1,7;6,8;66,4;conforme;6019;6019;26;91;638;Non vérifié
+55269;Lahaymeix;55;eau potable;115855;2024;93,7;3,1;45,5;74,1;conforme;837;837;30;25;76;Non vérifié
+55270;Lahayville;55;eau potable;164163;2024;71,2;1,8;4,5;65,9;conforme;149139;573;58;156;27;Non vérifié
+55271;Laheycourt;55;eau potable;115977;2024;70,1;4,4;10,3;67,1;conforme;248593;12334;97;156;349;Non vérifié
+55272;Laimont;55;eau potable;115977;2024;70,1;4,4;10,3;67,1;conforme;248593;14949;97;156;423;Non vérifié
+55274;Lamorville;55;eau potable;116089;2024;100,0;0,0;3,7;65,7;conforme;0;0;0;0;269;Non vérifié
+55275;Lamouilly;55;eau potable;115856;2024;87,0;1,1;7,5;66,5;conforme;795;795;26;53;84;Non vérifié
+55276;Landrecourt-Lempire;55;eau potable;115857;2024;30,1;15,8;6,8;66,4;non conforme;27624;27624;335;850;226;Non vérifié
+55278;Laneuville-au-Rupt;55;eau potable;115858;2024;94,1;0,1;;;non calculable;;;;;192;Non vérifié
+55279;Laneuville-sur-Meuse;55;eau potable;115973;2024;58,1;5,9;8,1;66,6;non conforme;21535;17008;108;264;432;Non vérifié
+55280;Lanhères;55;eau potable : Régie principale;164173;2024;75,3;3,0;9,1;66,8;conforme;418290;912;46;131;54;Non vérifié
+55281;Latour-en-Woëvre;55;eau potable;164174;2024;59,9;6,0;9,0;66,8;non conforme;827820;3567;116;254;84;Non vérifié
+55282;Lavallée;55;eau potable;115859;2024;100,0;0,0;7,0;66,4;conforme;0;0;0;0;83;Non vérifié
+55284;Lavincourt;55;eau potable;116002;2024;73,6;2,0;5,6;66,1;conforme;151548;1170;46;131;70;Non vérifié
+55285;Lavoye;55;eau potable;115954;2024;78,1;1,9;6,7;66,3;conforme;214153;3900;75;107;142;Non vérifié
+55286;Lemmes;55;eau potable;115994;2024;100,0;0,0;8,5;66,7;conforme;0;0;0;0;240;Non vérifié
+55288;Lérouville;55;eau potable;115860;2024;93,5;1,9;27,6;70,5;conforme;7095;7095;14;33;1358;Non vérifié
+55289;Levoncourt;55;eau potable;115861;2024;99,5;0,2;37,5;72,5;conforme;93;93;5;2;52;Non vérifié
+55290;Lignières-sur-Aire;55;eau potable;115862;2024;90,8;0,3;3,0;65,6;conforme;253;253;14;37;49;Non vérifié
+55291;Ligny-en-Barrois;55;eau potable;208844;2024;60,0;7,9;11,9;67,4;non conforme;1169259;131624;98;245;3677;Non vérifié
+55292;Liny-devant-Dun;55;eau potable;115961;2024;56,4;7,7;10,0;67,0;non conforme;182682;14492;215;281;185;Non vérifié
+55295;Lisle-en-Barrois;55;eau potable;115977;2024;70,1;4,4;10,3;67,1;conforme;248593;954;97;156;27;Non vérifié
+55296;Isle-en-Rigault;55;eau potable;116002;2024;73,6;2,0;5,6;66,1;conforme;151548;7689;46;131;460;Non vérifié
+55297;Lissey;55;eau potable;116005;2024;80,1;1,3;5,4;66,1;conforme;94900;1725;47;88;101;Non vérifié
+55298;Loisey;55;eau potable;208844;2024;60,0;7,9;11,9;67,4;non conforme;1169259;9665;98;245;270;Non vérifié
+55299;Loison;55;eau potable;116005;2024;80,1;1,3;5,4;66,1;conforme;94900;1981;47;88;116;Non vérifié
+55300;Longeaux;55;eau potable;208844;2024;60,0;7,9;11,9;67,4;non conforme;1169259;7839;98;245;219;Non vérifié
+55301;Longchamps-sur-Aire;55;eau potable;115954;2024;78,1;1,9;6,7;66,3;conforme;214153;3323;75;107;121;Non vérifié
+55302;Longeville-en-Barrois;55;eau potable;208844;2024;60,0;7,9;11,9;67,4;non conforme;1169259;38696;98;245;1081;Non vérifié
+55303;Loupmont;55;eau potable;115970;2024;87,0;0,7;5,0;66,0;conforme;109354;689;25;52;75;Non vérifié
+55304;Louppy-le-Château;55;eau potable;115977;2024;70,1;4,4;10,3;67,1;conforme;248593;5478;97;156;155;Non vérifié
+55306;Louppy-sur-Loison;55;eau potable;115865;2024;91,8;0,3;3,6;65,7;conforme;552;552;12;31;124;Non vérifié
+55310;Luzy-Saint-Martin;55;eau potable;115973;2024;58,1;5,9;8,1;66,6;non conforme;21535;4527;108;264;115;Non vérifié
+55311;Maizeray;55;eau potable;115970;2024;87,0;0,7;5,0;66,0;conforme;109354;239;25;52;26;Non vérifié
+55312;Maizey;55;eau potable;115974;2024;53,6;4,5;5,2;66,0;non conforme;37876;7556;134;319;155;Non vérifié
+55313;Malancourt;55;eau potable;115961;2024;56,4;7,7;10,0;67,0;non conforme;182682;5092;215;281;65;Non vérifié
+55315;Mandres-en-Barrois;55;eau potable;131777;2024;89,8;0,7;6,3;66,3;conforme;11743;2034;51;40;110;Non vérifié
+55316;Mangiennes;55;eau potable;116005;2024;80,1;1,3;5,4;66,1;conforme;94900;6779;47;88;397;Non vérifié
+55317;Manheulles;55;eau potable;115970;2024;87,0;0,7;5,0;66,0;conforme;109354;1434;25;52;156;Non vérifié
+55320;Marchéville-en-Woëvre;55;eau potable;115970;2024;87,0;0,7;5,0;66,0;conforme;109354;634;25;52;69;Non vérifié
+55321;Marre;55;eau potable;115781;2024;73,3;4,0;11,1;67,2;conforme;177156;3322;50;132;183;Non vérifié
+55322;Marson-sur-Barboure;55;eau potable :;115963;2024;89,7;1,0;8,3;66,7;conforme;39194;703;33;75;59;Non vérifié
+55323;Martincourt-sur-Meuse;55;eau potable;115867;2024;82,2;1,1;5,0;66,0;conforme;1465;1465;61;81;66;Non vérifié
+55324;Marville;55;eau potable : Régie principale;164173;2024;75,3;3,0;9,1;66,8;conforme;418290;8816;46;131;522;Non vérifié
+55325;Maucourt-sur-Orne;55;eau potable;115962;2024;81,7;1,1;5,0;66,0;conforme;12350;1184;64;79;51;Non vérifié
+55326;Maulan;55;eau potable;116002;2024;73,6;2,0;5,6;66,1;conforme;151548;1788;46;131;107;Non vérifié
+55327;Mauvages;55;eau potable;115868;2024;87,0;1,7;11,5;67,3;conforme;1582;1582;18;54;236;Non vérifié
+55328;Maxey-sur-Vaise;55;eau potable;115869;2024;68,0;5,5;11,6;67,3;conforme;6625;6625;65;172;279;Non vérifié
+55329;Mécrin;55;eau potable;115870;2024;37,3;8,4;5,0;66,0;non conforme;13582;13582;203;616;183;Non vérifié
+55330;Méligny-le-Grand;55;eau potable :;115963;2024;89,7;1,0;8,3;66,7;conforme;39194;1048;33;75;88;Non vérifié
+55331;Méligny-le-Petit;55;eau potable :;115963;2024;89,7;1,0;8,3;66,7;conforme;39194;869;33;75;73;Non vérifié
+55332;Menaucourt;55;eau potable;208844;2024;60,0;7,9;11,9;67,4;non conforme;1169259;7911;98;245;221;Non vérifié
+55334;Ménil-la-Horgne;55;eau potable :;115963;2024;89,7;1,0;8,3;66,7;conforme;39194;2144;33;75;180;Non vérifié
+55335;Ménil-sur-Saulx;55;eau potable;116002;2024;73,6;2,0;5,6;66,1;conforme;151548;4062;46;131;243;Non vérifié
+55336;Merles-sur-Loison;55;eau potable;116005;2024;80,1;1,3;5,4;66,1;conforme;94900;2459;47;88;144;Non vérifié
+55339;Mogeville;55;eau potable;115962;2024;81,7;1,1;5,0;66,0;conforme;12350;1695;64;79;73;Non vérifié
+55340;Mognéville;55;eau potable;115977;2024;70,1;4,4;10,3;67,1;conforme;248593;12652;97;156;358;Non vérifié
+55341;Moirey-Flabas-Crépion;55;eau potable;116005;2024;80,1;1,3;5,4;66,1;conforme;94900;1861;47;88;109;Non vérifié
+55343;Montblainville;55;eau potable;115872;2024;99,0;0,1;5,1;66,0;conforme;154;154;7;7;58;Non vérifié
+55344;Montbras;55;eau potable;115999;2024;91,0;0,7;7,3;66,5;conforme;759;104;14;35;20;Non vérifié
+55345;Mont-devant-Sassey;55;eau potable;115961;2024;56,4;7,7;10,0;67,0;non conforme;182682;8069;215;281;103;Non vérifié
+55346;Montfaucon-d'Argonne;55;eau potable;115975;2024;50,3;5,4;5,5;66,1;non conforme;102492;34428;361;359;261;Non vérifié
+55347;Les Monthairons;55;eau potable;115970;2024;87,0;0,7;5,0;66,0;conforme;109354;2978;25;52;324;Non vérifié
+55348;Montiers-sur-Saulx;55;eau potable;115874;2024;76,9;2,4;7,9;66,6;conforme;9767;9767;73;111;365;Non vérifié
+55349;Montigny-devant-Sassey;55;eau potable;115875;2024;100,0;0,0;2,7;65,5;conforme;0;0;0;0;132;Non vérifié
+55350;Montigny-lès-Vaucouleurs;55;eau potable;115876;2024;93,0;0,3;3,8;65,8;conforme;984;984;36;29;74;Non vérifié
+55351;Montmédy;55;eau potable;115877;2024;84,2;3,2;16,9;68,4;conforme;28511;28511;38;73;2052;Non vérifié
+55352;Montplonne;55;eau potable;116002;2024;73,6;2,0;5,6;66,1;conforme;151548;2190;46;131;131;Non vérifié
+55353;Montsec;55;eau potable;115970;2024;87,0;0,7;5,0;66,0;conforme;109354;689;25;52;75;Non vérifié
+55355;Montzéville;55;eau potable;115781;2024;73,3;4,0;11,1;67,2;conforme;177156;2760;50;132;152;Non vérifié
+55356;Moranville;55;eau potable;115966;2024;85,6;0,0;0,0;65,0;conforme;0;0;0;0;103;Non vérifié
+55357;Morgemoulin;55;eau potable;115962;2024;81,7;1,1;5,0;66,0;conforme;12350;2530;64;79;109;Non vérifié
+55358;Chanteraine;55;eau potable;208844;2024;60,0;7,9;11,9;67,4;non conforme;1169259;6694;98;245;187;Non vérifié
+55359;Morley;55;eau potable;116002;2024;73,6;2,0;5,6;66,1;conforme;151548;3410;46;131;204;Non vérifié
+55362;Moulins-Saint-Hubert;55;eau potable;115989;2024;75,4;2,7;8,3;66,7;conforme;5036;4237;66;118;175;Non vérifié
+55363;Moulotte;55;eau potable;115970;2024;87,0;0,7;5,0;66,0;conforme;109354;800;25;52;87;Non vérifié
+55364;Mouzay;55;eau potable;115881;2024;54,9;4,3;5,2;66,0;non conforme;21330;21330;90;301;651;Non vérifié
+55366;Val-d'Ornain;55;eau potable;208844;2024;60,0;7,9;11,9;67,4;non conforme;1169259;34078;98;245;952;Non vérifié
+55367;Muzeray;55;eau potable;116005;2024;80,1;1,3;5,4;66,1;conforme;94900;2271;47;88;133;Non vérifié
+55368;Naives-en-Blois;55;eau potable :;115963;2024;89,7;1,0;8,3;66,7;conforme;39194;1846;33;75;155;Non vérifié
+55369;Naives-Rosières;55;eau potable;208844;2024;60,0;7,9;11,9;67,4;non conforme;1169259;28959;98;245;809;Non vérifié
+55370;Naix-aux-Forges;55;eau potable;208844;2024;60,0;7,9;11,9;67,4;non conforme;1169259;6408;98;245;179;Non vérifié
+55371;Nançois-le-Grand;55;eau potable :;115963;2024;89,7;1,0;8,3;66,7;conforme;39194;834;33;75;70;Non vérifié
+55372;Nançois-sur-Ornain;55;eau potable;208844;2024;60,0;7,9;11,9;67,4;non conforme;1169259;12851;98;245;359;Non vérifié
+55373;Nant-le-Grand;55;eau potable;208844;2024;60,0;7,9;11,9;67,4;non conforme;1169259;2935;98;245;82;Non vérifié
+55374;Nant-le-Petit;55;eau potable;116002;2024;73,6;2,0;5,6;66,1;conforme;151548;1354;46;131;81;Non vérifié
+55375;Nantillois;55;eau potable;115975;2024;50,3;5,4;5,5;66,1;non conforme;102492;8310;361;359;63;Non vérifié
+55376;Nantois;55;eau potable;208844;2024;60,0;7,9;11,9;67,4;non conforme;1169259;2613;98;245;73;Non vérifié
+55377;Nepvant;55;eau potable;115886;2024;68,3;3,0;6,5;66,3;conforme;3865;3865;122;168;87;Non vérifié
+55378;Nettancourt;55;eau potable;115977;2024;70,1;4,4;10,3;67,1;conforme;248593;8553;97;156;242;Non vérifié
+55379;Le Neufour;55;eau potable;115985;2024;78,6;1,0;3,6;65,7;conforme;18980;182;10;101;52;Non vérifié
+55380;Neuville-en-Verdunois;55;eau potable;115954;2024;78,1;1,9;6,7;66,3;conforme;214153;1318;75;107;48;Non vérifié
+55381;Neuville-lès-Vaucouleurs;55;eau potable;115997;2024;70,4;2,4;5,7;66,1;conforme;8891;3818;73;153;143;Non vérifié
+55382;Neuville-sur-Ornain;55;eau potable;115977;2024;70,1;4,4;10,3;67,1;conforme;248593;12900;97;156;365;Non vérifié
+55383;Neuvilly-en-Argonne;55;eau potable;115887;2024;86,9;1,3;8,7;66,7;conforme;2847;2847;34;54;232;Non vérifié
+55384;Nicey-sur-Aire;55;eau potable;115954;2024;78,1;1,9;6,7;66,3;conforme;214153;3570;75;107;130;Non vérifié
+55385;Nixéville-Blercourt;55;eau potable;115982;2024;66,7;2,9;5,9;66,2;conforme;52491;17946;97;222;506;Non vérifié
+55386;Nonsard-Lamarche;55;eau potable;115970;2024;87,0;0,7;5,0;66,0;conforme;109354;2013;25;52;219;Non vérifié
+55387;Nouillonpont;55;eau potable;116005;2024;80,1;1,3;5,4;66,1;conforme;94900;4149;47;88;243;Non vérifié
+55388;Noyers-Auzécourt;55;eau potable;115977;2024;70,1;4,4;10,3;67,1;conforme;248593;9648;97;156;273;Non vérifié
+55389;Nubécourt;55;eau potable;115954;2024;78,1;1,9;6,7;66,3;conforme;214153;6948;75;107;253;Non vérifié
+55391;Olizy-sur-Chiers;55;eau potable;115888;2024;85,6;1,2;7,1;66,4;conforme;2851;2851;42;118;188;Non vérifié
+55394;Ornes;55;eau potable;115962;2024;81,7;1,1;5,0;66,0;conforme;12350;209;64;79;9;Non vérifié
+55395;Osches;55;eau potable;115994;2024;100,0;0,0;8,5;66,7;conforme;0;0;0;0;60;Non vérifié
+55396;Ourches-sur-Meuse;55;eau potable;115889;2024;65,1;5,1;9,5;66,9;non conforme;5771;5771;73;197;218;Non vérifié
+55397;Pagny-la-Blanche-Côte;55;eau potable;115890;2024;94,4;0,4;7,4;66,5;conforme;495;495;6;20;226;Non vérifié
+55398;Pagny-sur-Meuse;55;eau potable;115891;2024;88,0;1,2;8,6;66,7;conforme;8655;8655;23;51;1036;Non vérifié
+55399;Pareid;55;eau potable;115970;2024;87,0;0,7;5,0;66,0;conforme;109354;1011;25;52;110;Non vérifié
+55400;Parfondrupt;55;eau potable;115970;2024;87,0;0,7;5,0;66,0;conforme;109354;368;25;52;40;Non vérifié
+55401;Les Paroches;55;eau potable;115976;2024;92,1;82,3;958,8;85,0;conforme;4206;2060;14;31;413;Non vérifié
+55403;Peuvillers;55;eau potable;116005;2024;80,1;1,3;5,4;66,1;conforme;94900;1024;47;88;60;Non vérifié
+55404;Pierrefitte-sur-Aire;55;eau potable;115954;2024;78,1;1,9;6,7;66,3;conforme;214153;8349;75;107;304;Non vérifié
+55405;Pillon;55;eau potable;116005;2024;80,1;1,3;5,4;66,1;conforme;94900;4286;47;88;251;Non vérifié
+55406;Pintheville;55;eau potable;115970;2024;87,0;0,7;5,0;66,0;conforme;109354;928;25;52;101;Non vérifié
+55407;Pont-sur-Meuse;55;eau potable;115892;2024;90,8;0,8;7,9;66,6;conforme;858;858;18;37;131;Non vérifié
+55408;Pouilly-sur-Meuse;55;eau potable;115893;2024;48,7;6,7;6,4;66,3;non conforme;14820;14820;237;385;171;Non vérifié
+55409;Pretz-en-Argonne;55;eau potable;115954;2024;78,1;1,9;6,7;66,3;conforme;214153;1758;75;107;64;Non vérifié
+55410;Quincy-Landzécourt;55;eau potable;115894;2024;100,0;0,0;19,9;69,0;conforme;0;0;0;0;146;Non vérifié
+55411;Rambluzin-et-Benoite-Vaux;55;eau potable;115954;2024;78,1;1,9;6,7;66,3;conforme;214153;2362;75;107;86;Non vérifié
+55412;Rambucourt;55;eau potable;164163;2024;71,2;1,8;4,5;65,9;conforme;149139;4119;58;156;194;Non vérifié
+55414;Rancourt-sur-Ornain;55;eau potable;115977;2024;70,1;4,4;10,3;67,1;conforme;248593;6361;97;156;180;Non vérifié
+55415;Ranzières;55;eau potable;115970;2024;87,0;0,7;5,0;66,0;conforme;109354;800;25;52;87;Non vérifié
+55420;Récourt-le-Creux;55;eau potable;115898;2024;80,5;2,1;8,5;66,7;conforme;3373;3373;144;90;64;Non vérifié
+55421;Reffroy;55;eau potable :;115963;2024;89,7;1,0;8,3;66,7;conforme;39194;857;33;75;72;Non vérifié
+55422;Regnéville-sur-Meuse;55;eau potable;116006;2024;91,7;2,3;25,2;70,0;conforme;848;848;46;33;50;Non vérifié
+55423;Rembercourt-Sommaisne;55;eau potable;115954;2024;78,1;1,9;6,7;66,3;conforme;214153;8486;75;107;309;Non vérifié
+55424;Remennecourt;55;eau potable;115977;2024;70,1;4,4;10,3;67,1;conforme;248593;1520;97;156;43;Non vérifié
+55425;Remoiville;55;eau potable;115899;2024;95,0;;;;non calculable;;;;;128;Non vérifié
+55426;Resson;55;eau potable;208844;2024;60,0;7,9;11,9;67,4;non conforme;1169259;12923;98;245;361;Non vérifié
+55427;Revigny-sur-Ornain;55;eau potable;115977;2024;70,1;4,4;10,3;67,1;conforme;248593;88319;97;156;2499;Non vérifié
+55428;Réville-aux-Bois;55;eau potable;116005;2024;80,1;1,3;5,4;66,1;conforme;94900;2271;47;88;133;Non vérifié
+55429;Riaville;55;eau potable;115970;2024;87,0;0,7;5,0;66,0;conforme;109354;469;25;52;51;Non vérifié
+55430;Ribeaucourt;55;eau potable;115986;2024;84,5;4,4;24,2;69,8;conforme;12944;5065;193;66;72;Non vérifié
+55431;Richecourt;55;eau potable;164163;2024;71,2;1,8;4,5;65,9;conforme;149139;1210;58;156;57;Non vérifié
+55433;Rigny-la-Salle;55;eau potable;115979;2024;56,1;6,6;8,4;66,7;non conforme;16887;14881;110;287;371;Non vérifié
+55434;Rigny-Saint-Martin;55;eau potable;115979;2024;56,1;6,6;8,4;66,7;non conforme;16887;2006;110;287;50;Non vérifié
+55435;Robert-Espagne;55;eau potable;208844;2024;60,0;7,9;11,9;67,4;non conforme;1169259;27062;98;245;756;Non vérifié
+55436;Les Roises;55;eau potable;116003;2024;75,4;1,9;5,9;66,2;conforme;15403;1882;191;120;27;Non vérifié
+55437;Romagne-sous-les-Côtes;55;eau potable;116005;2024;80,1;1,3;5,4;66,1;conforme;94900;2100;47;88;123;Non vérifié
+55438;Romagne-sous-Montfaucon;55;eau potable;115975;2024;50,3;5,4;5,5;66,1;non conforme;102492;22424;361;359;170;Non vérifié
+55439;Ronvaux;55;eau potable;115970;2024;87,0;0,7;5,0;66,0;conforme;109354;965;25;52;105;Non vérifié
+55442;Raival;55;eau potable;115954;2024;78,1;1,9;6,7;66,3;conforme;214153;6481;75;107;236;Non vérifié
+55443;Rouvres-en-Woëvre;55;eau potable : Régie principale;164173;2024;75,3;3,0;9,1;66,8;conforme;418290;10100;46;131;598;Non vérifié
+55444;Rouvrois-sur-Meuse;55;eau potable;115974;2024;53,6;4,5;5,2;66,0;non conforme;37876;9457;134;319;194;Non vérifié
+55445;Rouvrois-sur-Othain;55;eau potable;116005;2024;80,1;1,3;5,4;66,1;conforme;94900;3398;47;88;199;Non vérifié
+55446;Rumont;55;eau potable;115954;2024;78,1;1,9;6,7;66,3;conforme;214153;2279;75;107;83;Non vérifié
+55447;Rupt-aux-Nonains;55;eau potable;116002;2024;73,6;2,0;5,6;66,1;conforme;151548;6101;46;131;365;Non vérifié
+55448;Rupt-devant-Saint-Mihiel;55;eau potable;115900;2024;92,4;1,0;12,1;67,4;conforme;489;489;34;30;39;Non vérifié
+55450;Rupt-sur-Othain;55;eau potable;115902;2024;85,5;1,1;6,6;66,3;conforme;1317;1317;71;61;51;Non vérifié
+55452;Saint-Amand-sur-Ornain;55;eau potable;208844;2024;60,0;7,9;11,9;67,4;non conforme;1169259;2148;98;245;60;Non vérifié
+55453;Saint-André-en-Barrois;55;eau potable;115954;2024;78,1;1,9;6,7;66,3;conforme;214153;1620;75;107;59;Non vérifié
+55454;Saint-Aubin-sur-Aire;55;eau potable :;115963;2024;89,7;1,0;8,3;66,7;conforme;39194;2120;33;75;178;Non vérifié
+55456;Saint-Germain-sur-Meuse;55;eau potable;115904;2024;100,0;0,0;32,6;71,5;conforme;0;0;0;0;224;Non vérifié
+55457;Saint-Hilaire-en-Woëvre;55;eau potable;115970;2024;87,0;0,7;5,0;66,0;conforme;109354;1645;25;52;179;Non vérifié
+55458;Saint-Jean-lès-Buzy;55;eau potable;115970;2024;87,0;0,7;5,0;66,0;conforme;109354;3382;25;52;368;Non vérifié
+55459;Saint-Joire;55;eau potable;115984;2024;86,0;1,4;8,8;66,8;conforme;6336;1873;22;58;230;Non vérifié
+55460;Saint-Julien-sous-les-Côtes;55;eau potable;115970;2024;87,0;0,7;5,0;66,0;conforme;109354;1268;25;52;138;Non vérifié
+55461;Saint-Laurent-sur-Othain;55;eau potable;116005;2024;80,1;1,3;5,4;66,1;conforme;94900;7427;47;88;435;Non vérifié
+55462;Saint-Maurice-sous-les-Côtes;55;eau potable;115905;2024;76,8;7,5;24,7;69,9;conforme;12510;12510;92;111;371;Non vérifié
+55463;Saint-Mihiel;55;eau potable;115906;2024;79,7;4,7;18,7;68,7;conforme;61535;61535;45;96;3772;Non vérifié
+55464;Saint-Pierrevillers;55;eau potable;164011;2024;58,1;5,4;7,5;66,5;non conforme;86645;4848;89;264;149;Non vérifié
+55465;Saint-Remy-la-Calonne;55;eau potable;115907;2024;100,0;10,0;12,8;67,6;conforme;6242;6242;176;284;97;Non vérifié
+55466;Salmagne;55;eau potable;208844;2024;60,0;7,9;11,9;67,4;non conforme;1169259;10059;98;245;281;Non vérifié
+55467;Sampigny;55;eau potable;115908;2024;93,3;0,9;11,9;67,4;conforme;3446;3446;14;28;692;Non vérifié
+55468;Samogneux;55;eau potable;115781;2024;73,3;4,0;11,1;67,2;conforme;177156;1761;50;132;97;Non vérifié
+55469;Sassey-sur-Meuse;55;eau potable;115961;2024;56,4;7,7;10,0;67,0;non conforme;182682;7285;215;281;93;Non vérifié
+55470;Saudrupt;55;eau potable;116002;2024;73,6;2,0;5,6;66,1;conforme;151548;3176;46;131;190;Non vérifié
+55471;Saulmory-Villefranche;55;eau potable;115951;2024;100,0;0,0;7,6;66,5;conforme;0;0;0;0;82;Non vérifié
+55472;Saulvaux;55;eau potable :;115963;2024;89,7;1,0;8,3;66,7;conforme;39194;1322;33;75;111;Non vérifié
+55473;Saulx-lès-Champlon;55;eau potable;115910;2024;93,4;0,5;7,6;66,5;conforme;1413;1413;33;24;116;Non vérifié
+55474;Sauvigny;55;eau potable;115911;2024;70,6;3,5;8,3;66,7;conforme;6388;6388;76;154;229;Non vérifié
+55475;Sauvoy;55;eau potable :;115963;2024;89,7;1,0;8,3;66,7;conforme;39194;846;33;75;71;Non vérifié
+55476;Savonnières-devant-Bar;55;eau potable;208844;2024;60,0;7,9;11,9;67,4;non conforme;1169259;15393;98;245;430;Non vérifié
+55477;Savonnières-en-Perthois;55;eau potable;116002;2024;73,6;2,0;5,6;66,1;conforme;151548;6652;46;131;398;Non vérifié
+55479;Seigneulles;55;eau potable;115954;2024;78,1;1,9;6,7;66,3;conforme;214153;4202;75;107;153;Non vérifié
+55481;Senon;55;eau potable : Régie principale;164173;2024;75,3;3,0;9,1;66,8;conforme;418290;5067;46;131;300;Non vérifié
+55484;Septsarges;55;eau potable;115975;2024;50,3;5,4;5,5;66,1;non conforme;102492;6200;361;359;47;Non vérifié
+55485;Sepvigny;55;eau potable;115913;2024;89,1;1,7;13,7;67,7;conforme;664;664;23;45;80;Non vérifié
+55487;Seuzey;55;eau potable;115914;2024;78,2;1,8;6,4;66,3;conforme;1150;1150;38;103;83;Non vérifié
+55488;Silmont;55;eau potable;208844;2024;60,0;7,9;11,9;67,4;non conforme;1169259;5047;98;245;141;Non vérifié
+55489;Sivry-la-Perche;55;eau potable;115982;2024;66,7;2,9;5,9;66,2;conforme;52491;9895;97;222;279;Non vérifié
+55490;Sivry-sur-Meuse;55;eau potable;115961;2024;56,4;7,7;10,0;67,0;non conforme;182682;26713;215;281;341;Non vérifié
+55492;Sommedieue;55;eau potable;115915;2024;28,7;17,2;6,9;66,4;non conforme;117022;117022;340;907;944;Non vérifié
+55493;Sommeilles;55;eau potable;115977;2024;70,1;4,4;10,3;67,1;conforme;248593;6397;97;156;181;Non vérifié
+55494;Sommelonne;55;eau potable;116002;2024;73,6;2,0;5,6;66,1;conforme;151548;6803;46;131;407;Non vérifié
+55495;Sorbey;55;eau potable;116005;2024;80,1;1,3;5,4;66,1;conforme;94900;3876;47;88;227;Non vérifié
+55496;Sorcy-Saint-Martin;55;eau potable;116009;2024;64,3;6,5;11,7;67,3;non conforme;25006;25006;65;203;1046;Non vérifié
+55497;Les Souhesmes-Rampont;55;eau potable;115982;2024;66,7;2,9;5,9;66,2;conforme;52491;11385;97;222;321;Non vérifié
+55498;Souilly;55;eau potable;115954;2024;78,1;1,9;6,7;66,3;conforme;214153;11699;75;107;426;Non vérifié
+55500;Spincourt;55;eau potable;116005;2024;80,1;1,3;5,4;66,1;conforme;94900;14052;47;88;823;Non vérifié
+55501;Stainville;55;eau potable;116002;2024;73,6;2,0;5,6;66,1;conforme;151548;6234;46;131;373;Non vérifié
+55502;Stenay;55;eau potable;115916;2024;84,5;3,1;17,1;68,4;conforme;45237;45237;52;110;2403;Non vérifié
+55503;Taillancourt;55;eau potable;115999;2024;91,0;0,7;7,3;66,5;conforme;759;655;14;35;126;Non vérifié
+55504;Tannois;55;eau potable;208844;2024;60,0;7,9;11,9;67,4;non conforme;1169259;13853;98;245;387;Non vérifié
+55505;Thierville-sur-Meuse;55;eau potable;115781;2024;73,3;4,0;11,1;67,2;conforme;177156;57588;50;132;3172;Non vérifié
+55507;Thillot;55;eau potable;115970;2024;87,0;0,7;5,0;66,0;conforme;109354;1866;25;52;203;Non vérifié
+55508;Thonne-la-Long;55;eau potable;115920;2024;73,0;5,7;15,2;68,0;conforme;14459;14459;109;329;362;Non vérifié
+55510;Thonne-les-Près;55;eau potable;115922;2024;100,0;0,0;4,3;65,9;conforme;0;0;0;0;125;Non vérifié
+55511;Thonnelle;55;eau potable;115923;2024;35,0;3,5;1,9;65,4;non conforme;7282;7282;171;674;117;Non vérifié
+55512;Tilly-sur-Meuse;55;eau potable;115970;2024;87,0;0,7;5,0;66,0;conforme;109354;2500;25;52;272;Non vérifié
+55514;Trémont-sur-Saulx;55;eau potable;208844;2024;60,0;7,9;11,9;67,4;non conforme;1169259;19831;98;245;554;Non vérifié
+55515;Trésauvaux;55;eau potable;115970;2024;87,0;0,7;5,0;66,0;conforme;109354;653;25;52;71;Non vérifié
+55516;Tréveray;55;eau potable;115984;2024;86,0;1,4;8,8;66,8;conforme;6336;4463;22;58;548;Non vérifié
+55517;Seuil-d'Argonne;55;eau potable;115954;2024;78,1;1,9;6,7;66,3;conforme;214153;14555;75;107;530;Non vérifié
+55518;Cousances-lès-Triconville;55;eau potable :;115963;2024;89,7;1,0;8,3;66,7;conforme;39194;1739;33;75;146;Non vérifié
+55519;Tronville-en-Barrois;55;eau potable;208844;2024;60,0;7,9;11,9;67,4;non conforme;1169259;46607;98;245;1302;Non vérifié
+55520;Troussey;55;eau potable;115926;2024;89,0;1,0;7,9;66,6;conforme;2446;2446;14;46;467;Non vérifié
+55521;Troyon;55;eau potable;115970;2024;87,0;0,7;5,0;66,0;conforme;109354;2114;25;52;230;Non vérifié
+55522;Ugny-sur-Meuse;55;eau potable;115927;2024;81,6;1,1;4,7;65,9;conforme;1160;1160;31;85;103;Non vérifié
+55523;Vacherauville;55;eau potable;115781;2024;73,3;4,0;11,1;67,2;conforme;177156;3504;50;132;193;Non vérifié
+55525;Vadelaincourt;55;eau potable;115994;2024;100,0;0,0;8,5;66,7;conforme;0;0;0;0;74;Non vérifié
+55526;Vadonville;55;eau potable;115928;2024;63,2;4,3;7,4;66,5;non conforme;6090;6090;68;213;245;Non vérifié
+55527;Varennes-en-Argonne;55;eau potable;115929;2024;60,7;4,5;6,9;66,4;non conforme;21895;21895;94;239;636;Non vérifié
+55528;Varnéville;55;eau potable;115970;2024;87,0;0,7;5,0;66,0;conforme;109354;450;25;52;49;Non vérifié
+55530;Valbois;55;eau potable;115970;2024;87,0;0,7;5,0;66,0;conforme;109354;882;25;52;96;Non vérifié
+55531;Vassincourt;55;eau potable;115977;2024;70,1;4,4;10,3;67,1;conforme;248593;9684;97;156;274;Non vérifié
+55532;Vaubecourt;55;eau potable;115954;2024;78,1;1,9;6,7;66,3;conforme;214153;8568;75;107;312;Non vérifié
+55533;Vaucouleurs;55;eau potable;115931;2024;46,5;14,8;12,8;67,6;non conforme;105879;105879;152;421;1906;Non vérifié
+55534;Vaudeville-le-Haut;55;eau potable;116003;2024;75,4;1,9;5,9;66,2;conforme;15403;3206;191;120;46;Non vérifié
+55535;Vaudoncourt;55;eau potable;116005;2024;80,1;1,3;5,4;66,1;conforme;94900;1349;47;88;79;Non vérifié
+55537;Douaumont-Vaux;55;eau potable;115781;2024;73,3;4,0;11,1;67,2;conforme;177156;1471;50;132;81;Non vérifié
+55540;Vaux-lès-Palameix;55;eau potable;115934;2024;100,0;0,0;6,6;66,3;conforme;0;0;0;0;57;Non vérifié
+55541;Vavincourt;55;eau potable;115954;2024;78,1;1,9;6,7;66,3;conforme;214153;14665;75;107;534;Non vérifié
+55543;Velaines;55;eau potable;208844;2024;60,0;7,9;11,9;67,4;non conforme;1169259;31286;98;245;874;Non vérifié
+55544;Velosnes;55;eau potable;115935;2024;100,0;0,0;2,7;65,5;conforme;0;0;0;0;140;Non vérifié
+55545;Verdun;55;eau potable : Verdun;115936;2024;91,3;2,0;21,2;69,2;conforme;95156;95156;15;34;16890;Non vérifié
+55546;Verneuil-Grand;55;eau potable;115937;2024;79,4;1,3;4,9;66,0;conforme;1917;1917;27;97;198;Non vérifié
+55547;Verneuil-Petit;55;eau potable;115938;2024;77,3;6,9;23,7;69,7;conforme;5843;5843;142;106;113;Non vérifié
+55549;Véry;55;eau potable;115939;2024;76,9;2,5;8,4;66,7;conforme;4188;4188;145;108;79;Non vérifié
+55551;Vigneulles-lès-Hattonchâtel;55;eau potable;164174;2024;59,9;6,0;9,0;66,8;non conforme;827820;67056;116;254;1579;Non vérifié
+55552;Vigneul-sous-Montmédy;55;eau potable;115940;2024;94,2;1,2;19,2;68,8;conforme;438;438;14;23;86;Non vérifié
+55553;Vignot;55;eau potable;115941;2024;66,6;5,2;10,5;67,1;non conforme;24086;24086;52;181;1269;Non vérifié
+55554;Villécloye;55;eau potable;115942;2024;97,9;0,1;4,1;65,8;conforme;263;263;3;9;241;Non vérifié
+55555;Ville-devant-Belrain;55;eau potable;115996;2024;95,6;0,5;10,3;67,1;conforme;1969;235;19;18;33;Non vérifié
+55556;Ville-devant-Chaumont;55;eau potable;115943;2024;92,2;0,1;1,0;65,2;conforme;73;73;4;39;49;Non vérifié
+55557;Ville-en-Woëvre;55;eau potable;115970;2024;87,0;0,7;5,0;66,0;conforme;109354;1204;25;52;131;Non vérifié
+55559;Villeroy-sur-Méholle;55;eau potable;115944;2024;0,0;1,4;0,0;65,0;non conforme;1533;1533;81;;52;Non vérifié
+55560;Villers-aux-Vents;55;eau potable;115977;2024;70,1;4,4;10,3;67,1;conforme;248593;4418;97;156;125;Non vérifié
+55561;Villers-devant-Dun;55;eau potable;115961;2024;56,4;7,7;10,0;67,0;non conforme;182682;4074;215;281;52;Non vérifié
+55562;Villers-le-Sec;55;eau potable;116002;2024;73,6;2,0;5,6;66,1;conforme;151548;2256;46;131;135;Non vérifié
+55563;Villers-lès-Mangiennes;55;eau potable;116005;2024;80,1;1,3;5,4;66,1;conforme;94900;1229;47;88;72;Non vérifié
+55565;Villers-sous-Pareid;55;eau potable;164174;2024;59,9;6,0;9,0;66,8;non conforme;827820;3270;116;254;77;Non vérifié
+55566;Villers-sur-Meuse;55;eau potable;115970;2024;87,0;0,7;5,0;66,0;conforme;109354;2610;25;52;284;Non vérifié
+55567;Ville-sur-Cousances;55;eau potable;115954;2024;78,1;1,9;6,7;66,3;conforme;214153;3460;75;107;126;Non vérifié
+55568;Ville-sur-Saulx;55;eau potable;116002;2024;73,6;2,0;5,6;66,1;conforme;151548;4613;46;131;276;Non vérifié
+55569;Villotte-devant-Louppy;55;eau potable;115977;2024;70,1;4,4;10,3;67,1;conforme;248593;5761;97;156;163;Non vérifié
+55570;Villotte-sur-Aire;55;eau potable;115996;2024;95,6;0,5;10,3;67,1;conforme;1969;1472;19;18;207;Non vérifié
+55571;Vilosnes-Haraumont;55;eau potable;115945;2024;100,0;0,0;5,9;66,2;conforme;0;0;0;0;260;Non vérifié
+55572;Vittarville;55;eau potable;116005;2024;80,1;1,3;5,4;66,1;conforme;94900;1571;47;88;92;Non vérifié
+55573;Void-Vacon;55;eau potable :;115963;2024;89,7;1,0;8,3;66,7;conforme;39194;19043;33;75;1599;Non vérifié
+55574;Vouthon-Bas;55;eau potable;116003;2024;75,4;1,9;5,9;66,2;conforme;15403;2927;191;120;42;Non vérifié
+55575;Vouthon-Haut;55;eau potable;116003;2024;75,4;1,9;5,9;66,2;conforme;15403;5088;191;120;73;Non vérifié
+55577;Waly;55;eau potable;115954;2024;78,1;1,9;6,7;66,3;conforme;214153;1593;75;107;58;Non vérifié
+55578;Warcq;55;eau potable;115970;2024;87,0;0,7;5,0;66,0;conforme;109354;1663;25;52;181;Non vérifié
+55579;Watronville;55;eau potable;115947;2024;82,5;1,1;5,3;66,1;conforme;763;763;20;76;103;Non vérifié
+55580;Wavrille;55;eau potable;116005;2024;80,1;1,3;5,4;66,1;conforme;94900;803;47;88;47;Non vérifié
+55581;Willeroncourt;55;eau potable :;115963;2024;89,7;1,0;8,3;66,7;conforme;39194;1298;33;75;109;Non vérifié
+55582;Wiseppe;55;eau potable;115951;2024;100,0;0,0;7,6;66,5;conforme;0;0;0;0;96;Non vérifié
+55583;Woël;55;eau potable;115970;2024;87,0;0,7;5,0;66,0;conforme;109354;1921;25;52;209;Non vérifié
+55584;Woimbey;55;eau potable;115949;2024;85,0;0,1;2,5;65,5;conforme;438;438;9;15;133;Non vérifié
+55586;Xivray-et-Marvoisin;55;eau potable;164163;2024;71,2;1,8;4,5;65,9;conforme;149139;2505;58;156;118;Non vérifié

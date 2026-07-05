@@ -1,0 +1,333 @@
+﻿# DourData — eau perdue par les réseaux d'eau potable (indicateurs SISPEA)
+# Périmètre : Département 09
+# Source : SISPEA — Système d'Information des Services Publics d'Eau et d'Assainissement, via data.gouv.fr / services.eaufrance.fr
+# Licence : Licence Ouverte 2.0 (Etalab)
+# Millésime des données : 2020–2024 (année la plus récente disponible par commune)
+# Date de génération de l'export : 2026-07-05
+# Méthodologie et code : https://github.com/btaverne/dourdata
+# Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
+# Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
+09001;Aigues-Juntes;09;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;953;44;131;59;Non vérifié
+09002;Aigues-Vives;09;eau potable;142326;2024;79,3;3,3;12,6;67,5;conforme;160198;21658;95;208;625;Non vérifié
+09003;L' Aiguillon;09;eau potable : 06_UT Pays Cathare;206664;2024;66,2;3,9;7,6;66,5;non conforme;939652;19573;144;328;372;Non vérifié
+09004;Albiès;09;eau potable : 03_UT Haute Ariège;206672;2024;56,9;5,4;7,1;66,4;non conforme;825632;10420;232;277;123;Non vérifié
+09005;Aleu;09;eau potable : 04_UT Couserans;206662;2024;41,1;4,1;2,9;65,6;non conforme;764307;17778;356;606;137;Non vérifié
+09006;Alliat;09;eau potable;311514;2024;71,9;3,0;7,6;66,5;conforme;140160;1486;71;145;57;Non vérifié
+09007;Allières;09;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;1228;44;131;76;Non vérifié
+09008;Alos;09;eau potable : Service des eaux du Couserans;228874;2024;66,1;2,6;5,1;66,0;conforme;1135953;6178;146;210;116;Non vérifié
+09009;Alzen;09;eau potable : 01_UT Pays de Foix;206663;2024;70,3;2,3;5,3;66,1;conforme;651452;6663;70;159;262;Non vérifié
+09011;Antras;09;eau potable : Service des eaux du Couserans;228874;2024;66,1;2,6;5,1;66,0;conforme;1135953;3941;146;210;74;Non vérifié
+09012;Appy;09;eau potable : 03_UT Haute Ariège;206672;2024;56,9;5,4;7,1;66,4;non conforme;825632;2372;232;277;28;Non vérifié
+09013;Arabaux;09;eau potable : 01_UT Pays de Foix;206663;2024;70,3;2,3;5,3;66,1;conforme;651452;2009;70;159;79;Non vérifié
+09014;Argein;09;eau potable : 04_UT Couserans;206662;2024;41,1;4,1;2,9;65,6;non conforme;764307;25304;356;606;195;Non vérifié
+09015;Arignac;09;eau potable : 03_UT Haute Ariège;206672;2024;56,9;5,4;7,1;66,4;non conforme;825632;60910;232;277;719;Non vérifié
+09016;Arnave;09;eau potable : 03_UT Haute Ariège;206672;2024;56,9;5,4;7,1;66,4;non conforme;825632;17621;232;277;208;Non vérifié
+09017;Arrien-en-Bethmale;09;eau potable : Service des eaux du Couserans;228874;2024;66,1;2,6;5,1;66,0;conforme;1135953;7137;146;210;134;Non vérifié
+09018;Arrout;09;eau potable : 04_UT Couserans;206662;2024;41,1;4,1;2,9;65,6;non conforme;764307;11938;356;606;92;Non vérifié
+09019;Artigat;09;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;9274;44;131;574;Non vérifié
+09020;Artigues;09;eau potable : 06_UT Pays Cathare;206664;2024;66,2;3,9;7,6;66,5;non conforme;939652;1578;144;328;30;Non vérifié
+09021;Artix;09;eau potable;142349;2024;77,0;1,0;3,4;65,7;conforme;79417;420;10;108;113;Non vérifié
+09022;Arvigna;09;eau potable : 06_UT Pays Cathare;206664;2024;66,2;3,9;7,6;66,5;non conforme;939652;12522;144;328;238;Non vérifié
+09023;Ascou;09;eau potable : 03_UT Haute Ariège;206672;2024;56,9;5,4;7,1;66,4;non conforme;825632;9573;232;277;113;Non vérifié
+09024;Aston;09;eau potable;142417;2020;51,0;11,4;11,9;67,4;non conforme;20805;20805;289;350;197;Sans anomalie apparente
+09025;Aucazein;09;eau potable : Service des eaux du Couserans;228874;2024;66,1;2,6;5,1;66,0;conforme;1135953;3462;146;210;65;Non vérifié
+09026;Audressein;09;eau potable : 04_UT Couserans;206662;2024;41,1;4,1;2,9;65,6;non conforme;764307;18686;356;606;144;Non vérifié
+09027;Augirein;09;eau potable : 04_UT Couserans;206662;2024;41,1;4,1;2,9;65,6;non conforme;764307;10381;356;606;80;Non vérifié
+09029;Aulus-les-Bains;09;eau potable : 04_UT Couserans;206662;2024;41,1;4,1;2,9;65,6;non conforme;764307;17129;356;606;132;Non vérifié
+09030;Auzat;09;eau potable : 03_UT Haute Ariège;206672;2024;56,9;5,4;7,1;66,4;non conforme;825632;47525;232;277;561;Non vérifié
+09031;Axiat;09;eau potable : 03_UT Haute Ariège;206672;2024;56,9;5,4;7,1;66,4;non conforme;825632;2796;232;277;33;Non vérifié
+09032;Ax-les-Thermes;09;eau potable : 03_UT Haute Ariège;206672;2024;56,9;5,4;7,1;66,4;non conforme;825632;108859;232;277;1285;Non vérifié
+09033;Bagert;09;eau potable : Service des eaux du Couserans;228874;2024;66,1;2,6;5,1;66,0;conforme;1135953;2450;146;210;46;Non vérifié
+09034;Balacet;09;eau potable : 04_UT Couserans;206662;2024;41,1;4,1;2,9;65,6;non conforme;764307;6618;356;606;51;Non vérifié
+09035;Balaguères;09;eau potable : 04_UT Couserans;206662;2024;41,1;4,1;2,9;65,6;non conforme;764307;25434;356;606;196;Non vérifié
+09037;Barjac;09;eau potable : Service des eaux du Couserans;228874;2024;66,1;2,6;5,1;66,0;conforme;1135953;2397;146;210;45;Non vérifié
+09038;La Bastide-de-Besplas;09;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;6188;44;131;383;Non vérifié
+09039;La Bastide-de-Bousignac;09;eau potable : 06_UT Pays Cathare;206664;2024;66,2;3,9;7,6;66,5;non conforme;939652;17416;144;328;331;Non vérifié
+09040;La Bastide-de-Lordat;09;eau potable : 05-UT Basse Ariège;206669;2024;75,1;2,4;7,2;66,4;conforme;620234;8062;67;170;330;Non vérifié
+09041;La Bastide-du-Salat;09;eau potable;89182;2024;73,1;1,5;4,1;65,8;conforme;186150;4162;56;145;203;Non vérifié
+09042;La Bastide-de-Sérou;09;eau potable : 01_UT Pays de Foix;206663;2024;70,3;2,3;5,3;66,1;conforme;651452;24541;70;159;965;Non vérifié
+09043;La Bastide-sur-l'Hers;09;eau potable;142375;2020;62,6;8,5;14,3;67,9;non conforme;47872;27636;112;235;676;Sans anomalie apparente
+09044;Baulou;09;eau potable : 01_UT Pays de Foix;206663;2024;70,3;2,3;5,3;66,1;conforme;651452;4171;70;159;164;Non vérifié
+09045;Bédeilhac-et-Aynat;09;eau potable;311514;2024;71,9;3,0;7,6;66,5;conforme;140160;4640;71;145;178;Non vérifié
+09046;Bédeille;09;eau potable : Service des eaux du Couserans;228874;2024;66,1;2,6;5,1;66,0;conforme;1135953;4314;146;210;81;Non vérifié
+09047;Bélesta;09;eau potable : 06_UT Pays Cathare;206664;2024;66,2;3,9;7,6;66,5;non conforme;939652;57403;144;328;1091;Non vérifié
+09048;Belloc;09;eau potable : 06_UT Pays Cathare;206664;2024;66,2;3,9;7,6;66,5;non conforme;939652;4420;144;328;84;Non vérifié
+09049;Bénac;09;eau potable : 01_UT Pays de Foix;206663;2024;70,3;2,3;5,3;66,1;conforme;651452;4400;70;159;173;Non vérifié
+09050;Benagues;09;eau potable;142349;2024;77,0;1,0;3,4;65,7;conforme;79417;1814;10;108;488;Non vérifié
+09051;Bénaix;09;eau potable : 06_UT Pays Cathare;206664;2024;66,2;3,9;7,6;66,5;non conforme;939652;7997;144;328;152;Non vérifié
+09052;Besset;09;eau potable;142468;2024;64,9;2,7;4,9;66,0;non conforme;11826;5636;95;200;163;Non vérifié
+09053;Bestiac;09;eau potable : 03_UT Haute Ariège;206672;2024;56,9;5,4;7,1;66,4;non conforme;825632;2965;232;277;35;Non vérifié
+09054;Betchat;09;eau potable : Service des eaux du Couserans;228874;2024;66,1;2,6;5,1;66,0;conforme;1135953;18907;146;210;355;Non vérifié
+09055;Bethmale;09;eau potable : Service des eaux du Couserans;228874;2024;66,1;2,6;5,1;66,0;conforme;1135953;5752;146;210;108;Non vérifié
+09056;Bézac;09;eau potable;142349;2024;77,0;1,0;3,4;65,7;conforme;79417;1803;10;108;485;Non vérifié
+09057;Biert;09;eau potable : 04_UT Couserans;206662;2024;41,1;4,1;2,9;65,6;non conforme;764307;39318;356;606;303;Non vérifié
+09058;Bompas;09;eau potable;311514;2024;71,9;3,0;7,6;66,5;conforme;140160;5370;71;145;206;Non vérifié
+09059;Bonac-Irazein;09;eau potable : 04_UT Couserans;206662;2024;41,1;4,1;2,9;65,6;non conforme;764307;16350;356;606;126;Non vérifié
+09060;Bonnac;09;eau potable : 05-UT Basse Ariège;206669;2024;75,1;2,4;7,2;66,4;conforme;620234;19569;67;170;801;Non vérifié
+09061;Les Bordes-sur-Arize;09;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;7432;44;131;460;Non vérifié
+09062;Bordes-Uchentein;09;eau potable : 04_UT Couserans;206662;2024;41,1;4,1;2,9;65,6;non conforme;764307;28418;356;606;219;Non vérifié
+09063;Le Bosc;09;eau potable : 01_UT Pays de Foix;206663;2024;70,3;2,3;5,3;66,1;conforme;651452;2874;70;159;113;Non vérifié
+09064;Bouan;09;eau potable : 03_UT Haute Ariège;206672;2024;56,9;5,4;7,1;66,4;non conforme;825632;3473;232;277;41;Non vérifié
+09065;Boussenac;09;eau potable : 04_UT Couserans;206662;2024;41,1;4,1;2,9;65,6;non conforme;764307;31922;356;606;246;Non vérifié
+09066;Brassac;09;eau potable : 01_UT Pays de Foix;206663;2024;70,3;2,3;5,3;66,1;conforme;651452;16098;70;159;633;Non vérifié
+09067;Brie;09;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;1350;18;62;207;Non vérifié
+09068;Burret;09;eau potable : 01_UT Pays de Foix;206663;2024;70,3;2,3;5,3;66,1;conforme;651452;1119;70;159;44;Non vérifié
+09069;Buzan;09;eau potable : 04_UT Couserans;206662;2024;41,1;4,1;2,9;65,6;non conforme;764307;6099;356;606;47;Non vérifié
+09070;Les Cabannes;09;eau potable : 03_UT Haute Ariège;206672;2024;56,9;5,4;7,1;66,4;non conforme;825632;26855;232;277;317;Non vérifié
+09071;Cadarcet;09;eau potable : 01_UT Pays de Foix;206663;2024;70,3;2,3;5,3;66,1;conforme;651452;5366;70;159;211;Non vérifié
+09072;Calzan;09;eau potable : 06_UT Pays Cathare;206664;2024;66,2;3,9;7,6;66,5;non conforme;939652;2368;144;328;45;Non vérifié
+09073;Camarade;09;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;3409;44;131;211;Non vérifié
+09074;Camon;09;eau potable;142514;2024;71,3;3,4;8,5;66,7;conforme;6205;6205;113;146;151;Non vérifié
+09075;Campagne-sur-Arize;09;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;4847;44;131;300;Non vérifié
+09076;Canté;09;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;1448;18;62;222;Non vérifié
+09077;Capoulet-et-Junac;09;eau potable;311514;2024;71,9;3,0;7,6;66,5;conforme;140160;4979;71;145;191;Non vérifié
+09078;Carcanières;09;eau potable : 06_UT Pays Cathare;206664;2024;66,2;3,9;7,6;66,5;non conforme;939652;3683;144;328;70;Non vérifié
+09079;Carla-Bayle;09;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;12716;44;131;787;Non vérifié
+09080;Carla-de-Roquefort;09;eau potable : 06_UT Pays Cathare;206664;2024;66,2;3,9;7,6;66,5;non conforme;939652;8629;144;328;164;Non vérifié
+09082;Castelnau-Durban;09;eau potable : 01_UT Pays de Foix;206663;2024;70,3;2,3;5,3;66,1;conforme;651452;11648;70;159;458;Non vérifié
+09083;Castéras;09;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;372;44;131;23;Non vérifié
+09084;Castex;09;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;1600;44;131;99;Non vérifié
+09085;Castillon-en-Couserans;09;eau potable : 04_UT Couserans;206662;2024;41,1;4,1;2,9;65,6;non conforme;764307;55539;356;606;428;Non vérifié
+09086;Caumont;09;eau potable : Service des eaux du Couserans;228874;2024;66,1;2,6;5,1;66,0;conforme;1135953;17895;146;210;336;Non vérifié
+09087;Caussou;09;eau potable : 03_UT Haute Ariège;206672;2024;56,9;5,4;7,1;66,4;non conforme;825632;4320;232;277;51;Non vérifié
+09088;Caychax;09;eau potable : 03_UT Haute Ariège;206672;2024;56,9;5,4;7,1;66,4;non conforme;825632;1694;232;277;20;Non vérifié
+09089;Cazals-des-Baylès;09;eau potable : 06_UT Pays Cathare;206664;2024;66,2;3,9;7,6;66,5;non conforme;939652;2999;144;328;57;Non vérifié
+09090;Cazaux;09;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;776;44;131;48;Non vérifié
+09091;Cazavet;09;eau potable : Service des eaux du Couserans;228874;2024;66,1;2,6;5,1;66,0;conforme;1135953;10865;146;210;204;Non vérifié
+09092;Cazenave-Serres-et-Allens;09;eau potable;311514;2024;71,9;3,0;7,6;66,5;conforme;140160;1720;71;145;66;Non vérifié
+09093;Celles;09;eau potable : 01_UT Pays de Foix;206663;2024;70,3;2,3;5,3;66,1;conforme;651452;3637;70;159;143;Non vérifié
+09094;Cérizols;09;eau potable : Service des eaux du Couserans;228874;2024;66,1;2,6;5,1;66,0;conforme;1135953;7350;146;210;138;Non vérifié
+09095;Cescau;09;eau potable : Service des eaux du Couserans;228874;2024;66,1;2,6;5,1;66,0;conforme;1135953;8681;146;210;163;Non vérifié
+09096;Château-Verdun;09;eau potable : 03_UT Haute Ariège;206672;2024;56,9;5,4;7,1;66,4;non conforme;825632;3473;232;277;41;Non vérifié
+09097;Clermont;09;eau potable : Service des eaux du Couserans;228874;2024;66,1;2,6;5,1;66,0;conforme;1135953;6231;146;210;117;Non vérifié
+09098;Contrazy;09;eau potable : Service des eaux du Couserans;228874;2024;66,1;2,6;5,1;66,0;conforme;1135953;4048;146;210;76;Non vérifié
+09099;Cos;09;eau potable : 01_UT Pays de Foix;206663;2024;70,3;2,3;5,3;66,1;conforme;651452;8901;70;159;350;Non vérifié
+09100;Couflens;09;eau potable : 04_UT Couserans;206662;2024;41,1;4,1;2,9;65,6;non conforme;764307;12976;356;606;100;Non vérifié
+09101;Coussa;09;eau potable : 05-UT Basse Ariège;206669;2024;75,1;2,4;7,2;66,4;conforme;620234;6548;67;170;268;Non vérifié
+09102;Coutens;09;eau potable;142468;2024;64,9;2,7;4,9;66,0;non conforme;11826;6190;95;200;179;Non vérifié
+09103;Crampagna;09;eau potable : 01_UT Pays de Foix;206663;2024;70,3;2,3;5,3;66,1;conforme;651452;24923;70;159;980;Non vérifié
+09104;Dalou;09;eau potable : 05-UT Basse Ariège;206669;2024;75,1;2,4;7,2;66,4;conforme;620234;18934;67;170;775;Non vérifié
+09105;Daumazan-sur-Arize;09;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;12990;44;131;804;Non vérifié
+09106;Dreuilhe;09;eau potable;142326;2024;79,3;3,3;12,6;67,5;conforme;160198;12475;95;208;360;Non vérifié
+09107;Dun;09;eau potable : 06_UT Pays Cathare;206664;2024;66,2;3,9;7,6;66,5;non conforme;939652;34568;144;328;657;Non vérifié
+09108;Durban-sur-Arize;09;eau potable : 01_UT Pays de Foix;206663;2024;70,3;2,3;5,3;66,1;conforme;651452;4603;70;159;181;Non vérifié
+09109;Durfort;09;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;1206;18;62;185;Non vérifié
+09110;Encourtiech;09;eau potable : Service des eaux du Couserans;228874;2024;66,1;2,6;5,1;66,0;conforme;1135953;5326;146;210;100;Non vérifié
+09111;Engomer;09;eau potable : Service des eaux du Couserans;228874;2024;66,1;2,6;5,1;66,0;conforme;1135953;16776;146;210;315;Non vérifié
+09113;Ercé;09;eau potable : 04_UT Couserans;206662;2024;41,1;4,1;2,9;65,6;non conforme;764307;78118;356;606;602;Non vérifié
+09114;Erp;09;eau potable : Service des eaux du Couserans;228874;2024;66,1;2,6;5,1;66,0;conforme;1135953;7563;146;210;142;Non vérifié
+09115;Esclagne;09;eau potable;142326;2024;79,3;3,3;12,6;67,5;conforme;160198;4124;95;208;119;Non vérifié
+09116;Escosse;09;eau potable;142349;2024;77,0;1,0;3,4;65,7;conforme;79417;1324;10;108;356;Non vérifié
+09117;Esplas;09;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;678;18;62;104;Non vérifié
+09118;Esplas-de-Sérou;09;eau potable : 01_UT Pays de Foix;206663;2024;70,3;2,3;5,3;66,1;conforme;651452;4272;70;159;168;Non vérifié
+09119;Eycheil;09;eau potable : Service des eaux du Couserans;228874;2024;66,1;2,6;5,1;66,0;conforme;1135953;27801;146;210;522;Non vérifié
+09120;Fabas;09;eau potable : Service des eaux du Couserans;228874;2024;66,1;2,6;5,1;66,0;conforme;1135953;18854;146;210;354;Non vérifié
+09121;Ferrières-sur-Ariège;09;eau potable : 01_UT Pays de Foix;206663;2024;70,3;2,3;5,3;66,1;conforme;651452;20040;70;159;788;Non vérifié
+09122;Foix;09;eau potable : 01_UT Pays de Foix;206663;2024;70,3;2,3;5,3;66,1;conforme;651452;252636;70;159;9934;Non vérifié
+09123;Fornex;09;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;1680;44;131;104;Non vérifié
+09124;Le Fossat;09;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;17304;44;131;1071;Non vérifié
+09125;Fougax-et-Barrineuf;09;eau potable : 06_UT Pays Cathare;206664;2024;66,2;3,9;7,6;66,5;non conforme;939652;22519;144;328;428;Non vérifié
+09126;Freychenet;09;eau potable : 01_UT Pays de Foix;206663;2024;70,3;2,3;5,3;66,1;conforme;651452;2085;70;159;82;Non vérifié
+09127;Gabre;09;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;2003;44;131;124;Non vérifié
+09128;Gajan;09;eau potable : Service des eaux du Couserans;228874;2024;66,1;2,6;5,1;66,0;conforme;1135953;18108;146;210;340;Non vérifié
+09129;Galey;09;eau potable : 04_UT Couserans;206662;2024;41,1;4,1;2,9;65,6;non conforme;764307;14793;356;606;114;Non vérifié
+09130;Ganac;09;eau potable : 01_UT Pays de Foix;206663;2024;70,3;2,3;5,3;66,1;conforme;651452;19302;70;159;759;Non vérifié
+09131;Garanou;09;eau potable : 03_UT Haute Ariège;206672;2024;56,9;5,4;7,1;66,4;non conforme;825632;12114;232;277;143;Non vérifié
+09132;Gaudiès;09;eau potable : 05-UT Basse Ariège;206669;2024;75,1;2,4;7,2;66,4;conforme;620234;5741;67;170;235;Non vérifié
+09133;Génat;09;eau potable : 03_UT Haute Ariège;206672;2024;56,9;5,4;7,1;66,4;non conforme;825632;2033;232;277;24;Non vérifié
+09134;Gestiès;09;eau potable : 03_UT Haute Ariège;206672;2024;56,9;5,4;7,1;66,4;non conforme;825632;3219;232;277;38;Non vérifié
+09136;Gourbit;09;eau potable;311514;2024;71,9;3,0;7,6;66,5;conforme;140160;2137;71;145;82;Non vérifié
+09137;Gudas;09;eau potable : 01_UT Pays de Foix;206663;2024;70,3;2,3;5,3;66,1;conforme;651452;4908;70;159;193;Non vérifié
+09138;L' Herm;09;eau potable : 01_UT Pays de Foix;206663;2024;70,3;2,3;5,3;66,1;conforme;651452;4730;70;159;186;Non vérifié
+09139;L' Hospitalet-près-l'Andorre;09;eau potable : 03_UT Haute Ariège;206672;2024;56,9;5,4;7,1;66,4;non conforme;825632;7201;232;277;85;Non vérifié
+09140;Ignaux;09;eau potable : 03_UT Haute Ariège;206672;2024;56,9;5,4;7,1;66,4;non conforme;825632;10674;232;277;126;Non vérifié
+09141;Illartein;09;eau potable : 04_UT Couserans;206662;2024;41,1;4,1;2,9;65,6;non conforme;764307;9473;356;606;73;Non vérifié
+09142;Ilhat;09;eau potable : 06_UT Pays Cathare;206664;2024;66,2;3,9;7,6;66,5;non conforme;939652;6419;144;328;122;Non vérifié
+09143;Illier-et-Laramade;09;eau potable;311514;2024;71,9;3,0;7,6;66,5;conforme;140160;1017;71;145;39;Non vérifié
+09145;Les Issards;09;eau potable : 06_UT Pays Cathare;206664;2024;66,2;3,9;7,6;66,5;non conforme;939652;13154;144;328;250;Non vérifié
+09146;Justiniac;09;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;372;18;62;57;Non vérifié
+09147;Labatut;09;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;1161;18;62;178;Non vérifié
+09148;Lacave;09;eau potable : Service des eaux du Couserans;228874;2024;66,1;2,6;5,1;66,0;conforme;1135953;6817;146;210;128;Non vérifié
+09149;Lacourt;09;eau potable : Service des eaux du Couserans;228874;2024;66,1;2,6;5,1;66,0;conforme;1135953;10918;146;210;205;Non vérifié
+09150;Lagarde;09;eau potable : 06_UT Pays Cathare;206664;2024;66,2;3,9;7,6;66,5;non conforme;939652;11417;144;328;217;Non vérifié
+09151;Lanoux;09;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;969;44;131;60;Non vérifié
+09152;Lapège;09;eau potable : 03_UT Haute Ariège;206672;2024;56,9;5,4;7,1;66,4;non conforme;825632;1440;232;277;17;Non vérifié
+09153;Lapenne;09;eau potable : 05-UT Basse Ariège;206669;2024;75,1;2,4;7,2;66,4;conforme;620234;2907;67;170;119;Non vérifié
+09154;Larbont;09;eau potable : 01_UT Pays de Foix;206663;2024;70,3;2,3;5,3;66,1;conforme;651452;1526;70;159;60;Non vérifié
+09155;Larcat;09;eau potable : 03_UT Haute Ariège;206672;2024;56,9;5,4;7,1;66,4;non conforme;825632;4236;232;277;50;Non vérifié
+09156;Larnat;09;eau potable;142459;2024;0,0;;;;non calculable;;;;;19;Non vérifié
+09157;Laroque-d'Olmes;09;eau potable;142326;2024;79,3;3,3;12,6;67,5;conforme;160198;85037;95;208;2454;Non vérifié
+09158;Lasserre;09;eau potable : Service des eaux du Couserans;228874;2024;66,1;2,6;5,1;66,0;conforme;1135953;13421;146;210;252;Non vérifié
+09159;Lassur;09;eau potable : 03_UT Haute Ariège;206672;2024;56,9;5,4;7,1;66,4;non conforme;825632;6947;232;277;82;Non vérifié
+09160;Lavelanet;09;eau potable : 06_UT Pays Cathare;206664;2024;66,2;3,9;7,6;66,5;non conforme;939652;315006;144;328;5987;Non vérifié
+09161;Léran;09;eau potable;142326;2024;79,3;3,3;12,6;67,5;conforme;160198;21311;95;208;615;Non vérifié
+09162;Lercoul;09;eau potable : 03_UT Haute Ariège;206672;2024;56,9;5,4;7,1;66,4;non conforme;825632;932;232;277;11;Non vérifié
+09163;Lescousse;09;eau potable;142349;2024;77,0;1,0;3,4;65,7;conforme;79417;305;10;108;82;Non vérifié
+09164;Lescure;09;eau potable : Service des eaux du Couserans;228874;2024;66,1;2,6;5,1;66,0;conforme;1135953;25511;146;210;479;Non vérifié
+09165;Lesparrou;09;eau potable : 06_UT Pays Cathare;206664;2024;66,2;3,9;7,6;66,5;non conforme;939652;12417;144;328;236;Non vérifié
+09166;Leychert;09;eau potable : 01_UT Pays de Foix;206663;2024;70,3;2,3;5,3;66,1;conforme;651452;2899;70;159;114;Non vérifié
+09167;Lézat-sur-Lèze;09;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;37500;44;131;2321;Non vérifié
+09168;Lieurac;09;eau potable : 06_UT Pays Cathare;206664;2024;66,2;3,9;7,6;66,5;non conforme;939652;9523;144;328;181;Non vérifié
+09169;Limbrassac;09;eau potable : 06_UT Pays Cathare;206664;2024;66,2;3,9;7,6;66,5;non conforme;939652;6156;144;328;117;Non vérifié
+09170;Lissac;09;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;1545;18;62;237;Non vérifié
+09171;Lordat;09;eau potable : 03_UT Haute Ariège;206672;2024;56,9;5,4;7,1;66,4;non conforme;825632;4998;232;277;59;Non vérifié
+09172;Loubaut;09;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;485;44;131;30;Non vérifié
+09173;Loubens;09;eau potable;142349;2024;77,0;1,0;3,4;65,7;conforme;79417;993;10;108;267;Non vérifié
+09174;Loubières;09;eau potable : 01_UT Pays de Foix;206663;2024;70,3;2,3;5,3;66,1;conforme;651452;9130;70;159;359;Non vérifié
+09175;Ludiès;09;eau potable;142438;2024;92,3;0,2;2,1;65,4;conforme;365;365;10;35;102;Non vérifié
+09176;Luzenac;09;eau potable : 03_UT Haute Ariège;206672;2024;56,9;5,4;7,1;66,4;non conforme;825632;43374;232;277;512;Non vérifié
+09177;Madière;09;eau potable;142349;2024;77,0;1,0;3,4;65,7;conforme;79417;1052;10;108;283;Non vérifié
+09178;Malegoude;09;eau potable : 06_UT Pays Cathare;206664;2024;66,2;3,9;7,6;66,5;non conforme;939652;1894;144;328;36;Non vérifié
+09179;Malléon;09;eau potable : 05-UT Basse Ariège;206669;2024;75,1;2,4;7,2;66,4;conforme;620234;1881;67;170;77;Non vérifié
+09180;Manses;09;eau potable : 06_UT Pays Cathare;206664;2024;66,2;3,9;7,6;66,5;non conforme;939652;6840;144;328;130;Non vérifié
+09181;Le Mas-d'Azil;09;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;19986;44;131;1237;Non vérifié
+09182;Massat;09;eau potable : Service des eaux du Couserans;228874;2024;66,1;2,6;5,1;66,0;conforme;1135953;39891;146;210;749;Non vérifié
+09183;Mauvezin-de-Prat;09;eau potable : Service des eaux du Couserans;228874;2024;66,1;2,6;5,1;66,0;conforme;1135953;5219;146;210;98;Non vérifié
+09184;Mauvezin-de-Sainte-Croix;09;eau potable : Service des eaux du Couserans;228874;2024;66,1;2,6;5,1;66,0;conforme;1135953;2769;146;210;52;Non vérifié
+09185;Mazères;09;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;25118;18;62;3852;Non vérifié
+09186;Méras;09;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;1519;44;131;94;Non vérifié
+09187;Mercenac;09;eau potable : Service des eaux du Couserans;228874;2024;66,1;2,6;5,1;66,0;conforme;1135953;18747;146;210;352;Non vérifié
+09188;Mercus-Garrabet;09;eau potable : 03_UT Haute Ariège;206672;2024;56,9;5,4;7,1;66,4;non conforme;825632;104877;232;277;1238;Non vérifié
+09189;Mérens-les-Vals;09;eau potable : 03_UT Haute Ariège;206672;2024;56,9;5,4;7,1;66,4;non conforme;825632;14063;232;277;166;Non vérifié
+09190;Mérigon;09;eau potable : Service des eaux du Couserans;228874;2024;66,1;2,6;5,1;66,0;conforme;1135953;6071;146;210;114;Non vérifié
+09192;Miglos;09;eau potable : 03_UT Haute Ariège;206672;2024;56,9;5,4;7,1;66,4;non conforme;825632;12030;232;277;142;Non vérifié
+09193;Mijanès;09;eau potable : 06_UT Pays Cathare;206664;2024;66,2;3,9;7,6;66,5;non conforme;939652;2946;144;328;56;Non vérifié
+09194;Mirepoix;09;eau potable : 06_UT Pays Cathare;206664;2024;66,2;3,9;7,6;66,5;non conforme;939652;166895;144;328;3172;Non vérifié
+09195;Monesple;09;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;420;44;131;26;Non vérifié
+09196;Montagagne;09;eau potable : Service des eaux du Couserans;228874;2024;66,1;2,6;5,1;66,0;conforme;1135953;4367;146;210;82;Non vérifié
+09197;Montaillou;09;eau potable : 03_UT Haute Ariège;206672;2024;56,9;5,4;7,1;66,4;non conforme;825632;1779;232;277;21;Non vérifié
+09198;Montardit;09;eau potable : Service des eaux du Couserans;228874;2024;66,1;2,6;5,1;66,0;conforme;1135953;11930;146;210;224;Non vérifié
+09199;Montaut;09;eau potable : 05-UT Basse Ariège;206669;2024;75,1;2,4;7,2;66,4;conforme;620234;17273;67;170;707;Non vérifié
+09200;Montbel;09;eau potable : 06_UT Pays Cathare;206664;2024;66,2;3,9;7,6;66,5;non conforme;939652;5209;144;328;99;Non vérifié
+09201;Montégut-en-Couserans;09;eau potable : Service des eaux du Couserans;228874;2024;66,1;2,6;5,1;66,0;conforme;1135953;3728;146;210;70;Non vérifié
+09202;Montégut-Plantaurel;09;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;5025;44;131;311;Non vérifié
+09203;Montels;09;eau potable : Service des eaux du Couserans;228874;2024;66,1;2,6;5,1;66,0;conforme;1135953;8734;146;210;164;Non vérifié
+09204;Montesquieu-Avantès;09;eau potable : Service des eaux du Couserans;228874;2024;66,1;2,6;5,1;66,0;conforme;1135953;14007;146;210;263;Non vérifié
+09205;Montfa;09;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;1551;44;131;96;Non vérifié
+09206;Montferrier;09;eau potable : 06_UT Pays Cathare;206664;2024;66,2;3,9;7,6;66,5;non conforme;939652;28465;144;328;541;Non vérifié
+09207;Montgailhard;09;eau potable : 01_UT Pays de Foix;206663;2024;70,3;2,3;5,3;66,1;conforme;651452;36545;70;159;1437;Non vérifié
+09208;Montgauch;09;eau potable : Service des eaux du Couserans;228874;2024;66,1;2,6;5,1;66,0;conforme;1135953;5965;146;210;112;Non vérifié
+09209;Montjoie-en-Couserans;09;eau potable : Service des eaux du Couserans;228874;2024;66,1;2,6;5,1;66,0;conforme;1135953;52833;146;210;992;Non vérifié
+09210;Montoulieu;09;eau potable : 01_UT Pays de Foix;206663;2024;70,3;2,3;5,3;66,1;conforme;651452;10554;70;159;415;Non vérifié
+09211;Montségur;09;eau potable : 06_UT Pays Cathare;206664;2024;66,2;3,9;7,6;66,5;non conforme;939652;6103;144;328;116;Non vérifié
+09212;Montseron;09;eau potable : 01_UT Pays de Foix;206663;2024;70,3;2,3;5,3;66,1;conforme;651452;2543;70;159;100;Non vérifié
+09214;Moulis;09;eau potable : Service des eaux du Couserans;228874;2024;66,1;2,6;5,1;66,0;conforme;1135953;42287;146;210;794;Non vérifié
+09215;Nalzen;09;eau potable : 01_UT Pays de Foix;206663;2024;70,3;2,3;5,3;66,1;conforme;651452;2797;70;159;110;Non vérifié
+09216;Nescus;09;eau potable : 01_UT Pays de Foix;206663;2024;70,3;2,3;5,3;66,1;conforme;651452;1500;70;159;59;Non vérifié
+09217;Niaux;09;eau potable;311514;2024;71,9;3,0;7,6;66,5;conforme;140160;3910;71;145;150;Non vérifié
+09218;Orgeix;09;eau potable : 03_UT Haute Ariège;206672;2024;56,9;5,4;7,1;66,4;non conforme;825632;8641;232;277;102;Non vérifié
+09219;Orgibet;09;eau potable : 04_UT Couserans;206662;2024;41,1;4,1;2,9;65,6;non conforme;764307;21022;356;606;162;Non vérifié
+09220;Orlu;09;eau potable : 03_UT Haute Ariège;206672;2024;56,9;5,4;7,1;66,4;non conforme;825632;13300;232;277;157;Non vérifié
+09221;Ornolac-Ussat-les-Bains;09;eau potable : 03_UT Haute Ariège;206672;2024;56,9;5,4;7,1;66,4;non conforme;825632;20925;232;277;247;Non vérifié
+09222;Orus;09;eau potable : 03_UT Haute Ariège;206672;2024;56,9;5,4;7,1;66,4;non conforme;825632;1948;232;277;23;Non vérifié
+09223;Oust;09;eau potable : 04_UT Couserans;206662;2024;41,1;4,1;2,9;65,6;non conforme;764307;75652;356;606;583;Non vérifié
+09224;Pailhès;09;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;8256;44;131;511;Non vérifié
+09225;Pamiers;09;eau potable;142403;2024;93,4;1,3;18,2;68,6;conforme;65609;65609;11;26;16473;Non vérifié
+09226;Pech;09;eau potable : 03_UT Haute Ariège;206672;2024;56,9;5,4;7,1;66,4;non conforme;825632;3050;232;277;36;Non vérifié
+09227;Péreille;09;eau potable : 06_UT Pays Cathare;206664;2024;66,2;3,9;7,6;66,5;non conforme;939652;9576;144;328;182;Non vérifié
+09228;Perles-et-Castelet;09;eau potable : 03_UT Haute Ariège;206672;2024;56,9;5,4;7,1;66,4;non conforme;825632;18468;232;277;218;Non vérifié
+09229;Le Peyrat;09;eau potable;142375;2020;62,6;8,5;14,3;67,9;non conforme;47872;20236;112;235;495;Sans anomalie apparente
+09230;Le Pla;09;eau potable : 06_UT Pays Cathare;206664;2024;66,2;3,9;7,6;66,5;non conforme;939652;3210;144;328;61;Non vérifié
+09231;Le Port;09;eau potable : Service des eaux du Couserans;228874;2024;66,1;2,6;5,1;66,0;conforme;1135953;9001;146;210;169;Non vérifié
+09232;Prades;09;eau potable : 03_UT Haute Ariège;206672;2024;56,9;5,4;7,1;66,4;non conforme;825632;4575;232;277;54;Non vérifié
+09233;Pradettes;09;eau potable : 06_UT Pays Cathare;206664;2024;66,2;3,9;7,6;66,5;non conforme;939652;2262;144;328;43;Non vérifié
+09234;Pradières;09;eau potable : 01_UT Pays de Foix;206663;2024;70,3;2,3;5,3;66,1;conforme;651452;3153;70;159;124;Non vérifié
+09235;Prat-Bonrepaux;09;eau potable : Service des eaux du Couserans;228874;2024;66,1;2,6;5,1;66,0;conforme;1135953;47294;146;210;888;Non vérifié
+09236;Prayols;09;eau potable : 01_UT Pays de Foix;206663;2024;70,3;2,3;5,3;66,1;conforme;651452;9257;70;159;364;Non vérifié
+09237;Le Puch;09;eau potable : 06_UT Pays Cathare;206664;2024;66,2;3,9;7,6;66,5;non conforme;939652;1421;144;328;27;Non vérifié
+09238;Les Pujols;09;eau potable : 05-UT Basse Ariège;206669;2024;75,1;2,4;7,2;66,4;conforme;620234;21328;67;170;873;Non vérifié
+09239;Quérigut;09;eau potable : 06_UT Pays Cathare;206664;2024;66,2;3,9;7,6;66,5;non conforme;939652;7313;144;328;139;Non vérifié
+09240;Quié;09;eau potable;311514;2024;71,9;3,0;7,6;66,5;conforme;140160;7742;71;145;297;Non vérifié
+09241;Rabat-les-Trois-Seigneurs;09;eau potable;311514;2024;71,9;3,0;7,6;66,5;conforme;140160;9879;71;145;379;Non vérifié
+09242;Raissac;09;eau potable : 06_UT Pays Cathare;206664;2024;66,2;3,9;7,6;66,5;non conforme;939652;2262;144;328;43;Non vérifié
+09243;Régat;09;eau potable;142326;2024;79,3;3,3;12,6;67,5;conforme;160198;3431;95;208;99;Non vérifié
+09244;Rieucros;09;eau potable : 05-UT Basse Ariège;206669;2024;75,1;2,4;7,2;66,4;conforme;620234;17542;67;170;718;Non vérifié
+09245;Rieux-de-Pelleport;09;eau potable;142349;2024;77,0;1,0;3,4;65,7;conforme;79417;4658;10;108;1253;Non vérifié
+09246;Rimont;09;eau potable : Service des eaux du Couserans;228874;2024;66,1;2,6;5,1;66,0;conforme;1135953;28866;146;210;542;Non vérifié
+09247;Rivèrenert;09;eau potable : Service des eaux du Couserans;228874;2024;66,1;2,6;5,1;66,0;conforme;1135953;11078;146;210;208;Non vérifié
+09249;Roquefixade;09;eau potable : 01_UT Pays de Foix;206663;2024;70,3;2,3;5,3;66,1;conforme;651452;3866;70;159;152;Non vérifié
+09250;Roquefort-les-Cascades;09;eau potable : 06_UT Pays Cathare;206664;2024;66,2;3,9;7,6;66,5;non conforme;939652;4209;144;328;80;Non vérifié
+09252;Rouze;09;eau potable : 06_UT Pays Cathare;206664;2024;66,2;3,9;7,6;66,5;non conforme;939652;4367;144;328;83;Non vérifié
+09253;Sabarat;09;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;5833;44;131;361;Non vérifié
+09254;Saint-Amadou;09;eau potable : 05-UT Basse Ariège;206669;2024;75,1;2,4;7,2;66,4;conforme;620234;6914;67;170;283;Non vérifié
+09255;Saint-Amans;09;eau potable;142349;2022;71,3;1,5;3,7;65,7;conforme;124282;250;16;152;43;Sans anomalie apparente
+09256;Saint-Bauzeil;09;eau potable;142349;2024;77,0;1,0;3,4;65,7;conforme;79417;193;10;108;52;Non vérifié
+09257;Sainte-Croix-Volvestre;09;eau potable : Service des eaux du Couserans;228874;2024;66,1;2,6;5,1;66,0;conforme;1135953;34565;146;210;649;Non vérifié
+09258;Saint-Félix-de-Rieutord;09;eau potable : 05-UT Basse Ariège;206669;2024;75,1;2,4;7,2;66,4;conforme;620234;11434;67;170;468;Non vérifié
+09259;Saint-Félix-de-Tournegat;09;eau potable : 05-UT Basse Ariège;206669;2024;75,1;2,4;7,2;66,4;conforme;620234;3787;67;170;155;Non vérifié
+09260;Sainte-Foi;09;eau potable : 06_UT Pays Cathare;206664;2024;66,2;3,9;7,6;66,5;non conforme;939652;1526;144;328;29;Non vérifié
+09261;Saint-Girons;09;eau potable : Service des eaux du Couserans;228874;2024;66,1;2,6;5,1;66,0;conforme;1135953;319978;146;210;6008;Non vérifié
+09262;Saint-Jean-d'Aigues-Vives;09;eau potable : 06_UT Pays Cathare;206664;2024;66,2;3,9;7,6;66,5;non conforme;939652;19310;144;328;367;Non vérifié
+09263;Saint-Jean-du-Castillonnais;09;eau potable : 04_UT Couserans;206662;2024;41,1;4,1;2,9;65,6;non conforme;764307;4282;356;606;33;Non vérifié
+09264;Saint-Jean-de-Verges;09;eau potable : 01_UT Pays de Foix;206663;2024;70,3;2,3;5,3;66,1;conforme;651452;32807;70;159;1290;Non vérifié
+09265;Saint-Jean-du-Falga;09;eau potable : 05-UT Basse Ariège;206669;2024;75,1;2,4;7,2;66,4;conforme;620234;69653;67;170;2851;Non vérifié
+09266;Saint-Julien-de-Gras-Capou;09;eau potable : 06_UT Pays Cathare;206664;2024;66,2;3,9;7,6;66,5;non conforme;939652;4472;144;328;85;Non vérifié
+09267;Saint-Lary;09;eau potable : 04_UT Couserans;206662;2024;41,1;4,1;2,9;65,6;non conforme;764307;20243;356;606;156;Non vérifié
+09268;Saint-Lizier;09;eau potable : Service des eaux du Couserans;228874;2024;66,1;2,6;5,1;66,0;conforme;1135953;74083;146;210;1391;Non vérifié
+09269;Saint-Martin-de-Caralp;09;eau potable : 01_UT Pays de Foix;206663;2024;70,3;2,3;5,3;66,1;conforme;651452;9639;70;159;379;Non vérifié
+09270;Saint-Martin-d'Oydes;09;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;4039;44;131;250;Non vérifié
+09271;Saint-Michel;09;eau potable;142349;2024;77,0;1,0;3,4;65,7;conforme;79417;342;10;108;92;Non vérifié
+09272;Saint-Paul-de-Jarrat;09;eau potable : 01_UT Pays de Foix;206663;2024;70,3;2,3;5,3;66,1;conforme;651452;34383;70;159;1352;Non vérifié
+09273;Saint-Pierre-de-Rivière;09;eau potable : 01_UT Pays de Foix;206663;2024;70,3;2,3;5,3;66,1;conforme;651452;17268;70;159;679;Non vérifié
+09274;Saint-Quentin-la-Tour;09;eau potable : 06_UT Pays Cathare;206664;2024;66,2;3,9;7,6;66,5;non conforme;939652;16363;144;328;311;Non vérifié
+09275;Saint-Quirc;09;eau potable : eau potable;258994;2024;88,5;0,7;5,2;66,0;conforme;347736;2387;18;62;366;Non vérifié
+09276;Saint-Victor-Rouzaud;09;eau potable;142349;2024;77,0;1,0;3,4;65,7;conforme;79417;781;10;108;210;Non vérifié
+09277;Saint-Ybars;09;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;10518;44;131;651;Non vérifié
+09279;Salsein;09;eau potable : 04_UT Couserans;206662;2024;41,1;4,1;2,9;65,6;non conforme;764307;6099;356;606;47;Non vérifié
+09280;Saurat;09;eau potable : 03_UT Haute Ariège;206672;2024;56,9;5,4;7,1;66,4;non conforme;825632;59300;232;277;700;Non vérifié
+09281;Sautel;09;eau potable : 06_UT Pays Cathare;206664;2024;66,2;3,9;7,6;66,5;non conforme;939652;6472;144;328;123;Non vérifié
+09282;Saverdun;09;eau potable : 05-UT Basse Ariège;206669;2024;75,1;2,4;7,2;66,4;conforme;620234;117465;67;170;4808;Non vérifié
+09283;Savignac-les-Ormeaux;09;eau potable : 03_UT Haute Ariège;206672;2024;56,9;5,4;7,1;66,4;non conforme;825632;33632;232;277;397;Non vérifié
+09284;Ségura;09;eau potable : 05-UT Basse Ariège;206669;2024;75,1;2,4;7,2;66,4;conforme;620234;4862;67;170;199;Non vérifié
+09285;Seix;09;eau potable : 04_UT Couserans;206662;2024;41,1;4,1;2,9;65,6;non conforme;764307;98880;356;606;762;Non vérifié
+09287;Senconac;09;eau potable : 03_UT Haute Ariège;206672;2024;56,9;5,4;7,1;66,4;non conforme;825632;678;232;277;8;Non vérifié
+09289;Lorp-Sentaraille;09;eau potable : Service des eaux du Couserans;228874;2024;66,1;2,6;5,1;66,0;conforme;1135953;73550;146;210;1381;Non vérifié
+09290;Sentein;09;eau potable : Service des eaux du Couserans;228874;2024;66,1;2,6;5,1;66,0;conforme;1135953;9320;146;210;175;Non vérifié
+09291;Sentenac-d'Oust;09;eau potable : 04_UT Couserans;206662;2024;41,1;4,1;2,9;65,6;non conforme;764307;14274;356;606;110;Non vérifié
+09292;Sentenac-de-Sérou;09;eau potable : 01_UT Pays de Foix;206663;2024;70,3;2,3;5,3;66,1;conforme;651452;1068;70;159;42;Non vérifié
+09293;Serres-sur-Arget;09;eau potable : 01_UT Pays de Foix;206663;2024;70,3;2,3;5,3;66,1;conforme;651452;20828;70;159;819;Non vérifié
+09294;Sieuras;09;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;1519;44;131;94;Non vérifié
+09295;Siguer;09;eau potable : 03_UT Haute Ariège;206672;2024;56,9;5,4;7,1;66,4;non conforme;825632;8133;232;277;96;Non vérifié
+09296;Aulos-Sinsat;09;eau potable : 03_UT Haute Ariège;206672;2024;56,9;5,4;7,1;66,4;non conforme;825632;13554;232;277;160;Non vérifié
+09297;Sor;09;eau potable : 04_UT Couserans;206662;2024;41,1;4,1;2,9;65,6;non conforme;764307;3763;356;606;29;Non vérifié
+09298;Sorgeat;09;eau potable : 03_UT Haute Ariège;206672;2024;56,9;5,4;7,1;66,4;non conforme;825632;7540;232;277;89;Non vérifié
+09299;Soueix-Rogalle;09;eau potable : Service des eaux du Couserans;228874;2024;66,1;2,6;5,1;66,0;conforme;1135953;22422;146;210;421;Non vérifié
+09300;Soula;09;eau potable : 01_UT Pays de Foix;206663;2024;70,3;2,3;5,3;66,1;conforme;651452;4272;70;159;168;Non vérifié
+09301;Soulan;09;eau potable : 04_UT Couserans;206662;2024;41,1;4,1;2,9;65,6;non conforme;764307;51905;356;606;400;Non vérifié
+09303;Surba;09;eau potable;311514;2024;71,9;3,0;7,6;66,5;conforme;140160;8863;71;145;340;Non vérifié
+09304;Suzan;09;eau potable : 01_UT Pays de Foix;206663;2024;70,3;2,3;5,3;66,1;conforme;651452;661;70;159;26;Non vérifié
+09305;Tabre;09;eau potable;142326;2024;79,3;3,3;12,6;67,5;conforme;160198;12163;95;208;351;Non vérifié
+09306;Tarascon-sur-Ariège;09;eau potable;311514;2024;71,9;3,0;7,6;66,5;conforme;140160;80415;71;145;3085;Non vérifié
+09307;Taurignan-Castet;09;eau potable : Service des eaux du Couserans;228874;2024;66,1;2,6;5,1;66,0;conforme;1135953;8681;146;210;163;Non vérifié
+09308;Taurignan-Vieux;09;eau potable : Service des eaux du Couserans;228874;2024;66,1;2,6;5,1;66,0;conforme;1135953;10865;146;210;204;Non vérifié
+09309;Teilhet;09;eau potable : 05-UT Basse Ariège;206669;2024;75,1;2,4;7,2;66,4;conforme;620234;3958;67;170;162;Non vérifié
+09310;Thouars-sur-Arize;09;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;614;44;131;38;Non vérifié
+09311;Tignac;09;eau potable : 03_UT Haute Ariège;206672;2024;56,9;5,4;7,1;66,4;non conforme;825632;1694;232;277;20;Non vérifié
+09312;La Tour-du-Crieu;09;eau potable : 05-UT Basse Ariège;206669;2024;75,1;2,4;7,2;66,4;conforme;620234;78913;67;170;3230;Non vérifié
+09313;Tourtouse;09;eau potable : Service des eaux du Couserans;228874;2024;66,1;2,6;5,1;66,0;conforme;1135953;9001;146;210;169;Non vérifié
+09314;Tourtrol;09;eau potable : 05-UT Basse Ariège;206669;2024;75,1;2,4;7,2;66,4;conforme;620234;5815;67;170;238;Non vérifié
+09315;Trémoulet;09;eau potable : 05-UT Basse Ariège;206669;2024;75,1;2,4;7,2;66,4;conforme;620234;2492;67;170;102;Non vérifié
+09316;Troye-d'Ariège;09;eau potable : 06_UT Pays Cathare;206664;2024;66,2;3,9;7,6;66,5;non conforme;939652;5788;144;328;110;Non vérifié
+09318;Unac;09;eau potable : 03_UT Haute Ariège;206672;2024;56,9;5,4;7,1;66,4;non conforme;825632;10759;232;277;127;Non vérifié
+09319;Unzent;09;eau potable;142349;2024;77,0;1,0;3,4;65,7;conforme;79417;454;10;108;122;Non vérifié
+09320;Urs;09;eau potable : 03_UT Haute Ariège;206672;2024;56,9;5,4;7,1;66,4;non conforme;825632;2287;232;277;27;Non vérifié
+09321;Ussat;09;eau potable;311514;2024;71,9;3,0;7,6;66,5;conforme;140160;8002;71;145;307;Non vérifié
+09322;Ustou;09;eau potable : 04_UT Couserans;206662;2024;41,1;4,1;2,9;65,6;non conforme;764307;36464;356;606;281;Non vérifié
+09323;Vals;09;eau potable : 05-UT Basse Ariège;206669;2024;75,1;2,4;7,2;66,4;conforme;620234;2248;67;170;92;Non vérifié
+09324;Varilhes;09;eau potable : 05-UT Basse Ariège;206669;2024;75,1;2,4;7,2;66,4;conforme;620234;85192;67;170;3487;Non vérifié
+09326;Vèbre;09;eau potable : 03_UT Haute Ariège;206672;2024;56,9;5,4;7,1;66,4;non conforme;825632;9573;232;277;113;Non vérifié
+09327;Ventenac;09;eau potable : 05-UT Basse Ariège;206669;2024;75,1;2,4;7,2;66,4;conforme;620234;5717;67;170;234;Non vérifié
+09328;Verdun;09;eau potable : 03_UT Haute Ariège;206672;2024;56,9;5,4;7,1;66,4;non conforme;825632;17705;232;277;209;Non vérifié
+09329;Vernajoul;09;eau potable : 01_UT Pays de Foix;206663;2024;70,3;2,3;5,3;66,1;conforme;651452;17827;70;159;701;Non vérifié
+09330;Vernaux;09;eau potable : 03_UT Haute Ariège;206672;2024;56,9;5,4;7,1;66,4;non conforme;825632;3050;232;277;36;Non vérifié
+09331;Le Vernet;09;eau potable : 05-UT Basse Ariège;206669;2024;75,1;2,4;7,2;66,4;conforme;620234;16662;67;170;682;Non vérifié
+09332;Verniolle;09;eau potable : 05-UT Basse Ariège;206669;2024;75,1;2,4;7,2;66,4;conforme;620234;58562;67;170;2397;Non vérifié
+09334;Val-de-Sos;09;eau potable : 03_UT Haute Ariège;206672;2024;56,9;5,4;7,1;66,4;non conforme;825632;50744;232;277;599;Non vérifié
+09335;Villeneuve;09;eau potable : 04_UT Couserans;206662;2024;41,1;4,1;2,9;65,6;non conforme;764307;5450;356;606;42;Non vérifié
+09336;Villeneuve-d'Olmes;09;eau potable : 06_UT Pays Cathare;206664;2024;66,2;3,9;7,6;66,5;non conforme;939652;50774;144;328;965;Non vérifié
+09338;Villeneuve-du-Latou;09;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;2488;44;131;154;Non vérifié
+09339;Villeneuve-du-Paréage;09;eau potable : 05-UT Basse Ariège;206669;2024;75,1;2,4;7,2;66,4;conforme;620234;18055;67;170;739;Non vérifié
+09340;Vira;09;eau potable : 06_UT Pays Cathare;206664;2024;66,2;3,9;7,6;66,5;non conforme;939652;8471;144;328;161;Non vérifié
+09341;Viviès;09;eau potable : 05-UT Basse Ariège;206669;2024;75,1;2,4;7,2;66,4;conforme;620234;3665;67;170;150;Non vérifié
+09342;Sainte-Suzanne;09;eau potable : 02_UT Arize Lèze et Volvestre;206661;2024;77,9;1,0;3,6;65,7;conforme;545587;4185;44;131;259;Non vérifié

@@ -1,0 +1,96 @@
+﻿# DourData — eau perdue par les réseaux d'eau potable (indicateurs SISPEA)
+# Périmètre : Département 2A
+# Source : SISPEA — Système d'Information des Services Publics d'Eau et d'Assainissement, via data.gouv.fr / services.eaufrance.fr
+# Licence : Licence Ouverte 2.0 (Etalab)
+# Millésime des données : 2020–2024 (année la plus récente disponible par commune)
+# Date de génération de l'export : 2026-07-05
+# Méthodologie et code : https://github.com/btaverne/dourdata
+# Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
+# Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
+2A001;Afa;2A;eau potable : principal;186017;2024;83,7;6,0;30,8;71,2;conforme;999691;35690;29;71;3350;Non vérifié
+2A004;Ajaccio;2A;eau potable : principal;186017;2024;83,7;6,0;30,8;71,2;conforme;999691;813091;29;71;76320;Non vérifié
+2A006;Alata;2A;eau potable : principal;186017;2024;83,7;6,0;30,8;71,2;conforme;999691;39216;29;71;3681;Non vérifié
+2A014;Ambiegna;2A;eau potable : Secteur montagne;186013;2024;82,3;1,9;9,0;66,8;conforme;12351;753;26;77;79;Non vérifié
+2A017;Appietto;2A;eau potable : principal;186017;2024;83,7;6,0;30,8;71,2;conforme;999691;18633;29;71;1749;Non vérifié
+2A018;Arbellara;2A;eau potable : Délégation Kyrnolia;264914;2024;79,1;5,0;18,7;68,7;conforme;410442;9237;153;97;165;Non vérifié
+2A019;Arbori;2A;eau potable;185828;2024;100,0;0,0;14,8;68,0;conforme;0;0;0;0;53;Non vérifié
+2A021;Argiusta-Moriccio;2A;eau potable : Régie eau potable;264934;2024;50,4;7,2;7,3;66,5;non conforme;147431;7376;269;359;75;Non vérifié
+2A022;Arro;2A;eau potable : Secteur montagne;186013;2024;82,3;1,9;9,0;66,8;conforme;12351;763;26;77;80;Non vérifié
+2A026;Azilone-Ampaza;2A;eau potable;185834;2024;100,0;0,0;11,0;67,2;conforme;0;0;0;0;208;Non vérifié
+2A032;Bastelicaccia;2A;eau potable;185842;2024;89,3;2,2;18,3;68,7;conforme;30779;30779;19;44;4411;Non vérifié
+2A035;Belvédère-Campomoro;2A;eau potable : Délégation Kyrnolia;264914;2024;79,1;5,0;18,7;68,7;conforme;410442;11924;153;97;213;Non vérifié
+2A038;Bilia;2A;eau potable : Délégation Kyrnolia;264914;2024;79,1;5,0;18,7;68,7;conforme;410442;3023;153;97;54;Non vérifié
+2A040;Bocognano;2A;eau potable;185844;2024;100,0;0,0;215,8;85,0;conforme;0;0;0;0;419;Non vérifié
+2A041;Bonifacio;2A;eau potable;185846;2024;95,7;2,7;59,3;76,9;conforme;96303;96303;79;35;3344;Non vérifié
+2A048;Calcatoggio;2A;eau potable : Secteur Littoral affermé;186012;2024;80,5;4,5;18,5;68,7;conforme;73814;29075;154;144;516;Non vérifié
+2A056;Campo;2A;eau potable;185848;2024;94,8;0,4;7,6;66,5;conforme;1460;1460;39;19;102;Non vérifié
+2A060;Cannelle;2A;eau potable : Secteur montagne;186013;2024;82,3;1,9;9,0;66,8;conforme;12351;668;26;77;70;Non vérifié
+2A061;Carbini;2A;eau potable;185850;2023;98,6;0,1;5,9;66,2;conforme;118;118;3;6;117;Sans anomalie apparente
+2A062;Carbuccia;2A;eau potable;185853;2024;29,2;31,3;12,9;67,6;non conforme;27419;27419;198;885;379;Non vérifié
+2A064;Cardo-Torgia;2A;eau potable;185854;2024;76,4;1,1;3,5;65,7;conforme;281;281;24;114;32;Non vérifié
+2A065;Cargèse;2A;eau potable;185857;2024;65,4;6,4;12,1;67,4;non conforme;80779;80779;192;193;1150;Non vérifié
+2A070;Casaglione;2A;eau potable : Secteur montagne;186013;2024;82,3;1,9;9,0;66,8;conforme;12351;5446;26;77;571;Non vérifié
+2A071;Casalabriva;2A;eau potable : Régie eau potable;264934;2024;50,4;7,2;7,3;66,5;non conforme;147431;23113;269;359;235;Non vérifié
+2A089;Ciamannacce;2A;eau potable;185865;2020;33,0;7,5;;;non calculable;16480;16480;350;;129;Sans anomalie apparente
+2A090;Coggia;2A;eau potable;186021;2024;70,8;7,8;19,0;68,8;conforme;71175;32042;107;150;818;Non vérifié
+2A092;Conca;2A;eau potable;186010;2024;73,8;7,2;20,3;69,1;conforme;729191;88485;206;129;1175;Non vérifié
+2A094;Corrano;2A;eau potable;185871;2024;85,0;1,4;8,1;66,6;non calculable;869;869;32;63;75;Non vérifié
+2A098;Coti-Chiavari;2A;eau potable;185873;2024;93,7;1,4;21,0;69,2;conforme;15483;15483;58;24;737;Non vérifié
+2A103;Cuttoli-Corticchiato;2A;eau potable : principal;186017;2024;83,7;6,0;30,8;71,2;conforme;999691;21947;29;71;2060;Non vérifié
+2A108;Évisa;2A;eau potable;185880;2024;81,0;8,8;;;non calculable;19754;19754;234;;231;Non vérifié
+2A114;Figari;2A;eau potable;186019;2024;82,2;1,8;8,5;66,7;conforme;108405;43519;67;87;1772;Non vérifié
+2A115;Foce;2A;eau potable : Délégation Kyrnolia;264914;2024;79,1;5,0;18,7;68,7;conforme;410442;8453;153;97;151;Non vérifié
+2A117;Forciolo;2A;eau potable;185883;2024;90,0;12,9;;;non calculable;6121;6121;180;;93;Non vérifié
+2A118;Fozzano;2A;eau potable : Délégation Kyrnolia;264914;2024;79,1;5,0;18,7;68,7;conforme;410442;11756;153;97;210;Non vérifié
+2A127;Giuncheto;2A;eau potable : Délégation Kyrnolia;264914;2024;79,1;5,0;18,7;68,7;conforme;410442;5934;153;97;106;Non vérifié
+2A128;Granace;2A;eau potable : Délégation Kyrnolia;264914;2024;79,1;5,0;18,7;68,7;conforme;410442;5150;153;97;92;Non vérifié
+2A129;Grossa;2A;eau potable : Délégation Kyrnolia;264914;2024;79,1;5,0;18,7;68,7;conforme;410442;4142;153;97;74;Non vérifié
+2A130;Grosseto-Prugna;2A;eau potable : Chef-Lieu;185887;2024;80,0;2,5;19,7;68,9;conforme;6096;6096;4;93;3900;Non vérifié
+2A133;Guitera-les-Bains;2A;eau potable;185894;2024;86,4;1,0;6,2;66,2;conforme;2044;2044;36;59;154;Non vérifié
+2A139;Lecci;2A;eau potable;186010;2024;73,8;7,2;20,3;69,1;conforme;729191;160704;206;129;2134;Non vérifié
+2A141;Letia;2A;eau potable;185897;2024;100,0;0,0;5,6;66,1;conforme;0;0;0;0;111;Non vérifié
+2A142;Levie;2A;eau potable;186014;2024;68,4;2,3;4,9;66,0;conforme;41219;14793;60;173;674;Non vérifié
+2A146;Loreto-di-Tallano;2A;eau potable;185902;2024;100,0;0,0;9,1;66,8;conforme;0;0;0;0;47;Non vérifié
+2A158;Mela;2A;eau potable;185906;2024;96,1;0,2;5,1;66,0;conforme;146;146;11;14;37;Non vérifié
+2A160;Moca-Croce;2A;eau potable : Régie eau potable;264934;2024;50,4;7,2;7,3;66,5;non conforme;147431;21736;269;359;221;Non vérifié
+2A174;Murzo;2A;eau potable;185911;2024;100,0;0,0;93,3;83,7;conforme;0;0;0;0;98;Non vérifié
+2A189;Olmeto;2A;eau potable : Délégation Kyrnolia;264914;2024;79,1;5,0;18,7;68,7;conforme;410442;72158;153;97;1289;Non vérifié
+2A197;Osani;2A;eau potable;185921;2024;78,1;2,1;7,6;66,5;conforme;4124;4124;118;100;96;Non vérifié
+2A203;Partinello;2A;eau potable;185929;2024;72,1;3,4;8,7;66,7;conforme;9059;9059;264;301;94;Non vérifié
+2A204;Pastricciola;2A;eau potable;185931;2024;88,6;0,4;2,9;65,6;conforme;1095;1095;33;51;90;Non vérifié
+2A209;Peri;2A;eau potable : principal;186017;2024;83,7;6,0;30,8;71,2;conforme;999691;21776;29;71;2044;Non vérifié
+2A211;Petreto-Bicchisano;2A;eau potable : Régie eau potable;264934;2024;50,4;7,2;7,3;66,5;non conforme;147431;56258;269;359;572;Non vérifié
+2A212;Piana;2A;eau potable;185935;2024;80,4;4,7;19,1;68,8;conforme;20414;20414;124;90;452;Non vérifié
+2A215;Pianottoli-Caldarello;2A;eau potable;186019;2024;82,2;1,8;8,5;66,7;conforme;108405;18395;67;87;749;Non vérifié
+2A228;Pietrosella;2A;eau potable;185939;2024;83,2;10,8;53,4;75,7;conforme;72020;72020;95;74;2074;Non vérifié
+2A240;Poggiolo;2A;eau potable;185943;2022;75,0;0,0;13,0;67,6;conforme;0;0;0;0;104;Sans anomalie apparente
+2A247;Porto-Vecchio;2A;eau potable;185945;2024;80,3;6,1;24,8;70,0;conforme;620080;620080;152;90;11198;Non vérifié
+2A249;Propriano;2A;eau potable : Délégation Kyrnolia;264914;2024;79,1;5,0;18,7;68,7;conforme;410442;223695;153;97;3996;Non vérifié
+2A254;Quenza;2A;eau potable;185949;2023;100,0;0,0;22,2;69,4;conforme;0;0;0;0;200;Sans anomalie apparente
+2A259;Rezza;2A;eau potable;185953;2023;94,5;0,5;8,3;66,7;conforme;493;493;22;22;61;Sans anomalie apparente
+2A266;Salice;2A;eau potable;185957;2024;85,3;1,1;6,2;66,2;conforme;1124;1124;30;65;102;Non vérifié
+2A268;Sampolo;2A;eau potable;185960;2024;82,7;1,0;4,7;65,9;conforme;1825;1825;56;78;90;Non vérifié
+2A269;Sari-Solenzara;2A;eau potable;186010;2024;73,8;7,2;20,3;69,1;conforme;729191;108818;206;129;1445;Non vérifié
+2A270;Sari-d'Orcino;2A;eau potable : Secteur montagne;186013;2024;82,3;1,9;9,0;66,8;conforme;12351;3348;26;77;351;Non vérifié
+2A271;Sarrola-Carcopino;2A;eau potable : principal;186017;2024;83,7;6,0;30,8;71,2;conforme;999691;34923;29;71;3278;Non vérifié
+2A276;Serra-di-Ferro;2A;eau potable;185963;2024;58,8;7,1;10,2;67,0;non conforme;93968;93968;354;254;727;Non vérifié
+2A278;Serra-di-Scopamène;2A;eau potable;185966;2024;50,0;;;;non calculable;;;;;135;Non vérifié
+2A279;Serriera;2A;eau potable;185967;2024;63,5;5,1;8,9;66,8;non conforme;10406;10406;252;209;113;Non vérifié
+2A282;Soccia;2A;eau potable;185970;2024;92,9;1,0;13,2;67,6;conforme;1570;1570;27;28;160;Non vérifié
+2A284;Sollacaro;2A;eau potable : Régie eau potable;264934;2024;50,4;7,2;7,3;66,5;non conforme;147431;38948;269;359;396;Non vérifié
+2A288;Sotta;2A;eau potable;186019;2024;82,2;1,8;8,5;66,7;conforme;108405;46491;67;87;1893;Non vérifié
+2A295;Sant'Andréa-d'Orcino;2A;eau potable : Secteur montagne;186013;2024;82,3;1,9;9,0;66,8;conforme;12351;1373;26;77;144;Non vérifié
+2A300;San-Gavino-di-Carbini;2A;eau potable;186014;2024;68,4;2,3;4,9;66,0;conforme;41219;26426;60;173;1204;Non vérifié
+2A310;Santa-Maria-Figaniella;2A;eau potable : Délégation Kyrnolia;264914;2024;79,1;5,0;18,7;68,7;conforme;410442;4142;153;97;74;Non vérifié
+2A322;Tasso;2A;eau potable;185982;2024;0,2;16,4;0,0;65,0;non conforme;12571;12571;387;208558;89;Non vérifié
+2A323;Tavaco;2A;eau potable : principal;186017;2024;83,7;6,0;30,8;71,2;conforme;999691;4411;29;71;414;Non vérifié
+2A324;Tavera;2A;eau potable;185983;2024;49,2;7,7;7,5;66,5;non conforme;24198;24198;146;377;453;Non vérifié
+2A330;Ucciani;2A;eau potable;185988;2024;96,7;0,4;10,7;67,1;conforme;1345;1345;7;14;504;Non vérifié
+2A336;Valle-di-Mezzana;2A;eau potable : principal;186017;2024;83,7;6,0;30,8;71,2;conforme;999691;5721;29;71;537;Non vérifié
+2A348;Vico;2A;eau potable;186021;2024;70,8;7,8;19,0;68,8;conforme;71175;39133;107;150;999;Non vérifié
+2A349;Viggianello;2A;eau potable : Délégation Kyrnolia;264914;2024;79,1;5,0;18,7;68,7;conforme;410442;50829;153;97;908;Non vérifié
+2A351;Villanova;2A;eau potable : principal;186017;2024;83,7;6,0;30,8;71,2;conforme;999691;4283;29;71;402;Non vérifié
+2A359;Zicavo;2A;eau potable;185999;2020;50,0;29,0;29,0;70,8;non conforme;57159;57159;771;365;203;Sans anomalie apparente
+2A360;Zigliara;2A;eau potable;186001;2024;98,0;0,1;6,4;66,3;conforme;197;197;4;6;127;Non vérifié
+2A362;Zonza;2A;eau potable;186010;2024;73,8;7,2;20,3;69,1;conforme;729191;225091;206;129;2989;Non vérifié

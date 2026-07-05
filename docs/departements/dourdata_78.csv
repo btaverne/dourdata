@@ -1,0 +1,256 @@
+﻿# DourData — eau perdue par les réseaux d'eau potable (indicateurs SISPEA)
+# Périmètre : Département 78
+# Source : SISPEA — Système d'Information des Services Publics d'Eau et d'Assainissement, via data.gouv.fr / services.eaufrance.fr
+# Licence : Licence Ouverte 2.0 (Etalab)
+# Millésime des données : 2021–2024 (année la plus récente disponible par commune)
+# Date de génération de l'export : 2026-07-05
+# Méthodologie et code : https://github.com/btaverne/dourdata
+# Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
+# Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
+78003;Ablis;78;eau potable;158719;2024;86,2;1,8;11,0;67,2;conforme;238491;40773;29;77;3913;Non vérifié
+78005;Achères;78;eau potable : Achères;158585;2024;90,2;8,4;77,5;80,5;conforme;170960;170960;21;43;22241;Non vérifié
+78006;Adainville;78;eau potable;158563;2024;84,9;1,2;6,8;66,4;conforme;124830;6258;25;64;673;Non vérifié
+78007;Aigremont;78;eau potable;158554;2023;91,5;4,6;49,0;74,8;conforme;558922;12549;32;88;1075;Sans anomalie apparente
+78009;Allainville;78;eau potable;158719;2024;86,2;1,8;11,0;67,2;conforme;238491;2928;29;77;281;Non vérifié
+78010;Les Alluets-le-Roi;78;eau potable;158554;2023;91,5;4,6;49,0;74,8;conforme;558922;16227;32;88;1390;Sans anomalie apparente
+78013;Andelu;78;eau potable;158566;2024;82,8;3,6;17,4;68,5;conforme;1262833;5947;30;88;550;Non vérifié
+78015;Andrésy;78;eau potable : ex SIDEC;158754;2024;87,8;5,1;36,8;72,4;conforme;511745;95851;19;54;13834;Non vérifié
+78020;Arnouville-lès-Mantes;78;eau potable : Aubergenville et 12 communes;225214;2024;90,7;2,8;27,0;70,4;conforme;194282;6262;18;49;951;Non vérifié
+78029;Aubergenville;78;eau potable : Aubergenville et 12 communes;225214;2024;90,7;2,8;27,0;70,4;conforme;194282;83775;18;49;12723;Non vérifié
+78030;Auffargis;78;eau potable;158716;2024;76,4;3,3;10,7;67,1;conforme;110814;30513;43;113;1963;Non vérifié
+78031;Auffreville-Brasseuil;78;eau potable : Aubergenville et 12 communes;225214;2024;90,7;2,8;27,0;70,4;conforme;194282;4418;18;49;671;Non vérifié
+78033;Aulnay-sur-Mauldre;78;eau potable : Aubergenville et 12 communes;225214;2024;90,7;2,8;27,0;70,4;conforme;194282;7770;18;49;1180;Non vérifié
+78034;Auteuil;78;eau potable;158566;2024;82,8;3,6;17,4;68,5;conforme;1262833;11029;30;88;1020;Non vérifié
+78036;Autouillet;78;eau potable;158566;2024;82,8;3,6;17,4;68,5;conforme;1262833;7191;30;88;665;Non vérifié
+78043;Bailly;78;eau potable : Périmètre DSP SEOP;158751;2024;92,6;4,7;59,0;76,8;conforme;2144375;16972;12;34;3731;Non vérifié
+78048;Bazainville;78;eau potable;158566;2024;82,8;3,6;17,4;68,5;conforme;1262833;15884;30;88;1469;Non vérifié
+78050;Bazoches-sur-Guyonne;78;eau potable;158566;2024;82,8;3,6;17,4;68,5;conforme;1262833;7796;30;88;721;Non vérifié
+78053;Béhoust;78;eau potable;158566;2024;82,8;3,6;17,4;68,5;conforme;1262833;5763;30;88;533;Non vérifié
+78057;Bennecourt;78;eau potable;158551;2024;92,0;1,4;15,8;68,2;conforme;57288;10300;16;44;1747;Non vérifié
+78062;Beynes;78;eau potable;158566;2024;82,8;3,6;17,4;68,5;conforme;1262833;83304;30;88;7704;Non vérifié
+78070;Boinville-en-Mantois;78;eau potable : Aubergenville et 12 communes;225214;2024;90,7;2,8;27,0;70,4;conforme;194282;1877;18;49;285;Non vérifié
+78071;Boinville-le-Gaillard;78;eau potable;158719;2024;86,2;1,8;11,0;67,2;conforme;238491;6221;29;77;597;Non vérifié
+78072;Boinvilliers;78;eau potable;158566;2024;82,8;3,6;17,4;68,5;conforme;1262833;2628;30;88;243;Non vérifié
+78073;Bois-d'Arcy;78;eau potable : Périmètre DSP SEOP;158751;2024;92,6;4,7;59,0;76,8;conforme;2144375;75448;12;34;16586;Non vérifié
+78076;Boissets;78;eau potable;158564;2024;96,9;1,7;54,6;75,9;conforme;59202;4222;38;97;301;Non vérifié
+78077;La Boissière-École;78;eau potable;158563;2024;84,9;1,2;6,8;66,4;conforme;124830;6946;25;64;747;Non vérifié
+78084;Boissy-sans-Avoir;78;eau potable;158566;2024;82,8;3,6;17,4;68,5;conforme;1262833;6661;30;88;616;Non vérifié
+78087;Bonnelles;78;eau potable : Bonnelles;158530;2024;73,5;5,1;14,3;67,9;conforme;34568;34568;44;131;2165;Non vérifié
+78089;Bonnières-sur-Seine;78;eau potable;158596;2021;83,7;3,8;19,6;68,9;conforme;41874;41874;23;71;5064;Sans anomalie apparente
+78090;Bouafle;78;eau potable : les Mureaux et Bouafle;158672;2024;81,1;12,6;54,0;75,8;conforme;466844;28290;35;99;2234;Non vérifié
+78092;Bougival;78;eau potable : Périmètre DSP SEOP;158751;2024;92,6;4,7;59,0;76,8;conforme;2144375;41550;12;34;9134;Non vérifié
+78096;Bourdonné;78;eau potable;158563;2024;84,9;1,2;6,8;66,4;conforme;124830;4705;25;64;506;Non vérifié
+78104;Breuil-Bois-Robert;78;eau potable : Mantes et 17 autres communes;273914;2024;96,0;3,6;86,8;82,4;conforme;488782;5250;19;45;764;Non vérifié
+78107;Bréval;78;eau potable;158555;2024;94,7;0,5;8,6;66,7;conforme;8650;6157;8;22;2151;Non vérifié
+78108;Les Bréviaires;78;eau potable;158563;2024;84,9;1,2;6,8;66,4;conforme;124830;12106;25;64;1302;Non vérifié
+78113;Brueil-en-Vexin;78;eau potable : Issou et 6 autres communes;249934;2024;74,8;4,8;14,2;67,8;conforme;154964;11936;50;137;652;Non vérifié
+78117;Buc;78;eau potable : Périmètre DSP SEOP;158751;2024;92,6;4,7;59,0;76,8;conforme;2144375;26456;12;34;5816;Non vérifié
+78118;Buchelay;78;eau potable : Mantes et 17 autres communes;273914;2024;96,0;3,6;86,8;82,4;conforme;488782;23089;19;45;3360;Non vérifié
+78120;Bullion;78;eau potable : Bullion;158544;2024;90,7;1,1;10,5;67,1;conforme;8813;8813;13;38;1916;Non vérifié
+78123;Carrières-sous-Poissy;78;eau potable : Carrières-sous-Poissy;158603;2024;90,9;6,3;62,8;77,6;conforme;98649;98649;13;37;20825;Non vérifié
+78124;Carrières-sur-Seine;78;eau potable : Carrières-sur-Seine;158605;2024;76,7;16,8;55,4;76,1;conforme;282072;282072;52;146;14791;Non vérifié
+78125;La Celle-les-Bordes;78;eau potable;158719;2024;86,2;1,8;11,0;67,2;conforme;238491;8753;29;77;840;Non vérifié
+78126;La Celle-Saint-Cloud;78;eau potable : Périmètre DSP SEOP;158751;2024;92,6;4,7;59,0;76,8;conforme;2144375;93071;12;34;20460;Non vérifié
+78128;Cernay-la-Ville;78;eau potable;158716;2024;76,4;3,3;10,7;67,1;conforme;110814;23565;43;113;1516;Non vérifié
+78133;Chambourcy;78;eau potable;158554;2023;91,5;4,6;49,0;74,8;conforme;558922;68257;32;88;5847;Sans anomalie apparente
+78138;Chanteloup-les-Vignes;78;eau potable : ex SIDEC;158754;2024;87,8;5,1;36,8;72,4;conforme;511745;75252;19;54;10861;Non vérifié
+78140;Chapet;78;eau potable : Chapet;158609;2024;91,1;1,2;12,4;67,5;conforme;4954;4954;10;35;1331;Non vérifié
+78143;Châteaufort;78;eau potable : Périmètre DSP SEOP;158751;2024;92,6;4,7;59,0;76,8;conforme;2144375;7114;12;34;1564;Non vérifié
+78146;Chatou;78;eau potable : Chatou;158614;2024;93,7;4,1;61,2;77,2;conforme;102076;102076;9;30;30598;Non vérifié
+78152;Chavenay;78;eau potable : Périmètre DSP SEOP;158751;2024;92,6;4,7;59,0;76,8;conforme;2144375;7838;12;34;1723;Non vérifié
+78158;Le Chesnay-Rocquencourt;78;eau potable : Périmètre DSP SEOP;158751;2024;92,6;4,7;59,0;76,8;conforme;2144375;139602;12;34;30689;Non vérifié
+78160;Chevreuse;78;eau potable;158717;2024;80,4;4,4;18,1;68,6;conforme;87800;74205;37;89;5502;Non vérifié
+78162;Choisel;78;eau potable;158716;2024;76,4;3,3;10,7;67,1;conforme;110814;8394;43;113;540;Non vérifié
+78163;Civry-la-Forêt;78;eau potable;158564;2024;96,9;1,7;54,6;75,9;conforme;59202;5232;38;97;373;Non vérifié
+78164;Clairefontaine-en-Yvelines;78;eau potable;158719;2024;86,2;1,8;11,0;67,2;conforme;238491;8857;29;77;850;Non vérifié
+78165;Les Clayes-sous-Bois;78;eau potable : Périmètre DSP SUEZ;219559;2024;95,2;7,0;140,6;85,0;conforme;521220;176449;29;80;16804;Non vérifié
+78168;Coignières;78;eau potable : Périmètre DSP SEOP;158751;2024;92,6;4,7;59,0;76,8;conforme;2144375;19656;12;34;4321;Non vérifié
+78171;Condé-sur-Vesgre;78;eau potable;158563;2024;84,9;1,2;6,8;66,4;conforme;124830;11893;25;64;1279;Non vérifié
+78172;Conflans-Sainte-Honorine;78;eau potable : ex SIDEC;158754;2024;87,8;5,1;36,8;72,4;conforme;511745;256070;19;54;36958;Non vérifié
+78185;Courgent;78;eau potable;158624;2024;79,5;3,3;12,6;67,5;conforme;10250;10250;68;150;414;Non vérifié
+78189;Crespières;78;eau potable;158554;2023;91,5;4,6;49,0;74,8;conforme;558922;20067;32;88;1719;Sans anomalie apparente
+78190;Croissy-sur-Seine;78;eau potable : Croissy-sur-Seine;158625;2024;96,5;4,8;133,0;85,0;conforme;67329;67329;17;42;11013;Non vérifié
+78192;Dammartin-en-Serve;78;eau potable;158534;2024;98,9;0,2;18,2;68,6;conforme;807;807;2;5;1441;Non vérifié
+78193;Dampierre-en-Yvelines;78;eau potable;158717;2024;80,4;4,4;18,1;68,6;conforme;87800;13595;37;89;1008;Non vérifié
+78194;Dannemarie;78;eau potable : (sie boutigny);175229;2024;82,9;1,3;6,3;66,3;conforme;30415;2131;25;75;229;Non vérifié
+78196;Davron;78;eau potable;158554;2023;91,5;4,6;49,0;74,8;conforme;558922;3444;32;88;295;Sans anomalie apparente
+78202;Drocourt;78;eau potable : Issou et 6 autres communes;249934;2024;74,8;4,8;14,2;67,8;conforme;154964;10142;50;137;554;Non vérifié
+78206;Ecquevilly;78;eau potable : Ecquevilly;158629;2024;79,3;5,1;19,5;68,9;conforme;48771;48771;31;95;4279;Non vérifié
+78208;Élancourt;78;eau potable : Périmètre DSP SEOP;158751;2024;92,6;4,7;59,0;76,8;conforme;2144375;119932;12;34;26365;Non vérifié
+78209;Émancé;78;eau potable;158563;2024;84,9;1,2;6,8;66,4;conforme;124830;8108;25;64;872;Non vérifié
+78217;Épône;78;eau potable : Aubergenville et 12 communes;225214;2024;90,7;2,8;27,0;70,4;conforme;194282;46296;18;49;7031;Non vérifié
+78220;Les Essarts-le-Roi;78;eau potable;158566;2024;82,8;3,6;17,4;68,5;conforme;1262833;73864;30;88;6831;Non vérifié
+78224;L' Étang-la-Ville;78;eau potable : L'Etang-la-Ville;158634;2024;88,2;3,6;27,1;70,4;conforme;33468;33468;18;53;5157;Non vérifié
+78227;Évecquemont;78;eau potable : Issou et 6 autres communes;249934;2024;74,8;4,8;14,2;67,8;conforme;154964;13803;50;137;754;Non vérifié
+78230;La Falaise;78;eau potable : La Falaise-Nézel;158553;2024;72,5;4,5;11,9;67,4;conforme;23258;8103;36;138;609;Non vérifié
+78231;Favrieux;78;eau potable : Perdreauville et 4 autres communes;295014;2024;80,9;1,9;8,0;66,6;conforme;21637;1691;30;86;157;Non vérifié
+78233;Feucherolles;78;eau potable;158554;2023;91,5;4,6;49,0;74,8;conforme;558922;35524;32;88;3043;Sans anomalie apparente
+78234;Flacourt;78;eau potable : Aubergenville et 12 communes;225214;2024;90,7;2,8;27,0;70,4;conforme;194282;1212;18;49;184;Non vérifié
+78236;Flexanville;78;eau potable;158566;2024;82,8;3,6;17,4;68,5;conforme;1262833;6228;30;88;576;Non vérifié
+78237;Flins-Neuve-Église;78;eau potable;158755;2024;79,2;2,2;8,2;66,6;conforme;27053;1911;32;98;162;Non vérifié
+78238;Flins-sur-Seine;78;eau potable : Flins-sur-Seine;158637;2024;92,7;7,0;87,9;82,6;conforme;41136;41136;46;103;2447;Non vérifié
+78239;Follainville-Dennemont;78;eau potable : Mantes et 17 autres communes;273914;2024;96,0;3,6;86,8;82,4;conforme;488782;15008;19;45;2184;Non vérifié
+78242;Fontenay-le-Fleury;78;eau potable : Périmètre DSP SEOP;158751;2024;92,6;4,7;59,0;76,8;conforme;2144375;62229;12;34;13680;Non vérifié
+78245;Fontenay-Mauvoisin;78;eau potable : Perdreauville et 4 autres communes;295014;2024;80,9;1,9;8,0;66,6;conforme;21637;4954;30;86;460;Non vérifié
+78246;Fontenay-Saint-Père;78;eau potable : Issou et 6 autres communes;249934;2024;74,8;4,8;14,2;67,8;conforme;154964;17373;50;137;949;Non vérifié
+78255;Freneuse;78;eau potable;158551;2024;92,0;1,4;15,8;68,2;conforme;57288;26560;16;44;4505;Non vérifié
+78261;Gaillon-sur-Montcient;78;eau potable : ex SIAEP de Montalet;158560;2024;83,8;1,8;9,3;66,9;conforme;35110;6468;26;71;689;Non vérifié
+78262;Galluis;78;eau potable;158566;2024;82,8;3,6;17,4;68,5;conforme;1262833;14035;30;88;1298;Non vérifié
+78263;Gambais;78;eau potable;158566;2024;82,8;3,6;17,4;68,5;conforme;1262833;27833;30;88;2574;Non vérifié
+78264;Gambaiseuil;78;eau potable;158566;2024;82,8;3,6;17,4;68,5;conforme;1262833;692;30;88;64;Non vérifié
+78265;Garancières;78;eau potable;158566;2024;82,8;3,6;17,4;68,5;conforme;1262833;28341;30;88;2621;Non vérifié
+78267;Gargenville;78;eau potable : ex SIAEP Mezy - Juziers - Hardricourt - Gargenville;158559;2024;81,8;5,1;22,9;69,6;conforme;184047;86335;30;85;7869;Non vérifié
+78269;Gazeran;78;eau potable;158563;2024;84,9;1,2;6,8;66,4;conforme;124830;13873;25;64;1492;Non vérifié
+78276;Gommecourt;78;eau potable;158551;2024;92,0;1,4;15,8;68,2;conforme;57288;3614;16;44;613;Non vérifié
+78278;Goupillières;78;eau potable;158566;2024;82,8;3,6;17,4;68,5;conforme;1262833;6163;30;88;570;Non vérifié
+78281;Goussonville;78;eau potable : Aubergenville et 12 communes;225214;2024;90,7;2,8;27,0;70,4;conforme;194282;4280;18;49;650;Non vérifié
+78283;Grandchamp;78;eau potable;158563;2024;84,9;1,2;6,8;66,4;conforme;124830;2789;25;64;300;Non vérifié
+78285;Gressey;78;eau potable;158564;2024;96,9;1,7;54,6;75,9;conforme;59202;7476;38;97;533;Non vérifié
+78289;Grosrouvre;78;eau potable;158566;2024;82,8;3,6;17,4;68,5;conforme;1262833;9753;30;88;902;Non vérifié
+78290;Guernes;78;eau potable : Mantes et 17 autres communes;273914;2024;96,0;3,6;86,8;82,4;conforme;488782;7456;19;45;1085;Non vérifié
+78291;Guerville;78;eau potable : Mantes la Ville - Guerville;294954;2024;84,0;6,5;34,1;71,8;conforme;243181;20465;27;71;2052;Non vérifié
+78296;Guitrancourt;78;eau potable : Guitrancourt;158535;2024;88,8;1,1;8,6;66,7;conforme;4015;4015;17;47;646;Non vérifié
+78297;Guyancourt;78;eau potable : Périmètre DSP SEOP;158751;2024;92,6;4,7;59,0;76,8;conforme;2144375;135457;12;34;29778;Non vérifié
+78299;Hardricourt;78;eau potable : ex SIAEP Mezy - Juziers - Hardricourt - Gargenville;158559;2024;81,8;5,1;22,9;69,6;conforme;184047;28515;30;85;2599;Non vérifié
+78300;Hargeville;78;eau potable : Aubergenville et 12 communes;225214;2024;90,7;2,8;27,0;70,4;conforme;194282;2752;18;49;418;Non vérifié
+78302;La Hauteville;78;eau potable;158563;2024;84,9;1,2;6,8;66,4;conforme;124830;1460;25;64;157;Non vérifié
+78307;Hermeray;78;eau potable;158563;2024;84,9;1,2;6,8;66,4;conforme;124830;9363;25;64;1007;Non vérifié
+78310;Houdan;78;eau potable;158536;2024;93,1;3,2;42,3;73,5;conforme;24189;24189;18;28;3721;Non vérifié
+78311;Houilles;78;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;205765;17;43;33983;Non vérifié
+78314;Issou;78;eau potable : Issou;158646;2024;96,7;0,9;25,8;70,2;conforme;6130;6130;4;13;4060;Non vérifié
+78317;Jambville;78;eau potable : ex SIAEP de Montalet;158560;2024;83,8;1,8;9,3;66,9;conforme;35110;7444;26;71;793;Non vérifié
+78320;Notre-Dame-de-la-Mer;78;eau potable;158551;2024;92,0;1,4;15,8;68,2;conforme;57288;4375;16;44;742;Non vérifié
+78321;Jouars-Pontchartrain;78;eau potable;158566;2024;82,8;3,6;17,4;68,5;conforme;1262833;65300;30;88;6039;Non vérifié
+78322;Jouy-en-Josas;78;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;48324;17;43;7981;Non vérifié
+78324;Jouy-Mauvoisin;78;eau potable : Perdreauville et 4 autres communes;295014;2024;80,9;1,9;8,0;66,6;conforme;21637;5967;30;86;554;Non vérifié
+78325;Jumeauville;78;eau potable : Aubergenville et 12 communes;225214;2024;90,7;2,8;27,0;70,4;conforme;194282;4201;18;49;638;Non vérifié
+78327;Juziers;78;eau potable : ex SIAEP Mezy - Juziers - Hardricourt - Gargenville;158559;2024;81,8;5,1;22,9;69,6;conforme;184047;44599;30;85;4065;Non vérifié
+78329;Lainville-en-Vexin;78;eau potable : ex SIAEP de Montalet;158560;2024;83,8;1,8;9,3;66,9;conforme;35110;7557;26;71;805;Non vérifié
+78334;Lévis-Saint-Nom;78;eau potable;158566;2024;82,8;3,6;17,4;68,5;conforme;1262833;17333;30;88;1603;Non vérifié
+78335;Limay;78;eau potable : Limay et Guitrancourt;158650;2024;87,8;7,5;54,2;75,8;conforme;180593;180593;28;51;17885;Non vérifié
+78337;Limetz-Villez;78;eau potable;158551;2024;92,0;1,4;15,8;68,2;conforme;57288;12440;16;44;2110;Non vérifié
+78343;Les Loges-en-Josas;78;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;9960;17;43;1645;Non vérifié
+78346;Longnes;78;eau potable;158755;2024;79,2;2,2;8,2;66,6;conforme;27053;18889;32;98;1601;Non vérifié
+78349;Longvilliers;78;eau potable;158719;2024;86,2;1,8;11,0;67,2;conforme;238491;5168;29;77;496;Non vérifié
+78350;Louveciennes;78;eau potable : Périmètre DSP SEOP;158751;2024;92,6;4,7;59,0;76,8;conforme;2144375;36346;12;34;7990;Non vérifié
+78354;Magnanville;78;eau potable : Mantes et 17 autres communes;273914;2024;96,0;3,6;86,8;82,4;conforme;488782;43862;19;45;6383;Non vérifié
+78356;Magny-les-Hameaux;78;eau potable;158566;2024;82,8;3,6;17,4;68,5;conforme;1262833;101492;30;88;9386;Non vérifié
+78358;Maisons-Laffitte;78;eau potable : Maisons-Laffitte;158655;2024;95,6;2,5;55,0;76,0;conforme;66904;66904;8;17;23093;Non vérifié
+78361;Mantes-la-Jolie;78;eau potable : Mantes et 17 autres communes;273914;2024;96,0;3,6;86,8;82,4;conforme;488782;299100;19;45;43526;Non vérifié
+78362;Mantes-la-Ville;78;eau potable : Mantes la Ville - Guerville;294954;2024;84,0;6,5;34,1;71,8;conforme;243181;222717;27;71;22332;Non vérifié
+78364;Marcq;78;eau potable;158566;2024;82,8;3,6;17,4;68,5;conforme;1262833;8672;30;88;802;Non vérifié
+78366;Mareil-le-Guyon;78;eau potable;158566;2024;82,8;3,6;17,4;68,5;conforme;1262833;4542;30;88;420;Non vérifié
+78367;Mareil-Marly;78;eau potable : Mareil-Marly;158658;2024;91,0;3,3;32,9;71,6;conforme;25114;25114;17;45;4141;Non vérifié
+78368;Mareil-sur-Mauldre;78;eau potable;158566;2024;82,8;3,6;17,4;68,5;conforme;1262833;19204;30;88;1776;Non vérifié
+78372;Marly-le-Roi;78;eau potable : Marly-le-Roi;158659;2024;92,9;4,7;60,6;77,1;conforme;78982;78982;13;33;16756;Non vérifié
+78381;Maulette;78;eau potable;158566;2024;82,8;3,6;17,4;68,5;conforme;1262833;11765;30;88;1088;Non vérifié
+78382;Maurecourt;78;eau potable;118284;2024;89,5;5,3;44,8;74,0;conforme;1441473;29146;18;44;4454;Non vérifié
+78383;Maurepas;78;eau potable : Périmètre DSP SEOP;158751;2024;92,6;4,7;59,0;76,8;conforme;2144375;93839;12;34;20629;Non vérifié
+78384;Médan;78;eau potable;158554;2023;91,5;4,6;49,0;74,8;conforme;558922;15048;32;88;1289;Sans anomalie apparente
+78389;Méré;78;eau potable;158566;2024;82,8;3,6;17,4;68,5;conforme;1262833;18718;30;88;1731;Non vérifié
+78391;Méricourt;78;eau potable : Mantes et 17 autres communes;273914;2024;96,0;3,6;86,8;82,4;conforme;488782;2632;19;45;383;Non vérifié
+78396;Le Mesnil-le-Roi;78;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;38340;17;43;6332;Non vérifié
+78397;Le Mesnil-Saint-Denis;78;eau potable;158566;2024;82,8;3,6;17,4;68,5;conforme;1262833;78676;30;88;7276;Non vérifié
+78398;Les Mesnuls;78;eau potable;158566;2024;82,8;3,6;17,4;68,5;conforme;1262833;9840;30;88;910;Non vérifié
+78401;Meulan-en-Yvelines;78;eau potable : Meulan-Tessancourt;299274;2024;94,4;10,5;177,4;85,0;conforme;175069;158014;48;124;8950;Non vérifié
+78402;Mézières-sur-Seine;78;eau potable : Aubergenville et 12 communes;225214;2024;90,7;2,8;27,0;70,4;conforme;194282;25831;18;49;3923;Non vérifié
+78403;Mézy-sur-Seine;78;eau potable : ex SIAEP Mezy - Juziers - Hardricourt - Gargenville;158559;2024;81,8;5,1;22,9;69,6;conforme;184047;24598;30;85;2242;Non vérifié
+78404;Millemont;78;eau potable;158566;2024;82,8;3,6;17,4;68,5;conforme;1262833;2941;30;88;272;Non vérifié
+78406;Milon-la-Chapelle;78;eau potable;158566;2024;82,8;3,6;17,4;68,5;conforme;1262833;3190;30;88;295;Non vérifié
+78407;Mittainville;78;eau potable;158563;2024;84,9;1,2;6,8;66,4;conforme;124830;6128;25;64;659;Non vérifié
+78413;Mondreville;78;eau potable : (sie oulins gilles mesnil simon);175525;2024;78,6;1,9;7,1;66,4;conforme;81514;5441;39;97;381;Non vérifié
+78415;Montainville;78;eau potable;158566;2024;82,8;3,6;17,4;68,5;conforme;1262833;6369;30;88;589;Non vérifié
+78416;Montalet-le-Bois;78;eau potable : ex SIAEP de Montalet;158560;2024;83,8;1,8;9,3;66,9;conforme;35110;3023;26;71;322;Non vérifié
+78417;Montchauvet;78;eau potable;158540;2024;100,0;0,0;9,1;66,8;conforme;0;0;0;0;275;Non vérifié
+78418;Montesson;78;eau potable : Montesson;158669;2024;91,9;8,3;94,1;83,8;conforme;665551;665551;125;96;14549;Non vérifié
+78420;Montfort-l'Amaury;78;eau potable;158566;2024;82,8;3,6;17,4;68,5;conforme;1262833;30050;30;88;2779;Non vérifié
+78423;Montigny-le-Bretonneux;78;eau potable : Périmètre DSP SEOP;158751;2024;92,6;4,7;59,0;76,8;conforme;2144375;147680;12;34;32465;Non vérifié
+78431;Morainvilliers;78;eau potable;158554;2023;91,5;4,6;49,0;74,8;conforme;558922;36423;32;88;3120;Sans anomalie apparente
+78437;Mousseaux-sur-Seine;78;eau potable : Mantes et 17 autres communes;273914;2024;96,0;3,6;86,8;82,4;conforme;488782;4735;19;45;689;Non vérifié
+78439;Mulcent;78;eau potable;158670;2024;71,0;3,1;7,6;66,5;conforme;4073;4073;87;150;128;Non vérifié
+78440;Les Mureaux;78;eau potable : les Mureaux et Bouafle;158672;2024;81,1;12,6;54,0;75,8;conforme;466844;438555;35;99;34632;Non vérifié
+78442;Neauphle-le-Château;78;eau potable : Neauphle-le-Chateau & Villiers-Saint-Frédéric;158558;2024;84,9;3,8;21,3;69,3;conforme;57671;28207;24;70;3250;Non vérifié
+78443;Neauphle-le-Vieux;78;eau potable;158566;2024;82,8;3,6;17,4;68,5;conforme;1262833;10132;30;88;937;Non vérifié
+78444;Neauphlette;78;eau potable;158555;2024;94,7;0,5;8,6;66,7;conforme;8650;2493;8;22;871;Non vérifié
+78451;Nézel;78;eau potable : La Falaise-Nézel;158553;2024;72,5;4,5;11,9;67,4;conforme;23258;15155;36;138;1139;Non vérifié
+78455;Noisy-le-Roi;78;eau potable : Périmètre DSP SEOP;158751;2024;92,6;4,7;59,0;76,8;conforme;2144375;35086;12;34;7713;Non vérifié
+78460;Oinville-sur-Montcient;78;eau potable : ex SIAEP de Montalet;158560;2024;83,8;1,8;9,3;66,9;conforme;35110;10618;26;71;1131;Non vérifié
+78464;Orcemont;78;eau potable;158719;2024;86,2;1,8;11,0;67,2;conforme;238491;10264;29;77;985;Non vérifié
+78465;Orgerus;78;eau potable;158566;2024;82,8;3,6;17,4;68,5;conforme;1262833;26914;30;88;2489;Non vérifié
+78466;Orgeval;78;eau potable;158554;2023;91,5;4,6;49,0;74,8;conforme;558922;84659;32;88;7252;Sans anomalie apparente
+78470;Orphin;78;eau potable;158719;2024;86,2;1,8;11,0;67,2;conforme;238491;9117;29;77;875;Non vérifié
+78472;Orsonville;78;eau potable;158719;2024;86,2;1,8;11,0;67,2;conforme;238491;3386;29;77;325;Non vérifié
+78474;Orvilliers;78;eau potable;158564;2024;96,9;1,7;54,6;75,9;conforme;59202;12974;38;97;925;Non vérifié
+78475;Osmoy;78;eau potable;158566;2024;82,8;3,6;17,4;68,5;conforme;1262833;4466;30;88;413;Non vérifié
+78478;Paray-Douaville;78;eau potable;158719;2024;86,2;1,8;11,0;67,2;conforme;238491;2272;29;77;218;Non vérifié
+78481;Le Pecq;78;eau potable : Le Pecq;158677;2024;91,9;8,3;94,1;83,8;conforme;665551;665551;114;96;16059;Non vérifié
+78484;Perdreauville;78;eau potable : Perdreauville et 4 autres communes;295014;2024;80,9;1,9;8,0;66,6;conforme;21637;7550;30;86;701;Non vérifié
+78486;Le Perray-en-Yvelines;78;eau potable;158566;2024;82,8;3,6;17,4;68,5;conforme;1262833;70069;30;88;6480;Non vérifié
+78490;Plaisir;78;eau potable : Périmètre DSP SUEZ;219559;2024;95,2;7,0;140,6;85,0;conforme;521220;334029;29;80;31811;Non vérifié
+78497;Poigny-la-Forêt;78;eau potable;158563;2024;84,9;1,2;6,8;66,4;conforme;124830;8898;25;64;957;Non vérifié
+78498;Poissy;78;eau potable : Poissy;158678;2024;93,2;4,7;64,7;77,9;conforme;171035;171035;11;30;40983;Non vérifié
+78499;Ponthévrard;78;eau potable;158719;2024;86,2;1,8;11,0;67,2;conforme;238491;7221;29;77;693;Non vérifié
+78501;Porcheville;78;eau potable : Mantes et 17 autres communes;273914;2024;96,0;3,6;86,8;82,4;conforme;488782;23240;19;45;3382;Non vérifié
+78502;Le Port-Marly;78;eau potable : Le Port-Marly;158683;2024;94,5;3,5;60,4;77,1;conforme;18473;18473;9;23;5559;Non vérifié
+78505;Prunay-le-Temple;78;eau potable;158566;2024;82,8;3,6;17,4;68,5;conforme;1262833;4423;30;88;409;Non vérifié
+78506;Prunay-en-Yvelines;78;eau potable;158719;2024;86,2;1,8;11,0;67,2;conforme;238491;8419;29;77;808;Non vérifié
+78513;La Queue-les-Yvelines;78;eau potable;158566;2024;82,8;3,6;17,4;68,5;conforme;1262833;28428;30;88;2629;Non vérifié
+78516;Raizeux;78;eau potable;158563;2024;84,9;1,2;6,8;66,4;conforme;124830;9019;25;64;970;Non vérifié
+78517;Rambouillet;78;eau potable : Rambouillet;297994;2024;91,3;3,3;34,5;71,9;conforme;136879;136879;14;35;27724;Non vérifié
+78518;Rennemoulin;78;eau potable : Périmètre DSP SEOP;158751;2024;92,6;4,7;59,0;76,8;conforme;2144375;528;12;34;116;Non vérifié
+78520;Richebourg;78;eau potable;158566;2024;82,8;3,6;17,4;68,5;conforme;1262833;16977;30;88;1570;Non vérifié
+78522;Rochefort-en-Yvelines;78;eau potable;158719;2024;86,2;1,8;11,0;67,2;conforme;238491;9482;29;77;910;Non vérifié
+78528;Rolleboise;78;eau potable : Mantes et 17 autres communes;273914;2024;96,0;3,6;86,8;82,4;conforme;488782;2378;19;45;346;Non vérifié
+78530;Rosay;78;eau potable;158566;2024;82,8;3,6;17,4;68,5;conforme;1262833;4185;30;88;387;Non vérifié
+78531;Rosny-sur-Seine;78;eau potable : Mantes et 17 autres communes;273914;2024;96,0;3,6;86,8;82,4;conforme;488782;50356;19;45;7328;Non vérifié
+78536;Sailly;78;eau potable : Issou et 6 autres communes;249934;2024;74,8;4,8;14,2;67,8;conforme;154964;6480;50;137;354;Non vérifié
+78537;Saint-Arnoult-en-Yvelines;78;eau potable;158719;2024;86,2;1,8;11,0;67,2;conforme;238491;61217;29;77;5875;Non vérifié
+78545;Saint-Cyr-l'École;78;eau potable : Périmètre DSP SEOP;158751;2024;92,6;4,7;59,0;76,8;conforme;2144375;96746;12;34;21268;Non vérifié
+78548;Saint-Forget;78;eau potable;158566;2024;82,8;3,6;17,4;68,5;conforme;1262833;4715;30;88;436;Non vérifié
+78550;Saint-Germain-de-la-Grange;78;eau potable;158566;2024;82,8;3,6;17,4;68,5;conforme;1262833;19972;30;88;1847;Non vérifié
+78551;Saint-Germain-en-Laye;78;eau potable : Saint-Germain-en-Laye;331274;2024;91,0;6,1;61,3;77,3;conforme;304296;304296;18;45;45931;Non vérifié
+78557;Saint-Hilarion;78;eau potable;158563;2024;84,9;1,2;6,8;66,4;conforme;124830;9289;25;64;999;Non vérifié
+78561;Saint-Lambert;78;eau potable;158566;2024;82,8;3,6;17,4;68,5;conforme;1262833;4833;30;88;447;Non vérifié
+78562;Saint-Léger-en-Yvelines;78;eau potable;158563;2024;84,9;1,2;6,8;66,4;conforme;124830;13650;25;64;1468;Non vérifié
+78564;Saint-Martin-de-Bréthencourt;78;eau potable;158719;2024;86,2;1,8;11,0;67,2;conforme;238491;7190;29;77;690;Non vérifié
+78565;Saint-Martin-des-Champs;78;eau potable;158566;2024;82,8;3,6;17,4;68,5;conforme;1262833;3287;30;88;304;Non vérifié
+78567;Saint-Martin-la-Garenne;78;eau potable : Mantes et 17 autres communes;273914;2024;96,0;3,6;86,8;82,4;conforme;488782;6473;19;45;942;Non vérifié
+78569;Sainte-Mesme;78;eau potable;158719;2024;86,2;1,8;11,0;67,2;conforme;238491;9420;29;77;904;Non vérifié
+78571;Saint-Nom-la-Bretèche;78;eau potable;158554;2023;91,5;4,6;49,0;74,8;conforme;558922;57961;32;88;4965;Sans anomalie apparente
+78575;Saint-Rémy-lès-Chevreuse;78;eau potable;158697;2024;80,4;6,0;24,7;69,9;conforme;89724;89724;32;89;7747;Non vérifié
+78576;Saint-Rémy-l'Honoré;78;eau potable;158566;2024;82,8;3,6;17,4;68,5;conforme;1262833;18263;30;88;1689;Non vérifié
+78586;Sartrouville;78;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;319476;17;43;52763;Non vérifié
+78588;Saulx-Marchais;78;eau potable;158566;2024;82,8;3,6;17,4;68,5;conforme;1262833;10272;30;88;950;Non vérifié
+78590;Senlisse;78;eau potable;158716;2024;76,4;3,3;10,7;67,1;conforme;110814;7943;43;113;511;Non vérifié
+78591;Septeuil;78;eau potable;158702;2024;89,2;1,7;14,3;67,9;conforme;13614;13614;16;44;2264;Non vérifié
+78597;Soindres;78;eau potable : Mantes et 17 autres communes;273914;2024;96,0;3,6;86,8;82,4;conforme;488782;5202;19;45;757;Non vérifié
+78601;Sonchamp;78;eau potable;158719;2024;86,2;1,8;11,0;67,2;conforme;238491;17485;29;77;1678;Non vérifié
+78605;Tacoignières;78;eau potable;158566;2024;82,8;3,6;17,4;68,5;conforme;1262833;13181;30;88;1219;Non vérifié
+78606;Le Tartre-Gaudran;78;eau potable;158563;2024;84,9;1,2;6,8;66,4;conforme;124830;344;25;64;37;Non vérifié
+78608;Le Tertre-Saint-Denis;78;eau potable : Perdreauville et 4 autres communes;295014;2024;80,9;1,9;8,0;66,6;conforme;21637;1476;30;86;137;Non vérifié
+78609;Tessancourt-sur-Aubette;78;eau potable : Meulan-Tessancourt;299274;2024;94,4;10,5;177,4;85,0;conforme;175069;17055;48;124;966;Non vérifié
+78615;Thiverval-Grignon;78;eau potable : Périmètre DSP SUEZ;219559;2024;95,2;7,0;140,6;85,0;conforme;521220;10742;29;80;1023;Non vérifié
+78616;Thoiry;78;eau potable;158566;2024;82,8;3,6;17,4;68,5;conforme;1262833;15506;30;88;1434;Non vérifié
+78618;Tilly;78;eau potable;158755;2024;79,2;2,2;8,2;66,6;conforme;27053;6253;32;98;530;Non vérifié
+78620;Toussus-le-Noble;78;eau potable : Périmètre DSP SEOP;158751;2024;92,6;4,7;59,0;76,8;conforme;2144375;5331;12;34;1172;Non vérifié
+78621;Trappes;78;eau potable : Périmètre DSP SEOP;158751;2024;92,6;4,7;59,0;76,8;conforme;2144375;157797;12;34;34689;Non vérifié
+78623;Le Tremblay-sur-Mauldre;78;eau potable;158566;2024;82,8;3,6;17,4;68,5;conforme;1262833;10056;30;88;930;Non vérifié
+78624;Triel-sur-Seine;78;eau potable : ex SIDEC;158754;2024;87,8;5,1;36,8;72,4;conforme;511745;84571;19;54;12206;Non vérifié
+78638;Vaux-sur-Seine;78;eau potable : Issou et 6 autres communes;249934;2024;74,8;4,8;14,2;67,8;conforme;154964;95230;50;137;5202;Non vérifié
+78640;Vélizy-Villacoublay;78;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;139330;17;43;23011;Non vérifié
+78642;Verneuil-sur-Seine;78;eau potable : ex SIEA Verneuil Vernouillet;158753;2024;81,7;7,0;31,4;71,3;conforme;287897;180414;30;91;16280;Non vérifié
+78643;Vernouillet;78;eau potable : ex SIEA Verneuil Vernouillet;158753;2024;81,7;7,0;31,4;71,3;conforme;287897;107484;30;91;9699;Non vérifié
+78644;La Verrière;78;eau potable : Périmètre DSP SEOP;158751;2024;92,6;4,7;59,0;76,8;conforme;2144375;27266;12;34;5994;Non vérifié
+78646;Versailles;78;eau potable : Périmètre DSP SEOP;158751;2024;92,6;4,7;59,0;76,8;conforme;2144375;382541;12;34;84095;Non vérifié
+78647;Vert;78;eau potable : Aubergenville et 12 communes;225214;2024;90,7;2,8;27,0;70,4;conforme;194282;5610;18;49;852;Non vérifié
+78650;Le Vésinet;78;eau potable : Le Vésinet;158711;2024;91,9;8,3;94,1;83,8;conforme;665551;665551;117;96;15554;Non vérifié
+78653;Vicq;78;eau potable;158566;2024;82,8;3,6;17,4;68,5;conforme;1262833;4206;30;88;389;Non vérifié
+78655;Vieille-Église-en-Yvelines;78;eau potable;158566;2024;82,8;3,6;17,4;68,5;conforme;1262833;7050;30;88;652;Non vérifié
+78672;Villennes-sur-Seine;78;eau potable;158554;2023;91,5;4,6;49,0;74,8;conforme;558922;69483;32;88;5952;Sans anomalie apparente
+78674;Villepreux;78;eau potable : Périmètre DSP SEOP;158751;2024;92,6;4,7;59,0;76,8;conforme;2144375;54273;12;34;11931;Non vérifié
+78677;Villette;78;eau potable;215539;2023;96,5;0,4;9,7;66,9;conforme;1031;1031;5;15;524;Sans anomalie apparente
+78681;Villiers-le-Mahieu;78;eau potable;158566;2024;82,8;3,6;17,4;68,5;conforme;1262833;9602;30;88;888;Non vérifié
+78683;Villiers-Saint-Fréderic;78;eau potable : Neauphle-le-Chateau & Villiers-Saint-Frédéric;158558;2024;84,9;3,8;21,3;69,3;conforme;57671;29465;24;70;3395;Non vérifié
+78686;Viroflay;78;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;104369;17;43;17237;Non vérifié
+78688;Voisins-le-Bretonneux;78;eau potable : Périmètre DSP SEOP;158751;2024;92,6;4,7;59,0;76,8;conforme;2144375;48328;12;34;10624;Non vérifié

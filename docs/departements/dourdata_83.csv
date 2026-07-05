@@ -1,0 +1,160 @@
+﻿# DourData — eau perdue par les réseaux d'eau potable (indicateurs SISPEA)
+# Périmètre : Département 83
+# Source : SISPEA — Système d'Information des Services Publics d'Eau et d'Assainissement, via data.gouv.fr / services.eaufrance.fr
+# Licence : Licence Ouverte 2.0 (Etalab)
+# Millésime des données : 2023–2024 (année la plus récente disponible par commune)
+# Date de génération de l'export : 2026-07-05
+# Méthodologie et code : https://github.com/btaverne/dourdata
+# Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
+# Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
+83001;Les Adrets-de-l'Estérel;83;eau potable : Les Adrets;209634;2024;88,0;2,9;21,2;69,2;conforme;38720;38720;38;50;2775;Non vérifié
+83002;Aiguines;83;eau potable;178323;2024;47,0;5,4;4,8;66,0;non conforme;27594;27594;276;408;274;Non vérifié
+83003;Ampus;83;eau potable : ex Ampus;178326;2024;69,3;1,8;4,1;65,8;conforme;25991;25991;77;161;919;Non vérifié
+83004;Les Arcs;83;eau potable : ex Les Arcs;178328;2024;79,9;5,1;20,4;69,1;conforme;154616;154616;52;91;8109;Non vérifié
+83005;Artignosc-sur-Verdon;83;eau potable;178329;2024;77,0;3,9;13,1;67,6;conforme;11872;11872;105;109;311;Non vérifié
+83006;Artigues;83;eau potable;178332;2024;70,6;2,2;5,3;66,1;conforme;8713;8713;85;152;282;Non vérifié
+83007;Aups;83;eau potable;178334;2024;85,4;2,4;14,0;67,8;conforme;36354;36354;45;63;2192;Non vérifié
+83008;Bagnols-en-Forêt;83;eau potable : ex Bagnols;178335;2024;83,5;3,3;16,7;68,3;conforme;62754;62754;54;72;3194;Non vérifié
+83009;Bandol;83;eau potable : ZA Signes;200498;2024;100,0;0,0;45,1;74,0;conforme;0;0;0;0;8267;Non vérifié
+83010;Bargème;83;eau potable : ex SIVOM SUD AEP;275814;2024;62,0;1,9;3,1;65,6;non conforme;49932;9996;132;222;207;Non vérifié
+83011;Bargemon;83;eau potable : ex Bargemon;178344;2024;70,8;4,0;9,7;66,9;conforme;39420;39420;75;151;1433;Non vérifié
+83012;Barjols;83;eau potable;178346;2024;73,1;6,2;16,8;68,4;conforme;124850;124850;115;134;2984;Non vérifié
+83013;La Bastide;83;eau potable : ex SIVOM SUD AEP;275814;2024;62,0;1,9;3,1;65,6;non conforme;49932;10962;132;222;227;Non vérifié
+83014;Baudinard-sur-Verdon;83;eau potable;178349;2024;59,7;2,5;3,7;65,7;non conforme;19847;19847;231;248;235;Non vérifié
+83015;Bauduen;83;eau potable;178352;2024;75,8;4,8;15,0;68,0;conforme;18536;18536;165;117;308;Non vérifié
+83016;Le Beausset;83;eau potable : ZA Signes;200498;2024;100,0;0,0;45,1;74,0;conforme;0;0;0;0;10219;Non vérifié
+83017;Belgentier;83;eau potable;221814;2024;89,5;3,8;33,0;71,6;conforme;230242;16222;19;66;2373;Non vérifié
+83018;Besse-sur-Issole;83;eau potable;178357;2023;86,3;2,9;18,3;68,7;conforme;17952;17952;16;58;3125;Non vérifié
+83019;Bormes-les-Mimosas;83;eau potable;178360;2024;91,8;2,1;23,4;69,7;conforme;106881;106881;34;33;8545;Non vérifié
+83020;Le Bourguet;83;eau potable : SIVOM SNAJ;294254;2024;74,9;1,3;3,9;65,8;conforme;22776;1589;104;121;42;Non vérifié
+83021;Bras;83;eau potable : ex Bras;178366;2024;81,8;2,8;12,6;67,5;conforme;30834;30834;32;81;2637;Non vérifié
+83022;Brenon;83;eau potable : SIVOM SNAJ;294254;2024;74,9;1,3;3,9;65,8;conforme;22776;908;104;121;24;Non vérifié
+83023;Brignoles;83;eau potable : Brignoles;178370;2024;94,9;2,2;40,9;73,2;conforme;83215;83215;13;20;17850;Non vérifié
+83025;Brue-Auriac;83;eau potable;178371;2024;87,0;2,2;14,8;68,0;conforme;12736;12736;24;54;1463;Non vérifié
+83026;Cabasse;83;eau potable;178373;2024;76,3;4,8;15,4;68,1;conforme;27331;27331;37;114;2020;Non vérifié
+83027;La Cadière-d'Azur;83;eau potable : ZA Signes;200498;2024;100,0;0,0;45,1;74,0;conforme;0;0;0;0;5739;Non vérifié
+83028;Callas;83;eau potable : ex Callas;178378;2024;81,3;2,9;12,5;67,5;conforme;32125;32125;41;85;2124;Non vérifié
+83029;Callian;83;eau potable : ex Callian;178380;2024;76,2;6,9;21,9;69,4;conforme;121241;121241;87;115;3823;Non vérifié
+83030;Camps-la-Source;83;eau potable : ex Camps la source;178382;2024;86,4;3,2;20,2;69,0;conforme;15733;15733;22;58;1941;Non vérifié
+83031;Le Cannet-des-Maures;83;eau potable;178384;2024;81,0;3,8;16,1;68,2;conforme;94011;94011;50;86;5140;Non vérifié
+83032;Carcès;83;eau potable : Carces;178385;2024;54,0;10,5;12,3;67,5;non conforme;199290;199290;154;311;3540;Non vérifié
+83033;Carnoules;83;eau potable;178388;2024;95,1;0,9;17,7;68,5;conforme;9221;9221;6;19;4388;Non vérifié
+83034;Carqueiranne;83;eau potable : Carqueiranne;178391;2024;81,4;4,1;18,2;68,6;conforme;153601;153601;45;82;9408;Non vérifié
+83035;Le Castellet;83;eau potable : ZA Signes;200498;2024;100,0;0,0;45,1;74,0;conforme;0;0;0;0;6040;Non vérifié
+83036;Cavalaire-sur-Mer;83;eau potable : POLE EAU 1 SIDECM;178478;2024;87,7;4,4;31,6;71,3;conforme;1588334;291948;98;51;8121;Non vérifié
+83037;La Celle;83;eau potable : La Celle;178399;2024;75,9;4,7;14,9;68,0;conforme;26179;26179;43;115;1659;Non vérifié
+83038;Châteaudouble;83;eau potable : ex Chateaudouble;178401;2024;77,5;2,2;7,4;66,5;conforme;5589;5589;32;109;476;Non vérifié
+83039;Châteauvert;83;eau potable : Chateauvert;178403;2024;71,1;1,7;4,3;65,9;conforme;5808;5808;113;145;141;Non vérifié
+83040;Châteauvieux;83;eau potable : SIVOM SNAJ;294254;2024;74,9;1,3;3,9;65,8;conforme;22776;2951;104;121;78;Non vérifié
+83041;Claviers;83;eau potable : ex Clavier;199623;2024;78,3;2,3;8,1;66,6;conforme;14960;14960;56;104;727;Non vérifié
+83042;Cogolin;83;eau potable : POLE EAU 1 SIDECM;178478;2024;87,7;4,4;31,6;71,3;conforme;1588334;442218;98;51;12301;Non vérifié
+83043;Collobrières;83;eau potable;178408;2024;80,4;4,0;16,3;68,3;conforme;29550;29550;43;90;1870;Non vérifié
+83044;Comps-sur-Artuby;83;eau potable : ex SIVOM SUD AEP;275814;2024;62,0;1,9;3,1;65,6;non conforme;49932;16370;132;222;339;Non vérifié
+83045;Correns;83;eau potable : Correns;178415;2024;74,3;3,3;9,6;66,9;conforme;11021;11021;34;125;886;Non vérifié
+83046;Cotignac;83;eau potable : ex Cotignac;178417;2024;83,0;2,7;13,4;67,7;conforme;46299;46299;58;74;2197;Non vérifié
+83047;La Crau;83;eau potable : SECTEUR EST – Hyères La Crau;178168;2024;84,2;5,9;31,7;71,3;conforme;1026681;236705;33;68;19556;Non vérifié
+83048;La Croix-Valmer;83;eau potable : POLE EAU 1 SIDECM;178478;2024;87,7;4,4;31,6;71,3;conforme;1588334;138586;98;51;3855;Non vérifié
+83049;Cuers;83;eau potable : Territoire n°1;178424;2024;80,9;6,1;25,8;70,2;conforme;146949;146949;30;86;13271;Non vérifié
+83050;Draguignan;83;eau potable : draguignan;178428;2024;90,1;3,5;31,6;71,3;conforme;307328;307328;21;43;40826;Non vérifié
+83051;Entrecasteaux;83;eau potable : Entrecasteaux;178430;2024;77,8;3,3;11,6;67,3;conforme;27499;27499;67;104;1118;Non vérifié
+83052;Esparron-de-Pallières;83;eau potable;178431;2024;55,6;5,3;6,6;66,3;non conforme;12768;12768;93;291;377;Non vérifié
+83053;Évenos;83;eau potable : ZA Signes;200498;2024;100,0;0,0;45,1;74,0;conforme;0;0;0;0;2406;Non vérifié
+83054;La Farlède;83;eau potable;221814;2024;89,5;3,8;33,0;71,6;conforme;230242;68455;19;66;10014;Non vérifié
+83055;Fayence;83;eau potable : Fayence;178143;2024;84,3;3,6;19,4;68,9;conforme;128076;128076;57;83;6157;Non vérifié
+83056;Figanières;83;eau potable : ex Figannieres;178144;2024;79,5;3,6;14,1;67,8;conforme;49406;49406;49;93;2762;Non vérifié
+83057;Flassans-sur-Issole;83;eau potable;178147;2024;79,0;5,8;21,8;69,4;conforme;65500;65500;48;97;3706;Non vérifié
+83058;Flayosc;83;eau potable : ex Flayosc;178148;2024;85,9;2,1;13,0;67,6;conforme;61972;61972;36;59;4673;Non vérifié
+83059;Forcalqueiret;83;eau potable : ex Forcalqueiret;178150;2024;60,6;17,8;27,4;70,5;non conforme;121429;121429;98;237;3389;Non vérifié
+83060;Fox-Amphoux;83;eau potable;178152;2024;89,0;3,3;26,6;70,3;conforme;16658;16658;91;159;504;Non vérifié
+83061;Fréjus;83;eau potable : Fréjus (eau potable);178501;2024;85,9;6,4;39,0;72,8;conforme;777888;777888;36;60;59719;Non vérifié
+83062;La Garde;83;eau potable : La Garde;178156;2024;84,0;6,1;32,0;71,4;conforme;279426;279426;29;70;26476;Non vérifié
+83063;La Garde-Freinet;83;eau potable : POLE EAU 1 SIDECM;178478;2024;87,7;4,4;31,6;71,3;conforme;1588334;66939;98;51;1862;Non vérifié
+83064;Garéoult;83;eau potable : ex gareoult;178160;2024;66,9;10,2;20,6;69,1;non conforme;211839;211839;99;180;5835;Non vérifié
+83065;Gassin;83;eau potable : POLE EAU 1 SIDECM;178478;2024;87,7;4,4;31,6;71,3;conforme;1588334;96597;98;51;2687;Non vérifié
+83066;Ginasservis;83;eau potable;178162;2024;62,2;11,6;19,2;68,8;non conforme;65204;65204;86;221;2075;Non vérifié
+83067;Gonfaron;83;eau potable;178164;2024;75,5;5,9;18,2;68,6;conforme;61289;61289;37;118;4496;Non vérifié
+83068;Grimaud;83;eau potable : POLE EAU 1 SIDECM;178478;2024;87,7;4,4;31,6;71,3;conforme;1588334;164902;98;51;4587;Non vérifié
+83069;Hyères;83;eau potable : SECTEUR EST – Hyères La Crau;178168;2024;84,2;5,9;31,7;71,3;conforme;1026681;676102;33;68;55858;Non vérifié
+83070;Le Lavandou;83;eau potable;178172;2024;84,2;6,9;36,6;72,3;conforme;230543;230543;95;69;6646;Non vérifié
+83071;La Londe-les-Maures;83;eau potable;178174;2024;91,9;1,8;20,4;69,1;conforme;88577;88577;23;32;10584;Non vérifié
+83072;Lorgues;83;eau potable : ex Lorgues;178175;2024;70,4;7,7;18,3;68,7;conforme;405246;405246;113;153;9849;Non vérifié
+83073;Le Luc;83;eau potable;178178;2024;67,3;15,0;30,8;71,2;non conforme;400934;400934;97;238;11310;Non vérifié
+83074;La Martre;83;eau potable : SIVOM SNAJ;294254;2024;74,9;1,3;3,9;65,8;conforme;22776;8550;104;121;226;Non vérifié
+83075;Les Mayons;83;eau potable;178181;2024;58,9;6,4;9,1;66,8;non conforme;28032;28032;123;256;625;Non vérifié
+83076;Mazaugues;83;eau potable : ex Mazaugues;178183;2024;59,1;7,0;10,2;67,0;non conforme;30788;30788;94;250;901;Non vérifié
+83077;Méounes-lès-Montrieux;83;eau potable : ex Meounes;178185;2024;63,0;6,2;10,6;67,1;non conforme;65763;65763;79;213;2277;Non vérifié
+83078;Moissac-Bellevue;83;eau potable;178188;2024;95,0;0,8;15,0;68,0;conforme;2946;2946;26;19;306;Non vérifié
+83079;La Môle;83;eau potable : POLE EAU 1 SIDECM;178478;2024;87,7;4,4;31,6;71,3;conforme;1588334;55183;98;51;1535;Non vérifié
+83080;Mons;83;eau potable : ex Mons;178193;2024;73,5;2,3;6,5;66,3;conforme;34386;34386;104;129;909;Non vérifié
+83081;Montauroux;83;eau potable : Montauroux Estérêts du Lac;207179;2024;83,1;2,4;11,7;67,3;conforme;11668;11668;4;75;7183;Non vérifié
+83082;Montferrat;83;eau potable : ex Montferrat;178198;2024;98,2;0,2;8,2;66,6;conforme;876;876;1;9;1719;Non vérifié
+83083;Montfort-sur-Argens;83;eau potable : Montfort-sur-Argens;178199;2024;69,2;6,8;15,3;68,1;conforme;47605;47605;90;162;1453;Non vérifié
+83084;Montmeyan;83;eau potable;178203;2024;69,0;3,3;7,3;66,5;conforme;31076;31076;143;212;596;Non vérifié
+83085;La Motte;83;eau potable : ex La motte;178205;2024;91,9;1,5;17,3;68,5;conforme;21550;21550;19;32;3071;Non vérifié
+83086;Le Muy;83;eau potable : Le Muy;178208;2024;73,3;10,7;29,4;70,9;conforme;308730;308730;84;133;10118;Non vérifié
+83087;Nans-les-Pins;83;eau potable : SIAEP Sainte Baume;178499;2024;88,6;2,7;21,1;69,2;conforme;67605;45539;24;47;5215;Non vérifié
+83088;Néoules;83;eau potable : ex Neoules;178211;2024;74,8;5,1;15,1;68,0;conforme;54654;54654;50;129;2976;Non vérifié
+83089;Ollières;83;eau potable : Ollieres;178214;2024;58,6;7,8;11,1;67,2;non conforme;36840;36840;159;257;636;Non vérifié
+83090;Ollioules;83;eau potable : Ollioules;178217;2024;87,0;4,4;29,4;70,9;conforme;177142;177142;33;55;14568;Non vérifié
+83091;Pierrefeu-du-Var;83;eau potable;178219;2024;79,9;4,7;18,5;68,7;conforme;90407;90407;41;93;6084;Non vérifié
+83092;Pignans;83;eau potable;213955;2024;84,1;5,2;27,7;70,5;conforme;37960;37960;21;68;4838;Non vérifié
+83093;Plan-d'Aups-Sainte-Baume;83;eau potable : SIAEP Sainte Baume;178499;2024;88,6;2,7;21,1;69,2;conforme;67605;22066;24;47;2527;Non vérifié
+83094;Le Plan-de-la-Tour;83;eau potable : POLE EAU 1 SIDECM;178478;2024;87,7;4,4;31,6;71,3;conforme;1588334;112343;98;51;3125;Non vérifié
+83095;Pontevès;83;eau potable;178225;2024;94,3;0,4;6,8;66,4;conforme;3000;3000;10;21;784;Non vérifié
+83096;Pourcieux;83;eau potable : Pourcieux;178228;2024;67,8;5,7;11,9;67,4;conforme;32768;32768;58;174;1552;Non vérifié
+83097;Pourrières;83;eau potable : Pourrieres;178229;2024;77,9;4,9;17,2;68,4;conforme;95631;95631;46;104;5642;Non vérifié
+83098;Le Pradet;83;eau potable : secteur centre La Valette Le Pradet Toulon + Le Revest;312274;2024;87,5;9,0;62,7;77,5;conforme;2263365;113593;28;71;10933;Non vérifié
+83099;Puget-sur-Argens;83;eau potable : Puget sur Argens;178235;2024;82,2;7,1;32,5;71,5;conforme;188998;188998;60;80;8602;Non vérifié
+83100;Puget-Ville;83;eau potable;178236;2024;87,2;2,8;19,0;68,8;conforme;29096;29096;17;54;4610;Non vérifié
+83101;Ramatuelle;83;eau potable : POLE EAU 1 SIDECM;178478;2024;87,7;4,4;31,6;71,3;conforme;1588334;67873;98;51;1888;Non vérifié
+83102;Régusse;83;eau potable;178239;2024;75,1;5,2;15,7;68,1;conforme;76091;76091;88;121;2380;Non vérifié
+83103;Le Revest-les-Eaux;83;eau potable : secteur centre La Valette Le Pradet Toulon + Le Revest;312274;2024;87,5;9,0;62,7;77,5;conforme;2263365;42329;28;71;4074;Non vérifié
+83104;Rians;83;eau potable;178244;2024;75,8;6,0;18,9;68,8;conforme;79409;79409;52;116;4223;Non vérifié
+83105;Riboux;83;eau potable : ZA Signes;200498;2024;100,0;0,0;45,1;74,0;conforme;0;0;0;0;51;Non vérifié
+83106;Rocbaron;83;eau potable : ex Rocbaron;178250;2024;82,2;4,1;19,1;68,8;conforme;70650;70650;34;78;5660;Non vérifié
+83107;Roquebrune-sur-Argens;83;eau potable : Roquebrune sur Argens;178252;2024;90,2;2,6;23,9;69,8;conforme;223879;223879;40;40;15442;Non vérifié
+83108;La Roquebrussanne;83;eau potable : ex La Roquebrussanne;178254;2024;74,9;4,9;14,6;67,9;conforme;48361;48361;47;122;2817;Non vérifié
+83109;La Roque-Esclapon;83;eau potable : ex SIVOM SUD AEP;275814;2024;62,0;1,9;3,1;65,6;non conforme;49932;12604;132;222;261;Non vérifié
+83110;Rougiers;83;eau potable : ex Rougiers;178258;2024;76,5;10,0;32,6;71,5;conforme;29748;29748;48;112;1697;Non vérifié
+83111;Sainte-Anastasie-sur-Issole;83;eau potable : ex Ste Anastasie;178260;2024;72,3;9,1;23,8;69,8;conforme;56432;56432;71;139;2165;Non vérifié
+83112;Saint-Cyr-sur-Mer;83;eau potable : ZA Signes;200498;2024;100,0;0,0;45,1;74,0;conforme;0;0;0;0;11658;Non vérifié
+83113;Saint-Julien;83;eau potable;178265;2024;72,5;2,4;6,4;66,3;conforme;55022;55022;61;138;2453;Non vérifié
+83114;Saint-Martin-de-Pallières;83;eau potable;178266;2024;60,2;3,7;5,5;66,1;non conforme;10331;10331;100;245;284;Non vérifié
+83115;Sainte-Maxime;83;eau potable : Sainte Maxime;178269;2024;89,2;5,9;49,2;74,8;conforme;465307;465307;90;68;14118;Non vérifié
+83116;Saint-Maximin-la-Sainte-Baume;83;eau potable : St Maximin;178270;2024;56,7;18,1;23,7;69,7;non conforme;1116432;1116432;171;279;17896;Non vérifié
+83117;Saint-Paul-en-Forêt;83;eau potable : ex St Paul-e-F;178273;2024;78,3;4,1;14,9;68,0;conforme;46436;46436;73;101;1735;Non vérifié
+83118;Saint-Raphaël;83;eau potable : Saint-Raphaël (eau potable);342834;2024;92,1;3,1;35,8;72,2;conforme;344134;344134;25;32;37113;Non vérifié
+83119;Saint-Tropez;83;eau potable : POLE EAU 1 SIDECM;178478;2024;87,7;4,4;31,6;71,3;conforme;1588334;128772;98;51;3582;Non vérifié
+83120;Saint-Zacharie;83;eau potable : ST ZACHARIE;178279;2024;72,9;9,2;24,8;70,0;conforme;127235;127235;59;135;5879;Non vérifié
+83121;Salernes;83;eau potable : ex Salernes;178280;2024;79,7;4,1;15,9;68,2;conforme;87904;87904;60;94;4019;Non vérifié
+83123;Sanary-sur-Mer;83;eau potable : ZA Signes;200498;2024;100,0;0,0;45,1;74,0;conforme;0;0;0;0;18538;Non vérifié
+83124;Seillans;83;eau potable : ex Seillans;178289;2024;68,4;5,3;11,5;67,3;conforme;138704;138704;129;174;2941;Non vérifié
+83126;La Seyne-sur-Mer;83;eau potable : La Seyne;178293;2024;86,3;6,8;42,9;73,6;conforme;653039;653039;28;58;63732;Non vérifié
+83127;Signes;83;eau potable : ZA Signes;200498;2024;100,0;0,0;45,1;74,0;conforme;0;0;0;0;3126;Non vérifié
+83128;Sillans-la-Cascade;83;eau potable : ex Sillans la c;178299;2024;80,1;2,1;8,5;66,7;conforme;18473;18473;64;91;787;Non vérifié
+83129;Six-Fours-les-Plages;83;eau potable : six fours;178301;2024;80,1;9,2;36,9;72,4;conforme;729895;729895;54;91;37109;Non vérifié
+83130;Solliès-Pont;83;eau potable;221814;2024;89,5;3,8;33,0;71,6;conforme;230242;85593;19;66;12521;Non vérifié
+83131;Solliès-Toucas;83;eau potable;221814;2024;89,5;3,8;33,0;71,6;conforme;230242;42855;19;66;6269;Non vérifié
+83132;Solliès-Ville;83;eau potable;221814;2024;89,5;3,8;33,0;71,6;conforme;230242;17117;19;66;2504;Non vérifié
+83133;Tanneron;83;eau potable : ex Tanneron;178305;2024;83,2;3,4;16,9;68,4;conforme;59171;59171;93;74;1750;Non vérifié
+83134;Taradeau;83;eau potable : ex Taradeau;178433;2024;77,1;2,9;9,7;66,9;conforme;36899;36899;52;113;1945;Non vérifié
+83135;Tavernes;83;eau potable;178436;2024;62,3;7,9;13,1;67,6;non conforme;60640;60640;111;220;1492;Non vérifié
+83136;Le Thoronet;83;eau potable;178438;2024;68,7;3,3;7,3;66,5;conforme;105020;105020;109;165;2631;Non vérifié
+83137;Toulon;83;eau potable : secteur centre La Valette Le Pradet Toulon + Le Revest;312274;2024;87,5;9,0;62,7;77,5;conforme;2263365;1861004;28;71;179116;Non vérifié
+83138;Tourrettes;83;eau potable : ex Tourettes;178441;2024;86,3;3,6;22,8;69,6;conforme;66869;66869;62;58;2972;Non vérifié
+83140;Tourves;83;eau potable : Tourves;178446;2024;91,1;2,2;22,9;69,6;conforme;23994;23994;13;35;5207;Non vérifié
+83141;Trans-en-Provence;83;eau potable : ex Trans en provence;178448;2024;64,0;11,4;20,4;69,1;non conforme;209132;209132;83;204;6905;Non vérifié
+83142;Trigance;83;eau potable : SIVOM SNAJ;294254;2024;74,9;1,3;3,9;65,8;conforme;22776;8777;104;121;232;Non vérifié
+83143;Le Val;83;eau potable : ex Le Val;178451;2024;71,0;8,6;21,0;69,2;conforme;132403;132403;84;149;4335;Non vérifié
+83144;La Valette-du-Var;83;eau potable : secteur centre La Valette Le Pradet Toulon + Le Revest;312274;2024;87,5;9,0;62,7;77,5;conforme;2263365;246439;28;71;23719;Non vérifié
+83145;Varages;83;eau potable;178457;2024;66,6;5,8;11,6;67,3;non conforme;34825;34825;81;183;1177;Non vérifié
+83146;La Verdière;83;eau potable;178458;2024;84,4;1,2;6,4;66,3;conforme;24116;24116;40;69;1668;Non vérifié
+83147;Vérignon;83;eau potable;178461;2024;80,9;0,1;0,4;65,1;conforme;85;85;29;97;8;Non vérifié
+83148;Vidauban;83;eau potable : ex Vidauban;178463;2024;76,8;4,3;14,3;67,9;conforme;312864;312864;68;109;12608;Non vérifié
+83149;Villecroze;83;eau potable;178467;2024;80,0;3,8;15,2;68,0;conforme;40695;40695;74;91;1514;Non vérifié
+83150;Vinon-sur-Verdon;83;eau potable : Vinon sur Verdon;209149;2024;83,8;3,5;18,0;68,6;conforme;52416;52416;32;71;4464;Non vérifié
+83151;Vins-sur-Caramy;83;eau potable : ex Vins;178470;2024;67,4;6,2;12,8;67,6;non conforme;20684;20684;61;177;936;Non vérifié
+83152;Rayol-Canadel-sur-Mer;83;eau potable : POLE EAU 1 SIDECM;178478;2024;87,7;4,4;31,6;71,3;conforme;1588334;22972;98;51;639;Non vérifié
+83153;Saint-Mandrier-sur-Mer;83;eau potable : Saint Mandrier;178475;2024;90,8;3,6;35,1;72,0;conforme;47396;47396;22;37;6000;Non vérifié
+83154;Saint-Antonin-du-Var;83;eau potable : ex St Antonin du var;178476;2024;73,5;3,9;10,8;67,2;conforme;35844;35844;113;132;870;Non vérifié

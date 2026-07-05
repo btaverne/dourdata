@@ -1,0 +1,204 @@
+﻿# DourData — eau perdue par les réseaux d'eau potable (indicateurs SISPEA)
+# Périmètre : Département 91
+# Source : SISPEA — Système d'Information des Services Publics d'Eau et d'Assainissement, via data.gouv.fr / services.eaufrance.fr
+# Licence : Licence Ouverte 2.0 (Etalab)
+# Millésime des données : 2021–2024 (année la plus récente disponible par commune)
+# Date de génération de l'export : 2026-07-05
+# Méthodologie et code : https://github.com/btaverne/dourdata
+# Format : séparateur « ; », décimale « , », encodage UTF-8 (BOM).
+# Les lignes commençant par # sont des métadonnées ; le tableau commence ci-dessous.
+Code INSEE;Commune;Département;Service d'eau;Identifiant SISPEA service;Année des données;Rendement réseau P104.3 (%);Indice linéaire de pertes P106.3 (m3/km/j);Indice linéaire de consommation (m3/km/j);Rendement seuil décret fuites (%);Conformité décret fuites;Volume de pertes du service (m3/an);Volume de pertes estimé commune (m3/an, ventilé prorata population);Litres perdus par habitant et par jour;Jours de consommation équivalents;Population INSEE;Avis qualité SISPEA (rendement)
+91001;Abbéville-la-Rivière;91;eau potable : Ex SIEPB, Étampes, Ormoy, Monnerville, Estouches, Angerville;340914;2024;87,9;3,4;24,6;69,9;conforme;454814;3086;26;69;322;Non vérifié
+91016;Angerville;91;eau potable : Ex SIEPB, Étampes, Ormoy, Monnerville, Estouches, Angerville;340914;2024;87,9;3,4;24,6;69,9;conforme;454814;42441;26;69;4428;Non vérifié
+91017;Angervilliers;91;eau potable : SIAEP Angervilliers + SIE du Roi + SIE LAVENELLE;146614;2024;71,2;5,5;13,6;67,7;conforme;375222;34069;53;193;1772;Non vérifié
+91021;Arpajon;91;eau potable : EAU COEUR D'ESSONNE;219478;2024;84,1;7,4;39,2;72,8;conforme;1979914;110773;26;69;11698;Non vérifié
+91022;Arrancourt;91;eau potable : Ex SIEPB, Étampes, Ormoy, Monnerville, Estouches, Angerville;340914;2024;87,9;3,4;24,6;69,9;conforme;454814;1102;26;69;115;Non vérifié
+91027;Athis-Mons;91;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;221689;17;43;36613;Non vérifié
+91035;Authon-la-Plaine;91;eau potable;146622;2024;92,3;0,8;10,0;67,0;conforme;15374;2178;16;52;368;Non vérifié
+91037;Auvernaux;91;eau potable : GRAND HUREPOIX;210075;2024;90,5;4,5;42,6;73,5;conforme;765405;5078;42;124;332;Non vérifié
+91038;Auvers-Saint-Georges;91;eau potable : Vallée de la Juine;339754;2024;83,9;2,6;13,6;67,7;conforme;102492;9961;22;71;1223;Non vérifié
+91041;Avrainville;91;eau potable : EAU COEUR D'ESSONNE;219478;2024;84,1;7,4;39,2;72,8;conforme;1979914;9962;26;69;1052;Non vérifié
+91044;Ballainvilliers;91;eau potable : CSP 10;293494;2024;89,0;8,1;65,8;78,2;conforme;1017509;66415;37;98;4904;Non vérifié
+91045;Ballancourt-sur-Essonne;91;eau potable : GRAND HUREPOIX;210075;2024;90,5;4,5;42,6;73,5;conforme;765405;125283;42;124;8191;Non vérifié
+91047;Baulne;91;eau potable : GRAND HUREPOIX;210075;2024;90,5;4,5;42,6;73,5;conforme;765405;22148;42;124;1448;Non vérifié
+91064;Bièvres;91;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;28373;17;43;4686;Non vérifié
+91067;Blandy;91;eau potable : régie simple;340974;2024;64,4;5,2;9,4;66,9;non conforme;139123;4480;111;329;111;Non vérifié
+91069;Boigneville;91;eau potable : Régie communautaire Boigneville;146372;2021;86,0;1,3;8,2;66,6;conforme;4270;4270;32;58;369;Sans anomalie apparente
+91075;Bois-Herpin;91;eau potable : Ex SIEPB, Étampes, Ormoy, Monnerville, Estouches, Angerville;340914;2024;87,9;3,4;24,6;69,9;conforme;454814;776;26;69;81;Non vérifié
+91079;Boissy-la-Rivière;91;eau potable : Ex SIEPB, Étampes, Ormoy, Monnerville, Estouches, Angerville;340914;2024;87,9;3,4;24,6;69,9;conforme;454814;5272;26;69;550;Non vérifié
+91080;Boissy-le-Cutté;91;eau potable : Boissy-le-Cutté;146377;2024;64,4;8,0;14,4;67,9;non conforme;26601;26601;55;203;1331;Non vérifié
+91081;Boissy-le-Sec;91;eau potable : SIE LAVENELLE;146646;2024;85,2;1,5;8,4;66,7;conforme;30797;5860;23;65;690;Non vérifié
+91085;Boissy-sous-Saint-Yon;91;eau potable : GRAND HUREPOIX;210075;2024;90,5;4,5;42,6;73,5;conforme;765405;59376;42;124;3882;Non vérifié
+91086;Bondoufle;91;eau potable : Régie de l'Eau;219484;2024;83,8;9,8;50,8;75,2;conforme;2739982;105061;27;70;10767;Non vérifié
+91093;Boullay-les-Troux;91;eau potable;158716;2024;76,4;3,3;10,7;67,1;conforme;110814;9700;43;113;624;Non vérifié
+91095;Bouray-sur-Juine;91;eau potable : Vallée de la Juine;339754;2024;83,9;2,6;13,6;67,7;conforme;102492;17169;22;71;2108;Non vérifié
+91097;Boussy-Saint-Antoine;91;eau potable : EP;324494;2024;80,8;17,1;71,6;79,3;conforme;3076373;139995;47;140;8097;Non vérifié
+91098;Boutervilliers;91;eau potable;146622;2024;92,3;0,8;10,0;67,0;conforme;15374;2540;16;52;429;Non vérifié
+91099;Boutigny-sur-Essonne;91;eau potable : Régie EPSE;146486;2024;73,9;3,5;9,8;67,0;conforme;141802;50648;44;130;3146;Non vérifié
+91100;Bouville;91;eau potable : Ex SIEPB, Étampes, Ormoy, Monnerville, Estouches, Angerville;340914;2024;87,9;3,4;24,6;69,9;conforme;454814;6412;26;69;669;Non vérifié
+91103;Brétigny-sur-Orge;91;eau potable : EAU COEUR D'ESSONNE;219478;2024;84,1;7,4;39,2;72,8;conforme;1979914;252435;26;69;26658;Non vérifié
+91105;Breuillet;91;eau potable : EAU COEUR D'ESSONNE;219478;2024;84,1;7,4;39,2;72,8;conforme;1979914;86711;26;69;9157;Non vérifié
+91106;Breux-Jouy;91;eau potable : GRAND HUREPOIX;210075;2024;90,5;4,5;42,6;73,5;conforme;765405;19654;42;124;1285;Non vérifié
+91109;Brières-les-Scellés;91;eau potable : Ex SIEPB, Étampes, Ormoy, Monnerville, Estouches, Angerville;340914;2024;87,9;3,4;24,6;69,9;conforme;454814;11367;26;69;1186;Non vérifié
+91111;Briis-sous-Forges;91;eau potable : SIAEP Angervilliers + SIE du Roi + SIE LAVENELLE;146614;2024;71,2;5,5;13,6;67,7;conforme;375222;64255;53;193;3342;Non vérifié
+91112;Brouy;91;eau potable : régie simple;340974;2024;64,4;5,2;9,4;66,9;non conforme;139123;5408;111;329;134;Non vérifié
+91114;Brunoy;91;eau potable : EP;324494;2024;80,8;17,1;71,6;79,3;conforme;3076373;443362;47;140;25643;Non vérifié
+91115;Bruyères-le-Châtel;91;eau potable : EAU COEUR D'ESSONNE;219478;2024;84,1;7,4;39,2;72,8;conforme;1979914;35870;26;69;3788;Non vérifié
+91121;Buno-Bonnevaux;91;eau potable : SIE Gironville;146653;2024;68,0;2,6;5,6;66,1;conforme;33642;11005;57;169;527;Non vérifié
+91122;Bures-sur-Yvette;91;eau potable : CSP 10;293494;2024;89,0;8,1;65,8;78,2;conforme;1017509;129308;37;98;9548;Non vérifié
+91129;Cerny;91;eau potable : GRAND HUREPOIX;210075;2024;90,5;4,5;42,6;73,5;conforme;765405;54008;42;124;3531;Non vérifié
+91130;Chalo-Saint-Mars;91;eau potable : régie simple;340974;2024;64,4;5,2;9,4;66,9;non conforme;139123;42500;111;329;1053;Non vérifié
+91131;Chalou-Moulineux;91;eau potable : régie simple;340974;2024;64,4;5,2;9,4;66,9;non conforme;139123;15055;111;329;373;Non vérifié
+91132;Chamarande;91;eau potable : Vallée de la Juine;339754;2024;83,9;2,6;13,6;67,7;conforme;102492;8870;22;71;1089;Non vérifié
+91135;Champcueil;91;eau potable : GRAND HUREPOIX;210075;2024;90,5;4,5;42,6;73,5;conforme;765405;43653;42;124;2854;Non vérifié
+91136;Champlan;91;eau potable : CSP 10;293494;2024;89,0;8,1;65,8;78,2;conforme;1017509;35415;37;98;2615;Non vérifié
+91137;Champmotteux;91;eau potable : régie simple;340974;2024;64,4;5,2;9,4;66,9;non conforme;139123;14368;111;329;356;Non vérifié
+91145;Chatignonville;91;eau potable;158719;2024;86,2;1,8;11,0;67,2;conforme;238491;750;29;77;72;Non vérifié
+91148;Chauffour-lès-Étréchy;91;eau potable : SMTCV;146448;2024;70,2;3,6;8,4;66,7;conforme;39407;2498;52;156;132;Non vérifié
+91156;Cheptainville;91;eau potable : EAU COEUR D'ESSONNE;219478;2024;84,1;7,4;39,2;72,8;conforme;1979914;20871;26;69;2204;Non vérifié
+91159;Chevannes;91;eau potable : GRAND HUREPOIX;210075;2024;90,5;4,5;42,6;73,5;conforme;765405;23708;42;124;1550;Non vérifié
+91161;Chilly-Mazarin;91;eau potable : CPS 3 (Chilly-Mazarin, Les Ullis, Gif-sur-Yvette );208536;2024;94,2;10,1;163,3;85,0;conforme;648750;192563;26;62;20443;Non vérifié
+91174;Corbeil-Essonnes;91;eau potable : Régie de l'Eau;219484;2024;83,8;9,8;50,8;75,2;conforme;2739982;531510;27;70;54471;Non vérifié
+91175;Corbreuse;91;eau potable;158719;2024;86,2;1,8;11,0;67,2;conforme;238491;17089;29;77;1640;Non vérifié
+91179;Le Coudray-Montceaux;91;eau potable : Régie de l'Eau;219484;2024;83,8;9,8;50,8;75,2;conforme;2739982;46847;27;70;4801;Non vérifié
+91180;Courances;91;eau potable : DSP - Ex SAEVE;146618;2024;69,3;3,6;8,2;66,6;conforme;95869;7828;62;171;348;Non vérifié
+91184;Courdimanche-sur-Essonne;91;eau potable : Régie EPSE;146486;2024;73,9;3,5;9,8;67,0;conforme;141802;4443;44;130;276;Non vérifié
+91186;Courson-Monteloup;91;eau potable : SIAEP Angervilliers + SIE du Roi + SIE LAVENELLE;146614;2024;71,2;5,5;13,6;67,7;conforme;375222;10824;53;193;563;Non vérifié
+91191;Crosne;91;eau potable : EP;324494;2024;80,8;17,1;71,6;79,3;conforme;3076373;166155;47;140;9610;Non vérifié
+91195;Dannemois;91;eau potable : DSP - Ex SAEVE;146618;2024;69,3;3,6;8,2;66,6;conforme;95869;19457;62;171;865;Non vérifié
+91198;D'Huison-Longueville;91;eau potable : GRAND HUREPOIX;210075;2024;90,5;4,5;42,6;73,5;conforme;765405;23815;42;124;1557;Non vérifié
+91200;Dourdan;91;eau potable : Dourdan;146432;2024;93,4;1,8;26,1;70,2;conforme;49695;49695;12;28;11415;Non vérifié
+91201;Draveil;91;eau potable : EP;324494;2024;80,8;17,1;71,6;79,3;conforme;3076373;520388;47;140;30098;Non vérifié
+91204;Écharcon;91;eau potable : Echarcon - Mennecy - Ormoy;218854;2024;83,1;5,5;26,7;70,3;conforme;195872;6809;26;75;708;Non vérifié
+91207;Égly;91;eau potable : EAU COEUR D'ESSONNE;219478;2024;84,1;7,4;39,2;72,8;conforme;1979914;67858;26;69;7166;Non vérifié
+91215;Épinay-sous-Sénart;91;eau potable : EP;324494;2024;80,8;17,1;71,6;79,3;conforme;3076373;200752;47;140;11611;Non vérifié
+91216;Épinay-sur-Orge;91;eau potable : Epinay-sur-Orge;208535;2024;87,7;5,4;38,5;72,7;conforme;73518;73518;19;51;10722;Non vérifié
+91223;Étampes;91;eau potable : Ex SIEPB, Étampes, Ormoy, Monnerville, Estouches, Angerville;340914;2024;87,9;3,4;24,6;69,9;conforme;454814;257417;26;69;26857;Non vérifié
+91225;Étiolles;91;eau potable : SIE Saint Germain les Corbeil;146620;2024;82,0;5,7;25,6;70,1;conforme;334565;31689;28;81;3105;Non vérifié
+91226;Étréchy;91;eau potable : Etrechy;146598;2024;88,8;0,9;16,9;68,4;conforme;15660;15660;6;19;6986;Non vérifié
+91228;Évry-Courcouronnes;91;eau potable : Régie de l'Eau;219484;2024;83,8;9,8;50,8;75,2;conforme;2739982;652973;27;70;66919;Non vérifié
+91232;La Ferté-Alais;91;eau potable : GRAND HUREPOIX;210075;2024;90,5;4,5;42,6;73,5;conforme;765405;57067;42;124;3731;Non vérifié
+91235;Fleury-Mérogis;91;eau potable : EAU COEUR D'ESSONNE;219478;2024;84,1;7,4;39,2;72,8;conforme;1979914;129929;26;69;13721;Non vérifié
+91240;Fontaine-la-Rivière;91;eau potable : Ex SIEPB, Étampes, Ormoy, Monnerville, Estouches, Angerville;340914;2024;87,9;3,4;24,6;69,9;conforme;454814;1840;26;69;192;Non vérifié
+91243;Fontenay-lès-Briis;91;eau potable : SIAEP Angervilliers + SIE du Roi + SIE LAVENELLE;146614;2024;71,2;5,5;13,6;67,7;conforme;375222;45182;53;193;2350;Non vérifié
+91244;Fontenay-le-Vicomte;91;eau potable : GRAND HUREPOIX;210075;2024;90,5;4,5;42,6;73,5;conforme;765405;24411;42;124;1596;Non vérifié
+91247;La Forêt-le-Roi;91;eau potable : SIAEP Angervilliers + SIE du Roi + SIE LAVENELLE;146614;2024;71,2;5,5;13,6;67,7;conforme;375222;9459;53;193;492;Non vérifié
+91248;La Forêt-Sainte-Croix;91;eau potable : Ex SIEPB, Étampes, Ormoy, Monnerville, Estouches, Angerville;340914;2024;87,9;3,4;24,6;69,9;conforme;454814;1419;26;69;148;Non vérifié
+91249;Forges-les-Bains;91;eau potable : SIAEP Angervilliers + SIE du Roi + SIE LAVENELLE;146614;2024;71,2;5,5;13,6;67,7;conforme;375222;81539;53;193;4241;Non vérifié
+91272;Gif-sur-Yvette;91;eau potable : CPS 3 (Chilly-Mazarin, Les Ullis, Gif-sur-Yvette );208536;2024;94,2;10,1;163,3;85,0;conforme;648750;212354;26;62;22544;Non vérifié
+91273;Gironville-sur-Essonne;91;eau potable : SIE Gironville;146653;2024;68,0;2,6;5,6;66,1;conforme;33642;15871;57;169;760;Non vérifié
+91274;Gometz-la-Ville;91;eau potable;146461;2024;84,5;2,4;13,1;67,6;conforme;12054;12054;22;67;1536;Non vérifié
+91275;Gometz-le-Châtel;91;eau potable : Gometz le Chatel;146462;2024;90,7;3,6;34,9;72,0;conforme;16911;16911;18;53;2630;Non vérifié
+91284;Les Granges-le-Roi;91;eau potable : SIAEP Angervilliers + SIE du Roi + SIE LAVENELLE;146614;2024;71,2;5,5;13,6;67,7;conforme;375222;23014;53;193;1197;Non vérifié
+91286;Grigny;91;eau potable : Régie de l'Eau;219484;2024;83,8;9,8;50,8;75,2;conforme;2739982;261915;27;70;26842;Non vérifié
+91292;Guibeville;91;eau potable : EAU COEUR D'ESSONNE;219478;2024;84,1;7,4;39,2;72,8;conforme;1979914;8740;26;69;923;Non vérifié
+91293;Guigneville-sur-Essonne;91;eau potable : GRAND HUREPOIX;210075;2024;90,5;4,5;42,6;73,5;conforme;765405;13827;42;124;904;Non vérifié
+91294;Guillerval;91;eau potable : régie simple;340974;2024;64,4;5,2;9,4;66,9;non conforme;139123;32611;111;329;808;Non vérifié
+91312;Igny;91;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;65593;17;43;10833;Non vérifié
+91315;Itteville;91;eau potable : GRAND HUREPOIX;210075;2024;90,5;4,5;42,6;73,5;conforme;765405;103182;42;124;6746;Non vérifié
+91318;Janville-sur-Juine;91;eau potable : Vallée de la Juine;339754;2024;83,9;2,6;13,6;67,7;conforme;102492;16623;22;71;2041;Non vérifié
+91319;Janvry;91;eau potable;146472;2024;84,5;4,3;23,4;69,7;conforme;8821;8821;37;67;654;Non vérifié
+91326;Juvisy-sur-Orge;91;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;116812;17;43;19292;Non vérifié
+91330;Lardy;91;eau potable : Vallée de la Juine;339754;2024;83,9;2,6;13,6;67,7;conforme;102492;45040;22;71;5530;Non vérifié
+91332;Leudeville;91;eau potable : GRAND HUREPOIX;210075;2024;90,5;4,5;42,6;73,5;conforme;765405;23891;42;124;1562;Non vérifié
+91333;Leuville-sur-Orge;91;eau potable : EAU COEUR D'ESSONNE;219478;2024;84,1;7,4;39,2;72,8;conforme;1979914;40444;26;69;4271;Non vérifié
+91338;Limours;91;eau potable;146478;2023;91,9;2,1;23,8;69,8;conforme;33481;33481;14;44;6517;Sans anomalie apparente
+91339;Linas;91;eau potable : CSP 10;293494;2024;89,0;8,1;65,8;78,2;conforme;1017509;108168;37;98;7987;Non vérifié
+91340;Lisses;91;eau potable : Régie de l'Eau;219484;2024;83,8;9,8;50,8;75,2;conforme;2739982;71943;27;70;7373;Non vérifié
+91345;Longjumeau;91;eau potable : Longjumeau;208543;2024;87,7;8,7;61,7;77,3;conforme;148359;148359;18;51;21996;Non vérifié
+91347;Longpont-sur-Orge;91;eau potable : EAU COEUR D'ESSONNE;219478;2024;84,1;7,4;39,2;72,8;conforme;1979914;61380;26;69;6482;Non vérifié
+91359;Maisse;91;eau potable : Régie EPSE;146486;2024;73,9;3,5;9,8;67,0;conforme;141802;45030;44;130;2797;Non vérifié
+91363;Marcoussis;91;eau potable : CSP 10;293494;2024;89,0;8,1;65,8;78,2;conforme;1017509;116713;37;98;8618;Non vérifié
+91374;Marolles-en-Beauce;91;eau potable : Ex SIEPB, Étampes, Ormoy, Monnerville, Estouches, Angerville;340914;2024;87,9;3,4;24,6;69,9;conforme;454814;2272;26;69;237;Non vérifié
+91376;Marolles-en-Hurepoix;91;eau potable : EAU COEUR D'ESSONNE;219478;2024;84,1;7,4;39,2;72,8;conforme;1979914;54051;26;69;5708;Non vérifié
+91377;Massy;91;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;313215;17;43;51729;Non vérifié
+91378;Mauchamps;91;eau potable : SMTCV;146448;2024;70,2;3,6;8,4;66,7;conforme;39407;7325;52;156;387;Non vérifié
+91386;Mennecy;91;eau potable : Echarcon - Mennecy - Ormoy;218854;2024;83,1;5,5;26,7;70,3;conforme;195872;158046;26;75;16433;Non vérifié
+91390;Le Mérévillois;91;eau potable : Ex SIEPB, Étampes, Ormoy, Monnerville, Estouches, Angerville;340914;2024;87,9;3,4;24,6;69,9;conforme;454814;33326;26;69;3477;Non vérifié
+91393;Mérobert;91;eau potable;146622;2024;92,3;0,8;10,0;67,0;conforme;15374;3759;16;52;635;Non vérifié
+91399;Mespuits;91;eau potable : Ex SIEPB, Étampes, Ormoy, Monnerville, Estouches, Angerville;340914;2024;87,9;3,4;24,6;69,9;conforme;454814;1764;26;69;184;Non vérifié
+91405;Milly-la-Forêt;91;eau potable : Milly-la-Forêt;146500;2024;91,7;1,7;18,5;68,7;conforme;31515;31515;19;41;4562;Non vérifié
+91408;Moigny-sur-École;91;eau potable : DSP - Ex SAEVE;146618;2024;69,3;3,6;8,2;66,6;conforme;95869;29107;62;171;1294;Non vérifié
+91411;Les Molières;91;eau potable;158716;2024;76,4;3,3;10,7;67,1;conforme;110814;30700;43;113;1975;Non vérifié
+91412;Mondeville;91;eau potable : GRAND HUREPOIX;210075;2024;90,5;4,5;42,6;73,5;conforme;765405;11104;42;124;726;Non vérifié
+91414;Monnerville;91;eau potable : Ex SIEPB, Étampes, Ormoy, Monnerville, Estouches, Angerville;340914;2024;87,9;3,4;24,6;69,9;conforme;454814;3604;26;69;376;Non vérifié
+91421;Montgeron;91;eau potable : EP;324494;2024;80,8;17,1;71,6;79,3;conforme;3076373;415335;47;140;24022;Non vérifié
+91425;Montlhéry;91;eau potable : CSP 10;293494;2024;89,0;8,1;65,8;78,2;conforme;1017509;132342;37;98;9772;Non vérifié
+91432;Morangis;91;eau potable : Régie Seine et Orge (RESO);336654;2024;97,8;1,4;64,2;77,8;conforme;73584;17756;3;8;14129;Non vérifié
+91433;Morigny-Champigny;91;eau potable : Ex SIEPB, Étampes, Ormoy, Monnerville, Estouches, Angerville;340914;2024;87,9;3,4;24,6;69,9;conforme;454814;42288;26;69;4412;Non vérifié
+91434;Morsang-sur-Orge;91;eau potable : EAU COEUR D'ESSONNE;219478;2024;84,1;7,4;39,2;72,8;conforme;1979914;205173;26;69;21667;Non vérifié
+91435;Morsang-sur-Seine;91;eau potable : Régie de l'Eau;219484;2024;83,8;9,8;50,8;75,2;conforme;2739982;5689;27;70;583;Non vérifié
+91441;Nainville-les-Roches;91;eau potable : GRAND HUREPOIX;210075;2024;90,5;4,5;42,6;73,5;conforme;765405;8627;42;124;564;Non vérifié
+91457;La Norville;91;eau potable : EAU COEUR D'ESSONNE;219478;2024;84,1;7,4;39,2;72,8;conforme;1979914;40415;26;69;4268;Non vérifié
+91458;Nozay;91;eau potable : CSP 10;293494;2024;89,0;8,1;65,8;78,2;conforme;1017509;60551;37;98;4471;Non vérifié
+91461;Ollainville;91;eau potable : EAU COEUR D'ESSONNE;219478;2024;84,1;7,4;39,2;72,8;conforme;1979914;51655;26;69;5455;Non vérifié
+91463;Oncy-sur-École;91;eau potable : Oncy sur Ecole;146520;2024;64,8;4,2;7,6;66,5;non conforme;22382;22382;59;200;1042;Non vérifié
+91468;Ormoy;91;eau potable : Echarcon - Mennecy - Ormoy;218854;2024;83,1;5,5;26,7;70,3;conforme;195872;31017;26;75;3225;Non vérifié
+91469;Ormoy-la-Rivière;91;eau potable : Ex SIEPB, Étampes, Ormoy, Monnerville, Estouches, Angerville;340914;2024;87,9;3,4;24,6;69,9;conforme;454814;9038;26;69;943;Non vérifié
+91471;Orsay;91;eau potable : CSP 10;293494;2024;89,0;8,1;65,8;78,2;conforme;1017509;223432;37;98;16498;Non vérifié
+91473;Orveau;91;eau potable : GRAND HUREPOIX;210075;2024;90,5;4,5;42,6;73,5;conforme;765405;2157;42;124;141;Non vérifié
+91477;Palaiseau;91;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;226884;17;43;37471;Non vérifié
+91479;Paray-Vieille-Poste;91;eau potable : Régie Seine et Orge (RESO);336654;2024;97,8;1,4;64,2;77,8;conforme;73584;10308;3;8;8202;Non vérifié
+91482;Pecqueuse;91;eau potable : Territoire n°1;146534;2024;84,5;1,9;10,2;67,0;conforme;5229;5229;25;68;580;Non vérifié
+91494;Le Plessis-Pâté;91;eau potable : EAU COEUR D'ESSONNE;219478;2024;84,1;7,4;39,2;72,8;conforme;1979914;39336;26;69;4154;Non vérifié
+91495;Plessis-Saint-Benoist;91;eau potable;146622;2024;92,3;0,8;10,0;67,0;conforme;15374;1924;16;52;325;Non vérifié
+91507;Prunay-sur-Essonne;91;eau potable : SIE Gironville;146653;2024;68,0;2,6;5,6;66,1;conforme;33642;6766;57;169;324;Non vérifié
+91508;Puiselet-le-Marais;91;eau potable : Ex SIEPB, Étampes, Ormoy, Monnerville, Estouches, Angerville;340914;2024;87,9;3,4;24,6;69,9;conforme;454814;2502;26;69;261;Non vérifié
+91511;Pussay;91;eau potable : Pussay;146548;2024;74,6;7,3;21,5;69,3;conforme;39994;39994;48;146;2288;Non vérifié
+91514;Quincy-sous-Sénart;91;eau potable : EP;324494;2024;80,8;17,1;71,6;79,3;conforme;3076373;163855;47;140;9477;Non vérifié
+91519;Richarville;91;eau potable;146622;2024;92,3;0,8;10,0;67,0;conforme;15374;2285;16;52;386;Non vérifié
+91521;Ris-Orangis;91;eau potable : Régie de l'Eau;219484;2024;83,8;9,8;50,8;75,2;conforme;2739982;304332;27;70;31189;Non vérifié
+91525;Roinville;91;eau potable : SIE LAVENELLE;146646;2024;85,2;1,5;8,4;66,7;conforme;30797;11203;23;65;1319;Non vérifié
+91526;Roinvilliers;91;eau potable : Ex SIEPB, Étampes, Ormoy, Monnerville, Estouches, Angerville;340914;2024;87,9;3,4;24,6;69,9;conforme;454814;1073;26;69;112;Non vérifié
+91533;Saclas;91;eau potable : Ex SIEPB, Étampes, Ormoy, Monnerville, Estouches, Angerville;340914;2024;87,9;3,4;24,6;69,9;conforme;454814;17435;26;69;1819;Non vérifié
+91534;Saclay;91;eau potable : CSP 4  (ex SIEPS);201741;2024;87,7;2,7;19,1;68,8;conforme;63407;34845;22;52;4437;Non vérifié
+91538;Saint-Aubin;91;eau potable : CSP 4  (ex SIEPS);201741;2024;87,7;2,7;19,1;68,8;conforme;63407;5191;22;52;661;Non vérifié
+91540;Saint-Chéron;91;eau potable;146555;2024;90,3;1,8;16,3;68,3;conforme;27712;27712;15;40;5132;Non vérifié
+91544;Saint-Cyr-la-Rivière;91;eau potable : Ex SIEPB, Étampes, Ormoy, Monnerville, Estouches, Angerville;340914;2024;87,9;3,4;24,6;69,9;conforme;454814;4466;26;69;466;Non vérifié
+91546;Saint-Cyr-sous-Dourdan;91;eau potable : SIAEP Angervilliers + SIE du Roi + SIE LAVENELLE;146614;2024;71,2;5,5;13,6;67,7;conforme;375222;18880;53;193;982;Non vérifié
+91547;Saint-Escobille;91;eau potable;146622;2024;92,3;0,8;10,0;67,0;conforme;15374;2688;16;52;454;Non vérifié
+91549;Sainte-Geneviève-des-Bois;91;eau potable : EAU COEUR D'ESSONNE;219478;2024;84,1;7,4;39,2;72,8;conforme;1979914;335576;26;69;35438;Non vérifié
+91552;Saint-Germain-lès-Arpajon;91;eau potable : EAU COEUR D'ESSONNE;219478;2024;84,1;7,4;39,2;72,8;conforme;1979914;110063;26;69;11623;Non vérifié
+91553;Saint-Germain-lès-Corbeil;91;eau potable : SIE Saint Germain les Corbeil;146620;2024;82,0;5,7;25,6;70,1;conforme;334565;76227;28;81;7469;Non vérifié
+91556;Saint-Hilaire;91;eau potable : régie simple;340974;2024;64,4;5,2;9,4;66,9;non conforme;139123;16185;111;329;401;Non vérifié
+91560;Saint-Jean-de-Beauregard;91;eau potable;146563;2024;87,7;2,8;19,9;69,0;conforme;2729;2729;16;51;471;Non vérifié
+91568;Saint-Maurice-Montcouronne;91;eau potable : SIAEP Angervilliers + SIE du Roi + SIE LAVENELLE;146614;2024;71,2;5,5;13,6;67,7;conforme;375222;29666;53;193;1543;Non vérifié
+91570;Saint-Michel-sur-Orge;91;eau potable : EAU COEUR D'ESSONNE;219478;2024;84,1;7,4;39,2;72,8;conforme;1979914;206205;26;69;21776;Non vérifié
+91573;Saint-Pierre-du-Perray;91;eau potable : SIE Saint Germain les Corbeil;146620;2024;82,0;5,7;25,6;70,1;conforme;334565;122398;28;81;11993;Non vérifié
+91577;Saintry-sur-Seine;91;eau potable : SIE Saint Germain les Corbeil;146620;2024;82,0;5,7;25,6;70,1;conforme;334565;60030;28;81;5882;Non vérifié
+91578;Saint-Sulpice-de-Favières;91;eau potable : GRAND HUREPOIX;210075;2024;90,5;4,5;42,6;73,5;conforme;765405;4160;42;124;272;Non vérifié
+91579;Saint-Vrain;91;eau potable : GRAND HUREPOIX;210075;2024;90,5;4,5;42,6;73,5;conforme;765405;47247;42;124;3089;Non vérifié
+91581;Saint-Yon;91;eau potable : GRAND HUREPOIX;210075;2024;90,5;4,5;42,6;73,5;conforme;765405;14118;42;124;923;Non vérifié
+91587;Saulx-les-Chartreux;91;eau potable : Saulx-les-Chartreux;208540;2024;87,7;4,4;31,6;71,3;conforme;39315;39315;16;51;6733;Non vérifié
+91589;Savigny-sur-Orge;91;eau potable : Savigny-sur-Orge;311154;2024;84,5;8,4;45,6;74,1;conforme;322513;322513;23;67;37601;Non vérifié
+91593;Sermaise;91;eau potable : SIE LAVENELLE;146646;2024;85,2;1,5;8,4;66,7;conforme;30797;13734;23;65;1617;Non vérifié
+91599;Soisy-sur-École;91;eau potable : DSP - Ex SAEVE;146618;2024;69,3;3,6;8,2;66,6;conforme;95869;26408;62;171;1174;Non vérifié
+91600;Soisy-sur-Seine;91;eau potable : Soisy sur Seine;146575;2024;95,4;3,8;80,0;81,0;conforme;42082;42082;16;42;7418;Non vérifié
+91602;Souzy-la-Briche;91;eau potable : SMTCV;146448;2024;70,2;3,6;8,4;66,7;conforme;39407;9520;52;156;503;Non vérifié
+91613;Congerville-Thionville;91;eau potable : régie simple;340974;2024;64,4;5,2;9,4;66,9;non conforme;139123;8516;111;329;211;Non vérifié
+91617;Tigery;91;eau potable : SIE Saint Germain les Corbeil;146620;2024;82,0;5,7;25,6;70,1;conforme;334565;44222;28;81;4333;Non vérifié
+91619;Torfou;91;eau potable : SMTCV;146448;2024;70,2;3,6;8,4;66,7;conforme;39407;5565;52;156;294;Non vérifié
+91629;Valpuiseaux;91;eau potable : Ex SIEPB, Étampes, Ormoy, Monnerville, Estouches, Angerville;340914;2024;87,9;3,4;24,6;69,9;conforme;454814;5914;26;69;617;Non vérifié
+91630;Le Val-Saint-Germain;91;eau potable : SIAEP Angervilliers + SIE du Roi + SIE LAVENELLE;146614;2024;71,2;5,5;13,6;67,7;conforme;375222;30301;53;193;1576;Non vérifié
+91631;Varennes-Jarcy;91;eau potable;146584;2024;83,9;4,1;21,2;69,2;conforme;25845;25845;29;71;2465;Non vérifié
+91634;Vaugrigneuse;91;eau potable : SIAEP Angervilliers + SIE du Roi + SIE LAVENELLE;146614;2024;71,2;5,5;13,6;67,7;conforme;375222;28032;53;193;1458;Non vérifié
+91635;Vauhallan;91;eau potable : CSP 4  (ex SIEPS);201741;2024;87,7;2,7;19,1;68,8;conforme;63407;15275;22;52;1945;Non vérifié
+91639;Vayres-sur-Essonne;91;eau potable : Régie EPSE;146486;2024;73,9;3,5;9,8;67,0;conforme;141802;15745;44;130;978;Non vérifié
+91645;Verrières-le-Buisson;91;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;91169;17;43;15057;Non vérifié
+91648;Vert-le-Grand;91;eau potable : GRAND HUREPOIX;210075;2024;90,5;4,5;42,6;73,5;conforme;765405;37382;42;124;2444;Non vérifié
+91649;Vert-le-Petit;91;eau potable : GRAND HUREPOIX;210075;2024;90,5;4,5;42,6;73,5;conforme;765405;41511;42;124;2714;Non vérifié
+91654;Videlles;91;eau potable : DSP - Ex SAEVE;146618;2024;69,3;3,6;8,2;66,6;conforme;95869;13069;62;171;581;Non vérifié
+91657;Vigneux-sur-Seine;91;eau potable : EP;324494;2024;80,8;17,1;71,6;79,3;conforme;3076373;544041;47;140;31466;Non vérifié
+91659;Villabé;91;eau potable : Régie de l'Eau;219484;2024;83,8;9,8;50,8;75,2;conforme;2739982;56887;27;70;5830;Non vérifié
+91661;Villebon-sur-Yvette;91;eau potable : Villebon-sur-Yvette;208542;2024;87,7;4,4;31,2;71,2;conforme;75771;75771;20;51;10291;Non vérifié
+91662;Villeconin;91;eau potable : SMTCV;146448;2024;70,2;3,6;8,4;66,7;conforme;39407;14498;52;156;766;Non vérifié
+91665;La Ville-du-Bois;91;eau potable : CSP 10;293494;2024;89,0;8,1;65,8;78,2;conforme;1017509;110524;37;98;8161;Non vérifié
+91666;Villejust;91;eau potable : CSP 10;293494;2024;89,0;8,1;65,8;78,2;conforme;1017509;34643;37;98;2558;Non vérifié
+91667;Villemoisson-sur-Orge;91;eau potable : EAU COEUR D'ESSONNE;219478;2024;84,1;7,4;39,2;72,8;conforme;1979914;69429;26;69;7332;Non vérifié
+91671;Villeneuve-sur-Auvers;91;eau potable : Vallée de la Juine;339754;2024;83,9;2,6;13,6;67,7;conforme;102492;4830;22;71;593;Non vérifié
+91679;Villiers-le-Bâcle;91;eau potable : CSP 4  (ex SIEPS);201741;2024;87,7;2,7;19,1;68,8;conforme;63407;8097;22;52;1031;Non vérifié
+91685;Villiers-sur-Orge;91;eau potable : EAU COEUR D'ESSONNE;219478;2024;84,1;7,4;39,2;72,8;conforme;1979914;43038;26;69;4545;Non vérifié
+91687;Viry-Châtillon;91;eau potable : Régie Eau des Lacs de l'Essonne (Viry-Châtillon);219438;2024;83,2;11,2;55,1;76,0;conforme;318700;318700;28;74;30838;Non vérifié
+91689;Wissous;91;eau potable;97291;2024;91,6;8,6;93,9;83,8;conforme;24440254;43299;17;43;7151;Non vérifié
+91691;Yerres;91;eau potable : EP;324494;2024;80,8;17,1;71,6;79,3;conforme;3076373;482489;47;140;27906;Non vérifié
+91692;Les Ulis;91;eau potable : CPS 3 (Chilly-Mazarin, Les Ullis, Gif-sur-Yvette );208536;2024;94,2;10,1;163,3;85,0;conforme;648750;243834;26;62;25886;Non vérifié
