@@ -40,6 +40,15 @@
   #disclaimer a { color: var(--accent); }
   #loading { position: absolute; top: 60%; left: 50%; transform: translate(-50%,-50%);
              z-index: 1000; padding: 12px 20px; font-size: 14px; }
+  /* Barre de recherche de commune (haut-gauche) */
+  #recherche { position: absolute; top: 12px; left: 12px; z-index: 1000;
+               width: 260px; max-width: calc(100% - 24px); padding: 0; overflow: hidden; }
+  #recherche input { width: 100%; box-sizing: border-box; border: none; outline: none;
+                     padding: 9px 12px; font-size: 14px; border-radius: 6px; }
+  #suggestions { list-style: none; margin: 0; padding: 0; max-height: 240px; overflow-y: auto; }
+  #suggestions li { padding: 7px 12px; cursor: pointer; border-top: 1px solid #eee; font-size: 13px; }
+  #suggestions li:hover, #suggestions li.sel { background: var(--fond-doux); }
+  #suggestions li .dep { color: #888; font-size: 12px; }
   .leaflet-popup-content { font-size: 13px; line-height: 1.5; }
   .leaflet-popup-content b { font-size: 14px; }
 </style>
@@ -73,6 +82,11 @@
 <div class="carte-wrap">
   <div id="map"></div>
   <div id="loading" class="panel">Chargement de la carte…</div>
+
+  <div id="recherche" class="panel" style="display:none">
+    <input id="q" type="text" placeholder="🔍 Rechercher une commune…" autocomplete="off">
+    <ul id="suggestions"></ul>
+  </div>
 
   <div id="legende" class="panel" style="display:none">
     <b>Conformité au décret « fuites »</b>
@@ -134,6 +148,9 @@ Promise.all([
   document.getElementById("n-n").textContent = "(" + fmt(counts.N) + ")";
   document.getElementById("n-x").textContent = "(" + fmt(counts.X) + ")";
 
+  const layersByCode = {};   // code -> polygone Leaflet (pour zoomer/ouvrir)
+  const communes = [];       // index de recherche { nom, n(normalisé), code }
+
   const layer = L.geoJSON(geo, {
     style: f => {
       const d = data[f.properties.code];
@@ -153,15 +170,69 @@ Promise.all([
         `Volume perdu estimé : ~ ${fmt(d[VOLC])} m³/an<br>` +
         `Équivaut à environ : ~ ${fmt(d[PISC], 1)} piscines olympiques/an`;
       lyr.bindPopup(html);
+      layersByCode[code] = lyr;
+      communes.push({ nom: f.properties.nom, n: norm(f.properties.nom), code });
     },
   }).addTo(map);
 
   map.fitBounds(layer.getBounds());
   document.getElementById("loading").style.display = "none";
   document.getElementById("legende").style.display = "block";
+  setupSearch(communes, layersByCode);
 }).catch(err => {
   document.getElementById("loading").textContent = "Erreur de chargement : " + err;
 });
+
+// Retire accents + casse, pour une recherche tolérante ("st malo" ~ "Saint-Malo").
+function norm(s) {
+  return s.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+}
+
+function setupSearch(communes, layersByCode) {
+  const box = document.getElementById("recherche");
+  const input = document.getElementById("q");
+  const ul = document.getElementById("suggestions");
+  box.style.display = "block";
+  // Empêche les clics/scroll dans la boîte de déplacer la carte.
+  L.DomEvent.disableClickPropagation(box);
+  L.DomEvent.disableScrollPropagation(box);
+
+  function choisir(code) {
+    const lyr = layersByCode[code];
+    if (!lyr) return;
+    map.fitBounds(lyr.getBounds(), { maxZoom: 12 });
+    lyr.openPopup();
+    ul.innerHTML = "";
+    input.value = "";
+  }
+
+  input.addEventListener("input", () => {
+    const q = norm(input.value.trim());
+    ul.innerHTML = "";
+    if (q.length < 2) return;
+    // On privilégie les noms qui COMMENCENT par la requête, puis les plus courts.
+    const res = communes
+      .filter(c => c.n.includes(q))
+      .sort((a, b) =>
+        (a.n.startsWith(q) ? 0 : 1) - (b.n.startsWith(q) ? 0 : 1)
+        || a.nom.length - b.nom.length)
+      .slice(0, 8);
+    for (const c of res) {
+      const li = document.createElement("li");
+      li.innerHTML = `${c.nom} <span class="dep">(${c.code})</span>`;
+      li.addEventListener("click", () => choisir(c.code));
+      ul.appendChild(li);
+    }
+  });
+
+  // Entrée = sélectionner la première suggestion.
+  input.addEventListener("keydown", e => {
+    if (e.key === "Enter") {
+      const first = ul.querySelector("li");
+      if (first) first.click();
+    }
+  });
+}
 </script>
 </body>
 </html>
