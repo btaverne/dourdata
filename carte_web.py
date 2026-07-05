@@ -40,6 +40,10 @@ SOURCE_CSV = "rendements_national.csv"
 OUT_DIR = Path("docs")  # la carte (index.html) est en page d'accueil ; ses données à la racine
 GEOJSON_CACHE = Path(".cache/communes_france_simplifiee.geojson")
 
+# Base officielle des codes postaux (La Poste), pour la recherche par code postal.
+CP_URL = "https://datanova.laposte.fr/data-fair/api/v1/datasets/laposte-hexasmal/raw"
+CP_FILE = Path("data/codes_postaux.csv")
+
 SIMPLIFY = "5%"        # % de points conservés (Visvalingam)
 QUANTIZATION = 3000    # grille de quantization TopoJSON (compromis poids/précision)
 
@@ -47,7 +51,8 @@ QUANTIZATION = 3000    # grille de quantization TopoJSON (compromis poids/préci
 CONF_MAP = {"conforme": "C", "non conforme": "N", "non calculable": "X"}
 # Ordre des champs dans data.json (documenté aussi dans le fichier lui-même).
 CHAMPS = ["rendement_pct", "conformite(C/N/X)", "litres_hab_jour",
-          "jours_conso", "volume_pertes_commune_m3", "piscines_an", "annee"]
+          "jours_conso", "volume_pertes_commune_m3", "piscines_an", "annee",
+          "codes_postaux"]
 
 
 def ensure_mapshaper():
@@ -94,11 +99,34 @@ def build_topojson(join_csv: Path):
     subprocess.run(cmd, check=True)
 
 
+def load_codes_postaux() -> dict:
+    """Retourne {code_insee: "cp1 cp2 ..."} depuis la base officielle La Poste
+    (téléchargée dans data/ si absente). Une commune peut avoir plusieurs CP."""
+    import csv
+    if not CP_FILE.exists():
+        import requests
+        print("Téléchargement de la base des codes postaux...")
+        CP_FILE.parent.mkdir(exist_ok=True)
+        CP_FILE.write_bytes(requests.get(CP_URL, timeout=180).content)
+
+    cp = {}
+    with open(CP_FILE, encoding="utf-8", errors="replace") as f:
+        reader = csv.reader(f, delimiter=";")
+        next(reader, None)  # en-tête
+        for row in reader:
+            if len(row) >= 3 and row[0].strip() and row[2].strip():
+                cp.setdefault(row[0].strip(), set()).add(row[2].strip())
+    return {insee: " ".join(sorted(codes)) for insee, codes in cp.items()}
+
+
 def write_data_json(df: pd.DataFrame, path: Path):
-    """Données par commune, au format tableau compact (pas de clés répétées)."""
+    """Données par commune, au format tableau compact (pas de clés répétées).
+    Inclut les codes postaux pour permettre la recherche par CP sur la carte."""
+    cp = load_codes_postaux()
     data = {}
     for _, r in df.iterrows():
-        data[r["code_commune_insee"]] = [
+        insee = r["code_commune_insee"]
+        data[insee] = [
             _num(r["rendement_reseau_pct"], 1),
             CONF_MAP.get(r["conformite_decret_fuites"], "X"),
             _num(r["litres_perdus_hab_jour"]),
@@ -106,6 +134,7 @@ def write_data_json(df: pd.DataFrame, path: Path):
             _num(r["volume_pertes_commune_m3_an"]),
             _num(r["piscines_olympiques_an"], 1),
             _num(r["annee"]),
+            cp.get(insee, ""),
         ]
     payload = {"meta": {"champs": CHAMPS}, "communes": data}
     with open(path, "w", encoding="utf-8") as f:

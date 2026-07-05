@@ -84,7 +84,7 @@
   <div id="loading" class="panel">Chargement de la carte…</div>
 
   <div id="recherche" class="panel" style="display:none">
-    <input id="q" type="text" placeholder="🔍 Rechercher une commune…" autocomplete="off">
+    <input id="q" type="text" placeholder="🔍 Commune ou code postal…" autocomplete="off">
     <ul id="suggestions"></ul>
   </div>
 
@@ -115,8 +115,8 @@
 <script>
 const COULEURS = { C: "#1a9850", N: "#d73027", X: "#cccccc" };
 const STATUT = { C: "conforme", N: "non conforme", X: "non calculable" };
-// Ordre des champs dans data.json : [rend, conf, lhj, jours, volc, pisc, an]
-const R = 0, CONF = 1, LHJ = 2, JOURS = 3, VOLC = 4, PISC = 5, AN = 6;
+// Ordre des champs dans data.json : [rend, conf, lhj, jours, volc, pisc, an, cp]
+const R = 0, CONF = 1, LHJ = 2, JOURS = 3, VOLC = 4, PISC = 5, AN = 6, CP = 7;
 
 function fmt(n, dec = 0) {
   if (n === null || n === undefined) return "n.d.";
@@ -171,7 +171,7 @@ Promise.all([
         `Équivaut à environ : ~ ${fmt(d[PISC], 1)} piscines olympiques/an`;
       lyr.bindPopup(html);
       layersByCode[code] = lyr;
-      communes.push({ nom: f.properties.nom, n: norm(f.properties.nom), code });
+      communes.push({ nom: f.properties.nom, n: norm(f.properties.nom), code, cp: d[CP] || "" });
     },
   }).addTo(map);
 
@@ -207,19 +207,35 @@ function setupSearch(communes, layersByCode) {
   }
 
   input.addEventListener("input", () => {
-    const q = norm(input.value.trim());
+    const raw = input.value.trim();
     ul.innerHTML = "";
-    if (q.length < 2) return;
-    // On privilégie les noms qui COMMENCENT par la requête, puis les plus courts.
-    const res = communes
-      .filter(c => c.n.includes(q))
-      .sort((a, b) =>
-        (a.n.startsWith(q) ? 0 : 1) - (b.n.startsWith(q) ? 0 : 1)
-        || a.nom.length - b.nom.length)
-      .slice(0, 8);
+    if (raw.length < 2) return;
+
+    let res;
+    const codeNum = raw.replace(/\s/g, "");
+    if (/^\d+$/.test(codeNum)) {
+      // Requête numérique = code postal ou code INSEE.
+      res = communes
+        .filter(c => c.code.startsWith(codeNum)
+                  || c.cp.split(" ").some(p => p.startsWith(codeNum)))
+        .sort((a, b) => a.nom.length - b.nom.length)
+        .slice(0, 8);
+    } else {
+      // Requête texte = nom. On privilégie les noms qui COMMENCENT par la requête.
+      const q = norm(raw);
+      res = communes
+        .filter(c => c.n.includes(q))
+        .sort((a, b) =>
+          (a.n.startsWith(q) ? 0 : 1) - (b.n.startsWith(q) ? 0 : 1)
+          || a.nom.length - b.nom.length)
+        .slice(0, 8);
+    }
+
     for (const c of res) {
       const li = document.createElement("li");
-      li.innerHTML = `${c.nom} <span class="dep">(${c.code})</span>`;
+      // Affiche le code postal principal (plus parlant) ou, à défaut, le code INSEE.
+      const ref = c.cp ? c.cp.split(" ")[0] : c.code;
+      li.innerHTML = `${c.nom} <span class="dep">(${ref})</span>`;
       li.addEventListener("click", () => choisir(c.code));
       ul.appendChild(li);
     }
